@@ -1,0 +1,335 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "lebanon-mountains",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "madaba-plain",
+          "moab",
+          "edom",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Palestine, Lebanon, southern Syria and Transjordan, plus Sinai as part of Ottoman Egypt (from Jan 1517); control east of the Jordan and in the desert margins was loose."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-selim-i",
+            "locator": "main text",
+            "quote": "Selim defeated the Mamluk armies at the battles of Marj Dābiq (north of Aleppo; August 24, 1516) and Raydāniyyah (near Cairo; January 22, 1517), thus bringing Syria, Egypt, and Palestine under Ottoman rule."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades' (end)",
+            "quote": "on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq. Palestine began its four centuries under Ottoman domination."
+          },
+          {
+            "ref": "britannica-acre",
+            "locator": "paragraph 2",
+            "quote": "From 1516 to 1918 Acre was, except for brief intervals, under the rule of the Ottoman Turks."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'Ottoman rule'",
+            "quote": "Ottoman control in the 18th century was indirect."
+          }
+        ],
+        "notes": {
+          "en": "Indirect control in the 18th century; autonomous rulers in Galilee/Acre (see zahir-al-umar-galilee, jazzar-acre)."
+        },
+        "id": "ottoman-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1840,
+          "month": 12,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "madaba-plain",
+          "moab",
+          "edom",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Restored direct Ottoman rule after the Egyptian withdrawal; Tanzimat-era provinces. Karak and southern Transjordan administered from the 1890s; the Negev down to Aqaba under Jerusalem after the 1906 Ottoman-British boundary agreement (line from Rafah to the Gulf of Aqaba)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization in the Aftermath of Egyptian Withdrawal'",
+            "quote": "After the withdrawal of Muhammad Ali's army back to Egypt at the end of 1840"
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'Ottoman rule'",
+            "quote": "When in 1840 the British, the Austrians, and the Russians came to the aid of the Ottomans, the Egyptians were forced to withdraw, and Palestine reverted to the Ottoman Empire."
+          },
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 4",
+            "quote": "In 1840 Al-Karak was occupied by Ibrahim Pasha; it was administered by the Ottomans in the 1890s"
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Sanjaq of Jerusalem'",
+            "quote": "Consequently, the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba."
+          },
+          {
+            "ref": "britannica-muhammad-ali",
+            "locator": "foreign-policy paragraph",
+            "quote": "In 1841 he and his family were granted the hereditary right to rule Egypt and the Sudan, but his power was still subjected to restraints, and the sultan’s suzerain rights remained intact."
+          }
+        ],
+        "notes": {
+          "en": "Sinai excluded: administered with Egypt, under the hereditary rule of Muhammad Ali's family (Ottoman suzerainty) after 1841."
+        },
+        "id": "ottoman-empire-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "jezreel",
+          "samaria",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "lebanon-mountains",
+          "phoenician-coast"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "jordan-valley",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After the capture of Jerusalem (Dec 1917) Ottoman forces still held northern Palestine, Transjordan, Lebanon and Syria; 'The remaining area was occupied by the British by October 1918.'"
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-ww1",
+            "locator": "section 'World War I and after', paragraph 2",
+            "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+          }
+        ],
+        "notes": {
+          "en": "The front line of Dec 1917 - Sept 1918 is not mapped precisely."
+        },
+        "id": "ottoman-empire-3",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1917,
+          "month": 1,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1917,
+          "month": 11,
+          "precision": "month"
+        },
+        "units": [
+          "west-bank",
+          "east-jerusalem",
+          "golan-heights",
+          "syria",
+          "lebanon"
+        ],
+        "partial_units": [
+          "israel-1949",
+          "gaza-strip",
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Ottoman-held part of the map area in 1917 before the Gaza-Beersheba line broke: Palestine north of that line, plus Transjordan (Aqaba was taken by Faisal's Arab army in July 1917), the Golan, Syria and Lebanon."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "awm-beersheba",
+            "quote": "The British 20 Corps launched an attack on Beersheba at dawn on 31 October 1917."
+          },
+          {
+            "ref": "britannica-jordan-transjordan",
+            "quote": "In July 1917 the army of Prince Faisal ibn Hussein ... captured Al-ʿAqabah"
+          }
+        ],
+        "notes": {
+          "en": "Exact front lines not reconstructed; partial units are schematic. AWM: 'On 6 November, after severe fighting, Turkish forces began to withdraw from Gaza'."
+        },
+        "id": "ottoman-empire-4",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "golan-heights",
+          "syria",
+          "lebanon"
+        ],
+        "partial_units": [
+          "israel-1949",
+          "west-bank",
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After the fall of Jerusalem (Dec 1917) the Ottomans held northern Palestine (Galilee, Samaria) and most of Transjordan, the Golan, Syria and Lebanon until the Allied offensive of September 1918; by October 1918 the region was in Allied/Arab hands."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "un-dpr-origins-part1",
+            "locator": "Part I, ch. on the Mandate",
+            "quote": "Although formally still part of the Ottoman Empire, Palestine was under British military occupation since December 1917."
+          },
+          {
+            "ref": "anzac-memorial-megiddo",
+            "quote": "The battle of Megiddo occurred in Palestine between 19 and 25 September 1918."
+          },
+          {
+            "ref": "britannica-palestine-ww1",
+            "quote": "The remaining area was occupied by the British by October 1918."
+          },
+          {
+            "ref": "britannica-jordan-transjordan",
+            "quote": "by October 1918 Amman and Damascus were in Allied hands"
+          },
+          {
+            "ref": "britannica-faisal-i",
+            "quote": "An Arab military force occupied Damascus in September 1918"
+          }
+        ],
+        "notes": {
+          "en": "Britannica's Faisal I biography places the Arab occupation of Damascus in September 1918, its Jordan article says 'by October 1918'; the end month is given as October 1918 (Armistice of Mudros, 30 Oct 1918)."
+        },
+        "id": "ottoman-empire-5",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

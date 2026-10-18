@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "lordship-of-oultrejordain",
+        "start": {
+          "year": 1132,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1188,
+          "precision": "year",
+          "latest": 1189
+        },
+        "units": [
+          "moab",
+          "edom"
+        ],
+        "partial_units": [
+          "arabah",
+          "aqaba-hisma"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Transjordan south of the Dead Sea around the castles of Kerak (Krak du Désert) and Montréal (Shawbak); the Franks reached Aylah (Aqaba)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 3",
+            "quote": "Le Krak du Désert, a heavily fortified Crusader citadel, was built on the site of the ancient fortress in 1132; it fell to the Muslims in 1188"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states to 1187'",
+            "quote": "Reginald of Châtillon, lord of Kerak and Montréal, broke the truce with the Muslims by attacking a caravan."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "Though the Franks did push southward to Aylah (or Elim, modern Al-ʿAqabah), all attempts to move eastward failed"
+          }
+        ],
+        "id": "lordship-of-oultrejordain-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

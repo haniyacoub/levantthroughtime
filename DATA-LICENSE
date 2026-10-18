@@ -1,0 +1,19 @@
+Data licence
+
+The data compiled for this project in /data (records, descriptions, the
+schematic geographic units, translations) is licensed under the Creative
+Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Southern Levant Through Time" contributors, with the sources
+cited in data/sources.json.
+
+Exceptions and notes
+--------------------
+- Short quotations in "quote" fields are excerpts from the cited works,
+  included so readers can verify claims. They remain the property of their
+  authors and publishers and are not covered by CC BY.
+- data/geo/basemap/ and data/geo/modern-units.geojson are derived from
+  Natural Earth (public domain).
+- Files derived from share-alike sources will be listed here with their
+  licence (none at present).

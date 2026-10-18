@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "lodian-jericho-ix",
+        "start": {
+          "year": -5900,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -5800,
+          "circa": true,
+          "precision": "century",
+          "latest": -5450
+        },
+        "partial_units": [
+          "philistia",
+          "shephelah",
+          "jordan-valley",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Markers for sites where Lodian/Jericho IX assemblages are reported: Lod (central coastal plain), Teluliot Batashi (Shephelah), Jericho (Jordan Valley) and Hagoshrim level 5 (Hula valley). No regional boundary is given."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "gopher-1993-coastal-plain",
+            "locator": "chrono-cultural sequence",
+            "quote": "The Lodian (Jericho IX) of the coastal plain covering parts of the early 5th millennium B.C."
+          },
+          {
+            "ref": "banning-2007-wadi-rabah",
+            "locator": "section 'Jericho IX (Lodian) in the southern Levant'"
+          }
+        ],
+        "notes": {
+          "en": "Gopher's millennium is uncalibrated."
+        },
+        "id": "lodian-jericho-ix-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "idf-controlled-zone-gaza-2023",
+        "start": {
+          "year": 2023,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 2025,
+          "month": 10,
+          "day": 10,
+          "precision": "day"
+        },
+        "partial_units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Fluctuating areas of IDF ground operations and control (corridors, buffer zones, Rafah/Philadelphi from May 2024), with a partial pullback during the Jan-March 2025 ceasefire."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-israel-hamas-war",
+            "quote": "Soon after the authorization Israeli forces began moving to take control of the Rafah border crossing and the Philadelphi Corridor."
+          }
+        ],
+        "notes": {
+          "en": "Day of the main ground incursion (27 Oct 2023) is commonly cited but Britannica says only 'at the end of October'; precision set to month. Not to be drawn as a polygon."
+        },
+        "id": "idf-controlled-zone-gaza-2023-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "idf-controlled-zone-gaza-2023",
+        "start": {
+          "year": 2025,
+          "month": 10,
+          "day": 10,
+          "precision": "day"
+        },
+        "partial_units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "The eastern, northern and southern parts of Gaza behind the 'Yellow Line': about 53% at the ceasefire, later estimated at roughly 58-70% depending on source and definition (see notes)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "afp-2025-10-10-pullback",
+            "quote": "Israel's military would be redeployed to the so-called Yellow Line, as they gradually withdraw under a plan proposed by US President Donald Trump."
+          },
+          {
+            "ref": "ocha-hsu-357",
+            "quote": "The Israeli military remains deployed in over 50 per cent of the Gaza Strip north, west and south of the \"Yellow Line,\""
+          },
+          {
+            "ref": "jpost-2026-06-23-idf-control",
+            "quote": "The IDF has expanded its operational control to approximately 70% of the Gaza Strip"
+          },
+          {
+            "ref": "hrw-2026-10-10",
+            "quote": "The area within the Yellow Line now amounts to about 64 percent of the Gaza Strip"
+          },
+          {
+            "ref": "aljazeera-2026-10-12-yellow-line",
+            "quote": "According to OCHA, restrictions now cover 65 percent of Gaza."
+          },
+          {
+            "ref": "abc-au-2026-07-06-yellow-line",
+            "quote": "Israel now controls 60 per cent of Gaza, its military has confirmed, up from the 53 per cent agreed to in last year's ceasefire negotiations."
+          }
+        ],
+        "notes": {
+          "en": "Deliberately no polygon. The 65% OCHA figure was seen only as reported by Al Jazeera; the OCHA document itself was not located."
+        },
+        "id": "idf-controlled-zone-gaza-2023-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

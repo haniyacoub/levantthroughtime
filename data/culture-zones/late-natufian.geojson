@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "late-natufian",
+        "start": {
+          "year": -10550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -9800,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "carmel-sharon",
+          "jordan-valley",
+          "negev-south"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "lower-galilee",
+          "sinai"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Final Natufian in the Mediterranean zone, plus the Harifian variant in the Negev and Sinai, which lasted about 750 years before its people abandoned the arid margins."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "Table 1; 'Setting the Stage: The Natufian'",
+            "quote": "with the Negev/Sinai local variant of the Final Natufian, the Harifian (Goring-Morris 1991), lasting a mere 750 years"
+          }
+        ],
+        "id": "late-natufian-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jerusalem-city-state",
+        "start": {
+          "year": -1900,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1551,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "judea"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Middle Bronze: southern highland body centred on Jerusalem (Execration Texts)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 17"
+          }
+        ],
+        "id": "jerusalem-city-state-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jerusalem-city-state",
+        "start": {
+          "year": -1550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1000,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "judea"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Late Bronze highland city-state of Jerusalem (Abdi-Heba in the 14th century). Extent not given in the sources consulted; shown as part of the Judean hills."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 17 n. 1"
+          }
+        ],
+        "id": "jerusalem-city-state-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

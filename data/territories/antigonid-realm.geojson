@@ -1,0 +1,66 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "antigonid-realm",
+        "start": {
+          "year": -315,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -301,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast"
+        ],
+        "partial_units": [
+          "golan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "\"Syria\" under Antigonus, assumed here to include Palestine and Phoenicia; contested with Ptolemy, esp. 312–311 and 302–301."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-antigonus-i",
+            "locator": "first coalition war",
+            "quote": "Antigonus occupied Syria and proclaimed himself regent."
+          },
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Ptolemies",
+            "quote": "After the death of Alexander in 323 bce, Palestine, with much of Syria and Phoenicia, fell to Ptolemy I (Soter)"
+          }
+        ],
+        "notes": {
+          "en": "The two sources give different simplified pictures of 323–301; marked contested."
+        },
+        "id": "antigonid-realm-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

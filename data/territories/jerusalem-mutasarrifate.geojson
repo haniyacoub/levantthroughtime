@@ -1,0 +1,116 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jerusalem-mutasarrifate",
+        "start": {
+          "year": 1872,
+          "precision": "year",
+          "latest": 1874
+        },
+        "end": {
+          "year": 1906,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "negev-north"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "negev-south",
+          "arabah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Jerusalem with the districts of Gaza, Jaffa and Hebron (Beersheba district added 1899/1900). British consul (1900): bounded on the north by a line from the mouth of the Auja (Yarkon) to the Jordan bridge near Jericho; east by the Jordan and Dead Sea; south and south-west 'less clear-cut'."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "p. 39",
+            "quote": "Thus Jerusalem with the districts of Gaza, Jaffa and Hebron only formed the “sanjak of Kudus.” It stayed so until World War I."
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "n. 27 (pp. 43-44)",
+            "quote": "bounded on the north by a line which may be said to run from the coast of the Mediterranean near the mouth of the river Auja [Yarkon] eastward…to the bridge over the Jordan near Jericho"
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "pp. 39-40",
+            "quote": "A year later (1899) an irade was issued by the Sultan authorizing the establishment of the district of Beer Sheba into a qadā’"
+          }
+        ],
+        "notes": {
+          "en": "Abu-Manneh dates the Beersheba qada to an 1899 irade; PalQuest dates the founding of the township of Bir al-Sabi' to 1900."
+        },
+        "id": "jerusalem-mutasarrifate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jerusalem-mutasarrifate",
+        "start": {
+          "year": 1906,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "units": [
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "negev-north",
+          "negev-south"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "arabah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After the 1906 Ottoman-British agreement fixing the line from Rafah to the Gulf of Aqaba, 'the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba.'"
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Sanjaq of Jerusalem'",
+            "quote": "Consequently, the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "Conclusion",
+            "quote": "the Ottomans separated in 1906 the Qada (subdistrict) of Nazareth from the Sanjaq of Acre and appended it to the Sanjaq of Jerusalem."
+          },
+          {
+            "ref": "britannica-palestine-ww1",
+            "locator": "section 'World War I and after', paragraph 2",
+            "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+          }
+        ],
+        "notes": {
+          "en": "Nazareth sub-district attached 1906-1908 (not mapped). Southern parts fell to British forces in late 1917 before Jerusalem (dates not verified here)."
+        },
+        "id": "jerusalem-mutasarrifate-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

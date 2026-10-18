@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "all-palestine-government",
+        "start": {
+          "year": 1948,
+          "month": 9,
+          "day": 22,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1948,
+          "month": 10,
+          "precision": "month"
+        },
+        "partial_units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Nominal authority in the Egyptian-held enclave around Gaza; claimed all of Palestine. After October 1948 it held no territory."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "shlaim-1990-apg",
+            "locator": "p. 48",
+            "quote": "Indeed, by the end of October no members of the All-Palestine Government remained in Gaza."
+          }
+        ],
+        "notes": {
+          "en": "Overlaps the Egyptian administration of Gaza (client relation)."
+        },
+        "id": "all-palestine-government-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

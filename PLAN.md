@@ -176,7 +176,7 @@ Warnings, collected into `/data/REVIEW.md` in Milestone 8:
 | `config.json` | Timeline bounds, `as_of` date, tolerance settings | |
 | `eras.json` | Slider segments (§4.2) and era labels | `weight`, `step`, `map_mode`, `label` |
 | `sources.json` | Bibliography | `type`, citation fields, `url`, `license`, `verification`, `kind` (academic / government / NGO / UN / press / religious-institution), `institution_country` |
-| `areas.geojson` | Reference areas used by statistics: core area (§5.4), Mandate Palestine, Israel as counted by its Central Bureau of Statistics, West Bank incl. East Jerusalem, Gaza Strip, Persian Yehud, Jerusalem city, … | `definition`, `sources` |
+| `areas.json` | Reference areas used by statistics (written definitions; shapes added in M3): core area (§5.4), Mandate Palestine, Israel as counted by its Central Bureau of Statistics, West Bank incl. East Jerusalem, Gaza Strip, Persian Yehud, Jerusalem city, … | `definition`, `sources` |
 | `polities.json` | States, empires, kingdoms, provinces, city-states | `kind`, `relations[]` (each relation has `type`: vassal / client / province / tributary / occupied / mandate, `overlord`, start, end, sources), `color_key` |
 | `territories/<polity>.geojson` | One file per polity. Each feature is a time slice of that polity's extent | `start`, `end`, `boundary_certainty` (`surveyed` / `approximate` / `schematic` / `contested`), `geometry_method` (`imported` / `traced-from-map` / `from-text-description` / `buffer-around-sites`), `method_note` |
 | `cultures.json` + `culture-zones/<culture>.geojson` | Pre-state archaeological cultures (Natufian, PPNA/PPNB, Yarmukian, Ghassulian, …) and their zones | as territories |
@@ -197,7 +197,7 @@ Warnings, collected into `/data/REVIEW.md` in Milestone 8:
 ### 5.4 Population, specifically
 
 - Each point: `area`, `date`, `total` (range), optional `composition` by `religion` or `ethnicity`. Each has its own sources and confidence, and each group within a composition can have a different confidence.
-- **The core area** is defined geometrically in `areas.geojson` as the land of present-day Israel, the West Bank and the Gaza Strip, which is close to the Mandate Palestine boundary. Any total for this area combined from Israeli and Palestinian statistics must be a `derived` record, because the two bureaus overlap. These counting rules are confirmed from each bureau's own documentation:
+- **The core area** is defined in `areas.json` as the land of present-day Israel, the West Bank and the Gaza Strip, which is close to the Mandate Palestine boundary. Any total for this area combined from Israeli and Palestinian statistics must be a `derived` record, because the two bureaus overlap. These counting rules are confirmed from each bureau's own documentation:
   - Israel's Central Bureau of Statistics counts East Jerusalem residents since 1967, the Golan population since 1982, and Israeli localities in the West Bank since 1972. The Golan was never part of Mandate Palestine. (*Statistical Abstract of Israel 2019*, ch. 2 introduction.)
   - The Palestinian Central Bureau of Statistics includes East Jerusalem (its "J1" area) in its totals, estimating it by a separate method. (2017 census preliminary results.)
   - So adding the two double-counts East Jerusalem's Palestinians and wrongly includes the Golan. The derivation subtracts both explicitly. Whether the Palestinian figures exclude settlers still has to be confirmed before any sum is published.
@@ -222,7 +222,7 @@ Warnings, collected into `/data/REVIEW.md` in Milestone 8:
 ├── LICENSE (code), DATA-LICENSE (data; see §13)
 ├── data/                      ← everything historical; see data/README.md
 │   ├── README.md, REVIEW.md (M8)
-│   ├── config.json, eras.json, sources.json, areas.geojson, palette.json
+│   ├── config.json, eras.json, sources.json, areas.json, palette.json
 │   ├── polities.json, territories/*.geojson
 │   ├── cultures.json, culture-zones/*.geojson
 │   ├── places.json, groups.json, population.json
@@ -323,7 +323,7 @@ Notes on a few features:
 
 - UI strings in `src/i18n/locales/{en,ar,he}.json`. Content text in `/data` as described in §5.1.
 - `dir="rtl"` on the document for Arabic and Hebrew. CSS uses logical properties (start/end rather than left/right), so the layout mirrors automatically.
-- **The timeline also runs right-to-left in RTL languages** (earliest on the right), like video players in those languages. The chart and ruler bands mirror with it so they stay aligned. The map itself never mirrors.
+- **The timeline also runs right-to-left in RTL languages** (earliest on the right), following the reading direction. Conventions differ here (some interfaces keep time axes left-to-right even in RTL), so this is flagged for the Arabic and Hebrew reviewers. The chart and ruler bands mirror with it so they stay aligned. The map itself never mirrors.
 - Machine-drafted text gets a small "machine-translated draft — not yet reviewed" notice on the block it applies to. I'll do the first-pass Arabic and Hebrew drafts and mark them `machine-draft`. They must be reviewed by fluent readers before a public launch, especially for proper names and contested terms.
 - Numbers and dates are formatted per locale with `Intl`. Era wording:
   - English: "BCE/CE".

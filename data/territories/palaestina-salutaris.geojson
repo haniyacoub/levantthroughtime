@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palaestina-salutaris",
+        "start": {
+          "year": 357,
+          "circa": true,
+          "precision": "year",
+          "latest": 390
+        },
+        "end": {
+          "year": 636,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "negev-south",
+          "arabah",
+          "edom",
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "negev-north",
+          "sinai",
+          "moab"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Idumaea and Arabia Petraea: Negev, Arabah, southern Transjordan, most of Sinai."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 26",
+            "quote": "Palaestina Tertia, or Salutaris, including Idumaea and Arabia Petraea"
+          },
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "and Salutaris, with its capital at Petra or possibly for a time at Elusa"
+          }
+        ],
+        "id": "palaestina-salutaris-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tetrarchy-of-philip",
+        "start": {
+          "year": -4,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 34,
+          "precision": "year"
+        },
+        "units": [
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Trachonitis, Batanaea and Auranitis, between the Decapolis and Damascus (Iturea also bequeathed to Philip per the Jewish Encyclopedia)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "Philip should rule Trachonitis, Batanaea, and Auranitis (the area between the Decapolis and Damascus)"
+          },
+          {
+            "ref": "jewish-encyclopedia-iturea",
+            "locator": "entry",
+            "quote": "Augustus gave Iturea to Herod the Great, who in turn bequeathed it to his son Philip"
+          }
+        ],
+        "id": "tetrarchy-of-philip-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

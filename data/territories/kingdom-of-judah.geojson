@@ -1,0 +1,123 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-judah",
+        "start": {
+          "year": -931,
+          "circa": true,
+          "precision": "decade",
+          "latest": -922
+        },
+        "end": {
+          "year": -851,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "judea",
+          "shephelah"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Early Judah per Garfinkel et al.: Jerusalem and the hill country with a fortified Lachish (Level V) and Socoh and Azekah in the Shephelah from c. 930. Low-chronology scholars date this expansion later. Mizpah passed from Israel to Judah only in the second half of the 9th century (Finkelstein)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "garfinkel-2019-lachish",
+            "locator": "p. 15"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 108-109"
+          }
+        ],
+        "id": "kingdom-of-judah-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-judah",
+        "start": {
+          "year": -850,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -701,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "shephelah",
+          "negev-north",
+          "judean-desert"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "From the mid-9th century Judah included the Beersheba Valley, with Lachish central in the kingdom."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "garfinkel-2019-lachish",
+            "locator": "p. 16"
+          }
+        ],
+        "id": "kingdom-of-judah-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-judah",
+        "start": {
+          "year": -700,
+          "precision": "year"
+        },
+        "end": {
+          "year": -587,
+          "circa": true,
+          "precision": "year",
+          "latest": -586
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "negev-north"
+        ],
+        "partial_units": [
+          "shephelah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After Sennacherib's 701 campaign (Lachish destroyed, heavy tribute) to the Babylonian destruction. Britannica's claim that Josiah (c. 640-609) regained 'much of the ancient territory of united Israel' rests on the biblical account and is not mapped."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "Assyrian and Babylonian rule",
+            "quote": "during which much of the ancient territory of united Israel was brought back under the rule of the Davidic dynasty"
+          },
+          {
+            "ref": "britannica-mesopotamia-neo-assyrian",
+            "locator": "Sennacherib"
+          }
+        ],
+        "id": "kingdom-of-judah-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

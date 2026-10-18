@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "book",
+              "article",
+              "chapter",
+              "web",
+              "dataset",
+              "document",
+              "map",
+              "census",
+              "report",
+              "thesis"
+            ]
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "editors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "container": {
+            "type": "string"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "place": {
+            "type": "string"
+          },
+          "year": {
+            "type": [
+              "string",
+              "number"
+            ]
+          },
+          "volume": {
+            "type": [
+              "string",
+              "number"
+            ]
+          },
+          "issue": {
+            "type": [
+              "string",
+              "number"
+            ]
+          },
+          "pages": {
+            "type": "string"
+          },
+          "edition": {
+            "type": "string"
+          },
+          "isbn": {
+            "type": "string"
+          },
+          "doi": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "accessed": {
+            "type": "string"
+          },
+          "license": {
+            "type": "string"
+          },
+          "verification": {
+            "type": "object",
+            "properties": {
+              "level": {
+                "type": "string",
+                "enum": [
+                  "full-text",
+                  "excerpt",
+                  "catalogue-only",
+                  "cited-via"
+                ]
+              },
+              "checked_on": {
+                "type": "string",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+              },
+              "note": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "level",
+              "checked_on"
+            ],
+            "additionalProperties": false
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "academic",
+              "government",
+              "un",
+              "ngo",
+              "press",
+              "reference",
+              "religious-institution"
+            ]
+          },
+          "institution_country": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "type",
+          "title",
+          "verification",
+          "kind"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "sources"
+  ],
+  "additionalProperties": false
+}

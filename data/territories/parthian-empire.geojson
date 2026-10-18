@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "parthian-empire",
+        "start": {
+          "year": -40,
+          "precision": "year"
+        },
+        "end": {
+          "year": -38,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "damascus",
+          "golan",
+          "gilead"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Parthian occupation of Palestine (and Syria) after the invasion of 40 BCE; Roman troops expelled them after Herod's return in 39."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "returned to Palestine in 39. Shortly afterward Roman troops expelled the Parthians"
+          }
+        ],
+        "id": "parthian-empire-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

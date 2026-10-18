@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-golan",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "day": 10,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1981,
+          "month": 12,
+          "day": 14,
+          "precision": "day"
+        },
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Israeli-held Golan west of the 10 June 1967 ceasefire line, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-golan-heights",
+            "quote": "the Israeli-Syrian armistice line of June 10, 1967, which was later modified by the separation of forces agreement of May 31, 1974."
+          },
+          {
+            "ref": "un-sg-report-s-2000-460",
+            "locator": "para. 17",
+            "quote": "these farmlands lie in an area occupied by Israel since 1967"
+          }
+        ],
+        "notes": {
+          "en": "During the October 1973 war Israel temporarily advanced beyond the Golan into Syria (Britannica Arab-Israeli wars); not modelled."
+        },
+        "id": "israeli-military-government-golan-1",
+        "geometry_method": "units",
+        "units": [
+          "golan-heights",
+          "shebaa-farms"
+        ]
+      }
+    }
+  ]
+}

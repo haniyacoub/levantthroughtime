@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-gaza",
+        "start": {
+          "year": 1300,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "units": [
+          "philistia"
+        ],
+        "partial_units": [
+          "shephelah",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "'the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl' (Amitai 2017)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "Gaza was the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl."
+          },
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 11 (PDF p. 13)",
+            "quote": "according to al-Safadi: it included Jerusalem, Hebron, Nablus, Qāqūn, Ludd and Ramla."
+          }
+        ],
+        "notes": {
+          "en": "Temporary enlargement in the 1310s (Jerusalem, Hebron, Nablus) not mapped."
+        },
+        "id": "mamluk-niyaba-gaza-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "idumea-persian",
+        "start": {
+          "year": -539,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "partial_units": [
+          "judea",
+          "negev-north",
+          "shephelah"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "The 'Idumaean region in the Hebron mountain area' with the Beersheba region and Maresha in the southern Shephelah (Maresha a 'purely Edomite city' by the mid-3rd century)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "pp. 11, 16"
+          },
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Persian empire"
+          }
+        ],
+        "id": "idumea-persian-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

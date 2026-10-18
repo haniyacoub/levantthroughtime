@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sidon",
+        "start": {
+          "year": -3000,
+          "circa": true,
+          "precision": "millennium"
+        },
+        "end": {
+          "year": -540,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Sidon and its hinterland on the central Phoenician coast."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-sidon",
+            "locator": "article"
+          }
+        ],
+        "id": "sidon-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sidon",
+        "start": {
+          "year": -539,
+          "precision": "year"
+        },
+        "end": {
+          "year": -333,
+          "circa": true,
+          "precision": "year",
+          "latest": -332
+        },
+        "partial_units": [
+          "phoenician-coast",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Persian period: Sidon and, according to Stern, coastal towns of Palestine subject to the king of Sidon (specific towns not named in the passage read)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "p. 12"
+          }
+        ],
+        "id": "sidon-2",
+        "geometry_method": "units",
+        "notes": {
+          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        }
+      }
+    }
+  ]
+}

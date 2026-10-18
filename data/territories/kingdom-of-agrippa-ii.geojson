@@ -1,0 +1,77 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-agrippa-ii",
+        "start": {
+          "year": 50,
+          "precision": "year"
+        },
+        "end": {
+          "year": 53,
+          "precision": "year"
+        },
+        "partial_units": [
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Chalcis in southern Lebanon."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-herod-agrippa-ii",
+            "locator": "article",
+            "quote": "Two years later he became king of Chalcis"
+          }
+        ],
+        "id": "kingdom-of-agrippa-ii-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-agrippa-ii",
+        "start": {
+          "year": 53,
+          "precision": "year"
+        },
+        "end": {
+          "year": 93,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lower-galilee",
+          "jordan-valley",
+          "gilead"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Philip's former holdings (Batanaea, Trachonitis etc.), plus from 54 territory near the Sea of Galilee; enlarged again after 70."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-herod-agrippa-ii",
+            "locator": "article",
+            "quote": "in 53 he exchanged this land for Philip the Tetrarch’s former holdings. Nero, the new emperor, in 54 added territory near the Sea of Galilee"
+          }
+        ],
+        "id": "kingdom-of-agrippa-ii-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

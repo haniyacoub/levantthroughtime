@@ -1,0 +1,156 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "neo-babylonian-empire",
+        "start": {
+          "year": -604,
+          "precision": "year"
+        },
+        "end": {
+          "year": -588,
+          "precision": "year"
+        },
+        "units": [
+          "philistia",
+          "samaria",
+          "jezreel",
+          "lower-galilee",
+          "damascus"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "carmel-sharon",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After the 604 campaign: Ashkelon captured, Philistine cities absorbed, former Assyrian provinces taken over. Judah, Ammon, Moab, Edom and the Phoenician cities appear as vassals or are left out where undocumented."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-nebuchadnezzar-ii",
+            "locator": "campaigns"
+          },
+          {
+            "ref": "britannica-philistine",
+            "locator": "article"
+          },
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "p. 56 n. 25"
+          }
+        ],
+        "id": "neo-babylonian-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "neo-babylonian-empire",
+        "start": {
+          "year": -587,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -583,
+          "precision": "year"
+        },
+        "units": [
+          "philistia",
+          "samaria",
+          "jezreel",
+          "lower-galilee",
+          "damascus",
+          "judea",
+          "shephelah",
+          "judean-desert",
+          "negev-north",
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "carmel-sharon",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Adds the former kingdom of Judah after the destruction of Jerusalem (587/586)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-nebuchadnezzar-ii",
+            "locator": "campaigns"
+          },
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "Assyrian and Babylonian rule"
+          }
+        ],
+        "id": "neo-babylonian-empire-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "neo-babylonian-empire",
+        "start": {
+          "year": -582,
+          "precision": "year"
+        },
+        "end": {
+          "year": -539,
+          "precision": "year"
+        },
+        "units": [
+          "philistia",
+          "samaria",
+          "jezreel",
+          "lower-galilee",
+          "damascus",
+          "judea",
+          "shephelah",
+          "judean-desert",
+          "negev-north",
+          "jordan-valley",
+          "moab",
+          "madaba-plain"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "carmel-sharon",
+          "upper-galilee",
+          "edom"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Adds Moab (conquered 582). Edom is partial: Nabonidus' campaign is dated 553-551. Ammon's status is undocumented and is left out."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-moab",
+            "locator": "article"
+          },
+          {
+            "ref": "crowell-2007-edom",
+            "locator": "p. 85"
+          }
+        ],
+        "id": "neo-babylonian-empire-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

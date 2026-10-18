@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "assyrian-province-galaza",
+        "start": {
+          "year": -733,
+          "circa": true,
+          "precision": "year",
+          "latest": -732
+        },
+        "end": {
+          "year": -630,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "gilead"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Gilead, if it was organised as a separate province rather than attached to Qarninu."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "p. 53 n. 3"
+          }
+        ],
+        "id": "assyrian-province-galaza-1",
+        "geometry_method": "units",
+        "notes": {
+          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        }
+      }
+    }
+  ]
+}

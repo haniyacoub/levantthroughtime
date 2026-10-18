@@ -1,0 +1,132 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "abbasid-caliphate",
+        "start": {
+          "year": 750,
+          "precision": "year"
+        },
+        "end": {
+          "year": 878,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole map area under Abbasid governors."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Abbasid rule",
+            "quote": "Along with Syria, Palestine became subject to Abbasid authority, based in Baghdad"
+          }
+        ],
+        "id": "abbasid-caliphate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "abbasid-caliphate",
+        "start": {
+          "year": 905,
+          "precision": "year"
+        },
+        "end": {
+          "year": 935,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Abbasid authority briefly restored after the Tulunids."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Abbasid rule",
+            "quote": "After Abbasid authority was briefly restored, Palestine came under Ikhshīdid rule (935–969)."
+          },
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Abbasid rule",
+            "quote": "the destructive operations of the Qarmaṭians, an Ismāʿīlī Shiʿi sect that launched an insurrection in 903–906"
+          }
+        ],
+        "notes": {
+          "en": "Qarmatian raids 903–906 not modelled as territory."
+        },
+        "id": "abbasid-caliphate-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

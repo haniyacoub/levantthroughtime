@@ -1,0 +1,134 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jordan",
+        "start": {
+          "year": 1946,
+          "month": 5,
+          "day": 25,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1948,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Transjordan (East Bank)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "kinghussein-transjordan-history",
+            "quote": "On March 22, 1946, Abdullah negotiated a new Anglo-Transjordanian treaty, ending the British mandate and gaining full independence for Transjordan."
+          }
+        ],
+        "id": "jordan-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jordan",
+        "start": {
+          "year": 1948,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "East Bank plus the West Bank and East Jerusalem: held by the Arab Legion from May 1948, bounded by the 3 April 1949 armistice, and annexed ('union') on 24 April 1950. The annexation had very limited recognition."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-west-bank",
+            "quote": "the West Bank was formally annexed by Jordan on April 24, 1950, although this annexation was recognized only by Great Britain and Pakistan."
+          },
+          {
+            "ref": "un-armistice-israel-jordan-1949",
+            "locator": "title page",
+            "quote": "Rhodes, 3 April 1949"
+          },
+          {
+            "ref": "hansard-1950-04-27-jordan-israel",
+            "locator": "c. 1138",
+            "quote": "pending a final determination of the status of this area, they are unable to recognise Jordan sovereignty over any part of it. They do, however, recognise that Jordan exercises de facto authority"
+          },
+          {
+            "ref": "frus-1950-v05-d457",
+            "quote": "our American attitude was that normally we had no objection whatever to the union of people who were mutually desirous of this new relationship."
+          },
+          {
+            "ref": "israel-mfa-settlements-2015",
+            "quote": "Jordanian occupation - which resulted from their illegal armed invasion of Israel in 1948 and was never recognized internationally as legitimate"
+          }
+        ],
+        "notes": {
+          "en": "Recognition: Britain recognised the union (24 April 1950 act) but not Jordanian sovereignty over its part of Jerusalem, recognising only de facto authority there (Hansard, 27 April 1950); Britannica states only Britain and Pakistan recognised the annexation and that 'the Arab countries and most of the world opposed the king's action'; the US Secretary of State was non-committal (FRUS 1950). Israel's government describes the 1948-67 period as a 'Jordanian occupation'. Jordanian sources describe a union voted by a parliament in which West Bank Palestinians were equally represented (King Hussein site, 1988 speech introduction). The Jericho Congress of 1 Dec 1948 preceded the union (Shlaim 1990). Mount Scopus (Israeli exclave) and the no-man's-land strips were excluded. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not. The 1950 annexation of the West Bank had very limited international recognition."
+        },
+        "id": "jordan-2",
+        "geometry_method": "units",
+        "contested_units": [
+          "west-bank",
+          "east-jerusalem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jordan",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "transjordan"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "East Bank only after the June 1967 war; Jordan maintained its claim to the West Bank until the disengagement of 31 July 1988."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "kinghussein-1988-disengagement",
+            "locator": "introduction",
+            "quote": "on July 31 he announced the severance of all administrative and legal ties - with the exception of guardianship over the Muslim Holy Sites of Jerusalem - with the occupied West Bank."
+          },
+          {
+            "ref": "britannica-jordan-renouncing",
+            "quote": "Hussein renounced all Jordanian claims to the West Bank, allowing the PLO to assume full responsibility there."
+          }
+        ],
+        "notes": {
+          "en": "Britannica describes the West Bank as 'claimed from 1949 to 1988 as part of the Hashemite Kingdom of Jordan'."
+        },
+        "id": "jordan-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

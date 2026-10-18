@@ -1,0 +1,90 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "france",
+        "start": {
+          "year": 1920,
+          "month": 7,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "units": [
+          "syria",
+          "lebanon"
+        ],
+        "partial_units": [
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "French-controlled Syria and Lebanon after the expulsion of Faisal (July 1920); a triangle of the Golan was assigned to British Palestine until March 1923."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-syria-french-mandate",
+            "quote": "a French ultimatum demanding Syrian recognition of the mandate was followed by a French occupation and the expulsion in July of Faisal"
+          }
+        ],
+        "notes": {
+          "en": "The coast (incl. Beirut) had been under French military administration since late 1918 (Britannica: 'The French took over the coast'); not modelled separately."
+        },
+        "id": "france-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "france",
+        "start": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1946,
+          "month": 4,
+          "precision": "month"
+        },
+        "units": [
+          "syria",
+          "golan-heights"
+        ],
+        "partial_units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "French Mandate for Syria (incl. the whole Golan after the 1923 boundary agreement) and Lebanon (independence proclaimed Nov 1943; French and British troops withdrawn from Syria by April 1946 and from Lebanon by the end of 1946)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "ecf-paulet-newcombe",
+            "quote": "left the entirety of the Golan Heights under French control, while the Sea of Galilee was given to Palestine"
+          },
+          {
+            "ref": "britannica-syria-french-mandate",
+            "quote": "Withdrawal from Syria was completed by April 1946."
+          }
+        ],
+        "notes": {
+          "en": "Syria 1941-1946 was jointly occupied by British and Free French forces (Britannica)."
+        },
+        "id": "france-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

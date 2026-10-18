@@ -1,0 +1,113 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tyre",
+        "start": {
+          "year": -2000,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -931,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Island city and mainland settlement on the southern Phoenician coast."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-tyre",
+            "locator": "history"
+          }
+        ],
+        "id": "tyre-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tyre",
+        "start": {
+          "year": -930,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -885,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "phoenician-coast",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Southern Phoenician coast; in the early Iron IIA the mountainous Galilee was 'ruled by Damascus and the Phoenician cities' (Finkelstein)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 78"
+          },
+          {
+            "ref": "britannica-tyre",
+            "locator": "history"
+          }
+        ],
+        "id": "tyre-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tyre",
+        "start": {
+          "year": -884,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "partial_units": [
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Southern Phoenician coast (Tyre and its mainland). Israel's Omride forts (Har Adir) faced Tyre in the 9th century."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-tyre",
+            "locator": "history"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 109"
+          }
+        ],
+        "id": "tyre-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "maccabean-revolt",
+        "start": {
+          "year": -167,
+          "precision": "year"
+        },
+        "end": {
+          "year": -142,
+          "precision": "year"
+        },
+        "partial_units": [
+          "judea",
+          "judean-desert",
+          "shephelah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Areas of the Judean hills held by the rebels, fluctuating; Seleucid garrison in the Jerusalem Akra until 141."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Seleucids",
+            "quote": "after three years of intermittent warfare he succeeded in purifying the Temple (165 bce)"
+          }
+        ],
+        "id": "maccabean-revolt-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "herodian-kingdom",
+        "start": {
+          "year": -37,
+          "precision": "year"
+        },
+        "end": {
+          "year": -30,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "lower-galilee",
+          "shephelah"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "jordan-valley",
+          "gilead",
+          "madaba-plain",
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Judea, Samaria, Galilee, Idumea and Peraea; Cleopatra obtained some of Herod's best land (incl. the Jericho balsam groves) from Antony."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-herod",
+            "locator": "Antony and Cleopatra",
+            "quote": "used her influence with Antony to gain much of Herod’s best land"
+          },
+          {
+            "ref": "britannica-ptolemaic-dynasty",
+            "locator": "Cleopatra VII",
+            "quote": "even the rich balsam groves of Jericho"
+          }
+        ],
+        "id": "herodian-kingdom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "herodian-kingdom",
+        "start": {
+          "year": -30,
+          "precision": "year"
+        },
+        "end": {
+          "year": -23,
+          "circa": true,
+          "precision": "year",
+          "latest": -20
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "lower-galilee",
+          "shephelah",
+          "jordan-valley",
+          "carmel-sharon",
+          "jezreel"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "philistia",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Octavian/Augustus restored the land Cleopatra had taken and the Jewish territories Pompey had removed (incl. coastal cities)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-herod",
+            "locator": "Augustus",
+            "quote": "He also restored to Herod the land Cleopatra had taken."
+          },
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "Between 31 and 20, Augustus restored to Herod the Jewish territories that Pompey had taken away"
+          }
+        ],
+        "id": "herodian-kingdom-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "herodian-kingdom",
+        "start": {
+          "year": -23,
+          "circa": true,
+          "precision": "year",
+          "latest": -20
+        },
+        "end": {
+          "year": -4,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "lower-galilee",
+          "upper-galilee",
+          "shephelah",
+          "jordan-valley",
+          "carmel-sharon",
+          "jezreel",
+          "golan",
+          "bashan"
+        ],
+        "partial_units": [
+          "negev-north",
+          "philistia",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Further enlarged east of the Jordan and the Sea of Galilee (Trachonitis, Batanaea, Auranitis/Hauran, Gaulanitis, Paneas)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-herod",
+            "locator": "Augustus",
+            "quote": "He twice increased Herod’s territory, in the years 22 and 20 bce, so that it came to include areas to the east of the Jordan River and the Sea of Galilee."
+          },
+          {
+            "ref": "dar-nabateans-hauran",
+            "locator": "Historical Background",
+            "quote": "From 23 BCE, when Augustus awarded Herod control of the Hauran"
+          }
+        ],
+        "notes": {
+          "en": "Britannica gives 22 and 20 BCE, Dar 23 BCE for the Hauran grant."
+        },
+        "id": "herodian-kingdom-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

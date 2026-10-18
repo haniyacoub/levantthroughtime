@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palaestina-secunda",
+        "start": {
+          "year": 395,
+          "circa": true,
+          "precision": "decade",
+          "latest": 409
+        },
+        "end": {
+          "year": 636,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee",
+          "jezreel"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "jordan-valley",
+          "golan",
+          "gilead"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "The two Galilees and the western part of Peraea; capital Scythopolis."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 26",
+            "quote": "Palaestina Secunda, with Scythopolis (Beth Shean, Baisan) for its capital, comprising the two Galilees and the western part of Peraea"
+          }
+        ],
+        "id": "palaestina-secunda-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "wadi-rabah",
+        "start": {
+          "year": -5813,
+          "circa": true,
+          "precision": "century",
+          "latest": -5708
+        },
+        "end": {
+          "year": -5296,
+          "circa": true,
+          "precision": "century",
+          "latest": -5166
+        },
+        "units": [
+          "carmel-sharon",
+          "jezreel",
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "acre-plain",
+          "lower-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Dated Wadi Rabah sites and related assemblages: Megadim and Neve Yam (Carmel coast), Hagoshrim (Hula), Tel Dover and Munhata (Jordan Valley), 'En Jarba and Abu Zureiq (Jezreel), and the type site Wadi Rabah. Kabri (Acre plain) is reported by Gopher. Schematic."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "banning-2007-wadi-rabah",
+            "locator": "radiocarbon sections"
+          },
+          {
+            "ref": "gopher-1993-coastal-plain",
+            "locator": "chrono-cultural sequence"
+          }
+        ],
+        "id": "wadi-rabah-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

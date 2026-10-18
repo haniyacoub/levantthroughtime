@@ -1,0 +1,9 @@
+{
+  "landmarks": [
+    { "id": "p1", "lon": 35.0, "lat": 31.5 },
+    { "id": "p2", "lon": 35.4, "lat": 31.5 },
+    { "id": "p3", "lon": 35.4, "lat": 31.9 },
+    { "id": "p4", "lon": 35.0, "lat": 31.9 }
+  ],
+  "units": [{ "id": "box", "name": { "en": "Box" }, "description": "Test unit", "ring": ["p1", "p2", "p3", "p4"] }]
+}

@@ -1,0 +1,87 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "edom",
+        "start": {
+          "year": -1300,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -601,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "edom"
+        ],
+        "partial_units": [
+          "arabah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Between the Dead Sea and the Gulf of Aqaba, south of the Zered, with copper resources in the Wadi Arabah."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-edom",
+            "locator": "article"
+          },
+          {
+            "ref": "crowell-2007-edom",
+            "locator": "p. 75"
+          }
+        ],
+        "id": "edom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "edom",
+        "start": {
+          "year": -600,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -551,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "edom"
+        ],
+        "partial_units": [
+          "arabah",
+          "negev-north"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Edom with Edomite pressure and settlement in the Beersheba-Arad region of the Negev in the last years of Judah and after (Arad ostraca; Edomite pottery)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "pp. 15-16"
+          },
+          {
+            "ref": "crowell-2007-edom",
+            "locator": "p. 85"
+          }
+        ],
+        "id": "edom-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

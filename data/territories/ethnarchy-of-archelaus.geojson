@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ethnarchy-of-archelaus",
+        "start": {
+          "year": -4,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 6,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah"
+        ],
+        "partial_units": [
+          "negev-north",
+          "carmel-sharon",
+          "philistia",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Judaea, Samaria and Idumaea (Edom), i.e. central and southern Palestine."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "Herod Archelaus should rule Judaea, Samaria, and Edom (i.e., central and southern Palestine)"
+          }
+        ],
+        "id": "ethnarchy-of-archelaus-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

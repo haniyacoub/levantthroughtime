@@ -1,0 +1,102 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "judaea-province",
+        "start": {
+          "year": 6,
+          "precision": "year"
+        },
+        "end": {
+          "year": 41,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah"
+        ],
+        "partial_units": [
+          "negev-north",
+          "carmel-sharon",
+          "philistia",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Former ethnarchy of Archelaus: Judaea, Samaria and Idumaea, with the governor at Caesarea."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "The region under Archelaus’s rule (i.e., Judaea, Samaria, and Edom) became the province of Judaea"
+          }
+        ],
+        "id": "judaea-province-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "judaea-province",
+        "start": {
+          "year": 44,
+          "precision": "year"
+        },
+        "end": {
+          "year": 135,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "lower-galilee",
+          "jezreel",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "philistia",
+          "jordan-valley",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Agrippa I's former kingdom (minus areas assigned to Agrippa II from 53/54) reconstituted as a province."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "In 44 the entire kingdom passed under Roman rule and was reconstituted as the procuratorial province of Judaea."
+          },
+          {
+            "ref": "britannica-herod-agrippa-ii",
+            "locator": "article",
+            "quote": "Nero, the new emperor, in 54 added territory near the Sea of Galilee to Agrippa’s realm."
+          }
+        ],
+        "notes": {
+          "en": "Some Decapolis cities were assigned to Judaea after 106."
+        },
+        "id": "judaea-province-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

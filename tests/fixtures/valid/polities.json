@@ -1,0 +1,7 @@
+{
+  "polities": [
+    { "id": "empire", "name": { "en": "Empire" }, "kind": "empire", "start": { "year": -100, "precision": "year" }, "end": { "year": 300, "precision": "year" }, "confidence": "documented", "sources": [{ "ref": "source-a" }, { "ref": "source-b" }] },
+    { "id": "client", "name": { "en": "Client", "ar": "عميل", "translation_status": { "ar": "machine-draft" } }, "kind": "kingdom", "start": { "year": -50, "precision": "year" }, "end": { "year": 50, "precision": "year" }, "confidence": "estimated", "sources": [{ "ref": "source-a", "locator": "p. 1" }],
+      "relations": [{ "type": "client", "overlord": "empire", "start": { "year": -50, "precision": "year" }, "end": { "year": 50, "precision": "year" }, "confidence": "documented", "sources": [{ "ref": "source-a" }, { "ref": "source-b" }] }] }
+  ]
+}

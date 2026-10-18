@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "umayyad-caliphate",
+        "start": {
+          "year": 661,
+          "precision": "year"
+        },
+        "end": {
+          "year": 750,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole map area (junds of Filastin, al-Urdunn, Dimashq; Egypt)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "Palestine formed, with Syria, one of the main provinces of the empire."
+          }
+        ],
+        "id": "umayyad-caliphate-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

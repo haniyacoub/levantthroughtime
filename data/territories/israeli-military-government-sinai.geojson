@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-sinai",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1973,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "sinai-egypt"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Entire Sinai to the Suez Canal."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-six-day-war",
+            "quote": "Israel's decisive victory included the capture of the Sinai Peninsula, Gaza Strip, West Bank, Old City of Jerusalem, and Golan Heights"
+          }
+        ],
+        "id": "israeli-military-government-sinai-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-sinai",
+        "start": {
+          "year": 1973,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1982,
+          "month": 4,
+          "day": 25,
+          "precision": "day"
+        },
+        "partial_units": [
+          "sinai-egypt"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Shrinking Israeli-held area after the 1973 war (Egypt regained a strip east of the canal) and during the staged withdrawal under the 1979 treaty."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-camp-david",
+            "quote": "Israel agreed to withdraw from Sinai ... These provisions were duly carried out."
+          }
+        ],
+        "notes": {
+          "en": "Stage lines not reconstructed."
+        },
+        "id": "israeli-military-government-sinai-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

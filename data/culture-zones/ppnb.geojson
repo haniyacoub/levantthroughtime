@@ -1,0 +1,139 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppnb",
+        "start": {
+          "year": -9000,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -8350,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "damascus",
+          "gilead",
+          "ammon",
+          "moab",
+          "edom"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Early PPNB: settlements first founded in a narrow north-south corridor on the western edge of the Transjordanian plateau and in the Jordan Valley, from Aswad (Damascus basin) to southern Edom."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "'PPNB Village Society'"
+          }
+        ],
+        "notes": {
+          "en": "The Early PPNB in the south was a 'short bridging episode'."
+        },
+        "id": "ppnb-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppnb",
+        "start": {
+          "year": -8200,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -7775,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jordan-valley",
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "damascus",
+          "moab",
+          "edom",
+          "carmel-sharon",
+          "lower-galilee",
+          "samaria",
+          "judean-desert"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Middle PPNB: the full PPNB 'koine'. Villages run along the King's Highway corridor (e.g. 'Ain Ghazal); there are communities in the Carmel, Galilee and Samaria, and special sites such as Nahal Hemar cave (Judean Desert) and Kfar HaHoresh (Nazareth hills)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "'PPNB Village Society'"
+          }
+        ],
+        "id": "ppnb-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppnb",
+        "start": {
+          "year": -7450,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -6950,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jordan-valley",
+          "gilead",
+          "ammon",
+          "moab",
+          "edom"
+        ],
+        "partial_units": [
+          "damascus",
+          "carmel-sharon",
+          "lower-galilee",
+          "samaria",
+          "negev-south",
+          "sinai"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Late PPNB: 'megasites' of up to 30 acres along the north-south axis, and the arid margins resettled during the PPNB (shown schematically as partial Negev/Sinai)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "'Archaic Villages of the PPNA'; 'PPNB Village Society'",
+            "quote": "The arid margins throughout the Levant were all but deserted during the course of the PPNA and were recolonized only during the Pre-Pottery Neolithic B (PPNB)."
+          }
+        ],
+        "id": "ppnb-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

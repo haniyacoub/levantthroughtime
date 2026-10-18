@@ -1,0 +1,78 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hazor",
+        "start": {
+          "year": -1800,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1551,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Middle Bronze Hazor, north of the Sea of Galilee. Its territorial reach in the MB is not described by the sources consulted; shown as part of Upper Galilee."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "haifa-hazor-excavations",
+            "locator": "About page"
+          }
+        ],
+        "id": "hazor-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hazor",
+        "start": {
+          "year": -1550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1250,
+          "circa": true,
+          "precision": "decade",
+          "latest": -1201
+        },
+        "partial_units": [
+          "upper-galilee"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Late Bronze Hazor as a highland-type city-state 'dominating the Upper Galilee', in conflict with Ashtaroth (Bashan) probably over the road to Damascus (EA 364)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 16",
+            "quote": "Shechem in northern Samaria and Hazor, dominating the Upper Galilee, in the Jordan Valley."
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 19"
+          }
+        ],
+        "id": "hazor-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

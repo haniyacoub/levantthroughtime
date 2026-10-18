@@ -1,0 +1,108 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "moab",
+        "start": {
+          "year": -1300,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -885,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "moab"
+        ],
+        "partial_units": [
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Kingdom east of the Dead Sea, bounded by Edom and 'the land of the Amorites'."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-moab",
+            "locator": "article"
+          }
+        ],
+        "id": "moab-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "moab",
+        "start": {
+          "year": -884,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -853,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "moab"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Moab south of the Arnon while the Omrides held the Madaba plain with forts at Jahaz and Ataroth facing Dibon."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 109"
+          }
+        ],
+        "id": "moab-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "moab",
+        "start": {
+          "year": -852,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -582,
+          "precision": "year"
+        },
+        "units": [
+          "moab",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After Mesha's revolt and victories over Israel (Mesha stele from Dibon), Moab including the Madaba plain north of the Arnon."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-moab",
+            "locator": "article"
+          }
+        ],
+        "id": "moab-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

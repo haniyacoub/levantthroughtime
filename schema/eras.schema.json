@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "segments": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "label": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          },
+          "start": {
+            "type": "object",
+            "properties": {
+              "year": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "month": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 12
+              }
+            },
+            "required": [
+              "year"
+            ],
+            "additionalProperties": false
+          },
+          "weight": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "step": {
+            "type": "object",
+            "properties": {
+              "unit": {
+                "type": "string",
+                "enum": [
+                  "year",
+                  "month"
+                ]
+              },
+              "size": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              }
+            },
+            "required": [
+              "unit",
+              "size"
+            ],
+            "additionalProperties": false
+          },
+          "fine_steps": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "start": {
+                  "type": "object",
+                  "properties": {
+                    "year": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "month": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 12
+                    }
+                  },
+                  "required": [
+                    "year"
+                  ],
+                  "additionalProperties": false
+                },
+                "end": {
+                  "type": "object",
+                  "properties": {
+                    "year": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "month": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 12
+                    }
+                  },
+                  "required": [
+                    "year"
+                  ],
+                  "additionalProperties": false
+                },
+                "unit": {
+                  "type": "string",
+                  "enum": [
+                    "year",
+                    "month"
+                  ]
+                },
+                "size": {
+                  "type": "integer",
+                  "exclusiveMinimum": 0,
+                  "maximum": 9007199254740991
+                }
+              },
+              "required": [
+                "start",
+                "end",
+                "unit",
+                "size"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "label",
+          "start",
+          "weight",
+          "step"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "segments"
+  ],
+  "additionalProperties": false
+}

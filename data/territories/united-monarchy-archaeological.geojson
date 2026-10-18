@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-monarchy-archaeological",
+        "start": {
+          "year": -1000,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -930,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "judea",
+          "shephelah"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Minimal conventional reading (Garfinkel et al. 2019): Jerusalem and the hill country, with the western Shephelah marked by Khirbet Qeiyafa and Khirbet al-Ra'i, collapsing c. 1020-970. Mazar (2021) allows wider influence over the inner country; Finkelstein (2013) assigns the northern central hills and western Gilead to a separate Gibeon/Gibeah polity and denies a Jerusalem-ruled united monarchy."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "garfinkel-2019-lachish",
+            "locator": "p. 15"
+          },
+          {
+            "ref": "mazar-2021-beth-shean",
+            "locator": "p. 260"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 61"
+          }
+        ],
+        "id": "united-monarchy-archaeological-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

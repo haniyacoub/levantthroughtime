@@ -1,0 +1,153 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "nabataean-kingdom",
+        "start": {
+          "year": -312,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -85,
+          "precision": "year"
+        },
+        "units": [
+          "edom",
+          "arabah",
+          "negev-south",
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "negev-north",
+          "moab",
+          "sinai",
+          "bashan"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Petra and the caravan lands south and east of the Dead Sea; Nabataean presence in the Hauran from the 3rd century BCE."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-nabataean",
+            "locator": "introduction",
+            "quote": "whose settlements lay in the borderlands between Syria and Arabia, from the Euphrates River to the Red Sea"
+          },
+          {
+            "ref": "dar-nabateans-hauran",
+            "locator": "Historical Background",
+            "quote": "Nabateans have been present in the Hauran since the 3rd century BCE"
+          }
+        ],
+        "id": "nabataean-kingdom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "nabataean-kingdom",
+        "start": {
+          "year": -85,
+          "precision": "year"
+        },
+        "end": {
+          "year": -72,
+          "precision": "year"
+        },
+        "units": [
+          "edom",
+          "arabah",
+          "negev-south",
+          "aqaba-hisma",
+          "damascus",
+          "bashan"
+        ],
+        "partial_units": [
+          "negev-north",
+          "moab",
+          "sinai"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Aretas III took over Damascus and \"Coele Syria\" at the request of its inhabitants."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "dar-nabateans-hauran",
+            "locator": "Historical Background",
+            "quote": "motivated the inhabitants of Damascus to request of Aretas III to take control of Coile Syria in 85–72 BCE"
+          },
+          {
+            "ref": "britannica-nabataean",
+            "locator": "expansion",
+            "quote": "shortly after 85 bc their king Aretas III ruled Damascus and Coele Syria (Lebanon)"
+          }
+        ],
+        "notes": {
+          "en": "Britannica says Aretas kept Damascus after 63 BCE and that it was later annexed by Nero; Dar limits the takeover to 85–72 BCE."
+        },
+        "id": "nabataean-kingdom-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "nabataean-kingdom",
+        "start": {
+          "year": -72,
+          "precision": "year"
+        },
+        "end": {
+          "year": 106,
+          "precision": "year"
+        },
+        "units": [
+          "edom",
+          "arabah",
+          "negev-south",
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "negev-north",
+          "moab",
+          "sinai",
+          "bashan",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Core kingdom with the southern Hauran; northern Hauran passed to Herod in 23 BCE."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "dar-nabateans-hauran",
+            "locator": "Historical Background",
+            "quote": "the situation did not change even after the Roman conquest of Syria in 64 BCE"
+          },
+          {
+            "ref": "dar-nabateans-hauran",
+            "locator": "Historical Background",
+            "quote": "From 23 BCE, when Augustus awarded Herod control of the Hauran"
+          }
+        ],
+        "notes": {
+          "en": "Damascus status after 72 BCE contested (see previous slice)."
+        },
+        "id": "nabataean-kingdom-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

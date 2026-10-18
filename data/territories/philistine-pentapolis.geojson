@@ -1,0 +1,125 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "philistine-pentapolis",
+        "start": {
+          "year": -1190,
+          "circa": true,
+          "precision": "decade",
+          "latest": -1150
+        },
+        "end": {
+          "year": -1051,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "philistia"
+        ],
+        "partial_units": [
+          "shephelah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Coastal plain 'from Joppa ... southward to Gaza' (Philistia), with Gath and Ekron toward the inner plain and Shephelah."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-philistine",
+            "locator": "article",
+            "quote": "settled—possibly with Egypt’s permission—on the coastal plain of Palestine from Joppa (modern Tel Aviv–Yafo) southward to Gaza."
+          }
+        ],
+        "id": "philistine-pentapolis-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "philistine-pentapolis",
+        "start": {
+          "year": -1050,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -1001,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "philistia"
+        ],
+        "partial_units": [
+          "shephelah",
+          "judea"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Britannica says the Philistines occupied part of the Judaean hill country c. 1050 BCE. The claim draws largely on the biblical narrative (e.g. Philistine garrisons in the highlands), which Finkelstein considers 'highly unlikely' as told."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-philistine",
+            "locator": "article",
+            "quote": "the Philistines were able (c. 1050 bce) to occupy part of the Judaean hill country."
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 61 n. 8"
+          }
+        ],
+        "id": "philistine-pentapolis-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "philistine-pentapolis",
+        "start": {
+          "year": -1000,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -604,
+          "precision": "year"
+        },
+        "units": [
+          "philistia"
+        ],
+        "partial_units": [
+          "shephelah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Individual Philistine city-states on the southern coastal plain. Their hinterlands shifted with Judah (e.g. Uzziah and Ashdod in the 8th century), Assyria and Egypt."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-philistine",
+            "locator": "article"
+          },
+          {
+            "ref": "britannica-ashdod",
+            "locator": "article"
+          }
+        ],
+        "id": "philistine-pentapolis-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "fatimid-caliphate",
+        "start": {
+          "year": 970,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1071,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "golan",
+          "bashan",
+          "gilead",
+          "damascus",
+          "phoenician-coast",
+          "ammon",
+          "moab",
+          "edom"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Precarious control of Palestine and southern Syria."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The Fatimid dynasty",
+            "quote": "where they faced Qarmaṭian, Seljuq, Byzantine, and periodic Bedouin opposition"
+          },
+          {
+            "ref": "daftary-iranica-fatimids",
+            "locator": "relations with the Carmatians",
+            "quote": "In 360/971, the Carmatians of Bahrain, aided by the Buyids and the Hamdanids, defeated a Fatimid army in Syria and seized Damascus."
+          }
+        ],
+        "notes": {
+          "en": "Qarmatian occupation of parts of Palestine in the 970s not modelled (not verified with citable sources)."
+        },
+        "id": "fatimid-caliphate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "fatimid-caliphate",
+        "start": {
+          "year": 1071,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1098,
+          "month": 8,
+          "day": 26,
+          "precision": "day"
+        },
+        "units": [
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "philistia",
+          "acre-plain",
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Egypt and Sinai, plus some coastal towns (Ascalon; Acre under Badr al-Jamali until 1074); interior lost to Atsiz."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 70",
+            "quote": "captured Ramla, then Jerusalem, as well as nearby lands except Asqalan"
+          },
+          {
+            "ref": "daftary-iranica-fatimids",
+            "locator": "Seljuq advance",
+            "quote": "the Saljuqs, who by 471/1078 had already uprooted the Fatimids from Syria"
+          }
+        ],
+        "notes": {
+          "en": "Brief Fatimid recovery of Ramla and Jerusalem in 1072/73 not modelled as a separate slice."
+        },
+        "id": "fatimid-caliphate-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "fatimid-caliphate",
+        "start": {
+          "year": 1098,
+          "month": 8,
+          "day": 26,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1099,
+          "month": 7,
+          "day": 15,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "philistia",
+          "shephelah",
+          "samaria",
+          "negev-north",
+          "acre-plain",
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Jerusalem retaken from the Artuqids; partial recovery of southern Syria."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 76",
+            "quote": "this meant that the Fatimids partially recovered their possessions in Sothern Syria lost in early 1070‑s"
+          },
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 77",
+            "quote": "the Franks took it by assault on 15 July 1099"
+          }
+        ],
+        "notes": {
+          "en": "End = Crusader capture of Jerusalem; Fatimid Ascalon survived into the next era."
+        },
+        "id": "fatimid-caliphate-3",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "fatimid-caliphate",
+        "start": {
+          "year": 1099,
+          "month": 7,
+          "day": 15,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1153,
+          "precision": "year"
+        },
+        "units": [
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Ascalon, the last Fatimid stronghold on the Palestinian coast, plus Sinai as part of Fatimid Egypt."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-ashkelon",
+            "locator": "history paragraph",
+            "quote": "Captured by the Crusaders after a 50-year struggle (1153), it became one of their principal ports and strongholds."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "By 1112 Arsuf, Caesarea, Acre, Beirut, and Sidon had been taken, and the entire coast except for Ascalon and Tyre was in Latin hands."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states to 1187'",
+            "quote": "In 1153 King Baldwin captured Ascalon, extending the kingdom’s coastline southward"
+          },
+          {
+            "ref": "britannica-fatimid-dynasty",
+            "locator": "summary",
+            "quote": "ruled over a large empire in North Africa and the Middle East from 909 to 1171 CE."
+          }
+        ],
+        "notes": {
+          "en": "Sinai assigned because it lay between Egypt and Palestine; no source specifically describing Fatimid Sinai was checked."
+        },
+        "id": "fatimid-caliphate-4",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "fatimid-caliphate",
+        "start": {
+          "year": 1153,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1171,
+          "precision": "year"
+        },
+        "units": [
+          "sinai",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egypt's Sinai frontier only, until Saladin abolished the caliphate (1171)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-fatimid-dynasty",
+            "locator": "summary",
+            "quote": "ruled over a large empire in North Africa and the Middle East from 909 to 1171 CE."
+          },
+          {
+            "ref": "britannica-saladin",
+            "locator": "main text",
+            "quote": "in 1171, he abolished the weak and unpopular Shiʿi Fāṭimid caliphate"
+          }
+        ],
+        "id": "fatimid-caliphate-5",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jazzar-acre",
+        "start": {
+          "year": 1775,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1804,
+          "precision": "year"
+        },
+        "units": [
+          "acre-plain",
+          "upper-galilee",
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Galilee and the coast from Acre, with Beirut and Tripoli; 'control of most of Palestine' (Britannica)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 18",
+            "quote": "was appointed governor of the Saida province in return for his services. Using Akka as his seat and power base, he quickly brought not only Beirut but also Tripoli under his direct rule."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'Ottoman rule'",
+            "quote": "Aḥmad al-Jazzār, the Ottoman governor of Acre, had control of most of Palestine, and in 1799, with English and Ottoman help, he successfully defended Acre against Napoleon I."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 18",
+            "quote": "the glory he earned by successfully defending Akka against Bonaparte's powerful army in 1799"
+          }
+        ],
+        "notes": {
+          "en": "Extent of control over central and southern Palestine is schematic."
+        },
+        "id": "jazzar-acre-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

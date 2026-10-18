@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "assyrian-province-magiddu",
+        "start": {
+          "year": -733,
+          "circa": true,
+          "precision": "year",
+          "latest": -732
+        },
+        "end": {
+          "year": -600,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "jezreel",
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "upper-galilee"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Galilee and the northern valleys annexed in 732, centred on Megiddo."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 153"
+          },
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "pp. 53-55"
+          }
+        ],
+        "id": "assyrian-province-magiddu-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

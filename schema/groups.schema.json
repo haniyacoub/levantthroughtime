@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "axis": {
+            "type": "string",
+            "enum": [
+              "religion",
+              "ethnicity",
+              "population-group"
+            ]
+          },
+          "name": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          },
+          "parent": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "axis",
+          "name"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "groups"
+  ],
+  "additionalProperties": false
+}

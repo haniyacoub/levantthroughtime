@@ -1,0 +1,75 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-west-bank",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "day": 7,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1994,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "west-bank"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Whole West Bank (excluding East Jerusalem) under Israeli military government; Civil Administration from 1981."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-west-bank",
+            "quote": "During the 1967 war Israel occupied the West Bank and established a military administration throughout the area, except in East Jerusalem"
+          }
+        ],
+        "id": "israeli-military-government-west-bank-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-west-bank",
+        "start": {
+          "year": 1994,
+          "month": 5,
+          "precision": "month"
+        },
+        "partial_units": [
+          "west-bank"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After the 1994-1995 Oslo agreements: full Israeli civil and security control in Area C (over 60%), security control in Area B; overall authority retained by the military commander. Israeli settlements and military areas lie mainly in Area C."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "ocha-area-c",
+            "quote": "Over 60 per cent of the West Bank is considered Area C, where Israel retains near exclusive control, including over law enforcement, planning and construction."
+          },
+          {
+            "ref": "britannica-oslo-accords",
+            "quote": "divided the West Bank and the Gaza Strip into areas A (Palestinian civil and security control), B (Palestinian civil control and joint Israeli-Palestinian security control), and C (Israeli civil and security control)"
+          }
+        ],
+        "notes": {
+          "en": "Exact Area A/B/C polygons are deliberately not drawn here (to be handled in a later, detailed pass)."
+        },
+        "id": "israeli-military-government-west-bank-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

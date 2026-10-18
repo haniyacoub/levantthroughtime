@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jund-filastin",
+        "start": {
+          "year": 638,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1099,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "carmel-sharon",
+          "negev-north"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "negev-south",
+          "ammon",
+          "sinai-north"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "The land south of the plain of Acre and the Jezreel valley, west of the Jordan and Dead Sea, from the sea to the desert and the Egypt road; al-Muqaddasi (985) also lists Jericho and Amman among its towns."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 25",
+            "quote": "which included all the countries lying to the south of the great plain of Acre and Esdraelon — to the west of the Jordan cleft and the Dead Sea"
+          },
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 39",
+            "quote": "Its capital is Ar-Ramlah. Among its cities are: Bait-al-Makdis (Jerusalem), Bait Jibril, Ghazzah (Gaza)"
+          },
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "covered the region south of the Jezreel Valley"
+          }
+        ],
+        "notes": {
+          "en": "Boundaries shifted somewhat over four centuries; one slice used for this first pass. Le Strange says part of former Palaestina Tertia was counted in Filastin."
+        },
+        "id": "jund-filastin-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

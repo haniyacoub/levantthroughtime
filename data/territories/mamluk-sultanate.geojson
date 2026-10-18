@@ -1,0 +1,261 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-sultanate",
+        "start": {
+          "year": 1250,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1260,
+          "month": 9,
+          "day": 3,
+          "precision": "day"
+        },
+        "units": [
+          "sinai",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egypt (Sinai) only."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-mamluk",
+            "locator": "opening paragraph",
+            "quote": "Mamluk generals used their power to establish a dynasty that ruled Egypt and Syria from 1250 to 1517."
+          },
+          {
+            "ref": "britannica-ayyubid-dynasty",
+            "locator": "paragraph 3",
+            "quote": "The Ayyubid decline in Egypt was completed with the Mamluk accession to power following the battle at Al-Manṣūrah (1250), but the dynasty persisted in some areas of Syria until 1260"
+          }
+        ],
+        "id": "mamluk-sultanate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-sultanate",
+        "start": {
+          "year": 1260,
+          "month": 9,
+          "day": 3,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1291,
+          "month": 5,
+          "day": 18,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "samaria",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "jezreel",
+          "negev-north",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "lower-galilee",
+          "upper-galilee",
+          "philistia",
+          "carmel-sharon",
+          "acre-plain",
+          "phoenician-coast",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Former Syrian Ayyubid lands occupied after Ayn Jalut; the Frankish coast reduced step by step (Caesarea, Haifa, Arsuf 1265; Safed/Galilee 1266) until Acre fell in 1291."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "iranica-ayyubids-humphreys-1987",
+            "locator": "political-history section",
+            "quote": "When the Mongol cataclysm of 658/1260 destroyed the Syrian Ayyubid kingdom of al-Nāṣer, the Mamluk regime was able to occupy his former dominions."
+          },
+          {
+            "ref": "britannica-battle-of-ayn-jalut",
+            "locator": "definition",
+            "quote": "decisive victory of the Mamluks of Egypt over the invading Mongols on September 3, 1260"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusades of St. Louis'",
+            "quote": "In 1265 he took Caesarea, Haifa, and Arsuf. The following year he conquered Galilee"
+          },
+          {
+            "ref": "britannica-zefat",
+            "locator": "history paragraph",
+            "quote": "Safed passed from hand to hand during the Crusades until captured by Baybars I, who razed its citadel (1266)."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
+          }
+        ],
+        "notes": {
+          "en": "The date of Mamluk control over Karak and southern Transjordan was not verified here, so moab/edom/madaba-plain are partial; Galilee units partial until the conquest of Galilee in 1266."
+        },
+        "id": "mamluk-sultanate-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-sultanate",
+        "start": {
+          "year": 1291,
+          "month": 5,
+          "day": 18,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1516,
+          "month": 8,
+          "day": 24,
+          "precision": "day"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "damascus",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "lebanon-mountains",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Whole of Palestine, Transjordan and southern Syria, governed through provinces centred on Damascus, Safad, Gaza and Karak."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades' (Mamluk paragraph)",
+            "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
+          },
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "In the north was the niyābah or mamlakah – both of which can be translated as “province” in this context – of Ṣafad, including areas in modern-day southern Lebanon and the Golan Heights."
+          },
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "Gaza was the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl."
+          },
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "conclusion",
+            "quote": "the second tier cities of the Sultanate in Syria: Hama, Homs, Tripoli, Karak and Safad."
+          }
+        ],
+        "notes": {
+          "en": "Interrupted by the Mongol occupation of Damascus and raids in Palestine in 1299-1300 (see ilkhanate). Desert margins partial."
+        },
+        "id": "mamluk-sultanate-3",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-sultanate",
+        "start": {
+          "year": 1516,
+          "month": 8,
+          "day": 24,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1517,
+          "month": 1,
+          "day": 22,
+          "precision": "day"
+        },
+        "units": [
+          "sinai",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egypt (Sinai) after the loss of Syria and Palestine, until the Ottoman victory at Raydaniyya."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-selim-i",
+            "locator": "main text",
+            "quote": "Selim defeated the Mamluk armies at the battles of Marj Dābiq (north of Aleppo; August 24, 1516) and Raydāniyyah (near Cairo; January 22, 1517), thus bringing Syria, Egypt, and Palestine under Ottoman rule."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades' (end)",
+            "quote": "on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq. Palestine began its four centuries under Ottoman domination."
+          }
+        ],
+        "id": "mamluk-sultanate-4",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

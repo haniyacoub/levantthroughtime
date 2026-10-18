@@ -1,0 +1,114 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria",
+        "start": {
+          "year": 1946,
+          "month": 4,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1967,
+          "month": 6,
+          "day": 10,
+          "precision": "day"
+        },
+        "units": [
+          "syria",
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria including the Golan Heights."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-golan-heights",
+            "quote": "After the Arab-Israeli War of 1948-49, Syria fortified the western crest of the Golan Heights"
+          }
+        ],
+        "notes": {
+          "en": "Shebaa Farms: maps issued by Syria and Lebanon after 1966 mostly place the farmlands in Syria (UN S/2000/460 para 17); the unit is treated as Syrian-held before 1967."
+        },
+        "id": "syria-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "day": 10,
+          "precision": "day"
+        },
+        "end": {
+          "year": 2024,
+          "month": 12,
+          "day": 7,
+          "precision": "day"
+        },
+        "units": [
+          "syria"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Syria without the Israeli-held part of the Golan; Syria retained the eastern strip of the Golan, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-golan-heights",
+            "quote": "except for a narrow strip in the east that follows the Israeli-Syrian armistice line of June 10, 1967, which was later modified by the separation of forces agreement of May 31, 1974."
+          }
+        ],
+        "notes": {
+          "en": "Syria regards the whole Golan as its territory (UNSC 497 calls it 'the occupied Syrian Golan Heights'). Modelling note: the eastern strip of the Golan that Syria retained is the UN area of separation, which is not part of the Golan Heights unit."
+        },
+        "id": "syria-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria",
+        "start": {
+          "year": 2024,
+          "month": 12,
+          "day": 7,
+          "precision": "day"
+        },
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria after Israeli forces entered the UN area of separation and the Syrian side of Mount Hermon (Dec 2024); see israeli-positions-syria-2024."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-golan-heights",
+            "quote": "On December 7, 2024 ... the Israel Defense Forces (IDF) entered the demilitarized UNDOF buffer zone."
+          }
+        ],
+        "notes": {
+          "en": "Britannica says the IDF entered the buffer zone on 7 Dec 2024 as the Assad government was 'on the brink of collapse'; Damascus called the seizure a violation of the 1974 Disengagement Agreement (A News, Aug 2026). Large parts of Syria were outside central government control during the civil war (2011-2024); not modelled. Modelling note: drawn as the whole of Syria; the Israeli-held positions since December 2024 are a separate record (israeli-positions-syria-2024)."
+        },
+        "id": "syria-3",
+        "geometry_method": "units",
+        "units": [
+          "syria"
+        ]
+      }
+    }
+  ]
+}

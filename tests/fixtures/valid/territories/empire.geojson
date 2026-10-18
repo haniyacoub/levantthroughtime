@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "id": "empire-1", "polity": "empire", "start": { "year": -100, "precision": "year" }, "end": { "year": 300, "precision": "year" }, "boundary_certainty": "approximate", "geometry_method": "traced-from-map", "confidence": "documented", "sources": [{ "ref": "source-a" }, { "ref": "source-b" }] },
+      "geometry": { "type": "Polygon", "coordinates": [[[34.8, 31.2], [35.6, 31.2], [35.6, 32.2], [34.8, 32.2], [34.8, 31.2]]] } }
+  ]
+}

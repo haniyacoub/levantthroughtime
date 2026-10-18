@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "landmarks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "lon": {
+            "type": "number",
+            "minimum": 25,
+            "maximum": 45
+          },
+          "lat": {
+            "type": "number",
+            "minimum": 25,
+            "maximum": 40
+          },
+          "label": {
+            "type": "string"
+          },
+          "wikidata": {
+            "type": "string",
+            "pattern": "^Q\\d+$"
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "lon",
+          "lat"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "name": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ring": {
+            "minItems": 3,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+            }
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "description",
+          "ring"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "landmarks",
+    "units"
+  ],
+  "additionalProperties": false
+}

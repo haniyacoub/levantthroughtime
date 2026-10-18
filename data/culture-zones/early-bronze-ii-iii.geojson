@@ -1,0 +1,98 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "early-bronze-ii-iii",
+        "start": {
+          "year": -3200,
+          "circa": true,
+          "precision": "century",
+          "latest": -2900
+        },
+        "end": {
+          "year": -2901,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jezreel",
+          "jordan-valley",
+          "samaria",
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "judea",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "EB II: Britannica says the early walled towns developed in northern and central Palestine (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Early Bronze Age",
+            "quote": "All these sites are in northern or central Palestine, and it was there that the Early Bronze Age towns seem to have developed."
+          }
+        ],
+        "notes": {
+          "en": "Slice end follows Regev et al.'s EB II-III transition c. 2900 BC. Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        },
+        "id": "early-bronze-ii-iii-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "early-bronze-ii-iii",
+        "start": {
+          "year": -2900,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -2500,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jezreel",
+          "jordan-valley",
+          "samaria",
+          "lower-galilee",
+          "shephelah"
+        ],
+        "partial_units": [
+          "judea",
+          "carmel-sharon",
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "EB III: walled towns throughout the country. Britannica says southern towns such as Lachish and Tel Hasi were founded only in EB III."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Early Bronze Age",
+            "quote": "The towns of southern Palestine—for instance, Tel Lakhish, Kiriath-sepher, and Tel Ḥasi—seem only to have been established in Early Bronze III."
+          },
+          {
+            "ref": "regev-et-al-2012-eb-chronology",
+            "locator": "abstract"
+          }
+        ],
+        "id": "early-bronze-ii-iii-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

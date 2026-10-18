@@ -1,0 +1,112 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt",
+        "start": {
+          "year": 1914,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1948,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "sinai-egypt"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Sinai peninsula."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-sinai",
+            "quote": "The Sinai was administered by Egypt until the Israelis overran the peninsula in the Six-Day War of June 1967."
+          }
+        ],
+        "id": "egypt-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt",
+        "start": {
+          "year": 1948,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "sinai-egypt",
+          "gaza-strip"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Sinai plus the Gaza Strip under Egyptian military administration (strip boundaries fixed by the 24 Feb 1949 armistice); Gaza was not annexed. Interrupted by Israeli occupation Nov 1956 - March 1957 (separate record)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "The Gaza Strip was under Egyptian military rule from 1949 to 1956 and again from 1957 to 1967."
+          },
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "The Egyptian government did not consider the area part of Egypt"
+          }
+        ],
+        "notes": {
+          "en": "Gaza is included as an Egyptian-administered (not sovereign) territory; in 1948 Egyptian forces also held a larger area of southern Palestine before the autumn 1948 fighting (Britannica)."
+        },
+        "id": "egypt-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt",
+        "start": {
+          "year": 1982,
+          "month": 4,
+          "day": 25,
+          "precision": "day"
+        },
+        "units": [
+          "sinai-egypt"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Sinai after the completion of Israel's withdrawal under the 1979 peace treaty."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "reagan-1982-sinai",
+            "quote": "April 25, 1982, when Israel completed its withdrawal from the Sinai and Egyptian sovereignty was reestablished in accordance with the 1979 Peace Treaty."
+          }
+        ],
+        "notes": {
+          "en": "1967-1982 omitted: Sinai held by Israel (separate record); Egypt regained a strip east of the Suez Canal after 1973 and further areas in stages from 1979."
+        },
+        "id": "egypt-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ptolemaic-kingdom",
+        "start": {
+          "year": -323,
+          "precision": "year"
+        },
+        "end": {
+          "year": -315,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Palestine with much of Syria and Phoenicia, per Britannica's simplified account of the years after 323."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Ptolemies",
+            "quote": "After the death of Alexander in 323 bce, Palestine, with much of Syria and Phoenicia, fell to Ptolemy I (Soter)"
+          }
+        ],
+        "notes": {
+          "en": "Actual Ptolemaic occupation in these years was intermittent; see antigonid-realm."
+        },
+        "id": "ptolemaic-kingdom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ptolemaic-kingdom",
+        "start": {
+          "year": -301,
+          "precision": "year"
+        },
+        "end": {
+          "year": -200,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "golan",
+          "gilead",
+          "ammon",
+          "phoenician-coast",
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "lebanon-mountains",
+          "damascus",
+          "negev-south",
+          "bashan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Palestine and Phoenicia; northern frontier apparently just north of Tripoli on the Eleutherus (Nahr al-Kabir); Philadelphia (Rabbath Ammon) bore a Ptolemaic dynastic name."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Ptolemies",
+            "quote": "The northern boundary of the kingdom established by Ptolemy lay apparently slightly north of modern Tripoli, Lebanon, perhaps on the course of the Kabīr River (ancient Eleutherus)"
+          },
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Ptolemies",
+            "quote": "At Panion, on the northern boundary of Galilee, the armies of Antiochus and Ptolemy met, and Ptolemy was defeated."
+          }
+        ],
+        "notes": {
+          "en": "Temporary Seleucid occupation during the Fourth Syrian War (before Raphia, 217) not modelled."
+        },
+        "id": "ptolemaic-kingdom-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ptolemaic-kingdom",
+        "start": {
+          "year": -200,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -30,
+          "precision": "year"
+        },
+        "units": [
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After Panion only the possessions south of the Sinai desert edge (Egypt incl. Sinai) remained Ptolemaic in the map area."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Ptolemies",
+            "quote": "Thus, the Ptolemaic possessions north of the Sinai desert, including Palestine, passed into the hands of the house of Seleucus."
+          }
+        ],
+        "id": "ptolemaic-kingdom-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

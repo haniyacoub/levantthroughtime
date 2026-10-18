@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hasmonean-ethnarchy-hyrcanus-ii",
+        "start": {
+          "year": -63,
+          "precision": "year"
+        },
+        "end": {
+          "year": -40,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "jordan-valley",
+          "samaria",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "The Hasmonean realm \"curtailed\" by Pompey: coastal and Decapolis cities removed; Galilee remained (Herod its governor)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Hasmonean priest-princes",
+            "quote": "his sons Phasael and Herod became governors (strategoi) of Jerusalem and Galilee, respectively"
+          }
+        ],
+        "notes": {
+          "en": "Retention of Idumea and Peraea is not stated in the sources used; marked partial."
+        },
+        "id": "hasmonean-ethnarchy-hyrcanus-ii-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hasmonean-state",
+        "start": {
+          "year": -142,
+          "precision": "year"
+        },
+        "end": {
+          "year": -129,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert"
+        ],
+        "partial_units": [
+          "shephelah",
+          "philistia",
+          "jordan-valley",
+          "samaria"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Judea with gains under Jonathan and Simon, incl. the harbour of Jaffa."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "schiffman-1991",
+            "locator": "The Hasmonean Dynasty",
+            "quote": "taking the harbor at Jaffa in order to ensure Judea’s access to the sea"
+          }
+        ],
+        "id": "hasmonean-state-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hasmonean-state",
+        "start": {
+          "year": -129,
+          "precision": "year"
+        },
+        "end": {
+          "year": -104,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah"
+        ],
+        "partial_units": [
+          "negev-north",
+          "philistia",
+          "jordan-valley",
+          "madaba-plain",
+          "gilead"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Expansion under John Hyrcanus I: Idumea (southern hills/northern Negev), Samaria, territory in Transjordan."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "schiffman-1991",
+            "locator": "The Hasmonean Dynasty",
+            "quote": "he conquered Idumea and forced its people to convert to Judaism. He also captured territory in Transjordan, defeated the Hellenistic cities, and conquered the Samaritans"
+          },
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Hasmonean priest-princes",
+            "quote": "John renewed his father’s expansionist program, in which Samaria was conquered and destroyed"
+          }
+        ],
+        "notes": {
+          "en": "Conquests were gradual between 129 and 104; individual dates not given in the sources used."
+        },
+        "id": "hasmonean-state-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hasmonean-state",
+        "start": {
+          "year": -104,
+          "precision": "year"
+        },
+        "end": {
+          "year": -63,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "lower-galilee",
+          "jezreel",
+          "jordan-valley",
+          "carmel-sharon",
+          "negev-north",
+          "golan",
+          "gilead"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "philistia",
+          "acre-plain",
+          "madaba-plain",
+          "moab"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Maximal extent: Galilee and part of Iturea (Aristobulus I, 104–103), then the coastal cities and the area east of the Jordan (Alexander Jannaeus, 103–76)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Hasmonean priest-princes",
+            "quote": "Alexander imposed his rule rigorously over an increasingly large area, including both the cities of the coast and the area east of the Jordan River"
+          },
+          {
+            "ref": "schiffman-1991",
+            "locator": "The Hasmonean Dynasty",
+            "quote": "subduing the Itureans in the north and converting them to Judaism, and gaining control over the Galilee"
+          }
+        ],
+        "notes": {
+          "en": "Not every coastal city was held (e.g. Ascalon is generally described as remaining independent, not verified in this pass); Transjordan holdings contested with the Nabataeans (see dar-nabateans-hauran)."
+        },
+        "id": "hasmonean-state-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

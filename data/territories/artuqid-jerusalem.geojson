@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "artuqid-jerusalem",
+        "start": {
+          "year": 1083,
+          "precision": "year",
+          "latest": 1086
+        },
+        "end": {
+          "year": 1098,
+          "month": 8,
+          "day": 26,
+          "precision": "day"
+        },
+        "units": [
+          "judea"
+        ],
+        "partial_units": [
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "negev-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Jerusalem, de facto capital of the province of Palestine."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "pp. 74-75",
+            "quote": "Jerusalem, a major religious centre and a de facto capital of the province of Palestine"
+          }
+        ],
+        "notes": {
+          "en": "Extent beyond Jerusalem not specified in the sources."
+        },
+        "id": "artuqid-jerusalem-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

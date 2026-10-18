@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-gaza",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1994,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Whole Gaza Strip under Israeli military government."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "the Gaza Strip was again taken by Israel, which occupied the region for the next quarter century."
+          }
+        ],
+        "id": "israeli-military-government-gaza-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-military-government-gaza",
+        "start": {
+          "year": 1994,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "day": 12,
+          "precision": "day"
+        },
+        "partial_units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Israeli settlement blocs, military zones and border/perimeter areas retained after the 1994 Gaza-Jericho arrangements; the rest under the Palestinian Authority."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "In 1994 Israel began a phased transfer of governmental authority in the Gaza Strip to the Palestinian Authority (PA)"
+          }
+        ],
+        "notes": {
+          "en": "Share of territory retained by Israel 1994-2005 not quantified in an opened source."
+        },
+        "id": "israeli-military-government-gaza-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

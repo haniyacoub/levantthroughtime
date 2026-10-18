@@ -1,0 +1,90 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "oeta-south",
+        "start": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1918,
+          "month": 9,
+          "precision": "month"
+        },
+        "units": [
+          "gaza-strip",
+          "east-jerusalem"
+        ],
+        "partial_units": [
+          "israel-1949",
+          "west-bank"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Southern and central Palestine behind the British front line (Jaffa-Jerusalem area southwards) between the fall of Jerusalem and the September 1918 offensive."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-ww1",
+            "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund ... Allenby in December 1917."
+          }
+        ],
+        "notes": {
+          "en": "Front-line positions Dec 1917-Sept 1918 are not reconstructed; partial units schematic."
+        },
+        "id": "oeta-south-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "oeta-south",
+        "start": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1920,
+          "month": 6,
+          "day": 30,
+          "precision": "day"
+        },
+        "units": [
+          "israel-1949",
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip",
+          "nml-latrun",
+          "nml-jerusalem",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "All of Palestine west of the Jordan after the Ottoman collapse; northern limit with the French zone not yet fixed (fixed by the 1920 convention and 1923 agreement)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-ww1",
+            "quote": "The remaining area was occupied by the British by October 1918."
+          }
+        ],
+        "notes": {
+          "en": "The far north (upper Galilee/Hula area) boundary with the French-administered zone was unsettled in 1918-1920; israel-1949 is used as an approximation."
+        },
+        "id": "oeta-south-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

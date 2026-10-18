@@ -1,0 +1,157 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sidon-eyalet",
+        "start": {
+          "year": 1660,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1775,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Seat at Sidon: 'The central coastal region, from just north of Haifa to Beirut ... included the entire area of Galilee' (Strickert); the Druze emirate of Mount Lebanon was under the oversight of the governors of Saida and Tripoli."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "The central coastal region, from just north of Haifa to Beirut, was governed by the coastal city of Sidon. This included the entire area of Galilee, from Acre east to Tiberias and Safed."
+          },
+          {
+            "ref": "baytar-2024-debbane",
+            "locator": "p. 263 (PDF p. 4)",
+            "quote": "Osmanlı yönetimi, 17. yüzyılda Safad, Sayda ve Beyrut sancaklarını, Şam eyaletinden çıkartmış ve 1660 yılında Sayda Eyaleti kurulmuş, Safad ve Beyrut ise bu yeni eyalete sancak olarak bağlanmıştır"
+          }
+        ],
+        "notes": {
+          "en": "Most of Galilee was in practice controlled by Zahir al-Umar from c. 1740s to 1775."
+        },
+        "id": "sidon-eyalet-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sidon-eyalet",
+        "start": {
+          "year": 1775,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Seat at Acre (al-Jazzar 1775-1804, then Suleyman Pasha 1804-1818 and successors). In 1830 Jerusalem and Nablus, and the districts of Jaffa and Gaza, were also under Acre."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 18",
+            "quote": "was appointed governor of the Saida province in return for his services. Using Akka as his seat and power base, he quickly brought not only Beirut but also Tripoli under his direct rule."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 18",
+            "quote": "when the moderate Süleyman Pasha replaced Cezzar as governor of Saida-Akka, from 1804 to 1818"
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "p. 38",
+            "quote": "Already in 1830, on the eve of Muhammad Ali’s invasion, the sanjaks of Jerusalem and Nablus were transferred to the control of Abdullah Pasha, the governor of Acre."
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "n. 15 (p. 43)",
+            "quote": "The districts of Jaffa and Gaza were then within the jurisdiction of Acre, the seat of the province of Sidon."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Administrative Division'",
+            "quote": "the three Sanjaqs of Jerusalem, Jaffa-Gaza, and Nablus were part of the Province of Damascus (Sham), while Acre was the seat of the Province of Saida."
+          }
+        ],
+        "id": "sidon-eyalet-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sidon-eyalet",
+        "start": {
+          "year": 1840,
+          "month": 12,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1865,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Seat at Beirut; Acre a sanjak covering Galilee."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization in the Aftermath of Egyptian Withdrawal'",
+            "quote": "the seat of the Province of Saida was transferred from Acre to Beirut (though the province continued to carry the name of Saida)."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 27",
+            "quote": "the Ottoman government attempted to attach the Mountain directly to the Province of Saida, the seat of which had been appropriately moved to Beirut."
+          }
+        ],
+        "id": "sidon-eyalet-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

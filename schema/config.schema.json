@@ -1,0 +1,263 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ar": {
+          "type": "string",
+          "minLength": 1
+        },
+        "he": {
+          "type": "string",
+          "minLength": 1
+        },
+        "translation_status": {
+          "type": "object",
+          "properties": {
+            "ar": {
+              "type": "string",
+              "enum": [
+                "original",
+                "machine-draft",
+                "reviewed"
+              ]
+            },
+            "he": {
+              "type": "string",
+              "enum": [
+                "original",
+                "machine-draft",
+                "reviewed"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "subtitle": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ar": {
+          "type": "string",
+          "minLength": 1
+        },
+        "he": {
+          "type": "string",
+          "minLength": 1
+        },
+        "translation_status": {
+          "type": "object",
+          "properties": {
+            "ar": {
+              "type": "string",
+              "enum": [
+                "original",
+                "machine-draft",
+                "reviewed"
+              ]
+            },
+            "he": {
+              "type": "string",
+              "enum": [
+                "original",
+                "machine-draft",
+                "reviewed"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "timeline": {
+      "type": "object",
+      "properties": {
+        "start": {
+          "type": "object",
+          "properties": {
+            "year": {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991
+            },
+            "month": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 12
+            }
+          },
+          "required": [
+            "year"
+          ],
+          "additionalProperties": false
+        },
+        "as_of": {
+          "type": "object",
+          "properties": {
+            "year": {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991
+            },
+            "month": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 12
+            },
+            "day": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 31
+            },
+            "circa": {
+              "type": "boolean"
+            },
+            "precision": {
+              "type": "string",
+              "enum": [
+                "day",
+                "month",
+                "season",
+                "year",
+                "decade",
+                "century",
+                "millennium"
+              ]
+            },
+            "latest": {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991
+            },
+            "calendar_note": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "year",
+            "precision"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "start",
+        "as_of"
+      ],
+      "additionalProperties": false
+    },
+    "prehistoric_until": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
+    "composition_tolerance_pct": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "map": {
+      "type": "object",
+      "properties": {
+        "bounds": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            }
+          ],
+          "items": false,
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "initial": {
+          "type": "object",
+          "properties": {
+            "center": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "number"
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "zoom": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "center",
+            "zoom"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "bounds",
+        "initial"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "title",
+    "subtitle",
+    "timeline",
+    "prehistoric_until",
+    "composition_tolerance_pct",
+    "map"
+  ],
+  "additionalProperties": false
+}

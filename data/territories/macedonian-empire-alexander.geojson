@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "macedonian-empire-alexander",
+        "start": {
+          "year": -332,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -323,
+          "precision": "year"
+        },
+        "units": [
+          "phoenician-coast",
+          "acre-plain",
+          "carmel-sharon",
+          "philistia",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "lower-galilee",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Coastal cities reduced by force (Tyre, Gaza); the interior (incl. Judea under its high priest) submitted and was left largely undisturbed."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-alexander-the-great",
+            "locator": "Levant campaign",
+            "quote": "The storming of Tyre in July 332 was Alexander’s greatest military achievement"
+          },
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "opening paragraph",
+            "quote": "He left the Jews undisturbed in their religion and customs."
+          }
+        ],
+        "notes": {
+          "en": "Extent of direct control inland is not described in the sources; interior units marked partial."
+        },
+        "id": "macedonian-empire-alexander-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "seljuk-syria-tutush",
+        "start": {
+          "year": 1078,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1095,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "judea",
+          "judean-desert"
+        ],
+        "partial_units": [
+          "bashan",
+          "golan",
+          "lower-galilee",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "negev-north",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and southern Syria, with Jerusalem/Palestine held through appointed emirs."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 74",
+            "quote": "The power base of Tutush became Damascus, but there was another important city in his possessions — Jerusalem"
+          }
+        ],
+        "id": "seljuk-syria-tutush-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

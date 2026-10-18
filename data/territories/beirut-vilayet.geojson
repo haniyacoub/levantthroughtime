@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "beirut-vilayet",
+        "start": {
+          "year": 1888,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "phoenician-coast",
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "jezreel",
+          "samaria",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "jordan-valley"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Sanjaks of Beirut (incl. Tyre/Sur district in southern Lebanon), Acre (Galilee; northern border Ras al-Naqura to Lake Hula) and Nablus (from the Jezreel valley to north of Jaffa, east to the Jordan)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
+            "quote": "The latter included (in addition to the Sanjaqs of Tripoli and Lattakieh) the Sanjaqs of Beirut, Acre and Nablus."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Sanjaq of Nablus'",
+            "quote": "Balqa (a subdistrict within the Sanjaq of Nablus to the east of the Jordan River) was appended to the Province of Syria."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Sanjaq of Acre'",
+            "quote": "The Sanjaq of Acre was bordered to the north by the Qada (subdistrict) of Sur (Tyre) in the Sanjaq of Beirut, which covered Southern Lebanon."
+          }
+        ],
+        "id": "beirut-vilayet-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

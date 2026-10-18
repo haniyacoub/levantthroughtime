@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ghassulian",
+        "start": {
+          "year": -4500,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -3800,
+          "circa": true,
+          "precision": "century",
+          "latest": -3700
+        },
+        "units": [
+          "jordan-valley",
+          "negev-north",
+          "judean-desert",
+          "philistia"
+        ],
+        "partial_units": [
+          "shephelah",
+          "carmel-sharon",
+          "judea"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Britannica: 'mainly in the south of Palestine, with an extension up the coastal plain and its fringes'. Includes Teleilat Ghassul (lower Jordan Valley), the Beersheba copper- and ivory-working sites, the En Gedi shrine and the Nahal Mishmar caves (Judean Desert)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "The Stone Age and the Copper Age"
+          }
+        ],
+        "notes": {
+          "en": "Chalcolithic variants elsewhere (e.g. Golan) are not included."
+        },
+        "id": "ghassulian-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "assyrian-province-duru",
+        "start": {
+          "year": -720,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -630,
+          "circa": true,
+          "precision": "decade"
+        },
+        "partial_units": [
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Coastal plain around Dor (Carmel coast and Sharon), if a separate province existed."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "pp. 56 n. 25, 58 n. 46"
+          }
+        ],
+        "id": "assyrian-province-duru-1",
+        "geometry_method": "units",
+        "notes": {
+          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        }
+      }
+    }
+  ]
+}

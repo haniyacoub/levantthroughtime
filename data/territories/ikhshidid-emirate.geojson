@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ikhshidid-emirate",
+        "start": {
+          "year": 935,
+          "precision": "year"
+        },
+        "end": {
+          "year": 969,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Egypt and southern Syria incl. Palestine."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-ikhshidid-dynasty",
+            "locator": "article",
+            "quote": "ruled Egypt and Syria from 935 to 969"
+          }
+        ],
+        "id": "ikhshidid-emirate-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

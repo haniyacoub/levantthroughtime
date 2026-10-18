@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt-26th-dynasty",
+        "start": {
+          "year": -609,
+          "precision": "year"
+        },
+        "end": {
+          "year": -605,
+          "precision": "year"
+        },
+        "units": [
+          "sinai-north",
+          "philistia",
+          "carmel-sharon",
+          "jezreel"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Hegemony over 'Syria and Palestine' between Josiah's death at Megiddo (609) and Carchemish (605). The source gives no boundaries; units mark the coastal route and Jezreel (Megiddo). Judah was a tributary vassal (relation)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-necho-ii",
+            "locator": "article"
+          },
+          {
+            "ref": "britannica-megiddo",
+            "locator": "history"
+          }
+        ],
+        "id": "egypt-26th-dynasty-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "achaemenid-empire",
+        "start": {
+          "year": -539,
+          "precision": "year"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "phoenician-coast",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "damascus",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "sinai-north",
+          "aqaba-hisma",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "The whole map area within the satrapy 'Beyond the River' (Eber-Nari): Phoenician vassal cities, the provinces (Yehud, Samaria, Ashdod, Ammon, and others reported by Avi-Yonah), and Arab tribal areas in the south."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "iranica-eber-nari",
+            "locator": "entry"
+          },
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Persian empire"
+          }
+        ],
+        "notes": {
+          "en": "Desert margins and northern Sinai partial; Egypt was outside Persian control for part of the 4th century (Britannica mentions the reconquest of Egypt in 343)."
+        },
+        "id": "achaemenid-empire-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

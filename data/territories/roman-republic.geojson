@@ -1,0 +1,119 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "roman-republic",
+        "start": {
+          "year": -63,
+          "precision": "year"
+        },
+        "end": {
+          "year": -40,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "golan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "phoenician-coast",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "bashan",
+          "edom",
+          "moab",
+          "negev-south",
+          "arabah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Province of Syria (annexed 64/63) plus dependent rulers: Hasmonean Judea, the Decapolis, Ituraeans, and the Nabataeans as vassals."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-pompey",
+            "locator": "eastern settlement",
+            "quote": "He annexed Syria and left Judaea as a dependent, diminished temple state."
+          }
+        ],
+        "id": "roman-republic-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "roman-republic",
+        "start": {
+          "year": -38,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -27,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "golan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "phoenician-coast",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "bashan",
+          "edom",
+          "moab",
+          "negev-south",
+          "arabah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Roman authority restored after the expulsion of the Parthians; Herod as client king."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "Shortly afterward Roman troops expelled the Parthians"
+          }
+        ],
+        "id": "roman-republic-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ituraean-principality",
+        "start": {
+          "year": -105,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -20,
+          "precision": "year"
+        },
+        "partial_units": [
+          "lebanon-mountains",
+          "upper-galilee",
+          "golan"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Kingdom north of Galilee, in the Mount Lebanon / Beqaa region, centred on Chalcis."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "jewish-encyclopedia-iturea",
+            "locator": "entry",
+            "quote": "the Iturean kingdom lay north of Galilee"
+          }
+        ],
+        "notes": {
+          "en": "Southern parts lost to the Hasmoneans c. 104 BCE."
+        },
+        "id": "ituraean-principality-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ituraean-principality",
+        "start": {
+          "year": 38,
+          "precision": "year"
+        },
+        "end": {
+          "year": 49,
+          "precision": "year"
+        },
+        "partial_units": [
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Kingdom of Soemus, \"king of the Itureans\", in Mount Lebanon."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "jewish-encyclopedia-iturea",
+            "locator": "entry",
+            "quote": "That Iturea was in the region of Mount Lebanon is confirmed by an inscription of about the year 6 C.E."
+          }
+        ],
+        "id": "ituraean-principality-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

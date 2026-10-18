@@ -1,0 +1,133 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-israel",
+        "start": {
+          "year": -931,
+          "circa": true,
+          "precision": "decade",
+          "latest": -922
+        },
+        "end": {
+          "year": -885,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "samaria",
+          "jezreel"
+        ],
+        "partial_units": [
+          "gilead"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Early ('Tirzah polity') phase: the highlands north of Jerusalem, the Jezreel Valley and the western Gilead; Galilee and the upper Jordan Valley were ruled by Damascus and the Phoenician cities."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 78",
+            "quote": "the Tirzah polity ruled over the highlands north of Jerusalem, the Jezreel Valley, and the western Gilead"
+          }
+        ],
+        "id": "kingdom-of-israel-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-israel",
+        "start": {
+          "year": -884,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -733,
+          "precision": "year"
+        },
+        "units": [
+          "samaria",
+          "jezreel",
+          "lower-galilee",
+          "jordan-valley",
+          "gilead",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "golan",
+          "madaba-plain",
+          "shephelah"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Omride and later kingdom: beyond the Jezreel Valley into Lower Galilee, the southern Upper Galilee, the Sea of Galilee area and the Jordan Valley up to Hazor (not Dan). Border forts faced Tyre (Har Adir), Damascus (Hazor, En Gev, Ramoth-gilead), Moab (Jahaz, Ataroth) and Philistia (Gezer), and Dor was its port. Aram-Damascus took parts c. 840-800 and Jeroboam II recovered them; Transjordan was lost to Damascus shortly before 732."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 108-109",
+            "quote": "At that time the northern kingdom expanded its territory far beyond the Jezreel Valley, into the Lower Galilee and the southern part of the Upper Galilee, into the area of the Sea of Galilee"
+          },
+          {
+            "ref": "britannica-israel-kingdom",
+            "locator": "biblical account"
+          }
+        ],
+        "notes": {
+          "en": "One schematic slice for 884-733; the Aramaean losses c. 840-800 are not shown separately."
+        },
+        "id": "kingdom-of-israel-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-israel",
+        "start": {
+          "year": -732,
+          "precision": "year"
+        },
+        "end": {
+          "year": -722,
+          "circa": true,
+          "precision": "year",
+          "latest": -720
+        },
+        "units": [
+          "samaria"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Rump kingdom around Samaria after Tiglath-pileser III annexed Galilee and the northern valleys in 732 ('except for the territory of ... western Manasseh and Ephraim')."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 153"
+          },
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Israelites in Palestine"
+          }
+        ],
+        "id": "kingdom-of-israel-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "neo-assyrian-empire",
+        "start": {
+          "year": -733,
+          "circa": true,
+          "precision": "year",
+          "latest": -732
+        },
+        "end": {
+          "year": -722,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "jezreel",
+          "lower-galilee",
+          "golan",
+          "bashan"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "gilead",
+          "philistia"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Directly ruled provinces after the 733-732 campaigns: Damascus (governor installed), Magiddu (Galilee and northern valleys), northern Transjordan (Gilead/Qarninu, debated), with Gaza 'in Assyrian hands'. Vassal kingdoms (Israel, Judah, Philistine cities, Ammon, Moab, Edom, Tyre, Sidon) are given as relations, not territory."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-mesopotamia-neo-assyrian",
+            "locator": "Tiglath-pileser III"
+          },
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "p. 53"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 153"
+          }
+        ],
+        "id": "neo-assyrian-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "neo-assyrian-empire",
+        "start": {
+          "year": -721,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -630,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "damascus",
+          "jezreel",
+          "lower-galilee",
+          "golan",
+          "bashan",
+          "samaria"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "gilead",
+          "philistia",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Adds the province of Samerina (722-720) and the coastal Dor area, either as part of Samerina or as a separate province. The end date is an estimate for the waning of Assyrian control in the west."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-mesopotamia-neo-assyrian",
+            "locator": "Sargon II"
+          },
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "pp. 53-58"
+          }
+        ],
+        "id": "neo-assyrian-empire-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

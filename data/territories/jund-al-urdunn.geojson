@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "jund-al-urdunn",
+        "start": {
+          "year": 638,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1099,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain",
+          "jezreel"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "golan",
+          "phoenician-coast",
+          "bashan",
+          "gilead"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Galilee, the Sea of Galilee and the Jordan lowlands; al-Muqaddasi (985) lists Tiberias, Kadas, Tyre, Acre, al-Lajjun, Kabul, Baisan and Adhri'ah."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 25",
+            "quote": "called Jund al Urdunn, comprising Galilee, and the Sea of Galilee, and the lowlands of the Jordan, down to the Dead Sea"
+          },
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 39",
+            "quote": "Among its towns are: Kadas, Sur (Tyre), ’Akka (Acre), Al-Faradhiyyah, Al-Lajjun, Kabul, Baisan, and Adhri’ah."
+          }
+        ],
+        "id": "jund-al-urdunn-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

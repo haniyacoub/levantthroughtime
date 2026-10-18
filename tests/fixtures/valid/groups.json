@@ -1,0 +1,7 @@
+{
+  "groups": [
+    { "id": "muslims", "axis": "religion", "name": { "en": "Muslims" } },
+    { "id": "christians", "axis": "religion", "name": { "en": "Christians" } },
+    { "id": "jews", "axis": "religion", "name": { "en": "Jews" } }
+  ]
+}

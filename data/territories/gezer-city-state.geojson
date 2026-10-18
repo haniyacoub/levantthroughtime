@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "gezer-city-state",
+        "start": {
+          "year": -1550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1200,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "shephelah",
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "City-state on the international road, controlling the Ayalon Valley at the junction of the inner coastal plain and the Shephelah."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 17-18"
+          }
+        ],
+        "id": "gezer-city-state-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

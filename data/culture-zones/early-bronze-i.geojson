@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "early-bronze-i",
+        "start": {
+          "year": -3700,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -3200,
+          "circa": true,
+          "precision": "century",
+          "latest": -2900
+        },
+        "units": [
+          "jezreel",
+          "jordan-valley",
+          "samaria",
+          "lower-galilee",
+          "philistia",
+          "shephelah",
+          "negev-north"
+        ],
+        "partial_units": [
+          "judea",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Early EB sites named by Britannica (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai), plus southern EB IB sites where Egyptian material occurs among local settlements (Tel Erani, Tel Halif, Tel Lod and others). Schematic."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Early Bronze Age"
+          },
+          {
+            "ref": "gamrat-2019-egyptian-kitchenware",
+            "locator": "pp. 31-32"
+          }
+        ],
+        "id": "early-bronze-i-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

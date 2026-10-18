@@ -1,0 +1,108 @@
+# Southern Levant Through Time
+
+An interactive, sourced history map of the southern Levant (the land that is today Israel and the Palestinian territories) from 10,000 BCE to today. Move the timeline and the map shows who controlled the land, with every claim linked to its source.
+
+- The design and the reasons behind it are in [PLAN.md](PLAN.md).
+- All historical content lives in [data/](data/). [data/README.md](data/README.md) explains how to read and correct it.
+
+**Status:** Milestone 2. The map, the non-linear timeline, the data validator and a first, thin pass of data for every era are in place. Later milestones add the year panel, population chart, migrations, modern layers, compare mode, stories and full translations (see PLAN.md §14).
+
+---
+
+## 1. One-time setup
+
+You need two programs:
+
+1. **Node.js** (version 22 or newer). Download the "LTS" installer from <https://nodejs.org> and run it. To check, open a terminal and type `node -v`.
+2. **Git** (macOS: it's already installed if `git --version` prints a version).
+
+Then, in a terminal, inside this folder:
+
+```bash
+npm install                # downloads the libraries the site uses (into node_modules/)
+npm run build-basemap      # downloads the elevation tiles for the hillshade (~55 MB, once)
+npx playwright install chromium   # only needed to run the browser tests
+```
+
+## 2. See the site on your computer
+
+```bash
+npm run dev
+```
+
+Open the address it prints (normally <http://localhost:5173>). The page reloads when you change code. **After editing a data file, stop the server (Ctrl+C) and run `npm run dev` again**, so the data is re-checked and rebuilt.
+
+## 3. Check and correct the data
+
+Every fact is in a JSON file under `data/`. To change one:
+
+1. Open the file in a text editor (VS Code recommended: it autocompletes fields and flags mistakes as you type, using the schemas in `schema/`).
+2. Make the change, including the source (see [data/README.md](data/README.md)).
+3. Run the checker:
+
+   ```bash
+   npm run validate-data
+   ```
+
+   It prints `✓ No errors` or a list of problems in plain language, each with the file and record, e.g.
+   `data/polities.json › id "hasmonean-kingdom": Ends (63 BCE) before it starts (140 BCE)`.
+
+   To also list *warnings* (things a reviewer should look at, such as claims resting on one source):
+
+   ```bash
+   npm run validate-data -- --warnings
+   ```
+
+The site refuses to build while the data has errors, so a broken file can never reach the public site.
+
+## 4. Tests
+
+```bash
+npm test                   # fast unit tests (dates, timeline maths, every validator rule)
+npm run build              # full production build (also re-checks the data)
+npm run test:e2e           # opens the built site in a headless browser and clicks through it
+npm run screenshots        # saves screenshots of key views to docs/screenshots/
+```
+
+## 5. Publish the site
+
+The site is a set of static files, so it can be hosted for free. Nothing has been published yet; these are the steps for when you're ready.
+
+### GitHub Pages (recommended)
+
+1. Create an empty repository on <https://github.com> (public, so readers can file corrections).
+2. In this folder:
+
+   ```bash
+   git remote add origin https://github.com/<your-user>/<repo-name>.git
+   git push -u origin main
+   ```
+
+3. On GitHub, open the repository → **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+4. Every push now runs the checks in `.github/workflows/ci.yml`: validate the data, run the tests, build. If they pass on `main`, it publishes to `https://<your-user>.github.io/<repo-name>/`. Progress is under the **Actions** tab.
+
+### Vercel (alternative)
+
+Import the repository at <https://vercel.com/new>. Set the build command to `npm run build-basemap -- --tiles-only && npm run build` and the output directory to `dist`. No other settings are needed.
+
+## 6. What's where
+
+| Path | What it is |
+|---|---|
+| `data/` | All historical content (JSON / GeoJSON). Edit here. |
+| `data/geo/units.json` | The schematic geographic regions that pre-modern territories are built from |
+| `schema/` | Generated JSON Schema files (editor autocomplete). Don't edit by hand. |
+| `scripts/` | Data checker, data build, basemap download |
+| `src/` | The website code (React + TypeScript) |
+| `tests/` | Unit tests and browser tests |
+| `public/` | Static files. `public/data`, `public/tiles` and `public/fonts` are generated; don't edit them. |
+| `docs/screenshots/` | Screenshots from each milestone |
+
+## 7. Credits and licences
+
+- Elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA; US public domain), via AWS Terrain Tiles.
+- Coastlines, rivers, lakes and reference outlines: Natural Earth (public domain).
+- Fonts: Noto Sans, Noto Sans Arabic and Noto Sans Hebrew (SIL Open Font License), via Fontsource.
+- Map rendering: MapLibre GL JS (BSD-3-Clause).
+- Historical sources: every source is listed with its citation in `data/sources.json` (a bibliography page is coming in Milestone 3).
+- This project's own code: MIT ([LICENSE](LICENSE)). Its data: CC BY 4.0, with the exceptions listed in [DATA-LICENSE](DATA-LICENSE).

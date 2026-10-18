@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "arab-kingdom-of-syria",
+        "start": {
+          "year": 1920,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1920,
+          "month": 7,
+          "precision": "month"
+        },
+        "partial_units": [
+          "syria",
+          "golan-heights"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Effective control of the Syrian interior around Damascus; claimed area (Palestine, Lebanon, Transjordan) far larger and not controlled."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-ww1",
+            "quote": "elected Faisal I ... king of a united Syria (including Palestine)"
+          }
+        ],
+        "notes": {
+          "en": "Golan inclusion schematic, as for the preceding Arab administration."
+        },
+        "id": "arab-kingdom-of-syria-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

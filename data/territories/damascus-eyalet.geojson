@@ -1,0 +1,213 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "damascus-eyalet",
+        "start": {
+          "year": 1516,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1660,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains",
+          "madaba-plain",
+          "moab",
+          "edom"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus, Transjordan and Palestine including Safad/Galilee (before Safad's transfer to Sidon) and the Sidon-Beirut district."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "pp. 36-37",
+            "quote": "Throughout the Ottoman period and until the early decades of the nineteenth century Jerusalem was regarded as an ordinary sanjak. On the whole, it was part of the province of Sham (Damascus) and subject to its governor."
+          },
+          {
+            "ref": "baytar-2024-debbane",
+            "locator": "p. 263 (PDF p. 4)",
+            "quote": "Osmanlı yönetimi, 17. yüzyılda Safad, Sayda ve Beyrut sancaklarını, Şam eyaletinden çıkartmış ve 1660 yılında Sayda Eyaleti kurulmuş, Safad ve Beyrut ise bu yeni eyalete sancak olarak bağlanmıştır"
+          },
+          {
+            "ref": "abu-husayn-2004-view-from-istanbul",
+            "locator": "pp. 20-22",
+            "via": "baytar-2024-debbane"
+          },
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "Damascus served as the primary administrative center, since the main route for pilgrims to Mecca passed through this ancient city, which controlled all the territory east of the Rift (Jordan River) Valley, as well as southern Palestine."
+          }
+        ],
+        "notes": {
+          "en": "Transjordan control loose; Lebanon partly under local emirs."
+        },
+        "id": "damascus-eyalet-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "damascus-eyalet",
+        "start": {
+          "year": 1660,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1830,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead",
+          "ammon",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "jezreel",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Sanjaks of Jerusalem, Gaza/Jaffa and Nablus plus Damascus and Transjordan; Galilee now under Sidon."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Administrative Division'",
+            "quote": "the three Sanjaqs of Jerusalem, Jaffa-Gaza, and Nablus were part of the Province of Damascus (Sham), while Acre was the seat of the Province of Saida."
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "p. 37",
+            "quote": "The coastal plains from Jaffa to Gaza formed administrative units of their own: the sanjaks of Gaza and Jaffa."
+          },
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "Damascus served as the primary administrative center, since the main route for pilgrims to Mecca passed through this ancient city, which controlled all the territory east of the Rift (Jordan River) Valley, as well as southern Palestine."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'Ottoman rule'",
+            "quote": "Under the Ottoman Turks, Palestine continued to be linked administratively to Damascus until 1830, when it was placed under Sidon, then under Acre, then once again under Damascus until 1887–88"
+          }
+        ],
+        "notes": {
+          "en": "Under Zahir al-Umar and al-Jazzar parts of the coast (e.g. Jaffa) were at times controlled from Acre."
+        },
+        "id": "damascus-eyalet-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "damascus-eyalet",
+        "start": {
+          "year": 1840,
+          "month": 12,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1865,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead",
+          "ammon",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "jezreel",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus plus the enlarged sanjak of Jerusalem (with Jaffa and Gaza) and Nablus (joined to Jerusalem 1842-1858)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Administrative Division'",
+            "quote": "the three Sanjaqs of Jerusalem, Jaffa-Gaza, and Nablus were part of the Province of Damascus (Sham), while Acre was the seat of the Province of Saida."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization in the Aftermath of Egyptian Withdrawal'",
+            "quote": "in 1858 the Sanjaq of Nablus was severed from Jerusalem and put directly under Damascus, as it had been before the Egyptian occupation."
+          },
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "p. 38",
+            "quote": "In the same year, the new sanjak was separated from the province of Damascus and put directly under Istanbul; a governor of high rank was nominated to govern it. But this arrangement was short lived."
+          }
+        ],
+        "id": "damascus-eyalet-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

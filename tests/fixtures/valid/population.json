@@ -1,0 +1,13 @@
+{
+  "population": [
+    { "id": "census-1", "area": "test-area", "date": { "year": 1922, "month": 10, "precision": "day" }, "total": { "low": 1000, "high": 1000, "best": 1000 }, "basis": "census", "confidence": "documented", "sources": [{ "ref": "source-a", "locator": "Table 1" }],
+      "composition": [{ "axis": "religion", "groups": [
+        { "group": "muslims", "count": { "low": 780, "high": 780, "best": 780 } },
+        { "group": "christians", "count": { "low": 110, "high": 110, "best": 110 } },
+        { "group": "jews", "count": { "low": 110, "high": 110, "best": 110 } } ] }] },
+    { "id": "estimate-1", "area": "test-area", "date": { "year": 100, "circa": true, "precision": "century" }, "total": { "low": 500, "high": 900 }, "basis": "estimate-archaeological", "confidence": "estimated", "sources": [{ "ref": "source-a" }],
+      "composition": [{ "axis": "religion", "groups": [
+        { "group": "jews", "share_pct": { "low": 40, "high": 60 } },
+        { "group": "christians", "share_pct": { "low": 40, "high": 60 } } ] }] }
+  ]
+}

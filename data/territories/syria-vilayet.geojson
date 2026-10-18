@@ -1,0 +1,189 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-vilayet",
+        "start": {
+          "year": 1865,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1872,
+          "month": 7,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "phoenician-coast",
+          "lebanon-mountains",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "'extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)'."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "pp. 38-39",
+            "quote": "The new province—called “Syria”—extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
+            "quote": "decided in May 1872 to separate the three sanjaqs of Acre, Nablus, and Jerusalem from the Province of Syria and to form a new province called Quds-i Sherif Vilayeti"
+          }
+        ],
+        "notes": {
+          "en": "In May-July 1872 Acre, Nablus and Jerusalem were briefly detached as a separate 'Province of Jerusalem' (not mapped as its own slice)."
+        },
+        "id": "syria-vilayet-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-vilayet",
+        "start": {
+          "year": 1872,
+          "month": 7,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1888,
+          "month": 3,
+          "precision": "month"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead",
+          "ammon",
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "phoenician-coast",
+          "lebanon-mountains",
+          "madaba-plain",
+          "moab",
+          "edom"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "As before but without the independent sanjak of Jerusalem."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-1999-sanjak-jerusalem",
+            "locator": "p. 39",
+            "quote": "in the summer of 1872, Nedim separated the sanjak of Jerusalem from the jurisdiction of Damascus, under which it had been for centuries, and constituted it as an independent sanjak subject directly to Istanbul."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
+            "quote": "decided in May 1872 to separate the three sanjaqs of Acre, Nablus, and Jerusalem from the Province of Syria and to form a new province called Quds-i Sherif Vilayeti"
+          }
+        ],
+        "id": "syria-vilayet-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-vilayet",
+        "start": {
+          "year": 1888,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "golan",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "lebanon-mountains",
+          "badia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Reduced inland province after the creation of the Province of Beirut; Balqa (east of the Jordan) appended to it. Ottoman administration reached Karak in the 1890s (which province it belonged to was not verified here)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
+            "quote": "Another change was made in March 1888 when the Porte decided to separate the Province of Syria into two provinces: a reduced Province of Syria and a new Province of Beirut."
+          },
+          {
+            "ref": "abu-manneh-palquest-ottoman-reorganization",
+            "locator": "section 'The Sanjaq of Nablus'",
+            "quote": "Balqa (a subdistrict within the Sanjaq of Nablus to the east of the Jordan River) was appended to the Province of Syria."
+          },
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 4",
+            "quote": "In 1840 Al-Karak was occupied by Ibrahim Pasha; it was administered by the Ottomans in the 1890s"
+          }
+        ],
+        "notes": {
+          "en": "Golan assignment not verified."
+        },
+        "id": "syria-vilayet-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

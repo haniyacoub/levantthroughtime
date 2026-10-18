@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "state-of-palestine",
+        "start": {
+          "year": 1988,
+          "month": 11,
+          "day": 15,
+          "precision": "day"
+        },
+        "units": [
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Territory claimed (and referred to by the UN General Assembly) as the Palestinian territory occupied since 1967 - West Bank, East Jerusalem, Gaza Strip. A claim/recognition footprint, not an area of control."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "unga-res-67-19",
+            "locator": "preamble",
+            "quote": "the Palestinian territory occupied since 1967, including East Jerusalem"
+          },
+          {
+            "ref": "icj-2024-opt-ao",
+            "locator": "para. 78",
+            "quote": "which encompasses the West Bank, East Jerusalem and the Gaza Strip"
+          }
+        ],
+        "notes": {
+          "en": "The 1988 declaration itself did not define borders. Renderers should style this slice as a claim, distinct from the PA's and Hamas's areas of actual administration. Modelling note: a claim, drawn as an outline only; control on the ground is shown by the Palestinian Authority, Hamas-led administration and Israeli military government records."
+        },
+        "id": "state-of-palestine-1",
+        "geometry_method": "units",
+        "extent_type": "claim"
+      }
+    }
+  ]
+}

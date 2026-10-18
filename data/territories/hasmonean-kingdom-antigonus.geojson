@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hasmonean-kingdom-antigonus",
+        "start": {
+          "year": -40,
+          "precision": "year"
+        },
+        "end": {
+          "year": -37,
+          "precision": "year"
+        },
+        "units": [
+          "judea",
+          "judean-desert"
+        ],
+        "partial_units": [
+          "samaria",
+          "lower-galilee",
+          "negev-north",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Jerusalem and the Judean core, contested from 39 by Herod and Roman forces."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "After struggles against Antigonus, the Parthian nominee, in which he was assisted by Roman troops, Herod eventually captured Jerusalem."
+          }
+        ],
+        "id": "hasmonean-kingdom-antigonus-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

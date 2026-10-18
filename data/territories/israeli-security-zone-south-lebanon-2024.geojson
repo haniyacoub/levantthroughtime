@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-security-zone-south-lebanon-2024",
+        "start": {
+          "year": 2024,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2026,
+          "month": 3,
+          "precision": "month"
+        },
+        "partial_units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Five fortified Israeli positions just north of the Blue Line."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "national-2026-09-22-unifil",
+            "quote": "The older bases were established during the Hezbollah-Israel conflict in 2024."
+          }
+        ],
+        "notes": {
+          "en": "Point positions; not an area."
+        },
+        "id": "israeli-security-zone-south-lebanon-2024-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-security-zone-south-lebanon-2024",
+        "start": {
+          "year": 2026,
+          "month": 3,
+          "precision": "month"
+        },
+        "partial_units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Security zone along the border up to about 10-12 km deep (about 6% of Lebanon), bounded by an Israeli-declared 'Yellow Line' whose course shifts; ~30 Israeli positions incl. eight fortified bases (UNIFIL, Sept 2026)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "npr-2026-09-19-south-lebanon",
+            "quote": "Lebanese civilians are prohibited from entering the zone, which covers approximately 6% of the country's territory"
+          },
+          {
+            "ref": "national-2026-09-22-unifil",
+            "quote": "Israeli forces are now operating from nearly 30 military positions across south Lebanon, including eight fortified bases"
+          }
+        ],
+        "notes": {
+          "en": "No polygon. The ground offensive began in March 2026 (day not verified in an opened source)."
+        },
+        "id": "israeli-security-zone-south-lebanon-2024-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ashdod-persian",
+        "start": {
+          "year": -539,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "partial_units": [
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Ashdod and its hinterland on the southern coastal plain; extent not given."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "p. 11"
+          }
+        ],
+        "id": "ashdod-persian-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

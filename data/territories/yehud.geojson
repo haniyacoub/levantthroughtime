@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "yehud",
+        "start": {
+          "year": -539,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "partial_units": [
+          "judea",
+          "judean-desert"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Jerusalem and its surroundings in the central Judean hills, 'far more limited than those of the kingdom of Judah'; Hebron and the south were outside (Edomite/Idumaean). The northern border is debated."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "pp. 15, 21",
+            "quote": "its boundaries were far more limited than those of the kingdom of Judah"
+          },
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Persian empire"
+          }
+        ],
+        "id": "yehud-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

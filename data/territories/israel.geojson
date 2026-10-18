@@ -1,0 +1,161 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israel",
+        "start": {
+          "year": 1948,
+          "month": 5,
+          "day": 14,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "israel-1949",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Israel within the 1949 armistice lines (reached during the 1948-49 war and fixed by the Feb-July 1949 armistice agreements), plus the Mount Scopus exclave in Jerusalem. Before mid-1949 the area held was in flux."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-1948-war",
+            "quote": "Armistice agreements with Egypt, Lebanon, Transjordan (Jordan), and Syria ended the war and established de facto borders for Israel."
+          },
+          {
+            "ref": "huji-bio-history",
+            "quote": "Following the Israeli-Jordanian armistice agreement in 1949, Mount Scopus, including the campus of the Hebrew University, became an Israeli exclave within Jordanian territory."
+          },
+          {
+            "ref": "icj-2004-wall-ao",
+            "locator": "para. 72",
+            "quote": "the Armistice Demarcation Lines ... [were] agreed upon by the Parties without prejudice to future territorial settlements or boundary lines"
+          }
+        ],
+        "notes": {
+          "en": "The armistice lines were explicitly not borders. The no-man's-land areas (nml-latrun, nml-jerusalem) are excluded; demilitarised arrangements along other armistice lines were not researched. In May-July 1948 Israeli-held territory was considerably smaller than israel-1949 in some sectors (e.g. the Negev) and the Old City Jewish Quarter was lost in May 1948 (Britannica)."
+        },
+        "id": "israel-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israel",
+        "start": {
+          "year": 1967,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1981,
+          "month": 12,
+          "day": 14,
+          "precision": "day"
+        },
+        "units": [
+          "israel-1949",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Israel within the 1949 lines plus East Jerusalem, to which Israel applied its law and municipal jurisdiction in June 1967 (not recognised internationally)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "knesset-basic-law-jerusalem",
+            "locator": "s. 5",
+            "quote": "all of the area that is described in the appendix of the proclamation expanding the borders of municipal Jerusalem beginning the 20th of Sivan 5727 (June 28, 1967)"
+          },
+          {
+            "ref": "britannica-west-bank",
+            "quote": "except in East Jerusalem, which Israel incorporated into itself, extending Israeli citizenship, law, and civil administration to the area."
+          },
+          {
+            "ref": "unsc-res-478-1980",
+            "locator": "op. 3",
+            "quote": "all legislative and administrative measures and actions taken by Israel, the occupying Power, which have altered or purport to alter the character and status of the Holy City of Jerusalem ... are null and void"
+          },
+          {
+            "ref": "us-proclamation-9683",
+            "quote": "The specific boundaries of Israeli sovereignty in Jerusalem are subject to final status negotiations between the parties."
+          }
+        ],
+        "notes": {
+          "en": "The enlarged municipal area of 1967 included areas beyond the pre-1967 Jordanian municipality; the east-jerusalem unit is an approximation. Status of the former no-man's-land units after 1967 not researched. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not."
+        },
+        "id": "israel-2",
+        "geometry_method": "units",
+        "contested_units": [
+          "east-jerusalem"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israel",
+        "start": {
+          "year": 1981,
+          "month": 12,
+          "day": 14,
+          "precision": "day"
+        },
+        "units": [
+          "israel-1949",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "As before, plus the Israeli-held part of the Golan Heights after the Golan Heights Law (14 Dec 1981); annexation recognised only by the United States (2019)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "israel-mfa-golan-heights-law",
+            "locator": "text",
+            "quote": "The Law, jurisdiction and administration of the state shall apply to the Golan Heights, as described in the Appendix."
+          },
+          {
+            "ref": "unsc-res-497-1981",
+            "locator": "op. 1",
+            "quote": "the Israeli decision to impose its laws, jurisdiction and administration in the occupied Syrian Golan Heights is null and void and without international legal effect"
+          },
+          {
+            "ref": "us-proclamation-9852",
+            "quote": "the United States recognizes that the Golan Heights are part of the State of Israel."
+          },
+          {
+            "ref": "un-sg-report-s-2000-460",
+            "locator": "para. 17",
+            "quote": "these farmlands lie in an area occupied by Israel since 1967"
+          }
+        ],
+        "notes": {
+          "en": "Golan: the UN and nearly all states regard it as occupied Syrian territory; Israel's 1981 law and the 2019 US proclamation take the opposite position. Shebaa Farms: held by Israel as part of the Golan; Lebanon claims them (supported by Syria in 2000), while the UN placed them in the UNDOF (Syrian) area of operations (S/2000/460). Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not."
+        },
+        "id": "israel-3",
+        "geometry_method": "units",
+        "contested_units": [
+          "east-jerusalem",
+          "golan-heights",
+          "shebaa-farms"
+        ]
+      }
+    }
+  ]
+}

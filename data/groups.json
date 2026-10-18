@@ -1,0 +1,159 @@
+{
+  "$schema": "../schema/groups.schema.json",
+  "groups": [
+    {
+      "id": "arabs",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Arabs"
+      }
+    },
+    {
+      "id": "arabs-and-others",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Arabs and others"
+      }
+    },
+    {
+      "id": "franks",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Franks (Latin Europeans)"
+      }
+    },
+    {
+      "id": "israelites",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Israelites"
+      }
+    },
+    {
+      "id": "jews",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Jews"
+      }
+    },
+    {
+      "id": "local-population",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Local population"
+      }
+    },
+    {
+      "id": "others",
+      "axis": "ethnicity",
+      "name": {
+        "en": "Others"
+      }
+    },
+    {
+      "id": "arabs",
+      "axis": "population-group",
+      "name": {
+        "en": "Arabs"
+      }
+    },
+    {
+      "id": "foreigners",
+      "axis": "population-group",
+      "name": {
+        "en": "Foreigners"
+      }
+    },
+    {
+      "id": "jews",
+      "axis": "population-group",
+      "name": {
+        "en": "Jews"
+      }
+    },
+    {
+      "id": "jews-and-others",
+      "axis": "population-group",
+      "name": {
+        "en": "Jews and others"
+      }
+    },
+    {
+      "id": "others",
+      "axis": "population-group",
+      "name": {
+        "en": "Others"
+      }
+    },
+    {
+      "id": "bahais",
+      "axis": "religion",
+      "name": {
+        "en": "Bahá’ís"
+      }
+    },
+    {
+      "id": "christians",
+      "axis": "religion",
+      "name": {
+        "en": "Christians"
+      }
+    },
+    {
+      "id": "druze",
+      "axis": "religion",
+      "name": {
+        "en": "Druze"
+      }
+    },
+    {
+      "id": "jews",
+      "axis": "religion",
+      "name": {
+        "en": "Jews"
+      }
+    },
+    {
+      "id": "muslims",
+      "axis": "religion",
+      "name": {
+        "en": "Muslims"
+      }
+    },
+    {
+      "id": "no-religion",
+      "axis": "religion",
+      "name": {
+        "en": "No religion"
+      }
+    },
+    {
+      "id": "not-classified-by-religion",
+      "axis": "religion",
+      "name": {
+        "en": "Not classified by religion"
+      }
+    },
+    {
+      "id": "others",
+      "axis": "religion",
+      "name": {
+        "en": "Others"
+      }
+    },
+    {
+      "id": "others-and-unknown",
+      "axis": "religion",
+      "name": {
+        "en": "Others and unknown"
+      }
+    },
+    {
+      "id": "samaritans",
+      "axis": "religion",
+      "name": {
+        "en": "Samaritans"
+      }
+    }
+  ]
+}

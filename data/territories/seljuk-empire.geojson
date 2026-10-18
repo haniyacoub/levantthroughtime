@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "seljuk-empire",
+        "start": {
+          "year": 1071,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1098,
+          "month": 8,
+          "day": 26,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "lower-galilee",
+          "jezreel",
+          "golan",
+          "bashan"
+        ],
+        "partial_units": [
+          "philistia",
+          "upper-galilee",
+          "jordan-valley",
+          "negev-north",
+          "damascus",
+          "carmel-sharon",
+          "gilead"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Interior Palestine and (from 1076) Damascus under Turkmen/Seljuq rulers."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The Fatimid dynasty",
+            "quote": "In 1071 the Seljuqs captured Jerusalem"
+          },
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 73",
+            "quote": "after retaking Jerusalem in 465/1073 Atsiz proclaimed the Abbasid khuṭba in Palestine, thus officially recognizing authority of the Abbasid caliph and the new Seljuq sultan Malik‑Shāh"
+          }
+        ],
+        "notes": {
+          "en": "Fatimid interlude 1072/73; Damascus only from 1076."
+        },
+        "id": "seljuk-empire-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

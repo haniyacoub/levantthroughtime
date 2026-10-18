@@ -1,0 +1,153 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt-new-kingdom",
+        "start": {
+          "year": -1515,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -1293,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "philistia",
+          "shephelah",
+          "judea",
+          "samaria",
+          "carmel-sharon",
+          "jezreel",
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain",
+          "phoenician-coast",
+          "jordan-valley",
+          "negev-north",
+          "judean-desert",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "golan",
+          "bashan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "18th dynasty: Canaan district covering 'all of Palestine from the Egyptian border to Byblos', ruled through vassal city-states with Egyptian centres at Gaza, Jaffa and Beth-shean. Bashan rulers (Ashtaroth) also appear in the Amarna correspondence. Firm control dates from Thutmose III (Megiddo c. 1468)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Late Bronze Age"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 17-19"
+          }
+        ],
+        "id": "egypt-new-kingdom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt-new-kingdom",
+        "start": {
+          "year": -1292,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -1190,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "philistia",
+          "shephelah",
+          "judea",
+          "samaria",
+          "carmel-sharon",
+          "jezreel",
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain",
+          "phoenician-coast",
+          "jordan-valley",
+          "negev-north",
+          "judean-desert",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "golan",
+          "bashan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "19th dynasty: Seti I and Ramesses II consolidate the Asian empire against the Hittites; the vassal system continues."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Late Bronze Age",
+            "quote": "About 1292 BCE the increasingly weak rule of the last pharaohs of the 18th dynasty was replaced by the strong arm of the second and third kings of the 19th dynasty"
+          }
+        ],
+        "id": "egypt-new-kingdom-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt-new-kingdom",
+        "start": {
+          "year": -1189,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -1140,
+          "circa": true,
+          "precision": "decade",
+          "latest": -1130
+        },
+        "units": [
+          "jezreel"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "sinai-north"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "20th-dynasty residual presence: Beth-shean (Ramesses IV finds) and Megiddo (Ramesses VI pedestal) in the northern valleys while Philistines settle the southern coast. Britannica instead says Egyptian rule was extinguished after the 19th dynasty."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 21"
+          },
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Late Bronze Age"
+          }
+        ],
+        "id": "egypt-new-kingdom-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

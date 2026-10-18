@@ -1,0 +1,83 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppna",
+        "start": {
+          "year": -10225,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -9850,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "philistia",
+          "arabah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Khiamian phase. Major PPNA sites lie in lowlands along the edges of the rift valley and the eastern edge of the coastal plain, and the arid margins were almost deserted. Schematic."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "'Archaic Villages of the PPNA'",
+            "quote": "Major PPNA sites in the southern Levant display a propensity for lowland settings in a north-south alignment, especially along the edges of the rift valley (and also along the eastern edge of the coastal plain)."
+          }
+        ],
+        "id": "ppna-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppna",
+        "start": {
+          "year": -9675,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -9050,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "philistia",
+          "arabah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Sultanian phase: Jericho and Netiv Hagdud (1.6-2.0 ha each), Gilgal and Dhra'. Wadi Faynan 16 lies at the edge of the rift (Arabah). Schematic."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "goring-morris-belfer-cohen-2011",
+            "locator": "'Archaic Villages of the PPNA'"
+          }
+        ],
+        "id": "ppna-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

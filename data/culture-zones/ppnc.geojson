@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "ppnc",
+        "start": {
+          "year": -7100,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -6500,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "ammon",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Known mainly from 'Ain Ghazal (Amman area) and the now-submerged coastal site of Atlit Yam (Carmel coast). Only site markers; no regional extent is given."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gopher-1993-coastal-plain",
+            "locator": "chrono-cultural sequence"
+          }
+        ],
+        "id": "ppnc-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

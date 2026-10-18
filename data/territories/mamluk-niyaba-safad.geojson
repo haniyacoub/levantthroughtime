@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-safad",
+        "start": {
+          "year": 1266,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee"
+        ],
+        "partial_units": [
+          "lower-galilee",
+          "golan"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Northern Palestine: 'including areas in modern-day southern Lebanon and the Golan Heights' (Amitai 2017)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "In the north was the niyābah or mamlakah – both of which can be translated as “province” in this context – of Ṣafad, including areas in modern-day southern Lebanon and the Golan Heights."
+          }
+        ],
+        "notes": {
+          "en": "Whether the Acre plain (after 1291) and all of Lower Galilee belonged to Safad was not verified."
+        },
+        "id": "mamluk-niyaba-safad-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

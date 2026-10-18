@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "megiddo-city-state",
+        "start": {
+          "year": -1550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1141,
+          "circa": true,
+          "precision": "decade",
+          "latest": -1113
+        },
+        "partial_units": [
+          "jezreel"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Lowland city-state with a small, densely settled territory; it 'dominated the western sector' of the Jezreel Valley (Rehob held the east)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 16, 19",
+            "quote": "Since Megiddo dominated the western sector of the valley, it is reasonable to suggest that he governed in the east."
+          }
+        ],
+        "id": "megiddo-city-state-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

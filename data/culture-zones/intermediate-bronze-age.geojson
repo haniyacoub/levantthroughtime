@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/culture-zone.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "culture": "intermediate-bronze-age",
+        "start": {
+          "year": -2500,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -2000,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "samaria",
+          "judea",
+          "jordan-valley",
+          "jezreel",
+          "lower-galilee",
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "negev-north",
+          "shephelah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Non-urban, mostly pastoral settlement across the country; Britannica describes 'a number of allied tribes' with tribal centres. Units are a schematic country-wide marker."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-history",
+            "locator": "Early Bronze Age"
+          }
+        ],
+        "notes": {
+          "en": "The start date is contested (see the culture record). Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        },
+        "id": "intermediate-bronze-age-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

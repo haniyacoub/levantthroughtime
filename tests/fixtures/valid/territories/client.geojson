@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "geometry": null, "properties": { "id": "client-1", "polity": "client", "start": { "year": -50, "precision": "year" }, "end": { "year": 50, "precision": "year" }, "units": ["box"], "boundary_certainty": "schematic", "geometry_method": "units", "confidence": "estimated", "sources": [{ "ref": "source-a" }] } }
+  ]
+}

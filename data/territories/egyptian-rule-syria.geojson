@@ -1,0 +1,74 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egyptian-rule-syria",
+        "start": {
+          "year": 1831,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1840,
+          "month": 12,
+          "circa": true,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "golan",
+          "bashan",
+          "damascus",
+          "lebanon-mountains",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Palestine, Lebanon and Syria 'as far north as Adana' (plus Egypt itself, incl. Sinai); Acre taken May 1832; Karak occupied 1840."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-muhammad-ali",
+            "locator": "foreign-policy paragraph",
+            "quote": "His first war against the sultan (1831–33) gained him control of Syria as far north as Adana."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 22",
+            "quote": "Once Akka fell, in May 1832, Ibrahim Pasha quickly established his authority in coastal and inland Syria"
+          },
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 4",
+            "quote": "In 1840 Al-Karak was occupied by Ibrahim Pasha; it was administered by the Ottomans in the 1890s"
+          }
+        ],
+        "id": "egyptian-rule-syria-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

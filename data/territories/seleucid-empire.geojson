@@ -1,0 +1,106 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "seleucid-empire",
+        "start": {
+          "year": -200,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": -142,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "golan",
+          "gilead",
+          "ammon",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "bashan",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Former Ptolemaic Palestine and Phoenicia; from 167 BCE the Judean hills were contested by the Maccabean rebels (Akra garrison in Jerusalem held to 141)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-seleucid-kingdom",
+            "locator": "history",
+            "quote": "the conquest of Coele Syria (Lebanon) and Palestine by Antiochus III (200)"
+          },
+          {
+            "ref": "britannica-palestine-hellenistic",
+            "locator": "The Seleucids",
+            "quote": "The Akra, however, remained in Seleucid hands until 141 bce."
+          }
+        ],
+        "notes": {
+          "en": "Nabataean areas to the south and east excluded."
+        },
+        "id": "seleucid-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "seleucid-empire",
+        "start": {
+          "year": -142,
+          "precision": "year"
+        },
+        "end": {
+          "year": -64,
+          "precision": "year"
+        },
+        "partial_units": [
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "acre-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Residual and shrinking Seleucid authority in Syria and the northern coast while Hasmonean, Nabataean and Ituraean rulers expanded."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-seleucid-kingdom",
+            "locator": "end",
+            "quote": "the formerly mighty Seleucid empire was confined to the provinces of Syria and eastern Cilicia, and even those were under tenuous control"
+          }
+        ],
+        "notes": {
+          "en": "Exact holdings in the map area in the 1st century BCE not established in this pass (e.g. Damascus passed to the Nabataeans c. 85 BCE)."
+        },
+        "id": "seleucid-empire-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

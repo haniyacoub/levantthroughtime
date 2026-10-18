@@ -1,0 +1,113 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palestinian-authority",
+        "start": {
+          "year": 1994,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1995,
+          "month": 9,
+          "precision": "month"
+        },
+        "partial_units": [
+          "gaza-strip",
+          "west-bank"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Most of the Gaza Strip and the Jericho area."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-oslo-accords",
+            "quote": "Within weeks the withdrawal from the cities of Gaza and Jericho was completed, and the PA soon began carrying out civilian functions in those areas."
+          }
+        ],
+        "id": "palestinian-authority-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palestinian-authority",
+        "start": {
+          "year": 1995,
+          "month": 9,
+          "precision": "month"
+        },
+        "end": {
+          "year": 2007,
+          "month": 6,
+          "precision": "month"
+        },
+        "partial_units": [
+          "west-bank",
+          "gaza-strip"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Areas A and B of the West Bank (expanded in stages 1995-2000) and most of Gaza (all of Gaza after Sept 2005)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestinian-authority",
+            "quote": "The PA first assumed some civil functions in 1994, when the Israeli military withdrew from the cities of Gaza and Jericho. Six other cities followed in 1995"
+          },
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "In September 2005 Israel completed the pullout from the territory, and control of the Gaza Strip was transferred to the PA"
+          }
+        ],
+        "notes": {
+          "en": "Area A/B shares and Israeli reoccupation of PA areas in 2002 not modelled."
+        },
+        "id": "palestinian-authority-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palestinian-authority",
+        "start": {
+          "year": 2007,
+          "month": 6,
+          "precision": "month"
+        },
+        "partial_units": [
+          "west-bank"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Areas A and B of the West Bank only (under 40% of the West Bank, since Area C is over 60%)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-gaza-strip",
+            "quote": "a Fatah-led emergency cabinet took control of the West Bank"
+          },
+          {
+            "ref": "ocha-area-c",
+            "quote": "Over 60 per cent of the West Bank is considered Area C"
+          }
+        ],
+        "id": "palestinian-authority-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

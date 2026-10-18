@@ -1,0 +1,78 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "assyrian-province-samerina",
+        "start": {
+          "year": -722,
+          "circa": true,
+          "precision": "year",
+          "latest": -720
+        },
+        "end": {
+          "year": -540,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "samaria"
+        ],
+        "partial_units": [
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Former core of the kingdom of Israel around Samaria; the coastal plain of Dor and Aphek possibly attached (Tappy via Gaß)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gass-2017-assyrian-provinces",
+            "locator": "p. 56 n. 25"
+          }
+        ],
+        "id": "assyrian-province-samerina-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "assyrian-province-samerina",
+        "start": {
+          "year": -539,
+          "precision": "year"
+        },
+        "end": {
+          "year": -332,
+          "precision": "year"
+        },
+        "units": [
+          "samaria"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Persian province of Samaria under the Sanballat family."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "iranica-eber-nari",
+            "locator": "entry"
+          },
+          {
+            "ref": "stern-yehud-vision-reality",
+            "locator": "p. 11"
+          }
+        ],
+        "id": "assyrian-province-samerina-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

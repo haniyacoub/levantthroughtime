@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "decapolis",
+        "start": {
+          "year": -63,
+          "precision": "year"
+        },
+        "end": {
+          "year": 106,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "gilead",
+          "ammon"
+        ],
+        "partial_units": [
+          "jezreel",
+          "jordan-valley",
+          "golan",
+          "bashan",
+          "damascus"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Roughly contiguous city territories east of the Jordan from Damascus to Philadelphia (Amman), plus Scythopolis (Beth Shean) west of the river."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Hasmonean priest-princes",
+            "quote": "All these cities, except Scythopolis, are located east of the Jordan River, extending from Damascus in the north to Philadelphia in the south."
+          }
+        ],
+        "id": "decapolis-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

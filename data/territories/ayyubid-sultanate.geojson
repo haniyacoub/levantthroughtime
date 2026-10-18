@@ -1,0 +1,241 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1171,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1174,
+          "precision": "year"
+        },
+        "units": [
+          "sinai",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egypt (Sinai frontier) only."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-saladin",
+            "locator": "main text",
+            "quote": "in 1171, he abolished the weak and unpopular Shiʿi Fāṭimid caliphate"
+          },
+          {
+            "ref": "britannica-saladin",
+            "locator": "main text",
+            "quote": "Although he remained for a time theoretically a vassal of Nūr al-Dīn, that relationship ended with the Syrian emir’s death in 1174."
+          }
+        ],
+        "id": "ayyubid-sultanate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1174,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1187,
+          "month": 7,
+          "day": 4,
+          "precision": "day"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egypt plus Damascus and southern Syria, taken from 1174 as Saladin united the Muslim territories around the Crusader states."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-saladin",
+            "locator": "main text",
+            "quote": "from 1174 until 1186 he zealously pursued a goal of uniting, under his own standard, all the Muslim territories of Syria, northern Mesopotamia, Palestine, and Egypt."
+          },
+          {
+            "ref": "britannica-saladin",
+            "locator": "main text",
+            "quote": "Although he remained for a time theoretically a vassal of Nūr al-Dīn, that relationship ended with the Syrian emir’s death in 1174."
+          }
+        ],
+        "id": "ayyubid-sultanate-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1187,
+          "month": 7,
+          "day": 4,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1250,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "judea",
+          "samaria",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "jezreel",
+          "negev-north",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "gilead",
+          "ammon",
+          "golan",
+          "bashan",
+          "damascus",
+          "sinai",
+          "sinai-north"
+        ],
+        "partial_units": [
+          "lower-galilee",
+          "upper-galilee",
+          "philistia",
+          "carmel-sharon",
+          "acre-plain",
+          "phoenician-coast",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After Hattin: 'Most of Palestine was once again Muslim'. Interior Palestine, Transjordan (Kerak 1188) and southern Syria under Ayyubid princes; from 1191-92 the coast from Jaffa north was Frankish again, and Jerusalem/Bethlehem with a corridor (and Nazareth) were Frankish 1229-1244."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "On July 4, 1187, six days after the capture of Tiberias, he dealt the Crusaders a crushing blow at the decisive Battle of Ḥaṭṭīn (Ḥiṭṭīn). Most of Palestine was once again Muslim."
+          },
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 3",
+            "quote": "Le Krak du Désert, a heavily fortified Crusader citadel, was built on the site of the ancient fortress in 1132; it fell to the Muslims in 1188"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Third Crusade'",
+            "quote": "on September 2, 1192, the two signed a three-year peace treaty. The coast from Jaffa north remained in Christian hands, but Ascalon was to be restored to Saladin"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusade of Frederick II'",
+            "quote": "Jerusalem, Bethlehem, and a corridor running to the sea were ceded to the kingdom of Jerusalem."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "a 10-year treaty that temporarily restored Jerusalem, Nazareth, and Bethlehem to the Christians. In 1244, however, the Ayyubid sultan al-Ṣāliḥ Ayyūb definitively restored Jerusalem to Islam."
+          },
+          {
+            "ref": "britannica-zefat",
+            "locator": "history paragraph",
+            "quote": "Safed passed from hand to hand during the Crusades until captured by Baybars I, who razed its citadel (1266)."
+          }
+        ],
+        "notes": {
+          "en": "Partial coastal units: Ayyubid 1187-1191, Frankish afterwards. Internal division among Ayyubid princes not mapped. Upper and Lower Galilee partial because parts (e.g. Safad, Nazareth) were Frankish again in the 1240s."
+        },
+        "id": "ayyubid-sultanate-3",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1250,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1260,
+          "month": 9,
+          "day": 3,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "samaria",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "jezreel",
+          "negev-north",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "gilead",
+          "ammon",
+          "golan",
+          "bashan",
+          "damascus"
+        ],
+        "partial_units": [
+          "lower-galilee",
+          "upper-galilee",
+          "philistia",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Syrian Ayyubid principalities only (Egypt and Sinai now Mamluk), until the Mongol invasion of 1260."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-ayyubid-dynasty",
+            "locator": "paragraph 3",
+            "quote": "The Ayyubid decline in Egypt was completed with the Mamluk accession to power following the battle at Al-Manṣūrah (1250), but the dynasty persisted in some areas of Syria until 1260"
+          },
+          {
+            "ref": "iranica-ayyubids-humphreys-1987",
+            "locator": "political-history section",
+            "quote": "When the Mongol cataclysm of 658/1260 destroyed the Syrian Ayyubid kingdom of al-Nāṣer, the Mamluk regime was able to occupy his former dominions."
+          }
+        ],
+        "notes": {
+          "en": "How southern Palestine was divided between the Syrian Ayyubids and Mamluk Egypt in 1250-1260 was not verified; the Mongols briefly held much of the area in 1260 (see ilkhanate)."
+        },
+        "id": "ayyubid-sultanate-4",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "note": "Provenance of every raw input. Files themselves live in data/raw/downloads/ (not committed).",
+  "entries": {
+    "natural-earth/ne_10m_land": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_land.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "1ac90796408bc6ad6911d69448485d3c4dbf2190370080368a09976e1c9f7416",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_10m_coastline": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_coastline.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "6f75ae0e0de157b14946e2255eb1f5486d9a13819032e26d4610852d296788f6",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_10m_rivers_lake_centerlines": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_rivers_lake_centerlines.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "bb854a900ecbd3b408df46d5e16e3e0f974ba55993f9d8b5c26e855273c0905a",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_10m_lakes": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_lakes.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "2d036f53dedec578001c5c30c2959ee7d4eebc1306900fa4367c49929ec8f2d9",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_110m_land": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_110m_land.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_10m_admin_0_disputed_areas": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_disputed_areas.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "9cafef8b7dfb6b164dc58f218f981f4ace9f716f6c03795d4c62d1ac9f3d50f5",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "natural-earth/ne_10m_admin_0_countries": {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson",
+      "retrieved": "2026-10-18",
+      "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+      "license": "Public domain (Natural Earth terms of use)"
+    },
+    "terrain-tiles": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png",
+      "retrieved": "2026-10-18",
+      "license": "Built from SRTM, GMTED2010 and ETOPO1 for this region (US-government public domain). Credit: USGS, NOAA.",
+      "note": "zooms/bboxes: [{\"zooms\":[0,10],\"bbox\":[31.5,27.8,39,34.8]}]; 739 tiles"
+    }
+  }
+}

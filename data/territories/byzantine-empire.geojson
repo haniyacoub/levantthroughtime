@@ -1,0 +1,166 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "byzantine-empire",
+        "start": {
+          "year": 395,
+          "precision": "year"
+        },
+        "end": {
+          "year": 614,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole map area (Palaestina I–III, Arabia, Phoenice, Egypt)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "the country enjoyed peace and prosperity until 611, when Khosrow II, king of Persia, launched an invasion of Byzantine territory"
+          }
+        ],
+        "id": "byzantine-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "byzantine-empire",
+        "start": {
+          "year": 628,
+          "precision": "year",
+          "latest": 630
+        },
+        "end": {
+          "year": 636,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Restored after the Persian withdrawal; then the Arab invasions (from 634)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "In 628 the Byzantine emperor Heraclius recovered Palestine"
+          },
+          {
+            "ref": "howard-johnston-iranica-khosrow-ii",
+            "locator": "end of the war",
+            "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+          }
+        ],
+        "id": "byzantine-empire-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "byzantine-empire",
+        "start": {
+          "year": 636,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 640,
+          "month": 10,
+          "precision": "month"
+        },
+        "partial_units": [
+          "judea",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Only Jerusalem (to 638) and Caesarea (to October 640) held out after the Yarmuk."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+          }
+        ],
+        "id": "byzantine-empire-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

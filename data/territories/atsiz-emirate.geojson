@@ -1,0 +1,99 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "atsiz-emirate",
+        "start": {
+          "year": 1071,
+          "precision": "year",
+          "latest": 1073
+        },
+        "end": {
+          "year": 1076,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "shephelah"
+        ],
+        "partial_units": [
+          "philistia",
+          "samaria",
+          "negev-north",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Ramla, Jerusalem and nearby lands, excluding Ascalon; Gaza and Jaffa among the towns that later rebelled against him."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 70",
+            "quote": "captured Ramla, then Jerusalem, as well as nearby lands except Asqalan"
+          },
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 74",
+            "quote": "Ramla, Ghazza, Jaffa and other towns also rebelled against Atsiz"
+          }
+        ],
+        "id": "atsiz-emirate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "atsiz-emirate",
+        "start": {
+          "year": 1076,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1078,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "shephelah",
+          "damascus"
+        ],
+        "partial_units": [
+          "philistia",
+          "samaria",
+          "negev-north",
+          "carmel-sharon",
+          "bashan",
+          "golan",
+          "lower-galilee"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Palestine plus Damascus, taken in Dhu l-Qa'da 468 (June–July 1076)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "matveev-2010",
+            "locator": "p. 73",
+            "quote": "he could take the city the following year (in Dhū‑l‑Qa‘da 468/June‑July 1076)"
+          }
+        ],
+        "id": "atsiz-emirate-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "$schema": "../schema/areas.schema.json",
+  "areas": [
+    {
+      "id": "western-palestine",
+      "name": {
+        "en": "Western Palestine (Mediterranean to the Jordan, roughly Mandate Palestine)"
+      },
+      "definition": {
+        "en": "Bachi: 'a territory roughly corresponding to that of Palestine under British Mandate'. Broshi 1979: 'Western Palestine' (his urban calculation covers c. 15,000 sq. km excluding the Negev, which he treats separately). Broshi & Gophna 1986 and Bunimovitz/Broshi 1993 (via Kennedy): 'Western Palestine'. Broshi & Finkelstein 1992 abstract: 'the entire country' (whether Transjordanian areas are included was not verified). Schwartz 2006: 'Palestine'."
+      },
+      "series": "core",
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table 1.1 title, pp. 4-5"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 3"
+        }
+      ]
+    },
+    {
+      "id": "palestine-both-banks",
+      "name": {
+        "en": "Palestine on both sides of the Jordan"
+      },
+      "definition": {
+        "en": "Avi-Yonah 1976: 'The whole population of Palestine on both sides of the Jordan' (Roman province area incl. Transjordanian districts)."
+      },
+      "sources": [
+        {
+          "ref": "avi-yonah-1976-jews-of-palestine",
+          "locator": "section on the period after the Bar Kokhba war"
+        }
+      ]
+    },
+    {
+      "id": "palestine-first-century-varied",
+      "name": {
+        "en": "Palestine as variously defined by first-century estimates"
+      },
+      "definition": {
+        "en": "Bachi Table A3 lists estimates 'for Palestine in the first century C.E.'; Bachi notes the Roman province 'did not coincide with British Mandate Palestine, as it included territories on the East Bank of the Jordan', that some authors probably had the Roman frame in mind and others modern Palestine; Beloch's figure explicitly includes Transjordan."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "p. 17 n. 1; Table A3 n. 14"
+        }
+      ]
+    },
+    {
+      "id": "palestine-area-undefined",
+      "name": {
+        "en": "Palestine (area not clearly defined)"
+      },
+      "definition": {
+        "en": "Bachi Table A1 n. 1 on Avi-Yonah's 8th-century figure: 'The area to which the data refers is not clearly defined.'"
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A1 n. 1, p. 356"
+        }
+      ]
+    },
+    {
+      "id": "canaan-late-bronze-kennedy",
+      "name": {
+        "en": "Late Bronze Age Canaan (Kennedy's definition)"
+      },
+      "definition": {
+        "en": "Kennedy 2013: c. 40,000 sq. km, corresponding 'to the general area of the modern political entities of Israel, the Palestinian Territories, Jordan, southern Lebanon, and southwestern Syria' (boundaries detailed in his ch. 2)."
+      },
+      "sources": [
+        {
+          "ref": "kennedy-2013-late-bronze-canaan",
+          "locator": "p. 28 (sec. 1.7), p. 580"
+        }
+      ]
+    },
+    {
+      "id": "canaan-late-bronze-general",
+      "name": {
+        "en": "Late Bronze Age Canaan (boundaries not specified)"
+      },
+      "definition": {
+        "en": "Albright's 'Late Bronze Age Canaan' as reported by Kennedy 2013; boundaries not stated in the passage seen."
+      },
+      "sources": [
+        {
+          "ref": "kennedy-2013-late-bronze-canaan",
+          "locator": "pp. 1, 23"
+        }
+      ]
+    },
+    {
+      "id": "canaan-city-states-finkelstein",
+      "name": {
+        "en": "Territories of the Canaanite city-states (settled population only)"
+      },
+      "definition": {
+        "en": "Finkelstein 1996 as reported by Kennedy 2013: 'the city-states of part of Canaan (not rural or nomadic areas)'."
+      },
+      "sources": [
+        {
+          "ref": "kennedy-2013-late-bronze-canaan",
+          "locator": "p. 23"
+        }
+      ]
+    },
+    {
+      "id": "central-hill-country",
+      "name": {
+        "en": "Central hill country (Jezreel to Beersheba valleys)"
+      },
+      "definition": {
+        "en": "Finkelstein 2013: 'The central hill country-between the Jezreel and the Beer-sheba Valleys'."
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 37"
+        }
+      ]
+    },
+    {
+      "id": "kingdom-of-israel",
+      "name": {
+        "en": "Kingdom of Israel (northern kingdom)"
+      },
+      "definition": {
+        "en": "Finkelstein 2013: Israel 'on both sides of the Jordan River in its peak prosperity in the middle of the eighth century'."
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 110"
+        }
+      ]
+    },
+    {
+      "id": "israel-and-judah",
+      "name": {
+        "en": "Kingdoms of Israel and Judah together"
+      },
+      "definition": {
+        "en": "Bachi Table A1 column 'Jewish population of Israel and Judah together' (figures by Albright and Baron, based on biblical census data)."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A1, p. 356"
+        }
+      ]
+    },
+    {
+      "id": "judah",
+      "name": {
+        "en": "Kingdom of Judah"
+      },
+      "definition": {
+        "en": "Bachi Table A1 column 'Jewish population of Judah' (Albright, Baron)."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A1, p. 356"
+        }
+      ]
+    },
+    {
+      "id": "yehud",
+      "name": {
+        "en": "Persian province of Yehud"
+      },
+      "definition": {
+        "en": "Finkelstein 2018 (2010): 'from south of Ramat Rahel to Mizpah and from the Dead Sea to the border between the highlands and the Shephelah'; he notes Carter and Lipschits 'included in their calculations areas north of Mizpah and south of Beth-zur, and Lipschits added parts of the Shephelah'. Bachi: 'a small area of some 3,000 sq. kms. around Jerusalem'."
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "p. 58"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "p. 17"
+        }
+      ]
+    },
+    {
+      "id": "judea-hasmonean",
+      "name": {
+        "en": "Judea in the early Hellenistic / early Hasmonean period"
+      },
+      "definition": {
+        "en": "Finkelstein 2018 (2010): Judea stretching 'from the area of Beth-zur, or just north of it, to Mizpah and from the Judean desert to the eastern Shephelah' (Yehud plus the upper Shephelah and the Mizpah area)."
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "pp. 62-64"
+        }
+      ]
+    },
+    {
+      "id": "negev",
+      "name": {
+        "en": "Negev (south of the Beersheba and Arad plains)"
+      },
+      "definition": {
+        "en": "Broshi 1979: 'We define the Negev as the southern region of Palestine, south of the Beersheba and Arad Plains.'"
+      },
+      "sources": [
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 1"
+        }
+      ]
+    },
+    {
+      "id": "jerusalem-city",
+      "name": {
+        "en": "Jerusalem (city)"
+      },
+      "definition": {
+        "en": "The inhabited town; extent varies by period and by author (e.g. Broshi: walled/built-up area times density; Benvenisti: the Crusader walled city, c. 720 inhabited dunams; Finkelstein: Persian-period settled area of c. 20-25 dunams; Lipschits: c. 60 dunams). Some estimates include surroundings (noted per record)."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 5, Table A5"
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26"
+        }
+      ]
+    },
+    {
+      "id": "crusader-kingdom-of-jerusalem",
+      "name": {
+        "en": "Frankish (Crusader) Kingdom of Jerusalem / 'the Holy Land' under Frankish rule"
+      },
+      "definition": {
+        "en": "Benvenisti 1970: Frankish settlements 'widely scattered in all parts of the country from the borders of Sinai to the foot of the Hermon range and from Jericho to the Litany valley'; his settlement list also includes Beirut, Sidon, Karak, Shaubak and Eilat."
+      },
+      "sources": [
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "pp. 18-19"
+        }
+      ]
+    },
+    {
+      "id": "ottoman-four-sanjaqs",
+      "name": {
+        "en": "Ottoman sanjaqs of Gaza, Jerusalem, Nablus and Safed"
+      },
+      "definition": {
+        "en": "Lewis 1952 (via Bachi): total for the four sanjaqs; Bachi notes that about 40% of the rural population of the Sanjaq of Safed lay outside the later Mandatory Palestine, and adjusts his own estimates to the Mandate area."
+      },
+      "series": "core",
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 3B, pp. 363-365"
+        }
+      ]
+    },
+    {
+      "id": "ottoman-jerusalem-nablus-acre",
+      "name": {
+        "en": "Ottoman sanjaks of Jerusalem, Nablus (Balqa) and Acre"
+      },
+      "definition": {
+        "en": "The three Ottoman districts that later formed most of Mandate Palestine: the independent sanjak (mutasarriflik) of Jerusalem (kazas of Jerusalem, Jaffa, Gaza, Hebron), and the sanjaks of Nablus/Balqa (Nablus, Beni Saab, Jamain, Jenin) and Acre (Acre, Haifa, Safad, Nazareth, Tiberias) of Beirut province. McCarthy holds Nablus to its post-1890 borders, excluding regions east of the Jordan, and states the Mandate territory was 'with small differences' made up of these three sanjaks. Schölch's 1850-1882 totals for the three livas exclude the Bedouin of southern Palestine. Barron's 1914 figures map the three mutasarrifliks onto the 1922 census districts (Jerusalem = Southern + Jerusalem-Jaffa; Nablus = Samaria; Acre = Northern)."
+      },
+      "series": "core",
+      "sources": [
+        {
+          "ref": "mccarthy-1990",
+          "locator": "pp. 5-6, Tables 1.2-1.3"
+        },
+        {
+          "ref": "scholch-1993",
+          "locator": "pp. 39-42, Table 15"
+        },
+        {
+          "ref": "barron-1923",
+          "locator": "p. 3, para. 9"
+        }
+      ]
+    },
+    {
+      "id": "mandate-palestine",
+      "name": {
+        "en": "Palestine (Mandate territory, west of the Jordan)"
+      },
+      "definition": {
+        "en": "The territory of British Mandate Palestine as enumerated in the 1922 and 1931 censuses (incl. the Beersheba sub-district and its Bedouin, whose numbers were estimated in 1922 and enumerated by special non-synchronous methods in 1931). For pre-1918 estimates by Bachi, 'Palestine' in roughly these limits (Bachi notes 'the vagueness of Palestine's geographical limits' before the Mandate). For post-1948 whole-territory totals (Bachi 1967/1975, DellaPergola 2000), the sum of Israel (CBS, incl. East Jerusalem) and the West Bank and Gaza Strip as combined by the source."
+      },
+      "series": "core",
+      "sources": [
+        {
+          "ref": "barron-1923",
+          "locator": "pp. 1-4"
+        },
+        {
+          "ref": "mills-1932",
+          "locator": "preface"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, p. 367; Table 1.1"
+        }
+      ]
+    },
+    {
+      "id": "israel-cbs",
+      "name": {
+        "en": "Israel as counted by Israel's Central Bureau of Statistics"
+      },
+      "definition": {
+        "en": "Population of Israel as counted/estimated by CBS. Includes East Jerusalem from 1967 (Bachi Table 1.1 note 3: 'Including East Jerusalem'). CBS district tables include the Golan sub-district (1972: population of Israeli localities only; from 1983 the total population) and the 'Judea and Samaria Area' (Israeli localities only; from 1972; in 1972 incl. Sinai; in 1972, 1983 and 1995 incl. the Israeli localities in the Gaza Area and northern Samaria evacuated in August 2005). From the 2022 census onward CBS estimates also include the foreign population, shown separately from 'Israelis'; 2000-2022 totals and the Arab population include Lebanese not classified by religion."
+      },
+      "sources": [
+        {
+          "ref": "cbs-sai-2025-t2-11",
+          "locator": "notes 2-4"
+        },
+        {
+          "ref": "cbs-sai-2025-t2-01",
+          "locator": "notes 5-6"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table 1.1, note 3"
+        }
+      ]
+    },
+    {
+      "id": "palestine-pcbs",
+      "name": {
+        "en": "State of Palestine (PCBS: West Bank incl. Jerusalem, and Gaza Strip)"
+      },
+      "definition": {
+        "en": "PCBS coverage: 'Data referred to in this document represent Palestine (West Bank including Jerusalem and Gaza Strip) unless otherwise stated.' Jerusalem governorate includes area J1, the part annexed by Israel in 1967."
+      },
+      "sources": [
+        {
+          "ref": "pcbs-2026-palestine-in-figures-2025",
+          "locator": "Notes, p. 5",
+          "quote": "Data referred to in this document represent Palestine (West Bank including Jerusalem and Gaza Strip) unless otherwise stated."
+        }
+      ]
+    },
+    {
+      "id": "west-bank-pcbs",
+      "name": {
+        "en": "West Bank (PCBS, incl. Jerusalem governorate J1 and J2)"
+      },
+      "definition": {
+        "en": "PCBS 'West Bank': the eleven West Bank governorates including Jerusalem governorate (J1 = the part of the governorate annexed by Israel in 1967, i.e. East Jerusalem and adjacent localities; J2 = the rest)."
+      },
+      "sources": [
+        {
+          "ref": "pcbs-2018-census-summary",
+          "locator": "Table 2; definitions of J1"
+        },
+        {
+          "ref": "pcbs-2026-palestine-in-figures-2025",
+          "locator": "Notes, p. 5"
+        }
+      ]
+    },
+    {
+      "id": "gaza-pcbs",
+      "name": {
+        "en": "Gaza Strip (PCBS)"
+      },
+      "definition": {
+        "en": "PCBS 'Gaza Strip': governorates of North Gaza, Gaza, Deir al-Balah, Khan Yunis and Rafah."
+      },
+      "sources": [
+        {
+          "ref": "pcbs-2018-census-summary",
+          "locator": "Table 2"
+        }
+      ]
+    },
+    {
+      "id": "west-bank",
+      "name": {
+        "en": "West Bank (Jordanian definition, incl. East Jerusalem)"
+      },
+      "definition": {
+        "en": "The West Bank as covered by Jordanian statistics 1950-1967: the Nablus, Jerusalem and Hebron districts, including (Jordanian) East Jerusalem."
+      },
+      "sources": [
+        {
+          "ref": "ennab-1994",
+          "locator": "Table 3.5"
+        }
+      ]
+    },
+    {
+      "id": "west-bank-excl-east-jerusalem",
+      "name": {
+        "en": "West Bank excluding East Jerusalem (Israeli CBS 'Judea and Samaria')"
+      },
+      "definition": {
+        "en": "The West Bank as covered by the Israeli census of September 1967 and later Israeli CBS estimates for the 'administered territories': excludes East Jerusalem (counted within Israel's Jerusalem from 1967); Arab population only (Israeli settlers are counted by CBS within Israel's population)."
+      },
+      "sources": [
+        {
+          "ref": "cbs-census-1967-vol1",
+          "locator": "Vol. 1, Table I, note (b) 'Excluding East Jerusalem'"
+        },
+        {
+          "ref": "ennab-1994",
+          "locator": "Table 2.1, note b/"
+        }
+      ]
+    },
+    {
+      "id": "east-jerusalem",
+      "name": {
+        "en": "East Jerusalem (area added to Jerusalem municipality in 1967)"
+      },
+      "definition": {
+        "en": "The area incorporated into Jerusalem's municipal boundaries by Israel in 1967: the former Jordanian municipality (Old City and areas outside the walls) plus surrounding localities (e.g. Tur, Isawiya, Shu'fat, eastern Beit Hanina, Sur Bahir, Beit Safafa), as used in the CBS 1967 East Jerusalem census."
+      },
+      "sources": [
+        {
+          "ref": "cbs-census-1967-vol6",
+          "locator": "Vol. 6, intro Table A"
+        }
+      ]
+    },
+    {
+      "id": "gaza-strip",
+      "name": {
+        "en": "Gaza Strip (non-PCBS figures)"
+      },
+      "definition": {
+        "en": "The Gaza Strip as administered by Egypt 1948/49-1967 and as enumerated by Israel's CBS in 1967 and later CBS estimates (CBS sometimes combined it with North Sinai; noted per record)."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 8, pp. 412-413"
+        },
+        {
+          "ref": "cbs-census-1967-vol1",
+          "locator": "Vol. 1, Table B"
+        }
+      ]
+    },
+    {
+      "id": "west-bank-gaza-cbs",
+      "name": {
+        "en": "West Bank (excl. East Jerusalem) and Gaza Strip combined (Bachi/CBS 'Judea, Samaria and Gaza')"
+      },
+      "definition": {
+        "en": "Bachi's combined 'Judea, Samaria and Gaza': the West Bank excluding East Jerusalem plus the Gaza Strip, excluding North Sinai and the Golan."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table 1.1, part II"
+        }
+      ]
+    },
+    {
+      "id": "israeli-settlers-west-bank",
+      "name": {
+        "en": "Israeli localities in the West Bank (CBS 'Judea and Samaria Area')"
+      },
+      "definition": {
+        "en": "Population of Israeli localities in the 'Judea and Samaria Area' as counted by CBS; excludes East Jerusalem (counted in CBS Jerusalem District). CBS notes: in 1972 incl. also Sinai; in 1972, 1983 and 1995 incl. the Israeli localities in the Gaza Area and northern Samaria evacuated in August 2005."
+      },
+      "sources": [
+        {
+          "ref": "cbs-sai-2025-t2-11",
+          "locator": "row 'Judea and Samaria Area', note 3"
+        }
+      ]
+    },
+    {
+      "id": "settlers-west-bank-pcbs",
+      "name": {
+        "en": "Israeli settlers in the West Bank (PCBS figure)"
+      },
+      "definition": {
+        "en": "'Number of Settlers in the West Bank' as given by PCBS, sourced to the Colonization & Wall Resistance Commission settlements database and Israel CBS Statistical Abstracts. The table does not define its geographic coverage (e.g. whether East Jerusalem is included)."
+      },
+      "sources": [
+        {
+          "ref": "pcbs-2026-palestine-in-figures-2025",
+          "locator": "p. 126, Selected Indicators on Occupation Sites"
+        }
+      ]
+    },
+    {
+      "id": "unscop-jewish-state",
+      "name": {
+        "en": "Proposed Jewish State (UNSCOP majority plan, Sept 1947)"
+      },
+      "definition": {
+        "en": "The Jewish State as drawn in the UNSCOP majority 'Plan of Partition with Economic Union' (report of 3 Sept 1947); these boundaries were later modified before the General Assembly vote of 29 Nov 1947."
+      },
+      "sources": [
+        {
+          "ref": "unscop-1947",
+          "locator": "Chapter VI, Part II, Boundaries"
+        }
+      ]
+    },
+    {
+      "id": "unscop-arab-state",
+      "name": {
+        "en": "Proposed Arab State (UNSCOP majority plan, Sept 1947)"
+      },
+      "definition": {
+        "en": "The Arab State as drawn in the UNSCOP majority plan (3 Sept 1947); boundaries later modified before the General Assembly vote."
+      },
+      "sources": [
+        {
+          "ref": "unscop-1947",
+          "locator": "Chapter VI, Part II, Boundaries"
+        }
+      ]
+    },
+    {
+      "id": "unscop-jerusalem",
+      "name": {
+        "en": "City of Jerusalem under international regime (UNSCOP majority plan)"
+      },
+      "definition": {
+        "en": "The City of Jerusalem as defined in the UNSCOP majority plan (3 Sept 1947)."
+      },
+      "sources": [
+        {
+          "ref": "unscop-1947",
+          "locator": "Chapter VI, Part II, Boundaries; Part III"
+        }
+      ]
+    }
+  ]
+}

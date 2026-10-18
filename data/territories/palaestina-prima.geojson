@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "palaestina-prima",
+        "start": {
+          "year": 395,
+          "circa": true,
+          "precision": "decade",
+          "latest": 409
+        },
+        "end": {
+          "year": 640,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "negev-north",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Judaea and Samaria with the coast; capital Caesarea."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "le-strange-1890",
+            "locator": "p. 26",
+            "quote": "Palaestina Prima, with Caesarea for its capital, comprising Judaea and Samaria, became the Arab Jund of Filastin"
+          }
+        ],
+        "id": "palaestina-prima-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

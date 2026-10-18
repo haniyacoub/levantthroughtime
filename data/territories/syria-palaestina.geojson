@@ -1,0 +1,170 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-palaestina",
+        "start": {
+          "year": 135,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 300,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "carmel-sharon",
+          "lower-galilee",
+          "jezreel",
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "gilead",
+          "madaba-plain",
+          "golan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Former province of Judaea under its new name; capital Caesarea Maritima; Jerusalem refounded as Aelia Capitolina."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem."
+          }
+        ],
+        "id": "syria-palaestina-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-palaestina",
+        "start": {
+          "year": 300,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": 357,
+          "circa": true,
+          "precision": "year",
+          "latest": 390
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "carmel-sharon",
+          "lower-galilee",
+          "jezreel",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "edom",
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "gilead",
+          "madaba-plain",
+          "golan",
+          "sinai",
+          "moab"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Enlarged by the southern part of Arabia (southern Transjordan, Negev, most of Sinai)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract",
+            "quote": "the transfer of southern Transjordan, the Negev and most of the Sinai Peninsula from Arabia to Palaestina under the Tetrarchy"
+          },
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "It is clear that the province of Palaestina underwent several territorial changes in the 4th century ce, but the details and the chronology remain obscure."
+          }
+        ],
+        "notes": {
+          "en": "Some scholars have proposed repeated back-and-forth transfers of the south in 300–390 (rejected by Di Segni)."
+        },
+        "id": "syria-palaestina-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "syria-palaestina",
+        "start": {
+          "year": 357,
+          "circa": true,
+          "precision": "year",
+          "latest": 390
+        },
+        "end": {
+          "year": 395,
+          "circa": true,
+          "precision": "decade",
+          "latest": 409
+        },
+        "units": [
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "carmel-sharon",
+          "lower-galilee",
+          "jezreel",
+          "jordan-valley"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "negev-north",
+          "gilead",
+          "madaba-plain",
+          "golan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After the separation of Palaestina Salutaris in the south."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "in 357–358 (or perhaps as late as the 390s) the addition was made a separate province under the name of Palaestina or Salutaris (later Palaestina Tertia)"
+          }
+        ],
+        "id": "syria-palaestina-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

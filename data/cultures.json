@@ -1,0 +1,444 @@
+{
+  "$schema": "../schema/cultures.schema.json",
+  "cultures": [
+    {
+      "id": "late-natufian",
+      "name": {
+        "en": "Late and Final Natufian (incl. Harifian)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -11550,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -9800,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "13,500–12,750 Late Natufian Late Natufian"
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "12,500–11,750 Final Natufian Harifian"
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "The Stone Age and the Copper Age",
+          "quote": "The Mesolithic Period (Middle Stone Age) is best represented by a culture called Natufian, known from excavations at ʿAin Mallāha and Jericho."
+        }
+      ],
+      "notes": {
+        "en": "Dates are cal BP converted as BCE = BP - 1950: Late Natufian 13,500-12,750 cal BP (c. 11,550-10,800 BCE), Final Natufian 12,500-11,750 cal BP (c. 10,550-9,800 BCE). The record starts before the 10,000 BCE map start so the Late phase is included. The Harifian is the Negev/Sinai local variant of the Final Natufian. Goring-Morris & Belfer-Cohen note 'slight discrepancies' between this table and other tables by the same authors."
+      }
+    },
+    {
+      "id": "ppna",
+      "name": {
+        "en": "Pre-Pottery Neolithic A (Khiamian and Sultanian)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -10225,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -9050,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "12,175–11,800 Early Neolithic PPNA Khiamian"
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "11,625–11,000 Sultanian (Final Harifian)"
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Archaic Villages of the PPNA",
+          "quote": "a mere 1,000 calendrical years (or ∼40 generations)"
+        },
+        {
+          "ref": "britannica-jericho",
+          "locator": "archaeology paragraphs",
+          "quote": "By about 8000 bce the inhabitants had grown into an organized community capable of building a massive stone wall around the settlement, strengthened at one point at least by a massive stone tower."
+        }
+      ],
+      "notes": {
+        "en": "Khiamian 12,175-11,800 cal BP (c. 10,225-9,850 BCE); Sultanian 11,625-11,000 cal BP (c. 9,675-9,050 BCE). Early Jericho (Tell es-Sultan) with its wall and tower belongs to this phase. Britannica's 'about 8000 bce' for Jericho's wall follows an older, uncalibrated chronology and is younger than the calibrated ranges. Most sites were abandoned at the end of the PPNA."
+      }
+    },
+    {
+      "id": "ppnb",
+      "name": {
+        "en": "Pre-Pottery Neolithic B (Early, Middle and Late)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -9000,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -6950,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "10,950–10,300 Early Neolithic PPNB Early PPNB Early PPNB"
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "9400–8900 Late PPNB Late PPNB"
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "PPNB Village Society",
+          "quote": "The southern Levant settlements were initially founded in a narrow corridor along a north-south axis on the western edge of the Trans-Jordanian Plateau (and to some extent the Jordan Valley) from Aswad to southern Edom"
+        },
+        {
+          "ref": "britannica-jericho",
+          "locator": "archaeology paragraphs",
+          "quote": "These occupants were succeeded about 7000 bce by a second group, bringing a culture that was still Neolithic and still not manufacturing pottery"
+        }
+      ],
+      "notes": {
+        "en": "Early PPNB 10,950-10,300 cal BP (c. 9,000-8,350 BCE); Middle PPNB 10,150-9,725 cal BP (c. 8,200-7,775 BCE); Late PPNB 9,400-8,900 cal BP (c. 7,450-6,950 BCE). The table leaves gaps and overlaps between sub-phases. In the south the Early PPNB was a short 'bridging episode'. Late PPNB 'megasites' of up to 30 acres grew up along the north-south axis. Britannica's 'about 7000 bce' for PPNB Jericho is an older, uncalibrated figure."
+      }
+    },
+    {
+      "id": "ppnc",
+      "name": {
+        "en": "Pre-Pottery Neolithic C (Final PPNB)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -7100,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -6500,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Table 1",
+          "quote": "9050–8450 Final PPNB (PPNC) Final PPNB (PPNC)"
+        },
+        {
+          "ref": "gopher-1993-coastal-plain",
+          "locator": "chrono-cultural sequence",
+          "quote": "The only large PPNC early 6th millennium B.C. site of Atlit Yam"
+        }
+      ],
+      "notes": {
+        "en": "9,050-8,450 cal BP is c. 7,100-6,500 BCE. Goring-Morris & Belfer-Cohen call the phase 'Final PPNB (PPNC)'. Gopher (1993) equates his earliest coastal unit with what Rollefson termed PPNC at 'Ain Ghazal, but gives uncalibrated dates ('first half of the sixth millennium B.C.'). The PPNC/PPNB boundary ranges overlap in the table."
+      }
+    },
+    {
+      "id": "yarmukian",
+      "name": {
+        "en": "Yarmukian culture"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -6400,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -5900,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "vieugue-et-al-2016-yarmukian",
+          "locator": "p. 99",
+          "quote": "The Yarmukian lasted from 6400 to 5900 cal. BC, that is over a time span of 500 years."
+        },
+        {
+          "ref": "banning-2007-wadi-rabah",
+          "locator": "section on the Yarmoukian",
+          "quote": "suggests that the Yarmoukian began ca 6527-6376 cal. BC, and ended ca 5988-5762 cal. BC"
+        }
+      ],
+      "notes": {
+        "en": "The first Pottery Neolithic culture to produce pottery on a large scale in the southern Levant. Key sites: Sha'ar Hagolan, Munhata, Nahal Zehora II, 'Ain Ghazal, Jebel Abu Thawwab. Banning's Bayesian model gives slightly wider start and end windows than Vieugué et al. Dates are calibrated."
+      }
+    },
+    {
+      "id": "lodian-jericho-ix",
+      "name": {
+        "en": "Lodian culture (Jericho IX)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -5900,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -5800,
+        "circa": true,
+        "precision": "century",
+        "latest": -5450
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "gopher-1993-coastal-plain",
+          "locator": "chrono-cultural sequence",
+          "quote": "the Jericho IX assemblages represent a cultural entity which we prefer to call the Lodian culture which, in our opinion, post-dates the Yarmukian, and may in a way be considered its later derivative"
+        },
+        {
+          "ref": "banning-2007-wadi-rabah",
+          "locator": "section 'Jericho IX (Lodian) in the southern Levant'",
+          "quote": "The most serious gap in our knowledge of southern Levantine chronology is the dearth of dates from definite Jericho IX contexts"
+        },
+        {
+          "ref": "banning-2007-wadi-rabah",
+          "locator": "section 'Jericho IX (Lodian) in the southern Levant'",
+          "quote": "A simple abutting model for these two dates leads to an estimate for this boundary at ca 5654-5450 cal. BC."
+        },
+        {
+          "ref": "banning-2007-wadi-rabah",
+          "locator": "introduction",
+          "quote": "it is not at all clear that they are using these terms to mean the same thing, or even that these terms remain useful."
+        }
+      ],
+      "notes": {
+        "en": "Contested as a separate culture and in its dating. Gopher (1993) treats the Lodian/Jericho IX as a distinct culture later than the Yarmukian, giving uncalibrated dates. Banning (2007) finds very few radiocarbon dates; his models put it between the Yarmukian (ending c. 5984-5832 cal BC if Jericho IX intervened) and Wadi Rabah. Wadi Rabah's start is c. 5813-5708 cal BC in one model, and a two-date Jericho IX/Wadi Rabah boundary falls at c. 5654-5450 cal BC. Banning also questions whether these labels remain useful. Start and end here are coarse brackets taken from those figures."
+      }
+    },
+    {
+      "id": "wadi-rabah",
+      "name": {
+        "en": "Wadi Rabah culture"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -5813,
+        "circa": true,
+        "precision": "century",
+        "latest": -5708
+      },
+      "end": {
+        "year": -5296,
+        "circa": true,
+        "precision": "century",
+        "latest": -5166
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "banning-2007-wadi-rabah",
+          "locator": "section on Wadi Rabah",
+          "quote": "Wadi Rabah began 5813 to 5708 cal. BC and ended 5296 to 5166 cal. BC."
+        },
+        {
+          "ref": "banning-2007-time-tradition",
+          "locator": "comparison of chronologies",
+          "quote": "The end of the Late Neolithic comes earliest in my own paper, which would place it about the end of Wadi Rabah or level LN5 at Tabaqat al-Bûma, or some time close to 5200-5100 cal. BC."
+        },
+        {
+          "ref": "gopher-1993-coastal-plain",
+          "locator": "chrono-cultural sequence",
+          "quote": "The Wadi Raba culture covering mainly parts of the last two thirds of the 5th millennium B.C."
+        }
+      ],
+      "notes": {
+        "en": "Banning's figures come from a model with Jericho IX abutting it and a gap before Tel 'Ali Ib. Other authors in the same 2007 dossier end the Late Neolithic later, c. 4900-4600 cal BC. Gopher (1993) uses uncalibrated 5th-millennium dates. Dated sites include Megadim, Neve Yam, Hagoshrim, Tel Dover and Tel Hanan. The 5th millennium cal BC between Wadi Rabah and the Ghassulian (Qatifian, Besorian and related entities) is not yet covered by a record."
+      }
+    },
+    {
+      "id": "ghassulian",
+      "name": {
+        "en": "Ghassulian (Chalcolithic), incl. the Beersheba culture"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -4500,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -3800,
+        "circa": true,
+        "precision": "century",
+        "latest": -3700
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "banning-2007-time-tradition",
+          "locator": "comparison of chronologies",
+          "quote": "saves “Early Chalcolithic” for the roots of the Ghassulian as found, for example, in Ghassul level G around 4500 cal. BC."
+        },
+        {
+          "ref": "bourke-et-al-2004-ghassul",
+          "locator": "abstract",
+          "quote": "Chalcolithic period occupation had ceased at virtually all major centers by 3800/3700 cal BC"
+        },
+        {
+          "ref": "bourke-et-al-2001-ghassul",
+          "locator": "abstract",
+          "quote": "A necessary reformulation of regional relative chronologies now views the Ghassul sequence falling between Late Neolithic Jericho and the Beersheban Chalcolithic."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "The Stone Age and the Copper Age",
+          "quote": "The region in which the Ghassulian settlements have been found is mainly in the south of Palestine, with an extension up the coastal plain and its fringes."
+        }
+      ],
+      "notes": {
+        "en": "Named after Teleilat Ghassul in the Jordan Valley. Britannica says the Beersheba-area sites have pottery and flint industries 'allied to those of Tulāylāt al-Ghassūl but not identical'. Bourke et al. (2001) place the Beersheba Chalcolithic after the Ghassul sequence, so this record lumps phases that may be partly successive. Britannica's older text has Ghassulians 'immigrating' in the 4th millennium, which no longer fits the radiocarbon dates. Bourke et al. (2004) move the end at Ghassul to 3900/3800 cal BC and suggest that major centres had ceased by 3800/3700 cal BC."
+      }
+    },
+    {
+      "id": "early-bronze-i",
+      "name": {
+        "en": "Early Bronze Age I"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -3700,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -3200,
+        "circa": true,
+        "precision": "century",
+        "latest": -2900
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "bourke-et-al-2004-ghassul",
+          "locator": "abstract",
+          "quote": "Chalcolithic period occupation had ceased at virtually all major centers by 3800/3700 cal BC"
+        },
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "abstract",
+          "quote": "The new chronology indicates that the EB I–II transition occurred site-dependently between 3200–2900 BC, with EB II–III around 2900 BC, and EB III–IV ∼2500 BC."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "Evidence of the early phases of the Early Bronze Age comes mainly from Megiddo, Jericho, Tall al-Farʿah, Tel Beit Sheʾan, Khirbat al-Karak, and Ai (Khirbat ʿAyy)."
+        }
+      ],
+      "notes": {
+        "en": "Start inferred from the end of the Chalcolithic (Bourke et al. 2004); no source consulted dates the EB I start directly. The end is the site-dependent EB I-II transition of Regev et al. (2012). Unwalled villages and early towns. Late in EB I (EB IB2) an Egyptian presence is attested in southern Canaan (see 'egypt-eb-presence')."
+      }
+    },
+    {
+      "id": "early-bronze-ii-iii",
+      "name": {
+        "en": "Early Bronze Age II-III urban culture (fortified towns / city-states)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -3200,
+        "circa": true,
+        "precision": "century",
+        "latest": -2900
+      },
+      "end": {
+        "year": -2500,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "abstract",
+          "quote": "The new chronology indicates that the EB I–II transition occurred site-dependently between 3200–2900 BC, with EB II–III around 2900 BC, and EB III–IV ∼2500 BC."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "Palestine’s towns presumably remained independent city-states, except insofar as Egypt may at times have exercised a loose political control."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "By about the 23rd century BCE the whole civilization had ceased to be urban."
+        }
+      ],
+      "notes": {
+        "en": "Modelled as a culture: the sources describe many independent walled towns, which Britannica calls 'presumably' city-states, but none that can be mapped individually. Dating is contested. Regev et al. (2012) argue a radiocarbon-based 'high chronology': EB II-III c. 2900 BC and the end of EB III c. 2500 BC. Britannica's text, tied to Egyptian historical dates, places the end of urbanism c. 23rd century BCE."
+      }
+    },
+    {
+      "id": "intermediate-bronze-age",
+      "name": {
+        "en": "Intermediate Bronze Age (EB IV / EB-MB)"
+      },
+      "basis": "archaeological",
+      "start": {
+        "year": -2500,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": -2000,
+        "circa": true,
+        "precision": "century"
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "abstract",
+          "quote": "The new chronology indicates that the EB I–II transition occurred site-dependently between 3200–2900 BC, with EB II–III around 2900 BC, and EB III–IV ∼2500 BC."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "An initial date of 23rd–22nd century BCE, depending on the interpretation of the Egyptian evidence, and a final date of the 20th century BCE seem probable."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "they were essentially seminomadic pastoralists."
+        },
+        {
+          "ref": "britannica-canaan",
+          "locator": "history",
+          "quote": "With the Middle Bronze Age (c. 2000–c. 1550 bce), recorded history in the area began."
+        }
+      ],
+      "notes": {
+        "en": "A non-urban, largely pastoral phase. The start is contested: c. 2500 BCE in the Regev et al. high chronology versus 23rd-22nd century BCE in Britannica's (Kenyon-era) account. Britannica's links to Amorite nomads and to the Book of Joshua are interpretations from older scholarship. The end follows the Middle Bronze start of c. 2000 BCE."
+      }
+    }
+  ]
+}

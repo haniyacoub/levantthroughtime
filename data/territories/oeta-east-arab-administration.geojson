@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "oeta-east-arab-administration",
+        "start": {
+          "year": 1918,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1920,
+          "month": 3,
+          "precision": "month"
+        },
+        "partial_units": [
+          "syria",
+          "golan-heights"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and the Syrian interior (the coast being under French administration); inclusion of the Golan is schematic."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-syria-ottoman-rule-restored",
+            "locator": "World War I",
+            "quote": "Allenby installed an Arab military administration, under Faisal, in Damascus and the interior."
+          }
+        ],
+        "notes": {
+          "en": "Transjordan omitted because its 1918-1920 administrative attachment was not confirmed in an opened source."
+        },
+        "id": "oeta-east-arab-administration-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

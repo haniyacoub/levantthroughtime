@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-damascus",
+        "start": {
+          "year": 1260,
+          "month": 9,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "samaria",
+          "judea",
+          "judean-desert"
+        ],
+        "partial_units": [
+          "jordan-valley"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and the central Palestinian hill country (Jerusalem, Hebron, Nablus districts), the latter 'usually part of the Province of Damascus'."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "Jerusalem and the area more-or-less covered by the West Bank today were usually part of the Province of Damascus, but independent at times."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades' (Mamluk paragraph)",
+            "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
+          }
+        ],
+        "notes": {
+          "en": "Jerusalem was at times a separate unit; Mongol occupation 1299-1300."
+        },
+        "id": "mamluk-niyaba-damascus-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

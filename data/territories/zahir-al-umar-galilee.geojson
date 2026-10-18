@@ -1,0 +1,100 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "zahir-al-umar-galilee",
+        "start": {
+          "year": 1737,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1746,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Eastern and central Galilee: Tiberias and 'Arraba tax farms, Nazareth, and north-east Galilee (Ba'na); Tiberias held against attacks from Damascus 1738-1743."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "The governor of Sidon himself appointed Zāhir as the tax farmer of both Tiberias and ՙArraba, a town located farther west, near Acre."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'Ottoman rule'",
+            "quote": "Ẓāhir al-ʿUmar (c. 1737–75) dominated the political life of northern Palestine for nearly 40 years."
+          }
+        ],
+        "id": "zahir-al-umar-galilee-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "zahir-al-umar-galilee",
+        "start": {
+          "year": 1746,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1775,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Galilee with Acre (seized 1746) as capital, influence extended to Haifa and Tantura; Jaffa held briefly in the early 1770s."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "In 1746, he took the city by force, killed the local multazim, and took his place."
+          },
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "Zāhir was successful in keeping Damascus at bay and expanding his influence to Haifa and Tantura."
+          },
+          {
+            "ref": "strickert-2023-zahir",
+            "locator": "Summary of Event",
+            "quote": "He then took advantage of retreating Egyptian forces and conquered the coastal city of Jaffa."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "p. 18",
+            "quote": "Zahir al-'Umar, the powerful magnate of Palestine from 1746 to 1775, was the first to develop Akka into a major port at the expense of Saida."
+          }
+        ],
+        "id": "zahir-al-umar-galilee-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

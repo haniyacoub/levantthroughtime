@@ -1,0 +1,149 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ilkhanate",
+        "start": {
+          "year": 1260,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1260,
+          "month": 9,
+          "day": 3,
+          "precision": "day"
+        },
+        "units": [
+          "damascus"
+        ],
+        "partial_units": [
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "jezreel",
+          "lower-galilee",
+          "samaria",
+          "judea",
+          "philistia"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Brief Mongol occupation of most of Syria in 1260 (Damascus taken; general Kitbuqa sent 'to occupy Damascus and reconnoiter in Palestine and trans-Jordan'). Raiding detachments reached Nablus and Gaza; ended by the Mamluk victory at Ayn Jalut, 3 Sept 1260."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "iranica-ilkhanids-amitai-2004",
+            "locator": "section on Hülegü",
+            "quote": "the general Kitbuqa was dispatched to the south with a division to occupy Damascus and reconnoiter in Palestine and trans-Jordan."
+          },
+          {
+            "ref": "iranica-ilkhanids-amitai-2004",
+            "locator": "section on Hülegü",
+            "quote": "defeating Kitbuqa on 3 September 1260 at ʿAyn Jālut in northern Palestine, thereby ending the short period of Mongol rule west of the Euphrates."
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "extract (p. 236)",
+            "quote": "Twice the Mongols were successful in occupying most of Syria: in 658/1260 and 699/1299–1300. In both cases the Mongol conquest lasted for only a few months"
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "n. 66",
+            "quote": "the Mongol conquest of Palestine was never really completed, but was quite tenuous at best."
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "n. 66",
+            "quote": "Finally, it is quite clear that the Mongols did enter, and terrorize, Jerusalem."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 355",
+            "quote": "With Baalbek and Nablus taken, the Mongol occupation of Lebanon and Palestine was effectively completed (although, oddly enough, they seem never to have entered Jerusalem)",
+            "via": "amitai-1987-mongol-raids"
+          },
+          {
+            "ref": "runciman-1954-history-crusades-iii",
+            "locator": "p. 308",
+            "quote": "has stated that the Mongol detachments never reached Jerusalem itself.",
+            "via": "amitai-1987-mongol-raids"
+          }
+        ],
+        "notes": {
+          "en": "Scholars differ on the depth of control: Humphreys (1977) saw the occupation of Palestine as 'effectively completed' but thought the Mongols never entered Jerusalem and did not hold Transjordan; Runciman (1954) also held that they never reached Jerusalem; Amitai (1987) argues the conquest of Palestine was 'tenuous at best', but that Mongols did enter Jerusalem and conquered most of Transjordan. All partial units = raids/tenuous control, not administration."
+        },
+        "id": "ilkhanate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ilkhanate",
+        "start": {
+          "year": 1299,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1300,
+          "precision": "year"
+        },
+        "units": [
+          "damascus"
+        ],
+        "partial_units": [
+          "philistia",
+          "judea"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After the Mongol victory at Wadi al-Khaznadar near Homs (end of 1299) Ghazan's forces occupied Damascus for about 100 days (the citadel held out); a raiding force under Mulay reached Gaza and committed abuses in Jerusalem and Hebron before withdrawing in early 1300."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "iranica-ilkhanids-amitai-2004",
+            "locator": "section on Ghazan",
+            "quote": "An invasion of Syria at the end of 1299 led to the Mongol victory at the Wādi al-Ḵaznadār near Homs"
+          },
+          {
+            "ref": "iranica-ilkhanids-amitai-2004",
+            "locator": "section on Ghazan",
+            "quote": "The victory led to a 100-day Mongol occupation of Damascus, but the Mongols withdrew of their own accord"
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "extract (p. 236)",
+            "quote": "Twice the Mongols were successful in occupying most of Syria: in 658/1260 and 699/1299–1300. In both cases the Mongol conquest lasted for only a few months"
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "n. 93",
+            "quote": "In the second version there are reports of the parvenu misdeeds of the Mongols in Jerusalem and Hebron without any specific mentioning of the Christians."
+          },
+          {
+            "ref": "amitai-1987-mongol-raids",
+            "locator": "n. 85",
+            "quote": "the Mamlūk writers report that Mūlāy returned at the end of Jumādā II."
+          }
+        ],
+        "notes": {
+          "en": "Mulay's return is dated 29 Rabi' II 699 by Rashid al-Din and end of Jumada II 699 by Mamluk writers (Amitai 1987, n. 85), i.e. early 1300. Raid, not administration."
+        },
+        "id": "ilkhanate-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lang": {
+    "en": "English",
+    "ar": "العربية",
+    "he": "עברית",
+    "label": "Language"
+  },
+  "loading": "Loading the map…",
+  "loadError": "The map data could not be loaded.",
+  "timeline": {
+    "label": "Timeline",
+    "play": "Play",
+    "pause": "Pause",
+    "speed": "Speed",
+    "back": "Step back",
+    "forward": "Step forward",
+    "prevEra": "Previous era",
+    "nextEra": "Next era",
+    "goTo": "Go to year",
+    "goToPlaceholder": "e.g. 586 BCE, 70, 1948-05",
+    "goToInvalid": "Couldn't read that date. Try “586 BCE”, “-586”, “70” or “1948-05”.",
+    "valueText": "{{date}}, {{era}}",
+    "help": "Arrow keys step through time; Page Up and Page Down jump between eras; Space plays or pauses."
+  },
+  "onMap": {
+    "title": "On the map",
+    "empty": "No mapped polity or culture at this date.",
+    "prehistoric": "Archaeological cultures (before states existed)",
+    "political": "Who controlled the land",
+    "partial": "partly held",
+    "since": "from {{date}}",
+    "until": "until {{date}}",
+    "claim": "claimed area, not an area of control (dashed outline)",
+    "disputedUnits": "status disputed: {{units}}"
+  },
+  "relation": {
+    "vassal": "vassal of {{overlord}}",
+    "client": "client of {{overlord}}",
+    "province": "province of {{overlord}}",
+    "tributary": "tributary to {{overlord}}",
+    "occupied": "occupied by {{overlord}}",
+    "mandate": "under {{overlord}} mandate",
+    "part-of": "part of {{overlord}}",
+    "autonomous-under": "autonomous under {{overlord}}"
+  },
+  "confidence": {
+    "documented": "documented",
+    "estimated": "estimated",
+    "contested": "contested",
+    "unknown": "unknown"
+  },
+  "certainty": {
+    "surveyed": "surveyed boundary",
+    "approximate": "approximate boundary",
+    "schematic": "schematic extent (area known, edges not)",
+    "contested": "contested extent"
+  },
+  "legend": {
+    "title": "How to read the map",
+    "surveyed": "Solid outline: surveyed or legally defined boundary",
+    "approximate": "Dashed outline: approximate boundary",
+    "schematic": "Soft dotted edge: schematic extent; the area is known, the edges are not",
+    "contested": "Hatching: contested",
+    "partial": "Pale fill: only partly held",
+    "overlord": "Coloured halo: the outline colour of an overlord (e.g. a client kingdom under Rome)",
+    "claim": "Thick dashed outline, no fill: an area claimed but not governed"
+  },
+  "draftNotice": "Text in this language is a machine-translated draft that has not yet been reviewed.",
+  "attribution": "Elevation: SRTM, GMTED2010, ETOPO1 (USGS, NOAA) via AWS Terrain Tiles · Coastlines, rivers: Natural Earth",
+  "skipToTimeline": "Skip to timeline",
+  "mapLabel": "Map of the southern Levant at the selected date. The “On the map” panel lists the same information as text."
+}

@@ -1,0 +1,183 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "rashidun-caliphate",
+        "start": {
+          "year": 634,
+          "precision": "year"
+        },
+        "end": {
+          "year": 636,
+          "month": 8,
+          "precision": "month"
+        },
+        "partial_units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "ammon",
+          "gilead"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Invasion phase: after Ajnadayn \"all of Palestine lay open\", but towns held out."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "All of Palestine then lay open to the invaders."
+          }
+        ],
+        "id": "rashidun-caliphate-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "rashidun-caliphate",
+        "start": {
+          "year": 636,
+          "month": 8,
+          "precision": "month"
+        },
+        "end": {
+          "year": 640,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "jezreel",
+          "samaria",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "judea",
+          "carmel-sharon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "After the Yarmuk: all but Jerusalem (to 638) and Caesarea (to 640)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "The decisive battle that delivered Palestine to the Muslims took place on August 20, 636."
+          }
+        ],
+        "notes": {
+          "en": "Egypt (incl. Sinai) was conquered from 639/640; Sinai units included schematically."
+        },
+        "id": "rashidun-caliphate-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "rashidun-caliphate",
+        "start": {
+          "year": 640,
+          "month": 10,
+          "precision": "month"
+        },
+        "end": {
+          "year": 661,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole map area; organized in the junds of Filastin, al-Urdunn and Dimashq."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "The rise of Islam",
+            "quote": "Palestine, and indeed all of Syria, was then in Muslim hands."
+          }
+        ],
+        "id": "rashidun-caliphate-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

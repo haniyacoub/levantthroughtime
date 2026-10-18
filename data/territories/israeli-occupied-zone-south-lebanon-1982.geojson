@@ -1,0 +1,74 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-occupied-zone-south-lebanon-1982",
+        "start": {
+          "year": 1982,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "partial_units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Southern Lebanon up to the Beirut area after the June 1982 invasion; withdrawals in stages to 1985."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "unifil-background",
+            "quote": "For three years, UNIFIL remained behind the Israeli lines"
+          }
+        ],
+        "id": "israeli-occupied-zone-south-lebanon-1982-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-occupied-zone-south-lebanon-1982",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2000,
+          "month": 5,
+          "day": 25,
+          "precision": "day"
+        },
+        "partial_units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "The 'security zone' strip along the border held by the IDF and the South Lebanon Army."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "unifil-background",
+            "quote": "it retained control of an area in southern Lebanon"
+          }
+        ],
+        "notes": {
+          "en": "Depth of the zone not quantified in an opened source."
+        },
+        "id": "israeli-occupied-zone-south-lebanon-1982-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

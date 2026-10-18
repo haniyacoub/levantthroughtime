@@ -1,0 +1,111 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mandatory-palestine",
+        "start": {
+          "year": 1920,
+          "month": 7,
+          "day": 1,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "units": [
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip",
+          "nml-latrun",
+          "nml-jerusalem",
+          "mount-scopus"
+        ],
+        "partial_units": [
+          "israel-1949",
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Under the Franco-British convention of 23 Dec 1920 the northern frontier ran along the middle of the Jordan and Lake Tiberias, with a Golan triangle (apex at Quneitra) inside Palestine; the eastern shore strip of the lake was outside it."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "blum-boundaries",
+            "locator": "p. 34",
+            "quote": "The frontier was to run in the middle of the Jordan River and of Lake Tiberias, with one exception: a triangular area on the Golan, with Quneitra at the head of the triangle, was included within Palestine."
+          },
+          {
+            "ref": "un-jordan-basin-treaties",
+            "locator": "row 23 Dec 1920",
+            "quote": "Franco-British convention on certain points connected with the mandates for Syria and the Lebanon, Palestine and Mesopotamia"
+          }
+        ],
+        "notes": {
+          "en": "Only one opened source (Blum) gives the Golan-triangle detail; ECF confirms the 1923 agreement amended the 1920 one. Mark the Golan part as schematic. The eastern boundary was laid down by a British memorandum of 16 Sept 1922 (ICJ 2004, para. 70)."
+        },
+        "id": "mandatory-palestine-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mandatory-palestine",
+        "start": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1948,
+          "month": 5,
+          "day": 15,
+          "precision": "day"
+        },
+        "units": [
+          "israel-1949",
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip",
+          "nml-latrun",
+          "nml-jerusalem",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Mandate Palestine within its final boundaries: 1923 Paulet-Newcombe line in the north (Golan to the French Mandate; Lake Tiberias and the Jordan wholly in Palestine), the eastern boundary with Transjordan per the 1922 memorandum and 1928 treaty, and the pre-war line with Egypt in the south-west."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "ecf-paulet-newcombe",
+            "quote": "It amended the previous agreement from 1920, and left the entirety of the Golan Heights under French control, while the Sea of Galilee was given to Palestine."
+          },
+          {
+            "ref": "un-jordan-basin-treaties",
+            "locator": "row 7 March 1923",
+            "quote": "Exchange of notes constituting an agreement between the British and French governments respecting the boundary line between Syria and Palestine from the Mediterranean to El Hamme"
+          },
+          {
+            "ref": "icj-2004-wall-ao",
+            "locator": "para. 70",
+            "quote": "on the eastern border by a British memorandum of 16 September 1922 and an Anglo-Transjordanian Treaty of 20 February 1928."
+          }
+        ],
+        "notes": {
+          "en": "The 1923 agreement took the form of an exchange of notes dated 7 March 1923 (UN treaty list; ECF). Blum states the Golan triangle was transferred 'in 1923, to accommodate an influential sheikh' - a motive given by one author only."
+        },
+        "id": "mandatory-palestine-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

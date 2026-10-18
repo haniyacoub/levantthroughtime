@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "lordship-of-sidon",
+        "start": {
+          "year": 1112,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1187,
+          "precision": "year"
+        },
+        "partial_units": [
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Sidon and its coastal district."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-kingdom-of-jerusalem",
+            "locator": "paragraph 2",
+            "quote": "included four great baronies: the county of Jaffa and Ascalon, the lordship of Krak or Montréal, the principality of Galilee, and the lordship of Sidon."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "By 1112 Arsuf, Caesarea, Acre, Beirut, and Sidon had been taken, and the entire coast except for Ascalon and Tyre was in Latin hands."
+          }
+        ],
+        "id": "lordship-of-sidon-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

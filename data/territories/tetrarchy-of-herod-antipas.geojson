@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tetrarchy-of-herod-antipas",
+        "start": {
+          "year": -4,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 39,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "upper-galilee",
+          "jordan-valley",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Galilee, and Peraea east of the Jordan River."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "Herod Antipas should rule Galilee and Peraea (east of the Jordan River)"
+          }
+        ],
+        "id": "tetrarchy-of-herod-antipas-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

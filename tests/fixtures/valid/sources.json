@@ -1,0 +1,6 @@
+{
+  "sources": [
+    { "id": "source-a", "type": "book", "authors": ["Author, A."], "title": "Book A", "publisher": "Press", "year": 2000, "isbn": "0000000000", "verification": { "level": "full-text", "checked_on": "2026-10-18" }, "kind": "academic", "institution_country": "GB" },
+    { "id": "source-b", "type": "web", "title": "Page B", "url": "https://example.org/b", "verification": { "level": "excerpt", "checked_on": "2026-10-18" }, "kind": "reference" }
+  ]
+}

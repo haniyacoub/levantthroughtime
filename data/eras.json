@@ -1,0 +1,180 @@
+{
+  "$schema": "../schema/eras.schema.json",
+  "segments": [
+    {
+      "id": "natufian-ppn",
+      "label": { "en": "Late Natufian & Pre-Pottery Neolithic", "ar": "النطوفي المتأخر والعصر الحجري الحديث ما قبل الفخار", "he": "התקופה הנאטופית המאוחרת והניאולית הקדם-קרמי", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -10000 },
+      "weight": 4,
+      "step": { "unit": "year", "size": 100 },
+      "note": "Slider segments are navigation labels; boundaries follow common archaeological periodisation and are approximate. Weights reflect how much the map shows, not duration."
+    },
+    {
+      "id": "pottery-neolithic-chalcolithic",
+      "label": { "en": "Pottery Neolithic & Chalcolithic", "ar": "العصر الحجري الحديث الفخاري والنحاسي", "he": "הניאולית הקרמי והכלקולית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -6400 },
+      "weight": 3,
+      "step": { "unit": "year", "size": 100 }
+    },
+    {
+      "id": "early-bronze",
+      "label": { "en": "Early Bronze Age", "ar": "العصر البرونزي المبكر", "he": "תקופת הברונזה הקדומה", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -3600 },
+      "weight": 3,
+      "step": { "unit": "year", "size": 50 }
+    },
+    {
+      "id": "middle-late-bronze",
+      "label": { "en": "Middle & Late Bronze Age", "ar": "العصر البرونزي الوسيط والمتأخر", "he": "תקופת הברונזה התיכונה והמאוחרת", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -2000 },
+      "weight": 5,
+      "step": { "unit": "year", "size": 25 }
+    },
+    {
+      "id": "iron-age",
+      "label": { "en": "Iron Age", "ar": "العصر الحديدي", "he": "תקופת הברזל", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -1150 },
+      "weight": 8,
+      "step": { "unit": "year", "size": 10 },
+      "fine_steps": [
+        { "start": { "year": -740 }, "end": { "year": -700 }, "unit": "year", "size": 1 },
+        { "start": { "year": -610 }, "end": { "year": -586 }, "unit": "year", "size": 1 }
+      ]
+    },
+    {
+      "id": "babylonian-persian",
+      "label": { "en": "Babylonian & Persian periods", "ar": "الفترتان البابلية والفارسية", "he": "התקופות הבבלית והפרסית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -586 },
+      "weight": 4,
+      "step": { "unit": "year", "size": 10 }
+    },
+    {
+      "id": "hellenistic",
+      "label": { "en": "Hellenistic period", "ar": "الفترة الهلنستية", "he": "התקופה ההלניסטית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -332 },
+      "weight": 4,
+      "step": { "unit": "year", "size": 5 },
+      "fine_steps": [{ "start": { "year": -170 }, "end": { "year": -140 }, "unit": "year", "size": 1 }]
+    },
+    {
+      "id": "hasmonean",
+      "label": { "en": "Hasmonean period", "ar": "الفترة الحشمونية", "he": "התקופה החשמונאית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -140 },
+      "weight": 3,
+      "step": { "unit": "year", "size": 5 }
+    },
+    {
+      "id": "roman",
+      "label": { "en": "Roman period", "ar": "الفترة الرومانية", "he": "התקופה הרומית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": -63 },
+      "weight": 8,
+      "step": { "unit": "year", "size": 5 },
+      "fine_steps": [
+        { "start": { "year": -40 }, "end": { "year": 7 }, "unit": "year", "size": 1 },
+        { "start": { "year": 66 }, "end": { "year": 74 }, "unit": "year", "size": 1 },
+        { "start": { "year": 132 }, "end": { "year": 137 }, "unit": "year", "size": 1 }
+      ]
+    },
+    {
+      "id": "byzantine",
+      "label": { "en": "Byzantine period", "ar": "الفترة البيزنطية", "he": "התקופה הביזנטית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 324 },
+      "weight": 5,
+      "step": { "unit": "year", "size": 5 },
+      "fine_steps": [{ "start": { "year": 614 }, "end": { "year": 636 }, "unit": "year", "size": 1 }]
+    },
+    {
+      "id": "early-islamic",
+      "label": { "en": "Early Islamic period", "ar": "الفترة الإسلامية المبكرة", "he": "התקופה המוסלמית הקדומה", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 636 },
+      "weight": 6,
+      "step": { "unit": "year", "size": 10 },
+      "fine_steps": [
+        { "start": { "year": 636 }, "end": { "year": 641 }, "unit": "year", "size": 1 },
+        { "start": { "year": 1060 }, "end": { "year": 1099 }, "unit": "year", "size": 1 }
+      ]
+    },
+    {
+      "id": "crusader-ayyubid",
+      "label": { "en": "Crusader & Ayyubid period", "ar": "الفترة الصليبية والأيوبية", "he": "התקופה הצלבנית והאיובית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1099 },
+      "weight": 6,
+      "step": { "unit": "year", "size": 5 },
+      "fine_steps": [
+        { "start": { "year": 1185 }, "end": { "year": 1193 }, "unit": "year", "size": 1 },
+        { "start": { "year": 1228 }, "end": { "year": 1245 }, "unit": "year", "size": 1 }
+      ]
+    },
+    {
+      "id": "mamluk",
+      "label": { "en": "Mamluk period", "ar": "الفترة المملوكية", "he": "התקופה הממלוכית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1260 },
+      "weight": 4,
+      "step": { "unit": "year", "size": 10 },
+      "fine_steps": [{ "start": { "year": 1260 }, "end": { "year": 1292 }, "unit": "year", "size": 1 }],
+      "note": "Crusader Acre held out until 1291; the ruler bands show the overlap."
+    },
+    {
+      "id": "ottoman",
+      "label": { "en": "Ottoman period", "ar": "الفترة العثمانية", "he": "התקופה העות'מאנית", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1516 },
+      "weight": 7,
+      "step": { "unit": "year", "size": 10 },
+      "fine_steps": [{ "start": { "year": 1800 }, "end": { "year": 1917 }, "unit": "year", "size": 1 }]
+    },
+    {
+      "id": "british-mandate",
+      "label": { "en": "British rule & Mandate", "ar": "الحكم البريطاني والانتداب", "he": "השלטון הבריטי והמנדט", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1917 },
+      "weight": 7,
+      "step": { "unit": "year", "size": 1 }
+    },
+    {
+      "id": "war-1947-49",
+      "label": { "en": "1947–49 war", "ar": "حرب 1947–1949", "he": "מלחמת 1947–1949", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1947, "month": 11 },
+      "weight": 4,
+      "step": { "unit": "month", "size": 1 }
+    },
+    {
+      "id": "1949-1967",
+      "label": { "en": "1949–1967", "ar": "1949–1967", "he": "1949–1967", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1949, "month": 8 },
+      "weight": 4,
+      "step": { "unit": "year", "size": 1 },
+      "fine_steps": [{ "start": { "year": 1956, "month": 10 }, "end": { "year": 1957, "month": 4 }, "unit": "month", "size": 1 }]
+    },
+    {
+      "id": "war-1967",
+      "label": { "en": "June 1967 war", "ar": "حرب حزيران 1967", "he": "מלחמת יוני 1967", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1967, "month": 5 },
+      "weight": 1,
+      "step": { "unit": "month", "size": 1 }
+    },
+    {
+      "id": "1967-1993",
+      "label": { "en": "1967–1993", "ar": "1967–1993", "he": "1967–1993", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1967, "month": 7 },
+      "weight": 5,
+      "step": { "unit": "year", "size": 1 },
+      "fine_steps": [
+        { "start": { "year": 1973, "month": 10 }, "end": { "year": 1974, "month": 1 }, "unit": "month", "size": 1 },
+        { "start": { "year": 1982, "month": 4 }, "end": { "year": 1982, "month": 10 }, "unit": "month", "size": 1 }
+      ]
+    },
+    {
+      "id": "1993-2023",
+      "label": { "en": "1993–2023", "ar": "1993–2023", "he": "1993–2023", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 1993, "month": 9 },
+      "weight": 6,
+      "step": { "unit": "year", "size": 1 }
+    },
+    {
+      "id": "since-october-2023",
+      "label": { "en": "October 2023 to today", "ar": "من تشرين الأول 2023 حتى اليوم", "he": "מאוקטובר 2023 ועד היום", "translation_status": { "ar": "machine-draft", "he": "machine-draft" } },
+      "start": { "year": 2023, "month": 10 },
+      "weight": 3,
+      "step": { "unit": "month", "size": 1 }
+    }
+  ]
+}

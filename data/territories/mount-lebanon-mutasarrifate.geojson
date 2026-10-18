@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mount-lebanon-mutasarrifate",
+        "start": {
+          "year": 1861,
+          "month": 6,
+          "day": 9,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1915,
+          "precision": "year"
+        },
+        "partial_units": [
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Mount Lebanon proper (not Beirut, the coast towns or the Beqaa)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "Appendix A (p. 194)",
+            "quote": "He was appointed governor of Mount Lebanon for a term of three years on the basis of the protocol of 9 June 1861 and the imperial decree of 9 M 1278 (17 July 1861)."
+          }
+        ],
+        "id": "mount-lebanon-mutasarrifate-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

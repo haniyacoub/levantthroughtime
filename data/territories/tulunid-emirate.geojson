@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "tulunid-emirate",
+        "start": {
+          "year": 878,
+          "precision": "year"
+        },
+        "end": {
+          "year": 905,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria (incl. Palestine) and Egypt."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-tulunid-dynasty",
+            "locator": "article",
+            "quote": "Aḥmad maintained his position by occupying Syria (878)"
+          }
+        ],
+        "id": "tulunid-emirate-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

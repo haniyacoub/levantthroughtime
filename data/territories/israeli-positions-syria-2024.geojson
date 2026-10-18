@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-positions-syria-2024",
+        "start": {
+          "year": 2024,
+          "month": 12,
+          "day": 7,
+          "precision": "day"
+        },
+        "partial_units": [
+          "undof-zone"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "The UNDOF area of separation along the eastern edge of the Golan and the Syrian side of Mount Hermon, and other positions (A News: 'seizing the buffer zone and other positions, including the Syrian side of Mount Hermon')."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "anews-2026-08-25-katz-hermon",
+            "quote": "Israel will not withdraw from Mount Hermon or a buffer zone inside Syrian territory as long as there are \"threats\" to Israel there"
+          },
+          {
+            "ref": "un-press-sc15951",
+            "note": "UN Security Council record of the debate, with members describing the presence as a violation of the 1974 disengagement agreement."
+          }
+        ],
+        "notes": {
+          "en": "No polygon; extent not quantified in opened sources. Modelling note: drawn as the UN area of separation only; the positions on the Syrian side of Mount Hermon are not mapped."
+        },
+        "id": "israeli-positions-syria-2024-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

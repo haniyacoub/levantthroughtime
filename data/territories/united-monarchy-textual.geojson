@@ -1,0 +1,169 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-monarchy-textual",
+        "start": {
+          "year": -1020,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -1001,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "samaria"
+        ],
+        "partial_units": [
+          "judea",
+          "gilead",
+          "jezreel"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Saul's kingdom per the biblical narrative; Britannica gives no boundaries. Schematic central highlands and Gilead."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Israelites in Palestine"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "note": "Counter-position: argues that the United Monarchy described in the biblical account did not exist in that form; see the record united-monarchy-archaeological."
+          }
+        ],
+        "notes": {
+          "en": "Textual tradition; not an archaeologically established extent."
+        },
+        "id": "united-monarchy-textual-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-monarchy-textual",
+        "start": {
+          "year": -1000,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -961,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "carmel-sharon",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "golan",
+          "bashan",
+          "damascus"
+        ],
+        "partial_units": [
+          "philistia",
+          "acre-plain",
+          "arabah"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "David's kingdom as described in the biblical account (via Britannica): the land 'from Dan to Beer-sheba' plus the conquered Transjordanian states (Ammon, Moab, Edom) and Aramaean states up to the borders of Hamath. Britannica itself doubts effective control over the Syrian desert tribes."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Israelites in Palestine"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 8"
+          }
+        ],
+        "notes": {
+          "en": "Textual tradition. Finkelstein (p. 8) notes that 'Dan to Beer-sheba' probably reflects later Iron Age realities and the larger 1 Kgs 5:4 extent probably a Persian-period insertion."
+        },
+        "id": "united-monarchy-textual-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-monarchy-textual",
+        "start": {
+          "year": -960,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -922,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "carmel-sharon",
+          "gilead"
+        ],
+        "partial_units": [
+          "edom",
+          "arabah",
+          "moab"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Solomon's kingdom per the biblical account (via Britannica): it 'gradually lost control over outlying territories conquered by David' (Ammon regained independence c. 960 per Britannica Jordan) but kept access to Ezion-geber on the Gulf of Aqaba."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Israelites in Palestine",
+            "quote": "Though Solomon gradually lost control over outlying territories conquered by David"
+          },
+          {
+            "ref": "britannica-jordan-history",
+            "locator": "ancient history"
+          }
+        ],
+        "notes": {
+          "en": "Textual tradition."
+        },
+        "id": "united-monarchy-textual-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

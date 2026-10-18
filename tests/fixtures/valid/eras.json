@@ -1,0 +1,6 @@
+{
+  "segments": [
+    { "id": "early", "label": { "en": "Early" }, "start": { "year": -10000 }, "weight": 1, "step": { "unit": "year", "size": 100 } },
+    { "id": "late", "label": { "en": "Late" }, "start": { "year": 1 }, "weight": 1, "step": { "unit": "year", "size": 1 } }
+  ]
+}

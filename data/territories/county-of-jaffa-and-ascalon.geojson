@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "county-of-jaffa-and-ascalon",
+        "start": {
+          "year": 1153,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1187,
+          "precision": "year"
+        },
+        "partial_units": [
+          "philistia"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Southern coastal plain around Jaffa and Ascalon."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-kingdom-of-jerusalem",
+            "locator": "paragraph 2",
+            "quote": "included four great baronies: the county of Jaffa and Ascalon, the lordship of Krak or Montréal, the principality of Galilee, and the lordship of Sidon."
+          },
+          {
+            "ref": "britannica-ashkelon",
+            "locator": "history paragraph",
+            "quote": "Captured by the Crusaders after a 50-year struggle (1153), it became one of their principal ports and strongholds."
+          }
+        ],
+        "id": "county-of-jaffa-and-ascalon-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

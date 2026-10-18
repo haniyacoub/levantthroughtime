@@ -1,0 +1,101 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "provincia-arabia",
+        "start": {
+          "year": 106,
+          "precision": "year"
+        },
+        "end": {
+          "year": 300,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "edom",
+          "moab",
+          "madaba-plain",
+          "ammon",
+          "gilead",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "bashan",
+          "negev-north",
+          "sinai",
+          "badia"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Former Nabataean kingdom plus adjacent Decapolis cities; capital Bostra in the Hauran."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Hasmonean priest-princes",
+            "quote": "It appears that Philadelphia, Gerasa, and probably Dion went to Arabia"
+          }
+        ],
+        "id": "provincia-arabia-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "provincia-arabia",
+        "start": {
+          "year": 300,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": 636,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "moab",
+          "madaba-plain",
+          "ammon",
+          "gilead"
+        ],
+        "partial_units": [
+          "bashan",
+          "badia"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Reduced to northern Transjordan and the Hauran after the transfer of the south to Palaestina."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract",
+            "quote": "the transfer of southern Transjordan, the Negev and most of the Sinai Peninsula from Arabia to Palaestina under the Tetrarchy"
+          },
+          {
+            "ref": "britannica-palestine-roman-to-fatimid",
+            "locator": "Roman Palestine",
+            "quote": "Constantine added the southern half of Arabia to the province"
+          }
+        ],
+        "notes": {
+          "en": "Date of transfer: Tetrarchy (284–305) per Di Segni vs Constantine (306–337) per Britannica. Moab's assignment uncertain."
+        },
+        "id": "provincia-arabia-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

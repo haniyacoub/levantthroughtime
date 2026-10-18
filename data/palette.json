@@ -1,0 +1,116 @@
+{
+  "$schema": "../schema/palette.schema.json",
+  "note": "Colours come from Paul Tol's colour-blind-safe 'muted' and 'light' schemes (https://personal.sron.nl/~pault/). Polities without a pinned colour get one from 'cycle', chosen so that polities on the map at the same time never share a colour. Modern entities are pinned to colours that avoid national flag colours and politically coded associations; each pin explains why. Reviewers: challenge any choice by editing the rationale and colour.",
+  "cycle": [
+    "#CC6677",
+    "#332288",
+    "#DDCC77",
+    "#117733",
+    "#88CCEE",
+    "#882255",
+    "#44AA99",
+    "#999933",
+    "#AA4499",
+    "#EE8866",
+    "#77AADD",
+    "#BBCC33"
+  ],
+  "pinned": {
+    "israel": {
+      "color": "#DDCC77",
+      "rationale": "Sand: avoids the blue and white of the Israeli flag."
+    },
+    "israeli-occupation-gaza-sinai-1956": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-military-government-west-bank": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-military-government-gaza": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-military-government-sinai": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-military-government-golan": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-occupied-zone-south-lebanon-1982": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "idf-controlled-zone-gaza-2023": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-security-zone-south-lebanon-2024": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "israeli-positions-syria-2024": {
+      "color": "#999933",
+      "rationale": "Olive: the same colour family as Israel (sand) to show Israeli control, darker to mark a different legal status (military administration or occupation as characterised by the UN and the ICJ; Israel’s position differs, see the record). Shared by all such areas."
+    },
+    "palestinian-authority": {
+      "color": "#AA4499",
+      "rationale": "Purple: avoids the black, white, green and red of the Palestinian flag."
+    },
+    "state-of-palestine": {
+      "color": "#FFAABB",
+      "rationale": "Pink (Tol \"light\"): avoids the Palestinian flag colours; related to the Palestinian Authority’s purple."
+    },
+    "all-palestine-government": {
+      "color": "#FFAABB",
+      "rationale": "Pink: the same colour as the State of Palestine, as an earlier Palestinian government (the two never appear at the same time); avoids flag colours."
+    },
+    "hamas-administration-gaza": {
+      "color": "#EE8866",
+      "rationale": "Orange: avoids the green associated with Hamas’s flag and the Palestinian flag colours."
+    },
+    "jordan": {
+      "color": "#88CCEE",
+      "rationale": "Cyan: avoids the black, white, green and red of the Jordanian flag."
+    },
+    "emirate-of-transjordan": {
+      "color": "#88CCEE",
+      "rationale": "Cyan: the same colour as Jordan, its successor (the two never appear at the same time)."
+    },
+    "egypt": {
+      "color": "#44AA99",
+      "rationale": "Teal: avoids the red, white and black of the Egyptian flag."
+    },
+    "mandatory-palestine": {
+      "color": "#77AADD",
+      "rationale": "Light blue (Tol \"light\"): avoids the red of the Union flag; distinct from both Israel’s sand and the Palestinian purple/pink so neither looks like the Mandate’s successor."
+    },
+    "united-kingdom": {
+      "color": "#DDDDDD",
+      "rationale": "Pale grey: an external overlord, shown neutrally behind its mandates and protectorates."
+    },
+    "france": {
+      "color": "#DDDDDD",
+      "rationale": "Pale grey: an external overlord, shown neutrally behind its mandates."
+    },
+    "french-mandate-syria-lebanon": {
+      "color": "#332288",
+      "rationale": "Indigo: avoids the red and white of the French flag; shared with Syria, its successor."
+    },
+    "syria": {
+      "color": "#332288",
+      "rationale": "Indigo: avoids the red, white, black and green of the Syrian flag."
+    },
+    "ottoman-empire": {
+      "color": "#BBCC33",
+      "rationale": "Pear (Tol \"light\"): avoids the red of the Ottoman flag."
+    },
+    "lebanon": {
+      "color": "#99DDFF",
+      "rationale": "Light cyan (Tol \"light\"): avoids the red, white and green of the Lebanese flag."
+    }
+  }
+}

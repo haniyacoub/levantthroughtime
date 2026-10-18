@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "israeli-occupation-gaza-sinai-1956",
+        "start": {
+          "year": 1956,
+          "month": 11,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1957,
+          "month": 3,
+          "day": 8,
+          "precision": "day"
+        },
+        "units": [
+          "gaza-strip"
+        ],
+        "partial_units": [
+          "sinai-egypt"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Gaza Strip and most of Sinai east of the Suez Canal (Anglo-French forces held the canal zone separately)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-arab-israeli-wars",
+            "locator": "1956",
+            "quote": "occupied most of the peninsula east of the Suez Canal"
+          }
+        ],
+        "notes": {
+          "en": "UNEF background dates the first phase of Israeli withdrawal 'November 1956-mid-January 1957' and reports that by 22 January 1957 the Sinai was to be evacuated except the Sharm el-Sheikh area; staged lines not modelled."
+        },
+        "id": "israeli-occupation-gaza-sinai-1956-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

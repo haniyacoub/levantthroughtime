@@ -1,0 +1,77 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "emirate-of-transjordan",
+        "start": {
+          "year": 1921,
+          "month": 4,
+          "day": 11,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1925,
+          "month": 5,
+          "precision": "month"
+        },
+        "partial_units": [
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Transjordan without the Ma'an and Aqaba districts, which belonged to the Kingdom of the Hijaz until May 1925."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "kinghussein-transjordan-history",
+            "quote": "The regions of Ma'an and Tabuk were incorporated into the Kingdom of the Hijaz"
+          }
+        ],
+        "notes": {
+          "en": "The eastern desert frontiers (with Najd/Saudi Arabia, Iraq, Syria) were defined only gradually in the 1920s-1930s; not modelled."
+        },
+        "id": "emirate-of-transjordan-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "emirate-of-transjordan",
+        "start": {
+          "year": 1925,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1946,
+          "month": 5,
+          "day": 25,
+          "precision": "day"
+        },
+        "units": [
+          "transjordan"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Transjordan including the Aqaba-Ma'an region."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "kinghussein-transjordan-history",
+            "quote": "In May 1925, the Aqaba and Ma'an districts of the Hijaz became part of Transjordan."
+          }
+        ],
+        "id": "emirate-of-transjordan-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

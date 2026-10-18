@@ -1,0 +1,430 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "population": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "area": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "date": {
+            "type": "object",
+            "properties": {
+              "year": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "month": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 12
+              },
+              "day": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 31
+              },
+              "circa": {
+                "type": "boolean"
+              },
+              "precision": {
+                "type": "string",
+                "enum": [
+                  "day",
+                  "month",
+                  "season",
+                  "year",
+                  "decade",
+                  "century",
+                  "millennium"
+                ]
+              },
+              "latest": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "calendar_note": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "year",
+              "precision"
+            ],
+            "additionalProperties": false
+          },
+          "date_note": {
+            "type": "string"
+          },
+          "total": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "low": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "high": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "best": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  }
+                },
+                "required": [
+                  "low",
+                  "high"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "composition": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "axis": {
+                  "type": "string",
+                  "enum": [
+                    "religion",
+                    "ethnicity",
+                    "population-group"
+                  ]
+                },
+                "groups": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "group": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "count": {
+                        "type": "object",
+                        "properties": {
+                          "low": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "high": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "best": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          }
+                        },
+                        "required": [
+                          "low",
+                          "high"
+                        ],
+                        "additionalProperties": false
+                      },
+                      "share_pct": {
+                        "type": "object",
+                        "properties": {
+                          "low": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "high": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "best": {
+                            "anyOf": [
+                              {
+                                "type": "number",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          }
+                        },
+                        "required": [
+                          "low",
+                          "high"
+                        ],
+                        "additionalProperties": false
+                      },
+                      "confidence": {
+                        "type": "string",
+                        "enum": [
+                          "documented",
+                          "estimated",
+                          "contested",
+                          "unknown"
+                        ]
+                      },
+                      "notes": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "group"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "label": {
+                  "type": "string"
+                },
+                "partial": {
+                  "type": "boolean"
+                },
+                "sources": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ref": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      },
+                      "via": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "ref"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "axis",
+                "groups"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "basis": {
+            "type": "string",
+            "enum": [
+              "census",
+              "official-estimate",
+              "registration",
+              "estimate-archaeological",
+              "estimate-tax-register",
+              "estimate-textual",
+              "estimate-other",
+              "derived"
+            ]
+          },
+          "method": {
+            "type": "string"
+          },
+          "derivation": {
+            "type": "object",
+            "properties": {
+              "inputs": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                }
+              },
+              "formula": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "inputs",
+              "formula"
+            ],
+            "additionalProperties": false
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "documented",
+              "estimated",
+              "contested",
+              "unknown"
+            ]
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ref": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "locator": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                },
+                "via": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "note": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "ref"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "notes": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "area",
+          "date",
+          "total",
+          "basis",
+          "confidence",
+          "sources"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "population"
+  ],
+  "additionalProperties": false
+}

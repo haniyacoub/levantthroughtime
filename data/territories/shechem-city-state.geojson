@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "shechem-city-state",
+        "start": {
+          "year": -1900,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1551,
+          "circa": true,
+          "precision": "century"
+        },
+        "partial_units": [
+          "samaria"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Middle Bronze: the Execration Texts suggest the central hill country was divided between a northern body centred on Shechem and a southern one centred on Jerusalem."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 17"
+          }
+        ],
+        "id": "shechem-city-state-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "shechem-city-state",
+        "start": {
+          "year": -1550,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -1200,
+          "circa": true,
+          "precision": "century"
+        },
+        "units": [
+          "samaria"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Late Bronze highland city-state over 'large, sparsely settled territories' in the northern central highlands. In the Amarna period (14th century) Labayu's coalition reached from the Bashan through the highlands to the Sharon, but that coalition of allies is not mapped as Shechem's own territory."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "pp. 16, 19"
+          }
+        ],
+        "id": "shechem-city-state-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

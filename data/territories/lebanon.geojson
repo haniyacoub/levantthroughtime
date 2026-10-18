@@ -1,0 +1,112 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "lebanon",
+        "start": {
+          "year": 1943,
+          "month": 11,
+          "day": 22,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1982,
+          "month": 6,
+          "precision": "month"
+        },
+        "units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Lebanon within its 1920/1923 boundaries."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-lebanon-french-mandate",
+            "quote": "In 1920 Beirut and other coastal towns, Bekaa, and certain other districts were added to the autonomous territory Mount Lebanon as defined in 1861 to form Greater Lebanon"
+          }
+        ],
+        "notes": {
+          "en": "The Israeli incursion of March 1978 (which led to UNSC res. 425 and UNIFIL) and the civil war are not modelled."
+        },
+        "id": "lebanon-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "lebanon",
+        "start": {
+          "year": 1982,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 2000,
+          "month": 5,
+          "day": 25,
+          "precision": "day"
+        },
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Lebanon minus the Israeli-held south (to Beirut in 1982; the 'security zone' after 1985)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "unifil-background",
+            "quote": "In 1985, Israel carried out a partial withdrawal, but it retained control of an area in southern Lebanon"
+          }
+        ],
+        "notes": {
+          "en": "Syrian forces were also present in much of Lebanon in this period; not modelled. Modelling note: drawn as the whole of Lebanon; the Israeli-held south is a separate record (israeli-occupied-zone-south-lebanon-1982) drawn on top."
+        },
+        "id": "lebanon-2",
+        "geometry_method": "units",
+        "units": [
+          "lebanon"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "lebanon",
+        "start": {
+          "year": 2000,
+          "month": 5,
+          "day": 25,
+          "precision": "day"
+        },
+        "units": [
+          "lebanon"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Lebanon after the Israeli withdrawal to the UN-identified Blue Line (2000). From 2024, and much more from March 2026, Israel held positions and a security zone in the south (separate record)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "unifil-background",
+            "quote": "On 16 June, the Secretary-General reported to the Security Council that Israel had withdrawn its forces from Lebanon in accordance with resolution 425 (1978)"
+          }
+        ],
+        "notes": {
+          "en": "Overlaps with israeli-security-zone-south-lebanon-2024 from 2024; Lebanon's sovereignty claim covers the whole unit. Modelling note: the Israeli-held positions since 2024 are a separate record drawn on top."
+        },
+        "id": "lebanon-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

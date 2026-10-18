@@ -1,0 +1,118 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "french-mandate-syria-lebanon",
+        "start": {
+          "year": 1920,
+          "month": 7,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "units": [
+          "syria",
+          "lebanon"
+        ],
+        "partial_units": [
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria and Lebanon; most of the Golan (except the triangle assigned to Palestine)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "blum-boundaries",
+            "locator": "p. 34",
+            "quote": "a triangular area on the Golan, with Quneitra at the head of the triangle, was included within Palestine."
+          }
+        ],
+        "id": "french-mandate-syria-lebanon-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "french-mandate-syria-lebanon",
+        "start": {
+          "year": 1923,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1943,
+          "month": 11,
+          "day": 22,
+          "precision": "day"
+        },
+        "units": [
+          "syria",
+          "lebanon",
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria (incl. the whole Golan) and Lebanon."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "ecf-paulet-newcombe",
+            "quote": "left the entirety of the Golan Heights under French control"
+          }
+        ],
+        "id": "french-mandate-syria-lebanon-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "french-mandate-syria-lebanon",
+        "start": {
+          "year": 1943,
+          "month": 11,
+          "day": 22,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1946,
+          "month": 4,
+          "precision": "month"
+        },
+        "units": [
+          "syria",
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Syria (incl. the Golan) until the completion of French and British withdrawal; Lebanon independent from Nov 1943."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-lebanon-french-mandate",
+            "quote": "Although independence had been proclaimed on November 22, 1943"
+          }
+        ],
+        "notes": {
+          "en": "Syria was formally independent (proclaimed 1941, Quwatli government from 1943) during this slice; the slice records continued French presence."
+        },
+        "id": "french-mandate-syria-lebanon-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

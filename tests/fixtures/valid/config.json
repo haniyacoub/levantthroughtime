@@ -1,0 +1,8 @@
+{
+  "title": { "en": "Test" },
+  "subtitle": { "en": "Fixture" },
+  "timeline": { "start": { "year": -10000 }, "as_of": { "year": 2026, "month": 10, "precision": "month" } },
+  "prehistoric_until": -3000,
+  "composition_tolerance_pct": 2,
+  "map": { "bounds": [[31.5, 28.0], [39.0, 34.6]], "initial": { "center": [35.3, 31.6], "zoom": 6.6 } }
+}

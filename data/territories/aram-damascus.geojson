@@ -1,0 +1,96 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "aram-damascus",
+        "start": {
+          "year": -1000,
+          "circa": true,
+          "precision": "century"
+        },
+        "end": {
+          "year": -843,
+          "circa": true,
+          "precision": "decade"
+        },
+        "units": [
+          "damascus"
+        ],
+        "partial_units": [
+          "lebanon-mountains",
+          "bashan"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and the Anti-Lebanon area; Aramaeans held 'the Anti-Lebanon area, including Damascus'. Early Iron IIA Damascus also ruled parts of the mountainous Galilee and upper Jordan Valley (Finkelstein)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-aramaean",
+            "locator": "history"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 78"
+          }
+        ],
+        "id": "aram-damascus-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "aram-damascus",
+        "start": {
+          "year": -842,
+          "circa": true,
+          "precision": "decade"
+        },
+        "end": {
+          "year": -732,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "bashan",
+          "golan",
+          "gilead"
+        ],
+        "partial_units": [
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Expansion under Hazael and his successors over Israelite territory in Transjordan (east of the Jordan, north of the Yarmuk, and Gilead), which Israel had lost to Damascus again shortly before 732."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-iron-age",
+            "locator": "The Israelites in Palestine"
+          },
+          {
+            "ref": "britannica-israel-kingdom",
+            "locator": "biblical account"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 153"
+          }
+        ],
+        "notes": {
+          "en": "Jeroboam II's reconquests (first half of the 8th century) are not shown."
+        },
+        "id": "aram-damascus-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

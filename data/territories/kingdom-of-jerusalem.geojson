@@ -1,0 +1,323 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-jerusalem",
+        "start": {
+          "year": 1099,
+          "month": 7,
+          "day": 15,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1187,
+          "month": 10,
+          "day": 2,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "samaria",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "jezreel",
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "moab",
+          "edom"
+        ],
+        "partial_units": [
+          "philistia",
+          "phoenician-coast",
+          "negev-north",
+          "arabah",
+          "negev-south",
+          "aqaba-hisma"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "First Kingdom at its 12th-century extent, built up 1099-1153: 'roughly ... what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan'. Coast taken step by step (Acre 1104; Arsuf, Caesarea, Beirut, Sidon by 1112; Tyre 1124; Ascalon only in 1153, so philistia is partial before 1153). Transjordan held through the lordship of Kerak/Montréal; Franks reached Aylah (Aqaba). Phoenician coast only from Beirut south (further north = County of Tripoli)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-kingdom-of-jerusalem",
+            "locator": "paragraph 2",
+            "quote": "The kingdom proper, which corresponded roughly to what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan"
+          },
+          {
+            "ref": "britannica-acre",
+            "locator": "paragraph 2",
+            "quote": "the Crusaders (1104), who named the city St. Jean d’Acre and made it their last capital."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "By 1112 Arsuf, Caesarea, Acre, Beirut, and Sidon had been taken, and the entire coast except for Ascalon and Tyre was in Latin hands."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "In 1124 Tyre, the last great city north of Ascalon still in Muslim hands, was taken with the aid of the Venetians"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states to 1187'",
+            "quote": "In 1153 King Baldwin captured Ascalon, extending the kingdom’s coastline southward"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states'",
+            "quote": "Though the Franks did push southward to Aylah (or Elim, modern Al-ʿAqabah), all attempts to move eastward failed"
+          }
+        ],
+        "notes": {
+          "en": "Single slice for 1099-1187; the kingdom grew over the first decades, so the full extent applies only from c. 1124/1153. Unit choice is schematic."
+        },
+        "id": "kingdom-of-jerusalem-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-jerusalem",
+        "start": {
+          "year": 1187,
+          "month": 10,
+          "day": 2,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1191,
+          "month": 7,
+          "precision": "month"
+        },
+        "partial_units": [
+          "phoenician-coast",
+          "lower-galilee",
+          "moab",
+          "edom"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After Hattin (4 July 1187) and Jerusalem's surrender (2 Oct 1187) the kingdom was reduced to Tyre plus a few castles: Kerak fell in 1188 and 'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre'. A Frankish army besieged Acre from 1189."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusader states to 1187'",
+            "quote": "by 1189 all of the kingdom was in his hands except Belvoir (modern Kokhov ha-Yarden) and Tyre."
+          },
+          {
+            "ref": "britannica-al-karak",
+            "locator": "paragraph 3",
+            "quote": "Le Krak du Désert, a heavily fortified Crusader citadel, was built on the site of the ancient fortress in 1132; it fell to the Muslims in 1188"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Third Crusade'",
+            "quote": "Scarcely two weeks after Ḥaṭṭin, Conrad of Montferrat, Baldwin V’s uncle, had landed at Tyre"
+          }
+        ],
+        "notes": {
+          "en": "Partial units = Tyre (phoenician-coast), Belvoir (lower Galilee edge of the Jordan valley), Kerak/Montréal until 1188-89."
+        },
+        "id": "kingdom-of-jerusalem-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-jerusalem",
+        "start": {
+          "year": 1191,
+          "month": 7,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1229,
+          "precision": "year"
+        },
+        "units": [
+          "acre-plain",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "philistia",
+          "phoenician-coast"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Coastal 'Second Kingdom' centred on Acre (recovered July 1191). The truce of 2 Sept 1192 left 'the coast from Jaffa north' in Christian hands; Ascalon returned to Saladin."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Third Crusade'",
+            "quote": "A month later, after constant battering at the walls by siege engines and after Saladin’s nephew had failed to fight his way into the city, the garrison surrendered"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Third Crusade'",
+            "quote": "on September 2, 1192, the two signed a three-year peace treaty. The coast from Jaffa north remained in Christian hands, but Ascalon was to be restored to Saladin"
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Latin East after the Third Crusade'",
+            "quote": "a new titular kingdom of Jerusalem, centring on Acre and generally known as the Second Kingdom."
+          },
+          {
+            "ref": "britannica-kingdom-of-jerusalem",
+            "locator": "opening paragraph",
+            "quote": "kingdom of Jerusalem, a state formed in 1099 from territory in Palestine wrested from Muslims by European Christians during the First Crusade and lasting until 1291"
+          }
+        ],
+        "notes": {
+          "en": "Some coastal towns changed hands again after 1192 (not mapped)."
+        },
+        "id": "kingdom-of-jerusalem-3",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-jerusalem",
+        "start": {
+          "year": 1229,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1244,
+          "precision": "year"
+        },
+        "units": [
+          "acre-plain",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "philistia",
+          "phoenician-coast",
+          "judea",
+          "shephelah",
+          "lower-galilee",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Treaty of 1229 (Frederick II with the Ayyubid sultan al-Kamil): Jerusalem (except the Haram/Temple Mount area, which Muslims retained), Bethlehem and a corridor to the sea were ceded for 10 years; Britannica's 'Palestine' article also lists Nazareth. Jerusalem was retaken in 1239, returned by negotiation during the crusades of 1239-41 (with other territory), and lost for good in 1244."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusade of Frederick II'",
+            "quote": "Jerusalem, Bethlehem, and a corridor running to the sea were ceded to the kingdom of Jerusalem."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "a 10-year treaty that temporarily restored Jerusalem, Nazareth, and Bethlehem to the Christians. In 1244, however, the Ayyubid sultan al-Ṣāliḥ Ayyūb definitively restored Jerusalem to Islam."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusade of Frederick II'",
+            "quote": "After the 10 years’ peace had expired in 1239, the Muslims easily took back the defenseless Jerusalem."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusade of Frederick II'",
+            "quote": "in 1244 an alliance of Jerusalem and Damascus failed to prevent the capture and sack of Jerusalem by Khwārezmians with Egyptian aid."
+          },
+          {
+            "ref": "britannica-zefat",
+            "locator": "history paragraph",
+            "quote": "Safed passed from hand to hand during the Crusades until captured by Baybars I, who razed its citadel (1266)."
+          }
+        ],
+        "notes": {
+          "en": "Partial units: Jerusalem-Bethlehem (judea), the corridor to Jaffa (shephelah), Nazareth (lower-galilee); upper-galilee partial because Safad changed hands during the Crusades and was Frankish until Baybars took it in 1266 (exact date of its 13th-century recovery not verified). Other territory regained in 1239-41 is not mapped."
+        },
+        "id": "kingdom-of-jerusalem-4",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-jerusalem",
+        "start": {
+          "year": 1244,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1291,
+          "month": 5,
+          "day": 18,
+          "precision": "day"
+        },
+        "units": [
+          "acre-plain"
+        ],
+        "partial_units": [
+          "carmel-sharon",
+          "phoenician-coast",
+          "philistia",
+          "upper-galilee"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "After 1244 'a thin strip of ports along the Mediterranean coast'. Baybars took Caesarea, Haifa and Arsuf (1265) and Galilee including Safed (1266); Acre, the last stronghold, fell on 18 May 1291."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusade of Frederick II'",
+            "quote": "Once again the Christians were confined to a thin strip of ports along the Mediterranean coast."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The Crusades of St. Louis'",
+            "quote": "In 1265 he took Caesarea, Haifa, and Arsuf. The following year he conquered Galilee"
+          },
+          {
+            "ref": "britannica-zefat",
+            "locator": "history paragraph",
+            "quote": "Safed passed from hand to hand during the Crusades until captured by Baybars I, who razed its citadel (1266)."
+          },
+          {
+            "ref": "britannica-palestine-to-1900",
+            "locator": "section 'The Crusades'",
+            "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
+          },
+          {
+            "ref": "britannica-crusades",
+            "locator": "section 'The final loss of the Crusader states'",
+            "quote": "Acre, the last Crusader stronghold on the mainland, was besieged in 1291."
+          }
+        ],
+        "notes": {
+          "en": "Partial units shrink over the period: Caesarea/Arsuf (carmel-sharon) until 1265; Safed (upper-galilee) until 1266; Jaffa (philistia) until its Mamluk capture (date not verified here)."
+        },
+        "id": "kingdom-of-jerusalem-5",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

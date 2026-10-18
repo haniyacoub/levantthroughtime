@@ -3,3 +3,8 @@ dist/
 public/data/
 public/tiles/
 .DS_Store
+test-results/
+playwright-report/
+data/raw/downloads/
+*.local
+public/fonts/

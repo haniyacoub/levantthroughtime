@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "egypt-eb-presence",
+        "start": {
+          "year": -3500,
+          "circa": true,
+          "precision": "century",
+          "latest": -3200
+        },
+        "end": {
+          "year": -3200,
+          "circa": true,
+          "precision": "century",
+          "latest": -2900
+        },
+        "partial_units": [
+          "philistia",
+          "negev-north",
+          "shephelah",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Egyptian-style kitchenware and other finds at sites spanning 'from northern Negev to the central Coastal Plain' (Tel es-Sakan, Tel Halif, Amaziya, Tel Lod, Maghar, En Besor, Tel Ma'ahaz, Tel Erani), concentrated around Tel Erani and En Besor. A trade route ran through northern Sinai. These are enclaves within local settlement, not a bounded territory."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gamrat-2019-egyptian-kitchenware",
+            "locator": "pp. 31-32",
+            "quote": "They span from northern Negev to the central Coastal Plain, although it seems that most of the Egyptian activity was concentrated around Tel Erani and the En Besor region"
+          }
+        ],
+        "id": "egypt-eb-presence-1",
+        "geometry_method": "units",
+        "notes": {
+          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+        }
+      }
+    }
+  ]
+}

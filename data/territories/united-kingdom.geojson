@@ -1,0 +1,152 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-kingdom",
+        "start": {
+          "year": 1917,
+          "month": 12,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1922,
+          "month": 2,
+          "precision": "month"
+        },
+        "units": [
+          "sinai-egypt",
+          "gaza-strip",
+          "east-jerusalem",
+          "west-bank",
+          "mount-scopus",
+          "nml-latrun",
+          "nml-jerusalem"
+        ],
+        "partial_units": [
+          "israel-1949",
+          "transjordan",
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "British-controlled part of the map area: Sinai (Egypt under British protectorate to Feb 1922), Palestine under military (Dec 1917-June 1920) then civil administration, Transjordan from 1921, and (1920-23) a triangle of the Golan assigned to Palestine."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-egypt-ww1-independence",
+            "quote": "in December proclaimed a protectorate over Egypt"
+          },
+          {
+            "ref": "un-dpr-origins-part1",
+            "quote": "the de facto administration was first in the form of a military government from December 1917 to June 1920"
+          },
+          {
+            "ref": "blum-boundaries",
+            "locator": "p. 34",
+            "quote": "a triangular area on the Golan, with Quneitra at the head of the triangle, was included within Palestine."
+          }
+        ],
+        "notes": {
+          "en": "Northern Palestine (israel-1949, partly) only came under British control in Sept-Oct 1918. Transjordan: local administrations with British advisers (King Hussein site), then the Emirate from April 1921."
+        },
+        "id": "united-kingdom-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-kingdom",
+        "start": {
+          "year": 1922,
+          "month": 3,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1946,
+          "month": 5,
+          "precision": "month"
+        },
+        "units": [
+          "israel-1949",
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip",
+          "nml-latrun",
+          "nml-jerusalem",
+          "mount-scopus",
+          "transjordan"
+        ],
+        "partial_units": [
+          "golan-heights"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Mandatory Palestine and the Emirate of Transjordan under British mandate (Golan triangle only until March 1923)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "un-dpr-origins-part1",
+            "quote": "Palestine and Transjordan (as it was then called) were included in the same Mandate but treated as distinct territories."
+          }
+        ],
+        "notes": {
+          "en": "Egypt's protectorate ended 28 Feb 1922 (Britannica), so Sinai is excluded from this slice."
+        },
+        "id": "united-kingdom-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "united-kingdom",
+        "start": {
+          "year": 1946,
+          "month": 5,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1948,
+          "month": 5,
+          "day": 15,
+          "precision": "day"
+        },
+        "units": [
+          "israel-1949",
+          "west-bank",
+          "east-jerusalem",
+          "gaza-strip",
+          "nml-latrun",
+          "nml-jerusalem",
+          "mount-scopus"
+        ],
+        "boundary_certainty": "surveyed",
+        "description": {
+          "en": "Mandatory Palestine only (Transjordan independent from May 1946) until the end of the Mandate on 14/15 May 1948."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "icj-2004-wall-ao",
+            "locator": "para. 71",
+            "quote": "subsequently advancing that date to 15 May 1948"
+          }
+        ],
+        "notes": {
+          "en": "During the civil war phase (Nov 1947-May 1948) effective British control receded; not modelled here."
+        },
+        "id": "united-kingdom-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-agrippa-i",
+        "start": {
+          "year": 37,
+          "precision": "year"
+        },
+        "end": {
+          "year": 39,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Philip's former tetrarchy and an adjoining region."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-herod-agrippa-i",
+            "locator": "article",
+            "quote": "king of the former realm of his uncle Philip the Tetrarch and of an adjoining region"
+          }
+        ],
+        "id": "kingdom-of-agrippa-i-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-agrippa-i",
+        "start": {
+          "year": 39,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 41,
+          "precision": "year"
+        },
+        "units": [
+          "bashan",
+          "lower-galilee"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains",
+          "upper-galilee",
+          "jordan-valley",
+          "gilead",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Plus Antipas's tetrarchy (Galilee and Peraea)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "The tetrarchy of Antipas was added soon after his removal in 39"
+          }
+        ],
+        "id": "kingdom-of-agrippa-i-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "kingdom-of-agrippa-i",
+        "start": {
+          "year": 41,
+          "precision": "year"
+        },
+        "end": {
+          "year": 44,
+          "precision": "year"
+        },
+        "units": [
+          "bashan",
+          "golan",
+          "lower-galilee",
+          "upper-galilee",
+          "judea",
+          "judean-desert",
+          "samaria",
+          "shephelah",
+          "jordan-valley",
+          "jezreel",
+          "carmel-sharon"
+        ],
+        "partial_units": [
+          "negev-north",
+          "philistia",
+          "gilead",
+          "madaba-plain",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Plus Judaea, Samaria and Idumaea: the kingdom of Herod the Great restored."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "the territories of Judaea, Samaria, and Edom were added in 41"
+          }
+        ],
+        "id": "kingdom-of-agrippa-i-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

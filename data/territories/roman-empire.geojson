@@ -1,0 +1,136 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "roman-empire",
+        "start": {
+          "year": -27,
+          "precision": "year"
+        },
+        "end": {
+          "year": 106,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "phoenician-coast",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "partial_units": [
+          "edom",
+          "moab",
+          "arabah",
+          "aqaba-hisma",
+          "madaba-plain"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Provinces (Syria, Judaea from 6 CE, Egypt incl. Sinai from 30 BCE) and client kingdoms (Herodians, Nabataeans)."
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "britannica-palestine-hasmonean-herodian",
+            "locator": "The Herodian house",
+            "quote": "became the province of Judaea and passed to a series of undistinguished Roman prefects"
+          },
+          {
+            "ref": "britannica-nabataean",
+            "locator": "Roman period",
+            "quote": "Aretas became a Roman vassal"
+          }
+        ],
+        "notes": {
+          "en": "Nabataean lands (partial units) were under a vassal king, not direct rule."
+        },
+        "id": "roman-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "roman-empire",
+        "start": {
+          "year": 106,
+          "precision": "year"
+        },
+        "end": {
+          "year": 395,
+          "precision": "year"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole map area under direct provincial rule after the annexation of Nabataea (province of Arabia)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "britannica-nabataean",
+            "locator": "annexation",
+            "quote": "When the Roman emperor Trajan annexed the kingdom (ad 105–106) and set up the new province of Arabia"
+          }
+        ],
+        "notes": {
+          "en": "Eastern desert (badia) control was loose."
+        },
+        "id": "roman-empire-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

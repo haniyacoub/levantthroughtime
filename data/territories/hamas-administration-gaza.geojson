@@ -1,0 +1,78 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hamas-administration-gaza",
+        "start": {
+          "year": 2007,
+          "month": 6,
+          "precision": "month"
+        },
+        "end": {
+          "year": 2023,
+          "month": 10,
+          "precision": "month"
+        },
+        "units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Whole Gaza Strip internally, within an Israeli-controlled land, sea and air perimeter and an Israeli-enforced buffer zone along the fence; Egypt controlled the Rafah side."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "icj-2024-opt-ao",
+            "locator": "para. 93",
+            "quote": "including control of the land, sea and air borders, restrictions on movement of people and goods, collection of import and export taxes, and military control over the buffer zone"
+          }
+        ],
+        "notes": {
+          "en": "Buffer-zone extent varied (Al Jazeera cites a 2010 OCHA estimate of 17% of Gaza's land)."
+        },
+        "id": "hamas-administration-gaza-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "hamas-administration-gaza",
+        "start": {
+          "year": 2023,
+          "month": 10,
+          "precision": "month"
+        },
+        "partial_units": [
+          "gaza-strip"
+        ],
+        "boundary_certainty": "contested",
+        "description": {
+          "en": "Shrinking area outside Israeli-held zones during the war; after the ceasefire that took effect on 10 Oct 2025, the area west of the 'Yellow Line' (about 47% of Gaza at the ceasefire; roughly 30-40% by Oct 2026 depending on source)."
+        },
+        "confidence": "contested",
+        "sources": [
+          {
+            "ref": "aljazeera-2026-10-12-yellow-line",
+            "quote": "The line left Israel in control of 53 percent of the Strip, mostly farmland and border areas in the east, and confined Palestinians to the remaining 47 percent"
+          },
+          {
+            "ref": "jpost-2026-08-11-yellow-line",
+            "quote": "It separates the Israeli-held area, largely in the east and south of the Strip, from the densely populated coastal area under Hamas control."
+          }
+        ],
+        "notes": {
+          "en": "No polygon is drawn; see idf-controlled-zone-gaza-2023 for the competing figures. Hamas's degree of control varied and parts of the area were contested by Israeli strikes and local armed groups (not researched)."
+        },
+        "id": "hamas-administration-gaza-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

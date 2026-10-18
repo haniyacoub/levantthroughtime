@@ -1,0 +1,119 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sasanian-empire",
+        "start": {
+          "year": 614,
+          "precision": "year"
+        },
+        "end": {
+          "year": 616,
+          "precision": "year"
+        },
+        "units": [
+          "lower-galilee",
+          "upper-galilee",
+          "jezreel",
+          "phoenician-coast",
+          "damascus",
+          "golan",
+          "bashan"
+        ],
+        "partial_units": [
+          "judea",
+          "samaria",
+          "lebanon-mountains",
+          "acre-plain",
+          "gilead"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Syria and northern Palestine occupied; Jerusalem taken 614."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "howard-johnston-iranica-khosrow-ii",
+            "locator": "campaigns of 613–614",
+            "quote": "occupied Syria and northern Palestine, intervened in Jerusalem to stop a pogrom (614)"
+          }
+        ],
+        "id": "sasanian-empire-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "sasanian-empire",
+        "start": {
+          "year": 616,
+          "precision": "year"
+        },
+        "end": {
+          "year": 628,
+          "precision": "year",
+          "latest": 630
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "negev-south",
+          "arabah",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "madaba-plain",
+          "moab",
+          "edom",
+          "aqaba-hisma",
+          "badia",
+          "phoenician-coast",
+          "damascus",
+          "lebanon-mountains",
+          "sinai-north",
+          "sinai"
+        ],
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Direct rule over the whole of Palestine incl. its desert frontage (Egypt invaded from 618)."
+        },
+        "confidence": "documented",
+        "sources": [
+          {
+            "ref": "howard-johnston-iranica-khosrow-ii",
+            "locator": "campaigns of 616",
+            "quote": "direct rule being established over the whole region, including its desert frontage"
+          },
+          {
+            "ref": "howard-johnston-iranica-khosrow-ii",
+            "locator": "end of the war",
+            "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+          }
+        ],
+        "notes": {
+          "en": "End: 628 (Britannica: Heraclius recovered Palestine) to 630 (Iranica: final peace)."
+        },
+        "id": "sasanian-empire-2",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}
