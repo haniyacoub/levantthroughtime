@@ -423,7 +423,13 @@
         }
       ],
       "notes": {
-        "en": "Sovereignty over Jerusalem is contested: Israel uses the Hebrew name Yerushalayim officially; Palestinian and Arab usage is al-Quds. No single current name is marked primary for the modern period. Several Pleiades name records carry very broad period tags; implausible ones were dropped (see per-name notes)."
+        "en": "Sovereignty over Jerusalem is contested: Israel uses the Hebrew name Yerushalayim officially; Palestinian and Arab usage is al-Quds. No single current name is marked primary for the modern period. Several Pleiades name records carry very broad period tags; implausible ones were dropped (see per-name notes).",
+        "ar": "السيادة على القدس متنازع عليها: تستعمل إسرائيل رسميًا الاسم العبري يروشلايم؛ والاستعمال الفلسطيني والعربي هو القدس. لا يوسَم اسم حالي واحد بأنه الأساسي للفترة الحديثة. تحمل عدة سجلات أسماء في Pleiades وسوم فترات واسعة جدًا؛ وأُسقطت غير المعقولة منها (انظر ملاحظات الأسماء الفردية).",
+        "he": "הריבונות על ירושלים שנויה במחלוקת: ישראל משתמשת רשמית בשם העברי ירושלים (Yerushalayim); השימוש הפלסטיני והערבי הוא אל-קודס. אף שם נוכחי אחד אינו מסומן כראשי לתקופה המודרנית. מספר רשומות שמות ב-Pleiades נושאות תגיות תקופה רחבות מאוד; הבלתי סבירות הושמטו (ראו הערות לכל שם).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -622,7 +628,13 @@
         }
       ],
       "notes": {
-        "en": "Contested naming: Arabic al-Khalil (Palestinian usage), Hebrew Hevron (Israeli usage), English Hebron; UNESCO lists the old town as \"Hebron/Al-Khalil Old Town\" (inscribed under the State of Palestine)."
+        "en": "Contested naming: Arabic al-Khalil (Palestinian usage), Hebrew Hevron (Israeli usage), English Hebron; UNESCO lists the old town as \"Hebron/Al-Khalil Old Town\" (inscribed under the State of Palestine).",
+        "ar": "تسمية متنازع عليها: بالعربية الخليل (الاستعمال الفلسطيني)، وبالعبرية חברון أي هيفرون (الاستعمال الإسرائيلي)، وبالإنجليزية Hebron؛ وتدرج اليونسكو البلدة القديمة باسم \"Hebron/Al-Khalil Old Town\" (مدرجة باسم دولة فلسطين).",
+        "he": "שם שנוי במחלוקת: בערבית אל-ח'ליל (שימוש פלסטיני), בעברית חברון (שימוש ישראלי), באנגלית Hebron; אונסק״ו מציינת את העיר העתיקה כ-\"Hebron/Al-Khalil Old Town\" (נרשמה תחת מדינת פלסטין).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1017,7 +1029,13 @@
         }
       ],
       "notes": {
-        "en": "Contested naming: Arabic Nablus (Palestinian and international usage) vs. Hebrew Shekhem (Israeli usage). The ancient city of Shechem is recorded separately as tell-balata."
+        "en": "Contested naming: Arabic Nablus (Palestinian and international usage) vs. Hebrew Shekhem (Israeli usage). The ancient city of Shechem is recorded separately as tell-balata.",
+        "ar": "تسمية متنازع عليها: بالعربية نابلس (الاستعمال الفلسطيني والدولي) مقابل العبرية شخيم (الاستعمال الإسرائيلي). مدينة شكيم القديمة مسجلة منفصلة باسم tell-balata.",
+        "he": "שם שנוי במחלוקת: בערבית נאבלוס (שימוש פלסטיני ובין-לאומי) לעומת בעברית שכם (שימוש ישראלי). העיר העתיקה שכם רשומה בנפרד כ-tell-balata.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1425,7 +1443,13 @@
         }
       ],
       "notes": {
-        "en": "The ancient city (capital of the kingdom of Israel, later Sebaste) and the modern Palestinian village of Sebastia adjoin; coordinates are those of the ancient site."
+        "en": "The ancient city (capital of the kingdom of Israel, later Sebaste) and the modern Palestinian village of Sebastia adjoin; coordinates are those of the ancient site.",
+        "ar": "المدينة القديمة (عاصمة مملكة إسرائيل، ثم سبسطي) وقرية سبسطية الفلسطينية الحديثة متجاورتان؛ والإحداثيات هي إحداثيات الموقع القديم.",
+        "he": "העיר העתיקה (בירת ממלכת ישראל, ולימים סבסטי) וכפר סבסטיה הפלסטיני המודרני סמוכים זה לזה; הקואורדינטות הן של האתר הקדום.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2557,7 +2581,13 @@
         }
       ],
       "notes": {
-        "en": "Modern Israeli city that grew from the Arab town of al-Majdal, about 2 km east-north-east of ancient Ascalon (recorded separately as ashkelon-ancient)."
+        "en": "Modern Israeli city that grew from the Arab town of al-Majdal, about 2 km east-north-east of ancient Ascalon (recorded separately as ashkelon-ancient).",
+        "ar": "مدينة إسرائيلية حديثة نشأت من بلدة المجدل العربية، وتقع نحو 2 كم شرق–شمال شرق عسقلان القديمة (مسجلة منفصلة باسم ashkelon-ancient).",
+        "he": "עיר ישראלית מודרנית שצמחה מהעיירה הערבית אל-מג'דל, כ-2 ק״מ ממזרח-צפון-מזרח לאשקלון העתיקה (רשומה בנפרד כ-ashkelon-ancient).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -3046,7 +3076,13 @@
         }
       ],
       "notes": {
-        "en": "Ancient Philistine Ashdod (Tel Ashdod) and the Arab village of Isdud; the modern Israeli city of Ashdod (founded 1956) is recorded separately. The village's fate in 1948 is not covered by the sources used for this record."
+        "en": "Ancient Philistine Ashdod (Tel Ashdod) and the Arab village of Isdud; the modern Israeli city of Ashdod (founded 1956) is recorded separately. The village's fate in 1948 is not covered by the sources used for this record.",
+        "ar": "أشدود الفلستية القديمة (تل أشدود) وقرية إسدود العربية؛ أما مدينة أشدود الإسرائيلية الحديثة (تأسست عام 1956) فمسجلة منفصلة. ولا تغطي المصادر المستخدمة لهذا السجل مصير القرية عام 1948.",
+        "he": "אשדוד הפלשתית הקדומה (תל אשדוד) והכפר הערבי אסדוד; העיר הישראלית המודרנית אשדוד (נוסדה ב-1956) רשומה בנפרד. גורל הכפר ב-1948 אינו מכוסה במקורות ששימשו לרשומה זו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -3673,7 +3709,13 @@
         }
       ],
       "notes": {
-        "en": "Captured by Israeli forces on 12 July 1948 (Britannica, Lod). The Institute for Palestine Studies' encyclopedia describes the events of 9-13 July 1948 in the city as a massacre followed by the mass expulsion of its residents."
+        "en": "Captured by Israeli forces on 12 July 1948 (Britannica, Lod). The Institute for Palestine Studies' encyclopedia describes the events of 9-13 July 1948 in the city as a massacre followed by the mass expulsion of its residents.",
+        "ar": "استولت عليها القوات الإسرائيلية في 12 تموز/يوليو 1948 (بريتانيكا، اللد). وتصف موسوعة مؤسسة الدراسات الفلسطينية أحداث 9–13 تموز/يوليو 1948 في المدينة بأنها مجزرة أعقبها طرد جماعي لسكانها.",
+        "he": "נכבשה בידי כוחות ישראליים ב-12 ביולי 1948 (בריטניקה, לוד). האנציקלופדיה של המכון ללימודי פלסטין מתארת את אירועי 9–13 ביולי 1948 בעיר כטבח שלאחריו גירוש המוני של תושביה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -3847,7 +3889,13 @@
         }
       ],
       "notes": {
-        "en": "Taken by Israeli forces on 12 July 1948 (Britannica, Ramla)."
+        "en": "Taken by Israeli forces on 12 July 1948 (Britannica, Ramla).",
+        "ar": "استولت عليها القوات الإسرائيلية في 12 تموز/يوليو 1948 (بريتانيكا، الرملة).",
+        "he": "נכבשה בידי כוחות ישראליים ב-12 ביולי 1948 (בריטניקה, רמלה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -4757,7 +4805,13 @@
         }
       ],
       "notes": {
-        "en": "The Pleiades record is Tel Shiqmona, the ancient site at the south-western edge of the modern city; Greco-Roman names refer to that site."
+        "en": "The Pleiades record is Tel Shiqmona, the ancient site at the south-western edge of the modern city; Greco-Roman names refer to that site.",
+        "ar": "سجل Pleiades هو تل شقمونة، الموقع القديم عند الطرف الجنوبي الغربي للمدينة الحديثة؛ والأسماء اليونانية الرومانية تشير إلى ذلك الموقع.",
+        "he": "רשומת Pleiades היא תל שקמונה, האתר הקדום בקצהּ הדרום-מערבי של העיר המודרנית; השמות היווניים-רומיים מתייחסים לאתר זה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -5568,7 +5622,13 @@
         }
       ],
       "notes": {
-        "en": "The Arab village of al-Tantura adjoined the site (recorded separately). Benvenisti: \"The double bay of Dor is called in Arabic Tantura\"."
+        "en": "The Arab village of al-Tantura adjoined the site (recorded separately). Benvenisti: \"The double bay of Dor is called in Arabic Tantura\".",
+        "ar": "كانت قرية الطنطورة العربية ملاصقة للموقع (مسجلة منفصلة). بنفينستي: \"The double bay of Dor is called in Arabic Tantura\".",
+        "he": "הכפר הערבי א-טנטורה היה סמוך לאתר (רשום בנפרד). בנבנשתי: \"The double bay of Dor is called in Arabic Tantura\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -5655,7 +5715,13 @@
         }
       ],
       "notes": {
-        "en": "Arab coastal village next to Tel Dor. Events of 1948 at the village are not recorded here because no source covering them could be consulted in this pass (gap)."
+        "en": "Arab coastal village next to Tel Dor. Events of 1948 at the village are not recorded here because no source covering them could be consulted in this pass (gap).",
+        "ar": "قرية ساحلية عربية بجوار تل دور. أحداث عام 1948 في القرية غير مسجلة هنا لأنه لم يمكن الرجوع إلى مصدر يغطيها في هذه الجولة (ثغرة).",
+        "he": "כפר חוף ערבי ליד תל דור. אירועי 1948 בכפר אינם מתועדים כאן משום שלא ניתן היה לעיין במקור המכסה אותם בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -5872,7 +5938,13 @@
         }
       ],
       "notes": {
-        "en": "Settlement on the mound ended about 450 BCE (Britannica: \"The last traceable remains at Megiddo are from about 450 bce\"); the Roman camp Legio/al-Lajjun nearby is recorded separately."
+        "en": "Settlement on the mound ended about 450 BCE (Britannica: \"The last traceable remains at Megiddo are from about 450 bce\"); the Roman camp Legio/al-Lajjun nearby is recorded separately.",
+        "ar": "انتهى السكن على التل نحو 450 ق.م. (بريتانيكا: \"The last traceable remains at Megiddo are from about 450 bce\")؛ ومعسكر الرومان لجيو/اللجون القريب مسجل منفصلًا.",
+        "he": "היישוב על התל הסתיים בערך ב-450 לפנה״ס (בריטניקה: \"The last traceable remains at Megiddo are from about 450 bce\"); המחנה הרומי לגיו/אל-לג'ון הסמוך רשום בנפרד.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6262,7 +6334,13 @@
         }
       ],
       "notes": {
-        "en": "Taken by the Haganah on 12 May 1948; the Arab population fled and the town was resettled (Britannica)."
+        "en": "Taken by the Haganah on 12 May 1948; the Arab population fled and the town was resettled (Britannica).",
+        "ar": "استولت عليها الهاغاناه في 12 أيار/مايو 1948؛ وفرّ السكان العرب وأُعيد إسكان البلدة (بريتانيكا).",
+        "he": "נכבשה בידי ההגנה ב-12 במאי 1948; האוכלוסייה הערבית נמלטה והעיר אוכלסה מחדש (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6427,7 +6505,13 @@
         }
       ],
       "notes": {
-        "en": "Taken by the Haganah on 18 April 1948 (Britannica, 1948 Arab-Israeli War). City-level record for the 'four holy cities' tradition; see also tomb-of-maimonides."
+        "en": "Taken by the Haganah on 18 April 1948 (Britannica, 1948 Arab-Israeli War). City-level record for the 'four holy cities' tradition; see also tomb-of-maimonides.",
+        "ar": "استولت عليها الهاغاناه في 18 نيسان/أبريل 1948 (بريتانيكا، الحرب العربية الإسرائيلية 1948). سجل على مستوى المدينة لتقليد \"المدن المقدسة الأربع\"؛ انظر أيضًا tomb-of-maimonides.",
+        "he": "נכבשה בידי ההגנה ב-18 באפריל 1948 (בריטניקה, מלחמת ערב-ישראל 1948). רשומה ברמת העיר למסורת \"ארבע הערים הקדושות\"; ראו גם tomb-of-maimonides.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "holy_site": {
         "traditions": {
@@ -6657,7 +6741,13 @@
         }
       ],
       "notes": {
-        "en": "The Arab village of Saffuriya occupied the site in the Mandate period (1931 census); its fate in 1948 is not covered by the sources used in this pass (gap)."
+        "en": "The Arab village of Saffuriya occupied the site in the Mandate period (1931 census); its fate in 1948 is not covered by the sources used in this pass (gap).",
+        "ar": "شغلت قرية صفورية العربية الموقع في فترة الانتداب (تعداد 1931)؛ ومصيرها عام 1948 غير مغطى في المصادر المستخدمة في هذه الجولة (ثغرة).",
+        "he": "הכפר הערבי ספוריה ישב באתר בתקופת המנדט (מפקד 1931); גורלו ב-1948 אינו מכוסה במקורות ששימשו בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -6861,7 +6951,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica's Safed article gives 12 May 1948 for its capture by the Haganah, its 1948-war article gives 10 May; both are recorded. Predominantly Arab before May 1948, when it was taken by the Haganah and the Arab population fled (Britannica)."
+        "en": "Britannica's Safed article gives 12 May 1948 for its capture by the Haganah, its 1948-war article gives 10 May; both are recorded. Predominantly Arab before May 1948, when it was taken by the Haganah and the Arab population fled (Britannica).",
+        "ar": "تذكر مقالة بريتانيكا عن صفد تاريخ 12 أيار/مايو 1948 لاستيلاء الهاغاناه عليها، بينما تذكر مقالتها عن حرب 1948 تاريخ 10 أيار/مايو؛ والتاريخان مسجلان. كانت ذات أغلبية عربية قبل أيار/مايو 1948، حين استولت عليها الهاغاناه وفرّ السكان العرب (بريتانيكا).",
+        "he": "המאמר של בריטניקה על צפת מציין את 12 במאי 1948 ככיבושה בידי ההגנה, ואילו המאמר שלה על מלחמת 1948 מציין את 10 במאי; שני התאריכים רשומים. הייתה ברובה ערבית לפני מאי 1948, אז נכבשה בידי ההגנה והאוכלוסייה הערבית נמלטה (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "holy_site": {
         "traditions": {
@@ -7046,7 +7142,13 @@
         }
       ],
       "notes": {
-        "en": "Surrendered to Israeli forces on 16 July 1948 (Britannica, 1948 Arab-Israeli War)."
+        "en": "Surrendered to Israeli forces on 16 July 1948 (Britannica, 1948 Arab-Israeli War).",
+        "ar": "استسلمت للقوات الإسرائيلية في 16 تموز/يوليو 1948 (بريتانيكا، الحرب العربية الإسرائيلية 1948).",
+        "he": "נכנעה לכוחות ישראליים ב-16 ביולי 1948 (בריטניקה, מלחמת ערב-ישראל 1948).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7255,7 +7357,13 @@
         }
       ],
       "notes": {
-        "en": "Captured by British forces in 1917 and by Israeli forces in October 1948 (Britannica). The Iron Age city is recorded separately as tel-beersheba."
+        "en": "Captured by British forces in 1917 and by Israeli forces in October 1948 (Britannica). The Iron Age city is recorded separately as tel-beersheba.",
+        "ar": "استولت عليها القوات البريطانية عام 1917 والقوات الإسرائيلية في تشرين الأول/أكتوبر 1948 (بريتانيكا). مدينة العصر الحديدي مسجلة منفصلة باسم tel-beersheba.",
+        "he": "נכבשה בידי כוחות בריטיים ב-1917 ובידי כוחות ישראליים באוקטובר 1948 (בריטניקה). עיר תקופת הברזל רשומה בנפרד כ-tel-beersheba.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7437,7 +7545,13 @@
         }
       ],
       "notes": {
-        "en": "Ancient names of Arad (Hebrew Bible) are not attested in the Pleiades record (which lists only the \"house of YHWH\" of an ostracon); not added here."
+        "en": "Ancient names of Arad (Hebrew Bible) are not attested in the Pleiades record (which lists only the \"house of YHWH\" of an ostracon); not added here.",
+        "ar": "الأسماء القديمة لعراد (في الكتاب المقدس العبري) غير موثقة في سجل Pleiades (الذي لا يسرد إلا \"house of YHWH\" [بيت يهوه] من أوستراكون)؛ ولم تُضَف هنا.",
+        "he": "השמות הקדומים של ערד (במקרא) אינם מתועדים ברשומת Pleiades (המפרטת רק את \"house of YHWH\" [בית יהוה] מאוסטרקון); לא נוספו כאן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7746,7 +7860,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica: \"Gezer was abandoned about 900 bc and was little occupied thereafter.\""
+        "en": "Britannica: \"Gezer was abandoned about 900 bc and was little occupied thereafter.\"",
+        "ar": "بريتانيكا: \"Gezer was abandoned about 900 bc and was little occupied thereafter.\"",
+        "he": "בריטניקה: \"Gezer was abandoned about 900 bc and was little occupied thereafter.\"",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7892,7 +8012,13 @@
         }
       ],
       "notes": {
-        "en": "Identified with Philistine Gath (Wikidata; Pleiades links the Assyrian form Gimtu)."
+        "en": "Identified with Philistine Gath (Wikidata; Pleiades links the Assyrian form Gimtu).",
+        "ar": "يُطابَق مع جت الفلستية (ويكيداتا؛ ويربط Pleiades الصيغة الآشورية Gimtu).",
+        "he": "מזוהה עם גת הפלשתית (Wikidata; Pleiades מקשרת את הצורה האשורית Gimtu).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -8121,7 +8247,13 @@
         }
       ],
       "notes": {
-        "en": "The tell lies just west of the modern Israeli city of Beit Shemesh (Wikidata Q152449)."
+        "en": "The tell lies just west of the modern Israeli city of Beit Shemesh (Wikidata Q152449).",
+        "ar": "يقع التل غرب مدينة بيت شيمش الإسرائيلية الحديثة مباشرة (عنصر ويكيداتا Q152449).",
+        "he": "התל נמצא ממש מערבית לעיר הישראלית המודרנית בית שמש (פריט Wikidata Q152449).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -8604,7 +8736,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica: no complete structure antedates the Crusades; seat of Palestinian Authority administration in the West Bank."
+        "en": "Britannica: no complete structure antedates the Crusades; seat of Palestinian Authority administration in the West Bank.",
+        "ar": "بريتانيكا: لا يوجد بناء كامل يسبق الحملات الصليبية؛ مقر إدارة السلطة الفلسطينية في الضفة الغربية.",
+        "he": "בריטניקה: אין מבנה שלם שקדם למסעי הצלב; מושב ממשל הרשות הפלסטינית בגדה המערבית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -9172,7 +9310,13 @@
         }
       ],
       "notes": {
-        "en": "Name labels taken from Wikidata item Q6191988."
+        "en": "Name labels taken from Wikidata item Q6191988.",
+        "ar": "التسميات مأخوذة من عنصر ويكيداتا Q6191988.",
+        "he": "תוויות השם נלקחו מפריט Wikidata Q6191988.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -9736,7 +9880,13 @@
         }
       ],
       "notes": {
-        "en": "No ancient name is given because no source for an identification was consulted in this pass (gap)."
+        "en": "No ancient name is given because no source for an identification was consulted in this pass (gap).",
+        "ar": "لا يُعطى اسم قديم لأنه لم يُرجع إلى مصدر لتحديد الهوية في هذه الجولة (ثغرة).",
+        "he": "לא ניתן שם קדום משום שלא נבדק מקור לזיהוי בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -9830,7 +9980,13 @@
         }
       ],
       "notes": {
-        "en": "No source giving the town's origin or foundation date was consulted in this pass (gap)."
+        "en": "No source giving the town's origin or foundation date was consulted in this pass (gap).",
+        "ar": "لم يُرجع في هذه الجولة إلى أي مصدر يعطي أصل البلدة أو تاريخ تأسيسها (ثغرة).",
+        "he": "בשלב זה לא נבדק מקור המציין את מקור העיירה או תאריך ייסודה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -10036,7 +10192,13 @@
         }
       ],
       "notes": {
-        "en": "Divided between the Gaza Strip and Egypt in 1982 (Britannica)."
+        "en": "Divided between the Gaza Strip and Egypt in 1982 (Britannica).",
+        "ar": "قُسمت بين قطاع غزة ومصر عام 1982 (بريتانيكا).",
+        "he": "חולקה בין רצועת עזה למצרים ב-1982 (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -10510,7 +10672,13 @@
         }
       ],
       "notes": {
-        "en": "Biblical Elath, Hellenistic Berenike and Roman/Byzantine Aila lay at today's Aqaba (Jordan); the Israeli city of Eilat is recorded separately."
+        "en": "Biblical Elath, Hellenistic Berenike and Roman/Byzantine Aila lay at today's Aqaba (Jordan); the Israeli city of Eilat is recorded separately.",
+        "ar": "كانت إيلات التوراتية وبرنيقي الهلنستية وأيلة الرومانية/البيزنطية في موقع العقبة اليوم (الأردن)؛ ومدينة إيلات الإسرائيلية مسجلة منفصلة.",
+        "he": "אילת המקראית, ברניקי ההלניסטית ואילה הרומית/הביזנטית שכנו בעקבה של ימינו (ירדן); העיר הישראלית אילת רשומה בנפרד.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -10982,7 +11150,13 @@
         }
       ],
       "notes": {
-        "en": "Capital of the Emirate of Transjordan (from 1921) and later of Jordan (Britannica)."
+        "en": "Capital of the Emirate of Transjordan (from 1921) and later of Jordan (Britannica).",
+        "ar": "عاصمة إمارة شرق الأردن (منذ 1921) ثم الأردن لاحقًا (بريتانيكا).",
+        "he": "בירת אמירות עבר הירדן (מ-1921) ולימים של ירדן (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11441,7 +11615,13 @@
         }
       ],
       "notes": {
-        "en": "Name labels taken from Wikidata item Q131955."
+        "en": "Name labels taken from Wikidata item Q131955.",
+        "ar": "التسميات مأخوذة من عنصر ويكيداتا Q131955.",
+        "he": "תוויות השם נלקחו מפריט Wikidata Q131955.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11608,7 +11788,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica: \"The town was destroyed in 1880 and was rebuilt and resettled with Christian Arabs from Al-Karak and vicinity.\" Site of the 6th-century Madaba mosaic map."
+        "en": "Britannica: \"The town was destroyed in 1880 and was rebuilt and resettled with Christian Arabs from Al-Karak and vicinity.\" Site of the 6th-century Madaba mosaic map.",
+        "ar": "بريتانيكا: \"The town was destroyed in 1880 and was rebuilt and resettled with Christian Arabs from Al-Karak and vicinity.\" موقع خريطة مادبا الفسيفسائية من القرن السادس.",
+        "he": "בריטניקה: \"The town was destroyed in 1880 and was rebuilt and resettled with Christian Arabs from Al-Karak and vicinity.\" אתר מפת הפסיפס ממאדבא מהמאה ה-6.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11721,7 +11907,13 @@
         }
       ],
       "notes": {
-        "en": "Ancient Moabite/Hebrew forms not added because no source for them was consulted in this pass (gap)."
+        "en": "Ancient Moabite/Hebrew forms not added because no source for them was consulted in this pass (gap).",
+        "ar": "لم تُضَف الصيغ المؤابية/العبرية القديمة لأنه لم يُرجع إلى مصدر لها في هذه الجولة (ثغرة).",
+        "he": "הצורות המואביות/העבריות הקדומות לא נוספו משום שלא נבדק מקור להן בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -12924,7 +13116,13 @@
         }
       ],
       "notes": {
-        "en": "Captured by Israeli forces on 10 June 1967; abandoned town in the UN-monitored zone since 1974 (Britannica). Only Britannica was consulted for the 1974 destruction."
+        "en": "Captured by Israeli forces on 10 June 1967; abandoned town in the UN-monitored zone since 1974 (Britannica). Only Britannica was consulted for the 1974 destruction.",
+        "ar": "استولت عليها القوات الإسرائيلية في 10 حزيران/يونيو 1967؛ وهي بلدة مهجورة في المنطقة التي تراقبها الأمم المتحدة منذ 1974 (بريتانيكا). لم يُرجع إلا إلى بريتانيكا بشأن تدمير 1974.",
+        "he": "נכבשה בידי כוחות ישראליים ב-10 ביוני 1967; עיירה נטושה באזור בפיקוח האו״ם מאז 1974 (בריטניקה). לגבי ההרס ב-1974 נבדקה רק בריטניקה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -13963,7 +14161,13 @@
         }
       ],
       "notes": {
-        "en": "Village in the Latrun salient (1949-67 no-man's-land area); destroyed in June 1967 (see destroyed)."
+        "en": "Village in the Latrun salient (1949-67 no-man's-land area); destroyed in June 1967 (see destroyed).",
+        "ar": "قرية في نتوء اللطرون (منطقة الأرض الحرام 1949–67)؛ دُمّرت في حزيران/يونيو 1967 (انظر destroyed).",
+        "he": "כפר בבליטת לטרון (אזור ההפקר 1949–67); נהרס ביוני 1967 (ראו destroyed).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -14186,7 +14390,13 @@
         }
       ],
       "notes": {
-        "en": "Village in the Latrun salient; destroyed in June 1967 (see destroyed)."
+        "en": "Village in the Latrun salient; destroyed in June 1967 (see destroyed).",
+        "ar": "قرية في نتوء اللطرون؛ دُمّرت في حزيران/يونيو 1967 (انظر destroyed).",
+        "he": "כפר בבליטת לטרון; נהרס ביוני 1967 (ראו destroyed).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -14342,7 +14552,13 @@
         }
       ],
       "notes": {
-        "en": "Village in the Latrun salient; destroyed in June 1967 (see destroyed)."
+        "en": "Village in the Latrun salient; destroyed in June 1967 (see destroyed).",
+        "ar": "قرية في نتوء اللطرون؛ دُمّرت في حزيران/يونيو 1967 (انظر destroyed).",
+        "he": "כפר בבליטת לטרון; נהרס ביוני 1967 (ראו destroyed).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -14483,7 +14699,13 @@
         }
       ],
       "notes": {
-        "en": "The location of Bethsaida is debated: Pleiades also associates the Arabic site names al-Araj and al-Mas'adiya with this place. Coordinates are those of et-Tell (Wikidata)."
+        "en": "The location of Bethsaida is debated: Pleiades also associates the Arabic site names al-Araj and al-Mas'adiya with this place. Coordinates are those of et-Tell (Wikidata).",
+        "ar": "موقع بيت صيدا محل خلاف: يربط Pleiades أيضًا اسمي الموقع العربيين العراج والمسعدية بهذا المكان. الإحداثيات هي إحداثيات التل (ويكيداتا).",
+        "he": "מיקומה של בית צידה שנוי במחלוקת: Pleiades מקשרת גם את שמות האתר הערביים אל-ערג' ואל-מסעדיה למקום זה. הקואורדינטות הן של א-תל (Wikidata).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -14873,7 +15095,13 @@
         }
       ],
       "notes": {
-        "en": "The Arab town of Yibna and the modern Israeli city of Yavne (Wikidata Q167677) adjoin; coordinates are those of Yibna. The fate of Yibna in 1948 is not covered by the sources used in this pass (gap)."
+        "en": "The Arab town of Yibna and the modern Israeli city of Yavne (Wikidata Q167677) adjoin; coordinates are those of Yibna. The fate of Yibna in 1948 is not covered by the sources used in this pass (gap).",
+        "ar": "بلدة يبنا العربية ومدينة يافنه الإسرائيلية الحديثة (ويكيداتا Q167677) متجاورتان؛ والإحداثيات هي إحداثيات يبنا. مصير يبنا عام 1948 غير مغطى في المصادر المستخدمة في هذه الجولة (ثغرة).",
+        "he": "העיירה הערבית יבנא (Yibna) והעיר הישראלית המודרנית יבנה (Wikidata Q167677) סמוכות זו לזו; הקואורדינטות הן של יבנא. גורל יבנא ב-1948 אינו מכוסה במקורות ששימשו בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -15463,7 +15691,13 @@
         }
       ],
       "notes": {
-        "en": "Only Britannica (a US reference work) was found for the 1948 depopulation date in this pass; Israeli and Palestinian works giving the date (e.g. Morris; Khalidi) could not be consulted (gap)."
+        "en": "Only Britannica (a US reference work) was found for the 1948 depopulation date in this pass; Israeli and Palestinian works giving the date (e.g. Morris; Khalidi) could not be consulted (gap).",
+        "ar": "لم يُعثر في هذه الجولة إلا على بريتانيكا (مرجع أمريكي) لتاريخ إخلاء السكان عام 1948؛ ولم يمكن الرجوع إلى أعمال إسرائيلية وفلسطينية تعطي التاريخ (مثل موريس؛ الخالدي) (ثغرة).",
+        "he": "בשלב זה נמצאה רק בריטניקה (מילון עיון אמריקאי) לתאריך התרוקנות האוכלוסייה ב-1948; עבודות ישראליות ופלסטיניות המציינות את התאריך (למשל מוריס; ח'אלדי) לא ניתן היה לעיין בהן (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -15612,7 +15846,13 @@
         }
       ],
       "notes": {
-        "en": "Date sources: Britannica (US reference), Institute for Palestine Studies (Palestinian), Dov Joseph via a UN study (Israeli official), Efraim Karsh (Israeli historian)."
+        "en": "Date sources: Britannica (US reference), Institute for Palestine Studies (Palestinian), Dov Joseph via a UN study (Israeli official), Efraim Karsh (Israeli historian).",
+        "ar": "مصادر التاريخ: بريتانيكا (مرجع أمريكي)، ومؤسسة الدراسات الفلسطينية (فلسطينية)، ودوف يوسف عبر دراسة للأمم المتحدة (مسؤول إسرائيلي رسمي)، وإفرايم كارش (مؤرخ إسرائيلي).",
+        "he": "מקורות התאריך: בריטניקה (מילון עיון אמריקאי), המכון ללימודי פלסטין (פלסטיני), דב יוסף באמצעות מחקר של האו״ם (גורם רשמי ישראלי), אפרים קארש (היסטוריון ישראלי).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -15836,7 +16076,13 @@
         }
       ],
       "notes": {
-        "en": "The kibbutz and national park of Beit Guvrin are nearby; the fate of the village in 1948 is not covered by the sources used in this pass (gap)."
+        "en": "The kibbutz and national park of Beit Guvrin are nearby; the fate of the village in 1948 is not covered by the sources used in this pass (gap).",
+        "ar": "كيبوتس بيت جوفرين والمنتزه الوطني قريبان؛ ومصير القرية عام 1948 غير مغطى في المصادر المستخدمة في هذه الجولة (ثغرة).",
+        "he": "קיבוץ בית גוברין והגן הלאומי נמצאים בקרבת מקום; גורל הכפר ב-1948 אינו מכוסה במקורות ששימשו בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -16092,7 +16338,13 @@
         }
       ],
       "notes": {
-        "en": "Fate of the village in 1948 not covered by the sources used in this pass (gap)."
+        "en": "Fate of the village in 1948 not covered by the sources used in this pass (gap).",
+        "ar": "مصير القرية عام 1948 غير مغطى في المصادر المستخدمة في هذه الجولة (ثغرة).",
+        "he": "גורל הכפר ב-1948 אינו מכוסה במקורות ששימשו בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -16297,7 +16549,13 @@
         }
       ],
       "notes": {
-        "en": "Palmer notes that Zer'in corresponds to Hebrew Jezreel. Fate of the village in 1948 not covered by the sources used in this pass (gap)."
+        "en": "Palmer notes that Zer'in corresponds to Hebrew Jezreel. Fate of the village in 1948 not covered by the sources used in this pass (gap).",
+        "ar": "يلاحظ بالمر أن زرعين تقابل يزرعيل العبرية. مصير القرية عام 1948 غير مغطى في المصادر المستخدمة في هذه الجولة (ثغرة).",
+        "he": "פלמר מציין שזרעין מקבילה ליזרעאל העברית. גורל הכפר ב-1948 אינו מכוסה במקורות ששימשו בשלב זה (פער).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "destroyed": [
         {
@@ -16724,7 +16982,13 @@
         }
       ],
       "notes": {
-        "en": "Nabataean town on the Incense Route (UNESCO World Heritage, with Haluza, Mamshit and Shivta)."
+        "en": "Nabataean town on the Incense Route (UNESCO World Heritage, with Haluza, Mamshit and Shivta).",
+        "ar": "بلدة نبطية على طريق البخور (موقع تراث عالمي لدى اليونسكو، مع الخلصة وممشيت وشفطة).",
+        "he": "עיר נבטית בדרך הבשמים (אתר מורשת עולמית של אונסק״ו, יחד עם חלוצה, ממשית ושבטה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -17499,7 +17763,13 @@
         }
       ],
       "notes": {
-        "en": "Cultural landscape inscribed on the UNESCO World Heritage List under the State of Palestine."
+        "en": "Cultural landscape inscribed on the UNESCO World Heritage List under the State of Palestine.",
+        "ar": "منظر ثقافي مدرج في قائمة التراث العالمي لليونسكو باسم دولة فلسطين.",
+        "he": "נוף תרבותי שנרשם ברשימת המורשת העולמית של אונסק״ו תחת מדינת פלסטין.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -18280,7 +18550,13 @@
         }
       ],
       "notes": {
-        "en": "One of the Mount Carmel caves (Tabun, Jamal, el-Wad, Skhul) inscribed by UNESCO; UNESCO notes \"numerous Natufian burials and early stone architecture\"."
+        "en": "One of the Mount Carmel caves (Tabun, Jamal, el-Wad, Skhul) inscribed by UNESCO; UNESCO notes \"numerous Natufian burials and early stone architecture\".",
+        "ar": "أحد كهوف جبل الكرمل (الطابون، الجمل، الواد، السخول) المدرجة لدى اليونسكو؛ وتذكر اليونسكو \"numerous Natufian burials and early stone architecture\".",
+        "he": "אחת ממערות הכרמל (טבון, ג'מל, אל-ואד, סחול) שנרשמו באונסק״ו; אונסק״ו מציינת \"numerous Natufian burials and early stone architecture\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -18358,7 +18634,13 @@
         }
       ],
       "notes": {
-        "en": "Both names are used in the archaeological literature (Arabic 'Ain Mallaha, Hebrew Eynan)."
+        "en": "Both names are used in the archaeological literature (Arabic 'Ain Mallaha, Hebrew Eynan).",
+        "ar": "يُستخدم الاسمان في الأدبيات الأثرية (عين ملاحة بالعربية، وعينان بالعبرية).",
+        "he": "שני השמות בשימוש בספרות הארכאולוגית (בערבית עין מלאחה, בעברית עינן).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -18583,7 +18865,13 @@
         }
       ],
       "notes": {
-        "en": "The Wikidata item for the site has no coordinates; the point is that of the adjacent settlement of Netiv HaGdud (Q2890336)."
+        "en": "The Wikidata item for the site has no coordinates; the point is that of the adjacent settlement of Netiv HaGdud (Q2890336).",
+        "ar": "عنصر ويكيداتا للموقع بلا إحداثيات؛ والنقطة هي نقطة التجمع المجاور نتيف هجدود (Q2890336).",
+        "he": "לפריט Wikidata של האתר אין קואורדינטות; הנקודה היא זו של היישוב הסמוך נתיב הגדוד (Q2890336).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -18958,7 +19246,13 @@
         }
       ],
       "notes": {
-        "en": "Coordinates from Pleiades; the Wikidata point (35.6405, 31.8609) lies several kilometres away and was not used."
+        "en": "Coordinates from Pleiades; the Wikidata point (35.6405, 31.8609) lies several kilometres away and was not used.",
+        "ar": "الإحداثيات من Pleiades؛ ونقطة ويكيداتا (35.6405, 31.8609) تبعد عدة كيلومترات ولم تُستخدم.",
+        "he": "הקואורדינטות מ-Pleiades; נקודת Wikidata (35.6405, 31.8609) נמצאת במרחק כמה קילומטרים ולא נעשה בה שימוש.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -19010,7 +19304,13 @@
         }
       ],
       "notes": {
-        "en": "No Wikidata item with coordinates was found; coordinates from Pleiades."
+        "en": "No Wikidata item with coordinates was found; coordinates from Pleiades.",
+        "ar": "لم يُعثر على عنصر ويكيداتا بإحداثيات؛ الإحداثيات من Pleiades.",
+        "he": "לא נמצא פריט Wikidata עם קואורדינטות; הקואורדינטות מ-Pleiades.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -19088,7 +19388,13 @@
         }
       ],
       "notes": {
-        "en": "Find-spot of the Nahal Mishmar hoard (Wikidata Q12409048), a cave in the canyon; the point is that of the canyon (Q496024), not the cave itself."
+        "en": "Find-spot of the Nahal Mishmar hoard (Wikidata Q12409048), a cave in the canyon; the point is that of the canyon (Q496024), not the cave itself.",
+        "ar": "موضع العثور على كنز نحال مشمار (ويكيداتا Q12409048)، وهو كهف في الوادي؛ والنقطة هي نقطة الوادي (Q496024) لا الكهف نفسه.",
+        "he": "מקום הימצא מטמון נחל משמר (Wikidata Q12409048), מערה בקניון; הנקודה היא של הקניון (Q496024), לא של המערה עצמה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -19677,7 +19983,13 @@
         }
       ],
       "notes": {
-        "en": "Status-quo details follow Reiter (2017), which describes erosion of the 1967 arrangements in 1996, 2000-2003 and 2014-2015; later changes are not covered by the sources used here. Israeli (Baker 2022) and Arab (Kassim 2023; Royal Hashemite Court) sources differ on what Jordan's 'special role' and the status quo entail. Reiter cites the Palestinian historian Nazmi al-Jubeh (2009) for the Waqf's view of Israeli excavations near the compound as a threat to Muslim rights. The ar name is the Wikidata alias of the related item Q121610806 (Masjid Al-Aqsa); the Arabic label of Q193163 ('جبل المعبد') translates the Jewish name and was not used. Grabar & Kedar (2009) is the standard multi-author reference but was not opened."
+        "en": "Status-quo details follow Reiter (2017), which describes erosion of the 1967 arrangements in 1996, 2000-2003 and 2014-2015; later changes are not covered by the sources used here. Israeli (Baker 2022) and Arab (Kassim 2023; Royal Hashemite Court) sources differ on what Jordan's 'special role' and the status quo entail. Reiter cites the Palestinian historian Nazmi al-Jubeh (2009) for the Waqf's view of Israeli excavations near the compound as a threat to Muslim rights. The ar name is the Wikidata alias of the related item Q121610806 (Masjid Al-Aqsa); the Arabic label of Q193163 ('جبل المعبد') translates the Jewish name and was not used. Grabar & Kedar (2009) is the standard multi-author reference but was not opened.",
+        "ar": "تفاصيل الوضع القائم تتبع رايتر (2017)، الذي يصف تآكل ترتيبات 1967 في 1996 و2000–2003 و2014–2015؛ ولا تغطي المصادر المستخدمة هنا التغييرات اللاحقة. وتختلف المصادر الإسرائيلية (بيكر 2022) والعربية (قاسم 2023؛ الديوان الملكي الهاشمي) في ما يتضمنه \"الدور الخاص\" للأردن والوضع القائم. ويستشهد رايتر بالمؤرخ الفلسطيني نظمي الجعبة (2009) في رأي الوقف بأن الحفريات الإسرائيلية قرب المجمع تهديد لحقوق المسلمين. الاسم العربي هو اسم بديل في ويكيداتا للعنصر المرتبط Q121610806 (المسجد الأقصى)؛ أما التسمية العربية للعنصر Q193163 (\"جبل المعبد\") فهي ترجمة للاسم اليهودي ولم تُستخدم. غرابار وكيدار (2009) هو المرجع المتعدد المؤلفين المعتمد لكنه لم يُفتح.",
+        "he": "פרטי הסטטוס קוו מבוססים על רייטר (2017), המתאר שחיקה של הסדרי 1967 ב-1996, ב-2000–2003 וב-2014–2015; שינויים מאוחרים יותר אינם מכוסים במקורות ששימשו כאן. מקורות ישראליים (בייקר 2022) וערביים (קאסם 2023; החצר המלכותית ההאשמית) נבדלים במה ש\"התפקיד המיוחד\" של ירדן והסטטוס קוו כוללים. רייטר מצטט את ההיסטוריון הפלסטיני נזמי אל-ג'עבה (2009) בעניין עמדת הוואקף שחפירות ישראליות ליד המתחם מהוות איום על זכויות המוסלמים. השם הערבי הוא כינוי ב-Wikidata של הפריט הקשור Q121610806 (Masjid Al-Aqsa); התווית הערבית של Q193163 (\"جبل المعبد\") מתרגמת את השם היהודי ולא נעשה בה שימוש. גראבר וקידר (2009) הוא ספר העיון הרב-מחברים המקובל אך לא נפתח.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -19843,7 +20155,13 @@
         }
       ],
       "notes": {
-        "en": "Stands on the Temple Mount / al-Haram al-Sharif (see that record for custody and status quo). Muslims commonly include it in the term al-Aqsa."
+        "en": "Stands on the Temple Mount / al-Haram al-Sharif (see that record for custody and status quo). Muslims commonly include it in the term al-Aqsa.",
+        "ar": "يقوم على جبل الهيكل / الحرم الشريف (انظر ذلك السجل بشأن الوصاية والوضع القائم). ويشمله المسلمون عادةً في مصطلح الأقصى.",
+        "he": "ניצב על הר הבית / אל-חרם א-שריף (ראו רשומה זו לעניין האפוטרופסות והסטטוס קוו). מוסלמים כוללים אותו בדרך כלל במונח אל-אקצא.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -19965,7 +20283,13 @@
         }
       ],
       "notes": {
-        "en": "Name usage differs: in Muslim usage 'al-Aqsa' / 'al-Masjid al-Aqsa' often means the whole compound (see temple-mount-haram-al-sharif), while the building itself is called the Qibli mosque by the Jordanian authorities. Its minbar was damaged in the arson of 21 August 1969 (Royal Hashemite Court)."
+        "en": "Name usage differs: in Muslim usage 'al-Aqsa' / 'al-Masjid al-Aqsa' often means the whole compound (see temple-mount-haram-al-sharif), while the building itself is called the Qibli mosque by the Jordanian authorities. Its minbar was damaged in the arson of 21 August 1969 (Royal Hashemite Court).",
+        "ar": "يختلف استعمال الاسم: ففي الاستعمال الإسلامي كثيرًا ما يعني \"الأقصى\" / \"المسجد الأقصى\" المجمع كله (انظر temple-mount-haram-al-sharif)، بينما تسمي السلطات الأردنية المبنى نفسه المسجد القبلي. تضرر منبره في الحريق المتعمد في 21 آب/أغسطس 1969 (الديوان الملكي الهاشمي).",
+        "he": "השימוש בשם שונה: בשימוש המוסלמי \"אל-אקצא\" / \"אל-מסג'ד אל-אקצא\" פירושו לעיתים קרובות המתחם כולו (ראו temple-mount-haram-al-sharif), ואילו המבנה עצמו נקרא על ידי השלטונות הירדניים המסגד הקיבלי. המנבר שלו ניזוק בהצתה ב-21 באוגוסט 1969 (החצר המלכותית ההאשמית).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20195,7 +20519,13 @@
         }
       ],
       "notes": {
-        "en": "One of the nine Holy Places to which the Status Quo applied under the Mandate (UNCCP 1949). The 1930 commission recorded that the Jewish side claimed no proprietary right and the Moslem side's waqf title; it also recorded Jewish counter-arguments about the Buraq tradition. Reiter & Seligman (2009) cover the site since 1917 (not opened)."
+        "en": "One of the nine Holy Places to which the Status Quo applied under the Mandate (UNCCP 1949). The 1930 commission recorded that the Jewish side claimed no proprietary right and the Moslem side's waqf title; it also recorded Jewish counter-arguments about the Buraq tradition. Reiter & Seligman (2009) cover the site since 1917 (not opened).",
+        "ar": "أحد الأماكن المقدسة التسعة التي انطبق عليها الوضع القائم في عهد الانتداب (لجنة التوفيق 1949). سجّلت لجنة 1930 أن الجانب اليهودي لم يدّع حق ملكية، وسجّلت سند الوقف لدى الجانب المسلم؛ كما سجّلت حجج اليهود المضادة بشأن تقليد البراق. ويغطي رايتر وزيليغمان (2009) الموقع منذ 1917 (لم يُفتح).",
+        "he": "אחד מתשעת המקומות הקדושים שהסטטוס קוו חל עליהם בתקופת המנדט (ועדת הפיוס 1949). ועדת 1930 רשמה שהצד היהודי לא טען לזכות בעלות ואת תואר הוואקף של הצד המוסלמי; היא רשמה גם טענות נגד יהודיות בעניין מסורת בוראק. רייטר וזליגמן (2009) מכסים את האתר מאז 1917 (לא נפתח).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20348,7 +20678,13 @@
         }
       ],
       "notes": {
-        "en": "Listed first among the nine Holy Places to which the Status Quo applies (UNCCP 1949). Britannica's summary notes debate over whether the site lay outside the city walls in Jesus' time; it has been venerated as the site since the 4th century."
+        "en": "Listed first among the nine Holy Places to which the Status Quo applies (UNCCP 1949). Britannica's summary notes debate over whether the site lay outside the city walls in Jesus' time; it has been venerated as the site since the 4th century.",
+        "ar": "مدرج أولًا بين الأماكن المقدسة التسعة التي ينطبق عليها الوضع القائم (لجنة التوفيق 1949). يلاحظ ملخص بريتانيكا وجود جدل حول ما إذا كان الموقع خارج أسوار المدينة في زمن يسوع؛ وهو موقر بوصفه الموقع منذ القرن الرابع.",
+        "he": "מופיע ראשון בין תשעת המקומות הקדושים שהסטטוס קוו חל עליהם (ועדת הפיוס 1949). סיכום בריטניקה מציין ויכוח אם האתר היה מחוץ לחומות העיר בימי ישו; הוא נערץ כאתר מאז המאה ה-4.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20526,7 +20862,13 @@
         }
       ],
       "notes": {
-        "en": "A multi-summit ridge east of the Old City; the point is the Wikidata coordinate. Under Jordanian rule 1948-67 and Israeli control since 1967 (Britannica)."
+        "en": "A multi-summit ridge east of the Old City; the point is the Wikidata coordinate. Under Jordanian rule 1948-67 and Israeli control since 1967 (Britannica).",
+        "ar": "سلسلة متعددة القمم شرق البلدة القديمة؛ والنقطة هي إحداثي ويكيداتا. خضعت للحكم الأردني 1948–67 وللسيطرة الإسرائيلية منذ 1967 (بريتانيكا).",
+        "he": "רכס רב-פסגות ממזרח לעיר העתיקה; הנקודה היא קואורדינטת Wikidata. תחת שלטון ירדני 1948–67 ובשליטה ישראלית מאז 1967 (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20664,7 +21006,13 @@
         }
       ],
       "notes": {
-        "en": "Description as of 1949 (UNCCP)."
+        "en": "Description as of 1949 (UNCCP).",
+        "ar": "الوصف كما في عام 1949 (لجنة التوفيق).",
+        "he": "תיאור נכון ל-1949 (ועדת הפיוס).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20807,7 +21155,13 @@
         }
       ],
       "notes": {
-        "en": "UNESCO wording: the property is listed under 'Jerusalem (Site proposed by Jordan)' rather than under a State Party; inscribed 1981 and on the List of World Heritage in Danger since 1982. Reiter (2017, p. 42) notes that Israeli tunnel excavations from 1969 were one reason for the 'in danger' listing, citing al-Jubeh (2009)."
+        "en": "UNESCO wording: the property is listed under 'Jerusalem (Site proposed by Jordan)' rather than under a State Party; inscribed 1981 and on the List of World Heritage in Danger since 1982. Reiter (2017, p. 42) notes that Israeli tunnel excavations from 1969 were one reason for the 'in danger' listing, citing al-Jubeh (2009).",
+        "ar": "صياغة اليونسكو: الموقع مدرج تحت \"Jerusalem (Site proposed by Jordan)\" لا تحت دولة طرف؛ أُدرج عام 1981 وعلى قائمة التراث العالمي المعرض للخطر منذ 1982. يلاحظ رايتر (2017، ص 42) أن حفريات الأنفاق الإسرائيلية منذ 1969 كانت أحد أسباب الإدراج \"في خطر\"، مستشهدًا بالجعبة (2009).",
+        "he": "ניסוח אונסק״ו: הנכס רשום תחת \"Jerusalem (Site proposed by Jordan)\" ולא תחת מדינה צד; נרשם ב-1981 וברשימת המורשת העולמית בסכנה מאז 1982. רייטר (2017, עמ' 42) מציין שחפירות מנהרות ישראליות מ-1969 היו אחת הסיבות לרישום \"בסכנה\", תוך הפניה לאל-ג'עבה (2009).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -20958,7 +21312,13 @@
         }
       ],
       "notes": {
-        "en": "UNESCO attributes the Status Quo here to the Treaty of Berlin (1878); the UNCCP 1949 paper traces it to the Ottoman decree of 1757 reaffirmed in 1852."
+        "en": "UNESCO attributes the Status Quo here to the Treaty of Berlin (1878); the UNCCP 1949 paper traces it to the Ottoman decree of 1757 reaffirmed in 1852.",
+        "ar": "تنسب اليونسكو الوضع القائم هنا إلى معاهدة برلين (1878)؛ أما ورقة لجنة التوفيق لعام 1949 فتعيده إلى المرسوم العثماني لعام 1757 الذي أُعيد تأكيده عام 1852.",
+        "he": "אונסק״ו מייחסת את הסטטוס קוו כאן לאמנת ברלין (1878); מסמך ועדת הפיוס מ-1949 מייחס אותו לפרמן העות'מאני של 1757 שאושר מחדש ב-1852.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -21157,7 +21517,13 @@
         }
       ],
       "notes": {
-        "en": "Palestinian and UNESCO usage also name the site the Bilal ibn Rabah mosque; the 2010 UNESCO Executive Board decision text using that name was not retrieved, so the name is not recorded as a sourced name here. Academic studies (Sered 1989; Bowman 2014, Jerusalem Quarterly) were identified but not opened."
+        "en": "Palestinian and UNESCO usage also name the site the Bilal ibn Rabah mosque; the 2010 UNESCO Executive Board decision text using that name was not retrieved, so the name is not recorded as a sourced name here. Academic studies (Sered 1989; Bowman 2014, Jerusalem Quarterly) were identified but not opened.",
+        "ar": "يسمي الاستعمال الفلسطيني واستعمال اليونسكو الموقع أيضًا مسجد بلال بن رباح؛ ولم يُستحصل على نص قرار المجلس التنفيذي لليونسكو لعام 2010 الذي استعمل هذه التسمية، ولذلك لا تُسجَّل التسمية هنا اسمًا موثقًا بمصدر. وقد حُدّدت دراسات أكاديمية (ساريد 1989؛ بومان 2014، Jerusalem Quarterly) لكنها لم تُفتح.",
+        "he": "השימוש הפלסטיני ושימוש אונסק״ו מכנים את האתר גם מסגד בילאל בן ראבח; נוסח החלטת מועצת המנהלים של אונסק״ו מ-2010 שהשתמשה בשם זה לא אותר, ולכן השם אינו נרשם כאן כשם מתועד במקור. זוהו מחקרים אקדמיים (סרד 1989; באומן 2014, Jerusalem Quarterly) אך הם לא נפתחו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -21412,7 +21778,13 @@
         }
       ],
       "notes": {
-        "en": "UNESCO wording: 'Al-Ibrahimi Mosque/The Tomb of the Patriarchs' within the property 'Hebron/Al-Khalil Old Town'. The post-1994 division of the building is not detailed by the sources opened here. Reiter (2009), in Breger, Reiter & Hammer (eds.), compares this site with Samuel's Tomb (not opened)."
+        "en": "UNESCO wording: 'Al-Ibrahimi Mosque/The Tomb of the Patriarchs' within the property 'Hebron/Al-Khalil Old Town'. The post-1994 division of the building is not detailed by the sources opened here. Reiter (2009), in Breger, Reiter & Hammer (eds.), compares this site with Samuel's Tomb (not opened).",
+        "ar": "صياغة اليونسكو: \"Al-Ibrahimi Mosque/The Tomb of the Patriarchs\" ضمن الموقع \"Hebron/Al-Khalil Old Town\". تقسيم المبنى بعد 1994 غير مفصّل في المصادر المفتوحة هنا. ويقارن رايتر (2009)، في كتاب من تحرير بريغر ورايتر وهامر، هذا الموقع بقبر صموئيل (لم يُفتح).",
+        "he": "ניסוח אונסק״ו: \"Al-Ibrahimi Mosque/The Tomb of the Patriarchs\" בתוך הנכס \"Hebron/Al-Khalil Old Town\". חלוקת המבנה לאחר 1994 אינה מפורטת במקורות שנפתחו כאן. רייטר (2009), בספר בעריכת ברגר, רייטר והאמר, משווה אתר זה לקבר שמואל (לא נפתח).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -21596,7 +21968,13 @@
         }
       ],
       "notes": {
-        "en": "Contested: Israeli sources present it as a Jewish holy site; the Palestinian scholars Alsaud and Al-Qobbaj (2019) treat it as a traditional Islamic shrine (title only seen). The site's identification with the biblical Joseph is traditional. Palestinian-side statements on the site were not found in an opened source."
+        "en": "Contested: Israeli sources present it as a Jewish holy site; the Palestinian scholars Alsaud and Al-Qobbaj (2019) treat it as a traditional Islamic shrine (title only seen). The site's identification with the biblical Joseph is traditional. Palestinian-side statements on the site were not found in an opened source.",
+        "ar": "متنازع عليه: تعرضه المصادر الإسرائيلية موقعًا مقدسًا يهوديًا، ويعدّه الباحثان الفلسطينيان السعود والقباج (2019) مقامًا إسلاميًا تقليديًا (لم يُطّلع إلا على العنوان). ويقوم تحديد الموقع بأنه قبر يوسف التوراتي على التقليد. ولم تُوجد في مصدر مفتوح تصريحات من الجانب الفلسطيني عن الموقع.",
+        "he": "שנוי במחלוקת: מקורות ישראליים מציגים אותו כאתר קדוש יהודי; החוקרים הפלסטינים אלסעוד ואל-קובאג' (2019) רואים בו מקדש אסלאמי מסורתי (נראתה רק הכותרת). זיהוי האתר עם יוסף המקראי הוא מסורתי. הצהרות מהצד הפלסטיני על האתר לא נמצאו במקור שנפתח.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -21713,7 +22091,13 @@
         }
       ],
       "notes": {
-        "en": "Near Balata, east of Nablus. Associated in the Bible with the patriarch Jacob; only the Christian tradition is sourced here."
+        "en": "Near Balata, east of Nablus. Associated in the Bible with the patriarch Jacob; only the Christian tradition is sourced here.",
+        "ar": "قرب بلاطة، شرق نابلس. يرتبط في الكتاب المقدس بالبطريرك يعقوب؛ ولم يُوثَّق هنا إلا التقليد المسيحي.",
+        "he": "ליד בלאטה, מזרחית לשכם. קשור במקרא לאבי האומה יעקב; כאן מתועדת רק המסורת הנוצרית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -21932,7 +22316,13 @@
         }
       ],
       "notes": {
-        "en": "In the West Bank south of Nablus; under Israeli occupation since 1967 (Britannica) and operated as a national park by the Israel Nature and Parks Authority. The Samaritan community (about 800 in the 2010s) lives partly on the mountain (Kiryat Luza) and partly in Holon (Britannica)."
+        "en": "In the West Bank south of Nablus; under Israeli occupation since 1967 (Britannica) and operated as a national park by the Israel Nature and Parks Authority. The Samaritan community (about 800 in the 2010s) lives partly on the mountain (Kiryat Luza) and partly in Holon (Britannica).",
+        "ar": "في الضفة الغربية جنوب نابلس؛ تحت الاحتلال الإسرائيلي منذ 1967 (بريتانيكا)، وتديره سلطة الطبيعة والحدائق الإسرائيلية حديقة وطنية. وتعيش الطائفة السامرية (نحو 800 في العقد 2010) جزئيًا على الجبل (كريات لوزا) وجزئيًا في حولون (بريتانيكا).",
+        "he": "בגדה המערבית דרומית לשכם; תחת כיבוש ישראלי מאז 1967 (בריטניקה) ומופעל כגן לאומי בידי רשות הטבע והגנים. הקהילה השומרונית (כ-800 בשנות ה-2010) חיה בחלקה על ההר (קרית לוזה) ובחלקה בחולון (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22043,7 +22433,13 @@
         }
       ],
       "notes": {
-        "en": "The Christian tradition of John the Baptist's burial at Sebaste (with a Crusader-era cathedral) is not covered by a source opened for this file; UNESCO's tentative-list entry for Sebastia could not be retrieved (Cloudflare block)."
+        "en": "The Christian tradition of John the Baptist's burial at Sebaste (with a Crusader-era cathedral) is not covered by a source opened for this file; UNESCO's tentative-list entry for Sebastia could not be retrieved (Cloudflare block).",
+        "ar": "التقليد المسيحي بدفن يوحنا المعمدان في سبسطية (مع كاتدرائية من العهد الصليبي) لا يغطيه مصدر مفتوح لهذا الملف؛ وتعذّر الحصول على مدخل سبسطية في القائمة التمهيدية لليونسكو (حجب Cloudflare).",
+        "he": "המסורת הנוצרית על קבורת יוחנן המטביל בסבסטי (עם קתדרלה מהתקופה הצלבנית) אינה מכוסה במקור שנפתח לקובץ זה; רשומת סבסטיה ברשימה המקדימה של אונסק״ו לא ניתן היה להשיג (חסימת Cloudflare).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22170,7 +22566,13 @@
         }
       ],
       "notes": {
-        "en": "In the Judean Desert south-west of Jericho. The Bible places Moses' death and burial east of the Jordan (not sourced here). The festival's 19th-20th century political role is studied by Awad Halabi (2023), not opened here."
+        "en": "In the Judean Desert south-west of Jericho. The Bible places Moses' death and burial east of the Jordan (not sourced here). The festival's 19th-20th century political role is studied by Awad Halabi (2023), not opened here.",
+        "ar": "في صحراء يهودا جنوب غرب أريحا. يضع الكتاب المقدس موت موسى ودفنه شرق الأردن (غير موثق بمصدر هنا). يدرس عوض حلبي (2023) الدور السياسي للمهرجان في القرنين التاسع عشر والعشرين (لم يُفتح هنا).",
+        "he": "במדבר יהודה מדרום-מערב ליריחו. המקרא ממקם את מותו וקבורתו של משה ממזרח לירדן (לא מתועד כאן במקור). התפקיד הפוליטי של הפסטיבל במאות ה-19–20 נחקר על ידי עוואד חלבי (2023), שלא נפתח כאן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22371,7 +22773,13 @@
         }
       ],
       "notes": {
-        "en": "North-west of Jerusalem, in the West Bank (Area C per ARIJ). Coordinates are those of the Wikidata item for the tomb (Q2907254); the village is Q3532567."
+        "en": "North-west of Jerusalem, in the West Bank (Area C per ARIJ). Coordinates are those of the Wikidata item for the tomb (Q2907254); the village is Q3532567.",
+        "ar": "شمال غرب القدس، في الضفة الغربية (المنطقة ج بحسب ARIJ). الإحداثيات هي إحداثيات عنصر ويكيداتا للقبر (Q2907254)؛ والقرية هي Q3532567.",
+        "he": "צפון-מערבית לירושלים, בגדה המערבית (שטח C לפי ARIJ). הקואורדינטות הן של פריט Wikidata של הקבר (Q2907254); הכפר הוא Q3532567.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22488,7 +22896,13 @@
         }
       ],
       "notes": {
-        "en": "Description as of 1949 (UNCCP)."
+        "en": "Description as of 1949 (UNCCP).",
+        "ar": "الوصف كما في عام 1949 (لجنة التوفيق).",
+        "he": "תיאור נכון ל-1949 (ועדת הפיוס).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22681,7 +23095,13 @@
         }
       ],
       "notes": {
-        "en": "Situation described as of 1949 (UNCCP). Mount Zion has been under Israeli control since 1948; later changes are not covered by the sources opened here."
+        "en": "Situation described as of 1949 (UNCCP). Mount Zion has been under Israeli control since 1948; later changes are not covered by the sources opened here.",
+        "ar": "الوضع موصوف كما في عام 1949 (لجنة التوفيق). يخضع جبل صهيون للسيطرة الإسرائيلية منذ 1948؛ ولا تغطي المصادر المفتوحة هنا التغييرات اللاحقة.",
+        "he": "המצב מתואר נכון ל-1949 (ועדת הפיוס). הר ציון בשליטה ישראלית מאז 1948; שינויים מאוחרים יותר אינם מכוסים במקורות שנפתחו כאן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22852,7 +23272,13 @@
         }
       ],
       "notes": {
-        "en": "Wikidata describes it as an abandoned Muslim cemetery. Asem Khalidi's Jerusalem Quarterly history (2009) was identified but not opened."
+        "en": "Wikidata describes it as an abandoned Muslim cemetery. Asem Khalidi's Jerusalem Quarterly history (2009) was identified but not opened.",
+        "ar": "يصفها ويكيداتا بأنها مقبرة إسلامية مهجورة. وقد حُدّد تاريخ عاصم خالدي في Jerusalem Quarterly (2009) لكنه لم يُفتح.",
+        "he": "Wikidata מתאר אותו כבית קברות מוסלמי נטוש. ההיסטוריה של עאסם ח'אלדי ב-Jerusalem Quarterly (2009) זוהתה אך לא נפתחה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -22997,7 +23423,13 @@
         }
       ],
       "notes": {
-        "en": "Opposite al-Maghtas (Bethany beyond the Jordan) on the east bank. Which bank marks the baptism is disputed between the site authorities; INPA calls Qasr al-Yahud the 'third holiest' Christian site, while UNESCO's text favours the east bank."
+        "en": "Opposite al-Maghtas (Bethany beyond the Jordan) on the east bank. Which bank marks the baptism is disputed between the site authorities; INPA calls Qasr al-Yahud the 'third holiest' Christian site, while UNESCO's text favours the east bank.",
+        "ar": "قبالة المغطس (بيت عنيا عبر الأردن) على الضفة الشرقية. تختلف سلطات الموقعين في أي ضفة تحدد موضع المعمودية؛ وتسمي سلطة الطبيعة والحدائق الإسرائيلية (INPA) قصر اليهود الموقع المسيحي \"third holiest\" [الثالث في القداسة]، بينما يميل نص اليونسكو إلى الضفة الشرقية.",
+        "he": "מול אל-מע'טס (בית עניה שבעבר הירדן) בגדה המזרחית. רשויות האתרים חלוקות בשאלה איזו גדה מציינת את מקום הטבילה; INPA מכנה את קסר אל-יהוד אתר נוצרי \"third holiest\" [השלישי בקדושתו], ואילו נוסח אונסק״ו נוטה לגדה המזרחית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23123,7 +23555,13 @@
         }
       ],
       "notes": {
-        "en": "On the east bank of the Jordan (Jordan), opposite Qasr al-Yahud."
+        "en": "On the east bank of the Jordan (Jordan), opposite Qasr al-Yahud.",
+        "ar": "على الضفة الشرقية للأردن (الأردن)، قبالة قصر اليهود.",
+        "he": "בגדה המזרחית של הירדן (ירדן), מול קסר אל-יהוד.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23237,7 +23675,13 @@
         }
       ],
       "notes": {
-        "en": "Nazareth itself was singled out by name in UN General Assembly resolution 194 (1948) on the Holy Places (UNCCP 1949, p. 1). Britannica calls it the largest Christian house of worship in the Middle East."
+        "en": "Nazareth itself was singled out by name in UN General Assembly resolution 194 (1948) on the Holy Places (UNCCP 1949, p. 1). Britannica calls it the largest Christian house of worship in the Middle East.",
+        "ar": "نصّت على الناصرة بالاسم قرار الجمعية العامة للأمم المتحدة 194 (1948) بشأن الأماكن المقدسة (لجنة التوفيق 1949، ص 1). ويصفها بريتانيكا بأنها أكبر دار عبادة مسيحية في الشرق الأوسط.",
+        "he": "נצרת עצמה צוינה בשמה בהחלטה 194 של העצרת הכללית של האו״ם (1948) בעניין המקומות הקדושים (ועדת הפיוס 1949, עמ' 1). בריטניקה מכנה אותה בית התפילה הנוצרי הגדול ביותר במזרח התיכון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23381,7 +23825,13 @@
         }
       ],
       "notes": {
-        "en": "The Jewish entry records a biblical association rather than an active pilgrimage tradition."
+        "en": "The Jewish entry records a biblical association rather than an active pilgrimage tradition.",
+        "ar": "يسجل الجانب اليهودي ارتباطًا توراتيًا لا تقليد حج فعّالًا.",
+        "he": "הרשומה היהודית מתעדת זיקה מקראית ולא מסורת עלייה לרגל פעילה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23505,7 +23955,13 @@
         }
       ],
       "notes": {
-        "en": "The Mount of Beatitudes (Wikidata Q543683) rises just above Tabgha."
+        "en": "The Mount of Beatitudes (Wikidata Q543683) rises just above Tabgha.",
+        "ar": "يرتفع جبل التطويبات (ويكيداتا Q543683) فوق الطابغة مباشرة.",
+        "he": "הר האושר (Wikidata Q543683) מתנשא ממש מעל טבחה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23612,7 +24068,13 @@
         }
       ],
       "notes": {
-        "en": "Wikidata describes the tomb as legendary (rebuilt). The tomb of Rabbi Meir Ba'al ha-Nes south of Tiberias has no coordinates in the Wikidata items found (Q3307786 is the person) and is not given a separate record."
+        "en": "Wikidata describes the tomb as legendary (rebuilt). The tomb of Rabbi Meir Ba'al ha-Nes south of Tiberias has no coordinates in the Wikidata items found (Q3307786 is the person) and is not given a separate record.",
+        "ar": "يصف ويكيداتا القبر بأنه أسطوري (أُعيد بناؤه). أما قبر الحاخام مئير بعل هنيس جنوب طبريا فلا إحداثيات له في عناصر ويكيداتا التي وُجدت (Q3307786 هو الشخص)، ولم يُمنح سجلًا منفصلًا.",
+        "he": "Wikidata מתאר את הקבר כאגדי (נבנה מחדש). לקבר רבי מאיר בעל הנס מדרום לטבריה אין קואורדינטות בפריטי Wikidata שנמצאו (Q3307786 הוא האדם), והוא לא קיבל רשומה נפרדת.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23712,7 +24174,13 @@
         }
       ],
       "notes": {
-        "en": "Meron also has the ruins of an ancient synagogue (UNCCP 1949, no. 109). The 2021 crowd disaster at the Lag BaOmer pilgrimage is not covered by the sources used here."
+        "en": "Meron also has the ruins of an ancient synagogue (UNCCP 1949, no. 109). The 2021 crowd disaster at the Lag BaOmer pilgrimage is not covered by the sources used here.",
+        "ar": "في ميرون أيضًا أطلال كنيس قديم (لجنة التوفيق 1949، رقم 109). ولا تغطي المصادر المستخدمة هنا كارثة التدافع عام 2021 في حج لاغ باعومر.",
+        "he": "במירון יש גם חורבות בית כנסת עתיק (ועדת הפיוס 1949, מס' 109). אסון ההמון ב-2021 בעלייה לרגל של ל״ג בעומר אינו מכוסה במקורות ששימשו כאן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23880,7 +24348,13 @@
         }
       ],
       "notes": {
-        "en": "Near Hittin, west of Tiberias. The academic study by Kais Firro on Druze maqamat was identified but not opened. Britannica places the tomb 'in Tiberias' (i.e. the Tiberias district)."
+        "en": "Near Hittin, west of Tiberias. The academic study by Kais Firro on Druze maqamat was identified but not opened. Britannica places the tomb 'in Tiberias' (i.e. the Tiberias district).",
+        "ar": "قرب حطين، غرب طبريا. حُددت دراسة أكاديمية لقيس فرو عن مقامات الدروز لكنها لم تُفتح. يضع بريتانيكا القبر \"in Tiberias\" (أي منطقة طبريا).",
+        "he": "ליד חיטין, מערבית לטבריה. המחקר האקדמי של קייס פירו על מקאמאת דרוזיים זוהה אך לא נפתח. בריטניקה ממקמת את הקבר \"in Tiberias\" (כלומר מחוז טבריה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -23962,7 +24436,13 @@
         }
       ],
       "notes": {
-        "en": "Coordinates are those of the Wikidata item for the depopulated village of Sabalan (Q7395856), whose houses surrounded the tomb (Khalidi 1992), so they are approximate for the shrine. The village was occupied on 30 October 1948 (Operation Hiram). Wikidata's Arabic label for the village item is 'سبلان'; no established Arabic form for the shrine was found, so name.ar is omitted. Only one underlying source (Khalidi 1992 via Zochrot) was found."
+        "en": "Coordinates are those of the Wikidata item for the depopulated village of Sabalan (Q7395856), whose houses surrounded the tomb (Khalidi 1992), so they are approximate for the shrine. The village was occupied on 30 October 1948 (Operation Hiram). Wikidata's Arabic label for the village item is 'سبلان'; no established Arabic form for the shrine was found, so name.ar is omitted. Only one underlying source (Khalidi 1992 via Zochrot) was found.",
+        "ar": "الإحداثيات هي إحداثيات عنصر ويكيداتا للقرية المُهجَّرة سبلان (Q7395856) التي كانت بيوتها تحيط بالقبر (الخالدي 1992)، فهي تقريبية بالنسبة إلى المقام. احتُلت القرية في 30 تشرين الأول/أكتوبر 1948 (عملية حيرام). التسمية العربية للعنصر في ويكيداتا هي \"سبلان\"؛ ولم تُوجد صيغة عربية راسخة للمقام، ولذلك حُذف name.ar. لم يُعثر إلا على مصدر أساسي واحد (الخالدي 1992 عبر زوخروت).",
+        "he": "הקואורדינטות הן של פריט Wikidata של הכפר הנעזב סבלאן (Q7395856), שבתיו הקיפו את הקבר (ח'אלדי 1992), ולכן הן משוערות לגבי המקדש. הכפר נכבש ב-30 באוקטובר 1948 (מבצע חירם). התווית הערבית של פריט הכפר ב-Wikidata היא \"سبلان\"; לא נמצאה צורה ערבית מקובלת למקדש, ולכן name.ar הושמט. נמצא מקור בסיסי אחד בלבד (ח'אלדי 1992 באמצעות זוכרות).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24155,7 +24635,13 @@
         }
       ],
       "notes": {
-        "en": "On the north-western tip of Mount Carmel, Haifa. Druze veneration is stated only generally in the source."
+        "en": "On the north-western tip of Mount Carmel, Haifa. Druze veneration is stated only generally in the source.",
+        "ar": "على الطرف الشمالي الغربي لجبل الكرمل، حيفا. ورد توقير الدروز له في المصدر بصورة عامة فقط.",
+        "he": "בקצה הצפון-מערבי של הר הכרמל, חיפה. הערצת הדרוזים מצוינת במקור רק באופן כללי.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24275,7 +24761,13 @@
         }
       ],
       "notes": {
-        "en": "The Carmelite monastery at al-Muhraqa (traditional site of Elijah's sacrifice, south-east Carmel ridge) was not found in a source opened for this file and has no separate record; Wikidata coordinates are for the mountain range. Druze villages on the Carmel (Daliyat al-Karmil, Isfiya) are not covered here."
+        "en": "The Carmelite monastery at al-Muhraqa (traditional site of Elijah's sacrifice, south-east Carmel ridge) was not found in a source opened for this file and has no separate record; Wikidata coordinates are for the mountain range. Druze villages on the Carmel (Daliyat al-Karmil, Isfiya) are not covered here.",
+        "ar": "الدير الكرملي في المحرقة (الموضع التقليدي لذبيحة إيليا، جنوب شرق سلسلة الكرمل) لم يُوجد في مصدر مفتوح لهذا الملف وليس له سجل منفصل؛ وإحداثيات ويكيداتا هي لسلسلة الجبال. القرى الدرزية في الكرمل (دالية الكرمل، عسفيا) غير مشمولة هنا.",
+        "he": "המנזר הכרמליטי באל-מוחרקה (האתר המסורתי של קורבן אליהו, בקצה הדרום-מזרחי של רכס הכרמל) לא נמצא במקור שנפתח לקובץ זה ואין לו רשומה נפרדת; קואורדינטות Wikidata הן של רכס ההרים. הכפרים הדרוזיים בכרמל (דליית אל-כרמל, עספיא) אינם מכוסים כאן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24385,7 +24877,13 @@
         }
       ],
       "notes": {
-        "en": "The Báb's execution in 1850 is stated in UNESCO's Arabic description."
+        "en": "The Báb's execution in 1850 is stated in UNESCO's Arabic description.",
+        "ar": "إعدام الباب عام 1850 مذكور في وصف اليونسكو العربي.",
+        "he": "הוצאתו להורג של הבאב ב-1850 מצוינת בתיאור הערבי של אונסק״ו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24495,7 +24993,13 @@
         }
       ],
       "notes": {
-        "en": "UNESCO's English text places it 'in Acre'; the shrine is at Bahjí just north of Acre. Bahá'u'lláh's death in 1892 is from Britannica; the 24 years in Western Galilee from UNESCO's Arabic description."
+        "en": "UNESCO's English text places it 'in Acre'; the shrine is at Bahjí just north of Acre. Bahá'u'lláh's death in 1892 is from Britannica; the 24 years in Western Galilee from UNESCO's Arabic description.",
+        "ar": "يضعه النص الإنجليزي لليونسكو \"in Acre\"؛ والمقام في بهجي شمال عكا مباشرة. وفاة بهاء الله عام 1892 من بريتانيكا؛ والـ24 عامًا في الجليل الغربي من وصف اليونسكو العربي.",
+        "he": "הנוסח האנגלי של אונסק״ו ממקם אותו \"in Acre\"; המקדש נמצא בבהג'י, מצפון לעכו. מותו של בהאא אללה ב-1892 מבריטניקה; 24 השנים בגליל המערבי מהתיאור הערבי של אונסק״ו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24667,7 +25171,13 @@
         }
       ],
       "notes": {
-        "en": "Outside the map region (South Sinai, Egypt); included for context. Under Israeli administration 1967-1979 (Britannica)."
+        "en": "Outside the map region (South Sinai, Egypt); included for context. Under Israeli administration 1967-1979 (Britannica).",
+        "ar": "خارج منطقة الخريطة (جنوب سيناء، مصر)؛ أُدرج للسياق. خضع للإدارة الإسرائيلية 1967–1979 (بريتانيكا).",
+        "he": "מחוץ לאזור המפה (דרום סיני, מצרים); נכלל להקשר. תחת מינהל ישראלי 1967–1979 (בריטניקה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -24788,7 +25298,13 @@
         }
       ],
       "notes": {
-        "en": "On the coast just south of Apollonia-Arsuf, within today's Herzliya (Wikidata). Itamar Taxel's study of the tomb's history was identified but not opened."
+        "en": "On the coast just south of Apollonia-Arsuf, within today's Herzliya (Wikidata). Itamar Taxel's study of the tomb's history was identified but not opened.",
+        "ar": "على الساحل جنوب أبولونيا-أرسوف مباشرة، ضمن هرتسليا اليوم (ويكيداتا). حُددت دراسة إيتامار تكسل عن تاريخ القبر لكنها لم تُفتح.",
+        "he": "על החוף ממש דרומית לאפולוניה-ארסוף, בתוך הרצליה של היום (Wikidata). המחקר של איתמר טקסל על תולדות הקבר זוהה אך לא נפתח.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

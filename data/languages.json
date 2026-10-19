@@ -975,7 +975,13 @@
         }
       ],
       "notes": {
-        "en": "End date is approximate: the sources consulted give no end of use; the 328 CE inscription is cited by Britannica as Nabataean (and by some as the earliest Arabic). The Arabic alphabet descends from the Nabataean script (see 'arabic')."
+        "en": "End date is approximate: the sources consulted give no end of use; the 328 CE inscription is cited by Britannica as Nabataean (and by some as the earliest Arabic). The Arabic alphabet descends from the Nabataean script (see 'arabic').",
+        "ar": "تاريخ النهاية تقريبي: المصادر التي رُجع إليها لا تذكر نهاية للاستعمال؛ وتورد موسوعة بريتانيكا نقش عام 328م بوصفه نبطيًا (ويعدّه بعضهم أقدم نقش عربي). الأبجدية العربية منحدرة من الخط النبطي (انظر \"arabic\").",
+        "he": "תאריך הסיום משוער: המקורות שנבדקו אינם נותנים סוף לשימוש; בריטניקה מציינת את הכתובת משנת 328 לספירה כנבטית (ויש הרואים בה את הכתובת הערבית הקדומה ביותר). האלפבית הערבי מקורו בכתב הנבטי (ראו \"arabic\").",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1030,7 +1036,13 @@
         }
       ],
       "notes": {
-        "en": "Included for regional context; the sources consulted do not document specific Syriac use within the southern Levant (the brief's suggested source, Griffith 1997 on the languages of the Palestinian monasteries, was not accessible in this pass)."
+        "en": "Included for regional context; the sources consulted do not document specific Syriac use within the southern Levant (the brief's suggested source, Griffith 1997 on the languages of the Palestinian monasteries, was not accessible in this pass).",
+        "ar": "أُدرج للسياق الإقليمي؛ والمصادر التي رُجع إليها لا توثّق استعمالًا محددًا للسريانية في جنوب بلاد الشام (المصدر الذي اقترحه الموجز، غريفيث 1997 عن لغات الأديرة الفلسطينية، لم يتيسر الوصول إليه في هذه الجولة).",
+        "he": "נכלל לצורך הקשר אזורי; המקורות שנבדקו אינם מתעדים שימוש מסוים בסורית בדרום הלבנט (המקור שהוצע בתדריך, גריפית' 1997 על שפות המנזרים הפלסטיניים, לא היה נגיש בשלב זה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1141,7 +1153,13 @@
         }
       ],
       "notes": {
-        "en": "Start: Alexander's passage through Palestine after the Battle of Issus (333 BCE). The Madaba mosaic map (6th century CE) and Greek tombstones are Byzantine-period examples. Britannica's 'Koine' period ends in the mid-6th century; Byzantine rule over Palestine ended with the Arab conquest (630s); Greek remained in Umayyad financial administration until Abd al-Malik's reform. Continuing Greek liturgical use was not covered by the sources consulted."
+        "en": "Start: Alexander's passage through Palestine after the Battle of Issus (333 BCE). The Madaba mosaic map (6th century CE) and Greek tombstones are Byzantine-period examples. Britannica's 'Koine' period ends in the mid-6th century; Byzantine rule over Palestine ended with the Arab conquest (630s); Greek remained in Umayyad financial administration until Abd al-Malik's reform. Continuing Greek liturgical use was not covered by the sources consulted.",
+        "ar": "البداية: مرور الإسكندر بفلسطين بعد معركة إسوس (333 ق.م.). وتُعدّ خريطة مادبا الفسيفسائية (القرن السادس م) وشواهد القبور اليونانية أمثلة من العصر البيزنطي. تنتهي فترة \"الكوينية\" في بريتانيكا في منتصف القرن السادس؛ وانتهى الحكم البيزنطي لفلسطين بالفتح العربي (ثلاثينيات القرن السابع)؛ وبقيت اليونانية في الإدارة المالية الأموية حتى إصلاح عبد الملك. أما الاستعمال الليتورجي اليوناني المستمر فلم تتناوله المصادر التي رُجع إليها.",
+        "he": "התחלה: מעבר אלכסנדר בפלשתינה לאחר קרב איסוס (333 לפנה״ס). מפת הפסיפס ממאדבא (המאה ה-6 לספירה) ומצבות יווניות הן דוגמאות מהתקופה הביזנטית. תקופת ה\"קוינה\" של בריטניקה מסתיימת באמצע המאה ה-6; השלטון הביזנטי בפלשתינה הסתיים עם הכיבוש הערבי (שנות ה-630); היוונית נשארה במנהל הכספים האומיי עד לרפורמה של עבד אל-מלכ. השימוש הליטורגי המתמשך ביוונית לא נסקר במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1207,7 +1225,13 @@
         }
       ],
       "notes": {
-        "en": "Eck 2010 publishes a Latin bronze military diploma of 13 May 86 CE for auxiliary troops 'QVAE SVNT IN IVDAEA'. The end date reflects only the finds cited (1st-2nd centuries CE); later Roman, Byzantine and Crusader-period Latin (e.g. the Latin Church) was not covered by the sources consulted."
+        "en": "Eck 2010 publishes a Latin bronze military diploma of 13 May 86 CE for auxiliary troops 'QVAE SVNT IN IVDAEA'. The end date reflects only the finds cited (1st-2nd centuries CE); later Roman, Byzantine and Crusader-period Latin (e.g. the Latin Church) was not covered by the sources consulted.",
+        "ar": "ينشر إيك 2010 دبلومًا عسكريًا لاتينيًا من البرونز مؤرخًا في 13 أيار/مايو 86م لقوات مساعدة \"QVAE SVNT IN IVDAEA\". يعكس تاريخ النهاية الآثار المذكورة فقط (القرنان الأول والثاني م)؛ أما اللاتينية اللاحقة في العصور الرومانية والبيزنطية وعهد الصليبيين (مثل الكنيسة اللاتينية) فلم تتناولها المصادر التي رُجع إليها.",
+        "he": "אק 2010 מפרסם דיפלומה צבאית לטינית מברונזה מ-13 במאי 86 לספירה לחיילי עזר \"QVAE SVNT IN IVDAEA\". תאריך הסיום משקף רק את הממצאים שצוינו (המאות ה-1–2 לספירה); לטינית מאוחרת יותר מהתקופות הרומית, הביזנטית והצלבנית (למשל הכנסייה הלטינית) לא נסקרה במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1487,7 +1511,13 @@
         }
       ],
       "notes": {
-        "en": "Pre-Islamic Arabic: the date and script of the earliest Arabic inscriptions are debated (Britannica: 328 CE Nabataean inscription vs 512 CE trilingual). Administrative period: start is Abd al-Malik's accession (685); the end marks the Ottoman conquest of 1516 (Ottoman Turkish then used in contacts with government officials, per Bachi for the late 19th century), not the disappearance of Arabic from public life. 2018 status: the law text says the provision does not harm Arabic's prior practical status; Adalah (an Arab minority rights NGO) holds that it demotes Arabic from an official language; the Supreme Court majority (2021) read Section 4 as not detracting from Arabic's status in practice, while Justice Karra (dissent) held that Sections 1(c), 4 and 7 deny the state's democratic identity. Bachi Table 15.4: 96.5% of non-Jews in Israel used Arabic as only or first language in 1961."
+        "en": "Pre-Islamic Arabic: the date and script of the earliest Arabic inscriptions are debated (Britannica: 328 CE Nabataean inscription vs 512 CE trilingual). Administrative period: start is Abd al-Malik's accession (685); the end marks the Ottoman conquest of 1516 (Ottoman Turkish then used in contacts with government officials, per Bachi for the late 19th century), not the disappearance of Arabic from public life. 2018 status: the law text says the provision does not harm Arabic's prior practical status; Adalah (an Arab minority rights NGO) holds that it demotes Arabic from an official language; the Supreme Court majority (2021) read Section 4 as not detracting from Arabic's status in practice, while Justice Karra (dissent) held that Sections 1(c), 4 and 7 deny the state's democratic identity. Bachi Table 15.4: 96.5% of non-Jews in Israel used Arabic as only or first language in 1961.",
+        "ar": "العربية قبل الإسلام: تاريخ أقدم النقوش العربية وخطّها محل خلاف (بريتانيكا: نقش نبطي عام 328م مقابل نقش ثلاثي اللغات عام 512م). الفترة الإدارية: تبدأ بتولي عبد الملك الحكم (685)؛ وتنتهي بالفتح العثماني عام 1516 (إذ استُعملت التركية العثمانية بعد ذلك في الاتصال بمسؤولي الحكومة، بحسب باخي في أواخر القرن التاسع عشر)، لا باختفاء العربية من الحياة العامة. وضع 2018: يقول نص القانون إن الحكم لا يمس بالمكانة العملية السابقة للعربية؛ وترى عدالة (منظمة لحقوق الأقلية العربية) أنه يُنزل العربية من لغة رسمية؛ وقرأت أغلبية المحكمة العليا (2021) البند 4 على أنه لا ينتقص من مكانة العربية عمليًا، بينما رأى القاضي كرا (في رأي مخالف) أن البنود 1(ج) و4 و7 تنفي هوية الدولة الديمقراطية. جدول باخي 15.4: 96.5% من غير اليهود في إسرائيل استخدموا العربية لغةً وحيدة أو أولى عام 1961.",
+        "he": "ערבית טרום-אסלאמית: מועד הכתובות הערביות הקדומות ביותר וכתבן שנויים במחלוקת (בריטניקה: כתובת נבטית מ-328 לספירה לעומת כתובת תלת-לשונית מ-512 לספירה). התקופה המנהלית: ההתחלה היא עלייתו של עבד אל-מלכ (685); הסוף מציין את הכיבוש העות'מאני של 1516 (התורכית העות'מאנית שימשה אז בקשרים עם פקידי ממשל, לפי בכי לסוף המאה ה-19), ולא את היעלמות הערבית מהחיים הציבוריים. מעמדה ב-2018: נוסח החוק קובע שהוראתו אינה פוגעת במעמדה המעשי הקודם של הערבית; עדאלה (ארגון לזכויות המיעוט הערבי) סבור שהיא מורידה את הערבית ממעמד של שפה רשמית; רוב שופטי בית המשפט העליון (2021) קראו את סעיף 4 כאילו אינו גורע ממעמד הערבית הלכה למעשה, ואילו השופט קרא (בדעת מיעוט) קבע שסעיפים 1(ג), 4 ו-7 שוללים את זהותה הדמוקרטית של המדינה. לוח 15.4 של בכי: 96.5% מהלא-יהודים בישראל השתמשו בערבית כשפה יחידה או ראשונה ב-1961.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1551,7 +1581,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi documents Turkish only for official contacts in the late 19th century; the sources consulted give no detail on its use in earlier Ottoman centuries in Palestine (local courts and most writing are not covered here). End: British occupation (1917); the Mandate text refers to Palestine as territory 'which formerly belonged to the Turkish Empire'."
+        "en": "Bachi documents Turkish only for official contacts in the late 19th century; the sources consulted give no detail on its use in earlier Ottoman centuries in Palestine (local courts and most writing are not covered here). End: British occupation (1917); the Mandate text refers to Palestine as territory 'which formerly belonged to the Turkish Empire'.",
+        "ar": "لا يوثّق باخي التركية إلا في الاتصالات الرسمية في أواخر القرن التاسع عشر؛ ولا تقدم المصادر التي رُجع إليها تفصيلًا عن استعمالها في القرون العثمانية السابقة في فلسطين (المحاكم المحلية ومعظم الكتابة غير مشمولة هنا). النهاية: الاحتلال البريطاني (1917)؛ ويشير نص الانتداب إلى فلسطين بوصفها إقليمًا \"which formerly belonged to the Turkish Empire\" [أي كان يتبع سابقًا للإمبراطورية التركية].",
+        "he": "בכי מתעד תורכית רק בקשרים רשמיים בסוף המאה ה-19; המקורות שנבדקו אינם נותנים פירוט על השימוש בה במאות העות'מאניות הקודמות בפלשתינה (בתי משפט מקומיים ורוב הכתיבה אינם מכוסים כאן). סיום: הכיבוש הבריטי (1917); נוסח המנדט מתייחס לפלשתינה כשטח \"which formerly belonged to the Turkish Empire\" [שהיה שייך בעבר לאימפריה הטורקית].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1607,7 +1643,13 @@
         }
       ],
       "notes": {
-        "en": "Prawer's statement refers to the last quarter of the 13th century; earlier crusader-period use of French is not dated in the sources consulted. End: end of the 13th century (the passage does not give a closing date). Bachi (p. 286) also notes that in the late Ottoman period 'French and other European languages became more and more important in cultural life of the country'."
+        "en": "Prawer's statement refers to the last quarter of the 13th century; earlier crusader-period use of French is not dated in the sources consulted. End: end of the 13th century (the passage does not give a closing date). Bachi (p. 286) also notes that in the late Ottoman period 'French and other European languages became more and more important in cultural life of the country'.",
+        "ar": "يشير بيان برافر إلى الربع الأخير من القرن الثالث عشر؛ أما استعمال الفرنسية في وقت أبكر من عهد الصليبيين فغير مؤرخ في المصادر التي رُجع إليها. النهاية: نهاية القرن الثالث عشر (لا يعطي المقطع تاريخ إغلاق). ويلاحظ باخي (ص 286) أيضًا أنه في أواخر العهد العثماني \"French and other European languages became more and more important in cultural life of the country\" [أي ازدادت أهمية الفرنسية وغيرها من اللغات الأوروبية في الحياة الثقافية للبلاد].",
+        "he": "ההצהרה של פראוור מתייחסת לרבע האחרון של המאה ה-13; שימוש מוקדם יותר בצרפתית בתקופה הצלבנית אינו מתוארך במקורות שנבדקו. סיום: סוף המאה ה-13 (הקטע אינו נותן תאריך סגירה). בכי (עמ' 286) מציין גם כי בתקופה העות'מאנית המאוחרת \"French and other European languages became more and more important in cultural life of the country\" [הצרפתית ושפות אירופיות אחרות הפכו חשובות יותר ויותר בחיי התרבות של האזור].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1663,7 +1705,13 @@
         }
       ],
       "notes": {
-        "en": "Prawer also cites a Genoese marriage contract written in Acre in 1273."
+        "en": "Prawer also cites a Genoese marriage contract written in Acre in 1273.",
+        "ar": "يورد برافر أيضًا عقد زواج جنوي كُتب في عكا عام 1273.",
+        "he": "פראוור מצטט גם חוזה נישואין גנואי שנכתב בעכו ב-1273.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1724,7 +1772,13 @@
         }
       ],
       "notes": {
-        "en": "Start reflects the source's description of late-19th-century immigrants, not the first presence of Yiddish speakers in the country. Bachi's Table 15.3 (p. 290) gives Yiddish as 59.1% of non-Hebrew languages used by Jews in 1916-18."
+        "en": "Start reflects the source's description of late-19th-century immigrants, not the first presence of Yiddish speakers in the country. Bachi's Table 15.3 (p. 290) gives Yiddish as 59.1% of non-Hebrew languages used by Jews in 1916-18.",
+        "ar": "تعكس البداية وصف المصدر للمهاجرين في أواخر القرن التاسع عشر، لا أول وجود لمتحدثي اليديشية في البلاد. يورد جدول باخي 15.3 (ص 290) اليديشية بنسبة 59.1% من اللغات غير العبرية التي استخدمها اليهود في 1916–18.",
+        "he": "ההתחלה משקפת את תיאור המקור של מהגרי סוף המאה ה-19, ולא את הנוכחות הראשונה של דוברי יידיש באזור. לוח 15.3 של בכי (עמ' 290) מציג את היידיש כ-59.1% מהשפות שאינן עברית שבהן השתמשו יהודים ב-1916–18.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1780,7 +1834,13 @@
         }
       ],
       "notes": {
-        "en": "Start reflects Bachi's late-19th-century description; earlier Sephardic communities in Ottoman Palestine are not dated in the sources consulted. Bachi's Table 15.3 (p. 290) gives Ladino as 6.8% of non-Hebrew languages used by Jews in 1916-18."
+        "en": "Start reflects Bachi's late-19th-century description; earlier Sephardic communities in Ottoman Palestine are not dated in the sources consulted. Bachi's Table 15.3 (p. 290) gives Ladino as 6.8% of non-Hebrew languages used by Jews in 1916-18.",
+        "ar": "تعكس البداية وصف باخي لأواخر القرن التاسع عشر؛ أما الجماعات السفاردية الأسبق في فلسطين العثمانية فغير مؤرخة في المصادر التي رُجع إليها. يورد جدول باخي 15.3 (ص 290) اللادينو بنسبة 6.8% من اللغات غير العبرية التي استخدمها اليهود في 1916–18.",
+        "he": "ההתחלה משקפת את תיאורו של בכי לסוף המאה ה-19; קהילות ספרדיות מוקדמות יותר בפלשתינה העות'מאנית אינן מתוארכות במקורות שנבדקו. לוח 15.3 של בכי (עמ' 290) מציג את הלאדינו כ-6.8% מהשפות שאינן עברית שבהן השתמשו יהודים ב-1916–18.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1836,7 +1896,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica describes the Circassians as speaking 'a northwest Caucasian language'. Writing systems are not discussed in the sources consulted, so no script is listed."
+        "en": "Britannica describes the Circassians as speaking 'a northwest Caucasian language'. Writing systems are not discussed in the sources consulted, so no script is listed.",
+        "ar": "تصف بريتانيكا الشركس بأنهم يتكلمون \"a northwest Caucasian language\" [لغة قوقازية شمالية غربية]. لم تناقش المصادر التي رُجع إليها أنظمة الكتابة، فلا يُدرج خط.",
+        "he": "בריטניקה מתארת את הצ'רקסים כדוברי \"a northwest Caucasian language\" [שפה צפון-מערב קווקזית]. מערכות כתב לא נדונו במקורות שנבדקו, ולכן לא נרשם כתב.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1901,7 +1967,13 @@
         }
       ],
       "notes": {
-        "en": "The sources document an Armenian community in Jerusalem from the mid-5th century and the Armenian church's own alphabet and scripture translations from the 5th century, but do not explicitly describe the language of worship in Jerusalem; hence 'estimated'. Everyday use of Armenian in Jerusalem was not covered by the sources consulted."
+        "en": "The sources document an Armenian community in Jerusalem from the mid-5th century and the Armenian church's own alphabet and scripture translations from the 5th century, but do not explicitly describe the language of worship in Jerusalem; hence 'estimated'. Everyday use of Armenian in Jerusalem was not covered by the sources consulted.",
+        "ar": "توثّق المصادر وجود جماعة أرمنية في القدس منذ منتصف القرن الخامس، وأبجدية الكنيسة الأرمنية الخاصة وترجمات الكتاب المقدس منذ القرن الخامس، لكنها لا تصف صراحةً لغة العبادة في القدس؛ ومن ثمّ \"تقديري\". لم تتناول المصادر التي رُجع إليها الاستعمال اليومي للأرمنية في القدس.",
+        "he": "המקורות מתעדים קהילה ארמנית בירושלים מאמצע המאה ה-5 ואת האלפבית של הכנסייה הארמנית ותרגומי כתבי הקודש מהמאה ה-5, אך אינם מתארים במפורש את שפת התפילה בירושלים; ולכן \"מוערך\". השימוש היומיומי בארמנית בירושלים לא נסקר במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1962,7 +2034,13 @@
         }
       ],
       "notes": {
-        "en": "Start is the date of the Mandate instrument (24 July 1922); British rule began earlier (1917-20). After 1948 English ceased to be an official language in Israel (Bachi)."
+        "en": "Start is the date of the Mandate instrument (24 July 1922); British rule began earlier (1917-20). After 1948 English ceased to be an official language in Israel (Bachi).",
+        "ar": "البداية هي تاريخ صك الانتداب (24 تموز/يوليو 1922)؛ وكان الحكم البريطاني قد بدأ قبل ذلك (1917–20). بعد 1948 لم تعد الإنجليزية لغة رسمية في إسرائيل (باخي).",
+        "he": "ההתחלה היא תאריך כתב המנדט (24 ביולי 1922); השלטון הבריטי החל קודם לכן (1917–20). אחרי 1948 חדלה האנגלית להיות שפה רשמית בישראל (בכי).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2016,7 +2094,13 @@
         }
       ],
       "notes": {
-        "en": "Nothing is known of the original Philistine language from documents (Britannica). Dates bracket the period from the Philistines' first appearance in Egyptian records (about 1190 BCE) to the Babylonian conquest of the Philistine cities under Nebuchadrezzar II (605-562 BCE) and are not dates of language use; the language may have been replaced much earlier. Further specialist literature (e.g. on Philistine personal names) was not consulted in this pass."
+        "en": "Nothing is known of the original Philistine language from documents (Britannica). Dates bracket the period from the Philistines' first appearance in Egyptian records (about 1190 BCE) to the Babylonian conquest of the Philistine cities under Nebuchadrezzar II (605-562 BCE) and are not dates of language use; the language may have been replaced much earlier. Further specialist literature (e.g. on Philistine personal names) was not consulted in this pass.",
+        "ar": "لا يُعرف شيء عن اللغة الفلستية الأصلية من الوثائق (بريتانيكا). تحيط التواريخ بالفترة من أول ظهور للفلستيين في السجلات المصرية (نحو 1190 ق.م.) إلى الفتح البابلي لمدن الفلستيين على يد نبوخذ نصر الثاني (605–562 ق.م.)، وليست تواريخ لاستعمال اللغة؛ فربما حلّت لغة أخرى محلها في وقت أبكر بكثير. ولم يُرجع في هذه الجولة إلى مزيد من الأدبيات المتخصصة (مثل ما كتب عن أسماء الفلستيين الشخصية).",
+        "he": "דבר אינו ידוע על שפתם המקורית של הפלשתים ממסמכים (בריטניקה). התאריכים תוחמים את התקופה מהופעתם הראשונה של הפלשתים ברשומות מצריות (בערך 1190 לפנה״ס) ועד הכיבוש הבבלי של ערי הפלשתים בידי נבוכדנאצר השני (605–562 לפנה״ס), ואינם תאריכי שימוש בשפה; ייתכן שהשפה הוחלפה הרבה קודם. ספרות מקצועית נוספת (למשל על שמות פרטיים פלשתיים) לא נבדקה בשלב זה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

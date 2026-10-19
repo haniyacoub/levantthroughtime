@@ -75,7 +75,13 @@
         }
       ],
       "notes": {
-        "en": "Dated to the 12th century BCE (Iron Age I) on archaeological grounds; Feldman et al. analysed genomes of 10 individuals from Ashkelon. Mapped to Ashkelon because that is where the DNA evidence comes from; Ashdod and Ekron show the same cultural change."
+        "en": "Dated to the 12th century BCE (Iron Age I) on archaeological grounds; Feldman et al. analysed genomes of 10 individuals from Ashkelon. Mapped to Ashkelon because that is where the DNA evidence comes from; Ashdod and Ekron show the same cultural change.",
+        "ar": "مؤرَّخ بالقرن الثاني عشر ق.م. (العصر الحديدي الأول) استنادًا إلى أدلة أثرية؛ وقد حلل فيلدمان وآخرون جينومات 10 أفراد من عسقلان. رُسمت على عسقلان لأن منها جاءت أدلة الحمض النووي؛ ويُظهر أشدود وعقرون التغير الثقافي نفسه.",
+        "he": "מתוארך למאה ה-12 לפנה״ס (תקופת הברזל I) על בסיס ארכאולוגי; פלדמן ואחרים ניתחו גנומים של 10 אנשים מאשקלון. מסומן באשקלון משום שמשם מגיעות ראיות הדנ״א; אשדוד ועקרון מראות אותו שינוי תרבותי.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Scholars disagree on the scale and origin of the movement. Feldman et al. summarise the positions: an Aegean-related migration; cultural diffusion or internal development without large-scale movement; or mobility from Cyprus, Cilicia or mixed eastern Mediterranean groups. Their DNA results show European-related gene flow that was diluted within about two centuries. Maeir, Hitchcock and Horwitz describe an entangled identity combining foreign and local traits.",
@@ -172,7 +178,13 @@
         }
       ],
       "notes": {
-        "en": "The Assyrian inscription gives a figure in the thousands that is fragmentary, so no number is entered. Destination point is Tell Halaf (ancient Gozan) as a representative location in the Habor region named in II Kings 17:6; exact settlement places of the 732 deportees are not specified."
+        "en": "The Assyrian inscription gives a figure in the thousands that is fragmentary, so no number is entered. Destination point is Tell Halaf (ancient Gozan) as a representative location in the Habor region named in II Kings 17:6; exact settlement places of the 732 deportees are not specified.",
+        "ar": "النقش الآشوري يذكر رقمًا بالآلاف لكنه مجتزأ، ولذلك لم يُدخل أي عدد. نقطة الوصول هي تل حلف (غوزان القديمة) موقعًا ممثِّلًا في منطقة الخابور المذكورة في سفر الملوك الثاني 17:6؛ ولا تُحدَّد أماكن استقرار مرحَّلي عام 732 بدقة.",
+        "he": "הכתובת האשורית נותנת מספר באלפים שהוא שבור, ולכן לא הוזן מספר. נקודת היעד היא תל חלף (גוזן הקדומה) כמקום מייצג באזור החבור הנזכר במלכים ב' 17:6; מקומות ההתיישבות המדויקים של מגורשי 732 אינם מפורטים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -248,7 +260,13 @@
         }
       ],
       "notes": {
-        "en": "The number is Sargon II's own claim (variant reading 27,280). Malamat notes that after 716 some Israelites were resettled in Media."
+        "en": "The number is Sargon II's own claim (variant reading 27,280). Malamat notes that after 716 some Israelites were resettled in Media.",
+        "ar": "الرقم هو ادعاء سرجون الثاني نفسه (قراءة بديلة 27,280). يلاحظ ملامات أن بعض الإسرائيليين أُعيد توطينهم في ماداي (ميديا) بعد 716.",
+        "he": "המספר הוא טענתו של סרגון השני עצמו (קריאה חלופית 27,280). מלמט מציין שאחרי 716 הועברו חלק מבני ישראל למדי.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "The biblical text speaks of the deportation of 'the Israelites'; Sargon II claims 27,290 deportees from the city of Samaria; Finkelstein describes the deportation of 'groups of its elite population' and argues (see the separate record) that many Israelites instead moved south to Judah.",
@@ -347,7 +365,13 @@
         }
       ],
       "notes": {
-        "en": "Malamat also notes later 7th-century settlement of further groups (Ezra 4:1-2, 9-10, under Esarhaddon and \"Asenappar\", probably Ashurbanipal) and that the newcomers assimilated with the remaining Israelite population, eventually forming the Samaritans of the province of Samaria."
+        "en": "Malamat also notes later 7th-century settlement of further groups (Ezra 4:1-2, 9-10, under Esarhaddon and \"Asenappar\", probably Ashurbanipal) and that the newcomers assimilated with the remaining Israelite population, eventually forming the Samaritans of the province of Samaria.",
+        "ar": "يلاحظ ملامات أيضًا استقرار مجموعات أخرى لاحقًا في القرن السابع (عزرا 4:1–2 و9–10، في عهد أسرحدون و\"Asenappar\"، وهو على الأرجح آشوربانيبال) وأن الوافدين اندمجوا مع من بقي من السكان الإسرائيليين، فشكّلوا في النهاية السامريين في مقاطعة السامرة.",
+        "he": "מלמט מציין גם התיישבות מאוחרת במאה ה-7 של קבוצות נוספות (עזרא 4:1–2, 9–10, בימי אסרחדון ו\"אסנפר\", כנראה אשורבניפל) וכי הבאים החדשים התבוללו באוכלוסייה הישראלית שנותרה, ובסופו של דבר יצרו את השומרונים של מחוז שומרון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -404,7 +428,13 @@
         }
       ],
       "notes": {
-        "en": "Inferred from archaeology (rapid growth of Jerusalem and Judah in Iron IIB; population decline between Shechem and Ramallah). No textual record of the movement exists."
+        "en": "Inferred from archaeology (rapid growth of Jerusalem and Judah in Iron IIB; population decline between Shechem and Ramallah). No textual record of the movement exists.",
+        "ar": "مستنتج من الآثار (النمو السريع للقدس ويهوذا في العصر الحديدي الثاني ب؛ وتراجع السكان بين شكيم ورام الله). لا يوجد سجل نصي لهذه الحركة.",
+        "he": "מוסק מן הארכאולוגיה (גידול מהיר של ירושלים ויהודה בברזל IIB; ירידה באוכלוסייה בין שכם לרמאללה). אין תיעוד כתוב של התנועה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Finkelstein argues that Judah's population at least doubled within decades and that only an influx of Israelites from southern Samaria can explain it; Na'aman disputes a mass immigration from the north and argues for gradual growth of Jerusalem.",
@@ -494,7 +524,13 @@
         }
       ],
       "notes": {
-        "en": "Textual figures differ: II Kings 24:14 gives 10,000 exiles in 597 (24:16 gives 7,000 warriors and 1,000 artisans); Jeremiah 52:28-30 lists three deportations (597, 586 and 582/581 BCE) totalling 4,600 persons. II Kings 25:11-12 states that only \"some of the poorest in the land\" were left after 586."
+        "en": "Textual figures differ: II Kings 24:14 gives 10,000 exiles in 597 (24:16 gives 7,000 warriors and 1,000 artisans); Jeremiah 52:28-30 lists three deportations (597, 586 and 582/581 BCE) totalling 4,600 persons. II Kings 25:11-12 states that only \"some of the poorest in the land\" were left after 586.",
+        "ar": "تختلف الأرقام النصية: سفر الملوك الثاني 24:14 يذكر 10,000 منفي في 597 (و24:16 يذكر 7,000 محارب و1,000 صانع)؛ وإرميا 52:28–30 يسرد ثلاث عمليات ترحيل (597 و586 و582/581 ق.م.) بمجموع 4,600 شخص. وسفر الملوك الثاني 25:11–12 يذكر أنه لم يبقَ بعد 586 إلا \"some of the poorest in the land\" [بعض أفقر أهل الأرض].",
+        "he": "הנתונים בטקסט שונים: מלכים ב' 24:14 מציין 10,000 גולים ב-597 (24:16 מציין 7,000 אנשי חיל ו-1,000 בעלי מלאכה); ירמיהו 52:28–30 מונה שלוש גלויות (597, 586 ו-582/581 לפנה״ס) בסך 4,600 איש. מלכים ב' 25:11–12 קובע שרק \"some of the poorest in the land\" [חלק מעניי הארץ] נשארו אחרי 586.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "The scale is debated. The textual tradition describes the deportation of the whole elite and much of Jerusalem; archaeologically based estimates (Lipschits, as summarised by Finkelstein) reject the notion of very large-scale deportations and see a population that declined but largely remained in the land.",
@@ -573,7 +609,13 @@
         }
       ],
       "notes": {
-        "en": "Known only from the biblical text; date approximate (after the fall of Jerusalem in 586 BCE). Origin point is Tell en-Nasbeh, identified by many as Mizpah where Gedaliah governed (identification itself uncertain). Destination point is the Nile Delta (Tahpanhes lay in its east)."
+        "en": "Known only from the biblical text; date approximate (after the fall of Jerusalem in 586 BCE). Origin point is Tell en-Nasbeh, identified by many as Mizpah where Gedaliah governed (identification itself uncertain). Destination point is the Nile Delta (Tahpanhes lay in its east).",
+        "ar": "معروف من النص التوراتي وحده؛ والتاريخ تقريبي (بعد سقوط القدس عام 586 ق.م.). نقطة الانطلاق هي تل النصبة، التي يحدّدها كثيرون بالمصفاة حيث حكم جدليا (والتحديد نفسه غير مؤكد). نقطة الوصول هي دلتا النيل (كانت تحفنحيس في شرقها).",
+        "he": "ידוע רק מן הטקסט המקראי; התאריך משוער (אחרי נפילת ירושלים ב-586 לפנה״ס). נקודת המוצא היא תל א-נצבה, שרבים מזהים אותו עם מצפה, שבה שלט גדליהו (הזיהוי עצמו אינו ודאי). נקודת היעד היא דלתת הנילוס (תחפנחס שכנה במזרחה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -659,7 +701,13 @@
         }
       ],
       "notes": {
-        "en": "The end date is a schematic placeholder for the Persian period (the list in Ezra 2/Nehemiah 7 is variously dated). Finkelstein (2018, pp. 58-59) estimates the whole province of Yehud at about 12,000 people, against 20,000-30,000 proposed by Carter and Lipschits."
+        "en": "The end date is a schematic placeholder for the Persian period (the list in Ezra 2/Nehemiah 7 is variously dated). Finkelstein (2018, pp. 58-59) estimates the whole province of Yehud at about 12,000 people, against 20,000-30,000 proposed by Carter and Lipschits.",
+        "ar": "تاريخ النهاية قيمة مؤقتة تخطيطية للفترة الفارسية (القائمة في عزرا 2/نحميا 7 مؤرَّخة بتواريخ مختلفة). يقدّر فنكلشتاين (2018، ص 58–59) سكان مقاطعة يهود كلها بنحو 12,000 نسمة، مقابل 20,000–30,000 اقترحها كارتر وليبشيتس.",
+        "he": "תאריך הסיום הוא מציין מקום סכמטי לתקופה הפרסית (הרשימה בעזרא 2/נחמיה 7 מתוארכת בדרכים שונות). פינקלשטיין (2018, עמ' 58–59) מעריך את כל מחוז יהוד בכ-12,000 איש, לעומת 20,000–30,000 שהציעו קרטר וליפשיץ.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Textual tradition (Ezra-Nehemiah) gives 42,360 returnees plus servants; archaeological estimates of the entire Persian-period province are 12,000 (Finkelstein) to 20,000-30,000 (Carter, Lipschits), and Finkelstein argues the list is not an authentic record of Persian-period settlement.",
@@ -746,7 +794,13 @@
         }
       ],
       "notes": {
-        "en": "Casualty figures are deliberately not recorded here. The destination point (Rome) is symbolic: captives were sold or sent to many parts of the empire."
+        "en": "Casualty figures are deliberately not recorded here. The destination point (Rome) is symbolic: captives were sold or sent to many parts of the empire.",
+        "ar": "لا تُسجَّل أرقام الضحايا هنا عمدًا. نقطة الوصول (روما) رمزية: فقد بيع الأسرى أو أُرسلوا إلى أنحاء كثيرة من الإمبراطورية.",
+        "he": "נתוני נפגעים אינם מתועדים כאן במכוון. נקודת היעד (רומא) סמלית: השבויים נמכרו או נשלחו לחלקים רבים של האימפריה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Josephus gives 97,000 captives; Schwartz considers Josephus's figures (especially the death toll) impossible and stresses that the true numbers cannot be determined.",
@@ -839,7 +893,13 @@
         }
       ],
       "notes": {
-        "en": "This record represents an interpretive question rather than a single measurable movement; no numbers are given. The end date is schematic."
+        "en": "This record represents an interpretive question rather than a single measurable movement; no numbers are given. The end date is schematic.",
+        "ar": "يمثل هذا السجل مسألة تأويلية لا حركة واحدة قابلة للقياس؛ ولا تُعطى أرقام. تاريخ النهاية تخطيطي.",
+        "he": "רשומה זו מייצגת שאלה פרשנית ולא תנועה מדידה אחת; לא ניתנים מספרים. תאריך הסיום סכמטי.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "The traditional view links the dispersion of the Jews to the Roman destruction of Jerusalem (70 CE) and the defeat of Bar Kokhba (135 CE). Many historians stress instead that large diaspora communities existed before 70 (Britannica notes they already far outnumbered Jews in Palestine) and that a substantial Jewish population remained in the land after the revolts (Schwartz; EJ on the shift to Galilee), so that there was no single mass expulsion.",
@@ -914,7 +974,13 @@
         }
       ],
       "notes": {
-        "en": "Origin point is a representative location in the Judaean hills (Bethlehem area, near Bethar); the end date is schematic. Casualty figures (e.g. those of Cassius Dio) are deliberately not recorded."
+        "en": "Origin point is a representative location in the Judaean hills (Bethlehem area, near Bethar); the end date is schematic. Casualty figures (e.g. those of Cassius Dio) are deliberately not recorded.",
+        "ar": "نقطة الانطلاق موقع ممثِّل في جبال يهودا (منطقة بيت لحم، قرب بيتار)؛ وتاريخ النهاية تخطيطي. ولا تُسجَّل عمدًا أرقام الضحايا (مثل أرقام كاسيوس ديو).",
+        "he": "נקודת המוצא היא מקום מייצג בהרי יהודה (אזור בית לחם, ליד ביתר); תאריך הסיום סכמטי. נתוני נפגעים (למשל אלה של קסיוס דיו) אינם מתועדים במכוון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -995,7 +1061,13 @@
         }
       ],
       "notes": {
-        "en": "Destination point is Ramla, founded as the capital of Jund Filastin. Some of the tribes named by al-Ya'qubi (e.g. Lakhm and Judham) were already present on the frontiers before Islam, so the movement mixed new arrivals with groups already in the region; the consulted sources give no numbers."
+        "en": "Destination point is Ramla, founded as the capital of Jund Filastin. Some of the tribes named by al-Ya'qubi (e.g. Lakhm and Judham) were already present on the frontiers before Islam, so the movement mixed new arrivals with groups already in the region; the consulted sources give no numbers.",
+        "ar": "نقطة الوصول هي الرملة التي أُسست عاصمةً لجند فلسطين. بعض القبائل التي ذكرها اليعقوبي (مثل لخم وجذام) كانت موجودة أصلًا على الحدود قبل الإسلام، فاختلطت في الحركة وفود جدد بجماعات كانت في المنطقة؛ ولا تعطي المصادر التي رُجع إليها أعدادًا.",
+        "he": "נקודת היעד היא רמלה, שנוסדה כבירת ג'ונד פלסטין. חלק מן השבטים שנזכרים אצל אל-יעקובי (למשל לחם וג'ודאם) כבר ישבו בגבולות לפני האסלאם, ולכן התנועה שילבה בין מגיעים חדשים לקבוצות שכבר היו באזור; המקורות שנבדקו אינם נותנים מספרים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Al-Ya'qubi (9th c.) describes the population of Palestine in tribal Arab terms; archaeological work summarised by Avni stresses a slow, gradual transition with Christians still the large majority on the eve of the Crusades; Ellenblum links the later Muslim/Christian geography to long-term nomadisation and sedentarisation after the conquest.",
@@ -1073,7 +1145,13 @@
         }
       ],
       "notes": {
-        "en": "Benvenisti (p. 18) estimates the indigenous population of the kingdom at about half a million. The 140,000 figure is his estimate; it is not a count. Destination point is Acre, the main port and later capital. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "Benvenisti (p. 18) estimates the indigenous population of the kingdom at about half a million. The 140,000 figure is his estimate; it is not a count. Destination point is Acre, the main port and later capital. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "يقدّر بنفينستي (ص 18) السكان المحليين للمملكة بنحو نصف مليون. ورقم 140,000 تقديره هو؛ وليس تعدادًا. نقطة الوصول هي عكا، الميناء الرئيسي ثم العاصمة لاحقًا. صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "בנבנשתי (עמ' 18) מעריך את האוכלוסייה המקומית של הממלכה בכחצי מיליון. הנתון 140,000 הוא הערכתו; אין זה מניין. נקודת היעד היא עכו, הנמל הראשי ומאוחר יותר הבירה. שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Benvenisti's model (following Prawer) sees the Franks as an overwhelmingly urban minority; Ellenblum's field study of over 200 rural Frankish sites argues for substantial rural settlement in areas inhabited by eastern Christians.",
@@ -1153,7 +1231,13 @@
         }
       ],
       "notes": {
-        "en": "Benvenisti notes that Saladin lifted the ban on Jewish residence in Jerusalem but that Jewish population centres remained in the Frankish-held coastal towns (hence Acre as destination point). No numbers are given."
+        "en": "Benvenisti notes that Saladin lifted the ban on Jewish residence in Jerusalem but that Jewish population centres remained in the Frankish-held coastal towns (hence Acre as destination point). No numbers are given.",
+        "ar": "يلاحظ بنفينستي أن صلاح الدين رفع الحظر عن إقامة اليهود في القدس، لكن مراكز السكان اليهود بقيت في المدن الساحلية التي كان الفرنج يسيطرون عليها (ومن ثم عكا نقطةَ وصول). لا تُعطى أرقام.",
+        "he": "בנבנשתי מציין שצלאח א-דין ביטל את האיסור על מגורי יהודים בירושלים, אך מרכזי האוכלוסייה היהודית נותרו בערי החוף שבידי הפרנקים (ולכן עכו כנקודת יעד). לא ניתנים מספרים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1228,7 +1312,13 @@
         }
       ],
       "notes": {
-        "en": "EJ figures: 300 Jewish families in Safed and nearby villages in 1481; 300 families in 1522; Ottoman statistics of 1548 show 716 Jewish taxpaying families out of about 1,900. These are community sizes, not migrant counts, so no number is entered."
+        "en": "EJ figures: 300 Jewish families in Safed and nearby villages in 1481; 300 families in 1522; Ottoman statistics of 1548 show 716 Jewish taxpaying families out of about 1,900. These are community sizes, not migrant counts, so no number is entered.",
+        "ar": "أرقام الموسوعة اليهودية (EJ): 300 أسرة يهودية في صفد والقرى المجاورة عام 1481؛ و300 أسرة عام 1522؛ وتُظهر إحصاءات عثمانية لعام 1548 وجود 716 أسرة يهودية دافعة للضرائب من نحو 1,900. هذه أحجام جماعات لا أعداد مهاجرين، فلا يُدخل رقم.",
+        "he": "נתוני EJ: 300 משפחות יהודיות בצפת ובכפרים הסמוכים ב-1481; 300 משפחות ב-1522; הסטטיסטיקה העות'מאנית של 1548 מראה 716 משפחות יהודיות משלמות מס מתוך כ-1,900. אלה גודלי קהילות ולא מספרי מהגרים, ולכן לא הוזן מספר.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1297,7 +1387,13 @@
         }
       ],
       "notes": {
-        "en": "The \"300\" applies to the 1778 Hasidic group only. EJ adds that warfare and epidemics in 1812-14 caused an exodus of Jews from Safed, mainly to Jerusalem."
+        "en": "The \"300\" applies to the 1778 Hasidic group only. EJ adds that warfare and epidemics in 1812-14 caused an exodus of Jews from Safed, mainly to Jerusalem.",
+        "ar": "يخص الرقم \"300\" المجموعة الحسيدية لعام 1778 وحدها. ويضيف EJ أن الحروب والأوبئة في 1812–14 تسببت في نزوح اليهود من صفد، معظمهم إلى القدس.",
+        "he": "המספר \"300\" חל על הקבוצה החסידית של 1778 בלבד. EJ מוסיף שמלחמות ומגפות ב-1812–14 גרמו ליציאת יהודים מצפת, בעיקר לירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 300,
@@ -1370,7 +1466,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi stresses high re-emigration and mortality among these immigrants. Destination point Jerusalem; immigrants also settled in Safed, Tiberias and Hebron."
+        "en": "Bachi stresses high re-emigration and mortality among these immigrants. Destination point Jerusalem; immigrants also settled in Safed, Tiberias and Hebron.",
+        "ar": "يشدد باخي على ارتفاع الهجرة المعاكسة والوفيات بين هؤلاء المهاجرين. نقطة الوصول القدس؛ واستقر المهاجرون أيضًا في صفد وطبريا والخليل.",
+        "he": "בכי מדגיש שיעורי הגירה חוזרת ותמותה גבוהים בקרב מהגרים אלה. נקודת היעד ירושלים; המהגרים השתקעו גם בצפת, בטבריה ובחברון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 25000,
@@ -1451,7 +1553,13 @@
         }
       ],
       "notes": {
-        "en": "Dates reflect the main wave associated with Egyptian rule over Syria and Palestine (1831-1840); Marom and Sasson describe several independent waves over a longer period (their study covers 1831-1948). Destination point al-Majdal (Ashkelon), the focus of Marom and Sasson; Egyptian settlement is also reported around Jaffa. No reliable numbers were found in the consulted sources."
+        "en": "Dates reflect the main wave associated with Egyptian rule over Syria and Palestine (1831-1840); Marom and Sasson describe several independent waves over a longer period (their study covers 1831-1948). Destination point al-Majdal (Ashkelon), the focus of Marom and Sasson; Egyptian settlement is also reported around Jaffa. No reliable numbers were found in the consulted sources.",
+        "ar": "تعكس التواريخ الموجة الرئيسية المرتبطة بالحكم المصري لسوريا وفلسطين (1831–1840)؛ ويصف ماروم وساسون عدة موجات مستقلة على مدى أطول (تغطي دراستهما 1831–1948). نقطة الوصول المجدل (عسقلان)، محور اهتمام ماروم وساسون؛ ويُذكر أيضًا استقرار مصري حول يافا. لم تُعثر في المصادر التي رُجع إليها على أرقام موثوقة.",
+        "he": "התאריכים משקפים את הגל העיקרי הקשור לשלטון המצרי בסוריה ובפלשתינה (1831–1840); מרום וססון מתארים כמה גלים עצמאיים לאורך תקופה ארוכה יותר (מחקרם מכסה 1831–1948). נקודת היעד אל-מג'דל (אשקלון), מוקד עיסוקם של מרום וססון; מדווח גם על התיישבות מצרית סביב יפו. לא נמצאו מספרים אמינים במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "The scale is disputed: Kressel and Aharoni consider the migration 'considerable' and note the scarcity of documents; Marom and Sasson describe a protracted, multi-wave process with heterogeneous integration patterns. Population historians who reject large-scale Muslim immigration in the late Ottoman period are summarised in the record 'arab-immigration-late-ottoman-mandate'.",
@@ -1539,7 +1647,13 @@
         }
       ],
       "notes": {
-        "en": "Numbers are community sizes (about 4,000 in 1928; over 6,000 by 1947-48), not migrant counts. Schölch notes Ottoman authorities settled Algerians partly to create a Muslim counterweight to Jews under European protection; PalQuest says Abd al-Qadir arrived in Damascus in 1855 and lands in eastern Galilee were inhabited by Algerian migrants. Algerians also lived in Jerusalem's Maghrebi Quarter, Jaffa, Haifa and other towns."
+        "en": "Numbers are community sizes (about 4,000 in 1928; over 6,000 by 1947-48), not migrant counts. Schölch notes Ottoman authorities settled Algerians partly to create a Muslim counterweight to Jews under European protection; PalQuest says Abd al-Qadir arrived in Damascus in 1855 and lands in eastern Galilee were inhabited by Algerian migrants. Algerians also lived in Jerusalem's Maghrebi Quarter, Jaffa, Haifa and other towns.",
+        "ar": "الأرقام أحجام جماعات لا أعداد مهاجرين (نحو 4,000 عام 1928؛ وأكثر من 6,000 بحلول 1947–48). يلاحظ شولش أن السلطات العثمانية أسكنت الجزائريين جزئيًا لإيجاد ثقل مسلم موازٍ لليهود الذين يحظون بحماية أوروبية؛ ويقول PalQuest إن عبد القادر وصل دمشق عام 1855 وإن أراضي في الجليل الشرقي سكنها مهاجرون جزائريون. وعاش جزائريون أيضًا في حي المغاربة بالقدس ويافا وحيفا ومدن أخرى.",
+        "he": "המספרים הם גודלי קהילות ולא מספרי מהגרים (כ-4,000 ב-1928; למעלה מ-6,000 עד 1947–48). שולך מציין שהשלטונות העות'מאניים הושיבו אלג'יראים בחלקם כדי ליצור משקל נגד מוסלמי ליהודים שנהנו מהגנה אירופית; PalQuest אומר שעבד אל-קאדר הגיע לדמשק ב-1855 ושאדמות בגליל המזרחי אוכלסו על ידי מהגרים אלג'יראים. אלג'יראים חיו גם ברובע המוגרבים בירושלים, ביפו, בחיפה ובערים נוספות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 4000,
@@ -1636,7 +1750,13 @@
         }
       ],
       "notes": {
-        "en": "McCarthy's table 1.5 (Ottoman Refugee Commission, 1884-85) lists 1,025 refugees in the Acre sanjak and 308 in the Nablus sanjak (many of the latter east of the Jordan). Schölch notes Circassian settlement 'around Tiberias and Safad' and in the Golan and Transjordan (Amman), and a failed attempt around Nablus. The two Circassian villages that remain in Israel are Kfar Kama and Rehaniya (not named in the consulted sources)."
+        "en": "McCarthy's table 1.5 (Ottoman Refugee Commission, 1884-85) lists 1,025 refugees in the Acre sanjak and 308 in the Nablus sanjak (many of the latter east of the Jordan). Schölch notes Circassian settlement 'around Tiberias and Safad' and in the Golan and Transjordan (Amman), and a failed attempt around Nablus. The two Circassian villages that remain in Israel are Kfar Kama and Rehaniya (not named in the consulted sources).",
+        "ar": "يورد جدول مكارثي 1.5 (لجنة اللاجئين العثمانية، 1884–85) 1,025 لاجئًا في سنجق عكا و308 في سنجق نابلس (كثير منهم شرق نهر الأردن). ويلاحظ شولش استقرار الشركس \"around Tiberias and Safad\" [حول طبريا وصفد] وفي الجولان وشرق الأردن (عمّان)، ومحاولة فاشلة حول نابلس. والقريتان الشركسيتان اللتان بقيتا في إسرائيل هما كفر كما والريحانية (غير مذكورتين في المصادر التي رُجع إليها).",
+        "he": "לוח 1.5 של מקארתי (ועדת הפליטים העות'מאנית, 1884–85) מונה 1,025 פליטים בסנג'ק עכו ו-308 בסנג'ק שכם (רבים מהאחרונים ממזרח לירדן). שולך מציין התיישבות צ'רקסית \"around Tiberias and Safad\" [סביב טבריה וצפת] ובגולן ובעבר הירדן (עמאן), וניסיון כושל סביב שכם. שני הכפרים הצ'רקסיים שנותרו בישראל הם כפר כמא ורחניה (לא נזכרים במקורות שנבדקו).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -1711,7 +1831,13 @@
         }
       ],
       "notes": {
-        "en": "PalQuest places this within Muslim emigration from Bosnia-Herzegovina after the 1878 Austro-Hungarian takeover (first wave 1881-82); the families first went to Syria, then were resettled by the Ottoman authorities. About 50 families went to Qisarya; a few Circassian, Turkish and Bulgarian Muslim families were later settled there. The families gradually assimilated into the Palestinian Arab population and were displaced in 1948."
+        "en": "PalQuest places this within Muslim emigration from Bosnia-Herzegovina after the 1878 Austro-Hungarian takeover (first wave 1881-82); the families first went to Syria, then were resettled by the Ottoman authorities. About 50 families went to Qisarya; a few Circassian, Turkish and Bulgarian Muslim families were later settled there. The families gradually assimilated into the Palestinian Arab population and were displaced in 1948.",
+        "ar": "يضع PalQuest هذا ضمن الهجرة الإسلامية من البوسنة والهرسك بعد استيلاء النمسا–المجر عام 1878 (الموجة الأولى 1881–82)؛ إذ ذهبت الأسر أولًا إلى سوريا ثم أعادت السلطات العثمانية توطينها. ذهب نحو 50 أسرة إلى قيسارية؛ وأُسكنت فيها لاحقًا بضع أسر مسلمة شركسية وتركية وبلغارية. وانصهرت الأسر تدريجيًا في السكان العرب الفلسطينيين وهُجّرت عام 1948.",
+        "he": "PalQuest ממקם זאת בתוך ההגירה המוסלמית מבוסניה והרצגובינה לאחר השתלטות אוסטריה-הונגריה ב-1878 (גל ראשון 1881–82); המשפחות הגיעו תחילה לסוריה ואז יושבו מחדש בידי השלטונות העות'מאניים. כ-50 משפחות הגיעו לקיסריה; מאוחר יותר יושבו שם כמה משפחות מוסלמיות צ'רקסיות, טורקיות ובולגריות. המשפחות התבוללו בהדרגה באוכלוסייה הערבית הפלסטינית ונעקרו ב-1948.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1785,7 +1911,13 @@
         }
       ],
       "notes": {
-        "en": "The 2,200 figure is the maximum Templer population, not the number of arrivals. The end date marks the last new settlements (1902-1907); for the wartime internment and deportation see \"templer-deportation-1941\". The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "The 2,200 figure is the maximum Templer population, not the number of arrivals. The end date marks the last new settlements (1902-1907); for the wartime internment and deportation see \"templer-deportation-1941\". The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "رقم 2,200 هو أقصى عدد لسكان التمبلر، لا عدد الوافدين. يشير تاريخ النهاية إلى آخر المستوطنات الجديدة (1902–1907)؛ وللاطلاع على الاعتقال والترحيل في زمن الحرب انظر \"templer-deportation-1941\". صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "המספר 2,200 הוא אוכלוסיית הטמפלרים המרבית, ולא מספר המגיעים. תאריך הסיום מציין את ההתיישבויות החדשות האחרונות (1902–1907); על המעצר וההגליה בזמן המלחמה ראו \"templer-deportation-1941\". שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -1852,7 +1984,13 @@
         }
       ],
       "notes": {
-        "en": "Based on a single biographical source; the obituary says the settlements were enclosed when the Second World War broke out in 1939. Exact numbers and the later departure of the remaining Templers (around 1948) were not documented in the consulted sources."
+        "en": "Based on a single biographical source; the obituary says the settlements were enclosed when the Second World War broke out in 1939. Exact numbers and the later departure of the remaining Templers (around 1948) were not documented in the consulted sources.",
+        "ar": "يستند إلى مصدر سيري واحد؛ ويقول النعي إن المستوطنات حُصرت عند اندلاع الحرب العالمية الثانية عام 1939. ولم تُوثَّق في المصادر التي رُجع إليها الأعداد الدقيقة ولا مغادرة من بقي من التمبلر لاحقًا (نحو 1948).",
+        "he": "מבוסס על מקור ביוגרפי יחיד; ההספד קובע שהיישובים הוקפו כשפרצה מלחמת העולם השנייה ב-1939. המספרים המדויקים ועזיבתם המאוחרת של הטמפלרים שנותרו (בסביבות 1948) לא תועדו במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -1918,7 +2056,13 @@
         }
       ],
       "notes": {
-        "en": "Both sources describe the figure as a rough estimate; Bachi notes substantial re-emigration in this period. The origin attributions (Russian Empire, Romania, Yemen) are general knowledge not stated in the consulted tables; CBS gives no continental breakdown before 1919."
+        "en": "Both sources describe the figure as a rough estimate; Bachi notes substantial re-emigration in this period. The origin attributions (Russian Empire, Romania, Yemen) are general knowledge not stated in the consulted tables; CBS gives no continental breakdown before 1919.",
+        "ar": "يصف المصدران الرقم بأنه تقدير تقريبي؛ ويلاحظ باخي هجرة معاكسة كبيرة في هذه الفترة. نسب الأصول (الإمبراطورية الروسية ورومانيا واليمن) معرفة عامة غير مذكورة في الجداول التي رُجع إليها؛ ولا يعطي CBS توزيعًا قاريًا قبل 1919.",
+        "he": "שני המקורות מתארים את המספר כהערכה גסה; בכי מציין הגירה חוזרת ניכרת בתקופה זו. ייחוסי המוצא (האימפריה הרוסית, רומניה, תימן) הם ידע כללי שאינו מצוין בלוחות שנבדקו; CBS אינו נותן פילוח לפי יבשות לפני 1919.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 20000,
@@ -1993,7 +2137,13 @@
         }
       ],
       "notes": {
-        "en": "The 'best' value (34,300) is the sum of Bachi's two sub-periods; CBS gives 35,000-40,000. The range runs from Bachi's total (34,300) to the top of the CBS range (40,000)."
+        "en": "The 'best' value (34,300) is the sum of Bachi's two sub-periods; CBS gives 35,000-40,000. The range runs from Bachi's total (34,300) to the top of the CBS range (40,000).",
+        "ar": "القيمة \"best\" (34,300) هي مجموع فترتي باخي الفرعيتين؛ ويعطي CBS 35,000–40,000. ويمتد المدى من إجمالي باخي (34,300) إلى أعلى مدى CBS (40,000).",
+        "he": "הערך \"best\" (34,300) הוא סכום שתי תקופות המשנה של בכי; CBS נותן 35,000–40,000. הטווח נע מסך בכי (34,300) עד קצה הטווח העליון של CBS (40,000).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 34300,
@@ -2063,7 +2213,13 @@
         }
       ],
       "notes": {
-        "en": "Mandate-period figures (Bachi, following Sicron) combine government and Jewish Agency records, including some unauthorised immigrants."
+        "en": "Mandate-period figures (Bachi, following Sicron) combine government and Jewish Agency records, including some unauthorised immigrants.",
+        "ar": "أرقام فترة الانتداب (باخي، تبعًا لسيكرون) تجمع سجلات الحكومة والوكالة اليهودية، وتشمل بعض المهاجرين غير المرخَّصين.",
+        "he": "נתוני תקופת המנדט (בכי, בעקבות סיקרון) משלבים רישומי ממשלה והסוכנות היהודית, כולל כמה מהגרים לא מורשים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 35183,
@@ -2134,7 +2290,13 @@
         }
       ],
       "notes": {
-        "en": "The Fourth Aliyah is often dated 1924-1928/29; the CBS period 1924-1931 is used here because it is the published unit. The note about Poland reflects common usage and is not stated in the consulted tables."
+        "en": "The Fourth Aliyah is often dated 1924-1928/29; the CBS period 1924-1931 is used here because it is the published unit. The note about Poland reflects common usage and is not stated in the consulted tables.",
+        "ar": "كثيرًا ما تُؤرَّخ العالياه الرابعة بـ1924–1928/29؛ وتُستخدم هنا فترة CBS 1924–1931 لأنها الوحدة المنشورة. الملاحظة عن بولندا تعكس الاستخدام الشائع وليست مذكورة في الجداول التي رُجع إليها.",
+        "he": "העלייה הרביעית מתוארכת לעיתים קרובות ל-1924–1928/29; תקופת CBS 1924–1931 משמשת כאן משום שהיא היחידה שפורסמה. ההערה על פולין משקפת שימוש מקובל ואינה מצוינת בלוחות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 81613,
@@ -2207,7 +2369,13 @@
         }
       ],
       "notes": {
-        "en": "Low = CBS 1932-1938; high = sum of Bachi 1932-36 and 1937-39 (i.e. 1932-1939)."
+        "en": "Low = CBS 1932-1938; high = sum of Bachi 1932-36 and 1937-39 (i.e. 1932-1939).",
+        "ar": "الحد الأدنى = CBS 1932–1938؛ الحد الأعلى = مجموع باخي 1932–36 و1937–39 (أي 1932–1939).",
+        "he": "נמוך = CBS 1932–1938; גבוה = סכום בכי 1932–36 ו-1937–39 (כלומר 1932–1939).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 197235,
@@ -2286,7 +2454,13 @@
         }
       ],
       "notes": {
-        "en": "'best' = 81,808 + 56,467 (sum of the two CBS periods, all types of immigration). The size of clandestine immigration (Aliyah Bet) as a whole, including the 1934-1938 phase, was not found in the consulted sources; the Mandate government's own count of illegal Jewish immigrants for 1939-46 was 29,026. Destination point Haifa (main port)."
+        "en": "'best' = 81,808 + 56,467 (sum of the two CBS periods, all types of immigration). The size of clandestine immigration (Aliyah Bet) as a whole, including the 1934-1938 phase, was not found in the consulted sources; the Mandate government's own count of illegal Jewish immigrants for 1939-46 was 29,026. Destination point Haifa (main port).",
+        "ar": "القيمة \"best\" = 81,808 + 56,467 (مجموع فترتي CBS، بجميع أنواع الهجرة). لم يُعثر في المصادر التي رُجع إليها على حجم الهجرة السرية (العالياه بيت) كلها، بما فيها مرحلة 1934–1938؛ وكان إحصاء حكومة الانتداب نفسها للمهاجرين اليهود غير الشرعيين للفترة 1939–46 هو 29,026. نقطة الوصول حيفا (الميناء الرئيسي).",
+        "he": "\"best\" = 81,808 + 56,467 (סכום שתי תקופות CBS, כל סוגי ההגירה). היקף ההגירה החשאית (עלייה ב') בכללותה, כולל השלב של 1934–1938, לא נמצא במקורות שנבדקו; ספירתה של ממשלת המנדט עצמה של מהגרים יהודים בלתי חוקיים ל-1939–46 הייתה 29,026. נקודת היעד חיפה (הנמל הראשי).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 138275,
@@ -2359,7 +2533,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi's 'over 50,000' covers internment in Cyprus, Mauritius and other places; the Mauritius internment (1940-45) predates 1946, so the dates are approximate. Detainees were admitted to Israel after May 1948."
+        "en": "Bachi's 'over 50,000' covers internment in Cyprus, Mauritius and other places; the Mauritius internment (1940-45) predates 1946, so the dates are approximate. Detainees were admitted to Israel after May 1948.",
+        "ar": "يشمل رقم باخي \"over 50,000\" الاعتقال في قبرص وموريشيوس وأماكن أخرى؛ واعتقال موريشيوس (1940–45) سابق لعام 1946، ولذلك فالتواريخ تقريبية. وسُمح بدخول المحتجزين إلى إسرائيل بعد أيار/مايو 1948.",
+        "he": "הנתון \"over 50,000\" של בכי כולל כליאה בקפריסין, במאוריציוס ובמקומות אחרים; הכליאה במאוריציוס (1940–45) קדמה ל-1946, ולכן התאריכים משוערים. העצורים התקבלו לישראל לאחר מאי 1948.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 50000,
@@ -2467,7 +2647,13 @@
         }
       ],
       "notes": {
-        "en": "Numbers in the literature: Bachi's working hypotheses add about +5,000 net Muslim migrants for 1922-31 and at least 13,500 unrecorded Muslim immigrants who remained in 1932-45 (about 900 per year convicted of illegal entry and not deported), plus some 14,000 illegal entrants among wartime workers in 1944-45 (some later repatriated). McCarthy applies Bachi's 900 per year. Gottheil imputes 64,790 Arab residents in 1931 above the natural-increase expectation in the sub-districts that became Israel, which he attributes to internal migration and/or illegal immigration. Destination point Haifa is illustrative (coastal growth areas)."
+        "en": "Numbers in the literature: Bachi's working hypotheses add about +5,000 net Muslim migrants for 1922-31 and at least 13,500 unrecorded Muslim immigrants who remained in 1932-45 (about 900 per year convicted of illegal entry and not deported), plus some 14,000 illegal entrants among wartime workers in 1944-45 (some later repatriated). McCarthy applies Bachi's 900 per year. Gottheil imputes 64,790 Arab residents in 1931 above the natural-increase expectation in the sub-districts that became Israel, which he attributes to internal migration and/or illegal immigration. Destination point Haifa is illustrative (coastal growth areas).",
+        "ar": "الأرقام في الأدبيات: فرضيات باخي العملية تضيف نحو +5,000 مهاجر مسلم صافٍ في 1922–31 و13,500 مهاجر مسلم غير مسجَّل على الأقل بقوا في 1932–45 (نحو 900 سنويًا أُدينوا بالدخول غير الشرعي ولم يُرحَّلوا)، إضافة إلى نحو 14,000 داخل بصورة غير شرعية بين عمال الحرب في 1944–45 (أُعيد بعضهم لاحقًا إلى بلدانهم). ويطبق مكارثي رقم باخي 900 سنويًا. ويفترض غوتهيل وجود 64,790 مقيمًا عربيًا عام 1931 فوق ما تتوقعه الزيادة الطبيعية في النواحي التي صارت إسرائيل، ويعزوهم إلى الهجرة الداخلية و/أو الهجرة غير الشرعية. نقطة الوصول حيفا توضيحية (مناطق النمو الساحلية).",
+        "he": "המספרים בספרות: ההשערות העבודה של בכי מוסיפות כ-5,000 מהגרים מוסלמים נטו ב-1922–31 ולפחות 13,500 מהגרים מוסלמים לא רשומים שנשארו ב-1932–45 (כ-900 בשנה שהורשעו בכניסה בלתי חוקית ולא גורשו), וכן כ-14,000 נכנסים בלתי חוקיים בקרב עובדי המלחמה ב-1944–45 (חלקם הוחזרו מאוחר יותר). מקארתי מיישם את 900 בשנה של בכי. גוטהייל מייחס 64,790 תושבים ערבים ב-1931 מעבר לצפוי מהגידול הטבעי בנפות המשנה שהפכו לישראל, ומייחס זאת להגירה פנימית ו/או הגירה בלתי חוקית. נקודת היעד חיפה היא להמחשה (אזורי צמיחה בחוף).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Bachi (demographer) and McCarthy (Ottoman population historian) conclude that registered Muslim immigration was small and, while unrecorded immigration existed, it was limited relative to natural increase; Porath (historian) holds that most Arab population growth came from natural increase. Gottheil (economist) argues that economic disparities drew substantial unrecorded immigration and internal migration toward Jewish-developed areas, and criticises McCarthy's use of Bachi; Peters (journalist, 1984) argued for large-scale in-migration, a thesis McCarthy and Porath reject.",
@@ -2546,7 +2732,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi describes the estimate as 'vague'. Destination point is illustrative; locations of camps are not given in the source. Dates approximate (the war years)."
+        "en": "Bachi describes the estimate as 'vague'. Destination point is illustrative; locations of camps are not given in the source. Dates approximate (the war years).",
+        "ar": "يصف باخي التقدير بأنه \"vague\" [غامض]. نقطة الوصول توضيحية؛ ولا يذكر المصدر مواقع المعسكرات. التواريخ تقريبية (سنوات الحرب).",
+        "he": "בכי מתאר את ההערכה כ\"vague\" [מעורפלת]. נקודת היעד להמחשה; המקור אינו מציין מיקומי מחנות. התאריכים משוערים (שנות המלחמה).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 30730,
@@ -2628,7 +2820,13 @@
         }
       ],
       "notes": {
-        "en": "Casualty figures are deliberately not recorded. EJ adds that only one Jewish inhabitant remained in Hebron until 1947. 35 families returned in 1931 before the 1936 evacuation."
+        "en": "Casualty figures are deliberately not recorded. EJ adds that only one Jewish inhabitant remained in Hebron until 1947. 35 families returned in 1931 before the 1936 evacuation.",
+        "ar": "لا تُسجَّل أرقام الضحايا عمدًا. ويضيف EJ أنه لم يبقَ سوى يهودي واحد في الخليل حتى 1947. وعادت 35 أسرة عام 1931 قبل إخلاء 1936.",
+        "he": "נתוני נפגעים אינם מתועדים במכוון. EJ מוסיף שרק תושב יהודי אחד נשאר בחברון עד 1947. 35 משפחות חזרו ב-1931 לפני פינוי 1936.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2712,7 +2910,13 @@
         }
       ],
       "notes": {
-        "en": "Start and end dates are approximate (Bachi gives only \"last phases of the Ottoman rule\" and \"first part of the Mandatory period\"). No numbers found in the consulted sources; this movement is at the origin of the large Palestinian communities in Chile and elsewhere in Latin America, for which no sourced figure was found."
+        "en": "Start and end dates are approximate (Bachi gives only \"last phases of the Ottoman rule\" and \"first part of the Mandatory period\"). No numbers found in the consulted sources; this movement is at the origin of the large Palestinian communities in Chile and elsewhere in Latin America, for which no sourced figure was found.",
+        "ar": "تاريخا البداية والنهاية تقريبيان (يذكر باخي فقط \"last phases of the Ottoman rule\" و\"first part of the Mandatory period\"). لم تُعثر على أرقام في المصادر التي رُجع إليها؛ وهذه الحركة هي أصل الجاليات الفلسطينية الكبيرة في تشيلي وغيرها من أمريكا اللاتينية، ولم يُعثر على رقم موثق لها.",
+        "he": "תאריכי ההתחלה והסיום משוערים (בכי נותן רק \"last phases of the Ottoman rule\" ו-\"first part of the Mandatory period\"). לא נמצאו מספרים במקורות שנבדקו; תנועה זו היא מקור הקהילות הפלסטיניות הגדולות בצ'ילה ובמקומות אחרים באמריקה הלטינית, שלגביהן לא נמצא נתון מבוסס מקור.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2938,7 +3142,13 @@
         }
       ],
       "notes": {
-        "en": "Estimates: UN Conciliation Commission (1950) about 711,000; UN Economic Survey Mission and UNRWA 726,000; British estimate (Feb 1949) 810,000; Israeli official figure 520,000-530,000; Arab officials 900,000-1,000,000 (all as reported by Morris, Appendix I, except the UNCCP figure). Morris writes of 'some 700,000' displaced; PalQuest of three-quarters of a million. The UN Mediator counted 360,000 Arab refugees as of 10 September 1948, before the autumn 1948 offensives. Porath (1986) notes some 20,000 refugees later returned to Israel under a family-reunion scheme. Multiple destinations are listed in 'destinations'; see the diaspora snapshots for the UNRWA distribution of June 1951. Casualty figures are deliberately not recorded."
+        "en": "Estimates: UN Conciliation Commission (1950) about 711,000; UN Economic Survey Mission and UNRWA 726,000; British estimate (Feb 1949) 810,000; Israeli official figure 520,000-530,000; Arab officials 900,000-1,000,000 (all as reported by Morris, Appendix I, except the UNCCP figure). Morris writes of 'some 700,000' displaced; PalQuest of three-quarters of a million. The UN Mediator counted 360,000 Arab refugees as of 10 September 1948, before the autumn 1948 offensives. Porath (1986) notes some 20,000 refugees later returned to Israel under a family-reunion scheme. Multiple destinations are listed in 'destinations'; see the diaspora snapshots for the UNRWA distribution of June 1951. Casualty figures are deliberately not recorded.",
+        "ar": "التقديرات: لجنة التوفيق التابعة للأمم المتحدة (1950) نحو 711,000؛ وبعثة المسح الاقتصادي للأمم المتحدة والأونروا 726,000؛ وتقدير بريطاني (شباط/فبراير 1949) 810,000؛ والرقم الرسمي الإسرائيلي 520,000–530,000؛ ومسؤولون عرب 900,000–1,000,000 (كلها كما أوردها موريس، الملحق I، باستثناء رقم لجنة التوفيق). يكتب موريس عن \"some 700,000\" مهجَّرين؛ ويكتب PalQuest عن ثلاثة أرباع المليون. وأحصى وسيط الأمم المتحدة 360,000 لاجئ عربي حتى 10 أيلول/سبتمبر 1948، قبل هجمات خريف 1948. ويلاحظ بوراث (1986) أن نحو 20,000 لاجئ عادوا لاحقًا إلى إسرائيل بموجب برنامج لمّ الشمل. وترد وجهات متعددة في \"destinations\"؛ انظر لقطات الشتات لتوزيع الأونروا في حزيران/يونيو 1951. لا تُسجَّل أرقام الضحايا عمدًا.",
+        "he": "הערכות: ועדת הפיוס של האו״ם (1950) כ-711,000; משלחת הסקר הכלכלי של האו״ם ואונר״א 726,000; הערכה בריטית (פברואר 1949) 810,000; הנתון הרשמי הישראלי 520,000–530,000; גורמים ערביים רשמיים 900,000–1,000,000 (הכול כפי שמדווח אצל מוריס, נספח I, פרט לנתון ועדת הפיוס). מוריס כותב על \"some 700,000\" עקורים; PalQuest על שלושה רבעי מיליון. מתווך האו״ם ספר 360,000 פליטים ערבים נכון ל-10 בספטמבר 1948, לפני המתקפות של סתיו 1948. פורת (1986) מציין שכ-20,000 פליטים חזרו מאוחר יותר לישראל במסגרת תוכנית לאיחוד משפחות. יעדים מרובים רשומים ב-\"destinations\"; ראו את תמונות המצב של התפוצה לחלוקת אונר״א מיוני 1951. נתוני נפגעים אינם מתועדים במכוון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Both the number and the causes are disputed. Palestinian historiography (e.g. PalQuest, drawing on W. Khalidi and N. Masalha) describes a planned expulsion and ethnic cleansing, with Plan Dalet as its blueprint. Morris, working from Israeli archives, describes a mix of flight and expulsion born of war 'and not design', with no pre-war plan or agreed expulsion policy but with transfer thinking and many expulsions. Karsh (and Gelber, not consulted here) argue that much of the exodus resulted from flight, Arab leadership instructions and the collapse of Palestinian society, and that there was no Jewish grand design. The UN Mediator in 1948 recorded that the Arab population 'fled or was expelled'.",
@@ -3032,7 +3242,13 @@
         }
       ],
       "notes": {
-        "en": "The 7,000 figure is the UN Mediator's count of Jewish refugees requiring aid as of September 1948, not a total of all displaced Jews; the source does not list their places of origin. Displacement from the Jewish Quarter of Jerusalem's Old City and from settlements captured by Arab forces is widely described but was not documented with figures in the consulted sources."
+        "en": "The 7,000 figure is the UN Mediator's count of Jewish refugees requiring aid as of September 1948, not a total of all displaced Jews; the source does not list their places of origin. Displacement from the Jewish Quarter of Jerusalem's Old City and from settlements captured by Arab forces is widely described but was not documented with figures in the consulted sources.",
+        "ar": "رقم 7,000 هو عدد وسيط الأمم المتحدة للاجئين اليهود المحتاجين إلى مساعدة حتى أيلول/سبتمبر 1948، لا مجموع كل اليهود المهجَّرين؛ ولا يذكر المصدر أماكن أصلهم. ويُوصف على نطاق واسع التهجير من الحي اليهودي في البلدة القديمة بالقدس ومن مستوطنات استولت عليها القوات العربية، لكنه لم يُوثَّق بأرقام في المصادر التي رُجع إليها.",
+        "he": "הנתון 7,000 הוא ספירת מתווך האו״ם של פליטים יהודים הזקוקים לסיוע נכון לספטמבר 1948, ולא סך כל היהודים שנעקרו; המקור אינו מונה את מקומות מוצאם. עקירה מהרובע היהודי בעיר העתיקה של ירושלים ומיישובים שנכבשו בידי כוחות ערביים מתוארת בהרחבה אך לא תועדה במספרים במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 7000,
@@ -3111,7 +3327,13 @@
         }
       ],
       "notes": {
-        "en": "UNRWA's June 1951 table lists 23,507 persons on its relief rolls inside Israel; this counts relief recipients, not all internally displaced persons, so it is entered as a low value only. Under the 1950 Absentees' Property Law, a person who moved during the war to a place in Palestine held by forces fighting Israel was an 'absentee' even if later present in Israel, hence the term 'present absentees'. Destination point Nazareth is illustrative (a town that received displaced villagers); no total figure for internally displaced persons was found in the consulted sources."
+        "en": "UNRWA's June 1951 table lists 23,507 persons on its relief rolls inside Israel; this counts relief recipients, not all internally displaced persons, so it is entered as a low value only. Under the 1950 Absentees' Property Law, a person who moved during the war to a place in Palestine held by forces fighting Israel was an 'absentee' even if later present in Israel, hence the term 'present absentees'. Destination point Nazareth is illustrative (a town that received displaced villagers); no total figure for internally displaced persons was found in the consulted sources.",
+        "ar": "يورد جدول الأونروا لحزيران/يونيو 1951 23,507 أشخاص على قوائم الإغاثة داخل إسرائيل؛ وهذا يحصي متلقي الإغاثة لا جميع المهجَّرين داخليًا، فيُدخل قيمةً دنيا فقط. بموجب قانون أملاك الغائبين لعام 1950، كان من انتقل خلال الحرب إلى مكان في فلسطين تسيطر عليه قوات تحارب إسرائيل \"غائبًا\" حتى لو وُجد لاحقًا في إسرائيل، ومن هنا مصطلح \"الحاضرون الغائبون\". نقطة الوصول الناصرة توضيحية (بلدة استقبلت قرويين مهجَّرين)؛ ولم يُعثر في المصادر التي رُجع إليها على مجموع للمهجَّرين داخليًا.",
+        "he": "לוח אונר״א מיוני 1951 מונה 23,507 אנשים ברשימות הסיוע בתוך ישראל; זה סופר מקבלי סיוע, לא את כל העקורים הפנימיים, ולכן הוא מוזן כערך נמוך בלבד. לפי חוק נכסי נפקדים של 1950, מי שעבר במהלך המלחמה למקום בפלשתינה שהוחזק בידי כוחות הלוחמים בישראל היה \"נפקד\" גם אם נמצא לאחר מכן בישראל, ומכאן המונח \"נפקדים נוכחים\". נקודת היעד נצרת היא להמחשה (עיר שקלטה כפריים עקורים); לא נמצא במקורות שנבדקו נתון כולל על עקורים פנימיים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 23507,
@@ -3208,7 +3430,13 @@
         }
       ],
       "notes": {
-        "en": "UNRWA para. 19 refers to Negev Bedouin who fled in October 1948 (about 93,000 Negev Bedouin in 1947 estimates); para. 20 refers to claims of expulsion during 1950-51 that UNRWA could not verify. No total figure for the post-war expulsions was found."
+        "en": "UNRWA para. 19 refers to Negev Bedouin who fled in October 1948 (about 93,000 Negev Bedouin in 1947 estimates); para. 20 refers to claims of expulsion during 1950-51 that UNRWA could not verify. No total figure for the post-war expulsions was found.",
+        "ar": "تشير الفقرة 19 من الأونروا إلى بدو النقب الذين فرّوا في تشرين الأول/أكتوبر 1948 (نحو 93,000 من بدو النقب في تقديرات 1947)؛ وتشير الفقرة 20 إلى ادعاءات بالطرد خلال 1950–51 لم تتمكن الأونروا من التحقق منها. ولم يُعثر على رقم إجمالي لعمليات الطرد بعد الحرب.",
+        "he": "פסקה 19 של אונר״א מתייחסת לבדואי הנגב שנמלטו באוקטובר 1948 (כ-93,000 בדואי נגב בהערכות 1947); פסקה 20 מתייחסת לטענות לגירוש במהלך 1950–51 שאונר״א לא יכלה לאמת. לא נמצא נתון כולל לגירושים שלאחר המלחמה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -3295,7 +3523,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi's text gives 689,739 while his Table 8.1 gives 686,739 for 1948-51; CBS today gives 687,624. Bachi notes the Jewish population was about 649,600 on 15 May 1948."
+        "en": "Bachi's text gives 689,739 while his Table 8.1 gives 686,739 for 1948-51; CBS today gives 687,624. Bachi notes the Jewish population was about 649,600 on 15 May 1948.",
+        "ar": "يعطي نص باخي 689,739 بينما يعطي جدوله 8.1 رقم 686,739 للفترة 1948–51؛ ويعطي CBS اليوم 687,624. ويلاحظ باخي أن عدد السكان اليهود كان نحو 649,600 في 15 أيار/مايو 1948.",
+        "he": "נוסח בכי נותן 689,739 ואילו לוח 8.1 שלו נותן 686,739 ל-1948–51; CBS נותן כיום 687,624. בכי מציין שהאוכלוסייה היהודית הייתה כ-649,600 ב-15 במאי 1948.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 686739,
@@ -3373,7 +3607,13 @@
         }
       ],
       "notes": {
-        "en": "CBS records 48,451 immigrants whose last continent of residence was Europe in 1946-May 1948 and 326,786 in May 1948-1951; not all were Holocaust survivors, so these are given here rather than as a survivor count. No direct count of survivor immigrants was found in the consulted sources."
+        "en": "CBS records 48,451 immigrants whose last continent of residence was Europe in 1946-May 1948 and 326,786 in May 1948-1951; not all were Holocaust survivors, so these are given here rather than as a survivor count. No direct count of survivor immigrants was found in the consulted sources.",
+        "ar": "يسجل CBS 48,451 مهاجرًا كانت قارة إقامتهم الأخيرة أوروبا في 1946–أيار/مايو 1948 و326,786 في أيار/مايو 1948–1951؛ وليس جميعهم من الناجين من الهولوكوست، ولذلك تُعطى هذه الأرقام بدلًا من عدد الناجين. لم يُعثر في المصادر التي رُجع إليها على إحصاء مباشر للمهاجرين الناجين.",
+        "he": "CBS מתעד 48,451 מהגרים שיבשת מגוריהם האחרונה הייתה אירופה בשנים 1946–מאי 1948 ו-326,786 במאי 1948–1951; לא כולם היו ניצולי שואה, ולכן ניתנים כאן מספרים אלה ולא מניין ניצולים. לא נמצא במקורות שנבדקו מניין ישיר של מהגרים ניצולים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -3483,7 +3723,13 @@
         }
       ],
       "notes": {
-        "en": "Per-country records with CBS numbers follow. Bachi notes that some communities (Iraq, Yemen, Libya) were transplanted almost in their entirety and that part of North African emigration went to France and other countries."
+        "en": "Per-country records with CBS numbers follow. Bachi notes that some communities (Iraq, Yemen, Libya) were transplanted almost in their entirety and that part of North African emigration went to France and other countries.",
+        "ar": "تلي ذلك سجلات لكل بلد مع أرقام CBS. يلاحظ باخي أن بعض الجماعات (العراق واليمن وليبيا) نُقلت بأكملها تقريبًا وأن جزءًا من هجرة شمال أفريقيا ذهب إلى فرنسا وبلدان أخرى.",
+        "he": "להלן רשומות לפי מדינה עם מספרי CBS. בכי מציין שחלק מהקהילות (עיראק, תימן, לוב) הועתקו כמעט במלואן ושחלק מההגירה מצפון אפריקה הלך לצרפת ולמדינות אחרות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Scholars and advocates weigh 'push' and 'pull' differently. Bachi lists both: Zionist and religious motivation and Israel's open-door policy (pull) and riots, insecurity and anti-Jewish legislation (push). Advocates of a 'Jewish refugees' framing (e.g. Ya'akov Meron, as described by Shenhav) see an Arab policy of expulsion; classic Zionist accounts (described by Porath and Shenhav) stress the 'ingathering of the exiles' and Zionist organising; Arab accounts (as described by Porath) attribute the departures to Israeli action in collusion with Arab rulers. The balance differed from country to country.",
@@ -3580,7 +3826,13 @@
         }
       ],
       "notes": {
-        "en": "best = 1948-1951; high = sum 1948-1971 (128,489). The airlift of 1950-51 is known as Operation Ezra and Nehemiah. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = 1948-1951; high = sum 1948-1971 (128,489). The airlift of 1950-51 is known as Operation Ezra and Nehemiah. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = 1948–1951؛ \"high\" = مجموع 1948–1971 (128,489). يُعرف الجسر الجوي في 1950–51 بعملية عزرا ونحميا. يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = 1948–1951; \"high\" = סכום 1948–1971 (128,489). הגשר האווירי של 1950–51 ידוע כמבצע עזרא ונחמיה. CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -3668,7 +3920,13 @@
         }
       ],
       "notes": {
-        "en": "best = 1948-1951; high = sum 1948-1971. The 1949-50 airlift is known as Operation Magic Carpet (also 'On Wings of Eagles'). Bachi notes earlier Yemenite immigration during the Mandate. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = 1948-1951; high = sum 1948-1971. The 1949-50 airlift is known as Operation Magic Carpet (also 'On Wings of Eagles'). Bachi notes earlier Yemenite immigration during the Mandate. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = 1948–1951؛ \"high\" = مجموع 1948–1971. يُعرف الجسر الجوي في 1949–50 بعملية بساط الريح (و\"On Wings of Eagles\" أيضًا). يلاحظ باخي هجرة يمنية أسبق خلال الانتداب. يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = 1948–1951; \"high\" = סכום 1948–1971. הגשר האווירי של 1949–50 ידוע כמבצע מרבד הקסמים (וגם \"On Wings of Eagles\"). בכי מציין הגירה תימנית מוקדמת יותר בתקופת המנדט. CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -3751,7 +4009,13 @@
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1971 (computed from the three CBS periods). Part of Moroccan Jewish emigration went to France and other countries (Bachi). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = sum 1948-1971 (computed from the three CBS periods). Part of Moroccan Jewish emigration went to France and other countries (Bachi). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = مجموع 1948–1971 (محسوب من فترات CBS الثلاث). ذهب جزء من هجرة يهود المغرب إلى فرنسا وبلدان أخرى (باخي). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = סכום 1948–1971 (מחושב משלוש תקופות CBS). חלק מההגירה של יהודי מרוקו הלך לצרפת ולמדינות אחרות (בכי). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 254715,
@@ -3834,7 +4098,13 @@
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1971 (computed). CBS combines Egypt and Sudan. Many Egyptian Jews emigrated to Europe and the Americas rather than Israel (not quantified in the consulted sources). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = sum 1948-1971 (computed). CBS combines Egypt and Sudan. Many Egyptian Jews emigrated to Europe and the Americas rather than Israel (not quantified in the consulted sources). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = مجموع 1948–1971 (محسوب). يجمع CBS مصر والسودان. هاجر كثير من يهود مصر إلى أوروبا والأمريكتين بدل إسرائيل (غير مقدَّر بالأرقام في المصادر التي رُجع إليها). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = סכום 1948–1971 (מחושב). CBS מאחד את מצרים וסודאן. יהודים מצרים רבים היגרו לאירופה ולאמריקות במקום לישראל (לא מכומת במקורות שנבדקו). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 36508,
@@ -3904,7 +4174,13 @@
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1999 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = sum 1948-1999 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = مجموع 1948–1999 (محسوب). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = סכום 1948–1999 (מחושב). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 10169,
@@ -3987,7 +4263,13 @@
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1999 (computed). Bachi notes that immigration from Iran included only a limited proportion of the community before the 1970s. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = sum 1948-1999 (computed). Bachi notes that immigration from Iran included only a limited proportion of the community before the 1970s. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = مجموع 1948–1999 (محسوب). يلاحظ باخي أن الهجرة من إيران لم تشمل قبل السبعينيات إلا نسبة محدودة من الجماعة. يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = סכום 1948–1999 (מחושב). בכי מציין שההגירה מאיראן כללה לפני שנות ה-70 רק חלק מוגבל מהקהילה. CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 78775,
@@ -4075,7 +4357,13 @@
         }
       ],
       "notes": {
-        "en": "best = 1948-1951; high = sum 1948-1971 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = 1948-1951; high = sum 1948-1971 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = 1948–1951؛ \"high\" = مجموع 1948–1971 (محسوب). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = 1948–1951; \"high\" = סכום 1948–1971 (מחושב). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -4158,7 +4446,13 @@
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1971 (computed). Part of Tunisian Jewish emigration went to France (Bachi, for French North Africa generally). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'."
+        "en": "best = sum 1948-1971 (computed). Part of Tunisian Jewish emigration went to France (Bachi, for French North Africa generally). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "\"best\" = مجموع 1948–1971 (محسوب). ذهب جزء من هجرة يهود تونس إلى فرنسا (باخي، بالنسبة لشمال أفريقيا الفرنسية عمومًا). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
+        "he": "\"best\" = סכום 1948–1971 (מחושב). חלק מההגירה של יהודי תוניסיה הלך לצרפת (בכי, לגבי צפון אפריקה הצרפתית בכלל). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 48428,
@@ -4265,7 +4559,13 @@
         }
       ],
       "notes": {
-        "en": "UN estimate about 200,000 (para. 40 and 159). Jordan's registration of 177,165 was said to cover about 70 per cent, which implies roughly 250,000 (a derived figure, used as 'high'). The report also records Jordanian complaints that villages in the Latrun area and at Beit Awa and Beit Mersim were levelled and that Qalqiliya was heavily damaged. Casualty figures are deliberately not recorded."
+        "en": "UN estimate about 200,000 (para. 40 and 159). Jordan's registration of 177,165 was said to cover about 70 per cent, which implies roughly 250,000 (a derived figure, used as 'high'). The report also records Jordanian complaints that villages in the Latrun area and at Beit Awa and Beit Mersim were levelled and that Qalqiliya was heavily damaged. Casualty figures are deliberately not recorded.",
+        "ar": "تقدير الأمم المتحدة نحو 200,000 (الفقرتان 40 و159). قيل إن تسجيل الأردن البالغ 177,165 يغطي نحو 70 في المئة، ما يعني نحو 250,000 (رقم مشتق، يُستخدم قيمةً عليا \"high\"). ويسجل التقرير أيضًا شكاوى أردنية من تسوية قرى منطقة اللطرون وبيت عوا وبيت مرسيم بالأرض ومن أضرار جسيمة لحقت بقلقيلية. لا تُسجَّل أرقام الضحايا عمدًا.",
+        "he": "הערכת האו״ם כ-200,000 (פסקאות 40 ו-159). רישום ירדן של 177,165 נאמר שהוא מכסה כ-70 אחוזים, מה שמרמז על כ-250,000 בקירוב (נתון נגזר, ששימש כ-\"high\"). הדוח מתעד גם תלונות ירדניות על כך שכפרים באזור לטרון ובבית עווה ובית מרסים נהרסו עד היסוד ושקלקיליה ניזוקה קשות. נתוני נפגעים אינם מתועדים במכוון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "Causes are disputed: Jordan complained of expulsions and intimidation; Israel stated that no encouragement was given to flee. The UN Special Representative (Gussing) found no specific reports of people being physically forced across, but persistent reports of intimidation, and concluded that the truth lay between the two positions, with fear of hostilities and occupation a main factor.",
@@ -4336,7 +4636,13 @@
         }
       ],
       "notes": {
-        "en": "Displaced persons went mainly to the Damascus and Deraa areas (para. 159). The original population was about 115,000 according to Syrian sources and 90,000 according to Israeli sources (para. 14)."
+        "en": "Displaced persons went mainly to the Damascus and Deraa areas (para. 159). The original population was about 115,000 according to Syrian sources and 90,000 according to Israeli sources (para. 14).",
+        "ar": "انتقل المهجَّرون أساسًا إلى منطقتي دمشق ودرعا (الفقرة 159). وكان السكان الأصليون نحو 115,000 بحسب المصادر السورية و90,000 بحسب المصادر الإسرائيلية (الفقرة 14).",
+        "he": "העקורים הלכו בעיקר לאזורי דמשק ודרעא (פסקה 159). האוכלוסייה המקורית הייתה כ-115,000 לפי מקורות סוריים ו-90,000 לפי מקורות ישראליים (פסקה 14).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "contested_note": {
         "en": "The number differs between Syrian (about 110,000) and Israeli (not more than 85,000) sources as reported by the UN. The type follows the UN wording (persons who had fled); whether departures were flight or expulsion is disputed in other literature, which was not consulted for this record.",
@@ -4427,7 +4733,13 @@
         }
       ],
       "notes": {
-        "en": "UN Secretary-General report of 2 October 1967. The report gives about 350,000 displaced in total from all areas under Israeli control."
+        "en": "UN Secretary-General report of 2 October 1967. The report gives about 350,000 displaced in total from all areas under Israeli control.",
+        "ar": "تقرير الأمين العام للأمم المتحدة المؤرخ 2 تشرين الأول/أكتوبر 1967. يعطي التقرير نحو 350,000 مهجَّر في المجموع من جميع المناطق الخاضعة للسيطرة الإسرائيلية.",
+        "he": "דוח מזכ״ל האו״ם מ-2 באוקטובר 1967. הדוח מציין כ-350,000 עקורים בסך הכול מכל השטחים שבשליטת ישראל.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 35000,
@@ -4504,7 +4816,13 @@
         }
       ],
       "notes": {
-        "en": "Israel approved 4,763 applications covering 16,266 persons in 13-28 August 1967 (para. 190). Israel later said only 60 per cent of those authorised actually crossed; Jordan disputed the procedure (paras. 191-192)."
+        "en": "Israel approved 4,763 applications covering 16,266 persons in 13-28 August 1967 (para. 190). Israel later said only 60 per cent of those authorised actually crossed; Jordan disputed the procedure (paras. 191-192).",
+        "ar": "وافقت إسرائيل على 4,763 طلبًا تشمل 16,266 شخصًا في 13–28 آب/أغسطس 1967 (الفقرة 190). وقالت إسرائيل لاحقًا إن 60 في المئة فقط ممن أُذن لهم عبروا فعلًا؛ ونازع الأردن في الإجراء (الفقرتان 191–192).",
+        "he": "ישראל אישרה 4,763 בקשות הכוללות 16,266 איש בין 13 ל-28 באוגוסט 1967 (פסקה 190). ישראל אמרה מאוחר יותר שרק 60 אחוזים מהמורשים אכן חצו; ירדן חלקה על ההליך (פסקאות 191–192).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 14056,
@@ -4589,7 +4907,13 @@
         }
       ],
       "notes": {
-        "en": "Population figures are stocks (settler population at a date), not annual flows. CBS 1972 figure includes Sinai; 1972-1995 figures include the Gaza Area and northern Samaria localities evacuated in 2005 (CBS footnote). OHCHR's reporting period ended 31 October 2024. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "Population figures are stocks (settler population at a date), not annual flows. CBS 1972 figure includes Sinai; 1972-1995 figures include the Gaza Area and northern Samaria localities evacuated in 2005 (CBS footnote). OHCHR's reporting period ended 31 October 2024. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "أرقام السكان هي أرصدة (عدد المستوطنين في تاريخ معين) لا تدفقات سنوية. يشمل رقم CBS لعام 1972 سيناء؛ وتشمل أرقام 1972–1995 منطقة غزة ومواقع شمال السامرة التي أُخليت عام 2005 (حاشية CBS). انتهت فترة التقرير لدى OHCHR في 31 تشرين الأول/أكتوبر 2024. تختلف المصطلحات: يتحدث الاستعمال الرسمي الإسرائيلي عن مستوطنات أو تجمعات (في \"يهودا والسامرة\")؛ وترى الأمم المتحدة ومعظم الدول أن المستوطنات في أراضٍ احتُلت عام 1967 مخالفة للقانون الدولي (مثل تقارير OHCHR). وتُستخدم هنا فئة المخطط \"استعمار\" للاستيطان المدني المدعوم من الدولة في أرض محتلة. صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "נתוני האוכלוסייה הם מלאי (אוכלוסיית המתנחלים בתאריך מסוים), לא זרימות שנתיות. נתון CBS ל-1972 כולל את סיני; נתוני 1972–1995 כוללים את אזור עזה ואת יישובי צפון השומרון שפונו ב-2005 (הערת שוליים של CBS). תקופת הדיווח של OHCHR הסתיימה ב-31 באוקטובר 2024. המינוח שונה: בשימוש הרשמי הישראלי מדברים על התנחלויות או קהילות (ב\"יהודה ושומרון\"); האו״ם ורוב המדינות רואים בהתנחלויות בשטח שנכבש ב-1967 הפרה של המשפט הבין-לאומי (למשל דוחות OHCHR). קטגוריית הסכמה \"קולוניזציה\" משמשת כאן להתיישבות אזרחית הנתמכת על ידי המדינה בשטח כבוש. שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 501100,
@@ -4658,7 +4982,13 @@
         }
       ],
       "notes": {
-        "en": "Figures are from Peace Now as reported by OHCHR; OHCHR notes the East Jerusalem figures were last updated in 2022. Israel annexed East Jerusalem and regards these as neighbourhoods of its capital; the UN regards them as settlements. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "Figures are from Peace Now as reported by OHCHR; OHCHR notes the East Jerusalem figures were last updated in 2022. Israel annexed East Jerusalem and regards these as neighbourhoods of its capital; the UN regards them as settlements. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "الأرقام من \"السلام الآن\" كما أوردتها OHCHR؛ وتشير OHCHR إلى أن أرقام القدس الشرقية حُدّثت آخر مرة عام 2022. ضمّت إسرائيل القدس الشرقية وتعدّ هذه أحياء في عاصمتها؛ وترى الأمم المتحدة أنها مستوطنات. تختلف المصطلحات: يتحدث الاستعمال الرسمي الإسرائيلي عن مستوطنات أو تجمعات (في \"يهودا والسامرة\")؛ وترى الأمم المتحدة ومعظم الدول أن المستوطنات في أراضٍ احتُلت عام 1967 مخالفة للقانون الدولي (مثل تقارير OHCHR). وتُستخدم هنا فئة المخطط \"استعمار\" للاستيطان المدني المدعوم من الدولة في أرض محتلة. صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "הנתונים של שלום עכשיו כפי שדווחו על ידי OHCHR; OHCHR מציינת שנתוני מזרח ירושלים עודכנו לאחרונה ב-2022. ישראל סיפחה את מזרח ירושלים ורואה בהן שכונות בירתה; האו״ם רואה בהן התנחלויות. המינוח שונה: בשימוש הרשמי הישראלי מדברים על התנחלויות או קהילות (ב\"יהודה ושומרון\"); האו״ם ורוב המדינות רואים בהתנחלויות בשטח שנכבש ב-1967 הפרה של המשפט הבין-לאומי (למשל דוחות OHCHR). קטגוריית הסכמה \"קולוניזציה\" משמשת כאן להתיישבות אזרחית הנתמכת על ידי המדינה בשטח כבוש. שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 230000,
@@ -4744,7 +5074,13 @@
         }
       ],
       "notes": {
-        "en": "The 8,200 figure is the settler population at the end of 2004 (CBS). The start is approximate: CBS records 0.7 thousand in the Gaza area in 1972 (the consulted sources do not give the founding date of the first locality). Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "The 8,200 figure is the settler population at the end of 2004 (CBS). The start is approximate: CBS records 0.7 thousand in the Gaza area in 1972 (the consulted sources do not give the founding date of the first locality). Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "رقم 8,200 هو عدد المستوطنين في نهاية 2004 (CBS). البداية تقريبية: يسجل CBS 0.7 ألفًا في منطقة غزة عام 1972 (ولا تعطي المصادر التي رُجع إليها تاريخ تأسيس أول تجمع). تختلف المصطلحات: يتحدث الاستعمال الرسمي الإسرائيلي عن مستوطنات أو تجمعات (في \"يهودا والسامرة\")؛ وترى الأمم المتحدة ومعظم الدول أن المستوطنات في أراضٍ احتُلت عام 1967 مخالفة للقانون الدولي (مثل تقارير OHCHR). وتُستخدم هنا فئة المخطط \"استعمار\" للاستيطان المدني المدعوم من الدولة في أرض محتلة. صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "הנתון 8,200 הוא אוכלוסיית המתנחלים בסוף 2004 (CBS). ההתחלה משוערת: CBS מתעד 0.7 אלף באזור עזה ב-1972 (המקורות שנבדקו אינם נותנים את תאריך ייסודו של היישוב הראשון). המינוח שונה: בשימוש הרשמי הישראלי מדברים על התנחלויות או קהילות (ב\"יהודה ושומרון\"); האו״ם ורוב המדינות רואים בהתנחלויות בשטח שנכבש ב-1967 הפרה של המשפט הבין-לאומי (למשל דוחות OHCHR). קטגוריית הסכמה \"קולוניזציה\" משמשת כאן להתיישבות אזרחית הנתמכת על ידי המדינה בשטח כבוש. שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 8200,
@@ -4830,7 +5166,13 @@
         }
       ],
       "notes": {
-        "en": "The number is the Gaza-area settler population at the end of 2004 (CBS), used as an approximation of those evacuated; the northern Samaria localities are not counted separately in the consulted sources."
+        "en": "The number is the Gaza-area settler population at the end of 2004 (CBS), used as an approximation of those evacuated; the northern Samaria localities are not counted separately in the consulted sources.",
+        "ar": "الرقم هو عدد المستوطنين في منطقة غزة في نهاية 2004 (CBS)، يُستخدم تقريبًا لعدد من أُخلوا؛ ولم تُحصَ مواقع شمال السامرة منفصلةً في المصادر التي رُجع إليها.",
+        "he": "המספר הוא אוכלוסיית המתנחלים באזור עזה בסוף 2004 (CBS), ששימש כקירוב לפונים; יישובי צפון השומרון אינם נספרים בנפרד במקורות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 8200,
@@ -4911,7 +5253,13 @@
         }
       ],
       "notes": {
-        "en": "Israel applied its law to the Golan in 1981; the UN regards it as occupied Syrian territory. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "Israel applied its law to the Golan in 1981; the UN regards it as occupied Syrian territory. Terminology differs: Israeli official usage speaks of settlements or communities (in 'Judea and Samaria'); the UN and most states regard settlements in territory occupied in 1967 as contrary to international law (e.g. OHCHR reports). The schema category 'colonization' is used here for state-supported civilian settlement in occupied territory. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "طبقت إسرائيل قانونها على الجولان عام 1981؛ وترى الأمم المتحدة أنه أرض سورية محتلة. تختلف المصطلحات: يتحدث الاستعمال الرسمي الإسرائيلي عن مستوطنات أو تجمعات (في \"يهودا والسامرة\")؛ وترى الأمم المتحدة ومعظم الدول أن المستوطنات في أراضٍ احتُلت عام 1967 مخالفة للقانون الدولي (مثل تقارير OHCHR). وتُستخدم هنا فئة المخطط \"استعمار\" للاستيطان المدني المدعوم من الدولة في أرض محتلة. صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "ישראל החילה את דינה על הגולן ב-1981; האו״ם רואה בו שטח סורי כבוש. המינוח שונה: בשימוש הרשמי הישראלי מדברים על התנחלויות או קהילות (ב\"יהודה ושומרון\"); האו״ם ורוב המדינות רואים בהתנחלויות בשטח שנכבש ב-1967 הפרה של המשפט הבין-לאומי (למשל דוחות OHCHR). קטגוריית הסכמה \"קולוניזציה\" משמשת כאן להתיישבות אזרחית הנתמכת על ידי המדינה בשטח כבוש. שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 27100,
@@ -5002,7 +5350,13 @@
         }
       ],
       "notes": {
-        "en": "The number of Israeli civilians in Sinai (incl. the town of Yamit) was not found in the consulted sources. End year is the treaty deadline (three years after ratification in 1979). The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
+        "en": "The number of Israeli civilians in Sinai (incl. the town of Yamit) was not found in the consulted sources. End year is the treaty deadline (three years after ratification in 1979). The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
+        "ar": "لم يُعثر في المصادر التي رُجع إليها على عدد المدنيين الإسرائيليين في سيناء (بمن فيهم بلدة ياميت). سنة النهاية هي الموعد النهائي في المعاهدة (بعد ثلاث سنوات من المصادقة عام 1979). صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
+        "he": "מספר האזרחים הישראלים בסיני (כולל העיר ימית) לא נמצא במקורות שנבדקו. שנת הסיום היא מועד היעד בהסכם (שלוש שנים לאחר האשרור ב-1979). שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -5082,7 +5436,13 @@
         }
       ],
       "notes": {
-        "en": "Low = Bachi's figure for 1969-1975; high = CBS figure for 1972-1979 (different periods). Bachi notes that after 1973 an increasing share of Soviet Jewish emigrants went to other countries."
+        "en": "Low = Bachi's figure for 1969-1975; high = CBS figure for 1972-1979 (different periods). Bachi notes that after 1973 an increasing share of Soviet Jewish emigrants went to other countries.",
+        "ar": "الحد الأدنى = رقم باخي للفترة 1969–1975؛ والحد الأعلى = رقم CBS للفترة 1972–1979 (فترتان مختلفتان). يلاحظ باخي أن حصة متزايدة من المهاجرين اليهود السوفيات بعد 1973 اتجهت إلى بلدان أخرى.",
+        "he": "נמוך = נתון בכי ל-1969–1975; גבוה = נתון CBS ל-1972–1979 (תקופות שונות). בכי מציין שאחרי 1973 חלק גדל והולך מיוצאי יהודי ברית המועצות פנה למדינות אחרות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 106000,
@@ -5162,7 +5522,13 @@
         }
       ],
       "notes": {
-        "en": "best = 1990-1999 (821,906 = 771,213 + 50,693, computed); high = 1990-2021 (adds 316,725 for 2000-2021). Renewed immigration followed in 2022-2024 (CBS: 63,970 in 2022; 38,905 in 2023), after the Russian invasion of Ukraine."
+        "en": "best = 1990-1999 (821,906 = 771,213 + 50,693, computed); high = 1990-2021 (adds 316,725 for 2000-2021). Renewed immigration followed in 2022-2024 (CBS: 63,970 in 2022; 38,905 in 2023), after the Russian invasion of Ukraine.",
+        "ar": "\"best\" = 1990–1999 (821,906 = 771,213 + 50,693، محسوب)؛ \"high\" = 1990–2021 (يضيف 316,725 لـ2000–2021). تلتها هجرة متجددة في 2022–2024 (CBS: 63,970 عام 2022؛ 38,905 عام 2023)، بعد الغزو الروسي لأوكرانيا.",
+        "he": "\"best\" = 1990–1999 (821,906 = 771,213 + 50,693, מחושב); \"high\" = 1990–2021 (מוסיף 316,725 ל-2000–2021). לאחר מכן באה הגירה מחודשת ב-2022–2024 (CBS: 63,970 ב-2022; 38,905 ב-2023), לאחר הפלישה הרוסית לאוקראינה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -5260,7 +5626,13 @@
         }
       ],
       "notes": {
-        "en": "High = Operation Moses (over 6,500) plus Operation Joshua (650). CBS counts 16,965 Ethiopia-born immigrants in 1980-1989."
+        "en": "High = Operation Moses (over 6,500) plus Operation Joshua (650). CBS counts 16,965 Ethiopia-born immigrants in 1980-1989.",
+        "ar": "\"high\" = عملية موسى (أكثر من 6,500) زائد عملية يشوع (650). يحصي CBS 16,965 مهاجرًا مولودًا في إثيوبيا في 1980–1989.",
+        "he": "\"high\" = מבצע משה (למעלה מ-6,500) ועוד מבצע יהושע (650). CBS מונה 16,965 מהגרים ילידי אתיופיה ב-1980–1989.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 6500,
@@ -5348,7 +5720,13 @@
         }
       ],
       "notes": {
-        "en": "EJ notes that by summer 1990 over 20,000 Ethiopian Jews had gathered in Addis Ababa. Later immigration of Falash Mura continued (CBS: 36,109 Ethiopia-born immigrants in 2000-2021)."
+        "en": "EJ notes that by summer 1990 over 20,000 Ethiopian Jews had gathered in Addis Ababa. Later immigration of Falash Mura continued (CBS: 36,109 Ethiopia-born immigrants in 2000-2021).",
+        "ar": "يشير EJ إلى أن أكثر من 20,000 يهودي إثيوبي كانوا قد تجمعوا في أديس أبابا بحلول صيف 1990. واستمرت هجرة الفلاشمورا لاحقًا (CBS: 36,109 مهاجرين مولودين في إثيوبيا في 2000–2021).",
+        "he": "EJ מציין שעד קיץ 1990 התאספו באדיס אבבה למעלה מ-20,000 יהודים אתיופים. העלייה של פלאש מורה נמשכה מאוחר יותר (CBS: 36,109 מהגרים ילידי אתיופיה ב-2000–2021).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 14000,
@@ -5436,7 +5814,13 @@
         }
       ],
       "notes": {
-        "en": "No direct count of departures was found. Pre-war Palestinian population in Kuwait about 400,000 (UNRWA as quoted by Gottheil); 25,000-30,000 remained by mid-1992 (UNRWA). The 'hundreds of thousands of evacuees' into Jordan in 1990 included non-Palestinians. The type 'expulsion' is listed because many were not allowed to stay after the war, but the consulted sources do not quantify this."
+        "en": "No direct count of departures was found. Pre-war Palestinian population in Kuwait about 400,000 (UNRWA as quoted by Gottheil); 25,000-30,000 remained by mid-1992 (UNRWA). The 'hundreds of thousands of evacuees' into Jordan in 1990 included non-Palestinians. The type 'expulsion' is listed because many were not allowed to stay after the war, but the consulted sources do not quantify this.",
+        "ar": "لم يُعثر على عدّ مباشر للمغادرين. بلغ عدد الفلسطينيين في الكويت قبل الحرب نحو 400,000 (الأونروا كما نقل عنها غوتهيل)؛ وبقي 25,000–30,000 بحلول منتصف 1992 (الأونروا). وشمل \"hundreds of thousands of evacuees\" [مئات الآلاف من المُخلَين] إلى الأردن عام 1990 غير فلسطينيين. أُدرج النوع \"طرد\" لأن كثيرين لم يُسمح لهم بالبقاء بعد الحرب، لكن المصادر التي رُجع إليها لا تقدّر ذلك بالأرقام.",
+        "he": "לא נמצאה ספירה ישירה של העוזבים. האוכלוסייה הפלסטינית בכווית לפני המלחמה כ-400,000 (אונר״א כפי שצוטטה אצל גוטהייל); 25,000–30,000 נותרו עד אמצע 1992 (אונר״א). \"hundreds of thousands of evacuees\" [מאות אלפי מפונים] אל ירדן ב-1990 כללו לא-פלסטינים. הסוג \"גירוש\" נרשם משום שרבים לא הורשו להישאר אחרי המלחמה, אך המקורות שנבדקו אינם מכמתים זאת.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -5519,7 +5903,13 @@
         }
       ],
       "notes": {
-        "en": "Daily or weekly commuting labour, not residence change. PCBS 2021: 61% held permits, 25% had no permits, 14% held foreign passports. Earlier history of this labour flow (since 1967) is not quantified in the consulted sources, so the record is dated to the 2021 snapshot; the end date marks the revocation of Gaza workers' permits after 7 October 2023."
+        "en": "Daily or weekly commuting labour, not residence change. PCBS 2021: 61% held permits, 25% had no permits, 14% held foreign passports. Earlier history of this labour flow (since 1967) is not quantified in the consulted sources, so the record is dated to the 2021 snapshot; the end date marks the revocation of Gaza workers' permits after 7 October 2023.",
+        "ar": "تنقّل عمل يومي أو أسبوعي لا تغيّر في الإقامة. PCBS 2021: 61% يحملون تصاريح، و25% بلا تصاريح، و14% يحملون جوازات أجنبية. التاريخ الأسبق لهذا التدفق العمالي (منذ 1967) غير مقدَّر بالأرقام في المصادر التي رُجع إليها، ولذلك يؤرخ السجل بلقطة 2021؛ ويشير تاريخ النهاية إلى إلغاء تصاريح عمال غزة بعد 7 تشرين الأول/أكتوبر 2023.",
+        "he": "נסיעת עבודה יומית או שבועית, לא שינוי מגורים. PCBS 2021: ל-61% היו אישורים, ל-25% לא היו אישורים, ו-14% החזיקו דרכונים זרים. ההיסטוריה המוקדמת יותר של זרם עבודה זה (מאז 1967) אינה מכומתת במקורות שנבדקו, ולכן הרשומה מתוארכת לתמונת המצב של 2021; תאריך הסיום מציין את ביטול אישורי העבודה של עובדי עזה אחרי 7 באוקטובר 2023.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 145000,
@@ -5665,7 +6055,13 @@
         }
       ],
       "notes": {
-        "en": "Stock of foreign residents with foreign-worker status at 2024 (CBS, from the Population Register). Total foreign residents were 260,396."
+        "en": "Stock of foreign residents with foreign-worker status at 2024 (CBS, from the Population Register). Total foreign residents were 260,396.",
+        "ar": "رصيد المقيمين الأجانب بصفة عامل أجنبي في 2024 (CBS، من سجل السكان). كان مجموع المقيمين الأجانب 260,396.",
+        "he": "מלאי התושבים הזרים בסטטוס עובד זר ב-2024 (CBS, מרשם האוכלוסין). סך התושבים הזרים היה 260,396.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 155955,
@@ -5745,7 +6141,13 @@
         }
       ],
       "notes": {
-        "en": "CBS (Hebrew: mistanenim, rendered 'illegal border crossers') classifies them by entry status; they are widely described as asylum seekers. Arrival dates are not given in this table, so the record is dated to the 2024 snapshot."
+        "en": "CBS (Hebrew: mistanenim, rendered 'illegal border crossers') classifies them by entry status; they are widely described as asylum seekers. Arrival dates are not given in this table, so the record is dated to the 2024 snapshot.",
+        "ar": "يصنّفهم CBS (بالعبرية: מסתננים، ويُترجم \"illegal border crossers\") بحسب وضع الدخول؛ ويوصفون على نطاق واسع بأنهم طالبو لجوء. لا يعطي هذا الجدول تواريخ الوصول، ولذلك يؤرخ السجل بلقطة 2024.",
+        "he": "CBS (בעברית: מסתננים, מתורגם \"illegal border crossers\") מסווג אותם לפי מעמד הכניסה; הם מתוארים בהרחבה כמבקשי מקלט. תאריכי ההגעה אינם ניתנים בלוח זה, ולכן הרשומה מתוארכת לתמונת המצב של 2024.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 26680,
@@ -5835,7 +6237,13 @@
         }
       ],
       "notes": {
-        "en": "Dated figures: end-2023 about 1.7 million IDPs (IDMC); end-2024 about 2 million (IDMC); 31 October 2025 nearly all 2.1 million repeatedly displaced (OCHA); end-2025 nearly two million (PCBS); 2 October 2026: about 279,000 people sheltering in 400 flood-prone displacement sites (OCHA). The 13 October 2023 Israeli order to evacuate northern Gaza moved people south (Rafah shown as destination of the 2023-24 phase). Displacement is repeated and multi-directional; counts are of people, not movements. Casualty figures are deliberately not recorded."
+        "en": "Dated figures: end-2023 about 1.7 million IDPs (IDMC); end-2024 about 2 million (IDMC); 31 October 2025 nearly all 2.1 million repeatedly displaced (OCHA); end-2025 nearly two million (PCBS); 2 October 2026: about 279,000 people sheltering in 400 flood-prone displacement sites (OCHA). The 13 October 2023 Israeli order to evacuate northern Gaza moved people south (Rafah shown as destination of the 2023-24 phase). Displacement is repeated and multi-directional; counts are of people, not movements. Casualty figures are deliberately not recorded.",
+        "ar": "أرقام مؤرخة: نهاية 2023 نحو 1.7 مليون نازح داخليًا (IDMC)؛ نهاية 2024 نحو مليونين (IDMC)؛ 31 تشرين الأول/أكتوبر 2025 ما يقارب جميع الـ2.1 مليون مهجَّرين مرارًا (OCHA)؛ نهاية 2025 قرابة مليونين (PCBS)؛ 2 تشرين الأول/أكتوبر 2026: نحو 279,000 شخص يحتمون في 400 موقع نزوح معرّضة للفيضانات (OCHA). نقل أمر الإخلاء الإسرائيلي في 13 تشرين الأول/أكتوبر 2023 لشمال غزة الناس جنوبًا (رفح معروضة وجهةً لمرحلة 2023–24). التهجير متكرر ومتعدد الاتجاهات؛ والأعداد أعداد أشخاص لا حركات. لا تُسجَّل أرقام الضحايا عمدًا.",
+        "he": "נתונים מתוארכים: סוף 2023 כ-1.7 מיליון עקורים פנימיים (IDMC); סוף 2024 כ-2 מיליון (IDMC); 31 באוקטובר 2025 כמעט כל 2.1 המיליון נעקרו שוב ושוב (OCHA); סוף 2025 כמעט שני מיליון (PCBS); 2 באוקטובר 2026: כ-279,000 איש מוצאים מחסה ב-400 אתרי עקירה המועדים להצפה (OCHA). צו הפינוי הישראלי מ-13 באוקטובר 2023 לצפון עזה הניע אנשים דרומה (רפיח מוצגת כיעד של שלב 2023–24). העקירה חוזרת ורב-כיוונית; הספירות הן של אנשים, לא של תנועות. נתוני נפגעים אינם מתועדים במכוון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 1700000,
@@ -5918,7 +6326,13 @@
         }
       ],
       "notes": {
-        "en": "Single source (PCBS, end of 2025); destinations are not specified in the source. The end date is the date of the estimate, not the end of departures."
+        "en": "Single source (PCBS, end of 2025); destinations are not specified in the source. The end date is the date of the estimate, not the end of departures.",
+        "ar": "مصدر واحد (PCBS، نهاية 2025)؛ ولا يحدد المصدر الوجهات. تاريخ النهاية هو تاريخ التقدير، لا نهاية المغادرات.",
+        "he": "מקור יחיד (PCBS, סוף 2025); היעדים אינם מפורטים במקור. תאריך הסיום הוא תאריך ההערכה, לא סוף העזיבות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 100000,
@@ -5988,7 +6402,13 @@
         }
       ],
       "notes": {
-        "en": "Figure as of December 2025 (OCHA). Tulkarm and Nur Shams camps are also affected (Jenin shown as origin). Israel describes the operations as counter-terrorism operations; the consulted source is the UN appeal."
+        "en": "Figure as of December 2025 (OCHA). Tulkarm and Nur Shams camps are also affected (Jenin shown as origin). Israel describes the operations as counter-terrorism operations; the consulted source is the UN appeal.",
+        "ar": "الرقم حتى كانون الأول/ديسمبر 2025 (OCHA). مخيما طولكرم ونور شمس متأثران أيضًا (جنين معروضة نقطةَ انطلاق). تصف إسرائيل العمليات بأنها عمليات لمكافحة الإرهاب؛ والمصدر الذي رُجع إليه هو نداء الأمم المتحدة.",
+        "he": "הנתון נכון לדצמבר 2025 (OCHA). גם מחנות טול כרם ונור שמס מושפעים (ג'נין מוצגת כמוצא). ישראל מתארת את המבצעים כמבצעי סיכול טרור; המקור שנבדק הוא הקריאה לסיוע של האו״ם.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 40000,
@@ -6064,7 +6484,13 @@
         }
       ],
       "notes": {
-        "en": "best = 7,100 (demolitions, Oct 2023-Dec 2025) + 1,400 (settler violence and access restrictions, 2025), computed and approximate; displacement by settler violence in late 2023-2024 is not included in these figures. Origin shown at Yatta (Masafer Yatta area, a recurring case). Israel states demolitions enforce planning law; OCHA describes permits as nearly impossible to obtain."
+        "en": "best = 7,100 (demolitions, Oct 2023-Dec 2025) + 1,400 (settler violence and access restrictions, 2025), computed and approximate; displacement by settler violence in late 2023-2024 is not included in these figures. Origin shown at Yatta (Masafer Yatta area, a recurring case). Israel states demolitions enforce planning law; OCHA describes permits as nearly impossible to obtain.",
+        "ar": "\"best\" = 7,100 (عمليات هدم، تشرين الأول/أكتوبر 2023–كانون الأول/ديسمبر 2025) + 1,400 (عنف المستوطنين وقيود الوصول، 2025)، محسوب وتقريبي؛ ولا يشمل هذه الأرقام التهجير بسبب عنف المستوطنين في أواخر 2023–2024. الأصل معروض في يطا (منطقة مسافر يطا، حالة متكررة). تقول إسرائيل إن عمليات الهدم تنفذ قانون التخطيط؛ وتصف OCHA الحصول على التصاريح بأنه شبه مستحيل.",
+        "he": "\"best\" = 7,100 (הריסות, אוקטובר 2023–דצמבר 2025) + 1,400 (אלימות מתנחלים והגבלות גישה, 2025), מחושב ומשוער; עקירה בשל אלימות מתנחלים בסוף 2023–2024 אינה כלולה במספרים אלה. המוצא מוצג ביטא (אזור מסאפר יטא, מקרה שחוזר). ישראל מצהירה שההריסות אוכפות את חוק התכנון; OCHA מתארת את קבלת ההיתרים כבלתי אפשרית כמעט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 8500,
@@ -6152,7 +6578,13 @@
         }
       ],
       "notes": {
-        "en": "IDMC figures draw on Israeli government and press sources (e.g. Prime Minister's Office-Finance Ministry announcement of 18 February 2024; Tekuma Authority). Many southern evacuees returned during 2024; the end date is approximate."
+        "en": "IDMC figures draw on Israeli government and press sources (e.g. Prime Minister's Office-Finance Ministry announcement of 18 February 2024; Tekuma Authority). Many southern evacuees returned during 2024; the end date is approximate.",
+        "ar": "تعتمد أرقام IDMC على مصادر الحكومة والصحافة الإسرائيلية (مثل إعلان ديوان رئيس الوزراء ووزارة المالية في 18 شباط/فبراير 2024؛ وسلطة تكوما). عاد كثير من المُخلَين من الجنوب خلال 2024؛ وتاريخ النهاية تقريبي.",
+        "he": "נתוני IDMC נשענים על מקורות ממשלתיים ועיתונאיים ישראליים (למשל הודעת משרד ראש הממשלה ומשרד האוצר מ-18 בפברואר 2024; רשות תקומה). רבים מהמפונים מהדרום חזרו במהלך 2024; תאריך הסיום משוער.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 120000,
@@ -6245,7 +6677,13 @@
         }
       ],
       "notes": {
-        "en": "IDMC gives about 80,000 affected by the northern evacuation plan; 68,000 Israelis (north and south combined) were still displaced at the end of 2024. IDMC relies on Israeli government sources. End date approximate."
+        "en": "IDMC gives about 80,000 affected by the northern evacuation plan; 68,000 Israelis (north and south combined) were still displaced at the end of 2024. IDMC relies on Israeli government sources. End date approximate.",
+        "ar": "يعطي IDMC نحو 80,000 متأثر بخطة الإخلاء الشمالية؛ وظل 68,000 إسرائيلي (الشمال والجنوب معًا) مهجَّرين في نهاية 2024. يعتمد IDMC على مصادر الحكومة الإسرائيلية. تاريخ النهاية تقريبي.",
+        "he": "IDMC מציין כ-80,000 שהושפעו מתוכנית הפינוי הצפונית; 68,000 ישראלים (צפון ודרום יחד) היו עדיין עקורים בסוף 2024. IDMC נשען על מקורות ממשלת ישראל. תאריך הסיום משוער.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 68000,
@@ -6300,7 +6738,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year. For Israel the figure is the CBS count of Jews (7,213 thousand; 46% of world Jewry)."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year. For Israel the figure is the CBS count of Jews (7,213 thousand; 46% of world Jewry).",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة. بالنسبة إلى إسرائيل الرقم هو عدد اليهود بحسب CBS (7,213 ألفًا؛ 46% من يهود العالم).",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה. לגבי ישראל, הנתון הוא ספירת היהודים של CBS (7,213 אלף; 46% מיהדות העולם).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6348,7 +6792,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6396,7 +6846,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6444,7 +6900,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6492,7 +6954,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6540,7 +7008,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6588,7 +7062,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6636,7 +7116,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6684,7 +7170,13 @@
         }
       ],
       "notes": {
-        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year."
+        "en": "CBS table compiled with the Division of Jewish Demography and Statistics, Harman Institute of Contemporary Jewry, Hebrew University (S. DellaPergola's unit); described as revised rough estimates. The table lists the country rows directly after the 2024 world total (15,809 thousand) without repeating the year.",
+        "ar": "جدول CBS أُعدّ بالتعاون مع قسم الديموغرافيا والإحصاء اليهودي في معهد هارمان لليهودية المعاصرة بالجامعة العبرية (وحدة س. ديلا بيرغولا)؛ ويوصف بأنه تقديرات تقريبية منقّحة. يسرد الجدول صفوف الدول مباشرة بعد المجموع العالمي لعام 2024 (15,809 ألفًا) دون تكرار السنة.",
+        "he": "לוח CBS שנערך בשיתוף החטיבה לדמוגרפיה וסטטיסטיקה יהודית, מכון הרמן ליהדות זמננו, האוניברסיטה העברית (היחידה של ש. דלה-פרגולה); מתואר כהערכות גסות מתוקנות. הלוח מפרט את שורות המדינות מיד אחרי הסך העולמי ל-2024 (15,809 אלף) מבלי לחזור על השנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6732,7 +7224,13 @@
         }
       ],
       "notes": {
-        "en": "Historical estimate; world Jewish population about 7.8 million in 1882 (same table)."
+        "en": "Historical estimate; world Jewish population about 7.8 million in 1882 (same table).",
+        "ar": "تقدير تاريخي؛ نحو 7.8 مليون يهودي في العالم عام 1882 (الجدول نفسه).",
+        "he": "הערכה היסטורית; האוכלוסייה היהודית בעולם כ-7.8 מיליון ב-1882 (אותו לוח).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6780,7 +7278,13 @@
         }
       ],
       "notes": {
-        "en": "World Jewish population about 16.6 million at the end of 1939 (same table), before the Holocaust."
+        "en": "World Jewish population about 16.6 million at the end of 1939 (same table), before the Holocaust.",
+        "ar": "نحو 16.6 مليون يهودي في العالم في نهاية 1939 (الجدول نفسه)، قبل الهولوكوست.",
+        "he": "האוכלוסייה היהודית בעולם כ-16.6 מיליון בסוף 1939 (אותו לוח), לפני השואה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6835,7 +7339,13 @@
         }
       ],
       "notes": {
-        "en": "World Jewish population about 11.5 million in 1948 (CBS table)."
+        "en": "World Jewish population about 11.5 million in 1948 (CBS table).",
+        "ar": "نحو 11.5 مليون يهودي في العالم عام 1948 (جدول CBS).",
+        "he": "האוכלוסייה היהודית בעולם כ-11.5 מיליון ב-1948 (לוח CBS).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6885,7 +7395,13 @@
         }
       ],
       "notes": {
-        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need. Jordan then included the West Bank."
+        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need. Jordan then included the West Bank.",
+        "ar": "أشخاص على قوائم إغاثة الأونروا في حزيران/يونيو 1951 (المجموع 875,998)، وليسوا جميع اللاجئين: تشير الأونروا إلى وجود تسجيلات مكررة ومزيفة وإلى أن الإغاثة اقتصرت على المحتاجين. شملت الأردن حينها الضفة الغربية.",
+        "he": "אנשים ברשימות הסיוע של אונר״א ביוני 1951 (סך הכול 875,998), לא כל הפליטים: אונר״א מציינת רישומים כפולים ומזויפים וכי הסיוע הוגבל לנזקקים. ירדן כללה אז את הגדה המערבית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6935,7 +7451,13 @@
         }
       ],
       "notes": {
-        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need."
+        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need.",
+        "ar": "أشخاص على قوائم إغاثة الأونروا في حزيران/يونيو 1951 (المجموع 875,998)، وليسوا جميع اللاجئين: تشير الأونروا إلى وجود تسجيلات مكررة ومزيفة وإلى أن الإغاثة اقتصرت على المحتاجين.",
+        "he": "אנשים ברשימות הסיוע של אונר״א ביוני 1951 (סך הכול 875,998), לא כל הפליטים: אונר״א מציינת רישומים כפולים ומזויפים וכי הסיוע הוגבל לנזקקים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -6985,7 +7507,13 @@
         }
       ],
       "notes": {
-        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need."
+        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need.",
+        "ar": "أشخاص على قوائم إغاثة الأونروا في حزيران/يونيو 1951 (المجموع 875,998)، وليسوا جميع اللاجئين: تشير الأونروا إلى وجود تسجيلات مكررة ومزيفة وإلى أن الإغاثة اقتصرت على المحتاجين.",
+        "he": "אנשים ברשימות הסיוע של אונר״א ביוני 1951 (סך הכול 875,998), לא כל הפליטים: אונר״א מציינת רישומים כפולים ומזויפים וכי הסיוע הוגבל לנזקקים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7035,7 +7563,13 @@
         }
       ],
       "notes": {
-        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need."
+        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need.",
+        "ar": "أشخاص على قوائم إغاثة الأونروا في حزيران/يونيو 1951 (المجموع 875,998)، وليسوا جميع اللاجئين: تشير الأونروا إلى وجود تسجيلات مكررة ومزيفة وإلى أن الإغاثة اقتصرت على المحتاجين.",
+        "he": "אנשים ברשימות הסיוע של אונר״א ביוני 1951 (סך הכול 875,998), לא כל הפליטים: אונר״א מציינת רישומים כפולים ומזויפים וכי הסיוע הוגבל לנזקקים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7085,7 +7619,13 @@
         }
       ],
       "notes": {
-        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need."
+        "en": "Persons on UNRWA relief rolls in June 1951 (total 875,998), not all refugees: UNRWA notes duplicate and false registrations and that relief was limited to those in need.",
+        "ar": "أشخاص على قوائم إغاثة الأونروا في حزيران/يونيو 1951 (المجموع 875,998)، وليسوا جميع اللاجئين: تشير الأونروا إلى وجود تسجيلات مكررة ومزيفة وإلى أن الإغاثة اقتصرت على المحتاجين.",
+        "he": "אנשים ברשימות הסיוע של אונר״א ביוני 1951 (סך הכול 875,998), לא כל הפליטים: אונר״א מציינת רישומים כפולים ומזויפים וכי הסיוע הוגבל לנזקקים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7134,7 +7674,13 @@
         }
       ],
       "notes": {
-        "en": "Plus 165,116 \"other registered persons\". UNRWA states that most hold Jordanian citizenship, except about 175,033 who fled Gaza to Jordan in 1967."
+        "en": "Plus 165,116 \"other registered persons\". UNRWA states that most hold Jordanian citizenship, except about 175,033 who fled Gaza to Jordan in 1967.",
+        "ar": "يضاف 165,116 \"other registered persons\" [أشخاص مسجلون آخرون]. تذكر الأونروا أن معظمهم يحملون الجنسية الأردنية، باستثناء نحو 175,033 فرّوا من غزة إلى الأردن عام 1967.",
+        "he": "בתוספת 165,116 \"other registered persons\" [רשומים אחרים]. אונר״א מציינת שרובם מחזיקים באזרחות ירדנית, פרט לכ-175,033 שנמלטו מעזה לירדן ב-1967.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7183,7 +7729,13 @@
         }
       ],
       "notes": {
-        "en": "Registered, not necessarily resident; of which 67,016 are \"other registered persons\" (UNRWA note 34). In addition 29,344 Palestinian refugees from Syria were registered with UNRWA in Lebanon."
+        "en": "Registered, not necessarily resident; of which 67,016 are \"other registered persons\" (UNRWA note 34). In addition 29,344 Palestinian refugees from Syria were registered with UNRWA in Lebanon.",
+        "ar": "مسجَّلون وليسوا بالضرورة مقيمين؛ منهم 67,016 \"other registered persons\" (حاشية الأونروا 34). وإضافة إلى ذلك سُجّل 29,344 لاجئًا فلسطينيًا من سوريا لدى الأونروا في لبنان.",
+        "he": "רשומים, לא בהכרח תושבים; מהם 67,016 \"other registered persons\" (הערה 34 של אונר״א). בנוסף נרשמו באונר״א בלבנון 29,344 פליטים פלסטינים מסוריה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7232,7 +7784,13 @@
         }
       ],
       "notes": {
-        "en": "Registered population; many have been displaced inside or outside Syria since 2011."
+        "en": "Registered population; many have been displaced inside or outside Syria since 2011.",
+        "ar": "السكان المسجَّلون؛ هُجّر كثيرون داخل سوريا أو خارجها منذ 2011.",
+        "he": "אוכלוסייה רשומה; רבים נעקרו בתוך סוריה או מחוצה לה מאז 2011.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7281,7 +7839,13 @@
         }
       ],
       "notes": {
-        "en": "Plus 216,018 \"other registered persons\" (UNRWA note 13)."
+        "en": "Plus 216,018 \"other registered persons\" (UNRWA note 13).",
+        "ar": "يضاف 216,018 \"other registered persons\" (حاشية الأونروا 13).",
+        "he": "בתוספת 216,018 \"other registered persons\" (הערה 13 של אונר״א).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7330,7 +7894,13 @@
         }
       ],
       "notes": {
-        "en": "Plus 189,094 \"other registered persons\" (UNRWA note 1). UNRWA gives 5.8 million registered Palestine refugees in all fields at the end of 2021 (para. 88)."
+        "en": "Plus 189,094 \"other registered persons\" (UNRWA note 1). UNRWA gives 5.8 million registered Palestine refugees in all fields at the end of 2021 (para. 88).",
+        "ar": "يضاف 189,094 \"other registered persons\" (حاشية الأونروا 1). تذكر الأونروا 5.8 مليون لاجئ فلسطين مسجل في جميع المناطق في نهاية 2021 (الفقرة 88).",
+        "he": "בתוספת 189,094 \"other registered persons\" (הערה 1 של אונר״א). אונר״א מציינת 5.8 מיליון פליטי פלסטין רשומים בכל האזורים בסוף 2021 (פסקה 88).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7384,7 +7954,13 @@
         }
       ],
       "notes": {
-        "en": "Rounded figure. UNRWA total (all five fields): 5.9 million registered refugees and 815,000 other registered persons (budget document, 2025). Lebanon and West Bank 2024 field totals were not stated in the consulted reports."
+        "en": "Rounded figure. UNRWA total (all five fields): 5.9 million registered refugees and 815,000 other registered persons (budget document, 2025). Lebanon and West Bank 2024 field totals were not stated in the consulted reports.",
+        "ar": "رقم مقرَّب. مجموع الأونروا (المناطق الخمس كلها): 5.9 مليون لاجئ مسجل و815,000 \"other registered persons\" (وثيقة الميزانية، 2025). لم تُذكر المجاميع الميدانية للبنان والضفة الغربية لعام 2024 في التقارير التي رُجع إليها.",
+        "he": "נתון מעוגל. סך אונר״א (כל חמשת האזורים): 5.9 מיליון פליטים רשומים ו-815,000 \"other registered persons\" (מסמך תקציב, 2025). סך האזורים של לבנון והגדה המערבית ל-2024 לא צוינו בדוחות שנבדקו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7433,7 +8009,13 @@
         }
       ],
       "notes": {
-        "en": "\"Close to 1.6 million\" (UNRWA, end of 2024)."
+        "en": "\"Close to 1.6 million\" (UNRWA, end of 2024).",
+        "ar": "\"Close to 1.6 million\" [قرابة 1.6 مليون] (الأونروا، نهاية 2024).",
+        "he": "\"Close to 1.6 million\" [קרוב ל-1.6 מיליון] (אונר״א, סוף 2024).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7482,7 +8064,13 @@
         }
       ],
       "notes": {
-        "en": "Estimated present population, lower than the registered population (575,234 registered at end-2021) because of displacement during the Syrian war."
+        "en": "Estimated present population, lower than the registered population (575,234 registered at end-2021) because of displacement during the Syrian war.",
+        "ar": "عدد السكان الحاليين المقدَّر، وهو أقل من عدد المسجَّلين (575,234 مسجلًا في نهاية 2021) بسبب التهجير خلال الحرب السورية.",
+        "he": "האוכלוסייה הנוכחית המוערכת, נמוכה מהאוכלוסייה הרשומה (575,234 רשומים בסוף 2021) בגלל העקירה במהלך המלחמה בסוריה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7532,7 +8120,13 @@
         }
       ],
       "notes": {
-        "en": "PCBS: 3.43 million in the West Bank and 2.13 million in the Gaza Strip at the end of 2025."
+        "en": "PCBS: 3.43 million in the West Bank and 2.13 million in the Gaza Strip at the end of 2025.",
+        "ar": "PCBS: 3.43 مليون في الضفة الغربية و2.13 مليون في قطاع غزة في نهاية 2025.",
+        "he": "PCBS: 3.43 מיליון בגדה המערבית ו-2.13 מיליון ברצועת עזה בסוף 2025.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7582,7 +8176,13 @@
         }
       ],
       "notes": {
-        "en": "PCBS term \"1948 territories\" refers to Israel within the 1949 armistice lines; Israeli CBS counts Arab citizens separately and with a different definition."
+        "en": "PCBS term \"1948 territories\" refers to Israel within the 1949 armistice lines; Israeli CBS counts Arab citizens separately and with a different definition.",
+        "ar": "مصطلح PCBS \"أراضي 1948\" يشير إلى إسرائيل ضمن خطوط هدنة 1949؛ ويحصي CBS الإسرائيلي المواطنين العرب على حدة وبتعريف مختلف.",
+        "he": "המונח של PCBS \"שטחי 1948\" מתייחס לישראל בתוך קווי שביתת הנשק של 1949; ה-CBS הישראלי סופר אזרחים ערבים בנפרד ובהגדרה שונה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7628,7 +8228,13 @@
         }
       ],
       "notes": {
-        "en": "Aggregate figure without a breakdown by country in this release (Jordan holds the largest share; see UNRWA records)."
+        "en": "Aggregate figure without a breakdown by country in this release (Jordan holds the largest share; see UNRWA records).",
+        "ar": "رقم إجمالي بلا توزيع بحسب البلد في هذا الإصدار (يحتل الأردن الحصة الأكبر؛ انظر سجلات الأونروا).",
+        "he": "נתון מצטבר ללא פילוח לפי מדינה בפרסום זה (לירדן החלק הגדול ביותר; ראו רישומי אונר״א).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7674,7 +8280,13 @@
         }
       ],
       "notes": {
-        "en": "Derived: 8.82 million diaspora minus 6.82 million in Arab countries = about 2.0 million. No sourced country figures were found for Chile or the United States."
+        "en": "Derived: 8.82 million diaspora minus 6.82 million in Arab countries = about 2.0 million. No sourced country figures were found for Chile or the United States.",
+        "ar": "مشتق: 8.82 مليون في الشتات ناقص 6.82 مليون في الدول العربية = نحو 2.0 مليون. لم يُعثر على أرقام موثقة بالمصادر لتشيلي أو الولايات المتحدة.",
+        "he": "נגזר: 8.82 מיליון בתפוצה פחות 6.82 מיליון במדינות ערב = כ-2.0 מיליון. לא נמצאו נתונים מבוססי מקור לצ'ילה או לארצות הברית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7725,7 +8337,13 @@
         }
       ],
       "notes": {
-        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil); the original UNRWA document was not consulted."
+        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil); the original UNRWA document was not consulted.",
+        "ar": "رقم غير مباشر (تقدير الأونروا كما نقله غوتهيل)؛ ولم يُرجع إلى وثيقة الأونروا الأصلية.",
+        "he": "נתון משני (הערכת אונר״א כפי שצוטטה אצל גוטהייל); מסמך אונר״א המקורי לא נבדק.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7774,7 +8392,13 @@
         }
       ],
       "notes": {
-        "en": "End of the UNRWA reporting period (30 June 1992)."
+        "en": "End of the UNRWA reporting period (30 June 1992).",
+        "ar": "نهاية فترة تقارير الأونروا (30 حزيران/يونيو 1992).",
+        "he": "סוף תקופת הדיווח של אונר״א (30 ביוני 1992).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7824,7 +8448,13 @@
         }
       ],
       "notes": {
-        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil)."
+        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil).",
+        "ar": "رقم غير مباشر (تقدير الأونروا كما نقله غوتهيل).",
+        "he": "נתון משני (הערכת אונר״א כפי שצוטטה אצל גוטהייל).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -7874,7 +8504,13 @@
         }
       ],
       "notes": {
-        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil). Gottheil also quotes 74,000 in Libya and over 100,000 in other Gulf countries."
+        "en": "Second-hand figure (UNRWA estimate as quoted by Gottheil). Gottheil also quotes 74,000 in Libya and over 100,000 in other Gulf countries.",
+        "ar": "رقم غير مباشر (تقدير الأونروا كما نقله غوتهيل). ويورد غوتهيل أيضًا 74,000 في ليبيا وأكثر من 100,000 في دول الخليج الأخرى.",
+        "he": "נתון משני (הערכת אונר״א כפי שצוטטה אצל גוטהייל). גוטהייל מצטט גם 74,000 בלוב ולמעלה מ-100,000 במדינות המפרץ האחרות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

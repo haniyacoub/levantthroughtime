@@ -908,5 +908,5 @@ Records whose every source was only confirmed at catalogue level, or only seen q
 
 ## 4. Translations awaiting review
 
-5654 Arabic/Hebrew texts are machine drafts; 0 have been reviewed. Interface strings in src/i18n/locales/ar.json and he.json are also machine drafts.
+8022 Arabic/Hebrew texts are machine drafts; 0 have been reviewed. Interface strings in src/i18n/locales/ar.json and he.json are also machine drafts.
 
