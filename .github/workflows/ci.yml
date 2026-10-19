@@ -1,5 +1,6 @@
 # Runs on every push and pull request: validates the data, runs the tests and
-# builds the site. On the main branch it then deploys to GitHub Pages
+# builds the site. Publishing is never automatic: to deploy to GitHub Pages, open
+# Actions → CI → "Run workflow" on the main branch and tick "Deploy to GitHub Pages"
 # (enable Pages → "GitHub Actions" in the repository settings first).
 name: CI
 
@@ -7,6 +8,11 @@ on:
   push:
   pull_request:
   workflow_dispatch:
+    inputs:
+      deploy:
+        description: Deploy to GitHub Pages
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -61,18 +67,18 @@ jobs:
           CI: true
 
       - name: Rebuild for Pages
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        if: github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch' && inputs.deploy
         run: npx vite build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/
 
       - uses: actions/upload-pages-artifact@v5
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        if: github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch' && inputs.deploy
         with:
           path: dist
 
   deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    if: github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch' && inputs.deploy
     needs: check-and-build
     runs-on: ubuntu-latest
     permissions:

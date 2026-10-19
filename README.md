@@ -103,8 +103,9 @@ The site is a set of static files, so it can be hosted for free. Nothing has bee
    ```
 
 3. On GitHub, open the repository → **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Every push now runs the checks in `.github/workflows/ci.yml`: validate the data, run the tests, build. If they pass on `main`, it publishes to `https://<your-user>.github.io/<repo-name>/`. Progress is under the **Actions** tab.
-5. Optional: to turn on the "Suggest a correction" links, add this line to `data/config.json`:
+4. Every push now runs the checks in `.github/workflows/ci.yml`: validate the data, run the tests, build. Pushing does **not** publish anything.
+5. To publish: open the **Actions** tab → **CI** → **Run workflow**, choose the `main` branch, tick **Deploy to GitHub Pages**, and press the green button. When it finishes, the site is at `https://<your-user>.github.io/<repo-name>/`. Repeat this whenever you want the public site updated.
+6. Optional: to turn on the "Suggest a correction" links, add this line to `data/config.json`:
    `"corrections_url": "https://github.com/<your-user>/<repo-name>/issues/new"`
 
 ### Vercel (alternative)
