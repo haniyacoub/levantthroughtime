@@ -542,7 +542,17 @@ export function validateData(dir: string): Result {
       if (tx && markers(tx) !== markers(text.en)) err(file, where, `The ${lang} text does not carry the same citation markers as the English`);
     }
   };
+  const aboutIds = new Set<string>([
+    ...(b.conflicts?.conflicts ?? []).map((x) => x.id),
+    ...(b.events?.events ?? []).map((x) => x.id),
+    ...(b.migrations?.migrations ?? []).map((x) => x.id),
+    ...(b.polities?.polities ?? []).map((x) => x.id),
+    ...(b.places?.places ?? []).map((x) => x.id),
+  ]);
   for (const p of b.perspectives?.perspectives ?? []) {
+    for (const id of p.about ?? []) {
+      if (!aboutIds.has(id)) err('perspectives.json', `id "${p.id}" › about`, `Unknown record "${id}" (must be a conflict, event, migration, polity or place id)`);
+    }
     for (const [i, a] of p.accounts.entries()) {
       const aw = `id "${p.id}" › accounts[${i}] (${a.perspective})`;
       checkRefs('perspectives.json', aw, a.sources);

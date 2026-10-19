@@ -1,0 +1,2363 @@
+{
+  "$schema": "../schema/perspectives.schema.json",
+  "perspectives": [
+    {
+      "id": "exodus-and-israelite-settlement",
+      "title": {
+        "en": "Did the Exodus happen, and how did the Israelites come to live in Canaan?"
+      },
+      "about": [
+        "israelite-conquest-of-canaan-textual",
+        "late-bronze-age-destructions-archaeological"
+      ],
+      "accounts": [
+        {
+          "perspective": "religious",
+          "label": {
+            "en": "Jewish, Christian and Muslim scriptural tradition"
+          },
+          "summary": {
+            "en": "The Hebrew Bible relates that the Israelites lived in Egypt for 430 years, were oppressed with heavy labour and were freed by God, who brought them to 'this land, a land flowing with milk and honey' [1]. It then describes a conquest of the whole country under Joshua, who divided it among the tribes of Israel [1]. The Christian New Testament repeats that Moses led the Israelites out of Egypt and through the wilderness, and the Qur'an tells of God commanding Moses to lead His servants out by night and of Moses urging his people to enter the holy land [2][3]."
+          },
+          "sources": [
+            {
+              "ref": "jps-2023-tanakh",
+              "locator": "Exodus 12:40; Deuteronomy 26:5-9; Joshua 11:23",
+              "quote": "The length of time that the Israelites lived in Egypt was four hundred and thirty years;"
+            },
+            {
+              "ref": "world-english-bible",
+              "locator": "Acts 7:36",
+              "quote": "This man led them out, having worked wonders and signs in Egypt, in the Red Sea, and in the wilderness for forty years."
+            },
+            {
+              "ref": "quran-corpus-translations",
+              "locator": "Qur'an 20:77 and 5:21 (Sahih International)",
+              "quote": "O my people, enter the Holy Land which Allah has assigned to you"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli national narrative and public debate"
+          },
+          "summary": {
+            "en": "Israel's Declaration of Independence describes the Land of Israel as the birthplace of the Jewish people, where its identity was shaped and the Bible was given to the world [1]. In a widely discussed 1999 Haaretz article, the Tel Aviv University archaeologist Ze'ev Herzog argued that the Israelites were never in Egypt and did not conquer the land in a military campaign, and that this challenges mythical foundations of Israeli identity [2]. Responding in the same paper, Hershel Shanks of the Biblical Archaeology Society agreed that the Bible exaggerates and that no Egyptian document mentions the Exodus, but called Herzog's argument simplistic and held that history can still be found in the text [3]."
+          },
+          "sources": [
+            {
+              "ref": "israel-1948-declaration-of-establishment",
+              "locator": "opening paragraph",
+              "quote": "was the birthplace of the Jewish people. Here their spiritual, religious and political identity was shaped."
+            },
+            {
+              "ref": "herzog-1999-deconstructing-walls-jericho",
+              "locator": "opening paragraph and conclusion",
+              "quote": "the Israelites were never in Egypt, did not wander in the desert, did not conquer the land in a military campaign and did not pass it on to the 12 tribes of Israel."
+            },
+            {
+              "ref": "shanks-1999-herzog-attack-unjustified",
+              "locator": "paras 4-6",
+              "quote": "On the merits, Herzog's argument is simplistic and flawed."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian and critical-scholarship framing"
+          },
+          "summary": {
+            "en": "The Palestinian scholar Nur Masalha argues that the biblical language of a 'chosen people' and a 'promised land' has been used by Christian and Jewish Zionists as 'title deeds' for Israel, justifying ethnic division and violence [1][2]. The British biblical scholar Keith Whitelam argues that the search for ancient Israel has obscured the history of ancient Palestine and that biblical scholarship contributed to the dispossession of both a Palestinian land and a Palestinian past [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "masalha-bible-and-zionism",
+              "locator": "publisher description",
+              "via": "bloomsbury-masalha-bible-and-zionism-page"
+            },
+            {
+              "ref": "bloomsbury-masalha-bible-and-zionism-page",
+              "locator": "book description",
+              "quote": "the biblical language of 'chosen people' and 'promised land' has been used by many Christian and Jewish Zionists as the 'title deeds' for Israel"
+            },
+            {
+              "ref": "whitelam-1996-invention-ancient-israel",
+              "locator": "publisher description",
+              "via": "routledge-whitelam-invention-page"
+            },
+            {
+              "ref": "routledge-whitelam-invention-page",
+              "locator": "book description",
+              "quote": "have contributed to dispossession of both a Palestinian land and a Palestinian past"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Conservative scholarship defending the tradition"
+          },
+          "summary": {
+            "en": "The Egyptologist James Hoffmeier argues that Egyptological evidence supports the biblical record of an Israelite sojourn in Egypt, and that those who reject the Exodus tradition for lack of evidence are not specialists in Egyptian history and archaeology [1][2]. Kenneth Kitchen holds that the details of the Old Testament narratives fit the periods in which they are set, and dates the Exodus to around 1250 BCE and the settlement to the following two centuries [3][4][5]."
+          },
+          "sources": [
+            {
+              "ref": "hoffmeier-1997-israel-in-egypt",
+              "locator": "book description",
+              "via": "tiu-hoffmeier-israel-in-egypt-page"
+            },
+            {
+              "ref": "tiu-hoffmeier-israel-in-egypt-page",
+              "locator": "book description",
+              "quote": "Those advancing these claims, however, are not specialists in the study of Egyptian history, culture, and archaeology."
+            },
+            {
+              "ref": "kitchen-2003-reliability-old-testament",
+              "locator": "as summarised by Plant and Williams",
+              "via": "plant-review-kitchen"
+            },
+            {
+              "ref": "plant-review-kitchen",
+              "locator": "review, paras 3-4",
+              "quote": "Regarding the exodus and settlement, Kitchen prefers a late chronology, c. 1250 and 1210–1042 respectively."
+            },
+            {
+              "ref": "williams-review-kitchen",
+              "locator": "review, p. 1",
+              "quote": "provides a step-by-step, point-by-point examination of the reliability of the Old Testament"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Mainstream archaeology"
+          },
+          "summary": {
+            "en": "William Dever reports no direct archaeological evidence for Moses or a mass exodus and holds, with many scholars, that most early Israelites were displaced Canaanites who founded small villages in the central hill country [1][2][3]. In this view most Canaanite towns were not destroyed by Israelites and the biblical writers enlarged a more modest story, though some of the settlers may have come from Egypt [1][3]. Israel Finkelstein and Neil Asher Silberman argue that the Exodus and conquest stories reflect the world of later authors, above all Judah in the time of King Josiah in the seventh century BCE, rather than historical events [4][5][6]. Amihai Mazar, closer to traditional interpretations, gives more weight to ancient Near Eastern texts and holds that some parallels between second-millennium culture and the patriarchal stories are too close to be ignored [6][7]."
+          },
+          "sources": [
+            {
+              "ref": "dever-2008-nova-interview",
+              "locator": "sections \"Evidence of the early Israelites\" and \"The origins of Israel\"",
+              "quote": "Many scholars now think that most of the early Israelites were originally Canaanites, displaced Canaanites, displaced from the lowlands"
+            },
+            {
+              "ref": "dever-2003-early-israelites",
+              "locator": "as summarised by Pitkänen",
+              "via": "pitkanen-review-dever"
+            },
+            {
+              "ref": "pitkanen-review-dever",
+              "locator": "review, para. 1",
+              "quote": "Dever’s own reconstruction stresses indigenous origins of the Israelites"
+            },
+            {
+              "ref": "finkelstein-silberman-2001-bible-unearthed",
+              "locator": "publisher description",
+              "via": "simonschuster-bible-unearthed-page"
+            },
+            {
+              "ref": "simonschuster-bible-unearthed-page",
+              "locator": "book description",
+              "quote": "reflect the world of the later authors rather than actual historical facts"
+            },
+            {
+              "ref": "hess-2007-review-finkelstein-mazar",
+              "locator": "review, paras 3-5",
+              "quote": "This view understands the period of Josiah (c. 640-609 B.C.) as formative for everything before it."
+            },
+            {
+              "ref": "finkelstein-mazar-2007-quest",
+              "locator": "p. 59, as quoted by Hess",
+              "quote": "are too close to be ignored",
+              "via": "hess-2007-review-finkelstein-mazar"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Biblical 'minimalists'"
+          },
+          "summary": {
+            "en": "Scholars grouped as 'minimalists', such as Thomas Thompson, Niels Peter Lemche and Philip Davies, hold that the biblical narratives are literary and theological works composed in the Persian or Hellenistic periods and cannot serve as direct sources for the eras they describe [1][2][3]. Thompson argues that a history of ancient Palestine must be written from archaeology and contemporary evidence as a task distinct from interpreting the Bible [1]. Davies rejects 'minimalism' as a label invented by opponents, while critics such as Hershel Shanks describe these scholars as treating the Bible as essentially fiction and as having a political agenda [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "thompson-view-from-copenhagen",
+              "locator": "section \"Guiding Principles\"",
+              "quote": "It is rare that a literary or theologically oriented production can be attributed the historicity of more typical historical sources."
+            },
+            {
+              "ref": "lemche-2003-conservative-scholarship",
+              "locator": "main text",
+              "quote": "The demolition of the history of ancient Israel proceeded along a logical line of advance from the patriarchs, via the Exodus and the conquest"
+            },
+            {
+              "ref": "davies-2002-minimalism-anti-semitism",
+              "locator": "sections 1-2",
+              "quote": "my own argument that the bulk of Hebrew Bible literature was created during the Persian period conflicts with Lemche’s view that it is Hellenistic"
+            },
+            {
+              "ref": "shanks-1999-herzog-attack-unjustified",
+              "locator": "paras 1-2",
+              "quote": "they share the basic view that the Bible is essentially a fictional account"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Textual tradition and archaeology are kept apart here: the scriptural account is a religious narrative, while the scholarly accounts differ over how much of it reflects history. The scholarly positions range from defence of the tradition's historical core, through mainstream views of largely indigenous Israelite origins, to the 'minimalist' view of late composition; Israeli and Palestinian public debates have drawn on all of them."
+      }
+    },
+    {
+      "id": "united-monarchy",
+      "title": {
+        "en": "How large and how powerful was the kingdom of David and Solomon?"
+      },
+      "about": [
+        "united-monarchy-textual",
+        "united-monarchy-archaeological"
+      ],
+      "accounts": [
+        {
+          "perspective": "religious",
+          "label": {
+            "en": "Biblical account"
+          },
+          "summary": {
+            "en": "The books of Samuel describe David defeating the Philistines, Moabites and Arameans and stationing garrisons in Aram of Damascus [1]. The books of Kings and Chronicles describe Solomon ruling over all the kingdoms from the Euphrates to the land of the Philistines and the border of Egypt, while Judah and Israel dwelt in safety from Dan to Beer-sheba [1]."
+          },
+          "sources": [
+            {
+              "ref": "jps-2023-tanakh",
+              "locator": "2 Samuel 8:1-6; 1 Kings 5:1-5; 2 Chronicles 9:26",
+              "quote": "Solomon’s rule extended over all the kingdoms from the Euphrates to the land of the Philistines and the boundary of Egypt."
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli heritage presentation and public debate"
+          },
+          "summary": {
+            "en": "The City of David National Park, run by the Ir David Foundation (Elad), presents the site as the place where King David established the capital of the people of Israel and says some experts believe his palace has been found there [1]. Ze'ev Herzog's 1999 Haaretz article, by contrast, told Israeli readers that the united monarchy described in the Bible as a regional power was at most a small tribal kingdom [2]. The journalist Rachel Poser reports that many Israelis base their claim to the land on descent from David and that Elad promotes this link at a site in East Jerusalem across the Green Line [3]."
+          },
+          "sources": [
+            {
+              "ref": "city-of-david-national-park-page",
+              "locator": "site description",
+              "quote": "It was here that King David arrived and established the capital of the people of Israel, and some experts believe that his palace has been found on this very hill."
+            },
+            {
+              "ref": "herzog-1999-deconstructing-walls-jericho",
+              "locator": "opening paragraph",
+              "quote": "was at most a small tribal kingdom"
+            },
+            {
+              "ref": "poser-2019-common-ground",
+              "locator": "paras 4-9",
+              "quote": "Many Israelis base their claim to the land on their descent from David"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian and critical-scholarship framing"
+          },
+          "summary": {
+            "en": "The Wadi Hilweh Information Center in Silwan holds that naming the neighbourhood the City of David is an attempt to erase its history, and uses the original Arabic name so that it is not falsified or forgotten [1]. Keith Whitelam argues that scholars invented ancient Israel, including an early Israelite state, in the image of a European nation state, silencing the history of ancient Palestine [2][3]."
+          },
+          "sources": [
+            {
+              "ref": "wadi-hilweh-center-about",
+              "locator": "About text",
+              "quote": "In an attempt to erase the history of this neighborhood, it was named \"City of David\""
+            },
+            {
+              "ref": "whitelam-1996-invention-ancient-israel",
+              "locator": "publisher description and table of contents (ch. 4, The Creation of an Israelite State)",
+              "via": "routledge-whitelam-invention-page"
+            },
+            {
+              "ref": "routledge-whitelam-invention-page",
+              "locator": "book description",
+              "quote": "argues that ancient Israel has been invented by scholars in the image of a European nation state"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Amihai Mazar's 'modified conventional' view"
+          },
+          "summary": {
+            "en": "Amihai Mazar holds that the biblical United Monarchy, though wrapped in literary, theological and ideological layers, may reflect the memory of a real polity formed by a charismatic leader, David, in the tenth century BCE [1]. He suggests it was perhaps a short-lived tribal alliance without a centralised administration but with influence over extensive territories, citing monumental building in the City of David and the 'house of David' named in the ninth-century Tel Dan stele [1]. His modified chronology stretches the Iron Age IIA over both the tenth and ninth centuries BCE, a middle course between the traditional dating and Finkelstein's [1][2]."
+          },
+          "sources": [
+            {
+              "ref": "mazar-2021-beth-shean",
+              "locator": "pp. 242, 259-260",
+              "quote": "The Davidic state should perhaps be understood as a short-lived tribal alliance, lacking a centralized administration and hierarchical society yet having an impact on extensive territories."
+            },
+            {
+              "ref": "hess-2007-review-finkelstein-mazar",
+              "locator": "review, para. 8",
+              "quote": "Mazar’s expansion of Iron Age IIA to cover c. 980-830 B.C."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Excavators supporting an early state (Eilat Mazar, Yosef Garfinkel)"
+          },
+          "summary": {
+            "en": "Eilat Mazar argued that a massive structure she excavated in the City of David dates to around 1000 BCE and is David's palace, reasoning that its size implies a royal building and that the Bible reports such a palace was built [1]. Yosef Garfinkel and colleagues argue that radiocarbon-dated fortifications from their excavations at Khirbet Qeiyafa and Lachish show the kingdom of Judah building fortified cities in the tenth century BCE [2]. A 2019 Harper's report described the archaeological community as nearly unanimous in rejecting the palace identification [3]."
+          },
+          "sources": [
+            {
+              "ref": "mazar-e-2008-nova-palace-king-david",
+              "locator": "section \"Signs of royalty\"",
+              "quote": "We conclude it's a palace because the Bible reports very clearly that such a palace was built."
+            },
+            {
+              "ref": "garfinkel-2019-lachish",
+              "locator": "abstract",
+              "quote": "dated by radiocarbon ( 14C) to the second half of the 10th century BCE"
+            },
+            {
+              "ref": "poser-2019-common-ground",
+              "locator": "para. 8",
+              "quote": "the archaeological community has been nearly unanimous in rejecting Mazar’s theory"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Israel Finkelstein's 'Low Chronology'"
+          },
+          "summary": {
+            "en": "Israel Finkelstein holds that the biblical idea of a great united monarchy ruling from Jerusalem over all Israel is a literary construct of late-monarchic Judahite authors, created in the time of Josiah [1][2]. He argues, partly on radiocarbon evidence, that monuments once attributed to Solomon were built by the Omride kings of northern Israel in the ninth century BCE, and that the two Hebrew kingdoms grew in parallel rather than from one state [1]. In his reconstruction the early Davidic rulers were chiefs of a small Jerusalem-centred polity whose takeover of former Saulide territory may be the historical seed of the later memory of a united monarchy [1]."
+          },
+          "sources": [
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "pp. 8-9, 60-61, 157-159",
+              "quote": "it is clear today that the biblical idea of a great united monarchy is a literary construct"
+            },
+            {
+              "ref": "hess-2007-review-finkelstein-mazar",
+              "locator": "review, para. 3",
+              "quote": "the scribes of Josiah’s age created or rewrote the “Bible” to conform to the concerns and religious values of Josiah’s time"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "'Minimalists' and their critics"
+          },
+          "summary": {
+            "en": "Scholars such as Niels Peter Lemche question whether a united kingdom, or even a historical King David, existed at all [1][2]. Other scholars, including Kenneth Kitchen and Amihai Mazar, point to the 'house of David' named in the ninth-century Tel Dan inscription as evidence that a dynasty bearing David's name existed [3][4][2]."
+          },
+          "sources": [
+            {
+              "ref": "lemche-2003-conservative-scholarship",
+              "locator": "main text",
+              "quote": "critical scholars questioning, e.g., the very existence of King David"
+            },
+            {
+              "ref": "mazar-2021-beth-shean",
+              "locator": "p. 259 (survey of views)",
+              "quote": "others either negate its very existence or suggest that it was a small political entity centered in Jerusalem and its vicinity"
+            },
+            {
+              "ref": "kitchen-2003-reliability-old-testament",
+              "locator": "as summarised by Plant",
+              "via": "plant-review-kitchen"
+            },
+            {
+              "ref": "plant-review-kitchen",
+              "locator": "review, para. 3",
+              "quote": "external evidence for David lies in the references to Byt-Dwd in the Tell Dan and Mesha stelae"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The biblical account and the archaeological reconstructions are presented separately; the map shows tradition-based extents as described in the Hebrew Bible, not as surveyed borders. Scholars disagree mainly over dating (the 'conventional', 'modified' and 'Low' chronologies) and over whether tenth-century Jerusalem ruled a kingdom, a chiefdom or a short-lived alliance; in Jerusalem the debate is tied to the naming and control of Silwan / the City of David."
+      }
+    },
+    {
+      "id": "roman-era-exile",
+      "title": {
+        "en": "Were the Jews exiled after the Roman wars of 66-73 and 132-135 CE, and did a Jewish presence continue in the land?"
+      },
+      "about": [
+        "first-jewish-roman-war",
+        "bar-kokhba-revolt",
+        "roman-era-jewish-diaspora"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli national narrative"
+          },
+          "summary": {
+            "en": "Israel's Declaration of Independence states that the Jewish people was forcibly exiled from its land and kept faith with it throughout the Dispersion, never ceasing to hope for return [1]. Israel's foreign ministry describes the Roman suppression of the revolts as catastrophic, with mass death and enslavement reported by Josephus, after which a small remaining Jewish community recovered around new centres such as Yavneh and Tiberias, reinforced by returning exiles [2]. It holds that a Jewish presence continued under later rulers, though it diminished, and that at the start of Ottoman rule the community included descendants of Jews who had always lived in the land [3]."
+          },
+          "sources": [
+            {
+              "ref": "israel-1948-declaration-of-establishment",
+              "locator": "opening paragraphs",
+              "quote": "After being forcibly exiled from their land, the people remained faithful to it throughout their Dispersion"
+            },
+            {
+              "ref": "israel-mfa-history-second-temple",
+              "locator": "section on the revolts",
+              "quote": "the small remaining Jewish community gradually recovered, reinforced from time to time by returning exiles"
+            },
+            {
+              "ref": "israel-mfa-history-foreign-domination",
+              "locator": "section \"Ottoman Rule (1517-1917)\"",
+              "quote": "The community was comprised of descendants of Jews who had always lived in the Land, as well as immigrants from North Africa and Europe."
+            }
+          ]
+        },
+        {
+          "perspective": "religious",
+          "label": {
+            "en": "Jewish religious tradition"
+          },
+          "summary": {
+            "en": "Traditional Judaism understands the dispersion of the Jews as exile and holds a messianic hope for the eventual ingathering of the exiles to the land of Israel [1]. Reform Judaism, by contrast, has viewed the dispersal as providentially arranged to spread monotheism throughout the world [1]."
+          },
+          "sources": [
+            {
+              "ref": "britannica-diaspora-judaism",
+              "locator": "introduction",
+              "quote": "the messianic hope of traditional Judaism for the eventual “ingathering of the exiles”"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli revisionist challenge (Shlomo Sand) and its critics"
+          },
+          "summary": {
+            "en": "The Tel Aviv University historian Shlomo Sand argues that the Romans never exiled the Jewish people, that the idea of exile derives from Christian and later nationalist myth, and that most Jews descend from converts to Judaism [1][2]. He holds that the Palestinians are more likely than most Jews to descend from the ancient population of Judea, citing early Zionists such as Yitzhak Ben-Zvi who believed the local peasants descended from Jewish farmers [2]. The Israeli historian Israel Bartal replies that Zionist historiography never concealed conversions such as that of the Khazars, and calls Sand's claims about Israeli historians baseless [3]."
+          },
+          "sources": [
+            {
+              "ref": "sand-2008-invention-jewish-people",
+              "locator": "as presented in the Haaretz interview",
+              "via": "ilani-2008-shattering-national-mythology"
+            },
+            {
+              "ref": "ilani-2008-shattering-national-mythology",
+              "locator": "interview, section \"Inventing the Diaspora\"",
+              "quote": "The Romans did not exile peoples and they could not have done so even if they had wanted to."
+            },
+            {
+              "ref": "bartal-2008-inventing-an-invention",
+              "locator": "review, paras 5-9",
+              "quote": "These claims are baseless"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian national framing"
+          },
+          "summary": {
+            "en": "The 1968 Palestinian National Charter declared claims of historical or religious ties of Jews with Palestine incompatible with the facts of history, holding that Judaism is a religion and not a nationality [1]. The same charter recognised as Palestinians the Jews who had normally resided in Palestine before what it called the Zionist invasion [1]. Later Palestinian scholarship, such as that of Nur Masalha, stresses the continuity of the land's local population and heritage across millennia, through adaptation rather than replacement [2][3][4]."
+          },
+          "sources": [
+            {
+              "ref": "plo-1968-palestinian-national-charter",
+              "locator": "Articles 6 and 20",
+              "quote": "Claims of historical or religious ties of Jews with Palestine are incompatible with the facts of history and the true conception of what constitutes statehood."
+            },
+            {
+              "ref": "masalha-2018-palestine",
+              "locator": "as quoted in reviews",
+              "quote": "Palestine and its local heritage have survived across more than three millennia through adaptation, fluidity, and transformation.",
+              "via": "meq-2019-review-masalha"
+            },
+            {
+              "ref": "meq-2019-review-masalha",
+              "locator": "review, para. 3"
+            },
+            {
+              "ref": "alaqad-2025-review-masalha",
+              "locator": "review, chapter 3 summary",
+              "quote": "Despite imperial efforts, local populations maintained their cultural practices and resisted assimilation."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Mainstream historical scholarship"
+          },
+          "summary": {
+            "en": "Historians such as Seth Schwartz hold that the revolts brought heavy losses through killing, enslavement, disease and starvation, but that Josephus's casualty figures are impossible and that Judaea retained a fairly large Jewish population after 70 CE [1]. After the Bar Kokhba revolt of 132-135 CE the Jewish population of Judaea proper was devastated and, according to Eusebius, Jews were barred from Jerusalem, while Jewish life continued in Galilee, where Tiberias became the seat of the patriarchs [2]. Scholars also note that diaspora Jews already far outnumbered the Jews of Palestine before 70 CE, and the historian Israel Yuval argues that mass deportation was a biblical image rather than Roman policy [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "schwartz-2006-land-of-israel-66-235",
+              "locator": "section a, demography",
+              "quote": "retained a fairly large Jewish population"
+            },
+            {
+              "ref": "britannica-palestine-roman",
+              "locator": "section on the Second Jewish Revolt",
+              "quote": "they survived in Galilee, which, like Samaria, appears to have held aloof from the revolt. Tiberias in Galilee became the seat of the Jewish patriarchs."
+            },
+            {
+              "ref": "britannica-diaspora-judaism",
+              "locator": "section on the ancient diaspora",
+              "quote": "Diaspora Jews thus far outnumbered the Jews in Palestine even before the destruction of Jerusalem in 70 ce ."
+            },
+            {
+              "ref": "icarus-exile-myth-unearthed",
+              "locator": "film synopsis (quoting Israel Yuval)",
+              "quote": "This is a Biblical image based on the Babylonians and Assyrians, but it was never Roman policy."
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "All accounts agree that the Roman wars destroyed the Temple and devastated Judaea and that Jewish life continued in Galilee for centuries; they differ over whether 'exile' describes a forced expulsion, a gradual emigration and conversion, or a religious idea. The question is tied to modern claims about who descends from the ancient inhabitants; genetic studies were not reviewed here."
+      }
+    },
+    {
+      "id": "syria-palaestina-renaming",
+      "title": {
+        "en": "When and why did Rome rename the province of Judaea \"Syria Palaestina\"?"
+      },
+      "about": [
+        "bar-kokhba-revolt"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli official and widely held account"
+          },
+          "summary": {
+            "en": "Israel's foreign ministry presents the renaming as part of Rome's response to the Bar Kokhba revolt, when Jerusalem was ploughed up and refounded as Aelia Capitolina and Judea was renamed Palaestina [1]. In the view commonly held, as described by David Jacobson, the emperor Hadrian renamed the province in 135 CE to sever the connection of the Jews to their historical homeland [2]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-history-second-temple",
+              "locator": "section on the Bar Kochba revolt",
+              "quote": "Judea was renamed Palaestina and Jerusalem, Aelia Capitolina."
+            },
+            {
+              "ref": "jacobson-2001-bar",
+              "locator": "main text before endnote 23",
+              "quote": "this is commonly viewed as a move intended to sever the connection of the Jews to their historical homeland"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian historical framing (Nur Masalha)"
+          },
+          "summary": {
+            "en": "The Palestinian historian Nur Masalha argues that the name and concept of Palestine are not a modern invention but are rooted in antiquity, from Egyptian and Assyrian texts through classical writers to the Roman and Byzantine provinces [1][2]. According to a reviewer's summary, he treats the imposition of Syria Palaestina after the Bar Kokhba revolt as an act of imperial erasure aimed at suppressing Jewish identity, while stressing the continuity of local traditions [3]. The American analyst Jonathan Schanzer, reviewing the book, rejects the claim of a continuous four-thousand-year history of Palestine [4]."
+          },
+          "sources": [
+            {
+              "ref": "masalha-2018-palestine",
+              "locator": "publisher description and table of contents",
+              "via": "bloomsbury-masalha-palestine"
+            },
+            {
+              "ref": "bloomsbury-masalha-palestine",
+              "locator": "description",
+              "quote": "the concept of Palestine, contrary to accepted belief, is not a modern invention or one constructed in opposition to Israel, but rooted firmly in ancient past"
+            },
+            {
+              "ref": "alaqad-2025-review-masalha",
+              "locator": "review, chapter 3 summary",
+              "quote": "Masalha examines this renaming as an act of colonial erasure"
+            },
+            {
+              "ref": "meq-2019-review-masalha",
+              "locator": "review, para. 3",
+              "quote": "But to assert a continuous four thousand-year history is absurd."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Scholarly debate on date and motive"
+          },
+          "summary": {
+            "en": "The earliest certain use of the name Palestine is in Herodotus, and the Romans first used it administratively in the second century CE as Syria Palaestina [1]. David Jacobson argues that, since Jewish writers such as Philo and Josephus already used 'Palestine' for the Land of Israel, Hadrian's choice is better seen as a name suited to a province larger than Judea than as an attempt to sever the Jewish connection [2]. Louis Feldman, as cited by Jacobson, held that only circumstantial evidence links Hadrian with the change and that its exact date is uncertain [3][2]."
+          },
+          "sources": [
+            {
+              "ref": "britannica-palestine-term",
+              "locator": "History of the term",
+              "quote": "The earliest incontrovertible use of the term is attested in Herodotus ’s History ."
+            },
+            {
+              "ref": "jacobson-2001-bar",
+              "locator": "main text",
+              "quote": "Hadrian’s choice of Syria Palaestina may be more correctly seen as a rationalization of the name of the new province"
+            },
+            {
+              "ref": "feldman-1990-name-palestine",
+              "locator": "p. 19, as reported in Jacobson 2001, endnote 23",
+              "quote": "only circumstantial evidence linking Hadrian with the change of the name Judea to that of Palestine",
+              "via": "jacobson-2001-bar"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The accounts agree that the province became Syria Palaestina in the second century CE, around the end of the Bar Kokhba revolt; they differ on whether the motive was punitive, administrative or both, and on what the name's antiquity means for modern claims."
+      }
+    },
+    {
+      "id": "islamic-conquest-arabisation",
+      "title": {
+        "en": "What did the Islamic conquest of the 630s mean for the land and its people, and how fast did the population become Arabic-speaking and Muslim?"
+      },
+      "about": [
+        "muslim-conquest-of-the-levant",
+        "arab-tribal-settlement-early-islam"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli official history"
+          },
+          "summary": {
+            "en": "Israel's foreign ministry describes the Arab conquest as the start of more than four centuries of rule by caliphs from Damascus, Baghdad and Egypt, under which Jews could at first resettle in Jerusalem and received the protected status of dhimmi in return for special taxes [1]. It holds that later restrictions on non-Muslims, heavy land taxes and discrimination drove Jews from the countryside and out of the country, so that by the end of the eleventh century the Jewish community had diminished considerably [1]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-history-foreign-domination",
+              "locator": "section \"Arab Rule (636-1099)\"",
+              "quote": "At the outset, Jewish settlement in Jerusalem resumed, and the Jewish community was granted the customary status of dhimmi (protected non-Muslims)"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian historical framing (Nur Masalha)"
+          },
+          "summary": {
+            "en": "Nur Masalha presents early Islamic Jund Filastin as a period of continuity and adaptation in which Islamic government was integrated with existing local structures [1][2]. He stresses that Arab tribes, kings, bishops and poets were already part of Byzantine Christian Palestine before Islam, and describes Muslim, Christian and Jewish communities coexisting under Islamic rule [1][2]."
+          },
+          "sources": [
+            {
+              "ref": "masalha-2018-palestine",
+              "locator": "chapters 5-6, as summarised",
+              "via": "alaqad-2025-review-masalha"
+            },
+            {
+              "ref": "alaqad-2025-review-masalha",
+              "locator": "review, chapter 6 summary",
+              "quote": "He analyzes the integration of Islamic governance with existing local structures, highlighting the adaptability of Palestinian society."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Historical and archaeological scholarship"
+          },
+          "summary": {
+            "en": "Encyclopaedia Britannica describes the conquest of 634-640, the organisation of Palestine into districts modelled on the Byzantine provinces, and a process of Arabization and Islamization that gained momentum under the Umayyads [1]. The historical geographer Ronnie Ellenblum argues that Christian communities persisted in parts of the country, such as north of Jerusalem and around Nablus, into the Crusader period, and explains the division between Christian and Muslim areas by processes of nomadisation and sedentarisation that began with the conquest [2]. He cautions that reliable statistics are lacking, so the religious make-up of particular regions in the Middle Ages is hard to establish [2]."
+          },
+          "sources": [
+            {
+              "ref": "britannica-palestine-roman-to-fatimid",
+              "locator": "section \"The rise of Islam\"",
+              "quote": "The process of Arabization and Islamization was gaining momentum there."
+            },
+            {
+              "ref": "ellenblum-1998",
+              "locator": "book description; chapter 19 summary",
+              "quote": "The division of the country between Christian and Muslim populations is explained by the far-reaching social process of nomadisation and sedentarisation"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The accounts agree that Arab Muslim rule began in the 630s and that Arabic and Islam spread gradually; they differ in emphasis, the Israeli official history stressing the decline of the Jewish community and Palestinian scholarship stressing continuity of the local population. Archaeological syntheses such as Gideon Avni's (2014) were not consulted in this pass."
+      }
+    },
+    {
+      "id": "arab-immigration-ottoman-mandate",
+      "title": {
+        "en": "How much of the Arab population growth in late Ottoman and Mandate Palestine came from immigration?"
+      },
+      "about": [
+        "arab-immigration-late-ottoman-mandate"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "The 'Arab immigration' thesis (Peters, Avneri, Gottheil)"
+          },
+          "summary": {
+            "en": "Joan Peters's From Time Immemorial (1984) argued that Arab immigration rose alongside Jewish immigration into the areas of Jewish settlement, so that the claim of an indigenous Arab population displaced by Jews was false [1][2]. Arieh Avneri argued similarly that Jewish settlement attracted rather than displaced Arabs and that there is no historical evidence of the eviction of Palestinians before 1948 [3][4][5]. The economist Fred Gottheil argues that the wage gap created by Jewish development must have drawn Arab migrants, and estimates from Mandate census data that migration accounted for a significant part of Arab growth in the Jewish-settled sub-districts in 1922-1931 [6]."
+          },
+          "sources": [
+            {
+              "ref": "peters-1984-from-time-immemorial",
+              "locator": "as summarised by Porath",
+              "via": "porath-1986-nyrb"
+            },
+            {
+              "ref": "porath-1986-nyrb",
+              "locator": "review, section on demography",
+              "quote": "Much of Mrs. Peters’s book argues that at the same time that Jewish immigration to Palestine was rising, Arab immigration to the parts of Palestine where Jews had settled also increased."
+            },
+            {
+              "ref": "avneri-1984-claim-of-dispossession",
+              "locator": "publisher description",
+              "via": "routledge-avneri-claim-of-dispossession"
+            },
+            {
+              "ref": "routledge-avneri-claim-of-dispossession",
+              "locator": "book description",
+              "quote": "He demonstrates that there is no historical evidence for the eviction of the Palestinians from Israel previous to the founding of the state."
+            },
+            {
+              "ref": "campbell-1984-review-peters",
+              "locator": "capsule review",
+              "quote": "such as that Jewish settlement attracted rather than displaced Arabs"
+            },
+            {
+              "ref": "gottheil-2003-smoking-gun",
+              "locator": "sections \"Disparities and Migration\" and on the 1922-1931 censuses",
+              "quote": "This 1922-31 Arab migration into the Jewish sub-districts represented 11.8 percent of the total 1931 Arab population residing in those sub-districts"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli scholarly critiques and revisions"
+          },
+          "summary": {
+            "en": "The Israeli historian Yehoshua Porath, reviewing Peters in 1986, held that most Palestinian Arab growth came from natural increase as modern medicine reduced infant mortality, and described large-scale Arab immigration as a theory, or myth, proposed by Zionist writers [1]. The Israeli demographer Roberto Bachi, as quoted by Gottheil, found that Arab populations grew faster near Jewish areas through lower mortality and internal migration, but concluded that the size of total immigration could not even be guessed [2][3]. The Israeli geographer David Grossman argues that Arab migration into rural Palestine, including Egyptian settlers, began before Zionist settlement and accelerated through Ottoman policy, with Jewish settlement one factor among several [4][5][6]."
+          },
+          "sources": [
+            {
+              "ref": "porath-1986-nyrb",
+              "locator": "review, section on demography",
+              "quote": "To account for the delay the theory, or myth, of large-scale immigration of Arabs from the neighboring countries was proposed by Zionist writers."
+            },
+            {
+              "ref": "bachi-1974-population-of-israel",
+              "locator": "pp. 34-35 and 51, as quoted by Gottheil 2003",
+              "quote": "in the present state of knowledge, we have been unable to even guess the size of total immigration",
+              "via": "gottheil-2003-smoking-gun"
+            },
+            {
+              "ref": "gottheil-2003-smoking-gun",
+              "locator": "quotations of Bachi",
+              "quote": "stronger decrease in mortality of the non-Jewish population in the neighborhood of Jewish areas and internal migration toward the more developed zones"
+            },
+            {
+              "ref": "grossman-2011-rural-arab-demography",
+              "locator": "as described by the publisher and by Meir",
+              "via": "meir-2011-review-grossman"
+            },
+            {
+              "ref": "magnes-grossman-rural-arab-demography",
+              "locator": "book description",
+              "quote": "Grossman traces little-known Muslim ethnic groups who settled in Palestine's rural areas, primarily Egyptians, but also Algerians, Bosnians, and Circassians."
+            },
+            {
+              "ref": "meir-2011-review-grossman",
+              "locator": "review, discussion of chapter 2",
+              "quote": "The major insight gained is that, contrary to accepted wisdom, Arab migration began before the mid-19 th century and accelerated in its second half."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian scholarship"
+          },
+          "summary": {
+            "en": "Palestinian scholarship holds that Palestine's Arab population was long settled and grew overwhelmingly by natural increase; a 1974 study in the Journal of Palestine Studies attributed almost all Muslim growth between 1922 and 1945 to natural increase [1]. The Interactive Encyclopedia of the Palestine Question contrasts the indigenous Muslim and Christian population with the substantial Jewish immigration that began in the late nineteenth century [2]. Edward Said, drawing on the research of Norman Finkelstein and Bill Farrell, described From Time Immemorial as resting on misquoted and altered sources, including British reports cited as evidence of Arab immigration [3]."
+          },
+          "sources": [
+            {
+              "ref": "hagopian-zahlan-1974-palestines-arab-population",
+              "locator": "pp. 8-9",
+              "quote": "The natural increase of the Muslims was very high."
+            },
+            {
+              "ref": "palquest-demography-i",
+              "locator": "section on the nineteenth century",
+              "quote": "making it possible for the Jewish population there to grow substantially faster than the indigenous Muslim and Christian population"
+            },
+            {
+              "ref": "said-1985-conspiracy-of-praise",
+              "locator": "paras 3-4",
+              "quote": "she either plagiarized Zionist propaganda sources or deliberately tampered with quotations so as to change their meaning entirely"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Demographic historians"
+          },
+          "summary": {
+            "en": "The historian Justin McCarthy, analysing Ottoman population registers, argues that Muslim immigration into Palestine after the 1870s was small, and that an unrecorded steady inflow of Arabs stretches the limits of credulity [1]. Martin Kramer, reviewing Peters in 1984, noted that Arab immigration and internal migration both occurred but that neither the Ottomans nor the British counted them, so their scale could only be estimated [2]. Gottheil in turn criticises McCarthy for relying on registration lists and ignoring the link between regional economic disparities and migration [3]."
+          },
+          "sources": [
+            {
+              "ref": "mccarthy-1990",
+              "locator": "pp. 16-17",
+              "quote": "stretches the limits of credulity"
+            },
+            {
+              "ref": "kramer-1984-review-peters",
+              "locator": "review, para. 6",
+              "quote": "The critical issue here, however, is not the existence of Arab immigration and in-migration"
+            },
+            {
+              "ref": "gottheil-2003-smoking-gun",
+              "locator": "section on McCarthy",
+              "quote": "ignoring completely the linkages between regional economic disparities and migratory impulses"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "All accounts agree that Jewish immigration drove Jewish population growth and that some Arab migration into and within Palestine occurred; they disagree on its scale and on whether it bears on claims of historic residence. Ottoman and British records did not count most such movements, so all figures are estimates."
+      }
+    },
+    {
+      "id": "riots-1929-al-buraq",
+      "title": {
+        "en": "What caused the violence of August 1929 - the \"1929 riots\" or \"al-Buraq uprising\" - and how is it remembered?"
+      },
+      "about": [
+        "palestine-riots-1929"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli narrative (PRIME joint schoolbook)"
+          },
+          "summary": {
+            "en": "The Israeli narrative in the joint Israeli-Palestinian PRIME schoolbook calls the events of 1929 riots, part of what Jews termed the 'disturbances', and describes Arab crowds attacking Jewish neighbourhoods and settlements across the country after Friday prayers on 23 August [1]. It names as the immediate cause the dispute over Jewish prayer arrangements at the Western Wall, holds that the Mufti Haj Amin al-Husseini incited the crowds, and also mentions a Beitar march to the Wall a week earlier [1]. It sees the underlying cause in Arab opposition to the growth of the Jewish community and economy, and stresses that the Jewish community of Hebron ceased to exist and that Jews were killed in Safed despite good neighbourly relations [1]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Israeli narrative, PDF pp. 23-25 and glossary p. 29",
+              "quote": "Underlying the hostile relations between Jews and Arabs was the development of the economy and the Jewish yishuv which threatened the Arab street and leadership and awakened their opposition."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian narrative (PRIME joint schoolbook)"
+          },
+          "summary": {
+            "en": "The Palestinian narrative in the same schoolbook calls the events the al-Buraq Revolt and holds that they followed Jewish attempts to change the status quo at the al-Buraq Wall, a Muslim religious endowment, culminating in a Zionist march on 15 August 1929 at which demonstrators cried that the Wall was theirs [1]. It says most Arab casualties were caused by British police fire, recalls Jewish killings of Arabs such as the Awn family in Jaffa, and notes that some Arab families in Hebron protected Jews [1]. Palestinian institutions such as the Institute for Palestine Studies call the events the al-Buraq Uprising [2]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Palestinian narrative, PDF pp. 28-30",
+              "quote": "Most of the injuries among the Arabs were caused by the rifles of the British policemen."
+            },
+            {
+              "ref": "palquest-great-rebellion-1936-1939",
+              "locator": "introduction",
+              "quote": "from the 1929 al-Buraq Uprising"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "British and League of Nations inquiries"
+          },
+          "summary": {
+            "en": "The British Shaw Commission (1930) found that the outbreak in Jerusalem was from the beginning an attack by Arabs on Jews, that it was not premeditated, and that attacks by Jews on Arabs, though inexcusable, were mostly retaliation [1]. It identified the fundamental cause as Arab animosity towards the Jews arising from disappointed political and national aspirations and fear for their economic future, and held that the Mufti, though not intending disorder, shared responsibility [1]. A commission appointed with League of Nations approval ruled in 1930 that the Wall and the pavement before it are Muslim property, while Jews must have free access to the Wall for prayer [2]."
+          },
+          "sources": [
+            {
+              "ref": "shaw-1930-commission-report",
+              "locator": "Chapter XIV, conclusions 1-6 and finding 44",
+              "quote": "The fundamental cause, without which in our opinion disturbances either would not have occurred or would have been little more than a local riot, is the Arab feeling of animosity and hostility towards the Jews"
+            },
+            {
+              "ref": "wailing-wall-commission-1930",
+              "locator": "Conclusions",
+              "quote": "The Jews shall have free access to the Western Wall for the purpose of devotions at all times"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Hillel Cohen's 'Year Zero'"
+          },
+          "summary": {
+            "en": "The Israeli historian Hillel Cohen calls 1929 the 'year zero' of the Arab-Israeli conflict, arguing that the violence united previously divided Jewish communities around a Zionist national identity while Arabs came to see the conflict as a national one [1][2]. Drawing on Arabic and Hebrew sources, he argues that each side leaves out of its own history the killings committed by its members, such as the murder of the Palestinian Awn family by a Jewish policeman [1][3]."
+          },
+          "sources": [
+            {
+              "ref": "cohen-2015-year-zero",
+              "locator": "publisher description; review",
+              "via": "brandeis-cohen-year-zero-page"
+            },
+            {
+              "ref": "brandeis-cohen-year-zero-page",
+              "locator": "book description",
+              "quote": "historian Hillel Cohen marks these bloody events as year zero of the Arab-Israeli conflict that persists today"
+            },
+            {
+              "ref": "mendel-2016-review-cohen",
+              "locator": "review, paras 3-4",
+              "quote": "Cohen argues that neither side includes in the history it tells itself the massacres and murders committed by its own members"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Names differ: Israeli and Jewish sources speak of the 1929 riots or disturbances (and of the Hebron and Safed massacres), Palestinian sources of the al-Buraq Revolt or Uprising; the Wall itself is the Western Wall (ha-Kotel) or al-Buraq Wall. All accounts agree that a dispute over the Wall preceded the violence and that many Jews and Arabs were killed; they differ on causation and responsibility. Casualty figures are omitted."
+      }
+    },
+    {
+      "id": "arab-revolt-1936-39",
+      "title": {
+        "en": "What was the 1936-1939 revolt in Mandate Palestine, and why did it happen?"
+      },
+      "about": [
+        "arab-revolt-1936-1939"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli narrative (PRIME joint schoolbook)"
+          },
+          "summary": {
+            "en": "The Israeli narrative in the PRIME schoolbook calls the events of 1936-1939 the Arab Revolt, or 'disturbances', and allows that it can be seen as the first war of independence of the Arabs of the Land of Israel, fought against the British together with a frontal assault on the Jewish community [1]. It lists the rebels' declared goals as revoking the Balfour Declaration and the Mandate, stopping Jewish immigration and land sales, and establishing a single Arab state [1]. It describes attacks on Jews and Jewish property as terror and notes a wave of internal killings of Palestinians suspected of cooperating with the British and the Jews [1]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Israeli narrative, PDF pp. 41-43",
+              "quote": "One can relate to this revolt as to the first war of independence of the Arabs of the Land of Israel."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian narrative and historians"
+          },
+          "summary": {
+            "en": "The Palestinian narrative in the PRIME schoolbook calls it the Great Palestinian Revolt, which followed the death of Izz al-Din al-Qassam in 1935 and grew into an unprecedented general strike demanding above all an end to Jewish immigration [1]. It and the Interactive Encyclopedia of the Palestine Question stress British repression, including the demolition of much of Jaffa's old city, house raids, torture, imprisonment and deportation [1][2]. The historian Rashid Khalidi describes the strike as a spontaneous popular explosion from the bottom up, holds that the Peel partition proposal provoked a more militant phase, and argues that its suppression by massive British force left the Palestinians badly weakened [3]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Palestinian narrative, PDF pp. 48-54",
+              "quote": "The Committee continued to run the Revolt and the general strike which was unprecedented"
+            },
+            {
+              "ref": "palquest-great-rebellion-1936-1939",
+              "locator": "section on the first phase",
+              "quote": "Palestinians were subjected to house searches, night raids, beatings, imprisonment, torture, and deportation."
+            },
+            {
+              "ref": "khalidi-2020-hundred-years-war",
+              "locator": "chapter 1 (publisher excerpt)",
+              "quote": "the six-month general strike of 1936 constituted a popular and spontaneous explosion from the bottom up"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "British Royal (Peel) Commission, 1937"
+          },
+          "summary": {
+            "en": "The Peel Commission traced the outbreaks to the Arab demand for national independence and antagonism to the Jewish National Home, sharpened by the pressure of Europe's Jews on Palestine and the rise of Arab nationalism in neighbouring countries [1]. It concluded that an irrepressible conflict had arisen between two national communities whose aspirations were incompatible, and recommended partition [1]."
+          },
+          "sources": [
+            {
+              "ref": "peel-1937-summary",
+              "locator": "summary, chapters on the disturbances and on partition",
+              "quote": "An irrepressible conflict has arisen between two national communities within the narrow bounds of one small country."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Scholarship on collaboration and internal conflict"
+          },
+          "summary": {
+            "en": "Hillel Cohen's Army of Shadows examines Palestinian Arabs who cooperated with the Zionist movement during the Mandate, whom the national movement branded traitors and persecuted and whom the Zionist movement used and, he argues, betrayed [1][2]. He holds that this history, which he says has been largely ignored, shows that some of these Arabs held an alternative view of Palestinian nationalism [1][3]."
+          },
+          "sources": [
+            {
+              "ref": "cohen-2008-army-of-shadows",
+              "locator": "publisher description",
+              "via": "ucpress-cohen-army-of-shadows"
+            },
+            {
+              "ref": "ucpress-cohen-army-of-shadows",
+              "locator": "book description",
+              "quote": "which branded these \"collaborators\" as traitors and persecuted them; the Zionist movement, which used them to undermine Palestinian society from within and betrayed them"
+            },
+            {
+              "ref": "ucpress-cohen-army-of-shadows",
+              "locator": "book description",
+              "quote": "the collaborators themselves, who held an alternate view of Palestinian nationalism"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Names differ: Palestinians speak of the Great Revolt (al-thawra al-kubra), Israeli and Jewish sources of the Arab Revolt or the 'disturbances' (meora'ot) of 1936-1939. All accounts agree it combined a general strike, an armed rebellion against British rule and attacks on Jews, and that Britain suppressed it by force; they differ on its legitimacy and character. Casualty figures are omitted."
+      }
+    },
+    {
+      "id": "partition-plan-1947",
+      "title": {
+        "en": "Was the 1947 UN partition plan fair, and why did one side accept it and the other reject it?"
+      },
+      "about": [
+        "unga-resolution-181",
+        "civil-war-1947-1948"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli and Zionist account"
+          },
+          "summary": {
+            "en": "Israel's Declaration of Independence cites the UN resolution of 29 November 1947 as recognition of the Jewish people's right to a state, which it calls irrevocable, and declares Israel ready to cooperate in implementing it [1]. In the conventional Israeli account, as summarised by Avi Shlaim, the Jews accepted the plan despite the painful sacrifices it entailed while the Palestinians, the neighbouring Arab states and the Arab League rejected it [2]."
+          },
+          "sources": [
+            {
+              "ref": "israel-1948-declaration-of-establishment",
+              "locator": "paras on the UN resolution and on cooperation",
+              "quote": "This recognition by the United Nations of the right of the Jewish people to establish their State is irrevocable."
+            },
+            {
+              "ref": "shlaim-1995-debate-about-1948",
+              "locator": "section on the conventional Zionist account",
+              "quote": "The Jews accepted the UN plan despite the painful sacrifices it entailed but the Palestinians, the neighbouring Arab states and the Arab League rejected it."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Arab Higher Committee and Palestinian historiography"
+          },
+          "summary": {
+            "en": "Speaking for the Arab Higher Committee at the UN in September 1947, Jamal Husseini held that the Arabs had always been in Palestine, that its Arab majority should establish a democratic independent state in the whole country that would protect minorities, and that Palestine's Arabs would oppose any partition [1]. Palestinian historiography, as in the Interactive Encyclopedia of the Palestine Question, regards the plan as unjust because it gave the proposed Jewish state more than half of Mandate Palestine when Jews were under a third of the population and owned under 7 percent of the land [2]. It holds that the resolution gave international legitimacy to what it calls the Zionist conquest of Palestine by force of arms [2]."
+          },
+          "sources": [
+            {
+              "ref": "unga-1947-ahc-ad-hoc-statement",
+              "locator": "summary and take 6",
+              "quote": "the Arabs of Palestine were determined to oppose with all the means at their disposal, any scheme that provided for segregation or partition"
+            },
+            {
+              "ref": "palquest-un-partition-plan-1947",
+              "locator": "introduction",
+              "quote": "the plan proposed a Jewish state on more than half of Mandate Palestine at a time when Jews comprised less than a third of the population and owned less than 7 percent of the land"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "UN Special Committee on Palestine and the General Assembly"
+          },
+          "summary": {
+            "en": "The majority of the UN Special Committee on Palestine held that the claims of Arabs and Jews to Palestine both possessed validity but were irreconcilable, and that partition with economic union was the most realistic and practicable settlement [1]. A minority of the committee, India, Iran and Yugoslavia, proposed a federal state instead [1][2]. General Assembly resolution 181 of 29 November 1947 recommended independent Arab and Jewish states, linked by economic union, and a special international regime for Jerusalem [3]."
+          },
+          "sources": [
+            {
+              "ref": "unscop-1947",
+              "locator": "Chapter VI, Part I, Justification, para. 1",
+              "quote": "the claims to Palestine of the Arabs and Jews, both possessing validity, are irreconcilable"
+            },
+            {
+              "ref": "palquest-un-partition-plan-1947",
+              "locator": "section on UNSCOP",
+              "quote": "a Federal State Solution (supported by India, Iran, and Yugoslavia)"
+            },
+            {
+              "ref": "un-a-res-181-ii",
+              "locator": "Part I, A, para. 3",
+              "quote": "Independent Arab and Jewish States and the"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Israeli 'New Historians' and their critics"
+          },
+          "summary": {
+            "en": "Avi Shlaim, one of the Israeli 'New Historians', argues that the old history of 1948 was written largely by participants, and that British policy aimed less at blocking a Jewish state than at helping King Abdullah of Transjordan take the Arab part of Palestine, so that the Palestinian state envisaged in the plan was still-born [1]. Benny Morris stresses the religious, jihadi character of Arab opposition to Jewish statehood from the outset, a dimension that, according to one reviewer, he shows Israel's leaders underestimated [2][3]."
+          },
+          "sources": [
+            {
+              "ref": "shlaim-1995-debate-about-1948",
+              "locator": "sections on the old history and on British policy",
+              "quote": "Bevin indirectly helped to ensure that the Palestinian state envisaged in the UN partition plan would be still-born"
+            },
+            {
+              "ref": "morris-2008-1948",
+              "locator": "publisher description and quoted reviews",
+              "via": "yale-morris-1948-page"
+            },
+            {
+              "ref": "yale-morris-1948-page",
+              "locator": "description and review by David Horovitz",
+              "quote": "Morris stresses the jihadi character of the two-stage Arab assault on the Jewish community in Palestine."
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "All accounts agree that the Jewish Agency accepted and the Arab Higher Committee and Arab states rejected the plan; they disagree on whether the plan was fair, on how sincere the acceptance was, and on the legitimacy of the UN recommending partition."
+      }
+    },
+    {
+      "id": "causes-of-1948-exodus",
+      "title": {
+        "en": "Why did Palestinian Arabs leave or lose their homes in 1947-49?"
+      },
+      "about": [
+        "palestinian-refugees-1947-1949"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli official and traditional account"
+          },
+          "summary": {
+            "en": "An Israeli Prime Minister's Office background paper places responsibility on the Arab side, which rejected partition and began attacks, and attributes the flight largely to the collapse of Palestinian Arab institutions after the elite left [1]. It cites the memoirs of Khaled al-Azm, Syria's prime minister in 1948-1949, which blamed Arab governments for calling on Palestine's inhabitants to evacuate [1]. Historians in this tradition such as Efraim Karsh argue that the exodus was a self-inflicted catastrophe, with Palestinian leaders and Arab forces driving many from their homes, as in Haifa, despite Jewish efforts to persuade them to stay [2][3][4]. Yoav Gelber describes much of the flight as voluntary, following a pattern in which civilians left combat zones expecting to return [5][6]."
+          },
+          "sources": [
+            {
+              "ref": "israel-pmo-refugee-issue",
+              "locator": "sections 'The Arab Refugees of 1948' and 'Arab Responsibility for the Refugee Problem'",
+              "quote": "The most obvious reason was the collapse of Arab political institutions that resulted from the departure of the Arab elite"
+            },
+            {
+              "ref": "karsh-2008-commentary-1948",
+              "locator": "section on the exodus",
+              "quote": "tens of thousands of Arabs were ordered or bullied into leaving the city of Haifa on the AHC’s instructions, despite strenuous Jewish efforts to persuade them to stay"
+            },
+            {
+              "ref": "karsh-2010-palestine-betrayed",
+              "locator": "as summarised by Rodman",
+              "via": "rodman-2010-review-karsh"
+            },
+            {
+              "ref": "rodman-2010-review-karsh",
+              "locator": "review, paras 4-5",
+              "quote": "Karsh demonstrates beyond any reasonable doubt that the dispersion of the Palestinian Arabs constituted a self-inflicted calamity"
+            },
+            {
+              "ref": "gelber-2001-palestine-1948",
+              "locator": "as summarised by Pipes",
+              "via": "pipes-2002-review-gelber"
+            },
+            {
+              "ref": "pipes-2002-review-gelber",
+              "locator": "review, para. 3",
+              "quote": "the voluntary Arab flight from the contested areas fit into a cultural pattern"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli narrative in the joint PRIME schoolbook"
+          },
+          "summary": {
+            "en": "The Israeli narrative written by Israeli teachers for the joint PRIME schoolbook says the well-off left first, that operations under Plan Dalet hastened the flight, and that Haganah forces then began to deport Arabs, though without high-level political orders [1]. It concludes that the flight resulted both from deportation and intimidation and from the Arabs' own fears, and that most Jewish leaders welcomed it for political and military reasons [1]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2003-narratives",
+              "locator": "Israeli narrative, PDF p. 28",
+              "quote": "Thus the flight was due to deporting and frightening the Arabs, and because of their own fears without regard to Israeli actions."
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli 'New Historians'"
+          },
+          "summary": {
+            "en": "Benny Morris found no evidence of general Arab orders to leave and no blanket Israeli expulsion order, and concluded that the refugee problem was 'born of war, not by design', mainly a by-product of fear and fighting and in smaller part the deliberate work of commanders and politicians on both sides [1][2]. He later reported that in April-May 1948 some Haganah units received explicit orders to expel villagers and destroy villages, while the Arab Higher Committee ordered women, children and the elderly removed from some villages [3]. Ilan Pappé goes further, arguing that Plan D (Dalet) was a plan for the ethnic cleansing of Palestine prepared by Ben-Gurion and the Zionist leadership, a thesis rejected by critics such as Seth Frantzman [4][5][6]."
+          },
+          "sources": [
+            {
+              "ref": "morris-1987-birth-refugee-problem",
+              "locator": "conclusion, as quoted by Shlaim",
+              "quote": "The Palestinian refugee problem was born of war, not by design, Jewish or Arab.",
+              "via": "shlaim-1995-debate-about-1948"
+            },
+            {
+              "ref": "shlaim-1995-debate-about-1948",
+              "locator": "section on the origins of the refugee problem",
+              "quote": "Morris found no evidence of Arab leaders issuing calls to Palestine ’s Arabs to leave their homes and villages"
+            },
+            {
+              "ref": "morris-2004-nlr-on-ethnic-cleansing",
+              "locator": "opening of the interview",
+              "quote": "were given operational orders that stated explicitly that they were to uproot the villagers, expel them and destroy the villages themselves"
+            },
+            {
+              "ref": "pappe-2006-ethnic-cleansing",
+              "locator": "as summarised by Frantzman and the publisher page",
+              "via": "frantzman-2008-review-pappe"
+            },
+            {
+              "ref": "frantzman-2008-review-pappe",
+              "locator": "review essay",
+              "quote": "Pappé’s thesis is that Israel’s founding prime minister, David Ben-Gurion, working with the Zionist leadership in Palestine, made special preparations for ethnic cleansing known as Plan D."
+            },
+            {
+              "ref": "oneworld-pappe-ethnic-cleansing-page",
+              "locator": "book page",
+              "quote": "Ilan Pappe is an Israeli historian and socialist activist."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian national account (the Nakba)"
+          },
+          "summary": {
+            "en": "Palestinians call the events the Nakba (catastrophe), and the Palestinian narrative in the PRIME schoolbook describes massacres, above all at Deir Yassin, and the destruction of hundreds of villages as meant to spread terror and force people to leave [1]. The veteran Palestinian negotiator Ahmed Qurei rejects as propaganda the claim that Palestinians left of their own accord or at the call of Arab states, and holds that the flight resulted from a systematic plan that evolved into Plan D, which he calls ethnic cleansing [2]. The PLO Negotiations Affairs Department states that Palestinians were expelled or forced to flee by military assaults and fear of Jewish militias, and that Israel has denied them the right of return under UN General Assembly resolution 194 [3]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2003-narratives",
+              "locator": "Palestinian narrative, PDF pp. 28-29",
+              "quote": "The behavior of the Zionist gangs was meant to spread terror and fear among Arabs and to force them to leave their villages"
+            },
+            {
+              "ref": "qurei-2008-commemorating-nakba",
+              "locator": "section 'Debunking a Received Narrative'",
+              "quote": "The flight of the Palestinians in 1948, therefore, did not come at the behest of Arab countries, but as a result of a well-studied systematic plan"
+            },
+            {
+              "ref": "plo-nad-refugees-position",
+              "locator": "section 'A Brief History of the Refugee Issue'",
+              "quote": "Many fled from direct military assaults, while others fled from fear of imminent assaults by Jewish militias."
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "United Nations"
+          },
+          "summary": {
+            "en": "UN General Assembly resolution 194 of December 1948 resolved that refugees wishing to return to their homes and live at peace with their neighbours should be permitted to do so at the earliest practicable date, with compensation for those choosing not to return [1]. It instructed a UN Conciliation Commission to facilitate the repatriation, resettlement and economic and social rehabilitation of the refugees and the payment of compensation [1]."
+          },
+          "sources": [
+            {
+              "ref": "un-a-res-194-iii",
+              "locator": "para. 11",
+              "quote": "Resolves that the refugees wishing to return to their homes and live at peace with their neighbours should be permitted to do so at the earliest practicable date"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Comparative scholarship"
+          },
+          "summary": {
+            "en": "The political scientist Rex Brynen notes that Israel has generally held that the refugees fled by choice or on Arab orders, while Palestinians hold they were driven out by deliberate Zionist policy, and that the debate is a struggle over moral and political responsibility [1]. He summarises Morris's research as showing a complex mixture of causes: military conflict, widespread fear, specific attacks and atrocities, Arab disorganisation and occasional local 'ethnic cleansing' [1]."
+          },
+          "sources": [
+            {
+              "ref": "brynen-1998-refugees-peace-process",
+              "locator": "section on the origins of the refugee issue",
+              "quote": "the historical debate over the origins of the refugee issue is not simply a matter of differing perspectives, but rather a broader struggle over moral and political responsibility for the issue"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Terminology differs: Israelis speak of the War of Independence and of Arab flight; Palestinians of the Nakba and of expulsion. The accounts agree that most Palestinian Arabs in the territory that became Israel lost their homes in 1947-1949 and that most were not allowed to return; they differ on whether flight or expulsion predominated and on whether expulsion was planned. Refugee numbers are omitted here."
+      }
+    },
+    {
+      "id": "war-1967-and-territories",
+      "title": {
+        "en": "Why did the June 1967 war break out, and what is the legal status of the territories Israel took?"
+      },
+      "about": [
+        "six-day-war-1967",
+        "unsc-resolution-242",
+        "israeli-law-applied-to-east-jerusalem-1967"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli account of the war"
+          },
+          "summary": {
+            "en": "Israel's foreign ministry describes the war as a response to Egypt's mobilisation in Sinai, its expulsion of the UN Emergency Force and its closure of the Straits of Tiran to Israeli shipping, which Israel regards as a clear casus belli, while Jordan placed its forces under Egyptian command [1]. The Israeli narrative in the PRIME schoolbook describes an existential threat, with Israel isolated and fearing an all-out Arab attack, so that the government decided on a pre-emptive strike on 5 June [2]. It presents the new lines as giving Israel security, water sources and access to Jewish holy places, while recording an internal debate between supporters of 'Greater Israel' and of 'territories for peace' [2]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section \"The Six-Day War (June 1967)\"",
+              "quote": "Then Nasser announced the closing of the Straits of Tiran to Israeli shipping - a clearcut casus belli."
+            },
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Israeli narrative, PDF pp. 70-81",
+              "quote": "In these conditions, the Government of Israeldecided on a preemptive strike to reduce the risks."
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli legal position: 'disputed territories'"
+          },
+          "summary": {
+            "en": "Israeli officials and jurists such as Dore Gold argue that the West Bank and Gaza are disputed rather than occupied territories, because no legitimate sovereign held them before 1967: Jordan and Egypt had seized them in 1948 [1]. Citing Stephen Schwebel, Gold holds that a state that takes territory in lawful self-defence from a prior unlawful holder has the better title, and notes that Israel entered the West Bank only after Jordan attacked [1]."
+          },
+          "sources": [
+            {
+              "ref": "gold-2002-occupied-to-disputed",
+              "locator": "sections 'No Previously-Recognized Sovereignty' and 'Aggression vs. Self-Defense'",
+              "quote": "Where the prior holder of territory had seized that territory unlawfully, the state which subsequently takes that territory in the lawful exercise of self-defense has, against that prior holder, better title."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian and Arab account"
+          },
+          "summary": {
+            "en": "The Palestinian narrative in the PRIME schoolbook calls the war 'the Aggression of June the Fifth', holding that Israel started it according to a plan prepared in advance to take Sinai, the Golan Heights, the West Bank and Jerusalem, goals it says Israel had long aspired to [1]. The PLO considers the West Bank, East Jerusalem and Gaza to be territory occupied by Israel in 1967, on which it seeks a state along the pre-4 June 1967 border with East Jerusalem as its capital, a reduction from its earlier claim to all of historic Palestine [2]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2006-learning-narrative-2",
+              "locator": "Palestinian narrative, PDF pp. 70-76",
+              "quote": "Israel achieved its goals as it had planned from the outset."
+            },
+            {
+              "ref": "plo-nad-borders-position",
+              "locator": "summary",
+              "quote": "all of the territory occupied by Israel in 1967"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "United Nations and International Court of Justice"
+          },
+          "summary": {
+            "en": "UN Security Council resolution 242 (1967) emphasised the inadmissibility of the acquisition of territory by war and called for Israeli withdrawal from territories occupied in the conflict alongside the right of every state in the area to live in peace within secure and recognised boundaries [1]. The International Court of Justice held in 2004 that the territories Israel took from Jordan in 1967, including East Jerusalem, are occupied territories in which Israel has the status of occupying power [2]. In 2024 it found Israel's continued presence in the Occupied Palestinian Territory unlawful and said Israel must end it as rapidly as possible [3]."
+          },
+          "sources": [
+            {
+              "ref": "un-s-res-242-1967",
+              "locator": "preamble and para. 1",
+              "quote": "Emphasizing the inadmissibility of the acquisition"
+            },
+            {
+              "ref": "icj-2004-wall-ao",
+              "locator": "para. 78",
+              "quote": "these were therefore occupied territories in which Israel had the status of occupying Power"
+            },
+            {
+              "ref": "icj-2024-opt-ao",
+              "locator": "para. 285 (4)",
+              "quote": "Is of the opinion that the State of Israel is under an obligation to bring to an end its unlawful presence in the  Occupied Palestinian Territory as rapidly as possible"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Historians on the causes"
+          },
+          "summary": {
+            "en": "Avi Shlaim argues that the war resulted from a 'crisis slide' rather than deliberate planning: Nasser, prompted by a false Soviet report of Israeli troop concentrations, engaged in brinkmanship that went over the brink, driven largely by inter-Arab rivalries [1][2]. Michael Oren's archival history, as reviewed by Daniel Pipes, stresses Arab plans for attacking Israel and Arab overconfidence, while also showing that Moshe Dayan's decision to take the Golan Heights went beyond his terms of office [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "shlaim-1996-origins-arab-israeli-wars",
+              "locator": "section 'The Six-Day War'",
+              "quote": "the Arab-Israeli war of June 1967 was the result of a crisis slide"
+            },
+            {
+              "ref": "us-oh-1967-war",
+              "locator": "section 'The Prewar Crisis'",
+              "quote": "On May 13, 1967, Soviet officials informed the Syrian and Egyptian Governments that Israel had massed troops on Syria’s border. Though the report was false"
+            },
+            {
+              "ref": "oren-2002-six-days-of-war",
+              "locator": "as reviewed by Pipes",
+              "via": "pipes-2002-review-oren"
+            },
+            {
+              "ref": "pipes-2002-review-oren",
+              "locator": "review, para. 1",
+              "quote": "the specific Arab plans for conquering Israel"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Names differ: in Israel the Six-Day War, in the Palestinian school narrative 'the Aggression of June the Fifth'; the West Bank is called Judea and Samaria in Israeli official usage. The accounts agree on the sequence of the May 1967 crisis and the outcome of the fighting; they differ on who bears responsibility and on whether the territories are occupied or disputed."
+      }
+    },
+    {
+      "id": "settlements-international-law",
+      "title": {
+        "en": "Are Israeli settlements in the West Bank and East Jerusalem lawful under international law?"
+      },
+      "about": [
+        "west-bank-settlement",
+        "east-jerusalem-settlement"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli government position"
+          },
+          "summary": {
+            "en": "Israel's foreign ministry holds that Jewish presence in Judea and Samaria (the West Bank) is ancient and was recognised in the 1922 League of Nations Mandate, and that many settlements stand where Jewish communities lived before being driven out or killed, as in Hebron in 1929 [1]. It argues that Article 49(6) of the Fourth Geneva Convention targets forced population transfers and does not prohibit Jews from voluntarily living in territory that had no previous legitimate sovereign, on land that is not privately owned, under Supreme Court oversight [1]. It describes the West Bank as territory subject to competing claims whose future, including that of the settlements, the parties agreed to settle in negotiations [1]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-settlements-2015",
+              "locator": "sections on historical context, international humanitarian law and agreements",
+              "quote": "In legal terms, the West Bank is best regarded as territory over which there are competing claims which should be resolved in peace process negotiations"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli dissenting legal and civil-society voices"
+          },
+          "summary": {
+            "en": "In September 1967 the Israeli foreign ministry's legal adviser, Theodor Meron, advised in a top-secret opinion that civilian settlement in the newly conquered territories would contravene the explicit provisions of the Fourth Geneva Convention, as the journalist Gershom Gorenberg later revealed [1][2]. The Israeli human rights organisation B'Tselem holds that the settlements, with the land seizures, settler roads, checkpoints and barrier route built around them, are the single most important factor shaping life in the West Bank and severely harm Palestinians' rights [3]."
+          },
+          "sources": [
+            {
+              "ref": "meron-1967-settlement-opinion",
+              "locator": "as quoted by Gorenberg",
+              "quote": "My conclusion is that civilian settlement in the administered territories contravenes the explicit provisions of the Fourth Geneva Convention.",
+              "via": "gorenberg-2006-nyt-tragedy-foretold"
+            },
+            {
+              "ref": "gorenberg-2006-nyt-tragedy-foretold",
+              "locator": "op-ed, paras 2-4"
+            },
+            {
+              "ref": "btselem-settlements",
+              "locator": "overview",
+              "quote": "Settlements are the single most important element shaping life in the West Bank."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian position (PLO)"
+          },
+          "summary": {
+            "en": "The PLO Negotiations Affairs Department describes the settlements as a colonial enterprise built on confiscated Palestinian land and illegal under international law [1]. It holds that transferring Israel's civilian population into occupied territory is a war crime under the Rome Statute of the International Criminal Court, which it notes is examining Israel's conduct [1]."
+          },
+          "sources": [
+            {
+              "ref": "plo-nad-threat-of-annexation",
+              "locator": "FAQ, sections 1-3",
+              "quote": "To advance and consolidate its colonial settlement enterprise, Israel continues to confiscate Palestinian lands"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "UN Security Council and International Court of Justice"
+          },
+          "summary": {
+            "en": "The International Court of Justice concluded in 2004 that the settlements in the Occupied Palestinian Territory, including East Jerusalem, were established in breach of international law [1]. UN Security Council resolution 2334 (2016) stated that they have no legal validity and constitute a flagrant violation under international law [2]. In its 2024 advisory opinion the Court found that Israel's transfer of settlers to the West Bank and East Jerusalem, and the maintenance of their presence, is contrary to Article 49(6) of the Fourth Geneva Convention [3]."
+          },
+          "sources": [
+            {
+              "ref": "icj-2004-wall-ao",
+              "locator": "para. 120",
+              "quote": "The Court concludes that the Israeli settlements in the Occupied Palestinian Territory (including East Jerusalem) have been established in breach of international law."
+            },
+            {
+              "ref": "unsc-res-2334-2016",
+              "locator": "operative para. 1",
+              "quote": "has no legal validity and constitutes a flagrant violation under international law"
+            },
+            {
+              "ref": "icj-2024-opt-ao",
+              "locator": "summary of section V.B.2 (paras 115-119)",
+              "quote": "contrary to sixth paragraph of Article 49 of Fourth Geneva Convention"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "United States positions over time"
+          },
+          "summary": {
+            "en": "According to Secretary of State Mike Pompeo in 2019, the Carter administration concluded in 1978 that settlements were inconsistent with international law, President Reagan disagreed in 1981, and the Trump administration held that they were not per se inconsistent with international law [1]. In February 2024 Secretary of State Antony Blinken said that new settlements are inconsistent with international law [2]."
+          },
+          "sources": [
+            {
+              "ref": "us-state-2019-pompeo-settlements",
+              "locator": "remarks on Israel",
+              "quote": "The establishment of Israeli civilian settlements in the West Bank is not per se inconsistent with international law."
+            },
+            {
+              "ref": "us-state-2024-blinken-settlements",
+              "locator": "answer on settlements",
+              "quote": "They’re also inconsistent with international law."
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Terminology differs: Israeli official usage speaks of communities in Judea and Samaria, Palestinian and most international usage of illegal settlements in occupied territory. The core dispute is whether the Fourth Geneva Convention applies and how Article 49(6) is read; settlement numbers are not given here."
+      }
+    },
+    {
+      "id": "first-intifada",
+      "title": {
+        "en": "What caused the First Intifada (1987-1993), and what kind of uprising was it?"
+      },
+      "about": [
+        "first-intifada-1987-1993"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli official account"
+          },
+          "summary": {
+            "en": "Israel's foreign ministry describes the intifada that began in December 1987 as years of daily clashes with stone-throwing youths, which it says posed not a military but a moral problem for a citizen army under orders to open live fire only when lives were in real danger [1]. It adds that the intifada, however troublesome, was never allowed to divert the army from its main task of preparing for war with Arab states [1]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section on the 1980s",
+              "quote": "It did not present a military problem, but a moral one."
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli narrative in the joint PRIME schoolbook"
+          },
+          "summary": {
+            "en": "The Israeli narrative written by Israeli teachers dates the outbreak to 8 December 1987, when an Israeli truck hit a Palestinian car in Gaza, killing four, which Palestinians called deliberate murder, and describes a Palestinian war waged with stones, Molotov cocktails and mass demonstrations [1]. Citing the Israeli journalists Ze'ev Schiff and Ehud Ya'ari, it calls the uprising unplanned and explains it by accumulated humiliation under occupation, frustration with the PLO leadership abroad, and fear of losing land and water to settlements and annexation [1][2]. It acknowledges that the army's early reliance on heavy force led to incidents of gratuitous violence [1]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2003-narratives",
+              "locator": "Israeli narrative, PDF pp. 49-51",
+              "quote": "Israel, Jordan and even the PLO were surprised by the Intifada"
+            },
+            {
+              "ref": "schiff-yaari-1990-intifada",
+              "locator": "p. 43, as quoted in the PRIME Israeli narrative",
+              "quote": "The revolution was not planned, and it exploded suddenly like a volcano.",
+              "via": "prime-2003-narratives"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian narrative"
+          },
+          "summary": {
+            "en": "The Palestinian narrative in the PRIME schoolbook roots the intifada in forty years of national deprivation and twenty years of Israeli occupation, and describes a spontaneous national, popular uprising that broke out without direction from the PLO [1]. It describes a unified leadership drawn from local committees and the main PLO factions, and a war of attrition against the occupation that put the Palestinian question on the international agenda and strengthened the PLO [1]. The Interactive Encyclopedia of the Palestine Question emphasises the 'iron fist' repression under defence minister Yitzhak Rabin, including live fire against unarmed protesters, mass arrests, deportations and curfews, and notes that Hamas emerged as a rival current during the uprising [2]."
+          },
+          "sources": [
+            {
+              "ref": "prime-2003-narratives",
+              "locator": "Palestinian narrative, PDF pp. 41-45",
+              "quote": "The Intifada broke out spontaneously"
+            },
+            {
+              "ref": "palquest-first-intifada",
+              "locator": "section 'Escalation'",
+              "quote": "the Israeli military adopted the so-called “iron fist” policy of violent repression"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Scholarly accounts"
+          },
+          "summary": {
+            "en": "Encyclopaedia Britannica traces the uprising to intensified land expropriation and settlement after 1977, harsher repression after the 1982 Lebanon war, and the rise of local activists who challenged the PLO leadership abroad [1]. The political scientist Wendy Pearlman argues, from the Palestinian case, that a movement's organisational cohesion is a necessary condition for choosing nonviolent rather than violent protest [2][3]."
+          },
+          "sources": [
+            {
+              "ref": "britannica-intifada",
+              "locator": "section 'The first intifada'",
+              "quote": "The proximate causes of the first intifada were intensified Israeli land expropriation and settlement construction in the West Bank and Gaza Strip"
+            },
+            {
+              "ref": "pearlman-2011-violence-nonviolence",
+              "locator": "as summarised in endorsements",
+              "via": "cup-pearlman-2011-page"
+            },
+            {
+              "ref": "cup-pearlman-2011-page",
+              "locator": "endorsement by Nathan Brown",
+              "quote": "Pearlman argues, based on the Palestinian case, that organizational coherence is a necessary condition for nonviolence."
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The word intifada means 'shaking off' or uprising; the accounts agree it began in Gaza in December 1987 and was largely spontaneous at first; they differ on its character (popular uprising or violent campaign) and on the Israeli response. Casualty figures are omitted."
+      }
+    },
+    {
+      "id": "oslo-and-camp-david-2000",
+      "title": {
+        "en": "Why did the Oslo process and the Camp David summit of July 2000 fail to produce a final peace agreement?"
+      },
+      "about": [
+        "oslo-i-declaration-of-principles",
+        "oslo-ii-interim-agreement-1995",
+        "camp-david-summit-2000"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli and US official account"
+          },
+          "summary": {
+            "en": "In the account of Prime Minister Ehud Barak and of US officials such as President Bill Clinton and envoy Dennis Ross, Israel made a generous offer at Camp David, which Yasser Arafat rejected without making a counter-proposal before turning to violence [1][2]. Barak holds that Arafat negotiated in bad faith, did not accept a two-state outcome and saw the return of Palestinian refugees as a means of ending Israel as a Jewish state [2]."
+          },
+          "sources": [
+            {
+              "ref": "pressman-2003-visions-in-collision",
+              "locator": "introduction",
+              "quote": "According to this dominant version of the events at Camp David, Israeli Prime Minister Ehud Barak made a generous offer to the Palestinian negotiators who rejected it without even putting forth a counterproposal."
+            },
+            {
+              "ref": "morris-2002-interview-barak",
+              "locator": "interview",
+              "quote": "He just kept saying ‘no’ to every offer, never making any counterproposals of his own"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli critics of Oslo from the right"
+          },
+          "summary": {
+            "en": "The historian Efraim Karsh argues that Oslo was the most catastrophic strategic blunder in Israel's history, replacing Israeli control of the West Bank and Gaza with what he calls corrupt and repressive terrorist entities that incited hatred and attacked Israelis [1]. In his view the process has made the prospects for peace and reconciliation ever more remote [1]."
+          },
+          "sources": [
+            {
+              "ref": "karsh-2023-oslo-disaster",
+              "locator": "executive summary",
+              "quote": "the most catastrophic strategic blunder in Israel’s history"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian negotiators and official account"
+          },
+          "summary": {
+            "en": "Palestinian negotiators, as summarised by Jeremy Pressman and documented in Akram Hanieh's first-hand Camp David Papers, hold that the Israeli offer left many vestiges of occupation in land, security, settlements and Jerusalem, and that the Palestinian Authority preferred negotiations to violence [1][2]. Palestinian accounts stress that during the Oslo years Israel expanded settlements, stalled on implementing signed agreements and would not discuss meaningful change on Jerusalem or refugees at Camp David [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "pressman-2003-visions-in-collision",
+              "locator": "introduction (Palestinian version)",
+              "quote": "Israel’s offer at Camp David did not remove many of the vestiges of the Israeli occupation in terms of land, security , settlements, and Jerusalem"
+            },
+            {
+              "ref": "hanieh-2001-camp-david-papers",
+              "locator": "abstract",
+              "quote": "a first hand account of the July 2000 summit and the most detailed that exists to date"
+            },
+            {
+              "ref": "palquest-oslo-process-towards-failure",
+              "locator": "introduction",
+              "quote": "Israeli violence, settlement expansion, and a lack of progress in negotiations on key “final status” issues seriously hindered a process"
+            },
+            {
+              "ref": "plo-nad-2002-uprising-faq",
+              "locator": "answer 1",
+              "quote": "By September 2000, the Palestinian people were still living under Israeli occupation."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian critics of Oslo"
+          },
+          "summary": {
+            "en": "Edward Said condemned the 1993 agreement as 'an instrument of Palestinian surrender, a Palestinian Versailles', arguing that the PLO had accepted far less than it could have negotiated [1]. He held that Palestinians must keep opposing occupation and settlements, including through non-violent resistance and civil disobedience, whether or not the PLO legitimised them [1]."
+          },
+          "sources": [
+            {
+              "ref": "said-1993-morning-after",
+              "locator": "opening section",
+              "quote": "an instrument of Palestinian surrender, a Palestinian Versailles"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Revisionist and academic accounts"
+          },
+          "summary": {
+            "en": "Robert Malley, a member of the US team, and Hussein Agha argue that blaming Arafat alone is a dangerous orthodoxy, since what many saw as a generous Israeli offer the Palestinians saw as neither generous, nor Israeli, nor an offer [1]. Jeremy Pressman concludes that neither side's version is wholly accurate, that Israel did make an unprecedented offer but one that lacked elements essential to Palestinians, and that the Palestinian version is closer to the documentary record [2]."
+          },
+          "sources": [
+            {
+              "ref": "nyrb-malley-agha-2001",
+              "locator": "introduction",
+              "quote": "the Palestinians viewed as neither generous, nor Israeli, nor, indeed, as an offer"
+            },
+            {
+              "ref": "pressman-2003-visions-in-collision",
+              "locator": "introduction",
+              "quote": "In this article I argue that neither the Israeli nor the Palestinian version of the events at Camp David and subsequent talks is wholly accurate."
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The accounts agree that Camp David ended without agreement and that talks continued until early 2001 (Clinton parameters, Taba); they differ on who bears responsibility and on how generous the proposals were. Percentages of territory offered are deliberately not given here."
+      }
+    },
+    {
+      "id": "second-intifada-causes",
+      "title": {
+        "en": "What caused the Second (al-Aqsa) Intifada that began in September 2000?"
+      },
+      "about": [
+        "second-intifada-2000-2005"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli government position"
+          },
+          "summary": {
+            "en": "The Israeli government told the Mitchell committee that the catalyst was the breakdown of the Camp David talks and that the violence was planned by the Palestinian Authority leadership to provoke casualties and regain the diplomatic initiative [1][2]. Ehud Barak, Israel's prime minister at the time, holds that Arafat deliberately turned to terrorism after rejecting US proposals [3]."
+          },
+          "sources": [
+            {
+              "ref": "israel-goi-2000-submission-mitchell",
+              "locator": "as quoted in the Mitchell report",
+              "quote": "provoking and incurring Palestinian casualties as a means of regaining the diplomatic initiative",
+              "via": "mitchell-2001-sharm-el-sheikh-report"
+            },
+            {
+              "ref": "mitchell-2001-sharm-el-sheikh-report",
+              "locator": "section 'What happened?'",
+              "quote": "In this view, Palestinian violence was planned by the PA leadership"
+            },
+            {
+              "ref": "morris-2002-interview-barak",
+              "locator": "interview, opening",
+              "quote": "Arafat refused even to accept it as a basis for negotiations, walked out of the room, and deliberately turned to terrorism"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian position"
+          },
+          "summary": {
+            "en": "The PLO describes the intifada as a popular uprising against occupation, whose immediate cause was the visit of Ariel Sharon, then leader of the Likud opposition, with a large police escort, to al-Haram al-Sharif on 28 September 2000, which it calls a provocative show of authority [1][3]. It holds that the deeper causes were continued occupation and settlement expansion during the Oslo years and Israel's failure to meet its commitments, and denies that the uprising was planned [1][2]. The Interactive Encyclopedia of the Palestine Question adds Palestinian frustration with the Palestinian Authority's authoritarianism and the lesson some drew from Israel's withdrawal from Lebanon under armed pressure [3]."
+          },
+          "sources": [
+            {
+              "ref": "plo-nad-2002-uprising-faq",
+              "locator": "answer 1",
+              "quote": "It was a provocative show of authority over the central symbol"
+            },
+            {
+              "ref": "mitchell-2001-sharm-el-sheikh-report",
+              "locator": "section 'What happened?' (PLO submission)",
+              "quote": "The Palestine Liberation Organization (PLO) denies the allegation that the intifada was planned."
+            },
+            {
+              "ref": "palquest-second-intifada",
+              "locator": "sections 'Deepening Dissatisfaction' and 'Outbreak'",
+              "quote": "Palestinians noted with dismay the unmistakable signs of authoritarianism and corruption"
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "Sharm el-Sheikh Fact-Finding (Mitchell) Committee"
+          },
+          "summary": {
+            "en": "The international committee chaired by George Mitchell found no basis to conclude that the Palestinian Authority deliberately planned a campaign of violence or that the Israeli government planned to respond with lethal force, but also no consistent effort by either to restrain the violence [1]. It concluded that the Sharon visit did not cause the intifada but was poorly timed and foreseeably provocative, and that the decision of Israeli police to use lethal means against demonstrators the next day was more significant [1]."
+          },
+          "sources": [
+            {
+              "ref": "mitchell-2001-sharm-el-sheikh-report",
+              "locator": "section 'What happened?'",
+              "quote": "we have no basis on which to conclude that there was a deliberate plan by the PA to initiate a campaign of violence at the first opportunity"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Academic analysis"
+          },
+          "summary": {
+            "en": "Jeremy Pressman summarises the two versions: the Israeli one, reflected in statements of Israel's foreign ministry and army, that Palestinian leaders launched the intifada, and the Palestinian one, that it was caused by continued occupation, Sharon's visit and the heavy-handed Israeli response to protests [1]. Encyclopaedia Britannica describes the second intifada as beginning, as the Oslo process faltered, in reaction to Sharon's provocative visit to the Temple Mount [2]."
+          },
+          "sources": [
+            {
+              "ref": "pressman-2003-visions-in-collision",
+              "locator": "introduction",
+              "quote": "the heavy-handed response of Israeli forces to the resulting Palestinian protest"
+            },
+            {
+              "ref": "britannica-intifada",
+              "locator": "summary",
+              "quote": "As the Oslo process faltered, the second intifada (sometimes called the Al-Aqsa intifada) began in September 2000"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Names differ: the al-Aqsa Intifada in Palestinian usage; in Israel often simply the second intifada. All accounts agree it began after Ariel Sharon's visit to the Temple Mount / al-Haram al-Sharif on 28 September 2000 and the deadly clashes of the following day; they differ on whether it was planned. Casualty figures are omitted."
+      }
+    },
+    {
+      "id": "gaza-disengagement-blockade-hamas",
+      "title": {
+        "en": "After Israel left Gaza in 2005, is it still occupied, why was a blockade imposed, and how did Hamas come to rule?"
+      },
+      "about": [
+        "gaza-disengagement-2005",
+        "hamas-takeover-of-gaza-2007",
+        "gaza-declared-hostile-territory-2007",
+        "gaza-war-2008-2009",
+        "gaza-war-2014"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli government and Supreme Court position"
+          },
+          "summary": {
+            "en": "Israel's 2004 disengagement plan stated that removing settlers and forces from Gaza would dispel claims of Israeli responsibility for the Palestinians there [1]. In 2008 Israel's Supreme Court held that Israel no longer has effective control over what happens in Gaza and so has no general duty under the law of occupation, while it must still allow goods needed for essential humanitarian needs [2]. The Court accepted the restriction of fuel and electricity supplies, which Israel says are partly used by terrorist organisations to harm Israeli citizens, as long as essential humanitarian needs are met [2]."
+          },
+          "sources": [
+            {
+              "ref": "israel-mfa-disengagement-plan-2004",
+              "locator": "section One (political and security implications), point Six",
+              "quote": "The completion of the plan will serve to dispel the claims regarding Israel's responsibility for the Palestinians in the Gaza Strip."
+            },
+            {
+              "ref": "israel-hcj-2008-al-bassiouni",
+              "locator": "opinion",
+              "quote": "currently, Israel in effect has no control as to what takes place in the Gaza Strip"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian Authority and Palestinian scholarship"
+          },
+          "summary": {
+            "en": "The Palestinian Authority argued at the time of disengagement that Israel remains an occupying power as long as it controls access to Gaza [1]. The Interactive Encyclopedia of the Palestine Question describes the 2005 redeployment as part of a unilateral strategy to separate Gaza from the West Bank and keep control of much of the West Bank, and later Israeli measures as a siege [2]. It recounts that after Hamas won the 2006 elections, Israel and the Quartet boycotted its government, and that in June 2007 Hamas forces eliminated security forces loyal to President Mahmoud Abbas in Gaza, after which Abbas dismissed the Hamas prime minister and two rival governments emerged [3]."
+          },
+          "sources": [
+            {
+              "ref": "crs-rs22000-2005",
+              "locator": "section on the Rafah crossing",
+              "quote": "The PA rejected the compromise, arguing that Israel remains an occupying power as long as it controls access points."
+            },
+            {
+              "ref": "palquest-gaza-redeployment-2005",
+              "locator": "introduction",
+              "quote": "marked an important step in the Israeli strategy to dissociate the Gaza Strip from the West Bank"
+            },
+            {
+              "ref": "palquest-gaza-2006-2017",
+              "locator": "section on 2006-2007",
+              "quote": "all-out fighting between the two sides resumed in June 2007, with Hamas eliminating security forces loyal to Abbas in Gaza"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Hamas's stated position"
+          },
+          "summary": {
+            "en": "Hamas holds that it won power through free and democratic elections in 2006 and that the Palestinian people must not be punished, by boycott or economic pressure, for that choice [1]. Its 2017 Document of General Principles calls armed resistance to occupation a legitimate right and its strategic choice, rejects recognition of Israel, and accepts a sovereign Palestinian state on the lines of 4 June 1967 as a formula of national consensus [2]."
+          },
+          "sources": [
+            {
+              "ref": "hamas-2006-haniyeh-government-program",
+              "locator": "programme speech",
+              "quote": "The great Palestinian people must not be punished because they exercised their right in choosing their leadership through free and democratic elections"
+            },
+            {
+              "ref": "hamas-2017-document-general-principles",
+              "locator": "articles 20 and 25",
+              "quote": "At the heart of these lies armed resistance, which is regarded as the strategic choice for protecting the principles and the rights of the Palestinian people."
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "ICRC, UN and International Court of Justice"
+          },
+          "summary": {
+            "en": "The International Committee of the Red Cross said in 2010 that the closure punished Gaza's whole civilian population and constituted collective punishment in clear violation of Israel's obligations under international humanitarian law [1]. A UN Secretary-General's panel found in 2011 that Israel faces a real security threat from militant groups in Gaza and that its naval blockade was a legitimate security measure, but called the boarding of the 2010 flotilla excessive and unreasonable and urged Israel to keep easing the closure to relieve the unsustainable humanitarian and economic situation of Gaza's civilians [2]. The International Court of Justice found in 2024 that Israel's 2005 withdrawal did not entirely release it from its obligations under the law of occupation, which remain commensurate with its degree of effective control over Gaza [3]."
+          },
+          "sources": [
+            {
+              "ref": "icrc-2010-gaza-closure",
+              "locator": "news release, para. 3",
+              "quote": "The closure therefore constitutes a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law ."
+            },
+            {
+              "ref": "un-sg-2011-palmer-report",
+              "locator": "summary of findings and recommendations",
+              "quote": "The naval blockade  was imposed as a legitimate security measure in order to prevent weapons  from entering Gaza by sea"
+            },
+            {
+              "ref": "icj-2024-opt-ao",
+              "locator": "para. 94",
+              "quote": "Israel’s withdrawal from the Gaza Strip has not  entirely released it of its obligations under the law of occupation"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Legal scholarship"
+          },
+          "summary": {
+            "en": "The Israeli international lawyer Yuval Shany argues that whether Gaza remained occupied after 2005 should be judged by comparing the effective control exercised by Israel and by the Palestinian Authority, noting that Israel kept some control in parallel with the Authority [1]. He argues for applying the traditional three-part test for occupation, also adopted by Israel's Supreme Court: the presence of hostile forces, their potential to exercise powers of government, and the inability of the legitimate government to exercise its authority [1]."
+          },
+          "sources": [
+            {
+              "ref": "shany-2006-faraway-so-close",
+              "locator": "abstract",
+              "quote": "it seems that Israel still exercises some control over Gaza in parallel with the Palestinian Authority (PA)"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Terms differ: Israel speaks of disengagement and of a security closure or blockade; Palestinian sources speak of redeployment and siege. The accounts agree that Israel removed its settlers and forces in 2005, that Hamas won the 2006 elections and took control of Gaza in June 2007, and that restrictions on Gaza's crossings followed; they differ on whether Gaza remained occupied and on whether the restrictions were lawful."
+      }
+    },
+    {
+      "id": "october-7-and-gaza-war",
+      "title": {
+        "en": "How do the parties and international bodies describe the 7 October 2023 attack and the war in Gaza that followed?"
+      },
+      "about": [
+        "october-7-attack-2023",
+        "gaza-war-2023",
+        "gaza-ceasefire-october-2025",
+        "board-of-peace-hamas-disarmament-agreement-2026"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli government position"
+          },
+          "summary": {
+            "en": "The Israeli government accuses the Hamas fighters who attacked Israel on 7 October 2023 of war crimes including torture, rape and mutilation, and holds that the war that followed is one of self-defence against Hamas, not against the Palestinian people, aimed at removing the threat Hamas poses and freeing the hostages [5][1]. Before the International Court of Justice, Israel's lawyers rejected South Africa's genocide accusation, arguing that Israel targets military objectives in line with international humanitarian law, takes steps to reduce civilian harm, and faces an enemy embedded among civilians [1]. After the Court's first order, Prime Minister Benjamin Netanyahu called the ruling outrageous, said Israel was fighting a just war and said it would keep defending itself while adhering to international law [2]. Israeli officials have dismissed the casualty figures of the Hamas-run Gaza Ministry of Health as unreliable [3][4]."
+          },
+          "sources": [
+            {
+              "ref": "un-news-2024-01-12-israel-icj",
+              "locator": "paras 2-3 and 7-12",
+              "quote": "\" Israel is in a war of defence against Hamas, not against the Palestinian people ”"
+            },
+            {
+              "ref": "aljazeera-2024-01-26-world-reacts-icj",
+              "locator": "section \"Israel\"",
+              "quote": "Prime Minister Benjamin Netanyahu slammed the ruling as “outrageous”."
+            },
+            {
+              "ref": "bbc-2024-05-16-un-lower-toll-women-children",
+              "locator": "para. 5",
+              "quote": "accusing the UN of relying on \"fake data from a terrorist organisation\""
+            },
+            {
+              "ref": "ap-2023-10-26-gaza-moh-explainer",
+              "locator": "section \"How does the ministry arrive at a death toll?\"",
+              "quote": "“When the Hamas health agency comes out with the numbers, take it with a pinch of salt,” Lt. Col. Richard Hecht, Israeli military spokesman, said in a briefing."
+            },
+            {
+              "ref": "aljazeera-2024-01-21-hamas-narrative",
+              "locator": "para. 6",
+              "quote": "Israeli authorities have accused Hamas fighters of committing war crimes during the attack, including torture, rape and mutilation."
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian Authority / State of Palestine"
+          },
+          "summary": {
+            "en": "The Palestinian foreign ministry welcomed the Court's January 2024 order, and Foreign Minister Riad Malki said Israel had failed to persuade the Court that it was not violating the Genocide Convention [1]. Palestine called on all states to ensure respect for the order, and in June 2024 it applied to intervene in the proceedings [1][2]."
+          },
+          "sources": [
+            {
+              "ref": "aljazeera-2024-01-26-world-reacts-icj",
+              "locator": "section \"Palestine\"",
+              "quote": "Foreign Minister Riad Malki noted that Israel failed to persuade the court that it was not violating the 1948 Genocide Convention."
+            },
+            {
+              "ref": "icj-case-192-page",
+              "locator": "list of documents, entry of 3 June 2024",
+              "quote": "Application for permission to intervene and declaration of intervention submitted by Palestine"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Hamas's stated position"
+          },
+          "summary": {
+            "en": "In a January 2024 document titled Our Narrative, Hamas called the attack, which it names Operation Al-Aqsa Flood, a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people, citing among its reasons settlement building, what it calls the Judaization of the West Bank and Jerusalem, and the killing of Palestinian civilians since 2000 [1][2]. It stated that its fighters aimed at military sites and at capturing soldiers to exchange for Palestinian prisoners, that harming civilians was against its commitments, and that some faults may have occurred amid the collapse of Israeli security [1][2]. Hamas rejects Israeli accusations of sexual violence and mutilation during the attack [2]. Hamas welcomed the Court's January 2024 order as contributing to isolating Israel [3]."
+          },
+          "sources": [
+            {
+              "ref": "hamas-2024-our-narrative",
+              "locator": "as quoted by Al Jazeera",
+              "quote": "a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people",
+              "via": "aljazeera-2024-01-21-hamas-narrative"
+            },
+            {
+              "ref": "aljazeera-2024-01-21-hamas-narrative",
+              "locator": "paras 1-2 and section \"Maybe some faults happened\"",
+              "quote": "The report said Hamas planned to target Israeli military sites and to capture soldiers"
+            },
+            {
+              "ref": "aljazeera-2024-01-26-world-reacts-icj",
+              "locator": "section \"Hamas\"",
+              "quote": "Hamas hailed the court’s “important” ruling, saying it “contributes to isolating Israel”."
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "International Court of Justice and other international bodies"
+          },
+          "summary": {
+            "en": "In the case brought by South Africa against Israel, the International Court of Justice in January 2024 ordered provisional measures requiring Israel to take all measures within its power to prevent acts of genocide and to allow humanitarian aid, did not order a halt to military operations, and called for the release of the hostages; such measures precede, and are not, a final decision [1]. The Court added further orders in 2024, many states filed declarations of intervention, and on 21 May 2026 it fixed time-limits for a further round of written pleadings, so the case was still pending in October 2026 [2]. A UN report of September 2025 found reasonable grounds to conclude that Israel had committed acts defined as genocide under the convention, an accusation Israel denies [3][1]. In November 2024 the International Criminal Court issued arrest warrants for Netanyahu, former defence minister Yoav Gallant and Hamas military commander Mohammed Deif [3]."
+          },
+          "sources": [
+            {
+              "ref": "un-news-2024-01-26-icj-order",
+              "locator": "paras 1-3 and 13",
+              "quote": "Provisional measures are a type of temporary injunction ahead of a final decision on the dispute."
+            },
+            {
+              "ref": "icj-case-192-page",
+              "locator": "list of documents (Order of 21 May 2026; orders of 26 January, 28 March and 24 May 2024)",
+              "quote": "Order of 21 May 2026 Fixing of time-limits: Reply and Rejoinder"
+            },
+            {
+              "ref": "britannica-israel-hamas-war",
+              "locator": "Top questions; section \"Mid-October-December 2024\"",
+              "quote": "A UN report in September 2025 found reasonable grounds that, in the Israel-Hamas War, Israel had committed four out of the five genocidal acts defined by international convention"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Casualty counting: methods and debate"
+          },
+          "summary": {
+            "en": "The Gaza Ministry of Health compiles deaths from hospital and morgue records with names and ID numbers, later adding deaths reported by relatives through an online form and from media reports, and gives demographic breakdowns only for fully identified deaths [1][2]. The ministry does not distinguish civilians from combatants, and UN agencies cite its figures with attribution, as in earlier wars when later UN counts were broadly consistent with the ministry's [1][2]. Researchers test the figures with methods such as capture-recapture analysis of overlapping death lists and statistical models that build in uncertainty; some argue the official figures undercount deaths and others that they may be inflated, while several studies found no evidence of systematic over-reporting [3][4][5]. Israel's own count of those killed on 7 October was revised early on, which Israeli authorities attributed to the misidentification of some burnt bodies [2]."
+          },
+          "sources": [
+            {
+              "ref": "ap-2023-10-26-gaza-moh-explainer",
+              "locator": "section \"How does the ministry arrive at a death toll?\"",
+              "quote": "They enter this data into a computerized system shared with al-Qidra and colleagues."
+            },
+            {
+              "ref": "bbc-2024-05-16-un-lower-toll-women-children",
+              "locator": "section \"How are deaths recorded?\"",
+              "quote": "an additional category of deaths recorded by family members by filling in an online form"
+            },
+            {
+              "ref": "gomez-ugarte-2025-uncertainty-gaza-mortality",
+              "locator": "section \"The current conflict in Palestine\"",
+              "quote": "However, recent studies have found no evidence of systematic over-reporting in GMoH data"
+            },
+            {
+              "ref": "jamaluddine-2025-gaza-capture-recapture",
+              "locator": "as described by Gomez-Ugarte et al. 2025",
+              "quote": "implementing a capture-recapture analysis of multiple hospital lists",
+              "via": "gomez-ugarte-2025-uncertainty-gaza-mortality"
+            },
+            {
+              "ref": "huynh-2024-no-evidence-inflated-mortality",
+              "locator": "cited as ref. 28 by Gomez-Ugarte et al. 2025",
+              "via": "gomez-ugarte-2025-uncertainty-gaza-mortality"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "The accounts agree that Hamas-led armed groups attacked Israel on 7 October 2023 and took hostages and that a war in Gaza followed; they differ on its legal characterisation (self-defence or genocide), on responsibility and on names (Hamas calls the attack Operation Al-Aqsa Flood). As of 18 October 2026 the ICJ had not ruled on the merits of South Africa v Israel; provisional measures are not findings that genocide occurred. Casualty figures are deliberately omitted; only counting methods are described."
+      }
+    },
+    {
+      "id": "temple-mount-haram-al-sharif",
+      "title": {
+        "en": "Who controls the Temple Mount / al-Haram al-Sharif, what is its status quo, and what should it be called?"
+      },
+      "about": [
+        "israeli-law-applied-to-east-jerusalem-1967",
+        "jerusalem-law-1980",
+        "israel-jordan-peace-treaty-1994",
+        "us-recognition-of-jerusalem-2017"
+      ],
+      "accounts": [
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli government position"
+          },
+          "summary": {
+            "en": "The Israeli government calls the site the Temple Mount and treats it, with the Western Wall, as among the Jewish people's most holy sites, describing denial of that connection as a denial of history [1]. It states that it upholds the status quo under which Muslims pray on the Temple Mount and non-Muslims visit it, and that it has no intention of dividing the site [2]. Israel's Basic Law on Jerusalem commits the state to protect the holy places from desecration and to safeguard the freedom of access of members of all religions [3]. The arrangement dates from 1967, when Defence Minister Moshe Dayan left the Islamic Waqf in charge of the site and Israel in effect barred Jewish worship there to keep the peace [4]."
+          },
+          "sources": [
+            {
+              "ref": "israel-pmo-2016-unesco-statement",
+              "locator": "statement of 13 Oct 2016, as reproduced by Daily Alert",
+              "quote": "To say that Israel has no connection to the Temple Mount is like saying that China has no connection to the Great Wall of China or that Egypt has no connection to the pyramids",
+              "via": "dailyalert-2016-netanyahu-unesco"
+            },
+            {
+              "ref": "israel-pmo-2015-temple-mount-statement",
+              "locator": "statement of 24 Oct 2015, as quoted by JTA",
+              "quote": "Israel will continue to enforce its longstanding policy: Muslims pray on the Temple Mount; non-Muslims visit the Temple Mount",
+              "via": "jta-2015-netanyahu-status-quo"
+            },
+            {
+              "ref": "knesset-basic-law-jerusalem",
+              "locator": "section 3",
+              "quote": "The Holy Places shall be protected from desecration and any other violation and from anything likely to violate the freedom of access of the members of the different religions to the places sacred to them"
+            },
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "p. 4 (Section II)",
+              "quote": "Defence Minister Moshe Dayan left the Waqf in control of the Esplanade, to avoid what he feared could be a major conflagration with the Arab and Islamic world."
+            }
+          ]
+        },
+        {
+          "perspective": "religious",
+          "label": {
+            "en": "Jewish religious opinion: rabbinic ban and Temple movements"
+          },
+          "summary": {
+            "en": "In the 1850s the rabbinic establishment in Palestine forbade Jews to ascend the site, lest they tread on the area of the ancient Temples' inner sanctum, and a sign placed by the rabbi of the Western Wall and the Holy Sites still says Jewish law prohibits entry [1]. Temple movement activists and some Israeli politicians argue that Jews should be free to pray at what they call Judaism's holiest site, and some activists hold that the old ruling was meant mainly to avoid clashes [1]. Analysts quoted by the International Crisis Group describe these activists as a small part of the national-religious public, though Temple activism rose after Israel's 2005 withdrawal from Gaza [1]."
+          },
+          "sources": [
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "pp. 4-5 fns 12-14; pp. 13-16 and fns 60, 77",
+              "quote": "the rabbinic establishment in Palestine passed an interdiction on Jewish ascent, based on the Jewish legal principle that Jews were forbidden from treading on the inner sanctum of the ancient Temples"
+            }
+          ]
+        },
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian position (PLO / State of Palestine and Muslim authorities)"
+          },
+          "summary": {
+            "en": "Palestinian leaders and Muslim religious authorities call the whole compound al-Masjid al-Aqsa or al-Haram al-Sharif, which a 2013 Jordan-PLO agreement defines as 144 dunums including the Qibli Mosque, the Dome of the Rock and all its mosques, buildings, walls and courtyards [1]. Many hold that the entire area, not only its buildings, is a mosque, and Muslim authorities such as the former mufti Ikrimah Sabri say Jews may enter as visitors but not as worshippers [2]. In this view Jewish prayer at the site would amount to a claim of ownership, which they reject [2]. The PLO holds that the compound lies within the territory of the State of Palestine, which has the right to sovereignty over all of it, including Jerusalem, while recognising the Jordanian king as custodian [1]."
+          },
+          "sources": [
+            {
+              "ref": "jordan-plo-2013-custodianship-agreement",
+              "locator": "Preamble items C and G; Article 3.1",
+              "quote": "al-Masjid al-Aqsa with its 144 Dunums, which include the Qibli Mosque of al-Aqsa, the Mosque of the Dome of the Rock and all its mosques, buildings, walls, courtyards"
+            },
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "p. 4 fn. 11 (PASSIA paper; Sheikh Ikrimah Sabri, Crisis Group interview)",
+              "quote": "entry of Jews is allowed as visitors, not as worshippers. Jews call it the Temple Mount and say ‘it is ours’."
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "Jordanian custodianship"
+          },
+          "summary": {
+            "en": "Under the 1994 Israel-Jordan peace treaty, Israel undertook to respect Jordan's present special role in the Muslim holy shrines of Jerusalem and to give high priority to that role in permanent status negotiations [1]. Jordan holds that the Hashemite kings have been custodians of Jerusalem's holy sites since 1924, a role the PLO and the Palestinian Authority recognised in a 2013 agreement with King Abdullah II [2]. Jordanian officials say they coordinate with Israel to keep public order at the site without recognising Israeli rights there [3]."
+          },
+          "sources": [
+            {
+              "ref": "israel-jordan-1994-peace-treaty",
+              "locator": "Article 9(2)",
+              "quote": "Israel respects the present special role of the Hashemite Kingdom of Jordan in Muslim Holy shrines in Jerusalem"
+            },
+            {
+              "ref": "jordan-plo-2013-custodianship-agreement",
+              "locator": "Preamble items D-E; Article 2.3",
+              "quote": "The continuity of Hashemite King of Jordan’s custodianship of the Holy Sites since 1924"
+            },
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "p. 5 fn. 15 (Jordanian diplomat, Crisis Group interview)",
+              "quote": "We coordinate de facto to keep public order. We do not recognise Israeli rights there."
+            }
+          ]
+        },
+        {
+          "perspective": "international",
+          "label": {
+            "en": "UNESCO and UN officials"
+          },
+          "summary": {
+            "en": "A 2016 draft decision on Occupied Palestine, submitted by seven Arab states and approved by UNESCO's Executive Board, referred to the site only as Al-Aqsa Mosque/Al-Haram Al-Sharif, called the Western Wall plaza Al-Buraq Plaza, and called on Israel, as occupying power, to restore the status quo that prevailed until September 2000, when the Jordanian Awqaf had exclusive authority [1][2]. The same text affirmed the importance of the Old City of Jerusalem and its walls for the three monotheistic religions [1]. UNESCO's head, Irina Bokova, responded that Jerusalem's heritage is indivisible and that denying or erasing any of its Jewish, Christian or Muslim traditions undermines the integrity of the site [3]."
+          },
+          "sources": [
+            {
+              "ref": "unesco-2016-occupied-palestine-draft-decision",
+              "locator": "paras 3 and 7 (section I.B.1)",
+              "quote": "Affirming the importance of the Old City of Jerusalem and its Walls for the three monotheistic religions"
+            },
+            {
+              "ref": "dailyalert-2016-netanyahu-unesco",
+              "locator": "item text",
+              "quote": "Following UNESCO's adoption of a resolution which ignores the ties of the Jewish people to its most holy sites"
+            },
+            {
+              "ref": "toi-2016-10-15-palestinians-rebuke-unesco-chief",
+              "locator": "Bokova quotation",
+              "quote": "To deny, conceal or erase any of the Jewish, Christian or Muslim traditions undermines the integrity of the site."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "International Crisis Group analysis"
+          },
+          "summary": {
+            "en": "The International Crisis Group uses the term Holy Esplanade to refer neutrally to what Jews call the Temple Mount and Muslims the Noble Sanctuary or al-Aqsa [1]. It describes the status quo as an informal modus vivendi that emerged after 1967, in which the Jordanian-run Waqf administers the site and non-Muslim prayer is barred, while Israel controls security [1][2]. It argues that the arrangement eroded after 2000, as Israel took sole control of non-Muslim entry and calls for Jewish prayer moved from marginal groups toward the political mainstream, developments that Palestinians and Jordan regard as a threat to the status quo [1]."
+          },
+          "sources": [
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "p. 1 (Introduction); pp. 4-9, 12 and 21 (Sections II-IV)",
+              "quote": "The Holy Esplanade – the term this report uses to refer neutrally to what Jews call the Temple Mount and Muslims the Noble Sanctuary/Al-Aqsa"
+            },
+            {
+              "ref": "icg-2015-status-quo-holy-esplanade",
+              "locator": "p. 5",
+              "quote": "was the product of tacit pragmatism, not a formal understanding"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "Names: Temple Mount (Hebrew Har haBayit) in Jewish and Israeli usage; al-Haram al-Sharif (the Noble Sanctuary) and al-Masjid al-Aqsa in Muslim and Palestinian usage, the latter increasingly for the whole compound; some neutral works use Holy Esplanade. All accounts agree the site is sacred to Muslims and Jews and that a status quo has governed worship since 1967; they disagree on sovereignty, on what the status quo requires (especially Jewish prayer and access) and on how far it has changed."
+      }
+    }
+  ]
+}

@@ -318,12 +318,14 @@ appData.migrations = appData.migrations.map((m) => {
 // Each perspective's time span, from the records it is about (for showing it in the year panel).
 {
   const spans = new Map<string, [number, number]>();
-  const add = (id: string, s0: { year: number; month?: number }, e0?: { year: number; month?: number }) =>
-    spans.set(id, [startT(s0), e0 ? endT(e0) : startT(s0) + 1]);
-  for (const c of b.conflicts?.conflicts ?? []) add(c.id, c.start, c.end);
-  for (const e of b.events?.events ?? []) add(e.id, e.date, e.end);
-  for (const m of b.migrations?.migrations ?? []) add(m.id, m.start, m.end);
-  for (const p of b.polities?.polities ?? []) add(p.id, p.start, p.end);
+  // Without an end date, a battle or event lasts about a year; a migration or polity is still going on.
+  const asOfT = endT(b.config!.timeline.as_of);
+  const add = (id: string, s0: { year: number; month?: number }, e0: { year: number; month?: number } | undefined, ongoing: boolean) =>
+    spans.set(id, [startT(s0), e0 ? endT(e0) : ongoing ? asOfT : startT(s0) + 1]);
+  for (const c of b.conflicts?.conflicts ?? []) add(c.id, c.start, c.end, false);
+  for (const e of b.events?.events ?? []) add(e.id, e.date, e.end, false);
+  for (const m of b.migrations?.migrations ?? []) add(m.id, m.start, m.end, true);
+  for (const p of b.polities?.polities ?? []) add(p.id, p.start, p.end, true);
   appData.perspectives = appData.perspectives.map((p: { about?: string[] }) => {
     const ss = (p.about ?? []).map((id) => spans.get(id)).filter((x): x is [number, number] => !!x);
     return ss.length ? { ...p, _t0: Math.min(...ss.map((x) => x[0])), _t1: Math.max(...ss.map((x) => x[1])) } : p;

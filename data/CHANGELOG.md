@@ -153,3 +153,10 @@ Seven layers, each with publisher, licence, as-of date and method in `data/moder
 
 **Conflicts 1516–today.** 96 records from the second pass, merged with the first (205 in all; the 1516–17 Ottoman–Mamluk war, Marj Dabiq and Khan Yunis appeared in both and were merged). 34 records give each side's name for the war with a source (e.g. War of Independence / al-Nakba; Six-Day War / al-Naksa; Operation Al-Aqsa Flood / the October 7 massacre). Fifteen are `contested`, each with both positions sourced.
 - Gaps: Karameh (1968), October 2000, al-Dawayima and May 2021 rest only on Palestinian sources; the Kahan Commission report could not be opened (its findings come via a summary); several operation names (e.g. Lebanon's "July War") are mentioned only in notes as unverified.
+
+### Perspectives (imported 2026-10-19)
+
+18 topics, 85 accounts, 166 sources (128 read in full, 7 excerpts, 31 seen only quoted in another work, each with `via`). Every topic has at least an Israeli, a Palestinian and an academic or international account. Where a side is internally divided the accounts are separate: for 1948 the traditional Israeli account, the Israeli "new historians", the Palestinian account, the UN record and outside scholars; for Gaza, Hamas and the Palestinian Authority.
+- Citation markers were moved before the full stop ("… honey' [1].") to match the rest of the site, so the validator can check every sentence.
+- The research linked each topic to whole polities (e.g. the Mandate for the 1929 riots), which made topics appear across decades. Each topic is now linked to the specific conflicts, events and migrations it is about; the validator checks that these links exist.
+- Gaps: not read directly: W. Khalidi's "Plan Dalet", Masalha's *Expulsion*, the Levy Report, the ICRC commentary on Article 49, the Turkel Commission. No Israeli government source rejecting the 2024 ICJ opinion or the 2025 UN commission report; Hamas's "Our Narrative" and Israel's ICJ pleadings only via press and UN summaries. Three publication years (Hoffmeier, Hagopian & Zahlan, Morris 1987) were filled from catalogue knowledge, as the source notes say.

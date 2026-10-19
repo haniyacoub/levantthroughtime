@@ -61,8 +61,13 @@ interface State {
   setLang: (l: Lang) => void;
 }
 
+/** The page named in the address bar (#/bibliography etc.), read once at start-up. */
+export function viewFromHash(hash: string): View {
+  return hash === '#/bibliography' ? 'bibliography' : hash === '#/perspectives' ? 'perspectives' : hash === '#/about' ? 'about' : 'map';
+}
+
 export const useStore = create<State>((set) => ({
-  view: 'map',
+  view: typeof window === 'undefined' ? 'map' : viewFromHash(window.location.hash),
   placeId: null,
   sources: null,
   // Open by default only where there is room for both the map and the chart.

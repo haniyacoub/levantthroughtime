@@ -293,6 +293,28 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "alaqad-2025-review-masalha",
+      "type": "article",
+      "authors": [
+        "Al Aqad, Mohammed H."
+      ],
+      "title": "Review of Nur Masalha, Palestine: A Four Thousand Year History",
+      "container": "The International Journal of Palestine Studies",
+      "volume": 1,
+      "issue": 1,
+      "year": 2025,
+      "publisher": "Hashim Sani Centre for Palestine Studies, Universiti Malaya",
+      "url": "https://ejournal.um.edu.my/index.php/IJPS-UM/article/download/61995/18426",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review (PDF), chapter-by-chapter summary."
+      },
+      "kind": "academic",
+      "institution_country": "MY",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "albright-1925-administrative-divisions",
       "type": "article",
       "authors": [
@@ -402,6 +424,23 @@
       },
       "kind": "press",
       "institution_country": "QA"
+    },
+    {
+      "id": "aljazeera-2024-01-26-world-reacts-icj",
+      "type": "web",
+      "title": "World reacts to ICJ interim ruling in Gaza genocide case against Israel",
+      "container": "Al Jazeera",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2024,
+      "url": "https://www.aljazeera.com/news/2024/1/26/world-reacts-to-icj-ruling-on-south-africas-genocide-case-against-israel",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full round-up of reactions (26 Jan 2024): Palestine, Israel, South Africa, Hamas, US and others."
+      },
+      "kind": "press",
+      "institution_country": "QA",
+      "accessed": "2026-10-18"
     },
     {
       "id": "aljazeera-2025-01-19-ceasefire",
@@ -817,6 +856,23 @@
       },
       "kind": "government",
       "institution_country": "AU",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "ap-2023-10-26-gaza-moh-explainer",
+      "type": "web",
+      "title": "What is Gaza's Ministry of Health and how does it calculate the war's death toll?",
+      "container": "AP News",
+      "publisher": "The Associated Press",
+      "year": 2023,
+      "url": "https://apnews.com/article/israel-hamas-war-gaza-health-ministry-health-death-toll-59470820308b31f1faf73c703400b033",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full explainer (26 Oct 2023): data collection from hospitals, name and ID lists, criticism, and UN use of the figures in earlier wars."
+      },
+      "kind": "press",
+      "institution_country": "US",
       "accessed": "2026-10-18"
     },
     {
@@ -1271,6 +1327,24 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "avneri-1984-claim-of-dispossession",
+      "type": "book",
+      "authors": [
+        "Avneri, Arieh L."
+      ],
+      "title": "The Claim of Dispossession: Jewish Land-Settlement and the Arabs, 1878-1948",
+      "publisher": "Transaction / Routledge",
+      "year": 1984,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the Routledge book description and in John C. Campbell's Foreign Affairs review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "avni-2014",
       "type": "book",
       "authors": [
@@ -1418,6 +1492,25 @@
       },
       "kind": "government",
       "institution_country": "AU"
+    },
+    {
+      "id": "bachi-1974-population-of-israel",
+      "type": "book",
+      "authors": [
+        "Bachi, Roberto"
+      ],
+      "title": "The Population of Israel",
+      "publisher": "Institute of Contemporary Jewry, Hebrew University",
+      "place": "Jerusalem",
+      "year": 1974,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Passages on internal and illegal migration read as quoted by Gottheil 2003 (gottheil-2003-smoking-gun)."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
     },
     {
       "id": "bachi-1977",
@@ -1698,6 +1791,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bartal-2008-inventing-an-invention",
+      "type": "article",
+      "authors": [
+        "Bartal, Israel"
+      ],
+      "title": "Inventing an invention",
+      "container": "Haaretz (review of Shlomo Sand)",
+      "publisher": "Haaretz",
+      "year": 2008,
+      "url": "http://www.haaretz.com/hasen/spages/999386.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20090303150903."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "bartov-2004-dissertation",
       "type": "book",
       "authors": [
@@ -1778,6 +1891,28 @@
       "kind": "press",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bbc-2024-05-16-un-lower-toll-women-children",
+      "type": "web",
+      "authors": [
+        "Horton, Jake",
+        "Sardarizadeh, Shayan",
+        "Durbin, Adam"
+      ],
+      "title": "Gaza war: Why is the UN citing lower death toll for women and children?",
+      "container": "BBC News (BBC Verify)",
+      "publisher": "British Broadcasting Corporation",
+      "year": 2024,
+      "url": "https://www.bbc.com/news/world-middle-east-69014893",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article (16 May 2024) on how the Gaza Ministry of Health and Government Media Office record deaths and why the UN changed its source."
+      },
+      "kind": "press",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
     },
     {
       "id": "begin-1951-the-revolt",
@@ -1918,6 +2053,36 @@
       },
       "kind": "academic",
       "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "bloomsbury-masalha-bible-and-zionism-page",
+      "type": "web",
+      "title": "The Bible and Zionism (book page)",
+      "publisher": "Bloomsbury Publishing (Zed Books imprint)",
+      "url": "https://www.bloomsbury.com/uk/bible-and-zionism-9781842777619/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description; the page describes the author as a Palestinian writer and academic."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "bloomsbury-masalha-palestine",
+      "type": "web",
+      "title": "Palestine: A Four Thousand Year History (book page)",
+      "publisher": "Bloomsbury Publishing (Zed Books imprint)",
+      "url": "https://www.bloomsbury.com/uk/palestine-9781786992727/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the description and table of contents via Internet Archive capture 20230325233319."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
       "accessed": "2026-10-18"
     },
     {
@@ -2079,6 +2244,21 @@
       "kind": "academic",
       "institution_country": "PS",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "brandeis-cohen-year-zero-page",
+      "type": "web",
+      "title": "Year Zero of the Arab-Israeli Conflict 1929 (book page)",
+      "publisher": "Brandeis University Press",
+      "url": "https://brandeisuniversitypress.com/title/year-zero-of-the-arab-israeli-conflict-1929/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "breger-reiter-hammer-holy-places",
@@ -3628,6 +3808,22 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "britannica-diaspora-judaism",
+      "type": "web",
+      "title": "Diaspora (Judaism)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Diaspora-Judaism",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "britannica-dome-of-the-rock",
@@ -6106,6 +6302,22 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-palestine-roman",
+      "type": "web",
+      "title": "Palestine: Roman Palestine",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/Roman-Palestine",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "britannica-palestine-roman-to-fatimid",
       "type": "web",
       "authors": [
@@ -7889,6 +8101,42 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "brynen-1998-refugees-peace-process",
+      "type": "web",
+      "authors": [
+        "Brynen, Rex"
+      ],
+      "title": "Palestinian Refugees and the Middle East Peace Process",
+      "container": "Palestinian Refugee ResearchNet",
+      "publisher": "McGill University",
+      "year": 1998,
+      "url": "https://prrn.mcgill.ca/research/papers/brynen_980403.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the section on the origins of the refugee issue."
+      },
+      "kind": "academic",
+      "institution_country": "CA",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "btselem-settlements",
+      "type": "web",
+      "title": "Settlements",
+      "publisher": "B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories",
+      "year": 2019,
+      "url": "https://www.btselem.org/settlements",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the overview page (11 Nov 2017, updated 16 Jan 2019)."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "bunimovitz-1989-land-of-israel-lb",
       "type": "document",
       "authors": [
@@ -7942,6 +8190,26 @@
       },
       "kind": "academic",
       "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "campbell-1984-review-peters",
+      "type": "article",
+      "authors": [
+        "Campbell, John C."
+      ],
+      "title": "Capsule review of J. Peters, From Time Immemorial, and A. L. Avneri, The Claim of Dispossession",
+      "container": "Foreign Affairs (Fall 1984)",
+      "publisher": "Council on Foreign Relations",
+      "year": 1984,
+      "url": "https://www.foreignaffairs.com/node/1075297",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full capsule review."
+      },
+      "kind": "press",
+      "institution_country": "US",
       "accessed": "2026-10-18"
     },
     {
@@ -8481,6 +8749,21 @@
       "institution_country": "US"
     },
     {
+      "id": "city-of-david-national-park-page",
+      "type": "web",
+      "title": "City of David National Park",
+      "publisher": "Ir David Foundation (City of David)",
+      "url": "https://cityofdavid.org.il/en/sites/city-of-david-national-park-eng/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the site description."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "clinton-wh-trilateral-statement-2000",
       "type": "document",
       "title": "Trilateral Statement: Middle East Peace Talks at Camp David (7/25/00)",
@@ -8495,6 +8778,42 @@
       },
       "kind": "government",
       "institution_country": "US"
+    },
+    {
+      "id": "cohen-2008-army-of-shadows",
+      "type": "book",
+      "authors": [
+        "Cohen, Hillel"
+      ],
+      "title": "Army of Shadows: Palestinian Collaboration with Zionism, 1917-1948",
+      "publisher": "University of California Press",
+      "year": 2008,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher's description (ucpress-cohen-army-of-shadows)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "cohen-2015-year-zero",
+      "type": "book",
+      "authors": [
+        "Cohen, Hillel"
+      ],
+      "title": "Year Zero of the Arab-Israeli Conflict: 1929",
+      "publisher": "Brandeis University Press",
+      "year": 2015,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher's description and in Yonatan Mendel's review (London Review of Books, 2016)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "cohen-lewis-1978-population-revenue",
@@ -8623,6 +8942,21 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "cup-pearlman-2011-page",
+      "type": "web",
+      "title": "Violence, Nonviolence, and the Palestinian National Movement (book page)",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/violence-nonviolence-and-palestinian-national-movement",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the description and endorsements via Internet Archive capture 20220609153442."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "daftary-iranica-fatimids",
       "type": "web",
       "authors": [
@@ -8643,6 +8977,23 @@
       },
       "kind": "reference",
       "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "dailyalert-2016-netanyahu-unesco",
+      "type": "web",
+      "title": "Netanyahu: UNESCO Decision on Temple Mount Like Saying Egypt Has No Connection to the Pyramids",
+      "container": "Daily Alert (archive), 14 October 2016",
+      "publisher": "Jerusalem Center for Public Affairs",
+      "year": 2016,
+      "url": "https://dailyalert.org/archive/index.php?id=63920",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the archived item, which reproduces the Prime Minister's Office statement and links to the Israel MFA original."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
       "accessed": "2026-10-18"
     },
     {
@@ -8805,6 +9156,24 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the chapter text (Internet Archive full-text copy of the volume): MB chronology chart (p. 286) and discussion of Broshi & Gophna's figures."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "dever-2003-early-israelites",
+      "type": "book",
+      "authors": [
+        "Dever, William G."
+      ],
+      "title": "Who Were the Early Israelites and Where Did They Come From?",
+      "publisher": "Eerdmans",
+      "year": 2003,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the review by Pekka Pitkänen (pitkanen-review-dever)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9498,6 +9867,49 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "finkelstein-mazar-2007-quest",
+      "type": "book",
+      "authors": [
+        "Finkelstein, Israel",
+        "Mazar, Amihai"
+      ],
+      "editors": [
+        "Schmidt, Brian B."
+      ],
+      "title": "The Quest for the Historical Israel: Debating Archaeology and the History of Early Israel",
+      "container": "SBL Archaeology and Biblical Studies 17",
+      "publisher": "Society of Biblical Literature",
+      "place": "Atlanta",
+      "year": 2007,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; positions read in the review by Richard S. Hess (hess-2007-review-finkelstein-mazar)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "finkelstein-silberman-2001-bible-unearthed",
+      "type": "book",
+      "authors": [
+        "Finkelstein, Israel",
+        "Silberman, Neil Asher"
+      ],
+      "title": "The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts",
+      "publisher": "Free Press / Simon & Schuster",
+      "year": 2001,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher description (simonschuster-bible-unearthed-page)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "follett-2017-iip-earthquake-363",
       "type": "web",
       "authors": [
@@ -9536,6 +9948,27 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "frantzman-2008-review-pappe",
+      "type": "article",
+      "authors": [
+        "Frantzman, Seth J."
+      ],
+      "title": "Review of I. Pappé, The Ethnic Cleansing of Palestine",
+      "container": "Middle East Quarterly (Spring 2008)",
+      "pages": "70-75",
+      "publisher": "Middle East Forum",
+      "year": 2008,
+      "url": "https://www.meforum.org/middle-east-quarterly/book-reviews/the-ethnic-cleansing-of-palestine",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review essay."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "frantzman-lwj-morag-2025",
@@ -9761,6 +10194,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "gelber-2001-palestine-1948",
+      "type": "book",
+      "authors": [
+        "Gelber, Yoav"
+      ],
+      "title": "Palestine 1948: War, Escape and the Emergence of the Palestinian Refugee Problem",
+      "publisher": "Sussex Academic Press",
+      "place": "Brighton",
+      "year": 2001,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in Daniel Pipes's review (Middle East Quarterly, Winter 2002)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "geva-2007-estimating-jerusalem",
       "type": "article",
       "authors": [
@@ -9778,6 +10230,53 @@
       },
       "kind": "academic",
       "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "gold-2002-occupied-to-disputed",
+      "type": "article",
+      "authors": [
+        "Gold, Dore"
+      ],
+      "title": "From \"Occupied Territories\" to \"Disputed Territories\"",
+      "container": "Jerusalem Letter / Viewpoints No. 470 (16 January 2002)",
+      "publisher": "Jerusalem Center for Public Affairs",
+      "year": 2002,
+      "url": "https://jcfa.org/article/from-occupied-territories-to-disputed-territories/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "gomez-ugarte-2025-uncertainty-gaza-mortality",
+      "type": "article",
+      "authors": [
+        "Gómez-Ugarte, Ana C.",
+        "Chen, Irena",
+        "Acosta, Enrique",
+        "Basellini, Ugofilippo",
+        "Alburez-Gutierrez, Diego"
+      ],
+      "title": "Accounting for uncertainty in conflict mortality estimation: an application to the Gaza War in 2023-2024",
+      "container": "Population Health Metrics",
+      "volume": 23,
+      "pages": "55",
+      "year": 2025,
+      "doi": "10.1186/s12963-025-00422-9",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12516881/",
+      "license": "CC BY 4.0",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the open-access article on PubMed Central: background section on the contested Gaza death tolls, methods, discussion and reference list."
+      },
+      "kind": "academic",
+      "institution_country": "DE",
       "accessed": "2026-10-18"
     },
     {
@@ -9800,6 +10299,26 @@
       },
       "kind": "academic",
       "institution_country": "FR",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "gorenberg-2006-nyt-tragedy-foretold",
+      "type": "article",
+      "authors": [
+        "Gorenberg, Gershom"
+      ],
+      "title": "Israel's Tragedy Foretold",
+      "container": "The New York Times (10 March 2006)",
+      "publisher": "The New York Times",
+      "year": 2006,
+      "url": "http://www.nytimes.com/2006/03/10/opinion/israels-tragedy-foretold.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the op-ed via Internet Archive capture (2016)."
+      },
+      "kind": "press",
+      "institution_country": "US",
       "accessed": "2026-10-18"
     },
     {
@@ -9871,6 +10390,28 @@
       },
       "kind": "ngo",
       "institution_country": "US"
+    },
+    {
+      "id": "gottheil-2003-smoking-gun",
+      "type": "article",
+      "authors": [
+        "Gottheil, Fred M."
+      ],
+      "title": "The Smoking Gun: Arab Immigration into Palestine, 1922-1931",
+      "container": "Middle East Quarterly",
+      "volume": 10,
+      "issue": 1,
+      "year": 2003,
+      "publisher": "Middle East Forum",
+      "url": "https://www.meforum.org/522/the-smoking-gun-arab-immigration-into-palestine",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article (Winter 2003), including its quotations of Roberto Bachi and its critique of Justin McCarthy."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "grabar-kedar-2009",
@@ -9945,6 +10486,24 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "grossman-2011-rural-arab-demography",
+      "type": "book",
+      "authors": [
+        "Grossman, David"
+      ],
+      "title": "Rural Arab Demography and Early Jewish Settlement in Palestine: Distribution and Population Density during the Late Ottoman and Early Mandate Periods",
+      "publisher": "Magnes Press / Transaction",
+      "year": 2011,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the Magnes Press description and in Avinoam Meir's review (Geography Research Forum)."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
     },
     {
       "id": "guardian-2025-01-21-iron-wall",
@@ -10111,6 +10670,29 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "hagopian-zahlan-1974-palestines-arab-population",
+      "type": "article",
+      "authors": [
+        "Hagopian, Edward",
+        "Zahlan, A. B."
+      ],
+      "title": "Palestine's Arab Population: The Demography of the Palestinians",
+      "container": "Journal of Palestine Studies",
+      "volume": 3,
+      "issue": 4,
+      "year": 1974,
+      "pages": "32-",
+      "url": "https://palquest.palestine-studies.org/sites/default/files/Palestines_Arab_Population-The_Demography_of_the_Palestinians.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read pp. 1-9 of the PDF (Institute for Palestine Studies copy via Internet Archive capture 20240806), section on Mandate-period growth."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "haifa-hazor-excavations",
       "type": "web",
       "title": "About - Hazor Excavations",
@@ -10124,6 +10706,45 @@
       },
       "kind": "academic",
       "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "hamas-2006-haniyeh-government-program",
+      "type": "document",
+      "authors": [
+        "Haniyeh, Ismail"
+      ],
+      "title": "Prime Minister-elect Ismail Haniyeh presents the new government's program to the Palestinian Legislative Council (March 2006)",
+      "container": "Interactive Encyclopedia of the Palestine Question, historic texts",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "year": 2006,
+      "url": "https://www.palquest.org/en/historictext/13423/prime-minister-elect-ismail-haniyeh-presents-new-government%E2%80%99s-program-palestinian-legislative",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English text of the programme speech."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "hamas-2017-document-general-principles",
+      "type": "document",
+      "authors": [
+        "Hamas (Islamic Resistance Movement)"
+      ],
+      "title": "A Document of General Principles and Policies (1 May 2017), full text as published by Middle East Eye",
+      "publisher": "Middle East Eye",
+      "year": 2017,
+      "url": "https://www.middleeasteye.net/news/hamas-2017-document-full",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full 42-article text as republished by Middle East Eye (2 May 2017)."
+      },
+      "kind": "government",
+      "institution_country": "PS",
       "accessed": "2026-10-18"
     },
     {
@@ -10142,6 +10763,27 @@
       },
       "kind": "government",
       "institution_country": "PS"
+    },
+    {
+      "id": "hanieh-2001-camp-david-papers",
+      "type": "article",
+      "authors": [
+        "Hanieh, Akram"
+      ],
+      "title": "The Camp David Papers",
+      "container": "Journal of Palestine Studies",
+      "volume": 30,
+      "issue": 2,
+      "year": 2001,
+      "url": "https://www.palestine-studies.org/en/node/40908",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the abstract on the Institute for Palestine Studies page (Internet Archive capture 20241103151514); the article text was not read."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
     },
     {
       "id": "hansard-1931-02-13-macdonald-letter",
@@ -10278,6 +10920,46 @@
       "kind": "un"
     },
     {
+      "id": "herzog-1999-deconstructing-walls-jericho",
+      "type": "article",
+      "authors": [
+        "Herzog, Ze'ev"
+      ],
+      "title": "Deconstructing the walls of Jericho",
+      "container": "Ha'aretz Magazine",
+      "publisher": "Ha'aretz",
+      "year": 1999,
+      "url": "http://lib1.library.cornell.edu/colldev/mideast/jerques.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English text (29 October 1999) as reproduced on a Cornell University Library page."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "hess-2007-review-finkelstein-mazar",
+      "type": "article",
+      "authors": [
+        "Hess, Richard S."
+      ],
+      "title": "Review of I. Finkelstein and A. Mazar (ed. B. B. Schmidt), The Quest for the Historical Israel",
+      "container": "Denver Journal",
+      "publisher": "Denver Seminary",
+      "year": 2007,
+      "url": "https://denverjournal.denverseminary.edu/the-denver-journal-article/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review (December 2007)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "hirschberg-1971",
       "type": "chapter",
       "authors": [
@@ -10296,6 +10978,24 @@
       },
       "kind": "reference",
       "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "hoffmeier-1997-israel-in-egypt",
+      "type": "book",
+      "authors": [
+        "Hoffmeier, James K."
+      ],
+      "title": "Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition",
+      "publisher": "Oxford University Press",
+      "year": 1997,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its argument read in the publisher-style description on the Trinity International University books page (tiu-hoffmeier-israel-in-egypt-page), which gives a publication date of 18 March 1999 (paperback; the book first appeared in 1997)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
       "accessed": "2026-10-18"
     },
     {
@@ -10431,6 +11131,30 @@
       "institution_country": "GB"
     },
     {
+      "id": "huynh-2024-no-evidence-inflated-mortality",
+      "type": "article",
+      "authors": [
+        "Huynh, Benjamin Q.",
+        "Chin, Elizabeth T.",
+        "Spiegel, Paul B."
+      ],
+      "title": "No evidence of inflated mortality reporting from the Gaza Ministry of Health",
+      "container": "The Lancet",
+      "volume": 403,
+      "issue": 10421,
+      "pages": "23-24",
+      "year": 2024,
+      "doi": "10.1016/S0140-6736(23)02713-7",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened (publisher returned HTTP 403); cited among the studies finding no evidence of systematic over-reporting in Gomez-Ugarte et al. 2025 (gomez-ugarte-2025-uncertainty-gaza-mortality), whose reference list gives these details."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "iaa-leon-levy-dss-introduction",
       "type": "web",
       "title": "The Dead Sea Scrolls - Introduction",
@@ -10487,6 +11211,22 @@
       "institution_country": "IL"
     },
     {
+      "id": "icarus-exile-myth-unearthed",
+      "type": "web",
+      "title": "Exile: A Myth Unearthed (documentary film by Ilan Ziv), distributor page",
+      "publisher": "Icarus Films",
+      "year": 2014,
+      "url": "https://icarusfilms.com/if-exl",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the distributor's synopsis, which quotes the historian Israel Yuval; the film itself was not viewed."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "icc-pr-2015-01-07",
       "type": "web",
       "title": "Press Release: 7 January 2015 - The State of Palestine accedes to the Rome Statute",
@@ -10536,6 +11276,27 @@
       "kind": "un",
       "institution_country": "NL",
       "publisher": "International Criminal Court"
+    },
+    {
+      "id": "icg-2015-status-quo-holy-esplanade",
+      "type": "report",
+      "authors": [
+        "International Crisis Group"
+      ],
+      "title": "The Status of the Status Quo at Jerusalem's Holy Esplanade",
+      "container": "Middle East Report N°159",
+      "publisher": "International Crisis Group",
+      "place": "Brussels",
+      "year": 2015,
+      "url": "https://www.refworld.org/pdfid/559504ea4.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report (30 June 2015) in the Refworld PDF via an Internet Archive capture, and the reprint in Jerusalem Quarterly 63 (palestine-studies.org, with an introduction by Mick Dumper) via the Internet Archive; read the introduction, sections on the 1967 arrangement, the post-2000 period, Temple activism and Palestinian and Jordanian positions, with footnotes."
+      },
+      "kind": "ngo",
+      "institution_country": "BE",
+      "accessed": "2026-10-18"
     },
     {
       "id": "icj-2004-wall-ao",
@@ -10605,6 +11366,22 @@
       "publisher": "International Court of Justice"
     },
     {
+      "id": "icrc-2010-gaza-closure",
+      "type": "web",
+      "title": "Gaza closure: not another year! (news release, 14 June 2010)",
+      "publisher": "International Committee of the Red Cross",
+      "year": 2010,
+      "url": "https://www.icrc.org/eng/resources/documents/update/palestine-update-140610.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20180826191845."
+      },
+      "kind": "ngo",
+      "institution_country": "CH",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "idf-history-war-of-independence",
       "type": "book",
       "authors": [
@@ -10672,6 +11449,26 @@
       },
       "kind": "academic",
       "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "ilani-2008-shattering-national-mythology",
+      "type": "article",
+      "authors": [
+        "Ilani, Ofri"
+      ],
+      "title": "Shattering a 'national mythology'",
+      "container": "Haaretz (21 March 2008)",
+      "publisher": "Haaretz",
+      "year": 2008,
+      "url": "http://www.haaretz.com/general/shattering-a-national-mythology-1.242055",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the interview with Shlomo Sand via Internet Archive capture 20100524074211."
+      },
+      "kind": "press",
+      "institution_country": "IL",
       "accessed": "2026-10-18"
     },
     {
@@ -10862,6 +11659,76 @@
       "year": 2020
     },
     {
+      "id": "israel-1948-declaration-of-establishment",
+      "type": "document",
+      "title": "Declaration of the Establishment of the State of Israel (14 May 1948)",
+      "container": "The Avalon Project",
+      "publisher": "Yale Law School, Lillian Goldman Law Library",
+      "year": 1948,
+      "url": "https://avalon.law.yale.edu/20th_century/israel.asp",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full text (Avalon Project); also compared with the Israel MFA text via Internet Archive capture 20160510."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-goi-2000-submission-mitchell",
+      "type": "document",
+      "authors": [
+        "Government of Israel"
+      ],
+      "title": "Submission of the Government of Israel to the Sharm el-Sheikh Fact-Finding Committee (2000-2001)",
+      "year": 2001,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not seen directly; quoted and summarised in the Mitchell report (mitchell-2001-sharm-el-sheikh-report)."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-hcj-2008-al-bassiouni",
+      "type": "document",
+      "authors": [
+        "Supreme Court of Israel sitting as High Court of Justice"
+      ],
+      "title": "HCJ 9132/07 Jaber Al-Bassiouni Ahmed v. Prime Minister (30 January 2008), English translation",
+      "publisher": "Versa (Cardozo School of Law)",
+      "year": 2008,
+      "url": "https://versa.cardozo.yu.edu/opinions/ahmed-v-prime-minister",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the unofficial English translation of the judgment summary and opinion."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-jordan-1994-peace-treaty",
+      "type": "document",
+      "title": "Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan (26 October 1994), Articles 6-15",
+      "container": "King Hussein bin Talal official website",
+      "publisher": "Office of His Majesty King Hussein I (Jordan)",
+      "year": 1994,
+      "url": "http://www.kinghussein.gov.jo/peace_6-15.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read Articles 6-15, including Article 9 (Places of Historical and Religious Significance and Interfaith Relations)."
+      },
+      "kind": "government",
+      "institution_country": "JO",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "israel-jordan-peace-treaty-1994",
       "type": "document",
       "authors": [
@@ -10966,6 +11833,38 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "israel-mfa-history-foreign-domination",
+      "type": "web",
+      "title": "History: Foreign Domination",
+      "container": "Facts about Israel (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "url": "http://www.mfa.gov.il/mfa/aboutisrael/history/pages/history-%20foreign%20domination.aspx",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20160625181358: Byzantine, Arab, Crusader, Mamluk and early Ottoman sections."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-mfa-history-second-temple",
+      "type": "web",
+      "title": "History: The Second Temple Period",
+      "container": "Facts about Israel (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "url": "http://www.mfa.gov.il/mfa/aboutisrael/history/pages/history-%20the%20second%20temple.aspx",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20160621210254, sections on the revolts and their aftermath."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "israel-mfa-settlements-2015",
       "type": "web",
       "title": "Israeli Settlements and International Law",
@@ -10977,6 +11876,44 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the full page (dated 30 Nov 2015) via Internet Archive snapshot 20160317."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-pmo-2015-temple-mount-statement",
+      "type": "document",
+      "authors": [
+        "Netanyahu, Benjamin"
+      ],
+      "title": "Statement by PM Netanyahu regarding the Temple Mount (24 October 2015)",
+      "publisher": "Prime Minister's Office / Israel Ministry of Foreign Affairs",
+      "year": 2015,
+      "url": "https://embassies.gov.il/MFA/PressRoom/2015/Pages/Statement-by-PM-Netanyahu-regarding-the-Temple-Mount-24-Oct-2015.aspx",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "The Israeli government pages carrying the statement could not be opened (HTTP 404/connection reset, no usable Internet Archive capture); the statement was read as quoted in the JTA report (jta-2015-netanyahu-status-quo)."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-pmo-2016-unesco-statement",
+      "type": "document",
+      "authors": [
+        "Netanyahu, Benjamin"
+      ],
+      "title": "PM Netanyahu statement following today's UNESCO decision (13 October 2016)",
+      "publisher": "Prime Minister's Office / Israel Ministry of Foreign Affairs",
+      "year": 2016,
+      "url": "http://mfa.gov.il/MFA/PressRoom/2016/Pages/PM-Netanyahu-statement-following-today%E2%80%99s-UNESCO-decision-10-13-16.aspx",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Original MFA page not opened (embassies.gov.il pages returned 404); read as reproduced in the Daily Alert item (dailyalert-2016-netanyahu-unesco)."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -11079,17 +12016,44 @@
       ],
       "title": "When Palestine Meant Israel",
       "container": "Biblical Archaeology Review",
+      "volume": 27,
+      "issue": "3 (May/June)",
       "publisher": "Biblical Archaeology Society",
       "year": 2001,
-      "issue": "May/June",
       "url": "https://library.biblicalarchaeology.org/article/when-palestine-meant-israel/",
       "verification": {
-        "level": "excerpt",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Article body is paywalled; saw only the open introduction and endnote 23 (library.biblicalarchaeology.org/endnote/endnote-23-when-palestine-meant-israel), which reports L. H. Feldman's view on the Hadrian renaming."
+        "note": "Read the full article as reproduced on CojsWiki (cojs.org, Internet Archive capture 20110725184107) and endnote 23 on the BAS library site; the BAS article body itself is paywalled."
       },
       "kind": "academic",
       "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "jamaluddine-2025-gaza-capture-recapture",
+      "type": "article",
+      "authors": [
+        "Jamaluddine, Zeina",
+        "Abukmail, Hanan",
+        "Aly, Sarah",
+        "Campbell, Oona M. R.",
+        "Checchi, Francesco"
+      ],
+      "title": "Traumatic injury mortality in the Gaza Strip from Oct 7, 2023, to June 30, 2024: a capture-recapture analysis",
+      "container": "The Lancet",
+      "volume": 405,
+      "issue": 10477,
+      "pages": "469-477",
+      "year": 2025,
+      "doi": "10.1016/S0140-6736(24)02678-3",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "The Lancet page returned HTTP 403; method (capture-recapture analysis of multiple lists) seen as described in Gomez-Ugarte et al. 2025 (gomez-ugarte-2025-uncertainty-gaza-mortality), whose reference list gives these bibliographic details."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
       "accessed": "2026-10-18"
     },
     {
@@ -11283,6 +12247,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "jordan-plo-2013-custodianship-agreement",
+      "type": "document",
+      "authors": [
+        "Abdullah II, King of Jordan",
+        "Abbas, Mahmoud"
+      ],
+      "title": "Agreement between His Majesty King Abdullah II Bin al-Hussein, the Custodian of the Holy Sites in Jerusalem, and His Excellency Dr. Mahmoud Abbas, President of the State of Palestine, Head of Palestinian Liberation Organisation, and President of the Palestinian National Authority (Amman, 31 March 2013)",
+      "publisher": "Hashemite Kingdom of Jordan and Palestine Liberation Organization (English text as hosted by the Economic Cooperation Foundation)",
+      "year": 2013,
+      "url": "https://content.ecf.org.il/files/M00950_JordanPLOJerusalem2013English.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full two-page English text (preamble, articles 1-3, signing clause dated 31 March 2013). Hosted by an Israeli NGO archive; the Jordanian royal site returned an access error."
+      },
+      "kind": "government",
+      "institution_country": "JO",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "jordan-royal-court-custodianship",
       "type": "web",
       "title": "The Hashemite Custodianship of Islamic and Christian Holy Sites in Jerusalem",
@@ -11443,6 +12427,23 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "jps-2023-tanakh",
+      "type": "book",
+      "title": "The JPS TANAKH: Gender-Sensitive Edition",
+      "publisher": "Jewish Publication Society",
+      "year": 2023,
+      "url": "https://www.sefaria.org/",
+      "license": "CC-BY-NC",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26."
+      },
+      "kind": "religious-institution",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "jps-tanakh-2023",
       "type": "book",
       "title": "The JPS Tanakh: Gender-Sensitive Edition",
@@ -11458,6 +12459,26 @@
       },
       "kind": "religious-institution",
       "institution_country": "US"
+    },
+    {
+      "id": "jta-2015-netanyahu-status-quo",
+      "type": "web",
+      "authors": [
+        "Oster, Marcy"
+      ],
+      "title": "Netanyahu reaffirms status quo on Temple Mount",
+      "container": "JTA (Jewish Telegraphic Agency), republished by the St. Louis Jewish Light",
+      "publisher": "St. Louis Jewish Light",
+      "year": 2015,
+      "url": "https://stljewishlight.org/world-news/netanyahu-reaffirms-status-quo-on-temple-mount",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full news report (25 Oct 2015), which quotes the Prime Minister's statement of 24 Oct 2015 at length."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "jta-2026-10-17-israeli-elections",
@@ -11606,6 +12627,44 @@
       },
       "kind": "press",
       "institution_country": "US"
+    },
+    {
+      "id": "karsh-2010-palestine-betrayed",
+      "type": "book",
+      "authors": [
+        "Karsh, Efraim"
+      ],
+      "title": "Palestine Betrayed",
+      "publisher": "Yale University Press",
+      "year": 2010,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened (publisher page gave no text); argument read in David Rodman's review in the Middle East Quarterly."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "karsh-2023-oslo-disaster",
+      "type": "report",
+      "authors": [
+        "Karsh, Efraim"
+      ],
+      "title": "The Oslo Disaster 30 Years On",
+      "container": "Mideast Security and Policy Studies No. 202",
+      "publisher": "Begin-Sadat Center for Strategic Studies",
+      "year": 2023,
+      "url": "https://besacenter.org/the-oslo-disaster/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the executive summary (19 September 2023)."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
     },
     {
       "id": "kassim-2023-jordan-role",
@@ -11826,6 +12885,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "khalidi-2020-hundred-years-war",
+      "type": "book",
+      "authors": [
+        "Khalidi, Rashid"
+      ],
+      "title": "The Hundred Years' War on Palestine: A History of Settler Colonialism and Resistance, 1917-2017",
+      "publisher": "Metropolitan Books",
+      "place": "New York",
+      "year": 2020,
+      "url": "https://us.macmillan.com/books/9781627798556/thehundredyearswaronpalestine",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the excerpt of chapter 1 on the publisher's (Macmillan) page, including the passage on the 1936-39 revolt."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "kinghussein-1988-disengagement",
       "type": "document",
       "title": "Address to the Nation, Amman, July 31, 1988 (disengagement from the West Bank)",
@@ -11904,6 +12983,25 @@
       },
       "kind": "government",
       "institution_country": "JO",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "kitchen-2003-reliability-old-testament",
+      "type": "book",
+      "authors": [
+        "Kitchen, Kenneth A."
+      ],
+      "title": "On the Reliability of the Old Testament",
+      "publisher": "Eerdmans",
+      "place": "Grand Rapids",
+      "year": 2003,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its arguments read in reviews by Robin Plant (Themelios 30:3) and Michael J. Williams (Calvin Theological Journal)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
       "accessed": "2026-10-18"
     },
     {
@@ -12014,6 +13112,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "kramer-1984-review-peters",
+      "type": "article",
+      "authors": [
+        "Kramer, Martin"
+      ],
+      "title": "The New Case for Israel (review of Joan Peters, From Time Immemorial)",
+      "container": "The New Leader (14 May 1984), pp. 17-19",
+      "year": 1984,
+      "url": "https://martinkramer.org/reader/archives/the-new-case-for-israel/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review as reposted on the author's website."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "kressel-aharoni-2004",
       "type": "article",
       "authors": [
@@ -12092,6 +13209,25 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the Internet Archive OCR text, pp. 24-26 (the five junds and their Byzantine antecedents) and pp. 39-40 (al-Muqaddasi's list of districts, 985 CE). A 19th-century work: its translations of the Arab geographers remain useful but its historical dating is dated."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "lemche-2003-conservative-scholarship",
+      "type": "web",
+      "authors": [
+        "Lemche, Niels Peter"
+      ],
+      "title": "Conservative Scholarship-Critical Scholarship: Or How Did We Get Caught by This Bogus Discussion",
+      "container": "The Bible and Interpretation",
+      "year": 2003,
+      "url": "https://bibleinterp.arizona.edu/articles/Conservative_Scholarship",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full essay (September 2003)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -12369,6 +13505,21 @@
       "institution_country": "IL"
     },
     {
+      "id": "magnes-grossman-rural-arab-demography",
+      "type": "web",
+      "title": "Rural Arab Demography and Early Jewish Settlement in Palestine (book page)",
+      "publisher": "Magnes Press, Hebrew University",
+      "url": "https://www.magnespress.co.il/book/Rural_Arab_Demography_and_Early_Jewish_Settlement_in_Palestine-2700",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "malamat-ej-exile-assyrian",
       "type": "chapter",
       "authors": [
@@ -12467,6 +13618,43 @@
       "institution_country": "US"
     },
     {
+      "id": "masalha-2018-palestine",
+      "type": "book",
+      "authors": [
+        "Masalha, Nur"
+      ],
+      "title": "Palestine: A Four Thousand Year History",
+      "publisher": "Zed Books",
+      "year": 2018,
+      "isbn": "9781786992727",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its arguments read in the publisher description and table of contents (bloomsbury-masalha-palestine) and in reviews by Mohammed Al Aqad (IJPS 2025) and Jonathan Schanzer (MEQ 2019)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "masalha-bible-and-zionism",
+      "type": "book",
+      "authors": [
+        "Masalha, Nur"
+      ],
+      "title": "The Bible and Zionism: Invented Traditions, Archaeology and Post-Colonialism in Palestine-Israel",
+      "publisher": "Zed Books",
+      "isbn": "9781842777619",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher description (bloomsbury-masalha-bible-and-zionism-page). Publication year not shown on the page."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "matveev-2010",
       "type": "article",
       "authors": [
@@ -12509,6 +13697,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "mazar-e-2008-nova-palace-king-david",
+      "type": "web",
+      "authors": [
+        "Mazar, Eilat"
+      ],
+      "title": "The Palace of King David (interview with Eilat Mazar)",
+      "container": "NOVA",
+      "publisher": "PBS / WGBH",
+      "year": 2008,
+      "url": "https://www.pbs.org/wgbh/nova/article/palace-king-david/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the interview (18 Nov 2008)."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "mccarthy-1990",
       "type": "book",
       "authors": [
@@ -12547,6 +13755,83 @@
       },
       "kind": "academic",
       "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "meir-2011-review-grossman",
+      "type": "article",
+      "authors": [
+        "Meir, Avinoam"
+      ],
+      "title": "Review of D. Grossman, Rural Arab Demography and Early Jewish Settlement in Palestine",
+      "container": "Geography Research Forum",
+      "publisher": "Ben-Gurion University of the Negev",
+      "url": "https://grf.bgu.ac.il/index.php/GRF/article/view/388/379",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review (PDF)."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "mendel-2016-review-cohen",
+      "type": "article",
+      "authors": [
+        "Mendel, Yonatan"
+      ],
+      "title": "Divide and divide and divide and rule (review of H. Cohen, Year Zero of the Arab-Israeli Conflict: 1929)",
+      "container": "London Review of Books",
+      "volume": 38,
+      "issue": 19,
+      "year": 2016,
+      "url": "https://www.lrb.co.uk/v38/n19/yonatan-mendel/divide-and-divide-and-divide-and-rule",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "press",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "meq-2019-review-masalha",
+      "type": "article",
+      "authors": [
+        "Schanzer, Jonathan"
+      ],
+      "title": "Review of Nur Masalha, Palestine: A Four Thousand Year History",
+      "container": "Middle East Quarterly (Summer 2019)",
+      "publisher": "Middle East Forum",
+      "year": 2019,
+      "url": "https://meforum.org/middle-east-quarterly/book-reviews/palestine-a-four-thousand-year-history",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "meron-1967-settlement-opinion",
+      "type": "document",
+      "authors": [
+        "Meron, Theodor"
+      ],
+      "title": "Legal opinion on settlement in the administered territories (Israel Ministry of Foreign Affairs, September 1967, marked \"Top Secret\")",
+      "year": 1967,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not seen directly; quoted by Gershom Gorenberg in The New York Times, 10 March 2006 (gorenberg-2006-nyt-tragedy-foretold)."
+      },
+      "kind": "government",
+      "institution_country": "IL",
       "accessed": "2026-10-18"
     },
     {
@@ -12654,6 +13939,26 @@
       "institution_country": "US"
     },
     {
+      "id": "mitchell-2001-sharm-el-sheikh-report",
+      "type": "report",
+      "authors": [
+        "Sharm el-Sheikh Fact-Finding Committee (chair: George J. Mitchell)"
+      ],
+      "title": "Sharm el-Sheikh Fact-Finding Committee Report (30 April 2001)",
+      "container": "The Avalon Project",
+      "publisher": "Yale Law School, Lillian Goldman Law Library",
+      "year": 2001,
+      "url": "https://avalon.law.yale.edu/21st_century/mitchell_plan.asp",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report, including its summaries of the submissions of the Government of Israel and the PLO."
+      },
+      "kind": "government",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "mitchell-report-2001",
       "type": "document",
       "title": "Sharm el-Sheikh Fact-Finding Committee Report (the Mitchell Report), 30 April 2001",
@@ -12688,6 +13993,24 @@
       "institution_country": "GB"
     },
     {
+      "id": "morris-1987-birth-refugee-problem",
+      "type": "book",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "The Birth of the Palestinian Refugee Problem, 1947-1949",
+      "publisher": "Cambridge University Press",
+      "year": 1987,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its conclusion read as quoted by Avi Shlaim (shlaim-1995-debate-about-1948) and summarised by Rex Brynen (brynen-1998-refugees-peace-process). A revised edition appeared in 2004."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "morris-1990-majdal",
       "type": "book",
       "authors": [
@@ -12708,6 +14031,26 @@
       "institution_country": "IL"
     },
     {
+      "id": "morris-2002-interview-barak",
+      "type": "article",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "Camp David and After: An Exchange (1. An Interview with Ehud Barak)",
+      "container": "The New York Review of Books (13 June 2002)",
+      "publisher": "The New York Review of Books",
+      "year": 2002,
+      "url": "https://www.nybooks.com/articles/2002/06/13/camp-david-and-after-an-exchange-1-an-interview-wit/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the interview text available on the NYRB site."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "morris-2004",
       "type": "book",
       "authors": [
@@ -12726,6 +14069,45 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "morris-2004-nlr-on-ethnic-cleansing",
+      "type": "article",
+      "authors": [
+        "Morris, Benny",
+        "Shavit, Ari"
+      ],
+      "title": "On Ethnic Cleansing (interview by Ari Shavit, first published in Haaretz on 8 January 2004 as 'Survival of the Fittest')",
+      "container": "New Left Review",
+      "volume": 26,
+      "year": 2004,
+      "url": "https://newleftreview.org/issues/ii26/articles/benny-morris-on-ethnic-cleansing",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the editors' introduction and the opening of the interview shown before the paywall."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "morris-2008-1948",
+      "type": "book",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "1948: A History of the First Arab-Israeli War",
+      "publisher": "Yale University Press",
+      "year": 2008,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher's description and quoted reviews (yale-morris-1948-page)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "naaman-2007-jerusalem",
@@ -13419,6 +14801,21 @@
       "kind": "reference"
     },
     {
+      "id": "oneworld-pappe-ethnic-cleansing-page",
+      "type": "web",
+      "title": "The Ethnic Cleansing of Palestine (book page)",
+      "publisher": "Oneworld Publications",
+      "url": "https://oneworld-publications.com/work/the-ethnic-cleansing-of-palestine/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the description and quoted reviews."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "oracc-riao-shalmaneser-iii-2",
       "type": "document",
       "authors": [
@@ -13580,6 +14977,24 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "oren-2002-six-days-of-war",
+      "type": "book",
+      "authors": [
+        "Oren, Michael B."
+      ],
+      "title": "Six Days of War: June 1967 and the Making of the Modern Middle East",
+      "publisher": "Oxford University Press",
+      "year": 2002,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; content read in Daniel Pipes's review (Middle East Quarterly, Fall 2002)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "osm-data-2026",
@@ -14078,6 +15493,22 @@
       "institution_country": "LB"
     },
     {
+      "id": "palquest-demography-i",
+      "type": "web",
+      "title": "Demography and the Palestine Question (I)",
+      "container": "Interactive Encyclopedia of the Palestine Question",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/294/demography-and-palestine-question-i",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "palquest-first-intifada",
       "type": "web",
       "authors": [
@@ -14170,6 +15601,22 @@
       "institution_country": "LB"
     },
     {
+      "id": "palquest-gaza-redeployment-2005",
+      "type": "web",
+      "title": "Israel's Gaza Redeployment, 2005: Exacerbating the Siege and Targeting the Land of the West Bank",
+      "container": "Interactive Encyclopedia of the Palestine Question",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/14505/israel%E2%80%99s-gaza-redeployment-2005",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "palquest-gaza-war-2008-2009",
       "type": "web",
       "title": "The War on Gaza, 2008-2009: Israel's Strategic Quandary",
@@ -14248,6 +15695,22 @@
       },
       "kind": "academic",
       "institution_country": "LB"
+    },
+    {
+      "id": "palquest-great-rebellion-1936-1939",
+      "type": "web",
+      "title": "Great Palestinian Rebellion, 1936-1939: A Popular Uprising Facing a Ruthless Repression",
+      "container": "Interactive Encyclopedia of the Palestine Question",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/158/great-palestinian-rebellion-1936-1939",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
     },
     {
       "id": "palquest-june-1967-war",
@@ -14366,6 +15829,22 @@
       },
       "kind": "academic",
       "institution_country": "LB"
+    },
+    {
+      "id": "palquest-oslo-process-towards-failure",
+      "type": "web",
+      "title": "X. Oslo Process: Towards Failure (1993-2000)",
+      "container": "Interactive Encyclopedia of the Palestine Question",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/31121/x-oslo-process-towards-failure",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
     },
     {
       "id": "palquest-palestine-war-1947-1950",
@@ -14598,6 +16077,22 @@
       "institution_country": "LB"
     },
     {
+      "id": "palquest-un-partition-plan-1947",
+      "type": "web",
+      "title": "UN Partition Plan, 29 November 1947: Paving the Way to the Impending Nakba",
+      "container": "Interactive Encyclopedia of the Palestine Question",
+      "publisher": "Institute for Palestine Studies / Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/159/un-partition-plan-29-november-1947",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "palquest-winder-balfour",
       "type": "web",
       "authors": [
@@ -14672,6 +16167,25 @@
       },
       "kind": "academic",
       "institution_country": "PS"
+    },
+    {
+      "id": "pappe-2006-ethnic-cleansing",
+      "type": "book",
+      "authors": [
+        "Pappé, Ilan"
+      ],
+      "title": "The Ethnic Cleansing of Palestine",
+      "publisher": "Oneworld",
+      "place": "Oxford",
+      "year": 2006,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; thesis read in Seth Frantzman's review (Middle East Quarterly, Spring 2008) and the Oneworld book page."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
     },
     {
       "id": "passia-chronology-1994-1995",
@@ -14802,6 +16316,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "pearlman-2011-violence-nonviolence",
+      "type": "book",
+      "authors": [
+        "Pearlman, Wendy"
+      ],
+      "title": "Violence, Nonviolence, and the Palestinian National Movement",
+      "publisher": "Cambridge University Press",
+      "year": 2011,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the endorsements on the publisher's page (cup-pearlman-2011-page)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "peel-1937-summary",
+      "type": "report",
+      "authors": [
+        "Palestine Royal Commission"
+      ],
+      "title": "Palestine Royal Commission Report (Cmd. 5479): summary of the report, circulated by the League of Nations (C.495.M.336.1937.VI)",
+      "publisher": "League of Nations",
+      "place": "Geneva",
+      "year": 1937,
+      "url": "https://www.un.org/unispal/?p=197740",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the summary (terms of reference, chapter on the disturbances of 1936, and the conclusions on partition) on UNISPAL."
+      },
+      "kind": "government",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "peters-1984",
       "type": "book",
       "authors": [
@@ -14818,6 +16370,24 @@
       },
       "kind": "press",
       "institution_country": "US"
+    },
+    {
+      "id": "peters-1984-from-time-immemorial",
+      "type": "book",
+      "authors": [
+        "Peters, Joan"
+      ],
+      "title": "From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine",
+      "publisher": "Harper & Row",
+      "year": 1984,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its thesis read as summarised in reviews by Yehoshua Porath (NYRB 1986), Martin Kramer (New Leader 1984) and John C. Campbell (Foreign Affairs 1984)."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "pfeiffer-1949-new-testament-times",
@@ -14858,6 +16428,88 @@
       "institution_country": "IT"
     },
     {
+      "id": "pipes-2002-review-gelber",
+      "type": "article",
+      "authors": [
+        "Pipes, Daniel"
+      ],
+      "title": "Review of Y. Gelber, Palestine 1948",
+      "container": "Middle East Quarterly (Winter 2002)",
+      "publisher": "Middle East Forum",
+      "year": 2002,
+      "url": "https://www.danielpipes.org/409/palestine-1948-war-escape-and-the-emergence-of",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review on the reviewer's website."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "pipes-2002-review-oren",
+      "type": "article",
+      "authors": [
+        "Pipes, Daniel"
+      ],
+      "title": "Review of M. B. Oren, Six Days of War",
+      "container": "Middle East Quarterly (Fall 2002)",
+      "publisher": "Middle East Forum",
+      "year": 2002,
+      "url": "https://www.meforum.org/middle-east-quarterly/book-reviews/six-days-of-war",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "pitkanen-review-dever",
+      "type": "article",
+      "authors": [
+        "Pitkänen, Pekka"
+      ],
+      "title": "Review of W. G. Dever, Who Were the Early Israelites and Where Did They Come From?",
+      "container": "Themelios",
+      "volume": 30,
+      "issue": 3,
+      "publisher": "The Gospel Coalition",
+      "url": "https://themelios.thegospelcoalition.org/review/who-were-the-early-israelites-and-where-did-they-come-from/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "plant-review-kitchen",
+      "type": "article",
+      "authors": [
+        "Plant, Robin"
+      ],
+      "title": "Review of K. A. Kitchen, On the Reliability of the Old Testament",
+      "container": "Themelios",
+      "volume": 30,
+      "issue": 3,
+      "publisher": "The Gospel Coalition",
+      "url": "https://www.thegospelcoalition.org/themelios/review/on-the-reliability-of-the-old-testament/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "pleiades",
       "type": "dataset",
       "authors": [
@@ -14879,6 +16531,87 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "plo-1968-palestinian-national-charter",
+      "type": "document",
+      "authors": [
+        "Palestine National Council"
+      ],
+      "title": "The Palestinian National Charter (resolutions of the Palestine National Council, July 1-17, 1968)",
+      "container": "The Avalon Project",
+      "publisher": "Yale Law School, Lillian Goldman Law Library",
+      "year": 1968,
+      "url": "https://avalon.law.yale.edu/20th_century/plocov.asp",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full text, Articles 1-33."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "plo-nad-2002-uprising-faq",
+      "type": "web",
+      "title": "The Palestinian Uprising Against Occupation: Frequently Asked Questions",
+      "publisher": "PLO Negotiations Affairs Department",
+      "year": 2002,
+      "url": "http://www.nad-plo.org/fact_sheets_faq/faq1.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20021010173044."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "plo-nad-borders-position",
+      "type": "web",
+      "title": "Our Position: Borders",
+      "publisher": "PLO Negotiations Affairs Department",
+      "url": "https://www.nad.ps/en/our-position/borders",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the overview and summary."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "plo-nad-refugees-position",
+      "type": "web",
+      "title": "Our Position: Refugees",
+      "publisher": "PLO Negotiations Affairs Department",
+      "url": "https://www.nad.ps/en/our-position/refugees",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full page."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "plo-nad-threat-of-annexation",
+      "type": "web",
+      "title": "The Threat of Annexation: Israel's Acquisition of Lands Belonging to the State of Palestine, by Force (FAQ)",
+      "publisher": "PLO Negotiations Affairs Department",
+      "url": "https://www.nad.ps/en/publication-resources/faqs/threat-annexation-israels-acquisition-lands-belonging-state-palestine",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full FAQ."
+      },
+      "kind": "government",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
     },
     {
       "id": "pmo-history-former-prime-ministers",
@@ -15004,6 +16737,26 @@
       "institution_country": "US"
     },
     {
+      "id": "poser-2019-common-ground",
+      "type": "article",
+      "authors": [
+        "Poser, Rachel"
+      ],
+      "title": "Common Ground: The politics of archaeology in Jerusalem",
+      "container": "Harper's Magazine (September 2019)",
+      "publisher": "Harper's Magazine",
+      "year": 2019,
+      "url": "https://harpers.org/archive/2019/09/common-ground-archeology-israel-palestine/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the opening sections on the City of David site and the Ir David Foundation (Elad)."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "prawer-1980-crusader-institutions",
       "type": "book",
       "authors": [
@@ -15065,6 +16818,28 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "pressman-2003-visions-in-collision",
+      "type": "article",
+      "authors": [
+        "Pressman, Jeremy"
+      ],
+      "title": "Visions in Collision: What Happened at Camp David and Taba?",
+      "container": "International Security",
+      "volume": 28,
+      "issue": 2,
+      "year": 2003,
+      "pages": "5-43",
+      "url": "https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/pressman.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the open PDF (Belfer Center), introduction and sections on the Israeli and Palestinian versions."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "prime-2003-narratives",
@@ -15224,6 +16999,43 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "quran-corpus-translations",
+      "type": "web",
+      "title": "The Quranic Arabic Corpus: English translations of Qur'an 20:77 and 5:21",
+      "container": "Quranic Arabic Corpus",
+      "publisher": "University of Leeds",
+      "url": "https://corpus.quran.com/translation.jsp?chapter=20&verse=77",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the parallel English translations (Sahih International, Pickthall, Yusuf Ali and others) of 20:77 and 5:21."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "qurei-2008-commemorating-nakba",
+      "type": "article",
+      "authors": [
+        "Qurei, Ahmad"
+      ],
+      "title": "Commemorating the Nakba",
+      "container": "Palestine-Israel Journal",
+      "volume": 15,
+      "issue": 2,
+      "year": 2008,
+      "url": "https://pij.org/articles/1157",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
     },
     {
       "id": "reagan-1982-sinai",
@@ -15451,6 +17263,27 @@
       "institution_country": "US"
     },
     {
+      "id": "rodman-2010-review-karsh",
+      "type": "article",
+      "authors": [
+        "Rodman, David"
+      ],
+      "title": "Review of E. Karsh, Palestine Betrayed",
+      "container": "Middle East Quarterly (2010)",
+      "pages": "75-77",
+      "publisher": "Middle East Forum",
+      "year": 2010,
+      "url": "https://www.meforum.org/2950/palestine-betrayed",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "rood-2006-peasants-jerusalem",
       "type": "article",
       "authors": [
@@ -15473,6 +17306,36 @@
       "institution_country": "LB"
     },
     {
+      "id": "routledge-avneri-claim-of-dispossession",
+      "type": "web",
+      "title": "The Claim of Dispossession (book page)",
+      "publisher": "Routledge",
+      "url": "https://www.routledge.com/products/9780878559640",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "routledge-whitelam-invention-page",
+      "type": "web",
+      "title": "The Invention of Ancient Israel (book page)",
+      "publisher": "Routledge",
+      "url": "https://www.routledge.com/The-Invention-of-Ancient-Israel-The-Silencing-of-Palestinian-History/Whitelam/p/book/9780415107594",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the description and table of contents."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "runciman-1954-history-crusades-iii",
       "type": "book",
       "authors": [
@@ -15488,6 +17351,47 @@
         "note": "Position paraphrased in Amitai 1987, n. 66 (Cambridge Core page). Not seen directly."
       },
       "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "said-1985-conspiracy-of-praise",
+      "type": "article",
+      "authors": [
+        "Said, Edward W."
+      ],
+      "title": "Conspiracy of Praise",
+      "container": "MERIP Middle East Report (October 1985)",
+      "publisher": "Middle East Research and Information Project",
+      "year": 1985,
+      "url": "https://merip.org/1985/10/conspiracy-of-praise/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "said-1993-morning-after",
+      "type": "article",
+      "authors": [
+        "Said, Edward"
+      ],
+      "title": "The Morning After",
+      "container": "London Review of Books",
+      "volume": 15,
+      "issue": 20,
+      "year": 1993,
+      "url": "https://www.lrb.co.uk/the-paper/v15/n20/edward-said/the-morning-after",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the article."
+      },
+      "kind": "press",
       "institution_country": "GB",
       "accessed": "2026-10-18"
     },
@@ -15516,6 +17420,43 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "sand-2008-invention-jewish-people",
+      "type": "book",
+      "authors": [
+        "Sand, Shlomo"
+      ],
+      "title": "Matai ve'ech humtza ha'am hayehudi? (When and How Was the Jewish People Invented?); English edition: The Invention of the Jewish People (Verso, 2009)",
+      "publisher": "Resling",
+      "year": 2008,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; its arguments read in Ofri Ilani's Haaretz interview with the author and in Israel Bartal's Haaretz review."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "schiff-yaari-1990-intifada",
+      "type": "book",
+      "authors": [
+        "Schiff, Ze'ev",
+        "Ya'ari, Ehud"
+      ],
+      "title": "Intifada: The Palestinian Uprising - Israel's Third Front",
+      "publisher": "Simon & Schuster",
+      "year": 1990,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened; p. 43 quoted in the Israeli narrative of the PRIME schoolbook (prime-2003-learning-narrative)."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "schiffman-1991",
@@ -15621,6 +17562,64 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "shanks-1999-herzog-attack-unjustified",
+      "type": "article",
+      "authors": [
+        "Shanks, Hershel"
+      ],
+      "title": "Herzog's Attack on the Bible Unjustified",
+      "container": "Ha'aretz Magazine (5 November 1999)",
+      "year": 1999,
+      "url": "https://www.angelfire.com/folk/benjo4u/Religion/docs/Blasting_Blasting_the_Bible.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full text \"as sent to editor\" (final edit appeared in Ha'aretz Magazine, 5 Nov 1999) on a personal web page via Internet Archive capture 20240607075632."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "shany-2006-faraway-so-close",
+      "type": "article",
+      "authors": [
+        "Shany, Yuval"
+      ],
+      "title": "Faraway, so Close: The Legal Status of Gaza after Israel's Disengagement",
+      "container": "SSRN working paper",
+      "year": 2006,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=923151",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the abstract on SSRN via Internet Archive capture 20260919090201; the paper itself was not read."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "shaw-1930-commission-report",
+      "type": "report",
+      "authors": [
+        "Commission on the Palestine Disturbances of August 1929 (Shaw Commission)"
+      ],
+      "title": "Report of the Commission on the Palestine Disturbances of August 1929 (Cmd. 3530), Chapter XIV: Summary of findings and recommendations",
+      "publisher": "His Majesty's Stationery Office",
+      "place": "London",
+      "year": 1930,
+      "url": "https://palquest.org/en/node/21720",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read Chapter XIV (summary of conclusions, findings on causes) as reproduced in the documents section of the Interactive Encyclopedia of the Palestine Question."
+      },
+      "kind": "government",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "shenhav-2002",
       "type": "article",
       "authors": [
@@ -15688,6 +17687,42 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "shlaim-1996-origins-arab-israeli-wars",
+      "type": "chapter",
+      "authors": [
+        "Shlaim, Avi"
+      ],
+      "title": "The Middle East: The Origins of Arab-Israeli Wars",
+      "container": "Explaining International Relations since 1945 (ed. Ngaire Woods)",
+      "publisher": "Oxford University Press",
+      "year": 1996,
+      "pages": "219-240",
+      "url": "http://users.ox.ac.uk/~ssfc0005/The%20Middle%20East%20The%20Origins%20of%20Arab-Israeli%20Wars.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the section on the Six-Day War on the author's web page (Internet Archive capture, 2015)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "simonschuster-bible-unearthed-page",
+      "type": "web",
+      "title": "The Bible Unearthed (book page)",
+      "publisher": "Simon & Schuster",
+      "url": "https://www.simonandschuster.com/books/The-Bible-Unearthed/Israel-Finkelstein/9780684869131",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the publisher description and author notes."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "sivan-2001-holocene-sea-level-israel",
@@ -16337,6 +18372,60 @@
       "institution_country": "TR"
     },
     {
+      "id": "thompson-view-from-copenhagen",
+      "type": "web",
+      "authors": [
+        "Thompson, Thomas L."
+      ],
+      "title": "A view from Copenhagen: Israel and the History of Palestine",
+      "container": "The Bible and Interpretation",
+      "url": "http://www.bibleinterp.com/articles/copenhagen.shtml",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive capture 20201207080847, including the \"guiding principles\" section."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "tiu-hoffmeier-israel-in-egypt-page",
+      "type": "web",
+      "title": "Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition (book page)",
+      "container": "Trinity Evangelical Divinity School, Books",
+      "publisher": "Trinity International University",
+      "url": "https://www.tiu.edu/divinity/books/israel-in-egypt-the-evidence-for-the-authenticity-of-the-exodus-tradition/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "toi-2016-10-15-palestinians-rebuke-unesco-chief",
+      "type": "web",
+      "authors": [
+        "ToI Staff"
+      ],
+      "title": "Palestinians rebuke UNESCO chief for opposing Jerusalem resolution",
+      "container": "The Times of Israel",
+      "publisher": "The Times of Israel",
+      "year": 2016,
+      "url": "https://www.timesofisrael.com/palestinians-rebuke-unesco-chief-for-opposing-jerusalem-resolution/",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Direct download returned HTTP 403; saw verbatim passages (Bokova and al-Maliki quotations) returned by a web-fetch tool from the first part of the article (15 Oct 2016)."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "toi-2025-10-19-war-of-revival",
       "type": "web",
       "authors": [
@@ -16445,6 +18534,21 @@
       },
       "kind": "government",
       "institution_country": "US"
+    },
+    {
+      "id": "ucpress-cohen-army-of-shadows",
+      "type": "web",
+      "title": "Army of Shadows (book page)",
+      "publisher": "University of California Press",
+      "url": "https://www.ucpress.edu/books/army-of-shadows/paper",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the book description."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "un-a-46-pv-74",
@@ -17368,6 +19472,25 @@
       "institution_country": "US"
     },
     {
+      "id": "un-sg-2011-palmer-report",
+      "type": "report",
+      "authors": [
+        "Secretary-General's Panel of Inquiry on the 31 May 2010 Flotilla Incident"
+      ],
+      "title": "Report of the Secretary-General's Panel of Inquiry on the 31 May 2010 Flotilla Incident (Palmer report)",
+      "publisher": "United Nations",
+      "year": 2011,
+      "url": "http://www.un.org/News/dh/infocus/middle_east/Gaza_Flotilla_Panel_Report.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the summary of findings and recommendations (pp. 3-5) via an Internet Archive capture."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "un-sg-letter-unrwa-2024-12-09",
       "type": "document",
       "title": "Letter dated 9 December 2024 from the Secretary-General addressed to the President of the General Assembly and the President of the Security Council (on the Knesset UNRWA laws)",
@@ -17447,6 +19570,27 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the sections on the Israeli withdrawal (January-March 1957)."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "unesco-2016-occupied-palestine-draft-decision",
+      "type": "document",
+      "authors": [
+        "UNESCO Executive Board"
+      ],
+      "title": "Occupied Palestine: Draft decision submitted by Algeria, Egypt, Lebanon, Morocco, Oman, Qatar and Sudan (200 EX/PX/DR.25.2 Rev.)",
+      "container": "Executive Board, 200th session, Programme and External Relations Commission, Item 25",
+      "publisher": "UNESCO",
+      "place": "Paris",
+      "year": 2016,
+      "url": "https://unispal.un.org/pdfs/UNESCO_200EXPXDR252Rev.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full draft decision dated 12 October 2016 (UNISPAL copy), section I.B on \"Al-Aqṣa Mosque/Al-Ḥaram Al-Sharif and its surroundings\". Its approval by the Board is documented here only through the Israeli government statement and press reports."
       },
       "kind": "un",
       "institution_country": "UN",
@@ -17669,6 +19813,25 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "unga-1947-ahc-ad-hoc-statement",
+      "type": "document",
+      "authors": [
+        "United Nations Press Division"
+      ],
+      "title": "Ad Hoc Committee on Palestinian Question, 3rd Meeting: The Arab Case Stated by Mr. Jamal Husseini (Press Release GA/PAL/3, 29 September 1947)",
+      "publisher": "United Nations",
+      "year": 1947,
+      "url": "https://www.un.org/unispal/document/auto-insert-197054/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the summary and the chronological account of the statement on UNISPAL."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-18"
     },
     {
       "id": "unga-res-181-ii-1947",
@@ -18236,6 +20399,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "us-state-2019-pompeo-settlements",
+      "type": "web",
+      "authors": [
+        "Pompeo, Michael R."
+      ],
+      "title": "Secretary Michael R. Pompeo remarks to the press (18 November 2019)",
+      "publisher": "US Department of State (archived 2017-2021 site)",
+      "year": 2019,
+      "url": "https://2017-2021.state.gov/secretary-michael-r-pompeo-remarks-to-the-press/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the section on Israeli settlements."
+      },
+      "kind": "government",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "us-state-2024-blinken-settlements",
+      "type": "web",
+      "authors": [
+        "Blinken, Antony J."
+      ],
+      "title": "Secretary Antony J. Blinken and Argentine Foreign Minister Diana Mondino at a joint press availability (Buenos Aires, 23 February 2024)",
+      "publisher": "US Department of State (archived 2021-2025 site)",
+      "year": 2024,
+      "url": "https://2021-2025.state.gov/secretary-antony-j-blinken-and-argentine-foreign-minister-diana-mondino-at-a-joint-press-availability/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the remarks on settlements."
+      },
+      "kind": "government",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "vieugue-et-al-2016-yarmukian",
       "type": "article",
       "authors": [
@@ -18289,6 +20490,21 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "wadi-hilweh-center-about",
+      "type": "web",
+      "title": "About Silwanic (Wadi Hilweh Information Center)",
+      "publisher": "Wadi Hilweh Information Center, Silwan",
+      "url": "https://www.silwanic.net/about",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the \"About\" text (the rest of the page is placeholder template text)."
+      },
+      "kind": "ngo",
+      "institution_country": "PS",
+      "accessed": "2026-10-18"
     },
     {
       "id": "wailing-wall-commission-1930",
@@ -18381,6 +20597,24 @@
       "institution_country": "US"
     },
     {
+      "id": "whitelam-1996-invention-ancient-israel",
+      "type": "book",
+      "authors": [
+        "Whitelam, Keith W."
+      ],
+      "title": "The Invention of Ancient Israel: The Silencing of Palestinian History",
+      "publisher": "Routledge",
+      "year": 1996,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Book not opened; argument read in the publisher description and table of contents (routledge-whitelam-invention-page)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-18"
+    },
+    {
       "id": "wikidata",
       "type": "dataset",
       "title": "Wikidata",
@@ -18412,6 +20646,54 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "williams-review-kitchen",
+      "type": "article",
+      "authors": [
+        "Williams, Michael J."
+      ],
+      "title": "Review of K. A. Kitchen, On the Reliability of the Old Testament",
+      "container": "Calvin Theological Journal",
+      "pages": "422",
+      "url": "https://www.calvin.edu/library/database/crcpi/fulltext/ctj/117800.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review (PDF)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "world-english-bible",
+      "type": "book",
+      "title": "World English Bible (public-domain translation), Acts 7:36-38",
+      "url": "https://bible-api.com/acts%207:36-38?translation=web",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read Acts 7:36-38 via bible-api.com."
+      },
+      "kind": "religious-institution",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
+    },
+    {
+      "id": "yale-morris-1948-page",
+      "type": "web",
+      "title": "1948: A History of the First Arab-Israeli War (book page)",
+      "publisher": "Yale University Press",
+      "url": "https://yalebooks.yale.edu/book/9780300151121/1948/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the description and quoted reviews."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-18"
     },
     {
       "id": "yarmouk-mesha-stele",

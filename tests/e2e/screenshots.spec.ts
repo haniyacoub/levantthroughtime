@@ -39,6 +39,10 @@ const VIEWS: { name: string; query: string; viewport?: { width: number; height: 
   { name: '29-compare-1967-today', query: '?y=1967-05&cmp=2026-10' },
   { name: '30-oslo-areas-2000', query: '?y=2000' },
   { name: '31-compare-swipe-1949-1967', query: '?y=1949-08&cmp=1967-07&cmpmode=swipe' },
+  { name: '32-story-1967-to-today', query: '?story=1967-to-today&step=11' },
+  { name: '33-story-peoples-1949', query: '?story=peoples-and-migrations&step=12' },
+  { name: '34-perspectives-1948-panel', query: '?y=1948-06' },
+  { name: '35-diaspora-inset-1951', query: '?y=1951' },
 ];
 
 for (const v of VIEWS) {

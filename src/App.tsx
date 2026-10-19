@@ -13,7 +13,7 @@ import { mapRegistry } from './map/registry';
 // Perspectives cards are also used by the year panel, so the page is not split out.
 import { PerspectivesPage } from './panels/Perspectives';
 import { DEFAULT_LAYERS, LAYER_KEYS, type LayerKey } from './state/store';
-import { useStore } from './state/store';
+import { useStore, viewFromHash } from './state/store';
 import { readUrl, writeUrl } from './state/url';
 import { Timeline } from './timeline/Timeline';
 import { EraScale } from './time/eraScale';
@@ -32,11 +32,8 @@ export default function App() {
 
   // Pages inside the app use the hash (#/bibliography), so static hosting never returns 404.
   useEffect(() => {
-    const sync = () => {
-      const h = window.location.hash;
-      setView(h === '#/bibliography' ? 'bibliography' : h === '#/perspectives' ? 'perspectives' : h === '#/about' ? 'about' : 'map');
-    };
-    sync();
+    // The starting page is read from the hash when the store is created; here we follow later changes.
+    const sync = () => setView(viewFromHash(window.location.hash));
     window.addEventListener('hashchange', sync);
     return () => window.removeEventListener('hashchange', sync);
   }, [setView]);
