@@ -1,0 +1,651 @@
+{
+  "$schema": "../../schema/story.schema.json",
+  "id": "1917-1949",
+  "title": {
+    "en": "1917–1949"
+  },
+  "summary": {
+    "en": "From the British conquest and the Mandate to the 1948 war and the armistice lines, with each side’s account."
+  },
+  "steps": [
+    {
+      "date": {
+        "year": 1918,
+        "month": 6
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "British conquest"
+      },
+      "card": {
+        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917, and the rest of the area by October 1918 [1]. In 1917 the British government had declared its support for “the establishment in Palestine of a national home for the Jewish people”, the Balfour Declaration, and the later Mandate made carrying it out a primary aim [2]. Arab representatives held that the Mandate, which incorporated the Balfour Declaration, was illegal [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-ww1",
+          "locator": "section 'World War I and after', paragraph 2",
+          "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "The exception was Palestine where, instead of being limited to"
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "The Arabs have persistently adhered to the position that the Mandate for Palestine, which incorporated the Balfour Declaration, is illegal."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1920,
+        "month": 5
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "First violence"
+      },
+      "card": {
+        "en": "In March 1920 the Jewish settlement of Tel Hai in the far north was attacked; its defence became legendary throughout Jewish Palestine [1][2]. In April anti-Zionist riots broke out in the Jewish quarter of Jerusalem’s Old City [3]. British authorities attributed them to Arab disappointment that promises of independence had not been kept [4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-trumpeldor",
+          "locator": "excerpt from the article 'Tel Ḥay'",
+          "quote": "On March 1, 1920, the settlement was attacked by a large band of Arabs"
+        },
+        {
+          "ref": "britannica-trumpeldor",
+          "locator": "same excerpt",
+          "quote": "The resistance of Tel Ḥay not only became legendary throughout Jewish Palestine"
+        },
+        {
+          "ref": "britannica-palestine-ww1",
+          "locator": "section 'World War I and after'",
+          "quote": "In April 1920 anti-Zionist riots broke out in the Jewish quarter of Old Jerusalem"
+        },
+        {
+          "ref": "britannica-palestine-ww1",
+          "locator": "same section",
+          "quote": "British authorities attributed the riots to Arab disappointment at not having the promises of independence fulfilled"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1923
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "The Mandate"
+      },
+      "card": {
+        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate in July 1922, and it came into formal effect in September 1923 [2]. The first census, on 23 October 1922, counted 757,182 people [3]."
+      },
+      "sources": [
+        {
+          "ref": "un-dpr-origins-part1",
+          "quote": "a civilian High Commissioner, Sir Herbert Samuel, taking office on 1 July 1920"
+        },
+        {
+          "ref": "un-dpr-origins-part1",
+          "quote": "which was approved by the League of Nations on 24 July 1922, and came into formal effect in September 1923 when the Treaty of Lausanne with Turkey came into force."
+        },
+        {
+          "ref": "barron-1923",
+          "locator": "p. 2, para. 7",
+          "quote": "The total population of Palestine enumerated on the 23rd. of October, 1922, was 757,182. This total includes the military, and persons of foreign nationality."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1929,
+        "month": 9
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "highlight": [
+        "western-wall"
+      ],
+      "title": {
+        "en": "1929"
+      },
+      "card": {
+        "en": "In August 1929 a dispute over the Western Wall (al-Buraq) in Jerusalem led to violence [1]. The British Shaw Commission found that the outbreak in Jerusalem was from the beginning an attack by Arabs on Jews, and that it was not premeditated [2][3]. The Palestinian narrative calls it the al-Buraq uprising and attributes it to Jewish provocations near the wall [4]. In Hebron many Jews were killed by Arab rioters; many of the survivors had been protected by Arab neighbours [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "un-dpr-origins-part1",
+          "locator": "section VI 'The Revolt of 1929'",
+          "quote": "Palestinian resentment again broke out into violence in August 1929, sparked by a dispute over the Wailing Wall in Jerusalem."
+        },
+        {
+          "ref": "palquest-shaw-report-1929",
+          "locator": "Shaw Commission summary, conclusion 1",
+          "quote": "The outbreak in Jerusalem on the 23rd of August was from the beginning an attack by Arabs on Jews for which no excuse in the form of earlier murders by Jews has been established."
+        },
+        {
+          "ref": "palquest-shaw-report-1929",
+          "locator": "Shaw Commission summary, conclusion 2",
+          "quote": "The outbreak was not premeditated."
+        },
+        {
+          "ref": "prime-2003-narratives",
+          "locator": "Palestinian narrative, ch. 1",
+          "quote": "The 1929 uprising is known as the Al-Buraq uprising, and was caused directly by the disturbances and inciting practices of Jews near the Al-Buraq wall."
+        },
+        {
+          "ref": "ej-hebron",
+          "locator": "Encyclopaedia Judaica entry, 20th century",
+          "quote": "The year 1929 dealt a heavy blow to the Jewish settlement with the killing of many of Hebron's Jews by Arab rioters."
+        },
+        {
+          "ref": "ej-hebron",
+          "locator": "second encyclopedia entry on the same page",
+          "quote": "The remaining Jews, many of whom had been protected by their Arab neighbors, fled. Two years later, thirty-five Jewish families returned"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1937,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "The Arab Revolt and partition"
+      },
+      "card": {
+        "en": "The Arab Revolt of 1936–39 was the first sustained violent uprising of Palestinian Arabs in more than a century [1]. In July 1937 the Peel Commission reported that it was caused by Arab desire for independence and fear of the Jewish national home, and recommended partition [2][3]. The Zionist attitude to partition was ambivalent, but overall one of cautious acceptance [4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "locator": "section 'The Arab Revolt'",
+          "quote": "The Arab Revolt of 1936–39 was the first sustained violent uprising of Palestinian Arabs in more than a century."
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "quote": "A royal commission of inquiry presided over by Robert Peel, which was sent to investigate the volatile situation, reported in July 1937",
+          "locator": "section 'The Arab Revolt'"
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "quote": "In the face of what it described as “right against right,” the commission recommended that the region be partitioned.",
+          "locator": "section 'The Arab Revolt'"
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "quote": "The Zionist attitude toward partition, though ambivalent, was overall one of cautious acceptance.",
+          "locator": "section 'The Arab Revolt'"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1939,
+        "month": 6
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "The White Paper"
+      },
+      "card": {
+        "en": "British forces suppressed the revolt by the late summer of 1939 [1]. In May 1939 Britain issued a White Paper that essentially yielded to Arab demands [2]. The Arabs nevertheless rejected it, largely because they mistrusted the British government [3]."
+      },
+      "sources": [
+        {
+          "ref": "palquest-great-rebellion",
+          "locator": "highlight text",
+          "quote": "The combined impact of Britain’s military and diplomatic efforts brought the rebellion to an end in the late summer of 1939."
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "locator": "same section",
+          "quote": "In May 1939, however, the British government issued a white paper , which essentially yielded to Arab demands."
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "quote": "The Arabs, although in favor of the new policy, rejected the white paper, largely because they mistrusted the British government",
+          "locator": "section 'The Arab Revolt'"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1946,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "Underground war against Britain"
+      },
+      "card": {
+        "en": "At the end of 1946 the population was estimated at 1,203,000 Arabs, 608,000 Jews and 35,000 others [1]. From 1944 the Irgun, led by Menachem Begin, and the smaller LEHI attacked the British [2]. On 22 July 1946 the Irgun blew up a wing of Jerusalem’s King David Hotel housing British government and military offices [3]. In 1947 Britain turned the problem over to the United Nations [4]."
+      },
+      "sources": [
+        {
+          "ref": "unscop-1947",
+          "locator": "Chapter II, para. 13",
+          "quote": "the population at the end of 1946 was estimated as follows: Arabs, 1,203,000; Jews, 608,000; others, 35,000; Total, 1,846,000."
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "locator": "section 'World War II'",
+          "quote": "In response, the Irgun, under the leadership of Menachem Begin , and a small terrorist splinter group, LEHI (Fighters for the Freedom of Israel), known for its founder as the Stern Gang , embarked on widespread attacks on the British"
+        },
+        {
+          "ref": "britannica-palestine-arab-revolt",
+          "locator": "section 'The early postwar period'",
+          "quote": "The underground’s attacks culminated in Jerusalem on July 22, 1946, when the Irgun blew up a part of the King David Hotel containing British government and military offices"
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "A partition scheme, a formula for provincial autonomy, a unified independent Palestine were all considered and abandoned, and in 1947, Great Britain in frustration turned the problem over to the United Nations."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1947,
+        "month": 12
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The partition plan"
+      },
+      "card": {
+        "en": "On 29 November 1947 the UN General Assembly passed Resolution 181, which called for the partition of Palestine into a Jewish state and an Arab state [1]. Opponents of partition had argued that the UN could not take the territory of the majority of Palestine’s people and give it to a minority [2]. The next morning an Arab attack on a bus near Lydda killed Jewish passengers, an attack often cited as the start of the civil war [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "quote": "November 29, 1947: The UN General Assembly passes UN Resolution 181",
+          "locator": "timeline"
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "The United Nations cannot make a disposition or alienation of territory, nor can it deprive the majority of the people of Palestine of their territory"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "timeline",
+          "quote": "November 30, 1947: Palestinian Arabs ambush a bus carrying Jewish passengers near Lod (Lydda), an attack often cited as the start of the civil war in Palestine."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1948,
+        "month": 4
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "highlight": [
+        "deir-yassin"
+      ],
+      "title": {
+        "en": "Civil war"
+      },
+      "card": {
+        "en": "In March 1948 the Haganah prepared Plan D [1]. Israeli accounts describe its purpose as securing the areas assigned to the Jewish state, plus Jerusalem and the road to it [2]. The Palestinian historian Walid Khalidi sees it as a plan for the conquest of Palestine, and its text orders that where there is resistance the population be expelled [3][4]. On 9 April Irgun and Lehi forces, acting independently of Ben-Gurion, attacked the village of Deir Yassin, and word of the massacre spread among Palestinians [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "un-dpr-origins-part2",
+          "locator": "section on 1948 (quoting an Israeli official)",
+          "quote": "In March 1948, Haganah High Command prepared a comprehensive operational Plan ‘D’, replacing plans ‘A’, ‘B’ and ‘C’ which had governed Haganah strategy in previous years."
+        },
+        {
+          "ref": "prime-2003-narratives",
+          "locator": "Israeli narrative, ch. 2",
+          "quote": "The purpose of Plan Daled was to shore up control of the areas designated in the partition plan as part of the Jewish state, plus Jerusalem and the road leading to it."
+        },
+        {
+          "ref": "khalidi-1988-plan-dalet",
+          "locator": "p. 17",
+          "quote": "The plan visualized a series of operations which, if they had succeeded, would have left the whole of Palestine in 1948 under Zionist military occupation."
+        },
+        {
+          "ref": "khalidi-1988-plan-dalet",
+          "locator": "Appendix B, section on operations against enemy population centers",
+          "quote": "In the event of resistance, the armed force must be wiped out and the population must be expelled outside the borders of the state."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "section 'The War of Independence: an Israeli perspective'",
+          "quote": "Paramilitary forces from the Irgun Zvai Leumi and the Stern Gang (also called Lehi), acting independently of Ben-Gurion’s direction, attacked the Arab village of Deir Yassin"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "Nakba section",
+          "quote": "word spread among Palestinians of the massacre at Deir Yassin on April 9."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1948,
+        "month": 6
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "Independence and invasion"
+      },
+      "card": {
+        "en": "Between 18 April and 13 May Jewish forces took Tiberias, Haifa, Safed and Jaffa, displacing some of the largest Palestinian Arab urban populations [1]. Israel declared its independence on 14 May 1948 [2]. The next day the armies of Egypt, Transjordan, Iraq, Syria and Lebanon invaded, carrying out a decision of the Arab League [3]. On 28 May the Arab Legion took the Jewish Quarter of Jerusalem’s Old City and left it in rubble [4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "locator": "section 'The Nakba: a Palestinian perspective'",
+          "quote": "Jewish forces then took control of Tiberias (April 18), Haifa (April 21–22), Safed (May 10), and Jaffa (May 13), leading to the displacement of some of the Palestinian Arabs’ largest urban populations."
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "Israel declared its independence on 14 May 1948. The departure"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "quote": "The following day, the armies of Egypt, Transjordan (Jordan), Iraq, Syria, and Lebanon invaded and attacked the Jewish paramilitaries, carrying out a decision that the Arab League had made weeks before."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "section 'The War of Independence: an Israeli perspective'",
+          "quote": "on May 28 the Jewish quarter of Jerusalem’s Old City was taken by Transjordan’s armed forces (the Arab Legion ) and left in rubble."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1948,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          34.9,
+          31.93
+        ],
+        "zoom": 9.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "highlight": [
+        "lod"
+      ],
+      "title": {
+        "en": "Lydda and Ramle"
+      },
+      "card": {
+        "en": "In July the Israeli army took Lydda and Ramle, two Arab cities that lay within the partition plan’s Arab state [1]. According to the historian Benny Morris, an Israeli decision was taken on 12 July to expel all the residents of Lydda [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "locator": "section 'The Nakba: a Palestinian perspective'",
+          "quote": "The IDF took Lod and Ramla , two Arab cities between Tel Aviv and Jerusalem that were within the partition plan’s Arab state."
+        },
+        {
+          "ref": "palquest-lydda-1948",
+          "locator": "section 'The Forced Expulsion of the People of Lydda'",
+          "quote": "On the same day (12 July), a decision was taken by the Israelis to expel all the residents from the city, according to historian Benny Morris ."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1948,
+        "month": 11
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations"
+      ],
+      "title": {
+        "en": "Refugees: two accounts"
+      },
+      "card": {
+        "en": "In October Israel launched Operation Yoav to take the Negev, and Operation Hiram took the Upper Galilee [1][2]. Israeli spokesmen have long said that the Palestinians left on the orders of their own leaders [3]. Arab spokesmen have maintained that Israel forcibly expelled some 750,000 Palestinians [4]. Benny Morris concluded that war, not design, Jewish or Arab, created the refugee problem [5]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "locator": "timeline",
+          "quote": "October 15, 1948: The second truce comes to an end, and the IDF launches Operation Yoav to retake control of the Negev."
+        },
+        {
+          "ref": "israel-mfa-arab-israeli-wars",
+          "locator": "section 'The War of Independence'",
+          "quote": "Operation Hiram, at the end of October, resulted in the capture of the Upper Galilee"
+        },
+        {
+          "ref": "shlaim-1995-debate-about-1948",
+          "locator": "section on the refugee problem",
+          "quote": "Ever since 1948 Israeli spokesmen have maintained that the Palestinians left the country on orders from their own leaders and in the expectation of a triumphant return."
+        },
+        {
+          "ref": "shlaim-1995-debate-about-1948",
+          "locator": "same section",
+          "quote": "Arab spokesmen have with equal consistency maintained that Israel forcibly expelled some 750,000 Palestinians from their home"
+        },
+        {
+          "ref": "morris-2004",
+          "locator": "Conclusion (opening page)",
+          "quote": "That war and not design, Jewish or Arab, gave birth to the Palestinian refugee problem."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1949,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The armistice lines"
+      },
+      "card": {
+        "en": "Armistice agreements with Egypt, Lebanon, Transjordan and Syria in 1949 brought a formal end to the war [1]. Israeli forces then held 77 percent of pre-1948 Palestine [2]. Arab forces held much of what became the Gaza Strip and the West Bank, including the Old City of Jerusalem [3]. Israelis remember the war as the War of Independence; Arabs remember it as the Nakba, “the catastrophe” [4][5]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "locator": "summary",
+          "quote": "A series of armistice agreements with the neighboring countries of Egypt (February 24, 1949), Lebanon (March 23, 1949), Transjordan (April 3, 1949), and Syria (July 20, 1949) brought a formal end to the war"
+        },
+        {
+          "ref": "palquest-palestine-war-1947-1950",
+          "locator": "overview",
+          "quote": "Israeli forces controlled 77 percent of pre-1948 Palestine"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "section 'The Nakba: a Palestinian perspective'",
+          "quote": "they secured much of what became the Gaza Strip and the West Bank , including the Old City of Jerusalem"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "summary",
+          "quote": "For Israel, the war is remembered as the War of Independence because it secured the country’s existence despite hostile neighbors."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "locator": "summary",
+          "quote": "For Arabs, the war is remembered as “the Nakba” (from Arabic al-nakbah , “the catastrophe”) because of the mass displacement of Palestinians that resulted from the war."
+        }
+      ],
+      "duration_s": 14
+    }
+  ]
+}
