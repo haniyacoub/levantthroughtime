@@ -67,7 +67,13 @@
         }
       ],
       "notes": {
-        "en": "Dates follow Finkelstein's span for the Late Bronze II-III (14th-12th centuries BCE). The local population did not use Egyptian as a vernacular in these sources; diplomatic letters between the Egyptian court and Canaanite rulers were written in Akkadian (see 'akkadian')."
+        "en": "Dates follow Finkelstein's span for the Late Bronze II-III (14th-12th centuries BCE). The local population did not use Egyptian as a vernacular in these sources; diplomatic letters between the Egyptian court and Canaanite rulers were written in Akkadian (see 'akkadian').",
+        "ar": "التواريخ تتبع نطاق فنكلشتاين للبرونزي المتأخر II-III (القرون الرابع عشر-الثاني عشر ق.م.). ولم يستخدم السكان المحليون المصرية لغةً دارجة في هذه المصادر؛ وكُتبت الرسائل الدبلوماسية بين البلاط المصري والحكام الكنعانيين بالأكادية (انظر ‘akkadian’).",
+        "he": "התאריכים הולכים אחר טווח פינקלשטיין לברונזה המאוחרת II-III (המאות ה-14-12 לפנה״ס). האוכלוסייה המקומית לא השתמשה במצרית כשפה מדוברת במקורות אלה; המכתבים הדיפלומטיים בין החצר המצרית לשליטים הכנעניים נכתבו באכדית (ראו ‘akkadian’).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -156,7 +162,13 @@
         }
       ],
       "notes": {
-        "en": "Amarna letters date to the reigns of Amenhotep III and Akhenaten (14th century BCE). The second period is general Middle Eastern context, not specific evidence for the southern Levant."
+        "en": "Amarna letters date to the reigns of Amenhotep III and Akhenaten (14th century BCE). The second period is general Middle Eastern context, not specific evidence for the southern Levant.",
+        "ar": "تعود رسائل العمارنة إلى عهدي أمنحتب الثالث وإخناتون (القرن الرابع عشر ق.م.). والفترة الثانية سياق عام في الشرق الأوسط وليست دليلًا محددًا على جنوب بلاد الشام.",
+        "he": "מכתבי אל-עמארנה מתוארכים לתקופות שלטונם של אמנחותפ השלישי ואחנאתון (המאה ה-14 לפנה״ס). התקופה השנייה היא הקשר כללי למזרח התיכון ולא ראיה ספציפית לדרום הלבנט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -217,7 +229,13 @@
         }
       ],
       "notes": {
-        "en": "Britannica groups Hebrew, Moabite, Phoenician and Punic as Canaanite languages; this record covers only the Bronze Age stage known from the Amarna letters. End date is the end of the Late Bronze Age per Finkelstein, not an attested end of the language, which continued in its Iron Age descendants."
+        "en": "Britannica groups Hebrew, Moabite, Phoenician and Punic as Canaanite languages; this record covers only the Bronze Age stage known from the Amarna letters. End date is the end of the Late Bronze Age per Finkelstein, not an attested end of the language, which continued in its Iron Age descendants.",
+        "ar": "تجمع بريتانيكا العبرية والمؤابية والفينيقية والبونية ضمن اللغات الكنعانية؛ ويغطي هذا السجل المرحلة البرونزية فقط، المعروفة من رسائل العمارنة. وتاريخ النهاية هو نهاية العصر البرونزي المتأخر بحسب فنكلشتاين، لا نهاية مثبتة للغة التي استمرت في سلالاتها من العصر الحديدي.",
+        "he": "בריטניקה מקבצת עברית, מואבית, פיניקית ופונית כשפות כנעניות; רשומה זו מכסה רק את השלב של תקופת הברונזה הידוע ממכתבי אל-עמארנה. תאריך הסיום הוא סוף תקופת הברונזה המאוחרת לפי פינקלשטיין, לא סוף מעוגן של השפה, שהמשיכה בצאצאיה של תקופת הברזל.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -272,7 +290,13 @@
         }
       ],
       "notes": {
-        "en": "Start and end are the earliest and latest inscriptions from Phoenicia proper as given by Britannica; Punic continued in North Africa."
+        "en": "Start and end are the earliest and latest inscriptions from Phoenicia proper as given by Britannica; Punic continued in North Africa.",
+        "ar": "البداية والنهاية هما أقدم نقش وأحدثه من فينيقيا نفسها كما تعطيهما بريتانيكا؛ واستمرت البونية في شمال أفريقيا.",
+        "he": "ההתחלה והסיום הם הכתובת הקדומה ביותר והמאוחרת ביותר מפיניקיה עצמה כפי שבריטניקה נותנת; הפונית נמשכה בצפון אפריקה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -333,7 +357,13 @@
         }
       ],
       "notes": {
-        "en": "Ugarit's best-documented period is about 1450-1200 BCE (Britannica). Its alphabetic cuneiform texts are a key comparative source for Canaanite languages and literature."
+        "en": "Ugarit's best-documented period is about 1450-1200 BCE (Britannica). Its alphabetic cuneiform texts are a key comparative source for Canaanite languages and literature.",
+        "ar": "أفضل فترات أوغاريت توثيقًا نحو 1450-1200 ق.م. (بريتانيكا). وتشكل نصوصها المسمارية الأبجدية مصدرًا مقارنًا أساسيًا للغات الكنعانية وآدابها.",
+        "he": "התקופה המתועדת ביותר של אוגרית היא בערך 1450-1200 לפנה״ס (בריטניקה). טקסטי היתדות האלפביתיים שלה הם מקור השוואתי מרכזי לשפות ולספרות הכנעניות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -624,7 +654,13 @@
         }
       ],
       "notes": {
-        "en": "Contested points: (1) the earliest Hebrew texts (Britannica's 'Hebrew alphabet' dates the Gezer Calendar to the 10th century BCE as Early Hebrew writing, its 'Hebrew language' article names a 9th-century inscription as the earliest; the language of the Khirbet Qeiyafa ostracon is disputed); (2) when Aramaic replaced Hebrew as the Jewish vernacular (6th century BCE per Britannica 'Aramaic', from about the 3rd century BCE per Britannica 'Hebrew') and whether Hebrew was still spoken in Roman-period Judaea (the IAA stresses its 'vitality'; Britannica says Mishnaic Hebrew was never a spoken language). Follow-up: specialist works suggested in the brief (e.g. Kutscher, Hezser) were not accessible in this pass. Scripts: paleo-Hebrew (coded here with the Phoenician script code, ISO 15924 having none for it) and the square Jewish script (LLDSS)."
+        "en": "Contested points: (1) the earliest Hebrew texts (Britannica's 'Hebrew alphabet' dates the Gezer Calendar to the 10th century BCE as Early Hebrew writing, its 'Hebrew language' article names a 9th-century inscription as the earliest; the language of the Khirbet Qeiyafa ostracon is disputed); (2) when Aramaic replaced Hebrew as the Jewish vernacular (6th century BCE per Britannica 'Aramaic', from about the 3rd century BCE per Britannica 'Hebrew') and whether Hebrew was still spoken in Roman-period Judaea (the IAA stresses its 'vitality'; Britannica says Mishnaic Hebrew was never a spoken language). Follow-up: specialist works suggested in the brief (e.g. Kutscher, Hezser) were not accessible in this pass. Scripts: paleo-Hebrew (coded here with the Phoenician script code, ISO 15924 having none for it) and the square Jewish script (LLDSS).",
+        "ar": "نقاط الخلاف: (1) أقدم النصوص العبرية (تؤرخ بريتانيكا في ‘Hebrew alphabet’ تقويم جازر بالقرن العاشر ق.م. بوصفه كتابة عبرية مبكرة، بينما تسمي مقالتها ‘Hebrew language’ نقشًا من القرن التاسع أقدمها؛ ولغة أوستراكون خربة قيافة محل خلاف)؛ (2) متى حلّت الآرامية محل العبرية لغةً دارجة لليهود (القرن السادس ق.م. بحسب بريتانيكا ‘Aramaic’، ونحو القرن الثالث ق.م. بحسب بريتانيكا ‘Hebrew’) وهل بقيت العبرية منطوقة في اليهودية في العصر الروماني (تشدد IAA على ‘vitality’ لها؛ وتقول بريتانيكا إن العبرية المشنائية لم تكن لغة منطوقة قط). متابعة: لم يُتح في هذه الجولة الاطلاع على الأعمال المتخصصة التي اقترحها الملخص (مثل كوتشر وهيتسر). الكتابات: العبرية القديمة (مرمَّزة هنا برمز الكتابة الفينيقية لأن ISO 15924 لا يخصها برمز) والكتابة اليهودية المربعة (LLDSS).",
+        "he": "נקודות מחלוקת: (1) הטקסטים העבריים הקדומים ביותר (בריטניקה ב-‘Hebrew alphabet’ מתארכת את לוח גזר למאה ה-10 לפנה״ס ככתיבה עברית קדומה, ואילו המאמר שלה ‘Hebrew language’ מנקב כתובת מהמאה ה-9 כקדומה ביותר; שפת האוסטרקון מחורבת קייאפה שנויה במחלוקת); (2) מתי הארמית החליפה את העברית כשפה המדוברת של היהודים (המאה ה-6 לפנה״ס לפי בריטניקה ‘Aramaic’, מסביבות המאה ה-3 לפנה״ס לפי בריטניקה ‘Hebrew’) והאם העברית עדיין דוברה ביהודה בתקופה הרומית (רשות העתיקות מדגישה את ‘vitality’ שלה; בריטניקה אומרת שהעברית המשנאית מעולם לא הייתה שפה מדוברת). המשך: חיבורים מומחים שהוצעו בתדריך (למשל קוצ'ר והצר) לא היו נגישים בסבב זה. כתבים: עברית עתיקה (מקודדת כאן בקוד הכתב הפיניקי, משום שב-ISO 15924 אין לה קוד) והכתב היהודי המרובע (LLDSS).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -686,7 +722,13 @@
         }
       ],
       "notes": {
-        "en": "Known chiefly from the Mesha (Moabite) Stone, found at Dhiban in 1868. Britannica's 'Canaanite languages' dates that inscription to the 8th century BC, while its other articles give the 9th century (about 850 BCE); the 9th century is used here. Britannica calls its script the Moabite alphabet (no separate ISO 15924 code, so none is listed)."
+        "en": "Known chiefly from the Mesha (Moabite) Stone, found at Dhiban in 1868. Britannica's 'Canaanite languages' dates that inscription to the 8th century BC, while its other articles give the 9th century (about 850 BCE); the 9th century is used here. Britannica calls its script the Moabite alphabet (no separate ISO 15924 code, so none is listed).",
+        "ar": "معروفة أساسًا من حجر ميشع (المؤابي)، الذي عُثر عليه في ذيبان عام 1868. وتؤرخ بريتانيكا في ‘Canaanite languages’ النقش بالقرن الثامن ق.م.، بينما تعطي مقالاتها الأخرى القرن التاسع (نحو 850 ق.م.)؛ ويُستخدم القرن التاسع هنا. وتسمي بريتانيكا كتابته الأبجدية المؤابية (ولا رمز ISO 15924 منفصلًا لها، لذا لا يُدرج رمز).",
+        "he": "ידועה בעיקר מאבן מישע (המואבית), שנמצאה בדיבאן ב-1868. בריטניקה ב-‘Canaanite languages’ מתארכת את הכתובת למאה ה-8 לפנה״ס, ואילו מאמריה האחרים נותנים את המאה ה-9 (בערך 850 לפנה״ס); כאן משתמשים במאה ה-9. בריטניקה מכנה את כתבה האלפבית המואבי (אין קוד ISO 15924 נפרד, ולכן לא נרשם קוד).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -865,7 +907,13 @@
         }
       ],
       "notes": {
-        "en": "The Samarian papyri from Wadi Daliyeh (4th century BCE) are cited by the IAA as examples of Official Aramaic. Samaritan Aramaic as a later literary dialect was not covered by the sources consulted. The timing of the shift from Hebrew to Aramaic among Jews is contested (see 'hebrew'). Britannica's end date of about 650 CE for wide use is a general statement for the Near East."
+        "en": "The Samarian papyri from Wadi Daliyeh (4th century BCE) are cited by the IAA as examples of Official Aramaic. Samaritan Aramaic as a later literary dialect was not covered by the sources consulted. The timing of the shift from Hebrew to Aramaic among Jews is contested (see 'hebrew'). Britannica's end date of about 650 CE for wide use is a general statement for the Near East.",
+        "ar": "تستشهد IAA ببرديات السامرة من وادي الدالية (القرن الرابع ق.م.) أمثلةً على الآرامية الرسمية. ولم تغطِّ المصادر المستشارة الآرامية السامرية بوصفها لهجة أدبية لاحقة. وتوقيت التحول من العبرية إلى الآرامية بين اليهود محل خلاف (انظر ‘hebrew’). أما تاريخ نهاية الاستخدام الواسع عند بريتانيكا نحو 650 م فهو قول عام عن الشرق الأدنى.",
+        "he": "רשות העתיקות מצטטת את פפירוסי שומרון מוואדי דליה (המאה ה-4 לפנה״ס) כדוגמאות לארמית רשמית. הארמית השומרונית כניב ספרותי מאוחר לא כוסתה במקורות שנבדקו. עיתוי המעבר מעברית לארמית בקרב יהודים שנוי במחלוקת (ראו ‘hebrew’). תאריך הסיום של בריטניקה, בערך 650 לספירה, לשימוש רחב הוא אמירה כללית על המזרח הקרוב.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
