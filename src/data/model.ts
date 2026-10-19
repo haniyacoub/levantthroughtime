@@ -1,5 +1,6 @@
 import type { HistDate } from '../time/years';
 import { endT, startT } from '../time/years';
+import { EraScale } from '../time/eraScale';
 import type { LocalizedText } from '../i18n/localize';
 
 export type Confidence = 'documented' | 'estimated' | 'contested' | 'unknown';
@@ -177,6 +178,8 @@ export interface EventRecord {
   coords?: [number, number];
   description?: LocalizedText;
   importance?: 1 | 2 | 3;
+  related_conflict?: string;
+  basis?: 'textual-tradition' | 'archaeological' | 'documentary';
   confidence: Confidence;
   sources: SourceRef[];
   notes?: LocalizedText;
@@ -189,6 +192,7 @@ export interface Ruler {
   office?: LocalizedText;
   start: HistDate;
   end?: HistDate;
+  basis?: 'textual-tradition' | 'archaeological' | 'documentary';
   confidence: Confidence;
   sources: SourceRef[];
   notes?: LocalizedText;
@@ -389,6 +393,32 @@ export async function loadAppData(): Promise<AppData> {
 
 export const activeAt = (r: { start: HistDate; end?: HistDate }, t: number): boolean =>
   startT(r.start) <= t + 1e-9 && (r.end === undefined || t < endT(r.end) - 1e-9);
+
+const scales = new WeakMap<AppData, EraScale>();
+/** The timeline scale for this data (cached). */
+export function scaleFor(data: AppData): EraScale {
+  let s = scales.get(data);
+  if (!s) {
+    const asOf = data.config.timeline.as_of;
+    s = new EraScale(data.eras, startT({ year: asOf.year, month: asOf.month }));
+    scales.set(data, s);
+  }
+  return s;
+}
+
+/** Length, in years, of the timeline step that starts at t. */
+export function stepYearsAt(data: AppData, t: number): number {
+  const st = scaleFor(data).stepAt(t);
+  return st.unit === 'month' ? st.size / 12 : st.size;
+}
+
+/**
+ * Is a dated happening (a battle, war or event) under way during the timeline step that starts
+ * at t? Without an end date it lasts only its start date (that day, month or year), so a one-day
+ * battle still shows while stepping month by month, and does not stay on the map afterwards.
+ */
+export const happeningAt = (r: { start: HistDate; end?: HistDate }, t: number, stepYears: number): boolean =>
+  startT(r.start) < t + stepYears - 1e-9 && endT(r.end ?? r.start) > t + 1e-9;
 
 /** Relations of a polity that hold at time t. */
 export function relationsAt(p: Polity, t: number): Relation[] {

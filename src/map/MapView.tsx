@@ -11,7 +11,7 @@ import { startT } from '../time/years';
 import type { Lang } from '../time/format';
 import { buildStyle, hatchImage, territoryLayerOpacities, TERRAIN_BOUNDS, type Slot } from './style';
 import { deadSeaLevelAt, levelValue, nearestLevel, seaLevelAt } from '../data/landscape';
-import { activeAt, type ModernLayer } from '../data/model';
+import { activeAt, happeningAt, stepYearsAt, type ModernLayer } from '../data/model';
 import type { FlowOverlay } from './flows';
 import { LayerControl } from './LayerControl';
 import { lazy, Suspense } from 'react';
@@ -323,7 +323,7 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
     const map = mapRef.current;
     if (!ready || !map) return;
     const features = data.conflicts
-      .filter((c) => activeAt(c, t) && c._coords)
+      .filter((c) => happeningAt(c, t, stepYearsAt(data, t)) && c._coords)
       .map((c) => ({ type: 'Feature' as const, properties: { id: c.id, label: loc(c.name, lang) }, geometry: { type: 'Point' as const, coordinates: c._coords! } }));
     (map.getSource('conflicts') as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features });
     cancelAnimationFrame(pulseRaf.current);

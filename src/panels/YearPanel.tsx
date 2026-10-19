@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
-import { activeAt, depthAt, relationsAt, type AppData, type Extent, type Polity, type PopulationPoint } from '../data/model';
+import { activeAt, depthAt, happeningAt, relationsAt, stepYearsAt, type AppData, type Extent, type Polity, type PopulationPoint } from '../data/model';
 import { nearestFigures, panelSeries } from '../data/population';
 import { loc, resolve } from '../i18n/localize';
 import { useStore } from '../state/store';
@@ -87,7 +87,7 @@ export function YearPanel({ data }: { data: AppData }) {
   }, [data, t, lang, tr, polities]);
 
   const rulers = useMemo(() => data.rulers.filter((r) => activeAt(r, t)), [data, t]);
-  const conflicts = useMemo(() => data.conflicts.filter((c) => activeAt(c, t) && !c.parent), [data, t]);
+  const conflicts = useMemo(() => data.conflicts.filter((c) => happeningAt(c, t, stepYearsAt(data, t)) && !c.parent), [data, t]);
   const events = useMemo(() => {
     const w = eventWindow(t);
     return data.events

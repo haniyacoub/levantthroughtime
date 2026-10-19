@@ -484,8 +484,14 @@ export const Event = z.strictObject({
   end: HistDate.optional(),
   place: Id.optional(),
   coords: z.tuple([z.number(), z.number()]).optional(),
+  coords_source: z.string().optional(),
+  wikidata: z.string().regex(/^Q\d+$/).optional(),
   description: Localized.optional(),
   importance: z.union([z.literal(1), z.literal(2), z.literal(3)]).optional(),
+  /** The war or siege this event belongs to, by name (conflicts are linked by id where possible). */
+  related_conflict: z.string().optional(),
+  /** "textual-tradition": known only from texts such as the Bible, not from independent evidence. */
+  basis: z.enum(['textual-tradition', 'archaeological', 'documentary']).optional(),
   confidence: Confidence,
   sources: z.array(SourceRef),
   notes: Localized.optional(),
@@ -499,6 +505,8 @@ export const Ruler = z.strictObject({
   office: Localized.optional(),
   start: HistDate,
   end: HistDate.optional(),
+  /** "textual-tradition": known only from texts such as the Bible, not from independent evidence. */
+  basis: z.enum(['textual-tradition', 'archaeological', 'documentary']).optional(),
   confidence: Confidence,
   sources: z.array(SourceRef),
   notes: Localized.optional(),

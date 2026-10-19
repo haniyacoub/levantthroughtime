@@ -145,3 +145,19 @@ describe('place names through time', () => {
     expect(nameDisplay(jerusalem.names![1]!, 'ar')).toBe('Aelia Capitolina');
   });
 });
+
+describe('dated happenings (battles, wars)', () => {
+  it('shows a battle without an end date only during the step that contains it', async () => {
+    const { happeningAt } = await import('../../src/data/model');
+    const battle = { start: { year: 1948, month: 4, day: 21, precision: 'day' as const } };
+    expect(happeningAt(battle, tOf(1948, 4), 1 / 12)).toBe(true);
+    expect(happeningAt(battle, tOf(1948, 5), 1 / 12)).toBe(false);
+    expect(happeningAt(battle, tOf(1917, 11), 1 / 12)).toBe(false);
+    const ancient = { start: { year: -853, precision: 'year' as const } };
+    expect(happeningAt(ancient, tOf(-860), 10)).toBe(true);
+    expect(happeningAt(ancient, tOf(-800), 10)).toBe(false);
+    const war = { start: { year: 1947, month: 11, precision: 'month' as const }, end: { year: 1949, month: 7, precision: 'month' as const } };
+    expect(happeningAt(war, tOf(1948, 6), 1 / 12)).toBe(true);
+    expect(happeningAt(war, tOf(1950), 1)).toBe(false);
+  });
+});

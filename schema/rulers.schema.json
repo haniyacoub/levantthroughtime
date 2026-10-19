@@ -200,6 +200,14 @@
             ],
             "additionalProperties": false
           },
+          "basis": {
+            "type": "string",
+            "enum": [
+              "textual-tradition",
+              "archaeological",
+              "documentary"
+            ]
+          },
           "confidence": {
             "type": "string",
             "enum": [
