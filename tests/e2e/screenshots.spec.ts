@@ -35,6 +35,10 @@ const VIEWS: { name: string; query: string; viewport?: { width: number; height: 
   { name: '25-compare-1947-1949', query: '?y=1947-12&cmp=1949-08' },
   { name: '26-bibliography', query: '#/bibliography' },
   { name: '27-perspectives', query: '#/perspectives' },
+  { name: '28-partition-plan-1947-12', query: '?y=1947-12' },
+  { name: '29-compare-1967-today', query: '?y=1967-05&cmp=2026-10' },
+  { name: '30-oslo-areas-2000', query: '?y=2000' },
+  { name: '31-compare-swipe-1949-1967', query: '?y=1949-08&cmp=1967-07&cmpmode=swipe' },
 ];
 
 for (const v of VIEWS) {

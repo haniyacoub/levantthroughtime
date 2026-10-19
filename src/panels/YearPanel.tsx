@@ -115,6 +115,14 @@ export function YearPanel({ data }: { data: AppData }) {
         .filter((x) => x.periods.length > 0),
     [data, t],
   );
+  const { layers: shownLayers, modernOff } = useStore();
+  const modern = useMemo(
+    () =>
+      shownLayers.includes('modern')
+        ? (data.modernLayers ?? []).filter((m) => !modernOff.includes(m.id) && t >= m.t0 - 1e-9 && (m.t1 === null || t < m.t1))
+        : [],
+    [data, t, shownLayers, modernOff],
+  );
   const perspectives = useMemo(() => data.perspectives.filter((p) => p._t0 !== undefined && t >= p._t0 - 2 && t <= (p._t1 ?? p._t0) + 2), [data, t]);
   const population = useMemo(
     () => panelSeries(data, t).map((s) => ({ ...s, near: nearestFigures(data, s.areas, t, s.key) })),
@@ -287,6 +295,40 @@ export function YearPanel({ data }: { data: AppData }) {
             )}
           </ul>
           <p className="fine">{tr('landscape.model')}</p>
+        </section>
+      )}
+
+      {modern.length > 0 && (
+        <section aria-labelledby="sec-modern" data-testid="panel-modern">
+          <h3 id="sec-modern" className="panel-sub">
+            {tr('modern.title')}
+          </h3>
+          <ul className="plain-list modern-list">
+            {modern.map((m) => (
+              <li key={m.id}>
+                <strong>{loc(m.name, lang)}</strong> <Badge confidence={m.confidence} /> <SourceButton refs={m.sources} title={loc(m.name, lang)} compact />
+                {m.class_styles && (
+                  <ul className="plain-list modern-classes">
+                    {Object.entries(m.class_styles).map(([c, st]) => (
+                      <li key={c}>
+                        <span className={`legend-line kind-${m.kind}`} style={{ borderColor: st.color ?? m.color, background: m.kind === 'line' ? undefined : st.color ?? m.color, borderStyle: st.dash ? 'dashed' : 'solid' }} aria-hidden />{' '}
+                        {loc(st.label, lang)}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                <p className="fine">
+                  {tr('modern.meta', { publisher: m.publisher, license: m.license, asOf: formatDate(m.as_of, lang) })}
+                </p>
+                {m.notes && <p className="fine">{loc(m.notes, lang)}</p>}
+                <details className="fine">
+                  <summary>{tr('modern.method')}</summary>
+                  <p>{loc(m.method, lang)}</p>
+                  <p>{m.attribution}</p>
+                </details>
+              </li>
+            ))}
+          </ul>
         </section>
       )}
 

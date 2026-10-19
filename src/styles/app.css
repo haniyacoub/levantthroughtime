@@ -1238,3 +1238,27 @@ blockquote {
   font-size: 0.75rem;
   max-width: 260px;
 }
+.modern-list > li {
+  margin-bottom: 8px;
+}
+.modern-classes {
+  margin: 4px 0;
+  font-size: 0.85rem;
+}
+.legend-line {
+  display: inline-block;
+  width: 18px;
+  height: 10px;
+  vertical-align: middle;
+  border-width: 1.5px;
+  opacity: 0.85;
+}
+.legend-line.kind-line {
+  height: 0;
+  border-width: 2px 0 0 0;
+}
+.legend-line.kind-point {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}

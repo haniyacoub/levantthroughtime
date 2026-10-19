@@ -1,0 +1,480 @@
+{
+  "$schema": "../../schema/modern-layers.schema.json",
+  "layers": [
+    {
+      "id": "partition-1947",
+      "name": {
+        "en": "UN partition plan, 1947 (approximate)"
+      },
+      "file": "partition-1947.geojson",
+      "kind": "fill",
+      "color": "#8c8c8c",
+      "class_styles": {
+        "jewish": {
+          "color": "#b59a3c",
+          "label": {
+            "en": "Proposed Jewish State"
+          }
+        },
+        "arab": {
+          "color": "#b06aa0",
+          "label": {
+            "en": "Proposed Arab State"
+          }
+        },
+        "corpus-separatum": {
+          "color": "#6f6f6f",
+          "label": {
+            "en": "City of Jerusalem under an international regime (schematic)"
+          }
+        }
+      },
+      "start": {
+        "year": 1947,
+        "month": 11,
+        "day": 29,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1948,
+        "month": 5,
+        "day": 15,
+        "precision": "day"
+      },
+      "as_of": {
+        "year": 1947,
+        "month": 11,
+        "day": 29,
+        "precision": "day"
+      },
+      "publisher": "This project (derived from UN General Assembly resolution 181 (II))",
+      "license": "CC BY 4.0 (this project); anchors from Wikidata and OpenHistoricalMap (CC0)",
+      "attribution": "Approximate digitisation of UNGA res. 181 (II) Part II; anchors from Wikidata (CC0); Mandate outline from OpenHistoricalMap (CC0).",
+      "method": {
+        "en": "No openly licensed map of the plan exists, so the boundaries were digitised from the text of Resolution 181 (II), Part II: each village or landmark it names was placed from Wikidata and moved a short distance to the side the text names; grid lines quoted in the text were converted from the Palestine grid. Approximate: roughly 1-5 km along most lines; worse where 13 vertices are estimates (sub-district boundaries with no open data, Lydda airport 1947 extent, Beit Nabala rail junction, Galilee-Haifa district boundary assumed at the Na'aman stream, Dead Sea strip edge placed 6 km inland within the stated 7-km maximum, El-Baha/Kh. el-Mushrifa/Wadi 'Ajrim not located). Identifications assumed: Kh. Khuweilifa = Tel Halif, Ras ez-Zuweira ~ Neve Zohar, Wadi el-Zaiyatin = Nahal Zetan, Wadi Nafkh = Nahal Nafha, Wadi Lassan ~ Lotz (Lussan) area. Qazaza skipped (its Wikidata point conflicts with the order in the text)."
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "unga-res-181-ii-1947",
+          "locator": "Part II A-B; Part III B",
+          "quote": "The City of Jerusalem shall include the present municipality of Jerusalem plus the surrounding villages and towns, the most eastern of which shall be Abu Dis"
+        },
+        {
+          "ref": "wikidata-2026-10",
+          "locator": "P625 of the QIDs listed per vertex"
+        },
+        {
+          "ref": "ohm-data-2026",
+          "locator": "relation 2848316"
+        },
+        {
+          "ref": "ohm-forum-partition-2023",
+          "locator": "post by Minh_Nguyen, 2023-09-08",
+          "quote": "OHM currently has data on the borders of Mandatory Palestine and the boundary of Israel in 1948, but not the UN Partition Plan."
+        }
+      ],
+      "notes": {
+        "en": "A proposal that was never implemented. Shown from the vote (29 November 1947) to the end of the Mandate (15 May 1948). Approximate: errors of roughly 1–5 km along most lines."
+      }
+    },
+    {
+      "id": "armistice-dmz-1949",
+      "name": {
+        "en": "Demilitarised zones of the 1949 armistice agreements"
+      },
+      "file": "armistice-dmz-1949.geojson",
+      "kind": "fill",
+      "color": "#7a7a7a",
+      "start": {
+        "year": 1949,
+        "month": 2,
+        "day": 24,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1967,
+        "month": 6,
+        "day": 10,
+        "precision": "day"
+      },
+      "as_of": {
+        "year": 1949,
+        "month": 7,
+        "day": 20,
+        "precision": "day"
+      },
+      "publisher": "This project (El Auja) and OpenHistoricalMap (Israel–Syria zones)",
+      "license": "CC0 (OpenHistoricalMap); CC BY 4.0 (this project)",
+      "attribution": "El Auja DMZ from the Egyptian-Israeli General Armistice Agreement (1949) Art. VIII; Syrian DMZ © OpenHistoricalMap contributors (CC0), traced from the UN armistice map.",
+      "method": {
+        "en": "El Auja: the four map references (MR 08750468, 09650414, 10780285, 09950145) read as Palestine Grid easting/northing in 100 m and converted from EPSG:28191; the two \"frontier\" points fell 0.10 km and 0.21 km from the OHM Mandate frontier (which confirms the reading) and were snapped to it; polygon closed along that frontier (34.5 km). Syria: OHM relation 2864013 v1 (2025-07-25), copied as is. El Auja: corner points to ~100 m (grid precision) plus datum/transformation error of the order of 100 m; frontier from OHM. Area 259 km2 (computed). Syria DMZ: depends on OHM tracing of a small-scale UN map; total 72.8 km2 (computed; not checked against a published figure)."
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "egypt-israel-gaa-1949",
+          "locator": "Art. VIII(2)",
+          "quote": "From a point on the Egypt-Palestine frontier five (5) kilometres north-west of the intersection of the Rafah-El Auja road and the frontier (MR 08750468), south-east to Khashm El Mamdud (MR 09650414)"
+        },
+        {
+          "ref": "israel-syria-gaa-1949",
+          "locator": "Art. V(5)(a)",
+          "quote": "the area between the Armistice Demarcation Line and the boundary, pending final territorial settlement between the Parties, shall be established as a Demilitarized Zone"
+        },
+        {
+          "ref": "ohm-data-2026",
+          "locator": "relation 2864013"
+        }
+      ]
+    },
+    {
+      "id": "green-line-1949",
+      "name": {
+        "en": "1949 armistice line (\"Green Line\"), West Bank sector"
+      },
+      "file": "green-line-1949.geojson",
+      "kind": "line",
+      "color": "#4a4a4a",
+      "class_styles": {
+        "line": {
+          "dash": [
+            3,
+            1.5
+          ],
+          "label": {
+            "en": "1949 armistice line, West Bank sector"
+          }
+        }
+      },
+      "start": {
+        "year": 1949,
+        "month": 4,
+        "day": 3,
+        "precision": "day"
+      },
+      "as_of": {
+        "year": 2026,
+        "month": 5,
+        "precision": "month"
+      },
+      "publisher": "OpenStreetMap contributors",
+      "license": "ODbL 1.0",
+      "attribution": "© OpenStreetMap contributors (ODbL)",
+      "method": {
+        "en": "All member ways of OSM relation 7304999 merged into 10 lines (duplicates removed). As mapped in OSM; not compared with the 1949 maps. Only the Jordan sector; the Gaza, Lebanon, Syria and Egypt lines are not in this relation (the project already has israel-1949 from Natural Earth)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "osm-data-2026",
+          "locator": "relation 7304999"
+        }
+      ],
+      "notes": {
+        "en": "Drawn from the Jordan armistice (3 April 1949) to today; after 1967 it remains the line of reference in UN resolutions and in Israeli statistics, though not a border on the ground."
+      }
+    },
+    {
+      "id": "oslo-ii-areas",
+      "name": {
+        "en": "Oslo II areas A, B and C"
+      },
+      "file": "oslo-ii-areas.geojson",
+      "kind": "fill",
+      "color": "#999933",
+      "class_styles": {
+        "area-a": {
+          "color": "#AA4499",
+          "label": {
+            "en": "Area A: Palestinian civil and security control"
+          }
+        },
+        "area-b": {
+          "color": "#c99bc0",
+          "label": {
+            "en": "Area B: Palestinian civil control, Israeli security control"
+          }
+        },
+        "area-c": {
+          "color": "#999933",
+          "label": {
+            "en": "Area C: Israeli civil and security control"
+          }
+        },
+        "hebron-h1": {
+          "color": "#999933",
+          "label": {
+            "en": "hebron-h1"
+          }
+        },
+        "hebron-h2": {
+          "color": "#999933",
+          "label": {
+            "en": "hebron-h2"
+          }
+        }
+      },
+      "start": {
+        "year": 1995,
+        "month": 9,
+        "day": 28,
+        "precision": "day"
+      },
+      "as_of": {
+        "year": 2026,
+        "month": 9,
+        "precision": "month"
+      },
+      "publisher": "OpenStreetMap contributors",
+      "license": "ODbL 1.0",
+      "attribution": "© OpenStreetMap contributors (ODbL)",
+      "method": {
+        "en": "OSM relation geometry rebuilt with shapely (outer/inner rings), coordinates rounded to 5 decimals. Areas: A 962 km2 (20 parts), B 1,210 km2 (201 parts, includes the nature-reserve area), C 3,529 km2 (one polygon with 167 holes), H1 21.2, H2 4.8. No overlaps between layers. A/B/C carry source=geomolg.ps (Palestinian Ministry of Local Government). Cross-check with the HDX PA Ministry of Planning layer (not redistributable: non-commercial terms) shows near-identical lines, except that OSM Area C includes about 192 km2 of the northern Dead Sea. East Jerusalem and the Latrun no-man's land are outside all layers. Areas change in reality (e.g. later re-designations) and OSM may lag."
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "osm-data-2026",
+          "locator": "relations 3791783-3791785, 7391020-7391021"
+        },
+        {
+          "ref": "hdx-oslo-pa-mop",
+          "locator": "OsloAgreement.shp (cross-check only)"
+        },
+        {
+          "ref": "hdx-legacy-hrinfo-terms",
+          "locator": "Terms (a)",
+          "quote": "for the User’s non-commercial use, without any right to resell them"
+        }
+      ],
+      "notes": {
+        "en": "Today’s extent is drawn for every date since the Interim Agreement of 28 September 1995; land was transferred between the areas in stages after that, so earlier years are shown less accurately."
+      }
+    },
+    {
+      "id": "west-bank-barrier",
+      "name": {
+        "en": "West Bank barrier (route as of January 2018)"
+      },
+      "file": "west-bank-barrier.geojson",
+      "kind": "line",
+      "color": "#3a3a3a",
+      "class_styles": {
+        "constructed": {
+          "label": {
+            "en": "Built"
+          }
+        },
+        "under-construction": {
+          "dash": [
+            3,
+            2
+          ],
+          "label": {
+            "en": "Under construction"
+          }
+        },
+        "projected": {
+          "dash": [
+            1,
+            2
+          ],
+          "color": "#7a7a7a",
+          "label": {
+            "en": "Planned"
+          }
+        }
+      },
+      "start": {
+        "year": 2002,
+        "month": 6,
+        "day": 23,
+        "precision": "day"
+      },
+      "as_of": {
+        "year": 2018,
+        "month": 1,
+        "precision": "month"
+      },
+      "publisher": "OCHA occupied Palestinian territory (via the Humanitarian Data Exchange)",
+      "license": "CC BY 4.0",
+      "attribution": "West Bank Separation Barrier, January 2018 — OCHA oPt, via the Humanitarian Data Exchange (CC BY). Reprojected to WGS84.",
+      "method": {
+        "en": "Shapefile reprojected from WGS84/UTM 36N to WGS84; properties status, type (NA/empty -> null), type_raw, length_km. Totals: constructed 464 km, under construction 51 km, projected 196 km (712 km). OCHA digitisation from 2018 aerial imagery and field observation; status as of January 2018 (no newer open release found on HDX)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "hdx-west-bank-barrier-2018",
+          "locator": "Barrier_Jan2018.zip",
+          "quote": "updated using aerial imagery (2018) and based on field observation"
+        },
+        {
+          "ref": "icj-2004-wall-ao",
+          "locator": "section on the construction of the wall",
+          "quote": "on 23 June 2002, the Israeli Cabinet approved the first phase of the construction of a “continuous fence” in the West Bank (including East Jerusalem)"
+        }
+      ],
+      "notes": {
+        "en": "Israel calls it a security fence; Palestinians and the International Court of Justice call it a wall. The route as of January 2018 is drawn from June 2002, when the Israeli cabinet approved the first phase; it was built in stages (about 190 km by January 2004, according to the UN Secretary-General as cited by the ICJ)."
+      }
+    },
+    {
+      "id": "settlements",
+      "name": {
+        "en": "Israeli settlements, by year founded"
+      },
+      "file": "settlements.geojson",
+      "kind": "point",
+      "color": "#6b6b2a",
+      "class_styles": {
+        "settlement": {
+          "label": {
+            "en": "Israeli settlement in the West Bank or Golan Heights (CBS locality list)"
+          }
+        },
+        "east-jerusalem": {
+          "color": "#8a8a3e",
+          "label": {
+            "en": "Israeli neighbourhood in East Jerusalem (Peace Now built-up area, 2011 photos)"
+          }
+        },
+        "evacuated-2005": {
+          "color": "#9a9a9a",
+          "label": {
+            "en": "Locality evacuated in 2005 (Gaza Strip and northern West Bank)"
+          }
+        }
+      },
+      "start": {
+        "year": 1967,
+        "month": 6,
+        "precision": "month"
+      },
+      "as_of": {
+        "year": 2023,
+        "precision": "year"
+      },
+      "publisher": "Israel Central Bureau of Statistics; Peace Now via OCHA oPt (East Jerusalem)",
+      "license": "data.gov.il \"Other (Open)\", attribution required; CC BY-IGO (OCHA/HDX)",
+      "attribution": "Israel Central Bureau of Statistics, Localities file 2023 (data.gov.il); OCHA oPt / Peace Now settlement built-up areas (HDX, CC BY-IGO); some names © OpenStreetMap contributors. Israel Central Bureau of Statistics, localities file 2003 and \"changes in localities since 1948\" (2005 edition).",
+      "method": {
+        "en": "CBS rows with district 7 or subdistrict 29 and a 12-digit coordinate field: easting = first 6 digits, northing = last 6 digits (ITM, EPSG:2039), converted with pyproj. locality_category: \"israeli-settlement\" = CBS founding year >= 1967; \"arab-population-locality\" = Arab population share >= 99% and no founding year (Buq'ata, Majdal Shams, Mas'ade, Ghajar, Ein Qiniyye; CBS religion code 2 = Arab per the 2004 codebook); Nimrod = unknown (no data). 25 CBS aggregate/remainder rows skipped (listed in skipped_rows). East Jerusalem: Peace Now polygons in Jerusalem outside the project's israel-1949 and west-bank units, reduced to representative points; names from Peace Now or the nearest OSM neighbourhood node (auto-joined; check). CBS points are locality reference points (checked against Wikidata: median 0.12 km). The CBS file does not list East Jerusalem neighbourhoods separately; the 22 East Jerusalem points have no founding years or populations, 6 are small unnamed built-up areas. Founding years are CBS values. CBS change types \"מיישובי חבל עזה\" / \"מיישובי צפון השומרון\" joined by CBS code to the 2003 localities file; 8-digit coordinate field read as ITM easting/northing in 100 m and converted (EPSG:2039). 10 of 21 points matched Wikidata items within 1 km (others not name-matched automatically)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "cbs-localities-2023",
+          "locator": "bycode2023.xlsx"
+        },
+        {
+          "ref": "cbs-codebook-2004",
+          "locator": "sheet \"דת היישוב\""
+        },
+        {
+          "ref": "hdx-peacenow-settlements",
+          "locator": "Settlements_Buildup_PeaceNow.shp",
+          "quote": "The line around the builtup area of the settlements. Made by Peace Now based on Aerial photos from 2011"
+        },
+        {
+          "ref": "osm-data-2026",
+          "locator": "place=neighbourhood/suburb nodes in Jerusalem"
+        },
+        {
+          "ref": "cbs-changes-1948-2005",
+          "locator": "sheet \"שינויים ביישובים מאז 1948\""
+        },
+        {
+          "ref": "cbs-localities-2003",
+          "locator": "sheet \"by code\""
+        }
+      ],
+      "notes": {
+        "en": "Each settlement appears from the founding year given by Israel’s Central Bureau of Statistics. Most states and the UN consider the settlements illegal under international law; Israel disputes this (see the Perspectives page). Arab-population localities in the Golan Heights (e.g. Majdal Shams) are not shown, and Nimrod is left out because the CBS file gives neither a founding year nor a population. East Jerusalem neighbourhoods have no founding year in the source, so they are shown from 2011, the date of the aerial photographs they were mapped from."
+      }
+    },
+    {
+      "id": "gaza-lines-2023",
+      "name": {
+        "en": "Gaza Strip since 2023: corridors and the October 2025 withdrawal line (schematic)"
+      },
+      "file": "gaza-lines-2023.geojson",
+      "kind": "line",
+      "color": "#7a6a2e",
+      "class_styles": {
+        "yellow-line": {
+          "color": "#b8860b",
+          "dash": [
+            2,
+            1
+          ],
+          "label": {
+            "en": "“Yellow Line”: Israeli withdrawal line under the October 2025 ceasefire"
+          }
+        },
+        "corridor": {
+          "dash": [
+            1,
+            1.5
+          ],
+          "label": {
+            "en": "Military corridor held by Israeli forces (Netzarim, Philadelphi, Morag)"
+          }
+        }
+      },
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "precision": "month"
+      },
+      "as_of": {
+        "year": 2025,
+        "month": 10,
+        "day": 14,
+        "precision": "day"
+      },
+      "publisher": "OpenStreetMap contributors (traced from an Israeli military map); dates from press reports",
+      "license": "ODbL 1.0",
+      "attribution": "© OpenStreetMap contributors (ODbL)",
+      "method": {
+        "en": "Yellow Line: OSM way 1313327399 (closed area tagged landuse=military, source=idf, date=20251014) rebuilt as of version 32 (2025-10-19) from node histories; only the inner edge kept and simplified to 10 vertices (~300 m tolerance). Netzarim and Philadelphi: OSM road geometries simplified (~200 m). Morag: straight NW-SE line through the former Morag settlement (wikidata:Q2777077) clipped to the OSM Gaza outline - no published geometry found. Schematic only; not to be drawn as zones. The Yellow Line OSM tracing comes from an Israeli military map; it was later shifted (Reuters 2026). OSM also maps a 2026 \"Orange Line\" (way 1541663246) - not exported because its source was not checked."
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "osm-data-2026",
+          "locator": "way 1313327399 v32; relation 18640231; ways 41314982, 1531952135; relation 1473938"
+        },
+        {
+          "ref": "fabian-toi-philadelphi-2024",
+          "locator": "liveblog 29 May 2024",
+          "quote": "The IDF says it has established \"operational control\" over the entire so-called Philadelphi Corridor"
+        },
+        {
+          "ref": "fabian-toi-morag-2025",
+          "locator": "12 Apr 2025",
+          "quote": "cutting off the city of Rafah from Khan Younis"
+        },
+        {
+          "ref": "frantzman-lwj-morag-2025",
+          "locator": "3 Apr 2025",
+          "quote": "was in an open region south of the city of Khan Younis"
+        },
+        {
+          "ref": "channel4-netzarim-2025",
+          "locator": "9 Feb 2025",
+          "quote": "Israeli troops have pulled out of the entire Netzarim corridor, a four mile strip of land"
+        },
+        {
+          "ref": "ocha-hsu-334-2025",
+          "locator": "Overview",
+          "quote": "announced that works began to demarcate the Yellow Line separating the ceasefire zone from the Israeli military-controlled area"
+        }
+      ],
+      "notes": {
+        "en": "Schematic lines only, deliberately simplified: the zones they bound changed often and are not drawn as areas. Traced by OSM contributors from an Israeli military map; Reuters (28 Jul 2026) reports the line was later moved inward in several places, and OSM also maps a 2026 \"Orange Line\". Deliberately simplified. The Morag corridor has no published geometry; it is drawn as a straight line through the former Morag settlement, oriented as press reports describe it."
+      }
+    }
+  ]
+}

@@ -193,6 +193,8 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
           });
           mapRef.current = map;
           onMap?.(map);
+          // Development only: lets tests and debugging inspect the map.
+          if (import.meta.env.DEV) (window as unknown as { __map?: MLMap }).__map = map;
           setReady(true);
         });
       })
@@ -423,9 +425,13 @@ function addModernLayers(map: MLMap, data: AppData): void {
   for (const l of data.modernLayers ?? []) {
     const src = `modern-${l.id}`;
     map.addSource(src, { type: 'geojson', data: `${origin}${baseUrl()}data/modern/${l.file}` });
+    // Per-class colours (e.g. Oslo areas A, B, C) where the layer defines them.
+    const byClass = l.class_styles
+      ? (['match', ['get', 'class'], ...Object.entries(l.class_styles).flatMap(([c, st]) => [c, st.color ?? l.color]), l.color] as unknown as string)
+      : l.color;
     if (l.kind === 'fill') {
-      map.addLayer({ id: `modern-${l.id}-fill`, type: 'fill', source: src, paint: { 'fill-color': l.color, 'fill-opacity': 0.16 } }, before);
-      map.addLayer({ id: `modern-${l.id}-line`, type: 'line', source: src, paint: { 'line-color': l.color, 'line-width': 1.8, 'line-dasharray': [3, 1.5] } }, before);
+      map.addLayer({ id: `modern-${l.id}-fill`, type: 'fill', source: src, paint: { 'fill-color': byClass, 'fill-opacity': 0.38 } }, before);
+      map.addLayer({ id: `modern-${l.id}-line`, type: 'line', source: src, paint: { 'line-color': byClass, 'line-width': 2, 'line-dasharray': [3, 1.5] } }, before);
     } else if (l.kind === 'line') {
       const styles = l.class_styles ?? { '': { label: l.name } };
       for (const [cls, st] of Object.entries(styles)) {
@@ -441,7 +447,7 @@ function addModernLayers(map: MLMap, data: AppData): void {
         );
       }
     } else {
-      map.addLayer({ id: `modern-${l.id}-pt`, type: 'circle', source: src, paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2, 11, 4.5], 'circle-color': l.color, 'circle-stroke-color': '#fff', 'circle-stroke-width': 0.8 } }, before);
+      map.addLayer({ id: `modern-${l.id}-pt`, type: 'circle', source: src, paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2, 11, 4.5], 'circle-color': byClass, 'circle-stroke-color': '#fff', 'circle-stroke-width': 0.8 } }, before);
       map.addLayer(
         {
           id: `modern-${l.id}-label`,

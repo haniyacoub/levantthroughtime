@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4894,
+            31.5937
+          ],
+          [
+            34.4749,
+            31.5741
+          ],
+          [
+            34.4983,
+            31.5635
+          ],
+          [
+            34.514,
+            31.5431
+          ],
+          [
+            34.4535,
+            31.4867
+          ],
+          [
+            34.4088,
+            31.4305
+          ],
+          [
+            34.2899,
+            31.3175
+          ],
+          [
+            34.2552,
+            31.3145
+          ],
+          [
+            34.2312,
+            31.334
+          ],
+          [
+            34.2203,
+            31.3247
+          ]
+        ]
+      },
+      "properties": {
+        "id": "yellow-line-2025-10",
+        "class": "yellow-line",
+        "name": "Yellow Line (October 2025 ceasefire withdrawal line)",
+        "name_ar": "الخط الأصفر",
+        "name_he": "הקו הצהוב",
+        "start": {
+          "year": 2025,
+          "precision": "day",
+          "month": 10,
+          "day": 10
+        },
+        "certainty": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4526,
+            31.4479
+          ],
+          [
+            34.4523,
+            31.4534
+          ],
+          [
+            34.4058,
+            31.4932
+          ]
+        ]
+      },
+      "properties": {
+        "id": "netzarim-corridor",
+        "class": "corridor",
+        "name": "Netzarim Corridor",
+        "name_ar": "ممر نتساريم",
+        "name_he": "ציר נצרים",
+        "end": {
+          "year": 2025,
+          "precision": "day",
+          "month": 2,
+          "day": 9
+        },
+        "certainty": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.269,
+            31.2216
+          ],
+          [
+            34.24,
+            31.2959
+          ],
+          [
+            34.2356,
+            31.297
+          ],
+          [
+            34.2198,
+            31.3227
+          ]
+        ]
+      },
+      "properties": {
+        "id": "philadelphi-corridor",
+        "class": "corridor",
+        "name": "Philadelphi Corridor (Gaza-Egypt border strip)",
+        "start": {
+          "year": 2024,
+          "precision": "day",
+          "month": 5,
+          "day": 29
+        },
+        "certainty": "schematic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2413,
+            31.347
+          ],
+          [
+            34.2869,
+            31.3078
+          ],
+          [
+            34.3349,
+            31.2666
+          ]
+        ]
+      },
+      "properties": {
+        "id": "morag-corridor",
+        "class": "corridor",
+        "name": "Morag Corridor",
+        "start": {
+          "year": 2025,
+          "precision": "day",
+          "month": 4,
+          "day": 12
+        },
+        "certainty": "schematic"
+      }
+    }
+  ]
+}

@@ -351,5 +351,10 @@
     "colonization": "קולוניזציה",
     "settlement": "התיישבות",
     "other": "אחר"
+  },
+  "modern": {
+    "title": "שכבות מפה מודרניות",
+    "meta": "מפרסם: {{publisher}} · רישיון: {{license}} · נכון ל־{{asOf}}",
+    "method": "איך שורטט"
   }
 }

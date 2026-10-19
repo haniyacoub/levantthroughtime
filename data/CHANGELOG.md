@@ -124,3 +124,23 @@ Totals after merging: **438 sources, 150 places.**
 - No overall total for Aliyah Bet; CBS period totals are used instead.
 - Samaritan revolts carry reign windows rather than the usual years (484, 529, 556), which were not in any source read; 556 is omitted.
 - Dathin, Fahl, Ramla 1105 and Montfort have no record (no source opened).
+
+### Modern map layers (imported 2026-10-19)
+
+Seven layers, each with publisher, licence, as-of date and method in `data/modern/layers.json`:
+
+| Layer | Source and licence | Shown |
+|---|---|---|
+| UN partition plan, 1947 | Digitised by this project from the text of Resolution 181 (II), with Wikidata and OpenHistoricalMap anchors (CC0). **Approximate** (about 1–5 km); the Jerusalem zone is schematic. | 29 Nov 1947 – 15 May 1948 |
+| 1949 demilitarised zones | El Auja from the map references in the Egypt–Israel agreement; Israel–Syria zones from OpenHistoricalMap (CC0) | 1949 – June 1967 |
+| 1949 armistice line, West Bank sector | OpenStreetMap (ODbL) | from April 1949 |
+| Oslo II Areas A, B, C and Hebron H1/H2 | OpenStreetMap (ODbL); the Palestinian Ministry of Planning layer was used only as a cross-check (non-commercial licence) | from 28 Sep 1995 (today's extent for all dates) |
+| West Bank barrier | OCHA oPt via HDX (CC BY), route as of January 2018 | from 23 June 2002 (cabinet approval, per the ICJ opinion) |
+| Israeli settlements | Israel Central Bureau of Statistics 2023 locality file (data.gov.il), by founding year; East Jerusalem neighbourhoods from Peace Now built-up areas via OCHA (CC BY-IGO); localities evacuated in 2005 from the CBS change list | each from its founding year |
+| Gaza since 2023 | Schematic lines only (OpenStreetMap, ODbL; dates from press reports): the October 2025 "Yellow Line", the Netzarim, Philadelphi and Morag corridors | from the dates reported |
+
+**Decisions**
+- Arab-population localities in the Golan Heights (Buq'ata, Majdal Shams, Mas'ade, Ghajar, Ein Qiniyye) are in the CBS file but are not settlements, so they are not shown. Nimrod is left out because the CBS file gives neither a founding year nor a population.
+- East Jerusalem neighbourhoods have no founding year in the source, so they are shown from 2011, the date of the aerial photographs they were mapped from.
+- The Morag corridor has no published geometry; it is a straight line through the former Morag settlement, oriented as press reports describe it, and labelled schematic.
+- No areas are drawn for Gaza after 2023, as decided in the plan: the zones changed too often. Dated shares of the Strip under Israeli control are given in the polity records, from several sides.

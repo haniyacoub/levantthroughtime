@@ -351,5 +351,10 @@
     "colonization": "استعمار",
     "settlement": "استيطان",
     "other": "أخرى"
+  },
+  "modern": {
+    "title": "طبقات الخريطة الحديثة",
+    "meta": "الناشر: {{publisher}} · الترخيص: {{license}} · حتى {{asOf}}",
+    "method": "كيف رُسمت"
   }
 }

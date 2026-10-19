@@ -199,6 +199,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "afp-partition-2017",
+      "type": "web",
+      "authors": [
+        "AFP"
+      ],
+      "title": "Revisiting disputed partition of Palestine 70 years ago",
+      "container": "Arab News",
+      "publisher": "Arab News (AFP wire)",
+      "year": 2017,
+      "url": "https://www.arabnews.com/node/1199206/middle-east",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "HTML downloaded and the body read. Dated 26 Nov 2017, AFP. Used only for an area comparison."
+      },
+      "kind": "press",
+      "institution_country": "SA"
+    },
+    {
       "id": "aharoni-1978-land-of-the-bible",
       "type": "book",
       "authors": [
@@ -7689,6 +7709,74 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "cbs-changes-1948-2005",
+      "type": "dataset",
+      "title": "שינויים ביישובים מאז 1948 (Changes in localities since 1948, changes1948_2005.xls)",
+      "container": "Central Bureau of Statistics website (Internet Archive copy of 2007-04-24)",
+      "publisher": "Central Bureau of Statistics",
+      "year": 2006,
+      "url": "http://web.archive.org/web/20070424221621/http://www1.cbs.gov.il:80/ishuvim/changes1948_2005/changes1948_2005.xls",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read all rows of change types \"מיישובי חבל עזה\" (17) and \"מיישובי צפון השומרון\" (4), year 2005, note: localities that ceased to exist under the Disengagement Plan Implementation Law 2005."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-codebook-2004",
+      "type": "dataset",
+      "title": "Localities file code key 2004 (index2004.xls)",
+      "container": "Central Bureau of Statistics website (Internet Archive copy of 2007-04-24)",
+      "publisher": "Central Bureau of Statistics",
+      "year": 2004,
+      "url": "http://web.archive.org/web/20070424221335/http://www1.cbs.gov.il:80/ishuvim/ishuv2004/index2004.xls",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read sheet \"דת היישוב\": 1 יהודי, 2 ערבי, 3 שבט בדווים, 4 ישוב מעורב; and the district/subdistrict key."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-localities-2003",
+      "type": "dataset",
+      "title": "Localities file 2003 (local2003.xls)",
+      "container": "Central Bureau of Statistics website (Internet Archive copy of 2007-04-24)",
+      "publisher": "Central Bureau of Statistics",
+      "year": 2003,
+      "url": "http://web.archive.org/web/20070424224817/http://www1.cbs.gov.il:80/ishuvim/ishuv2003/local2003.xls",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read rows for the 21 localities later evacuated: name, English name, founding year, 2003 population, 8-digit coordinates (ITM, 100 m)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-localities-2023",
+      "type": "dataset",
+      "title": "קובץ היישובים 2023 (Localities file 2023, bycode2023.xlsx), dataset \"יישובים בישראל - קובצי יישובים\"",
+      "container": "data.gov.il",
+      "publisher": "Central Bureau of Statistics (הלשכה המרכזית לסטטיסטיקה)",
+      "year": 2025,
+      "url": "https://data.gov.il/dataset/localities-in-israel",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the XLSX via the data.gov.il CKAN API; license_title \"Other (Open)\". Coordinate field = 12 digits (6-digit ITM easting + 6-digit northing, metres); this layout was inferred and checked against Wikidata (86 matches, median distance 0.12 km), because the CBS explanatory notes page could not be loaded (bot protection)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "cbs-media-2025-422",
       "type": "document",
       "authors": [
@@ -8005,6 +8093,23 @@
       },
       "kind": "government",
       "institution_country": "PS"
+    },
+    {
+      "id": "channel4-netzarim-2025",
+      "type": "web",
+      "title": "Gaza ceasefire: Israeli troops withdraw from Netzarim corridor",
+      "container": "Channel 4 News",
+      "publisher": "Channel 4",
+      "year": 2025,
+      "url": "https://www.channel4.com/news/gaza-ceasefire-israeli-troops-withdraw-from-netzarim-corridor",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool. Dated 9 Feb 2025."
+      },
+      "kind": "press",
+      "institution_country": "GB"
     },
     {
       "id": "cie-timeline-gort-1944",
@@ -8566,6 +8671,23 @@
       "institution_country": "IL"
     },
     {
+      "id": "egypt-israel-gaa-1949",
+      "type": "document",
+      "title": "Egyptian-Israeli General Armistice Agreement, February 24, 1949",
+      "container": "The Avalon Project",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1949,
+      "url": "https://avalon.law.yale.edu/20th_century/arm01.asp",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Article VIII(2) (El Auja demilitarized zone with four Palestine-grid map references) read in full."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
       "id": "egypt-israel-treaty-1979",
       "type": "document",
       "title": "Treaty of Peace between the Arab Republic of Egypt and the State of Israel (26 March 1979), with Annex I",
@@ -8872,6 +8994,46 @@
       "institution_country": "US"
     },
     {
+      "id": "fabian-toi-morag-2025",
+      "type": "web",
+      "authors": [
+        "Fabian, Emanuel"
+      ],
+      "title": "IDF fully surrounds Rafah as Katz warns Gazans of 'final moment to remove Hamas'",
+      "container": "The Times of Israel",
+      "publisher": "The Times of Israel",
+      "year": 2025,
+      "url": "https://www.timesofisrael.com/idf-fully-captures-gazas-morag-corridor-cutting-off-rafah-from-khan-younis/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool (first 100,000 characters). Dated 12 Apr 2025."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
+      "id": "fabian-toi-philadelphi-2024",
+      "type": "web",
+      "authors": [
+        "Fabian, Emanuel"
+      ],
+      "title": "IDF says it has established 'operational control' over key Philadelphi Corridor on Gaza-Egypt border",
+      "container": "The Times of Israel (liveblog)",
+      "publisher": "The Times of Israel",
+      "year": 2024,
+      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-has-established-operational-control-over-key-philadelphi-corridor/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool (first 100,000 characters); quotes below are from that extraction. Dated 29 May 2024."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
       "id": "feldman-1990-name-palestine",
       "type": "article",
       "authors": [
@@ -9020,6 +9182,26 @@
         "note": "Read the whole page: Paul Halsall's headnote and an English translation (translator not given) of the text as transmitted by al-Turtushi, Siraj al-Muluk, pp. 229-230."
       },
       "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "frantzman-lwj-morag-2025",
+      "type": "web",
+      "authors": [
+        "Frantzman, Seth"
+      ],
+      "title": "Israel takes over new area dubbed 'Morag Corridor' in Gaza",
+      "container": "FDD's Long War Journal",
+      "publisher": "Foundation for Defense of Democracies",
+      "year": 2025,
+      "url": "https://www.longwarjournal.org/?p=124042",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool. Dated 3 Apr 2025."
+      },
+      "kind": "press",
       "institution_country": "US"
     },
     {
@@ -9584,6 +9766,71 @@
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "hdx-legacy-hrinfo-terms",
+      "type": "web",
+      "title": "Legacy HR Info licence (Terms and Conditions of Use)",
+      "container": "Humanitarian Data Exchange (Internet Archive copy of 2022-01-20)",
+      "publisher": "OCHA",
+      "year": 2022,
+      "url": "http://web.archive.org/web/20220120053913/https://data.humdata.org/about/license/legacy_hrinfo",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read: OCHA grants permission to download and copy the Materials \"for the User’s non-commercial use, without any right to resell them\"; derivative works must credit the source. The live URL now redirects to general HDX documentation."
+      },
+      "kind": "un"
+    },
+    {
+      "id": "hdx-oslo-pa-mop",
+      "type": "dataset",
+      "title": "State of Palestine - Oslo Agreement in the West Bank (OsloAgreement.zip)",
+      "container": "Humanitarian Data Exchange",
+      "publisher": "Palestinian Authority, Ministry of Planning (via OCHA oPt)",
+      "year": 2019,
+      "url": "https://data.humdata.org/dataset/state-of-palestine-other-0-0-0-0-0",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded only to cross-check the OSM layer (not redistributed). Licence \"Other\" pointing to the legacy HR.info terms (see hdx-legacy-hrinfo-terms)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "hdx-peacenow-settlements",
+      "type": "dataset",
+      "title": "State of Palestine Settlements (Settlements_Buildup_PeaceNow shapefile)",
+      "container": "Humanitarian Data Exchange",
+      "publisher": "OCHA occupied Palestinian territory (oPt); data provided by Peace Now",
+      "year": 2021,
+      "url": "https://data.humdata.org/dataset/state-of-palestine-settlements",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded via HDX API: license_title \"Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)\"; caveats \"Settlements data provided by Peace Now\"; shapefile metadata: \"The line around the builtup area of the settlements. Made by Peace Now based on Aerial photos from 2011\"."
+      },
+      "kind": "un"
+    },
+    {
+      "id": "hdx-west-bank-barrier-2018",
+      "type": "dataset",
+      "title": "West Bank Separation Barrier (Barrier_Jan2018 shapefile)",
+      "container": "Humanitarian Data Exchange",
+      "publisher": "OCHA occupied Palestinian territory (oPt)",
+      "year": 2018,
+      "url": "https://data.humdata.org/dataset/west-bank-barrier",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded via the HDX API: license_title \"Creative Commons Attribution International (CC BY)\"; dataset_date 2018-01-01; methodology \"updated using aerial imagery (2018) and based on field observation\"; fields Status, Type."
+      },
+      "kind": "un"
     },
     {
       "id": "hirschberg-1971",
@@ -10274,6 +10521,23 @@
       },
       "kind": "government",
       "institution_country": "IL"
+    },
+    {
+      "id": "israel-syria-gaa-1949",
+      "type": "document",
+      "title": "Israeli-Syrian General Armistice Agreement, July 20, 1949",
+      "container": "The Avalon Project",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1949,
+      "url": "https://avalon.law.yale.edu/20th_century/arm04.asp",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Article V(3) and V(5)(a) read: line delineated on map annex I; DMZ = area between the line and the international boundary; text has no coordinates."
+      },
+      "kind": "government",
+      "institution_country": "US"
     },
     {
       "id": "israel-water-authority-dead-sea-level",
@@ -12134,6 +12398,26 @@
       "publisher": "Nobel Prize Outreach"
     },
     {
+      "id": "norman-diamond-fox-2025",
+      "type": "web",
+      "authors": [
+        "Norman-Diamond, Greg"
+      ],
+      "title": "Israeli troops 'open fire' on suspects who approached soldiers in northern Gaza",
+      "container": "Fox News Digital",
+      "publisher": "Fox News",
+      "year": 2025,
+      "url": "https://www.foxnews.com/world/israeli-troops-open-fire-suspects-who-approached-soldiers-northern-gaza",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool. Dated 14 Oct 2025. Quotes Amir Avivi, retired IDF brigadier general."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "npa-2025-04-24-nabi-shuayb",
       "type": "web",
       "title": "Israel Permits Syrian Druze Religious Delegation to Visit Tomb of Prophet Shuʿayb",
@@ -12274,6 +12558,38 @@
       },
       "kind": "un",
       "institution_country": "PS"
+    },
+    {
+      "id": "ocha-hsu-300-2025",
+      "type": "document",
+      "title": "Humanitarian Situation Update #300 | Gaza Strip",
+      "container": "OCHA oPt",
+      "publisher": "United Nations Office for the Coordination of Humanitarian Affairs",
+      "year": 2025,
+      "url": "https://www.ochaopt.org/content/humanitarian-situation-update-300-gaza-strip",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Page dated 26 Jun 2025 downloaded and read."
+      },
+      "kind": "un"
+    },
+    {
+      "id": "ocha-hsu-334-2025",
+      "type": "document",
+      "title": "Humanitarian Situation Update #334 | Gaza Strip",
+      "container": "OCHA oPt",
+      "publisher": "United Nations Office for the Coordination of Humanitarian Affairs",
+      "year": 2025,
+      "url": "https://www.ochaopt.org/content/humanitarian-situation-update-334-gaza-strip",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Page dated 23 Oct 2025 downloaded and read."
+      },
+      "kind": "un"
     },
     {
       "id": "ocha-hsu-357",
@@ -12420,6 +12736,38 @@
       "kind": "government",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ohm-data-2026",
+      "type": "dataset",
+      "title": "OpenHistoricalMap data via Overpass API (relations 2848316 \"Palestine Mandate\" v14 2026-05-20; 2864013 \"Syrian Demilitarized Zones\" v1 2025-07-25)",
+      "container": "OpenHistoricalMap",
+      "publisher": "OpenHistoricalMap contributors",
+      "year": 2026,
+      "url": "https://overpass-api.openhistoricalmap.org/api/interpreter",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the relations with member ways/nodes. Overpass response header: \"The data included in this document is from www.openhistoricalmap.org. The data is made available under CC0.\" DMZ member ways carry source:geometry = a Wikimedia Commons scan of the UN 1949 armistice map."
+      },
+      "kind": "reference"
+    },
+    {
+      "id": "ohm-forum-partition-2023",
+      "type": "web",
+      "title": "Palestine - TOT/borders per 1947 UN plan",
+      "container": "OpenHistoricalMap community forum",
+      "publisher": "OpenHistoricalMap",
+      "year": 2023,
+      "url": "https://forum.openhistoricalmap.org/t/palestine-tot-borders-per-1947-un-plan/41",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Thread read (JSON): an OHM mapper wrote in Sept 2023 that OHM had the Mandate and 1948 Israel borders \"but not the UN Partition Plan\"; an Overpass search on 2026-10-18 also found no partition-plan feature."
+      },
+      "kind": "reference"
     },
     {
       "id": "oracc-riao-shalmaneser-iii-2",
@@ -12583,6 +12931,23 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "osm-data-2026",
+      "type": "dataset",
+      "title": "OpenStreetMap data via the OSM API 0.6 and Overpass (relations 3791783, 3791784, 3791785, 7391020, 7391021, 7304999, 18640231, 1473938, 13950791; ways 1313327399 (history), 41314982, 1531952135, 1541663246)",
+      "container": "OpenStreetMap",
+      "publisher": "OpenStreetMap Foundation",
+      "year": 2026,
+      "url": "https://www.openstreetmap.org",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded on 2026-10-18/19. API response header: copyright=\"OpenStreetMap and contributors\" license=\"http://opendatacommons.org/licenses/odbl/1-0/\". Element versions and timestamps are recorded per file."
+      },
+      "kind": "reference",
+      "institution_country": "GB"
     },
     {
       "id": "ovadiah-pierri-elijahs-cave",
@@ -14076,6 +14441,27 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "reuters-yellow-line-2026",
+      "type": "web",
+      "authors": [
+        "al-Mughrabi, Nidal",
+        "Hajjaj, Ebrahim"
+      ],
+      "title": "Israel's yellow line, a shifting edge of war pushing Gazans from home",
+      "container": "Internazionale (Reuters wire, translated)",
+      "publisher": "Reuters",
+      "year": 2026,
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/28/israel-s-yellow-line-a-shifting-edge-of-war-pushing-gazans-from-home",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Seen through a text-extraction tool on the Internazionale reprint (Reuters copy translated with DeepL). Dated 28 Jul 2026."
+      },
+      "kind": "press",
+      "institution_country": "GB"
     },
     {
       "id": "rhc-king-abdullah-ii",
@@ -16156,6 +16542,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "unga-res-181-ii-1947",
+      "type": "document",
+      "authors": [
+        "United Nations General Assembly"
+      ],
+      "title": "Resolution 181 (II). Future government of Palestine (29 November 1947)",
+      "container": "The Avalon Project",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1947,
+      "url": "https://avalon.law.yale.edu/20th_century/res181.asp",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the HTML; Part II \"Boundaries\" (A. The Arab State, B. The Jewish State) and Part III B \"Boundaries of the City\" were read and quoted vertex by vertex."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
       "id": "unga-res-67-19",
       "type": "document",
       "title": "General Assembly resolution 67/19, Status of Palestine in the United Nations (29 November 2012)",
@@ -16857,6 +17263,23 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Fetched entity JSON via the wbgetentities API: labels and aliases (en/ar/he), coordinate location (P625) and Pleiades ID (P1584). CC0. Used for current-name labels, a few aliases and coordinates only (not for historical facts)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "wikidata-2026-10",
+      "type": "dataset",
+      "title": "Wikidata items with coordinates in the southern Levant (SPARQL wikibase:box query, 27,273 items)",
+      "container": "Wikidata",
+      "publisher": "Wikimedia Foundation",
+      "year": 2026,
+      "url": "https://query.wikidata.org/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Coordinates (P625) of the villages and landmarks used as partition anchors; QIDs are listed per vertex. Wikidata structured data are CC0."
       },
       "kind": "reference",
       "institution_country": "US"

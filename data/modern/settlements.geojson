@@ -1,0 +1,4544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11569,
+          31.64947
+        ]
+      },
+      "properties": {
+        "id": "cbs-3488",
+        "name": "Kefar Ezyon",
+        "name_he": "כפר עציון",
+        "class": "settlement",
+        "start": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "population_2023": 1168,
+        "founded": 1967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44459,
+          31.98861
+        ]
+      },
+      "properties": {
+        "id": "cbs-3555",
+        "name": "Netiv HaGedud",
+        "name_he": "נתיב הגדוד",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 214,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46127,
+          31.78893
+        ]
+      },
+      "properties": {
+        "id": "cbs-3556",
+        "name": "Almog",
+        "name_he": "אלמוג",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 306,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16081,
+          32.21935
+        ]
+      },
+      "properties": {
+        "id": "cbs-3557",
+        "name": "Qedumim",
+        "name_he": "קדומים",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 4539,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43884,
+          32.01871
+        ]
+      },
+      "properties": {
+        "id": "cbs-3558",
+        "name": "Tomer",
+        "name_he": "תומר",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 420,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03676,
+          32.11138
+        ]
+      },
+      "properties": {
+        "id": "cbs-3560",
+        "name": "Elqana",
+        "name_he": "אלקנה",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 4392,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14265,
+          31.64014
+        ]
+      },
+      "properties": {
+        "id": "cbs-3561",
+        "name": "Migdal Oz",
+        "name_he": "מגדל עוז",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 575,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23014,
+          31.65022
+        ]
+      },
+      "properties": {
+        "id": "cbs-3563",
+        "name": "Teqoa",
+        "name_he": "תקוע",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 4688,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34925,
+          31.95984
+        ]
+      },
+      "properties": {
+        "id": "cbs-3564",
+        "name": "Kokhav HaShahar",
+        "name_he": "כוכב השחר",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 2754,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34075,
+          31.9339
+        ]
+      },
+      "properties": {
+        "id": "cbs-3565",
+        "name": "Rimmonim",
+        "name_he": "רימונים",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 707,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4739,
+          32.06361
+        ]
+      },
+      "properties": {
+        "id": "cbs-3566",
+        "name": "Yafit",
+        "name_he": "יפית",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 279,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0506,
+          32.24245
+        ]
+      },
+      "properties": {
+        "id": "cbs-3567",
+        "name": "Sal'it",
+        "name_he": "סלעית",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 1437,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13621,
+          32.46818
+        ]
+      },
+      "properties": {
+        "id": "cbs-3568",
+        "name": "Rehan",
+        "name_he": "ריחן",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 499,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17473,
+          32.42084
+        ]
+      },
+      "properties": {
+        "id": "cbs-3569",
+        "name": "Mevo Dotan",
+        "name_he": "מבוא דותן",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 683,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18749,
+          32.10428
+        ]
+      },
+      "properties": {
+        "id": "cbs-3570",
+        "name": "Ari'el",
+        "name_he": "אריאל",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 21841,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18515,
+          32.26362
+        ]
+      },
+      "properties": {
+        "id": "cbs-3571",
+        "name": "Shave Shomeron",
+        "name_he": "שבי שומרון",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 1110,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25009,
+          32.11871
+        ]
+      },
+      "properties": {
+        "id": "cbs-3572",
+        "name": "Kefar Tappuah",
+        "name_he": "כפר תפוח",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 1606,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12677,
+          32.00642
+        ]
+      },
+      "properties": {
+        "id": "cbs-3573",
+        "name": "Neve Tsuf",
+        "name_he": "נווה צוף",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 1439,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.223,
+          31.9418
+        ]
+      },
+      "properties": {
+        "id": "cbs-3574",
+        "name": "Bet El",
+        "name_he": "בית אל",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 6040,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12668,
+          31.8781
+        ]
+      },
+      "properties": {
+        "id": "cbs-3575",
+        "name": "Bet Horon",
+        "name_he": "בית חורון",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 1496,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39432,
+          31.81616
+        ]
+      },
+      "properties": {
+        "id": "cbs-3576",
+        "name": "Mizpe Yeriho",
+        "name_he": "מצפה יריחו",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 2895,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.53359,
+          32.34698
+        ]
+      },
+      "properties": {
+        "id": "cbs-3578",
+        "name": "Shadmot Mehola",
+        "name_he": "שדמות מחולה",
+        "class": "settlement",
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "population_2023": 731,
+        "founded": 1979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33218,
+          32.23429
+        ]
+      },
+      "properties": {
+        "id": "cbs-3579",
+        "name": "Elon More",
+        "name_he": "אלון מורה",
+        "class": "settlement",
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "population_2023": 2161,
+        "founded": 1979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52317,
+          32.17262
+        ]
+      },
+      "properties": {
+        "id": "cbs-3598",
+        "name": "Argaman",
+        "name_he": "ארגמן",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 160,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.51473,
+          32.36576
+        ]
+      },
+      "properties": {
+        "id": "cbs-3599",
+        "name": "Mehola",
+        "name_he": "מחולה",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 760,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46711,
+          31.75023
+        ]
+      },
+      "properties": {
+        "id": "cbs-3601",
+        "name": "Qalya",
+        "name_he": "קליה",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 550,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12511,
+          31.66794
+        ]
+      },
+      "properties": {
+        "id": "cbs-3602",
+        "name": "Rosh Zurim",
+        "name_he": "ראש צורים",
+        "class": "settlement",
+        "start": {
+          "year": 1969,
+          "precision": "year"
+        },
+        "population_2023": 1115,
+        "founded": 1969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16837,
+          31.72331
+        ]
+      },
+      "properties": {
+        "id": "cbs-3603",
+        "name": "Har Gillo",
+        "name_he": "הר גילה",
+        "class": "settlement",
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "population_2023": 1651,
+        "founded": 1972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1261,
+          31.65488
+        ]
+      },
+      "properties": {
+        "id": "cbs-3604",
+        "name": "Allon Shevut",
+        "name_he": "אלון שבות",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 3267,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4909,
+          32.11267
+        ]
+      },
+      "properties": {
+        "id": "cbs-3605",
+        "name": "Massu'a",
+        "name_he": "משואה",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 434,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44691,
+          31.99949
+        ]
+      },
+      "properties": {
+        "id": "cbs-3606",
+        "name": "Gilgal",
+        "name_he": "גלגל",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 209,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42356,
+          31.9475
+        ]
+      },
+      "properties": {
+        "id": "cbs-3607",
+        "name": "Yitav",
+        "name_he": "ייט\"ב",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 199,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40401,
+          32.07125
+        ]
+      },
+      "properties": {
+        "id": "cbs-3608",
+        "name": "Ma'ale Efrayim",
+        "name_he": "מעלה אפרים",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 1695,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.436,
+          32.19872
+        ]
+      },
+      "properties": {
+        "id": "cbs-3609",
+        "name": "Hamra",
+        "name_he": "חמרה",
+        "class": "settlement",
+        "start": {
+          "year": 1971,
+          "precision": "year"
+        },
+        "population_2023": 271,
+        "founded": 1971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40077,
+          31.56763
+        ]
+      },
+      "properties": {
+        "id": "cbs-3610",
+        "name": "Mizpe Shalem",
+        "name_he": "מצפה שלם",
+        "class": "settlement",
+        "start": {
+          "year": 1971,
+          "precision": "year"
+        },
+        "population_2023": 279,
+        "founded": 1971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11825,
+          31.53552
+        ]
+      },
+      "properties": {
+        "id": "cbs-3611",
+        "name": "Qiryat Arba",
+        "name_he": "קריית ארבע",
+        "class": "settlement",
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "population_2023": 7572,
+        "founded": 1972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4531,
+          32.24288
+        ]
+      },
+      "properties": {
+        "id": "cbs-3612",
+        "name": "Beqa'ot",
+        "name_he": "בקעות",
+        "class": "settlement",
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "population_2023": 247,
+        "founded": 1972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39662,
+          32.10203
+        ]
+      },
+      "properties": {
+        "id": "cbs-3613",
+        "name": "Gittit",
+        "name_he": "גיתית",
+        "class": "settlement",
+        "start": {
+          "year": 1973,
+          "precision": "year"
+        },
+        "population_2023": 567,
+        "founded": 1973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42333,
+          32.16503
+        ]
+      },
+      "properties": {
+        "id": "cbs-3614",
+        "name": "Mekhora",
+        "name_he": "מכורה",
+        "class": "settlement",
+        "start": {
+          "year": 1973,
+          "precision": "year"
+        },
+        "population_2023": 250,
+        "founded": 1973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44229,
+          32.04408
+        ]
+      },
+      "properties": {
+        "id": "cbs-3615",
+        "name": "Peza'el",
+        "name_he": "פצאל",
+        "class": "settlement",
+        "start": {
+          "year": 1975,
+          "precision": "year"
+        },
+        "population_2023": 534,
+        "founded": 1975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3073,
+          31.78032
+        ]
+      },
+      "properties": {
+        "id": "cbs-3616",
+        "name": "Ma'ale Adummim",
+        "name_he": "מעלה אדומים",
+        "class": "settlement",
+        "start": {
+          "year": 1975,
+          "precision": "year"
+        },
+        "population_2023": 36680,
+        "founded": 1975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26134,
+          31.95396
+        ]
+      },
+      "properties": {
+        "id": "cbs-3617",
+        "name": "Ofra",
+        "name_he": "עפרה",
+        "class": "settlement",
+        "start": {
+          "year": 1975,
+          "precision": "year"
+        },
+        "population_2023": 3191,
+        "founded": 1975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1413,
+          31.66117
+        ]
+      },
+      "properties": {
+        "id": "cbs-3618",
+        "name": "El'azar",
+        "name_he": "אלעזר",
+        "class": "settlement",
+        "start": {
+          "year": 1975,
+          "precision": "year"
+        },
+        "population_2023": 2567,
+        "founded": 1975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4893,
+          32.24756
+        ]
+      },
+      "properties": {
+        "id": "cbs-3619",
+        "name": "Ro'i",
+        "name_he": "רועי",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 154,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45525,
+          31.96779
+        ]
+      },
+      "properties": {
+        "id": "cbs-3620",
+        "name": "Na'aran",
+        "name_he": "נערן",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 146,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33804,
+          31.82692
+        ]
+      },
+      "properties": {
+        "id": "cbs-3638",
+        "name": "Kefar Adummim",
+        "name_he": "כפר אדומים",
+        "class": "settlement",
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "population_2023": 5019,
+        "founded": 1979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43307,
+          31.8265
+        ]
+      },
+      "properties": {
+        "id": "cbs-3639",
+        "name": "Wered Yeriho",
+        "name_he": "ורד יריחו",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 416,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09205,
+          32.1694
+        ]
+      },
+      "properties": {
+        "id": "cbs-3640",
+        "name": "Qarne Shomeron",
+        "name_he": "קרני שומרון",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 10354,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30072,
+          32.05293
+        ]
+      },
+      "properties": {
+        "id": "cbs-3641",
+        "name": "Shilo",
+        "name_he": "שילה",
+        "class": "settlement",
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "population_2023": 5737,
+        "founded": 1979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16744,
+          32.48139
+        ]
+      },
+      "properties": {
+        "id": "cbs-3643",
+        "name": "Hinnanit",
+        "name_he": "חיננית",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 1705,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15825,
+          31.84801
+        ]
+      },
+      "properties": {
+        "id": "cbs-3644",
+        "name": "Giv'on HaHadasha",
+        "name_he": "גבעון החדשה",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 1189,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.47658,
+          31.80798
+        ]
+      },
+      "properties": {
+        "id": "cbs-3645",
+        "name": "Bet HaArava",
+        "name_he": "בית הערבה",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 565,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52618,
+          32.25133
+        ]
+      },
+      "properties": {
+        "id": "cbs-3646",
+        "name": "Hemdat",
+        "name_he": "חמדת",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 386,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11183,
+          32.14903
+        ]
+      },
+      "properties": {
+        "id": "cbs-3647",
+        "name": "Yaqir",
+        "name_he": "יקיר",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 2719,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03311,
+          31.92972
+        ]
+      },
+      "properties": {
+        "id": "cbs-3648",
+        "name": "Mattityahu",
+        "name_he": "מתתיהו",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 1144,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16871,
+          32.47332
+        ]
+      },
+      "properties": {
+        "id": "cbs-3649",
+        "name": "Shaqed",
+        "name_he": "שקד",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 1147,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15905,
+          31.66622
+        ]
+      },
+      "properties": {
+        "id": "cbs-3650",
+        "name": "Efrat",
+        "name_he": "אפרת",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 12300,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30821,
+          31.87875
+        ]
+      },
+      "properties": {
+        "id": "cbs-3651",
+        "name": "Ma'ale Mikhmas",
+        "name_he": "מעלה מכמש",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 2131,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.04992,
+          32.03312
+        ]
+      },
+      "properties": {
+        "id": "cbs-3652",
+        "name": "Bet Arye-Ofarim",
+        "name_he": "בית אריה-עופרים",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 5516,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22602,
+          31.59929
+        ]
+      },
+      "properties": {
+        "id": "cbs-3653",
+        "name": "Ma'ale Amos",
+        "name_he": "מעלה עמוס",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 1279,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10582,
+          32.10848
+        ]
+      },
+      "properties": {
+        "id": "cbs-3654",
+        "name": "Barqan",
+        "name_he": "ברקן",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 2169,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0467,
+          31.96298
+        ]
+      },
+      "properties": {
+        "id": "cbs-3655",
+        "name": "Nili",
+        "name_he": "ניל\"י",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 2203,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1828,
+          31.43152
+        ]
+      },
+      "properties": {
+        "id": "cbs-3656",
+        "name": "Karmel",
+        "name_he": "כרמל",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 632,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16385,
+          31.41371
+        ]
+      },
+      "properties": {
+        "id": "cbs-3657",
+        "name": "Ma'on",
+        "name_he": "מעון",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 749,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17707,
+          32.00069
+        ]
+      },
+      "properties": {
+        "id": "cbs-3658",
+        "name": "Ateret",
+        "name_he": "עטרת",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 716,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22496,
+          31.8987
+        ]
+      },
+      "properties": {
+        "id": "cbs-3659",
+        "name": "Pesagot",
+        "name_he": "פסגות",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 2208,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13838,
+          32.16244
+        ]
+      },
+      "properties": {
+        "id": "cbs-3660",
+        "name": "Immanu'el",
+        "name_he": "עמנואל",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 5451,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03539,
+          31.84916
+        ]
+      },
+      "properties": {
+        "id": "cbs-3709",
+        "name": "Mevo Horon",
+        "name_he": "מבוא חורון",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 2590,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26525,
+          32.19288
+        ]
+      },
+      "properties": {
+        "id": "cbs-3710",
+        "name": "Berakha",
+        "name_he": "ברכה",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 3394,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12593,
+          32.28424
+        ]
+      },
+      "properties": {
+        "id": "cbs-3712",
+        "name": "Enav",
+        "name_he": "ענב",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 1172,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46781,
+          31.90671
+        ]
+      },
+      "properties": {
+        "id": "cbs-3713",
+        "name": "Na'ama",
+        "name_he": "נעמ\"ה",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 311,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29464,
+          31.82984
+        ]
+      },
+      "properties": {
+        "id": "cbs-3715",
+        "name": "Almon",
+        "name_he": "עלמון",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 1513,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11898,
+          32.42339
+        ]
+      },
+      "properties": {
+        "id": "cbs-3717",
+        "name": "Hermesh",
+        "name_he": "חרמש",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 284,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03159,
+          31.5632
+        ]
+      },
+      "properties": {
+        "id": "cbs-3719",
+        "name": "Telem",
+        "name_he": "תלם",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 581,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.90269,
+          31.39136
+        ]
+      },
+      "properties": {
+        "id": "cbs-3722",
+        "name": "Eshkolot",
+        "name_he": "אשכולות",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 635,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16547,
+          31.48606
+        ]
+      },
+      "properties": {
+        "id": "cbs-3723",
+        "name": "Pene Hever",
+        "name_he": "פני חבר",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 622,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98345,
+          31.49309
+        ]
+      },
+      "properties": {
+        "id": "cbs-3724",
+        "name": "Negohot",
+        "name_he": "נגוהות",
+        "class": "settlement",
+        "start": {
+          "year": 1999,
+          "precision": "year"
+        },
+        "population_2023": 534,
+        "founded": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14343,
+          31.67798
+        ]
+      },
+      "properties": {
+        "id": "cbs-3725",
+        "name": "Newe Daniyyel",
+        "name_he": "נווה דניאל",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 2433,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24825,
+          31.64915
+        ]
+      },
+      "properties": {
+        "id": "cbs-3726",
+        "name": "Noqedim",
+        "name_he": "נוקדים",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 3327,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05798,
+          32.07036
+        ]
+      },
+      "properties": {
+        "id": "cbs-3727",
+        "name": "Ale Zahav",
+        "name_he": "עלי זהב",
+        "class": "settlement",
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "population_2023": 5253,
+        "founded": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16698,
+          31.85593
+        ]
+      },
+      "properties": {
+        "id": "cbs-3730",
+        "name": "Giv'at Ze'ev",
+        "name_he": "גבעת זאב",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 24193,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95664,
+          31.37464
+        ]
+      },
+      "properties": {
+        "id": "cbs-3743",
+        "name": "Tene",
+        "name_he": "טנא",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 1094,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09046,
+          32.08149
+        ]
+      },
+      "properties": {
+        "id": "cbs-3744",
+        "name": "Brukhin",
+        "name_he": "ברוכין",
+        "class": "settlement",
+        "start": {
+          "year": 2012,
+          "precision": "year"
+        },
+        "population_2023": 2793,
+        "founded": 2012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1126,
+          31.36464
+        ]
+      },
+      "properties": {
+        "id": "cbs-3745",
+        "name": "Mezadot Yehuda",
+        "name_he": "מצדות יהודה",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 796,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11265,
+          32.11667
+        ]
+      },
+      "properties": {
+        "id": "cbs-3746",
+        "name": "Qiryat Netafim",
+        "name_he": "קריית נטפים",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 880,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1332,
+          31.92646
+        ]
+      },
+      "properties": {
+        "id": "cbs-3747",
+        "name": "Dolev",
+        "name_he": "דולב",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 1598,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.02921,
+          31.43933
+        ]
+      },
+      "properties": {
+        "id": "cbs-3748",
+        "name": "Otni'el",
+        "name_he": "עתניאל",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 1016,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23746,
+          32.16804
+        ]
+      },
+      "properties": {
+        "id": "cbs-3749",
+        "name": "Yizhar",
+        "name_he": "יצהר",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 2304,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01356,
+          32.17363
+        ]
+      },
+      "properties": {
+        "id": "cbs-3750",
+        "name": "Alfe Menashe",
+        "name_he": "אלפי מנשה",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 8126,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34244,
+          32.0906
+        ]
+      },
+      "properties": {
+        "id": "cbs-3751",
+        "name": "Migdalim",
+        "name_he": "מגדלים",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 700,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24009,
+          32.05489
+        ]
+      },
+      "properties": {
+        "id": "cbs-3752",
+        "name": "Ma'ale Levona",
+        "name_he": "מעלה לבונה",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 967,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18741,
+          31.58602
+        ]
+      },
+      "properties": {
+        "id": "cbs-3754",
+        "name": "Asfar",
+        "name_he": "אספר",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 1362,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11352,
+          31.3921
+        ]
+      },
+      "properties": {
+        "id": "cbs-3756",
+        "name": "Suseya",
+        "name_he": "סוסיה",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 1567,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01805,
+          31.55218
+        ]
+      },
+      "properties": {
+        "id": "cbs-3759",
+        "name": "Adora",
+        "name_he": "אדורה",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 534,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99338,
+          32.13106
+        ]
+      },
+      "properties": {
+        "id": "cbs-3760",
+        "name": "Oranit",
+        "name_he": "אורנית",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 10055,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3079,
+          32.17355
+        ]
+      },
+      "properties": {
+        "id": "cbs-3762",
+        "name": "Itamar",
+        "name_he": "איתמר",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 1670,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27583,
+          31.84988
+        ]
+      },
+      "properties": {
+        "id": "cbs-3763",
+        "name": "Geva Binyamin",
+        "name_he": "גבע בנימין",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 5827,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07985,
+          31.49303
+        ]
+      },
+      "properties": {
+        "id": "cbs-3764",
+        "name": "Haggay",
+        "name_he": "חגי",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 863,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26701,
+          32.07249
+        ]
+      },
+      "properties": {
+        "id": "cbs-3765",
+        "name": "Eli",
+        "name_he": "עלי",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 4746,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10039,
+          31.60882
+        ]
+      },
+      "properties": {
+        "id": "cbs-3766",
+        "name": "Karme Zur",
+        "name_he": "כרמי צור",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 1003,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1393,
+          31.97439
+        ]
+      },
+      "properties": {
+        "id": "cbs-3767",
+        "name": "Nahali'el",
+        "name_he": "נחליאל",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 724,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05255,
+          32.06225
+        ]
+      },
+      "properties": {
+        "id": "cbs-3768",
+        "name": "Pedu'el",
+        "name_he": "פדואל",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 2214,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12913,
+          31.82678
+        ]
+      },
+      "properties": {
+        "id": "cbs-3769",
+        "name": "Har Adar",
+        "name_he": "הר אדר",
+        "class": "settlement",
+        "start": {
+          "year": 1986,
+          "precision": "year"
+        },
+        "population_2023": 4389,
+        "founded": 1986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.02374,
+          31.93142
+        ]
+      },
+      "properties": {
+        "id": "cbs-3770",
+        "name": "Hashmona'im",
+        "name_he": "חשמונאים",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 3122,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9021,
+          31.36255
+        ]
+      },
+      "properties": {
+        "id": "cbs-3777",
+        "name": "Sansana",
+        "name_he": "סנסנה",
+        "class": "settlement",
+        "start": {
+          "year": 2013,
+          "precision": "year"
+        },
+        "population_2023": 842,
+        "founded": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24634,
+          31.87997
+        ]
+      },
+      "properties": {
+        "id": "cbs-3779",
+        "name": "Kokhav Ya'aqov",
+        "name_he": "כוכב יעקב",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 3763,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1125,
+          31.69482
+        ]
+      },
+      "properties": {
+        "id": "cbs-3780",
+        "name": "Betar Illit",
+        "name_he": "ביתר עילית",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 69281,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30924,
+          31.753
+        ]
+      },
+      "properties": {
+        "id": "cbs-3781",
+        "name": "Qedar",
+        "name_he": "קדר",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 1535,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5191,
+          32.33698
+        ]
+      },
+      "properties": {
+        "id": "cbs-3782",
+        "name": "Rotem",
+        "name_he": "רותם",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 311,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01277,
+          31.38773
+        ]
+      },
+      "properties": {
+        "id": "cbs-3784",
+        "name": "Shim'a",
+        "name_he": "שמעה",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 1015,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50384,
+          32.31773
+        ]
+      },
+      "properties": {
+        "id": "cbs-3785",
+        "name": "Maskiyyot",
+        "name_he": "משכיות",
+        "class": "settlement",
+        "start": {
+          "year": 1986,
+          "precision": "year"
+        },
+        "population_2023": 389,
+        "founded": 1986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43663,
+          31.67845
+        ]
+      },
+      "properties": {
+        "id": "cbs-3786",
+        "name": "Avenat",
+        "name_he": "אבנת",
+        "class": "settlement",
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "population_2023": 271,
+        "founded": 1983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.06358,
+          31.96327
+        ]
+      },
+      "properties": {
+        "id": "cbs-3787",
+        "name": "Na'ale",
+        "name_he": "נעלה",
+        "class": "settlement",
+        "start": {
+          "year": 1988,
+          "precision": "year"
+        },
+        "population_2023": 2834,
+        "founded": 1988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13425,
+          31.93881
+        ]
+      },
+      "properties": {
+        "id": "cbs-3788",
+        "name": "Talmon",
+        "name_he": "טלמון",
+        "class": "settlement",
+        "start": {
+          "year": 1989,
+          "precision": "year"
+        },
+        "population_2023": 5915,
+        "founded": 1989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1017,
+          32.15504
+        ]
+      },
+      "properties": {
+        "id": "cbs-3790",
+        "name": "Nofim",
+        "name_he": "נופים",
+        "class": "settlement",
+        "start": {
+          "year": 1987,
+          "precision": "year"
+        },
+        "population_2023": 1392,
+        "founded": 1987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01028,
+          32.19868
+        ]
+      },
+      "properties": {
+        "id": "cbs-3791",
+        "name": "Zufim",
+        "name_he": "צופים",
+        "class": "settlement",
+        "start": {
+          "year": 1989,
+          "precision": "year"
+        },
+        "population_2023": 2568,
+        "founded": 1989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07296,
+          32.28522
+        ]
+      },
+      "properties": {
+        "id": "cbs-3793",
+        "name": "Avne Hefez",
+        "name_he": "אבני חפץ",
+        "class": "settlement",
+        "start": {
+          "year": 1990,
+          "precision": "year"
+        },
+        "population_2023": 2454,
+        "founded": 1990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10095,
+          31.65821
+        ]
+      },
+      "properties": {
+        "id": "cbs-3794",
+        "name": "Bat Ayin",
+        "name_he": "בת עין",
+        "class": "settlement",
+        "start": {
+          "year": 1989,
+          "precision": "year"
+        },
+        "population_2023": 1869,
+        "founded": 1989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12835,
+          32.11871
+        ]
+      },
+      "properties": {
+        "id": "cbs-3795",
+        "name": "Revava",
+        "name_he": "רבבה",
+        "class": "settlement",
+        "start": {
+          "year": 1991,
+          "precision": "year"
+        },
+        "population_2023": 3195,
+        "founded": 1991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03703,
+          31.91971
+        ]
+      },
+      "properties": {
+        "id": "cbs-3796",
+        "name": "Kefar HaOranim",
+        "name_he": "כפר האורנים",
+        "class": "settlement",
+        "start": {
+          "year": 1998,
+          "precision": "year"
+        },
+        "population_2023": 2342,
+        "founded": 1998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0439,
+          31.93198
+        ]
+      },
+      "properties": {
+        "id": "cbs-3797",
+        "name": "Modi'in Illit",
+        "name_he": "מודיעין עילית",
+        "class": "settlement",
+        "start": {
+          "year": 1996,
+          "precision": "year"
+        },
+        "population_2023": 87486,
+        "founded": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23859,
+          31.87955
+        ]
+      },
+      "properties": {
+        "id": "cbs-3815",
+        "name": "Tel Tsiyon",
+        "name_he": "תל ציון",
+        "class": "settlement",
+        "start": {
+          "year": 2023,
+          "precision": "year"
+        },
+        "population_2023": 6692,
+        "founded": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25698,
+          32.1024
+        ]
+      },
+      "properties": {
+        "id": "cbs-3822",
+        "name": "Rehelim",
+        "name_he": "רחלים",
+        "class": "settlement",
+        "start": {
+          "year": 2013,
+          "precision": "year"
+        },
+        "population_2023": 1189,
+        "founded": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01727,
+          31.9291
+        ]
+      },
+      "properties": {
+        "id": "cbs-3823",
+        "name": "Ganne Modi'in",
+        "name_he": "גני מודיעין",
+        "class": "settlement",
+        "start": {
+          "year": 1996,
+          "precision": "year"
+        },
+        "population_2023": 3239,
+        "founded": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32751,
+          32.04552
+        ]
+      },
+      "properties": {
+        "id": "cbs-3824",
+        "name": "Ammihay",
+        "name_he": "עמיחי",
+        "class": "settlement",
+        "start": {
+          "year": 2018,
+          "precision": "year"
+        },
+        "population_2023": 368,
+        "founded": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41813,
+          31.90584
+        ]
+      },
+      "properties": {
+        "id": "cbs-3825",
+        "name": "Mevo'ot Yeriho",
+        "name_he": "מבואות יריחו",
+        "class": "settlement",
+        "start": {
+          "year": 2019,
+          "precision": "year"
+        },
+        "population_2023": 538,
+        "founded": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0318,
+          32.12177
+        ]
+      },
+      "properties": {
+        "id": "cbs-3826",
+        "name": "Sha'ar Shomron",
+        "name_he": "שער שומרון",
+        "class": "settlement",
+        "start": {
+          "year": 2022,
+          "precision": "year"
+        },
+        "population_2023": 8839,
+        "founded": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73491,
+          32.80511
+        ]
+      },
+      "properties": {
+        "id": "cbs-4002",
+        "name": "Eli-Ad",
+        "name_he": "אלי-עד",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 602,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77126,
+          33.18075
+        ]
+      },
+      "properties": {
+        "id": "cbs-4003",
+        "name": "El-Rom",
+        "name_he": "אל -רום",
+        "class": "settlement",
+        "start": {
+          "year": 1971,
+          "precision": "year"
+        },
+        "population_2023": 552,
+        "founded": 1971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66333,
+          32.76274
+        ]
+      },
+      "properties": {
+        "id": "cbs-4004",
+        "name": "Kefar Haruv",
+        "name_he": "כפר חרוב",
+        "class": "settlement",
+        "start": {
+          "year": 1974,
+          "precision": "year"
+        },
+        "population_2023": 528,
+        "founded": 1974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79426,
+          32.84538
+        ]
+      },
+      "properties": {
+        "id": "cbs-4005",
+        "name": "Haspin",
+        "name_he": "חספין",
+        "class": "settlement",
+        "start": {
+          "year": 1973,
+          "precision": "year"
+        },
+        "population_2023": 1965,
+        "founded": 1973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80847,
+          32.97984
+        ]
+      },
+      "properties": {
+        "id": "cbs-4006",
+        "name": "Qeshet",
+        "name_he": "קשת",
+        "class": "settlement",
+        "start": {
+          "year": 1974,
+          "precision": "year"
+        },
+        "population_2023": 947,
+        "founded": 1974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79438,
+          32.93801
+        ]
+      },
+      "properties": {
+        "id": "cbs-4007",
+        "name": "Yonatan",
+        "name_he": "יונתן",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 865,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68419,
+          32.88939
+        ]
+      },
+      "properties": {
+        "id": "cbs-4008",
+        "name": "Ma'ale Gamla",
+        "name_he": "מעלה גמלא",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 655,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.71816,
+          33.11647
+        ]
+      },
+      "properties": {
+        "id": "cbs-4009",
+        "name": "Sha'al",
+        "name_he": "שעל",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 437,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7495,
+          33.19346
+        ]
+      },
+      "properties": {
+        "id": "cbs-4010",
+        "name": "Odem",
+        "name_he": "אודם",
+        "class": "settlement",
+        "start": {
+          "year": 1976,
+          "precision": "year"
+        },
+        "population_2023": 292,
+        "founded": 1976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7652,
+          32.82322
+        ]
+      },
+      "properties": {
+        "id": "cbs-4011",
+        "name": "Avne Etan",
+        "name_he": "אבני איתן",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 1022,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74014,
+          32.95728
+        ]
+      },
+      "properties": {
+        "id": "cbs-4012",
+        "name": "Ani'am",
+        "name_he": "אניעם",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 497,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75869,
+          33.08693
+        ]
+      },
+      "properties": {
+        "id": "cbs-4013",
+        "name": "Ortal",
+        "name_he": "אורטל",
+        "class": "settlement",
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "population_2023": 370,
+        "founded": 1978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75312,
+          32.85315
+        ]
+      },
+      "properties": {
+        "id": "cbs-4014",
+        "name": "Natur",
+        "name_he": "נטור",
+        "class": "settlement",
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "population_2023": 787,
+        "founded": 1980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6894,
+          32.79823
+        ]
+      },
+      "properties": {
+        "id": "cbs-4015",
+        "name": "Bene Yehuda",
+        "name_he": "בני יהודה",
+        "class": "settlement",
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "population_2023": 1269,
+        "founded": 1972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83868,
+          33.04373
+        ]
+      },
+      "properties": {
+        "id": "cbs-4017",
+        "name": "Allone HaBashan",
+        "name_he": "אלוני הבשן",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 509,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73597,
+          32.76708
+        ]
+      },
+      "properties": {
+        "id": "cbs-4019",
+        "name": "Mezar",
+        "name_he": "מיצר",
+        "class": "settlement",
+        "start": {
+          "year": 1981,
+          "precision": "year"
+        },
+        "population_2023": 354,
+        "founded": 1981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68171,
+          32.79906
+        ]
+      },
+      "properties": {
+        "id": "cbs-4021",
+        "name": "Giv'at Yo'av",
+        "name_he": "גבעת יואב",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 766,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.717,
+          32.81884
+        ]
+      },
+      "properties": {
+        "id": "cbs-4022",
+        "name": "Geshur",
+        "name_he": "גשור",
+        "class": "settlement",
+        "start": {
+          "year": 1971,
+          "precision": "year"
+        },
+        "population_2023": 326,
+        "founded": 1971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68396,
+          33.13172
+        ]
+      },
+      "properties": {
+        "id": "cbs-4024",
+        "name": "Qela",
+        "name_he": "קלע",
+        "class": "settlement",
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "population_2023": 410,
+        "founded": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69767,
+          33.02999
+        ]
+      },
+      "properties": {
+        "id": "cbs-4025",
+        "name": "Qidmat Zevi",
+        "name_he": "קדמת צבי",
+        "class": "settlement",
+        "start": {
+          "year": 1985,
+          "precision": "year"
+        },
+        "population_2023": 689,
+        "founded": 1985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.64237,
+          32.9274
+        ]
+      },
+      "properties": {
+        "id": "cbs-4026",
+        "name": "Had-Nes",
+        "name_he": "חד-נס",
+        "class": "settlement",
+        "start": {
+          "year": 1989,
+          "precision": "year"
+        },
+        "population_2023": 918,
+        "founded": 1989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69991,
+          32.86963
+        ]
+      },
+      "properties": {
+        "id": "cbs-4028",
+        "name": "Kanaf",
+        "name_he": "כנף",
+        "class": "settlement",
+        "start": {
+          "year": 1991,
+          "precision": "year"
+        },
+        "population_2023": 513,
+        "founded": 1991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69066,
+          33.13226
+        ]
+      },
+      "properties": {
+        "id": "cbs-4029",
+        "name": "President Trump Heights",
+        "name_he": "רמת הנשיא טראמפ",
+        "class": "settlement",
+        "start": {
+          "year": 2022,
+          "precision": "year"
+        },
+        "population_2023": 102,
+        "founded": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68681,
+          32.99246
+        ]
+      },
+      "properties": {
+        "id": "cbs-4100",
+        "name": "Qazrin",
+        "name_he": "קצרין",
+        "class": "settlement",
+        "start": {
+          "year": 1977,
+          "precision": "year"
+        },
+        "population_2023": 8042,
+        "founded": 1977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77583,
+          33.13311
+        ]
+      },
+      "properties": {
+        "id": "cbs-4101",
+        "name": "Merom Golan",
+        "name_he": "מרום גולן",
+        "class": "settlement",
+        "start": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "population_2023": 802,
+        "founded": 1967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65539,
+          32.73767
+        ]
+      },
+      "properties": {
+        "id": "cbs-4204",
+        "name": "Mevo Hamma",
+        "name_he": "מבוא חמה",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 534,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7011,
+          32.77832
+        ]
+      },
+      "properties": {
+        "id": "cbs-4301",
+        "name": "Afiq",
+        "name_he": "אפיק",
+        "class": "settlement",
+        "start": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "population_2023": 394,
+        "founded": 1967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74168,
+          33.26223
+        ]
+      },
+      "properties": {
+        "id": "cbs-4303",
+        "name": "Newe Ativ",
+        "name_he": "נווה אטי\"ב",
+        "class": "settlement",
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "population_2023": 227,
+        "founded": 1972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.78265,
+          32.83277
+        ]
+      },
+      "properties": {
+        "id": "cbs-4304",
+        "name": "Nov",
+        "name_he": "נוב",
+        "class": "settlement",
+        "start": {
+          "year": 1973,
+          "precision": "year"
+        },
+        "population_2023": 1186,
+        "founded": 1973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79603,
+          33.09647
+        ]
+      },
+      "properties": {
+        "id": "cbs-4503",
+        "name": "En Ziwan",
+        "name_he": "עין זיוון",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 541,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69111,
+          32.78643
+        ]
+      },
+      "properties": {
+        "id": "cbs-4551",
+        "name": "Ne'ot Golan",
+        "name_he": "נאות גולן",
+        "class": "settlement",
+        "start": {
+          "year": 1967,
+          "precision": "year"
+        },
+        "population_2023": 744,
+        "founded": 1967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80794,
+          32.84478
+        ]
+      },
+      "properties": {
+        "id": "cbs-4701",
+        "name": "Ramat Magshimim",
+        "name_he": "רמת מגשימים",
+        "class": "settlement",
+        "start": {
+          "year": 1968,
+          "precision": "year"
+        },
+        "population_2023": 821,
+        "founded": 1968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66669,
+          32.84967
+        ]
+      },
+      "properties": {
+        "id": "cbs-4702",
+        "name": "Ramot",
+        "name_he": "רמות",
+        "class": "settlement",
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "population_2023": 835,
+        "founded": 1970
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21854,
+          31.85505
+        ]
+      },
+      "properties": {
+        "id": "pn-712",
+        "name": "Atarot",
+        "name_he": "אזור תעשיה עטרות",
+        "name_ar": "المنطقة الصناعية عطروت",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24549,
+          31.83869
+        ]
+      },
+      "properties": {
+        "id": "pn-750",
+        "name": "Neve Yaakov",
+        "name_he": "נווה יעקב",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19012,
+          31.81749
+        ]
+      },
+      "properties": {
+        "id": "pn-730",
+        "name": "Ramot Allon",
+        "name_he": "רמות",
+        "name_ar": "راموت",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21695,
+          31.81211
+        ]
+      },
+      "properties": {
+        "id": "pn-115",
+        "name": "Ramat Shlomo",
+        "name_he": "רמת שלמה",
+        "name_ar": "رمات شلومو",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24226,
+          31.79459
+        ]
+      },
+      "properties": {
+        "id": "pn-773",
+        "name": "Mount Scopus",
+        "name_he": "הר הצופים",
+        "name_ar": "جبل المشارف",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22953,
+          31.80235
+        ]
+      },
+      "properties": {
+        "id": "pn-111",
+        "name": "Givat HaMivtar",
+        "name_he": "גבעת המבתר",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23804,
+          31.80302
+        ]
+      },
+      "properties": {
+        "id": "pn-771",
+        "name": "French Hill",
+        "name_he": "הגבעה הצרפתית",
+        "name_ar": "تل الفرنسية",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25042,
+          31.81987
+        ]
+      },
+      "properties": {
+        "id": "pn-760",
+        "name": "Pisgat Ze'ev",
+        "name_he": "פסגת זאב",
+        "name_ar": "بسجات زئيف",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2271,
+          31.79683
+        ]
+      },
+      "properties": {
+        "id": "pn-112",
+        "name": "Maalot Dafna",
+        "name_he": "מעלות דפנה",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.198,
+          31.73348
+        ]
+      },
+      "properties": {
+        "id": "pn-840",
+        "name": "Gilo",
+        "name_he": "גילה",
+        "name_ar": "چيلو",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23103,
+          31.74872
+        ]
+      },
+      "properties": {
+        "id": "pn-830",
+        "name": "East Talpiot",
+        "name_he": "תלפיות מזרח",
+        "name_ar": "تلبيوت الشرقية",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23233,
+          31.775
+        ]
+      },
+      "properties": {
+        "id": "pn-631",
+        "name": "Jewish Quarter",
+        "name_he": "הרובע היהודי",
+        "name_ar": "حارة اليهود",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22311,
+          31.72406
+        ]
+      },
+      "properties": {
+        "id": "pn-852",
+        "name": "Homat Shmuel",
+        "name_he": "חומת שמואל",
+        "name_ar": "حومات شموئيل",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20799,
+          31.73808
+        ]
+      },
+      "properties": {
+        "id": "pn-851",
+        "name": "Givat Hamatos",
+        "name_he": "גבעת המטוס",
+        "name_ar": "غفعت همتوس",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22368,
+          31.80131
+        ]
+      },
+      "properties": {
+        "id": "pn-113",
+        "name": "Ramat Eshkol",
+        "name_he": "רמת אשכול",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2404,
+          31.77221
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "name": "Maale HaZeitim",
+        "name_he": "מעלה הזיתים",
+        "name_ar": "معاليه هزيتيم",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24148,
+          31.77263
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "name": "Maale HaZeitim",
+        "name_he": "מעלה הזיתים",
+        "name_ar": "معاليه هزيتيم",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23587,
+          31.77423
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "name": "Silwan",
+        "name_he": "סילוואן",
+        "name_ar": "سلوان",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24347,
+          31.75336
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "name": "Nof Tsion",
+        "name_he": "נוף ציון",
+        "name_ar": "نوف صيون",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25302,
+          31.76247
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20567,
+          31.74001
+        ]
+      },
+      "properties": {
+        "id": "pn-None",
+        "name": "Givat Hamatos",
+        "name_he": "גבעת המטוס",
+        "name_ar": "غفعت همتوس",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2261,
+          31.75187
+        ]
+      },
+      "properties": {
+        "id": "pn-541",
+        "name": "Allenby Compound",
+        "class": "east-jerusalem",
+        "start": {
+          "year": 2011,
+          "precision": "year"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1922,
+          32.3073
+        ]
+      },
+      "properties": {
+        "id": "cbs-3642",
+        "class": "evacuated-2005",
+        "founded": 1980,
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 156,
+        "name": "Homesh",
+        "name_he": "חומש"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2017,
+          32.3371
+        ]
+      },
+      "properties": {
+        "id": "cbs-3711",
+        "class": "evacuated-2005",
+        "founded": 1982,
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 55,
+        "name": "Sa-Nur",
+        "name_he": "שא-נור"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3219,
+          32.4489
+        ]
+      },
+      "properties": {
+        "id": "cbs-3729",
+        "class": "evacuated-2005",
+        "founded": 1983,
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 128,
+        "name": "Kaddim",
+        "name_he": "כדים"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3378,
+          32.4479
+        ]
+      },
+      "properties": {
+        "id": "cbs-3758",
+        "class": "evacuated-2005",
+        "founded": 1983,
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 139,
+        "name": "Gannim",
+        "name_he": "גנים"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3553,
+          31.4036
+        ]
+      },
+      "properties": {
+        "id": "cbs-5405",
+        "class": "evacuated-2005",
+        "founded": 1970,
+        "start": {
+          "year": 1970,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 380,
+        "name": "Kefar Darom",
+        "name_he": "כפר דרום"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2868,
+          31.3084
+        ]
+      },
+      "properties": {
+        "id": "cbs-5407",
+        "class": "evacuated-2005",
+        "founded": 1972,
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 186,
+        "name": "Morag",
+        "name_he": "מורג"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4146,
+          31.4788
+        ]
+      },
+      "properties": {
+        "id": "cbs-5408",
+        "class": "evacuated-2005",
+        "founded": 1972,
+        "start": {
+          "year": 1972,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 432,
+        "name": "Nezarim",
+        "name_he": "נצרים"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3219,
+          31.3799
+        ]
+      },
+      "properties": {
+        "id": "cbs-5410",
+        "class": "evacuated-2005",
+        "founded": 1973,
+        "start": {
+          "year": 1973,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 330,
+        "name": "Nezer Hazzani",
+        "name_he": "נצר חזני"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3114,
+          31.3762
+        ]
+      },
+      "properties": {
+        "id": "cbs-5423",
+        "class": "evacuated-2005",
+        "founded": 1978,
+        "start": {
+          "year": 1978,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 369,
+        "name": "Qatif",
+        "name_he": "קטיף"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3009,
+          31.3744
+        ]
+      },
+      "properties": {
+        "id": "cbs-5424",
+        "class": "evacuated-2005",
+        "founded": 1979,
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 275,
+        "name": "Ganne Tal",
+        "name_he": "גני טל"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2499,
+          31.3226
+        ]
+      },
+      "properties": {
+        "id": "cbs-5425",
+        "class": "evacuated-2005",
+        "founded": 1979,
+        "start": {
+          "year": 1979,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 592,
+        "name": "Bene Azmon",
+        "name_he": "בני עצמון"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5266,
+          31.5543
+        ]
+      },
+      "properties": {
+        "id": "cbs-5426",
+        "class": "evacuated-2005",
+        "founded": 1982,
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 1035,
+        "name": "Nisanit",
+        "name_he": "ניסנית"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2738,
+          31.3543
+        ]
+      },
+      "properties": {
+        "id": "cbs-5427",
+        "class": "evacuated-2005",
+        "founded": 1980,
+        "start": {
+          "year": 1980,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 2536,
+        "name": "Newe Deqalim",
+        "name_he": "נווה דקלים"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5033,
+          31.584
+        ]
+      },
+      "properties": {
+        "id": "cbs-5428",
+        "class": "evacuated-2005",
+        "founded": 1982,
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 349,
+        "name": "Ele Sinay",
+        "name_he": "אלי סיני"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2791,
+          31.3445
+        ]
+      },
+      "properties": {
+        "id": "cbs-5429",
+        "class": "evacuated-2005",
+        "founded": 1982,
+        "start": {
+          "year": 1982,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 289,
+        "name": "Gadid",
+        "name_he": "גדיד"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2592,
+          31.338
+        ]
+      },
+      "properties": {
+        "id": "cbs-5431",
+        "class": "evacuated-2005",
+        "founded": 1983,
+        "start": {
+          "year": 1983,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 270,
+        "name": "Gan Or",
+        "name_he": "גן אור"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2562,
+          31.329
+        ]
+      },
+      "properties": {
+        "id": "cbs-5432",
+        "class": "evacuated-2005",
+        "founded": 1986,
+        "start": {
+          "year": 1986,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 187,
+        "name": "Bedolah",
+        "name_he": "בדולח"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2321,
+          31.3153
+        ]
+      },
+      "properties": {
+        "id": "cbs-5433",
+        "class": "evacuated-2005",
+        "founded": 1984,
+        "start": {
+          "year": 1984,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 116,
+        "name": "Rafiah Yam",
+        "name_he": "רפיח ים"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2384,
+          31.3207
+        ]
+      },
+      "properties": {
+        "id": "cbs-5434",
+        "class": "evacuated-2005",
+        "founded": 1987,
+        "start": {
+          "year": 1987,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "name": "Selaw",
+        "name_he": "שליו"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4896,
+          31.5731
+        ]
+      },
+      "properties": {
+        "id": "cbs-5435",
+        "class": "evacuated-2005",
+        "founded": 1990,
+        "start": {
+          "year": 1990,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 66,
+        "name": "Dugit",
+        "name_he": "דוגית"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2425,
+          31.3298
+        ]
+      },
+      "properties": {
+        "id": "cbs-5436",
+        "class": "evacuated-2005",
+        "founded": 1993,
+        "start": {
+          "year": 1993,
+          "precision": "year"
+        },
+        "end": {
+          "year": 2005,
+          "month": 9,
+          "precision": "month"
+        },
+        "population_2003": 117,
+        "name": "Pe'At Sade",
+        "name_he": "פאת שדה"
+      }
+    }
+  ]
+}

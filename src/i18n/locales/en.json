@@ -351,5 +351,10 @@
     "colonization": "colonization",
     "settlement": "settlement",
     "other": "other"
+  },
+  "modern": {
+    "title": "Modern map layers",
+    "meta": "Publisher: {{publisher}} · Licence: {{license}} · As of {{asOf}}",
+    "method": "How it was drawn"
   }
 }
