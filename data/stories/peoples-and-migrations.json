@@ -1,0 +1,736 @@
+{
+  "$schema": "../../schema/story.schema.json",
+  "id": "peoples-and-migrations",
+  "title": {
+    "en": "Peoples and migrations"
+  },
+  "summary": {
+    "en": "Who came, who left and who was forced out, from the Philistines to today, with the numbers and where they are disputed."
+  },
+  "steps": [
+    {
+      "date": {
+        "year": -1150
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "The Philistines"
+      },
+      "card": {
+        "en": "Whether the arrival of the Philistines around 1200 BCE was a large movement of people, perhaps linked to the “Sea Peoples”, has long been debated [1]. Ancient DNA shows that the early Iron Age population there carried a European-related ancestry that is no longer detectable later in the Iron Age [2]."
+      },
+      "sources": [
+        {
+          "ref": "feldman-2019-philistines",
+          "locator": "Abstract; Introduction",
+          "quote": "It has been long debated whether this change was driven by a substantial movement of people, possibly linked to a larger migration of the so-called \"Sea Peoples.\""
+        },
+        {
+          "ref": "feldman-2019-philistines",
+          "locator": "Abstract",
+          "quote": "We find that the early Iron Age population was genetically distinct due to a European-related admixture. This genetic signal is no longer detectible in the later Iron Age population."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -720
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Assyrian deportations"
+      },
+      "card": {
+        "en": "The Bible says that Tiglath-pileser III of Assyria deported the inhabitants of Galilee and Gilead [1]. One of his own inscriptions lists several thousand captives from eight cities in Galilee [2]. His successor Sargon II states that 27,290 people were exiled from Samaria, and the Assyrians settled other groups in the land [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "jps-tanakh-2023",
+          "locator": "II Kings 15:29",
+          "quote": "King Tiglath-pileser of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor—Gilead, Galilee, the entire region of Naphtali; and he deported the inhabitants to Assyria."
+        },
+        {
+          "ref": "malamat-ej-exile-assyrian",
+          "locator": "para. 1",
+          "quote": "One of Tiglath-Pileser iii's fragmentary inscriptions lists several thousand captives, apparently only males, whom he exiled from eight cities in Galilee"
+        },
+        {
+          "ref": "malamat-ej-exile-assyrian",
+          "locator": "para. 2",
+          "quote": "His successor, Sargon ii, states that 27,290 people (variant 27,280) were exiled from the city of Samaria."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "ch. 7, p. 153",
+          "quote": "The northern kingdom disappeared forever, groups of its elite population were deported to Mesopotamia, and foreign groups were settled by the Assyrians in the territories of the fallen kingdom."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -586
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Exile to Babylon"
+      },
+      "card": {
+        "en": "The Book of Jeremiah counts 4,600 Judeans exiled by Nebuchadnezzar in three deportations [1]. Oded Lipschits, working from archaeological population estimates, rejects the idea of large-scale deportations and of big waves of returnees afterwards [2]."
+      },
+      "sources": [
+        {
+          "ref": "jps-tanakh-2023",
+          "locator": "Jeremiah 52:28-30",
+          "quote": "This is the number of those whom Nebuchadrezzar exiled in the seventh year: 3,023 Judeans. ... The total amounted to 4,600 persons."
+        },
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "as summarised in Finkelstein 2018, p. 45",
+          "quote": "based on a demographic estimation for Persian-period Yehud, lipschits rejected the notions of large scale deportations at the end of the iron ii and significant waves of returnees thereafter",
+          "via": "finkelstein-2018-hasmonean-realities"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -450
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Return"
+      },
+      "card": {
+        "en": "The books of Ezra and Nehemiah count 42,360 people returning from Babylonia, not counting servants [1]. Archaeological estimates put the whole province of Yehud at 20,000–30,000 people, which does not fit that number if it is taken literally [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "jps-tanakh-2023",
+          "locator": "Ezra 2:64-65; Nehemiah 7:66-67",
+          "quote": "The sum of the entire community was 42,360, not counting their male and female servants, those being 7,337"
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 57",
+          "quote": "archaeologically-based studies have estimated the population of the province to have been between 20,000 and 30,000 people."
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 2, p. 45",
+          "quote": "the number of returnees which appear in the list—if taken as reflecting a real demographic reality—does not fit the depleted population of Yehud in the Persian period."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 140
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "After the revolts against Rome"
+      },
+      "card": {
+        "en": "Josephus says 97,000 people were taken captive in the war against Rome; the historian Seth Schwartz judges Josephus’s figures, especially his count of the dead, clearly impossible [1][2]. Jews living outside Palestine already far outnumbered those inside it before 70 CE [3]. After the Bar Kokhba revolt the centre of Jewish life moved north, chiefly to Galilee [4]."
+      },
+      "sources": [
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Book VI, ch. 9, sec. 3 (6.420)",
+          "quote": "Now the number of those that were carried captive during this whole war was collected to be ninety-seven thousand"
+        },
+        {
+          "ref": "schwartz-2006-land-of-israel-66-235",
+          "locator": "section 'a demography'",
+          "quote": "Josephus claims that 1.1 million people died in the siege of Jerusalem alone, and 97,000 were enslaved (Bell. 6.420-1). These figures, especially the former, are clearly impossible."
+        },
+        {
+          "ref": "britannica-jewish-diaspora",
+          "locator": "section on the early diaspora",
+          "quote": "Diaspora Jews far outnumbered the Jews in Palestine even before the destruction of Jerusalem and the Second Temple in 70 ce."
+        },
+        {
+          "ref": "ej-bar-kokhba",
+          "locator": "aftermath of the fall of Bethar",
+          "quote": "The subjugation was associated with massacres and religious persecution, the sale of Jews into slavery, and uprooting of the people from the soil. The Jewish center of gravity now moved northward, chiefly to Galilee."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 850
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Arab tribes"
+      },
+      "card": {
+        "en": "The 9th-century geographer al-Yaʿqubi describes the people of Palestine as Arabs of the tribes of Lakhm, Judham, ʿAmilah, Kindah, Qays and Kinanah [1]. Recent archaeological work describes the change from Byzantine to Islamic society as slow, with Christians still an overwhelming majority on the eve of the Crusades [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 28, quoting al-Ya'qubi (9th century)",
+          "quote": "The population of Palestine consists of Arabs of the tribes of Lakhm, Judham, 'Amilah, Kindah, Kais and Kinanah."
+        },
+        {
+          "ref": "avni-2014",
+          "locator": "publisher's description",
+          "quote": "the Byzantine-Islamic transition was a much slower and gradual process than previously thought"
+        },
+        {
+          "ref": "avni-2014",
+          "locator": "publisher's description",
+          "quote": "by the eve of the Crusader period Christianity still had an overwhelming majority in Palestine and Jordan"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1150
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Frankish settlers"
+      },
+      "card": {
+        "en": "Meron Benvenisti estimated the Frankish population of the Crusader kingdom at 140,000, almost all of it in the towns [1]."
+      },
+      "sources": [
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 18",
+          "quote": "The Frankish population was overwhelmingly urban; of its total of 140,000, only ten to twenty thousand lived outside the large population centres."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1530
+      },
+      "view": {
+        "center": [
+          35.5,
+          32.96
+        ],
+        "zoom": 9
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "highlight": [
+        "safed"
+      ],
+      "title": {
+        "en": "Refugees from Spain in Safed"
+      },
+      "card": {
+        "en": "Jewish refugees from Spain strengthened the community of Safed after 1492 [1]. In 1522 a visiting rabbi found 300 Jewish families there: Sephardim, Moriscos and Jews from the Maghreb [2]."
+      },
+      "sources": [
+        {
+          "ref": "ej-safed",
+          "locator": "history, Mamluk and Ottoman periods",
+          "quote": "Toward the end of Mamluk rule the community was greatly strengthened by an influx of refugees from Spain (1492)."
+        },
+        {
+          "ref": "ej-safed",
+          "locator": "history, Ottoman period",
+          "quote": "In 1522 R. Moses Basola found 300 Jewish families in Safed, composed of Sephardim, Moriscos, and Jews from the Maghreb."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1880
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Newcomers under the Ottomans"
+      },
+      "card": {
+        "en": "The Ottoman authorities settled Algerians and, from 1878, Circassians and Tatars from the Balkans [1]. Egyptian migrants moved into southern Palestine over a long period, above all under Egyptian rule in the 1830s [2]. German Templers founded settlements from 1868, but never numbered more than 2,200 [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "scholch-1993",
+          "locator": "pp. 156-157",
+          "quote": "the Ottoman authorities tried to settle \"immigrants\" there: Algerians, and from 1878 on, Circassians and Tatars from Bulgaria and Rumelia."
+        },
+        {
+          "ref": "marom-sasson-2022",
+          "locator": "English abstract",
+          "quote": "While the period of Egyptian rule is associated with the most significant of the many Egyptian (maṣrī) waves of immigration to Palestine, the Egyptian immigration to the south of the country was a long and protracted process"
+        },
+        {
+          "ref": "scholch-1993",
+          "locator": "p. 74",
+          "quote": "the Schwabian \"people of God\" founded four settlements between 1868 and 1873, and three more were added in the years 1902-1907."
+        },
+        {
+          "ref": "scholch-1993",
+          "locator": "p. 74",
+          "quote": "The number of Templars settled in Palestine never exceeded a maximum of 2,200 souls."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1905
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Immigration and a debate"
+      },
+      "card": {
+        "en": "Jewish immigration grew from the 1880s; Israel’s Central Bureau of Statistics counts 35,000–40,000 immigrants in 1904–1914 [1]. How much Arab immigration there was in the late Ottoman and Mandate periods is disputed [2]. Justin McCarthy calls it small, while Fred Gottheil argues it was consequential [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "cbs-sai-2025-t2-35",
+          "locator": "row 1904-1914, column Total: 35,000-40,000"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 6.5B, p. 390",
+          "quote": "However, in the present state of knowledge, we have been unable to even guess the size of total immigration"
+        },
+        {
+          "ref": "mccarthy-1990",
+          "locator": "p. 34",
+          "quote": "That there was unrecorded Arab migration into Palestine is beyond doubt, but it was small."
+        },
+        {
+          "ref": "gottheil-2003-meq",
+          "locator": "conclusion",
+          "quote": "there is every reason to believe that consequential immigration of Arabs into and within Palestine occurred during the Ottoman and British mandatory periods."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1936
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "The Mandate years"
+      },
+      "card": {
+        "en": "Between 1932 and 1938/39 about 197,000 (Israel’s Central Bureau of Statistics) to 248,000 (Bachi) Jewish immigrants arrived [1][2]. In the early Mandate years emigration, mostly of men, continued from Palestine to the Americas, especially Latin America [3]."
+      },
+      "sources": [
+        {
+          "ref": "cbs-sai-2025-t2-35",
+          "locator": "row 1932-1938: total 197,235; Europe 171,173; Asia 16,272; Africa 1,212; America and Oceania 4,589"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table 8.1, p. 79, rows 1932-36: 191,224 and 1937-39: 56,499"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 9.8, p. 132",
+          "quote": "During the first part of the Mandatory period, there was apparently continuation of the emigration (largely masculine), directed to overseas countries and particularly toward Latin America, which took place in the last phases of the Ottoman rule"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1949,
+        "month": 1
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "1948: refugees"
+      },
+      "card": {
+        "en": "The UN Conciliation Commission estimated that about 711,000 refugees had left the territory held by Israel [1]. Israeli spokesmen spoke of about 520,000, and Arab officials of 900,000 to a million [2]. The historian Benny Morris concludes that war, not design, Jewish or Arab, created the refugee problem; the Palestinian account describes three-quarters of a million people forced to leave their land [3][4]. In September 1948 the UN Mediator also counted about 7,000 Jewish refugees needing aid [5]."
+      },
+      "sources": [
+        {
+          "ref": "unccp-1950-a1367",
+          "locator": "Technical Committee report, para. 15",
+          "quote": "The estimate of the statistical expert, which the Committee believes to be as accurate as circumstances permit, indicates that the refugees from Israel-controlled territory amount to approximately 711,000."
+        },
+        {
+          "ref": "morris-2004",
+          "locator": "Appendix I (opening page)",
+          "quote": "From 1949 onwards, Arab officials spoke of a total of 900,000 or one million. Israeli spokesmen, in public, usually referred to 'about 520,000'."
+        },
+        {
+          "ref": "morris-2004",
+          "locator": "Conclusion (opening page)",
+          "quote": "That war and not design, Jewish or Arab, gave birth to the Palestinian refugee problem."
+        },
+        {
+          "ref": "palquest-charif-nakba",
+          "locator": "opening paragraph",
+          "quote": "In 1948, three-quarters of a million Palestinians were forced to leave their land and country"
+        },
+        {
+          "ref": "un-mediator-1948-a648",
+          "locator": "Part Three, conclusions (a)",
+          "quote": "As a result of the conflict in Palestine there are approximately 360,000 Arab refugees and 7,000 Jewish refugees requiring aid in that country and adjacent States."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1951
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "Mass immigration"
+      },
+      "card": {
+        "en": "Between May 1948 and the end of 1951, 689,739 Jews immigrated to Israel [1]. In several Arab and Muslim-majority countries, riots, insecurity and anti-Jewish laws pushed Jews to leave, and many had to leave almost everything behind [2][3]. Whether they were expelled, or left for other reasons including Zionist efforts to bring them, is debated [4][5]."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "section 8.6, p. 89",
+          "quote": "In the course of about 3 1/2 years (up to the end of 1951), 689,739 Jews immigrated to Israel."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 8.6, p. 89",
+          "quote": "outbursts of anti-Jewish riots, threats to personal security, worsening of the political and economic situation and anti-Jewish legislation developed a sense of insecurity in Jews of various countries which acted as a stimulant to emigration."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 8.6, p. 90",
+          "quote": "In many cases, emigrants were compelled to leave behind almost all their possessions."
+        },
+        {
+          "ref": "shenhav-2002",
+          "locator": "pp. 37-38",
+          "quote": "He took the unequivocal position not only that the model of Jewish-Muslim relations was distinctly antagonistic, but that the Jews were in fact expelled from the Arab countries (Meron, 1992)."
+        },
+        {
+          "ref": "shenhav-2002",
+          "locator": "p. 38",
+          "quote": "Refugee status produced by a coordinated Arab expulsion diminishes the importance of Zionist activity to remove the Jews from the Arab countries."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1968
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "1967"
+      },
+      "card": {
+        "en": "About 200,000 people moved from the West Bank to the East Bank of the Jordan in 1967 [1]. Between 85,000 (Israeli figure) and 110,000 (Syrian figure) left the Golan Heights [2]. The UN envoy found the truth to lie between Israel’s statement that no encouragement was given to flee and refugees’ allegations of brutal force and intimidation [3]."
+      },
+      "sources": [
+        {
+          "ref": "un-sg-1967-s8158",
+          "locator": "para. 159(a)",
+          "quote": "About 200,000 persons (of whom about 93,000 were refugees registered with UNRWA) who had moved from the West Bank to the East Bank in Jordan"
+        },
+        {
+          "ref": "un-sg-1967-s8158",
+          "locator": "para. 159(b)",
+          "quote": "About 110,000 persons according to Syrian sources and not more than 85,000 according to Israel sources (of whom about 17,000 were UNRWA-registered refugees) who had moved from the south-western corner of Syria"
+        },
+        {
+          "ref": "un-sg-1967-s8158",
+          "locator": "para. 50",
+          "quote": "The truth seems to lie somewhere between an Israel statement that \"no encouragement\" was given to the population to flee, and the allegations about the use of brutal force and intimidation made by refugees."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1995
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations"
+      ],
+      "title": {
+        "en": "From the Soviet Union and Ethiopia"
+      },
+      "card": {
+        "en": "Between 1969 and 1975 about 106,000 Jews immigrated from the Soviet Union [1]. In 1990–1999 another 821,906 immigrants born in the former Soviet Union arrived [2]. Airlifts in 1984–85 and in May 1991 brought more than 6,500 and then more than 14,000 Ethiopian Jews to Israel [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "section 8.7, p. 92",
+          "quote": "between 1969 and 1975 about 106,000 Jews immigrated from the U.S.S.R. to Israel."
+        },
+        {
+          "ref": "cbs-sai-2025-t2-37",
+          "locator": "rows USSR (former), European republics and Asian republics (country of birth): 1990-1999 771,213 + 50,693; 2000-2021 287,707 + 29,018"
+        },
+        {
+          "ref": "ej-beta-israel",
+          "locator": "immigration section",
+          "quote": "During a period of less than two months starting in mid-November 1984, more than 6,500 Beta Israel were airlifted to Israel in what became known as \"Operation Moses.\""
+        },
+        {
+          "ref": "ej-beta-israel",
+          "locator": "immigration section",
+          "quote": "During 36 hours between May 24 and 25 as rebel troops threatened to conquer the capital, over 14,000 Beta Israel were airlifted to Israel in \"Operation Solomon.\""
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2024
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Settlers"
+      },
+      "card": {
+        "en": "According to Peace Now figures cited by the UN human rights office, there were 503,732 Israeli settlers in the West Bank and 233,600 in East Jerusalem by late 2024 [1]. Israel evacuated its localities in the Gaza Strip, where about 8,200 Israelis lived at the end of 2004, in August 2005 [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "ohchr-2025-a-hrc-58-73",
+          "locator": "para. 14",
+          "quote": "According to the Israeli NGO Peace Now, by the end of the reporting period there were 503,732 Israeli settlers in the West Bank and 233,600 in East Jerusalem"
+        },
+        {
+          "ref": "cbs-sai-2005-t2-8",
+          "locator": "row 'Gaza area': Jews 8.2 thousand on 31 XII 2004"
+        },
+        {
+          "ref": "cbs-sai-2025-t2-11",
+          "locator": "footnote 3: 'In 1972, 1983 and 1995, incl. the Israeli localities in the Gaza Area and northern Samaria which were evacuated in August 2005.'"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2026,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Displaced since 2023"
+      },
+      "card": {
+        "en": "By October 2025 nearly all of Gaza’s 2.1 million people had been displaced, many of them repeatedly [1]. The Palestinian Central Bureau of Statistics says about 100,000 Palestinians were forced to leave the Gaza Strip [2]. In Israel, about 200,000 people from areas near Gaza and Lebanon were still displaced at the end of 2023, and 68,000 at the end of 2024 [3]. In the West Bank, Israeli operations displaced 40,000 people, mostly from northern refugee camps, in 2025 [4]."
+      },
+      "sources": [
+        {
+          "ref": "ocha-flash-appeal-2026",
+          "locator": "Gaza context (issued December 2025)",
+          "quote": "As of 31 October 2025, nearly all 2.1 million people in Gaza had been repeatedly displaced because of violence and successive displacement orders."
+        },
+        {
+          "ref": "pcbs-2025-end-year",
+          "locator": "para. 3",
+          "quote": "Since the onset of the Israeli aggression, approximately 100,000 Palestinians have been forced to leave Gaza Strip."
+        },
+        {
+          "ref": "idmc-grid-2025",
+          "locator": "Israel paragraph",
+          "quote": "The number of people still living in displacement also fell from 200,000 in 2023 to 68,000 by the end of 2024."
+        },
+        {
+          "ref": "ocha-flash-appeal-2026",
+          "locator": "West Bank context (issued December 2025)",
+          "quote": "Forty thousand Palestinians, mostly Palestine Refugees, have been displaced by ongoing Israeli forces' operations, mainly in the northern areas, since early this year."
+        }
+      ],
+      "duration_s": 14
+    }
+  ]
+}
