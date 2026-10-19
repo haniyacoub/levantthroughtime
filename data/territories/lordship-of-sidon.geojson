@@ -8,9 +8,9 @@
       "properties": {
         "polity": "lordship-of-sidon",
         "start": {
-          "year": 1112,
-          "circa": true,
-          "precision": "year"
+          "year": 1110,
+          "month": 12,
+          "precision": "month"
         },
         "end": {
           "year": 1187,
@@ -40,6 +40,26 @@
             "ref": "britannica-crusades",
             "locator": "section 'The Crusader states'",
             "quote": "By 1112 Arsuf, Caesarea, Acre, Beirut, and Sidon had been taken, and the entire coast except for Ascalon and Tyre was in Latin hands."
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 386",
+            "quote": "He took Beirut in May 1110, with the help of a Genoese squadron. He secured Sidon at last, in December of that year, with the aid of a fleet of Norwegian crusaders"
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 385",
+            "quote": "and Caesarea and Sidon, given after capture to Eustace Garnier."
+          },
+          {
+            "ref": "prawer-1985-franks",
+            "locator": "p. 176",
+            "quote": "We find Italians, as late as 1110, massacring the native population of Sidon"
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 615",
+            "quote": "all the major ports south of Tripoli, with the exception of Tyre, were in Moslem hands. These included Beirut, Jaffa, Ascalon, and Sidon"
           }
         ],
         "id": "lordship-of-sidon-1",

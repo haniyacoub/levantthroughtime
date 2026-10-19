@@ -43,10 +43,34 @@
             "ref": "britannica-ayyubid-dynasty",
             "locator": "paragraph 3",
             "quote": "The Ayyubid decline in Egypt was completed with the Mamluk accession to power following the battle at Al-Manṣūrah (1250), but the dynasty persisted in some areas of Syria until 1260"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 740",
+            "quote": "Such was the birth of the Mamluk dynasty (May 1250)."
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 743",
+            "quote": "a treaty was concluded (April 1253) between Aybeg and an-Nasir, by which the former would hold Egypt and a slice of Palestine at the banks of the Jordan, including Jerusalem as well as the coastline"
+          },
+          {
+            "ref": "cahen-1969-mongols-near-east",
+            "locator": "p. 718",
+            "quote": "In September of 1260, at 'Ain Jālūt, the Mamluks crushed Kitbogha, and occupied almost all of Syria."
           }
         ],
         "id": "mamluk-sultanate-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Ziada (1969) says that under a treaty of April 1253 the Mamluk ruler Aybeg held Egypt and 'a slice of Palestine' to the Jordan, including Jerusalem and the coast. The map does not show this yet because it rests on one source; it should be checked against Humphreys (1977).",
+          "ar": "يقول زيادة (1969) إنه بموجب معاهدة نيسان/أبريل 1253 احتفظ الحاكم المملوكي أيبك بمصر و«شريحة من فلسطين» حتى نهر الأردن، بما فيها القدس والساحل. ولا تُظهر الخريطة ذلك بعد لأنه يستند إلى مصدر واحد؛ وينبغي التحقق منه مقابل همفريز (1977).",
+          "he": "זיאדה (1969) אומר שלפי הסכם מאפריל 1253 החזיק השליט הממלוכי איבכ במצרים וב\"רצועה של פלשתינה\" עד הירדן, כולל ירושלים והחוף. המפה עדיין אינה מציגה זאת משום שהדבר נשען על מקור אחד; יש לבדוק אותו מול האמפריז (1977).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {
@@ -130,12 +154,47 @@
             "ref": "britannica-palestine-to-1900",
             "locator": "section 'The Crusades'",
             "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
+          },
+          {
+            "ref": "cahen-1969-mongols-near-east",
+            "locator": "p. 718",
+            "quote": "In September of 1260, at 'Ain Jālūt, the Mamluks crushed Kitbogha, and occupied almost all of Syria."
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 745",
+            "quote": "In this way he extended the suzerainty of the Mamluk sultanate over Syria and Palestine, except for the small principality of Kerak."
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 747",
+            "quote": "Eventually Baybars had him entrapped, and sent him a prisoner to the citadel of Cairo, where he was executed on a charge of treasonable correspondence with the Mongols (April 1263)."
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 748",
+            "quote": "He began by capturing the ports of Caesarea, Haifa, and Arsuf, razing their fortifications to the ground"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 748",
+            "quote": "In 1266 he gave orders for intensive raids against the crusader towns along the Syrian coast, while he himself took Safad"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 749",
+            "quote": "Early in 1268 he again went to Syria, where he took Jaffa, Belfort, and, after a strenuous siege, Antioch"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 754",
+            "quote": "The final assault took place in the early morning of Friday, May 18, 1291"
           }
         ],
         "notes": {
-          "en": "The date of Mamluk control over Karak and southern Transjordan was not verified here, so moab/edom/madaba-plain are partial; Galilee units partial until the conquest of Galilee in 1266.",
-          "ar": "لم يُتحقق هنا من تاريخ سيطرة المماليك على الكرك وجنوب شرق الأردن، ولذلك moab/edom/madaba-plain جزئية؛ ووحدات الجليل جزئية حتى فتح الجليل عام 1266.",
-          "he": "תאריך השליטה הממלוכית בכרך ובדרום עבר הירדן לא אומת כאן, ולכן moab/edom/madaba-plain חלקיות; יחידות הגליל חלקיות עד כיבוש הגליל ב-1266.",
+          "en": "After 'Ain Jalut the Mamluks held Syria and Palestine except the small Ayyubid principality of Kerak (Ziada 1969), whose prince al-Mughith was seized by Baybars and executed in April 1263; moab/edom/madaba-plain could therefore be full units from 1263. Galilee units partial until the conquest of Galilee (Safad) in 1266.",
+          "ar": "بعد عين جالوت سيطر المماليك على سوريا وفلسطين باستثناء إمارة الكرك الأيوبية الصغيرة (زيادة 1969)، التي اعتقل بيبرس أميرها المغيث وأعدمه في نيسان/أبريل 1263؛ ولذلك يمكن أن تكون وحدات مؤاب وأدوم وسهل مأدبا وحدات كاملة منذ 1263. وحدات الجليل جزئية حتى فتح الجليل (صفد) سنة 1266.",
+          "he": "אחרי עין ג'אלות החזיקו הממלוכים בסוריה ובפלשתינה, מלבד הנסיכות האיובית הקטנה של כרכ (זיאדה 1969), שנסיכה אל־מע'ית' נתפס בידי בייברס והוצא להורג באפריל 1263; לכן היחידות מואב, אדום ומישור מידבא יכולות להיות יחידות מלאות מ־1263. יחידות הגליל חלקיות עד כיבוש הגליל (צפת) ב־1266.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -287,10 +346,39 @@
             "ref": "britannica-palestine-to-1900",
             "locator": "section 'The Crusades' (end)",
             "quote": "on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq. Palestine began its four centuries under Ottoman domination."
+          },
+          {
+            "ref": "ziada-1975-mamluk-sultans-1291-1517",
+            "locator": "p. 511",
+            "quote": "After Marj Dabiq, Selim I's army advanced southward, and Syria passed quickly into the possession of the Ottomans, whose advent was in many places welcomed as meaning deliverance from the Mamluks."
+          },
+          {
+            "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+            "locator": "p. 95 (events of Dhu'l-Qa'da 922 / December 1516)",
+            "quote": "came the bad news that the army that had gone to Gaza had suffered defeat on Sunday, the 24th, of Dhu'l Ka'dah."
+          },
+          {
+            "ref": "ziada-1975-mamluk-sultans-1291-1517",
+            "locator": "p. 512",
+            "quote": "the Mamluk army was defeated first near Gaza, and then at Raidaniyah outside Cairo. The latter battle was fought in January 1517, and on the next day Selim I was recognized as sultan of Egypt and Syria"
+          },
+          {
+            "ref": "ziada-1975-mamluk-sultans-1291-1517",
+            "locator": "p. 512",
+            "quote": "Tumanbey II continued the struggle for some months, but was finally vanquished and, after being captured, was executed in April 1517. With his death the proud empire of the Mamluks came to an end."
           }
         ],
         "id": "mamluk-sultanate-4",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Palestine was lost before Egypt: the Mamluk army sent to Gaza was defeated in December 1516 (Ibn Iyas: Sunday 24 Dhu l-Qa'da 922). Ziada dates the end of the Mamluk state to the execution of Tumanbay II in April 1517.",
+          "ar": "فُقدت فلسطين قبل مصر: هُزم الجيش المملوكي المرسل إلى غزة في كانون الأول/ديسمبر 1516 (ابن إياس: الأحد 24 ذي القعدة 922). ويؤرخ زيادة نهاية الدولة المملوكية بإعدام طومان باي الثاني في نيسان/أبريل 1517.",
+          "he": "פלשתינה אבדה לפני מצרים: הצבא הממלוכי שנשלח לעזה הובס בדצמבר 1516 (אבן איאס: יום ראשון, 24 בד'ו אל־קעדה 922). זיאדה מתארך את סוף המדינה הממלוכית להוצאתו להורג של טומאנבאי השני באפריל 1517.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

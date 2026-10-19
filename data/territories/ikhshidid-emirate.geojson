@@ -61,10 +61,49 @@
             "ref": "britannica-ikhshidid-dynasty",
             "locator": "article",
             "quote": "ruled Egypt and Syria from 935 to 969"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 86",
+            "quote": "Egypt had again become the seat of a factually independent Turkish dynasty, founded by an officer of the former Tūlūnid forces, Muhammad ibn-Tughj, surnamed al-Ikhshīd, whose government embraced also Damascus and the Hejaz."
+          },
+          {
+            "ref": "lane-poole-1901-history-egypt-middle-ages",
+            "locator": "ch. III, p. 81 (margin date 935)",
+            "quote": "the Ikhshid took over the government of Egypt in August, 935."
+          },
+          {
+            "ref": "lane-poole-1901-history-egypt-middle-ages",
+            "locator": "ch. III, p. 83 (margin date 940)",
+            "quote": "peace was made on the terms that Ibn-Raik retained Syria north of Ramla and received a yearly tribute of 140,000l. from the Ikhshid."
+          },
+          {
+            "ref": "lane-poole-1901-history-egypt-middle-ages",
+            "locator": "ch. III, pp. 83-84 (after Ibn Raik's death in 942)",
+            "quote": "recovered Syria and re-entered Damascus without striking a blow."
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "section on the Ikhshidids, pp. 456-457 of the scanned printing",
+            "quote": "received in 939 from the Caliph al-Radi the old Iranian princely title ikhshid. In the next two years al-Ikhshid, following the Tulunid precedent, added Syria-Palestine to his quasi-independent state."
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 88",
+            "quote": "Nevertheless, the Fatimid troops entered Damascus at the end of 969"
           }
         ],
         "id": "ikhshidid-emirate-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "From c. 939/940 to 942 the amir Ibn Ra'iq held Syria north of Ramla under a peace with the Ikhshid; the Ikhshid recovered it after Ibn Ra'iq's death (Lane-Poole). Hitti dates the Ikhshidid acquisition of 'Syria-Palestine' to c. 939-941. Galilee, the Golan and Damascus were therefore not Ikhshidid for part of 935-942.",
+          "ar": "من نحو 939/940 إلى 942 سيطر الأمير ابن رائق على سوريا شمالي الرملة بموجب صلح مع الإخشيد؛ واستعادها الإخشيد بعد وفاة ابن رائق (لين-بول). ويؤرخ حتي استحواذ الإخشيديين على «سوريا-فلسطين» بنحو 939-941. لذلك لم يكن الجليل والجولان ودمشق إخشيدية خلال جزء من الفترة 935-942.",
+          "he": "מ־939/940 בערך עד 942 החזיק האמיר אבן ראאק בסוריה שמצפון לרמלה במסגרת שלום עם האח'שיד; האח'שיד החזיר אותה אחרי מות אבן ראאק (ליין־פול). חיתי מתארך את רכישת \"סוריה־פלשתינה\" בידי האח'שידים ל־939–941 בערך. לכן הגליל, הגולן ודמשק לא היו אח'שידיים בחלק מהתקופה 935–942.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

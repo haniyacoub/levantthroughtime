@@ -1612,6 +1612,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "baha-al-din-conder-1897-life-of-saladin",
+      "type": "book",
+      "authors": [
+        "Baha' al-Din Ibn Shaddad",
+        "Conder, Claude R. (translator)"
+      ],
+      "title": "The Life of Saladin (What Befell Sultan Yusuf)",
+      "publisher": "Committee of the Palestine Exploration Fund (Palestine Pilgrims' Text Society, vol. 13)",
+      "year": 1897,
+      "url": "https://archive.org/details/lifesaladin00condgoog",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of chapters CLXX-CLXXI (pp. 381-386) on the peace of 1192. Primary source: memoir by Saladin's qadi and eyewitness of the negotiations, in a 19th-century English translation."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "baker-2022-jordan-temple-mount",
       "type": "web",
       "authors": [
@@ -1630,6 +1650,70 @@
       "kind": "ngo",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "baladhuri-hitti-1916-origins-islamic-state",
+      "type": "book",
+      "authors": [
+        "al-Baladhuri, Ahmad ibn Yahya",
+        "Hitti, Philip K. (translator)"
+      ],
+      "title": "The Origins of the Islamic State, being a translation from the Arabic of the Kitab Futuh al-Buldan, part I",
+      "publisher": "Columbia University (Studies in History, Economics and Public Law, vol. LXVIII); Longmans, Green & Co., agents",
+      "year": 1916,
+      "url": "https://archive.org/details/bub_gb_pN8TAAAAIAAJ",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "baldwin-1969-decline-fall-jerusalem",
+      "type": "chapter",
+      "authors": [
+        "Baldwin, Marshall W."
+      ],
+      "title": "The Decline and Fall of Jerusalem, 1174-1189",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "590-621",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 613-619 (Hattin and Saladin's conquest of the kingdom, 1187-1190)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "baldwin-1969-latin-states-baldwin-iii-amalric",
+      "type": "chapter",
+      "authors": [
+        "Baldwin, Marshall W."
+      ],
+      "title": "The Latin States under Baldwin III and Amalric I, 1143-1174",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "528-561",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the rift between Melisend and Baldwin III (pp. 534-535), the capture of Ascalon in 1153 (pp. 536-538) and the end of the Fatimid caliphate (p. 560)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "banning-2007-time-tradition",
@@ -2090,7 +2174,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy."
+        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -2319,6 +2403,29 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "boase-1977-military-architecture",
+      "type": "chapter",
+      "authors": [
+        "Boase, T. S. R."
+      ],
+      "title": "Military Architecture in the Crusader States in Palestine and Syria",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. IV: The Art and Architecture of the Crusader States, ed. Harry W. Hazard",
+      "publisher": "University of Wisconsin Press",
+      "year": 1977,
+      "volume": "IV",
+      "pages": "140-164",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-4",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 149 (Montréal, Li Vaux Moysi and Kerak)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "isbn": "0-299-06820-X"
     },
     {
       "id": "bookman-2004-late-holocene-dead-sea",
@@ -8338,6 +8445,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "burgoyne-1987-mamluk-jerusalem",
+      "type": "book",
+      "authors": [
+        "Burgoyne, Michael Hamilton"
+      ],
+      "title": "Mamluk Jerusalem: An Architectural Study",
+      "publisher": "British School of Archaeology in Jerusalem / World of Islam Festival Trust (Scorpion Publishing)",
+      "year": 1987,
+      "isbn": "0-905035-33-X",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the general account of the Haram (p. 83) and catalogue entry no. 63 \"Al-Ashrafiyya\" (pp. 589-605). The Internet Archive copy is a user upload of a copyrighted book (ISBN 0 905035 33 X). Read in a third-party copy of uncertain licensing status, which this project does not link."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "bush-wh-annapolis-joint-understanding",
       "type": "document",
       "title": "Joint Understanding Read by President Bush at Annapolis Conference (27 November 2007)",
@@ -8372,6 +8498,72 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "cahen-1969-mongols-near-east",
+      "type": "chapter",
+      "authors": [
+        "Cahen, Claude"
+      ],
+      "title": "The Mongols and the Near East",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "715-732",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 717-720 (Hulagu, Baghdad 1258, the Mongol invasion of Syria and 'Ain Jalut, the Il-khanid state) and p. 723 (Abu-Sa'id)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "cahen-1969-turkish-invasion-selchukids",
+      "type": "chapter",
+      "authors": [
+        "Cahen, Claude"
+      ],
+      "title": "The Turkish Invasion: The Selchükids",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "135-176",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on Dandanqan (1040), Tughrul-Beg in Baghdad (1055), Atsiz and Tutush in Syria and Palestine (pp. 142-151)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "cahen-1969-turks-iran-anatolia",
+      "type": "chapter",
+      "authors": [
+        "Cahen, Claude"
+      ],
+      "title": "The Turks in Iran and Anatolia before the Mongol Invasions",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "661-692",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 670 (the end of the Iranian Selchükids, 1194)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "campbell-1984-review-peters",
@@ -9719,6 +9911,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "dols-1974-ibn-al-wardi-plague",
+      "type": "chapter",
+      "authors": [
+        "Dols, Michael W."
+      ],
+      "title": "Ibn al-Wardi's Risalah al-naba' 'an al-waba', a Translation of a Major Source for the History of the Black Death in the Middle East",
+      "container": "Near Eastern Numismatics, Iconography, Epigraphy and History: Studies in Honor of George C. Miles, ed. Dickran K. Kouymjian",
+      "publisher": "American University of Beirut",
+      "year": 1974,
+      "pages": "443-455",
+      "url": "https://archive.org/details/michaeldolstr.ibnalwardiontheplague1974",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the whole article (introduction and translation). Contains the eyewitness account of Ibn al-Wardi (d. Aleppo, 18 March 1349)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "doumani-1995-rediscovering-palestine",
+      "type": "book",
+      "authors": [
+        "Doumani, Beshara"
+      ],
+      "title": "Rediscovering Palestine: Merchants and Peasants in Jabal Nablus, 1700-1900",
+      "publisher": "University of California Press",
+      "year": 1995,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/rediscovering-palestine-merchants-and-peasants-in-jabal-nablus-1700-1900.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection edition (no printed page numbers shown); read the Introduction and ch. 1 \"The Meanings of Autonomy\" (sections \"The 1657 Campaign\", \"The Rise of Acre\", \"Egyptian Rule, 1831-1840\"). Doumani is a Palestinian-American historian."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "ebsco-melisende",
       "type": "web",
       "authors": [
@@ -10289,6 +10521,28 @@
       "institution_country": "DE"
     },
     {
+      "id": "fink-1969-foundation-latin-states",
+      "type": "chapter",
+      "authors": [
+        "Fink, Harold S."
+      ],
+      "title": "The Foundation of the Latin States, 1099-1118",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "368-409",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Godfrey, Tancred in Galilee, Baldwin I, fiefs, conquest of the coast, Montréal 1115, Baldwin I's death)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "finkelstein-1996-territorial-political-system",
       "type": "article",
       "authors": [
@@ -10713,6 +10967,91 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "gibb-1969-aiyubids",
+      "type": "chapter",
+      "authors": [
+        "Gibb, Hamilton A. R."
+      ],
+      "title": "The Aiyūbids",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "693-714",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Saladin's succession, al-'Adil, al-Kamil, the 1229 treaty from the Muslim side, Jerusalem 1239-1244)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "gibb-1969-caliphate-arab-states",
+      "type": "chapter",
+      "authors": [
+        "Gibb, Hamilton A. R."
+      ],
+      "title": "The Caliphate and the Arab States",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "81-98",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter (Umayyads and Abbasids, the Tulunid and Ikhshidid principalities, the Fatimid struggle for Syria to 1098)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "gibb-1969-rise-of-saladin",
+      "type": "chapter",
+      "authors": [
+        "Gibb, Hamilton A. R."
+      ],
+      "title": "The Rise of Saladin, 1169-1189",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "563-589",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the end of the Fatimid caliphate (1171), Saladin's occupation of Damascus (1174) and the campaigns of 1187-1189."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "gibbons-1916-foundation-ottoman-empire",
+      "type": "book",
+      "authors": [
+        "Gibbons, Herbert Adams"
+      ],
+      "title": "The Foundation of the Ottoman Empire: A History of the Osmanlis up to the Death of Bayezid I, 1300-1403",
+      "publisher": "The Century Co. (New York)",
+      "year": 1916,
+      "url": "https://archive.org/details/foundationofotto00gibb",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of ch. I (pp. 29-34) on Osman. An early 20th-century work whose interpretation of Ottoman origins is dated; used only for the c. 1300 dating."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "gold-2002-occupied-to-disputed",
@@ -11484,6 +11823,25 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "hitti-history-of-the-arabs",
+      "type": "book",
+      "authors": [
+        "Hitti, Philip K."
+      ],
+      "title": "History of the Arabs from the Earliest Times to the Present",
+      "publisher": "Macmillan & Co.",
+      "year": 1940,
+      "url": "https://archive.org/details/in.ernet.dli.2015.460620",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (Digital Library of India scan catalogued as \"2nd ed., 1940\"; the printing seen describes Hitti as professor emeritus and cites works of 1949-1950, so it is a later reprint of the revised edition and page numbers may differ from the 1940 edition). Read the conquest of Syria (ch. XI-XII), the Umayyad and Abbasid caliphs, and the Tulunids and Ikhshidids. Hitti (1886-1978) was a Lebanese-born historian at Princeton."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "hoffmeier-1997-israel-in-egypt",
       "type": "book",
       "authors": [
@@ -11712,6 +12070,26 @@
       },
       "kind": "government",
       "institution_country": "IL"
+    },
+    {
+      "id": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+      "type": "book",
+      "authors": [
+        "Ibn Iyas, Muhammad ibn Ahmad",
+        "Salmon, W. H. (translator)"
+      ],
+      "title": "An Account of the Ottoman Conquest of Egypt in the Year A.H. 922 (A.D. 1516), translated from the third volume of the Arabic chronicle of Muhammed ibn Ahmed ibn Iyas, an eye-witness",
+      "publisher": "Royal Asiatic Society (Oriental Translation Fund, new series, 25)",
+      "year": 1921,
+      "url": "https://archive.org/details/india.history.resource.106144",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of pp. 95-96 (the defeat of the Mamluk army near Gaza, Dhu'l-Qa'da 922 / December 1516). Primary source: Cairo chronicler and eyewitness, in a 1921 English translation."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "icarus-exile-myth-unearthed",
@@ -11973,6 +12351,29 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "inalcik-1989-ottoman-turks-crusades-1451-1522",
+      "type": "chapter",
+      "authors": [
+        "İnalcık, Halil"
+      ],
+      "title": "The Ottoman Turks and the Crusades, 1451-1522",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. VI: The Impact of the Crusades on Europe, ed. Harry W. Hazard and Norman P. Zacour",
+      "publisher": "University of Wisconsin Press",
+      "year": 1989,
+      "volume": "VI",
+      "pages": "311-353",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-6",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 353 (Selim I). The author is a Turkish historian (then University of Chicago). His companion chapter on 1329-1451 (pp. 222-275) is missing from this scan and was not seen."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "isbn": "0-299-10740-X"
     },
     {
       "id": "inpa-mount-gerizim",
@@ -13671,6 +14072,24 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "koprulu-osmanli-devletinin-kurulusu",
+      "type": "book",
+      "authors": [
+        "Köprülü, M. Fuad"
+      ],
+      "title": "Osmanlı Devletinin Kuruluşu (The Founding of the Ottoman State)",
+      "publisher": "Türk Tarih Kurumu (Ankara); 4th printing of the Turkish edition (1st printing 1959)",
+      "year": 1991,
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (Turkish) of the table of contents and the section on the beginning of the Ottoman state. The Internet Archive copy is a user upload of the Türk Tarih Kurumu edition. The work goes back to Köprülü's 1934 Paris lectures (Les origines de l'Empire ottoman, 1935). Köprülü (1890-1966) was a leading Turkish historian. Read in a third-party copy of uncertain licensing status, which this project does not link."
+      },
+      "kind": "academic",
+      "institution_country": "TR"
+    },
+    {
       "id": "kramer-1984-review-peters",
       "type": "article",
       "authors": [
@@ -13755,6 +14174,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "lane-poole-1894-mohammadan-dynasties",
+      "type": "book",
+      "authors": [
+        "Lane-Poole, Stanley"
+      ],
+      "title": "The Mohammadan Dynasties: Chronological and Genealogical Tables with Historical Introductions",
+      "publisher": "Archibald Constable (Westminster)",
+      "year": 1894,
+      "url": "https://archive.org/details/mohammadandynast00lane",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the introduction to the caliphs (pp. 3-7) and the Omayyad table (p. 9). A 19th-century reference compilation by a numismatist-historian: its dynasty dates remain standard, but some conquest dates in its introduction (e.g. Yarmuk 634) are outdated, so those were not used."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "lane-poole-1901-history-egypt-middle-ages",
+      "type": "book",
+      "authors": [
+        "Lane-Poole, Stanley"
+      ],
+      "title": "A History of Egypt in the Middle Ages",
+      "publisher": "Charles Scribner's Sons (New York)",
+      "year": 1901,
+      "url": "https://archive.org/details/historyofegyptin00lane",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of ch. III \"Tulun and Ikhshid, 868-969\" (pp. 59-91) and ch. XI \"The Circassian Mamluks, 1382-1517\" (list of sultans, p. 324; Qaytbay, pp. 342-350). A work of 1901 (dated, but based on the Arabic chronicles); used only for dates."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "le-strange-1890",
       "type": "book",
       "authors": [
@@ -13767,7 +14224,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the Internet Archive OCR text, pp. 24-26 (the five junds and their Byzantine antecedents) and pp. 39-40 (al-Muqaddasi's list of districts, 985 CE). A 19th-century work: its translations of the Arab geographers remain useful but its historical dating is dated."
+        "note": "Read the Internet Archive OCR text, pp. 24-26 (the five junds and their Byzantine antecedents) and pp. 39-40 (al-Muqaddasi's list of districts, 985 CE). A 19th-century work: its translations of the Arab geographers remain useful but its historical dating is dated. | Re-read in Milestone 8: EXISTING ID - entry not changed here. Re-downloaded and read the chronological table (pp. xix-xx) and the Ramlah article."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -14688,6 +15145,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "mujir-al-din-sauvaire-1876-histoire-jerusalem-hebron",
+      "type": "book",
+      "authors": [
+        "Mujir al-Din al-Hanbali",
+        "Sauvaire, Henry (translator)"
+      ],
+      "title": "Histoire de Jérusalem et d'Hébron depuis Abraham jusqu'à la fin du XVe siècle de J.-C.: fragments de la Chronique de Moudjîr-ed-dyn",
+      "publisher": "Paris (imprint page not in the scan)",
+      "year": 1876,
+      "url": "https://archive.org/details/HistoireDeJerusalemEtDHebronDepuisAbraham",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of pp. 69-70 (Atsiz and the Seljuks in Jerusalem) and p. 286 (completion of the Ashrafiyya in 887/1482). Primary source: chronicle of a Jerusalem qadi completed in 1495/96, in a 19th-century French translation. The scan lacks the imprint page; the translator's preface is dated Marseille, 30 December 1875."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
       "id": "naaman-2007-jerusalem",
       "type": "article",
       "authors": [
@@ -14918,6 +15395,28 @@
       },
       "kind": "academic",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "nicholson-1969-growth-latin-states",
+      "type": "chapter",
+      "authors": [
+        "Nicholson, Robert L."
+      ],
+      "title": "The Growth of the Latin States, 1118-1144",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "410-447",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on Baldwin II's consecration (1118), his death and the accession of Fulk and Melisend (1131), and Fulk's death (1143)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "nobel-arafat-facts",
@@ -15648,6 +16147,28 @@
       },
       "kind": "government",
       "institution_country": "PS"
+    },
+    {
+      "id": "painter-1969-third-crusade",
+      "type": "chapter",
+      "authors": [
+        "Painter, Sidney"
+      ],
+      "title": "The Third Crusade: Richard the Lionhearted and Philip Augustus",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "45-85",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 83-85 (negotiations of 1192 and the truce of 2 September 1192)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "palestine-royal-commission-1937",
@@ -17410,7 +17931,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passage on p. 192."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passage on p. 192. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) and read p. 133 n. 29 (Tancred and the principality of Galilee) and p. 176 (Sidon 1110). Prawer was an Israeli historian (Hebrew University)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -17432,7 +17953,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen)."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -17971,6 +18492,28 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "runciman-1969-crusader-states-1243-1291",
+      "type": "chapter",
+      "authors": [
+        "Runciman, Steven"
+      ],
+      "title": "The Crusader States, 1243-1291",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "557-598",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 575 (Baybars' campaign of 1265) and pp. 595-598 (the fall of Acre and of the last Frankish places, 1291)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "said-1985-conspiracy-of-praise",
@@ -21318,6 +21861,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "van-cleve-1969-crusade-frederick-ii",
+      "type": "chapter",
+      "authors": [
+        "Van Cleve, Thomas C."
+      ],
+      "title": "The Crusade of Frederick II",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "429-462",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 455 (the terms of the 1229 treaty as reported by Frederick and the Christian sources)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "vieugue-et-al-2016-yarmukian",
       "type": "article",
       "authors": [
@@ -21608,6 +22173,51 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "ziada-1969-mamluk-sultans-to-1293",
+      "type": "chapter",
+      "authors": [
+        "Ziada, Mustafa M."
+      ],
+      "title": "The Mamluk Sultans to 1293",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.; 1st ed. 1962, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "II",
+      "pages": "735-758",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt) and editor of al-Maqrizi's al-Suluk; the chapter rests mainly on Arabic chronicles."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "ziada-1975-mamluk-sultans-1291-1517",
+      "type": "chapter",
+      "authors": [
+        "Ziada, Mustafa M."
+      ],
+      "title": "The Mamluk Sultans, 1291-1517",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. III: The Fourteenth and Fifteenth Centuries, ed. Harry W. Hazard",
+      "publisher": "University of Wisconsin Press",
+      "year": 1975,
+      "volume": "III",
+      "pages": "486-512",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-3",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt); he is marked as deceased in the volume's contents."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "isbn": "0-299-06670-3"
     },
     {
       "id": "zochrot-al-lajjun",

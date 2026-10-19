@@ -9,7 +9,9 @@
         "polity": "county-of-jaffa-and-ascalon",
         "start": {
           "year": 1153,
-          "precision": "year"
+          "month": 8,
+          "day": 22,
+          "precision": "day"
         },
         "end": {
           "year": 1187,
@@ -39,6 +41,26 @@
             "ref": "britannica-ashkelon",
             "locator": "history paragraph",
             "quote": "Captured by the Crusaders after a 50-year struggle (1153), it became one of their principal ports and strongholds."
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 538",
+            "quote": "The city fell on August 22, 1153"
+          },
+          {
+            "ref": "benvenisti-1970-crusaders-holy-land",
+            "locator": "p. 117",
+            "quote": "On the 19th of August, 1153, a three days' truce was proclaimed. The inhabitants left so speedily that, two days later, Ascalon was empty."
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 538",
+            "quote": "The government of Ascalon was entrusted to Amalric, count of Jaffa, the king's brother."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 615",
+            "quote": "all the major ports south of Tripoli, with the exception of Tyre, were in Moslem hands. These included Beirut, Jaffa, Ascalon, and Sidon"
           }
         ],
         "id": "county-of-jaffa-and-ascalon-1",

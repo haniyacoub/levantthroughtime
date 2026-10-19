@@ -65,12 +65,52 @@
             "ref": "daftary-iranica-fatimids",
             "locator": "relations with the Carmatians",
             "quote": "In 360/971, the Carmatians of Bahrain, aided by the Buyids and the Hamdanids, defeated a Fatimid army in Syria and seized Damascus."
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 88",
+            "quote": "Nevertheless, the Fatimid troops entered Damascus at the end of 969"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 88",
+            "quote": "only to be faced by a coalition of Qarmatians, Ikhshidid troops, and tribesmen, who drove them out of Syria and pursued them into Egypt (971)."
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 88",
+            "quote": "It was only after three more years of fighting that the independent Turkish commander at Damascus, Aftigin, and his Qarmatian allies were defeated by the Fatimid caliph al-'Azīz, Damascus was annexed"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 89",
+            "quote": "The effect of this conquest was not so much to establish Fatimid rule in southern Syria as to divide Syria into two protectorates"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 90",
+            "quote": "These former allies of the Qarmatians revolted in 980, and again in 998 and 1011; their shaikhs, of the house of Jarrah, set up on each occasion as independent princes of Palestine"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 92",
+            "quote": "the violent outbreak of anarchy in Egypt in this same year (1060), which practically put an end to Fatimid rule in Syria"
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 94",
+            "quote": "The consequence was that Atsiz occupied Palestine and looted Jerusalem"
+          },
+          {
+            "ref": "cahen-1969-turkish-invasion-selchukids",
+            "locator": "p. 148",
+            "quote": "A third, Atsiz, having escaped from Anatolia, landed in Palestine in 1071 and was engaged by the Fatimids to pacify insurgent bedouins"
           }
         ],
         "notes": {
-          "en": "Qarmatian occupation of parts of Palestine in the 970s not modelled (not verified with citable sources).",
-          "ar": "لم يُمثَّل احتلال القرامطة لأجزاء من فلسطين في سبعينيات القرن العاشر (لم يُتحقق منه بمصادر قابلة للاستشهاد).",
-          "he": "הכיבוש הקרמטי של חלקים מפלשתינה בשנות ה-970 לא מודל (לא אומת במקורות הניתנים לציטוט).",
+          "en": "Fatimid control of Palestine was interrupted and partial (Gibb 1969): Fatimid troops entered Damascus at the end of 969 but were driven out of Syria in 971 by a coalition of Qarmatians, Ikhshidid troops and tribesmen, and Damascus was annexed only c. 977/978; the Tayyi of Palestine (house of Jarrah) revolted in 980, 998 and 1011; the anarchy in Egypt from 1060 \"practically put an end to Fatimid rule in Syria\"; Atsiz occupied Palestine from 1071 (Cahen). These interruptions are not modelled as separate slices.",
+          "ar": "كانت السيطرة الفاطمية على فلسطين متقطعة وجزئية (جيب 1969): دخلت القوات الفاطمية دمشق في أواخر 969 لكنها طُردت من سوريا سنة 971 على يد تحالف من القرامطة والقوات الإخشيدية والقبائل، ولم تُضم دمشق إلا نحو 977/978؛ وثار بنو طيء في فلسطين (آل الجرّاح) في 980 و998 و1011؛ و«وضعت» الفوضى في مصر منذ 1060 «حداً فعلياً للحكم الفاطمي في سوريا»؛ واحتل أتسز فلسطين منذ 1071 (كاهن). ولا تُمثَّل هذه الانقطاعات في شرائح زمنية منفصلة.",
+          "he": "השליטה הפאטמית בפלשתינה הייתה מקוטעת וחלקית (גיב 1969): כוחות פאטמיים נכנסו לדמשק בסוף 969 אך גורשו מסוריה ב־971 בידי קואליציה של קרמטים, כוחות אח'שידיים ושבטים, ודמשק סופחה רק בערך ב־977/978; בני טיי בפלשתינה (בית אל־ג'ראח) מרדו ב־980, 998 ו־1011; האנרכיה במצרים מ־1060 \"שמה למעשה קץ לשלטון הפאטמי בסוריה\"; אטסז כבש את פלשתינה מ־1071 (כאהן). הפסקות אלה אינן מתוארות כפרוסות זמן נפרדות.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -220,7 +260,9 @@
         },
         "end": {
           "year": 1153,
-          "precision": "year"
+          "month": 8,
+          "day": 22,
+          "precision": "day"
         },
         "units": [
           "sinai",
@@ -260,6 +302,26 @@
             "ref": "britannica-fatimid-dynasty",
             "locator": "summary",
             "quote": "ruled over a large empire in North Africa and the Middle East from 909 to 1171 CE."
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 95",
+            "quote": "the only military action which they took outside Egypt was to recover its naval bases at Acre, Tyre, and other ports (1089), and to maintain a defensive bridgehead in Palestine."
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 538",
+            "quote": "The city fell on August 22, 1153"
+          },
+          {
+            "ref": "benvenisti-1970-crusaders-holy-land",
+            "locator": "p. 117",
+            "quote": "On the 19th of August, 1153, a three days' truce was proclaimed. The inhabitants left so speedily that, two days later, Ascalon was empty."
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 538",
+            "quote": "Thus it was that a half century after the First Crusade the conquest of the Palestinian sea coast was finally completed."
           }
         ],
         "notes": {
@@ -313,6 +375,21 @@
             "ref": "britannica-saladin",
             "locator": "main text",
             "quote": "in 1171, he abolished the weak and unpopular Shiʿi Fāṭimid caliphate"
+          },
+          {
+            "ref": "gibb-1969-rise-of-saladin",
+            "locator": "p. 565",
+            "quote": "at length in June 1171 sent him a formal order to do so, at the same time notifying the 'Abbasid caliph himself of his action. The order was obeyed"
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 560",
+            "quote": "Then, on September 13, al-'Ādid had died, and no successor was named."
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "ch. XVI, p. 184 of the scanned printing",
+            "quote": "The Fatimid caliphate (909-1171), whose main seat was Cairo, was the only Shi'ite one of primary importance."
           }
         ],
         "id": "fatimid-caliphate-5",

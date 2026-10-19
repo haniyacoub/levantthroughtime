@@ -44,10 +44,39 @@
             "ref": "britannica-crusades",
             "locator": "section 'The Crusader states to 1187'",
             "quote": "Raymond III of Tripoli, who through his wife was also lord of Tiberias."
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 377",
+            "quote": "had begun to carve out a domain in northern Palestine, the future principality of Tiberias. Within a year Tancred controlled Nablus, Tiberias, Baisan, and Haifa."
+          },
+          {
+            "ref": "prawer-1985-franks",
+            "locator": "p. 133, n. 29",
+            "quote": "Thus Bethsan and Tiberias were private conquests of Tancred (as was Bethlehem). He tried to create an independent principality of Galilee with Tiberias as its capital and Haifa as its main port."
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 385",
+            "quote": "Tiberias, given to Hugh of Falkenberg when Tancred left for Antioch in 1101"
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 615",
+            "quote": "Saladin delayed only a day to secure the capitulation of Tiberias (July 5) before marching toward Acre."
           }
         ],
         "id": "principality-of-galilee-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Tancred's first domain (1099-1100) included Nablus, Tiberias, Baisan and Haifa (Fink); Prawer calls Bethsan and Tiberias his private conquests and says he meant Tiberias to be the capital and Haifa the port of an independent principality of Galilee. After Tancred left in 1101, Tiberias and Haifa were granted as separate fiefs, so the mapped units fit the later principality of Tiberias rather than Tancred's first holding.",
+          "ar": "شملت أملاك تانكرد الأولى (1099-1100) نابلس وطبريا وبيسان وحيفا (فينك)؛ ويصف براور بيسان وطبريا بأنهما فتوحاته الخاصة، ويقول إنه أراد أن تكون طبريا عاصمة وحيفا ميناءً لإمارة مستقلة في الجليل. وبعد رحيل تانكرد سنة 1101 مُنحت طبريا وحيفا إقطاعين منفصلين، لذا تناسب الوحدات المرسومة إمارة طبريا اللاحقة لا ممتلكات تانكرد الأولى.",
+          "he": "תחומו הראשון של טנקרד (1099–1100) כלל את שכם, טבריה, בית שאן וחיפה (פינק); פראוור מכנה את בית שאן וטבריה כיבושיו הפרטיים ואומר שביקש שטבריה תהיה הבירה וחיפה הנמל של נסיכות עצמאית בגליל. אחרי שטנקרד עזב ב־1101 הוענקו טבריה וחיפה כפאודומים נפרדים, ולכן היחידות המשורטטות מתאימות לנסיכות טבריה המאוחרת ולא לאחיזתו הראשונה של טנקרד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

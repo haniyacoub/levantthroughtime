@@ -178,3 +178,19 @@ Corrections applied (each quoting both the old and the new basis):
 Texts changed by these corrections lost their Arabic and Hebrew drafts and were drafted again.
 
 Gaps: the end of Ptolemy I's reign and the start of Ptolemy II's co-regency; the 616 step to direct Sasanian rule (still Howard-Johnston alone); Bostra as capital of Provincia Arabia; no open-access modern Arab or Palestinian scholarship on the conquest of 634–640 was found.
+
+### Scholarly sources for 634–1517 (group B)
+
+All 73 records in this period that rested only on reference works now cite further sources: 298 source references, 29 new works. Among them: the University of Wisconsin *History of the Crusades* (chapters by Gibb, Cahen, Fink, Nicholson, M. W. Baldwin, Painter, Van Cleve, Runciman, Boase, İnalcık and the Cairo historian Ziada), Hitti's *History of the Arabs*, Lane-Poole, Doumani, Burgoyne's *Mamluk Jerusalem*, Köprülü, and Arabic chroniclers in scholarly translation (al-Baladhuri, Baha' al-Din, Ibn Iyas, Mujir al-Din, Ibn al-Wardi).
+- Burgoyne and Köprülü were read in copies uploaded to the Internet Archive by users; those copies are not authorised, so the project cites the books but does not link them.
+
+Corrections applied:
+- Lordship of Sidon: from December 1110 (was c. 1112).
+- Lordship of Oultrejordain: from c. 1115, when Montréal (Shawbak) was built (was c. 1132, Britannica's date for Kerak, which Boase dates to 1142); ends 1189, when Montréal surrendered.
+- Kingdom of Jerusalem: the last mainland slice ends 14 August 1291 with the evacuation of Château Pèlerin ('Atlit), not with Acre on 18 May; the description of 1187–1191 now names Belfort, not Belvoir, as the last castle held (until 22 April 1190).
+- Ascalon fell on 22 August 1153 (county of Jaffa and Ascalon; end of Fatimid Ascalon). Ahmad ibn Tulun died in May 884 (was March); Tancred gave up Galilee on 8 March 1101; Fulk died 10 November 1143; Melisende's rule in Jerusalem ended c. 1152.
+- Notes added on: interruptions of Fatimid rule; Ibn Ra'iq's hold on northern Syria 939–942; Kerak outside Mamluk control until 1263; the end of the Mamluk state (Raydaniyya, January 1517, or Tumanbay's execution, April 1517); the differing accounts of the 1229 treaty; the Black Death in Palestine (Ibn al-Wardi); the Treaty of Jaffa's terms (Baha' al-Din); dates for Qalawun and Qaytbay.
+
+Held back: Ziada's statement that a treaty of April 1253 gave the Mamluks Jerusalem and the coast would change the map for 1253–1260; it rests on one source, so it is recorded as a note until checked against Humphreys (1977).
+
+Gaps: the early Islamic records still rest on older works (Gil, Donner and Kennedy could not be opened); one Hitti quotation comes from a poor OCR line and should be checked against a page image.

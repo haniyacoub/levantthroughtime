@@ -4172,6 +4172,16 @@
           "ref": "britannica-umayyad-dynasty",
           "locator": "article",
           "quote": "Muʿāwiyah I (reigned 661–680)"
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "ch. XVII, p. 189 of the scanned printing",
+          "quote": "Mu'awiyah was proclaimed caliph at Iliya' (Jerusalem) in A.H. 40 (661)."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xix",
+          "quote": "Mu'awiyah I., A.D. 661 (41). Yazid I., 680 (60)."
         }
       ],
       "notes": {
@@ -4224,6 +4234,16 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "section 'The rise of Islam'",
           "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691"
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "ch. XIX, p. 205 of the scanned printing",
+          "quote": "was succeeded by his son 'Abd-al-Malik (685-705), the \"father of kings\""
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xix",
+          "quote": "'Abd al Malik, 685 (65). Al Walid I., 705 (86)."
         }
       ],
       "notes": {
@@ -4271,6 +4291,16 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "section 'The rise of Islam'",
           "quote": "ʿAbd al-Malik’s son, al-Walīd I (705–715), rebuilt Al-Aqsa Mosque on a larger scale"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xix",
+          "quote": "Al Walid I., 705 (86). Sulaiman, 715 (96)"
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "ch. XIX, p. 205 of the scanned printing",
+          "quote": "Under 'Abd-al-Malik's rule and that of the four sons who succeeded him the dynasty at Damascus reached the meridian of its power and glory."
         }
       ],
       "notes": {
@@ -4387,6 +4417,16 @@
           "ref": "britannica-harun-al-rashid",
           "locator": "biography",
           "quote": "Hārūn al-Rashīd thus became caliph on September 14, 786"
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "section on the Barmakids (early Abbasid caliphate); page number not legible in the OCR",
+          "quote": "the strong-willed Harun (786-809), in whose caliphal firmament there could not be two suns."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xx",
+          "quote": "Ar Rashid, 786 (170). Al Amin, 809 (193)."
         }
       ],
       "notes": {
@@ -4435,6 +4475,16 @@
           "ref": "britannica-al-mamun",
           "locator": "biography",
           "quote": "was the seventh ʿAbbāsid caliph (813–833)"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xx",
+          "quote": "Al Mamun, 813 (198). Al Mu'tasim, 833 (218)."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 82",
+          "quote": "Al-Ma'mūn owed his victory to a new Khurasanian army, more pronouncedly Iranian in composition and leadership, with which he reconquered Iraq, Mesopotamia, Syria, and Egypt"
         }
       ],
       "notes": {
@@ -4474,7 +4524,7 @@
       },
       "end": {
         "year": 884,
-        "month": 3,
+        "month": 5,
         "precision": "month"
       },
       "confidence": "documented",
@@ -4488,12 +4538,37 @@
           "ref": "britannica-ahmad-ibn-tulun",
           "locator": "biography",
           "quote": "In 882, using the pretext of a holy war against the Byzantine Empire, he annexed Syria."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 84",
+          "quote": "Ahmad ibn-Tūlūn, appointed deputy-governor of Egypt in 868, obtained the leverage by which he not only built up a factually independent power there, though officially he remained deputy-governor to the end of his life"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. III \"Tulun and Ikhshid\", p. 66 (margin date 878)",
+          "quote": "marched in April, 878, to Damascus and received the immediate homage of the officials and inhabitants."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "Chronological Table, p. xx",
+          "quote": "Ahmad ibn Tulun, Independent Governor of Egypt, gains possession of Syria, which remains in the power of the Tulunide Governors of Egypt"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. III, p. 70 (margin date 884)",
+          "quote": "and he died in May, 884, before he had reached the age of fifty."
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. III, p. 70",
+          "quote": "and he died in May, 884, before he had reached the age of fifty."
         }
       ],
       "notes": {
-        "en": "Rule over Egypt from 868; his control of Syria and Palestine is dated 878 by Britannica's Tulunid dynasty article and by Le Strange (AH 264), but 882 by Britannica's biography. He never formally declared independence from the Abbasid caliph (Britannica). Died March 884.",
-        "ar": "حكم مصر منذ 868؛ ويؤرَّخ تحكمه في الشام وفلسطين بعام 878 في مقالة بريتانيكا عن السلالة الطولونية وعند لو سترينج (264 هـ)، لكن بعام 882 في سيرته في بريتانيكا. لم يعلن قط استقلالًا رسميًا عن الخليفة العباسي (بريتانيكا). توفي في آذار/مارس 884.",
-        "he": "שלט במצרים מ-868; שליטתו בסוריה ובפלשתינה מתוארכת ל-878 במאמר בריטניקה על השושלת הטולונית ואצל לה סטריינג' (264 להג'רה), אך ל-882 בביוגרפיה בבריטניקה. מעולם לא הכריז רשמית על עצמאות מהח'ליף העבאסי (בריטניקה). מת במרץ 884.",
+        "en": "Rule over Egypt from 868; he occupied Syria and Palestine in 878 (march on Damascus in April 878: Lane-Poole 1901; AH 264 in Le Strange; also Britannica's Tulunid dynasty article), while Britannica's biography dates the annexation to 882. He never formally declared independence from the Abbasid caliph (Britannica; Gibb: officially deputy-governor to the end of his life). Died May 884 (Lane-Poole).",
+        "ar": "حكم مصر منذ 868؛ واحتل سوريا وفلسطين سنة 878 (الزحف على دمشق في نيسان/أبريل 878: لين-بول 1901؛ 264 هـ عند لي سترانج؛ وكذلك مقالة بريتانيكا عن الدولة الطولونية)، بينما تؤرخ سيرته في بريتانيكا الضم بسنة 882. ولم يعلن قط استقلاله رسمياً عن الخليفة العباسي (بريتانيكا؛ جيب: ظل رسمياً نائب والٍ حتى آخر حياته). توفي في أيار/مايو 884 (لين-بول).",
+        "he": "שלט במצרים מ־868; כבש את סוריה ופלשתינה ב־878 (המסע לדמשק באפריל 878: ליין־פול 1901; שנת 264 להג'רה אצל לה סטרנג'; וגם מאמר בריטניקה על השושלת הטולונית), בעוד הביוגרפיה שלו בבריטניקה מתארכת את הסיפוח ל־882. מעולם לא הכריז רשמית על עצמאות מן הח'ליף העבאסי (בריטניקה; גיב: רשמית סגן מושל עד סוף ימיו). מת במאי 884 (ליין־פול).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -4656,6 +4731,16 @@
           "ref": "britannica-al-hakim",
           "locator": "biography",
           "quote": "Al-Ḥākim mysteriously vanished while taking a walk on the night of February 13, 1021."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 90",
+          "quote": "It is remarkable that these successes in Syria coincided with the reign of the eccentric Fatimid caliph al-Hākim (996-1021)."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 90",
+          "quote": "Among those destroyed was the Holy Sepulcher at Jerusalem, which was torn down in 1009."
         }
       ],
       "notes": {
@@ -4696,8 +4781,9 @@
       },
       "end": {
         "year": 1101,
-        "circa": true,
-        "precision": "year"
+        "month": 3,
+        "day": 8,
+        "precision": "day"
       },
       "confidence": "estimated",
       "sources": [
@@ -4710,6 +4796,31 @@
           "ref": "allison-tancred-ebsco",
           "locator": "article",
           "quote": "When Tancred’s uncle Bohemond was captured in 1101, Tancred took his place as regent of Antioch."
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 375",
+          "quote": "It consisted of Godfrey's own domain in southern Palestine and of a semi-independent barony begun by Tancred around Tiberias."
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 377",
+          "quote": "had begun to carve out a domain in northern Palestine, the future principality of Tiberias. Within a year Tancred controlled Nablus, Tiberias, Baisan, and Haifa."
+        },
+        {
+          "ref": "prawer-1985-franks",
+          "locator": "p. 133, n. 29",
+          "quote": "Thus Bethsan and Tiberias were private conquests of Tancred (as was Bethlehem). He tried to create an independent principality of Galilee with Tiberias as its capital and Haifa as its main port."
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 382",
+          "quote": "He agreed with king Baldwin on March 8 to give up his fiefs in northern Palestine"
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 385",
+          "quote": "Tiberias, given to Hugh of Falkenberg when Tancred left for Antioch in 1101"
         }
       ],
       "notes": {
@@ -4826,6 +4937,16 @@
           "ref": "britannica-baldwin-i",
           "locator": "biography",
           "quote": "he was crowned the first king of Jerusalem"
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 382",
+          "quote": "to crown him king four days later, December 25, 1100. But Daimbert succeeded in salvaging some of his prestige. He crowned Baldwin in Bethlehem, not in the capital, Jerusalem."
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 407",
+          "quote": "He attempted to return to Jerusalem but died at al-'Arish, sixty miles southwest of Ascalon, April 2, 1118."
         }
       ],
       "notes": {
@@ -4881,6 +5002,16 @@
           "ref": "britannica-baldwin-ii",
           "locator": "biography",
           "quote": "king of Jerusalem (1118–31)"
+        },
+        {
+          "ref": "nicholson-1969-growth-latin-states",
+          "locator": "p. 411",
+          "quote": "Accordingly, Baldwin II was consecrated king of Jerusalem on April 14, 1118."
+        },
+        {
+          "ref": "nicholson-1969-growth-latin-states",
+          "locator": "p. 432",
+          "quote": "Baldwin died on August 21 in Jerusalem after committing the rule of the kingdom to his eldest daughter Melisend, his son-in-law Fulk, and his two-year-old grandson Baldwin."
         }
       ],
       "notes": {
@@ -4923,7 +5054,8 @@
       "end": {
         "year": 1143,
         "month": 11,
-        "precision": "month"
+        "day": 10,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -4936,6 +5068,16 @@
           "ref": "ebsco-melisende",
           "locator": "article",
           "quote": "The coronation of Fulk and Melisende took place on Holy Cross day, September 14, 1131."
+        },
+        {
+          "ref": "nicholson-1969-growth-latin-states",
+          "locator": "p. 432",
+          "quote": "Fulk, who became the fourth ruler of the kingdom on the following September 14"
+        },
+        {
+          "ref": "nicholson-1969-growth-latin-states",
+          "locator": "p. 444",
+          "quote": "Fulk died on November 10, 1143, and was succeeded by his son Baldwin III, a boy of thirteen years."
         }
       ],
       "notes": {
@@ -4976,7 +5118,7 @@
         "precision": "day"
       },
       "end": {
-        "year": 1153,
+        "year": 1152,
         "circa": true,
         "precision": "year"
       },
@@ -4991,6 +5133,26 @@
           "ref": "ebsco-melisende",
           "locator": "article",
           "quote": "Melisende retired from Jerusalem and retained only the city of Nablus."
+        },
+        {
+          "ref": "nicholson-1969-growth-latin-states",
+          "locator": "p. 444",
+          "quote": "Because of his youth his mother, Melisend, assumed the royal power as regent."
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 535",
+          "quote": "was crowned alone two days after Easter 1151 (or 1152)."
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 535",
+          "quote": "Then Melisend agreed to relinquish Jerusalem, and Baldwin took a solemn oath to respect his mother's tenure of Nablus."
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 535, n. 6",
+          "quote": "There is reason to believe, however, that the rupture with Melisend occurred in 1151 or even in 1152."
         }
       ],
       "notes": {
@@ -5102,6 +5264,21 @@
           "ref": "ebsco-saladin",
           "locator": "table 'Saladin and the Beginning of the Ayyubid Sultanate'",
           "quote": "1174-1193: Saladin reigns in Egypt and Syria"
+        },
+        {
+          "ref": "gibb-1969-rise-of-saladin",
+          "locator": "p. 567",
+          "quote": "on an urgent appeal from the commandant at Damascus occupied it, almost without opposition, on October 28, 1174."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 693",
+          "quote": "On Saladin's death (March 4, 1193) the unity imposed by his personality and authority was disrupted, and all the provinces (except that of Kerak) became in effect separate and independent principalities."
+        },
+        {
+          "ref": "gibb-1969-rise-of-saladin",
+          "locator": "p. 565",
+          "quote": "at length in June 1171 sent him a formal order to do so, at the same time notifying the 'Abbasid caliph himself of his action. The order was obeyed"
         }
       ],
       "notes": {
@@ -5211,6 +5388,16 @@
           "ref": "iranica-ayyubids-humphreys-1987",
           "locator": "dynastic history",
           "quote": "al-Malek al-ʿĀdel Sayf al-dīn (r. 596/1200-615/1218)"
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 696",
+          "quote": "On August 4 al-'Ādil was formally proclaimed sultan of Egypt and Syria."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 699",
+          "quote": "recalled to Damascus by the news of al-'Ādil's death there (August 31, 1218)"
         }
       ],
       "notes": {
@@ -5258,6 +5445,16 @@
           "ref": "iranica-ayyubids-humphreys-1987",
           "locator": "dynastic history",
           "quote": "al-Malek al-Kāmel Nāṣer-al-dīn (r. 615/1218-635/1238)"
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 699",
+          "quote": "but loyally recognized his brother al-Kāmil as successor to the sultanate."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 705",
+          "quote": "when al-Kāmil himself died at Damascus on March 9, 1238."
         }
       ],
       "notes": {
@@ -5369,6 +5566,21 @@
           "ref": "britannica-mamluk",
           "locator": "article",
           "quote": "Among the most outstanding Mamluk sultans were Baybars I (1260–77)"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 745",
+          "quote": "he was treacherously stabbed to death (October 1260) by Baybars, who immediately afterwards rode into Cairo and usurped the Mamluk throne."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 746",
+          "quote": "his crowded reign of seventeen years (1260-1277)."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 750",
+          "quote": "By June of 1277 Baybars was back in Damascus, where he died at the height of his eventful career"
         }
       ],
       "notes": {
@@ -5423,12 +5635,27 @@
           "ref": "tdv-kalavun",
           "locator": "entry",
           "quote": "(20 Receb 678 / 26 Kasım 1279)"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 750",
+          "quote": "Berke Khan was deposed in August 1279 by his own father-in-law Kalavun"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 750",
+          "quote": "Salamish was quietly deposed (December 1279), and was sent later to join his brother in Transjordan."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 753",
+          "quote": "when about to depart with his army he fell ill and died in camp (November or December 1290) at the age of seventy."
         }
       ],
       "notes": {
-        "en": "TDV (Turkish) dates the caliph's confirmation of his accession to 26 November 1279. Died 1290 while preparing the siege of Acre (Britannica).",
-        "ar": "يؤرخ TDV (التركي) تثبيت الخليفة لاعتلائه العرش بـ26 تشرين الثاني/نوفمبر 1279. توفي عام 1290 أثناء الاستعداد لحصار عكا (بريتانيكا).",
-        "he": "TDV (בטורקית) מתארך את אישור הח'ליף לעלייתו לכס ל-26 בנובמבר 1279. מת ב-1290 בעת הכנות למצור על עכו (בריטניקה).",
+        "en": "TDV (Turkish) dates the caliph's confirmation of his accession to 26 November 1279. Died 1290 while preparing the siege of Acre (Britannica). Ziada dates the deposition of Salamish, which made Qalawun sole sultan, to December 1279, against TDV's 26 Nov 1279 (caliphal confirmation). Qalawun was regent with the powers of a co-sultan from Aug 1279.",
+        "ar": "تؤرخ موسوعة TDV (التركية) تثبيت الخليفة لتوليه بـ 26 تشرين الثاني/نوفمبر 1279. توفي سنة 1290 أثناء استعداده لحصار عكا (بريتانيكا). ويؤرخ زيادة خلع سُلامش، الذي جعل قلاوون السلطان الوحيد، بكانون الأول/ديسمبر 1279، مقابل 26 تشرين الثاني/نوفمبر 1279 عند TDV (التثبيت من الخليفة). وكان قلاوون نائباً للسلطنة بصلاحيات سلطان شريك منذ آب/أغسطس 1279.",
+        "he": "TDV (הטורקית) מתארכת את אישור הח'ליף לעלייתו לשלטון ל־26 בנובמבר 1279. מת ב־1290 בעת שהתכונן למצור על עכו (בריטניקה). זיאדה מתארך את הדחת סלאמש, שהפכה את קלאוון לסולטן יחיד, לדצמבר 1279, לעומת 26 בנובמבר 1279 אצל TDV (אישור הח'ליף). קלאוון היה עוצר בסמכויות של סולטן־שותף מאוגוסט 1279.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5480,6 +5707,21 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'The Crusades'",
           "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 753",
+          "quote": "When sultan Khalil saw his father's unsigned diploma at the first meeting of the council of state in Cairo (November 1290)"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 754",
+          "quote": "The final assault took place in the early morning of Friday, May 18, 1291"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 755",
+          "quote": "lured him into a hunting party northwest of Cairo, where he was taken unawares and brutally cut to pieces (December 1293)."
         }
       ],
       "notes": {
@@ -5532,6 +5774,16 @@
           "ref": "britannica-mamluk",
           "locator": "article",
           "quote": "al-Malik al-Nāṣir (1293–1341)"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 487",
+          "quote": "In December 1293, after destroying the other crusading strongholds in Syria, al-Ashraf Khalil, the victor of Acre, was brutally murdered"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 487",
+          "quote": "the Mamluk leaders proceeded to set up Khalil's step-brother, an-Nasir Muhammad, a boy eight years of age, whom they later twice deposed, but then twice reinstalled"
         }
       ],
       "notes": {
@@ -5579,6 +5831,11 @@
           "ref": "tdv-kalavun",
           "locator": "related articles",
           "quote": "MUHAMMED b. KALAVUN Memlük sultanı (1293-1294, 1299-1309, 1310-1341)."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 487",
+          "quote": "the Mamluk leaders proceeded to set up Khalil's step-brother, an-Nasir Muhammad, a boy eight years of age, whom they later twice deposed, but then twice reinstalled"
         }
       ],
       "notes": {
@@ -5631,6 +5888,16 @@
           "ref": "britannica-mamluk",
           "locator": "article",
           "quote": "al-Malik al-Nāṣir (1293–1341)"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 487",
+          "quote": "It was in the year 1310 that an-Nasir began his third reign"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 488",
+          "quote": "An-Nasir Muhammad ruled with a velvet-gloved but iron hand until his death in 1341"
         }
       ],
       "notes": {
@@ -5683,6 +5950,16 @@
           "ref": "britannica-mamluk",
           "locator": "article",
           "quote": "the accession of the first Circassian sultan (Barqūq) in 1382"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. XI \"The Circassian Mamluks\", list of the Burgi Mamluks, p. 324",
+          "quote": "Ez-Zahir Seyf-ed-din Barkuk .... Nov., 1382 [Interrupted by el-Mansur Haggi June 1389 — Feb. 1390]"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 486, n. 1",
+          "quote": "The Moslem chroniclers divide the Mamluk period into a Turkish (Daulat al-Atrāk, 1250-1382) and a Circassian (Daulat al-Jarkas, 1382-1517) phase."
         }
       ],
       "notes": {
@@ -5739,6 +6016,21 @@
           "ref": "tdv-berkuk",
           "locator": "entry",
           "quote": "kendisine biat edildi (27 Ocak 1390)"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. XI \"The Circassian Mamluks\", list of the Burgi Mamluks, p. 324",
+          "quote": "Ez-Zahir Seyf-ed-din Barkuk .... Nov., 1382 [Interrupted by el-Mansur Haggi June 1389 — Feb. 1390]"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 488",
+          "quote": "Barkuk by name, removed the last of the line of an-Nasir Muhammad in 1390, and became the first sultan of the Burji, or Circassian, Mamluk dynasty."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 490",
+          "quote": "and Barkuk died in June 1399, before proving his prowess against the Mongols."
         }
       ],
       "notes": {
@@ -5800,12 +6092,32 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'The Crusades' (end)",
           "quote": "Hostilities broke out in 1486 when Sultan Qāʾit Bāy contested with Bayezid II the possession of some border towns."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 504",
+          "quote": "Ka'itbey was proclaimed sultan in January 1468; his reign, which lasted for nearly twenty-nine years"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 507",
+          "quote": "when the sultan, overcome by years, illness, and worry, breathed his last on July 28, 1496."
+        },
+        {
+          "ref": "burgoyne-1987-mamluk-jerusalem",
+          "locator": "no. 63, p. 591",
+          "quote": "His death took place on Sunday, 27 Dhu'l-Qa'da 901/7 August 1496."
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "ch. XI \"The Circassian Mamluks\", p. 349",
+          "quote": "abdicated in favour of his son, and died the day after."
         }
       ],
       "notes": {
-        "en": "Rebuilt the Ashrafiyya madrasa in Jerusalem (1482, see event).",
-        "ar": "أعاد بناء المدرسة الأشرفية في القدس (1482، انظر الحدث).",
-        "he": "בנה מחדש את מדרסת אל-אשרפיה בירושלים (1482, ראו האירוע).",
+        "en": "Rebuilt the Ashrafiyya madrasa in Jerusalem (1482, see event). Ziada gives Qaytbay's death as 28 July 1496. Burgoyne (27 Dhu'l-Qa'da 901 / 7 Aug 1496) and TDV give 7 Aug 1496, and Lane-Poole puts his son's accession on 7 Aug 1496. Ziada and Lane-Poole date the accession to January 1468; TDV has 1 Feb 1468 (7 Rajab 872).",
+        "ar": "أعاد بناء المدرسة الأشرفية في القدس (1482، انظر الحدث). ويذكر زيادة أن قايتباي توفي في 28 تموز/يوليو 1496. ويذكر بورغوين (27 ذي القعدة 901 / 7 آب/أغسطس 1496) وموسوعة TDV تاريخ 7 آب/أغسطس 1496، ويضع لين-بول تولي ابنه في 7 آب/أغسطس 1496. ويؤرخ زيادة ولين-بول توليه السلطنة بكانون الثاني/يناير 1468؛ وتذكر TDV الأول من شباط/فبراير 1468 (7 رجب 872).",
+        "he": "בנה מחדש את מדרסת אל־אשרפייה בירושלים (1482, ראו אירוע). זיאדה נותן את מותו של קאיתבאי ב־28 ביולי 1496. ברגוין (27 בד'ו אל־קעדה 901 / 7 באוגוסט 1496) ו־TDV נותנים 7 באוגוסט 1496, וליין־פול מציב את עליית בנו לשלטון ב־7 באוגוסט 1496. זיאדה וליין־פול מתארכים את עלייתו לשלטון לינואר 1468; TDV נותנת 1 בפברואר 1468 (7 ברג'ב 872).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5855,6 +6167,26 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'The Crusades' (end)",
           "quote": "Palestine began its four centuries under Ottoman domination."
+        },
+        {
+          "ref": "inalcik-1989-ottoman-turks-crusades-1451-1522",
+          "locator": "p. 353",
+          "quote": "won the janissaries' support and deposed his father in April 1512."
+        },
+        {
+          "ref": "inalcik-1989-ottoman-turks-crusades-1451-1522",
+          "locator": "p. 353",
+          "quote": "By massive military campaigns he defeated the Safavids of Persia in 1514 and destroyed the Mamluk state in 1516-1517, doubling the territory and financial resources of the empire by annexing eastern Anatolia, Syria, Egypt, and the Hejaz."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 511",
+          "quote": "he met the Mamluk army at the field of Marj Dabiq, north of Aleppo, in August 1516. The Mamluks were utterly defeated, and al-Ghūrī fell fighting."
+        },
+        {
+          "ref": "inalcik-1989-ottoman-turks-crusades-1451-1522",
+          "locator": "p. 353",
+          "quote": "At his premature death in 1520 he was succeeded by his son Suleiman I"
         }
       ],
       "notes": {

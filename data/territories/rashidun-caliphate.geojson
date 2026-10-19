@@ -63,6 +63,16 @@
             "ref": "tdv-ecnadeyn-savasi",
             "locator": "concluding paragraph",
             "quote": "Ecnâdeyn Savaşı ile Filistin ve Suriye’nin kapıları müslümanlara açılmış, iki yıl sonra kazanılan Yermük zaferiyle de bölgenin fethi tamamlanmıştır."
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "ch. XII \"The Conquest of Syria\", p. 150 of the scanned printing",
+            "quote": "resulting in the bloody victory at Ajnadayn on July 30, 634, which laid open before them practically all Palestine."
+          },
+          {
+            "ref": "baladhuri-hitti-1916-origins-islamic-state",
+            "locator": "p. 175",
+            "quote": "This battle of Ajnadin took place on Monday twelve days before the end of Jumada I, year 13."
           }
         ],
         "id": "rashidun-caliphate-1",
@@ -152,6 +162,26 @@
             "ref": "tdv-hulefa-yi-rasidin",
             "locator": "section on Umar",
             "quote": "Daha sonra da Askalân ile (19/640) Kaysâriye (20 yılı başları / 640 sonu) başta olmak üzere diğer şehirler ele geçirildi."
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "ch. XII \"The Conquest of Syria\", p. 152 of the scanned printing",
+            "quote": "Months of skirmishing came to a climax on August 20, 636"
+          },
+          {
+            "ref": "baladhuri-hitti-1916-origins-islamic-state",
+            "locator": "p. 210",
+            "quote": "The battle of al-Yarmuk took place in Rajab, year 15."
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "ch. XII \"The Conquest of Syria\", p. 153 of the scanned printing",
+            "quote": "In the south only Jerusalem and Caesarea, which was strictly Hellenized, held their gates stubbornly closed in the face of the invaders, the former till 638 and the latter till October 640."
+          },
+          {
+            "ref": "baladhuri-hitti-1916-origins-islamic-state",
+            "locator": "p. 213",
+            "quote": "The conquest of Jerusalem took place in the year 17."
           }
         ],
         "notes": {
@@ -237,10 +267,39 @@
             "ref": "tdv-hulefa-yi-rasidin",
             "locator": "introduction (end of the Rashidun period)",
             "quote": "Muâviye b. Ebû Süfyân’a bıraktığı güne kadar (25 Rebîülevvel 41/29 Temmuz 661)"
+          },
+          {
+            "ref": "hitti-history-of-the-arabs",
+            "locator": "ch. XII \"The Conquest of Syria\", p. 153 of the scanned printing",
+            "quote": "In the south only Jerusalem and Caesarea, which was strictly Hellenized, held their gates stubbornly closed in the face of the invaders, the former till 638 and the latter till October 640."
+          },
+          {
+            "ref": "baladhuri-hitti-1916-origins-islamic-state",
+            "locator": "p. 219",
+            "quote": "Kaisariyah was taken by storm in the year 19."
+          },
+          {
+            "ref": "baladhuri-hitti-1916-origins-islamic-state",
+            "locator": "p. 219",
+            "quote": "According to still other reports, the city was reduced in the early part of the year 20."
+          },
+          {
+            "ref": "gibb-1969-caliphate-arab-states",
+            "locator": "p. 81",
+            "quote": "a civil war, which ended with the constitution of a new caliphate at Damascus (661), hereditary in the house of the Meccan clan of Umaiyah"
           }
         ],
         "id": "rashidun-caliphate-3",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Caesarea's fall is dated October 640 by Hitti (and Britannica); al-Baladhuri reports AH 19 (640) as the better view but also AH 18 and early AH 20 (641).",
+          "ar": "يؤرخ حتي (وكذلك بريتانيكا) سقوط قيسارية بتشرين الأول/أكتوبر 640؛ ويروي البلاذري أن سنة 19 هـ (640) هي الأرجح، لكنه يذكر أيضاً سنة 18 هـ وأوائل سنة 20 هـ (641).",
+          "he": "חיתי (וגם בריטניקה) מתארך את נפילת קיסריה לאוקטובר 640; אל־בלאד'ורי מוסר ששנת 19 להג'רה (640) היא הדעה העדיפה, אך מביא גם את שנת 18 ותחילת שנת 20 להג'רה (641).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

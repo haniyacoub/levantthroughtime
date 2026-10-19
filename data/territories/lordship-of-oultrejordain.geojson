@@ -8,14 +8,13 @@
       "properties": {
         "polity": "lordship-of-oultrejordain",
         "start": {
-          "year": 1132,
+          "year": 1115,
           "circa": true,
           "precision": "year"
         },
         "end": {
-          "year": 1188,
-          "precision": "year",
-          "latest": 1189
+          "year": 1189,
+          "precision": "year"
         },
         "units": [
           "moab",
@@ -51,6 +50,36 @@
             "ref": "britannica-crusades",
             "locator": "section 'The Crusader states'",
             "quote": "Though the Franks did push southward to Aylah (or Elim, modern Al-ʿAqabah), all attempts to move eastward failed"
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 406",
+            "quote": "after the lapse of the Turkish peril in 1115. In the fall of that year he built in the Transjordan the castle of ash-Shaubak, or Krak de Montréal"
+          },
+          {
+            "ref": "boase-1977-military-architecture",
+            "locator": "p. 149",
+            "quote": "was controlled by three castles: Krak de Montréal (ash-Shaubak) built by Baldwin I in 1115"
+          },
+          {
+            "ref": "boase-1977-military-architecture",
+            "locator": "p. 149",
+            "quote": "Kerak, founded in 1142 by Pagan le Bouteiller and enlarged by his immediate successors."
+          },
+          {
+            "ref": "benvenisti-1970-crusaders-holy-land",
+            "locator": "p. 161",
+            "quote": "Hebron was separated from the royal domain in 1161 and made over to Philip de Milly together with the seigneurie of Transjordan."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "hunger finally forced the heroic garrison of Kerak to capitulate. Al-Malik al-'Ādil received the message from the nearly starved garrison and gave them free egress (November 1188)."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "Shortly afterward (April-May 1189), Krak de Montréal and a few other smaller places surrendered, and Humphrey was given his liberty."
           }
         ],
         "id": "lordship-of-oultrejordain-1",

@@ -82,6 +82,31 @@
             "ref": "britannica-crusades",
             "locator": "section 'The Crusader states'",
             "quote": "Though the Franks did push southward to Aylah (or Elim, modern Al-ʿAqabah), all attempts to move eastward failed"
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 368",
+            "quote": "the capture of the city of Jerusalem on July 15, 1099, most of the crusaders felt that their work was done."
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 386",
+            "quote": "He took Beirut in May 1110, with the help of a Genoese squadron. He secured Sidon at last, in December of that year, with the aid of a fleet of Norwegian crusaders"
+          },
+          {
+            "ref": "fink-1969-foundation-latin-states",
+            "locator": "p. 406",
+            "quote": "after the lapse of the Turkish peril in 1115. In the fall of that year he built in the Transjordan the castle of ash-Shaubak, or Krak de Montréal"
+          },
+          {
+            "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+            "locator": "p. 538",
+            "quote": "Thus it was that a half century after the First Crusade the conquest of the Palestinian sea coast was finally completed."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 617",
+            "quote": "The Moslem occupation, which commenced on October 2 (a Friday, and therefore considered a good omen by the Moslems), was carried out with a minimum of confusion."
           }
         ],
         "notes": {
@@ -121,9 +146,9 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After Hattin (4 July 1187) and Jerusalem's surrender (2 Oct 1187) the kingdom was reduced to Tyre plus a few castles: Kerak fell in 1188 and 'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre'. A Frankish army besieged Acre from 1189.",
-          "ar": "بعد حطين (4 تموز/يوليو 1187) واستسلام القدس (2 تشرين الأول/أكتوبر 1187) اقتصرت المملكة على صور وبضع قلاع: سقطت الكرك 1188 و'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre' [بحلول 1189 كانت المملكة كلها في يده عدا بلفوار ... وصور]. حاصر جيش فرنجي عكا منذ 1189.",
-          "he": "לאחר חיטין (4 ביולי 1187) וכניעת ירושלים (2 באוקטובר 1187) הצטמצמה הממלכה לצור ולכמה מצודות: כרך נפלה ב-1188 ו“by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre” [עד 1189 כל הממלכה הייתה בידיו מלבד בלווואר ... וצור]. צבא פרנקי צר על עכו מ-1189.",
+          "en": "After Hattin (4 July 1187) and the surrender of Jerusalem (2 Oct 1187) the kingdom was reduced to Tyre and a few castles: Safad fell on 6 Dec 1188, Kerak in Nov 1188, Belvoir on 5 Jan 1189 and Montréal in April-May 1189; Belfort (Beaufort) held out until 22 April 1190. A Frankish army besieged Acre from 27 Aug 1189.",
+          "ar": "بعد حطين (4 تموز/يوليو 1187) واستسلام القدس (2 تشرين الأول/أكتوبر 1187) تقلّصت المملكة إلى صور وبضع قلاع: سقطت صفد في 6 كانون الأول/ديسمبر 1188، والكرك في تشرين الثاني/نوفمبر 1188، وكوكب الهوا (بلفوار) في 5 كانون الثاني/يناير 1189، ومونريال في نيسان/أبريل-أيار/مايو 1189؛ وصمدت قلعة الشقيف (بوفور) حتى 22 نيسان/أبريل 1190. وحاصر جيش فرنجي عكا منذ 27 آب/أغسطس 1189.",
+          "he": "אחרי קרב קרני חיטין (4 ביולי 1187) וכניעת ירושלים (2 באוקטובר 1187) הצטמצמה הממלכה לצור ולכמה מבצרים: צפת נפלה ב־6 בדצמבר 1188, כרכ בנובמבר 1188, בלבואר (כוכב הירדן) ב־5 בינואר 1189 ומונטריאל באפריל–מאי 1189; בופור החזיק מעמד עד 22 באפריל 1190. צבא פרנקי צר על עכו מ־27 באוגוסט 1189.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -145,6 +170,41 @@
             "ref": "britannica-crusades",
             "locator": "section 'The Third Crusade'",
             "quote": "Scarcely two weeks after Ḥaṭṭin, Conrad of Montferrat, Baldwin V’s uncle, had landed at Tyre"
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "joined al-Malik al-ʿĀdil at Safad, where they besieged the fort. On December 6 the garrison capitulated and was permitted to go to Tyre."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "hunger finally forced the heroic garrison of Kerak to capitulate. Al-Malik al-'Ādil received the message from the nearly starved garrison and gave them free egress (November 1188)."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "Shortly afterward (April-May 1189), Krak de Montréal and a few other smaller places surrendered, and Humphrey was given his liberty."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "Belvoir gave in on January 5, 1189. Of the great castles in the kingdom only Belfort remained."
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "(The castle was not to surrender until April 22, 1190.)"
+          },
+          {
+            "ref": "baldwin-1969-decline-fall-jerusalem",
+            "locator": "p. 619",
+            "quote": "The kingdom of Jerusalem was entirely conquered with the exception of Belfort and Tyre."
+          },
+          {
+            "ref": "gibb-1969-rise-of-saladin",
+            "locator": "p. 588",
+            "quote": "Guy's troops succeeded in marching to Acre and investing the city, on August 27, 1189."
           }
         ],
         "notes": {
@@ -213,6 +273,21 @@
             "ref": "britannica-kingdom-of-jerusalem",
             "locator": "opening paragraph",
             "quote": "kingdom of Jerusalem, a state formed in 1099 from territory in Palestine wrested from Muslims by European Christians during the First Crusade and lasting until 1291"
+          },
+          {
+            "ref": "painter-1969-third-crusade",
+            "locator": "p. 85",
+            "quote": "On September 2, a truce for three years was signed by the representatives of the king and the sultan. The Christians were to hold a narrow strip along the coast from Tyre to Jaffa."
+          },
+          {
+            "ref": "painter-1969-third-crusade",
+            "locator": "p. 85",
+            "quote": "Ascalon was to have its fortifications demolished before it was turned over to the sultan. Both Christians and Moslems were to have free passage through the whole of Palestine."
+          },
+          {
+            "ref": "baha-al-din-conder-1897-life-of-saladin",
+            "locator": "ch. CLXX, p. 383",
+            "quote": "peace was to be made for three years, commencing from the date of the document, that is to say, from Wednesday the 22nd of Sha'ban, 588 (September 2, 1192)"
           }
         ],
         "notes": {
@@ -289,12 +364,42 @@
             "ref": "britannica-zefat",
             "locator": "history paragraph",
             "quote": "Safed passed from hand to hand during the Crusades until captured by Baybars I, who razed its citadel (1266)."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 702",
+            "quote": "Five months of hard bargaining resulted in the compromise treaty of February 18, 1229, which was received in most Moslem circles with violent indignation"
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 702 (summarizing the qadi of Hamah)",
+            "quote": "the cession was limited to Jerusalem alone, \"including neither much nor little of its territories and dependencies\""
+          },
+          {
+            "ref": "van-cleve-1969-crusade-frederick-ii",
+            "locator": "p. 455",
+            "quote": "Frederick also received Bethlehem and Nazareth, with the villages along the routes to Jerusalem, part of Sidon district, and Toron, dominating the coast."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 706 (late 1239)",
+            "quote": "an-Nāṣir Dā'ūd laid siege to it, and in the middle of December succeeded in storming the Tower of David and reoccupying the city."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 709",
+            "quote": "in the spring of 1244 gave them full possession of Jerusalem, in agreement with Dā'ūd of Kerak and al-Manṣūr of Homs."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 709",
+            "quote": "In the summer of 1244 over 10,000 of them swept down through the Biqā', captured Jerusalem after a short siege (August 23), occupied Palestine"
           }
         ],
         "notes": {
-          "en": "Partial units: Jerusalem-Bethlehem (judea), the corridor to Jaffa (shephelah), Nazareth (lower-galilee); upper-galilee partial because Safad changed hands during the Crusades and was Frankish until Baybars took it in 1266 (exact date of its 13th-century recovery not verified). Other territory regained in 1239-41 is not mapped.",
-          "ar": "وحدات جزئية: القدس-بيت لحم (judea)، والممر إلى يافا (shephelah)، والناصرة (lower-galilee)؛ والجليل الأعلى (upper-galilee) جزئي لأن صفد تبدلت يدها خلال الحروب الصليبية وظلت فرنجية حتى أخذها بيبرس عام 1266 (لم يُتحقق من التاريخ الدقيق لاسترداد القرن 13). ولم تُرسم أراضٍ أخرى استُردت في 1239-41.",
-          "he": "יחידות חלקיות: ירושלים-בית לחם (judea), המסדרון ליפו (shephelah), נצרת (lower-galilee); הגליל העליון (upper-galilee) חלקי משום שצפת החליפה ידיים במהלך מסעי הצלב והייתה פרנקית עד שבייברס לקח אותה ב-1266 (התאריך המדויק של השבתה במאה ה-13 לא אומת). שטחים אחרים שהוחזרו ב-1239-41 אינם ממופים.",
+          "en": "Partial units: Jerusalem-Bethlehem (judea), the corridor to Jaffa (shephelah), Nazareth (lower-galilee); upper-galilee partial because Safad changed hands during the Crusades and was Frankish until Baybars took it in 1266 (exact date of its 13th-century recovery not verified). Other territory regained in 1239-41 is not mapped. The 1229 terms are reported differently: Frederick II's side (Van Cleve) lists Jerusalem, Bethlehem, Nazareth, the villages along the routes to Jerusalem, part of the Sidon district and Toron; a Muslim summary (the qadi of Hamah, in Gibb) says the cession was 'limited to Jerusalem alone'. Jerusalem was retaken by an-Nasir Da'ud in Dec 1239, handed back to the Franks in spring 1244, and taken by the Khwarazmians on 23 Aug 1244.",
+          "ar": "الوحدات الجزئية: القدس-بيت لحم (يهودا)، والممر إلى يافا (السفوح)، والناصرة (الجليل الأسفل)؛ والجليل الأعلى جزئي لأن صفد تبدلت أيديها خلال الحروب الصليبية وكانت فرنجية حتى استولى عليها بيبرس سنة 1266 (ولم يُتحقق من التاريخ الدقيق لاستعادتها في القرن الثالث عشر). ولا تُرسم الأراضي الأخرى المستعادة في 1239-1241. وتُروى شروط 1229 بشكل مختلف: يذكر جانب فريدريك الثاني (فان كليف) القدس وبيت لحم والناصرة والقرى على الطرق المؤدية إلى القدس وجزءاً من منطقة صيدا وتبنين؛ بينما يقول ملخص إسلامي (قاضي حماة، عند جيب) إن التنازل «اقتصر على القدس وحدها». واستعاد الناصر داود القدس في كانون الأول/ديسمبر 1239، ثم سُلّمت مجدداً إلى الفرنجة في ربيع 1244، واستولى عليها الخوارزميون في 23 آب/أغسطس 1244.",
+          "he": "יחידות חלקיות: ירושלים–בית לחם (יהודה), המסדרון ליפו (שפלה), נצרת (הגליל התחתון); הגליל העליון חלקי משום שצפת עברה מיד ליד במסעות הצלב והייתה פרנקית עד שבייברס כבש אותה ב־1266 (התאריך המדויק של החזרתה במאה ה־13 לא אומת). שטחים אחרים שהוחזרו ב־1239–1241 אינם משורטטים. תנאי 1229 מתוארים באופן שונה: צדו של פרידריך השני (ואן קליב) מונה את ירושלים, בית לחם, נצרת, הכפרים לאורך הדרכים לירושלים, חלק ממחוז צידון ותורון; סיכום מוסלמי (הקאדי של חמאה, אצל גיב) אומר שהוויתור \"הוגבל לירושלים בלבד\". ירושלים נכבשה מחדש בידי אל־נאצר דאוד בדצמבר 1239, הוחזרה לפרנקים באביב 1244, ונלקחה בידי הח'וארזמים ב־23 באוגוסט 1244.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -315,8 +420,8 @@
         },
         "end": {
           "year": 1291,
-          "month": 5,
-          "day": 18,
+          "month": 8,
+          "day": 14,
           "precision": "day"
         },
         "units": [
@@ -364,6 +469,46 @@
             "ref": "britannica-crusades",
             "locator": "section 'The final loss of the Crusader states'",
             "quote": "Acre, the last Crusader stronghold on the mainland, was besieged in 1291."
+          },
+          {
+            "ref": "runciman-1969-crusader-states-1243-1291",
+            "locator": "p. 575 (campaign of 1265)",
+            "quote": "The town fell to him on February 27 and the citadel a week later. From Caesarea he crossed Mt. Carmel to Haifa, which was hastily abandoned by its inhabitants."
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 748",
+            "quote": "He began by capturing the ports of Caesarea, Haifa, and Arsuf, razing their fortifications to the ground"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 748",
+            "quote": "In 1266 he gave orders for intensive raids against the crusader towns along the Syrian coast, while he himself took Safad"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 749",
+            "quote": "Early in 1268 he again went to Syria, where he took Jaffa, Belfort, and, after a strenuous siege, Antioch"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 754",
+            "quote": "The final assault took place in the early morning of Friday, May 18, 1291"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 754",
+            "quote": "Within a few months after the fall of Acre, all the other coastal towns still in the possession of the crusaders were taken in turn by a small army force"
+          },
+          {
+            "ref": "runciman-1969-crusader-states-1243-1291",
+            "locator": "p. 598",
+            "quote": "Sidon was occupied at the end of June, though its Castle of the Sea was held by the Templars till July 14. Beirut surrendered on July 31"
+          },
+          {
+            "ref": "runciman-1969-crusader-states-1243-1291",
+            "locator": "p. 598",
+            "quote": "The Templars did not attempt to hold either of their great castles, Chateau Pèlerin and Tortosa. The latter was evacuated on August 3 and the former on August 14."
           }
         ],
         "notes": {
