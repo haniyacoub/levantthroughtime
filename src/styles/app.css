@@ -1193,6 +1193,7 @@ blockquote {
   }
   .story-card {
     bottom: 8px;
+    max-height: 55%;
   }
   .compare-split .compare-maps {
     grid-template-columns: 1fr;

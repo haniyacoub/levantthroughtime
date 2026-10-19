@@ -171,6 +171,7 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
         map.addControl(new NavigationControl({ showCompass: false }), 'top-left');
         attribution.current = new AttributionControl({ compact: true, customAttribution: tr('attribution') });
         map.addControl(attribution.current);
+        collapseCreditsIfNarrow(map);
         map.on('styleimagemissing', (e: MapStyleImageMissingEvent) => {
           if (e.id === 'hatch' && !map.hasImage('hatch')) map.addImage('hatch', hatchImage());
         });
@@ -279,6 +280,7 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
     map.removeControl(attribution.current);
     attribution.current = new AttributionControl({ compact: true, customAttribution: tr('attribution') });
     map.addControl(attribution.current);
+    collapseCreditsIfNarrow(map);
   }, [ready, lang, tr]);
 
   // Landscape: the coastline and Dead Sea for the documented levels in force at time t (modelled).
@@ -411,6 +413,12 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
 }
 
 /** The map layers drawn for one modern layer (one per style class for lines). */
+/** On narrow maps the credits start folded behind their "i" button (tap to open), so they don't cover the map. */
+function collapseCreditsIfNarrow(map: MLMap): void {
+  if (map.getContainer().clientWidth >= 640) return;
+  map.getContainer().querySelector('.maplibregl-ctrl-attrib')?.classList.remove('maplibregl-compact-show');
+}
+
 function modernLayerIds(l: ModernLayer): { id: string; cls?: string }[] {
   if (l.kind === 'line' && l.class_styles) return Object.keys(l.class_styles).map((cls) => ({ id: `modern-${l.id}-${cls}`, cls }));
   if (l.kind === 'fill') return [{ id: `modern-${l.id}-fill` }, { id: `modern-${l.id}-line` }];
