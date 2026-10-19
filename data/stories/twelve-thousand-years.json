@@ -1,0 +1,929 @@
+{
+  "$schema": "../../schema/story.schema.json",
+  "id": "twelve-thousand-years",
+  "title": {
+    "en": "12,000 years in 5 minutes"
+  },
+  "summary": {
+    "en": "A fast pass through the whole timeline, from the first villages to today, one stop per era."
+  },
+  "steps": [
+    {
+      "date": {
+        "year": -9500
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "landscape"
+      ],
+      "title": {
+        "en": "Foragers and the first villages"
+      },
+      "card": {
+        "en": "The Middle Stone Age here is best known from the Natufian culture, excavated at ʿAin Mallaha and Jericho [1]. The Pre-Pottery Neolithic A that followed lasted about 1,000 years, roughly 40 generations [2]. By about 8000 BCE the people of Jericho had built a massive stone wall around their settlement [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "The Stone Age and the Copper Age",
+          "quote": "The Mesolithic Period (Middle Stone Age) is best represented by a culture called Natufian, known from excavations at ʿAin Mallāha and Jericho."
+        },
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "Archaic Villages of the PPNA",
+          "quote": "a mere 1,000 calendrical years (or ∼40 generations)"
+        },
+        {
+          "ref": "britannica-jericho",
+          "locator": "archaeology paragraphs",
+          "quote": "By about 8000 bce the inhabitants had grown into an organized community capable of building a massive stone wall around the settlement, strengthened at one point at least by a massive stone tower."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -7500
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "landscape"
+      ],
+      "title": {
+        "en": "Farming villages spread"
+      },
+      "card": {
+        "en": "Villages of the Pre-Pottery Neolithic B were first founded in a narrow north–south corridor on the western edge of the Transjordanian plateau [1]. At Jericho, a new group arrived around 7000 BCE with a culture that was still Neolithic and did not yet make pottery [2]."
+      },
+      "sources": [
+        {
+          "ref": "goring-morris-belfer-cohen-2011",
+          "locator": "PPNB Village Society",
+          "quote": "The southern Levant settlements were initially founded in a narrow corridor along a north-south axis on the western edge of the Trans-Jordanian Plateau (and to some extent the Jordan Valley) from Aswad to southern Edom"
+        },
+        {
+          "ref": "britannica-jericho",
+          "locator": "archaeology paragraphs",
+          "quote": "These occupants were succeeded about 7000 bce by a second group, bringing a culture that was still Neolithic and still not manufacturing pottery"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -4200
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "landscape"
+      ],
+      "title": {
+        "en": "The Copper Age"
+      },
+      "card": {
+        "en": "Ghassulian (Chalcolithic) settlements lay mainly in the south, with an extension up the coastal plain [1]. Occupation had ended at almost all the major Chalcolithic centres by 3800/3700 BCE [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "The Stone Age and the Copper Age",
+          "quote": "The region in which the Ghassulian settlements have been found is mainly in the south of Palestine, with an extension up the coastal plain and its fringes."
+        },
+        {
+          "ref": "bourke-et-al-2004-ghassul",
+          "locator": "abstract",
+          "quote": "Chalcolithic period occupation had ceased at virtually all major centers by 3800/3700 cal BC"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -2700
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "The first towns"
+      },
+      "card": {
+        "en": "In the Early Bronze Age the towns were probably independent city-states, except where Egypt may at times have held loose control [1]. By about the 23rd century BCE, urban life had come to an end [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "Palestine’s towns presumably remained independent city-states, except insofar as Egypt may at times have exercised a loose political control."
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Early Bronze Age",
+          "quote": "By about the 23rd century BCE the whole civilization had ceased to be urban."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -1400
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Egyptian rule in Canaan"
+      },
+      "card": {
+        "en": "Shortly before 1515 BCE Egyptian armies began to conquer the land [1]. Egypt ran it as its district of Canaan, from the Egyptian border to Byblos [2]. Local city-states such as Shechem and Jerusalem pressed on Egyptian strongholds like Beth-shean, which linked to Egyptian centres at Jaffa and Gaza [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Late Bronze Age",
+          "quote": "Shortly before the death of Ahmose I (1515 BCE), the first native pharaoh of the New Kingdom, the Egyptian armies began to conquer Palestine"
+        },
+        {
+          "ref": "britannica-palestine-history",
+          "locator": "Late Bronze Age",
+          "quote": "The third district (Canaan) included all of Palestine from the Egyptian border to Byblos."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 19",
+          "quote": "The Shechem coalition put pressure on the Egyptian stronghold at Beth-shean and threatened to disconnect it from the Egyptian centers of Jaffa and Gaza."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -1150
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Philistines on the coast"
+      },
+      "card": {
+        "en": "Around 1190 BCE the Philistines appear in Egyptian records as one of the Sea Peoples [1]. They founded five city-states on the southern coast: Gaza, Ashkelon, Ashdod, Gath and Ekron [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-philistine",
+          "locator": "article",
+          "quote": "they appear under the name prst, as one of the Sea Peoples that invaded Egypt about 1190 bce after ravaging Anatolia, Cyprus, and Syria."
+        },
+        {
+          "ref": "britannica-philistine",
+          "locator": "article",
+          "quote": "The area contained the five cities (the Pentapolis) of the Philistine confederacy (Gaza, Ashkelon [Ascalon], Ashdod, Gath, and Ekron)"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -850
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Israel and Judah"
+      },
+      "card": {
+        "en": "From the late 10th century BCE two kingdoms existed side by side: Israel in the north and Judah, under the Davidic dynasty, in the south [1][2]. Assyrian records name Ahab of Israel in a coalition that fought Shalmaneser III in 853/852 BCE [3]."
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 64",
+          "quote": "Jeroboam I: 931–909 b.c.e."
+        },
+        {
+          "ref": "britannica-israel-kingdom",
+          "locator": "introduction",
+          "quote": "The southern kingdom, ruled by the Davidic dynasty, was thereafter referred to as Judah."
+        },
+        {
+          "ref": "britannica-israel-kingdom",
+          "locator": "extrabiblical evidence",
+          "quote": "Ahab the Israelite as a member of an anti-Assyrian coalition who controlled 2,000 chariots and 10,000 soldiers in a battle against Shalmaneser in 853/852."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -715
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Assyria"
+      },
+      "card": {
+        "en": "In 733 BCE the Assyrian king Tiglath-pileser III devastated Israel and took large parts of its territory [1]. After Samaria fell in 722–720 BCE, Israel became an Assyrian province and its upper class was deported [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-mesopotamia-neo-assyrian",
+          "locator": "Tiglath-pileser III",
+          "quote": "In 733 Tiglath-pileser devastated Israel and forced it to surrender large territories."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 153",
+          "quote": "Samaria was captured by Assyria in 722–720 b.c.e."
+        },
+        {
+          "ref": "britannica-mesopotamia-neo-assyrian",
+          "locator": "Sargon II",
+          "quote": "The Samarian upper class was deported, and Israel became an Assyrian province."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -586
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Babylon"
+      },
+      "card": {
+        "en": "Nebuchadnezzar II of Babylon captured Jerusalem in 597 BCE and deported Judah’s king, Jehoiachin [1]. About 587/586 BCE the city was stormed and destroyed, and prominent citizens were deported [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-nebuchadnezzar-ii",
+          "locator": "campaigns",
+          "quote": "He attacked Judah a year later and captured Jerusalem on March 16, 597, deporting King Jehoiachin to Babylon."
+        },
+        {
+          "ref": "britannica-palestine-iron-age",
+          "locator": "Assyrian and Babylonian rule",
+          "quote": "Jerusalem was twice besieged, in 597 and after 589. Finally, about 587/586, it was stormed and destroyed."
+        },
+        {
+          "ref": "britannica-nebuchadnezzar-ii",
+          "locator": "campaigns",
+          "quote": "The siege of Jerusalem ended in its capture in 587/586 and in the deportation of prominent citizens, with a further deportation in 582."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -450
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Persian rule"
+      },
+      "card": {
+        "en": "Cyrus of Persia decreed around 538 BCE that Judah be restored and the Temple in Jerusalem rebuilt [1]. Seals of the late 6th and early 5th centuries name a province of Judah (Yehud), although some scholars date the province itself only to the end of the 5th century [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-iron-age",
+          "locator": "The Persian empire",
+          "quote": "One of Cyrus’s first acts was to decree (c. 538 BCE) that Judah be restored and the Temple of Jerusalem be rebuilt."
+        },
+        {
+          "ref": "iranica-eber-nari",
+          "locator": "entry",
+          "quote": "Bullae and seal impressions of the end of the 6th and beginning of the 5th centuries mention the province of Judah"
+        },
+        {
+          "ref": "stern-yehud-vision-reality",
+          "locator": "p. 21",
+          "quote": "The province of Yehud was founded only at the end of the fifth century B.C.E."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -130
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Greeks and Hasmoneans"
+      },
+      "card": {
+        "en": "Alexander the Great, passing south towards Egypt, took the coastal cities that could serve the Persian fleet [1]. In 142 BCE Simon the Hasmonean won recognition from the Seleucid king, and Judea came to be ruled by hereditary high priests [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-hellenistic",
+          "locator": "opening paragraph",
+          "quote": "he confined his attention, in his passage southward, to reducing the coastal cities that might form bases for the Persian fleet"
+        },
+        {
+          "ref": "schiffman-1991",
+          "locator": "The Hasmonean Dynasty",
+          "quote": "In 142 B.C.E. Simon gained recognition from the Seleucid king Demetrius II Nicator"
+        },
+        {
+          "ref": "britannica-hasmonean-dynasty",
+          "locator": "introduction",
+          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea; the offices were hereditary"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 140
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Rome"
+      },
+      "card": {
+        "en": "The lands ruled by Herod’s son Archelaus — Judaea, Samaria and Edom — became the Roman province of Judaea [1]. Jerusalem was sacked in 70 CE [2]. After the Bar Kokhba revolt the province was renamed Syria Palaestina; the earliest dated evidence of the new name is from 139 CE, and the reason for the change is debated [3][4][5]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-hasmonean-herodian",
+          "locator": "The Herodian house",
+          "quote": "The region under Archelaus’s rule (i.e., Judaea, Samaria, and Edom) became the province of Judaea"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "removed after the sack of Jerusalem in 70 ce",
+          "locator": "Roman Palestine (illustration caption)"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "Roman Palestine",
+          "quote": "The province of Judaea was renamed Syria Palaestina (later simply called Palaestina)"
+        },
+        {
+          "ref": "barron-judaism-rome-cil-xvi-87",
+          "locator": "commentary",
+          "quote": "it is the earliest material evidence for the province’s change of name following the Bar Kokhba revolt, from Judea to Syria-Palaestina"
+        },
+        {
+          "ref": "feldman-1990-name-palestine",
+          "locator": "p. 19",
+          "quote": "there is only circumstantial evidence linking Hadrian with the change of the name Judea to that of Palestine",
+          "via": "jacobson-2001-bar"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 500
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Christian Byzantium"
+      },
+      "card": {
+        "en": "After Constantine I converted to Christianity early in the 4th century, a new era of prosperity began for Palestine [1]. The emperor built a church on the site of the Holy Sepulchre, and the land drew pilgrims from all parts of the empire [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "After Constantine I converted to Christianity",
+          "locator": "Roman Palestine"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "The emperor himself built a magnificent church on the site of the Holy Sepulchre",
+          "locator": "Roman Palestine"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "Palestine began to attract floods of pilgrims from all parts of the empire.",
+          "locator": "Roman Palestine"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 700
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "The Islamic conquest"
+      },
+      "card": {
+        "en": "Arab Muslim forces won a battle at Ajnadayn in southern Palestine on 30 July 634 [1]. Jerusalem surrendered in 638 and Caesarea in October 640 [2]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "The rise of Islam",
+          "quote": "the combined forces won a bloody victory on July 30, 634, at a place in southern Palestine that the sources call Ajnādayn"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "From the Arab conquest to 1900",
+          "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "The rise of Islam",
+          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1150
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "The Crusades"
+      },
+      "card": {
+        "en": "European Christians of the First Crusade took Jerusalem on 15 July 1099 and founded the Kingdom of Jerusalem [1][2]. The kingdom lasted until 1291, when the last Crusaders were driven out of Acre [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-crusades",
+          "locator": "section 'The siege of Jerusalem'",
+          "quote": "on July 15 Godfrey’s men took a sector of the walls"
+        },
+        {
+          "ref": "britannica-kingdom-of-jerusalem",
+          "locator": "opening paragraph",
+          "quote": "kingdom of Jerusalem, a state formed in 1099 from territory in Palestine wrested from Muslims by European Christians during the First Crusade and lasting until 1291"
+        },
+        {
+          "ref": "britannica-palestine-to-1900",
+          "locator": "section 'The Crusades'",
+          "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1350
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "The Mamluks"
+      },
+      "card": {
+        "en": "The Mamluks of Egypt defeated the invading Mongols at Ayn Jalut on 3 September 1260 [1]. Their dynasty ruled Egypt and Syria from 1250 to 1517 [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-battle-of-ayn-jalut",
+          "locator": "definition",
+          "quote": "decisive victory of the Mamluks of Egypt over the invading Mongols on September 3, 1260"
+        },
+        {
+          "ref": "britannica-mamluk",
+          "locator": "opening paragraph",
+          "quote": "Mamluk generals used their power to establish a dynasty that ruled Egypt and Syria from 1250 to 1517."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1700
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "Four Ottoman centuries"
+      },
+      "card": {
+        "en": "The Ottoman sultan Selim I defeated the Mamluks in 1516–17, bringing Syria, Egypt and Palestine under Ottoman rule [1]. Ottoman rule lasted four centuries [2]. British and Allied forces took Jerusalem in December 1917 and the rest of the area by October 1918 [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-selim-i",
+          "locator": "main text",
+          "quote": "Selim defeated the Mamluk armies at the battles of Marj Dābiq (north of Aleppo; August 24, 1516) and Raydāniyyah (near Cairo; January 22, 1517), thus bringing Syria, Egypt, and Palestine under Ottoman rule."
+        },
+        {
+          "ref": "britannica-palestine-to-1900",
+          "locator": "section 'The Crusades' (end)",
+          "quote": "on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq. Palestine began its four centuries under Ottoman domination."
+        },
+        {
+          "ref": "britannica-palestine-ww1",
+          "locator": "section 'World War I and after', paragraph 2",
+          "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1935
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "title": {
+        "en": "The British Mandate"
+      },
+      "card": {
+        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate for Palestine on 24 July 1922, and it came into formal effect in September 1923 [2]."
+      },
+      "sources": [
+        {
+          "ref": "un-dpr-origins-part1",
+          "quote": "a civilian High Commissioner, Sir Herbert Samuel, taking office on 1 July 1920"
+        },
+        {
+          "ref": "un-dpr-origins-part1",
+          "quote": "which was approved by the League of Nations on 24 July 1922, and came into formal effect in September 1923 when the Treaty of Lausanne with Turkey came into force."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1949,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "migrations"
+      ],
+      "title": {
+        "en": "1948"
+      },
+      "card": {
+        "en": "Israel declared its independence on 14 May 1948, and the British Mandate ended the next day [1]. The armies of Egypt, Transjordan, Iraq, Syria and Lebanon then invaded, carrying out a decision of the Arab League [2]. From the start of the civil war to the end of the war, more than 400 Palestinian Arab towns and villages were destroyed or depopulated [3]. Armistice agreements with Egypt, Lebanon, Transjordan and Syria followed in 1949 [4]."
+      },
+      "sources": [
+        {
+          "ref": "un-dpr-origins-part2",
+          "quote": "Israel declared its independence on 14 May 1948. The departure"
+        },
+        {
+          "ref": "britannica-1948-war",
+          "quote": "The following day, the armies of Egypt, Transjordan (Jordan), Iraq, Syria, and Lebanon invaded and attacked the Jewish paramilitaries, carrying out a decision that the Arab League had made weeks before."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "quote": "From the start of the civil war to the end of the conventional war, more than 400 Palestinian Arab towns and villages were destroyed or depopulated."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "quote": "A series of armistice agreements with the neighboring countries of Egypt (February 24, 1949), Lebanon (March 23, 1949), Transjordan (April 3, 1949), and Syria (July 20, 1949)"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1968
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "title": {
+        "en": "1967"
+      },
+      "card": {
+        "en": "In the June 1967 war Israel captured the Sinai Peninsula, the Gaza Strip, the West Bank, the Old City of Jerusalem and the Golan Heights [1]. It set up a military administration in the West Bank, except in East Jerusalem, which it incorporated into Israel [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-six-day-war",
+          "quote": "Israel's decisive victory included the capture of the Sinai Peninsula, Gaza Strip, West Bank, Old City of Jerusalem, and Golan Heights"
+        },
+        {
+          "ref": "britannica-west-bank",
+          "quote": "During the 1967 war Israel occupied the West Bank and established a military administration throughout the area, except in East Jerusalem"
+        },
+        {
+          "ref": "britannica-west-bank",
+          "quote": "except in East Jerusalem, which Israel incorporated into itself, extending Israeli citizenship, law, and civil administration to the area."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1998
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "title": {
+        "en": "Oslo"
+      },
+      "card": {
+        "en": "An agreement signed in Cairo on 4 May 1994 began the transfer of authority to the newly created Palestinian Authority [1]. Since 2007, when Hamas took control of the Gaza Strip by force, the Palestinian Authority has not exercised control there [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-oslo-accords",
+          "quote": "On May 4, 1994, an agreement concluded in Cairo arranged for the first stage of withdrawal of Israeli security forces and their transfer of authority to the newly created Palestinian Authority."
+        },
+        {
+          "ref": "britannica-palestinian-authority",
+          "quote": "the PA also has de jure governing authority over the entirety of the Gaza Strip, but it has not exercised de facto control there since 2007, when Hamas took control of the region by force."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2026,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "title": {
+        "en": "Today"
+      },
+      "card": {
+        "en": "The war in Gaza began on 7 October 2023, when Hamas launched a land, sea and air assault on Israel from the territory [1]. Israeli ground forces advanced into the Gaza Strip at the end of that month [2]. Under the ceasefire in force from 10 October 2025, the Israeli military was to keep about 53 percent of the Gaza Strip in the first phase of its withdrawal [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-israel-hamas-war",
+          "quote": "a war in the Gaza Strip between Israel and Palestinian militants, especially Hamas, that began on October 7, 2023, when Hamas launched a land, sea, and air assault on Israel from the territory"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "quote": "The war entered a new chapter at the end of October when Israeli ground forces advanced into the Gaza Strip."
+        },
+        {
+          "ref": "afp-2025-10-10-pullback",
+          "quote": "the Israeli military announced that a ceasefire had come into effect on Friday."
+        },
+        {
+          "ref": "afp-2025-10-10-pullback",
+          "quote": "During this first part of the withdrawal process, the military will still hold about 53 percent of the Gaza Strip."
+        }
+      ],
+      "duration_s": 14
+    }
+  ]
+}

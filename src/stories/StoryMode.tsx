@@ -66,10 +66,26 @@ export function StoryCard({ data, scale }: { data: AppData; scale: EraScale }) {
     if (step.layers) setLayers(step.layers.filter((k): k is LayerKey => (LAYER_KEYS as readonly string[]).includes(k)));
     const place = step.highlight?.find((id) => data.places.some((p) => p.id === id));
     setPlace(place ?? null);
-    if (step.view && mapRegistry.main) {
+    if (!step.view) return;
+    const view = step.view;
+    const fly = () => {
+      if (!mapRegistry.main) return false;
       const reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
-      mapRegistry.main.flyTo({ center: step.view.center, zoom: step.view.zoom, duration: reduce ? 0 : 2200 });
-    }
+      // Keep the point of interest clear of the story card (bottom-left, or bottom-right in RTL).
+      const wide = window.innerWidth > 700;
+      const rtl = document.documentElement.dir === 'rtl';
+      const padding = wide ? { top: 0, bottom: 0, left: rtl ? 0 : 420, right: rtl ? 420 : 0 } : { top: 0, bottom: 220, left: 0, right: 0 };
+      mapRegistry.main.flyTo({ center: view.center, zoom: view.zoom, padding, duration: reduce ? 0 : 2200 });
+      return true;
+    };
+    if (fly()) return;
+    // Opened from a link: wait for the map to be created.
+    const id = window.setInterval(() => fly() && window.clearInterval(id), 200);
+    const stop = window.setTimeout(() => window.clearInterval(id), 15000);
+    return () => {
+      window.clearInterval(id);
+      window.clearTimeout(stop);
+    };
   }, [step, scale, setT, setPlaying, setLayers, setPlace, data]);
 
   // Autoplay: advance after the step's duration.

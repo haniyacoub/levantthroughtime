@@ -1,0 +1,802 @@
+{
+  "$schema": "../../schema/story.schema.json",
+  "id": "jerusalem-through-time",
+  "title": {
+    "en": "Jerusalem through time"
+  },
+  "summary": {
+    "en": "One city under many names and rulers, holy to three religions, and contested today."
+  },
+  "steps": [
+    {
+      "date": {
+        "year": -1350
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Urusalim"
+      },
+      "card": {
+        "en": "The city’s earliest recorded name, Urusalim, appears in Akkadian cuneiform texts of the Late Bronze Age [1]. Jerusalem was then the centre of one of two large political units in the highlands; the other was centred on Shechem [2]. Letters written by its ruler, Abdi-Heba, survive [3]."
+      },
+      "sources": [
+        {
+          "ref": "pleiades",
+          "locator": "places/687928, name 'urusalim'"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 17",
+          "quote": "apparently indicating that the entire area was divided between two large political bodies: a northern one centered in Shechem and a southern one centered in Jerusalem."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 17 n. 1",
+          "quote": "written by Abdi-Heba of Jerusalem"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -950
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "David’s city: text and archaeology"
+      },
+      "card": {
+        "en": "Many scholars date a united monarchy of Israel to about 1020–922 BCE, while others doubt that it existed [1]. Archaeologists who accept it differ on its size: some see a small entity centred on Jerusalem and its vicinity, others a short-lived tribal alliance with wide influence [2][3]. Israel Finkelstein argues that the great united monarchy of the Bible is a literary construct [4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-israel-kingdom",
+          "locator": "introduction",
+          "quote": "scholars date the united monarchy of ancient Israel to about 1020–922 bce, although others doubt the historicity of the polity because of differences in the interpretation of certain texts."
+        },
+        {
+          "ref": "mazar-2021-beth-shean",
+          "locator": "p. 259",
+          "quote": "others either negate its very existence or suggest that it was a small political entity centered in Jerusalem and its vicinity"
+        },
+        {
+          "ref": "mazar-2021-beth-shean",
+          "locator": "p. 260",
+          "quote": "The Davidic state should perhaps be understood as a short-lived tribal alliance, lacking a centralized administration and hierarchical society yet having an impact on extensive territories."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 9",
+          "quote": "the biblical idea of a great united monarchy is a literary construct"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -586
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Destroyed by Babylon"
+      },
+      "card": {
+        "en": "Nebuchadnezzar II captured Jerusalem in 597 BCE and deported King Jehoiachin to Babylon [1]. About 587/586 BCE the city was stormed and destroyed [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-nebuchadnezzar-ii",
+          "locator": "campaigns",
+          "quote": "He attacked Judah a year later and captured Jerusalem on March 16, 597, deporting King Jehoiachin to Babylon."
+        },
+        {
+          "ref": "britannica-palestine-iron-age",
+          "locator": "Assyrian and Babylonian rule",
+          "quote": "Jerusalem was twice besieged, in 597 and after 589. Finally, about 587/586, it was stormed and destroyed."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -450
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "A small Persian-period town"
+      },
+      "card": {
+        "en": "Cyrus decreed around 538 BCE that the Temple of Jerusalem be rebuilt [1]. Archaeological estimates of the Persian-period city’s population range from about 1,000 people to about 4,800 [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-iron-age",
+          "locator": "The Persian empire",
+          "quote": "One of Cyrus’s first acts was to decree (c. 538 BCE) that Judah be restored and the Temple of Jerusalem be rebuilt."
+        },
+        {
+          "ref": "lipschits-2009-persian-period-finds-jerusalem",
+          "locator": "p. 20",
+          "quote": "Calculating the population of Jerusalem according to the lower coefficient of 20 people per one built-up dunam brings the population estimate to about 1000 people"
+        },
+        {
+          "ref": "broshi-1977-number-of-inhabitants-jerusalem",
+          "locator": "p. 68 and table p. 71 (as cited by Lipschits 2009, p. 3)",
+          "quote": "Broshi (1977: 68, and table p. 71) estimated that the population in Persian period Jerusalem was approximately 4,800 inhabitants",
+          "via": "lipschits-2009-persian-period-finds-jerusalem"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": -167
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "The Temple rededicated to Zeus"
+      },
+      "card": {
+        "en": "Greek rule Hellenized much of Jerusalem’s upper class [1]. On 25 December 167 BCE the Seleucid king Antiochus IV rededicated the Temple in Jerusalem to the Olympian god Zeus [2]. Under the Hasmoneans who rose against him, Judea became independent of the Seleucids [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-hellenistic",
+          "quote": "The century and a half of Greek rule had Hellenized much of the upper class of Jerusalem"
+        },
+        {
+          "ref": "britannica-maccabees",
+          "quote": "his final act of spite, on December 25, 167",
+          "locator": "article"
+        },
+        {
+          "ref": "britannica-hasmonean-dynasty",
+          "locator": "introduction",
+          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea; the offices were hereditary"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 70
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "temple-mount-haram-al-sharif"
+      ],
+      "title": {
+        "en": "The Roman sack"
+      },
+      "card": {
+        "en": "Herod, the Roman-appointed king of Judaea from 37 to 4 BCE, ordered the Temple rebuilt on a magnificent scale in 20/19 BCE [1][2]. Jerusalem was sacked in 70 CE, and the Jews, deprived of the Temple, founded a new religious centre at Jamnia (Yavne) [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-herod",
+          "locator": "introduction",
+          "quote": "Herod (born 73 bce —died March/April, 4 bce, Jericho, Judaea) was the Roman-appointed king of Judaea (37–4 bce)"
+        },
+        {
+          "ref": "britannica-temple-mount",
+          "quote": "Herod, who was appointed ruler of Judaea in 40 bce, ordered a reconstruction on a magnificent scale in 20/19 bce",
+          "locator": "article"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "removed after the sack of Jerusalem in 70 ce",
+          "locator": "Roman Palestine (illustration caption)"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "The Jews, deprived of the Temple, founded a new religious center in the rabbinical school of Jamnia",
+          "locator": "Roman Palestine"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 140
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Aelia Capitolina"
+      },
+      "card": {
+        "en": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem [1]. The plan helped provoke the Second Jewish Revolt, led by Bar Kokhba [2]. According to Le Strange, Hadrian removed all the Jews from the city when he renamed it [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "Roman Palestine",
+          "quote": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem."
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "The announcement of his plan, as well as his ban on circumcision (revoked later, but only for the Jews), provoked a much more serious uprising, the Second Jewish Revolt, led by Bar Kokhba",
+          "locator": "Roman Palestine"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "ch. III (Jerusalem), names of the city",
+          "quote": "The Emperor Hadrian, after removing all the Jews from Jerusalem (a.d. 130), gave the town the name of Aelia Capitolina"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 400
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "church-of-the-holy-sepulchre"
+      ],
+      "title": {
+        "en": "A Christian holy city"
+      },
+      "card": {
+        "en": "Constantine built a church on the site of the Holy Sepulchre, the most sacred of Christian holy places [1]. Christians venerate it as the place of Jesus’ crucifixion and burial [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "The emperor himself built a magnificent church on the site of the Holy Sepulchre",
+          "locator": "Roman Palestine"
+        },
+        {
+          "ref": "britannica-church-of-the-holy-sepulchre",
+          "locator": "topic summary",
+          "quote": "built on the traditional site of Jesus' crucifixion and burial"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 700
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "dome-of-the-rock"
+      ],
+      "title": {
+        "en": "Bayt al-Maqdis"
+      },
+      "card": {
+        "en": "Jerusalem surrendered to the Muslims in 638 [1]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [2]. Muslims hold that the Prophet Muhammad was taken up to heaven from the rock beneath it, and Jerusalem was the first direction of Muslim prayer [3][4]. Arabic writers called the city Iliya, from the Latin Aelia, and Bayt al-Maqdis, “the Holy House” [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "From the Arab conquest to 1900",
+          "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "locator": "The rise of Islam",
+          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691"
+        },
+        {
+          "ref": "britannica-dome-of-the-rock",
+          "quote": "According to Muslims, the rock above which the dome is constructed is the spot from which the Prophet Muhammad was taken up into heaven"
+        },
+        {
+          "ref": "wailing-wall-commission-1930",
+          "locator": "section IV (Moslem claims)",
+          "quote": "Jerusalem and especially the Temple area, for a certain period, became the first Kibla (direction) for the Moslems"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "ch. III (Jerusalem), names of the city",
+          "quote": "the first part of this name was preserved in the Arabic as Iliya"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "ch. III (Jerusalem), Mukaddasi's description (985)",
+          "quote": "The Holy City, Bait-al-Makdis, is also known as Iliya and Al Balat."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1010
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "church-of-the-holy-sepulchre"
+      ],
+      "title": {
+        "en": "The church destroyed"
+      },
+      "card": {
+        "en": "The Fatimid caliph al-Hakim (996–1021) was at times extremely harsh towards his non-Muslim subjects [1]. In 1009 he ordered the destruction of the Church of the Holy Sepulchre, which was severely damaged [2]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "The country suffered even greater hardship, however, under the Fatimid caliph al-Ḥākim (996–1021)",
+          "locator": "The Fatimid dynasty"
+        },
+        {
+          "ref": "britannica-palestine-roman-to-fatimid",
+          "quote": "In 1009 he ordered the destruction of the Church of the Holy Sepulchre",
+          "locator": "The Fatimid dynasty"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1150
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Crusader capital"
+      },
+      "card": {
+        "en": "As the Crusaders approached in 1099, villagers from the surrounding area left their homes for the safety of the walls, doubling a population that had reached about 20,000, according to Benvenisti [1][2]. The Crusaders took Jerusalem on 15 July 1099, and a year later the Latin Kingdom of Jerusalem was established [3][4]. The Ayyubid sultan al-Salih Ayyub restored Jerusalem to Muslim rule for good in 1244 [5]."
+      },
+      "sources": [
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "quote": "The inhabitants of the villages and townships abandoned their homes and concentrated within the city walls.",
+          "locator": "p. 35"
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 35",
+          "quote": "The population of Jerusalem, which in recent years had reached 20,000, was thus doubled."
+        },
+        {
+          "ref": "britannica-crusades",
+          "locator": "section 'The siege of Jerusalem'",
+          "quote": "on July 15 Godfrey’s men took a sector of the walls"
+        },
+        {
+          "ref": "britannica-palestine-to-1900",
+          "locator": "section 'The Crusades'",
+          "quote": "A year after the capture of Jerusalem by the Crusaders, the Latin kingdom of Jerusalem was established (Christmas Day, 1100)."
+        },
+        {
+          "ref": "britannica-palestine-to-1900",
+          "locator": "section 'The Crusades'",
+          "quote": "a 10-year treaty that temporarily restored Jerusalem, Nazareth, and Bethlehem to the Christians. In 1244, however, the Ayyubid sultan al-Ṣāliḥ Ayyūb definitively restored Jerusalem to Islam."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1600
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Al-Quds under the Ottomans"
+      },
+      "card": {
+        "en": "Under the Ottomans, Jerusalem was for centuries an ordinary district of the province of Damascus [1]. In 1872 it was made a separate district answering directly to Istanbul, and stayed so until the First World War [2][3]. Le Strange noted that “al-Quds”, “the Holy”, had become the city’s most common Arabic name [4]."
+      },
+      "sources": [
+        {
+          "ref": "abu-manneh-1999-sanjak-jerusalem",
+          "locator": "pp. 36-37",
+          "quote": "Throughout the Ottoman period and until the early decades of the nineteenth century Jerusalem was regarded as an ordinary sanjak. On the whole, it was part of the province of Sham (Damascus) and subject to its governor."
+        },
+        {
+          "ref": "abu-manneh-1999-sanjak-jerusalem",
+          "locator": "p. 39",
+          "quote": "in the summer of 1872, Nedim separated the sanjak of Jerusalem from the jurisdiction of Damascus, under which it had been for centuries, and constituted it as an independent sanjak subject directly to Istanbul."
+        },
+        {
+          "ref": "abu-manneh-1999-sanjak-jerusalem",
+          "locator": "p. 39",
+          "quote": "Thus Jerusalem with the districts of Gaza, Jaffa and Hebron only formed the “sanjak of Kudus.” It stayed so until World War I."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "ch. III (Jerusalem), names of the city",
+          "quote": "or else simply as Al Kuds, \" The Holy \" ; the latter being the more common name at the present day"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1930
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape"
+      ],
+      "highlight": [
+        "western-wall"
+      ],
+      "title": {
+        "en": "The Wall and the Mandate"
+      },
+      "card": {
+        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917 [1]. A commission approved by the League of Nations found in 1930 that the Western Wall had for centuries been an object of Jewish religious veneration [2]. It also found that the wall is sacred to Muslims because of the Prophet’s visit with his steed al-Buraq, and that its ownership is Muslim [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestine-ww1",
+          "locator": "section 'World War I and after', paragraph 2",
+          "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+        },
+        {
+          "ref": "wailing-wall-commission-1930",
+          "locator": "section VI (opinions and conclusions)",
+          "quote": "the Western Wall of the Temple area, for many centuries past, has been an object of religious veneration to the Jews."
+        },
+        {
+          "ref": "wailing-wall-commission-1930",
+          "locator": "section VI (opinions and conclusions)",
+          "quote": "the Wall as a whole, by reason of Mohammed's visit with his steed called Al Buraq, is sacred to the Moslems."
+        },
+        {
+          "ref": "wailing-wall-commission-1930",
+          "locator": "conclusions A-B",
+          "quote": "To the Moslems belong the sole ownership of, and the sole proprietary right to, the Western Wall"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1950
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "A divided city"
+      },
+      "card": {
+        "en": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated [1]. On 28 May 1948 the Jewish Quarter of the Old City was taken by Transjordan’s Arab Legion and left in rubble [2]. From 1948 to 1967 Israelis were not allowed access to the Temple Mount or the Western Wall [3]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-1948-war",
+          "locator": "Nakba section",
+          "quote": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated."
+        },
+        {
+          "ref": "britannica-1948-war",
+          "quote": "Gains from the civil war that had allowed Israel to protect the Jewish communities in Jerusalem were threatened by Arab advances, and on May 28 the Jewish quarter"
+        },
+        {
+          "ref": "britannica-temple-mount",
+          "quote": "Israelis were not allowed access to the Temple Mount or the Western Wall from 1948 to 1967"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1968
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "highlight": [
+        "temple-mount-haram-al-sharif"
+      ],
+      "title": {
+        "en": "1967"
+      },
+      "card": {
+        "en": "Israel captured the Old City in the June 1967 war and extended Israeli law and administration to East Jerusalem [1][2]. After the war the adjoining Mughrabi Quarter, an Islamic endowment, was bulldozed and its inhabitants expelled, which Arab sources describe as illegal [3][4]. Israel’s government announced that the Temple Mount compound would remain under Muslim administration; Jews could visit it but not pray there [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-six-day-war",
+          "quote": "Israel's decisive victory included the capture of the Sinai Peninsula, Gaza Strip, West Bank, Old City of Jerusalem, and Golan Heights"
+        },
+        {
+          "ref": "britannica-west-bank",
+          "quote": "except in East Jerusalem, which Israel incorporated into itself, extending Israeli citizenship, law, and civil administration to the area."
+        },
+        {
+          "ref": "kassim-2023-jordan-role",
+          "quote": "totally bulldozing the Mughrabi Quarter (which is an Islamic Waqf, or religious endowment) and expelling all of its inhabitants"
+        },
+        {
+          "ref": "kassim-2023-jordan-role",
+          "quote": "Despite all these illegal and illegitimate violations"
+        },
+        {
+          "ref": "reiter-2017-eroding-status-quo",
+          "locator": "p. 21",
+          "quote": "Prime Minister Levi Eshkol to announce a continuation of the conduct, in which, according to him, the site’s administration would belong to Muslim clergy"
+        },
+        {
+          "ref": "reiter-2017-eroding-status-quo",
+          "locator": "p. 32",
+          "quote": "in the status-quo arrangements of 1967, it was clear that Jews had the right to visit the site, but not to pray there."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2026,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "landscape",
+        "modern"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Capital claims today"
+      },
+      "card": {
+        "en": "Israel’s Basic Law of 1980 declares Jerusalem, “complete and united”, its capital, and Prime Minister Netanyahu has called it “our eternal capital” [1][2]. The 1988 Palestinian declaration of independence names Jerusalem as the capital of the State of Palestine [3]. The UN Security Council declared Israel’s measures altering the city’s status null and void, and the International Court of Justice regards East Jerusalem as occupied territory [4][5]. The United States, which recognised Jerusalem as Israel’s capital in 2017, says the boundaries of Israeli sovereignty there are subject to final-status negotiations [6]."
+      },
+      "sources": [
+        {
+          "ref": "knesset-basic-law-jerusalem",
+          "quote": "Jerusalem, complete and united, is the capital of Israel",
+          "locator": "s. 1"
+        },
+        {
+          "ref": "algemeiner-2024-07-19-netanyahu",
+          "quote": "The Jewish people are not occupiers in their own land, including in our eternal capital Jerusalem nor in Judea and Samaria, our historical homeland"
+        },
+        {
+          "ref": "pnc-declaration-1988",
+          "locator": "Annex III",
+          "quote": "The Palestine National Council hereby declares ... the establishment of the State of Palestine in the land of Palestine with its capital at Jerusalem."
+        },
+        {
+          "ref": "unsc-res-478-1980",
+          "locator": "op. 3",
+          "quote": "all legislative and administrative measures and actions taken by Israel, the occupying Power, which have altered or purport to alter the character and status of the Holy City of Jerusalem ... are null and void"
+        },
+        {
+          "ref": "icj-2004-wall-ao",
+          "locator": "para. 78",
+          "quote": "All these territories (including East Jerusalem) remain occupied territories and Israel has continued to have the status of occupying Power."
+        },
+        {
+          "ref": "us-proclamation-9683",
+          "quote": "The specific boundaries of Israeli sovereignty in Jerusalem are subject to final status negotiations between the parties."
+        }
+      ],
+      "duration_s": 14
+    }
+  ]
+}
