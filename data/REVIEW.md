@@ -10,29 +10,31 @@ How many citations in each era come from each kind of source and from institutio
 
 "Israeli / Palestinian institutions" counts citations of sources from each side's institutions (by country, or by named institution, e.g. the Institute for Palestine Studies in Beirut). The flag marks modern eras where one side has more than three times the other.
 
-| Era | Citations | By kind | By institutional country | Israeli / Palestinian institutions | Flag |
-|---|---|---|---|---|---|
-| Late Natufian & Pre-Pottery Neolithic | 19 | academic 53%, reference 37%, un 11% | US 84%, FR 16% | 0 / 0 |  |
-| Pottery Neolithic & Chalcolithic | 22 | academic 77%, reference 23% | US 55%, FR 45% | 0 / 0 |  |
-| Early Bronze Age | 21 | reference 57%, academic 43% | US 76%, PL 19%, ? 5% | 0 / 0 |  ⚠ mostly reference works |
-| Middle & Late Bronze Age | 137 | academic 51%, reference 48%, press 1% | US 87%, IL 6%, GB 3%, DE 2%, ZA 1%, ? 1% | 8 / 0 |  |
-| Iron Age | 370 | reference 51%, academic 45%, religious-institution 3%, press 0%, ngo 0% | US 82%, DE 7%, IL 5%, FR 2%, NL 2%, JO 1% | 19 / 0 |  ⚠ mostly reference works |
-| Babylonian & Persian periods | 120 | academic 48%, reference 45%, religious-institution 8% | US 62%, ? 17%, GB 8%, IL 7%, CA 4%, NL 3% | 8 / 0 |  |
-| Hellenistic period | 188 | reference 60%, academic 40%, government 1% | US 88%, GB 6%, NL 3%, BE 2%, IL 1% | 2 / 0 |  ⚠ mostly reference works |
-| Hasmonean period | 53 | academic 58%, reference 42% | US 89%, IL 6%, GB 4%, FR 2% | 3 / 0 |  |
-| Roman period | 450 | academic 54%, reference 46% | US 71%, GB 18%, NL 4%, IL 3%, FR 2%, DE 1% | 13 / 0 |  |
-| Byzantine period | 159 | reference 59%, academic 40%, religious-institution 1% | US 76%, IL 10%, TR 8%, GB 4%, FR 1%, IT 1% | 16 / 1 |  ⚠ mostly reference works |
-| Early Islamic period | 263 | academic 60%, reference 40% | US 68%, GB 14%, RU 12%, TR 3%, IL 2%, MY 2% | 5 / 0 |  |
-| Crusader & Ayyubid period | 327 | academic 54%, reference 46% | US 86%, IL 8%, GB 5%, TR 1% | 25 / 0 |  |
-| Mamluk period | 156 | academic 54%, reference 46% | US 60%, GB 13%, DE 10%, TR 8%, IL 8%, LB 2% | 12 / 0 |  |
-| Ottoman period | 404 | reference 53%, academic 40%, government 4%, un 2%, press 1%, ngo 0% | US 51%, LB 12%, TR 11%, IL 10%, GB 9%, FR 3% | 40 / 82 |  ⚠ mostly reference works |
-| British rule & Mandate | 246 | government 33%, reference 25%, un 20%, academic 18%, ngo 4% | US 34%, UN 16%, GB 15%, IL 13%, PS 7%, AU 7% | 32 / 24 |  |
-| 1947–49 war | 182 | academic 37%, reference 21%, government 19%, un 17%, ngo 4%, press 2% | US 35%, IL 23%, UN 12%, LB 12%, GB 9%, PS 8% | 42 / 49 |  |
-| 1949–1967 | 96 | government 36%, reference 26%, un 21%, academic 11%, ngo 5% | US 29%, IL 27%, UN 11%, CH 9%, JO 7%, PS 7% | 26 / 13 |  |
-| June 1967 war | 48 | un 35%, government 27%, reference 27%, academic 6%, press 4% | US 54%, UN 21%, IL 13%, JO 6%, LB 4%, PS 2% | 6 / 3 |  |
-| 1967–1993 | 229 | un 30%, government 28%, reference 23%, academic 17%, press 1%, ngo 0% | US 30%, IL 26%, UN 25%, PS 8%, LB 6%, CH 2% | 59 / 36 |  |
-| 1993–2023 | 326 | government 30%, un 28%, reference 28%, academic 10%, press 3%, ngo 1% | US 37%, UN 27%, IL 15%, PS 11%, LB 6%, NL 1% | 49 / 57 |  |
-| October 2023 to today | 222 | press 39%, un 21%, reference 18%, government 15%, ngo 6%, academic 1% | US 31%, UN 15%, QA 15%, PS 13%, IL 9%, GB 4% | 26 / 28 |  |
+"Only reference works" counts the records whose every source is an encyclopaedia or similar reference work; these should get scholarly or primary sources.
+
+| Era | Citations | By kind | By institutional country | Israeli / Palestinian institutions | Records resting only on reference works | Flag |
+|---|---|---|---|---|---|---|
+| Late Natufian & Pre-Pottery Neolithic | 19 | academic 53%, reference 37%, un 11% | US 84%, FR 16% | 0 / 0 | 1 of 6 |  |
+| Pottery Neolithic & Chalcolithic | 22 | academic 77%, reference 23% | US 55%, FR 45% | 0 / 0 | 0 of 7 |  |
+| Early Bronze Age | 21 | reference 57%, academic 43% | US 76%, PL 19%, ? 5% | 0 / 0 | 2 of 8 |  ⚠ mostly reference works |
+| Middle & Late Bronze Age | 137 | academic 51%, reference 48%, press 1% | US 87%, IL 6%, GB 3%, DE 2%, ZA 1%, ? 1% | 8 / 0 | 14 of 57 |  |
+| Iron Age | 370 | reference 51%, academic 45%, religious-institution 3%, press 0%, ngo 0% | US 82%, DE 7%, IL 5%, FR 2%, NL 2%, JO 1% | 19 / 0 | 30 of 144 |  ⚠ mostly reference works |
+| Babylonian & Persian periods | 120 | academic 48%, reference 45%, religious-institution 8% | US 62%, ? 17%, GB 8%, IL 7%, CA 4%, NL 3% | 8 / 0 | 9 of 48 |  |
+| Hellenistic period | 188 | reference 60%, academic 40%, government 1% | US 88%, GB 6%, NL 3%, BE 2%, IL 1% | 2 / 0 | 11 of 47 |  ⚠ mostly reference works |
+| Hasmonean period | 53 | academic 58%, reference 42% | US 89%, IL 6%, GB 4%, FR 2% | 3 / 0 | 1 of 17 |  |
+| Roman period | 450 | academic 54%, reference 46% | US 71%, GB 18%, NL 4%, IL 3%, FR 2%, DE 1% | 13 / 0 | 25 of 142 |  |
+| Byzantine period | 159 | reference 59%, academic 40%, religious-institution 1% | US 76%, IL 10%, TR 8%, GB 4%, FR 1%, IT 1% | 16 / 1 | 20 of 60 |  ⚠ mostly reference works |
+| Early Islamic period | 263 | academic 60%, reference 40% | US 68%, GB 14%, RU 12%, TR 3%, IL 2%, MY 2% | 5 / 0 | 23 of 89 |  |
+| Crusader & Ayyubid period | 327 | academic 54%, reference 46% | US 86%, IL 8%, GB 5%, TR 1% | 25 / 0 | 9 of 65 |  |
+| Mamluk period | 156 | academic 54%, reference 46% | US 60%, GB 13%, DE 10%, TR 8%, IL 8%, LB 2% | 12 / 0 | 8 of 44 |  |
+| Ottoman period | 404 | reference 53%, academic 40%, government 4%, un 2%, press 1%, ngo 0% | US 51%, LB 12%, TR 11%, IL 10%, GB 9%, FR 3% | 40 / 82 | 54 of 140 |  ⚠ mostly reference works |
+| British rule & Mandate | 246 | government 33%, reference 25%, un 20%, academic 18%, ngo 4% | US 34%, UN 16%, GB 15%, IL 13%, PS 7%, AU 7% | 32 / 24 | 21 of 107 |  |
+| 1947–49 war | 182 | academic 37%, reference 21%, government 19%, un 17%, ngo 4%, press 2% | US 35%, IL 23%, UN 12%, LB 12%, GB 9%, PS 8% | 42 / 49 | 4 of 57 |  |
+| 1949–1967 | 96 | government 36%, reference 26%, un 21%, academic 11%, ngo 5% | US 29%, IL 27%, UN 11%, CH 9%, JO 7%, PS 7% | 26 / 13 | 6 of 36 |  |
+| June 1967 war | 48 | un 35%, government 27%, reference 27%, academic 6%, press 4% | US 54%, UN 21%, IL 13%, JO 6%, LB 4%, PS 2% | 6 / 3 | 5 of 20 |  |
+| 1967–1993 | 229 | un 30%, government 28%, reference 23%, academic 17%, press 1%, ngo 0% | US 30%, IL 26%, UN 25%, PS 8%, LB 6%, CH 2% | 59 / 36 | 9 of 84 |  |
+| 1993–2023 | 326 | government 30%, un 28%, reference 28%, academic 10%, press 3%, ngo 1% | US 37%, UN 27%, IL 15%, PS 11%, LB 6%, NL 1% | 49 / 57 | 21 of 117 |  |
+| October 2023 to today | 222 | press 39%, un 21%, reference 18%, government 15%, ngo 6%, academic 1% | US 31%, UN 15%, QA 15%, PS 13%, IL 9%, GB 4% | 26 / 28 | 9 of 74 |  |
 
 ## 2. Contested items
 

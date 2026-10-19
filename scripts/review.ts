@@ -75,11 +75,13 @@ const sideOf = (s: { institution_country?: string; publisher?: string; container
   if (s.institution_country === 'IL' || IL_INST.test(text)) return 'IL';
   return null;
 };
-const byEra = new Map<string, { kinds: Map<string, number>; countries: Map<string, number>; sides: { IL: number; PS: number }; n: number }>();
+const byEra = new Map<string, { kinds: Map<string, number>; countries: Map<string, number>; sides: { IL: number; PS: number }; n: number; records: number; refOnly: number }>();
 for (const r of recs) {
   if (r.t === null) continue;
   const era = eraOf(r.t);
-  const e = byEra.get(era) ?? { kinds: new Map(), countries: new Map(), sides: { IL: 0, PS: 0 }, n: 0 };
+  const e = byEra.get(era) ?? { kinds: new Map(), countries: new Map(), sides: { IL: 0, PS: 0 }, n: 0, records: 0, refOnly: 0 };
+  e.records++;
+  if (r.refs.length && r.refs.every((x) => sources.get(x.ref)?.kind === 'reference')) e.refOnly++;
   for (const ref of r.refs) {
     const s = sources.get(ref.ref);
     if (!s) continue;
@@ -95,8 +97,10 @@ for (const r of recs) {
 const top = (m: Map<string, number>, n: number) => [...m.entries()].sort((a, c) => c[1] - a[1]).slice(0, 6).map(([k, v]) => `${k} ${Math.round((100 * v) / n)}%`).join(', ');
 out('"Israeli / Palestinian institutions" counts citations of sources from each side\'s institutions (by country, or by named institution, e.g. the Institute for Palestine Studies in Beirut). The flag marks modern eras where one side has more than three times the other.');
 out();
-out('| Era | Citations | By kind | By institutional country | Israeli / Palestinian institutions | Flag |');
-out('|---|---|---|---|---|---|');
+out('"Only reference works" counts the records whose every source is an encyclopaedia or similar reference work; these should get scholarly or primary sources.');
+out();
+out('| Era | Citations | By kind | By institutional country | Israeli / Palestinian institutions | Records resting only on reference works | Flag |');
+out('|---|---|---|---|---|---|---|');
 for (const e of eras) {
   const d = byEra.get(e.label);
   if (!d || !d.n) continue;
@@ -104,7 +108,7 @@ for (const e of eras) {
   const ps = d.sides.PS;
   const flag = e.t0 >= 1900 && (il > 3 * Math.max(1, ps) || ps > 3 * Math.max(1, il)) ? `⚠ IL ${il} / PS ${ps}` : '';
   const ref = (d.kinds.get('reference') ?? 0) / d.n > 0.5 ? ' ⚠ mostly reference works' : '';
-  out(`| ${e.label} | ${d.n} | ${top(d.kinds, d.n)} | ${top(d.countries, d.n)} | ${il} / ${ps} | ${flag}${ref} |`);
+  out(`| ${e.label} | ${d.n} | ${top(d.kinds, d.n)} | ${top(d.countries, d.n)} | ${il} / ${ps} | ${d.refOnly} of ${d.records} | ${flag}${ref} |`);
 }
 out();
 
