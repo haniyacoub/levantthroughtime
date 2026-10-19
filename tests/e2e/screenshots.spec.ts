@@ -26,13 +26,22 @@ const VIEWS: { name: string; query: string; viewport?: { width: number; height: 
   { name: '16-arabic-rtl-1948-05', query: '?y=1948-05&lang=ar' },
   { name: '17-hebrew-rtl-today', query: '?y=2026-10&lang=he' },
   { name: '18-mobile-800-bce', query: '?y=-800', viewport: { width: 390, height: 844 } },
+  { name: '19-place-jerusalem-1200', query: '?y=1200&place=jerusalem' },
+  { name: '20-holy-site-hebrew', query: '?y=2026-10&lang=he&place=temple-mount-haram-al-sharif' },
+  { name: '21-story-jerusalem', query: '?story=jerusalem-through-time&step=9' },
+  { name: '22-migrations-1949', query: '?y=1949-01' },
+  { name: '23-landscape-8000-bce', query: '?y=-8000' },
+  { name: '24-conflicts-1187', query: '?y=1187-07' },
+  { name: '25-compare-1947-1949', query: '?y=1947-12&cmp=1949-08' },
+  { name: '26-bibliography', query: '#/bibliography' },
+  { name: '27-perspectives', query: '#/perspectives' },
 ];
 
 for (const v of VIEWS) {
   test(`screenshot ${v.name}`, async ({ page }) => {
     if (v.viewport) await page.setViewportSize(v.viewport);
     await page.goto(`/${v.query}`);
-    await expect(page.getByTestId('map')).toHaveAttribute('data-ready', 'true', { timeout: 30_000 });
+    if (!v.query.startsWith('#')) await expect(page.getByTestId('map').first()).toHaveAttribute('data-ready', 'true', { timeout: 30_000 });
     await page.waitForTimeout(2500); // crossfade + hillshade tiles
     await page.screenshot({ path: `${DIR}/${v.name}.png` });
   });

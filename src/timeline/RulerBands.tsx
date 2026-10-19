@@ -77,7 +77,7 @@ export function RulerBands({ data, scale }: { data: AppData; scale: EraScale }) 
             tabIndex={-1}
             onClick={() => {
               setPlaying(false);
-              setT(scale.snap(b.t0));
+              setT(scale.floor(b.t0));
             }}
           >
             {wide && <span>{name}</span>}

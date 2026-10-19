@@ -58,15 +58,15 @@ export function CompareView({ data, scale }: { data: AppData; scale: EraScale })
   }, [compare.mode]);
 
   const applyPreset = (p: ComparePreset) => {
-    setT(scale.snap(p.a));
-    setCompare({ t2: scale.snap(p.b) });
+    setT(scale.floor(p.a));
+    setCompare({ t2: scale.floor(p.b) });
     if (p.layers) setLayers([...new Set([...layers, ...p.layers])]);
   };
 
   const onGo = (e: FormEvent) => {
     e.preventDefault();
     const v = parseUserDate(input);
-    if (v !== null) setCompare({ t2: scale.snap(scale.clampT(v)) });
+    if (v !== null) setCompare({ t2: scale.floor(scale.clampT(v)) });
   };
 
   const unit = (tt: number) => scale.displayUnit(tt);

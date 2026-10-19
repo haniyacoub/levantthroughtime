@@ -63,9 +63,9 @@ export default function App() {
   useEffect(() => {
     if (!scale) return;
     const u = readUrl(window.location.search);
-    setT(u.t !== undefined ? scale.snap(scale.clampT(u.t)) : scale.tMin);
+    setT(u.t !== undefined ? scale.floor(scale.clampT(u.t)) : scale.tMin);
     if (u.lang) setLang(u.lang);
-    setCompare({ on: u.t2 !== undefined, t2: u.t2 !== undefined ? scale.snap(scale.clampT(u.t2)) : scale.tMax, ...(u.cmpMode ? { mode: u.cmpMode } : {}) });
+    setCompare({ on: u.t2 !== undefined, t2: u.t2 !== undefined ? scale.floor(scale.clampT(u.t2)) : scale.tMax, ...(u.cmpMode ? { mode: u.cmpMode } : {}) });
     if (u.layers) setLayers(u.layers.filter((k): k is LayerKey => (LAYER_KEYS as readonly string[]).includes(k)));
     if (u.place) setPlace(u.place);
     if (u.story) setStory({ id: u.story, step: u.step ?? 1 });

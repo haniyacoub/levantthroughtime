@@ -62,7 +62,7 @@ export function StoryCard({ data, scale }: { data: AppData; scale: EraScale }) {
   useEffect(() => {
     if (!step) return;
     setPlaying(false);
-    setT(scale.snap(scale.clampT(tOf(step.date.year, step.date.month))));
+    setT(scale.floor(scale.clampT(tOf(step.date.year, step.date.month))));
     if (step.layers) setLayers(step.layers.filter((k): k is LayerKey => (LAYER_KEYS as readonly string[]).includes(k)));
     const place = step.highlight?.find((id) => data.places.some((p) => p.id === id));
     setPlace(place ?? null);

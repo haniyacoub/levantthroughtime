@@ -109,7 +109,7 @@ export function Timeline({ data, scale, children }: { data: AppData; scale: EraS
     }
     setGoToError(false);
     setPlaying(false);
-    setT(scale.snap(scale.clampT(parsed)));
+    setT(scale.floor(scale.clampT(parsed)));
   };
 
   return (
