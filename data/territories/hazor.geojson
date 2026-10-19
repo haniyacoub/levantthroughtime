@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Middle Bronze Hazor, north of the Sea of Galilee. Its territorial reach in the MB is not described by the sources consulted; shown as part of Upper Galilee."
+          "en": "Middle Bronze Hazor, north of the Sea of Galilee. Its territorial reach in the MB is not described by the sources consulted; shown as part of Upper Galilee.",
+          "ar": "حاصور في العصر البرونزي الوسيط، شمال بحيرة طبرية. لا تصف المصادر المستشارة مداها الإقليمي في العصر البرونزي الوسيط؛ تظهر هنا جزءًا من الجليل الأعلى.",
+          "he": "חצור בתקופת הברונזה התיכונה, צפונית לכינרת. המקורות שנבדקו אינם מתארים את היקפה הטריטוריאלי בתקופת הברונזה התיכונה; מוצגת כחלק מהגליל העליון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Late Bronze Hazor as a highland-type city-state 'dominating the Upper Galilee', in conflict with Ashtaroth (Bashan) probably over the road to Damascus (EA 364)."
+          "en": "Late Bronze Hazor as a highland-type city-state 'dominating the Upper Galilee', in conflict with Ashtaroth (Bashan) probably over the road to Damascus (EA 364).",
+          "ar": "حاصور في العصر البرونزي المتأخر دولة مدينة من نوع المرتفعات 'dominating the Upper Galilee' [مهيمنة على الجليل الأعلى]، في نزاع مع عشتاروت (باشان) غالبًا بسبب الطريق إلى دمشق (EA 364).",
+          "he": "חצור בתקופת הברונזה המאוחרת כעיר-מדינה מסוג ההר “dominating the Upper Galilee” [שולטת על הגליל העליון], בסכסוך עם עשתרות (הבשן) כנראה על הדרך לדמשק (EA 364).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

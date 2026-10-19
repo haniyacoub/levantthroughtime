@@ -2,10 +2,22 @@
   "$schema": "../../schema/story.schema.json",
   "id": "peoples-and-migrations",
   "title": {
-    "en": "Peoples and migrations"
+    "en": "Peoples and migrations",
+    "ar": "الشعوب والهجرات",
+    "he": "עמים והגירות",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "summary": {
-    "en": "Who came, who left and who was forced out, from the Philistines to today, with the numbers and where they are disputed."
+    "en": "Who came, who left and who was forced out, from the Philistines to today, with the numbers and where they are disputed.",
+    "ar": "من جاء ومن غادر ومن أُجبر على الرحيل، من الفلستيين إلى اليوم، مع الأرقام وأين تكون موضع خلاف.",
+    "he": "מי הגיע, מי עזב ומי גורש, מהפלשתים ועד היום, עם המספרים והמקומות שבהם הם שנויים במחלוקת.",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "steps": [
     {
@@ -25,10 +37,22 @@
         "migrations"
       ],
       "title": {
-        "en": "The Philistines"
+        "en": "The Philistines",
+        "ar": "الفلستيون",
+        "he": "הפלשתים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Whether the arrival of the Philistines around 1200 BCE was a large movement of people, perhaps linked to the “Sea Peoples”, has long been debated [1]. Ancient DNA shows that the early Iron Age population there carried a European-related ancestry that is no longer detectable later in the Iron Age [2]."
+        "en": "Whether the arrival of the Philistines around 1200 BCE was a large movement of people, perhaps linked to the “Sea Peoples”, has long been debated [1]. Ancient DNA shows that the early Iron Age population there carried a European-related ancestry that is no longer detectable later in the Iron Age [2].",
+        "ar": "ظل موضوع ما إذا كان وصول الفلستيين نحو عام 1200 ق.م. حركة كبيرة للسكان، ربما مرتبطة بـ«شعوب البحر»، محل جدل منذ زمن طويل [1]. ويُظهر الحمض النووي القديم أن سكان العصر الحديدي المبكر هناك حملوا أصولًا مرتبطة بأوروبا لم يعد بالإمكان رصدها في وقت لاحق من العصر الحديدي [2].",
+        "he": "השאלה אם הגעת הפלשתים בסביבות 1200 לפנה״ס הייתה תנועה גדולה של אנשים, אולי קשורה ל“עמי הים”, שנויה במחלוקת זה זמן רב [1]. דנ״א קדום מראה שאוכלוסיית תקופת הברזל הקדומה שם נשאה מוצא הקשור לאירופה, שאינו ניתן עוד לזיהוי בהמשך תקופת הברזל [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -61,10 +85,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Assyrian deportations"
+        "en": "Assyrian deportations",
+        "ar": "الترحيلات الآشورية",
+        "he": "הגליות האשוריות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Bible says that Tiglath-pileser III of Assyria deported the inhabitants of Galilee and Gilead [1]. One of his own inscriptions lists several thousand captives from eight cities in Galilee [2]. His successor Sargon II states that 27,290 people were exiled from Samaria, and the Assyrians settled other groups in the land [3][4]."
+        "en": "The Bible says that Tiglath-pileser III of Assyria deported the inhabitants of Galilee and Gilead [1]. One of his own inscriptions lists several thousand captives from eight cities in Galilee [2]. His successor Sargon II states that 27,290 people were exiled from Samaria, and the Assyrians settled other groups in the land [3][4].",
+        "ar": "يقول الكتاب المقدس إن تغلات فلاسر الثالث ملك آشور رحّل سكان الجليل وجلعاد [1]. وتحصي إحدى نقوشه عدة آلاف من الأسرى من ثماني مدن في الجليل [2]. ويذكر خليفته سرجون الثاني أنه نُفي 27,290 شخصًا من السامرة، وأسكن الآشوريون جماعات أخرى في الأرض [3][4].",
+        "he": "המקרא אומר שתגלת פלאסר השלישי מלך אשור הגלה את תושבי הגליל והגלעד [1]. אחת הכתובות שלו מונה כמה אלפי שבויים משמונה ערים בגליל [2]. יורשו סרגון השני מציין שהוגלו 27,290 איש משומרון, והאשורים התיישבו קבוצות אחרות בארץ [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -107,10 +143,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Exile to Babylon"
+        "en": "Exile to Babylon",
+        "ar": "النفي إلى بابل",
+        "he": "הגלות לבבל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Book of Jeremiah counts 4,600 Judeans exiled by Nebuchadnezzar in three deportations [1]. Oded Lipschits, working from archaeological population estimates, rejects the idea of large-scale deportations and of big waves of returnees afterwards [2]."
+        "en": "The Book of Jeremiah counts 4,600 Judeans exiled by Nebuchadnezzar in three deportations [1]. Oded Lipschits, working from archaeological population estimates, rejects the idea of large-scale deportations and of big waves of returnees afterwards [2].",
+        "ar": "يحصي سفر إرميا 4,600 يهودي نفاهم نبوخذنصر في ثلاث ترحيلات [1]. أما عوديد ليبشيتس، اعتمادًا على تقديرات سكانية أثرية، فيرفض فكرة الترحيلات واسعة النطاق وفكرة موجات كبيرة من العائدين بعد ذلك [2].",
+        "he": "ספר ירמיהו מונה 4,600 יהודים שהגלה נבוכדנאצר בשלוש גלויות [1]. עודד ליפשיץ, על סמך הערכות אוכלוסין ארכאולוגיות, דוחה את הרעיון של גלויות בקנה מידה רחב ושל גלי שבים גדולים לאחר מכן [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -144,10 +192,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Return"
+        "en": "Return",
+        "ar": "العودة",
+        "he": "השיבה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The books of Ezra and Nehemiah count 42,360 people returning from Babylonia, not counting servants [1]. Archaeological estimates put the whole province of Yehud at 20,000–30,000 people, which does not fit that number if it is taken literally [2][3]."
+        "en": "The books of Ezra and Nehemiah count 42,360 people returning from Babylonia, not counting servants [1]. Archaeological estimates put the whole province of Yehud at 20,000–30,000 people, which does not fit that number if it is taken literally [2][3].",
+        "ar": "يحصي سفرا عزرا ونحميا 42,360 شخصًا عادوا من بابل، من غير احتساب الخدم [1]. وتقدّر التقديرات الأثرية عدد سكان إقليم يهود (يحود) كله بما بين 20,000 و30,000 شخص، وهو ما لا يتفق مع هذا الرقم إذا أُخذ حرفيًا [2][3].",
+        "he": "ספרי עזרא ונחמיה מונים 42,360 איש ששבו מבבל, לא כולל עבדים [1]. הערכות ארכאולוגיות מעמידות את כל פרובינקיית יהוד על 20,000–30,000 איש, מה שאינו מתיישב עם המספר הזה אם לוקחים אותו מילולית [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -185,10 +245,22 @@
         "migrations"
       ],
       "title": {
-        "en": "After the revolts against Rome"
+        "en": "After the revolts against Rome",
+        "ar": "بعد الثورات على روما",
+        "he": "אחרי המרידות ברומא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Josephus says 97,000 people were taken captive in the war against Rome; the historian Seth Schwartz judges Josephus’s figures, especially his count of the dead, clearly impossible [1][2]. Jews living outside Palestine already far outnumbered those inside it before 70 CE [3]. After the Bar Kokhba revolt the centre of Jewish life moved north, chiefly to Galilee [4]."
+        "en": "Josephus says 97,000 people were taken captive in the war against Rome; the historian Seth Schwartz judges Josephus’s figures, especially his count of the dead, clearly impossible [1][2]. Jews living outside Palestine already far outnumbered those inside it before 70 CE [3]. After the Bar Kokhba revolt the centre of Jewish life moved north, chiefly to Galilee [4].",
+        "ar": "يقول يوسيفوس إن 97,000 شخص أُخذوا أسرى في الحرب على روما؛ ويرى المؤرخ سيث شوارتز أن أرقام يوسيفوس، ولا سيما عدد القتلى، مستحيلة بوضوح [1][2]. وكان اليهود المقيمون خارج فلسطين يفوقون عددًا بكثير من يقيمون داخلها قبل عام 70 م [3]. وبعد ثورة بار كوخبا انتقل مركز الحياة اليهودية شمالًا، وبخاصة إلى الجليل [4].",
+        "he": "יוספוס אומר ש-97,000 איש נלקחו בשבי במלחמה ברומא; ההיסטוריון סת׳ שוורץ סבור שמספריו של יוספוס, ובמיוחד ספירת ההרוגים, בלתי אפשריים בעליל [1][2]. יהודים שחיו מחוץ לפלשתינה עלו בהרבה במספרם על אלה שחיו בתוכה עוד לפני שנת 70 לספירה [3]. לאחר מרד בר כוכבא עבר מרכז החיים היהודיים צפונה, בעיקר לגליל [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -231,10 +303,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Arab tribes"
+        "en": "Arab tribes",
+        "ar": "القبائل العربية",
+        "he": "שבטים ערביים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The 9th-century geographer al-Yaʿqubi describes the people of Palestine as Arabs of the tribes of Lakhm, Judham, ʿAmilah, Kindah, Qays and Kinanah [1]. Recent archaeological work describes the change from Byzantine to Islamic society as slow, with Christians still an overwhelming majority on the eve of the Crusades [2][3]."
+        "en": "The 9th-century geographer al-Yaʿqubi describes the people of Palestine as Arabs of the tribes of Lakhm, Judham, ʿAmilah, Kindah, Qays and Kinanah [1]. Recent archaeological work describes the change from Byzantine to Islamic society as slow, with Christians still an overwhelming majority on the eve of the Crusades [2][3].",
+        "ar": "يصف الجغرافي اليعقوبي في القرن التاسع أهل فلسطين بأنهم عرب من قبائل لخم وجذام وعاملة وكندة وقيس وكنانة [1]. وتصف الأعمال الأثرية الحديثة التحول من المجتمع البيزنطي إلى المجتمع الإسلامي بأنه كان بطيئًا، وكان المسيحيون لا يزالون أغلبية ساحقة عشية الحروب الصليبية [2][3].",
+        "he": "הגיאוגרף אל-יעקובי מהמאה ה-9 מתאר את תושבי פלשתינה כערבים משבטי לח׳ם, ג׳ודאם, עאמלה, כנדה, קיס וכנאנה [1]. עבודות ארכאולוגיות עדכניות מתארות את המעבר מהחברה הביזנטית לחברה האסלאמית כאיטי, כאשר הנוצרים עדיין היו רוב מכריע ערב מסעי הצלב [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -272,10 +356,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Frankish settlers"
+        "en": "Frankish settlers",
+        "ar": "المستوطنون الفرنجة",
+        "he": "מתיישבים פרנקים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Meron Benvenisti estimated the Frankish population of the Crusader kingdom at 140,000, almost all of it in the towns [1]."
+        "en": "Meron Benvenisti estimated the Frankish population of the Crusader kingdom at 140,000, almost all of it in the towns [1].",
+        "ar": "قدّر مئير بنفنستي عدد الفرنجة في المملكة الصليبية بـ140,000، يعيش جميعهم تقريبًا في المدن [1].",
+        "he": "מירון בנבנישתי העריך את האוכלוסייה הפרנקית בממלכה הצלבנית ב-140,000, כמעט כולם בערים [1].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -306,10 +402,22 @@
         "safed"
       ],
       "title": {
-        "en": "Refugees from Spain in Safed"
+        "en": "Refugees from Spain in Safed",
+        "ar": "لاجئون من إسبانيا في صفد",
+        "he": "פליטים מספרד בצפת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Jewish refugees from Spain strengthened the community of Safed after 1492 [1]. In 1522 a visiting rabbi found 300 Jewish families there: Sephardim, Moriscos and Jews from the Maghreb [2]."
+        "en": "Jewish refugees from Spain strengthened the community of Safed after 1492 [1]. In 1522 a visiting rabbi found 300 Jewish families there: Sephardim, Moriscos and Jews from the Maghreb [2].",
+        "ar": "عزّز لاجئون يهود من إسبانيا الجماعة اليهودية في صفد بعد عام 1492 [1]. وفي عام 1522 وجد حاخام زائر هناك 300 أسرة يهودية: سفارديم وموريسكيين ويهودًا من المغرب العربي [2].",
+        "he": "פליטים יהודים מספרד חיזקו את הקהילה בצפת לאחר 1492 [1]. ב-1522 מצא שם רב מבקר 300 משפחות יהודיות: ספרדים, מוריסקים ויהודים ממגרב [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -342,10 +450,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Newcomers under the Ottomans"
+        "en": "Newcomers under the Ottomans",
+        "ar": "وافدون جدد في العهد العثماني",
+        "he": "מגיעים חדשים בתקופה העות׳מאנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Ottoman authorities settled Algerians and, from 1878, Circassians and Tatars from the Balkans [1]. Egyptian migrants moved into southern Palestine over a long period, above all under Egyptian rule in the 1830s [2]. German Templers founded settlements from 1868, but never numbered more than 2,200 [3][4]."
+        "en": "The Ottoman authorities settled Algerians and, from 1878, Circassians and Tatars from the Balkans [1]. Egyptian migrants moved into southern Palestine over a long period, above all under Egyptian rule in the 1830s [2]. German Templers founded settlements from 1868, but never numbered more than 2,200 [3][4].",
+        "ar": "أسكنت السلطات العثمانية جزائريين، ومنذ عام 1878 شركسًا وتتارًا من البلقان [1]. وانتقل مهاجرون مصريون إلى جنوب فلسطين على مدى فترة طويلة، ولا سيما في ظل الحكم المصري في ثلاثينيات القرن التاسع عشر [2]. وأسس الهيكليون الألمان مستوطنات منذ عام 1868، لكن عددهم لم يزد قط على 2,200 [3][4].",
+        "he": "השלטונות העות׳מאניים התיישבו אלג׳יראים, ומ-1878 צ׳רקסים וטטארים מהבלקן [1]. מהגרים מצרים עברו לדרום פלשתינה לאורך תקופה ארוכה, בעיקר תחת השלטון המצרי בשנות ה-30 של המאה ה-19 [2]. הטמפלרים הגרמנים ייסדו יישובים מ-1868, אך מעולם לא עלה מספרם על 2,200 [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -388,10 +508,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Immigration and a debate"
+        "en": "Immigration and a debate",
+        "ar": "الهجرة وجدل",
+        "he": "עלייה ווויכוח",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Jewish immigration grew from the 1880s; Israel’s Central Bureau of Statistics counts 35,000–40,000 immigrants in 1904–1914 [1]. How much Arab immigration there was in the late Ottoman and Mandate periods is disputed [2]. Justin McCarthy calls it small, while Fred Gottheil argues it was consequential [3][4]."
+        "en": "Jewish immigration grew from the 1880s; Israel’s Central Bureau of Statistics counts 35,000–40,000 immigrants in 1904–1914 [1]. How much Arab immigration there was in the late Ottoman and Mandate periods is disputed [2]. Justin McCarthy calls it small, while Fred Gottheil argues it was consequential [3][4].",
+        "ar": "ازدادت الهجرة اليهودية منذ ثمانينيات القرن التاسع عشر؛ وتحصي دائرة الإحصاء المركزية الإسرائيلية 35,000–40,000 مهاجر في 1904–1914 [1]. وحجم الهجرة العربية في أواخر العهد العثماني وفي فترة الانتداب موضع خلاف [2]. ويصفها جاستن مكارثي بأنها صغيرة، بينما يرى فريد غوتهايل أنها كانت ذات أثر [3][4].",
+        "he": "העלייה היהודית גברה משנות ה-80 של המאה ה-19; הלשכה המרכזית לסטטיסטיקה של ישראל מונה 35,000–40,000 עולים בשנים 1904–1914 [1]. היקף ההגירה הערבית בסוף התקופה העות׳מאנית ובתקופת המנדט שנוי במחלוקת [2]. ג׳סטין מקארתי מכנה אותה קטנה, ואילו פרד גוטהיל טוען שהייתה בעלת השפעה [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -433,10 +565,22 @@
         "migrations"
       ],
       "title": {
-        "en": "The Mandate years"
+        "en": "The Mandate years",
+        "ar": "سنوات الانتداب",
+        "he": "שנות המנדט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Between 1932 and 1938/39 about 197,000 (Israel’s Central Bureau of Statistics) to 248,000 (Bachi) Jewish immigrants arrived [1][2]. In the early Mandate years emigration, mostly of men, continued from Palestine to the Americas, especially Latin America [3]."
+        "en": "Between 1932 and 1938/39 about 197,000 (Israel’s Central Bureau of Statistics) to 248,000 (Bachi) Jewish immigrants arrived [1][2]. In the early Mandate years emigration, mostly of men, continued from Palestine to the Americas, especially Latin America [3].",
+        "ar": "بين عامي 1932 و1938/39 وصل نحو 197,000 (دائرة الإحصاء المركزية الإسرائيلية) إلى 248,000 (باخي) مهاجر يهودي [1][2]. وفي السنوات الأولى من الانتداب استمرت الهجرة، ومعظمها من الرجال، من فلسطين إلى الأمريكتين، وبخاصة أمريكا اللاتينية [3].",
+        "he": "בין 1932 ל-1938/39 הגיעו כ-197,000 (הלשכה המרכזית לסטטיסטיקה של ישראל) עד 248,000 (בכי) עולים יהודים [1][2]. בשנות המנדט הראשונות נמשכה הגירה, בעיקר של גברים, מפלשתינה לאמריקות, ובמיוחד לאמריקה הלטינית [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -473,10 +617,22 @@
         "migrations"
       ],
       "title": {
-        "en": "1948: refugees"
+        "en": "1948: refugees",
+        "ar": "1948: اللاجئون",
+        "he": "1948: פליטים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The UN Conciliation Commission estimated that about 711,000 refugees had left the territory held by Israel [1]. Israeli spokesmen spoke of about 520,000, and Arab officials of 900,000 to a million [2]. The historian Benny Morris concludes that war, not design, Jewish or Arab, created the refugee problem; the Palestinian account describes three-quarters of a million people forced to leave their land [3][4]. In September 1948 the UN Mediator also counted about 7,000 Jewish refugees needing aid [5]."
+        "en": "The UN Conciliation Commission estimated that about 711,000 refugees had left the territory held by Israel [1]. Israeli spokesmen spoke of about 520,000, and Arab officials of 900,000 to a million [2]. The historian Benny Morris concludes that war, not design, Jewish or Arab, created the refugee problem; the Palestinian account describes three-quarters of a million people forced to leave their land [3][4]. In September 1948 the UN Mediator also counted about 7,000 Jewish refugees needing aid [5].",
+        "ar": "قدّرت لجنة التوفيق التابعة للأمم المتحدة أن نحو 711,000 لاجئ غادروا الأراضي التي تسيطر عليها إسرائيل [1]. وتحدث ناطقون إسرائيليون عن نحو 520,000، وتحدث مسؤولون عرب عن 900,000 إلى مليون [2]. ويخلص المؤرخ بيني موريس إلى أن الحرب، لا مخطط، يهودي أو عربي، هي التي أوجدت مشكلة اللاجئين؛ بينما تصف الرواية الفلسطينية ثلاثة أرباع المليون شخص أُجبروا على مغادرة أرضهم [3][4]. وفي أيلول/سبتمبر 1948 أحصى وسيط الأمم المتحدة أيضًا نحو 7,000 لاجئ يهودي يحتاجون إلى مساعدة [5].",
+        "he": "ועדת הפיוס של האו״ם העריכה שכ-711,000 פליטים עזבו את השטח שבידי ישראל [1]. דוברים ישראלים דיברו על כ-520,000, ואישים ערבים על 900,000 עד מיליון [2]. ההיסטוריון בני מוריס מסיק שהמלחמה, ולא מזימה, יהודית או ערבית, יצרה את בעיית הפליטים; הנרטיב הפלסטיני מתאר שלושה רבעי מיליון איש שנאלצו לעזוב את אדמתם [3][4]. בספטמבר 1948 מנה מתווך האו״ם גם כ-7,000 פליטים יהודים הזקוקים לסיוע [5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -524,10 +680,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Mass immigration"
+        "en": "Mass immigration",
+        "ar": "الهجرة الجماعية",
+        "he": "עלייה המונית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Between May 1948 and the end of 1951, 689,739 Jews immigrated to Israel [1]. In several Arab and Muslim-majority countries, riots, insecurity and anti-Jewish laws pushed Jews to leave, and many had to leave almost everything behind [2][3]. Whether they were expelled, or left for other reasons including Zionist efforts to bring them, is debated [4][5]."
+        "en": "Between May 1948 and the end of 1951, 689,739 Jews immigrated to Israel [1]. In several Arab and Muslim-majority countries, riots, insecurity and anti-Jewish laws pushed Jews to leave, and many had to leave almost everything behind [2][3]. Whether they were expelled, or left for other reasons including Zionist efforts to bring them, is debated [4][5].",
+        "ar": "بين أيار/مايو 1948 ونهاية عام 1951 هاجر 689,739 يهوديًا إلى إسرائيل [1]. وفي عدة بلدان عربية وذات أغلبية مسلمة دفعت أعمال الشغب وانعدام الأمن وقوانين معادية لليهود اليهودَ إلى المغادرة، واضطر كثيرون إلى ترك كل شيء تقريبًا وراءهم [2][3]. وهل طُردوا، أم غادروا لأسباب أخرى منها الجهود الصهيونية لجلبهم، موضع جدل [4][5].",
+        "he": "בין מאי 1948 לסוף 1951 עלו לישראל 689,739 יהודים [1]. בכמה ממדינות ערב והמדינות בעלות רוב מוסלמי דחפו מהומות, חוסר ביטחון וחוקים אנטי-יהודיים יהודים לעזוב, ורבים נאלצו להשאיר מאחוריהם כמעט הכול [2][3]. אם גורשו, או עזבו מסיבות אחרות, ובהן מאמצים ציוניים להביאם, שנוי במחלוקת [4][5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -575,10 +743,22 @@
         "migrations"
       ],
       "title": {
-        "en": "1967"
+        "en": "1967",
+        "ar": "1967",
+        "he": "1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "About 200,000 people moved from the West Bank to the East Bank of the Jordan in 1967 [1]. Between 85,000 (Israeli figure) and 110,000 (Syrian figure) left the Golan Heights [2]. The UN envoy found the truth to lie between Israel’s statement that no encouragement was given to flee and refugees’ allegations of brutal force and intimidation [3]."
+        "en": "About 200,000 people moved from the West Bank to the East Bank of the Jordan in 1967 [1]. Between 85,000 (Israeli figure) and 110,000 (Syrian figure) left the Golan Heights [2]. The UN envoy found the truth to lie between Israel’s statement that no encouragement was given to flee and refugees’ allegations of brutal force and intimidation [3].",
+        "ar": "انتقل نحو 200,000 شخص من الضفة الغربية إلى الضفة الشرقية للأردن عام 1967 [1]. وغادر هضبة الجولان ما بين 85,000 (رقم إسرائيلي) و110,000 (رقم سوري) [2]. ووجد مبعوث الأمم المتحدة أن الحقيقة تقع بين قول إسرائيل إنه لم يُشجَّع أحد على الفرار وبين مزاعم اللاجئين باستخدام القوة الغاشمة والترهيب [3].",
+        "he": "כ-200,000 איש עברו מהגדה המערבית לגדה המזרחית של הירדן ב-1967 [1]. בין 85,000 (נתון ישראלי) ל-110,000 (נתון סורי) עזבו את רמת הגולן [2]. שליח האו״ם מצא שהאמת נמצאת בין הצהרת ישראל שלא ניתן עידוד לברוח לבין טענות הפליטים על כוח אכזרי והפחדה [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -616,10 +796,22 @@
         "migrations"
       ],
       "title": {
-        "en": "From the Soviet Union and Ethiopia"
+        "en": "From the Soviet Union and Ethiopia",
+        "ar": "من الاتحاد السوفييتي وإثيوبيا",
+        "he": "מברית המועצות ומאתיופיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Between 1969 and 1975 about 106,000 Jews immigrated from the Soviet Union [1]. In 1990–1999 another 821,906 immigrants born in the former Soviet Union arrived [2]. Airlifts in 1984–85 and in May 1991 brought more than 6,500 and then more than 14,000 Ethiopian Jews to Israel [3][4]."
+        "en": "Between 1969 and 1975 about 106,000 Jews immigrated from the Soviet Union [1]. In 1990–1999 another 821,906 immigrants born in the former Soviet Union arrived [2]. Airlifts in 1984–85 and in May 1991 brought more than 6,500 and then more than 14,000 Ethiopian Jews to Israel [3][4].",
+        "ar": "بين عامي 1969 و1975 هاجر نحو 106,000 يهودي من الاتحاد السوفييتي [1]. وفي 1990–1999 وصل 821,906 مهاجرين آخرين وُلدوا في الاتحاد السوفييتي السابق [2]. وجلبت الجسور الجوية في 1984–85 وفي أيار/مايو 1991 أكثر من 6,500 ثم أكثر من 14,000 يهودي إثيوبي إلى إسرائيل [3][4].",
+        "he": "בין 1969 ל-1975 עלו כ-106,000 יהודים מברית המועצות [1]. בשנים 1990–1999 הגיעו עוד 821,906 עולים ילידי ברית המועצות לשעבר [2]. גשרים אוויריים ב-1984–85 ובמאי 1991 הביאו לישראל יותר מ-6,500 ואחר כך יותר מ-14,000 יהודים אתיופים [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -662,10 +854,22 @@
         "modern"
       ],
       "title": {
-        "en": "Settlers"
+        "en": "Settlers",
+        "ar": "المستوطنون",
+        "he": "מתנחלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "According to Peace Now figures cited by the UN human rights office, there were 503,732 Israeli settlers in the West Bank and 233,600 in East Jerusalem by late 2024 [1]. Israel evacuated its localities in the Gaza Strip, where about 8,200 Israelis lived at the end of 2004, in August 2005 [2][3]."
+        "en": "According to Peace Now figures cited by the UN human rights office, there were 503,732 Israeli settlers in the West Bank and 233,600 in East Jerusalem by late 2024 [1]. Israel evacuated its localities in the Gaza Strip, where about 8,200 Israelis lived at the end of 2004, in August 2005 [2][3].",
+        "ar": "بحسب أرقام «السلام الآن» التي أوردها مكتب الأمم المتحدة لحقوق الإنسان، كان هناك 503,732 مستوطنًا إسرائيليًا في الضفة الغربية و233,600 في القدس الشرقية بحلول أواخر عام 2024 [1]. وأخلت إسرائيل مستوطناتها في قطاع غزة، حيث كان يعيش نحو 8,200 إسرائيلي في نهاية عام 2004، في آب/أغسطس 2005 [2][3].",
+        "he": "לפי נתוני שלום עכשיו שצוטטו על ידי משרד האו״ם לזכויות אדם, היו 503,732 מתנחלים ישראלים בגדה המערבית ו-233,600 במזרח ירושלים עד סוף 2024 [1]. ישראל פינתה את יישוביה ברצועת עזה, שבהם התגוררו כ-8,200 ישראלים בסוף 2004, באוגוסט 2005 [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -703,10 +907,22 @@
         "modern"
       ],
       "title": {
-        "en": "Displaced since 2023"
+        "en": "Displaced since 2023",
+        "ar": "نازحون منذ 2023",
+        "he": "עקורים מאז 2023",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "By October 2025 nearly all of Gaza’s 2.1 million people had been displaced, many of them repeatedly [1]. The Palestinian Central Bureau of Statistics says about 100,000 Palestinians were forced to leave the Gaza Strip [2]. In Israel, about 200,000 people from areas near Gaza and Lebanon were still displaced at the end of 2023, and 68,000 at the end of 2024 [3]. In the West Bank, Israeli operations displaced 40,000 people, mostly from northern refugee camps, in 2025 [4]."
+        "en": "By October 2025 nearly all of Gaza’s 2.1 million people had been displaced, many of them repeatedly [1]. The Palestinian Central Bureau of Statistics says about 100,000 Palestinians were forced to leave the Gaza Strip [2]. In Israel, about 200,000 people from areas near Gaza and Lebanon were still displaced at the end of 2023, and 68,000 at the end of 2024 [3]. In the West Bank, Israeli operations displaced 40,000 people, mostly from northern refugee camps, in 2025 [4].",
+        "ar": "بحلول تشرين الأول/أكتوبر 2025 كان جميع سكان غزة تقريبًا، وعددهم 2.1 مليون، قد نزحوا، وكثير منهم مرارًا [1]. ويقول الجهاز المركزي للإحصاء الفلسطيني إن نحو 100,000 فلسطيني أُجبروا على مغادرة قطاع غزة [2]. وفي إسرائيل بقي نحو 200,000 شخص من مناطق قريبة من غزة ولبنان نازحين في نهاية عام 2023، و68,000 في نهاية عام 2024 [3]. وفي الضفة الغربية تسببت العمليات الإسرائيلية في نزوح 40,000 شخص، معظمهم من مخيمات اللاجئين الشمالية، في عام 2025 [4].",
+        "he": "עד אוקטובר 2025 כמעט כל 2.1 מיליון תושבי עזה עוקרו, רבים מהם שוב ושוב [1]. הלשכה המרכזית לסטטיסטיקה הפלסטינית אומרת שכ-100,000 פלסטינים נאלצו לעזוב את רצועת עזה [2]. בישראל כ-200,000 איש מאזורים סמוכים לעזה ולבנון עדיין היו עקורים בסוף 2023, ו-68,000 בסוף 2024 [3]. בגדה המערבית עקרו פעולות ישראליות 40,000 איש, בעיקר ממחנות פליטים בצפון, ב-2025 [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {

@@ -24,7 +24,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Syria including the Golan Heights."
+          "en": "Syria including the Golan Heights.",
+          "ar": "سوريا بما فيها هضبة الجولان.",
+          "he": "סוריה כולל רמת הגולן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -62,7 +68,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Syria without the Israeli-held part of the Golan; Syria retained the eastern strip of the Golan, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone)."
+          "en": "Syria without the Israeli-held part of the Golan; Syria retained the eastern strip of the Golan, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone).",
+          "ar": "سوريا من دون الجزء الذي تسيطر عليه إسرائيل من الجولان؛ احتفظت سوريا بالشريط الشرقي من الجولان، وعُدّل بموجب اتفاق فصل القوات في 31 أيار/مايو 1974 (منطقة عازلة تابعة للأمم المتحدة).",
+          "he": "סוריה ללא החלק ברמת הגולן שבידי ישראל; סוריה שמרה על הרצועה המזרחית של הגולן, בהתאמה לפי הסכם הפרדת הכוחות מ-31 במאי 1974 (אזור חיץ של האו״ם).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -91,7 +103,13 @@
         },
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Syria after Israeli forces entered the UN area of separation and the Syrian side of Mount Hermon (Dec 2024); see israeli-positions-syria-2024."
+          "en": "Syria after Israeli forces entered the UN area of separation and the Syrian side of Mount Hermon (Dec 2024); see israeli-positions-syria-2024.",
+          "ar": "سوريا بعد دخول القوات الإسرائيلية منطقة الفصل التابعة للأمم المتحدة والجانب السوري من جبل الشيخ (كانون الأول/ديسمبر 2024)؛ انظر israeli-positions-syria-2024.",
+          "he": "סוריה לאחר כניסת כוחות ישראליים לאזור ההפרדה של האו״ם ולצד הסורי של הר חרמון (דצמבר 2024); ראו israeli-positions-syria-2024.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

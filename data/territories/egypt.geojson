@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Sinai peninsula."
+          "en": "Sinai peninsula.",
+          "ar": "شبه جزيرة سيناء.",
+          "he": "חצי האי סיני.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Sinai plus the Gaza Strip under Egyptian military administration (strip boundaries fixed by the 24 Feb 1949 armistice); Gaza was not annexed. Interrupted by Israeli occupation Nov 1956 - March 1957 (separate record)."
+          "en": "Sinai plus the Gaza Strip under Egyptian military administration (strip boundaries fixed by the 24 Feb 1949 armistice); Gaza was not annexed. Interrupted by Israeli occupation Nov 1956 - March 1957 (separate record).",
+          "ar": "سيناء إضافة إلى قطاع غزة تحت الإدارة العسكرية المصرية (حدود القطاع ثبّتتها هدنة 24 شباط/فبراير 1949)؛ ولم تُضم غزة. انقطعت بسبب الاحتلال الإسرائيلي من تشرين الثاني/نوفمبر 1956 إلى آذار/مارس 1957 (سجل منفصل).",
+          "he": "סיני בתוספת רצועת עזה תחת מינהל צבאי מצרי (גבולות הרצועה נקבעו בהסכם שביתת הנשק מ-24 בפברואר 1949); עזה לא סופחה. הופסק בשל הכיבוש הישראלי בנובמבר 1956 – מרץ 1957 (רשומה נפרדת).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -92,7 +104,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Sinai after the completion of Israel's withdrawal under the 1979 peace treaty."
+          "en": "Sinai after the completion of Israel's withdrawal under the 1979 peace treaty.",
+          "ar": "سيناء بعد اكتمال الانسحاب الإسرائيلي بموجب معاهدة السلام لعام 1979.",
+          "he": "סיני לאחר השלמת הנסיגה הישראלית לפי הסכם השלום מ-1979.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

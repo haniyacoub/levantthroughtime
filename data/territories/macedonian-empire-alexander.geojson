@@ -36,7 +36,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Coastal cities reduced by force (Tyre, Gaza); the interior (incl. Judea under its high priest) submitted and was left largely undisturbed."
+          "en": "Coastal cities reduced by force (Tyre, Gaza); the interior (incl. Judea under its high priest) submitted and was left largely undisturbed.",
+          "ar": "مدن ساحلية أُخضعت بالقوة (صور، غزة)؛ أما الداخل (بما فيه اليهودية تحت كاهنها الأعلى) فخضع وتُرك إلى حد كبير دون إزعاج.",
+          "he": "ערי חוף הוכנעו בכוח (צור, עזה); הפנים (כולל יהודה תחת כוהנה הגדול) נכנע ונותר ברובו בלי הפרעה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

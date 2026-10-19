@@ -5,154 +5,286 @@
       "id": "arabs",
       "axis": "ethnicity",
       "name": {
-        "en": "Arabs"
+        "en": "Arabs",
+        "ar": "العرب",
+        "he": "ערבים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "arabs-and-others",
       "axis": "ethnicity",
       "name": {
-        "en": "Arabs and others"
+        "en": "Arabs and others",
+        "ar": "العرب وآخرون",
+        "he": "ערבים ואחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "franks",
       "axis": "ethnicity",
       "name": {
-        "en": "Franks (Latin Europeans)"
+        "en": "Franks (Latin Europeans)",
+        "ar": "الفرنجة (الأوروبيون اللاتين)",
+        "he": "פרנקים (אירופים לטיניים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "israelites",
       "axis": "ethnicity",
       "name": {
-        "en": "Israelites"
+        "en": "Israelites",
+        "ar": "بنو إسرائيل",
+        "he": "בני ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "jews",
       "axis": "ethnicity",
       "name": {
-        "en": "Jews"
+        "en": "Jews",
+        "ar": "اليهود",
+        "he": "יהודים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "local-population",
       "axis": "ethnicity",
       "name": {
-        "en": "Local population"
+        "en": "Local population",
+        "ar": "السكان المحليون",
+        "he": "האוכלוסייה המקומית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "others",
       "axis": "ethnicity",
       "name": {
-        "en": "Others"
+        "en": "Others",
+        "ar": "آخرون",
+        "he": "אחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "arabs",
       "axis": "population-group",
       "name": {
-        "en": "Arabs"
+        "en": "Arabs",
+        "ar": "العرب",
+        "he": "ערבים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "foreigners",
       "axis": "population-group",
       "name": {
-        "en": "Foreigners"
+        "en": "Foreigners",
+        "ar": "الأجانب",
+        "he": "זרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "jews",
       "axis": "population-group",
       "name": {
-        "en": "Jews"
+        "en": "Jews",
+        "ar": "اليهود",
+        "he": "יהודים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "jews-and-others",
       "axis": "population-group",
       "name": {
-        "en": "Jews and others"
+        "en": "Jews and others",
+        "ar": "اليهود وآخرون",
+        "he": "יהודים ואחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "others",
       "axis": "population-group",
       "name": {
-        "en": "Others"
+        "en": "Others",
+        "ar": "آخرون",
+        "he": "אחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "bahais",
       "axis": "religion",
       "name": {
-        "en": "Bahá’ís"
+        "en": "Bahá’ís",
+        "ar": "البهائيون",
+        "he": "בהאים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "christians",
       "axis": "religion",
       "name": {
-        "en": "Christians"
+        "en": "Christians",
+        "ar": "المسيحيون",
+        "he": "נוצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "druze",
       "axis": "religion",
       "name": {
-        "en": "Druze"
+        "en": "Druze",
+        "ar": "الدروز",
+        "he": "דרוזים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "jews",
       "axis": "religion",
       "name": {
-        "en": "Jews"
+        "en": "Jews",
+        "ar": "اليهود",
+        "he": "יהודים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "muslims",
       "axis": "religion",
       "name": {
-        "en": "Muslims"
+        "en": "Muslims",
+        "ar": "المسلمون",
+        "he": "מוסלמים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "no-religion",
       "axis": "religion",
       "name": {
-        "en": "No religion"
+        "en": "No religion",
+        "ar": "بلا دين",
+        "he": "ללא דת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "not-classified-by-religion",
       "axis": "religion",
       "name": {
-        "en": "Not classified by religion"
+        "en": "Not classified by religion",
+        "ar": "غير مصنفين حسب الدين",
+        "he": "לא מסווגים לפי דת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "others",
       "axis": "religion",
       "name": {
-        "en": "Others"
+        "en": "Others",
+        "ar": "آخرون",
+        "he": "אחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "others-and-unknown",
       "axis": "religion",
       "name": {
-        "en": "Others and unknown"
+        "en": "Others and unknown",
+        "ar": "آخرون وغير معروفين",
+        "he": "אחרים ולא ידוע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "samaritans",
       "axis": "religion",
       "name": {
-        "en": "Samaritans"
+        "en": "Samaritans",
+        "ar": "السامريون",
+        "he": "שומרונים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

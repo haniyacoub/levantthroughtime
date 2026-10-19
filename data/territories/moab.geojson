@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Kingdom east of the Dead Sea, bounded by Edom and 'the land of the Amorites'."
+          "en": "Kingdom east of the Dead Sea, bounded by Edom and 'the land of the Amorites'.",
+          "ar": "مملكة شرق البحر الميت، يحدها أدوم و'the land of the Amorites' [أرض الأموريين].",
+          "he": "ממלכה ממזרח לים המלח, גובלת באדום וב-“the land of the Amorites” [ארץ האמורי].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -58,7 +64,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Moab south of the Arnon while the Omrides held the Madaba plain with forts at Jahaz and Ataroth facing Dibon."
+          "en": "Moab south of the Arnon while the Omrides held the Madaba plain with forts at Jahaz and Ataroth facing Dibon.",
+          "ar": "موآب جنوب أرنون بينما احتل العمريون سهل مادبا بحصون في يهص وعطاروت في مواجهة ذيبان.",
+          "he": "מואב מדרום לארנון בעוד בית עמרי החזיקו במישור מידבא עם מבצרים ביהץ ובעטרות מול דיבון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -91,7 +103,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After Mesha's revolt and victories over Israel (Mesha stele from Dibon), Moab including the Madaba plain north of the Arnon."
+          "en": "After Mesha's revolt and victories over Israel (Mesha stele from Dibon), Moab including the Madaba plain north of the Arnon.",
+          "ar": "بعد ثورة ميشع وانتصاراته على إسرائيل (مسلة ميشع من ذيبان)، موآب بما فيها سهل مادبا شمال أرنون.",
+          "he": "לאחר מרד מישע וניצחונותיו על ישראל (מצבת מישע מדיבון), מואב כולל מישור מידבא מצפון לארנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

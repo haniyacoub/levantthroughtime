@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Effective control of the Syrian interior around Damascus; claimed area (Palestine, Lebanon, Transjordan) far larger and not controlled."
+          "en": "Effective control of the Syrian interior around Damascus; claimed area (Palestine, Lebanon, Transjordan) far larger and not controlled.",
+          "ar": "سيطرة فعلية على الداخل السوري حول دمشق؛ أما المنطقة المطالب بها (فلسطين ولبنان وشرق الأردن) فكانت أوسع بكثير ولم تكن خاضعة لسيطرته.",
+          "he": "שליטה אפקטיבית בפנים סוריה סביב דמשק; השטח שנתבע (פלשתינה, לבנון ועבר הירדן) היה גדול בהרבה ולא היה בשליטה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

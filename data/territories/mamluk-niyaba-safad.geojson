@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Northern Palestine: 'including areas in modern-day southern Lebanon and the Golan Heights' (Amitai 2017)."
+          "en": "Northern Palestine: 'including areas in modern-day southern Lebanon and the Golan Heights' (Amitai 2017).",
+          "ar": "شمال فلسطين: 'including areas in modern-day southern Lebanon and the Golan Heights' [بما في ذلك مناطق في جنوب لبنان وهضبة الجولان اليوم] (عميتاي 2017).",
+          "he": "צפון פלשתינה: “including areas in modern-day southern Lebanon and the Golan Heights” [כולל אזורים בדרום לבנון של ימינו וברמת הגולן] (עמיתי 2017).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

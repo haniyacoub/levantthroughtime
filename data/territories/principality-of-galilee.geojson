@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Galilee, centred on Tiberias on the Sea of Galilee (sub-fiefs and exact limits not verified)."
+          "en": "Galilee, centred on Tiberias on the Sea of Galilee (sub-fiefs and exact limits not verified).",
+          "ar": "الجليل، ومركزه طبرية على بحيرة طبرية (الإقطاعات الفرعية والحدود الدقيقة لم يُتحقق منها).",
+          "he": "הגליל, שמרכזו טבריה על הכינרת (אחוזות משנה והגבולות המדויקים לא אומתו).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

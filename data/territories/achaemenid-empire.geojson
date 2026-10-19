@@ -48,7 +48,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "The whole map area within the satrapy 'Beyond the River' (Eber-Nari): Phoenician vassal cities, the provinces (Yehud, Samaria, Ashdod, Ammon, and others reported by Avi-Yonah), and Arab tribal areas in the south."
+          "en": "The whole map area within the satrapy 'Beyond the River' (Eber-Nari): Phoenician vassal cities, the provinces (Yehud, Samaria, Ashdod, Ammon, and others reported by Avi-Yonah), and Arab tribal areas in the south.",
+          "ar": "كامل منطقة الخريطة ضمن ساترابية «عبر النهر» (عبر ناري): مدن فينيقية تابعة، والأقاليم (يحود والسامرة وأشدود وعمّون وغيرها مما أورده أفي يونا)، ومناطق القبائل العربية في الجنوب.",
+          "he": "כל שטח המפה בתוך הסטרפיה “עבר הנהר” (עבר נהרה): ערים פיניקיות כפופות, המחוזות (יהוד, שומרון, אשדוד, עמון ואחרים שמזכיר אבי-יונה), ואזורי שבטים ערביים בדרום.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

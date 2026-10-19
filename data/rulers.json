@@ -4,11 +4,23 @@
     {
       "id": "abdi-heba-jerusalem",
       "name": {
-        "en": "Abdi-Heba"
+        "en": "Abdi-Heba",
+        "ar": "عبدي خيبا",
+        "he": "עבדי-חבה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jerusalem-city-state",
       "office": {
-        "en": "Ruler of Jerusalem (Egyptian vassal)"
+        "en": "Ruler of Jerusalem (Egyptian vassal)",
+        "ar": "حاكم القدس (تابع لمصر)",
+        "he": "שליט ירושלים (וסאל מצרי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1360,
@@ -46,11 +58,23 @@
     {
       "id": "labayu-shechem",
       "name": {
-        "en": "Labayu (Lab'ayu)"
+        "en": "Labayu (Lab'ayu)",
+        "ar": "لبايو (لبعايو)",
+        "he": "לבאיו (לבאיו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "shechem-city-state",
       "office": {
-        "en": "Ruler of Shechem (Egyptian vassal)"
+        "en": "Ruler of Shechem (Egyptian vassal)",
+        "ar": "حاكم شكيم (تابع لمصر)",
+        "he": "שליט שכם (וסאל מצרי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1360,
@@ -98,11 +122,23 @@
     {
       "id": "biridiya-megiddo",
       "name": {
-        "en": "Biridiya"
+        "en": "Biridiya",
+        "ar": "بيريديا",
+        "he": "בירידיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "megiddo-city-state",
       "office": {
-        "en": "Ruler of Megiddo (Egyptian vassal)"
+        "en": "Ruler of Megiddo (Egyptian vassal)",
+        "ar": "حاكم مجدو (تابع لمصر)",
+        "he": "שליט מגידו (וסאל מצרי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1360,
@@ -135,11 +171,23 @@
     {
       "id": "milkilu-gezer",
       "name": {
-        "en": "Milkilu (Milki-ili)"
+        "en": "Milkilu (Milki-ili)",
+        "ar": "ميلكيلو (ميلكي-إيلي)",
+        "he": "מילקילו (מילכי-אילי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "gezer-city-state",
       "office": {
-        "en": "Ruler of Gezer (Egyptian vassal)"
+        "en": "Ruler of Gezer (Egyptian vassal)",
+        "ar": "حاكم جازر (تابع لمصر)",
+        "he": "שליט גזר (וסאל מצרי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1360,
@@ -172,11 +220,23 @@
     {
       "id": "saul-textual",
       "name": {
-        "en": "Saul"
+        "en": "Saul",
+        "ar": "شاول",
+        "he": "שאול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "united-monarchy-textual",
       "office": {
-        "en": "King of Israel (biblical account)"
+        "en": "King of Israel (biblical account)",
+        "ar": "ملك إسرائيل (الرواية التوراتية)",
+        "he": "מלך ישראל (התיאור המקראי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1021,
@@ -219,11 +279,23 @@
     {
       "id": "david-textual",
       "name": {
-        "en": "David"
+        "en": "David",
+        "ar": "داود",
+        "he": "דוד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "united-monarchy-textual",
       "office": {
-        "en": "King of Israel and Judah (biblical account)"
+        "en": "King of Israel and Judah (biblical account)",
+        "ar": "ملك إسرائيل ويهوذا (الرواية التوراتية)",
+        "he": "מלך ישראל ויהודה (התיאור המקראי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -1000,
@@ -281,11 +353,23 @@
     {
       "id": "solomon-textual",
       "name": {
-        "en": "Solomon"
+        "en": "Solomon",
+        "ar": "سليمان",
+        "he": "שלמה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "united-monarchy-textual",
       "office": {
-        "en": "King of Israel and Judah (biblical account)"
+        "en": "King of Israel and Judah (biblical account)",
+        "ar": "ملك إسرائيل ويهوذا (الرواية التوراتية)",
+        "he": "מלך ישראל ויהודה (התיאור המקראי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -975,
@@ -340,11 +424,23 @@
     {
       "id": "hiram-i-of-tyre",
       "name": {
-        "en": "Hiram I"
+        "en": "Hiram I",
+        "ar": "حيرام الأول",
+        "he": "חירם הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "tyre",
       "office": {
-        "en": "King of Tyre"
+        "en": "King of Tyre",
+        "ar": "ملك صور",
+        "he": "מלך צור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -969,
@@ -377,11 +473,23 @@
     {
       "id": "rehoboam-textual",
       "name": {
-        "en": "Rehoboam"
+        "en": "Rehoboam",
+        "ar": "رحبعام",
+        "he": "רחבעם",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah (biblical account)"
+        "en": "King of Judah (biblical account)",
+        "ar": "ملك يهوذا (الرواية التوراتية)",
+        "he": "מלך יהודה (התיאור המקראי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -922,
@@ -419,11 +527,23 @@
     {
       "id": "jeroboam-i",
       "name": {
-        "en": "Jeroboam I"
+        "en": "Jeroboam I",
+        "ar": "يربعام الأول",
+        "he": "ירבעם הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (northern kingdom)"
+        "en": "King of Israel (northern kingdom)",
+        "ar": "ملك إسرائيل (المملكة الشمالية)",
+        "he": "מלך ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -922,
@@ -461,11 +581,23 @@
     {
       "id": "omri",
       "name": {
-        "en": "Omri"
+        "en": "Omri",
+        "ar": "عمري",
+        "he": "עמרי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (northern kingdom)"
+        "en": "King of Israel (northern kingdom)",
+        "ar": "ملك إسرائيل (المملكة الشمالية)",
+        "he": "מלך ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -884,
@@ -504,11 +636,23 @@
     {
       "id": "ahab",
       "name": {
-        "en": "Ahab"
+        "en": "Ahab",
+        "ar": "أخآب",
+        "he": "אחאב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (northern kingdom)"
+        "en": "King of Israel (northern kingdom)",
+        "ar": "ملك إسرائيل (المملكة الشمالية)",
+        "he": "מלך ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -874,
@@ -545,11 +689,23 @@
     {
       "id": "mesha-of-moab",
       "name": {
-        "en": "Mesha"
+        "en": "Mesha",
+        "ar": "ميشع",
+        "he": "מישע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "moab",
       "office": {
-        "en": "King of Moab"
+        "en": "King of Moab",
+        "ar": "ملك موآب",
+        "he": "מלך מואב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -850,
@@ -593,11 +749,23 @@
     {
       "id": "jehu",
       "name": {
-        "en": "Jehu"
+        "en": "Jehu",
+        "ar": "ياهو",
+        "he": "יהוא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (northern kingdom)"
+        "en": "King of Israel (northern kingdom)",
+        "ar": "ملك إسرائيل (المملكة الشمالية)",
+        "he": "מלך ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -842,
@@ -634,11 +802,23 @@
     {
       "id": "hazael-of-damascus",
       "name": {
-        "en": "Hazael"
+        "en": "Hazael",
+        "ar": "حزائيل",
+        "he": "חזאל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "aram-damascus",
       "office": {
-        "en": "King of Aram-Damascus"
+        "en": "King of Aram-Damascus",
+        "ar": "ملك آرام دمشق",
+        "he": "מלך ארם דמשק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -842,
@@ -682,11 +862,23 @@
     {
       "id": "uzziah",
       "name": {
-        "en": "Uzziah (Azariah)"
+        "en": "Uzziah (Azariah)",
+        "ar": "عزيا (عزريا)",
+        "he": "עוזיהו (עזריהו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah"
+        "en": "King of Judah",
+        "ar": "ملك يهوذا",
+        "he": "מלך יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -791,
@@ -721,11 +913,23 @@
     {
       "id": "jeroboam-ii",
       "name": {
-        "en": "Jeroboam II"
+        "en": "Jeroboam II",
+        "ar": "يربعام الثاني",
+        "he": "ירבעם השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (northern kingdom)"
+        "en": "King of Israel (northern kingdom)",
+        "ar": "ملك إسرائيل (المملكة الشمالية)",
+        "he": "מלך ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -786,
@@ -765,11 +969,23 @@
     {
       "id": "ahaz",
       "name": {
-        "en": "Ahaz (Jehoahaz)"
+        "en": "Ahaz (Jehoahaz)",
+        "ar": "آحاز (يهوآحاز)",
+        "he": "אחז (יהואחז)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah (Assyrian vassal)"
+        "en": "King of Judah (Assyrian vassal)",
+        "ar": "ملك يهوذا (تابع لآشور)",
+        "he": "מלך יהודה (וסאל אשורי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -735,
@@ -802,11 +1018,23 @@
     {
       "id": "hoshea",
       "name": {
-        "en": "Hoshea"
+        "en": "Hoshea",
+        "ar": "هوشع",
+        "he": "הושע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-israel",
       "office": {
-        "en": "King of Israel (last king; Assyrian vassal)"
+        "en": "King of Israel (last king; Assyrian vassal)",
+        "ar": "ملك إسرائيل (آخر الملوك؛ تابع لآشور)",
+        "he": "מלך ישראל (המלך האחרון; וסאל אשורי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -732,
@@ -838,11 +1066,23 @@
     {
       "id": "hezekiah",
       "name": {
-        "en": "Hezekiah"
+        "en": "Hezekiah",
+        "ar": "حزقيا",
+        "he": "חזקיהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah"
+        "en": "King of Judah",
+        "ar": "ملك يهوذا",
+        "he": "מלך יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -715,
@@ -874,11 +1114,23 @@
     {
       "id": "manasseh",
       "name": {
-        "en": "Manasseh"
+        "en": "Manasseh",
+        "ar": "منسى",
+        "he": "מנשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah (Assyrian vassal)"
+        "en": "King of Judah (Assyrian vassal)",
+        "ar": "ملك يهوذا (تابع لآشور)",
+        "he": "מלך יהודה (וסאל אשורי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -686,
@@ -910,11 +1162,23 @@
     {
       "id": "josiah",
       "name": {
-        "en": "Josiah"
+        "en": "Josiah",
+        "ar": "يوشيا",
+        "he": "יאשיהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah"
+        "en": "King of Judah",
+        "ar": "ملك يهوذا",
+        "he": "מלך יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -640,
@@ -946,11 +1210,23 @@
     {
       "id": "zedekiah",
       "name": {
-        "en": "Zedekiah (Mattaniah)"
+        "en": "Zedekiah (Mattaniah)",
+        "ar": "صدقيا (متنيا)",
+        "he": "צדקיהו (מתניה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-judah",
       "office": {
-        "en": "King of Judah (Babylonian vassal)"
+        "en": "King of Judah (Babylonian vassal)",
+        "ar": "ملك يهوذا (تابع لبابل)",
+        "he": "מלך יהודה (וסאל בבלי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -597,
@@ -992,11 +1268,23 @@
     {
       "id": "zerubbabel",
       "name": {
-        "en": "Zerubbabel"
+        "en": "Zerubbabel",
+        "ar": "زربابل",
+        "he": "זרובבל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "yehud",
       "office": {
-        "en": "Governor of Judah (Yehud) under the Persians"
+        "en": "Governor of Judah (Yehud) under the Persians",
+        "ar": "والي يهوذا (يهود) في العهد الفارسي",
+        "he": "פחה של יהודה (יהוד) בתקופה הפרסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -538,
@@ -1035,11 +1323,23 @@
     {
       "id": "sanballat-i-samaria",
       "name": {
-        "en": "Sanballat (I)"
+        "en": "Sanballat (I)",
+        "ar": "سنبلط (الأول)",
+        "he": "סנבלט (הראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "assyrian-province-samerina",
       "office": {
-        "en": "Governor of Samaria (Persian province)"
+        "en": "Governor of Samaria (Persian province)",
+        "ar": "والي السامرة (مقاطعة فارسية)",
+        "he": "פחה של שומרון (פרובינציה פרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -450,
@@ -1077,11 +1377,23 @@
     {
       "id": "nehemiah-governor",
       "name": {
-        "en": "Nehemiah"
+        "en": "Nehemiah",
+        "ar": "نحميا",
+        "he": "נחמיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "yehud",
       "office": {
-        "en": "Governor of Judah (Yehud) under Artaxerxes I"
+        "en": "Governor of Judah (Yehud) under Artaxerxes I",
+        "ar": "والي يهوذا (يهود) في عهد أرتحشستا الأول",
+        "he": "פחה של יהודה (יהוד) בימי ארתחשסתא הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -445,
@@ -1126,11 +1438,23 @@
     {
       "id": "bagohi-governor-of-judah",
       "name": {
-        "en": "Bagohi (Bagavahya)"
+        "en": "Bagohi (Bagavahya)",
+        "ar": "باغوهي (باغافاهيا)",
+        "he": "בגוהי (בגבהיה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "yehud",
       "office": {
-        "en": "Governor of Judah (Yehud) under the Persians"
+        "en": "Governor of Judah (Yehud) under the Persians",
+        "ar": "والي يهوذا (يهود) في العهد الفارسي",
+        "he": "פחה של יהודה (יהוד) בתקופה הפרסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -430,
@@ -1168,11 +1492,23 @@
     {
       "id": "alexander-the-great",
       "name": {
-        "en": "Alexander the Great (Alexander III of Macedon)"
+        "en": "Alexander the Great (Alexander III of Macedon)",
+        "ar": "الإسكندر الأكبر (الإسكندر الثالث المقدوني)",
+        "he": "אלכסנדר מוקדון (אלכסנדר השלישי ממקדון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "macedonian-empire-alexander",
       "office": {
-        "en": "King of Macedon; conqueror of the Persian Empire (ruled the southern Levant from 332 BCE)"
+        "en": "King of Macedon; conqueror of the Persian Empire (ruled the southern Levant from 332 BCE)",
+        "ar": "ملك مقدونيا؛ فاتح الإمبراطورية الفارسية (حكم جنوب بلاد الشام منذ 332 ق.م.)",
+        "he": "מלך מקדון; כובש האימפריה הפרסית (שלט בלבנט הדרומי מאז 332 לפנה״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -336,
@@ -1209,11 +1545,23 @@
     {
       "id": "ptolemy-i-soter",
       "name": {
-        "en": "Ptolemy I Soter"
+        "en": "Ptolemy I Soter",
+        "ar": "بطليموس الأول سوتير",
+        "he": "תלמי הראשון סוטר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ptolemaic-kingdom",
       "office": {
-        "en": "Satrap of Egypt (323-305 BCE), then King of Egypt"
+        "en": "Satrap of Egypt (323-305 BCE), then King of Egypt",
+        "ar": "ساتراب مصر (323-305 ق.م.)، ثم ملك مصر",
+        "he": "סטרפ של מצרים (323–305 לפנה״ס), ולאחר מכן מלך מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -323,
@@ -1260,11 +1608,23 @@
     {
       "id": "ptolemy-ii-philadelphus",
       "name": {
-        "en": "Ptolemy II Philadelphus"
+        "en": "Ptolemy II Philadelphus",
+        "ar": "بطليموس الثاني فيلادلفوس",
+        "he": "תלמי השני פילדלפוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ptolemaic-kingdom",
       "office": {
-        "en": "King of Egypt"
+        "en": "King of Egypt",
+        "ar": "ملك مصر",
+        "he": "מלך מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -285,
@@ -1299,11 +1659,23 @@
     {
       "id": "antiochus-iii-the-great",
       "name": {
-        "en": "Antiochus III the Great"
+        "en": "Antiochus III the Great",
+        "ar": "أنطيوخس الثالث الكبير",
+        "he": "אנטיוכוס השלישי הגדול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "seleucid-empire",
       "office": {
-        "en": "Seleucid king"
+        "en": "Seleucid king",
+        "ar": "ملك سلوقي",
+        "he": "מלך סלאוקי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -223,
@@ -1333,11 +1705,23 @@
     {
       "id": "antiochus-iv-epiphanes",
       "name": {
-        "en": "Antiochus IV Epiphanes"
+        "en": "Antiochus IV Epiphanes",
+        "ar": "أنطيوخس الرابع أبيفانس",
+        "he": "אנטיוכוס הרביעי אפיפנס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "seleucid-empire",
       "office": {
-        "en": "Seleucid king"
+        "en": "Seleucid king",
+        "ar": "ملك سلوقي",
+        "he": "מלך סלאוקי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -175,
@@ -1373,11 +1757,23 @@
     {
       "id": "judas-maccabeus",
       "name": {
-        "en": "Judas Maccabeus"
+        "en": "Judas Maccabeus",
+        "ar": "يهوذا المكابي",
+        "he": "יהודה המכבי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "maccabean-revolt",
       "office": {
-        "en": "Leader of the Maccabean revolt"
+        "en": "Leader of the Maccabean revolt",
+        "ar": "قائد الثورة المكابية",
+        "he": "מנהיג המרד החשמונאי (המכבי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -166,
@@ -1424,11 +1820,23 @@
     {
       "id": "jonathan-apphus",
       "name": {
-        "en": "Jonathan Apphus (Jonathan Maccabeus)"
+        "en": "Jonathan Apphus (Jonathan Maccabeus)",
+        "ar": "يوناثان أفوس (يوناثان المكابي)",
+        "he": "יונתן אפוס (יונתן המכבי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "maccabean-revolt",
       "office": {
-        "en": "Leader of the Maccabean movement; high priest from 152 BCE"
+        "en": "Leader of the Maccabean movement; high priest from 152 BCE",
+        "ar": "قائد الحركة المكابية؛ كاهن أعظم منذ 152 ق.م.",
+        "he": "מנהיג התנועה המכבית; כהן גדול מאז 152 לפנה״ס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -161,
@@ -1477,11 +1885,23 @@
     {
       "id": "simon-thassi",
       "name": {
-        "en": "Simon Thassi (Simon Maccabeus)"
+        "en": "Simon Thassi (Simon Maccabeus)",
+        "ar": "شمعون ثاسي (شمعون المكابي)",
+        "he": "שמעון התרסי (שמעון המכבי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "High priest, ethnarch and leader of the Jews"
+        "en": "High priest, ethnarch and leader of the Jews",
+        "ar": "الكاهن الأعظم والإثنارخ وقائد اليهود",
+        "he": "הכהן הגדול, האתנארך ומנהיג היהודים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -143,
@@ -1525,11 +1945,23 @@
     {
       "id": "john-hyrcanus-i",
       "name": {
-        "en": "John Hyrcanus I"
+        "en": "John Hyrcanus I",
+        "ar": "يوحنا هركانوس الأول",
+        "he": "יוחנן הורקנוס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "High priest and ethnarch of Judaea"
+        "en": "High priest and ethnarch of Judaea",
+        "ar": "الكاهن الأعظم وإثنارخ اليهودية",
+        "he": "הכהן הגדול ואתנארך יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -134,
@@ -1564,11 +1996,23 @@
     {
       "id": "aristobulus-i",
       "name": {
-        "en": "Aristobulus I"
+        "en": "Aristobulus I",
+        "ar": "أريستوبولس الأول",
+        "he": "אריסטובולוס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "High priest; first Hasmonean to take the title of king"
+        "en": "High priest; first Hasmonean to take the title of king",
+        "ar": "كاهن أعظم؛ أول حشموني يتخذ لقب ملك",
+        "he": "כהן גדול; החשמונאי הראשון שנטל את התואר מלך",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -104,
@@ -1603,11 +2047,23 @@
     {
       "id": "alexander-jannaeus",
       "name": {
-        "en": "Alexander Jannaeus"
+        "en": "Alexander Jannaeus",
+        "ar": "ألكسندر جانايوس",
+        "he": "אלכסנדר ינאי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "King and high priest"
+        "en": "King and high priest",
+        "ar": "ملك وكاهن أعظم",
+        "he": "מלך וכהן גדול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -103,
@@ -1642,11 +2098,23 @@
     {
       "id": "salome-alexandra",
       "name": {
-        "en": "Salome Alexandra (Shelomzion)"
+        "en": "Salome Alexandra (Shelomzion)",
+        "ar": "سالومي ألكسندرا (شلمصيون)",
+        "he": "שלומציון המלכה (סלומה אלכסנדרה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "Queen regnant of Judaea"
+        "en": "Queen regnant of Judaea",
+        "ar": "ملكة حاكمة لليهودية",
+        "he": "מלכה שלטת של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -76,
@@ -1681,11 +2149,23 @@
     {
       "id": "aristobulus-ii",
       "name": {
-        "en": "Aristobulus II"
+        "en": "Aristobulus II",
+        "ar": "أريستوبولس الثاني",
+        "he": "אריסטובולוס השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-state",
       "office": {
-        "en": "King and high priest"
+        "en": "King and high priest",
+        "ar": "ملك وكاهن أعظم",
+        "he": "מלך וכהן גדול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -67,
@@ -1725,11 +2205,23 @@
     {
       "id": "hyrcanus-ii",
       "name": {
-        "en": "John Hyrcanus II"
+        "en": "John Hyrcanus II",
+        "ar": "يوحنا هركانوس الثاني",
+        "he": "יוחנן הורקנוס השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-ethnarchy-hyrcanus-ii",
       "office": {
-        "en": "High priest and ethnarch of the Jews under Roman authority"
+        "en": "High priest and ethnarch of the Jews under Roman authority",
+        "ar": "الكاهن الأعظم والإثنارخ لليهود تحت السلطة الرومانية",
+        "he": "הכהן הגדול ואתנארך היהודים תחת שלטון רומא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -63,
@@ -1769,11 +2261,23 @@
     {
       "id": "antigonus-ii-mattathias",
       "name": {
-        "en": "Antigonus II Mattathias"
+        "en": "Antigonus II Mattathias",
+        "ar": "أنتيغونوس الثاني متتيا",
+        "he": "אנטיגונוס השני מתתיהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hasmonean-kingdom-antigonus",
       "office": {
-        "en": "King and high priest (installed by the Parthians)"
+        "en": "King and high priest (installed by the Parthians)",
+        "ar": "ملك وكاهن أعظم (نصّبه البارثيون)",
+        "he": "מלך וכהן גדול (מונה בידי הפרתים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -40,
@@ -1813,11 +2317,23 @@
     {
       "id": "herod-the-great",
       "name": {
-        "en": "Herod the Great"
+        "en": "Herod the Great",
+        "ar": "هيرودس الكبير",
+        "he": "הורדוס הגדול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "herodian-kingdom",
       "office": {
-        "en": "King of Judaea (client king of Rome)"
+        "en": "King of Judaea (client king of Rome)",
+        "ar": "ملك اليهودية (ملك تابع لروما)",
+        "he": "מלך יהודה (מלך חסות של רומא)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -37,
@@ -1854,11 +2370,23 @@
     {
       "id": "aretas-iv",
       "name": {
-        "en": "Aretas IV"
+        "en": "Aretas IV",
+        "ar": "الحارث الرابع",
+        "he": "חרתת הרביעי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "nabataean-kingdom",
       "office": {
-        "en": "King of the Nabataeans"
+        "en": "King of the Nabataeans",
+        "ar": "ملك الأنباط",
+        "he": "מלך הנבטים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -9,
@@ -1893,11 +2421,23 @@
     {
       "id": "herod-archelaus",
       "name": {
-        "en": "Herod Archelaus"
+        "en": "Herod Archelaus",
+        "ar": "هيرودس أرخيلاوس",
+        "he": "הורדוס ארכלאוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ethnarchy-of-archelaus",
       "office": {
-        "en": "Ethnarch of Judaea, Samaria and Idumaea"
+        "en": "Ethnarch of Judaea, Samaria and Idumaea",
+        "ar": "إثنارخ اليهودية والسامرة وأدومية",
+        "he": "אתנארך יהודה, שומרון ואדומיאה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -4,
@@ -1937,11 +2477,23 @@
     {
       "id": "herod-antipas",
       "name": {
-        "en": "Herod Antipas"
+        "en": "Herod Antipas",
+        "ar": "هيرودس أنتيباس",
+        "he": "הורדוס אנטיפס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "tetrarchy-of-herod-antipas",
       "office": {
-        "en": "Tetrarch of Galilee and Peraea"
+        "en": "Tetrarch of Galilee and Peraea",
+        "ar": "تترارخ الجليل وبيرية",
+        "he": "טטרארך הגליל ופראה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -4,
@@ -1976,11 +2528,23 @@
     {
       "id": "philip-the-tetrarch",
       "name": {
-        "en": "Philip the Tetrarch (Herod Philip)"
+        "en": "Philip the Tetrarch (Herod Philip)",
+        "ar": "فيليب التترارخ (هيرودس فيليب)",
+        "he": "פיליפוס הטטרארך (הורדוס פיליפוס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "tetrarchy-of-philip",
       "office": {
-        "en": "Tetrarch of Batanaea, Trachonitis, Auranitis and Gaulanitis"
+        "en": "Tetrarch of Batanaea, Trachonitis, Auranitis and Gaulanitis",
+        "ar": "تترارخ باتانيا وتراخونيتس وأورانيتس وجولانيتس",
+        "he": "טטרארך בתניה, טרכונית, אוראניטיס וגולניטיס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": -4,
@@ -2021,11 +2585,23 @@
     {
       "id": "coponius",
       "name": {
-        "en": "Coponius"
+        "en": "Coponius",
+        "ar": "كوبونيوس",
+        "he": "קופוניוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Prefect (praefectus) of Judaea (first Roman governor)"
+        "en": "Prefect (praefectus) of Judaea (first Roman governor)",
+        "ar": "حاكم (praefectus) اليهودية (أول حاكم روماني)",
+        "he": "פרפקט (praefectus) של יהודה (המושל הרומי הראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 6,
@@ -2061,11 +2637,23 @@
     {
       "id": "marcus-ambibulus",
       "name": {
-        "en": "Marcus Ambibulus"
+        "en": "Marcus Ambibulus",
+        "ar": "ماركوس أمبيبولوس",
+        "he": "מרקוס אמביבולוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Prefect (praefectus) of Judaea"
+        "en": "Prefect (praefectus) of Judaea",
+        "ar": "حاكم (praefectus) اليهودية",
+        "he": "פרפקט (praefectus) של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 9,
@@ -2097,11 +2685,23 @@
     {
       "id": "annius-rufus",
       "name": {
-        "en": "Annius Rufus"
+        "en": "Annius Rufus",
+        "ar": "أنيوس روفوس",
+        "he": "אניוס רופוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Prefect (praefectus) of Judaea"
+        "en": "Prefect (praefectus) of Judaea",
+        "ar": "حاكم (praefectus) اليهودية",
+        "he": "פרפקט (praefectus) של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 12,
@@ -2133,11 +2733,23 @@
     {
       "id": "valerius-gratus",
       "name": {
-        "en": "Valerius Gratus"
+        "en": "Valerius Gratus",
+        "ar": "فاليريوس غراتوس",
+        "he": "ולריוס גרטוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Prefect (praefectus) of Judaea"
+        "en": "Prefect (praefectus) of Judaea",
+        "ar": "حاكم (praefectus) اليهودية",
+        "he": "פרפקט (praefectus) של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 15,
@@ -2172,11 +2784,23 @@
     {
       "id": "pontius-pilate",
       "name": {
-        "en": "Pontius Pilate"
+        "en": "Pontius Pilate",
+        "ar": "بونتيوس بيلاطس",
+        "he": "פונטיוס פילטוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Prefect (praefectus) of Judaea"
+        "en": "Prefect (praefectus) of Judaea",
+        "ar": "حاكم (praefectus) اليهودية",
+        "he": "פרפקט (praefectus) של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 26,
@@ -2227,11 +2851,23 @@
     {
       "id": "agrippa-i",
       "name": {
-        "en": "Herod Agrippa I"
+        "en": "Herod Agrippa I",
+        "ar": "هيرودس أغريبا الأول",
+        "he": "הורדוס אגריפס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-agrippa-i",
       "office": {
-        "en": "King (client of Rome); from 41 CE king of all Judaea"
+        "en": "King (client of Rome); from 41 CE king of all Judaea",
+        "ar": "ملك (تابع لروما)؛ ملك كل اليهودية منذ 41 م",
+        "he": "מלך (חסות של רומא); מלך כל יהודה מאז 41 לספירה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 37,
@@ -2271,11 +2907,23 @@
     {
       "id": "cuspius-fadus",
       "name": {
-        "en": "Cuspius Fadus"
+        "en": "Cuspius Fadus",
+        "ar": "كوسبيوس فادوس",
+        "he": "קוספיוס פדוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 44,
@@ -2306,11 +2954,23 @@
     {
       "id": "tiberius-julius-alexander",
       "name": {
-        "en": "Tiberius Julius Alexander"
+        "en": "Tiberius Julius Alexander",
+        "ar": "تيبيريوس يوليوس الإسكندر",
+        "he": "טיבריוס יוליוס אלכסנדר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 46,
@@ -2340,11 +3000,23 @@
     {
       "id": "ventidius-cumanus",
       "name": {
-        "en": "Ventidius Cumanus"
+        "en": "Ventidius Cumanus",
+        "ar": "فنتيديوس كومانوس",
+        "he": "ונטידיוס קומנוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 48,
@@ -2374,11 +3046,23 @@
     {
       "id": "agrippa-ii",
       "name": {
-        "en": "Herod Agrippa II"
+        "en": "Herod Agrippa II",
+        "ar": "هيرودس أغريبا الثاني",
+        "he": "הורדוס אגריפס השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-agrippa-ii",
       "office": {
-        "en": "King (client of Rome) of Chalcis, later of Philip's former tetrarchy and parts of Galilee and Peraea"
+        "en": "King (client of Rome) of Chalcis, later of Philip's former tetrarchy and parts of Galilee and Peraea",
+        "ar": "ملك (تابع لروما) على خلقيس، ثم على تترارخية فيليب السابقة وأجزاء من الجليل وبيرية",
+        "he": "מלך (חסות של רומא) של כלקיס, ולאחר מכן של הטטרארכיה לשעבר של פיליפוס ושל חלקים מהגליל ופראה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 50,
@@ -2409,11 +3093,23 @@
     {
       "id": "antonius-felix",
       "name": {
-        "en": "Antonius Felix"
+        "en": "Antonius Felix",
+        "ar": "أنطونيوس فيلكس",
+        "he": "אנטוניוס פליקס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 52,
@@ -2444,11 +3140,23 @@
     {
       "id": "porcius-festus",
       "name": {
-        "en": "Porcius Festus"
+        "en": "Porcius Festus",
+        "ar": "بوركيوس فستوس",
+        "he": "פורקיוס פסטוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 58,
@@ -2485,11 +3193,23 @@
     {
       "id": "lucceius-albinus",
       "name": {
-        "en": "Lucceius Albinus"
+        "en": "Lucceius Albinus",
+        "ar": "لوكيوس ألبينوس",
+        "he": "לוקיוס אלבינוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 60,
@@ -2520,11 +3240,23 @@
     {
       "id": "gessius-florus",
       "name": {
-        "en": "Gessius Florus"
+        "en": "Gessius Florus",
+        "ar": "غيسيوس فلوروس",
+        "he": "גסיוס פלורוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "judaea-province",
       "office": {
-        "en": "Procurator of Judaea"
+        "en": "Procurator of Judaea",
+        "ar": "وكيل (procurator) اليهودية",
+        "he": "פרוקורטור של יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 64,
@@ -2559,11 +3291,23 @@
     {
       "id": "constantine-i",
       "name": {
-        "en": "Constantine I (the Great)"
+        "en": "Constantine I (the Great)",
+        "ar": "قسطنطين الأول (الكبير)",
+        "he": "קונסטנטינוס הראשון (הגדול)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "roman-empire",
       "office": {
-        "en": "Roman emperor (ruler of the eastern provinces, including Palestine, from 324)"
+        "en": "Roman emperor (ruler of the eastern provinces, including Palestine, from 324)",
+        "ar": "إمبراطور روماني (حاكم الأقاليم الشرقية، ومنها فلسطين، منذ 324)",
+        "he": "קיסר רומי (שליט המחוזות המזרחיים, כולל פלשתינה, מאז 324)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 324,
@@ -2600,11 +3344,23 @@
     {
       "id": "justinian-i",
       "name": {
-        "en": "Justinian I"
+        "en": "Justinian I",
+        "ar": "جستنيان الأول",
+        "he": "יוסטיניאנוס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "byzantine-empire",
       "office": {
-        "en": "Eastern Roman (Byzantine) emperor"
+        "en": "Eastern Roman (Byzantine) emperor",
+        "ar": "إمبراطور روماني شرقي (بيزنطي)",
+        "he": "קיסר רומי מזרחי (ביזנטי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 527,
@@ -2634,11 +3390,23 @@
     {
       "id": "heraclius",
       "name": {
-        "en": "Heraclius"
+        "en": "Heraclius",
+        "ar": "هرقل",
+        "he": "הרקליוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "byzantine-empire",
       "office": {
-        "en": "Byzantine emperor"
+        "en": "Byzantine emperor",
+        "ar": "إمبراطور بيزنطي",
+        "he": "קיסר ביזנטי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 610,
@@ -2676,11 +3444,23 @@
     {
       "id": "umar-ibn-al-khattab",
       "name": {
-        "en": "Umar ibn al-Khattab (Umar I)"
+        "en": "Umar ibn al-Khattab (Umar I)",
+        "ar": "عمر بن الخطاب (عمر الأول)",
+        "he": "עומר אבן אל-ח׳טאב (עומר הראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "rashidun-caliphate",
       "office": {
-        "en": "Caliph (amir al-mu'minin)"
+        "en": "Caliph (amir al-mu'minin)",
+        "ar": "خليفة (أمير المؤمنين)",
+        "he": "ח׳ליף (אמיר אל-מואמנין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 634,
@@ -2713,11 +3493,23 @@
     {
       "id": "muawiya-governor-of-syria",
       "name": {
-        "en": "Mu'awiya ibn Abi Sufyan (as governor of Syria)"
+        "en": "Mu'awiya ibn Abi Sufyan (as governor of Syria)",
+        "ar": "معاوية بن أبي سفيان (واليًا على الشام)",
+        "he": "מועאוויה בן אבי סופיאן (כמושל סוריה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "rashidun-caliphate",
       "office": {
-        "en": "Governor of Damascus, later of all Syria (under the Rashidun caliphs)"
+        "en": "Governor of Damascus, later of all Syria (under the Rashidun caliphs)",
+        "ar": "والي دمشق، ثم والي الشام كلها (في عهد الخلفاء الراشدين)",
+        "he": "מושל דמשק, ולימים מושל כל סוריה (בימי החליפים הראשידון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 639,
@@ -2749,11 +3541,23 @@
     {
       "id": "muawiya-i",
       "name": {
-        "en": "Mu'awiya I"
+        "en": "Mu'awiya I",
+        "ar": "معاوية الأول",
+        "he": "מועאוויה הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "umayyad-caliphate",
       "office": {
-        "en": "Caliph (founder of the Umayyad dynasty)"
+        "en": "Caliph (founder of the Umayyad dynasty)",
+        "ar": "خليفة (مؤسس الأسرة الأموية)",
+        "he": "ח׳ליף (מייסד השושלת האומיית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 661,
@@ -2785,11 +3589,23 @@
     {
       "id": "abd-al-malik",
       "name": {
-        "en": "Abd al-Malik ibn Marwan"
+        "en": "Abd al-Malik ibn Marwan",
+        "ar": "عبد الملك بن مروان",
+        "he": "עבד אל-מלכ בן מרואן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "umayyad-caliphate",
       "office": {
-        "en": "Caliph"
+        "en": "Caliph",
+        "ar": "خليفة",
+        "he": "ח׳ליף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 685,
@@ -2819,11 +3635,23 @@
     {
       "id": "al-walid-i",
       "name": {
-        "en": "al-Walid I"
+        "en": "al-Walid I",
+        "ar": "الوليد الأول",
+        "he": "אל-ואליד הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "umayyad-caliphate",
       "office": {
-        "en": "Caliph"
+        "en": "Caliph",
+        "ar": "خليفة",
+        "he": "ח׳ליף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 705,
@@ -2848,11 +3676,23 @@
     {
       "id": "sulayman-ibn-abd-al-malik",
       "name": {
-        "en": "Sulayman ibn Abd al-Malik"
+        "en": "Sulayman ibn Abd al-Malik",
+        "ar": "سليمان بن عبد الملك",
+        "he": "סולימאן בן עבד אל-מלכ",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "umayyad-caliphate",
       "office": {
-        "en": "Caliph"
+        "en": "Caliph",
+        "ar": "خليفة",
+        "he": "ח׳ליף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 715,
@@ -2890,11 +3730,23 @@
     {
       "id": "harun-al-rashid",
       "name": {
-        "en": "Harun al-Rashid"
+        "en": "Harun al-Rashid",
+        "ar": "هارون الرشيد",
+        "he": "הארון א-רשיד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "abbasid-caliphate",
       "office": {
-        "en": "Caliph"
+        "en": "Caliph",
+        "ar": "خليفة",
+        "he": "ח׳ליף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 786,
@@ -2928,11 +3780,23 @@
     {
       "id": "al-mamun",
       "name": {
-        "en": "al-Ma'mun"
+        "en": "al-Ma'mun",
+        "ar": "المأمون",
+        "he": "אל-מאמון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "abbasid-caliphate",
       "office": {
-        "en": "Caliph"
+        "en": "Caliph",
+        "ar": "خليفة",
+        "he": "ח׳ליף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 813,
@@ -2958,11 +3822,23 @@
     {
       "id": "ahmad-ibn-tulun",
       "name": {
-        "en": "Ahmad ibn Tulun"
+        "en": "Ahmad ibn Tulun",
+        "ar": "أحمد بن طولون",
+        "he": "אחמד בן טולון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "tulunid-emirate",
       "office": {
-        "en": "Governor of Egypt (founder of the Tulunid dynasty); ruler of Syria and Palestine"
+        "en": "Governor of Egypt (founder of the Tulunid dynasty); ruler of Syria and Palestine",
+        "ar": "والي مصر (مؤسس الأسرة الطولونية)؛ حاكم سوريا وفلسطين",
+        "he": "מושל מצרים (מייסד השושלת הטולונית); שליט סוריה ופלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 868,
@@ -2993,11 +3869,23 @@
     {
       "id": "muhammad-ibn-tughj-al-ikhshid",
       "name": {
-        "en": "Muhammad ibn Tughj al-Ikhshid"
+        "en": "Muhammad ibn Tughj al-Ikhshid",
+        "ar": "محمد بن طغج الإخشيد",
+        "he": "מוחמד בן טע׳ג׳ אל-אח׳שיד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ikhshidid-emirate",
       "office": {
-        "en": "Governor of Egypt (founder of the Ikhshidid dynasty); ruler of Egypt and southern Syria"
+        "en": "Governor of Egypt (founder of the Ikhshidid dynasty); ruler of Egypt and southern Syria",
+        "ar": "والي مصر (مؤسس الأسرة الإخشيدية)؛ حاكم مصر وجنوب سوريا",
+        "he": "מושל מצרים (מייסד השושלת האח׳שידית); שליט מצרים ודרום סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 935,
@@ -3032,11 +3920,23 @@
     {
       "id": "al-muizz",
       "name": {
-        "en": "al-Mu'izz li-Din Allah"
+        "en": "al-Mu'izz li-Din Allah",
+        "ar": "المعز لدين الله",
+        "he": "אל-מועז לדין אללה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "fatimid-caliphate",
       "office": {
-        "en": "Fatimid caliph"
+        "en": "Fatimid caliph",
+        "ar": "خليفة فاطمي",
+        "he": "ח׳ליף פאטמי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 953,
@@ -3071,11 +3971,23 @@
     {
       "id": "al-hakim-bi-amr-allah",
       "name": {
-        "en": "al-Hakim bi-Amr Allah"
+        "en": "al-Hakim bi-Amr Allah",
+        "ar": "الحاكم بأمر الله",
+        "he": "אל-חאכם בי-אמר אללה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "fatimid-caliphate",
       "office": {
-        "en": "Fatimid caliph"
+        "en": "Fatimid caliph",
+        "ar": "خليفة فاطمي",
+        "he": "ח׳ליף פאטמי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 996,
@@ -3107,11 +4019,23 @@
     {
       "id": "tancred-prince-of-galilee",
       "name": {
-        "en": "Tancred"
+        "en": "Tancred",
+        "ar": "تانكرد",
+        "he": "טנקרד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "principality-of-galilee",
       "office": {
-        "en": "Prince of Galilee"
+        "en": "Prince of Galilee",
+        "ar": "أمير الجليل",
+        "he": "נסיך הגליל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1099,
@@ -3143,11 +4067,23 @@
     {
       "id": "godfrey-of-bouillon",
       "name": {
-        "en": "Godfrey of Bouillon"
+        "en": "Godfrey of Bouillon",
+        "ar": "غودفري دي بويون",
+        "he": "גודפרי מבויון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "Ruler of Jerusalem with the title 'Advocate (Defender) of the Holy Sepulchre' (Advocatus Sancti Sepulchri)"
+        "en": "Ruler of Jerusalem with the title 'Advocate (Defender) of the Holy Sepulchre' (Advocatus Sancti Sepulchri)",
+        "ar": "حاكم القدس بلقب «حامي (مدافع عن) القبر المقدس» (Advocatus Sancti Sepulchri)",
+        "he": "שליט ירושלים בתואר 'מגן (מליץ) הקבר הקדוש' (Advocatus Sancti Sepulchri)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1099,
@@ -3186,11 +4122,23 @@
     {
       "id": "baldwin-i-jerusalem",
       "name": {
-        "en": "Baldwin I"
+        "en": "Baldwin I",
+        "ar": "بلدوين الأول",
+        "he": "בלדווין הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem"
+        "en": "King of Jerusalem",
+        "ar": "ملك القدس",
+        "he": "מלך ירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1100,
@@ -3223,11 +4171,23 @@
     {
       "id": "baldwin-ii-jerusalem",
       "name": {
-        "en": "Baldwin II"
+        "en": "Baldwin II",
+        "ar": "بلدوين الثاني",
+        "he": "בלדווין השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem"
+        "en": "King of Jerusalem",
+        "ar": "ملك القدس",
+        "he": "מלך ירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1118,
@@ -3260,11 +4220,23 @@
     {
       "id": "fulk-of-anjou",
       "name": {
-        "en": "Fulk of Anjou"
+        "en": "Fulk of Anjou",
+        "ar": "فولك الأنجوي",
+        "he": "פולק מאנז׳ו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem (jointly with Queen Melisende)"
+        "en": "King of Jerusalem (jointly with Queen Melisende)",
+        "ar": "ملك القدس (بالاشتراك مع الملكة ميليسند)",
+        "he": "מלך ירושלים (במשותף עם המלכה מליסנדה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1131,
@@ -3297,11 +4269,23 @@
     {
       "id": "melisende",
       "name": {
-        "en": "Melisende"
+        "en": "Melisende",
+        "ar": "ميليسند",
+        "he": "מליסנדה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "Queen of Jerusalem (with Fulk, then regent and co-ruler with Baldwin III)"
+        "en": "Queen of Jerusalem (with Fulk, then regent and co-ruler with Baldwin III)",
+        "ar": "ملكة القدس (مع فولك، ثم وصية وشريكة في الحكم مع بلدوين الثالث)",
+        "he": "מלכת ירושלים (עם פולק, ולאחר מכן יורשת עצר ושותפה לשלטון עם בלדווין השלישי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1131,
@@ -3334,11 +4318,23 @@
     {
       "id": "baldwin-iv-jerusalem",
       "name": {
-        "en": "Baldwin IV"
+        "en": "Baldwin IV",
+        "ar": "بلدوين الرابع",
+        "he": "בלדווין הרביעי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem"
+        "en": "King of Jerusalem",
+        "ar": "ملك القدس",
+        "he": "מלך ירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1174,
@@ -3368,11 +4364,23 @@
     {
       "id": "saladin",
       "name": {
-        "en": "Saladin (Salah al-Din Yusuf ibn Ayyub)"
+        "en": "Saladin (Salah al-Din Yusuf ibn Ayyub)",
+        "ar": "صلاح الدين (صلاح الدين يوسف بن أيوب)",
+        "he": "צלאח א-דין (צלאח א-דין יוסוף בן איוב)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ayyubid-sultanate",
       "office": {
-        "en": "Sultan of Egypt and Syria (founder of the Ayyubid dynasty)"
+        "en": "Sultan of Egypt and Syria (founder of the Ayyubid dynasty)",
+        "ar": "سلطان مصر وسوريا (مؤسس الأسرة الأيوبية)",
+        "he": "סולטאן מצרים וסוריה (מייסד השושלת האיובית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1174,
@@ -3409,11 +4417,23 @@
     {
       "id": "guy-of-lusignan",
       "name": {
-        "en": "Guy of Lusignan"
+        "en": "Guy of Lusignan",
+        "ar": "غي دي لوزينيان",
+        "he": "גי מלוזיניאן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem (by marriage to Queen Sibylla)"
+        "en": "King of Jerusalem (by marriage to Queen Sibylla)",
+        "ar": "ملك القدس (بالزواج من الملكة سيبيلا)",
+        "he": "מלך ירושלים (בנישואיו למלכה סיביליה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1186,
@@ -3453,11 +4473,23 @@
     {
       "id": "al-adil-i",
       "name": {
-        "en": "al-Adil I (Sayf al-Din)"
+        "en": "al-Adil I (Sayf al-Din)",
+        "ar": "العادل الأول (سيف الدين)",
+        "he": "אל-עאדל הראשון (סיף א-דין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ayyubid-sultanate",
       "office": {
-        "en": "Ayyubid sultan (head of the Ayyubid confederation)"
+        "en": "Ayyubid sultan (head of the Ayyubid confederation)",
+        "ar": "سلطان أيوبي (رئيس الاتحاد الأيوبي)",
+        "he": "סולטאן איובי (ראש הקונפדרציה האיובית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1200,
@@ -3482,11 +4514,23 @@
     {
       "id": "al-kamil",
       "name": {
-        "en": "al-Kamil (Nasir al-Din Muhammad)"
+        "en": "al-Kamil (Nasir al-Din Muhammad)",
+        "ar": "الكامل (ناصر الدين محمد)",
+        "he": "אל-כאמל (נאצר א-דין מוחמד)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ayyubid-sultanate",
       "office": {
-        "en": "Ayyubid sultan (head of the Ayyubid confederation)"
+        "en": "Ayyubid sultan (head of the Ayyubid confederation)",
+        "ar": "سلطان أيوبي (رئيس الاتحاد الأيوبي)",
+        "he": "סולטאן איובי (ראש הקונפדרציה האיובית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1218,
@@ -3511,11 +4555,23 @@
     {
       "id": "frederick-ii-jerusalem",
       "name": {
-        "en": "Frederick II (Hohenstaufen)"
+        "en": "Frederick II (Hohenstaufen)",
+        "ar": "فريدريك الثاني (هوهنشتاوفن)",
+        "he": "פרידריך השני (הוהנשטאופן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "kingdom-of-jerusalem",
       "office": {
-        "en": "King of Jerusalem (by marriage; Holy Roman emperor)"
+        "en": "King of Jerusalem (by marriage; Holy Roman emperor)",
+        "ar": "ملك القدس (بالزواج؛ إمبراطور الإمبراطورية الرومانية المقدسة)",
+        "he": "מלך ירושלים (בנישואין; קיסר האימפריה הרומית הקדושה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1225,
@@ -3550,11 +4606,23 @@
     {
       "id": "baybars-i",
       "name": {
-        "en": "Baybars I"
+        "en": "Baybars I",
+        "ar": "بيبرس الأول",
+        "he": "בייברס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan of Egypt and Syria"
+        "en": "Mamluk sultan of Egypt and Syria",
+        "ar": "سلطان مملوكي لمصر وسوريا",
+        "he": "סולטאן ממלוכי של מצרים וסוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1260,
@@ -3586,11 +4654,23 @@
     {
       "id": "qalawun",
       "name": {
-        "en": "Qalawun (al-Mansur Sayf al-Din)"
+        "en": "Qalawun (al-Mansur Sayf al-Din)",
+        "ar": "قلاوون (المنصور سيف الدين)",
+        "he": "קלאוון (אל-מנצור סיף א-דין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1279,
@@ -3622,11 +4702,23 @@
     {
       "id": "al-ashraf-khalil",
       "name": {
-        "en": "al-Ashraf Khalil"
+        "en": "al-Ashraf Khalil",
+        "ar": "الأشرف خليل",
+        "he": "אל-אשרף ח׳ליל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1290,
@@ -3661,11 +4753,23 @@
     {
       "id": "al-nasir-muhammad-1",
       "name": {
-        "en": "al-Nasir Muhammad ibn Qalawun (first reign)"
+        "en": "al-Nasir Muhammad ibn Qalawun (first reign)",
+        "ar": "الناصر محمد بن قلاوون (الحكم الأول)",
+        "he": "אל-נאצר מוחמד בן קלאוון (שלטון ראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1293,
@@ -3695,11 +4799,23 @@
     {
       "id": "al-nasir-muhammad-2",
       "name": {
-        "en": "al-Nasir Muhammad ibn Qalawun (second reign)"
+        "en": "al-Nasir Muhammad ibn Qalawun (second reign)",
+        "ar": "الناصر محمد بن قلاوون (الحكم الثاني)",
+        "he": "אל-נאצר מוחמד בן קלאוון (שלטון שני)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1299,
@@ -3724,11 +4840,23 @@
     {
       "id": "al-nasir-muhammad-3",
       "name": {
-        "en": "al-Nasir Muhammad ibn Qalawun (third reign)"
+        "en": "al-Nasir Muhammad ibn Qalawun (third reign)",
+        "ar": "الناصر محمد بن قلاوون (الحكم الثالث)",
+        "he": "אל-נאצר מוחמד בן קלאוון (שלטון שלישי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1310,
@@ -3758,11 +4886,23 @@
     {
       "id": "barquq-1",
       "name": {
-        "en": "Barquq (first reign)"
+        "en": "Barquq (first reign)",
+        "ar": "برقوق (الحكم الأول)",
+        "he": "ברקוק (שלטון ראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan (first Circassian sultan)"
+        "en": "Mamluk sultan (first Circassian sultan)",
+        "ar": "سلطان مملوكي (أول سلطان شركسي)",
+        "he": "סולטאן ממלוכי (הסולטאן הצ׳רקסי הראשון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1382,
@@ -3792,11 +4932,23 @@
     {
       "id": "barquq-2",
       "name": {
-        "en": "Barquq (second reign)"
+        "en": "Barquq (second reign)",
+        "ar": "برقوق (الحكم الثاني)",
+        "he": "ברקוק (שלטון שני)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1390,
@@ -3830,11 +4982,23 @@
     {
       "id": "qaytbay",
       "name": {
-        "en": "Qaytbay (al-Ashraf Sayf al-Din)"
+        "en": "Qaytbay (al-Ashraf Sayf al-Din)",
+        "ar": "قايتباي (الأشرف سيف الدين)",
+        "he": "קייתבאי (אל-אשרף סיף א-דין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mamluk-sultanate",
       "office": {
-        "en": "Mamluk sultan"
+        "en": "Mamluk sultan",
+        "ar": "سلطان مملوكي",
+        "he": "סולטאן ממלוכי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1468,
@@ -3873,11 +5037,23 @@
     {
       "id": "selim-i",
       "name": {
-        "en": "Selim I"
+        "en": "Selim I",
+        "ar": "سليم الأول",
+        "he": "סלים הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ottoman-empire",
       "office": {
-        "en": "Ottoman sultan (ruler of Palestine from 1516)"
+        "en": "Ottoman sultan (ruler of Palestine from 1516)",
+        "ar": "سلطان عثماني (حاكم فلسطين منذ 1516)",
+        "he": "סולטאן עות׳מאני (שליט פלשתינה מאז 1516)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1516,
@@ -3910,11 +5086,23 @@
     {
       "id": "suleiman-i",
       "name": {
-        "en": "Suleiman I (the Magnificent)"
+        "en": "Suleiman I (the Magnificent)",
+        "ar": "سليمان الأول (القانوني)",
+        "he": "סולימאן הראשון (המפואר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ottoman-empire",
       "office": {
-        "en": "Ottoman sultan"
+        "en": "Ottoman sultan",
+        "ar": "سلطان عثماني",
+        "he": "סולטאן עות׳מאני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1520,
@@ -3949,11 +5137,23 @@
     {
       "id": "zahir-al-umar",
       "name": {
-        "en": "Zahir al-Umar al-Zaydani"
+        "en": "Zahir al-Umar al-Zaydani",
+        "ar": "ظاهر العمر الزيداني",
+        "he": "ט׳אהר אל-עומר א-זיידאני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "zahir-al-umar-galilee",
       "office": {
-        "en": "Autonomous ruler of Galilee (tax farmer; from 1768 recognised as shaykh of Acre and of all Galilee)"
+        "en": "Autonomous ruler of Galilee (tax farmer; from 1768 recognised as shaykh of Acre and of all Galilee)",
+        "ar": "حاكم مستقل للجليل (ملتزم ضرائب؛ اعتُرف به منذ 1768 شيخًا لعكا ولكل الجليل)",
+        "he": "שליט אוטונומי של הגליל (מבצע גבייה; מ-1768 הוכר כשייח׳ של עכו וכל הגליל)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1737,
@@ -3994,11 +5194,23 @@
     {
       "id": "ahmad-pasha-al-jazzar",
       "name": {
-        "en": "Ahmad Pasha al-Jazzar"
+        "en": "Ahmad Pasha al-Jazzar",
+        "ar": "أحمد باشا الجزار",
+        "he": "אחמד פאשה אל-ג׳זאר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jazzar-acre",
       "office": {
-        "en": "Ottoman governor (vali) of Sidon, ruling from Acre; at times also governor of Damascus"
+        "en": "Ottoman governor (vali) of Sidon, ruling from Acre; at times also governor of Damascus",
+        "ar": "والي عثماني (vali) على صيدا، يحكم من عكا؛ وكان أحيانًا واليًا على دمشق أيضًا",
+        "he": "מושל עות׳מאני (ואלי) של צידון, ששלט מעכו; לעיתים גם מושל דמשק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1775,
@@ -4040,11 +5252,23 @@
     {
       "id": "muhammad-ali-egypt-syria",
       "name": {
-        "en": "Muhammad Ali Pasha"
+        "en": "Muhammad Ali Pasha",
+        "ar": "محمد علي باشا",
+        "he": "מוחמד עלי פאשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egyptian-rule-syria",
       "office": {
-        "en": "Viceroy (wali) of Egypt; ruler of Syria and Palestine"
+        "en": "Viceroy (wali) of Egypt; ruler of Syria and Palestine",
+        "ar": "نائب الملك (والي) مصر؛ حاكم سوريا وفلسطين",
+        "he": "המשנה למלך (ואלי) של מצרים; שליט סוריה ופלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1831,
@@ -4079,11 +5303,23 @@
     {
       "id": "ibrahim-pasha",
       "name": {
-        "en": "Ibrahim Pasha"
+        "en": "Ibrahim Pasha",
+        "ar": "إبراهيم باشا",
+        "he": "איברהים פאשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egyptian-rule-syria",
       "office": {
-        "en": "Commander and governor-general of Syria (incl. Palestine) for Muhammad Ali"
+        "en": "Commander and governor-general of Syria (incl. Palestine) for Muhammad Ali",
+        "ar": "قائد وحاكم عام سوريا (بما فيها فلسطين) لمحمد علي",
+        "he": "מפקד ומושל כללי של סוריה (כולל פלשתינה) מטעם מוחמד עלי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1831,
@@ -4118,11 +5354,23 @@
     {
       "id": "abdulhamid-ii",
       "name": {
-        "en": "Abdulhamid II"
+        "en": "Abdulhamid II",
+        "ar": "عبد الحميد الثاني",
+        "he": "עבדול חמיד השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ottoman-empire",
       "office": {
-        "en": "Ottoman sultan"
+        "en": "Ottoman sultan",
+        "ar": "سلطان عثماني",
+        "he": "סולטאן עות׳מאני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1876,
@@ -4147,11 +5395,23 @@
     {
       "id": "rauf-pasha-jerusalem",
       "name": {
-        "en": "Rauf Pasha"
+        "en": "Rauf Pasha",
+        "ar": "رؤوف باشا",
+        "he": "ראוף פאשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jerusalem-mutasarrifate",
       "office": {
-        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem"
+        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem",
+        "ar": "متصرف (حاكم) سنجق القدس المستقل",
+        "he": "מוטסריף (מושל) של סנג׳ק ירושלים העצמאי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1877,
@@ -4176,11 +5436,23 @@
     {
       "id": "ibrahim-hakki-pasha-jerusalem",
       "name": {
-        "en": "Ibrahim Hakki Pasha"
+        "en": "Ibrahim Hakki Pasha",
+        "ar": "إبراهيم حقي باشا",
+        "he": "איברהים חקי פאשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jerusalem-mutasarrifate",
       "office": {
-        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem"
+        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem",
+        "ar": "متصرف (حاكم) سنجق القدس المستقل",
+        "he": "מוטסריף (מושל) של סנג׳ק ירושלים העצמאי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1890,
@@ -4205,11 +5477,23 @@
     {
       "id": "ali-ekrem-bey-jerusalem",
       "name": {
-        "en": "Ali Ekrem Bey"
+        "en": "Ali Ekrem Bey",
+        "ar": "علي أكرم بك",
+        "he": "עלי אכרם ביי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jerusalem-mutasarrifate",
       "office": {
-        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem"
+        "en": "Mutasarrif (governor) of the independent sanjak of Jerusalem",
+        "ar": "متصرف (حاكم) سنجق القدس المستقل",
+        "he": "מוטסריף (מושל) של סנג׳ק ירושלים העצמאי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1906,
@@ -4234,11 +5518,23 @@
     {
       "id": "cemal-pasha-fourth-army",
       "name": {
-        "en": "Ahmed Cemal (Djemal) Pasha"
+        "en": "Ahmed Cemal (Djemal) Pasha",
+        "ar": "أحمد جمال باشا",
+        "he": "אחמד ג׳מאל פאשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "ottoman-empire",
       "office": {
-        "en": "Commander of the Ottoman Fourth Army (Syria and Palestine), also Minister of the Navy"
+        "en": "Commander of the Ottoman Fourth Army (Syria and Palestine), also Minister of the Navy",
+        "ar": "قائد الجيش العثماني الرابع (سوريا وفلسطين)، وكذلك وزير البحرية",
+        "he": "מפקד הארמייה העות׳מאנית הרביעית (סוריה ופלשתינה), וכן שר הצי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1914,
@@ -4271,11 +5567,23 @@
     {
       "id": "bols-oeta-south",
       "name": {
-        "en": "Louis Bols"
+        "en": "Louis Bols",
+        "ar": "لويس بولز",
+        "he": "לואיס בולס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "oeta-south",
       "office": {
-        "en": "Chief Administrator, Occupied Enemy Territory Administration (South) - head of the British military administration of Palestine"
+        "en": "Chief Administrator, Occupied Enemy Territory Administration (South) - head of the British military administration of Palestine",
+        "ar": "كبير الإداريين، إدارة أراضي العدو المحتلة (الجنوب) - رئيس الإدارة العسكرية البريطانية لفلسطين",
+        "he": "המנהל הראשי, מינהל שטחי האויב הכבושים (דרום) – ראש המינהל הצבאי הבריטי של פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1920,
@@ -4309,11 +5617,23 @@
     {
       "id": "herbert-samuel-hc",
       "name": {
-        "en": "Sir Herbert Samuel"
+        "en": "Sir Herbert Samuel",
+        "ar": "السير هربرت صموئيل",
+        "he": "סר הרברט סמואל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1920,
@@ -4356,11 +5676,23 @@
     {
       "id": "abdullah-i-emir",
       "name": {
-        "en": "Abdullah I (Abdullah bin al-Hussein)"
+        "en": "Abdullah I (Abdullah bin al-Hussein)",
+        "ar": "عبد الله الأول (عبد الله بن الحسين)",
+        "he": "עבדאללה הראשון (עבדאללה בן אל-חוסיין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "emirate-of-transjordan",
       "office": {
-        "en": "Emir of Transjordan"
+        "en": "Emir of Transjordan",
+        "ar": "أمير شرق الأردن",
+        "he": "אמיר עבר הירדן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1921,
@@ -4399,11 +5731,23 @@
     {
       "id": "plumer-hc",
       "name": {
-        "en": "Lord Plumer (Herbert Plumer, 1st Baron, later Viscount Plumer)"
+        "en": "Lord Plumer (Herbert Plumer, 1st Baron, later Viscount Plumer)",
+        "ar": "اللورد بلومر (هربرت بلومر، البارون الأول، ثم الفيكونت بلومر)",
+        "he": "הלורד פלומר (הרברט פלומר, הברון הראשון, לימים הוויקונט פלומר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1925,
@@ -4440,11 +5784,23 @@
     {
       "id": "chancellor-hc",
       "name": {
-        "en": "Sir John Chancellor"
+        "en": "Sir John Chancellor",
+        "ar": "السير جون تشانسلر",
+        "he": "סר ג׳ון צ׳נסלור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1928,
@@ -4478,11 +5834,23 @@
     {
       "id": "wauchope-hc",
       "name": {
-        "en": "Sir Arthur Wauchope"
+        "en": "Sir Arthur Wauchope",
+        "ar": "السير آرثر واكهوب",
+        "he": "סר ארתור ווקופ",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1931,
@@ -4523,11 +5891,23 @@
     {
       "id": "farouk-king-egypt",
       "name": {
-        "en": "Farouk I"
+        "en": "Farouk I",
+        "ar": "فاروق الأول",
+        "he": "פארוק הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "King of Egypt"
+        "en": "King of Egypt",
+        "ar": "ملك مصر",
+        "he": "מלך מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1936,
@@ -4563,11 +5943,23 @@
     {
       "id": "macmichael-hc",
       "name": {
-        "en": "Sir Harold MacMichael"
+        "en": "Sir Harold MacMichael",
+        "ar": "السير هارولد ماكمايكل",
+        "he": "סר הרולד מקמייקל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1938,
@@ -4603,11 +5995,23 @@
     {
       "id": "gort-hc",
       "name": {
-        "en": "John Vereker, 6th Viscount Gort"
+        "en": "John Vereker, 6th Viscount Gort",
+        "ar": "جون فيريكر، الفيكونت السادس غورت",
+        "he": "ג׳ון ורקר, הוויקונט השישי גורט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (and Trans-Jordan)"
+        "en": "High Commissioner for Palestine (and Trans-Jordan)",
+        "ar": "المندوب السامي لفلسطين (وشرق الأردن)",
+        "he": "הנציב העליון לפלשתינה (ולעבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1944,
@@ -4638,11 +6042,23 @@
     {
       "id": "cunningham-hc",
       "name": {
-        "en": "Sir Alan Cunningham"
+        "en": "Sir Alan Cunningham",
+        "ar": "السير آلان كننغهام",
+        "he": "סר אלן קנינגהם",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "mandatory-palestine",
       "office": {
-        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan until 1946); last High Commissioner"
+        "en": "High Commissioner for Palestine (also High Commissioner for Trans-Jordan until 1946); last High Commissioner",
+        "ar": "المندوب السامي لفلسطين (وكذلك المندوب السامي لشرق الأردن حتى 1946)؛ آخر مندوب سامٍ",
+        "he": "הנציב העליון לפלשתינה (וכן הנציב העליון לעבר הירדן עד 1946); הנציב העליון האחרון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1945,
@@ -4684,11 +6100,23 @@
     {
       "id": "abdullah-i-king",
       "name": {
-        "en": "Abdullah I (Abdullah bin al-Hussein)"
+        "en": "Abdullah I (Abdullah bin al-Hussein)",
+        "ar": "عبد الله الأول (عبد الله بن الحسين)",
+        "he": "עבדאללה הראשון (עבדאללה בן אל-חוסיין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jordan",
       "office": {
-        "en": "King of the Hashemite Kingdom of (Trans)Jordan"
+        "en": "King of the Hashemite Kingdom of (Trans)Jordan",
+        "ar": "ملك المملكة الأردنية الهاشمية (شرق الأردن سابقًا)",
+        "he": "מלך הממלכה ההאשמית של ירדן (עבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1946,
@@ -4727,11 +6155,23 @@
     {
       "id": "ben-gurion-pm-1",
       "name": {
-        "en": "David Ben-Gurion"
+        "en": "David Ben-Gurion",
+        "ar": "دافيد بن غوريون",
+        "he": "דוד בן-גוריון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel (head of the Provisional Government from 14 May 1948)"
+        "en": "Prime Minister of Israel (head of the Provisional Government from 14 May 1948)",
+        "ar": "رئيس وزراء إسرائيل (رئيس الحكومة المؤقتة منذ 14 أيار/مايو 1948)",
+        "he": "ראש ממשלת ישראל (ראש הממשלה הזמנית מאז 14 במאי 1948)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1948,
@@ -4775,11 +6215,23 @@
     {
       "id": "weizmann-president-provisional-council",
       "name": {
-        "en": "Chaim Weizmann"
+        "en": "Chaim Weizmann",
+        "ar": "حاييم وايزمان",
+        "he": "חיים ויצמן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of the Provisional State Council"
+        "en": "President of the Provisional State Council",
+        "ar": "رئيس مجلس الدولة المؤقت",
+        "he": "נשיא מועצת המדינה הזמנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1948,
@@ -4811,11 +6263,23 @@
     {
       "id": "ahmad-hilmi-apg",
       "name": {
-        "en": "Ahmad Hilmi Abd al-Baqi"
+        "en": "Ahmad Hilmi Abd al-Baqi",
+        "ar": "أحمد حلمي عبد الباقي",
+        "he": "אחמד חילמי עבד אל-באקי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "all-palestine-government",
       "office": {
-        "en": "Head (prime minister) of the All-Palestine Government"
+        "en": "Head (prime minister) of the All-Palestine Government",
+        "ar": "رئيس (رئيس وزراء) حكومة عموم فلسطين",
+        "he": "ראש (ראש ממשלה) ממשלת כל פלסטין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1948,
@@ -4857,11 +6321,23 @@
     {
       "id": "amin-al-husseini-pnc-gaza",
       "name": {
-        "en": "Muhammad Amin al-Husseini"
+        "en": "Muhammad Amin al-Husseini",
+        "ar": "محمد أمين الحسيني",
+        "he": "מוחמד אמין אל-חוסייני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "all-palestine-government",
       "office": {
-        "en": "President of the Palestinian National Council (Gaza, 1948)"
+        "en": "President of the Palestinian National Council (Gaza, 1948)",
+        "ar": "رئيس المجلس الوطني الفلسطيني (غزة، 1948)",
+        "he": "נשיא המועצה הלאומית הפלסטינית (עזה, 1948)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1948,
@@ -4899,11 +6375,23 @@
     {
       "id": "weizmann-president",
       "name": {
-        "en": "Chaim Weizmann"
+        "en": "Chaim Weizmann",
+        "ar": "حاييم وايزمان",
+        "he": "חיים ויצמן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1949,
@@ -4936,11 +6424,23 @@
     {
       "id": "talal-king",
       "name": {
-        "en": "Talal bin Abdullah"
+        "en": "Talal bin Abdullah",
+        "ar": "طلال بن عبد الله",
+        "he": "טלאל בן עבדאללה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jordan",
       "office": {
-        "en": "King of Jordan"
+        "en": "King of Jordan",
+        "ar": "ملك الأردن",
+        "he": "מלך ירדן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1951,
@@ -4979,11 +6479,23 @@
     {
       "id": "ben-zvi-president",
       "name": {
-        "en": "Yitzhak Ben-Zvi"
+        "en": "Yitzhak Ben-Zvi",
+        "ar": "يتسحاق بن تسفي",
+        "he": "יצחק בן צבי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1952,
@@ -5015,11 +6527,23 @@
     {
       "id": "hussein-king",
       "name": {
-        "en": "Hussein bin Talal"
+        "en": "Hussein bin Talal",
+        "ar": "الحسين بن طلال",
+        "he": "חוסיין בן טלאל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jordan",
       "office": {
-        "en": "King of Jordan"
+        "en": "King of Jordan",
+        "ar": "ملك الأردن",
+        "he": "מלך ירדן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1952,
@@ -5058,11 +6582,23 @@
     {
       "id": "naguib-president-egypt",
       "name": {
-        "en": "Muhammad Naguib"
+        "en": "Muhammad Naguib",
+        "ar": "محمد نجيب",
+        "he": "מוחמד נגיב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt"
+        "en": "President of Egypt",
+        "ar": "رئيس مصر",
+        "he": "נשיא מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1953,
@@ -5101,11 +6637,23 @@
     {
       "id": "sharett-pm",
       "name": {
-        "en": "Moshe Sharett"
+        "en": "Moshe Sharett",
+        "ar": "موشيه شاريت",
+        "he": "משה שרת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1954,
@@ -5144,11 +6692,23 @@
     {
       "id": "nasser-egypt-1954",
       "name": {
-        "en": "Gamal Abdel Nasser"
+        "en": "Gamal Abdel Nasser",
+        "ar": "جمال عبد الناصر",
+        "he": "גמאל עבד אל-נאצר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "Prime minister and head of the Revolutionary Command Council; de facto head of state"
+        "en": "Prime minister and head of the Revolutionary Command Council; de facto head of state",
+        "ar": "رئيس الوزراء ورئيس مجلس قيادة الثورة؛ رئيس الدولة الفعلي",
+        "he": "ראש הממשלה ויושב ראש מועצת מפקדת המהפכה; ראש המדינה דה פקטו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1954,
@@ -5191,11 +6751,23 @@
     {
       "id": "ben-gurion-pm-2",
       "name": {
-        "en": "David Ben-Gurion"
+        "en": "David Ben-Gurion",
+        "ar": "دافيد بن غوريون",
+        "he": "דוד בן-גוריון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1955,
@@ -5234,11 +6806,23 @@
     {
       "id": "nasser-president-egypt",
       "name": {
-        "en": "Gamal Abdel Nasser"
+        "en": "Gamal Abdel Nasser",
+        "ar": "جمال عبد الناصر",
+        "he": "גמאל עבד אל-נאצר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt (of the United Arab Republic 1958-61)"
+        "en": "President of Egypt (of the United Arab Republic 1958-61)",
+        "ar": "رئيس مصر (والجمهورية العربية المتحدة 1958-1961)",
+        "he": "נשיא מצרים (והרפובליקה הערבית המאוחדת 1958–1961)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1956,
@@ -5276,11 +6860,23 @@
     {
       "id": "shazar-president",
       "name": {
-        "en": "Zalman Shazar"
+        "en": "Zalman Shazar",
+        "ar": "زلمان شازار",
+        "he": "זלמן שזר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1963,
@@ -5310,11 +6906,23 @@
     {
       "id": "eshkol-pm",
       "name": {
-        "en": "Levi Eshkol"
+        "en": "Levi Eshkol",
+        "ar": "ليفي أشكول",
+        "he": "לוי אשכול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1963,
@@ -5348,11 +6956,23 @@
     {
       "id": "allon-acting-pm",
       "name": {
-        "en": "Yigal Allon"
+        "en": "Yigal Allon",
+        "ar": "يغآل ألون",
+        "he": "יגאל אלון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Acting Prime Minister of Israel"
+        "en": "Acting Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل بالوكالة",
+        "he": "ראש ממשלת ישראל בפועל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1969,
@@ -5391,11 +7011,23 @@
     {
       "id": "meir-pm",
       "name": {
-        "en": "Golda Meir"
+        "en": "Golda Meir",
+        "ar": "غولدا مائير",
+        "he": "גולדה מאיר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1969,
@@ -5434,11 +7066,23 @@
     {
       "id": "sadat-president-egypt",
       "name": {
-        "en": "Anwar Sadat"
+        "en": "Anwar Sadat",
+        "ar": "أنور السادات",
+        "he": "אנואר סאדאת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt"
+        "en": "President of Egypt",
+        "ar": "رئيس مصر",
+        "he": "נשיא מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1970,
@@ -5470,11 +7114,23 @@
     {
       "id": "hafez-assad-president-syria",
       "name": {
-        "en": "Hafez al-Assad"
+        "en": "Hafez al-Assad",
+        "ar": "حافظ الأسد",
+        "he": "חאפז אל-אסד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "syria",
       "office": {
-        "en": "President of Syria"
+        "en": "President of Syria",
+        "ar": "رئيس سوريا",
+        "he": "נשיא סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1971,
@@ -5506,11 +7162,23 @@
     {
       "id": "katzir-president",
       "name": {
-        "en": "Ephraim Katzir"
+        "en": "Ephraim Katzir",
+        "ar": "إفرايم كتسير",
+        "he": "אפרים קציר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1973,
@@ -5540,11 +7208,23 @@
     {
       "id": "rabin-pm-1",
       "name": {
-        "en": "Yitzhak Rabin"
+        "en": "Yitzhak Rabin",
+        "ar": "يتسحاق رابين",
+        "he": "יצחק רבין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1974,
@@ -5578,11 +7258,23 @@
     {
       "id": "begin-pm",
       "name": {
-        "en": "Menachem Begin"
+        "en": "Menachem Begin",
+        "ar": "مناحيم بيغن",
+        "he": "מנחם בגין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1977,
@@ -5626,11 +7318,23 @@
     {
       "id": "navon-president",
       "name": {
-        "en": "Yitzhak Navon"
+        "en": "Yitzhak Navon",
+        "ar": "يتسحاق نافون",
+        "he": "יצחק נבון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1978,
@@ -5660,11 +7364,23 @@
     {
       "id": "mubarak-president-egypt",
       "name": {
-        "en": "Hosni Mubarak"
+        "en": "Hosni Mubarak",
+        "ar": "حسني مبارك",
+        "he": "חוסני מובארק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt"
+        "en": "President of Egypt",
+        "ar": "رئيس مصر",
+        "he": "נשיא מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1981,
@@ -5697,11 +7413,23 @@
     {
       "id": "chaim-herzog-president",
       "name": {
-        "en": "Chaim Herzog"
+        "en": "Chaim Herzog",
+        "ar": "حاييم هرتسوغ",
+        "he": "חיים הרצוג",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1983,
@@ -5731,11 +7459,23 @@
     {
       "id": "shamir-pm-1",
       "name": {
-        "en": "Yitzhak Shamir"
+        "en": "Yitzhak Shamir",
+        "ar": "يتسحاق شامير",
+        "he": "יצחק שמיר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1983,
@@ -5769,11 +7509,23 @@
     {
       "id": "peres-pm-1",
       "name": {
-        "en": "Shimon Peres"
+        "en": "Shimon Peres",
+        "ar": "شمعون بيريس",
+        "he": "שמעון פרס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1984,
@@ -5807,11 +7559,23 @@
     {
       "id": "shamir-pm-2",
       "name": {
-        "en": "Yitzhak Shamir"
+        "en": "Yitzhak Shamir",
+        "ar": "يتسحاق شامير",
+        "he": "יצחק שמיר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1986,
@@ -5850,11 +7614,23 @@
     {
       "id": "arafat-state-of-palestine",
       "name": {
-        "en": "Yasser Arafat"
+        "en": "Yasser Arafat",
+        "ar": "ياسر عرفات",
+        "he": "יאסר ערפאת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "state-of-palestine",
       "office": {
-        "en": "President of the State of Palestine (chairman of the PLO Executive Committee)"
+        "en": "President of the State of Palestine (chairman of the PLO Executive Committee)",
+        "ar": "رئيس دولة فلسطين (رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية)",
+        "he": "נשיא מדינת פלסטין (יושב ראש הוועד הפועל של אש״ף)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1989,
@@ -5907,11 +7683,23 @@
     {
       "id": "rabin-pm-2",
       "name": {
-        "en": "Yitzhak Rabin"
+        "en": "Yitzhak Rabin",
+        "ar": "يتسحاق رابين",
+        "he": "יצחק רבין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1992,
@@ -5950,11 +7738,23 @@
     {
       "id": "ezer-weizman-president",
       "name": {
-        "en": "Ezer Weizman"
+        "en": "Ezer Weizman",
+        "ar": "عيزر فايتسمان",
+        "he": "עזר ויצמן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1993,
@@ -5984,11 +7784,23 @@
     {
       "id": "arafat-pa-chairman",
       "name": {
-        "en": "Yasser Arafat"
+        "en": "Yasser Arafat",
+        "ar": "ياسر عرفات",
+        "he": "יאסר ערפאת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Chairman (Ra'is) of the Palestinian Authority (by PLO designation)"
+        "en": "Chairman (Ra'is) of the Palestinian Authority (by PLO designation)",
+        "ar": "رئيس السلطة الوطنية الفلسطينية (بتسمية من منظمة التحرير الفلسطينية)",
+        "he": "יושב ראש (ראיס) הרשות הפלסטינית (במינוי אש״ף)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1994,
@@ -6020,11 +7832,23 @@
     {
       "id": "peres-pm-2",
       "name": {
-        "en": "Shimon Peres"
+        "en": "Shimon Peres",
+        "ar": "شمعون بيريس",
+        "he": "שמעון פרס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel (acting from 4 Nov 1995)"
+        "en": "Prime Minister of Israel (acting from 4 Nov 1995)",
+        "ar": "رئيس وزراء إسرائيل (بالوكالة منذ 4 تشرين الثاني/نوفمبر 1995)",
+        "he": "ראש ממשלת ישראל (בפועל מאז 4 בנובמבר 1995)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1995,
@@ -6058,11 +7882,23 @@
     {
       "id": "arafat-pa-president",
       "name": {
-        "en": "Yasser Arafat"
+        "en": "Yasser Arafat",
+        "ar": "ياسر عرفات",
+        "he": "יאסר ערפאת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "President of the Palestinian Authority (elected)"
+        "en": "President of the Palestinian Authority (elected)",
+        "ar": "رئيس السلطة الوطنية الفلسطينية (منتخب)",
+        "he": "נשיא הרשות הפלסטינית (נבחר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1996,
@@ -6096,11 +7932,23 @@
     {
       "id": "netanyahu-pm-1",
       "name": {
-        "en": "Benjamin Netanyahu"
+        "en": "Benjamin Netanyahu",
+        "ar": "بنيامين نتنياهو",
+        "he": "בנימין נתניהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1996,
@@ -6139,11 +7987,23 @@
     {
       "id": "abdullah-ii-king",
       "name": {
-        "en": "Abdullah II bin Al Hussein"
+        "en": "Abdullah II bin Al Hussein",
+        "ar": "عبد الله الثاني بن الحسين",
+        "he": "עבדאללה השני בן אל-חוסיין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "jordan",
       "office": {
-        "en": "King of Jordan"
+        "en": "King of Jordan",
+        "ar": "ملك الأردن",
+        "he": "מלך ירדן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1999,
@@ -6171,11 +8031,23 @@
     {
       "id": "barak-pm",
       "name": {
-        "en": "Ehud Barak"
+        "en": "Ehud Barak",
+        "ar": "إيهود باراك",
+        "he": "אהוד ברק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1999,
@@ -6209,11 +8081,23 @@
     {
       "id": "katsav-president",
       "name": {
-        "en": "Moshe Katsav"
+        "en": "Moshe Katsav",
+        "ar": "موشيه كتساف",
+        "he": "משה קצב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2000,
@@ -6243,11 +8127,23 @@
     {
       "id": "bashar-assad-president-syria",
       "name": {
-        "en": "Bashar al-Assad"
+        "en": "Bashar al-Assad",
+        "ar": "بشار الأسد",
+        "he": "בשאר אל-אסד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "syria",
       "office": {
-        "en": "President of Syria"
+        "en": "President of Syria",
+        "ar": "رئيس سوريا",
+        "he": "נשיא סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2000,
@@ -6285,11 +8181,23 @@
     {
       "id": "sharon-pm",
       "name": {
-        "en": "Ariel Sharon"
+        "en": "Ariel Sharon",
+        "ar": "أريئيل شارون",
+        "he": "אריאל שרון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2001,
@@ -6327,11 +8235,23 @@
     {
       "id": "qurei-pa-pm",
       "name": {
-        "en": "Ahmed Qurei"
+        "en": "Ahmed Qurei",
+        "ar": "أحمد قريع",
+        "he": "אחמד קריע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2003,
@@ -6361,11 +8281,23 @@
     {
       "id": "abbas-pa-pm",
       "name": {
-        "en": "Mahmoud Abbas"
+        "en": "Mahmoud Abbas",
+        "ar": "محمود عباس",
+        "he": "מחמוד עבאס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2003,
@@ -6397,11 +8329,23 @@
     {
       "id": "abbas-state-of-palestine",
       "name": {
-        "en": "Mahmoud Abbas"
+        "en": "Mahmoud Abbas",
+        "ar": "محمود عباس",
+        "he": "מחמוד עבאס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "state-of-palestine",
       "office": {
-        "en": "Chairman of the PLO Executive Committee (head of the State of Palestine)"
+        "en": "Chairman of the PLO Executive Committee (head of the State of Palestine)",
+        "ar": "رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية (رئيس دولة فلسطين)",
+        "he": "יושב ראש הוועד הפועל של אש״ף (ראש מדינת פלסטין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2004,
@@ -6428,11 +8372,23 @@
     {
       "id": "fattouh-pa-interim-president",
       "name": {
-        "en": "Rawhi Fattouh"
+        "en": "Rawhi Fattouh",
+        "ar": "روحي فتوح",
+        "he": "רוחי פתוח",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Interim (acting) President of the Palestinian Authority"
+        "en": "Interim (acting) President of the Palestinian Authority",
+        "ar": "رئيس السلطة الوطنية الفلسطينية المؤقت (بالوكالة)",
+        "he": "נשיא הרשות הפלסטינית הזמני (בפועל)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2004,
@@ -6465,11 +8421,23 @@
     {
       "id": "abbas-pa-president",
       "name": {
-        "en": "Mahmoud Abbas"
+        "en": "Mahmoud Abbas",
+        "ar": "محمود عباس",
+        "he": "מחמוד עבאס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "President of the Palestinian Authority"
+        "en": "President of the Palestinian Authority",
+        "ar": "رئيس السلطة الوطنية الفلسطينية",
+        "he": "נשיא הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2005,
@@ -6501,11 +8469,23 @@
     {
       "id": "olmert-pm",
       "name": {
-        "en": "Ehud Olmert"
+        "en": "Ehud Olmert",
+        "ar": "إيهود أولمرت",
+        "he": "אהוד אולמרט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel (acting from January 2006)"
+        "en": "Prime Minister of Israel (acting from January 2006)",
+        "ar": "رئيس وزراء إسرائيل (بالوكالة منذ كانون الثاني/يناير 2006)",
+        "he": "ראש ממשלת ישראל (בפועל מאז ינואר 2006)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2006,
@@ -6543,11 +8523,23 @@
     {
       "id": "haniyeh-pa-pm",
       "name": {
-        "en": "Ismail Haniyeh"
+        "en": "Ismail Haniyeh",
+        "ar": "إسماعيل هنية",
+        "he": "אסמאעיל הנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2006,
@@ -6590,11 +8582,23 @@
     {
       "id": "peres-president",
       "name": {
-        "en": "Shimon Peres"
+        "en": "Shimon Peres",
+        "ar": "شمعون بيريس",
+        "he": "שמעון פרס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2007,
@@ -6624,11 +8628,23 @@
     {
       "id": "fayyad-pa-pm-1",
       "name": {
-        "en": "Salam Fayyad"
+        "en": "Salam Fayyad",
+        "ar": "سلام فياض",
+        "he": "סלאם פיאד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority (emergency government)"
+        "en": "Prime Minister of the Palestinian Authority (emergency government)",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية (حكومة طوارئ)",
+        "he": "ראש ממשלת הרשות הפלסטינית (ממשלת חירום)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2007,
@@ -6660,11 +8676,23 @@
     {
       "id": "haniyeh-gaza-government",
       "name": {
-        "en": "Ismail Haniyeh"
+        "en": "Ismail Haniyeh",
+        "ar": "إسماعيل هنية",
+        "he": "אסמאעיל הנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hamas-administration-gaza",
       "office": {
-        "en": "Prime minister of the Hamas-led government in the Gaza Strip (de facto)"
+        "en": "Prime minister of the Hamas-led government in the Gaza Strip (de facto)",
+        "ar": "رئيس وزراء الحكومة التي تقودها حماس في قطاع غزة (بحكم الواقع)",
+        "he": "ראש ממשלת הממשלה בהנהגת חמאס ברצועת עזה (דה פקטו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2007,
@@ -6703,11 +8731,23 @@
     {
       "id": "netanyahu-pm-2",
       "name": {
-        "en": "Benjamin Netanyahu"
+        "en": "Benjamin Netanyahu",
+        "ar": "بنيامين نتنياهو",
+        "he": "בנימין נתניהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2009,
@@ -6746,11 +8786,23 @@
     {
       "id": "fayyad-pa-pm-2",
       "name": {
-        "en": "Salam Fayyad"
+        "en": "Salam Fayyad",
+        "ar": "سلام فياض",
+        "he": "סלאם פיאד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2009,
@@ -6788,11 +8840,23 @@
     {
       "id": "tantawi-scaf-egypt",
       "name": {
-        "en": "Mohamed Hussein Tantawi"
+        "en": "Mohamed Hussein Tantawi",
+        "ar": "محمد حسين طنطاوي",
+        "he": "מוחמד חוסיין טנטאווי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "Head of the Supreme Council of the Armed Forces (de facto head of state)"
+        "en": "Head of the Supreme Council of the Armed Forces (de facto head of state)",
+        "ar": "رئيس المجلس الأعلى للقوات المسلحة (رئيس الدولة الفعلي)",
+        "he": "ראש המועצה העליונה של הכוחות המזוינים (ראש המדינה דה פקטו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2011,
@@ -6831,11 +8895,23 @@
     {
       "id": "morsi-president-egypt",
       "name": {
-        "en": "Mohamed Morsi"
+        "en": "Mohamed Morsi",
+        "ar": "محمد مرسي",
+        "he": "מוחמד מורסי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt"
+        "en": "President of Egypt",
+        "ar": "رئيس مصر",
+        "he": "נשיא מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2012,
@@ -6869,11 +8945,23 @@
     {
       "id": "hamdallah-pa-pm-1",
       "name": {
-        "en": "Rami Hamdallah"
+        "en": "Rami Hamdallah",
+        "ar": "رامي الحمد الله",
+        "he": "ראמי חמדאללה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority (caretaker after June 2013)"
+        "en": "Prime Minister of the Palestinian Authority (caretaker after June 2013)",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية (تسيير أعمال بعد حزيران/يونيو 2013)",
+        "he": "ראש ממשלת הרשות הפלסטינית (ממשלת מעבר אחרי יוני 2013)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2013,
@@ -6907,11 +8995,23 @@
     {
       "id": "mansour-interim-president-egypt",
       "name": {
-        "en": "Adly Mansour"
+        "en": "Adly Mansour",
+        "ar": "عدلي منصور",
+        "he": "עדלי מנסור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "Interim President of Egypt"
+        "en": "Interim President of Egypt",
+        "ar": "رئيس مصر المؤقت",
+        "he": "נשיא מצרים הזמני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2013,
@@ -6948,11 +9048,23 @@
     {
       "id": "rivlin-president",
       "name": {
-        "en": "Reuven Rivlin"
+        "en": "Reuven Rivlin",
+        "ar": "رؤوفين ريفلين",
+        "he": "ראובן ריבלין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2014,
@@ -6977,11 +9089,23 @@
     {
       "id": "sisi-president-egypt",
       "name": {
-        "en": "Abdel Fattah al-Sisi"
+        "en": "Abdel Fattah al-Sisi",
+        "ar": "عبد الفتاح السيسي",
+        "he": "עבד אל-פתאח א-סיסי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "egypt",
       "office": {
-        "en": "President of Egypt"
+        "en": "President of Egypt",
+        "ar": "رئيس مصر",
+        "he": "נשיא מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2014,
@@ -7008,11 +9132,23 @@
     {
       "id": "hamdallah-pa-pm-2",
       "name": {
-        "en": "Rami Hamdallah"
+        "en": "Rami Hamdallah",
+        "ar": "رامي الحمد الله",
+        "he": "ראמי חמדאללה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority (national consensus government)"
+        "en": "Prime Minister of the Palestinian Authority (national consensus government)",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية (حكومة التوافق الوطني)",
+        "he": "ראש ממשלת הרשות הפלסטינית (ממשלת הסכמה לאומית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2014,
@@ -7045,11 +9181,23 @@
     {
       "id": "haniyeh-gaza-hamas-leader",
       "name": {
-        "en": "Ismail Haniyeh"
+        "en": "Ismail Haniyeh",
+        "ar": "إسماعيل هنية",
+        "he": "אסמאעיל הנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hamas-administration-gaza",
       "office": {
-        "en": "Leader of Hamas in the Gaza Strip"
+        "en": "Leader of Hamas in the Gaza Strip",
+        "ar": "زعيم حماس في قطاع غزة",
+        "he": "מנהיג חמאס ברצועת עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2014,
@@ -7081,11 +9229,23 @@
     {
       "id": "yahya-sinwar-gaza",
       "name": {
-        "en": "Yahya Sinwar"
+        "en": "Yahya Sinwar",
+        "ar": "يحيى السنوار",
+        "he": "יחיא סינוואר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "hamas-administration-gaza",
       "office": {
-        "en": "Leader of Hamas in the Gaza Strip (also head of the Hamas political bureau from August 2024)"
+        "en": "Leader of Hamas in the Gaza Strip (also head of the Hamas political bureau from August 2024)",
+        "ar": "زعيم حماس في قطاع غزة (ورئيس المكتب السياسي لحماس أيضًا منذ آب/أغسطس 2024)",
+        "he": "מנהיג חמאס ברצועת עזה (וגם ראש הלשכה המדינית של חמאס מאז אוגוסט 2024)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2017,
@@ -7137,11 +9297,23 @@
     {
       "id": "shtayyeh-pa-pm",
       "name": {
-        "en": "Mohammad Shtayyeh"
+        "en": "Mohammad Shtayyeh",
+        "ar": "محمد اشتية",
+        "he": "מוחמד שתיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2019,
@@ -7173,11 +9345,23 @@
     {
       "id": "isaac-herzog-president",
       "name": {
-        "en": "Isaac Herzog"
+        "en": "Isaac Herzog",
+        "ar": "يتسحاق هرتسوغ",
+        "he": "יצחק הרצוג",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "President of Israel"
+        "en": "President of Israel",
+        "ar": "رئيس إسرائيل",
+        "he": "נשיא ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2021,
@@ -7218,11 +9402,23 @@
     {
       "id": "bennett-pm",
       "name": {
-        "en": "Naftali Bennett"
+        "en": "Naftali Bennett",
+        "ar": "نفتالي بينيت",
+        "he": "נפתלי בנט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2021,
@@ -7261,11 +9457,23 @@
     {
       "id": "lapid-pm",
       "name": {
-        "en": "Yair Lapid"
+        "en": "Yair Lapid",
+        "ar": "يائير لبيد",
+        "he": "יאיר לפיד",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel (caretaker)"
+        "en": "Prime Minister of Israel (caretaker)",
+        "ar": "رئيس وزراء إسرائيل (حكومة تصريف أعمال)",
+        "he": "ראש ממשלת ישראל (ממשלת מעבר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2022,
@@ -7304,11 +9512,23 @@
     {
       "id": "netanyahu-pm-3",
       "name": {
-        "en": "Benjamin Netanyahu"
+        "en": "Benjamin Netanyahu",
+        "ar": "بنيامين نتنياهو",
+        "he": "בנימין נתניהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "israel",
       "office": {
-        "en": "Prime Minister of Israel"
+        "en": "Prime Minister of Israel",
+        "ar": "رئيس وزراء إسرائيل",
+        "he": "ראש ממשלת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2022,
@@ -7341,11 +9561,23 @@
     {
       "id": "mustafa-pa-pm",
       "name": {
-        "en": "Mohammad Mustafa"
+        "en": "Mohammad Mustafa",
+        "ar": "محمد مصطفى",
+        "he": "מוחמד מוסטפא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority"
+        "en": "Prime Minister of the Palestinian Authority",
+        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية",
+        "he": "ראש ממשלת הרשות הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2024,
@@ -7373,11 +9605,23 @@
     {
       "id": "sharaa-de-facto-syria",
       "name": {
-        "en": "Ahmed al-Sharaa (Abu Mohammad al-Jolani)"
+        "en": "Ahmed al-Sharaa (Abu Mohammad al-Jolani)",
+        "ar": "أحمد الشرع (أبو محمد الجولاني)",
+        "he": "אחמד א-שרע (אבו מוחמד אל-ג׳ולאני)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "syria",
       "office": {
-        "en": "De facto leader of Syria"
+        "en": "De facto leader of Syria",
+        "ar": "الزعيم الفعلي لسوريا",
+        "he": "המנהיג דה פקטו של סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2024,
@@ -7410,11 +9654,23 @@
     {
       "id": "sharaa-president-syria",
       "name": {
-        "en": "Ahmed al-Sharaa"
+        "en": "Ahmed al-Sharaa",
+        "ar": "أحمد الشرع",
+        "he": "אחמד א-שרע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "syria",
       "office": {
-        "en": "President of Syria (interim government)"
+        "en": "President of Syria (interim government)",
+        "ar": "رئيس سوريا (الحكومة المؤقتة)",
+        "he": "נשיא סוריה (ממשלת מעבר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2025,
@@ -7441,11 +9697,23 @@
     {
       "id": "hussein-al-sheikh-vice-president",
       "name": {
-        "en": "Hussein al-Sheikh"
+        "en": "Hussein al-Sheikh",
+        "ar": "حسين الشيخ",
+        "he": "חוסיין א-שייח׳",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Vice President (post created by the PLO in April 2025)"
+        "en": "Vice President (post created by the PLO in April 2025)",
+        "ar": "نائب الرئيس (منصب استحدثته منظمة التحرير الفلسطينية في نيسان/أبريل 2025)",
+        "he": "סגן נשיא (תפקיד שיצר אש״ף באפריל 2025)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 2025,

@@ -48,7 +48,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "'extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)'."
+          "en": "'extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)'.",
+          "ar": "'extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)' [امتدت من جنوب حلب إلى العقبة ومن البحر المتوسط إلى الصحراء (من دون جبل لبنان)].",
+          "he": "“extended from south Aleppo to Akaba and from the Mediterranean Sea to the desert (Mt. Lebanon excluded)” [השתרע מדרום חלב ועד עקבה ומהים התיכון ועד המדבר (למעט הר הלבנון)].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -108,7 +114,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "As before but without the independent sanjak of Jerusalem."
+          "en": "As before but without the independent sanjak of Jerusalem.",
+          "ar": "كما سبق لكن من دون سنجق القدس المستقل.",
+          "he": "כמקודם אך ללא סנג׳ק ירושלים העצמאי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -158,7 +170,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Reduced inland province after the creation of the Province of Beirut; Balqa (east of the Jordan) appended to it. Ottoman administration reached Karak in the 1890s (which province it belonged to was not verified here)."
+          "en": "Reduced inland province after the creation of the Province of Beirut; Balqa (east of the Jordan) appended to it. Ottoman administration reached Karak in the 1890s (which province it belonged to was not verified here).",
+          "ar": "إقليم داخلي مقلّص بعد إنشاء ولاية بيروت؛ وأُلحقت به البلقاء (شرق الأردن). وصلت الإدارة العثمانية إلى الكرك في تسعينيات القرن التاسع عشر (ولم يُتحقق هنا من الولاية التي تبعها).",
+          "he": "מחוז פנימי מצומצם לאחר הקמת מחוז ביירות; הבלקא (ממזרח לירדן) צורפה אליו. המינהל העות׳מאני הגיע לכרך בשנות ה-90 של המאה ה-19 (לאיזה מחוז השתייכה לא אומת כאן).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

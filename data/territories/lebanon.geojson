@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Lebanon within its 1920/1923 boundaries."
+          "en": "Lebanon within its 1920/1923 boundaries.",
+          "ar": "لبنان ضمن حدوده لعامي 1920/1923.",
+          "he": "לבנון בתוך גבולותיה של 1920/1923.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -57,7 +63,13 @@
         },
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Lebanon minus the Israeli-held south (to Beirut in 1982; the 'security zone' after 1985)."
+          "en": "Lebanon minus the Israeli-held south (to Beirut in 1982; the 'security zone' after 1985).",
+          "ar": "لبنان من دون الجنوب الذي تحتله إسرائيل (حتى بيروت عام 1982؛ و'المنطقة الأمنية' بعد 1985).",
+          "he": "לבנון ללא הדרום שבידי ישראל (עד ביירות ב-1982; “רצועת הביטחון” לאחר 1985).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -92,7 +104,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Lebanon after the Israeli withdrawal to the UN-identified Blue Line (2000). From 2024, and much more from March 2026, Israel held positions and a security zone in the south (separate record)."
+          "en": "Lebanon after the Israeli withdrawal to the UN-identified Blue Line (2000). From 2024, and much more from March 2026, Israel held positions and a security zone in the south (separate record).",
+          "ar": "لبنان بعد الانسحاب الإسرائيلي إلى الخط الأزرق الذي حددته الأمم المتحدة (2000). ومنذ 2024، وأكثر بكثير منذ آذار/مارس 2026، أبقت إسرائيل مواقع ومنطقة أمنية في الجنوب (سجل منفصل).",
+          "he": "לבנון לאחר הנסיגה הישראלית לקו הכחול שזיהה האו״ם (2000). מ-2024, ובהרבה יותר מאז מרץ 2026, החזיקה ישראל בעמדות ובאזור ביטחון בדרום (רשומה נפרדת).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

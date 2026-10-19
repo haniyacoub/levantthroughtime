@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Jerusalem, de facto capital of the province of Palestine."
+          "en": "Jerusalem, de facto capital of the province of Palestine.",
+          "ar": "القدس، العاصمة الفعلية لإقليم فلسطين.",
+          "he": "ירושלים, הבירה בפועל של מחוז פלשתינה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

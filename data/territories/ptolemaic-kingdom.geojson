@@ -35,7 +35,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Palestine with much of Syria and Phoenicia, per Britannica's simplified account of the years after 323."
+          "en": "Palestine with much of Syria and Phoenicia, per Britannica's simplified account of the years after 323.",
+          "ar": "فلسطين مع معظم سوريا وفينيقيا، بحسب رواية بريتانيكا المبسّطة لسنوات ما بعد 323.",
+          "he": "פלשתינה עם רוב סוריה ופיניקיה, לפי התיאור המפושט של בריטניקה לשנים שלאחר 323.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -94,7 +100,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Palestine and Phoenicia; northern frontier apparently just north of Tripoli on the Eleutherus (Nahr al-Kabir); Philadelphia (Rabbath Ammon) bore a Ptolemaic dynastic name."
+          "en": "Palestine and Phoenicia; northern frontier apparently just north of Tripoli on the Eleutherus (Nahr al-Kabir); Philadelphia (Rabbath Ammon) bore a Ptolemaic dynastic name.",
+          "ar": "فلسطين وفينيقيا؛ الحد الشمالي على ما يبدو شمال طرابلس مباشرة عند الإلوثروس (النهر الكبير)؛ وحملت فيلادلفيا (ربّة عمّون) اسمًا أسريًا بطلميًا.",
+          "he": "פלשתינה ופיניקיה; הגבול הצפוני כנראה מעט צפונית לטריפולי על האלפתרוס (נהר אל-כביר); פילדלפיה (רבת עמון) נשאה שם שושלתי תלמי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -136,7 +148,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After Panion only the possessions south of the Sinai desert edge (Egypt incl. Sinai) remained Ptolemaic in the map area."
+          "en": "After Panion only the possessions south of the Sinai desert edge (Egypt incl. Sinai) remained Ptolemaic in the map area.",
+          "ar": "بعد بانياس لم يبق بطلميًا في منطقة الخريطة إلا ما جنوب حافة صحراء سيناء (مصر بما فيها سيناء).",
+          "he": "לאחר פאניון נותרו תלמיים באזור המפה רק הרכוש שמדרום לשולי מדבר סיני (מצרים כולל סיני).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

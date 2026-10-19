@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Philip's former tetrarchy and an adjoining region."
+          "en": "Philip's former tetrarchy and an adjoining region.",
+          "ar": "تترارخية فيليب السابقة ومنطقة مجاورة.",
+          "he": "הטטרכיה לשעבר של פיליפוס ואזור סמוך.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -67,7 +73,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Plus Antipas's tetrarchy (Galilee and Peraea)."
+          "en": "Plus Antipas's tetrarchy (Galilee and Peraea).",
+          "ar": "إضافة إلى تترارخية أنتيباس (الجليل وبيرية).",
+          "he": "בתוספת הטטרכיה של אנטיפס (הגליל ופריאה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -116,7 +128,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Plus Judaea, Samaria and Idumaea: the kingdom of Herod the Great restored."
+          "en": "Plus Judaea, Samaria and Idumaea: the kingdom of Herod the Great restored.",
+          "ar": "إضافة إلى اليهودية والسامرة وأدوميا: أُعيدت مملكة هيرودس الكبير.",
+          "he": "בתוספת יהודה, שומרון ואידומיאה: ממלכת הורדוס הגדול הוקמה מחדש.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

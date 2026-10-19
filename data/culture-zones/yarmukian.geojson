@@ -32,7 +32,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "About 10,000 km2 from the Sea of Galilee in the north to the Dead Sea in the south, and from the Mediterranean to the Jordanian plateau; coastal plains, valleys and hills. Wadi Murabba'at cave lies in the Judean Desert."
+          "en": "About 10,000 km2 from the Sea of Galilee in the north to the Dead Sea in the south, and from the Mediterranean to the Jordanian plateau; coastal plains, valleys and hills. Wadi Murabba'at cave lies in the Judean Desert.",
+          "ar": "نحو 10,000 كم² من بحيرة طبرية في الشمال إلى البحر الميت في الجنوب، ومن البحر المتوسط إلى الهضبة الأردنية؛ سهول ساحلية ووديان وتلال. يقع كهف وادي المربعات في صحراء يهودا.",
+          "he": "כ-10,000 קמ״ר מהכינרת בצפון ועד ים המלח בדרום, ומהים התיכון ועד הרמה הירדנית; מישורי חוף, עמקים והרים. מערת ואדי מורבעאת נמצאת במדבר יהודה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

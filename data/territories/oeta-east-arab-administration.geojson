@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus and the Syrian interior (the coast being under French administration); inclusion of the Golan is schematic."
+          "en": "Damascus and the Syrian interior (the coast being under French administration); inclusion of the Golan is schematic.",
+          "ar": "دمشق والداخل السوري (والساحل تحت الإدارة الفرنسية)؛ إدراج الجولان تخطيطي.",
+          "he": "דמשק ופנים סוריה (החוף תחת מינהל צרפתי); הכללת הגולן סכמטית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

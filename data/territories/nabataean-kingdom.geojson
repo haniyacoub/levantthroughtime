@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Petra and the caravan lands south and east of the Dead Sea; Nabataean presence in the Hauran from the 3rd century BCE."
+          "en": "Petra and the caravan lands south and east of the Dead Sea; Nabataean presence in the Hauran from the 3rd century BCE.",
+          "ar": "البتراء وأراضي القوافل جنوب البحر الميت وشرقه؛ وجود نبطي في حوران منذ القرن الثالث ق.م.",
+          "he": "פטרה ואדמות השיירות מדרום לים המלח וממזרחו; נוכחות נבטית בחורן מהמאה ה-3 לפנה״ס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -77,7 +83,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Aretas III took over Damascus and \"Coele Syria\" at the request of its inhabitants."
+          "en": "Aretas III took over Damascus and \"Coele Syria\" at the request of its inhabitants.",
+          "ar": "استولى الحارث الثالث على دمشق و'Coele Syria' [سوريا الجوفاء] بناءً على طلب سكانها.",
+          "he": "חרתת השלישי השתלט על דמשק ועל “Coele Syria” [סוריה החלולה] לבקשת תושביה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -127,7 +139,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Core kingdom with the southern Hauran; northern Hauran passed to Herod in 23 BCE."
+          "en": "Core kingdom with the southern Hauran; northern Hauran passed to Herod in 23 BCE.",
+          "ar": "المملكة الأساسية مع جنوب حوران؛ وانتقل شمال حوران إلى هيرودس عام 23 ق.م.",
+          "he": "הממלכה המרכזית עם דרום חורן; צפון חורן עבר להורדוס ב-23 לפנה״ס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

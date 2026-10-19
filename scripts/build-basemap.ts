@@ -128,6 +128,24 @@ async function buildVectors(manifest: Manifest) {
 }
 
 /** Modern reference units, shapes only. Names are ours; Natural Earth's attributes are dropped. */
+/** Arabic and Hebrew names of the modern units (machine drafts, marked as such where shown). */
+const UNIT_NAMES: Record<string, [string, string]> = {
+  'israel-1949': ["إسرائيل ضمن خطوط هدنة 1949", "ישראל בתוך קווי שביתת הנשק של 1949"],
+  'west-bank': ["الضفة الغربية (من دون القدس الشرقية)", "הגדה המערבית (ללא מזרח ירושלים)"],
+  'east-jerusalem': ["القدس الشرقية", "מזרח ירושלים"],
+  'gaza-strip': ["قطاع غزة", "רצועת עזה"],
+  'golan-heights': ["مرتفعات الجولان", "רמת הגולן"],
+  'shebaa-farms': ["مزارع شبعا", "חוות שבעא (הר דב)"],
+  'nml-latrun': ["المنطقة الحرام في اللطرون (1949–1967)", "שטח ההפקר בלטרון (1949–1967)"],
+  'nml-jerusalem': ["المنطقة الحرام في القدس (1949–1967)", "שטח ההפקר בירושלים (1949–1967)"],
+  'mount-scopus': ["جيب جبل المشارف (1949–1967)", "מובלעת הר הצופים (1949–1967)"],
+  'undof-zone': ["منطقة الفصل التابعة للأمم المتحدة في الجولان (أندوف)، منذ 1974", "אזור ההפרדה של האו\"ם ברמת הגולן (UNDOF), מאז 1974"],
+  'sinai-egypt': ["شبه جزيرة سيناء", "חצי האי סיני"],
+  'transjordan': ["شرق الأردن / الأردن", "עבר הירדן / ירדן"],
+  'lebanon': ["لبنان", "לבנון"],
+  'syria': ["سوريا (الجزء الجنوبي، ضمن الخريطة)", "סוריה (החלק הדרומי שבתחום המפה)"],
+};
+
 async function buildModernUnits(manifest: Manifest) {
   const disputed = await ne('ne_10m_admin_0_disputed_areas', manifest);
   const countries = await ne('ne_10m_admin_0_countries', manifest);
@@ -172,7 +190,7 @@ async function buildModernUnits(manifest: Manifest) {
     type: 'FeatureCollection',
     features: units.map((u) => ({
       type: 'Feature',
-      properties: { id: u.id, name_en: u.en, derived_from: `Natural Earth ${NE_TAG}: ${u.ne}` },
+      properties: { id: u.id, name_en: u.en, name_ar: UNIT_NAMES[u.id]?.[0], name_he: UNIT_NAMES[u.id]?.[1], derived_from: `Natural Earth ${NE_TAG}: ${u.ne}` },
       geometry: turf.truncate(u.feature, { precision: 5 }).geometry,
     })),
   };

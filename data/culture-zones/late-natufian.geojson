@@ -29,7 +29,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Final Natufian in the Mediterranean zone, plus the Harifian variant in the Negev and Sinai, which lasted about 750 years before its people abandoned the arid margins."
+          "en": "Final Natufian in the Mediterranean zone, plus the Harifian variant in the Negev and Sinai, which lasted about 750 years before its people abandoned the arid margins.",
+          "ar": "النطوفية المتأخرة في المنطقة المتوسطية، إضافة إلى النوع الحريفي في النقب وسيناء، الذي استمر نحو 750 عامًا قبل أن يترك أهله الأطراف الجافة.",
+          "he": "הנאטופית המאוחרת באזור הים-תיכוני, בתוספת הגרסה החריפית בנגב ובסיני, שנמשכה כ-750 שנה לפני שאנשיה נטשו את השוליים הצחיחים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

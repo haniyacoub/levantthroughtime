@@ -20,7 +20,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Southern coastal plain around Jaffa and Ascalon."
+          "en": "Southern coastal plain around Jaffa and Ascalon.",
+          "ar": "السهل الساحلي الجنوبي حول يافا وعسقلان.",
+          "he": "מישור החוף הדרומי סביב יפו ואשקלון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

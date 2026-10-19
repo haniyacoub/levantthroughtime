@@ -21,7 +21,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Five fortified Israeli positions just north of the Blue Line."
+          "en": "Five fortified Israeli positions just north of the Blue Line.",
+          "ar": "خمسة مواقع إسرائيلية محصنة شمال الخط الأزرق مباشرة.",
+          "he": "חמש עמדות ישראליות מבוצרות מצפון לקו הכחול.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -52,7 +58,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Security zone along the border up to about 10-12 km deep (about 6% of Lebanon), bounded by an Israeli-declared 'Yellow Line' whose course shifts; ~30 Israeli positions incl. eight fortified bases (UNIFIL, Sept 2026)."
+          "en": "Security zone along the border up to about 10-12 km deep (about 6% of Lebanon), bounded by an Israeli-declared 'Yellow Line' whose course shifts; ~30 Israeli positions incl. eight fortified bases (UNIFIL, Sept 2026).",
+          "ar": "منطقة أمنية على طول الحدود بعمق يصل إلى نحو 10-12 كم (نحو 6% من لبنان)، تحدّها 'خط أصفر' أعلنته إسرائيل يتغير مساره؛ نحو 30 موقعًا إسرائيليًا بينها ثماني قواعد محصنة (اليونيفيل، أيلول/سبتمبر 2026).",
+          "he": "אזור ביטחון לאורך הגבול בעומק של עד כ-10-12 ק״מ (כ-6% מלבנון), התחום ב“קו צהוב” שישראל הכריזה עליו ומסלולו משתנה; כ-30 עמדות ישראליות, ובהן שמונה בסיסים מבוצרים (אונפי״ל, ספטמבר 2026).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

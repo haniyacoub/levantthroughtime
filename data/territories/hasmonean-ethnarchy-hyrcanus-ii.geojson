@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "The Hasmonean realm \"curtailed\" by Pompey: coastal and Decapolis cities removed; Galilee remained (Herod its governor)."
+          "en": "The Hasmonean realm \"curtailed\" by Pompey: coastal and Decapolis cities removed; Galilee remained (Herod its governor).",
+          "ar": "المملكة الحشمونية 'قُلّصت' على يد بومبي: أُزيلت المدن الساحلية ومدن الديكابوليس؛ وبقي الجليل (هيرودس حاكمه).",
+          "he": "הממלכה החשמונאית “curtailed” [קוצצה] בידי פומפיוס: ערי החוף וערי הדקאפוליס הוסרו; הגליל נשאר (הורדוס מושלו).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

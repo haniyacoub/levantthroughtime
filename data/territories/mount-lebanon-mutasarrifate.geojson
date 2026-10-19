@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Mount Lebanon proper (not Beirut, the coast towns or the Beqaa)."
+          "en": "Mount Lebanon proper (not Beirut, the coast towns or the Beqaa).",
+          "ar": "جبل لبنان نفسه (من دون بيروت ومدن الساحل والبقاع).",
+          "he": "הר הלבנון עצמו (ללא ביירות, ערי החוף והבקעה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

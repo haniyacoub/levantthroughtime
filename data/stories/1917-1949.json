@@ -2,10 +2,22 @@
   "$schema": "../../schema/story.schema.json",
   "id": "1917-1949",
   "title": {
-    "en": "1917–1949"
+    "en": "1917–1949",
+    "ar": "1917–1949",
+    "he": "1917–1949",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "summary": {
-    "en": "From the British conquest and the Mandate to the 1948 war and the armistice lines, with each side’s account."
+    "en": "From the British conquest and the Mandate to the 1948 war and the armistice lines, with each side’s account.",
+    "ar": "من الاستيلاء البريطاني والانتداب إلى حرب 1948 وخطوط الهدنة، مع رواية كل طرف.",
+    "he": "מהכיבוש הבריטי והמנדט ועד מלחמת 1948 וקווי שביתת הנשק, עם הגרסה של כל צד.",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "steps": [
     {
@@ -28,10 +40,22 @@
         "migrations"
       ],
       "title": {
-        "en": "British conquest"
+        "en": "British conquest",
+        "ar": "الاستيلاء البريطاني",
+        "he": "הכיבוש הבריטי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917, and the rest of the area by October 1918 [1]. In 1917 the British government had declared its support for “the establishment in Palestine of a national home for the Jewish people”, the Balfour Declaration, and the later Mandate made carrying it out a primary aim [2]. Arab representatives held that the Mandate, which incorporated the Balfour Declaration, was illegal [3]."
+        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917, and the rest of the area by October 1918 [1]. In 1917 the British government had declared its support for “the establishment in Palestine of a national home for the Jewish people”, the Balfour Declaration, and the later Mandate made carrying it out a primary aim [2]. Arab representatives held that the Mandate, which incorporated the Balfour Declaration, was illegal [3].",
+        "ar": "استولت القوات البريطانية والحليفة بقيادة الجنرال اللنبي على القدس في كانون الأول/ديسمبر 1917، وعلى بقية المنطقة بحلول تشرين الأول/أكتوبر 1918 [1]. وكانت الحكومة البريطانية قد أعلنت عام 1917 تأييدها لـ«إقامة وطن قومي للشعب اليهودي في فلسطين»، وهو إعلان بلفور (وعد بلفور)، وجعل الانتداب اللاحق تنفيذه هدفًا رئيسيًا [2]. ورأى ممثلو العرب أن الانتداب، الذي ضمّ إعلان بلفور، غير قانوني [3].",
+        "he": "כוחות בריטיים ובעלות הברית בפיקודו של הגנרל אלנבי כבשו את ירושלים בדצמבר 1917, ואת שאר האזור עד אוקטובר 1918 [1]. ב-1917 הצהירה ממשלת בריטניה על תמיכתה ב״הקמת בית לאומי לעם היהודי בפלשתינה״, הצהרת בלפור, והמנדט שבא לאחר מכן הפך את מימושה למטרה עיקרית [2]. נציגי הערבים טענו שהמנדט, שכלל את הצהרת בלפור, אינו חוקי [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -70,10 +94,22 @@
         "migrations"
       ],
       "title": {
-        "en": "First violence"
+        "en": "First violence",
+        "ar": "أولى أعمال العنف",
+        "he": "האלימות הראשונה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In March 1920 the Jewish settlement of Tel Hai in the far north was attacked; its defence became legendary throughout Jewish Palestine [1][2]. In April anti-Zionist riots broke out in the Jewish quarter of Jerusalem’s Old City [3]. British authorities attributed them to Arab disappointment that promises of independence had not been kept [4]."
+        "en": "In March 1920 the Jewish settlement of Tel Hai in the far north was attacked; its defence became legendary throughout Jewish Palestine [1][2]. In April anti-Zionist riots broke out in the Jewish quarter of Jerusalem’s Old City [3]. British authorities attributed them to Arab disappointment that promises of independence had not been kept [4].",
+        "ar": "في آذار/مارس 1920 هوجمت المستوطنة اليهودية تل حاي في أقصى الشمال؛ وأصبح الدفاع عنها أسطوريًا في أنحاء فلسطين اليهودية [1][2]. وفي نيسان/أبريل اندلعت أعمال شغب مناهضة للصهيونية في الحي اليهودي في البلدة القديمة بالقدس [3]. ونسبتها السلطات البريطانية إلى خيبة أمل العرب لأن وعود الاستقلال لم يُوفَ بها [4].",
+        "he": "במרס 1920 הותקפה ההתיישבות היהודית תל חי בצפון הרחוק; הגנתה הפכה אגדית בכל פלשתינה היהודית [1][2]. באפריל פרצו מהומות אנטי-ציוניות ברובע היהודי של העיר העתיקה בירושלים [3]. השלטונות הבריטיים ייחסו אותן לאכזבת הערבים מכך שהבטחות העצמאות לא קוימו [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -118,10 +154,22 @@
         "migrations"
       ],
       "title": {
-        "en": "The Mandate"
+        "en": "The Mandate",
+        "ar": "الانتداب",
+        "he": "המנדט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate in July 1922, and it came into formal effect in September 1923 [2]. The first census, on 23 October 1922, counted 757,182 people [3]."
+        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate in July 1922, and it came into formal effect in September 1923 [2]. The first census, on 23 October 1922, counted 757,182 people [3].",
+        "ar": "تولى مندوب سامٍ مدني بريطاني، هو السير هربرت صموئيل، منصبه في 1 تموز/يوليو 1920 [1]. وأقرت عصبة الأمم الانتداب في تموز/يوليو 1922، ودخل حيز التنفيذ الرسمي في أيلول/سبتمبر 1923 [2]. وأحصى أول تعداد، في 23 تشرين الأول/أكتوبر 1922، 757,182 شخصًا [3].",
+        "he": "נציב עליון בריטי אזרחי, סר הרברט סמואל, נכנס לתפקידו ב-1 ביולי 1920 [1]. חבר הלאומים אישר את המנדט ביולי 1922, והוא נכנס לתוקף רשמי בספטמבר 1923 [2]. המפקד הראשון, ב-23 באוקטובר 1922, מנה 757,182 איש [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -163,10 +211,22 @@
         "western-wall"
       ],
       "title": {
-        "en": "1929"
+        "en": "1929",
+        "ar": "1929",
+        "he": "1929",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In August 1929 a dispute over the Western Wall (al-Buraq) in Jerusalem led to violence [1]. The British Shaw Commission found that the outbreak in Jerusalem was from the beginning an attack by Arabs on Jews, and that it was not premeditated [2][3]. The Palestinian narrative calls it the al-Buraq uprising and attributes it to Jewish provocations near the wall [4]. In Hebron many Jews were killed by Arab rioters; many of the survivors had been protected by Arab neighbours [5][6]."
+        "en": "In August 1929 a dispute over the Western Wall (al-Buraq) in Jerusalem led to violence [1]. The British Shaw Commission found that the outbreak in Jerusalem was from the beginning an attack by Arabs on Jews, and that it was not premeditated [2][3]. The Palestinian narrative calls it the al-Buraq uprising and attributes it to Jewish provocations near the wall [4]. In Hebron many Jews were killed by Arab rioters; many of the survivors had been protected by Arab neighbours [5][6].",
+        "ar": "في آب/أغسطس 1929 أدى نزاع على حائط المبكى (البراق) في القدس إلى أعمال عنف [1]. وخلصت لجنة شو البريطانية إلى أن الاندلاع في القدس كان منذ البداية هجومًا من العرب على اليهود، وأنه لم يكن مبيتًا [2][3]. وتسميه الرواية الفلسطينية ثورة البراق وتنسبه إلى استفزازات يهودية قرب الحائط [4]. وفي الخليل قتل مثيرو الشغب العرب كثيرًا من اليهود؛ وكان كثير من الناجين قد حماهم جيرانهم العرب [5][6].",
+        "he": "באוגוסט 1929 סכסוך על הכותל המערבי (אל-בוראק) בירושלים הוביל לאלימות [1]. ועדת שו הבריטית מצאה שהפרעות בירושלים היו מתחילתן התקפה של ערבים על יהודים, ושהן לא תוכננו מראש [2][3]. הנרטיב הפלסטיני מכנה אותן מרד אל-בוראק ומייחס אותן לפרובוקציות יהודיות ליד הכותל [4]. בחברון נהרגו יהודים רבים בידי מתפרעים ערבים; רבים מהניצולים הוגנו בידי שכניהם הערבים [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -222,10 +282,22 @@
         "migrations"
       ],
       "title": {
-        "en": "The Arab Revolt and partition"
+        "en": "The Arab Revolt and partition",
+        "ar": "الثورة العربية والتقسيم",
+        "he": "המרד הערבי והחלוקה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Arab Revolt of 1936–39 was the first sustained violent uprising of Palestinian Arabs in more than a century [1]. In July 1937 the Peel Commission reported that it was caused by Arab desire for independence and fear of the Jewish national home, and recommended partition [2][3]. The Zionist attitude to partition was ambivalent, but overall one of cautious acceptance [4]."
+        "en": "The Arab Revolt of 1936–39 was the first sustained violent uprising of Palestinian Arabs in more than a century [1]. In July 1937 the Peel Commission reported that it was caused by Arab desire for independence and fear of the Jewish national home, and recommended partition [2][3]. The Zionist attitude to partition was ambivalent, but overall one of cautious acceptance [4].",
+        "ar": "كانت الثورة العربية 1936-1939 أول انتفاضة عنيفة متواصلة للعرب الفلسطينيين منذ أكثر من قرن [1]. وفي تموز/يوليو 1937 ذكرت لجنة بيل أن سببها رغبة العرب في الاستقلال وخوفهم من الوطن القومي اليهودي، وأوصت بالتقسيم [2][3]. وكان الموقف الصهيوني من التقسيم متذبذبًا، لكنه في مجمله قبول حذر [4].",
+        "he": "המרד הערבי של 1936–39 היה המרד האלים המתמשך הראשון של ערביי פלשתינה זה יותר ממאה שנה [1]. ביולי 1937 קבעה ועדת פיל שגורמיו היו רצון הערבים בעצמאות ופחדם מהבית הלאומי היהודי, והמליצה על חלוקה [2][3]. היחס הציוני לחלוקה היה דו-ערכי, אך בסך הכול של קבלה זהירה [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -271,10 +343,22 @@
         "migrations"
       ],
       "title": {
-        "en": "The White Paper"
+        "en": "The White Paper",
+        "ar": "الكتاب الأبيض",
+        "he": "הספר הלבן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "British forces suppressed the revolt by the late summer of 1939 [1]. In May 1939 Britain issued a White Paper that essentially yielded to Arab demands [2]. The Arabs nevertheless rejected it, largely because they mistrusted the British government [3]."
+        "en": "British forces suppressed the revolt by the late summer of 1939 [1]. In May 1939 Britain issued a White Paper that essentially yielded to Arab demands [2]. The Arabs nevertheless rejected it, largely because they mistrusted the British government [3].",
+        "ar": "قمعت القوات البريطانية الثورة بحلول أواخر صيف 1939 [1]. وفي أيار/مايو 1939 أصدرت بريطانيا كتابًا أبيض استجاب في جوهره للمطالب العربية [2]. ومع ذلك رفضه العرب، ويعود ذلك في الأساس إلى عدم ثقتهم بالحكومة البريطانية [3].",
+        "he": "כוחות בריטיים דיכאו את המרד עד סוף הקיץ של 1939 [1]. במאי 1939 פרסמה בריטניה ספר לבן שנעתר בעיקרו לדרישות הערבים [2]. הערבים דחו אותו בכל זאת, בעיקר משום שלא סמכו על ממשלת בריטניה [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -315,10 +399,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Underground war against Britain"
+        "en": "Underground war against Britain",
+        "ar": "حرب سرية ضد بريطانيا",
+        "he": "מלחמת מחתרות נגד בריטניה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "At the end of 1946 the population was estimated at 1,203,000 Arabs, 608,000 Jews and 35,000 others [1]. From 1944 the Irgun, led by Menachem Begin, and the smaller LEHI attacked the British [2]. On 22 July 1946 the Irgun blew up a wing of Jerusalem’s King David Hotel housing British government and military offices [3]. In 1947 Britain turned the problem over to the United Nations [4]."
+        "en": "At the end of 1946 the population was estimated at 1,203,000 Arabs, 608,000 Jews and 35,000 others [1]. From 1944 the Irgun, led by Menachem Begin, and the smaller LEHI attacked the British [2]. On 22 July 1946 the Irgun blew up a wing of Jerusalem’s King David Hotel housing British government and military offices [3]. In 1947 Britain turned the problem over to the United Nations [4].",
+        "ar": "في نهاية 1946 قُدّر عدد السكان بـ 1,203,000 عربي و608,000 يهودي و35,000 من الآخرين [1]. ومنذ 1944 هاجم الإرغون بقيادة مناحيم بيغن، وليحي الأصغر، البريطانيين [2]. وفي 22 تموز/يوليو 1946 فجّر الإرغون جناحًا من فندق الملك داود في القدس كان يضم مكاتب حكومية وعسكرية بريطانية [3]. وفي 1947 أحالت بريطانيا المشكلة إلى الأمم المتحدة [4].",
+        "he": "בסוף 1946 הוערכה האוכלוסייה ב-1,203,000 ערבים, 608,000 יהודים ו-35,000 אחרים [1]. מ-1944 תקפו האצ״ל בפיקודו של מנחם בגין, ולח״י הקטן ממנו, את הבריטים [2]. ב-22 ביולי 1946 פוצץ האצ״ל אגף של מלון המלך דוד בירושלים ששכנו בו משרדי ממשל וצבא בריטיים [3]. ב-1947 העבירה בריטניה את הבעיה לאו״ם [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -364,10 +460,22 @@
         "modern"
       ],
       "title": {
-        "en": "The partition plan"
+        "en": "The partition plan",
+        "ar": "خطة التقسيم",
+        "he": "תוכנית החלוקה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "On 29 November 1947 the UN General Assembly passed Resolution 181, which called for the partition of Palestine into a Jewish state and an Arab state [1]. Opponents of partition had argued that the UN could not take the territory of the majority of Palestine’s people and give it to a minority [2]. The next morning an Arab attack on a bus near Lydda killed Jewish passengers, an attack often cited as the start of the civil war [3]."
+        "en": "On 29 November 1947 the UN General Assembly passed Resolution 181, which called for the partition of Palestine into a Jewish state and an Arab state [1]. Opponents of partition had argued that the UN could not take the territory of the majority of Palestine’s people and give it to a minority [2]. The next morning an Arab attack on a bus near Lydda killed Jewish passengers, an attack often cited as the start of the civil war [3].",
+        "ar": "في 29 تشرين الثاني/نوفمبر 1947 أصدرت الجمعية العامة للأمم المتحدة القرار 181 الذي دعا إلى تقسيم فلسطين إلى دولة يهودية ودولة عربية [1]. وكان معارضو التقسيم قد احتجوا بأن الأمم المتحدة لا تستطيع أن تأخذ أرض غالبية سكان فلسطين وتعطيها لأقلية [2]. وفي صباح اليوم التالي أسفر هجوم عربي على حافلة قرب اللد عن مقتل ركاب يهود، وكثيرًا ما يُستشهد به بوصفه بداية الحرب الأهلية [3].",
+        "he": "ב-29 בנובמבר 1947 העבירה העצרת הכללית של האו״ם את החלטה 181, שקראה לחלוקת פלשתינה למדינה יהודית ולמדינה ערבית [1]. מתנגדי החלוקה טענו שהאו״ם אינו יכול לקחת את הקרקע של רוב תושבי פלשתינה ולתת אותה למיעוט [2]. למחרת בבוקר הרג מתקפה ערבית על אוטובוס ליד לוד נוסעים יהודים, מתקפה שמצוטטת לעיתים קרובות כתחילת מלחמת האזרחים [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -410,10 +518,22 @@
         "deir-yassin"
       ],
       "title": {
-        "en": "Civil war"
+        "en": "Civil war",
+        "ar": "الحرب الأهلية",
+        "he": "מלחמת האזרחים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In March 1948 the Haganah prepared Plan D [1]. Israeli accounts describe its purpose as securing the areas assigned to the Jewish state, plus Jerusalem and the road to it [2]. The Palestinian historian Walid Khalidi sees it as a plan for the conquest of Palestine, and its text orders that where there is resistance the population be expelled [3][4]. On 9 April Irgun and Lehi forces, acting independently of Ben-Gurion, attacked the village of Deir Yassin, and word of the massacre spread among Palestinians [5][6]."
+        "en": "In March 1948 the Haganah prepared Plan D [1]. Israeli accounts describe its purpose as securing the areas assigned to the Jewish state, plus Jerusalem and the road to it [2]. The Palestinian historian Walid Khalidi sees it as a plan for the conquest of Palestine, and its text orders that where there is resistance the population be expelled [3][4]. On 9 April Irgun and Lehi forces, acting independently of Ben-Gurion, attacked the village of Deir Yassin, and word of the massacre spread among Palestinians [5][6].",
+        "ar": "في آذار/مارس 1948 أعدت الهاغاناه الخطة دالت [1]. وتصف الروايات الإسرائيلية غرضها بأنه تأمين المناطق المخصصة للدولة اليهودية، إضافة إلى القدس والطريق المؤدي إليها [2]. ويرى المؤرخ الفلسطيني وليد الخالدي أنها خطة لغزو فلسطين، ويأمر نصها بأن يُطرد السكان حيث توجد مقاومة [3][4]. وفي 9 نيسان/أبريل هاجمت قوات الإرغون وليحي، متصرفةً باستقلال عن بن غوريون، قرية دير ياسين، وانتشر خبر المجزرة بين الفلسطينيين [5][6].",
+        "he": "במרס 1948 הכינה ההגנה את תוכנית ד׳ [1]. תיאורים ישראליים מציגים את מטרתה כהבטחת האזורים שהוקצו למדינה היהודית, בתוספת ירושלים והדרך אליה [2]. ההיסטוריון הפלסטיני וליד ח׳אלידי רואה בה תוכנית לכיבוש פלשתינה, ונוסחה מורה שבמקום שיש התנגדות תגורש האוכלוסייה [3][4]. ב-9 באפריל תקפו כוחות האצ״ל ולח״י, שפעלו באופן עצמאי מבן-גוריון, את הכפר דיר יאסין, והידיעה על הטבח התפשטה בקרב הפלסטינים [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -469,10 +589,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Independence and invasion"
+        "en": "Independence and invasion",
+        "ar": "الاستقلال والغزو",
+        "he": "העצמאות והפלישה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Between 18 April and 13 May Jewish forces took Tiberias, Haifa, Safed and Jaffa, displacing some of the largest Palestinian Arab urban populations [1]. Israel declared its independence on 14 May 1948 [2]. The next day the armies of Egypt, Transjordan, Iraq, Syria and Lebanon invaded, carrying out a decision of the Arab League [3]. On 28 May the Arab Legion took the Jewish Quarter of Jerusalem’s Old City and left it in rubble [4]."
+        "en": "Between 18 April and 13 May Jewish forces took Tiberias, Haifa, Safed and Jaffa, displacing some of the largest Palestinian Arab urban populations [1]. Israel declared its independence on 14 May 1948 [2]. The next day the armies of Egypt, Transjordan, Iraq, Syria and Lebanon invaded, carrying out a decision of the Arab League [3]. On 28 May the Arab Legion took the Jewish Quarter of Jerusalem’s Old City and left it in rubble [4].",
+        "ar": "بين 18 نيسان/أبريل و13 أيار/مايو استولت القوات اليهودية على طبريا وحيفا وصفد ويافا، مما هجّر بعضًا من أكبر التجمعات السكانية الحضرية العربية الفلسطينية [1]. وأعلنت إسرائيل استقلالها في 14 أيار/مايو 1948 [2]. وفي اليوم التالي غزت جيوش مصر وشرق الأردن والعراق وسوريا ولبنان، تنفيذًا لقرار من جامعة الدول العربية [3]. وفي 28 أيار/مايو استولى الفيلق العربي على الحي اليهودي في البلدة القديمة بالقدس وتركه أنقاضًا [4].",
+        "he": "בין 18 באפריל ל-13 במאי כבשו כוחות יהודיים את טבריה, חיפה, צפת ויפו, ועקרו כמה מהאוכלוסיות העירוניות הערביות-פלסטיניות הגדולות ביותר [1]. ישראל הכריזה על עצמאותה ב-14 במאי 1948 [2]. למחרת פלשו צבאות מצרים, עבר הירדן, עיראק, סוריה ולבנון, בביצוע החלטה של הליגה הערבית [3]. ב-28 במאי כבש הלגיון הערבי את הרובע היהודי בעיר העתיקה בירושלים והשאיר אותו חורבות [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -519,10 +651,22 @@
         "lod"
       ],
       "title": {
-        "en": "Lydda and Ramle"
+        "en": "Lydda and Ramle",
+        "ar": "اللد والرملة",
+        "he": "לוד ורמלה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In July the Israeli army took Lydda and Ramle, two Arab cities that lay within the partition plan’s Arab state [1]. According to the historian Benny Morris, an Israeli decision was taken on 12 July to expel all the residents of Lydda [2]."
+        "en": "In July the Israeli army took Lydda and Ramle, two Arab cities that lay within the partition plan’s Arab state [1]. According to the historian Benny Morris, an Israeli decision was taken on 12 July to expel all the residents of Lydda [2].",
+        "ar": "في تموز/يوليو استولى الجيش الإسرائيلي على اللد والرملة، وهما مدينتان عربيتان كانتا ضمن الدولة العربية في خطة التقسيم [1]. ووفقًا للمؤرخ بيني موريس، اتُّخذ قرار إسرائيلي في 12 تموز/يوليو بطرد جميع سكان اللد [2].",
+        "he": "ביולי כבש הצבא הישראלי את לוד ורמלה, שתי ערים ערביות שהיו בתוך המדינה הערבית בתוכנית החלוקה [1]. לפי ההיסטוריון בני מוריס, התקבלה החלטה ישראלית ב-12 ביולי לגרש את כל תושבי לוד [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -558,10 +702,22 @@
         "migrations"
       ],
       "title": {
-        "en": "Refugees: two accounts"
+        "en": "Refugees: two accounts",
+        "ar": "اللاجئون: روايتان",
+        "he": "פליטים: שני תיאורים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In October Israel launched Operation Yoav to take the Negev, and Operation Hiram took the Upper Galilee [1][2]. Israeli spokesmen have long said that the Palestinians left on the orders of their own leaders [3]. Arab spokesmen have maintained that Israel forcibly expelled some 750,000 Palestinians [4]. Benny Morris concluded that war, not design, Jewish or Arab, created the refugee problem [5]."
+        "en": "In October Israel launched Operation Yoav to take the Negev, and Operation Hiram took the Upper Galilee [1][2]. Israeli spokesmen have long said that the Palestinians left on the orders of their own leaders [3]. Arab spokesmen have maintained that Israel forcibly expelled some 750,000 Palestinians [4]. Benny Morris concluded that war, not design, Jewish or Arab, created the refugee problem [5].",
+        "ar": "في تشرين الأول/أكتوبر شنت إسرائيل عملية يوآب للاستيلاء على النقب، واستولت عملية حيرام على الجليل الأعلى [1][2]. ويقول الناطقون الإسرائيليون منذ زمن طويل إن الفلسطينيين غادروا بأوامر من قياداتهم [3]. ويؤكد الناطقون العرب أن إسرائيل طردت بالقوة نحو 750,000 فلسطيني [4]. وخلص بيني موريس إلى أن الحرب، لا التصميم اليهودي أو العربي، هي التي خلقت مشكلة اللاجئين [5].",
+        "he": "באוקטובר פתחה ישראל במבצע יואב לכיבוש הנגב, ומבצע חירם כבש את הגליל העליון [1][2]. דוברים ישראלים טוענים זה זמן רב שהפלסטינים עזבו בהוראת מנהיגיהם [3]. דוברים ערבים טענו שישראל גירשה בכוח כ-750,000 פלסטינים [4]. בני מוריס הגיע למסקנה שהמלחמה, ולא תכנון, יהודי או ערבי, יצרה את בעיית הפליטים [5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -613,10 +769,22 @@
         "modern"
       ],
       "title": {
-        "en": "The armistice lines"
+        "en": "The armistice lines",
+        "ar": "خطوط الهدنة",
+        "he": "קווי שביתת הנשק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Armistice agreements with Egypt, Lebanon, Transjordan and Syria in 1949 brought a formal end to the war [1]. Israeli forces then held 77 percent of pre-1948 Palestine [2]. Arab forces held much of what became the Gaza Strip and the West Bank, including the Old City of Jerusalem [3]. Israelis remember the war as the War of Independence; Arabs remember it as the Nakba, “the catastrophe” [4][5]."
+        "en": "Armistice agreements with Egypt, Lebanon, Transjordan and Syria in 1949 brought a formal end to the war [1]. Israeli forces then held 77 percent of pre-1948 Palestine [2]. Arab forces held much of what became the Gaza Strip and the West Bank, including the Old City of Jerusalem [3]. Israelis remember the war as the War of Independence; Arabs remember it as the Nakba, “the catastrophe” [4][5].",
+        "ar": "أنهت اتفاقيات الهدنة مع مصر ولبنان وشرق الأردن وسوريا في 1949 الحرب رسميًا [1]. وكانت القوات الإسرائيلية تسيطر عندئذ على 77 في المئة من فلسطين ما قبل 1948 [2]. وسيطرت القوات العربية على معظم ما أصبح قطاع غزة والضفة الغربية، بما فيه البلدة القديمة في القدس [3]. ويتذكر الإسرائيليون الحرب بوصفها حرب الاستقلال؛ ويتذكرها العرب بوصفها النكبة، «الكارثة» [4][5].",
+        "he": "הסכמי שביתת הנשק עם מצרים, לבנון, עבר הירדן וסוריה ב-1949 הביאו לסיום רשמי של המלחמה [1]. כוחות ישראליים החזיקו אז ב-77 אחוזים מפלשתינה שלפני 1948 [2]. כוחות ערביים החזיקו בחלק גדול ממה שהפך לרצועת עזה ולגדה המערבית, כולל העיר העתיקה של ירושלים [3]. ישראלים זוכרים את המלחמה כמלחמת העצמאות; ערבים זוכרים אותה כנכבה, ״האסון״ [4][5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {

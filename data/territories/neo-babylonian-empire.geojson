@@ -29,7 +29,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After the 604 campaign: Ashkelon captured, Philistine cities absorbed, former Assyrian provinces taken over. Judah, Ammon, Moab, Edom and the Phoenician cities appear as vassals or are left out where undocumented."
+          "en": "After the 604 campaign: Ashkelon captured, Philistine cities absorbed, former Assyrian provinces taken over. Judah, Ammon, Moab, Edom and the Phoenician cities appear as vassals or are left out where undocumented.",
+          "ar": "بعد حملة 604: أُخذت عسقلان، وضُمّت المدن الفلستية، وورثت الأقاليم الآشورية السابقة. تظهر يهوذا وعمّون وموآب وأدوم والمدن الفينيقية تابعةً أو تُترك خارج الخريطة حيث لا توثيق.",
+          "he": "לאחר מסע 604: אשקלון נכבשה, הערים הפלשתיות נבלעו, מחוזות אשוריים לשעבר נלקחו. יהודה, עמון, מואב, אדום והערים הפיניקיות מופיעות כווסאלים או מושמטות היכן שאין תיעוד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -83,7 +89,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Adds the former kingdom of Judah after the destruction of Jerusalem (587/586)."
+          "en": "Adds the former kingdom of Judah after the destruction of Jerusalem (587/586).",
+          "ar": "تضيف مملكة يهوذا السابقة بعد تدمير القدس (587/586).",
+          "he": "מוסיפה את ממלכת יהודה לשעבר לאחר חורבן ירושלים (587/586).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -135,7 +147,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Adds Moab (conquered 582). Edom is partial: Nabonidus' campaign is dated 553-551. Ammon's status is undocumented and is left out."
+          "en": "Adds Moab (conquered 582). Edom is partial: Nabonidus' campaign is dated 553-551. Ammon's status is undocumented and is left out.",
+          "ar": "تضيف موآب (فُتحت 582). أدوم جزئية: تؤرَّخ حملة نبونيد 553-551. وضع عمّون غير موثق وهي متروكة.",
+          "he": "מוסיפה את מואב (נכבשה 582). אדום חלקית: מסעו של נבונעיד מתוארך ל-553-551. מעמדה של עמון אינו מתועד והיא מושמטת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

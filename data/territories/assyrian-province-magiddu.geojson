@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Galilee and the northern valleys annexed in 732, centred on Megiddo."
+          "en": "Galilee and the northern valleys annexed in 732, centred on Megiddo.",
+          "ar": "الجليل والأودية الشمالية التي ضُمّت عام 732، ومركزها مجدو.",
+          "he": "הגליל והעמקים הצפוניים שסופחו ב-732, שמרכזם מגידו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

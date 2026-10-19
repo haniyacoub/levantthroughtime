@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Entire Sinai to the Suez Canal."
+          "en": "Entire Sinai to the Suez Canal.",
+          "ar": "سيناء كلها حتى قناة السويس.",
+          "he": "כל סיני עד תעלת סואץ.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Shrinking Israeli-held area after the 1973 war (Egypt regained a strip east of the canal) and during the staged withdrawal under the 1979 treaty."
+          "en": "Shrinking Israeli-held area after the 1973 war (Egypt regained a strip east of the canal) and during the staged withdrawal under the 1979 treaty.",
+          "ar": "مساحة متقلصة تسيطر عليها إسرائيل بعد حرب 1973 (استعادت مصر شريطًا شرق القناة) وأثناء الانسحاب المرحلي بموجب معاهدة 1979.",
+          "he": "שטח מצטמצם שבידי ישראל לאחר מלחמת 1973 (מצרים החזירה לעצמה רצועה ממזרח לתעלה) ובמהלך הנסיגה בשלבים לפי הסכם 1979.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

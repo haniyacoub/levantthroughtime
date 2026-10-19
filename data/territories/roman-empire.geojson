@@ -48,7 +48,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Provinces (Syria, Judaea from 6 CE, Egypt incl. Sinai from 30 BCE) and client kingdoms (Herodians, Nabataeans)."
+          "en": "Provinces (Syria, Judaea from 6 CE, Egypt incl. Sinai from 30 BCE) and client kingdoms (Herodians, Nabataeans).",
+          "ar": "أقاليم (سوريا، اليهودية منذ 6 م، مصر بما فيها سيناء منذ 30 ق.م.) وممالك تابعة (الهيرودسيون، النبطيون).",
+          "he": "מחוזות (סוריה, יהודה מ-6 לספירה, מצרים כולל סיני מ-30 לפנה״ס) וממלכות לקוחות (ההורדיאנים, הנבטים).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -115,7 +121,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole map area under direct provincial rule after the annexation of Nabataea (province of Arabia)."
+          "en": "Whole map area under direct provincial rule after the annexation of Nabataea (province of Arabia).",
+          "ar": "كامل منطقة الخريطة تحت حكم الأقاليم المباشر بعد ضم الأنباط (إقليم العربية).",
+          "he": "כל שטח המפה תחת שלטון מחוזי ישיר לאחר סיפוח נבטיה (מחוז ערביה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

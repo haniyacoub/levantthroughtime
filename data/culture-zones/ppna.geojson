@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Khiamian phase. Major PPNA sites lie in lowlands along the edges of the rift valley and the eastern edge of the coastal plain, and the arid margins were almost deserted. Schematic."
+          "en": "Khiamian phase. Major PPNA sites lie in lowlands along the edges of the rift valley and the eastern edge of the coastal plain, and the arid margins were almost deserted. Schematic.",
+          "ar": "طور الخيامي. تقع مواقع العصر الحجري الحديث ما قبل الفخاري «أ» الكبرى في الأراضي المنخفضة على أطراف الوادي المتصدع والحافة الشرقية للسهل الساحلي، وكانت الأطراف الجافة مهجورة تقريبًا. تخطيطي.",
+          "he": "שלב ח׳יאם. אתרי הנאוליתית הקדם-קראמית א׳ הגדולים נמצאים בשפלות לאורך שולי בקע הסדק והקצה המזרחי של מישור החוף, והשוליים הצחיחים היו כמעט נטושים. סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -66,7 +72,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Sultanian phase: Jericho and Netiv Hagdud (1.6-2.0 ha each), Gilgal and Dhra'. Wadi Faynan 16 lies at the edge of the rift (Arabah). Schematic."
+          "en": "Sultanian phase: Jericho and Netiv Hagdud (1.6-2.0 ha each), Gilgal and Dhra'. Wadi Faynan 16 lies at the edge of the rift (Arabah). Schematic.",
+          "ar": "طور السلطاني: أريحا ونتيف هجدود (1.6-2.0 هكتار لكل منهما)، والجلجال وضرع. يقع وادي فينان 16 على حافة الوادي المتصدع (وادي عربة). تخطيطي.",
+          "he": "שלב סולטאן: יריחו ונטיב הגדוד (1.6-2.0 הקטאר כל אחד), גלגל ודרע׳. ואדי פיינאן 16 נמצא בשולי בקע הסדק (הערבה). סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

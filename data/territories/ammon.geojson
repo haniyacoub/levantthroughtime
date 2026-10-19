@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Kingdom centred on Rabbath Ammon (Amman), north of Moab, 'on the edge of the Syrian Desert east of Gilead'."
+          "en": "Kingdom centred on Rabbath Ammon (Amman), north of Moab, 'on the edge of the Syrian Desert east of Gilead'.",
+          "ar": "مملكة مركزها ربّة عمّون (عمّان)، شمال موآب، 'on the edge of the Syrian Desert east of Gilead' [على حافة البادية السورية شرق جلعاد].",
+          "he": "ממלכה שמרכזה רבת עמון (עמאן), צפונית למואב, “on the edge of the Syrian Desert east of Gilead” [בקצה המדבר הסורי ממזרח לגלעד].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -61,7 +67,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Persian-period province of Ammon under governors of the house of Tobiah."
+          "en": "Persian-period province of Ammon under governors of the house of Tobiah.",
+          "ar": "إقليم عمّون في العهد الفارسي في ظل ولاة من بيت طوبيا.",
+          "he": "מחוז עמון בתקופה הפרסית תחת מושלים מבית טוביה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

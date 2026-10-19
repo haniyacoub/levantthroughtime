@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Markers for sites where Lodian/Jericho IX assemblages are reported: Lod (central coastal plain), Teluliot Batashi (Shephelah), Jericho (Jordan Valley) and Hagoshrim level 5 (Hula valley). No regional boundary is given."
+          "en": "Markers for sites where Lodian/Jericho IX assemblages are reported: Lod (central coastal plain), Teluliot Batashi (Shephelah), Jericho (Jordan Valley) and Hagoshrim level 5 (Hula valley). No regional boundary is given.",
+          "ar": "علامات لمواقع أُبلغ فيها عن مجموعات لودية/أريحا IX: اللد (السهل الساحلي الأوسط)، وتلوليوت باتاشي (الشفيلا)، وأريحا (وادي الأردن)، وهجوشريم المستوى 5 (وادي الحولة). لا يُعطى حد إقليمي.",
+          "he": "סימונים לאתרים שדווח בהם על קבוצות ממצאים לודיות / יריחו IX: לוד (מישור החוף המרכזי), תלילות בטשי (השפלה), יריחו (בקעת הירדן) והגושרים שכבה 5 (עמק החולה). לא ניתן גבול אזורי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

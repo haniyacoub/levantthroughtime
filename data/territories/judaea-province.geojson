@@ -29,7 +29,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Former ethnarchy of Archelaus: Judaea, Samaria and Idumaea, with the governor at Caesarea."
+          "en": "Former ethnarchy of Archelaus: Judaea, Samaria and Idumaea, with the governor at Caesarea.",
+          "ar": "إثنارخية أرخيلاوس السابقة: اليهودية والسامرة وأدوميا، والحاكم في قيسارية.",
+          "he": "האתנרכיה לשעבר של ארכלאוס: יהודה, שומרון ואידומיאה, והמושל בקיסריה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -76,7 +82,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Agrippa I's former kingdom (minus areas assigned to Agrippa II from 53/54) reconstituted as a province."
+          "en": "Agrippa I's former kingdom (minus areas assigned to Agrippa II from 53/54) reconstituted as a province.",
+          "ar": "مملكة أغريبا الأول السابقة (من دون المناطق المخصصة لأغريبا الثاني منذ 53/54) أُعيد تشكيلها إقليمًا.",
+          "he": "ממלכתו לשעבר של אגריפס הראשון (פחות האזורים שהוקצו לאגריפס השני מ-53/54) הוקמה מחדש כמחוז.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

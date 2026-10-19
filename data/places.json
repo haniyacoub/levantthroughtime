@@ -5370,9 +5370,11 @@
       "id": "dor",
       "name": {
         "en": "Dor (Tel Dor)",
+        "ar": "دور (تل دور)",
         "he": "תל דור",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q1243563",
@@ -6431,7 +6433,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "One of the four holy cities of Judaism (with Jerusalem, Hebron and Safed), with the tombs of Maimonides, Yohanan ben Zakkai, Akiva and Rabbi Meir Ba'al ha-Nes."
+              "en": "One of the four holy cities of Judaism (with Jerusalem, Hebron and Safed), with the tombs of Maimonides, Yohanan ben Zakkai, Akiva and Rabbi Meir Ba'al ha-Nes.",
+              "ar": "إحدى المدن المقدسة الأربع في اليهودية (مع القدس والخليل وصفد)، وفيها قبور موسى بن ميمون ويوحنان بن زكاي وعقيبا والحاخام مئير بعل هنس.",
+              "he": "אחת מארבע הערים הקדושות ביהדות (עם ירושלים, חברון וצפת), ובה קברי הרמב״ם, רבן יוחנן בן זכאי, רבי עקיבא ורבי מאיר בעל הנס.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -6447,7 +6455,13 @@
           },
           "christian": {
             "significance": {
-              "en": "On the Sea of Galilee, scene of much of Jesus' ministry; Tiberias has a Latin chapel of St Peter and Greek Orthodox holy places."
+              "en": "On the Sea of Galilee, scene of much of Jesus' ministry; Tiberias has a Latin chapel of St Peter and Greek Orthodox holy places.",
+              "ar": "على بحيرة طبريا، مسرح جانب كبير من خدمة يسوع؛ وفي طبريا كنيسة لاتينية للقديس بطرس وأماكن مقدسة للروم الأرثوذكس.",
+              "he": "על ים כנרת, זירת חלק גדול מפעילותו של ישו; בטבריה יש קפלה לטינית של פטרוס הקדוש ומקומות קדושים של היוונים האורתודוקסים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -6853,7 +6867,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "One of the four holy cities of Judaism; in the 16th century the principal centre of Kabbalah, home of Isaac Luria and Joseph Karo, with old synagogues and tombs of holy men."
+              "en": "One of the four holy cities of Judaism; in the 16th century the principal centre of Kabbalah, home of Isaac Luria and Joseph Karo, with old synagogues and tombs of holy men.",
+              "ar": "إحدى المدن المقدسة الأربع في اليهودية؛ وكانت في القرن السادس عشر المركز الرئيسي للقبالاه، وفيها عاش إسحاق لوريا ويوسف كارو، وفيها كُنُس قديمة وقبور رجال مقدسين.",
+              "he": "אחת מארבע הערים הקדושות ביהדות; במאה ה-16 מרכז הקבלה העיקרי, בית האר״י ויוסף קארו, עם בתי כנסת עתיקים וקברי קדושים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -7242,9 +7262,11 @@
       "id": "tel-beersheba",
       "name": {
         "en": "Tel Be'er Sheva",
+        "ar": "تل بئر السبع",
         "he": "תל באר שבע",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q534596",
@@ -8008,7 +8030,13 @@
     {
       "id": "beth-shemesh",
       "name": {
-        "en": "Beth Shemesh (Tel Beit Shemesh)"
+        "en": "Beth Shemesh (Tel Beit Shemesh)",
+        "ar": "بيت شمس (تل بيت شمس)",
+        "he": "בית שמש (תל בית שמש)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "pleiades": "432223402",
       "kind": [
@@ -13086,7 +13114,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Jesus' second home and base of his Galilean ministry, where he called Peter, Andrew and Matthew; the remains of the synagogue and of the House of St Peter are in Franciscan custody, and the Greek Orthodox have a church and monastery."
+              "en": "Jesus' second home and base of his Galilean ministry, where he called Peter, Andrew and Matthew; the remains of the synagogue and of the House of St Peter are in Franciscan custody, and the Greek Orthodox have a church and monastery.",
+              "ar": "بيت يسوع الثاني ومركز خدمته في الجليل، حيث دعا بطرس وأندراوس ومتى؛ وبقايا الكنيس وبيت القديس بطرس في حراسة الفرنسيسكان، وللروم الأرثوذكس كنيسة ودير.",
+              "he": "ביתו השני של ישו ובסיס פעילותו בגליל, שבו קרא לפטרוס, לאנדראס ולמתי; שרידי בית הכנסת ובית פטרוס הקדוש בחזקת הפרנציסקנים, ולאורתודוקסים היוונים יש כנסייה ומנזר.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Franciscan)",
@@ -13383,9 +13417,11 @@
       "id": "en-gedi",
       "name": {
         "en": "En Gedi",
+        "ar": "عين جدي",
         "he": "עין גדי",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q25489001",
@@ -17168,9 +17204,11 @@
       "id": "magdala",
       "name": {
         "en": "Magdala (Taricheae)",
+        "ar": "المجدل (مجدلا / طريخيا)",
         "he": "מגדלא",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q4880851",
@@ -18553,8 +18591,10 @@
       "name": {
         "en": "Beidha",
         "ar": "البيضا",
+        "he": "ביידה",
         "translation_status": {
-          "ar": "machine-draft"
+          "ar": "machine-draft",
+          "he": "machine-draft"
         }
       },
       "wikidata": "Q2677032",
@@ -18710,9 +18750,11 @@
       "id": "yiftahel",
       "name": {
         "en": "Yiftahel",
+        "ar": "يفتحئيل",
         "he": "יפתחאל",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q4228288",
@@ -18863,7 +18905,13 @@
     {
       "id": "teleilat-ghassul",
       "name": {
-        "en": "Teleilat Ghassul"
+        "en": "Teleilat Ghassul",
+        "ar": "تليلات الغسول",
+        "he": "תלילאת א-ע׳סול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "wikidata": "Q15131946",
       "pleiades": "509457605",
@@ -18916,7 +18964,13 @@
     {
       "id": "shiqmim",
       "name": {
-        "en": "Shiqmim"
+        "en": "Shiqmim",
+        "ar": "شيقميم",
+        "he": "שקמים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "pleiades": "553543527",
       "kind": [
@@ -18963,9 +19017,11 @@
       "id": "nahal-mishmar",
       "name": {
         "en": "Nahal Mishmar (Cave of the Treasure)",
+        "ar": "نحال مشمار (كهف الكنز)",
         "he": "מטמון נחל משמר",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q12409048",
@@ -19039,9 +19095,11 @@
       "id": "atlit-yam",
       "name": {
         "en": "Atlit-Yam",
+        "ar": "عتليت يام",
         "he": "הכפר הנאוליתי בעתלית-ים",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q2896085",
@@ -19475,7 +19533,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Judaism's holiest site: the site of the First and Second Temples, identified with Mount Moriah; Jewish tradition holds that the Foundation Stone on the mount is where the world was created and the Temple built."
+              "en": "Judaism's holiest site: the site of the First and Second Temples, identified with Mount Moriah; Jewish tradition holds that the Foundation Stone on the mount is where the world was created and the Temple built.",
+              "ar": "أقدس موقع في اليهودية: موقع الهيكلين الأول والثاني، ويُعرَّف بجبل المريا؛ وتعتقد التقاليد اليهودية أن حجر الأساس على الجبل هو المكان الذي خُلق فيه العالم وبُني فيه الهيكل.",
+              "he": "האתר הקדוש ביותר ביהדות: אתר בית המקדש הראשון והשני, המזוהה עם הר המוריה; המסורת היהודית גורסת שאבן השתייה שבהר היא המקום שבו נברא העולם ונבנה בית המקדש.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19491,7 +19555,13 @@
           },
           "christian": {
             "significance": {
-              "en": "Significant in the New Testament as the Temple precinct that Jesus visited and whose destruction he foretold; it was briefly a Christian pilgrimage site under the Crusaders in the 12th century."
+              "en": "Significant in the New Testament as the Temple precinct that Jesus visited and whose destruction he foretold; it was briefly a Christian pilgrimage site under the Crusaders in the 12th century.",
+              "ar": "مهم في العهد الجديد بوصفه ساحة الهيكل التي زارها يسوع وتنبأ بخرابها؛ وكان لفترة وجيزة موقع حج مسيحي في عهد الصليبيين في القرن الثاني عشر.",
+              "he": "חשוב בברית החדשה כחצר בית המקדש שישו ביקר בה וניבא את חורבנה; הוא שימש זמן קצר אתר עלייה לרגל נוצרי בימי הצלבנים במאה ה-12.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19507,7 +19577,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Known as al-Haram al-Sharif or al-Aqsa: in Muslim belief the destination of the Prophet Muhammad's Night Journey (Qur'an 17:1) and the place of his ascent to heaven; it was the first qibla (direction of prayer), and Jerusalem ranks after Mecca and Medina."
+              "en": "Known as al-Haram al-Sharif or al-Aqsa: in Muslim belief the destination of the Prophet Muhammad's Night Journey (Qur'an 17:1) and the place of his ascent to heaven; it was the first qibla (direction of prayer), and Jerusalem ranks after Mecca and Medina.",
+              "ar": "يُعرف بالحرم الشريف أو الأقصى: وهو في المعتقد الإسلامي وجهة إسراء النبي محمد (القرآن 17:1) ومكان معراجه إلى السماء؛ وكان القبلة الأولى، وتأتي القدس في المرتبة بعد مكة والمدينة.",
+              "he": "ידוע כאל-חרם א-שריף או אל-אקצא: באמונה המוסלמית יעד מסע הלילה של הנביא מוחמד (הקוראן 17:1) ומקום עלייתו לשמים; הוא היה הקיבלה הראשונה (כיוון התפילה), וירושלים נחשבת אחרי מכה ומדינה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19530,7 +19606,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Since 1967 Israel has held overall and security control and applies its law in East Jerusalem, while the Jordanian-run Jerusalem Islamic Waqf administers the compound; under the post-1967 'status quo' Muslims pray there and non-Muslims may visit but not pray. Jordan's special role is recognised in Article 9 of the 1994 Israel-Jordan treaty and was reaffirmed in a 2013 Jordanian-Palestinian agreement. Israeli and Arab sources read these arrangements differently."
+          "en": "Since 1967 Israel has held overall and security control and applies its law in East Jerusalem, while the Jordanian-run Jerusalem Islamic Waqf administers the compound; under the post-1967 'status quo' Muslims pray there and non-Muslims may visit but not pray. Jordan's special role is recognised in Article 9 of the 1994 Israel-Jordan treaty and was reaffirmed in a 2013 Jordanian-Palestinian agreement. Israeli and Arab sources read these arrangements differently.",
+          "ar": "منذ 1967 تحتفظ إسرائيل بالسيطرة العامة والأمنية وتطبق قانونها في القدس الشرقية، بينما يدير الوقف الإسلامي في القدس، الذي يديره الأردن، الحرم؛ وبموجب «الوضع القائم» بعد 1967 يصلي المسلمون هناك ويمكن لغير المسلمين الزيارة دون الصلاة. ويُعترف بدور الأردن الخاص في المادة 9 من معاهدة 1994 بين إسرائيل والأردن، وقد أُعيد تأكيده في اتفاق أردني-فلسطيني عام 2013. وتقرأ المصادر الإسرائيلية والعربية هذه الترتيبات قراءة مختلفة.",
+          "he": "מאז 1967 ישראל מחזיקה בשליטה כוללת וביטחונית ומחילה את החוק שלה במזרח ירושלים, ואילו הוואקף האסלאמי בירושלים בניהול ירדני מנהל את המתחם; לפי ה'סטטוס קוו' שלאחר 1967 מוסלמים מתפללים שם ולא מוסלמים רשאים לבקר אך לא להתפלל. תפקידה המיוחד של ירדן מוכר בסעיף 9 של הסכם השלום בין ישראל לירדן מ-1994 ואושר מחדש בהסכם ירדני-פלסטיני ב-2013. מקורות ישראליים וערביים קוראים את הסדרים אלה באופן שונה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -19689,7 +19771,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "Shrine built over the rock from which, in Muslim belief, the Prophet Muhammad was taken up to heaven (the Mi'raj); it is the oldest extant Islamic monument."
+              "en": "Shrine built over the rock from which, in Muslim belief, the Prophet Muhammad was taken up to heaven (the Mi'raj); it is the oldest extant Islamic monument.",
+              "ar": "ضريح بُني فوق الصخرة التي عُرج بالنبي محمد منها إلى السماء (المعراج) في المعتقد الإسلامي؛ وهو أقدم أثر إسلامي قائم.",
+              "he": "מקדש שנבנה מעל הסלע שממנו עלה הנביא מוחמד לשמים (המִעראג׳) לפי האמונה המוסלמית; זהו המונומנט האסלאמי העתיק ביותר שהשתמר.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19705,7 +19793,13 @@
           },
           "jewish": {
             "significance": {
-              "en": "The rock it covers is usually identified with the Foundation Stone, on which, in Jewish belief, the world was created and the Temple was built."
+              "en": "The rock it covers is usually identified with the Foundation Stone, on which, in Jewish belief, the world was created and the Temple was built.",
+              "ar": "تُعرَّف الصخرة التي يغطيها عادة بحجر الأساس، الذي خُلق عليه العالم وبُني عليه الهيكل في المعتقد اليهودي.",
+              "he": "הסלע שהוא מכסה מזוהה בדרך כלל עם אבן השתייה, שעליה נברא העולם ונבנה בית המקדש לפי האמונה היהודית.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19716,7 +19810,13 @@
           },
           "christian": {
             "significance": {
-              "en": "UNESCO describes the site as recognised by all three religions as the place of Abraham's sacrifice; Christian worship took place on the Temple Mount during the Crusader period."
+              "en": "UNESCO describes the site as recognised by all three religions as the place of Abraham's sacrifice; Christian worship took place on the Temple Mount during the Crusader period.",
+              "ar": "تصف اليونسكو الموقع بأنه معترف به من الديانات الثلاث بوصفه مكان تضحية إبراهيم؛ وقد جرت الصلاة المسيحية على جبل الهيكل في العهد الصليبي.",
+              "he": "אונסק״ו מתארת את האתר כמוכר בשלוש הדתות כמקום עקדת אברהם; תפילה נוצרית נערכה בהר הבית בתקופה הצלבנית.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19832,7 +19932,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "Stands at the terminal point of the Prophet Muhammad's Night Journey (Isra'), where in Muslim belief he led Abraham, Moses, Jesus and other prophets in prayer; the name al-Aqsa ('the farthest place of worship') comes from Qur'an 17:1."
+              "en": "Stands at the terminal point of the Prophet Muhammad's Night Journey (Isra'), where in Muslim belief he led Abraham, Moses, Jesus and other prophets in prayer; the name al-Aqsa ('the farthest place of worship') comes from Qur'an 17:1.",
+              "ar": "يقع عند نقطة نهاية إسراء النبي محمد، حيث أمّ فيها في المعتقد الإسلامي إبراهيم وموسى وعيسى وغيرهم من الأنبياء في الصلاة؛ واسم الأقصى («المسجد الأبعد») مأخوذ من القرآن 17:1.",
+              "he": "ניצב בנקודת סיום מסע הלילה (אל-אסרא) של הנביא מוחמד, שבה הוביל לפי האמונה המוסלמית בתפילה את אברהם, משה, ישו ונביאים אחרים; השם אל-אקצא ('המקום הרחוק ביותר לפולחן') בא מהקוראן 17:1.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19983,7 +20089,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "A place of Jewish prayer and pilgrimage as the surviving retaining wall of the Temple Mount; Jews lament the Temple's destruction there, following the rabbinic belief that the divine Presence never departs from the Western Wall."
+              "en": "A place of Jewish prayer and pilgrimage as the surviving retaining wall of the Temple Mount; Jews lament the Temple's destruction there, following the rabbinic belief that the divine Presence never departs from the Western Wall.",
+              "ar": "مكان صلاة وحج لليهود بوصفه جدار الاستناد الباقي من جبل الهيكل؛ ويبكي اليهود هناك على خراب الهيكل، تبعًا للاعتقاد الحاخامي بأن الحضور الإلهي لا يفارق الحائط الغربي أبدًا.",
+              "he": "מקום תפילה ועלייה לרגל ליהודים כקיר התמך ששרד של הר הבית; יהודים מקוננים שם על חורבן בית המקדש, לפי אמונת חז״ל שהשכינה אינה זזה לעולם מהכותל המערבי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -19999,7 +20111,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Part of the western wall of al-Haram al-Sharif, where Muslim tradition holds that the Prophet Muhammad tethered his steed al-Buraq during the Night Journey; the wall and adjacent area are Islamic waqf property."
+              "en": "Part of the western wall of al-Haram al-Sharif, where Muslim tradition holds that the Prophet Muhammad tethered his steed al-Buraq during the Night Journey; the wall and adjacent area are Islamic waqf property.",
+              "ar": "جزء من الجدار الغربي للحرم الشريف، حيث تقول التقاليد الإسلامية إن النبي محمدًا ربط دابته البراق أثناء الإسراء؛ والجدار والمنطقة المجاورة ملك وقف إسلامي.",
+              "he": "חלק מהחומה המערבית של אל-חרם א-שריף, שבו המסורת המוסלמית גורסת שהנביא מוחמד קשר את סוסו אל-בוראק במהלך מסע הלילה; החומה והאזור הסמוך הם רכוש ואקף אסלאמי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20018,7 +20136,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Under the Ottoman and Mandate status quo the wall and pavement were Muslim waqf property with a Jewish right of access; the 1930 League-approved commission confirmed Muslim ownership and free Jewish access for devotions. Israelis had no access 1948-67. After June 1967, under Israeli control of the Old City, the adjoining Mughrabi (Moroccan) Quarter, a waqf, was bulldozed and its inhabitants expelled, which Arab sources describe as illegal."
+          "en": "Under the Ottoman and Mandate status quo the wall and pavement were Muslim waqf property with a Jewish right of access; the 1930 League-approved commission confirmed Muslim ownership and free Jewish access for devotions. Israelis had no access 1948-67. After June 1967, under Israeli control of the Old City, the adjoining Mughrabi (Moroccan) Quarter, a waqf, was bulldozed and its inhabitants expelled, which Arab sources describe as illegal.",
+          "ar": "في ظل الوضع القائم العثماني والانتدابي كان الحائط والرصيف ملك وقف إسلامي مع حق وصول لليهود؛ وأكدت لجنة 1930 التي أقرتها عصبة الأمم الملكية الإسلامية وحرية وصول اليهود للعبادة. ولم يكن للإسرائيليين وصول بين 1948 و1967. وبعد حزيران/يونيو 1967، في ظل السيطرة الإسرائيلية على البلدة القديمة، جُرف حي المغاربة المجاور، وهو وقف، وطُرد سكانه، وتصف المصادر العربية ذلك بأنه غير قانوني.",
+          "he": "לפי הסטטוס קוו העות׳מאני והמנדטורי היו הקיר והמרצפת רכוש ואקף מוסלמי עם זכות גישה ליהודים; ועדת 1930 שאושרה על ידי חבר הלאומים אישרה בעלות מוסלמית וגישה חופשית ליהודים לצורכי תפילה. לישראלים לא הייתה גישה בשנים 1948–67. לאחר יוני 1967, בשליטה ישראלית בעיר העתיקה, רובע המוגרבים (המרוקאים) הסמוך, שהיה ואקף, נהרס בדחפורים ותושביו גורשו, ומקורות ערביים מתארים זאת כבלתי חוקי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -20148,7 +20272,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Built over the sites venerated as Jesus' crucifixion (Calvary/Golgotha), burial and resurrection; the rotunda contains the tomb (Edicule). Its parts are shared under the Status Quo by the Greek Orthodox, Latin (Franciscan Custody) and Armenian churches, with Coptic, Syriac Orthodox and Ethiopian communities holding chapels or rights of worship."
+              "en": "Built over the sites venerated as Jesus' crucifixion (Calvary/Golgotha), burial and resurrection; the rotunda contains the tomb (Edicule). Its parts are shared under the Status Quo by the Greek Orthodox, Latin (Franciscan Custody) and Armenian churches, with Coptic, Syriac Orthodox and Ethiopian communities holding chapels or rights of worship.",
+              "ar": "بُنيت فوق المواقع المبجَّلة بوصفها مكان صلب يسوع (الجلجثة) ودفنه وقيامته؛ وتحتوي القبة على القبر (الأديكول). وتتقاسم أجزاءها بموجب الوضع القائم كنائس الروم الأرثوذكس واللاتين (حراسة الفرنسيسكان) والأرمن، ولطوائف قبطية وسريانية أرثوذكسية وإثيوبية كنائس صغيرة أو حقوق عبادة.",
+              "he": "נבנתה מעל האתרים המקודשים כמקום צליבתו של ישו (גולגותא), קבורתו ותחייתו; בגלילה (רוטונדה) נמצא הקבר (האדיקולה). חלקיה מתחלקים לפי הסטטוס קוו בין הכנסיות היוונית-אורתודוקסית, הלטינית (משמורת הארץ הקדושה) והארמנית, וקהילות קופטיות, סורית-אורתודוקסיות ואתיופיות מחזיקות בקפלות או בזכויות פולחן.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Greek Orthodox",
@@ -20185,7 +20315,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Governed by the Status Quo of the Holy Places (Ottoman decree of 1757, reaffirmed 1852 and applied under the British Mandate): the Greek Orthodox, Latin and Armenian churches share possession, several parts are disputed between rites, and the entrance keys have traditionally been held by Muslim families."
+          "en": "Governed by the Status Quo of the Holy Places (Ottoman decree of 1757, reaffirmed 1852 and applied under the British Mandate): the Greek Orthodox, Latin and Armenian churches share possession, several parts are disputed between rites, and the entrance keys have traditionally been held by Muslim families.",
+          "ar": "يحكمها الوضع القائم في الأماكن المقدسة (مرسوم عثماني عام 1757، أُعيد تأكيده عام 1852 وطُبّق في ظل الانتداب البريطاني): تتقاسم الحيازة كنائس الروم الأرثوذكس واللاتين والأرمن، وتُتنازع عدة أجزاء بين الطوائف، وظلت مفاتيح المدخل بحوزة عائلات مسلمة تقليديًا.",
+          "he": "מוסדר לפי הסטטוס קוו של המקומות הקדושים (פירמן עות׳מאני משנת 1757, שאושר מחדש ב-1852 ויושם בתקופת המנדט הבריטי): הכנסיות היוונית-אורתודוקסית, הלטינית והארמנית חולקות את החזקה, כמה חלקים שנויים במחלוקת בין העדות, ומפתחות הכניסה הוחזקו מסורתית בידי משפחות מוסלמיות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -20305,7 +20441,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "According to ancient Jewish tradition the messianic era will begin on the Mount of Olives, so its slopes have long been Judaism's most sacred burial ground."
+              "en": "According to ancient Jewish tradition the messianic era will begin on the Mount of Olives, so its slopes have long been Judaism's most sacred burial ground.",
+              "ar": "وفق التقليد اليهودي القديم سيبدأ العصر المسيحاني على جبل الزيتون، ولذلك ظلت سفوحه منذ زمن طويل أقدس مقبرة في اليهودية.",
+              "he": "לפי המסורת היהודית העתיקה תתחיל תקופת המשיח בהר הזיתים, ולכן מדרונותיו הם זה זמן רב בית הקברות הקדוש ביותר ביהדות.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20321,7 +20463,13 @@
           },
           "christian": {
             "significance": {
-              "en": "Associated in the Gospels with Jesus' entry into Jerusalem, the Olivet Discourse, Gethsemane and the Ascension; churches of several denominations stand there (Latin Dominus Flevit, Greek Orthodox Viri Galilaei, Russian Orthodox and others)."
+              "en": "Associated in the Gospels with Jesus' entry into Jerusalem, the Olivet Discourse, Gethsemane and the Ascension; churches of several denominations stand there (Latin Dominus Flevit, Greek Orthodox Viri Galilaei, Russian Orthodox and others).",
+              "ar": "ارتبط في الأناجيل بدخول يسوع إلى القدس وخطبة جبل الزيتون وجثسيماني والصعود؛ وتقوم فيه كنائس لطوائف عدة (دومينوس فليفيت اللاتينية، وفيري غاليلاي للروم الأرثوذكس، والكنيسة الروسية الأرثوذكسية وغيرها).",
+              "he": "קשור באוונגליונים לכניסתו של ישו לירושלים, לנאום הר הזיתים, לגת שמני ולעלייה השמימה; עומדות בו כנסיות של כמה עדות (דומינוס פלביט הלטינית, ויר גליליי היוונית-אורתודוקסית, הרוסית-אורתודוקסית ואחרות).",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Latin)",
@@ -20345,7 +20493,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Muslims as well as Christians venerate the traditional spot of Jesus' ascension, enclosed in a Muslim-owned shrine (the Mosque/Chapel of the Ascension)."
+              "en": "Muslims as well as Christians venerate the traditional spot of Jesus' ascension, enclosed in a Muslim-owned shrine (the Mosque/Chapel of the Ascension).",
+              "ar": "يبجّل المسلمون كما المسيحيون المكان التقليدي لصعود يسوع، وهو محاط بضريح يملكه مسلمون (مسجد/كنيسة الصعود).",
+              "he": "מוסלמים וגם נוצרים מכבדים את המקום המסורתי של עליית ישו השמימה, הנמצא במקדש בבעלות מוסלמית (מסגד/קפלת העלייה).",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20436,7 +20590,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Built over the rock venerated as the spot of Christ's Ascension, bearing a footprint; venerated by all Christian communities, with Latin, Greek Orthodox, Armenian, Coptic and Syriac services on their Ascension days."
+              "en": "Built over the rock venerated as the spot of Christ's Ascension, bearing a footprint; venerated by all Christian communities, with Latin, Greek Orthodox, Armenian, Coptic and Syriac services on their Ascension days.",
+              "ar": "بُنيت فوق الصخرة المبجَّلة بوصفها موضع صعود المسيح، وعليها أثر قدم؛ وتبجّلها جميع الطوائف المسيحية، مع قداسات لاتينية وروم أرثوذكسية وأرمنية وقبطية وسريانية في أيام الصعود الخاصة بها.",
+              "he": "נבנתה מעל הסלע המקודש כמקום עלייתו של ישו, ועליו טביעת כף רגל; מקודשת לכל העדות הנוצריות, עם תפילות לטיניות, יווניות-אורתודוקסיות, ארמניות, קופטיות וסוריות בימי העלייה שלהן.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Latin)",
@@ -20455,7 +20615,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Owned for centuries by Muslims as part of a waqf and listed as a Muslim holy place; Muslims too revere the place of Jesus' ascension."
+              "en": "Owned for centuries by Muslims as part of a waqf and listed as a Muslim holy place; Muslims too revere the place of Jesus' ascension.",
+              "ar": "يملكها المسلمون منذ قرون ضمن وقف وهي مدرجة مكانًا إسلاميًا مقدسًا؛ ويبجّل المسلمون أيضًا موضع صعود عيسى.",
+              "he": "בבעלות מוסלמים מזה מאות שנים כחלק מוואקף ורשומה כמקום קדוש מוסלמי; גם מוסלמים מכבדים את מקום עלייתו של ישו.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20473,7 +20639,13 @@
       },
       "custody": {
         "summary": {
-          "en": "One of the nine Holy Places under the Status Quo: Muslim-owned (attached to a takiyya, not used as a mosque in 1949) while Christian communities hold services there."
+          "en": "One of the nine Holy Places under the Status Quo: Muslim-owned (attached to a takiyya, not used as a mosque in 1949) while Christian communities hold services there.",
+          "ar": "أحد الأماكن المقدسة التسعة بموجب الوضع القائم: ملك إسلامي (ملحق بتكية، ولم يُستعمل مسجدًا عام 1949) بينما تقيم الطوائف المسيحية قداسات فيه.",
+          "he": "אחד מתשעת המקומות הקדושים לפי הסטטוס קוו: בבעלות מוסלמית (צמוד לתכייה, ולא שימש מסגד ב-1949) בעוד שעדות נוצריות מקיימות בו תפילות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -20561,7 +20733,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "UNESCO lists the Old City as a holy city for Judaism, Christianity and Islam; for Judaism it contains the Western Wall and the Temple Mount."
+              "en": "UNESCO lists the Old City as a holy city for Judaism, Christianity and Islam; for Judaism it contains the Western Wall and the Temple Mount.",
+              "ar": "تدرج اليونسكو البلدة القديمة مدينةً مقدسة لليهودية والمسيحية والإسلام؛ وهي تضم لليهودية الحائط الغربي وجبل الهيكل.",
+              "he": "אונסק״ו מכלילה את העיר העתיקה כעיר קדושה ליהדות, לנצרות ולאסלאם; ליהדות היא כוללת את הכותל המערבי ואת הר הבית.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20573,7 +20751,13 @@
           },
           "christian": {
             "significance": {
-              "en": "Holy to Christianity, above all for the Church of the Holy Sepulchre, which houses the tomb of Christ."
+              "en": "Holy to Christianity, above all for the Church of the Holy Sepulchre, which houses the tomb of Christ.",
+              "ar": "مقدسة للمسيحية، وأولها لكنيسة القيامة التي تضم قبر المسيح.",
+              "he": "קדושה לנצרות, ובראש ובראשונה בשל כנסיית הקבר, שבה קברו של ישו.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20585,7 +20769,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Holy to Islam, above all for al-Haram al-Sharif with the Dome of the Rock and al-Aqsa Mosque."
+              "en": "Holy to Islam, above all for al-Haram al-Sharif with the Dome of the Rock and al-Aqsa Mosque.",
+              "ar": "مقدسة للإسلام، وأولها للحرم الشريف بقبة الصخرة والمسجد الأقصى.",
+              "he": "קדושה לאסלאם, ובראש ובראשונה בשל אל-חרם א-שריף עם כיפת הסלע ומסגד אל-אקצא.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20690,7 +20880,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Built over the cave identified by Christian tradition since the 2nd century as the birthplace of Jesus; it is shared under the Status Quo by the Greek Orthodox Church, the (Franciscan) Custody of the Holy Land and the Armenian Church, with Coptic and Syriac Orthodox rights of worship."
+              "en": "Built over the cave identified by Christian tradition since the 2nd century as the birthplace of Jesus; it is shared under the Status Quo by the Greek Orthodox Church, the (Franciscan) Custody of the Holy Land and the Armenian Church, with Coptic and Syriac Orthodox rights of worship.",
+              "ar": "بُنيت فوق المغارة التي تحددها التقاليد المسيحية منذ القرن الثاني مكانَ ولادة يسوع؛ وتتقاسمها بموجب الوضع القائم كنيسة الروم الأرثوذكس وحراسة الأرض المقدسة (الفرنسيسكان) والكنيسة الأرمنية، مع حقوق عبادة للأقباط والسريان الأرثوذكس.",
+              "he": "נבנתה מעל המערה שהמסורת הנוצרית מזהה מאז המאה ה-2 כמקום לידתו של ישו; היא משותפת לפי הסטטוס קוו לכנסייה היוונית-אורתודוקסית, למשמורת הארץ הקדושה (הפרנציסקנים) ולכנסייה הארמנית, עם זכויות פולחן לקופטים ולסורים האורתודוקסים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Greek Orthodox",
@@ -20721,7 +20917,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Managed under the Status Quo of the Holy Places by the Greek Orthodox Patriarchate, the Custody of the Holy Land and the Armenian Patriarchate; UNESCO notes an advisory committee formed by the Palestinian President."
+          "en": "Managed under the Status Quo of the Holy Places by the Greek Orthodox Patriarchate, the Custody of the Holy Land and the Armenian Patriarchate; UNESCO notes an advisory committee formed by the Palestinian President.",
+          "ar": "يديرها بموجب الوضع القائم في الأماكن المقدسة بطريركية الروم الأرثوذكس وحراسة الأرض المقدسة وبطريركية الأرمن؛ وتشير اليونسكو إلى لجنة استشارية شكّلها الرئيس الفلسطيني.",
+          "he": "מנוהלת לפי הסטטוס קוו של המקומות הקדושים בידי הפטריארכיה היוונית-אורתודוקסית, משמורת הארץ הקדושה והפטריארכיה הארמנית; אונסק״ו מציינת ועדה מייעצת שהקים נשיא הפלסטינים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -20851,7 +21053,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Venerated as the burial place of the matriarch Rachel, who died giving birth to Benjamin; a Jewish holy place and pilgrimage site since at least the Middle Ages."
+              "en": "Venerated as the burial place of the matriarch Rachel, who died giving birth to Benjamin; a Jewish holy place and pilgrimage site since at least the Middle Ages.",
+              "ar": "تُبجَّل مكان دفن الأم الكبرى راحيل التي ماتت أثناء ولادة بنيامين؛ مكان مقدس وموقع حج لليهود منذ العصور الوسطى على الأقل.",
+              "he": "מכובד כמקום קבורתה של האם רחל, שמתה בלדתה את בנימין; מקום קדוש ואתר עלייה לרגל ליהודים לפחות מאז ימי הביניים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20868,7 +21076,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Listed among Muslim holy places: medieval Muslim geographers recorded Rachel's tomb, and it stands in a Muslim cemetery for which it served as a place of prayer."
+              "en": "Listed among Muslim holy places: medieval Muslim geographers recorded Rachel's tomb, and it stands in a Muslim cemetery for which it served as a place of prayer.",
+              "ar": "مدرج ضمن الأماكن الإسلامية المقدسة: فقد سجّل الجغرافيون المسلمون في العصور الوسطى قبر راحيل، وهو يقع في مقبرة إسلامية كان مكانَ صلاة فيها.",
+              "he": "רשום בין המקומות הקדושים המוסלמיים: גאוגרפים מוסלמים מימי הביניים תיעדו את קבר רחל, והוא ניצב בבית קברות מוסלמי שבו שימש מקום תפילה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -20891,7 +21105,13 @@
       },
       "custody": {
         "summary": {
-          "en": "A Status Quo site under the Mandate, with ownership claimed by both Jews and Muslims. In February 2010 Israel added it (with the Cave of the Patriarchs) to a national heritage list, drawing UN and US criticism; in late 2010 Israel reduced cooperation with UNESCO after the body classified the site as a mosque."
+          "en": "A Status Quo site under the Mandate, with ownership claimed by both Jews and Muslims. In February 2010 Israel added it (with the Cave of the Patriarchs) to a national heritage list, drawing UN and US criticism; in late 2010 Israel reduced cooperation with UNESCO after the body classified the site as a mosque.",
+          "ar": "موقع خاضع للوضع القائم في عهد الانتداب، ويدّعي ملكيته كل من اليهود والمسلمين. وفي شباط/فبراير 2010 أضافته إسرائيل (مع مغارة الآباء) إلى قائمة تراث وطني، مما أثار انتقادات من الأمم المتحدة والولايات المتحدة؛ وفي أواخر 2010 قلّصت إسرائيل تعاونها مع اليونسكو بعد أن صنّفت المنظمة الموقع مسجدًا.",
+          "he": "אתר סטטוס קוו בתקופת המנדט, כשהן יהודים והן מוסלמים טוענים לבעלות. בפברואר 2010 הוסיפה ישראל אותו (עם מערת המכפלה) לרשימת מורשת לאומית, מה שעורר ביקורת מצד האו״ם וארצות הברית; בסוף 2010 צמצמה ישראל את שיתוף הפעולה עם אונסק״ו לאחר שהארגון סיווג את האתר כמסגד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -21070,7 +21290,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "The Cave of Machpelah, by tradition the burial place of Abraham and the patriarchs and matriarchs of his line; listed among the principal Jewish holy places."
+              "en": "The Cave of Machpelah, by tradition the burial place of Abraham and the patriarchs and matriarchs of his line; listed among the principal Jewish holy places.",
+              "ar": "مغارة المكفيلة، وهي بحسب التقليد مكان دفن إبراهيم وآباء سلالته وأمهاتها؛ مدرجة ضمن أهم الأماكن اليهودية المقدسة.",
+              "he": "מערת המכפלה, לפי המסורת מקום קבורתם של אברהם ושל אבות השושלת ואמהותיה; רשומה בין המקומות הקדושים העיקריים ליהודים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21087,7 +21313,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Al-Haram al-Ibrahimi, a mosque over the tombs of the prophet Ibrahim (Abraham), Ishaq and Ya'qub and their wives; medieval Muslim geographers describe Friday prayer there, and the town grew around the sanctuary and its hospice (takiyya) for pilgrims and the poor."
+              "en": "Al-Haram al-Ibrahimi, a mosque over the tombs of the prophet Ibrahim (Abraham), Ishaq and Ya'qub and their wives; medieval Muslim geographers describe Friday prayer there, and the town grew around the sanctuary and its hospice (takiyya) for pilgrims and the poor.",
+              "ar": "الحرم الإبراهيمي، مسجد فوق قبور النبي إبراهيم وإسحاق ويعقوب وزوجاتهم؛ ويصف الجغرافيون المسلمون في العصور الوسطى صلاة الجمعة فيه، ونمت البلدة حول الحرم وتكيته للحجاج والفقراء.",
+              "he": "אל-חרם אל-איבראהימי, מסגד מעל קברי הנביא איבראהים (אברהם), אסחאק ויעקוב ונשותיהם; גאוגרפים מוסלמים מימי הביניים מתארים תפילת יום שישי שם, והעיר צמחה סביב המקדש ותכייתו לעולי רגל ולעניים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21104,7 +21336,13 @@
           },
           "christian": {
             "significance": {
-              "en": "UNESCO describes the burial site of Abraham as venerated by all three monotheistic religions, including Christianity."
+              "en": "UNESCO describes the burial site of Abraham as venerated by all three monotheistic religions, including Christianity.",
+              "ar": "تصف اليونسكو موقع دفن إبراهيم بأنه مبجَّل من الديانات التوحيدية الثلاث، ومنها المسيحية.",
+              "he": "אונסק״ו מתארת את מקום קבורת אברהם כמקודש לשלוש הדתות המונותאיסטיות, כולל הנצרות.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21118,7 +21356,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Inscribed by UNESCO in 2017 as part of Hebron/Al-Khalil Old Town (State of Palestine) and placed on the List of World Heritage in Danger; UNESCO's text cites activities by 'Israel, the Occupying power' in the Old City. In 2010 Israel added the site to a national heritage list, which the UN and the US criticised."
+          "en": "Inscribed by UNESCO in 2017 as part of Hebron/Al-Khalil Old Town (State of Palestine) and placed on the List of World Heritage in Danger; UNESCO's text cites activities by 'Israel, the Occupying power' in the Old City. In 2010 Israel added the site to a national heritage list, which the UN and the US criticised.",
+          "ar": "أُدرج في اليونسكو عام 2017 ضمن البلدة القديمة للخليل/الخليل (دولة فلسطين) ووُضع على قائمة التراث العالمي المعرّض للخطر؛ ويشير نص اليونسكو إلى أنشطة «إسرائيل، القوة القائمة بالاحتلال» في البلدة القديمة. وفي 2010 أضافت إسرائيل الموقع إلى قائمة تراث وطني، وانتقدت ذلك الأمم المتحدة والولايات المتحدة.",
+          "he": "נרשם באונסק״ו ב-2017 כחלק מהעיר העתיקה חברון/אל-ח׳ליל (מדינת פלסטין) והוכנס לרשימת המורשת העולמית בסכנה; נוסח אונסק״ו מציין פעילות של 'ישראל, המעצמה הכובשת' בעיר העתיקה. ב-2010 הוסיפה ישראל את האתר לרשימת מורשת לאומית, והאו״ם וארצות הברית מתחו על כך ביקורת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -21261,7 +21505,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Venerated in Jewish tradition as the burial place of the biblical Joseph at Shechem; Israeli media and officials describe it as one of the holiest Jewish sites."
+              "en": "Venerated in Jewish tradition as the burial place of the biblical Joseph at Shechem; Israeli media and officials describe it as one of the holiest Jewish sites.",
+              "ar": "يُبجَّل في التقليد اليهودي بوصفه مكان دفن يوسف التوراتي في شكيم؛ وتصفه وسائل الإعلام والمسؤولون الإسرائيليون بأنه أحد أقدس المواقع اليهودية.",
+              "he": "מכובד במסורת היהודית כמקום קבורתו של יוסף המקראי בשכם; התקשורת והגורמים הרשמיים בישראל מתארים אותו כאחד האתרים הקדושים ביותר ליהודים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21277,7 +21527,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Listed among Muslim holy places as the tomb of the prophet Yusuf; medieval Muslim writers (Yaqut, 'Ali of Herat) recorded Joseph's burial at Balata near Nablus."
+              "en": "Listed among Muslim holy places as the tomb of the prophet Yusuf; medieval Muslim writers (Yaqut, 'Ali of Herat) recorded Joseph's burial at Balata near Nablus.",
+              "ar": "مدرج ضمن الأماكن الإسلامية المقدسة بوصفه قبر النبي يوسف؛ وسجّل كتّاب مسلمون من العصور الوسطى (ياقوت، وعلي الهروي) دفن يوسف في بلاطة قرب نابلس.",
+              "he": "רשום בין המקומות הקדושים המוסלמיים כקברו של הנביא יוסוף; כותבים מוסלמים מימי הביניים (יאקות, עלי אל-הרוי) תיעדו את קבורת יוסף בבלאטה ליד שכם.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21300,7 +21556,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Located in Nablus in Palestinian-administered territory; Israeli sources describe it as under Palestinian Authority guardianship; it was vandalised in April 2022, which Israeli officials condemned."
+          "en": "Located in Nablus in Palestinian-administered territory; Israeli sources describe it as under Palestinian Authority guardianship; it was vandalised in April 2022, which Israeli officials condemned.",
+          "ar": "يقع في نابلس في منطقة تديرها السلطة الفلسطينية؛ وتصفه مصادر إسرائيلية بأنه تحت وصاية السلطة الفلسطينية؛ وقد خُرِّب في نيسان/أبريل 2022، وأدان ذلك مسؤولون إسرائيليون.",
+          "he": "ממוקם בשכם בשטח בניהול פלסטיני; מקורות ישראליים מתארים אותו כנתון לשמירת הרשות הפלסטינית; הוא חולל באפריל 2022, ופקידים ישראליים גינו זאת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -21408,7 +21670,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Revered as the well where Jesus spoke with the Samaritan woman (John 4); the Greek Orthodox Church holds the church and monastery built over it."
+              "en": "Revered as the well where Jesus spoke with the Samaritan woman (John 4); the Greek Orthodox Church holds the church and monastery built over it.",
+              "ar": "يُبجَّل بوصفه البئر التي تحدث عندها يسوع مع المرأة السامرية (يوحنا 4)؛ وتملك كنيسة الروم الأرثوذكس الكنيسة والدير المبنيين فوقها.",
+              "he": "מכובדת כבאר שבה שוחח ישו עם האישה השומרונית (יוחנן 4); הכנסייה היוונית-אורתודוקסית מחזיקה בכנסייה ובמנזר שנבנו מעליה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Greek Orthodox"
@@ -21574,7 +21842,13 @@
         "traditions": {
           "samaritan": {
             "significance": {
-              "en": "The Samaritans' holiest place, which they hold God chose instead of Jerusalem: site of their temple, the direction of their prayer and of their Passover sacrifice, still performed on its slopes; Samaritan tradition also locates the Foundation Stone here."
+              "en": "The Samaritans' holiest place, which they hold God chose instead of Jerusalem: site of their temple, the direction of their prayer and of their Passover sacrifice, still performed on its slopes; Samaritan tradition also locates the Foundation Stone here.",
+              "ar": "أقدس مكان للسامريين، وهم يعتقدون أن الله اختاره بدل القدس: موقع هيكلهم، واتجاه صلاتهم وذبيحة فصحهم التي ما زالت تُقام على سفوحه؛ وتضع التقاليد السامرية حجر الأساس هنا أيضًا.",
+              "he": "המקום הקדוש ביותר לשומרונים, שלדבריהם אלוהים בחר בו במקום ירושלים: אתר מקדשם, כיוון תפילתם וקרבן הפסח שלהם, המתקיים עד היום על מדרונותיו; המסורת השומרונית מציבה כאן גם את אבן השתייה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21598,7 +21872,13 @@
           },
           "jewish": {
             "significance": {
-              "en": "In the Hebrew Bible the mount of blessing (Deuteronomy 11:29; Joshua 8); medieval Muslim writers report that Jews respected it, though Jewish tradition places the chosen sanctuary on Mount Zion."
+              "en": "In the Hebrew Bible the mount of blessing (Deuteronomy 11:29; Joshua 8); medieval Muslim writers report that Jews respected it, though Jewish tradition places the chosen sanctuary on Mount Zion.",
+              "ar": "في التوراة العبرية جبل البركة (التثنية 11:29؛ يشوع 8)؛ ويذكر كتّاب مسلمون من العصور الوسطى أن اليهود احترموه، وإن كانت التقاليد اليهودية تضع المقدس المختار على جبل صهيون.",
+              "he": "במקרא הר הברכה (דברים י״א 29; יהושע ח׳); כותבים מוסלמים מימי הביניים מדווחים שהיהודים כיבדו אותו, אף שהמסורת היהודית מציבה את המקדש הנבחר בהר ציון.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21614,7 +21894,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "An old Muslim cemetery occupies the summit, and a domed shrine there is held in Muslim tradition to be the tomb of Sheikh Ghanem, a soldier of Saladin, where people of the Nablus area have sworn oaths and offered sacrifices."
+              "en": "An old Muslim cemetery occupies the summit, and a domed shrine there is held in Muslim tradition to be the tomb of Sheikh Ghanem, a soldier of Saladin, where people of the Nablus area have sworn oaths and offered sacrifices.",
+              "ar": "تحتل قمته مقبرة إسلامية قديمة، وفيها ضريح مقبّب تعدّه التقاليد الإسلامية قبر الشيخ غانم، أحد جنود صلاح الدين، حيث أقسم أهل منطقة نابلس الأيمان وقدّموا القرابين.",
+              "he": "בפסגה בית קברות מוסלמי עתיק, ובו מקדש מכוסה כיפה הנחשב במסורת המוסלמית לקברו של השייח׳ ע׳אנם, חייל של צלאח א-דין, שבו נשבעו תושבי אזור שכם שבועות והקריבו קורבנות.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21731,7 +22017,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "Medieval Muslim tradition (Yaqut, 13th century) placed at Sebastia the tombs of Zakariyya and his son Yahya (John the Baptist), honoured as prophets in Islam; the mosque bears Yahya's name."
+              "en": "Medieval Muslim tradition (Yaqut, 13th century) placed at Sebastia the tombs of Zakariyya and his son Yahya (John the Baptist), honoured as prophets in Islam; the mosque bears Yahya's name.",
+              "ar": "وضعت التقاليد الإسلامية في العصور الوسطى (ياقوت، القرن الثالث عشر) في سبسطية قبري زكريا وابنه يحيى (يوحنا المعمدان)، المكرَّمين نبيين في الإسلام؛ ويحمل المسجد اسم يحيى.",
+              "he": "המסורת המוסלמית מימי הביניים (יאקות, המאה ה-13) הציבה בסבסטיה את קברי זכריה ובנו יחיא (יוחנן המטביל), המכובדים כנביאים באסלאם; המסגד נושא את שמו של יחיא.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21830,7 +22122,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "A Muslim shrine held to contain the tomb of the prophet Musa (Moses), known to medieval Muslim writers near Jericho; it is the focus of the annual Nabi Musa pilgrimage festival (al-mawasim), and its cemetery holds pilgrims who died during the festival."
+              "en": "A Muslim shrine held to contain the tomb of the prophet Musa (Moses), known to medieval Muslim writers near Jericho; it is the focus of the annual Nabi Musa pilgrimage festival (al-mawasim), and its cemetery holds pilgrims who died during the festival.",
+              "ar": "ضريح إسلامي يُعتقد أنه يضم قبر النبي موسى، عرفه كتّاب مسلمون من العصور الوسطى قرب أريحا؛ وهو محور مهرجان حج النبي موسى السنوي (المواسم)، وتضم مقبرته حجاجًا ماتوا أثناء المهرجان.",
+              "he": "מקדש מוסלמי הנחשב כמכיל את קברו של הנביא מוסא (משה), הידוע לכותבים מוסלמים מימי הביניים ליד יריחו; הוא מוקד חג העלייה לרגל השנתי נבי מוסא (אל-מואסם), ובבית הקברות שלו קבורים עולי רגל שמתו בזמן החג.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21964,7 +22262,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Venerated as the burial place of the prophet Samuel; the Jewish prayer area is in the cave beneath the building that holds the grave monument."
+              "en": "Venerated as the burial place of the prophet Samuel; the Jewish prayer area is in the cave beneath the building that holds the grave monument.",
+              "ar": "يُبجَّل مكان دفن النبي صموئيل؛ ومنطقة الصلاة اليهودية في المغارة تحت المبنى الذي يضم النصب القبري.",
+              "he": "מכובד כמקום קבורתו של הנביא שמואל; אזור התפילה היהודי נמצא במערה שמתחת למבנה המכיל את מצבת הקבר.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21979,7 +22283,13 @@
           },
           "christian": {
             "significance": {
-              "en": "Christian tradition since the Byzantine period identified the site with Ramah, Samuel's burial place; the Crusaders built a church and fortress here."
+              "en": "Christian tradition since the Byzantine period identified the site with Ramah, Samuel's burial place; the Crusaders built a church and fortress here.",
+              "ar": "تحدد التقاليد المسيحية منذ العصر البيزنطي الموقع بالرامة، مكان دفن صموئيل؛ وبنى الصليبيون هنا كنيسة وحصنًا.",
+              "he": "המסורת הנוצרית מזהה מאז התקופה הביזנטית את האתר עם הרמה, מקום קבורת שמואל; הצלבנים בנו כאן כנסייה ומבצר.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -21990,7 +22300,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "A Muslim holy place (the Tomb of the Prophet Samuel) with a mosque in the former Crusader church; the village is named after the prophet."
+              "en": "A Muslim holy place (the Tomb of the Prophet Samuel) with a mosque in the former Crusader church; the village is named after the prophet.",
+              "ar": "مكان إسلامي مقدس (مقام النبي صموئيل) فيه مسجد في الكنيسة الصليبية السابقة؛ والقرية مسماة باسم النبي.",
+              "he": "מקום קדוש מוסלמי (קבר הנביא שמואל) עם מסגד בכנסייה הצלבנית לשעבר; הכפר נקרא על שם הנביא.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22012,7 +22328,13 @@
       },
       "custody": {
         "summary": {
-          "en": "The site is operated as a national park by the Israel Nature and Parks Authority with separate Jewish and Muslim prayer areas; the Palestinian ARIJ profile states that most of the Prophet Samuel Mosque was taken over and turned into a synagogue under army custody."
+          "en": "The site is operated as a national park by the Israel Nature and Parks Authority with separate Jewish and Muslim prayer areas; the Palestinian ARIJ profile states that most of the Prophet Samuel Mosque was taken over and turned into a synagogue under army custody.",
+          "ar": "يُدار الموقع حديقة وطنية من سلطة الطبيعة والحدائق الإسرائيلية مع منطقتي صلاة منفصلتين لليهود والمسلمين؛ ويذكر ملف ARIJ الفلسطيني أن معظم مسجد النبي صموئيل استُولي عليه وحُوِّل إلى كنيس تحت حراسة الجيش.",
+          "he": "האתר מופעל כפארק לאומי בידי רשות הטבע והגנים הישראלית עם אזורי תפילה נפרדים ליהודים ולמוסלמים; פרופיל ARIJ הפלסטיני קובע שרוב מסגד הנביא שמואל נתפס והוסב לבית כנסת בחזקת הצבא.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -22057,8 +22379,10 @@
       "name": {
         "en": "Tomb of Lazarus (Bethany / al-Eizariya)",
         "ar": "قبر لعازر",
+        "he": "קבר לעזר (בית עניה / אל-עיזרייה)",
         "translation_status": {
-          "ar": "machine-draft"
+          "ar": "machine-draft",
+          "he": "machine-draft"
         }
       },
       "wikidata": "Q7818622",
@@ -22115,7 +22439,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Venerated as the tomb from which Jesus raised Lazarus, in Bethany, the home of Martha, Mary and Lazarus; a church stood over it by the 4th-5th century."
+              "en": "Venerated as the tomb from which Jesus raised Lazarus, in Bethany, the home of Martha, Mary and Lazarus; a church stood over it by the 4th-5th century.",
+              "ar": "يُبجَّل بوصفه القبر الذي أقام منه يسوع لعازر، في بيت عنيا، موطن مرثا ومريم ولعازر؛ وقامت كنيسة فوقه بحلول القرن الرابع-الخامس.",
+              "he": "מכובד כקבר שממנו הקים ישו את לעזר, בבית עניה, ביתם של מרתה, מרים ולעזר; כנסייה עמדה מעליו כבר במאה ה-4–5.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22127,7 +22457,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Listed among Muslim holy places; part of the original church was turned into a mosque in the late 16th century."
+              "en": "Listed among Muslim holy places; part of the original church was turned into a mosque in the late 16th century.",
+              "ar": "مدرج ضمن الأماكن الإسلامية المقدسة؛ وحُوِّل جزء من الكنيسة الأصلية إلى مسجد في أواخر القرن السادس عشر.",
+              "he": "רשום בין המקומות הקדושים המוסלמיים; חלק מהכנסייה המקורית הוסב למסגד בסוף המאה ה-16.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22256,7 +22592,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Venerated as the room of the Last Supper and of the descent of the Holy Spirit at Pentecost, and the first meeting place of the early Christians in Jerusalem; the Franciscans held it until 1552 and the Latin Church maintains a claim."
+              "en": "Venerated as the room of the Last Supper and of the descent of the Holy Spirit at Pentecost, and the first meeting place of the early Christians in Jerusalem; the Franciscans held it until 1552 and the Latin Church maintains a claim.",
+              "ar": "يُبجَّل بوصفه غرفة العشاء الأخير ونزول الروح القدس في العنصرة، وأول مكان التقاء للمسيحيين الأوائل في القدس؛ وبقي في حوزة الفرنسيسكان حتى 1552 وتحتفظ الكنيسة اللاتينية بمطالبة به.",
+              "he": "מכובד כחדר הסעודה האחרונה וירידת רוח הקודש בחג השבועות הנוצרי, ומקום המפגש הראשון של הנוצרים הקדומים בירושלים; הפרנציסקנים החזיקו בו עד 1552 והכנסייה הלטינית שומרת על טענה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Franciscan Custody)"
@@ -22271,7 +22613,13 @@
           },
           "jewish": {
             "significance": {
-              "en": "Revered as the tomb of King David; listed among the Jewish holy places of Jerusalem where ceremonies are held."
+              "en": "Revered as the tomb of King David; listed among the Jewish holy places of Jerusalem where ceremonies are held.",
+              "ar": "يُبجَّل بوصفه قبر الملك داود؛ ومدرج ضمن الأماكن اليهودية المقدسة في القدس التي تُقام فيها الاحتفالات.",
+              "he": "מכובד כקברו של המלך דוד; רשום בין המקומות הקדושים ליהודים בירושלים שבהם מתקיימים טקסים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22283,7 +22631,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Revered as the shrine of the prophet Dawud (David), located by Muslim tradition in the same building, which was under Muslim control from 1552 (as of 1949)."
+              "en": "Revered as the shrine of the prophet Dawud (David), located by Muslim tradition in the same building, which was under Muslim control from 1552 (as of 1949).",
+              "ar": "يُبجَّل بوصفه مقام النبي داود، الذي تحدده التقاليد الإسلامية في المبنى نفسه، وكان تحت السيطرة الإسلامية منذ 1552 (حتى 1949).",
+              "he": "מכובד כמקדש הנביא דאוד (דוד), שהמסורת המוסלמית ממקמת באותו מבנה, שהיה בשליטה מוסלמית מאז 1552 (נכון ל-1949).",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22302,7 +22656,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Not subject to the Status Quo because one community (Muslims) was in recognised possession as of 1949; Christian services were not permitted there at that time."
+          "en": "Not subject to the Status Quo because one community (Muslims) was in recognised possession as of 1949; Christian services were not permitted there at that time.",
+          "ar": "ليس خاضعًا للوضع القائم لأن طائفة واحدة (المسلمين) كانت في حيازة معترف بها عام 1949؛ ولم تكن القداسات المسيحية مسموحة فيه حينئذ.",
+          "he": "אינו כפוף לסטטוס קוו משום שעדה אחת (המוסלמים) הייתה בחזקה מוכרת ב-1949; תפילות נוצריות לא הותרו בו אז.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -22414,7 +22774,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "One of the largest and most important historic Muslim cemeteries of Jerusalem, in use for about a thousand years; Palestinian families whose ancestors are buried there regard it as sacred ground."
+              "en": "One of the largest and most important historic Muslim cemeteries of Jerusalem, in use for about a thousand years; Palestinian families whose ancestors are buried there regard it as sacred ground.",
+              "ar": "من أكبر المقابر الإسلامية التاريخية وأهمها في القدس، مستعملة منذ نحو ألف عام؛ وتعدّها عائلات فلسطينية دُفن فيها أسلافها أرضًا مقدسة.",
+              "he": "אחד מבתי הקברות המוסלמיים ההיסטוריים הגדולים והחשובים בירושלים, בשימוש כאלף שנה; משפחות פלסטיניות שאבותיהן קבורים בו רואות בו קרקע קדושה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22436,7 +22802,13 @@
       },
       "custody": {
         "summary": {
-          "en": "In West Jerusalem; parts were built over after 1948 (a car park in the 1960s, a park, a school and a road). In 2008 Israel's Supreme Court allowed a Museum of Tolerance on part of it and hundreds of graves were exhumed. Palestinian descendants and Muslim bodies protested and petitioned the UN; the Simon Wiesenthal Center says the museum is built on the former car park, not the cemetery; Sulimani and Kletter (2017) argue the Israel Antiquities Authority breached court orders."
+          "en": "In West Jerusalem; parts were built over after 1948 (a car park in the 1960s, a park, a school and a road). In 2008 Israel's Supreme Court allowed a Museum of Tolerance on part of it and hundreds of graves were exhumed. Palestinian descendants and Muslim bodies protested and petitioned the UN; the Simon Wiesenthal Center says the museum is built on the former car park, not the cemetery; Sulimani and Kletter (2017) argue the Israel Antiquities Authority breached court orders.",
+          "ar": "في القدس الغربية؛ وبُنيت فوق أجزاء منها بعد 1948 (موقف سيارات في الستينيات، وحديقة، ومدرسة، وطريق). وفي 2008 سمحت المحكمة العليا الإسرائيلية بإقامة متحف التسامح على جزء منها ونُبشت مئات القبور. واحتج المنحدرون الفلسطينيون والهيئات الإسلامية وقدموا التماسات إلى الأمم المتحدة؛ ويقول مركز سيمون فيزنتال إن المتحف مبني على موقف السيارات السابق لا على المقبرة؛ ويرى سليماني وكلتر (2017) أن سلطة الآثار الإسرائيلية خالفت أوامر المحكمة.",
+          "he": "במערב ירושלים; חלקים ממנו נבנו אחרי 1948 (חניון בשנות ה-60, פארק, בית ספר וכביש). ב-2008 התירה בית המשפט העליון הישראלי להקים מוזיאון הסובלנות על חלק ממנו ומאות קברים נפתחו. צאצאים פלסטינים וגופים מוסלמיים מחו ופנו בעתירות לאו״ם; מרכז שמעון ויזנטל קובע שהמוזיאון בנוי על החניון לשעבר ולא על בית הקברות; סולימני וקלטר (2017) טוענים שרשות העתיקות הפרה צווי בית משפט.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -22547,7 +22919,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Revered on the western bank of the Jordan as a place where Jesus was baptised by John; a place of Epiphany pilgrimage, especially for Greek and Coptic Orthodox, with Greek Orthodox and Latin chapels and monasteries nearby."
+              "en": "Revered on the western bank of the Jordan as a place where Jesus was baptised by John; a place of Epiphany pilgrimage, especially for Greek and Coptic Orthodox, with Greek Orthodox and Latin chapels and monasteries nearby.",
+              "ar": "مبجَّل على الضفة الغربية للأردن بوصفه مكان تعميد يوحنا ليسوع؛ مكان حج في عيد الغطاس، ولا سيما للروم الأرثوذكس والأقباط الأرثوذكس، مع كنائس صغيرة وأديرة للروم الأرثوذكس واللاتين في الجوار.",
+              "he": "מכובד בגדה המערבית של הירדן כמקום שבו הוטבל ישו בידי יוחנן; מקום עלייה לרגל בחג ההתגלות, בעיקר ליוונים ולקופטים האורתודוקסים, עם קפלות ומנזרים יווניים-אורתודוקסיים ולטיניים בסביבה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Greek Orthodox",
@@ -22568,7 +22946,13 @@
           },
           "jewish": {
             "significance": {
-              "en": "Tradition places here the Israelites' crossing of the Jordan under Joshua."
+              "en": "Tradition places here the Israelites' crossing of the Jordan under Joshua.",
+              "ar": "تضع التقاليد هنا عبور بني إسرائيل نهر الأردن بقيادة يشوع.",
+              "he": "המסורת ממקמת כאן את חציית הירדן בידי בני ישראל בהנהגת יהושע.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22582,7 +22966,13 @@
       },
       "custody": {
         "summary": {
-          "en": "In the West Bank and operated by the Israel Nature and Parks Authority. The east-bank site (Al-Maghtas, Jordan) is the one inscribed by UNESCO, which says most churches accept it as the authentic baptism location and urged protection of the western bank."
+          "en": "In the West Bank and operated by the Israel Nature and Parks Authority. The east-bank site (Al-Maghtas, Jordan) is the one inscribed by UNESCO, which says most churches accept it as the authentic baptism location and urged protection of the western bank.",
+          "ar": "في الضفة الغربية وتديره سلطة الطبيعة والحدائق الإسرائيلية. وموقع الضفة الشرقية (المغطس، الأردن) هو الذي أدرجته اليونسكو، وتقول إن معظم الكنائس تقبله موقعًا أصيلًا للتعميد، وحثّت على حماية الضفة الغربية.",
+          "he": "בגדה המערבית ומופעל בידי רשות הטבע והגנים הישראלית. האתר שבגדה המזרחית (אל-מע׳טס, ירדן) הוא זה שנרשם באונסק״ו, שאומרת שרוב הכנסיות מקבלות אותו כמקום ההטבלה האותנטי וקראה להגן על הגדה המערבית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -22696,7 +23086,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Accepted by most Christian denominations as the place where John the Baptist baptised Jesus; a pilgrimage site since the 4th century with renewed baptism rituals today, and associated with the ascension of Elijah."
+              "en": "Accepted by most Christian denominations as the place where John the Baptist baptised Jesus; a pilgrimage site since the 4th century with renewed baptism rituals today, and associated with the ascension of Elijah.",
+              "ar": "تقبله معظم الطوائف المسيحية مكانًا عمّد فيه يوحنا المعمدان يسوع؛ وهو موقع حج منذ القرن الرابع مع طقوس تعميد متجددة اليوم، ويرتبط بصعود إلياس.",
+              "he": "מקובל על רוב העדות הנוצריות כמקום שבו הטביל יוחנן המטביל את ישו; אתר עלייה לרגל מאז המאה ה-4 עם טקסי הטבלה מחודשים כיום, ומקושר לעלייתו של אליהו.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -22799,7 +23195,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Built over the Grotto of the Annunciation, where in Christian belief the angel Gabriel announced to Mary that she would bear Jesus; under Latin (Franciscan) guardianship. The Greek Orthodox and Greek Catholics venerate the Annunciation at Gabriel's Church nearby."
+              "en": "Built over the Grotto of the Annunciation, where in Christian belief the angel Gabriel announced to Mary that she would bear Jesus; under Latin (Franciscan) guardianship. The Greek Orthodox and Greek Catholics venerate the Annunciation at Gabriel's Church nearby.",
+              "ar": "بُنيت فوق مغارة البشارة، حيث أعلن الملاك جبرائيل في المعتقد المسيحي لمريم أنها ستلد يسوع؛ تحت الوصاية اللاتينية (الفرنسيسكانية). ويبجّل الروم الأرثوذكس والروم الكاثوليك البشارة في كنيسة جبرائيل القريبة.",
+              "he": "נבנתה מעל מערת הבשורה, שבה לפי האמונה הנוצרית בישר המלאך גבריאל למרים שתלד את ישו; בחזקה לטינית (פרנציסקנית). היוונים האורתודוקסים והיוונים הקתולים מכבדים את הבשורה בכנסיית גבריאל הסמוכה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Franciscan Custody)",
@@ -22925,7 +23327,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "The traditional site of the Transfiguration of Jesus; the summit holds a Franciscan church and a Greek Orthodox church, the two communities sharing the mountain."
+              "en": "The traditional site of the Transfiguration of Jesus; the summit holds a Franciscan church and a Greek Orthodox church, the two communities sharing the mountain.",
+              "ar": "الموقع التقليدي لتجلّي يسوع؛ وفي القمة كنيسة فرنسيسكانية وكنيسة للروم الأرثوذكس، وتتقاسم الطائفتان الجبل.",
+              "he": "האתר המסורתי של התגלות ישו (ההשתנות); בפסגה כנסייה פרנציסקנית וכנסייה יוונית-אורתודוקסית, והעדות חולקות את ההר.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Franciscan)",
@@ -22945,7 +23353,13 @@
           },
           "jewish": {
             "significance": {
-              "en": "In the Hebrew Bible, the site of Barak's victory over Sisera under the prophetess Deborah (Judges 4)."
+              "en": "In the Hebrew Bible, the site of Barak's victory over Sisera under the prophetess Deborah (Judges 4).",
+              "ar": "في التوراة العبرية موقع انتصار باراق على سيسرا بقيادة النبية دبورة (القضاة 4).",
+              "he": "במקרא אתר ניצחונו של ברק על סיסרא בהנהגת הנביאה דבורה (שופטים ד׳).",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23057,7 +23471,13 @@
         "traditions": {
           "christian": {
             "significance": {
-              "en": "Venerated as the site of the miracle of the loaves and fishes and of the primacy conferred on St Peter, near the Mount of the Beatitudes where the Sermon on the Mount is placed; the shrines are in Latin custody."
+              "en": "Venerated as the site of the miracle of the loaves and fishes and of the primacy conferred on St Peter, near the Mount of the Beatitudes where the Sermon on the Mount is placed; the shrines are in Latin custody.",
+              "ar": "يُبجَّل موقعًا لمعجزة الأرغفة والأسماك ولسلطان القديس بطرس، قرب جبل التطويبات الذي يُوضع فيه موعظة الجبل؛ والأضرحة في حراسة اللاتين.",
+              "he": "מכובד כאתר נס הלחם והדגים ושל הבכורה שהוענקה לפטרוס הקדוש, ליד הר האושר שבו ממוקמת דרשת ההר; המקדשים בחזקת הלטינים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Latin)"
@@ -23092,9 +23512,11 @@
       "id": "tomb-of-maimonides",
       "name": {
         "en": "Tomb of Maimonides (Tiberias)",
+        "ar": "قبر موسى بن ميمون (طبريا)",
         "he": "קבר הרמב\"ם",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q625219",
@@ -23150,7 +23572,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Traditional grave of Moses Maimonides (d. 1204 in Egypt), the foremost intellectual figure of medieval Judaism, a shrine drawing a constant stream of pilgrims; Tiberias also has the tombs of the sages Yohanan ben Zakkai and Akiva and, at the hot springs, of Rabbi Meir Ba'al ha-Nes."
+              "en": "Traditional grave of Moses Maimonides (d. 1204 in Egypt), the foremost intellectual figure of medieval Judaism, a shrine drawing a constant stream of pilgrims; Tiberias also has the tombs of the sages Yohanan ben Zakkai and Akiva and, at the hot springs, of Rabbi Meir Ba'al ha-Nes.",
+              "ar": "القبر التقليدي لموسى بن ميمون (ت. 1204 في مصر)، أبرز شخصية فكرية في اليهودية في العصور الوسطى، وهو ضريح يجتذب تيارًا متواصلًا من الحجاج؛ وفي طبريا أيضًا قبور الحكيمين يوحنان بن زكاي وعقيبا، وقبر الحاخام مئير بعل هنس عند الينابيع الحارة.",
+              "he": "הקבר המסורתי של משה בן מימון (נפטר ב-1204 במצרים), האישיות האינטלקטואלית המרכזית של היהדות בימי הביניים, מקדש המושך זרם מתמיד של עולי רגל; בטבריה גם קברי החכמים רבן יוחנן בן זכאי ורבי עקיבא ובמעיינות החמים קברו של רבי מאיר בעל הנס.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23191,9 +23619,11 @@
       "id": "meron-tomb-of-shimon-bar-yochai",
       "name": {
         "en": "Tomb of Rabbi Shimon bar Yochai (Meron)",
+        "ar": "قبر الحاخام شمعون بار يوحاي (ميرون)",
         "he": "קבר רבי שמעון בר יוחאי",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       },
       "wikidata": "Q5371188",
@@ -23249,7 +23679,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Burial place of the 2nd-century sage Shimon bar Yochai, credited with the Zohar; on Lag BaOmer thousands of Orthodox and Hasidic Jews make a pilgrimage here with bonfires and first haircuts for boys."
+              "en": "Burial place of the 2nd-century sage Shimon bar Yochai, credited with the Zohar; on Lag BaOmer thousands of Orthodox and Hasidic Jews make a pilgrimage here with bonfires and first haircuts for boys.",
+              "ar": "مكان دفن الحكيم شمعون بار يوحاي من القرن الثاني، ويُنسب إليه الزوهر؛ وفي عيد لاغ بعومر يحج إليه آلاف اليهود الأرثوذكس والحسيديم مع إشعال النيران وأول قصّة شعر للأولاد.",
+              "he": "מקום קבורתו של החכם שמעון בר יוחאי מהמאה ה-2, שמיוחס לו ספר הזוהר; בל״ג בעומר עולים אליו לרגל אלפי יהודים אורתודוקסים וחסידים עם מדורות ותספורת ראשונה לבנים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23368,7 +23804,13 @@
         "traditions": {
           "druze": {
             "significance": {
-              "en": "The Druze shrine of the prophet Shu'ayb (identified with Jethro), focus of an annual Druze pilgrimage attended by the community's spiritual leaders, in recent years including clerics from Syria."
+              "en": "The Druze shrine of the prophet Shu'ayb (identified with Jethro), focus of an annual Druze pilgrimage attended by the community's spiritual leaders, in recent years including clerics from Syria.",
+              "ar": "ضريح درزي للنبي شعيب (الذي يُعرَّف بيثرون)، محور حج درزي سنوي يحضره القادة الروحيون للطائفة، ومنهم في السنوات الأخيرة رجال دين من سوريا.",
+              "he": "מקדש דרוזי של הנביא שועייב (המזוהה עם יתרו), מוקד עלייה לרגל דרוזית שנתית שבה משתתפים מנהיגיה הרוחניים של העדה, ובשנים האחרונות גם אנשי דת מסוריה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23383,7 +23825,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Medieval Muslim writers ('Ali of Herat, 1173; Yaqut) recorded the tomb of the prophet Shu'ayb (Jethro) at Hittin among places of visitation."
+              "en": "Medieval Muslim writers ('Ali of Herat, 1173; Yaqut) recorded the tomb of the prophet Shu'ayb (Jethro) at Hittin among places of visitation.",
+              "ar": "سجّل كتّاب مسلمون من العصور الوسطى (علي الهروي، 1173؛ ياقوت) قبر النبي شعيب (يثرون) في حطين ضمن أماكن الزيارة.",
+              "he": "כותבים מוסלמים מימי הביניים (עלי אל-הרוי, 1173; יאקות) תיעדו את קבר הנביא שועייב (יתרו) בחיטין בין מקומות הביקור.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23402,7 +23850,13 @@
       },
       "custody": {
         "summary": {
-          "en": "Associated with the Druze community; Britannica links a 1942 threat by the Sunni leadership in Jerusalem to take control of the tomb to the Druze siding with Jewish forces in 1948."
+          "en": "Associated with the Druze community; Britannica links a 1942 threat by the Sunni leadership in Jerusalem to take control of the tomb to the Druze siding with Jewish forces in 1948.",
+          "ar": "مرتبط بالطائفة الدرزية؛ وتربط بريتانيكا تهديدًا عام 1942 من القيادة السنية في القدس بالسيطرة على القبر بانحياز الدروز إلى القوات اليهودية عام 1948.",
+          "he": "קשור לעדה הדרוזית; בריטניקה קושרת איום מ-1942 מצד ההנהגה הסונית בירושלים להשתלט על הקבר עם הצטרפות הדרוזים לכוחות היהודים ב-1948.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -23432,7 +23886,13 @@
     {
       "id": "nabi-sabalan",
       "name": {
-        "en": "Nabi Sabalan (Druze shrine near Hurfeish)"
+        "en": "Nabi Sabalan (Druze shrine near Hurfeish)",
+        "ar": "النبي سبلان (ضريح درزي قرب حرفيش)",
+        "he": "נבי סבלאן (מקדש דרוזי ליד חורפיש)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "wikidata": "Q7395856",
       "kind": [
@@ -23469,7 +23929,13 @@
         "traditions": {
           "druze": {
             "significance": {
-              "en": "A shrine of the prophet Sabalan sacred to the Druze, on the hilltop of the former village of Sabalan above the Druze village of Hurfeish; new buildings have been built there for visitors."
+              "en": "A shrine of the prophet Sabalan sacred to the Druze, on the hilltop of the former village of Sabalan above the Druze village of Hurfeish; new buildings have been built there for visitors.",
+              "ar": "ضريح للنبي سبلان مقدس عند الدروز، على قمة قرية سبلان السابقة فوق قرية حرفيش الدرزية؛ وقد شُيّدت فيه مبانٍ جديدة للزوار.",
+              "he": "מקדש הנביא סבלאן הקדוש לדרוזים, בראש גבעה של הכפר סבלאן לשעבר מעל הכפר הדרוזי חורפיש; נבנו שם מבנים חדשים למבקרים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23597,7 +24063,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Held to be the cave where the prophet Elijah stayed before his contest with the prophets of Baal; a medieval Jewish pilgrim recorded a synagogue dedicated to Elijah there, and it remains a Jewish pilgrimage site."
+              "en": "Held to be the cave where the prophet Elijah stayed before his contest with the prophets of Baal; a medieval Jewish pilgrim recorded a synagogue dedicated to Elijah there, and it remains a Jewish pilgrimage site.",
+              "ar": "يُعدّ المغارة التي أقام فيها النبي إلياس قبل مبارزته أنبياء البعل؛ وسجّل حاج يهودي من العصور الوسطى كنيسًا مكرسًا لإلياس هناك، وما زال موقع حج يهوديًا.",
+              "he": "נחשבת למערה שבה שהה הנביא אליהו לפני התמודדותו עם נביאי הבעל; עולה רגל יהודי מימי הביניים תיעד שם בית כנסת על שם אליהו, והיא נשארה אתר עלייה לרגל יהודי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23614,7 +24086,13 @@
           },
           "christian": {
             "significance": {
-              "en": "A Christian pilgrimage site since the 4th-5th century; Carmelite friars lived at it in the 13th century and Christian sources call it the 'School of the Prophets'."
+              "en": "A Christian pilgrimage site since the 4th-5th century; Carmelite friars lived at it in the 13th century and Christian sources call it the 'School of the Prophets'.",
+              "ar": "موقع حج مسيحي منذ القرن الرابع-الخامس؛ سكنه رهبان كرمليون في القرن الثالث عشر وتسميه مصادر مسيحية «مدرسة الأنبياء».",
+              "he": "אתר עלייה לרגל נוצרי מאז המאה ה-4–5; נזירים כרמליטים התגוררו בו במאה ה-13 ומקורות נוצריים מכנים אותו 'בית הספר לנביאים'.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Carmelite)"
@@ -23629,7 +24107,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Known in Arabic as al-Khidr (identified with Elijah); Muslims converted the cave into a mosque dedicated to al-Khidr around 1635, and it is a Muslim pilgrimage site."
+              "en": "Known in Arabic as al-Khidr (identified with Elijah); Muslims converted the cave into a mosque dedicated to al-Khidr around 1635, and it is a Muslim pilgrimage site.",
+              "ar": "يُعرف بالعربية بالخضر (ويُعرَّف بإلياس)؛ وحوّل المسلمون المغارة إلى مسجد مخصص للخضر نحو 1635، وهي موقع حج إسلامي.",
+              "he": "ידוע בערבית כאל-ח׳דר (המזוהה עם אליהו); מוסלמים הסבו את המערה למסגד המוקדש לאל-ח׳דר בערך ב-1635, והיא אתר עלייה לרגל מוסלמי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23646,7 +24130,13 @@
           },
           "druze": {
             "significance": {
-              "en": "The Druze are among the communities for whom it has been a pilgrimage site in recent centuries."
+              "en": "The Druze are among the communities for whom it has been a pilgrimage site in recent centuries.",
+              "ar": "الدروز من الطوائف التي كانت المغارة موقع حج لها في القرون الأخيرة.",
+              "he": "הדרוזים הם בין העדות שהמקום שימש להן אתר עלייה לרגל במאות האחרונות.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23730,7 +24220,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "In the Hebrew Bible the scene of Elijah's contest with the prophets of Baal (1 Kings 18); called a 'holy mountain' already in 16th-century BCE Egyptian records."
+              "en": "In the Hebrew Bible the scene of Elijah's contest with the prophets of Baal (1 Kings 18); called a 'holy mountain' already in 16th-century BCE Egyptian records.",
+              "ar": "في التوراة العبرية مسرح مبارزة إلياس مع أنبياء البعل (1 ملوك 18)؛ ووُصف بأنه «جبل مقدس» منذ سجلات مصرية من القرن السادس عشر ق.م.",
+              "he": "במקרא זירת התמודדותו של אליהו עם נביאי הבעל (מלכים א׳ י״ח); כונה 'הר קודש' כבר ברשומות מצריות מהמאה ה-16 לפנה״ס.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23741,7 +24237,13 @@
           },
           "christian": {
             "significance": {
-              "en": "Sacred to Christians for Elijah and as the birthplace of the Carmelite order (founded 1150), whose monastery stands near the traditional site of Elijah's miracle; the Greek Orthodox list a monastery and the Church of Mar Elias."
+              "en": "Sacred to Christians for Elijah and as the birthplace of the Carmelite order (founded 1150), whose monastery stands near the traditional site of Elijah's miracle; the Greek Orthodox list a monastery and the Church of Mar Elias.",
+              "ar": "مقدس عند المسيحيين بسبب إلياس وبوصفه مهد الرهبانية الكرملية (تأسست 1150)، التي يقوم ديرها قرب موقع معجزة إلياس التقليدي؛ ويذكر الروم الأرثوذكس ديرًا وكنيسة مار إلياس.",
+              "he": "קדוש לנוצרים בשל אליהו וכמקום הולדתו של המסדר הכרמליטי (נוסד ב-1150), שמנזרו ניצב ליד האתר המסורתי של נס אליהו; האורתודוקסים היוונים מונים מנזר וכנסיית מר אליאס.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Roman Catholic (Carmelite)",
@@ -23844,7 +24346,13 @@
         "traditions": {
           "bahai": {
             "significance": {
-              "en": "One of the two holiest places of the Bahá'í Faith, the shrine of the Báb (the faith's forerunner, killed in 1850), set in gardens in Haifa and visited in Bahá'í pilgrimage; Haifa is the faith's world centre."
+              "en": "One of the two holiest places of the Bahá'í Faith, the shrine of the Báb (the faith's forerunner, killed in 1850), set in gardens in Haifa and visited in Bahá'í pilgrimage; Haifa is the faith's world centre.",
+              "ar": "أحد أقدس مكانين في الديانة البهائية، ضريح الباب (سلف الديانة، الذي قُتل عام 1850)، وسط حدائق في حيفا ويزوره الحجاج البهائيون؛ وحيفا هي المركز العالمي للديانة.",
+              "he": "אחד משני המקומות הקדושים ביותר באמונה הבהאית, מקדש הבאב (מבשר האמונה, שנהרג ב-1850), הניצב בגנים בחיפה ומבוקר בעלייה לרגל בהאית; חיפה היא המרכז העולמי של האמונה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -23948,7 +24456,13 @@
         "traditions": {
           "bahai": {
             "significance": {
-              "en": "Burial place of Bahá'u'lláh, founder of the Bahá'í Faith, who spent his last 24 years as an Ottoman exile in Western Galilee and died in 1892; the holiest place of Bahá'í pilgrimage, inscribed by UNESCO with the Shrine of the Báb."
+              "en": "Burial place of Bahá'u'lláh, founder of the Bahá'í Faith, who spent his last 24 years as an Ottoman exile in Western Galilee and died in 1892; the holiest place of Bahá'í pilgrimage, inscribed by UNESCO with the Shrine of the Báb.",
+              "ar": "مكان دفن بهاء الله، مؤسس الديانة البهائية، الذي قضى سنواته الأربع والعشرين الأخيرة منفيًا عثمانيًا في الجليل الغربي وتوفي عام 1892؛ وهو أقدس مكان للحج البهائي، أدرجته اليونسكو مع ضريح الباب.",
+              "he": "מקום קבורתו של בהאא אללה, מייסד האמונה הבהאית, שבילה את 24 שנותיו האחרונות כגולה עות׳מאני בגליל המערבי ומת ב-1892; המקום הקדוש ביותר לעלייה לרגל בהאית, שנרשם באונסק״ו עם מקדש הבאב.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -24071,7 +24585,13 @@
         "traditions": {
           "jewish": {
             "significance": {
-              "en": "Revered as the mountain where Moses received the Law (the Ten Commandments), the principal site of divine revelation in Jewish tradition, although the biblical Sinai cannot be positively identified."
+              "en": "Revered as the mountain where Moses received the Law (the Ten Commandments), the principal site of divine revelation in Jewish tradition, although the biblical Sinai cannot be positively identified.",
+              "ar": "مبجَّل بوصفه الجبل الذي تلقى فيه موسى الشريعة (الوصايا العشر)، وهو أبرز موقع للوحي الإلهي في التقاليد اليهودية، وإن تعذّر تحديد سيناء التوراتية على وجه اليقين.",
+              "he": "מכובד כהר שבו קיבל משה את התורה (עשרת הדיברות), האתר העיקרי של ההתגלות האלוהית במסורת היהודית, אף שאי אפשר לזהות בוודאות את הר סיני המקראי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -24086,7 +24606,13 @@
           },
           "christian": {
             "significance": {
-              "en": "The Greek Orthodox Monastery of Saint Catherine, founded in the 6th century at the foot of the mountain, is the oldest Christian monastery in continuous use, belonging to the autonomous Archdiocese of Sinai."
+              "en": "The Greek Orthodox Monastery of Saint Catherine, founded in the 6th century at the foot of the mountain, is the oldest Christian monastery in continuous use, belonging to the autonomous Archdiocese of Sinai.",
+              "ar": "دير القديسة كاترين للروم الأرثوذكس، الذي تأسس في القرن السادس عند سفح الجبل، هو أقدم دير مسيحي مستمر الاستعمال، ويتبع رئاسة أساقفة سيناء المستقلة.",
+              "he": "מנזר סנטה קתרינה היווני-אורתודוקסי, שנוסד במאה ה-6 למרגלות ההר, הוא המנזר הנוצרי העתיק ביותר שנמצא בשימוש רצוף, והוא שייך לארכיבישופות סיני האוטונומית.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "denominations": [
               "Greek Orthodox (Archdiocese of Sinai)"
@@ -24106,7 +24632,13 @@
           },
           "muslim": {
             "significance": {
-              "en": "Revered by Muslims as Jebel Musa (Mount of Moses); the summit has a mosque beside a chapel."
+              "en": "Revered by Muslims as Jebel Musa (Mount of Moses); the summit has a mosque beside a chapel.",
+              "ar": "يبجّله المسلمون باسم جبل موسى؛ وفي القمة مسجد بجانب كنيسة صغيرة.",
+              "he": "מוסלמים מכבדים אותו בשם ג׳בל מוסא (הר משה); בפסגה מסגד לצד קפלה.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {
@@ -24220,7 +24752,13 @@
         "traditions": {
           "muslim": {
             "significance": {
-              "en": "A shrine sacred to Muslims around the tomb of 'Ali ibn 'Alim, killed in 1081 CE, with a mosque and a paved courtyard surrounded by rooms; listed in 1949 among the principal Muslim shrines outside Jerusalem."
+              "en": "A shrine sacred to Muslims around the tomb of 'Ali ibn 'Alim, killed in 1081 CE, with a mosque and a paved courtyard surrounded by rooms; listed in 1949 among the principal Muslim shrines outside Jerusalem.",
+              "ar": "ضريح مقدس عند المسلمين حول قبر علي بن عليم، الذي قُتل عام 1081 م، وفيه مسجد وفناء مبلّط تحيط به غرف؛ أُدرج عام 1949 ضمن أهم الأضرحة الإسلامية خارج القدس.",
+              "he": "מקדש קדוש למוסלמים סביב קברו של עלי בן עליים, שנהרג ב-1081 לספירה, עם מסגד וחצר מרוצפת מוקפת חדרים; נרשם ב-1949 בין המקדשים המוסלמיים העיקריים מחוץ לירושלים.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
             },
             "sources": [
               {

@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "EB II: Britannica says the early walled towns developed in northern and central Palestine (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai)."
+          "en": "EB II: Britannica says the early walled towns developed in northern and central Palestine (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai).",
+          "ar": "العصر البرونزي المبكر II: تقول بريتانيكا إن المدن الأولى المسوّرة نشأت في شمال فلسطين ووسطها (مجدو وأريحا وتل الفارعة وبيسان وخربة الكرك وعاي).",
+          "he": "הברונזה הקדומה II: בריטניקה אומרת שהערים המוקפות חומה הראשונות התפתחו בצפון פלשתינה ובמרכזה (מגידו, יריחו, תל אל-פארעה, בית שאן, חירבת כרך, העי).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -76,7 +82,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "EB III: walled towns throughout the country. Britannica says southern towns such as Lachish and Tel Hasi were founded only in EB III."
+          "en": "EB III: walled towns throughout the country. Britannica says southern towns such as Lachish and Tel Hasi were founded only in EB III.",
+          "ar": "العصر البرونزي المبكر III: مدن مسوّرة في أنحاء البلاد. تقول بريتانيكا إن مدنًا جنوبية مثل لخيش وتل حسي أُسست في العصر البرونزي المبكر III فقط.",
+          "he": "הברונזה הקדומה III: ערים מוקפות חומה בכל הארץ. בריטניקה אומרת שערים דרומיות כמו לכיש ותל חסי נוסדו רק בברונזה הקדומה III.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

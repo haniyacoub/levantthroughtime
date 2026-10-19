@@ -24,7 +24,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Israel within the 1949 armistice lines (reached during the 1948-49 war and fixed by the Feb-July 1949 armistice agreements), plus the Mount Scopus exclave in Jerusalem. Before mid-1949 the area held was in flux."
+          "en": "Israel within the 1949 armistice lines (reached during the 1948-49 war and fixed by the Feb-July 1949 armistice agreements), plus the Mount Scopus exclave in Jerusalem. Before mid-1949 the area held was in flux.",
+          "ar": "إسرائيل ضمن خطوط هدنة 1949 (بلغتها أثناء حرب 1948-49 وثبّتتها اتفاقيات الهدنة في شباط/فبراير–تموز/يوليو 1949)، إضافة إلى جيب جبل المشارف في القدس. قبل منتصف 1949 كانت المنطقة الخاضعة متغيرة.",
+          "he": "ישראל בתוך קווי שביתת הנשק של 1949 (שהושגו במלחמת 1948-49 ונקבעו בהסכמי שביתת הנשק בפברואר–יולי 1949), בתוספת מובלעת הר הצופים בירושלים. לפני אמצע 1949 היה השטח שבידיה משתנה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -71,7 +77,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Israel within the 1949 lines plus East Jerusalem, to which Israel applied its law and municipal jurisdiction in June 1967 (not recognised internationally)."
+          "en": "Israel within the 1949 lines plus East Jerusalem, to which Israel applied its law and municipal jurisdiction in June 1967 (not recognised internationally).",
+          "ar": "إسرائيل ضمن خطوط 1949 إضافة إلى القدس الشرقية، التي طبّقت عليها إسرائيل قانونها وولايتها البلدية في حزيران/يونيو 1967 (غير معترف بها دوليًا).",
+          "he": "ישראל בתוך קווי 1949 בתוספת מזרח ירושלים, שעליה החילה ישראל את חוקה ואת סמכות העירייה ביוני 1967 (ללא הכרה בינלאומית).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -121,7 +133,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "As before, plus the Israeli-held part of the Golan Heights after the Golan Heights Law (14 Dec 1981); annexation recognised only by the United States (2019)."
+          "en": "As before, plus the Israeli-held part of the Golan Heights after the Golan Heights Law (14 Dec 1981); annexation recognised only by the United States (2019).",
+          "ar": "كما سبق، إضافة إلى الجزء الذي تسيطر عليه إسرائيل من هضبة الجولان بعد قانون هضبة الجولان (14 كانون الأول/ديسمبر 1981)؛ لم تعترف بالضم سوى الولايات المتحدة (2019).",
+          "he": "כאמור, בתוספת החלק ברמת הגולן שבידי ישראל לאחר חוק רמת הגולן (14 בדצמבר 1981); הסיפוח הוכר רק בידי ארצות הברית (2019).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

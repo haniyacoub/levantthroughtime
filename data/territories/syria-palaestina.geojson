@@ -37,7 +37,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Former province of Judaea under its new name; capital Caesarea Maritima; Jerusalem refounded as Aelia Capitolina."
+          "en": "Former province of Judaea under its new name; capital Caesarea Maritima; Jerusalem refounded as Aelia Capitolina.",
+          "ar": "إقليم اليهودية السابق باسمه الجديد؛ العاصمة قيسارية البحرية؛ وأُعيد تأسيس القدس باسم إيليا كابيتولينا.",
+          "he": "מחוז יהודה לשעבר בשמו החדש; הבירה קיסריה שעל הים; ירושלים נוסדה מחדש כאיליה קפיטולינה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -93,7 +99,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Enlarged by the southern part of Arabia (southern Transjordan, Negev, most of Sinai)."
+          "en": "Enlarged by the southern part of Arabia (southern Transjordan, Negev, most of Sinai).",
+          "ar": "توسع بالجزء الجنوبي من العربية (جنوب شرق الأردن والنقب ومعظم سيناء).",
+          "he": "הורחב בחלק הדרומי של ערביה (דרום עבר הירדן, הנגב ורוב סיני).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -152,7 +164,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After the separation of Palaestina Salutaris in the south."
+          "en": "After the separation of Palaestina Salutaris in the south.",
+          "ar": "بعد فصل فلسطين السالوتارية في الجنوب.",
+          "he": "לאחר הפרדת פלשתינה סלוטריס בדרום.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

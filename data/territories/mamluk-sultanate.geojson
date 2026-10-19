@@ -24,7 +24,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egypt (Sinai) only."
+          "en": "Egypt (Sinai) only.",
+          "ar": "مصر (سيناء) فقط.",
+          "he": "מצרים (סיני) בלבד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -90,7 +96,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Former Syrian Ayyubid lands occupied after Ayn Jalut; the Frankish coast reduced step by step (Caesarea, Haifa, Arsuf 1265; Safed/Galilee 1266) until Acre fell in 1291."
+          "en": "Former Syrian Ayyubid lands occupied after Ayn Jalut; the Frankish coast reduced step by step (Caesarea, Haifa, Arsuf 1265; Safed/Galilee 1266) until Acre fell in 1291.",
+          "ar": "أراضي الأيوبيين السوريين السابقة التي احتُلت بعد عين جالوت؛ وتقلص الساحل الفرنجي خطوة خطوة (قيسارية وحيفا وأرسوف 1265؛ صفد/الجليل 1266) حتى سقطت عكا عام 1291.",
+          "he": "אדמות האיובים הסורים לשעבר שנכבשו לאחר עין ג׳אלות; החוף הפרנקי הצטמצם צעד אחר צעד (קיסריה, חיפה וארסוף 1265; צפת/הגליל 1266) עד נפילת עכו ב-1291.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -178,7 +190,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Whole of Palestine, Transjordan and southern Syria, governed through provinces centred on Damascus, Safad, Gaza and Karak."
+          "en": "Whole of Palestine, Transjordan and southern Syria, governed through provinces centred on Damascus, Safad, Gaza and Karak.",
+          "ar": "كامل فلسطين وشرق الأردن وجنوب سوريا، تُحكم عبر ولايات مركزها دمشق وصفد وغزة والكرك.",
+          "he": "כל פלשתינה, עבר הירדן ודרום סוריה, נשלטים באמצעות מחוזות שמרכזיהם דמשק, צפת, עזה וכרך.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -238,7 +256,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egypt (Sinai) after the loss of Syria and Palestine, until the Ottoman victory at Raydaniyya."
+          "en": "Egypt (Sinai) after the loss of Syria and Palestine, until the Ottoman victory at Raydaniyya.",
+          "ar": "مصر (سيناء) بعد فقدان سوريا وفلسطين، حتى الانتصار العثماني في الريدانية.",
+          "he": "מצרים (סיני) לאחר אובדן סוריה ופלשתינה, עד הניצחון העות׳מאני בריידאניה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

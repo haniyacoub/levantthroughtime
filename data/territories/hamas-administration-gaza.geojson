@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole Gaza Strip internally, within an Israeli-controlled land, sea and air perimeter and an Israeli-enforced buffer zone along the fence; Egypt controlled the Rafah side."
+          "en": "Whole Gaza Strip internally, within an Israeli-controlled land, sea and air perimeter and an Israeli-enforced buffer zone along the fence; Egypt controlled the Rafah side.",
+          "ar": "كامل قطاع غزة داخليًا، ضمن محيط بري وبحري وجوي تسيطر عليه إسرائيل ومنطقة عازلة تفرضها إسرائيل على امتداد السياج؛ وسيطرت مصر على جانب رفح.",
+          "he": "כל רצועת עזה מבפנים, בתוך היקף יבשתי, ימי ואווירי בשליטת ישראל ואזור חיץ שישראל אוכפת לאורך הגדר; מצרים שלטה בצד רפיח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -54,7 +60,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Shrinking area outside Israeli-held zones during the war; after the ceasefire that took effect on 10 Oct 2025, the area west of the 'Yellow Line' (about 47% of Gaza at the ceasefire; roughly 30-40% by Oct 2026 depending on source)."
+          "en": "Shrinking area outside Israeli-held zones during the war; after the ceasefire that took effect on 10 Oct 2025, the area west of the 'Yellow Line' (about 47% of Gaza at the ceasefire; roughly 30-40% by Oct 2026 depending on source).",
+          "ar": "مساحة آخذة في التقلص خارج المناطق التي تسيطر عليها إسرائيل أثناء الحرب؛ وبعد وقف إطلاق النار الذي بدأ في 10 تشرين الأول/أكتوبر 2025، المنطقة غرب 'الخط الأصفر' [Yellow Line] (نحو 47% من غزة عند وقف إطلاق النار؛ ونحو 30-40% بحلول تشرين الأول/أكتوبر 2026 بحسب المصدر).",
+          "he": "שטח הולך ומצטמצם מחוץ לאזורים שבשליטת ישראל במהלך המלחמה; לאחר הפסקת האש שנכנסה לתוקף ב-10 באוקטובר 2025, האזור ממערב ל“קו הצהוב” (כ-47% מעזה בעת הפסקת האש; בערך 30-40% עד אוקטובר 2026 לפי המקור).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

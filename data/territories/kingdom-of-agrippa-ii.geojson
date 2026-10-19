@@ -20,7 +20,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Chalcis in southern Lebanon."
+          "en": "Chalcis in southern Lebanon.",
+          "ar": "خلقيس في جنوب لبنان.",
+          "he": "כלקיס בדרום לבנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -59,7 +65,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Philip's former holdings (Batanaea, Trachonitis etc.), plus from 54 territory near the Sea of Galilee; enlarged again after 70."
+          "en": "Philip's former holdings (Batanaea, Trachonitis etc.), plus from 54 territory near the Sea of Galilee; enlarged again after 70.",
+          "ar": "ممتلكات فيليب السابقة (باتانيا وتراخونيتس وغيرها)، إضافة إلى أراضٍ قرب بحيرة طبرية من 54؛ وتوسعت مجددًا بعد 70.",
+          "he": "אחזקותיו לשעבר של פיליפוס (בתניה, טרכונית ועוד), בתוספת שטח ליד הכינרת מ-54; הורחבה שוב לאחר 70.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

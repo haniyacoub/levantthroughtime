@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Transjordan south of the Dead Sea around the castles of Kerak (Krak du Désert) and Montréal (Shawbak); the Franks reached Aylah (Aqaba)."
+          "en": "Transjordan south of the Dead Sea around the castles of Kerak (Krak du Désert) and Montréal (Shawbak); the Franks reached Aylah (Aqaba).",
+          "ar": "شرق الأردن جنوب البحر الميت حول قلعتي الكرك (كراك دي شيفالييه) ومونتريال (الشوبك)؛ وبلغ الفرنجة أيلة (العقبة).",
+          "he": "עבר הירדן מדרום לים המלח סביב מצודות כרך (Krak du Désert) ומונריאל (שובק); הפרנקים הגיעו לאילה (עקבה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

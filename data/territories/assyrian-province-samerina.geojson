@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Former core of the kingdom of Israel around Samaria; the coastal plain of Dor and Aphek possibly attached (Tappy via Gaß)."
+          "en": "Former core of the kingdom of Israel around Samaria; the coastal plain of Dor and Aphek possibly attached (Tappy via Gaß).",
+          "ar": "القلب السابق لمملكة إسرائيل حول السامرة؛ ويُحتمل أن السهل الساحلي لدور وأفيق أُلحق بها (تابي عن طريق غاس).",
+          "he": "הליבה לשעבר של ממלכת ישראל סביב שומרון; ייתכן שמישור החוף של דור ואפק צורף אליה (טאפי דרך גאס).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -57,7 +63,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Persian province of Samaria under the Sanballat family."
+          "en": "Persian province of Samaria under the Sanballat family.",
+          "ar": "إقليم السامرة الفارسي في ظل أسرة سنبلط.",
+          "he": "מחוז שומרון הפרסי תחת משפחת סנבלט.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

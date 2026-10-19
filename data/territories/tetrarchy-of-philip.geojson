@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Trachonitis, Batanaea and Auranitis, between the Decapolis and Damascus (Iturea also bequeathed to Philip per the Jewish Encyclopedia)."
+          "en": "Trachonitis, Batanaea and Auranitis, between the Decapolis and Damascus (Iturea also bequeathed to Philip per the Jewish Encyclopedia).",
+          "ar": "تراخونيتس وباتانيا وأورانيتس، بين الديكابوليس ودمشق (وأُوصي لفيليب أيضًا بإيطورية بحسب الموسوعة اليهودية).",
+          "he": "טרכונית, בתניה ואוראניטיס, בין הדקאפוליס לדמשק (איטוראה הוריש גם לפיליפוס לפי האנציקלופדיה היהודית).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

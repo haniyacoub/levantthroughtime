@@ -40,7 +40,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "\"Syria\" under Antigonus, assumed here to include Palestine and Phoenicia; contested with Ptolemy, esp. 312–311 and 302–301."
+          "en": "\"Syria\" under Antigonus, assumed here to include Palestine and Phoenicia; contested with Ptolemy, esp. 312–311 and 302–301.",
+          "ar": "«سوريا» في عهد أنتيغونوس، يُفترض هنا أنها تشمل فلسطين وفينيقيا؛ متنازع عليها مع بطليموس، ولا سيما في 312–311 و302–301.",
+          "he": "“סוריה” תחת אנטיגונוס, שמניחים כאן שהיא כוללת את פלשתינה ופיניקיה; שנויה במחלוקת עם תלמי, במיוחד ב-312–311 וב-302–301.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

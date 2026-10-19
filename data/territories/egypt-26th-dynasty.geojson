@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Hegemony over 'Syria and Palestine' between Josiah's death at Megiddo (609) and Carchemish (605). The source gives no boundaries; units mark the coastal route and Jezreel (Megiddo). Judah was a tributary vassal (relation)."
+          "en": "Hegemony over 'Syria and Palestine' between Josiah's death at Megiddo (609) and Carchemish (605). The source gives no boundaries; units mark the coastal route and Jezreel (Megiddo). Judah was a tributary vassal (relation).",
+          "ar": "هيمنة على 'Syria and Palestine' [سوريا وفلسطين] بين موت يوشيا في مجدو (609) وكركميش (605). لا يعطي المصدر حدودًا؛ وتشير الوحدات إلى الطريق الساحلي ومرج ابن عامر (مجدو). كانت يهوذا تابعة تدفع الجزية (علاقة).",
+          "he": "שליטה על “Syria and Palestine” [סוריה ופלשתינה] בין מות יאשיהו במגידו (609) לכרכמיש (605). המקור אינו נותן גבולות; היחידות מציינות את הדרך החופית ואת יזרעאל (מגידו). יהודה הייתה וסאל משלם מס (יחס).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Whole West Bank (excluding East Jerusalem) under Israeli military government; Civil Administration from 1981."
+          "en": "Whole West Bank (excluding East Jerusalem) under Israeli military government; Civil Administration from 1981.",
+          "ar": "كامل الضفة الغربية (من دون القدس الشرقية) تحت حكم عسكري إسرائيلي؛ الإدارة المدنية منذ 1981.",
+          "he": "כל הגדה המערבית (ללא מזרח ירושלים) תחת ממשל צבאי ישראלי; המינהל האזרחי מאז 1981.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -51,7 +57,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After the 1994-1995 Oslo agreements: full Israeli civil and security control in Area C (over 60%), security control in Area B; overall authority retained by the military commander. Israeli settlements and military areas lie mainly in Area C."
+          "en": "After the 1994-1995 Oslo agreements: full Israeli civil and security control in Area C (over 60%), security control in Area B; overall authority retained by the military commander. Israeli settlements and military areas lie mainly in Area C.",
+          "ar": "بعد اتفاقيات أوسلو 1994-1995: سيطرة إسرائيلية مدنية وأمنية كاملة في المنطقة ج (أكثر من 60%)، وسيطرة أمنية في المنطقة ب؛ وتحتفظ القيادة العسكرية بالسلطة العامة. وتقع المستوطنات الإسرائيلية والمناطق العسكرية أساسًا في المنطقة ج.",
+          "he": "לאחר הסכמי אוסלו 1994-1995: שליטה אזרחית וביטחונית ישראלית מלאה באזור C (יותר מ-60%), שליטה ביטחונית באזור B; הסמכות הכוללת נשארה בידי המפקד הצבאי. היישובים הישראליים והאזורים הצבאיים נמצאים בעיקר באזור C.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

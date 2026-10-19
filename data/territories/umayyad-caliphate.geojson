@@ -47,7 +47,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole map area (junds of Filastin, al-Urdunn, Dimashq; Egypt)."
+          "en": "Whole map area (junds of Filastin, al-Urdunn, Dimashq; Egypt).",
+          "ar": "كامل منطقة الخريطة (أجناد فلسطين والأردن ودمشق؛ ومصر).",
+          "he": "כל שטח המפה (ג׳ונדים של פלסטין, אל-ארדן ודמשק; מצרים).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

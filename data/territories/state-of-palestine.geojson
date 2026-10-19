@@ -20,7 +20,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Territory claimed (and referred to by the UN General Assembly) as the Palestinian territory occupied since 1967 - West Bank, East Jerusalem, Gaza Strip. A claim/recognition footprint, not an area of control."
+          "en": "Territory claimed (and referred to by the UN General Assembly) as the Palestinian territory occupied since 1967 - West Bank, East Jerusalem, Gaza Strip. A claim/recognition footprint, not an area of control.",
+          "ar": "الإقليم المُطالَب به (وأشارت إليه الجمعية العامة للأمم المتحدة) بوصفه الأرض الفلسطينية المحتلة منذ 1967 - الضفة الغربية والقدس الشرقية وقطاع غزة. بصمة مطالبة/اعتراف لا منطقة سيطرة.",
+          "he": "השטח הנתבע (ושאליו מתייחסת עצרת האו״ם) כשטח הפלסטיני הכבוש מאז 1967 - הגדה המערבית, מזרח ירושלים ורצועת עזה. טביעת רגל של תביעה/הכרה, לא אזור שליטה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

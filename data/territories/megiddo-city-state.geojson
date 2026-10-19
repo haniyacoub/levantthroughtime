@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Lowland city-state with a small, densely settled territory; it 'dominated the western sector' of the Jezreel Valley (Rehob held the east)."
+          "en": "Lowland city-state with a small, densely settled territory; it 'dominated the western sector' of the Jezreel Valley (Rehob held the east).",
+          "ar": "دولة مدينة سهلية ذات إقليم صغير كثيف الاستيطان؛ 'dominated the western sector' [هيمنت على القطاع الغربي] من مرج ابن عامر (وسيطرت رحوب على الشرق).",
+          "he": "עיר-מדינה בשפלה עם שטח קטן ובצפיפות יישוב גבוהה; היא “dominated the western sector” [שלטה על המקטע המערבי] של עמק יזרעאל (רחוב החזיקה במזרח).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

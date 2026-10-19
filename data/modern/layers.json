@@ -4,7 +4,13 @@
     {
       "id": "partition-1947",
       "name": {
-        "en": "UN partition plan, 1947 (approximate)"
+        "en": "UN partition plan, 1947 (approximate)",
+        "ar": "خطة تقسيم الأمم المتحدة، 1947 (تقريبية)",
+        "he": "תוכנית החלוקה של האו״ם, 1947 (בקירוב)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "partition-1947.geojson",
       "kind": "fill",
@@ -13,19 +19,37 @@
         "jewish": {
           "color": "#b59a3c",
           "label": {
-            "en": "Proposed Jewish State"
+            "en": "Proposed Jewish State",
+            "ar": "الدولة اليهودية المقترحة",
+            "he": "המדינה היהודית המוצעת",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "arab": {
           "color": "#b06aa0",
           "label": {
-            "en": "Proposed Arab State"
+            "en": "Proposed Arab State",
+            "ar": "الدولة العربية المقترحة",
+            "he": "המדינה הערבית המוצעת",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "corpus-separatum": {
           "color": "#6f6f6f",
           "label": {
-            "en": "City of Jerusalem under an international regime (schematic)"
+            "en": "City of Jerusalem under an international regime (schematic)",
+            "ar": "مدينة القدس تحت نظام دولي (تخطيطي)",
+            "he": "העיר ירושלים תחת משטר בינלאומי (סכמטי)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -51,7 +75,13 @@
       "license": "CC BY 4.0 (this project); anchors from Wikidata and OpenHistoricalMap (CC0)",
       "attribution": "Approximate digitisation of UNGA res. 181 (II) Part II; anchors from Wikidata (CC0); Mandate outline from OpenHistoricalMap (CC0).",
       "method": {
-        "en": "No openly licensed map of the plan exists, so the boundaries were digitised from the text of Resolution 181 (II), Part II: each village or landmark it names was placed from Wikidata and moved a short distance to the side the text names; grid lines quoted in the text were converted from the Palestine grid. Approximate: roughly 1-5 km along most lines; worse where 13 vertices are estimates (sub-district boundaries with no open data, Lydda airport 1947 extent, Beit Nabala rail junction, Galilee-Haifa district boundary assumed at the Na'aman stream, Dead Sea strip edge placed 6 km inland within the stated 7-km maximum, El-Baha/Kh. el-Mushrifa/Wadi 'Ajrim not located). Identifications assumed: Kh. Khuweilifa = Tel Halif, Ras ez-Zuweira ~ Neve Zohar, Wadi el-Zaiyatin = Nahal Zetan, Wadi Nafkh = Nahal Nafha, Wadi Lassan ~ Lotz (Lussan) area. Qazaza skipped (its Wikidata point conflicts with the order in the text)."
+        "en": "No openly licensed map of the plan exists, so the boundaries were digitised from the text of Resolution 181 (II), Part II: each village or landmark it names was placed from Wikidata and moved a short distance to the side the text names; grid lines quoted in the text were converted from the Palestine grid. Approximate: roughly 1-5 km along most lines; worse where 13 vertices are estimates (sub-district boundaries with no open data, Lydda airport 1947 extent, Beit Nabala rail junction, Galilee-Haifa district boundary assumed at the Na'aman stream, Dead Sea strip edge placed 6 km inland within the stated 7-km maximum, El-Baha/Kh. el-Mushrifa/Wadi 'Ajrim not located). Identifications assumed: Kh. Khuweilifa = Tel Halif, Ras ez-Zuweira ~ Neve Zohar, Wadi el-Zaiyatin = Nahal Zetan, Wadi Nafkh = Nahal Nafha, Wadi Lassan ~ Lotz (Lussan) area. Qazaza skipped (its Wikidata point conflicts with the order in the text).",
+        "ar": "لا توجد خريطة للخطة مرخصة علنًا، لذا رُقمنت الحدود من نص القرار 181 (د-2)، الجزء الثاني: وُضعت كل قرية أو معلم يذكرها النص بحسب ويكي بيانات ثم أُزيحت مسافة قصيرة إلى الجانب الذي يسميه النص؛ وحُوّلت خطوط الشبكة المقتبسة في النص من شبكة فلسطين. تقريبية: نحو 1-5 كم على امتداد معظم الخطوط؛ وأسوأ حيث 13 رأسًا مقدّرة (حدود أقضية بلا بيانات مفتوحة، ومدى مطار اللد في 1947، وملتقى سكة حديد بيت نبالا، وحد الجليل–حيفا المفترض عند نهر النعمان، وحافة شريط البحر الميت الموضوعة على بعد 6 كم داخل البر ضمن الحد الأقصى المذكور 7 كم، ولم تُحدَّد مواقع البهاء/خربة المشرفة/وادي عجرم). التعريفات المفترضة: خربة خويلفة = تل حليف، ورأس الزويرة ~ نيفيه زوهر، ووادي الزيتين = نحال زيتان، ووادي نفخ = نحال نفحة، ووادي لسان ~ منطقة لوتس (لسان). تم تجاوز قزازة (تتعارض نقطتها في ويكي بيانات مع الترتيب في النص).",
+        "he": "אין מפה של התוכנית ברישיון פתוח, ולכן הגבולות דוגטלו מנוסח החלטה 181 (II), חלק ב׳: כל כפר או ציון דרך שהנוסח מזכיר הוצבו לפי ויקינתונים והוזזו מרחק קצר לצד שהנוסח מציין; קווי רשת שצוטטו בנוסח הומרו מרשת פלשתינה. בקירוב: כ-1-5 ק״מ לאורך רוב הקווים; גרוע יותר במקום ש-13 קודקודים הם הערכות (גבולות תת-מחוזות ללא נתונים פתוחים, היקף שדה התעופה של לוד ב-1947, צומת הרכבת בית נבאלא, גבול מחוז הגליל–חיפה המשוער בנחל נעמן, קצה רצועת ים המלח שהוצב 6 ק״מ בתוך היבשה במסגרת המרבי המוצהר של 7 ק״מ, אל-בהא / ח׳רבת אל-משרפה / ואדי עג׳רים לא אותרו). זיהויים משוערים: ח׳רבת ח׳ווילפה = תל חליף, ראס א-זוויירה ~ נווה זוהר, ואדי א-זייתין = נחל צתן, ואדי נפח = נחל נפחה, ואדי לסאן ~ אזור לוץ (לוסאן). קזאזה דולגה (נקודתה בוויקינתונים סותרת את הסדר בנוסח).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "estimated",
       "sources": [
@@ -81,7 +111,13 @@
     {
       "id": "armistice-dmz-1949",
       "name": {
-        "en": "Demilitarised zones of the 1949 armistice agreements"
+        "en": "Demilitarised zones of the 1949 armistice agreements",
+        "ar": "مناطق منزوعة السلاح في اتفاقيات هدنة 1949",
+        "he": "אזורים מפורזים בהסכמי שביתת הנשק של 1949",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "armistice-dmz-1949.geojson",
       "kind": "fill",
@@ -108,7 +144,13 @@
       "license": "CC0 (OpenHistoricalMap); CC BY 4.0 (this project)",
       "attribution": "El Auja DMZ from the Egyptian-Israeli General Armistice Agreement (1949) Art. VIII; Syrian DMZ © OpenHistoricalMap contributors (CC0), traced from the UN armistice map.",
       "method": {
-        "en": "El Auja: the four map references (MR 08750468, 09650414, 10780285, 09950145) read as Palestine Grid easting/northing in 100 m and converted from EPSG:28191; the two \"frontier\" points fell 0.10 km and 0.21 km from the OHM Mandate frontier (which confirms the reading) and were snapped to it; polygon closed along that frontier (34.5 km). Syria: OHM relation 2864013 v1 (2025-07-25), copied as is. El Auja: corner points to ~100 m (grid precision) plus datum/transformation error of the order of 100 m; frontier from OHM. Area 259 km2 (computed). Syria DMZ: depends on OHM tracing of a small-scale UN map; total 72.8 km2 (computed; not checked against a published figure)."
+        "en": "El Auja: the four map references (MR 08750468, 09650414, 10780285, 09950145) read as Palestine Grid easting/northing in 100 m and converted from EPSG:28191; the two \"frontier\" points fell 0.10 km and 0.21 km from the OHM Mandate frontier (which confirms the reading) and were snapped to it; polygon closed along that frontier (34.5 km). Syria: OHM relation 2864013 v1 (2025-07-25), copied as is. El Auja: corner points to ~100 m (grid precision) plus datum/transformation error of the order of 100 m; frontier from OHM. Area 259 km2 (computed). Syria DMZ: depends on OHM tracing of a small-scale UN map; total 72.8 km2 (computed; not checked against a published figure).",
+        "ar": "العوجا: المراجع الخرائطية الأربعة (MR 08750468، 09650414، 10780285، 09950145) قُرئت إحداثيات شرقية/شمالية في شبكة فلسطين بوحدة 100 م وحُوّلت من EPSG:28191؛ وسقطت نقطتا «الحدود» على بعد 0.10 كم و0.21 كم من حدود الانتداب في OHM (ما يؤكد القراءة) وثُبّتتا عليها؛ وأُغلق المضلع على امتداد تلك الحدود (34.5 كم). سوريا: علاقة OHM رقم 2864013 v1 (2025-07-25)، نُسخت كما هي. العوجا: نقاط الزوايا بدقة نحو 100 م (دقة الشبكة) إضافة إلى خطأ المسند/التحويل بمقدار نحو 100 م؛ الحدود من OHM. المساحة 259 كم² (محسوبة). المنطقة المنزوعة السلاح السورية: تعتمد على تتبع OHM لخريطة أممية صغيرة المقياس؛ المجموع 72.8 كم² (محسوب؛ لم يُقارن برقم منشور).",
+        "he": "אל-עוג׳א: ארבע הפניות המפה (MR 08750468, 09650414, 10780285, 09950145) נקראו כקואורדינטות מזרח/צפון ברשת פלשתינה ביחידות של 100 מ׳ והומרו מ-EPSG:28191; שתי נקודות ה“גבול” נפלו במרחק 0.10 ק״מ ו-0.21 ק״מ מגבול המנדט ב-OHM (מה שמאשר את הקריאה) והודבקו אליו; המצולע נסגר לאורך הגבול הזה (34.5 ק״מ). סוריה: יחס OHM מס׳ 2864013 v1 (2025-07-25), הועתק כפי שהוא. אל-עוג׳א: נקודות פינה בדיוק של כ-100 מ׳ (דיוק הרשת) בתוספת שגיאת דאטום/המרה בסדר גודל של 100 מ׳; הגבול מ-OHM. שטח 259 קמ״ר (מחושב). אזור מפורז סורי: תלוי בהתחקות OHM אחר מפת או״ם בקנה מידה קטן; סך הכול 72.8 קמ״ר (מחושב; לא נבדק מול נתון שפורסם).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "estimated",
       "sources": [
@@ -131,7 +173,13 @@
     {
       "id": "green-line-1949",
       "name": {
-        "en": "1949 armistice line (\"Green Line\"), West Bank sector"
+        "en": "1949 armistice line (\"Green Line\"), West Bank sector",
+        "ar": "خط هدنة 1949 («الخط الأخضر»)، قطاع الضفة الغربية",
+        "he": "קו שביתת הנשק של 1949 (“הקו הירוק”), מקטע הגדה המערבית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "green-line-1949.geojson",
       "kind": "line",
@@ -143,7 +191,13 @@
             1.5
           ],
           "label": {
-            "en": "1949 armistice line, West Bank sector"
+            "en": "1949 armistice line, West Bank sector",
+            "ar": "خط هدنة 1949، قطاع الضفة الغربية",
+            "he": "קו שביתת הנשק של 1949, מקטע הגדה המערבית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -162,7 +216,13 @@
       "license": "ODbL 1.0",
       "attribution": "© OpenStreetMap contributors (ODbL)",
       "method": {
-        "en": "All member ways of OSM relation 7304999 merged into 10 lines (duplicates removed). As mapped in OSM; not compared with the 1949 maps. Only the Jordan sector; the Gaza, Lebanon, Syria and Egypt lines are not in this relation (the project already has israel-1949 from Natural Earth)."
+        "en": "All member ways of OSM relation 7304999 merged into 10 lines (duplicates removed). As mapped in OSM; not compared with the 1949 maps. Only the Jordan sector; the Gaza, Lebanon, Syria and Egypt lines are not in this relation (the project already has israel-1949 from Natural Earth).",
+        "ar": "دُمجت جميع الطرق الأعضاء في علاقة OSM رقم 7304999 في 10 خطوط (أُزيلت المكررات). كما هي مرسومة في OSM؛ لم تُقارن بخرائط 1949. قطاع الأردن فقط؛ خطوط غزة ولبنان وسوريا ومصر ليست في هذه العلاقة (لدى المشروع israel-1949 من Natural Earth أصلًا).",
+        "he": "כל הדרכים החברות ביחס OSM מס׳ 7304999 אוחדו ל-10 קווים (כפילויות הוסרו). כפי שממופה ב-OSM; לא הושווה למפות 1949. מקטע ירדן בלבד; קווי עזה, לבנון, סוריה ומצרים אינם ביחס הזה (לפרויקט כבר יש israel-1949 מ-Natural Earth).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "documented",
       "sources": [
@@ -178,7 +238,13 @@
     {
       "id": "oslo-ii-areas",
       "name": {
-        "en": "Oslo II areas A, B and C"
+        "en": "Oslo II areas A, B and C",
+        "ar": "مناطق أوسلو الثانية أ وب وج",
+        "he": "אזורי אוסלו ב׳ A, B ו-C",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "oslo-ii-areas.geojson",
       "kind": "fill",
@@ -187,31 +253,61 @@
         "area-a": {
           "color": "#AA4499",
           "label": {
-            "en": "Area A: Palestinian civil and security control"
+            "en": "Area A: Palestinian civil and security control",
+            "ar": "المنطقة أ: سيطرة فلسطينية مدنية وأمنية",
+            "he": "אזור A: שליטה פלסטינית אזרחית וביטחונית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "area-b": {
           "color": "#c99bc0",
           "label": {
-            "en": "Area B: Palestinian civil control, Israeli security control"
+            "en": "Area B: Palestinian civil control, Israeli security control",
+            "ar": "المنطقة ب: سيطرة فلسطينية مدنية وسيطرة إسرائيلية أمنية",
+            "he": "אזור B: שליטה פלסטינית אזרחית ושליטה ביטחונית ישראלית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "area-c": {
           "color": "#999933",
           "label": {
-            "en": "Area C: Israeli civil and security control"
+            "en": "Area C: Israeli civil and security control",
+            "ar": "المنطقة ج: سيطرة إسرائيلية مدنية وأمنية",
+            "he": "אזור C: שליטה ישראלית אזרחית וביטחונית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "hebron-h1": {
           "color": "#999933",
           "label": {
-            "en": "hebron-h1"
+            "en": "hebron-h1",
+            "ar": "hebron-h1",
+            "he": "hebron-h1",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "hebron-h2": {
           "color": "#999933",
           "label": {
-            "en": "hebron-h2"
+            "en": "hebron-h2",
+            "ar": "hebron-h2",
+            "he": "hebron-h2",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -230,7 +326,13 @@
       "license": "ODbL 1.0",
       "attribution": "© OpenStreetMap contributors (ODbL)",
       "method": {
-        "en": "OSM relation geometry rebuilt with shapely (outer/inner rings), coordinates rounded to 5 decimals. Areas: A 962 km2 (20 parts), B 1,210 km2 (201 parts, includes the nature-reserve area), C 3,529 km2 (one polygon with 167 holes), H1 21.2, H2 4.8. No overlaps between layers. A/B/C carry source=geomolg.ps (Palestinian Ministry of Local Government). Cross-check with the HDX PA Ministry of Planning layer (not redistributable: non-commercial terms) shows near-identical lines, except that OSM Area C includes about 192 km2 of the northern Dead Sea. East Jerusalem and the Latrun no-man's land are outside all layers. Areas change in reality (e.g. later re-designations) and OSM may lag."
+        "en": "OSM relation geometry rebuilt with shapely (outer/inner rings), coordinates rounded to 5 decimals. Areas: A 962 km2 (20 parts), B 1,210 km2 (201 parts, includes the nature-reserve area), C 3,529 km2 (one polygon with 167 holes), H1 21.2, H2 4.8. No overlaps between layers. A/B/C carry source=geomolg.ps (Palestinian Ministry of Local Government). Cross-check with the HDX PA Ministry of Planning layer (not redistributable: non-commercial terms) shows near-identical lines, except that OSM Area C includes about 192 km2 of the northern Dead Sea. East Jerusalem and the Latrun no-man's land are outside all layers. Areas change in reality (e.g. later re-designations) and OSM may lag.",
+        "ar": "أُعيد بناء هندسة علاقة OSM بواسطة shapely (حلقات خارجية/داخلية)، وقُرّبت الإحداثيات إلى 5 منازل عشرية. المساحات: أ 962 كم² (20 جزءًا)، ب 1,210 كم² (201 جزءًا، وتشمل محمية طبيعية)، ج 3,529 كم² (مضلع واحد بـ167 ثقبًا)، H1 21.2، H2 4.8. لا تداخل بين الطبقات. تحمل أ/ب/ج source=geomolg.ps (وزارة الحكم المحلي الفلسطينية). المقارنة مع طبقة وزارة التخطيط في السلطة الفلسطينية من HDX (غير قابلة لإعادة التوزيع: شروط غير تجارية) تُظهر خطوطًا شبه متطابقة، عدا أن المنطقة ج في OSM تشمل نحو 192 كم² من شمال البحر الميت. القدس الشرقية وأرض اللطرون الحرام خارج جميع الطبقات. تتغير المناطق في الواقع (مثل إعادة التصنيف لاحقًا) وقد يتأخر OSM.",
+        "he": "גאומטריית יחס OSM נבנתה מחדש באמצעות shapely (טבעות חיצוניות/פנימיות), הקואורדינטות עוגלו ל-5 ספרות עשרוניות. שטחים: A 962 קמ״ר (20 חלקים), B 1,210 קמ״ר (201 חלקים, כולל שמורת טבע), C 3,529 קמ״ר (מצולע אחד עם 167 חורים), H1 21.2, H2 4.8. אין חפיפות בין השכבות. ל-A/B/C יש source=geomolg.ps (משרד הממשל המקומי הפלסטיני). השוואה לשכבת משרד התכנון של הרשות הפלסטינית מ-HDX (אסורה להפצה מחדש: תנאים לא מסחריים) מראה קווים כמעט זהים, מלבד כך שאזור C ב-OSM כולל כ-192 קמ״ר מצפון ים המלח. מזרח ירושלים ושטח ההפקר של לטרון מחוץ לכל השכבות. האזורים משתנים במציאות (למשל סיווגים מחדש מאוחרים יותר) ו-OSM עשוי לפגר.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "estimated",
       "sources": [
@@ -255,7 +357,13 @@
     {
       "id": "west-bank-barrier",
       "name": {
-        "en": "West Bank barrier (route as of January 2018)"
+        "en": "West Bank barrier (route as of January 2018)",
+        "ar": "الجدار في الضفة الغربية (المسار حتى كانون الثاني/يناير 2018)",
+        "he": "גדר/חומת ההפרדה בגדה המערבית (מסלול נכון לינואר 2018)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "west-bank-barrier.geojson",
       "kind": "line",
@@ -263,7 +371,13 @@
       "class_styles": {
         "constructed": {
           "label": {
-            "en": "Built"
+            "en": "Built",
+            "ar": "مبني",
+            "he": "נבנה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "under-construction": {
@@ -272,7 +386,13 @@
             2
           ],
           "label": {
-            "en": "Under construction"
+            "en": "Under construction",
+            "ar": "قيد الإنشاء",
+            "he": "בבנייה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "projected": {
@@ -282,7 +402,13 @@
           ],
           "color": "#7a7a7a",
           "label": {
-            "en": "Planned"
+            "en": "Planned",
+            "ar": "مخطط",
+            "he": "מתוכנן",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -301,7 +427,13 @@
       "license": "CC BY 4.0",
       "attribution": "West Bank Separation Barrier, January 2018 — OCHA oPt, via the Humanitarian Data Exchange (CC BY). Reprojected to WGS84.",
       "method": {
-        "en": "Shapefile reprojected from WGS84/UTM 36N to WGS84; properties status, type (NA/empty -> null), type_raw, length_km. Totals: constructed 464 km, under construction 51 km, projected 196 km (712 km). OCHA digitisation from 2018 aerial imagery and field observation; status as of January 2018 (no newer open release found on HDX)."
+        "en": "Shapefile reprojected from WGS84/UTM 36N to WGS84; properties status, type (NA/empty -> null), type_raw, length_km. Totals: constructed 464 km, under construction 51 km, projected 196 km (712 km). OCHA digitisation from 2018 aerial imagery and field observation; status as of January 2018 (no newer open release found on HDX).",
+        "ar": "Shapefile أُعيد إسقاطه من WGS84/UTM 36N إلى WGS84؛ الخصائص: status، type (NA/فارغ -> null)، type_raw، length_km. المجاميع: مبني 464 كم، قيد الإنشاء 51 كم، مخطط 196 كم (712 كم). رقمنة OCHA من صور جوية 2018 ومراقبة ميدانية؛ الوضع حتى كانون الثاني/يناير 2018 (لم يُعثر على إصدار مفتوح أحدث في HDX).",
+        "he": "Shapefile שהוקרן מחדש מ-WGS84/UTM 36N ל-WGS84; מאפיינים: status, type (NA/ריק -> null), type_raw, length_km. סכומים: נבנה 464 ק״מ, בבנייה 51 ק״מ, מתוכנן 196 ק״מ (712 ק״מ). דיגיטציה של OCHA מצילום אווירי של 2018 ומתצפית בשטח; מצב נכון לינואר 2018 (לא נמצא ב-HDX פרסום פתוח חדש יותר).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "documented",
       "sources": [
@@ -323,7 +455,13 @@
     {
       "id": "settlements",
       "name": {
-        "en": "Israeli settlements, by year founded"
+        "en": "Israeli settlements, by year founded",
+        "ar": "المستوطنات الإسرائيلية بحسب سنة التأسيس",
+        "he": "יישובים ישראליים לפי שנת ההקמה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "settlements.geojson",
       "kind": "point",
@@ -331,19 +469,37 @@
       "class_styles": {
         "settlement": {
           "label": {
-            "en": "Israeli settlement in the West Bank or Golan Heights (CBS locality list)"
+            "en": "Israeli settlement in the West Bank or Golan Heights (CBS locality list)",
+            "ar": "مستوطنة إسرائيلية في الضفة الغربية أو هضبة الجولان (قائمة تجمعات الإحصاء المركزي الإسرائيلي)",
+            "he": "יישוב ישראלי בגדה המערבית או ברמת הגולן (רשימת היישובים של הלמ״ס)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "east-jerusalem": {
           "color": "#8a8a3e",
           "label": {
-            "en": "Israeli neighbourhood in East Jerusalem (Peace Now built-up area, 2011 photos)"
+            "en": "Israeli neighbourhood in East Jerusalem (Peace Now built-up area, 2011 photos)",
+            "ar": "حي إسرائيلي في القدس الشرقية (منطقة البناء لدى «السلام الآن»، صور 2011)",
+            "he": "שכונה ישראלית במזרח ירושלים (שטח בנוי לפי שלום עכשיו, צילומי 2011)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "evacuated-2005": {
           "color": "#9a9a9a",
           "label": {
-            "en": "Locality evacuated in 2005 (Gaza Strip and northern West Bank)"
+            "en": "Locality evacuated in 2005 (Gaza Strip and northern West Bank)",
+            "ar": "تجمع أُخلي عام 2005 (قطاع غزة وشمال الضفة الغربية)",
+            "he": "יישוב שפונה ב-2005 (רצועת עזה וצפון הגדה המערבית)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -360,7 +516,13 @@
       "license": "data.gov.il \"Other (Open)\", attribution required; CC BY-IGO (OCHA/HDX)",
       "attribution": "Israel Central Bureau of Statistics, Localities file 2023 (data.gov.il); OCHA oPt / Peace Now settlement built-up areas (HDX, CC BY-IGO); some names © OpenStreetMap contributors. Israel Central Bureau of Statistics, localities file 2003 and \"changes in localities since 1948\" (2005 edition).",
       "method": {
-        "en": "CBS rows with district 7 or subdistrict 29 and a 12-digit coordinate field: easting = first 6 digits, northing = last 6 digits (ITM, EPSG:2039), converted with pyproj. locality_category: \"israeli-settlement\" = CBS founding year >= 1967; \"arab-population-locality\" = Arab population share >= 99% and no founding year (Buq'ata, Majdal Shams, Mas'ade, Ghajar, Ein Qiniyye; CBS religion code 2 = Arab per the 2004 codebook); Nimrod = unknown (no data). 25 CBS aggregate/remainder rows skipped (listed in skipped_rows). East Jerusalem: Peace Now polygons in Jerusalem outside the project's israel-1949 and west-bank units, reduced to representative points; names from Peace Now or the nearest OSM neighbourhood node (auto-joined; check). CBS points are locality reference points (checked against Wikidata: median 0.12 km). The CBS file does not list East Jerusalem neighbourhoods separately; the 22 East Jerusalem points have no founding years or populations, 6 are small unnamed built-up areas. Founding years are CBS values. CBS change types \"מיישובי חבל עזה\" / \"מיישובי צפון השומרון\" joined by CBS code to the 2003 localities file; 8-digit coordinate field read as ITM easting/northing in 100 m and converted (EPSG:2039). 10 of 21 points matched Wikidata items within 1 km (others not name-matched automatically)."
+        "en": "CBS rows with district 7 or subdistrict 29 and a 12-digit coordinate field: easting = first 6 digits, northing = last 6 digits (ITM, EPSG:2039), converted with pyproj. locality_category: \"israeli-settlement\" = CBS founding year >= 1967; \"arab-population-locality\" = Arab population share >= 99% and no founding year (Buq'ata, Majdal Shams, Mas'ade, Ghajar, Ein Qiniyye; CBS religion code 2 = Arab per the 2004 codebook); Nimrod = unknown (no data). 25 CBS aggregate/remainder rows skipped (listed in skipped_rows). East Jerusalem: Peace Now polygons in Jerusalem outside the project's israel-1949 and west-bank units, reduced to representative points; names from Peace Now or the nearest OSM neighbourhood node (auto-joined; check). CBS points are locality reference points (checked against Wikidata: median 0.12 km). The CBS file does not list East Jerusalem neighbourhoods separately; the 22 East Jerusalem points have no founding years or populations, 6 are small unnamed built-up areas. Founding years are CBS values. CBS change types \"מיישובי חבל עזה\" / \"מיישובי צפון השומרון\" joined by CBS code to the 2003 localities file; 8-digit coordinate field read as ITM easting/northing in 100 m and converted (EPSG:2039). 10 of 21 points matched Wikidata items within 1 km (others not name-matched automatically).",
+        "ar": "صفوف الإحصاء المركزي الإسرائيلي (CBS) بمنطقة 7 أو منطقة فرعية 29 وحقل إحداثيات من 12 رقمًا: الشرقي = أول 6 أرقام، والشمالي = آخر 6 أرقام (ITM، EPSG:2039)، حُوّلت بواسطة pyproj. locality_category: «israeli-settlement» = سنة تأسيس CBS >= 1967؛ «arab-population-locality» = حصة السكان العرب >= 99% وبلا سنة تأسيس (بقعاتا، مجدل شمس، مسعدة، الغجر، عين قنية؛ رمز الدين CBS 2 = عربي بحسب دليل رموز 2004)؛ نمرود = غير معروف (لا بيانات). تم تخطي 25 صف تجميع/متبقٍّ من CBS (مدرجة في skipped_rows). القدس الشرقية: مضلعات «السلام الآن» في القدس خارج وحدتي israel-1949 والضفة الغربية في المشروع، اختُزلت إلى نقاط تمثيلية؛ الأسماء من «السلام الآن» أو من أقرب عقدة حي في OSM (ربط آلي؛ يلزم التحقق). نقاط CBS هي نقاط مرجعية للتجمعات (فُحصت مقابل ويكي بيانات: الوسيط 0.12 كم). لا يسرد ملف CBS أحياء القدس الشرقية منفصلة؛ ولنقاط القدس الشرقية الـ22 لا سنوات تأسيس ولا أعداد سكان، و6 منها مناطق بناء صغيرة بلا اسم. سنوات التأسيس هي قيم CBS. أنواع التغيير في CBS «מיישובי חבל עזה» / «מיישובי צפון השומרון» رُبطت برمز CBS بملف تجمعات 2003؛ حقل الإحداثيات من 8 أرقام قُرئ شرقيًا/شماليًا في ITM بوحدة 100 م وحُوّل (EPSG:2039). طابقت 10 من 21 نقطة عناصر ويكي بيانات ضمن 1 كم (والباقي لم يُطابَق بالاسم آليًا).",
+        "he": "שורות הלמ״ס (CBS) עם מחוז 7 או נפה 29 ושדה קואורדינטות בן 12 ספרות: מזרח = 6 הספרות הראשונות, צפון = 6 הספרות האחרונות (ITM, EPSG:2039), הומרו באמצעות pyproj. locality_category: “israeli-settlement” = שנת הקמה לפי הלמ״ס >= 1967; “arab-population-locality” = חלק האוכלוסייה הערבית >= 99% וללא שנת הקמה (בוקעאתא, מג׳דל שמס, מסעדה, ע׳ג׳ר, עין קנייא; קוד דת 2 בלמ״ס = ערבי לפי ספר הקודים של 2004); נמרוד = לא ידוע (אין נתונים). 25 שורות סיכום/שארית של הלמ״ס דולגו (רשומות ב-skipped_rows). מזרח ירושלים: מצולעים של שלום עכשיו בירושלים מחוץ ליחידות israel-1949 והגדה המערבית של הפרויקט, צומצמו לנקודות מייצגות; שמות משלום עכשיו או מצומת השכונה הקרוב ביותר ב-OSM (צירוף אוטומטי; יש לבדוק). נקודות הלמ״ס הן נקודות ייחוס של יישובים (נבדקו מול ויקינתונים: חציון 0.12 ק״מ). קובץ הלמ״ס אינו מפרט את שכונות מזרח ירושלים בנפרד; ל-22 נקודות מזרח ירושלים אין שנות הקמה או אוכלוסייה, ו-6 מהן שטחים בנויים קטנים ללא שם. שנות ההקמה הן ערכי הלמ״ס. סוגי השינוי של הלמ״ס “מיישובי חבל עזה” / “מיישובי צפון השומרון” צורפו לפי קוד הלמ״ס לקובץ היישובים של 2003; שדה קואורדינטות בן 8 ספרות נקרא כמזרח/צפון ב-ITM ביחידות של 100 מ׳ והומר (EPSG:2039). 10 מתוך 21 נקודות הותאמו לפריטי ויקינתונים בטווח של 1 ק״מ (האחרות לא הותאמו אוטומטית לפי שם).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "documented",
       "sources": [
@@ -397,7 +559,13 @@
     {
       "id": "gaza-lines-2023",
       "name": {
-        "en": "Gaza Strip since 2023: corridors and the October 2025 withdrawal line (schematic)"
+        "en": "Gaza Strip since 2023: corridors and the October 2025 withdrawal line (schematic)",
+        "ar": "قطاع غزة منذ 2023: الممرات وخط الانسحاب في تشرين الأول/أكتوبر 2025 (تخطيطي)",
+        "he": "רצועת עזה מאז 2023: מסדרונות וקו הנסיגה של אוקטובר 2025 (סכמטי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "file": "gaza-lines-2023.geojson",
       "kind": "line",
@@ -410,7 +578,13 @@
             1
           ],
           "label": {
-            "en": "“Yellow Line”: Israeli withdrawal line under the October 2025 ceasefire"
+            "en": "“Yellow Line”: Israeli withdrawal line under the October 2025 ceasefire",
+            "ar": "«الخط الأصفر»: خط الانسحاب الإسرائيلي بموجب وقف إطلاق النار في تشرين الأول/أكتوبر 2025",
+            "he": "“הקו הצהוב”: קו הנסיגה הישראלי לפי הפסקת האש של אוקטובר 2025",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         },
         "corridor": {
@@ -419,7 +593,13 @@
             1.5
           ],
           "label": {
-            "en": "Military corridor held by Israeli forces (Netzarim, Philadelphi, Morag)"
+            "en": "Military corridor held by Israeli forces (Netzarim, Philadelphi, Morag)",
+            "ar": "ممر عسكري تسيطر عليه القوات الإسرائيلية (نتساريم، فيلادلفيا، موراغ)",
+            "he": "מסדרון צבאי בשליטת כוחות ישראליים (נצרים, פילדלפי, מורג)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           }
         }
       },
@@ -438,7 +618,13 @@
       "license": "ODbL 1.0",
       "attribution": "© OpenStreetMap contributors (ODbL)",
       "method": {
-        "en": "Yellow Line: OSM way 1313327399 (closed area tagged landuse=military, source=idf, date=20251014) rebuilt as of version 32 (2025-10-19) from node histories; only the inner edge kept and simplified to 10 vertices (~300 m tolerance). Netzarim and Philadelphi: OSM road geometries simplified (~200 m). Morag: straight NW-SE line through the former Morag settlement (wikidata:Q2777077) clipped to the OSM Gaza outline - no published geometry found. Schematic only; not to be drawn as zones. The Yellow Line OSM tracing comes from an Israeli military map; it was later shifted (Reuters 2026). OSM also maps a 2026 \"Orange Line\" (way 1541663246) - not exported because its source was not checked."
+        "en": "Yellow Line: OSM way 1313327399 (closed area tagged landuse=military, source=idf, date=20251014) rebuilt as of version 32 (2025-10-19) from node histories; only the inner edge kept and simplified to 10 vertices (~300 m tolerance). Netzarim and Philadelphi: OSM road geometries simplified (~200 m). Morag: straight NW-SE line through the former Morag settlement (wikidata:Q2777077) clipped to the OSM Gaza outline - no published geometry found. Schematic only; not to be drawn as zones. The Yellow Line OSM tracing comes from an Israeli military map; it was later shifted (Reuters 2026). OSM also maps a 2026 \"Orange Line\" (way 1541663246) - not exported because its source was not checked.",
+        "ar": "الخط الأصفر: طريق OSM رقم 1313327399 (منطقة مغلقة موسومة landuse=military، source=idf، date=20251014) أُعيد بناؤها بحسب الإصدار 32 (2025-10-19) من تواريخ العقد؛ احتُفظ بالحافة الداخلية فقط وبُسّطت إلى 10 رؤوس (تسامح نحو 300 م). نتساريم وفيلادلفيا: هندسات طرق OSM مبسّطة (نحو 200 م). موراغ: خط مستقيم شمال غرب–جنوب شرق عبر مستوطنة موراغ السابقة (wikidata:Q2777077) مقصوص على حدود غزة في OSM - لم تُعثر هندسة منشورة. تخطيطي فقط؛ لا يُرسم بوصفه مناطق. تتبع OSM للخط الأصفر مأخوذ من خريطة عسكرية إسرائيلية؛ ثم أُزيح لاحقًا (رويترز 2026). يرسم OSM أيضًا «الخط البرتقالي» لعام 2026 (طريق 1541663246) - لم يُصدَّر لأن مصدره لم يُفحص.",
+        "he": "הקו הצהוב: דרך OSM מס׳ 1313327399 (שטח סגור המסומן landuse=military, source=idf, date=20251014) נבנתה מחדש נכון לגרסה 32 (2025-10-19) מהיסטוריות הצמתים; נשמר רק הקצה הפנימי והוא פושט ל-10 קודקודים (סבילות כ-300 מ׳). נצרים ופילדלפי: גאומטריות דרכים של OSM מפושטות (כ-200 מ׳). מורג: קו ישר צפון-מערב–דרום-מזרח דרך היישוב מורג לשעבר (wikidata:Q2777077) חתוך לקו המתאר של עזה ב-OSM - לא נמצאה גאומטריה שפורסמה. סכמטי בלבד; אין לצייר כאזורים. התחקות OSM אחר הקו הצהוב מגיעה ממפה צבאית ישראלית; הוא הוזז מאוחר יותר (רויטרס 2026). OSM ממפה גם “קו כתום” של 2026 (דרך 1541663246) - לא יוצא כי מקורו לא נבדק.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "estimated",
       "sources": [

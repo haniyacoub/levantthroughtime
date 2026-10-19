@@ -21,7 +21,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Southern Lebanon up to the Beirut area after the June 1982 invasion; withdrawals in stages to 1985."
+          "en": "Southern Lebanon up to the Beirut area after the June 1982 invasion; withdrawals in stages to 1985.",
+          "ar": "جنوب لبنان حتى منطقة بيروت بعد الغزو في حزيران/يونيو 1982؛ انسحابات على مراحل حتى 1985.",
+          "he": "דרום לבנון עד אזור ביירות לאחר הפלישה ביוני 1982; נסיגות בשלבים עד 1985.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -54,7 +60,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "The 'security zone' strip along the border held by the IDF and the South Lebanon Army."
+          "en": "The 'security zone' strip along the border held by the IDF and the South Lebanon Army.",
+          "ar": "شريط 'المنطقة الأمنية' على طول الحدود الذي يحتله الجيش الإسرائيلي وجيش لبنان الجنوبي.",
+          "he": "רצועת “רצועת הביטחון” לאורך הגבול שהחזיקו צה״ל וצבא דרום לבנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

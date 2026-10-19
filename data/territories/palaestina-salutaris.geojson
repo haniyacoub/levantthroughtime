@@ -31,7 +31,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Idumaea and Arabia Petraea: Negev, Arabah, southern Transjordan, most of Sinai."
+          "en": "Idumaea and Arabia Petraea: Negev, Arabah, southern Transjordan, most of Sinai.",
+          "ar": "أدوميا والعربية البترائية: النقب ووادي عربة وجنوب شرق الأردن ومعظم سيناء.",
+          "he": "אידומיאה וערביה הפטראית: הנגב, הערבה, דרום עבר הירדן ורוב סיני.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

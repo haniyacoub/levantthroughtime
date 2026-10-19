@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Judea with gains under Jonathan and Simon, incl. the harbour of Jaffa."
+          "en": "Judea with gains under Jonathan and Simon, incl. the harbour of Jaffa.",
+          "ar": "اليهودية مع مكاسب في عهد يوناتان وشمعون، بما فيها ميناء يافا.",
+          "he": "יהודה עם רווחים תחת יונתן ושמעון, כולל נמל יפו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -69,7 +75,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Expansion under John Hyrcanus I: Idumea (southern hills/northern Negev), Samaria, territory in Transjordan."
+          "en": "Expansion under John Hyrcanus I: Idumea (southern hills/northern Negev), Samaria, territory in Transjordan.",
+          "ar": "توسع في عهد يوحنا هيركانوس الأول: أدوميا (المرتفعات الجنوبية/شمال النقب) والسامرة وأراضٍ في شرق الأردن.",
+          "he": "התרחבות תחת יוחנן הורקנוס הראשון: אידומיאה (ההרים הדרומיים / צפון הנגב), שומרון ושטחים בעבר הירדן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -126,7 +138,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Maximal extent: Galilee and part of Iturea (Aristobulus I, 104–103), then the coastal cities and the area east of the Jordan (Alexander Jannaeus, 103–76)."
+          "en": "Maximal extent: Galilee and part of Iturea (Aristobulus I, 104–103), then the coastal cities and the area east of the Jordan (Alexander Jannaeus, 103–76).",
+          "ar": "أقصى امتداد: الجليل وجزء من إيطورية (أرسطوبولس الأول، 104–103)، ثم المدن الساحلية والمنطقة شرق الأردن (ألكسندر ينايوس، 103–76).",
+          "he": "היקף מרבי: הגליל וחלק מאיטוראה (אריסטובולוס הראשון, 104–103), ואחר כך ערי החוף והאזור ממזרח לירדן (אלכסנדר ינאי, 103–76).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

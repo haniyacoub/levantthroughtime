@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Gilead, if it was organised as a separate province rather than attached to Qarninu."
+          "en": "Gilead, if it was organised as a separate province rather than attached to Qarninu.",
+          "ar": "جلعاد، إن نُظّمت إقليمًا منفصلًا لا ملحقة بقرنينو.",
+          "he": "הגלעד, אם אורגן כמחוז נפרד ולא צורף לקרנינו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

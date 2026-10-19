@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Coastal plain 'from Joppa ... southward to Gaza' (Philistia), with Gath and Ekron toward the inner plain and Shephelah."
+          "en": "Coastal plain 'from Joppa ... southward to Gaza' (Philistia), with Gath and Ekron toward the inner plain and Shephelah.",
+          "ar": "السهل الساحلي 'from Joppa ... southward to Gaza' [من يافا ... جنوبًا إلى غزة] (فلستيا)، مع جت وعقرون نحو السهل الداخلي والشفيلا.",
+          "he": "מישור החוף “from Joppa ... southward to Gaza” [מיפו ... דרומה עד עזה] (פלשת), עם גת ועקרון לעבר המישור הפנימי והשפלה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -64,7 +70,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Britannica says the Philistines occupied part of the Judaean hill country c. 1050 BCE. The claim draws largely on the biblical narrative (e.g. Philistine garrisons in the highlands), which Finkelstein considers 'highly unlikely' as told."
+          "en": "Britannica says the Philistines occupied part of the Judaean hill country c. 1050 BCE. The claim draws largely on the biblical narrative (e.g. Philistine garrisons in the highlands), which Finkelstein considers 'highly unlikely' as told.",
+          "ar": "تقول بريتانيكا إن الفلستيين احتلوا جزءًا من مرتفعات اليهودية نحو 1050 ق.م. ويستند الادعاء إلى حد كبير إلى الرواية التوراتية (مثل حاميات فلستية في المرتفعات)، وهو ما يعدّه فنكلشتاين 'highly unlikely' [مستبعدًا جدًا] كما رُوي.",
+          "he": "בריטניקה אומרת שהפלשתים כבשו חלק מהרי יהודה בסביבות 1050 לפנה״ס. הטענה נשענת במידה רבה על התיאור המקראי (למשל מצבי פלשתים בהר), שפינקלשטיין רואה בו, כפי שסופר, “highly unlikely” [בלתי סביר ביותר].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -104,7 +116,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Individual Philistine city-states on the southern coastal plain. Their hinterlands shifted with Judah (e.g. Uzziah and Ashdod in the 8th century), Assyria and Egypt."
+          "en": "Individual Philistine city-states on the southern coastal plain. Their hinterlands shifted with Judah (e.g. Uzziah and Ashdod in the 8th century), Assyria and Egypt.",
+          "ar": "دول مدن فلستية منفردة في السهل الساحلي الجنوبي. تغيرت أراضيها الخلفية مع يهوذا (مثل عزيا وأشدود في القرن الثامن) وآشور ومصر.",
+          "he": "ערי-מדינה פלשתיות בודדות במישור החוף הדרומי. עורפן השתנה עם יהודה (למשל עוזיהו ואשדוד במאה ה-8), אשור ומצרים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

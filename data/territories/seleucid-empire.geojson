@@ -42,7 +42,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Former Ptolemaic Palestine and Phoenicia; from 167 BCE the Judean hills were contested by the Maccabean rebels (Akra garrison in Jerusalem held to 141)."
+          "en": "Former Ptolemaic Palestine and Phoenicia; from 167 BCE the Judean hills were contested by the Maccabean rebels (Akra garrison in Jerusalem held to 141).",
+          "ar": "فلسطين وفينيقيا البطلميتان السابقتان؛ ومنذ 167 ق.م. تنازع ثوار المكابيين على مرتفعات اليهودية (حامية عكرا في القدس صمدت حتى 141).",
+          "he": "פלשתינה ופיניקיה התלמיות לשעבר; מ-167 לפנה״ס נתנו המורדים המכבים מאבק על הרי יהודה (חיל המצב בחקרא בירושלים החזיק עד 141).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -85,7 +91,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Residual and shrinking Seleucid authority in Syria and the northern coast while Hasmonean, Nabataean and Ituraean rulers expanded."
+          "en": "Residual and shrinking Seleucid authority in Syria and the northern coast while Hasmonean, Nabataean and Ituraean rulers expanded.",
+          "ar": "سلطة سلوقية متبقية ومتقلصة في سوريا والساحل الشمالي بينما توسع الحكام الحشمونيون والأنباط والإيطوريون.",
+          "he": "סמכות סלווקית שרידית ומצטמצמת בסוריה ובחוף הצפוני בעוד שליטים חשמונאים, נבטים ואיטוראים התרחבו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Southern and central Palestine behind the British front line (Jaffa-Jerusalem area southwards) between the fall of Jerusalem and the September 1918 offensive."
+          "en": "Southern and central Palestine behind the British front line (Jaffa-Jerusalem area southwards) between the fall of Jerusalem and the September 1918 offensive.",
+          "ar": "جنوب فلسطين ووسطها خلف الجبهة البريطانية (من منطقة يافا–القدس جنوبًا) بين سقوط القدس وهجوم أيلول/سبتمبر 1918.",
+          "he": "דרום פלשתינה ומרכזה מאחורי החזית הבריטית (מאזור יפו–ירושלים דרומה) בין נפילת ירושלים למתקפת ספטמבר 1918.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -70,7 +76,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "All of Palestine west of the Jordan after the Ottoman collapse; northern limit with the French zone not yet fixed (fixed by the 1920 convention and 1923 agreement)."
+          "en": "All of Palestine west of the Jordan after the Ottoman collapse; northern limit with the French zone not yet fixed (fixed by the 1920 convention and 1923 agreement).",
+          "ar": "كل فلسطين غرب الأردن بعد الانهيار العثماني؛ لم يُحدد بعد الحد الشمالي مع المنطقة الفرنسية (حُدد باتفاقية 1920 واتفاق 1923).",
+          "he": "כל פלשתינה ממערב לירדן לאחר התמוטטות העות׳מאנים; הגבול הצפוני עם האזור הצרפתי טרם נקבע (נקבע באמנת 1920 ובהסכם 1923).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

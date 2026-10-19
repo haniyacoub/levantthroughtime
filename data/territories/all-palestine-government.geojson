@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Nominal authority in the Egyptian-held enclave around Gaza; claimed all of Palestine. After October 1948 it held no territory."
+          "en": "Nominal authority in the Egyptian-held enclave around Gaza; claimed all of Palestine. After October 1948 it held no territory.",
+          "ar": "سلطة اسمية في الجيب الخاضع لمصر حول غزة؛ ادعت السلطة على كامل فلسطين. وبعد تشرين الأول/أكتوبر 1948 لم تكن تحكم أي أرض.",
+          "he": "סמכות שמית במובלעת שבשליטת מצרים סביב עזה; טענה לכל פלשתינה. לאחר אוקטובר 1948 לא החזיקה בשום שטח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

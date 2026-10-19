@@ -34,7 +34,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Former Nabataean kingdom plus adjacent Decapolis cities; capital Bostra in the Hauran."
+          "en": "Former Nabataean kingdom plus adjacent Decapolis cities; capital Bostra in the Hauran.",
+          "ar": "المملكة النبطية السابقة إضافة إلى مدن الديكابوليس المجاورة؛ العاصمة بصرى في حوران.",
+          "he": "הממלכה הנבטית לשעבר בתוספת ערי הדקאפוליס הסמוכות; הבירה בוצרה בחורן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -75,7 +81,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Reduced to northern Transjordan and the Hauran after the transfer of the south to Palaestina."
+          "en": "Reduced to northern Transjordan and the Hauran after the transfer of the south to Palaestina.",
+          "ar": "تقلصت إلى شمال شرق الأردن وحوران بعد نقل الجنوب إلى فلسطين.",
+          "he": "הצטמצמה לצפון עבר הירדן ולחורן לאחר העברת הדרום לפלשתינה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

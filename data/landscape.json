@@ -1178,7 +1178,13 @@
       "alt_names": [
         {
           "text": {
-            "en": "Way of the Sea (derekh ha-yam)"
+            "en": "Way of the Sea (derekh ha-yam)",
+            "ar": "طريق البحر (دَرك هَيَم)",
+            "he": "דרך הים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "hebrew-bible (Isaiah 8:23)",
           "sources": [
@@ -1190,7 +1196,13 @@
         },
         {
           "text": {
-            "en": "Via Maris"
+            "en": "Via Maris",
+            "ar": "فيا ماريس",
+            "he": "ויה מריס",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "latin-bible-translation; modern scholarship",
           "sources": [
@@ -1202,7 +1214,13 @@
         },
         {
           "text": {
-            "en": "the road from Damascus to the sea"
+            "en": "the road from Damascus to the sea",
+            "ar": "الطريق من دمشق إلى البحر",
+            "he": "הדרך מדמשק לים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "medieval",
           "sources": [
@@ -1213,7 +1231,13 @@
         },
         {
           "text": {
-            "en": "international road from Egypt to Syria and Mesopotamia"
+            "en": "international road from Egypt to Syria and Mesopotamia",
+            "ar": "الطريق الدولي من مصر إلى سوريا وبلاد ما بين النهرين",
+            "he": "הדרך הבין־לאומית ממצרים לסוריה ולמסופוטמיה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "academic (descriptive)",
           "sources": [
@@ -1328,7 +1352,13 @@
         }
       ],
       "description": {
-        "en": "Ancient route from Egypt along the Sinai and southern Levantine coast, then inland via Megiddo and Hazor to Damascus, used by trade and armies."
+        "en": "Ancient route from Egypt along the Sinai and southern Levantine coast, then inland via Megiddo and Hazor to Damascus, used by trade and armies.",
+        "ar": "طريق قديم من مصر على امتداد سيناء وساحل جنوب بلاد الشام، ثم إلى الداخل عبر مجدو وحاصور إلى دمشق، استخدمته التجارة والجيوش.",
+        "he": "דרך עתיקה ממצרים לאורך סיני וחוף דרום הלבנט, ואחר כך פנימה דרך מגידו וחצור לדמשק, ששימשה סוחרים וצבאות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "contested",
       "sources": [
@@ -1370,7 +1400,13 @@
       "alt_names": [
         {
           "text": {
-            "en": "Via Nova Traiana"
+            "en": "Via Nova Traiana",
+            "ar": "فيا نوفا تراينا",
+            "he": "ויה נובה טראיאנה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "roman-sources (Trajan's renovated road, Bostra to Aqaba)",
           "sources": [
@@ -1462,7 +1498,13 @@
         }
       ],
       "description": {
-        "en": "North-south route across the Transjordanian plateau linking Syria with the Gulf of Aqaba, renovated by Trajan as the Via Nova Traiana."
+        "en": "North-south route across the Transjordanian plateau linking Syria with the Gulf of Aqaba, renovated by Trajan as the Via Nova Traiana.",
+        "ar": "طريق شمالي - جنوبي عبر هضبة شرق الأردن يربط سوريا بخليج العقبة، جدّده تراجان باسم فيا نوفا تراينا.",
+        "he": "דרך צפון־דרום חוצה את מישור עבר הירדן ומחברת את סוריה עם מפרץ עקבה, ששופצה בידי טראיאנוס בשם ויה נובה טראיאנה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "estimated",
       "sources": [
@@ -1504,7 +1546,13 @@
       "alt_names": [
         {
           "text": {
-            "en": "Incense Route - Desert Cities in the Negev"
+            "en": "Incense Route - Desert Cities in the Negev",
+            "ar": "طريق البخور - مدن الصحراء في النقب",
+            "he": "דרך הבשמים – ערי המדבר בנגב",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "used_by": "UNESCO (World Heritage property 1107)",
           "sources": [
@@ -1605,7 +1653,13 @@
         }
       ],
       "description": {
-        "en": "Negev segment of the Arabian incense trade network, linking Petra with the Mediterranean through Nabataean towns, forts and caravanserais."
+        "en": "Negev segment of the Arabian incense trade network, linking Petra with the Mediterranean through Nabataean towns, forts and caravanserais.",
+        "ar": "مقطع النقب من شبكة تجارة البخور العربية، يربط البتراء بالبحر المتوسط عبر بلدات ومعاقل وخانات قوافل نبطية.",
+        "he": "קטע הנגב של רשת סחר הבשמים הערבית, המחברת את פטרה עם הים התיכון דרך עיירות, מבצרים ופונדקי שיירות נבטיים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "documented",
       "sources": [
@@ -1632,7 +1686,13 @@
     {
       "id": "hejaz-railway",
       "name": {
-        "en": "Hejaz Railway (successor of the Syrian pilgrimage route)"
+        "en": "Hejaz Railway (successor of the Syrian pilgrimage route)",
+        "ar": "سكة حديد الحجاز (خليفة طريق الحج السوري)",
+        "he": "מסילת הברזל החיג׳אזית (יורשת דרך העולים לרגל הסורית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "start": {
         "year": 1900,
@@ -1709,7 +1769,13 @@
         }
       ],
       "description": {
-        "en": "Ottoman railway from Damascus to Medina built in 1900-08, officially to serve pilgrims to the Hejaz, with a branch from Daraa to Haifa."
+        "en": "Ottoman railway from Damascus to Medina built in 1900-08, officially to serve pilgrims to the Hejaz, with a branch from Daraa to Haifa.",
+        "ar": "سكة حديد عثمانية من دمشق إلى المدينة المنورة بُنيت في 1900-1908، رسمياً لخدمة الحجاج إلى الحجاز، مع فرع من درعا إلى حيفا.",
+        "he": "מסילת ברזל עות׳מאנית מדמשק למדינה שנבנתה בשנים 1900–1908, רשמית כדי לשרת עולי רגל לחיג׳אז, עם סניף מדרעא לחיפה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "confidence": "documented",
       "sources": [

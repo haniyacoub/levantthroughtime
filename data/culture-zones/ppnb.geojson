@@ -29,7 +29,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Early PPNB: settlements first founded in a narrow north-south corridor on the western edge of the Transjordanian plateau and in the Jordan Valley, from Aswad (Damascus basin) to southern Edom."
+          "en": "Early PPNB: settlements first founded in a narrow north-south corridor on the western edge of the Transjordanian plateau and in the Jordan Valley, from Aswad (Damascus basin) to southern Edom.",
+          "ar": "العصر الحجري الحديث ما قبل الفخاري «ب» المبكر: أُسست المستوطنات أول مرة في ممر ضيق من الشمال إلى الجنوب على الحافة الغربية لهضبة شرق الأردن وفي وادي الأردن، من الأسود (حوض دمشق) إلى جنوب أدوم.",
+          "he": "הנאוליתית הקדם-קראמית ב׳ המוקדמת: יישובים נוסדו לראשונה במסדרון צר צפון–דרום בשולי הרמה הטרנסירדנית המערביים ובבקעת הירדן, מאסוואד (אגן דמשק) ועד דרום אדום.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -76,7 +82,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Middle PPNB: the full PPNB 'koine'. Villages run along the King's Highway corridor (e.g. 'Ain Ghazal); there are communities in the Carmel, Galilee and Samaria, and special sites such as Nahal Hemar cave (Judean Desert) and Kfar HaHoresh (Nazareth hills)."
+          "en": "Middle PPNB: the full PPNB 'koine'. Villages run along the King's Highway corridor (e.g. 'Ain Ghazal); there are communities in the Carmel, Galilee and Samaria, and special sites such as Nahal Hemar cave (Judean Desert) and Kfar HaHoresh (Nazareth hills).",
+          "ar": "العصر الحجري الحديث ما قبل الفخاري «ب» الأوسط: «الكويني» الكامل لتلك الفترة. تمتد القرى على طول ممر الطريق الملكي (مثل عين غزال)؛ وهناك مجتمعات في الكرمل والجليل والسامرة، ومواقع خاصة مثل كهف نحال حيمار (صحراء يهودا) وكفر هحوريش (تلال الناصرة).",
+          "he": "הנאוליתית הקדם-קראמית ב׳ התיכונה: ה“קוינה” המלאה של התקופה. כפרים נמשכים לאורך מסדרון דרך המלך (למשל עין ע׳זאל); יש קהילות בכרמל, בגליל ובשומרון, ואתרים מיוחדים כמו מערת נחל חמר (מדבר יהודה) וכפר החורש (גבעות נצרת).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -121,7 +133,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Late PPNB: 'megasites' of up to 30 acres along the north-south axis, and the arid margins resettled during the PPNB (shown schematically as partial Negev/Sinai)."
+          "en": "Late PPNB: 'megasites' of up to 30 acres along the north-south axis, and the arid margins resettled during the PPNB (shown schematically as partial Negev/Sinai).",
+          "ar": "العصر الحجري الحديث ما قبل الفخاري «ب» المتأخر: 'megasites' [مواقع ضخمة] تصل إلى 30 فدانًا على المحور الشمالي-الجنوبي، وإعادة استيطان الأطراف الجافة خلال تلك الفترة (تظهر تخطيطيًا كجزء من النقب/سيناء).",
+          "he": "הנאוליתית הקדם-קראמית ב׳ המאוחרת: “megasites” [אתרי ענק] של עד 30 אקר לאורך ציר צפון–דרום, והשוליים הצחיחים יושבו מחדש במהלך התקופה (מוצג סכמטית כחלק חלקי של הנגב/סיני).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

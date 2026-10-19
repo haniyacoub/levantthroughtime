@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Seat at Sidon: 'The central coastal region, from just north of Haifa to Beirut ... included the entire area of Galilee' (Strickert); the Druze emirate of Mount Lebanon was under the oversight of the governors of Saida and Tripoli."
+          "en": "Seat at Sidon: 'The central coastal region, from just north of Haifa to Beirut ... included the entire area of Galilee' (Strickert); the Druze emirate of Mount Lebanon was under the oversight of the governors of Saida and Tripoli.",
+          "ar": "المركز في صيدا: 'The central coastal region, from just north of Haifa to Beirut ... included the entire area of Galilee' [المنطقة الساحلية الوسطى، من شمال حيفا مباشرة إلى بيروت ... شملت منطقة الجليل كلها] (ستريكرت)؛ وكانت إمارة الدروز في جبل لبنان تحت إشراف واليي صيدا وطرابلس.",
+          "he": "המושב בצידון: “The central coastal region, from just north of Haifa to Beirut ... included the entire area of Galilee” [אזור החוף המרכזי, ממש מצפון לחיפה ועד ביירות ... כלל את כל אזור הגליל] (סטריקרט); האמירות הדרוזית של הר הלבנון הייתה תחת פיקוחם של מושלי צידון וטריפולי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -73,7 +79,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Seat at Acre (al-Jazzar 1775-1804, then Suleyman Pasha 1804-1818 and successors). In 1830 Jerusalem and Nablus, and the districts of Jaffa and Gaza, were also under Acre."
+          "en": "Seat at Acre (al-Jazzar 1775-1804, then Suleyman Pasha 1804-1818 and successors). In 1830 Jerusalem and Nablus, and the districts of Jaffa and Gaza, were also under Acre.",
+          "ar": "المركز في عكا (الجزار 1775-1804، ثم سليمان باشا 1804-1818 وخلفاؤه). وفي 1830 كانت القدس ونابلس ولواءا يافا وغزة أيضًا تحت عكا.",
+          "he": "המושב בעכו (אל-ג׳זאר 1775-1804, אחר כך סולימאן פאשה 1804-1818 ויורשיו). ב-1830 היו גם ירושלים, שכם/נאבלוס ומחוזות יפו ועזה תחת עכו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -134,7 +146,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Seat at Beirut; Acre a sanjak covering Galilee."
+          "en": "Seat at Beirut; Acre a sanjak covering Galilee.",
+          "ar": "المركز في بيروت؛ وعكا سنجق يشمل الجليل.",
+          "he": "המושב בביירות; עכו סנג׳ק הכולל את הגליל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

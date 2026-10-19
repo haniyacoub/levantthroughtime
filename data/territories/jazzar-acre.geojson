@@ -31,7 +31,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Galilee and the coast from Acre, with Beirut and Tripoli; 'control of most of Palestine' (Britannica)."
+          "en": "Galilee and the coast from Acre, with Beirut and Tripoli; 'control of most of Palestine' (Britannica).",
+          "ar": "الجليل والساحل من عكا، مع بيروت وطرابلس؛ 'control of most of Palestine' [السيطرة على معظم فلسطين] (بريتانيكا).",
+          "he": "הגליל והחוף מעכו, עם ביירות וטריפולי; “control of most of Palestine” [שליטה ברוב פלשתינה] (בריטניקה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

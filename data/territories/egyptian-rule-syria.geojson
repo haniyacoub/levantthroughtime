@@ -46,7 +46,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Palestine, Lebanon and Syria 'as far north as Adana' (plus Egypt itself, incl. Sinai); Acre taken May 1832; Karak occupied 1840."
+          "en": "Palestine, Lebanon and Syria 'as far north as Adana' (plus Egypt itself, incl. Sinai); Acre taken May 1832; Karak occupied 1840.",
+          "ar": "فلسطين ولبنان وسوريا 'as far north as Adana' [حتى أضنة شمالًا] (إضافة إلى مصر نفسها بما فيها سيناء)؛ عكا أُخذت في أيار/مايو 1832؛ الكرك احتُلت 1840.",
+          "he": "פלשתינה, לבנון וסוריה “as far north as Adana” [עד אדנה בצפון] (בתוספת מצרים עצמה, כולל סיני); עכו נלקחה במאי 1832; אל-כרכ נכבשה ב-1840.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

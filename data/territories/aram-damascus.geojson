@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus and the Anti-Lebanon area; Aramaeans held 'the Anti-Lebanon area, including Damascus'. Early Iron IIA Damascus also ruled parts of the mountainous Galilee and upper Jordan Valley (Finkelstein)."
+          "en": "Damascus and the Anti-Lebanon area; Aramaeans held 'the Anti-Lebanon area, including Damascus'. Early Iron IIA Damascus also ruled parts of the mountainous Galilee and upper Jordan Valley (Finkelstein).",
+          "ar": "دمشق ومنطقة لبنان الشرقي؛ حيث سيطر الآراميون على 'the Anti-Lebanon area, including Damascus' [منطقة لبنان الشرقي، بما فيها دمشق]. وحكمت دمشق في العصر الحديدي IIA المبكر أيضًا أجزاء من الجليل الجبلي ووادي الأردن الأعلى (فنكلشتاين).",
+          "he": "דמשק ואזור הר הלבנון המזרחי; הארמים החזיקו ב-“the Anti-Lebanon area, including Damascus” [אזור הלבנון המזרחי, כולל דמשק]. בתקופת הברזל IIA הקדומה שלטה דמשק גם בחלקים מהגליל ההררי ומעמק הירדן העליון (פינקלשטיין).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -68,7 +74,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Expansion under Hazael and his successors over Israelite territory in Transjordan (east of the Jordan, north of the Yarmuk, and Gilead), which Israel had lost to Damascus again shortly before 732."
+          "en": "Expansion under Hazael and his successors over Israelite territory in Transjordan (east of the Jordan, north of the Yarmuk, and Gilead), which Israel had lost to Damascus again shortly before 732.",
+          "ar": "توسع في عهد حزائيل وخلفائه على أرض إسرائيلية في شرق الأردن (شرق الأردن، شمال اليرموك، وجلعاد)، كانت إسرائيل قد خسرتها لصالح دمشق مجددًا قبل عام 732 بقليل.",
+          "he": "התפשטות תחת חזאל ויורשיו על שטח ישראלי בעבר הירדן (מזרחית לירדן, צפונית לירמוך, והגלעד), שישראל איבדה שוב לדמשק זמן קצר לפני 732.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

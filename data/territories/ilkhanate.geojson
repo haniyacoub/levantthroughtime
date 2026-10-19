@@ -36,7 +36,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Brief Mongol occupation of most of Syria in 1260 (Damascus taken; general Kitbuqa sent 'to occupy Damascus and reconnoiter in Palestine and trans-Jordan'). Raiding detachments reached Nablus and Gaza; ended by the Mamluk victory at Ayn Jalut, 3 Sept 1260."
+          "en": "Brief Mongol occupation of most of Syria in 1260 (Damascus taken; general Kitbuqa sent 'to occupy Damascus and reconnoiter in Palestine and trans-Jordan'). Raiding detachments reached Nablus and Gaza; ended by the Mamluk victory at Ayn Jalut, 3 Sept 1260.",
+          "ar": "احتلال مغولي وجيز لمعظم سوريا عام 1260 (أُخذت دمشق؛ أُرسل القائد كتبغا 'to occupy Damascus and reconnoiter in Palestine and trans-Jordan' [لاحتلال دمشق واستطلاع فلسطين وشرق الأردن]). وصلت مفارز مغيرة إلى نابلس وغزة؛ وانتهى ذلك بانتصار المماليك في عين جالوت، 3 أيلول/سبتمبر 1260.",
+          "he": "כיבוש מונגולי קצר של רוב סוריה ב-1260 (דמשק נלקחה; המצביא כיתבוקה נשלח “to occupy Damascus and reconnoiter in Palestine and trans-Jordan” [לכבוש את דמשק ולסייר בפלשתינה ובעבר הירדן]). יחידות פשיטה הגיעו לשכם/נאבלוס ולעזה; הדבר הסתיים בניצחון הממלוכים בעין ג׳אלות, 3 בספטמבר 1260.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -108,7 +114,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After the Mongol victory at Wadi al-Khaznadar near Homs (end of 1299) Ghazan's forces occupied Damascus for about 100 days (the citadel held out); a raiding force under Mulay reached Gaza and committed abuses in Jerusalem and Hebron before withdrawing in early 1300."
+          "en": "After the Mongol victory at Wadi al-Khaznadar near Homs (end of 1299) Ghazan's forces occupied Damascus for about 100 days (the citadel held out); a raiding force under Mulay reached Gaza and committed abuses in Jerusalem and Hebron before withdrawing in early 1300.",
+          "ar": "بعد الانتصار المغولي في وادي الخزندار قرب حمص (نهاية 1299) احتلت قوات غازان دمشق نحو 100 يوم (صمدت القلعة)؛ ووصلت قوة مغيرة بقيادة مولاي إلى غزة وارتكبت تجاوزات في القدس والخليل قبل انسحابها في أوائل 1300.",
+          "he": "לאחר הניצחון המונגולי בוואדי אל-ח׳זנדאר ליד חומס (סוף 1299) כבשו כוחותיו של ע׳אזאן את דמשק לכ-100 יום (המצודה החזיקה מעמד); כוח פשיטה בפיקודו של מולאי הגיע לעזה ביצע מעשי התעללות בירושלים ובחברון לפני שנסוג בתחילת 1300.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

@@ -21,7 +21,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Sidon and its coastal district."
+          "en": "Sidon and its coastal district.",
+          "ar": "صيدا ومنطقتها الساحلية.",
+          "he": "צידון ואזורה החופי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

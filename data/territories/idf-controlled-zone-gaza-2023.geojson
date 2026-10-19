@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Fluctuating areas of IDF ground operations and control (corridors, buffer zones, Rafah/Philadelphi from May 2024), with a partial pullback during the Jan-March 2025 ceasefire."
+          "en": "Fluctuating areas of IDF ground operations and control (corridors, buffer zones, Rafah/Philadelphi from May 2024), with a partial pullback during the Jan-March 2025 ceasefire.",
+          "ar": "مناطق متقلبة لعمليات القوات البرية الإسرائيلية وسيطرتها (ممرات، مناطق عازلة، رفح/فيلادلفيا منذ أيار/مايو 2024)، مع انسحاب جزئي أثناء وقف إطلاق النار في كانون الثاني/يناير–آذار/مارس 2025.",
+          "he": "אזורים משתנים של פעולות כוחות היבשה של צה״ל ושליטתם (מסדרונות, אזורי חיץ, רפיח/פילדלפי מאז מאי 2024), עם נסיגה חלקית בהפסקת האש בינואר–מרץ 2025.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -55,7 +61,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "The eastern, northern and southern parts of Gaza behind the 'Yellow Line': about 53% at the ceasefire, later estimated at roughly 58-70% depending on source and definition (see notes)."
+          "en": "The eastern, northern and southern parts of Gaza behind the 'Yellow Line': about 53% at the ceasefire, later estimated at roughly 58-70% depending on source and definition (see notes).",
+          "ar": "الأجزاء الشرقية والشمالية والجنوبية من غزة خلف 'الخط الأصفر': نحو 53% عند وقف إطلاق النار، وقُدّرت لاحقًا بنحو 58-70% بحسب المصدر والتعريف (انظر الملاحظات).",
+          "he": "החלקים המזרחיים, הצפוניים והדרומיים של עזה מאחורי “הקו הצהוב”: כ-53% בעת הפסקת האש, ובהמשך הוערכו בכ-58-70% לפי המקור וההגדרה (ראו הערות).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

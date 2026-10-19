@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Middle Bronze: the Execration Texts suggest the central hill country was divided between a northern body centred on Shechem and a southern one centred on Jerusalem."
+          "en": "Middle Bronze: the Execration Texts suggest the central hill country was divided between a northern body centred on Shechem and a southern one centred on Jerusalem.",
+          "ar": "العصر البرونزي الوسيط: تشير نصوص اللعنات إلى أن مرتفعات الوسط انقسمت بين كيان شمالي مركزه شكيم وآخر جنوبي مركزه القدس.",
+          "he": "תקופת הברונזה התיכונה: טקסטי הקללות מרמזים שהר המרכז היה מחולק בין ישות צפונית שמרכזה שכם לישות דרומית שמרכזה ירושלים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -55,7 +61,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Late Bronze highland city-state over 'large, sparsely settled territories' in the northern central highlands. In the Amarna period (14th century) Labayu's coalition reached from the Bashan through the highlands to the Sharon, but that coalition of allies is not mapped as Shechem's own territory."
+          "en": "Late Bronze highland city-state over 'large, sparsely settled territories' in the northern central highlands. In the Amarna period (14th century) Labayu's coalition reached from the Bashan through the highlands to the Sharon, but that coalition of allies is not mapped as Shechem's own territory.",
+          "ar": "دولة مدينة مرتفعات في العصر البرونزي المتأخر على 'large, sparsely settled territories' [أراضٍ واسعة قليلة السكان] في المرتفعات الوسطى الشمالية. في عصر العمارنة (القرن الرابع عشر) امتد تحالف لبايو من باشان عبر المرتفعات إلى الشارون، لكن هذا التحالف من الحلفاء لا يُرسم بوصفه إقليم شكيم نفسها.",
+          "he": "עיר-מדינה הררית בתקופת הברונזה המאוחרת על “large, sparsely settled territories” [שטחים גדולים דלילי יישוב] בהר המרכז הצפוני. בתקופת אל-עמארנה (המאה ה-14) הגיעה קואליציית לבאיו מהבשן דרך ההר ועד השרון, אך קואליציית בעלי ברית זו אינה ממופה כשטחה של שכם עצמה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "'the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl' (Amitai 2017)."
+          "en": "'the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl' (Amitai 2017).",
+          "ar": "'the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl' [الإقليم في جنوب غرب البلاد: نحو ثلثي الطريق صعودًا على الساحل إلى حيفا، وإلى الداخل حتى بيت جبريل] (عميتاي 2017).",
+          "he": "“the province in the southwest of the country: about two thirds up the coast to Haifa, and inland as far as Bayt Jibrīl” [המחוז בדרום-מערב הארץ: כשני שלישים במעלה החוף עד חיפה, ובפנים הארץ עד בית ג׳יברין] (עמיתי 2017).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

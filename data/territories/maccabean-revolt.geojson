@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Areas of the Judean hills held by the rebels, fluctuating; Seleucid garrison in the Jerusalem Akra until 141."
+          "en": "Areas of the Judean hills held by the rebels, fluctuating; Seleucid garrison in the Jerusalem Akra until 141.",
+          "ar": "مناطق في جبال اليهودية بيد الثوار، متقلبة؛ حامية سلوقية في عكرا القدس حتى 141.",
+          "he": "אזורים בהרי יהודה שבידי המורדים, משתנים; חיל מצב סלווקי בחקרא בירושלים עד 141.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

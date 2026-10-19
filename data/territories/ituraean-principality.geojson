@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Kingdom north of Galilee, in the Mount Lebanon / Beqaa region, centred on Chalcis."
+          "en": "Kingdom north of Galilee, in the Mount Lebanon / Beqaa region, centred on Chalcis.",
+          "ar": "مملكة شمال الجليل، في منطقة جبل لبنان/البقاع، مركزها خلقيس.",
+          "he": "ממלכה צפונית לגליל, באזור הר הלבנון / הבקעה, שמרכזה כלקיס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -58,7 +64,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Kingdom of Soemus, \"king of the Itureans\", in Mount Lebanon."
+          "en": "Kingdom of Soemus, \"king of the Itureans\", in Mount Lebanon.",
+          "ar": "مملكة سويموس، 'ملك الإيطوريين'، في جبل لبنان.",
+          "he": "ממלכת סואמוס, “מלך האיטוראים”, בהר הלבנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

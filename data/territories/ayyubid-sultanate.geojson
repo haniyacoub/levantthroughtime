@@ -21,7 +21,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egypt (Sinai frontier) only."
+          "en": "Egypt (Sinai frontier) only.",
+          "ar": "مصر (حدود سيناء) فقط.",
+          "he": "מצרים (גבול סיני) בלבד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -67,7 +73,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egypt plus Damascus and southern Syria, taken from 1174 as Saladin united the Muslim territories around the Crusader states."
+          "en": "Egypt plus Damascus and southern Syria, taken from 1174 as Saladin united the Muslim territories around the Crusader states.",
+          "ar": "مصر مع دمشق وجنوب سوريا، أُخذت من 1174 حين وحّد صلاح الدين الأراضي الإسلامية حول الدويلات الصليبية.",
+          "he": "מצרים בתוספת דמשק ודרום סוריה, שנלקחו מ-1174 כאשר צלאח א-דין איחד את השטחים המוסלמיים סביב מדינות הצלבנים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -132,7 +144,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After Hattin: 'Most of Palestine was once again Muslim'. Interior Palestine, Transjordan (Kerak 1188) and southern Syria under Ayyubid princes; from 1191-92 the coast from Jaffa north was Frankish again, and Jerusalem/Bethlehem with a corridor (and Nazareth) were Frankish 1229-1244."
+          "en": "After Hattin: 'Most of Palestine was once again Muslim'. Interior Palestine, Transjordan (Kerak 1188) and southern Syria under Ayyubid princes; from 1191-92 the coast from Jaffa north was Frankish again, and Jerusalem/Bethlehem with a corridor (and Nazareth) were Frankish 1229-1244.",
+          "ar": "بعد حطين: 'Most of Palestine was once again Muslim' [أصبحت معظم فلسطين مسلمة مرة أخرى]. فلسطين الداخلية وشرق الأردن (الكرك 1188) وجنوب سوريا تحت أمراء أيوبيين؛ ومن 1191–92 عاد الساحل من يافا شمالًا فرنجيًا، وكانت القدس/بيت لحم مع ممر (والناصرة) فرنجية في 1229–1244.",
+          "he": "לאחר חיטין: “Most of Palestine was once again Muslim” [רוב פלשתינה שוב הייתה מוסלמית]. פנים פלשתינה, עבר הירדן (כרך 1188) ודרום סוריה תחת נסיכים איובים; מ-1191–92 היה החוף מיפו צפונה שוב פרנקי, וירושלים/בית לחם עם מסדרון (ונצרת) היו פרנקיות ב-1229–1244.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -215,7 +233,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Syrian Ayyubid principalities only (Egypt and Sinai now Mamluk), until the Mongol invasion of 1260."
+          "en": "Syrian Ayyubid principalities only (Egypt and Sinai now Mamluk), until the Mongol invasion of 1260.",
+          "ar": "الإمارات الأيوبية السورية فقط (أصبحت مصر وسيناء الآن مملوكية)، حتى الغزو المغولي عام 1260.",
+          "he": "הנסיכויות האיוביות הסוריות בלבד (מצרים וסיני כבר ממלוכיות), עד הפלישה המונגולית ב-1260.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

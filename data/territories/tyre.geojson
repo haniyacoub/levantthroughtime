@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Island city and mainland settlement on the southern Phoenician coast."
+          "en": "Island city and mainland settlement on the southern Phoenician coast.",
+          "ar": "مدينة جزيرة ومستوطنة على البر في الساحل الفينيقي الجنوبي.",
+          "he": "עיר אי ויישוב ביבשה בחוף הפיניקי הדרומי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Southern Phoenician coast; in the early Iron IIA the mountainous Galilee was 'ruled by Damascus and the Phoenician cities' (Finkelstein)."
+          "en": "Southern Phoenician coast; in the early Iron IIA the mountainous Galilee was 'ruled by Damascus and the Phoenician cities' (Finkelstein).",
+          "ar": "الساحل الفينيقي الجنوبي؛ وفي العصر الحديدي IIA المبكر كان الجليل الجبلي 'ruled by Damascus and the Phoenician cities' [تحكمه دمشق والمدن الفينيقية] (فنكلشتاين).",
+          "he": "החוף הפיניקי הדרומי; בתקופת הברזל IIA הקדומה היה הגליל ההררי “ruled by Damascus and the Phoenician cities” [נשלט בידי דמשק והערים הפיניקיות] (פינקלשטיין).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -92,7 +104,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Southern Phoenician coast (Tyre and its mainland). Israel's Omride forts (Har Adir) faced Tyre in the 9th century."
+          "en": "Southern Phoenician coast (Tyre and its mainland). Israel's Omride forts (Har Adir) faced Tyre in the 9th century.",
+          "ar": "الساحل الفينيقي الجنوبي (صور وبرّها). واجهت حصون العمريين الإسرائيلية (هار عدير) صور في القرن التاسع.",
+          "he": "החוף הפיניקי הדרומי (צור ויבשתה). מבצרי בית עמרי הישראליים (הר אדיר) עמדו מול צור במאה ה-9.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

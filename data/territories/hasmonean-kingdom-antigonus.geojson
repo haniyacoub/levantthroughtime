@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Jerusalem and the Judean core, contested from 39 by Herod and Roman forces."
+          "en": "Jerusalem and the Judean core, contested from 39 by Herod and Roman forces.",
+          "ar": "القدس والنواة اليهودية، متنازع عليها منذ 39 من هيرودس والقوات الرومانية.",
+          "he": "ירושלים וליבת יהודה, שנויה במחלוקת מ-39 בין הורדוס לכוחות רומיים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

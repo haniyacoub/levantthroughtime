@@ -43,7 +43,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "First Kingdom at its 12th-century extent, built up 1099-1153: 'roughly ... what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan'. Coast taken step by step (Acre 1104; Arsuf, Caesarea, Beirut, Sidon by 1112; Tyre 1124; Ascalon only in 1153, so philistia is partial before 1153). Transjordan held through the lordship of Kerak/Montréal; Franks reached Aylah (Aqaba). Phoenician coast only from Beirut south (further north = County of Tripoli)."
+          "en": "First Kingdom at its 12th-century extent, built up 1099-1153: 'roughly ... what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan'. Coast taken step by step (Acre 1104; Arsuf, Caesarea, Beirut, Sidon by 1112; Tyre 1124; Ascalon only in 1153, so philistia is partial before 1153). Transjordan held through the lordship of Kerak/Montréal; Franks reached Aylah (Aqaba). Phoenician coast only from Beirut south (further north = County of Tripoli).",
+          "ar": "المملكة الأولى في امتدادها في القرن الثاني عشر، شُيّدت 1099-1153: 'roughly ... what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan' [تقريبًا ... ما هو الآن إسرائيل والأراضي الفلسطينية وجنوب لبنان وجنوب غرب الأردن]. أُخذ الساحل خطوة خطوة (عكا 1104؛ أرسوف وقيسارية وبيروت وصيدا بحلول 1112؛ صور 1124؛ عسقلان عام 1153 فقط، فـفلستيا جزئية قبل 1153). شرق الأردن عبر سيادة الكرك/مونتريال؛ وبلغ الفرنجة أيلة (العقبة). الساحل الفينيقي من بيروت جنوبًا فقط (شمالها كونتية طرابلس).",
+          "he": "הממלכה הראשונה בהיקפה במאה ה-12, שנבנתה 1099-1153: “roughly ... what is now Israel and the Palestinian territories, southern Lebanon, and southwestern Jordan” [בערך ... מה שהוא כיום ישראל והשטחים הפלסטיניים, דרום לבנון ודרום-מערב ירדן]. החוף נלקח צעד אחר צעד (עכו 1104; ארסוף, קיסריה, ביירות וצידון עד 1112; צור 1124; אשקלון רק ב-1153, ולכן פלשת חלקית לפני 1153). עבר הירדן הוחזק באמצעות אדנות כרך/מונריאל; הפרנקים הגיעו לאילה (עקבה). החוף הפיניקי רק מביירות דרומה (צפונה יותר: מחוז טריפולי).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -109,7 +115,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After Hattin (4 July 1187) and Jerusalem's surrender (2 Oct 1187) the kingdom was reduced to Tyre plus a few castles: Kerak fell in 1188 and 'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre'. A Frankish army besieged Acre from 1189."
+          "en": "After Hattin (4 July 1187) and Jerusalem's surrender (2 Oct 1187) the kingdom was reduced to Tyre plus a few castles: Kerak fell in 1188 and 'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre'. A Frankish army besieged Acre from 1189.",
+          "ar": "بعد حطين (4 تموز/يوليو 1187) واستسلام القدس (2 تشرين الأول/أكتوبر 1187) اقتصرت المملكة على صور وبضع قلاع: سقطت الكرك 1188 و'by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre' [بحلول 1189 كانت المملكة كلها في يده عدا بلفوار ... وصور]. حاصر جيش فرنجي عكا منذ 1189.",
+          "he": "לאחר חיטין (4 ביולי 1187) וכניעת ירושלים (2 באוקטובר 1187) הצטמצמה הממלכה לצור ולכמה מצודות: כרך נפלה ב-1188 ו“by 1189 all of the kingdom was in his hands except Belvoir ... and Tyre” [עד 1189 כל הממלכה הייתה בידיו מלבד בלווואר ... וצור]. צבא פרנקי צר על עכו מ-1189.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -160,7 +172,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Coastal 'Second Kingdom' centred on Acre (recovered July 1191). The truce of 2 Sept 1192 left 'the coast from Jaffa north' in Christian hands; Ascalon returned to Saladin."
+          "en": "Coastal 'Second Kingdom' centred on Acre (recovered July 1191). The truce of 2 Sept 1192 left 'the coast from Jaffa north' in Christian hands; Ascalon returned to Saladin.",
+          "ar": "'المملكة الثانية' الساحلية ومركزها عكا (استُعيدت تموز/يوليو 1191). تركت هدنة 2 أيلول/سبتمبر 1192 'the coast from Jaffa north' [الساحل من يافا شمالًا] بيد المسيحيين؛ وعادت عسقلان إلى صلاح الدين.",
+          "he": "“הממלכה השנייה” החופית שמרכזה עכו (הושבה יולי 1191). שביתת הנשק מ-2 בספטמבר 1192 הותירה את “the coast from Jaffa north” [החוף מיפו צפונה] בידי הנוצרים; אשקלון הוחזרה לצלאח א-דין.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -219,7 +237,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Treaty of 1229 (Frederick II with the Ayyubid sultan al-Kamil): Jerusalem (except the Haram/Temple Mount area, which Muslims retained), Bethlehem and a corridor to the sea were ceded for 10 years; Britannica's 'Palestine' article also lists Nazareth. Jerusalem was retaken in 1239, returned by negotiation during the crusades of 1239-41 (with other territory), and lost for good in 1244."
+          "en": "Treaty of 1229 (Frederick II with the Ayyubid sultan al-Kamil): Jerusalem (except the Haram/Temple Mount area, which Muslims retained), Bethlehem and a corridor to the sea were ceded for 10 years; Britannica's 'Palestine' article also lists Nazareth. Jerusalem was retaken in 1239, returned by negotiation during the crusades of 1239-41 (with other territory), and lost for good in 1244.",
+          "ar": "معاهدة 1229 (فريدريك الثاني مع السلطان الأيوبي الكامل): تنازل عن القدس (باستثناء منطقة الحرم / جبل الهيكل التي احتفظ بها المسلمون) وبيت لحم وممر إلى البحر لمدة 10 سنوات؛ وتذكر مقالة 'فلسطين' في بريتانيكا الناصرة أيضًا. استُعيدت القدس عام 1239، وأُعيدت بالتفاوض أثناء حملات 1239-41 (مع أراضٍ أخرى)، وضاعت نهائيًا عام 1244.",
+          "he": "הסכם 1229 (פרידריך השני עם הסולטאן האיובי אל-כאמל): ירושלים (מלבד אזור הר הבית / אל-חרם א-שריף, שנשאר בידי המוסלמים), בית לחם ומסדרון לים נמסרו לעשר שנים; המאמר “פלשתינה” בבריטניקה מונה גם את נצרת. ירושלים נכבשה מחדש ב-1239, הוחזרה במשא ומתן במסעות 1239-41 (עם שטחים נוספים), ואבדה סופית ב-1244.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -282,7 +306,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After 1244 'a thin strip of ports along the Mediterranean coast'. Baybars took Caesarea, Haifa and Arsuf (1265) and Galilee including Safed (1266); Acre, the last stronghold, fell on 18 May 1291."
+          "en": "After 1244 'a thin strip of ports along the Mediterranean coast'. Baybars took Caesarea, Haifa and Arsuf (1265) and Galilee including Safed (1266); Acre, the last stronghold, fell on 18 May 1291.",
+          "ar": "بعد 1244 'a thin strip of ports along the Mediterranean coast' [شريط رفيع من الموانئ على ساحل المتوسط]. أخذ بيبرس قيسارية وحيفا وأرسوف (1265) والجليل بما فيه صفد (1266)؛ وسقطت عكا، آخر المعاقل، في 18 أيار/مايو 1291.",
+          "he": "לאחר 1244 “a thin strip of ports along the Mediterranean coast” [רצועה דקה של נמלים לאורך חוף הים התיכון]. ביברס לקח את קיסריה, חיפה וארסוף (1265) ואת הגליל כולל צפת (1266); עכו, המעוז האחרון, נפלה ב-18 במאי 1291.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

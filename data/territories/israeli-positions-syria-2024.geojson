@@ -18,7 +18,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "The UNDOF area of separation along the eastern edge of the Golan and the Syrian side of Mount Hermon, and other positions (A News: 'seizing the buffer zone and other positions, including the Syrian side of Mount Hermon')."
+          "en": "The UNDOF area of separation along the eastern edge of the Golan and the Syrian side of Mount Hermon, and other positions (A News: 'seizing the buffer zone and other positions, including the Syrian side of Mount Hermon').",
+          "ar": "منطقة الفصل التابعة لقوة الأمم المتحدة لمراقبة فض الاشتباك (أندوف) على الحافة الشرقية للجولان والجانب السوري من جبل الشيخ، ومواقع أخرى (A News: 'seizing the buffer zone and other positions, including the Syrian side of Mount Hermon' [الاستيلاء على المنطقة العازلة ومواقع أخرى، بما فيها الجانب السوري من جبل الشيخ]).",
+          "he": "אזור ההפרדה של כוח האו״ם (אונדו״ף) לאורך הקצה המזרחי של הגולן והצד הסורי של הר חרמון, ועמדות נוספות (A News: “seizing the buffer zone and other positions, including the Syrian side of Mount Hermon” [תפיסת אזור החיץ ועמדות נוספות, כולל הצד הסורי של הר חרמון]).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

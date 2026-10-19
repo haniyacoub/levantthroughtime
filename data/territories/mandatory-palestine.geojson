@@ -32,7 +32,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Under the Franco-British convention of 23 Dec 1920 the northern frontier ran along the middle of the Jordan and Lake Tiberias, with a Golan triangle (apex at Quneitra) inside Palestine; the eastern shore strip of the lake was outside it."
+          "en": "Under the Franco-British convention of 23 Dec 1920 the northern frontier ran along the middle of the Jordan and Lake Tiberias, with a Golan triangle (apex at Quneitra) inside Palestine; the eastern shore strip of the lake was outside it.",
+          "ar": "بموجب الاتفاقية الفرنسية-البريطانية في 23 كانون الأول/ديسمبر 1920 امتدت الحدود الشمالية على طول منتصف نهر الأردن وبحيرة طبرية، مع مثلث من الجولان (رأسه عند القنيطرة) داخل فلسطين؛ أما شريط الشاطئ الشرقي للبحيرة فكان خارجها.",
+          "he": "לפי האמנה הצרפתית-בריטית מ-23 בדצמבר 1920 עבר הגבול הצפוני לאורך אמצע הירדן והכינרת, עם משולש גולן (קודקודו בקוניטרה) בתוך פלשתינה; רצועת החוף המזרחי של האגם הייתה מחוצה לה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -81,7 +87,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Mandate Palestine within its final boundaries: 1923 Paulet-Newcombe line in the north (Golan to the French Mandate; Lake Tiberias and the Jordan wholly in Palestine), the eastern boundary with Transjordan per the 1922 memorandum and 1928 treaty, and the pre-war line with Egypt in the south-west."
+          "en": "Mandate Palestine within its final boundaries: 1923 Paulet-Newcombe line in the north (Golan to the French Mandate; Lake Tiberias and the Jordan wholly in Palestine), the eastern boundary with Transjordan per the 1922 memorandum and 1928 treaty, and the pre-war line with Egypt in the south-west.",
+          "ar": "فلسطين الانتدابية ضمن حدودها النهائية: خط بوليه-نيوكومب 1923 في الشمال (الجولان إلى الانتداب الفرنسي؛ بحيرة طبرية والأردن كلاهما في فلسطين)، والحد الشرقي مع شرق الأردن بحسب مذكرة 1922 ومعاهدة 1928، والخط السابق للحرب مع مصر في الجنوب الغربي.",
+          "he": "פלשתינה המנדטורית בגבולותיה הסופיים: קו פולה-ניוקומב מ-1923 בצפון (הגולן למנדט הצרפתי; הכינרת והירדן כולם בפלשתינה), הגבול המזרחי עם עבר הירדן לפי תזכיר 1922 והסכם 1928, והקו שלפני המלחמה עם מצרים בדרום-מערב.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Whole Gaza Strip under Israeli military government."
+          "en": "Whole Gaza Strip under Israeli military government.",
+          "ar": "كامل قطاع غزة تحت حكم عسكري إسرائيلي.",
+          "he": "כל רצועת עזה תחת ממשל צבאי ישראלי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Israeli settlement blocs, military zones and border/perimeter areas retained after the 1994 Gaza-Jericho arrangements; the rest under the Palestinian Authority."
+          "en": "Israeli settlement blocs, military zones and border/perimeter areas retained after the 1994 Gaza-Jericho arrangements; the rest under the Palestinian Authority.",
+          "ar": "كتل استيطانية إسرائيلية ومناطق عسكرية ومناطق حدودية/محيطية بقيت بعد ترتيبات غزة–أريحا 1994؛ والباقي تحت السلطة الفلسطينية.",
+          "he": "גושי התיישבות ישראליים, אזורים צבאיים ואזורי גבול/היקף שנותרו לאחר הסדרי עזה–יריחו ב-1994; השאר תחת הרשות הפלסטינית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

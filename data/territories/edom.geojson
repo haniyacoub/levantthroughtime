@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Between the Dead Sea and the Gulf of Aqaba, south of the Zered, with copper resources in the Wadi Arabah."
+          "en": "Between the Dead Sea and the Gulf of Aqaba, south of the Zered, with copper resources in the Wadi Arabah.",
+          "ar": "بين البحر الميت وخليج العقبة، جنوب زارد، مع موارد نحاس في وادي عربة.",
+          "he": "בין ים המלח למפרץ עקבה, דרומית לזרד, עם משאבי נחושת בערבה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -66,7 +72,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Edom with Edomite pressure and settlement in the Beersheba-Arad region of the Negev in the last years of Judah and after (Arad ostraca; Edomite pottery)."
+          "en": "Edom with Edomite pressure and settlement in the Beersheba-Arad region of the Negev in the last years of Judah and after (Arad ostraca; Edomite pottery).",
+          "ar": "أدوم مع ضغط أدومي واستيطان في منطقة بئر السبع–عراد في النقب في السنوات الأخيرة من يهوذا وبعدها (شقف عراد؛ فخار أدومي).",
+          "he": "אדום עם לחץ והתיישבות אדומיים באזור באר שבע–ערד בנגב בשנותיה האחרונות של יהודה ולאחריהן (אוסטרקונים מערד; כלי חרס אדומיים).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "French-controlled Syria and Lebanon after the expulsion of Faisal (July 1920); a triangle of the Golan was assigned to British Palestine until March 1923."
+          "en": "French-controlled Syria and Lebanon after the expulsion of Faisal (July 1920); a triangle of the Golan was assigned to British Palestine until March 1923.",
+          "ar": "سوريا ولبنان تحت السيطرة الفرنسية بعد طرد فيصل (تموز/يوليو 1920)؛ خُصّص مثلث من الجولان لفلسطين البريطانية حتى آذار/مارس 1923.",
+          "he": "סוריה ולבנון בשליטה צרפתית לאחר גירוש פייסל (יולי 1920); משולש ברמת הגולן הוקצה לפלשתינה הבריטית עד מרץ 1923.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -66,7 +72,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "French Mandate for Syria (incl. the whole Golan after the 1923 boundary agreement) and Lebanon (independence proclaimed Nov 1943; French and British troops withdrawn from Syria by April 1946 and from Lebanon by the end of 1946)."
+          "en": "French Mandate for Syria (incl. the whole Golan after the 1923 boundary agreement) and Lebanon (independence proclaimed Nov 1943; French and British troops withdrawn from Syria by April 1946 and from Lebanon by the end of 1946).",
+          "ar": "الانتداب الفرنسي على سوريا (بما فيه الجولان كله بعد اتفاق الحدود 1923) ولبنان (أُعلن استقلاله في تشرين الثاني/نوفمبر 1943؛ وسُحبت القوات الفرنسية والبريطانية من سوريا بحلول نيسان/أبريل 1946 ومن لبنان بحلول نهاية 1946).",
+          "he": "המנדט הצרפתי על סוריה (כולל כל רמת הגולן לאחר הסכם הגבול של 1923) ולבנון (עצמאות הוכרזה בנובמבר 1943; כוחות צרפתיים ובריטיים נסוגו מסוריה עד אפריל 1946 ומלבנון עד סוף 1946).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

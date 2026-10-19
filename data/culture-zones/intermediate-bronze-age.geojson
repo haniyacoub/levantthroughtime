@@ -32,7 +32,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Non-urban, mostly pastoral settlement across the country; Britannica describes 'a number of allied tribes' with tribal centres. Units are a schematic country-wide marker."
+          "en": "Non-urban, mostly pastoral settlement across the country; Britannica describes 'a number of allied tribes' with tribal centres. Units are a schematic country-wide marker.",
+          "ar": "استيطان غير حضري، رعوي في معظمه، في أنحاء البلاد؛ تصف بريتانيكا 'a number of allied tribes' [عددًا من القبائل المتحالفة] ذات مراكز قبلية. الوحدات علامة تخطيطية على مستوى البلاد.",
+          "he": "יישוב לא עירוני, בעיקרו רועי, ברחבי הארץ; בריטניקה מתארת “a number of allied tribes” [מספר שבטים בעלי ברית] עם מרכזים שבטיים. היחידות הן סימון סכמטי ברחבי הארץ.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

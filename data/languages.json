@@ -4,7 +4,13 @@
     {
       "id": "egyptian",
       "name": {
-        "en": "Egyptian (Late Egyptian; hieroglyphic and hieratic)"
+        "en": "Egyptian (Late Egyptian; hieroglyphic and hieratic)",
+        "ar": "المصرية (المصرية المتأخرة؛ الهيروغليفية والهيراطيقية)",
+        "he": "מצרית (מצרית מאוחרת; הירוגליפית והיראטית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Afro-Asiatic (Egyptian)",
       "scripts": [
@@ -26,7 +32,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Egyptian New Kingdom administration and garrisons in Canaan (hieratic inscriptions concentrated around Lachish; royal stelae at Beth Shean)"
+            "en": "Egyptian New Kingdom administration and garrisons in Canaan (hieratic inscriptions concentrated around Lachish; royal stelae at Beth Shean)",
+            "ar": "الإدارة والحاميات المصرية في عهد الدولة الحديثة في كنعان (نقوش هيراطيقية تتركز حول لخيش؛ ومسلات ملكية في بيت شان)",
+            "he": "מינהל וחיל מצב מצריים של הממלכה החדשה בכנען (כתובות היראטיות מרוכזות סביב לכיש; מצבות מלכותיות בבית שאן)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -61,7 +73,13 @@
     {
       "id": "akkadian",
       "name": {
-        "en": "Akkadian (Babylonian; diplomatic cuneiform)"
+        "en": "Akkadian (Babylonian; diplomatic cuneiform)",
+        "ar": "الأكادية (البابلية؛ المسمارية الدبلوماسية)",
+        "he": "אכדית (בבלית; כתב יתדות דיפלומטי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (East)",
       "scripts": [
@@ -81,7 +99,13 @@
           },
           "role": "lingua-franca",
           "speakers": {
-            "en": "Scribes of Canaanite city-state rulers writing to the Egyptian court (Amarna letters)"
+            "en": "Scribes of Canaanite city-state rulers writing to the Egyptian court (Amarna letters)",
+            "ar": "كتبة حكام دويلات المدن الكنعانية الذين يكتبون إلى البلاط المصري (رسائل تل العمارنة)",
+            "he": "סופרים של שליטי ערי־מדינה כנעניות הכותבים לחצר המצרית (מכתבי אל־עמארנה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -109,7 +133,13 @@
           },
           "role": "lingua-franca",
           "speakers": {
-            "en": "Regional context: Babylonian as the lingua franca of the Middle East until Aramaic replaced it"
+            "en": "Regional context: Babylonian as the lingua franca of the Middle East until Aramaic replaced it",
+            "ar": "السياق الإقليمي: كانت البابلية لغة التخاطب المشتركة في الشرق الأوسط إلى أن حلت محلها الآرامية",
+            "he": "הקשר אזורי: הבבלית שימשה שפה משותפת במזרח התיכון עד שהארמית החליפה אותה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -132,7 +162,13 @@
     {
       "id": "canaanite-bronze-age",
       "name": {
-        "en": "Canaanite (Late Bronze Age)"
+        "en": "Canaanite (Late Bronze Age)",
+        "ar": "الكنعانية (العصر البرونزي المتأخر)",
+        "he": "כנענית (תקופת הברונזה המאוחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Canaanite)",
       "scripts": [
@@ -153,7 +189,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Population of the Late Bronze Age city-states of Canaan (known from Canaanite features in the Amarna letters)"
+            "en": "Population of the Late Bronze Age city-states of Canaan (known from Canaanite features in the Amarna letters)",
+            "ar": "سكان دويلات المدن الكنعانية في العصر البرونزي المتأخر (معروفة من ملامح كنعانية في رسائل تل العمارنة)",
+            "he": "אוכלוסיית ערי־המדינה הכנעניות בתקופת הברונזה המאוחרת (ידועה מתופעות כנעניות במכתבי אל־עמארנה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -181,7 +223,13 @@
     {
       "id": "phoenician",
       "name": {
-        "en": "Phoenician"
+        "en": "Phoenician",
+        "ar": "الفينيقية",
+        "he": "פיניקית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Canaanite)",
       "scripts": [
@@ -201,7 +249,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "People of Tyre, Sidon, Byblos and neighbouring coastal towns (mostly north of the map's core area)"
+            "en": "People of Tyre, Sidon, Byblos and neighbouring coastal towns (mostly north of the map's core area)",
+            "ar": "أهل صور وصيدا وجبيل والبلدات الساحلية المجاورة (في معظمها شمال المنطقة الأساسية للخريطة)",
+            "he": "בני צור, צידון, גבל והערים החופיות הסמוכות (ברובן מצפון לאזור הליבה של המפה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -224,7 +278,13 @@
     {
       "id": "ugaritic",
       "name": {
-        "en": "Ugaritic (context)"
+        "en": "Ugaritic (context)",
+        "ar": "الأوغاريتية (للسياق)",
+        "he": "אוגריתית (להקשר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest)",
       "scripts": [
@@ -244,7 +304,13 @@
           },
           "role": "literary",
           "speakers": {
-            "en": "Scribes of the city-state of Ugarit (Ras Shamra, northern Syria) - outside the map area, included for context"
+            "en": "Scribes of the city-state of Ugarit (Ras Shamra, northern Syria) - outside the map area, included for context",
+            "ar": "كتبة دويلة مدينة أوغاريت (رأس شمرا، شمال سوريا) - خارج منطقة الخريطة، أُدرجت للسياق",
+            "he": "סופרים של עיר־המדינה אוגרית (ראס שמרה, צפון סוריה) - מחוץ לאזור המפה, נכללה להקשר",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -273,7 +339,13 @@
     {
       "id": "hebrew",
       "name": {
-        "en": "Hebrew"
+        "en": "Hebrew",
+        "ar": "العبرية",
+        "he": "עברית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Canaanite)",
       "scripts": [
@@ -294,7 +366,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Israelites and Judahites of the kingdoms of Israel and Judah (Biblical, or Classical, Hebrew)"
+            "en": "Israelites and Judahites of the kingdoms of Israel and Judah (Biblical, or Classical, Hebrew)",
+            "ar": "بنو إسرائيل واليهوديون في مملكتي إسرائيل ويهودا (العبرية التوراتية أو الكلاسيكية)",
+            "he": "בני ישראל ובני יהודה בממלכות ישראל ויהודה (עברית מקראית, או קלאסית)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "contested",
           "sources": [
@@ -335,7 +413,13 @@
           },
           "role": "literary",
           "speakers": {
-            "en": "Jews of Judaea: religious literature (most Dead Sea Scrolls), legal documents, coin legends of the Hasmonean king Alexander; Mishnaic (Rabbinic) Hebrew of the Mishna (c. 200 CE)"
+            "en": "Jews of Judaea: religious literature (most Dead Sea Scrolls), legal documents, coin legends of the Hasmonean king Alexander; Mishnaic (Rabbinic) Hebrew of the Mishna (c. 200 CE)",
+            "ar": "يهود يهودا: الأدب الديني (معظم مخطوطات البحر الميت) والوثائق القانونية ونقوش عملات الملك الحشمونائي الإسكندر؛ والعبرية المشنوية (الحاخامية) في المشنا (نحو 200 م)",
+            "he": "יהודי יהודה: ספרות דתית (רוב מגילות ים המלח), מסמכים משפטיים, כתובות על מטבעות של המלך החשמונאי אלכסנדר; עברית משנאית (רבנית) במשנה (בערך 200 לספירה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -367,7 +451,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Whether, and how widely, Jews in Judaea still spoke Hebrew in daily life alongside Aramaic"
+            "en": "Whether, and how widely, Jews in Judaea still spoke Hebrew in daily life alongside Aramaic",
+            "ar": "هل كان يهود يهودا ما زالوا يتكلمون العبرية في الحياة اليومية إلى جانب الآرامية، وإلى أي مدى",
+            "he": "האם, ובאיזו מידה, עדיין דיברו יהודי יהודה עברית בחיי היום־יום לצד ארמית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "contested",
           "sources": [
@@ -400,7 +490,13 @@
           },
           "role": "liturgical",
           "speakers": {
-            "en": "Jewish communities (prayer, religious study, liturgical poetry such as the piyyut of the 6th-9th centuries); Samaritans pray in their own archaic Hebrew"
+            "en": "Jewish communities (prayer, religious study, liturgical poetry such as the piyyut of the 6th-9th centuries); Samaritans pray in their own archaic Hebrew",
+            "ar": "الجماعات اليهودية (الصلاة والدراسة الدينية والشعر الطقسي مثل البيوط في القرنين السادس والتاسع)؛ ويصلي السامريون بعبريتهم العتيقة الخاصة",
+            "he": "קהילות יהודיות (תפילה, לימוד דתי, שירה ליטורגית כגון הפיוט במאות ה־6–9); השומרונים מתפללים בעברית העתיקה שלהם",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -427,7 +523,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Revived as a spoken language by Jewish immigrants and their children in Ottoman and Mandatory Palestine, then in Israel"
+            "en": "Revived as a spoken language by Jewish immigrants and their children in Ottoman and Mandatory Palestine, then in Israel",
+            "ar": "أُحييت لغةً منطوقة على يد المهاجرين اليهود وأبنائهم في فلسطين العثمانية والانتدابية، ثم في إسرائيل",
+            "he": "הוחיתה כשפה מדוברת בידי מהגרים יהודים וילדיהם בפלשתינה העות׳מאנית והמנדטורית, ואחר כך בישראל",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -465,7 +567,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Mandatory Palestine (one of three official languages)"
+            "en": "Mandatory Palestine (one of three official languages)",
+            "ar": "فلسطين الانتدابية (إحدى ثلاث لغات رسمية)",
+            "he": "פלשתינה המנדטורית (אחת משלוש שפות רשמיות)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -483,7 +591,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "State of Israel (language of state administration; under the 2018 Basic Law 'the state's language')"
+            "en": "State of Israel (language of state administration; under the 2018 Basic Law 'the state's language')",
+            "ar": "دولة إسرائيل (لغة الإدارة الحكومية؛ وبموجب القانون الأساسي لسنة 2018 «لغة الدولة»)",
+            "he": "מדינת ישראל (שפת המינהל הממלכתי; לפי חוק היסוד של 2018 ״שפת המדינה״)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -516,7 +630,13 @@
     {
       "id": "moabite",
       "name": {
-        "en": "Moabite"
+        "en": "Moabite",
+        "ar": "المؤابية",
+        "he": "מואבית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Canaanite)",
       "periods": [
@@ -533,7 +653,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Kingdom of Moab (royal inscription of King Mesha at Dibon)"
+            "en": "Kingdom of Moab (royal inscription of King Mesha at Dibon)",
+            "ar": "مملكة مؤاب (نقش الملك ميشع الملكي في ذيبان)",
+            "he": "ממלכת מואב (כתובת המלך מישע בדיבון)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -566,7 +692,13 @@
     {
       "id": "aramaic",
       "name": {
-        "en": "Aramaic"
+        "en": "Aramaic",
+        "ar": "الآرامية",
+        "he": "ארמית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Aramaic)",
       "scripts": [
@@ -587,7 +719,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Aramean kingdom of Damascus (royal stele of Hazael at Dan)"
+            "en": "Aramean kingdom of Damascus (royal stele of Hazael at Dan)",
+            "ar": "المملكة الآرامية في دمشق (مسلة حزائيل الملكية في دان)",
+            "he": "הממלכה הארמית של דמשק (מצבת חזאל המלכותית בדן)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -615,7 +753,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Assyrian, Babylonian and especially Achaemenid Persian administration; Persian-period provinces such as Yehud and Samaria"
+            "en": "Assyrian, Babylonian and especially Achaemenid Persian administration; Persian-period provinces such as Yehud and Samaria",
+            "ar": "الإدارة الآشورية والبابلية والفارسية الأخمينية خصوصاً؛ وأقاليم العصر الفارسي مثل يهد والسامرة",
+            "he": "המינהל האשורי, הבבלי ובעיקר הפרסי האחמני; מחוזות התקופה הפרסית כגון יהוד ושומרון",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -648,7 +792,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Jews of Judaea and Galilee (Jewish Palestinian Aramaic; also literary works and Bar Kokhba-era letters)"
+            "en": "Jews of Judaea and Galilee (Jewish Palestinian Aramaic; also literary works and Bar Kokhba-era letters)",
+            "ar": "يهود يهودا والجليل (الآرامية الفلسطينية اليهودية؛ وكذلك مؤلفات أدبية ورسائل من عهد بار كوخبا)",
+            "he": "יהודי יהודה והגליל (ארמית פלשתינאית יהודית; וכן יצירות ספרותיות ומכתבים מימי בר כוכבא)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "contested",
           "sources": [
@@ -680,7 +830,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "West Aramaic speakers: Jews (Judeo-Aramaic, language of the Jerusalem Talmud and Targums), Christians (Christian Palestinian Aramaic)"
+            "en": "West Aramaic speakers: Jews (Judeo-Aramaic, language of the Jerusalem Talmud and Targums), Christians (Christian Palestinian Aramaic)",
+            "ar": "ناطقو الآرامية الغربية: اليهود (الآرامية اليهودية، لغة التلمود الأورشليمي والتراجم)، والمسيحيون (الآرامية الفلسطينية المسيحية)",
+            "he": "דוברי ארמית מערבית: יהודים (ארמית יהודית, שפת התלמוד הירושלמי והתרגומים), נוצרים (ארמית פלשתינאית נוצרית)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -715,7 +871,13 @@
     {
       "id": "nabataean-aramaic",
       "name": {
-        "en": "Nabataean Aramaic"
+        "en": "Nabataean Aramaic",
+        "ar": "الآرامية النبطية",
+        "he": "ארמית נבטית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Aramaic)",
       "scripts": [
@@ -736,7 +898,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Nabataean kingdom and its successors (inscriptions and legal documents; Petra, the Negev, Transjordan, the Hauran); Nabataeans were an Arabian people"
+            "en": "Nabataean kingdom and its successors (inscriptions and legal documents; Petra, the Negev, Transjordan, the Hauran); Nabataeans were an Arabian people",
+            "ar": "المملكة النبطية وخلفاؤها (نقوش ووثائق قانونية؛ البتراء والنقب وشرق الأردن وحوران)؛ والأنباط شعب عربي",
+            "he": "הממלכה הנבטית ויורשיה (כתובות ומסמכים משפטיים; פטרה, הנגב, עבר הירדן, החורן); הנבטים היו עם ערבי",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -765,7 +933,13 @@
     {
       "id": "syriac",
       "name": {
-        "en": "Syriac (context)"
+        "en": "Syriac (context)",
+        "ar": "السريانية (للسياق)",
+        "he": "סורית (להקשר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Northwest, Aramaic - East)",
       "scripts": [
@@ -785,7 +959,13 @@
           },
           "role": "liturgical",
           "speakers": {
-            "en": "Syriac-speaking Christians of the wider Near East (literary and liturgical language based on the dialect of Edessa)"
+            "en": "Syriac-speaking Christians of the wider Near East (literary and liturgical language based on the dialect of Edessa)",
+            "ar": "المسيحيون الناطقون بالسريانية في الشرق الأدنى الأوسع (لغة أدبية وطقسية قائمة على لهجة الرها)",
+            "he": "נוצרים דוברי סורית ברחבי המזרח הקרוב (שפה ספרותית וליטורגית המבוססת על הניב של אדסה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -808,7 +988,13 @@
     {
       "id": "greek",
       "name": {
-        "en": "Greek (Koine and Byzantine)"
+        "en": "Greek (Koine and Byzantine)",
+        "ar": "اليونانية (الكوينية والبيزنطية)",
+        "he": "יוונית (קוינה וביזנטית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Hellenic)",
       "scripts": [
@@ -828,7 +1014,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Hellenistic (Ptolemaic, Seleucid) rulers, the Roman administration of the eastern provinces and the Byzantine Empire; Greek officials were replaced by Arabs under the Umayyad caliph Abd al-Malik (685-705)"
+            "en": "Hellenistic (Ptolemaic, Seleucid) rulers, the Roman administration of the eastern provinces and the Byzantine Empire; Greek officials were replaced by Arabs under the Umayyad caliph Abd al-Malik (685-705)",
+            "ar": "الحكام الهلنستيون (البطالمة والسلوقيون) والإدارة الرومانية للولايات الشرقية والإمبراطورية البيزنطية؛ واستُبدل الموظفون اليونانيون بعرب في عهد الخليفة الأموي عبد الملك (685-705)",
+            "he": "שליטים הלניסטיים (תלמיים, סלווקיים), המינהל הרומי של המחוזות המזרחיים והאימפריה הביזנטית; פקידים יוונים הוחלפו בערבים בימי הח׳ליף האומי עבד אל־מלכ (685–705)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -860,7 +1052,13 @@
           },
           "role": "lingua-franca",
           "speakers": {
-            "en": "Hellenized coastal cities and the Decapolis, the Jerusalem upper class, Jewish and Christian writers, documents, inscriptions and mosaics"
+            "en": "Hellenized coastal cities and the Decapolis, the Jerusalem upper class, Jewish and Christian writers, documents, inscriptions and mosaics",
+            "ar": "المدن الساحلية المتأغرقة والمدن العشر والطبقة العليا في القدس والكتّاب اليهود والمسيحيون والوثائق والنقوش والفسيفساء",
+            "he": "ערי החוף שעברו הלניזציה והדקפוליס, המעמד העליון בירושלים, סופרים יהודים ונוצרים, מסמכים, כתובות ופסיפסים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -901,7 +1099,13 @@
     {
       "id": "latin",
       "name": {
-        "en": "Latin"
+        "en": "Latin",
+        "ar": "اللاتينية",
+        "he": "לטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Italic)",
       "scripts": [
@@ -921,7 +1125,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Roman soldiers and military administration in Judaea"
+            "en": "Roman soldiers and military administration in Judaea",
+            "ar": "الجنود الرومان والإدارة العسكرية في يهودا",
+            "he": "חיילים רומאים ומינהל צבאי ביהודה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -955,7 +1165,13 @@
     {
       "id": "arabic",
       "name": {
-        "en": "Arabic"
+        "en": "Arabic",
+        "ar": "العربية",
+        "he": "ערבית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Semitic (Central)",
       "scripts": [
@@ -976,7 +1192,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Arabic-speaking groups of the desert borderlands before Islam (Arabic features in Nabataean Aramaic; earliest Arabic-script inscriptions)"
+            "en": "Arabic-speaking groups of the desert borderlands before Islam (Arabic features in Nabataean Aramaic; earliest Arabic-script inscriptions)",
+            "ar": "الجماعات الناطقة بالعربية في أطراف الصحراء قبل الإسلام (ملامح عربية في الآرامية النبطية؛ أقدم النقوش بالحرف العربي)",
+            "he": "קבוצות דוברות ערבית בשולי המדבר לפני האסלאם (תופעות ערביות בארמית נבטית; הכתובות הקדומות ביותר בכתב ערבי)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "contested",
           "sources": [
@@ -1007,7 +1229,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Umayyad and later Muslim administrations (Arabic made the official state language under Abd al-Malik)"
+            "en": "Umayyad and later Muslim administrations (Arabic made the official state language under Abd al-Malik)",
+            "ar": "الإدارات الأموية والإسلامية اللاحقة (جُعلت العربية لغة الدولة الرسمية في عهد عبد الملك)",
+            "he": "המינהלים האומי והמוסלמיים שאחריו (הערבית נעשתה שפת המדינה הרשמית בימי עבד אל־מלכ)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1034,7 +1262,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Majority population from the early Islamic period on (Muslims, Christians, Samaritans, many Jews); today Palestinian Arabs and Arab citizens of Israel (Levantine Arabic, with Modern Standard Arabic learned in school)"
+            "en": "Majority population from the early Islamic period on (Muslims, Christians, Samaritans, many Jews); today Palestinian Arabs and Arab citizens of Israel (Levantine Arabic, with Modern Standard Arabic learned in school)",
+            "ar": "غالبية السكان منذ العصر الإسلامي المبكر (المسلمون والمسيحيون والسامريون وكثير من اليهود)؛ واليوم العرب الفلسطينيون والمواطنون العرب في إسرائيل (العربية الشامية، مع تعلم الفصحى في المدارس)",
+            "he": "רוב האוכלוסייה מאז התקופה האסלאמית הקדומה (מוסלמים, נוצרים, שומרונים, יהודים רבים); כיום ערבים פלסטינים ואזרחים ערבים בישראל (ערבית לבנטינית, כשערבית ספרותית נלמדת בבית הספר)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1076,7 +1310,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Mandatory Palestine (one of three official languages)"
+            "en": "Mandatory Palestine (one of three official languages)",
+            "ar": "فلسطين الانتدابية (إحدى ثلاث لغات رسمية)",
+            "he": "פלשתינה המנדטורית (אחת משלוש שפות רשמיות)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1100,7 +1340,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "State of Israel: Arabic retained an official status after 1948 (described by Adalah as a 'second official language')"
+            "en": "State of Israel: Arabic retained an official status after 1948 (described by Adalah as a 'second official language')",
+            "ar": "دولة إسرائيل: احتفظت العربية بمكانة رسمية بعد 1948 (وصفتها عدالة بأنها «لغة رسمية ثانية»)",
+            "he": "מדינת ישראל: הערבית שמרה על מעמד רשמי אחרי 1948 (עדאלה תיאר אותה כ״שפה רשמית שנייה״)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1125,7 +1371,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "State of Israel: 'special status' under the Basic Law: Israel - the Nation State of the Jewish People"
+            "en": "State of Israel: 'special status' under the Basic Law: Israel - the Nation State of the Jewish People",
+            "ar": "دولة إسرائيل: «مكانة خاصة» بموجب قانون أساس: إسرائيل - الدولة القومية للشعب اليهودي",
+            "he": "מדינת ישראל: ״מעמד מיוחד״ לפי חוק יסוד: ישראל – מדינת הלאום של העם היהודי",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "contested",
           "sources": [
@@ -1158,7 +1410,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Palestinian Authority (official language under the Amended Basic Law)"
+            "en": "Palestinian Authority (official language under the Amended Basic Law)",
+            "ar": "السلطة الفلسطينية (اللغة الرسمية بموجب القانون الأساسي المعدّل)",
+            "he": "הרשות הפלסטינית (השפה הרשמית לפי החוק היסודי המתוקן)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1187,7 +1445,13 @@
     {
       "id": "ottoman-turkish",
       "name": {
-        "en": "Ottoman Turkish"
+        "en": "Ottoman Turkish",
+        "ar": "التركية العثمانية",
+        "he": "טורקית עות׳מאנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Turkic (Oghuz)",
       "scripts": [
@@ -1205,7 +1469,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Ottoman government officials (language of contacts with the state)"
+            "en": "Ottoman government officials (language of contacts with the state)",
+            "ar": "الموظفون الحكوميون العثمانيون (لغة الاتصال بالدولة)",
+            "he": "פקידי ממשל עות׳מאנים (שפת הקשר עם המדינה)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1239,7 +1509,13 @@
     {
       "id": "french",
       "name": {
-        "en": "French (Old French in the crusader states)"
+        "en": "French (Old French in the crusader states)",
+        "ar": "الفرنسية (الفرنسية القديمة في الدول الصليبية)",
+        "he": "צרפתית (צרפתית עתיקה במדינות הצלבניות)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Romance)",
       "scripts": [
@@ -1259,7 +1535,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "Frankish (European) settlers and authorities of the crusader states, e.g. written privileges"
+            "en": "Frankish (European) settlers and authorities of the crusader states, e.g. written privileges",
+            "ar": "المستوطنون والسلطات الفرنجة (الأوروبيون) في الدول الصليبية، مثل المراسيم المكتوبة بالامتيازات",
+            "he": "מתיישבים ורשויות פרנקים (אירופיים) של המדינות הצלבניות, כגון זכויות בכתב",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1283,7 +1565,13 @@
     {
       "id": "mediterranean-lingua-franca",
       "name": {
-        "en": "Mediterranean lingua franca (French-Italian-Greek) and Italian"
+        "en": "Mediterranean lingua franca (French-Italian-Greek) and Italian",
+        "ar": "اللغة المتوسطية المشتركة (الفرنسية - الإيطالية - اليونانية) والإيطالية",
+        "he": "לינגואה פרנקה ים־תיכונית (צרפתית־איטלקית־יוונית) ואיטלקית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Romance, mixed)",
       "scripts": [
@@ -1303,7 +1591,13 @@
           },
           "role": "lingua-franca",
           "speakers": {
-            "en": "Port communities of the crusader states, including the Italian merchant communes (Venetian, Genoese, Pisan) in Acre"
+            "en": "Port communities of the crusader states, including the Italian merchant communes (Venetian, Genoese, Pisan) in Acre",
+            "ar": "جماعات الموانئ في الدول الصليبية، ومنها الكومونات التجارية الإيطالية (البندقية وجنوة وبيزا) في عكا",
+            "he": "קהילות נמלים של המדינות הצלבניות, כולל הקומונות הסוחרות האיטלקיות (ונציה, גנואה, פיזה) בעכו",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1327,7 +1621,13 @@
     {
       "id": "yiddish",
       "name": {
-        "en": "Yiddish"
+        "en": "Yiddish",
+        "ar": "اليديشية",
+        "he": "יידיש",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Germanic)",
       "scripts": [
@@ -1342,7 +1642,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Ashkenazi Jewish immigrants from Eastern Europe and their communities"
+            "en": "Ashkenazi Jewish immigrants from Eastern Europe and their communities",
+            "ar": "المهاجرون اليهود الأشكناز من أوروبا الشرقية وجماعاتهم",
+            "he": "מהגרים יהודים אשכנזים ממזרח אירופה וקהילותיהם",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1376,7 +1682,13 @@
     {
       "id": "ladino",
       "name": {
-        "en": "Ladino (Judeo-Spanish)"
+        "en": "Ladino (Judeo-Spanish)",
+        "ar": "اللادينو (اليهودية - الإسبانية)",
+        "he": "לדינו (יהודית־ספרדית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Romance)",
       "scripts": [
@@ -1392,7 +1704,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Sephardic Jews (descendants of Jews expelled from Spain after 1492)"
+            "en": "Sephardic Jews (descendants of Jews expelled from Spain after 1492)",
+            "ar": "اليهود السفارديم (أحفاد اليهود المطرودين من إسبانيا بعد 1492)",
+            "he": "יהודים ספרדים (צאצאי יהודים שגורשו מספרד אחרי 1492)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1420,7 +1738,13 @@
     {
       "id": "circassian",
       "name": {
-        "en": "Circassian"
+        "en": "Circassian",
+        "ar": "الشركسية",
+        "he": "צ׳רקסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Northwest Caucasian",
       "periods": [
@@ -1432,7 +1756,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Circassian (Sunni Muslim) communities settled by the Ottomans: villages in Galilee, and Amman (resettled 1878)"
+            "en": "Circassian (Sunni Muslim) communities settled by the Ottomans: villages in Galilee, and Amman (resettled 1878)",
+            "ar": "الجماعات الشركسية (المسلمة السنية) التي أسكنها العثمانيون: قرى في الجليل وعمّان (أُعيد توطينهم سنة 1878)",
+            "he": "קהילות צ׳רקסיות (מוסלמיות סוניות) שהעות׳מאנים יישבו: כפרים בגליל ועמאן (הוסדרו מחדש ב־1878)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1464,7 +1794,13 @@
     {
       "id": "armenian",
       "name": {
-        "en": "Armenian"
+        "en": "Armenian",
+        "ar": "الأرمنية",
+        "he": "ארמנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Armenian branch)",
       "scripts": [
@@ -1479,7 +1815,13 @@
           },
           "role": "liturgical",
           "speakers": {
-            "en": "Armenian Christian community of Jerusalem (seat of one of the four sees of the Armenian Apostolic Church)"
+            "en": "Armenian Christian community of Jerusalem (seat of one of the four sees of the Armenian Apostolic Church)",
+            "ar": "الجالية المسيحية الأرمنية في القدس (مقر أحد الكراسي الأربعة للكنيسة الأرمنية الرسولية)",
+            "he": "הקהילה הנוצרית הארמנית בירושלים (מושבו של אחד מארבעת הכסאות של הכנסייה האפוסטולית הארמנית)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "estimated",
           "sources": [
@@ -1517,7 +1859,13 @@
     {
       "id": "english",
       "name": {
-        "en": "English"
+        "en": "English",
+        "ar": "الإنجليزية",
+        "he": "אנגלית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "Indo-European (Germanic)",
       "scripts": [
@@ -1537,7 +1885,13 @@
           },
           "role": "administrative",
           "speakers": {
-            "en": "British Mandatory administration of Palestine (one of three official languages)"
+            "en": "British Mandatory administration of Palestine (one of three official languages)",
+            "ar": "الإدارة الانتدابية البريطانية في فلسطين (إحدى ثلاث لغات رسمية)",
+            "he": "המינהל המנדטורי הבריטי בפלשתינה (אחת משלוש שפות רשמיות)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "documented",
           "sources": [
@@ -1566,7 +1920,13 @@
     {
       "id": "philistine",
       "name": {
-        "en": "Philistine (undocumented)"
+        "en": "Philistine (undocumented)",
+        "ar": "الفلسطية (غير موثقة)",
+        "he": "פלשתית (לא מתועדת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "family": "unknown",
       "periods": [
@@ -1584,7 +1944,13 @@
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Philistines of the southern coastal plain (Gaza, Ashkelon, Ashdod, Gath, Ekron)"
+            "en": "Philistines of the southern coastal plain (Gaza, Ashkelon, Ashdod, Gath, Ekron)",
+            "ar": "الفلستيون في السهل الساحلي الجنوبي (غزة وعسقلان وأشدود وجت وعقرون)",
+            "he": "הפלשתים במישור החוף הדרומי (עזה, אשקלון, אשדוד, גת ועקרון)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "confidence": "unknown",
           "sources": [

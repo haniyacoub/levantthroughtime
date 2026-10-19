@@ -271,7 +271,11 @@ const appData: Record<string, any> & { conflicts: any[]; migrations: any[] } = {
   population: b.population?.population ?? [],
   units: [
     ...unitsData.units.map((u) => ({ id: u.id, name: u.name, description: u.description })),
-    ...modern.features.map((f) => ({ id: String(f.properties?.id), name: { en: String(f.properties?.name_en) } })),
+    ...modern.features.map((f) => {
+      const p = f.properties ?? {};
+      const drafts = p.name_ar && p.name_he ? { ar: String(p.name_ar), he: String(p.name_he), translation_status: { ar: 'machine-draft', he: 'machine-draft' } } : {};
+      return { id: String(p.id), name: { en: String(p.name_en), ...drafts } };
+    }),
   ],
   bands,
   sourceUsage,

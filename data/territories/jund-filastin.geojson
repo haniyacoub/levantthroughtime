@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "The land south of the plain of Acre and the Jezreel valley, west of the Jordan and Dead Sea, from the sea to the desert and the Egypt road; al-Muqaddasi (985) also lists Jericho and Amman among its towns."
+          "en": "The land south of the plain of Acre and the Jezreel valley, west of the Jordan and Dead Sea, from the sea to the desert and the Egypt road; al-Muqaddasi (985) also lists Jericho and Amman among its towns.",
+          "ar": "الأرض جنوب سهل عكا ومرج ابن عامر، غرب الأردن والبحر الميت، من البحر إلى الصحراء وطريق مصر؛ ويذكر المقدسي (985) أيضًا أريحا وعمّان بين مدنها.",
+          "he": "האדמה דרומית למישור עכו ולעמק יזרעאל, ממערב לירדן ולים המלח, מהים ועד המדבר ודרך מצרים; אל-מקדסי (985) מונה בין עריה גם את יריחו ואת עמאן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

@@ -4,7 +4,13 @@
     {
       "id": "egypt-eb-presence",
       "name": {
-        "en": "Egyptian presence in southern Canaan (late Predynastic / 'Dynasty 0', EB IB)"
+        "en": "Egyptian presence in southern Canaan (late Predynastic / 'Dynasty 0', EB IB)",
+        "ar": "الوجود المصري في جنوب كنعان (أواخر عصر ما قبل الأسرات / «الأسرة 0»، البرونزي المبكر IB)",
+        "he": "הנוכחות המצרית בדרום כנען (סוף התקופה הפרה-שושלתית / 'שושלת 0', ברונזה קדומה IB)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -50,7 +56,13 @@
     {
       "id": "hazor",
       "name": {
-        "en": "Hazor (Canaanite city-state)"
+        "en": "Hazor (Canaanite city-state)",
+        "ar": "حاصور (دولة مدينة كنعانية)",
+        "he": "חצור (עיר-מדינה כנענית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -126,7 +138,13 @@
     {
       "id": "hyksos-15th-dynasty",
       "name": {
-        "en": "Hyksos (15th Dynasty of Egypt)"
+        "en": "Hyksos (15th Dynasty of Egypt)",
+        "ar": "الهكسوس (الأسرة الخامسة عشرة في مصر)",
+        "he": "החיקסוס (השושלת ה-15 של מצרים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -166,7 +184,13 @@
     {
       "id": "egypt-new-kingdom",
       "name": {
-        "en": "Egypt (New Kingdom): rule of Canaan"
+        "en": "Egypt (New Kingdom): rule of Canaan",
+        "ar": "مصر (الدولة الحديثة): حكم كنعان",
+        "he": "מצרים (הממלכה החדשה): שלטון בכנען",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "empire",
       "start": {
@@ -226,7 +250,13 @@
     {
       "id": "shechem-city-state",
       "name": {
-        "en": "Shechem (Bronze Age city-state; Labayu in the Amarna period)"
+        "en": "Shechem (Bronze Age city-state; Labayu in the Amarna period)",
+        "ar": "شكيم (دولة مدينة من العصر البرونزي؛ لبايو في عصر العمارنة)",
+        "he": "שכם (עיר-מדינה מתקופת הברונזה; לבאיו בתקופת אל-עמארנה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -305,7 +335,13 @@
     {
       "id": "jerusalem-city-state",
       "name": {
-        "en": "Jerusalem (Bronze Age city-state; Abdi-Heba in the Amarna period)"
+        "en": "Jerusalem (Bronze Age city-state; Abdi-Heba in the Amarna period)",
+        "ar": "القدس (دولة مدينة من العصر البرونزي؛ عبدي خيبا في عصر العمارنة)",
+        "he": "ירושלים (עיר-מדינה מתקופת הברונזה; עבדי-חבה בתקופת אל-עמארנה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -375,7 +411,13 @@
     {
       "id": "megiddo-city-state",
       "name": {
-        "en": "Megiddo (Late Bronze Age city-state)"
+        "en": "Megiddo (Late Bronze Age city-state)",
+        "ar": "مجدو (دولة مدينة من العصر البرونزي المتأخر)",
+        "he": "מגידו (עיר-מדינה מתקופת הברונזה המאוחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -443,7 +485,13 @@
     {
       "id": "gezer-city-state",
       "name": {
-        "en": "Gezer (Late Bronze Age city-state)"
+        "en": "Gezer (Late Bronze Age city-state)",
+        "ar": "جازر (دولة مدينة من العصر البرونزي المتأخر)",
+        "he": "גזר (עיר-מדינה מתקופת הברונזה המאוחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -504,7 +552,13 @@
     {
       "id": "philistine-pentapolis",
       "name": {
-        "en": "Philistine city-states (Pentapolis: Gaza, Ashkelon, Ashdod, Gath, Ekron)"
+        "en": "Philistine city-states (Pentapolis: Gaza, Ashkelon, Ashdod, Gath, Ekron)",
+        "ar": "دول المدن الفلستية (الخماسية: غزة وعسقلان وأشدود وجت وعقرون)",
+        "he": "ערי-המדינה הפלישתיות (הפנטפוליס: עזה, אשקלון, אשדוד, גת, עקרון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -615,7 +669,13 @@
     {
       "id": "united-monarchy-textual",
       "name": {
-        "en": "United Monarchy of Israel (Saul, David, Solomon): biblical/textual account"
+        "en": "United Monarchy of Israel (Saul, David, Solomon): biblical/textual account",
+        "ar": "المملكة المتحدة لإسرائيل (شاول وداود وسليمان): الرواية التوراتية/النصية",
+        "he": "המלוכה המאוחדת של ישראל (שאול, דוד, שלמה): התיאור המקראי/הטקסטואלי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -664,7 +724,13 @@
     {
       "id": "united-monarchy-archaeological",
       "name": {
-        "en": "Early Iron Age highland polity / 'United Monarchy': archaeological assessments"
+        "en": "Early Iron Age highland polity / 'United Monarchy': archaeological assessments",
+        "ar": "كيان مرتفعات العصر الحديدي المبكر / «المملكة المتحدة»: التقييمات الأثرية",
+        "he": "ישות הרמה של תקופת הברזל הקדומה / 'המלוכה המאוחדת': הערכות ארכאולוגיות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -713,7 +779,13 @@
     {
       "id": "kingdom-of-israel",
       "name": {
-        "en": "Kingdom of Israel (northern kingdom)"
+        "en": "Kingdom of Israel (northern kingdom)",
+        "ar": "مملكة إسرائيل (المملكة الشمالية)",
+        "he": "ממלכת ישראל (הממלכה הצפונית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -797,7 +869,13 @@
     {
       "id": "kingdom-of-judah",
       "name": {
-        "en": "Kingdom of Judah"
+        "en": "Kingdom of Judah",
+        "ar": "مملكة يهوذا",
+        "he": "ממלכת יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -958,7 +1036,13 @@
     {
       "id": "tyre",
       "name": {
-        "en": "Tyre (Phoenician city-state)"
+        "en": "Tyre (Phoenician city-state)",
+        "ar": "صور (دولة مدينة فينيقية)",
+        "he": "צור (עיר-מדינה פיניקית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -1083,7 +1167,13 @@
     {
       "id": "sidon",
       "name": {
-        "en": "Sidon (Phoenician city-state)"
+        "en": "Sidon (Phoenician city-state)",
+        "ar": "صيدا (دولة مدينة فينيقية)",
+        "he": "צידון (עיר-מדינה פיניקית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "city-state",
       "start": {
@@ -1208,7 +1298,13 @@
     {
       "id": "aram-damascus",
       "name": {
-        "en": "Aram-Damascus (Aramaean kingdom)"
+        "en": "Aram-Damascus (Aramaean kingdom)",
+        "ar": "آرام دمشق (مملكة آرامية)",
+        "he": "ארם דמשק (ממלכה ארמית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -1310,7 +1406,13 @@
     {
       "id": "ammon",
       "name": {
-        "en": "Ammon (kingdom; later Persian-period province)"
+        "en": "Ammon (kingdom; later Persian-period province)",
+        "ar": "عمون (مملكة؛ ثم مقاطعة في العصر الفارسي)",
+        "he": "עמון (ממלכה; לימים פרובינציה בתקופה הפרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -1435,7 +1537,13 @@
     {
       "id": "moab",
       "name": {
-        "en": "Moab (kingdom)"
+        "en": "Moab (kingdom)",
+        "ar": "موآب (مملكة)",
+        "he": "מואב (ממלכה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -1529,7 +1637,13 @@
     {
       "id": "edom",
       "name": {
-        "en": "Edom (kingdom)"
+        "en": "Edom (kingdom)",
+        "ar": "أدوم (مملكة)",
+        "he": "אדום (ממלכה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -1632,7 +1746,13 @@
     {
       "id": "neo-assyrian-empire",
       "name": {
-        "en": "Neo-Assyrian Empire"
+        "en": "Neo-Assyrian Empire",
+        "ar": "الإمبراطورية الآشورية الحديثة",
+        "he": "האימפריה האשורית החדשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "empire",
       "start": {
@@ -1674,7 +1794,13 @@
     {
       "id": "assyrian-province-magiddu",
       "name": {
-        "en": "Magiddu (Assyrian province of Megiddo)"
+        "en": "Magiddu (Assyrian province of Megiddo)",
+        "ar": "مجدو (مقاطعة آشورية في مجدو)",
+        "he": "מגידו (פרובינציה אשורית של מגידו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -1746,7 +1872,13 @@
     {
       "id": "assyrian-province-samerina",
       "name": {
-        "en": "Samerina / Samaria (Assyrian, Babylonian and Persian province)"
+        "en": "Samerina / Samaria (Assyrian, Babylonian and Persian province)",
+        "ar": "سامرينا / السامرة (مقاطعة آشورية وبابلية وفارسية)",
+        "he": "סמרינה / שומרון (פרובינציה אשורית, בבלית ופרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -1868,7 +2000,13 @@
     {
       "id": "assyrian-province-duru",
       "name": {
-        "en": "Du'ru (Assyrian province of Dor)"
+        "en": "Du'ru (Assyrian province of Dor)",
+        "ar": "دورو (مقاطعة آشورية في دور)",
+        "he": "דורו (פרובינציה אשורית של דור)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -1938,7 +2076,13 @@
     {
       "id": "assyrian-province-galaza",
       "name": {
-        "en": "Gal'aza (Assyrian province of Gilead), existence debated"
+        "en": "Gal'aza (Assyrian province of Gilead), existence debated",
+        "ar": "جلعازا (مقاطعة آشورية في جلعاد)، وجودها محل خلاف",
+        "he": "גלעזה (פרובינציה אשורית של גלעד), עצם קיומה שנוי במחלוקת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -2005,7 +2149,13 @@
     {
       "id": "egypt-26th-dynasty",
       "name": {
-        "en": "Egypt (26th, Saite Dynasty)"
+        "en": "Egypt (26th, Saite Dynasty)",
+        "ar": "مصر (الأسرة السادسة والعشرون، السايية)",
+        "he": "מצרים (השושלת ה-26, הסאית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -2042,7 +2192,13 @@
     {
       "id": "neo-babylonian-empire",
       "name": {
-        "en": "Neo-Babylonian (Chaldean) Empire"
+        "en": "Neo-Babylonian (Chaldean) Empire",
+        "ar": "الإمبراطورية البابلية الحديثة (الكلدانية)",
+        "he": "האימפריה הנאו-בבלית (הכשדית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "empire",
       "start": {
@@ -2089,7 +2245,13 @@
     {
       "id": "achaemenid-empire",
       "name": {
-        "en": "Achaemenid (Persian) Empire"
+        "en": "Achaemenid (Persian) Empire",
+        "ar": "الإمبراطورية الأخمينية (الفارسية)",
+        "he": "האימפריה האחמנית (הפרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "empire",
       "start": {
@@ -2137,7 +2299,13 @@
     {
       "id": "yehud",
       "name": {
-        "en": "Yehud (Persian province of Judah)"
+        "en": "Yehud (Persian province of Judah)",
+        "ar": "يهود (مقاطعة يهوذا الفارسية)",
+        "he": "יהוד (פרובינציית יהודה הפרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -2214,7 +2382,13 @@
     {
       "id": "idumea-persian",
       "name": {
-        "en": "Idumea (Edomite region / Persian-period unit in southern Judah)"
+        "en": "Idumea (Edomite region / Persian-period unit in southern Judah)",
+        "ar": "أدومية (منطقة أدومية / وحدة من العصر الفارسي في جنوب يهوذا)",
+        "he": "אדומיאה (אזור אדומי / יחידה מהתקופה הפרסית בדרום יהודה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -2277,7 +2451,13 @@
     {
       "id": "ashdod-persian",
       "name": {
-        "en": "Ashdod (Persian-period province)"
+        "en": "Ashdod (Persian-period province)",
+        "ar": "أشدود (مقاطعة من العصر الفارسي)",
+        "he": "אשדוד (פרובינציה מהתקופה הפרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -2378,7 +2558,13 @@
     {
       "id": "antigonid-realm",
       "name": {
-        "en": "Realm of Antigonus I Monophthalmus"
+        "en": "Realm of Antigonus I Monophthalmus",
+        "ar": "مملكة أنتيغونوس الأول الأعور",
+        "he": "ממלכת אנטיגונוס הראשון מונופתלמוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "empire",
       "start": {
@@ -2501,7 +2687,13 @@
     {
       "id": "maccabean-revolt",
       "name": {
-        "en": "Maccabean-led Judea (revolt against the Seleucids)"
+        "en": "Maccabean-led Judea (revolt against the Seleucids)",
+        "ar": "اليهودية بقيادة المكابيين (الثورة على السلوقيين)",
+        "he": "יהודה בהנהגת המכבים (המרד בסלאוקים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -2725,7 +2917,13 @@
     {
       "id": "ituraean-principality",
       "name": {
-        "en": "Ituraean principality (Chalcis)"
+        "en": "Ituraean principality (Chalcis)",
+        "ar": "الإمارة الإيطورية (خلقيس)",
+        "he": "הנסיכות האיטוראית (כלקיס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -2937,7 +3135,13 @@
     {
       "id": "hasmonean-ethnarchy-hyrcanus-ii",
       "name": {
-        "en": "Judea under Hyrcanus II (Hasmonean high priest/ethnarch under Rome)"
+        "en": "Judea under Hyrcanus II (Hasmonean high priest/ethnarch under Rome)",
+        "ar": "اليهودية في عهد هركانوس الثاني (كاهن أعظم/إثنارخ حشموني تحت روما)",
+        "he": "יהודה בימי הורקנוס השני (כהן גדול/אתנארך חשמונאי תחת רומא)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -3025,7 +3229,13 @@
     {
       "id": "hasmonean-kingdom-antigonus",
       "name": {
-        "en": "Kingdom of Antigonus II Mattathias (last Hasmonean king)"
+        "en": "Kingdom of Antigonus II Mattathias (last Hasmonean king)",
+        "ar": "مملكة أنتيغونوس الثاني متتيا (آخر ملوك الحشمونيين)",
+        "he": "ממלכת אנטיגונוס השני מתתיהו (מלכם האחרון של החשמונאים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -3207,7 +3417,13 @@
     {
       "id": "ethnarchy-of-archelaus",
       "name": {
-        "en": "Ethnarchy of Herod Archelaus"
+        "en": "Ethnarchy of Herod Archelaus",
+        "ar": "إثنارخية هيرودس أرخيلاوس",
+        "he": "אתנרכיית הורדוס ארכלאוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -3260,7 +3476,13 @@
     {
       "id": "tetrarchy-of-herod-antipas",
       "name": {
-        "en": "Tetrarchy of Herod Antipas (Galilee and Peraea)"
+        "en": "Tetrarchy of Herod Antipas (Galilee and Peraea)",
+        "ar": "رباعية هيرودس أنتيباس (الجليل وبيرية)",
+        "he": "טטרארכיית הורדוס אנטיפס (הגליל ופראה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -3308,7 +3530,13 @@
     {
       "id": "tetrarchy-of-philip",
       "name": {
-        "en": "Tetrarchy of Philip"
+        "en": "Tetrarchy of Philip",
+        "ar": "رباعية فيليب",
+        "he": "טטרארכיית פיליפוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -3442,7 +3670,13 @@
     {
       "id": "kingdom-of-agrippa-i",
       "name": {
-        "en": "Kingdom of Herod Agrippa I"
+        "en": "Kingdom of Herod Agrippa I",
+        "ar": "مملكة هيرودس أغريبا الأول",
+        "he": "ממלכת הורדוס אגריפס הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -3493,7 +3727,13 @@
     {
       "id": "kingdom-of-agrippa-ii",
       "name": {
-        "en": "Kingdom of Herod Agrippa II"
+        "en": "Kingdom of Herod Agrippa II",
+        "ar": "مملكة هيرودس أغريبا الثاني",
+        "he": "ממלכת הורדוס אגריפס השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -5006,7 +5246,13 @@
     {
       "id": "atsiz-emirate",
       "name": {
-        "en": "Turkmen emirate of Atsiz ibn Uwaq (Jerusalem, later Damascus)"
+        "en": "Turkmen emirate of Atsiz ibn Uwaq (Jerusalem, later Damascus)",
+        "ar": "إمارة تركمانية لأتسز بن أوق (القدس، ثم دمشق)",
+        "he": "האמירות הטורקמנית של אטסיז בן אוואק (ירושלים, לימים דמשק)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -5076,7 +5322,13 @@
     {
       "id": "seljuk-syria-tutush",
       "name": {
-        "en": "Seljuk dominion of Tutush I (Damascus and Palestine)"
+        "en": "Seljuk dominion of Tutush I (Damascus and Palestine)",
+        "ar": "سيادة سلجوقية لتتش الأول (دمشق وفلسطين)",
+        "he": "שלטון סלג׳וקי של טוטוש הראשון (דמשק ופלשתינה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -5136,7 +5388,13 @@
     {
       "id": "artuqid-jerusalem",
       "name": {
-        "en": "Artuqid lordship of Jerusalem"
+        "en": "Artuqid lordship of Jerusalem",
+        "ar": "إمارة أرتقية على القدس",
+        "he": "הנהגה ארטוקית בירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "lordship",
       "start": {
@@ -5749,7 +6007,13 @@
     {
       "id": "mamluk-niyaba-safad",
       "name": {
-        "en": "Mamluk province (niyaba/mamlaka) of Safad"
+        "en": "Mamluk province (niyaba/mamlaka) of Safad",
+        "ar": "نيابة/مملكة مملوكية في صفد",
+        "he": "נייבה/ממלכה ממלוכית של צפת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -5810,7 +6074,13 @@
     {
       "id": "mamluk-niyaba-gaza",
       "name": {
-        "en": "Mamluk province (niyaba/mamlaka) of Gaza"
+        "en": "Mamluk province (niyaba/mamlaka) of Gaza",
+        "ar": "نيابة/مملكة مملوكية في غزة",
+        "he": "נייבה/ממלכה ממלוכית של עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -5884,7 +6154,13 @@
     {
       "id": "mamluk-niyaba-damascus",
       "name": {
-        "en": "Mamluk province (niyaba) of Damascus"
+        "en": "Mamluk province (niyaba) of Damascus",
+        "ar": "نيابة مملوكية في دمشق",
+        "he": "נייבה ממלוכית של דמשק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -6227,7 +6503,13 @@
     {
       "id": "zahir-al-umar-galilee",
       "name": {
-        "en": "Galilee under Zahir al-Umar (Zaydani autonomous rule)"
+        "en": "Galilee under Zahir al-Umar (Zaydani autonomous rule)",
+        "ar": "الجليل في عهد ظاهر العمر (حكم ذاتي زيداني)",
+        "he": "הגליל בימי ט׳אהר אל-עומר (שלטון אוטונומי זיידאני)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -6316,7 +6598,13 @@
     {
       "id": "jazzar-acre",
       "name": {
-        "en": "Acre under Ahmad Pasha al-Jazzar (Eyalet of Sidon governed from Acre)"
+        "en": "Acre under Ahmad Pasha al-Jazzar (Eyalet of Sidon governed from Acre)",
+        "ar": "عكا في عهد أحمد باشا الجزار (إيالة صيدا تُحكم من عكا)",
+        "he": "עכו בימי אחמד פאשה אל-ג׳זאר (איילט צידון בשליטה מעכו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "province",
       "start": {
@@ -6393,7 +6681,13 @@
     {
       "id": "egyptian-rule-syria",
       "name": {
-        "en": "Egyptian rule in Syria and Palestine (Muhammad Ali and Ibrahim Pasha)"
+        "en": "Egyptian rule in Syria and Palestine (Muhammad Ali and Ibrahim Pasha)",
+        "ar": "الحكم المصري في سوريا وفلسطين (محمد علي وإبراهيم باشا)",
+        "he": "השלטון המצרי בסוריה ובפלשתינה (מוחמד עלי ואיברהים פאשה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -6898,7 +7192,13 @@
     {
       "id": "oeta-south",
       "name": {
-        "en": "Occupied Enemy Territory Administration (South) - British military administration of Palestine"
+        "en": "Occupied Enemy Territory Administration (South) - British military administration of Palestine",
+        "ar": "إدارة أراضي العدو المحتلة (الجنوب) - الإدارة العسكرية البريطانية لفلسطين",
+        "he": "מינהל שטחי האויב הכבושים (דרום) – המינהל הצבאי הבריטי של פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -6957,7 +7257,13 @@
     {
       "id": "oeta-east-arab-administration",
       "name": {
-        "en": "Arab military administration at Damascus (OETA East)"
+        "en": "Arab military administration at Damascus (OETA East)",
+        "ar": "الإدارة العسكرية العربية في دمشق (إدارة أراضي العدو المحتلة - الشرق)",
+        "he": "המינהל הצבאי הערבי בדמשק (מינהל שטחי האויב הכבושים – מזרח)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -7012,7 +7318,13 @@
     {
       "id": "arab-kingdom-of-syria",
       "name": {
-        "en": "Arab Kingdom of Syria"
+        "en": "Arab Kingdom of Syria",
+        "ar": "المملكة العربية السورية",
+        "he": "הממלכה הערבית של סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "kingdom",
       "start": {
@@ -7188,7 +7500,13 @@
     {
       "id": "french-mandate-syria-lebanon",
       "name": {
-        "en": "French Mandate for Syria and the Lebanon"
+        "en": "French Mandate for Syria and the Lebanon",
+        "ar": "الانتداب الفرنسي على سوريا ولبنان",
+        "he": "המנדט הצרפתי על סוריה ולבנון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "mandate",
       "start": {
@@ -7518,7 +7836,13 @@
     {
       "id": "israeli-occupation-gaza-sinai-1956",
       "name": {
-        "en": "Israeli military occupation of the Gaza Strip and Sinai (1956-1957)"
+        "en": "Israeli military occupation of the Gaza Strip and Sinai (1956-1957)",
+        "ar": "الاحتلال العسكري الإسرائيلي لقطاع غزة وسيناء (1956-1957)",
+        "he": "הכיבוש הצבאי הישראלי של רצועת עזה וסיני (1956–1957)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -7586,7 +7910,13 @@
     {
       "id": "israeli-military-government-west-bank",
       "name": {
-        "en": "Israeli military government of the West Bank ('Judea and Samaria Area'), incl. the Civil Administration"
+        "en": "Israeli military government of the West Bank ('Judea and Samaria Area'), incl. the Civil Administration",
+        "ar": "الحكم العسكري الإسرائيلي للضفة الغربية («منطقة يهودا والسامرة»)، بما فيه الإدارة المدنية",
+        "he": "הממשל הצבאי הישראלי בגדה המערבית ('אזור יהודה ושומרון'), כולל המינהל האזרחי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -7664,7 +7994,13 @@
     {
       "id": "israeli-military-government-gaza",
       "name": {
-        "en": "Israeli military government of the Gaza Strip (1967-2005)"
+        "en": "Israeli military government of the Gaza Strip (1967-2005)",
+        "ar": "الحكم العسكري الإسرائيلي لقطاع غزة (1967-2005)",
+        "he": "הממשל הצבאי הישראלי ברצועת עזה (1967–2005)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -7724,7 +8060,13 @@
     {
       "id": "israeli-military-government-sinai",
       "name": {
-        "en": "Israeli military administration of Sinai (1967-1982)"
+        "en": "Israeli military administration of Sinai (1967-1982)",
+        "ar": "الإدارة العسكرية الإسرائيلية لسيناء (1967-1982)",
+        "he": "המינהל הצבאי הישראלי בסיני (1967–1982)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -7780,7 +8122,13 @@
     {
       "id": "israeli-military-government-golan",
       "name": {
-        "en": "Israeli military administration of the Golan Heights (1967-1981)"
+        "en": "Israeli military administration of the Golan Heights (1967-1981)",
+        "ar": "الإدارة العسكرية الإسرائيلية لهضبة الجولان (1967-1981)",
+        "he": "המינהל הצבאי הישראלי ברמת הגולן (1967–1981)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "military-administration",
       "start": {
@@ -8048,7 +8396,13 @@
     {
       "id": "hamas-administration-gaza",
       "name": {
-        "en": "Hamas-led administration of the Gaza Strip"
+        "en": "Hamas-led administration of the Gaza Strip",
+        "ar": "إدارة تقودها حماس لقطاع غزة",
+        "he": "מינהל בהנהגת חמאס ברצועת עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "authority",
       "start": {
@@ -8105,7 +8459,13 @@
     {
       "id": "idf-controlled-zone-gaza-2023",
       "name": {
-        "en": "Israeli-held zone in the Gaza Strip (since the October 2023 war; 'Yellow Line' area from October 2025)"
+        "en": "Israeli-held zone in the Gaza Strip (since the October 2023 war; 'Yellow Line' area from October 2025)",
+        "ar": "منطقة تحتفظ بها إسرائيل في قطاع غزة (منذ حرب تشرين الأول/أكتوبر 2023؛ منطقة «الخط الأصفر» منذ تشرين الأول/أكتوبر 2025)",
+        "he": "אזור בהחזקה ישראלית ברצועת עזה (מאז מלחמת אוקטובר 2023; אזור 'הקו הצהוב' מאוקטובר 2025)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -8170,7 +8530,13 @@
     {
       "id": "israeli-security-zone-south-lebanon-2024",
       "name": {
-        "en": "Israeli-held positions and 'security zone' in southern Lebanon (2024- ; 'Yellow Line' from 2026)"
+        "en": "Israeli-held positions and 'security zone' in southern Lebanon (2024- ; 'Yellow Line' from 2026)",
+        "ar": "مواقع و«منطقة أمنية» تحتفظ بها إسرائيل في جنوب لبنان (2024-؛ «الخط الأصفر» منذ 2026)",
+        "he": "מוצבים ו'רצועת ביטחון' בהחזקה ישראלית בדרום לבנון (2024–; 'הקו הצהוב' מ-2026)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {
@@ -8227,7 +8593,13 @@
     {
       "id": "israeli-positions-syria-2024",
       "name": {
-        "en": "Israeli-held positions in the UNDOF area of separation and on Mount Hermon, Syria (since December 2024)"
+        "en": "Israeli-held positions in the UNDOF area of separation and on Mount Hermon, Syria (since December 2024)",
+        "ar": "مواقع تحتفظ بها إسرائيل في منطقة الفصل التابعة لقوة الأمم المتحدة لمراقبة فك الاشتباك (أندوف) وعلى جبل الشيخ (حرمون) في سوريا (منذ كانون الأول/ديسمبر 2024)",
+        "he": "מוצבים בהחזקה ישראלית באזור ההפרדה של אונדו״ף ובהר החרמון בסוריה (מאז דצמבר 2024)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "kind": "other",
       "start": {

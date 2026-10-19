@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "City-state on the international road, controlling the Ayalon Valley at the junction of the inner coastal plain and the Shephelah."
+          "en": "City-state on the international road, controlling the Ayalon Valley at the junction of the inner coastal plain and the Shephelah.",
+          "ar": "دولة مدينة على الطريق الدولي، تسيطر على وادي أيالون عند ملتقى السهل الساحلي الداخلي والشفيلا.",
+          "he": "עיר-מדינה על הדרך הבינלאומית, השולטת בעמק איילון בצומת מישור החוף הפנימי והשפלה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -4,7 +4,13 @@
     {
       "id": "late-natufian",
       "name": {
-        "en": "Late and Final Natufian (incl. Harifian)"
+        "en": "Late and Final Natufian (incl. Harifian)",
+        "ar": "النطوفية المتأخرة والنهائية (بما فيها الحريفية)",
+        "he": "הנאטופית המאוחרת והאחרונה (כולל החריפית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -42,7 +48,13 @@
     {
       "id": "ppna",
       "name": {
-        "en": "Pre-Pottery Neolithic A (Khiamian and Sultanian)"
+        "en": "Pre-Pottery Neolithic A (Khiamian and Sultanian)",
+        "ar": "العصر الحجري الحديث ما قبل الفخار أ (الخيامية والسلطانية)",
+        "he": "התקופה הנאוליתית הקדם-קרמית א' (חיאמית וסולטאנית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -85,7 +97,13 @@
     {
       "id": "ppnb",
       "name": {
-        "en": "Pre-Pottery Neolithic B (Early, Middle and Late)"
+        "en": "Pre-Pottery Neolithic B (Early, Middle and Late)",
+        "ar": "العصر الحجري الحديث ما قبل الفخار ب (المبكر والأوسط والمتأخر)",
+        "he": "התקופה הנאוליתית הקדם-קרמית ב' (קדומה, בינונית ומאוחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -128,7 +146,13 @@
     {
       "id": "ppnc",
       "name": {
-        "en": "Pre-Pottery Neolithic C (Final PPNB)"
+        "en": "Pre-Pottery Neolithic C (Final PPNB)",
+        "ar": "العصر الحجري الحديث ما قبل الفخار ج (نهاية ما قبل الفخار ب)",
+        "he": "התקופה הנאוליתית הקדם-קרמית ג' (סוף הקדם-קרמית ב')",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -161,7 +185,13 @@
     {
       "id": "yarmukian",
       "name": {
-        "en": "Yarmukian culture"
+        "en": "Yarmukian culture",
+        "ar": "الثقافة اليرموكية",
+        "he": "התרבות הירמוכית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -194,7 +224,13 @@
     {
       "id": "lodian-jericho-ix",
       "name": {
-        "en": "Lodian culture (Jericho IX)"
+        "en": "Lodian culture (Jericho IX)",
+        "ar": "الثقافة اللودية (أريحا IX)",
+        "he": "התרבות הלודית (יריחו IX)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -238,7 +274,13 @@
     {
       "id": "wadi-rabah",
       "name": {
-        "en": "Wadi Rabah culture"
+        "en": "Wadi Rabah culture",
+        "ar": "ثقافة وادي رابح",
+        "he": "תרבות ואדי רבאח",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -278,7 +320,13 @@
     {
       "id": "ghassulian",
       "name": {
-        "en": "Ghassulian (Chalcolithic), incl. the Beersheba culture"
+        "en": "Ghassulian (Chalcolithic), incl. the Beersheba culture",
+        "ar": "الغسولية (العصر الحجري النحاسي)، بما فيها ثقافة بئر السبع",
+        "he": "הגסולית (כלקוליתית), כולל תרבות באר שבע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -322,7 +370,13 @@
     {
       "id": "early-bronze-i",
       "name": {
-        "en": "Early Bronze Age I"
+        "en": "Early Bronze Age I",
+        "ar": "العصر البرونزي المبكر I",
+        "he": "תקופת הברונזה הקדומה I",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -361,7 +415,13 @@
     {
       "id": "early-bronze-ii-iii",
       "name": {
-        "en": "Early Bronze Age II-III urban culture (fortified towns / city-states)"
+        "en": "Early Bronze Age II-III urban culture (fortified towns / city-states)",
+        "ar": "الثقافة الحضرية في العصر البرونزي المبكر II-III (مدن محصنة / دول مدن)",
+        "he": "התרבות העירונית בתקופת הברונזה הקדומה II-III (ערים מבוצרות / ערי-מדינה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {
@@ -400,7 +460,13 @@
     {
       "id": "intermediate-bronze-age",
       "name": {
-        "en": "Intermediate Bronze Age (EB IV / EB-MB)"
+        "en": "Intermediate Bronze Age (EB IV / EB-MB)",
+        "ar": "العصر البرونزي الانتقالي (البرونزي المبكر IV / البرونزي المبكر-المتوسط)",
+        "he": "תקופת הביניים של הברונזה (ברונזה קדומה IV / ברונזה קדומה-תיכונה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "basis": "archaeological",
       "start": {

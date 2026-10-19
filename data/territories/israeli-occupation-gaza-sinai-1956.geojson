@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Gaza Strip and most of Sinai east of the Suez Canal (Anglo-French forces held the canal zone separately)."
+          "en": "Gaza Strip and most of Sinai east of the Suez Canal (Anglo-French forces held the canal zone separately).",
+          "ar": "قطاع غزة ومعظم سيناء شرق قناة السويس (احتفظت القوات الإنجليزية-الفرنسية بمنطقة القناة على حدة).",
+          "he": "רצועת עזה ורוב סיני ממזרח לתעלת סואץ (הכוחות האנגלו-צרפתיים החזיקו באזור התעלה בנפרד).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

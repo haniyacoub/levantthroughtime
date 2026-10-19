@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "The 'Idumaean region in the Hebron mountain area' with the Beersheba region and Maresha in the southern Shephelah (Maresha a 'purely Edomite city' by the mid-3rd century)."
+          "en": "The 'Idumaean region in the Hebron mountain area' with the Beersheba region and Maresha in the southern Shephelah (Maresha a 'purely Edomite city' by the mid-3rd century).",
+          "ar": "'Idumaean region in the Hebron mountain area' [المنطقة الأدومية في منطقة جبل الخليل] مع منطقة بئر السبع ومريشة في الشفيلا الجنوبية (مريشة 'purely Edomite city' [مدينة أدومية خالصة] بحلول منتصف القرن الثالث).",
+          "he": "“Idumaean region in the Hebron mountain area” [האזור האידומי באזור הר חברון] עם אזור באר שבע ומרשה בשפלה הדרומית (מרשה “purely Edomite city” [עיר אדומית טהורה] עד אמצע המאה ה-3).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

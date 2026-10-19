@@ -24,7 +24,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Early Judah per Garfinkel et al.: Jerusalem and the hill country with a fortified Lachish (Level V) and Socoh and Azekah in the Shephelah from c. 930. Low-chronology scholars date this expansion later. Mizpah passed from Israel to Judah only in the second half of the 9th century (Finkelstein)."
+          "en": "Early Judah per Garfinkel et al.: Jerusalem and the hill country with a fortified Lachish (Level V) and Socoh and Azekah in the Shephelah from c. 930. Low-chronology scholars date this expansion later. Mizpah passed from Israel to Judah only in the second half of the 9th century (Finkelstein).",
+          "ar": "يهوذا المبكرة بحسب غارفينكل وآخرين: القدس والمرتفعات مع لخيش محصنة (المستوى الخامس) وسوخو وعزيقة في الشفيلا منذ نحو 930. يؤرخ علماء التسلسل الزمني المنخفض هذا التوسع لاحقًا. انتقلت المصفاة من إسرائيل إلى يهوذا في النصف الثاني من القرن التاسع فقط (فنكلشتاين).",
+          "he": "יהודה הקדומה לפי גרפינקל ואחרים: ירושלים והרי יהודה עם לכיש מבוצרת (שכבה V) ושוכו ועזקה בשפלה מבערך 930. חוקרי הכרונולוגיה הנמוכה מתארכים את ההתרחבות הזו מאוחר יותר. מצפה עברה מישראל ליהודה רק במחצית השנייה של המאה ה-9 (פינקלשטיין).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -63,7 +69,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "From the mid-9th century Judah included the Beersheba Valley, with Lachish central in the kingdom."
+          "en": "From the mid-9th century Judah included the Beersheba Valley, with Lachish central in the kingdom.",
+          "ar": "منذ منتصف القرن التاسع ضمّت يهوذا وادي بئر السبع، وكانت لخيش مركزية في المملكة.",
+          "he": "מאמצע המאה ה-9 כללה יהודה את עמק באר שבע, כשלכיש מרכזית בממלכה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -101,7 +113,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After Sennacherib's 701 campaign (Lachish destroyed, heavy tribute) to the Babylonian destruction. Britannica's claim that Josiah (c. 640-609) regained 'much of the ancient territory of united Israel' rests on the biblical account and is not mapped."
+          "en": "After Sennacherib's 701 campaign (Lachish destroyed, heavy tribute) to the Babylonian destruction. Britannica's claim that Josiah (c. 640-609) regained 'much of the ancient territory of united Israel' rests on the biblical account and is not mapped.",
+          "ar": "بعد حملة سنحاريب عام 701 (دُمّرت لخيش، جزية ثقيلة) حتى الدمار البابلي. أما ادعاء بريتانيكا أن يوشيا (نحو 640-609) استعاد 'much of the ancient territory of united Israel' [معظم أرض إسرائيل الموحدة القديمة] فيستند إلى الرواية التوراتية ولم يُرسم على الخريطة.",
+          "he": "לאחר מסעו של סנחריב ב-701 (לכיש הושמדה, מס כבד) ועד החורבן הבבלי. טענת בריטניקה שיאשיהו (בערך 640-609) השיב “much of the ancient territory of united Israel” [חלק גדול מהשטח הקדום של ישראל המאוחדת] נשענת על התיאור המקראי ואינה ממופה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "British-controlled part of the map area: Sinai (Egypt under British protectorate to Feb 1922), Palestine under military (Dec 1917-June 1920) then civil administration, Transjordan from 1921, and (1920-23) a triangle of the Golan assigned to Palestine."
+          "en": "British-controlled part of the map area: Sinai (Egypt under British protectorate to Feb 1922), Palestine under military (Dec 1917-June 1920) then civil administration, Transjordan from 1921, and (1920-23) a triangle of the Golan assigned to Palestine.",
+          "ar": "الجزء الخاضع للبريطانيين من منطقة الخريطة: سيناء (مصر تحت الحماية البريطانية حتى شباط/فبراير 1922)، وفلسطين تحت إدارة عسكرية (كانون الأول/ديسمبر 1917–حزيران/يونيو 1920) ثم مدنية، وشرق الأردن منذ 1921، و(1920-23) مثلث من الجولان خُصّص لفلسطين.",
+          "he": "החלק בשליטה בריטית מאזור המפה: סיני (מצרים תחת חסות בריטית עד פברואר 1922), פלשתינה תחת מינהל צבאי (דצמבר 1917–יוני 1920) ואחר כך אזרחי, עבר הירדן מ-1921, ו-(1920-23) משולש בגולן שהוקצה לפלשתינה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -88,7 +94,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Mandatory Palestine and the Emirate of Transjordan under British mandate (Golan triangle only until March 1923)."
+          "en": "Mandatory Palestine and the Emirate of Transjordan under British mandate (Golan triangle only until March 1923).",
+          "ar": "فلسطين الانتدابية وإمارة شرق الأردن تحت الانتداب البريطاني (مثلث الجولان حتى آذار/مارس 1923 فقط).",
+          "he": "פלשתינה המנדטורית ואמירות עבר הירדן תחת המנדט הבריטי (משולש הגולן רק עד מרץ 1923).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -131,7 +143,13 @@
         ],
         "boundary_certainty": "surveyed",
         "description": {
-          "en": "Mandatory Palestine only (Transjordan independent from May 1946) until the end of the Mandate on 14/15 May 1948."
+          "en": "Mandatory Palestine only (Transjordan independent from May 1946) until the end of the Mandate on 14/15 May 1948.",
+          "ar": "فلسطين الانتدابية فقط (شرق الأردن مستقلة منذ أيار/مايو 1946) حتى انتهاء الانتداب في 14/15 أيار/مايو 1948.",
+          "he": "פלשתינה המנדטורית בלבד (עבר הירדן עצמאית מאי 1946) עד תום המנדט ב-14/15 במאי 1948.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

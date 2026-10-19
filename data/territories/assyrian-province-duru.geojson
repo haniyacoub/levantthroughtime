@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Coastal plain around Dor (Carmel coast and Sharon), if a separate province existed."
+          "en": "Coastal plain around Dor (Carmel coast and Sharon), if a separate province existed.",
+          "ar": "السهل الساحلي حول دور (ساحل الكرمل والشارون)، إن وُجد إقليم منفصل.",
+          "he": "מישור החוף סביב דור (חוף הכרמל והשרון), אם התקיים מחוז נפרד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

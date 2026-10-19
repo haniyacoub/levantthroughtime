@@ -26,7 +26,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Syria and Lebanon; most of the Golan (except the triangle assigned to Palestine)."
+          "en": "Syria and Lebanon; most of the Golan (except the triangle assigned to Palestine).",
+          "ar": "سوريا ولبنان؛ معظم الجولان (باستثناء المثلث المخصّص لفلسطين).",
+          "he": "סוריה ולבנון; רוב רמת הגולן (מלבד המשולש שהוקצה לפלשתינה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -63,7 +69,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Syria (incl. the whole Golan) and Lebanon."
+          "en": "Syria (incl. the whole Golan) and Lebanon.",
+          "ar": "سوريا (بما فيها الجولان كله) ولبنان.",
+          "he": "סוריה (כולל כל רמת הגולן) ולבנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -98,7 +110,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Syria (incl. the Golan) until the completion of French and British withdrawal; Lebanon independent from Nov 1943."
+          "en": "Syria (incl. the Golan) until the completion of French and British withdrawal; Lebanon independent from Nov 1943.",
+          "ar": "سوريا (بما فيها الجولان) حتى اكتمال الانسحاب الفرنسي والبريطاني؛ لبنان مستقل منذ تشرين الثاني/نوفمبر 1943.",
+          "he": "סוריה (כולל רמת הגולן) עד להשלמת הנסיגה הצרפתית והבריטית; לבנון עצמאית מנובמבר 1943.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

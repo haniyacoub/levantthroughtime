@@ -2,10 +2,22 @@
   "$schema": "../../schema/story.schema.json",
   "id": "twelve-thousand-years",
   "title": {
-    "en": "12,000 years in 5 minutes"
+    "en": "12,000 years in 5 minutes",
+    "ar": "12,000 عام في 5 دقائق",
+    "he": "12,000 שנה ב-5 דקות",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "summary": {
-    "en": "A fast pass through the whole timeline, from the first villages to today, one stop per era."
+    "en": "A fast pass through the whole timeline, from the first villages to today, one stop per era.",
+    "ar": "مرور سريع على الخط الزمني كله، من أولى القرى إلى اليوم، بمحطة واحدة لكل عصر.",
+    "he": "מבט מהיר על כל ציר הזמן, מהכפרים הראשונים ועד היום, תחנה אחת לכל תקופה.",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "steps": [
     {
@@ -25,10 +37,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Foragers and the first villages"
+        "en": "Foragers and the first villages",
+        "ar": "جامعو الغذاء وأولى القرى",
+        "he": "לקטים והכפרים הראשונים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Middle Stone Age here is best known from the Natufian culture, excavated at ʿAin Mallaha and Jericho [1]. The Pre-Pottery Neolithic A that followed lasted about 1,000 years, roughly 40 generations [2]. By about 8000 BCE the people of Jericho had built a massive stone wall around their settlement [3]."
+        "en": "The Middle Stone Age here is best known from the Natufian culture, excavated at ʿAin Mallaha and Jericho [1]. The Pre-Pottery Neolithic A that followed lasted about 1,000 years, roughly 40 generations [2]. By about 8000 BCE the people of Jericho had built a massive stone wall around their settlement [3].",
+        "ar": "اشتهر العصر الحجري الأوسط هنا بالثقافة النطوفية، التي نُقّب عنها في عين ملاحة وأريحا [1]. واستمر العصر الحجري الحديث ما قبل الفخاري «أ» الذي تلاها نحو 1,000 عام، أي نحو 40 جيلًا [2]. وبحلول نحو 8000 ق.م. كان أهل أريحا قد بنوا سورًا حجريًا ضخمًا حول مستوطنتهم [3].",
+        "he": "תקופת האבן התיכונה באזור ידועה בעיקר מהתרבות הנאטופית, שנחפרה בעין מלחה ובירחו [1]. הנאוליתית הקדם-קראמית א׳ שבאה אחריה נמשכה כ-1,000 שנה, בערך 40 דורות [2]. עד כ-8000 לפנה״ס בנו תושבי יריחו חומת אבן עצומה סביב יישובם [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -66,10 +90,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Farming villages spread"
+        "en": "Farming villages spread",
+        "ar": "انتشار قرى الزراعة",
+        "he": "התפשטות כפרי החקלאים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Villages of the Pre-Pottery Neolithic B were first founded in a narrow north–south corridor on the western edge of the Transjordanian plateau [1]. At Jericho, a new group arrived around 7000 BCE with a culture that was still Neolithic and did not yet make pottery [2]."
+        "en": "Villages of the Pre-Pottery Neolithic B were first founded in a narrow north–south corridor on the western edge of the Transjordanian plateau [1]. At Jericho, a new group arrived around 7000 BCE with a culture that was still Neolithic and did not yet make pottery [2].",
+        "ar": "أُسست قرى العصر الحجري الحديث ما قبل الفخاري «ب» أول مرة في ممر ضيق من الشمال إلى الجنوب على الحافة الغربية لهضبة شرق الأردن [1]. وفي أريحا وصلت جماعة جديدة نحو 7000 ق.م. بثقافة كانت لا تزال من العصر الحجري الحديث ولم تكن تصنع الفخار بعد [2].",
+        "he": "כפרי הנאוליתית הקדם-קראמית ב׳ נוסדו לראשונה במסדרון צר צפון–דרום בשולי הרמה הטרנסירדנית המערביים [1]. ביריחו הגיעה בסביבות 7000 לפנה״ס קבוצה חדשה בעלת תרבות שעדיין הייתה נאוליתית ועדיין לא יצרה כלי חרס [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -102,10 +138,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The Copper Age"
+        "en": "The Copper Age",
+        "ar": "العصر النحاسي",
+        "he": "תקופת הנחושת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Ghassulian (Chalcolithic) settlements lay mainly in the south, with an extension up the coastal plain [1]. Occupation had ended at almost all the major Chalcolithic centres by 3800/3700 BCE [2]."
+        "en": "Ghassulian (Chalcolithic) settlements lay mainly in the south, with an extension up the coastal plain [1]. Occupation had ended at almost all the major Chalcolithic centres by 3800/3700 BCE [2].",
+        "ar": "كانت مستوطنات الغسولية (العصر الحجري النحاسي) تقع أساسًا في الجنوب، مع امتداد صعودًا في السهل الساحلي [1]. وانتهى الاستيطان في جميع مراكز العصر الحجري النحاسي الكبرى تقريبًا بحلول 3800/3700 ق.م. [2].",
+        "he": "יישובי התרבות הגשולית (הכלקוליתית) שכנו בעיקר בדרום, עם הרחבה במעלה מישור החוף [1]. היישוב הסתיים כמעט בכל המרכזים הכלקוליתיים הגדולים עד 3800/3700 לפנה״ס [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -140,10 +188,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The first towns"
+        "en": "The first towns",
+        "ar": "أولى المدن",
+        "he": "הערים הראשונות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In the Early Bronze Age the towns were probably independent city-states, except where Egypt may at times have held loose control [1]. By about the 23rd century BCE, urban life had come to an end [2]."
+        "en": "In the Early Bronze Age the towns were probably independent city-states, except where Egypt may at times have held loose control [1]. By about the 23rd century BCE, urban life had come to an end [2].",
+        "ar": "في العصر البرونزي المبكر كانت المدن على الأرجح دول مدن مستقلة، إلا حيث ربما أحكمت مصر سيطرة فضفاضة في بعض الأحيان [1]. وبحلول نحو القرن 23 ق.م. كانت الحياة الحضرية قد انتهت [2].",
+        "he": "בתקופת הברונזה הקדומה היו הערים כנראה ערי-מדינה עצמאיות, מלבד במקומות שבהם ייתכן שמצרים החזיקה לעיתים בשליטה רופפת [1]. עד בערך המאה ה-23 לפנה״ס הגיעו החיים העירוניים לקיצם [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -178,10 +238,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Egyptian rule in Canaan"
+        "en": "Egyptian rule in Canaan",
+        "ar": "الحكم المصري في كنعان",
+        "he": "השלטון המצרי בכנען",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Shortly before 1515 BCE Egyptian armies began to conquer the land [1]. Egypt ran it as its district of Canaan, from the Egyptian border to Byblos [2]. Local city-states such as Shechem and Jerusalem pressed on Egyptian strongholds like Beth-shean, which linked to Egyptian centres at Jaffa and Gaza [3]."
+        "en": "Shortly before 1515 BCE Egyptian armies began to conquer the land [1]. Egypt ran it as its district of Canaan, from the Egyptian border to Byblos [2]. Local city-states such as Shechem and Jerusalem pressed on Egyptian strongholds like Beth-shean, which linked to Egyptian centres at Jaffa and Gaza [3].",
+        "ar": "قبل عام 1515 ق.م. بقليل بدأت الجيوش المصرية فتح الأرض [1]. وأدارتها مصر بوصفها مقاطعتها كنعان، من الحدود المصرية إلى جبيل [2]. وضغطت دول المدن المحلية مثل شكيم والقدس على الحصون المصرية مثل بيسان، التي ارتبطت بالمراكز المصرية في يافا وغزة [3].",
+        "he": "זמן קצר לפני 1515 לפנה״ס החלו צבאות מצרים לכבוש את הארץ [1]. מצרים ניהלה אותה כמחוז כנען שלה, מגבול מצרים ועד גבל [2]. ערי-מדינה מקומיות כמו שכם וירושלים לחצו על מעוזים מצריים כמו בית שאן, שהיה קשור למרכזים המצריים ביפו ובעזה [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -221,10 +293,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Philistines on the coast"
+        "en": "Philistines on the coast",
+        "ar": "الفلستيون على الساحل",
+        "he": "הפלשתים בחוף",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Around 1190 BCE the Philistines appear in Egyptian records as one of the Sea Peoples [1]. They founded five city-states on the southern coast: Gaza, Ashkelon, Ashdod, Gath and Ekron [2]."
+        "en": "Around 1190 BCE the Philistines appear in Egyptian records as one of the Sea Peoples [1]. They founded five city-states on the southern coast: Gaza, Ashkelon, Ashdod, Gath and Ekron [2].",
+        "ar": "نحو عام 1190 ق.م. يظهر الفلستيون في السجلات المصرية بوصفهم أحد «شعوب البحر» [1]. وأسسوا خمس دول مدن على الساحل الجنوبي: غزة وعسقلان وأسدود وجت وعقرون [2].",
+        "he": "בסביבות 1190 לפנה״ס מופיעים הפלשתים ברישומים מצריים כאחד מ“עמי הים” [1]. הם ייסדו חמש ערי-מדינה בחוף הדרומי: עזה, אשקלון, אשדוד, גת ועקרון [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -259,10 +343,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Israel and Judah"
+        "en": "Israel and Judah",
+        "ar": "إسرائيل ويهوذا",
+        "he": "ישראל ויהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "From the late 10th century BCE two kingdoms existed side by side: Israel in the north and Judah, under the Davidic dynasty, in the south [1][2]. Assyrian records name Ahab of Israel in a coalition that fought Shalmaneser III in 853/852 BCE [3]."
+        "en": "From the late 10th century BCE two kingdoms existed side by side: Israel in the north and Judah, under the Davidic dynasty, in the south [1][2]. Assyrian records name Ahab of Israel in a coalition that fought Shalmaneser III in 853/852 BCE [3].",
+        "ar": "منذ أواخر القرن العاشر ق.م. وُجدت مملكتان جنبًا إلى جنب: إسرائيل في الشمال ويهوذا، في ظل السلالة الداودية، في الجنوب [1][2]. وتذكر السجلات الآشورية أخآب ملك إسرائيل في تحالف قاتل شلمنصر الثالث عام 853/852 ق.م. [3].",
+        "he": "מסוף המאה ה-10 לפנה״ס התקיימו זו לצד זו שתי ממלכות: ישראל בצפון ויהודה, תחת שושלת בית דוד, בדרום [1][2]. רישומים אשוריים מזכירים את אחאב מלך ישראל בקואליציה שלחמה בשלמנאסר השלישי ב-853/852 לפנה״ס [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -302,10 +398,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Assyria"
+        "en": "Assyria",
+        "ar": "آشور",
+        "he": "אשור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In 733 BCE the Assyrian king Tiglath-pileser III devastated Israel and took large parts of its territory [1]. After Samaria fell in 722–720 BCE, Israel became an Assyrian province and its upper class was deported [2][3]."
+        "en": "In 733 BCE the Assyrian king Tiglath-pileser III devastated Israel and took large parts of its territory [1]. After Samaria fell in 722–720 BCE, Israel became an Assyrian province and its upper class was deported [2][3].",
+        "ar": "في عام 733 ق.م. خرّب الملك الآشوري تغلات فلاسر الثالث إسرائيل واستولى على أجزاء واسعة من أراضيها [1]. وبعد سقوط السامرة في 722–720 ق.م. أصبحت إسرائيل إقليمًا آشوريًا ورُحّلت طبقتها العليا [2][3].",
+        "he": "ב-733 לפנה״ס החריב המלך האשורי תגלת פלאסר השלישי את ישראל ולקח חלקים נרחבים משטחה [1]. לאחר נפילת שומרון ב-722–720 לפנה״ס הפכה ישראל למחוז אשורי והמעמד העליון שלה הוגלה [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -345,10 +453,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Babylon"
+        "en": "Babylon",
+        "ar": "بابل",
+        "he": "בבל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Nebuchadnezzar II of Babylon captured Jerusalem in 597 BCE and deported Judah’s king, Jehoiachin [1]. About 587/586 BCE the city was stormed and destroyed, and prominent citizens were deported [2][3]."
+        "en": "Nebuchadnezzar II of Babylon captured Jerusalem in 597 BCE and deported Judah’s king, Jehoiachin [1]. About 587/586 BCE the city was stormed and destroyed, and prominent citizens were deported [2][3].",
+        "ar": "استولى نبوخذنصر الثاني ملك بابل على القدس عام 597 ق.م. ورحّل ملك يهوذا يهوياكين [1]. ونحو عام 587/586 ق.م. اقتُحمت المدينة ودُمّرت ورُحّل وجهاؤها [2][3].",
+        "he": "נבוכדנאצר השני מלך בבל כבש את ירושלים ב-597 לפנה״ס והגלה את מלך יהודה, יהויכין [1]. בסביבות 587/586 לפנה״ס נפרצה העיר והושמדה, ואישים בולטים בה הוגלו [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -388,10 +508,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Persian rule"
+        "en": "Persian rule",
+        "ar": "الحكم الفارسي",
+        "he": "השלטון הפרסי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Cyrus of Persia decreed around 538 BCE that Judah be restored and the Temple in Jerusalem rebuilt [1]. Seals of the late 6th and early 5th centuries name a province of Judah (Yehud), although some scholars date the province itself only to the end of the 5th century [2][3]."
+        "en": "Cyrus of Persia decreed around 538 BCE that Judah be restored and the Temple in Jerusalem rebuilt [1]. Seals of the late 6th and early 5th centuries name a province of Judah (Yehud), although some scholars date the province itself only to the end of the 5th century [2][3].",
+        "ar": "أصدر كورش الفارسي نحو عام 538 ق.م. مرسومًا بإعادة إحياء يهوذا وإعادة بناء الهيكل في القدس [1]. وتذكر أختام من أواخر القرن السادس وأوائل القرن الخامس إقليم يهوذا (يحود)، وإن كان بعض الباحثين يؤرخون الإقليم نفسه بنهاية القرن الخامس فقط [2][3].",
+        "he": "כורש הפרסי הכריז בסביבות 538 לפנה״ס שיהודה תושב ובית המקדש בירושלים ייבנה מחדש [1]. חותמות מסוף המאה ה-6 ותחילת המאה ה-5 מזכירות פרובינקיה של יהודה (יהוד), אף שחלק מהחוקרים מתארכים את הפרובינקיה עצמה רק לסוף המאה ה-5 [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -431,10 +563,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Greeks and Hasmoneans"
+        "en": "Greeks and Hasmoneans",
+        "ar": "اليونانيون والحشمونيون",
+        "he": "היוונים והחשמונאים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Alexander the Great, passing south towards Egypt, took the coastal cities that could serve the Persian fleet [1]. In 142 BCE Simon the Hasmonean won recognition from the Seleucid king, and Judea came to be ruled by hereditary high priests [2][3]."
+        "en": "Alexander the Great, passing south towards Egypt, took the coastal cities that could serve the Persian fleet [1]. In 142 BCE Simon the Hasmonean won recognition from the Seleucid king, and Judea came to be ruled by hereditary high priests [2][3].",
+        "ar": "استولى الإسكندر الأكبر، في مروره جنوبًا نحو مصر، على المدن الساحلية التي يمكن أن تخدم الأسطول الفارسي [1]. وفي عام 142 ق.م. نال شمعون الحشموني اعترافًا من الملك السلوقي، وأصبحت اليهودية يحكمها كهنة أعلون وراثيون [2][3].",
+        "he": "אלכסנדר מוקדון, בדרכו דרומה למצרים, כבש את הערים החופיות שיכלו לשרת את הצי הפרסי [1]. ב-142 לפנה״ס השיג שמעון החשמונאי הכרה מהמלך הסלווקי, ויהודה החלה להיות נשלטת בידי כוהנים גדולים תורשתיים [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -474,10 +618,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Rome"
+        "en": "Rome",
+        "ar": "روما",
+        "he": "רומא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The lands ruled by Herod’s son Archelaus — Judaea, Samaria and Edom — became the Roman province of Judaea [1]. Jerusalem was sacked in 70 CE [2]. After the Bar Kokhba revolt the province was renamed Syria Palaestina; the earliest dated evidence of the new name is from 139 CE, and the reason for the change is debated [3][4][5]."
+        "en": "The lands ruled by Herod’s son Archelaus — Judaea, Samaria and Edom — became the Roman province of Judaea [1]. Jerusalem was sacked in 70 CE [2]. After the Bar Kokhba revolt the province was renamed Syria Palaestina; the earliest dated evidence of the new name is from 139 CE, and the reason for the change is debated [3][4][5].",
+        "ar": "أصبحت الأراضي التي حكمها أرخيلاوس ابن هيرودس — اليهودية والسامرة وأدوم — الإقليم الروماني يهودا [1]. ونُهبت القدس عام 70 م [2]. وبعد ثورة بار كوخبا أُعيدت تسمية الإقليم سوريا فلسطين؛ وأقدم دليل مؤرخ على الاسم الجديد يعود إلى عام 139 م، وسبب التغيير موضع خلاف [3][4][5].",
+        "he": "השטחים ששלט בהם ארכלאוס בנו של הורדוס — יהודה, שומרון ואדום — הפכו למחוז הרומי יהודה [1]. ירושלים נבזזה בשנת 70 לספירה [2]. לאחר מרד בר כוכבא שונה שם המחוז לסוריה פלשתינה; העדות המתוארכת הקדומה ביותר לשם החדש היא משנת 139 לספירה, והסיבה לשינוי שנויה במחלוקת [3][4][5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -528,10 +684,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Christian Byzantium"
+        "en": "Christian Byzantium",
+        "ar": "بيزنطة المسيحية",
+        "he": "ביזנטיון הנוצרית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "After Constantine I converted to Christianity early in the 4th century, a new era of prosperity began for Palestine [1]. The emperor built a church on the site of the Holy Sepulchre, and the land drew pilgrims from all parts of the empire [2][3]."
+        "en": "After Constantine I converted to Christianity early in the 4th century, a new era of prosperity began for Palestine [1]. The emperor built a church on the site of the Holy Sepulchre, and the land drew pilgrims from all parts of the empire [2][3].",
+        "ar": "بعد أن اعتنق قسطنطين الأول المسيحية في مطلع القرن الرابع بدأ عصر جديد من الازدهار لفلسطين [1]. وبنى الإمبراطور كنيسة في موقع القيامة، وجذبت الأرض الحجاج من جميع أنحاء الإمبراطورية [2][3].",
+        "he": "לאחר שקונסטנטינוס הראשון התנצר בראשית המאה ה-4, החלה תקופה חדשה של שגשוג לפלשתינה [1]. הקיסר בנה כנסייה במקום קבר ישו, והארץ משכה עולי רגל מכל רחבי הקיסרות [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -571,10 +739,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The Islamic conquest"
+        "en": "The Islamic conquest",
+        "ar": "الفتح الإسلامي",
+        "he": "הכיבוש האסלאמי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Arab Muslim forces won a battle at Ajnadayn in southern Palestine on 30 July 634 [1]. Jerusalem surrendered in 638 and Caesarea in October 640 [2]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [3]."
+        "en": "Arab Muslim forces won a battle at Ajnadayn in southern Palestine on 30 July 634 [1]. Jerusalem surrendered in 638 and Caesarea in October 640 [2]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [3].",
+        "ar": "انتصرت القوات العربية المسلمة في معركة أجنادين في جنوب فلسطين في 30 تموز/يوليو 634 [1]. واستسلمت القدس عام 638 وقيسارية في تشرين الأول/أكتوبر 640 [2]. وبنى الخليفة الأموي عبد الملك قبة الصخرة عام 691 [3].",
+        "he": "כוחות מוסלמים ערבים ניצחו בקרב אג׳נדין בדרום פלשתינה ב-30 ביולי 634 [1]. ירושלים נכנעה ב-638 וקיסריה באוקטובר 640 [2]. הח׳ליף האומיי עבד אל-מלכ בנה את כיפת הסלע ב-691 [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -614,10 +794,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The Crusades"
+        "en": "The Crusades",
+        "ar": "الحروب الصليبية",
+        "he": "מסעי הצלב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "European Christians of the First Crusade took Jerusalem on 15 July 1099 and founded the Kingdom of Jerusalem [1][2]. The kingdom lasted until 1291, when the last Crusaders were driven out of Acre [3]."
+        "en": "European Christians of the First Crusade took Jerusalem on 15 July 1099 and founded the Kingdom of Jerusalem [1][2]. The kingdom lasted until 1291, when the last Crusaders were driven out of Acre [3].",
+        "ar": "استولى مسيحيو أوروبا من الحملة الصليبية الأولى على القدس في 15 تموز/يوليو 1099 وأسسوا مملكة القدس [1][2]. واستمرت المملكة حتى عام 1291، حين طُرد آخر الصليبيين من عكا [3].",
+        "he": "נוצרים אירופים של מסע הצלב הראשון כבשו את ירושלים ב-15 ביולי 1099 וייסדו את ממלכת ירושלים [1][2]. הממלכה התקיימה עד 1291, אז גורשו הצלבנים האחרונים מעכו [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -657,10 +849,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The Mamluks"
+        "en": "The Mamluks",
+        "ar": "المماليك",
+        "he": "הממלוכים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Mamluks of Egypt defeated the invading Mongols at Ayn Jalut on 3 September 1260 [1]. Their dynasty ruled Egypt and Syria from 1250 to 1517 [2]."
+        "en": "The Mamluks of Egypt defeated the invading Mongols at Ayn Jalut on 3 September 1260 [1]. Their dynasty ruled Egypt and Syria from 1250 to 1517 [2].",
+        "ar": "هزم مماليك مصر المغول الغزاة في عين جالوت في 3 أيلول/سبتمبر 1260 [1]. وحكمت أسرتهم مصر وسوريا من 1250 إلى 1517 [2].",
+        "he": "הממלוכים של מצרים הביסו את המונגולים הפולשים בעין ג׳אלות ב-3 בספטמבר 1260 [1]. שושלתם שלטה במצרים ובסוריה מ-1250 עד 1517 [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -695,10 +899,22 @@
         "landscape"
       ],
       "title": {
-        "en": "Four Ottoman centuries"
+        "en": "Four Ottoman centuries",
+        "ar": "أربعة قرون عثمانية",
+        "he": "ארבע מאות שנות שלטון עות׳מאני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Ottoman sultan Selim I defeated the Mamluks in 1516–17, bringing Syria, Egypt and Palestine under Ottoman rule [1]. Ottoman rule lasted four centuries [2]. British and Allied forces took Jerusalem in December 1917 and the rest of the area by October 1918 [3]."
+        "en": "The Ottoman sultan Selim I defeated the Mamluks in 1516–17, bringing Syria, Egypt and Palestine under Ottoman rule [1]. Ottoman rule lasted four centuries [2]. British and Allied forces took Jerusalem in December 1917 and the rest of the area by October 1918 [3].",
+        "ar": "هزم السلطان العثماني سليم الأول المماليك في 1516–17، فأصبحت سوريا ومصر وفلسطين تحت الحكم العثماني [1]. واستمر الحكم العثماني أربعة قرون [2]. واستولت القوات البريطانية وقوات الحلفاء على القدس في كانون الأول/ديسمبر 1917 وعلى بقية المنطقة بحلول تشرين الأول/أكتوبر 1918 [3].",
+        "he": "הסולטאן העות׳מאני סלים הראשון הביס את הממלוכים ב-1516–17, והביא את סוריה, מצרים ופלשתינה לשלטון עות׳מאני [1]. השלטון העות׳מאני נמשך ארבע מאות שנה [2]. כוחות בריטיים וכוחות בעלות הברית כבשו את ירושלים בדצמבר 1917 ואת שאר האזור עד אוקטובר 1918 [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -738,10 +954,22 @@
         "landscape"
       ],
       "title": {
-        "en": "The British Mandate"
+        "en": "The British Mandate",
+        "ar": "الانتداب البريطاني",
+        "he": "המנדט הבריטי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate for Palestine on 24 July 1922, and it came into formal effect in September 1923 [2]."
+        "en": "A British civilian High Commissioner, Sir Herbert Samuel, took office on 1 July 1920 [1]. The League of Nations approved the Mandate for Palestine on 24 July 1922, and it came into formal effect in September 1923 [2].",
+        "ar": "تولى المندوب السامي البريطاني المدني السير هربرت صموئيل منصبه في 1 تموز/يوليو 1920 [1]. وأقرت عصبة الأمم صك الانتداب على فلسطين في 24 تموز/يوليو 1922، وأصبح نافذًا رسميًا في أيلول/سبتمبر 1923 [2].",
+        "he": "הנציב העליון הבריטי האזרחי, סר הרברט סמואל, נכנס לתפקידו ב-1 ביולי 1920 [1]. חבר הלאומים אישר את המנדט על פלשתינה ב-24 ביולי 1922, והוא נכנס לתוקף רשמי בספטמבר 1923 [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -776,10 +1004,22 @@
         "migrations"
       ],
       "title": {
-        "en": "1948"
+        "en": "1948",
+        "ar": "1948",
+        "he": "1948",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Israel declared its independence on 14 May 1948, and the British Mandate ended the next day [1]. The armies of Egypt, Transjordan, Iraq, Syria and Lebanon then invaded, carrying out a decision of the Arab League [2]. From the start of the civil war to the end of the war, more than 400 Palestinian Arab towns and villages were destroyed or depopulated [3]. Armistice agreements with Egypt, Lebanon, Transjordan and Syria followed in 1949 [4]."
+        "en": "Israel declared its independence on 14 May 1948, and the British Mandate ended the next day [1]. The armies of Egypt, Transjordan, Iraq, Syria and Lebanon then invaded, carrying out a decision of the Arab League [2]. From the start of the civil war to the end of the war, more than 400 Palestinian Arab towns and villages were destroyed or depopulated [3]. Armistice agreements with Egypt, Lebanon, Transjordan and Syria followed in 1949 [4].",
+        "ar": "أعلنت إسرائيل استقلالها في 14 أيار/مايو 1948، وانتهى الانتداب البريطاني في اليوم التالي [1]. ثم غزت جيوش مصر وشرق الأردن والعراق وسوريا ولبنان، تنفيذًا لقرار من جامعة الدول العربية [2]. ومنذ بداية الحرب الأهلية حتى نهاية الحرب دُمّر أو أُخلي من سكانه أكثر من 400 بلدة وقرية عربية فلسطينية [3]. وتلت ذلك اتفاقيات هدنة مع مصر ولبنان وشرق الأردن وسوريا في عام 1949 [4].",
+        "he": "ישראל הכריזה על עצמאותה ב-14 במאי 1948, והמנדט הבריטי הסתיים למחרת [1]. צבאות מצרים, עבר הירדן, עיראק, סוריה ולבנון פלשו אז, ביצוע החלטה של הליגה הערבית [2]. מתחילת מלחמת האזרחים ועד תום המלחמה נהרסו או רוקנו מתושביהם יותר מ-400 עיירות וכפרים ערביים פלסטיניים [3]. הסכמי שביתת נשק עם מצרים, לבנון, עבר הירדן וסוריה באו ב-1949 [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -821,10 +1061,22 @@
         "modern"
       ],
       "title": {
-        "en": "1967"
+        "en": "1967",
+        "ar": "1967",
+        "he": "1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In the June 1967 war Israel captured the Sinai Peninsula, the Gaza Strip, the West Bank, the Old City of Jerusalem and the Golan Heights [1]. It set up a military administration in the West Bank, except in East Jerusalem, which it incorporated into Israel [2][3]."
+        "en": "In the June 1967 war Israel captured the Sinai Peninsula, the Gaza Strip, the West Bank, the Old City of Jerusalem and the Golan Heights [1]. It set up a military administration in the West Bank, except in East Jerusalem, which it incorporated into Israel [2][3].",
+        "ar": "في حرب حزيران/يونيو 1967 استولت إسرائيل على شبه جزيرة سيناء وقطاع غزة والضفة الغربية والبلدة القديمة في القدس وهضبة الجولان [1]. وأقامت إدارة عسكرية في الضفة الغربية، باستثناء القدس الشرقية التي ضمتها إلى إسرائيل [2][3].",
+        "he": "במלחמת יוני 1967 כבשה ישראל את חצי האי סיני, רצועת עזה, הגדה המערבית, העיר העתיקה בירושלים ורמת הגולן [1]. היא הקימה מינהל צבאי בגדה המערבית, מלבד מזרח ירושלים, שאותה סיפחה לישראל [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -862,10 +1114,22 @@
         "modern"
       ],
       "title": {
-        "en": "Oslo"
+        "en": "Oslo",
+        "ar": "أوسلو",
+        "he": "אוסלו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "An agreement signed in Cairo on 4 May 1994 began the transfer of authority to the newly created Palestinian Authority [1]. Since 2007, when Hamas took control of the Gaza Strip by force, the Palestinian Authority has not exercised control there [2]."
+        "en": "An agreement signed in Cairo on 4 May 1994 began the transfer of authority to the newly created Palestinian Authority [1]. Since 2007, when Hamas took control of the Gaza Strip by force, the Palestinian Authority has not exercised control there [2].",
+        "ar": "بدأ اتفاق وُقّع في القاهرة في 4 أيار/مايو 1994 نقل السلطة إلى السلطة الفلسطينية المنشأة حديثًا [1]. ومنذ عام 2007، حين سيطرت حماس على قطاع غزة بالقوة، لم تمارس السلطة الفلسطينية السيطرة هناك [2].",
+        "he": "הסכם שנחתם בקהיר ב-4 במאי 1994 החל את העברת הסמכויות לרשות הפלסטינית שהוקמה זה עתה [1]. מאז 2007, כאשר חמאס השתלט בכוח על רצועת עזה, אינה מפעילה הרשות הפלסטינית שליטה שם [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -900,10 +1164,22 @@
         "modern"
       ],
       "title": {
-        "en": "Today"
+        "en": "Today",
+        "ar": "اليوم",
+        "he": "היום",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The war in Gaza began on 7 October 2023, when Hamas launched a land, sea and air assault on Israel from the territory [1]. Israeli ground forces advanced into the Gaza Strip at the end of that month [2]. Under the ceasefire in force from 10 October 2025, the Israeli military was to keep about 53 percent of the Gaza Strip in the first phase of its withdrawal [3][4]."
+        "en": "The war in Gaza began on 7 October 2023, when Hamas launched a land, sea and air assault on Israel from the territory [1]. Israeli ground forces advanced into the Gaza Strip at the end of that month [2]. Under the ceasefire in force from 10 October 2025, the Israeli military was to keep about 53 percent of the Gaza Strip in the first phase of its withdrawal [3][4].",
+        "ar": "بدأت الحرب في غزة في 7 تشرين الأول/أكتوبر 2023، حين شنت حماس هجومًا برًا وبحرًا وجوًا على إسرائيل من القطاع [1]. وتقدمت القوات البرية الإسرائيلية إلى قطاع غزة في نهاية ذلك الشهر [2]. وبموجب وقف إطلاق النار الساري منذ 10 تشرين الأول/أكتوبر 2025، كان على الجيش الإسرائيلي أن يبقى في نحو 53 في المئة من قطاع غزة في المرحلة الأولى من انسحابه [3][4].",
+        "he": "המלחמה בעזה החלה ב-7 באוקטובר 2023, כאשר חמאס שיגר מתקפה יבשתית, ימית ואווירית על ישראל מהשטח [1]. כוחות היבשה הישראליים התקדמו לתוך רצועת עזה בסוף אותו חודש [2]. במסגרת הפסקת האש שבתוקף מ-10 באוקטובר 2025, היה על צבא ישראל להחזיק בכ-53 אחוזים מרצועת עזה בשלב הראשון של נסיגתו [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {

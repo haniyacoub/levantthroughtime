@@ -29,7 +29,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Roughly contiguous city territories east of the Jordan from Damascus to Philadelphia (Amman), plus Scythopolis (Beth Shean) west of the river."
+          "en": "Roughly contiguous city territories east of the Jordan from Damascus to Philadelphia (Amman), plus Scythopolis (Beth Shean) west of the river.",
+          "ar": "أراضي مدن متصلة تقريبًا شرق الأردن من دمشق إلى فيلادلفيا (عمّان)، إضافة إلى سكيثوبوليس (بيسان) غرب النهر.",
+          "he": "שטחי ערים רצופים בערך ממזרח לירדן מדמשק עד פילדלפיה (עמאן), בתוספת סקיתופוליס (בית שאן) ממערב לנהר.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

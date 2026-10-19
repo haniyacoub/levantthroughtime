@@ -24,7 +24,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Eastern and central Galilee: Tiberias and 'Arraba tax farms, Nazareth, and north-east Galilee (Ba'na); Tiberias held against attacks from Damascus 1738-1743."
+          "en": "Eastern and central Galilee: Tiberias and 'Arraba tax farms, Nazareth, and north-east Galilee (Ba'na); Tiberias held against attacks from Damascus 1738-1743.",
+          "ar": "شرق الجليل ووسطه: طبرية ومزارع ضرائب عرّابة والناصرة وشمال شرق الجليل (البعنة)؛ صمدت طبرية في وجه هجمات دمشق 1738-1743.",
+          "he": "מזרח הגליל ומרכזו: טבריה ואחוזות המסים של עראבה, נצרת וצפון-מזרח הגליל (בענה); טבריה עמדה מול התקפות מדמשק 1738-1743.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -67,7 +73,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Galilee with Acre (seized 1746) as capital, influence extended to Haifa and Tantura; Jaffa held briefly in the early 1770s."
+          "en": "Galilee with Acre (seized 1746) as capital, influence extended to Haifa and Tantura; Jaffa held briefly in the early 1770s.",
+          "ar": "الجليل مع عكا (استُولي عليها 1746) عاصمةً، وامتد النفوذ إلى حيفا والطنطورة؛ ويافا بقيت لفترة وجيزة في أوائل سبعينيات القرن الثامن عشر.",
+          "he": "הגליל עם עכו (נתפסה 1746) כבירה, ההשפעה הורחבה לחיפה ולטנטורה; יפו הוחזקה לזמן קצר בראשית שנות ה-70 של המאה ה-18.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

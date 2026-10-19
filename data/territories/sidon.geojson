@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Sidon and its hinterland on the central Phoenician coast."
+          "en": "Sidon and its hinterland on the central Phoenician coast.",
+          "ar": "صيدا وما حولها على الساحل الفينيقي الأوسط.",
+          "he": "צידון ועורפה בחוף הפיניקי המרכזי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -56,7 +62,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Persian period: Sidon and, according to Stern, coastal towns of Palestine subject to the king of Sidon (specific towns not named in the passage read)."
+          "en": "Persian period: Sidon and, according to Stern, coastal towns of Palestine subject to the king of Sidon (specific towns not named in the passage read).",
+          "ar": "العهد الفارسي: صيدا، وبحسب ستيرن بلدات ساحلية في فلسطين تابعة لملك صيدا (لم تُذكر البلدات المحددة في المقطع المقروء).",
+          "he": "התקופה הפרסית: צידון, ולפי שטרן ערי חוף בפלשתינה הכפופות למלך צידון (ערים מסוימות לא נזכרו בקטע שנקרא).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -39,7 +39,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "18th dynasty: Canaan district covering 'all of Palestine from the Egyptian border to Byblos', ruled through vassal city-states with Egyptian centres at Gaza, Jaffa and Beth-shean. Bashan rulers (Ashtaroth) also appear in the Amarna correspondence. Firm control dates from Thutmose III (Megiddo c. 1468)."
+          "en": "18th dynasty: Canaan district covering 'all of Palestine from the Egyptian border to Byblos', ruled through vassal city-states with Egyptian centres at Gaza, Jaffa and Beth-shean. Bashan rulers (Ashtaroth) also appear in the Amarna correspondence. Firm control dates from Thutmose III (Megiddo c. 1468).",
+          "ar": "الأسرة 18: مقاطعة كنعان وتشمل 'all of Palestine from the Egyptian border to Byblos' [كل فلسطين من الحدود المصرية إلى جبيل]، تُحكم عبر دول مدن تابعة مع مراكز مصرية في غزة ويافا وبيسان. ويظهر حكام باشان (عشتاروت) أيضًا في مراسلات تل العمارنة. بدأت السيطرة الراسخة مع تحتمس الثالث (مجدو نحو 1468).",
+          "he": "השושלת ה-18: מחוז כנען הכולל “all of Palestine from the Egyptian border to Byblos” [כל פלשתינה מגבול מצרים ועד גבל], נשלט באמצעות ערי-מדינה כפופות עם מרכזים מצריים בעזה, ביפו ובבית שאן. שליטי הבשן (עשתרות) מופיעים גם במכתבי אל-עמארנה. השליטה האיתנה מתחילה עם תחותמס השלישי (מגידו בערך 1468).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -93,7 +99,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "19th dynasty: Seti I and Ramesses II consolidate the Asian empire against the Hittites; the vassal system continues."
+          "en": "19th dynasty: Seti I and Ramesses II consolidate the Asian empire against the Hittites; the vassal system continues.",
+          "ar": "الأسرة 19: يوطّد سيتي الأول ورمسيس الثاني الإمبراطورية الآسيوية في مواجهة الحثيين؛ ويستمر نظام التبعية.",
+          "he": "השושלת ה-19: סתי הראשון ורעמסס השני מבססים את האימפריה האסיאתית מול החתים; מערכת הווסאליות נמשכת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -132,7 +144,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "20th-dynasty residual presence: Beth-shean (Ramesses IV finds) and Megiddo (Ramesses VI pedestal) in the northern valleys while Philistines settle the southern coast. Britannica instead says Egyptian rule was extinguished after the 19th dynasty."
+          "en": "20th-dynasty residual presence: Beth-shean (Ramesses IV finds) and Megiddo (Ramesses VI pedestal) in the northern valleys while Philistines settle the southern coast. Britannica instead says Egyptian rule was extinguished after the 19th dynasty.",
+          "ar": "وجود متبقٍّ في الأسرة 20: بيسان (مكتشفات رمسيس الرابع) ومجدو (قاعدة تمثال رمسيس السادس) في الوديان الشمالية بينما يستقر الفلستيون على الساحل الجنوبي. أما بريتانيكا فتقول بدلًا من ذلك إن الحكم المصري انتهى بعد الأسرة 19.",
+          "he": "נוכחות שארית בשושלת ה-20: בית שאן (ממצאי רעמסס הרביעי) ומגידו (בסיס פסל של רעמסס השישי) בעמקים הצפוניים בעוד הפלשתים מתיישבים בחוף הדרומי. אנציקלופדיה בריטניקה אומרת במקום זאת שהשלטון המצרי הסתיים לאחר השושלת ה-19.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

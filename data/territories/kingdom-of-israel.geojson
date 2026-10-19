@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Early ('Tirzah polity') phase: the highlands north of Jerusalem, the Jezreel Valley and the western Gilead; Galilee and the upper Jordan Valley were ruled by Damascus and the Phoenician cities."
+          "en": "Early ('Tirzah polity') phase: the highlands north of Jerusalem, the Jezreel Valley and the western Gilead; Galilee and the upper Jordan Valley were ruled by Damascus and the Phoenician cities.",
+          "ar": "المرحلة المبكرة ('كيان ترصة'): المرتفعات شمال القدس ومرج ابن عامر وجلعاد الغربية؛ وحكمت دمشق والمدن الفينيقية الجليل ووادي الأردن الأعلى.",
+          "he": "השלב המוקדם (“ישות תרצה”): ההרים מצפון לירושלים, עמק יזרעאל והגלעד המערבי; הגליל ועמק הירדן העליון נשלטו בידי דמשק והערים הפיניקיות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -71,7 +77,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Omride and later kingdom: beyond the Jezreel Valley into Lower Galilee, the southern Upper Galilee, the Sea of Galilee area and the Jordan Valley up to Hazor (not Dan). Border forts faced Tyre (Har Adir), Damascus (Hazor, En Gev, Ramoth-gilead), Moab (Jahaz, Ataroth) and Philistia (Gezer), and Dor was its port. Aram-Damascus took parts c. 840-800 and Jeroboam II recovered them; Transjordan was lost to Damascus shortly before 732."
+          "en": "Omride and later kingdom: beyond the Jezreel Valley into Lower Galilee, the southern Upper Galilee, the Sea of Galilee area and the Jordan Valley up to Hazor (not Dan). Border forts faced Tyre (Har Adir), Damascus (Hazor, En Gev, Ramoth-gilead), Moab (Jahaz, Ataroth) and Philistia (Gezer), and Dor was its port. Aram-Damascus took parts c. 840-800 and Jeroboam II recovered them; Transjordan was lost to Damascus shortly before 732.",
+          "ar": "مملكة العمريين وما بعدها: ما وراء مرج ابن عامر إلى الجليل الأسفل وجنوب الجليل الأعلى ومنطقة بحيرة طبرية ووادي الأردن حتى حاصور (لا دان). واجهت الحصون الحدودية صور (هار عدير) ودمشق (حاصور وعين جيف وراموت جلعاد) وموآب (يهص وعطاروت) وفلستيا (جازر)، وكانت دور ميناءها. أخذت آرام دمشق أجزاء نحو 840-800 واستعادها يربعام الثاني؛ وفُقد شرق الأردن لدمشق قبل 732 بقليل.",
+          "he": "ממלכת בית עמרי ואחריה: מעבר לעמק יזרעאל אל הגליל התחתון, דרום הגליל העליון, אזור הכינרת ובקעת הירדן עד חצור (לא דן). מבצרי גבול עמדו מול צור (הר אדיר), דמשק (חצור, עין גב, רמות גלעד), מואב (יהץ, עטרות) ופלשת (גזר), ודור הייתה נמלה. ארם דמשק לקחה חלקים בערך 840-800 וירבעם השני השיב אותם; עבר הירדן אבד לדמשק זמן קצר לפני 732.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -112,7 +124,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Rump kingdom around Samaria after Tiglath-pileser III annexed Galilee and the northern valleys in 732 ('except for the territory of ... western Manasseh and Ephraim')."
+          "en": "Rump kingdom around Samaria after Tiglath-pileser III annexed Galilee and the northern valleys in 732 ('except for the territory of ... western Manasseh and Ephraim').",
+          "ar": "مملكة مبتورة حول السامرة بعد أن ضمّ تغلات فلاسر الثالث الجليل والوديان الشمالية عام 732 ('except for the territory of ... western Manasseh and Ephraim' [باستثناء أراضي ... منسّى الغربية وأفرايم]).",
+          "he": "ממלכה קטועה סביב שומרון לאחר שתגלת פלאסר השלישי סיפח את הגליל והעמקים הצפוניים ב-732 (“except for the territory of ... western Manasseh and Ephraim” [מלבד שטח ... מנשה המערבית ואפרים]).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

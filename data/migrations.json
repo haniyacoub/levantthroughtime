@@ -4,10 +4,22 @@
     {
       "id": "philistine-arrival",
       "name": {
-        "en": "Arrival of the Philistines on the southern coastal plain"
+        "en": "Arrival of the Philistines on the southern coastal plain",
+        "ar": "وصول الفلستيين إلى السهل الساحلي الجنوبي",
+        "he": "הגעת הפלשתים למישור החוף הדרומי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Philistines (one of the \"Sea Peoples\")"
+        "en": "Philistines (one of the \"Sea Peoples\")",
+        "ar": "الفلستيون (أحد «شعوب البحر»)",
+        "he": "הפלשתים (אחד מ״עמי הים״)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -15,7 +27,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Aegean / eastern Mediterranean (Aegean, Cyprus or Cilicia proposed)"
+          "en": "Aegean / eastern Mediterranean (Aegean, Cyprus or Cilicia proposed)",
+          "ar": "بحر إيجة / شرق المتوسط (مقترح: بحر إيجة أو قبرص أو كيليكية)",
+          "he": "הים האגאי / מזרח הים התיכון (הוצעו: הים האגאי, קפריסין או קיליקיה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           25.3,
@@ -60,23 +78,47 @@
         "en": "Dated to the 12th century BCE (Iron Age I) on archaeological grounds; Feldman et al. analysed genomes of 10 individuals from Ashkelon. Mapped to Ashkelon because that is where the DNA evidence comes from; Ashdod and Ekron show the same cultural change."
       },
       "contested_note": {
-        "en": "Scholars disagree on the scale and origin of the movement. Feldman et al. summarise the positions: an Aegean-related migration; cultural diffusion or internal development without large-scale movement; or mobility from Cyprus, Cilicia or mixed eastern Mediterranean groups. Their DNA results show European-related gene flow that was diluted within about two centuries. Maeir, Hitchcock and Horwitz describe an entangled identity combining foreign and local traits."
+        "en": "Scholars disagree on the scale and origin of the movement. Feldman et al. summarise the positions: an Aegean-related migration; cultural diffusion or internal development without large-scale movement; or mobility from Cyprus, Cilicia or mixed eastern Mediterranean groups. Their DNA results show European-related gene flow that was diluted within about two centuries. Maeir, Hitchcock and Horwitz describe an entangled identity combining foreign and local traits.",
+        "ar": "يختلف العلماء في حجم الحركة وأصلها. يلخص فيلدمان وآخرون المواقف: هجرة مرتبطة ببحر إيجة؛ أو انتشار ثقافي أو تطور داخلي دون حركة واسعة النطاق؛ أو تنقل من قبرص أو كيليكية أو جماعات مختلطة من شرق المتوسط. وتُظهر نتائجهم الجينية تدفقاً جينياً مرتبطاً بأوروبا تلاشى خلال نحو قرنين. ويصف مائير وهيتشكوك وهورويتز هوية متداخلة تجمع سمات أجنبية ومحلية.",
+        "he": "חוקרים חלוקים בשאלת היקף התנועה ומקורה. פלדמן ואחרים מסכמים את העמדות: הגירה הקשורה לאגאי; התפשטות תרבותית או התפתחות פנימית ללא תנועה רחבת היקף; או ניידות מקפריסין, מקיליקיה או מקבוצות מעורבות ממזרח הים התיכון. תוצאות ה־DNA שלהם מראות זרימת גנים הקשורה לאירופה שהתדללה בתוך כמאתיים שנה. מאייר, היצ׳קוק והורוביץ מתארים זהות משולבת המשלבת תכונות זרות ומקומיות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "assyrian-deportations-galilee-gilead",
       "name": {
-        "en": "Assyrian deportations from Galilee and Gilead (734-732 BCE)"
+        "en": "Assyrian deportations from Galilee and Gilead (734-732 BCE)",
+        "ar": "الترحيلات الآشورية من الجليل وجلعاد (734-732 ق.م.)",
+        "he": "הגליות האשוריות מהגליל ומגלעד (734–732 לפנה״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israelites of the northern kingdom (Galilee and Transjordan)"
+        "en": "Israelites of the northern kingdom (Galilee and Transjordan)",
+        "ar": "بنو إسرائيل في المملكة الشمالية (الجليل وشرق الأردن)",
+        "he": "בני ישראל של הממלכה הצפונית (הגליל ועבר הירדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation"
       ],
       "origin": {
         "label": {
-          "en": "Galilee and Gilead"
+          "en": "Galilee and Gilead",
+          "ar": "الجليل وجلعاد",
+          "he": "הגליל וגלעד",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.3,
@@ -86,7 +128,13 @@
       },
       "destination": {
         "label": {
-          "en": "Assyria (Upper Mesopotamia)"
+          "en": "Assyria (Upper Mesopotamia)",
+          "ar": "آشور (بلاد ما بين النهرين العليا)",
+          "he": "אשור (מסופוטמיה העליונה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           40.0397,
@@ -130,10 +178,22 @@
     {
       "id": "assyrian-deportation-samaria",
       "name": {
-        "en": "Assyrian deportation from Samaria (c. 720 BCE)"
+        "en": "Assyrian deportation from Samaria (c. 720 BCE)",
+        "ar": "الترحيل الآشوري من السامرة (نحو 720 ق.م.)",
+        "he": "הגליית אשור משומרון (בערך 720 לפנה״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israelites of the kingdom of Israel"
+        "en": "Israelites of the kingdom of Israel",
+        "ar": "بنو إسرائيل في مملكة إسرائيل",
+        "he": "בני ישראל של ממלכת ישראל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation"
@@ -143,7 +203,13 @@
       },
       "destination": {
         "label": {
-          "en": "Habor river region (Gozan) and Media"
+          "en": "Habor river region (Gozan) and Media",
+          "ar": "منطقة نهر الخابور (جوزان) وماداي",
+          "he": "אזור נהר חבור (גוזן) ומדי",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           40.0397,
@@ -185,7 +251,13 @@
         "en": "The number is Sargon II's own claim (variant reading 27,280). Malamat notes that after 716 some Israelites were resettled in Media."
       },
       "contested_note": {
-        "en": "The biblical text speaks of the deportation of 'the Israelites'; Sargon II claims 27,290 deportees from the city of Samaria; Finkelstein describes the deportation of 'groups of its elite population' and argues (see the separate record) that many Israelites instead moved south to Judah."
+        "en": "The biblical text speaks of the deportation of 'the Israelites'; Sargon II claims 27,290 deportees from the city of Samaria; Finkelstein describes the deportation of 'groups of its elite population' and argues (see the separate record) that many Israelites instead moved south to Judah.",
+        "ar": "يتحدث النص التوراتي عن ترحيل «بني إسرائيل»؛ ويزعم سرجون الثاني ترحيل 27,290 شخصاً من مدينة السامرة؛ ويصف فنكلشتاين ترحيل «جماعات من نخبتها السكانية» ويرى (انظر السجل المنفصل) أن كثيراً من بني إسرائيل انتقلوا بدلاً من ذلك جنوباً إلى يهودا.",
+        "he": "הטקסט המקראי מדבר על הגליית ״בני ישראל״; שרגון השני טוען ל־27,290 מוגלים מעיר שומרון; פינקלשטיין מתאר הגליה של ״קבוצות מאליטת אוכלוסייתה״ וטוען (ראו הרשומה הנפרדת) שישראלים רבים עברו במקום זאת דרומה ליהודה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 27290,
@@ -196,10 +268,22 @@
     {
       "id": "assyrian-resettlement-samaria",
       "name": {
-        "en": "Assyrian resettlement of foreign groups in Samaria"
+        "en": "Assyrian resettlement of foreign groups in Samaria",
+        "ar": "إسكان الآشوريين جماعات أجنبية في السامرة",
+        "he": "הושבת קבוצות זרות בשומרון בידי האשורים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Deportees from Babylonia and Syria; Arab tribal groups"
+        "en": "Deportees from Babylonia and Syria; Arab tribal groups",
+        "ar": "مرحَّلون من بابل وسوريا؛ وجماعات قبلية عربية",
+        "he": "מוגלים מבבל וסוריה; קבוצות שבטיות ערביות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "resettlement",
@@ -207,7 +291,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Babylonia (Babylon, Cuthah) and Syria (Hamath)"
+          "en": "Babylonia (Babylon, Cuthah) and Syria (Hamath)",
+          "ar": "بابل (بابل وكوثا) وسوريا (حماة)",
+          "he": "בבל (בבל וכותה) וסוריה (חמת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.4211,
@@ -217,7 +307,13 @@
       },
       "destination": {
         "label": {
-          "en": "Samaria"
+          "en": "Samaria",
+          "ar": "السامرة",
+          "he": "שומרון",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.19,
@@ -257,10 +353,22 @@
     {
       "id": "israelite-refugees-to-judah",
       "name": {
-        "en": "Movement of northern Israelites into Judah after the fall of Samaria (debated)"
+        "en": "Movement of northern Israelites into Judah after the fall of Samaria (debated)",
+        "ar": "انتقال إسرائيليين من الشمال إلى يهودا بعد سقوط السامرة (موضع جدل)",
+        "he": "מעבר ישראלים מהצפון ליהודה לאחר נפילת שומרון (שנוי במחלוקת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israelites from southern Samaria (Bethel area)"
+        "en": "Israelites from southern Samaria (Bethel area)",
+        "ar": "إسرائيليون من جنوب السامرة (منطقة بيت إيل)",
+        "he": "ישראלים מדרום שומרון (אזור בית אל)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight"
@@ -299,16 +407,34 @@
         "en": "Inferred from archaeology (rapid growth of Jerusalem and Judah in Iron IIB; population decline between Shechem and Ramallah). No textual record of the movement exists."
       },
       "contested_note": {
-        "en": "Finkelstein argues that Judah's population at least doubled within decades and that only an influx of Israelites from southern Samaria can explain it; Na'aman disputes a mass immigration from the north and argues for gradual growth of Jerusalem."
+        "en": "Finkelstein argues that Judah's population at least doubled within decades and that only an influx of Israelites from southern Samaria can explain it; Na'aman disputes a mass immigration from the north and argues for gradual growth of Jerusalem.",
+        "ar": "يرى فنكلشتاين أن سكان يهودا تضاعفوا على الأقل خلال عقود وأن تدفق إسرائيليين من جنوب السامرة وحده يفسر ذلك؛ ويعترض نعمان على هجرة جماعية من الشمال ويرى نمواً تدريجياً للقدس.",
+        "he": "פינקלשטיין טוען שאוכלוסיית יהודה לפחות הוכפלה בתוך עשורים ושרק זרם של ישראלים מדרום שומרון מסביר זאת; נעמן חולק על הגירה המונית מהצפון וטוען להתפתחות הדרגתית של ירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "babylonian-exile",
       "name": {
-        "en": "Babylonian exile of Judahites (597-582 BCE)"
+        "en": "Babylonian exile of Judahites (597-582 BCE)",
+        "ar": "السبي البابلي ليهود يهودا (597-582 ق.م.)",
+        "he": "הגלות הבבלית של בני יהודה (597–582 לפנה״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Judahites (people of the kingdom of Judah)"
+        "en": "Judahites (people of the kingdom of Judah)",
+        "ar": "اليهوديون (أهل مملكة يهودا)",
+        "he": "בני יהודה (אנשי ממלכת יהודה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation",
@@ -319,7 +445,13 @@
       },
       "destination": {
         "label": {
-          "en": "Babylonia"
+          "en": "Babylonia",
+          "ar": "بابل",
+          "he": "בבל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.4211,
@@ -365,7 +497,13 @@
         "en": "Textual figures differ: II Kings 24:14 gives 10,000 exiles in 597 (24:16 gives 7,000 warriors and 1,000 artisans); Jeremiah 52:28-30 lists three deportations (597, 586 and 582/581 BCE) totalling 4,600 persons. II Kings 25:11-12 states that only \"some of the poorest in the land\" were left after 586."
       },
       "contested_note": {
-        "en": "The scale is debated. The textual tradition describes the deportation of the whole elite and much of Jerusalem; archaeologically based estimates (Lipschits, as summarised by Finkelstein) reject the notion of very large-scale deportations and see a population that declined but largely remained in the land."
+        "en": "The scale is debated. The textual tradition describes the deportation of the whole elite and much of Jerusalem; archaeologically based estimates (Lipschits, as summarised by Finkelstein) reject the notion of very large-scale deportations and see a population that declined but largely remained in the land.",
+        "ar": "حجمه موضع جدل. تصف التقاليد النصية ترحيل النخبة بأكملها وجزء كبير من القدس؛ بينما ترفض التقديرات المستندة إلى الآثار (ليبشيتس، كما لخصها فنكلشتاين) فكرة الترحيل الواسع جداً وترى سكاناً تراجع عددهم لكنهم بقوا في معظمهم في البلاد.",
+        "he": "היקפה שנוי במחלוקת. המסורת הטקסטואלית מתארת הגליה של כל האליטה ושל חלק גדול מירושלים; הערכות המבוססות על ארכאולוגיה (ליפשיץ, כפי שסיכם פינקלשטיין) דוחות את הרעיון של הגליות רחבות היקף ורואות אוכלוסייה שפחתה אך נשארה ברובה בארץ.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 4600,
@@ -375,10 +513,22 @@
     {
       "id": "judahite-flight-to-egypt",
       "name": {
-        "en": "Flight of Judahites to Egypt after Gedaliah's assassination (textual tradition)"
+        "en": "Flight of Judahites to Egypt after Gedaliah's assassination (textual tradition)",
+        "ar": "فرار يهود إلى مصر بعد اغتيال جدليا (التقليد النصي)",
+        "he": "בריחת בני יהודה למצרים לאחר רצח גדליהו (המסורת הטקסטואלית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Judahite remnant, including the prophet Jeremiah"
+        "en": "Judahite remnant, including the prophet Jeremiah",
+        "ar": "بقية اليهوديين، ومنهم النبي إرميا",
+        "he": "שארית בני יהודה, ובהם הנביא ירמיהו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight"
@@ -388,7 +538,13 @@
       },
       "destination": {
         "label": {
-          "en": "Egypt (Tahpanhes in the eastern Delta)"
+          "en": "Egypt (Tahpanhes in the eastern Delta)",
+          "ar": "مصر (تحفنحيس في شرق الدلتا)",
+          "he": "מצרים (תחפנחס בדלתה המזרחית)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           31.1167,
@@ -423,17 +579,35 @@
     {
       "id": "return-to-zion",
       "name": {
-        "en": "Return of exiles from Babylonia to Judah (Persian period)"
+        "en": "Return of exiles from Babylonia to Judah (Persian period)",
+        "ar": "عودة المنفيين من بابل إلى يهودا (العصر الفارسي)",
+        "he": "שיבת הגולים מבבל ליהודה (התקופה הפרסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Judahite exiles and their descendants"
+        "en": "Judahite exiles and their descendants",
+        "ar": "المنفيون اليهوديون وأحفادهم",
+        "he": "גולי יהודה וצאצאיהם",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "return"
       ],
       "origin": {
         "label": {
-          "en": "Babylonia"
+          "en": "Babylonia",
+          "ar": "بابل",
+          "he": "בבל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.4211,
@@ -488,7 +662,13 @@
         "en": "The end date is a schematic placeholder for the Persian period (the list in Ezra 2/Nehemiah 7 is variously dated). Finkelstein (2018, pp. 58-59) estimates the whole province of Yehud at about 12,000 people, against 20,000-30,000 proposed by Carter and Lipschits."
       },
       "contested_note": {
-        "en": "Textual tradition (Ezra-Nehemiah) gives 42,360 returnees plus servants; archaeological estimates of the entire Persian-period province are 12,000 (Finkelstein) to 20,000-30,000 (Carter, Lipschits), and Finkelstein argues the list is not an authentic record of Persian-period settlement."
+        "en": "Textual tradition (Ezra-Nehemiah) gives 42,360 returnees plus servants; archaeological estimates of the entire Persian-period province are 12,000 (Finkelstein) to 20,000-30,000 (Carter, Lipschits), and Finkelstein argues the list is not an authentic record of Persian-period settlement.",
+        "ar": "تذكر التقاليد النصية (عزرا ونحميا) 42,360 عائداً إضافة إلى الخدم؛ وتقدّر التقديرات الأثرية سكان الإقليم الفارسي كله بين 12,000 (فنكلشتاين) و20,000-30,000 (كارتر وليبشيتس)، ويرى فنكلشتاين أن القائمة ليست سجلاً أصيلاً للاستيطان في العصر الفارسي.",
+        "he": "המסורת הטקסטואלית (עזרא־נחמיה) מונה 42,360 שבים בתוספת משרתים; הערכות ארכאולוגיות לכל מחוז התקופה הפרסית נעות בין 12,000 (פינקלשטיין) ל־20,000–30,000 (קרטר, ליפשיץ), ופינקלשטיין טוען שהרשימה אינה רישום אותנטי של היישוב בתקופה הפרסית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -498,10 +678,22 @@
     {
       "id": "roman-war-captives-66-73",
       "name": {
-        "en": "Jewish captives taken in the war against Rome (66-73/74 CE)"
+        "en": "Jewish captives taken in the war against Rome (66-73/74 CE)",
+        "ar": "أسرى يهود أُخذوا في الحرب ضد روما (66-73/74 م)",
+        "he": "שבויים יהודים שנלקחו במלחמה נגד רומא (66–73/74 לספירה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Judaea"
+        "en": "Jews of Judaea",
+        "ar": "يهود يهودا",
+        "he": "יהודי יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation"
@@ -511,7 +703,13 @@
       },
       "destination": {
         "label": {
-          "en": "Roman Empire (slave markets; Rome shown)"
+          "en": "Roman Empire (slave markets; Rome shown)",
+          "ar": "الإمبراطورية الرومانية (أسواق الرقيق؛ روما ممثَّلة)",
+          "he": "האימפריה הרומית (שווקי עבדים; רומא מסומנת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           12.4828,
@@ -551,7 +749,13 @@
         "en": "Casualty figures are deliberately not recorded here. The destination point (Rome) is symbolic: captives were sold or sent to many parts of the empire."
       },
       "contested_note": {
-        "en": "Josephus gives 97,000 captives; Schwartz considers Josephus's figures (especially the death toll) impossible and stresses that the true numbers cannot be determined."
+        "en": "Josephus gives 97,000 captives; Schwartz considers Josephus's figures (especially the death toll) impossible and stresses that the true numbers cannot be determined.",
+        "ar": "يذكر يوسيفوس أن عدد الأسرى 97,000؛ ويرى شوارتز أن أرقام يوسيفوس (خاصة عدد القتلى) مستحيلة، ويؤكد أنه لا يمكن تحديد الأعداد الحقيقية.",
+        "he": "יוספוס מציין 97,000 שבויים; שוורץ סבור שמספריו של יוספוס (במיוחד מספר ההרוגים) אינם אפשריים, ומדגיש שאי אפשר לקבוע את המספרים האמיתיים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": null,
@@ -561,10 +765,22 @@
     {
       "id": "roman-era-jewish-diaspora",
       "name": {
-        "en": "Jewish diaspora after the revolts against Rome: traditional and revised views"
+        "en": "Jewish diaspora after the revolts against Rome: traditional and revised views",
+        "ar": "الشتات اليهودي بعد الثورات على روما: الرأي التقليدي والرأي المنقَّح",
+        "he": "הפזורה היהודית לאחר המרידות ברומא: הדעה המסורתית והדעה המעודכנת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Judaea / Palestine"
+        "en": "Jews of Judaea / Palestine",
+        "ar": "يهود اليهودية / فلسطين",
+        "he": "יהודי יהודה / פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "exile",
@@ -575,7 +791,13 @@
       },
       "destination": {
         "label": {
-          "en": "Mediterranean and Near Eastern diaspora (Alexandria shown)"
+          "en": "Mediterranean and Near Eastern diaspora (Alexandria shown)",
+          "ar": "الشتات في البحر المتوسط والشرق الأدنى (تظهر الإسكندرية)",
+          "he": "הפזורה בים התיכון ובמזרח הקרוב (אלכסנדריה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           29.8925,
@@ -620,16 +842,34 @@
         "en": "This record represents an interpretive question rather than a single measurable movement; no numbers are given. The end date is schematic."
       },
       "contested_note": {
-        "en": "The traditional view links the dispersion of the Jews to the Roman destruction of Jerusalem (70 CE) and the defeat of Bar Kokhba (135 CE). Many historians stress instead that large diaspora communities existed before 70 (Britannica notes they already far outnumbered Jews in Palestine) and that a substantial Jewish population remained in the land after the revolts (Schwartz; EJ on the shift to Galilee), so that there was no single mass expulsion."
+        "en": "The traditional view links the dispersion of the Jews to the Roman destruction of Jerusalem (70 CE) and the defeat of Bar Kokhba (135 CE). Many historians stress instead that large diaspora communities existed before 70 (Britannica notes they already far outnumbered Jews in Palestine) and that a substantial Jewish population remained in the land after the revolts (Schwartz; EJ on the shift to Galilee), so that there was no single mass expulsion.",
+        "ar": "يربط الرأي التقليدي تشتت اليهود بتدمير الرومان للقدس (70 م) وهزيمة بار كوخبا (135 م). في المقابل، يؤكد كثير من المؤرخين أن جاليات كبيرة في الشتات وُجدت قبل عام 70 (تشير بريتانيكا إلى أنها كانت تفوق عدد اليهود في فلسطين بكثير)، وأن عددًا كبيرًا من اليهود بقي في البلاد بعد الثورات (شوارتز؛ الموسوعة اليهودية بشأن الانتقال إلى الجليل)، ولذلك لم يحدث طرد جماعي واحد.",
+        "he": "הדעה המסורתית קושרת את פיזור היהודים להחרבת ירושלים בידי הרומאים (70 לספירה) ולתבוסת בר כוכבא (135 לספירה). היסטוריונים רבים מדגישים לעומת זאת שקהילות פזורה גדולות התקיימו כבר לפני 70 (בריטניקה מציינת שהן עלו בהרבה על מספר היהודים בפלשתינה) ושאוכלוסייה יהודית משמעותית נשארה בארץ אחרי המרידות (שוורץ; האנציקלופדיה היהודית על המעבר לגליל), ולכן לא היה גירוש המוני אחד.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "judaea-to-galilee-after-bar-kokhba",
       "name": {
-        "en": "Shift of the Jewish population from Judaea to Galilee after the Bar Kokhba revolt"
+        "en": "Shift of the Jewish population from Judaea to Galilee after the Bar Kokhba revolt",
+        "ar": "انتقال السكان اليهود من اليهودية إلى الجليل بعد ثورة بار كوخبا",
+        "he": "מעבר האוכלוסייה היהודית מיהודה לגליל לאחר מרד בר כוכבא",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Judaea"
+        "en": "Jews of Judaea",
+        "ar": "يهود اليهودية",
+        "he": "יהודי יהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement",
@@ -640,7 +880,13 @@
       },
       "destination": {
         "label": {
-          "en": "Galilee"
+          "en": "Galilee",
+          "ar": "الجليل",
+          "he": "הגליל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.3,
@@ -674,10 +920,22 @@
     {
       "id": "arab-tribal-settlement-early-islam",
       "name": {
-        "en": "Settlement of Arab tribes in Palestine around and after the Islamic conquest"
+        "en": "Settlement of Arab tribes in Palestine around and after the Islamic conquest",
+        "ar": "استقرار القبائل العربية في فلسطين حول الفتح الإسلامي وبعده",
+        "he": "התיישבות שבטים ערביים בפלשתינה סביב הכיבוש המוסלמי ואחריו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Arab tribes (Lakhm, Judham, Amilah, Kindah, Qays, Kinanah and others)"
+        "en": "Arab tribes (Lakhm, Judham, Amilah, Kindah, Qays, Kinanah and others)",
+        "ar": "القبائل العربية (لخم وجذام وعاملة وكندة وقيس وكنانة وغيرها)",
+        "he": "השבטים הערביים (לח׳ם, ג׳ודאם, עאמלה, כינדה, קיס, כנאנה ואחרים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "tribal-migration",
@@ -685,7 +943,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Arabian Peninsula and Syrian desert margins"
+          "en": "Arabian Peninsula and Syrian desert margins",
+          "ar": "شبه الجزيرة العربية وأطراف بادية الشام",
+          "he": "חצי האי ערב ושולי מדבר סוריה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           46,
@@ -734,16 +998,34 @@
         "en": "Destination point is Ramla, founded as the capital of Jund Filastin. Some of the tribes named by al-Ya'qubi (e.g. Lakhm and Judham) were already present on the frontiers before Islam, so the movement mixed new arrivals with groups already in the region; the consulted sources give no numbers."
       },
       "contested_note": {
-        "en": "Al-Ya'qubi (9th c.) describes the population of Palestine in tribal Arab terms; archaeological work summarised by Avni stresses a slow, gradual transition with Christians still the large majority on the eve of the Crusades; Ellenblum links the later Muslim/Christian geography to long-term nomadisation and sedentarisation after the conquest."
+        "en": "Al-Ya'qubi (9th c.) describes the population of Palestine in tribal Arab terms; archaeological work summarised by Avni stresses a slow, gradual transition with Christians still the large majority on the eve of the Crusades; Ellenblum links the later Muslim/Christian geography to long-term nomadisation and sedentarisation after the conquest.",
+        "ar": "يصف اليعقوبي (القرن التاسع) سكان فلسطين بمصطلحات قبلية عربية؛ وتؤكد الأعمال الأثرية التي لخّصها آفني انتقالًا بطيئًا وتدريجيًا، مع بقاء المسيحيين أغلبية كبيرة عشية الحروب الصليبية؛ ويربط إلنبلوم الجغرافيا الإسلامية/المسيحية اللاحقة بالتحول الطويل الأمد نحو البداوة والاستقرار بعد الفتح.",
+        "he": "אל-יעקובי (המאה ה-9) מתאר את אוכלוסיית פלשתינה במונחים של שבטים ערביים; המחקר הארכאולוגי שסוכם אצל אבני מדגיש מעבר איטי והדרגתי, כשהנוצרים עדיין רוב גדול בערב מסעי הצלב; אלנבלום קושר את הגיאוגרפיה המוסלמית/הנוצרית המאוחרת להתנהדות ולהתיישבות ארוכות טווח לאחר הכיבוש.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "frankish-settlement",
       "name": {
-        "en": "Frankish (Crusader) settlement in the Latin Kingdom of Jerusalem"
+        "en": "Frankish (Crusader) settlement in the Latin Kingdom of Jerusalem",
+        "ar": "الاستيطان الفرنجي (الصليبي) في مملكة القدس اللاتينية",
+        "he": "ההתיישבות הפרנקית (הצלבנית) בממלכת ירושלים הלטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Franks (settlers from Western Europe)"
+        "en": "Franks (settlers from Western Europe)",
+        "ar": "الفرنجة (مستوطنون من أوروبا الغربية)",
+        "he": "הפרנקים (מתיישבים ממערב אירופה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "conquest-settlement",
@@ -751,7 +1033,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Western Europe (France shown)"
+          "en": "Western Europe (France shown)",
+          "ar": "أوروبا الغربية (تظهر فرنسا)",
+          "he": "מערב אירופה (צרפת מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           2,
@@ -788,7 +1076,13 @@
         "en": "Benvenisti (p. 18) estimates the indigenous population of the kingdom at about half a million. The 140,000 figure is his estimate; it is not a count. Destination point is Acre, the main port and later capital. The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category."
       },
       "contested_note": {
-        "en": "Benvenisti's model (following Prawer) sees the Franks as an overwhelmingly urban minority; Ellenblum's field study of over 200 rural Frankish sites argues for substantial rural settlement in areas inhabited by eastern Christians."
+        "en": "Benvenisti's model (following Prawer) sees the Franks as an overwhelmingly urban minority; Ellenblum's field study of over 200 rural Frankish sites argues for substantial rural settlement in areas inhabited by eastern Christians.",
+        "ar": "يرى نموذج بنفنستي (تبعًا لبرافر) أن الفرنجة كانوا أقلية حضرية في الغالب؛ بينما تدعو دراسة إلنبلوم الميدانية لأكثر من 200 موقع فرنجي ريفي إلى القول بوجود استيطان ريفي كبير في مناطق يسكنها مسيحيون شرقيون.",
+        "he": "המודל של בנבנישתי (בעקבות פראוור) רואה בפרנקים מיעוט עירוני בעיקרו; מחקר השטח של אלנבלום ביותר מ-200 אתרים פרנקיים כפריים טוען להתיישבות כפרית משמעותית באזורים שישבו בהם נוצרים מזרחיים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 140000,
@@ -799,10 +1093,22 @@
     {
       "id": "jewish-immigration-ayyubid",
       "name": {
-        "en": "Jewish immigration under Ayyubid rule (late 12th-early 13th century)"
+        "en": "Jewish immigration under Ayyubid rule (late 12th-early 13th century)",
+        "ar": "الهجرة اليهودية في العهد الأيوبي (أواخر القرن الثاني عشر - أوائل القرن الثالث عشر)",
+        "he": "העלייה היהודית בתקופת השלטון האיובי (סוף המאה ה-12 – תחילת המאה ה-13)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews from Islamic lands and from Europe"
+        "en": "Jews from Islamic lands and from Europe",
+        "ar": "يهود من البلدان الإسلامية ومن أوروبا",
+        "he": "יהודים מארצות האסלאם ומאירופה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -810,7 +1116,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Europe and Islamic lands (Europe shown)"
+          "en": "Europe and Islamic lands (Europe shown)",
+          "ar": "أوروبا والبلدان الإسلامية (تظهر أوروبا)",
+          "he": "אירופה וארצות האסלאם (אירופה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -847,10 +1159,22 @@
     {
       "id": "sephardi-arrival-safed",
       "name": {
-        "en": "Arrival of Jewish exiles from Spain in Safed (after 1492)"
+        "en": "Arrival of Jewish exiles from Spain in Safed (after 1492)",
+        "ar": "وصول المنفيين اليهود من إسبانيا إلى صفد (بعد 1492)",
+        "he": "הגעת מגורשי ספרד לצפת (אחרי 1492)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Sephardi Jews (exiles from Spain and Portugal) and Maghrebi Jews"
+        "en": "Sephardi Jews (exiles from Spain and Portugal) and Maghrebi Jews",
+        "ar": "اليهود السفارديم (المنفيون من إسبانيا والبرتغال) ويهود المغرب العربي",
+        "he": "יהודים ספרדים (מגורשי ספרד ופורטוגל) ויהודי המגרב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "expulsion",
@@ -858,7 +1182,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Iberian Peninsula (Spain)"
+          "en": "Iberian Peninsula (Spain)",
+          "ar": "شبه الجزيرة الإيبيرية (إسبانيا)",
+          "he": "חצי האי האיברי (ספרד)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -3.5,
@@ -904,10 +1234,22 @@
     {
       "id": "hasidic-perushim-immigration",
       "name": {
-        "en": "Hasidic and Perushim immigration from Eastern Europe (1778-1810s)"
+        "en": "Hasidic and Perushim immigration from Eastern Europe (1778-1810s)",
+        "ar": "هجرة الحسيديم والفروشيم من أوروبا الشرقية (1778-1810s)",
+        "he": "עליית החסידים והפרושים ממזרח אירופה (1778–1810s)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Hasidim (disciples of the Baal Shem Tov) and Perushim (disciples of the Vilna Gaon)"
+        "en": "Hasidim (disciples of the Baal Shem Tov) and Perushim (disciples of the Vilna Gaon)",
+        "ar": "الحسيديم (تلاميذ بعل شم طوب) والفروشيم (تلاميذ غاؤون فيلنا)",
+        "he": "החסידים (תלמידי הבעל שם טוב) והפרושים (תלמידי הגאון מווילנה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -915,7 +1257,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Eastern Europe (Lithuania-Belarus region; Vilnius shown)"
+          "en": "Eastern Europe (Lithuania-Belarus region; Vilnius shown)",
+          "ar": "أوروبا الشرقية (منطقة ليتوانيا وبيلاروس؛ تظهر فيلنيوس)",
+          "he": "מזרח אירופה (אזור ליטא–בלארוס; וילנה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           25.28,
@@ -959,10 +1307,22 @@
     {
       "id": "old-yishuv-immigration-1850-1880",
       "name": {
-        "en": "Jewish immigration to the Holy Land, 1850-1880 (Old Yishuv)"
+        "en": "Jewish immigration to the Holy Land, 1850-1880 (Old Yishuv)",
+        "ar": "الهجرة اليهودية إلى الأرض المقدسة، 1850-1880 (اليشوف القديم)",
+        "he": "העלייה היהודית לארץ הקודש, 1850–1880 (היישוב הישן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews from the Ottoman Empire, North Africa, the Russian Empire and other European countries"
+        "en": "Jews from the Ottoman Empire, North Africa, the Russian Empire and other European countries",
+        "ar": "يهود من الدولة العثمانية وشمال أفريقيا والإمبراطورية الروسية وبلدان أوروبية أخرى",
+        "he": "יהודים מהאימפריה העות׳מאנית, מצפון אפריקה, מהאימפריה הרוסית וממדינות אירופה אחרות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -970,7 +1330,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Europe, Ottoman lands and North Africa (Europe shown)"
+          "en": "Europe, Ottoman lands and North Africa (Europe shown)",
+          "ar": "أوروبا والأراضي العثمانية وشمال أفريقيا (تظهر أوروبا)",
+          "he": "אירופה, ארצות עות׳מאניות וצפון אפריקה (אירופה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1015,10 +1381,22 @@
     {
       "id": "egyptian-settlers-19th-century",
       "name": {
-        "en": "Egyptian migrants and settlers in southern Palestine (19th century, peak under Egyptian rule 1831-1840)"
+        "en": "Egyptian migrants and settlers in southern Palestine (19th century, peak under Egyptian rule 1831-1840)",
+        "ar": "مهاجرون ومستوطنون مصريون في جنوب فلسطين (القرن التاسع عشر، وبلغت الذروة في ظل الحكم المصري 1831-1840)",
+        "he": "מהגרים ומתיישבים מצרים בדרום פלשתינה (המאה ה-19, שיא בתקופת השלטון המצרי 1831–1840)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Egyptian peasants (fellahin), soldiers and labourers"
+        "en": "Egyptian peasants (fellahin), soldiers and labourers",
+        "ar": "فلاحون وجنود وعمال مصريون",
+        "he": "פלאחים, חיילים ופועלים מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -1026,7 +1404,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Nile Delta (Egypt)"
+          "en": "Nile Delta (Egypt)",
+          "ar": "دلتا النيل (مصر)",
+          "he": "דלתת הנילוס (מצרים)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           31.1167,
@@ -1070,16 +1454,34 @@
         "en": "Dates reflect the main wave associated with Egyptian rule over Syria and Palestine (1831-1840); Marom and Sasson describe several independent waves over a longer period (their study covers 1831-1948). Destination point al-Majdal (Ashkelon), the focus of Marom and Sasson; Egyptian settlement is also reported around Jaffa. No reliable numbers were found in the consulted sources."
       },
       "contested_note": {
-        "en": "The scale is disputed: Kressel and Aharoni consider the migration 'considerable' and note the scarcity of documents; Marom and Sasson describe a protracted, multi-wave process with heterogeneous integration patterns. Population historians who reject large-scale Muslim immigration in the late Ottoman period are summarised in the record 'arab-immigration-late-ottoman-mandate'."
+        "en": "The scale is disputed: Kressel and Aharoni consider the migration 'considerable' and note the scarcity of documents; Marom and Sasson describe a protracted, multi-wave process with heterogeneous integration patterns. Population historians who reject large-scale Muslim immigration in the late Ottoman period are summarised in the record 'arab-immigration-late-ottoman-mandate'.",
+        "ar": "حجم الهجرة محل خلاف: يعتبر كريسل وأهروني الهجرة «كبيرة» ويشيران إلى ندرة الوثائق؛ ويصف ماروم وساسون عملية طويلة متعددة الموجات بأنماط اندماج متباينة. أما المؤرخون السكانيون الذين يرفضون الهجرة الإسلامية الواسعة في أواخر العهد العثماني فهم ملخَّصون في السجل 'arab-immigration-late-ottoman-mandate'.",
+        "he": "היקף ההגירה שנוי במחלוקת: קרסל ואהרוני רואים בהגירה 'ניכרת' ומציינים את מיעוט המסמכים; מרום וששון מתארים תהליך ממושך בכמה גלים עם דפוסי השתלבות שונים. היסטוריונים של האוכלוסייה הדוחים הגירה מוסלמית רחבת היקף בסוף התקופה העות׳מאנית מסוכמים ברשומה 'arab-immigration-late-ottoman-mandate'.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "algerian-settlement-galilee",
       "name": {
-        "en": "Algerian (Maghrebi) settlement in Galilee, incl. followers of Emir Abd al-Qadir"
+        "en": "Algerian (Maghrebi) settlement in Galilee, incl. followers of Emir Abd al-Qadir",
+        "ar": "استقرار جزائري (مغاربي) في الجليل، ومنهم أتباع الأمير عبد القادر",
+        "he": "התיישבות אלג׳יראית (מגרבית) בגליל, ובהם חסידי האמיר עבד אל-קאדר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Algerians (Arab and Kabyle Amazigh)"
+        "en": "Algerians (Arab and Kabyle Amazigh)",
+        "ar": "الجزائريون (عرب وأمازيغ قبائليون)",
+        "he": "אלג׳יראים (ערבים וברברים קבילים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -1087,7 +1489,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Algeria (via Damascus)"
+          "en": "Algeria (via Damascus)",
+          "ar": "الجزائر (عبر دمشق)",
+          "he": "אלג׳יריה (דרך דמשק)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           1,
@@ -1141,10 +1549,22 @@
     {
       "id": "circassian-settlement",
       "name": {
-        "en": "Settlement of Circassian and other Muslim refugees from the Caucasus and the Balkans (from 1878)"
+        "en": "Settlement of Circassian and other Muslim refugees from the Caucasus and the Balkans (from 1878)",
+        "ar": "استقرار لاجئين مسلمين شركس وغيرهم من القوقاز والبلقان (منذ 1878)",
+        "he": "התיישבות פליטים מוסלמים צ׳רקסים ואחרים מהקווקז ומהבלקן (מאז 1878)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Circassians and Tatars (Muslim refugees, many via Ottoman Bulgaria and Rumelia)"
+        "en": "Circassians and Tatars (Muslim refugees, many via Ottoman Bulgaria and Rumelia)",
+        "ar": "الشركس والتتار (لاجئون مسلمون، كثير منهم عبر بلغاريا العثمانية والروملي)",
+        "he": "צ׳רקסים וטטרים (פליטים מוסלמים, רבים מהם דרך בולגריה העות׳מאנית ורומליה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -1152,7 +1572,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Caucasus, via Ottoman Bulgaria and Rumelia (Bulgaria shown)"
+          "en": "Caucasus, via Ottoman Bulgaria and Rumelia (Bulgaria shown)",
+          "ar": "القوقاز، عبر بلغاريا العثمانية والروملي (تظهر بلغاريا)",
+          "he": "הקווקז, דרך בולגריה העות׳מאנית ורומליה (בולגריה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           25.5,
@@ -1162,7 +1588,13 @@
       },
       "destination": {
         "label": {
-          "en": "Kfar Kama and Rehaniya, Galilee (Kfar Kama shown)"
+          "en": "Kfar Kama and Rehaniya, Galilee (Kfar Kama shown)",
+          "ar": "كفر كما والريحانية، الجليل (يظهر كفر كما)",
+          "he": "כפר כמא ורחניה, הגליל (כפר כמא מוצג)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.4408,
@@ -1214,10 +1646,22 @@
     {
       "id": "bosnian-settlement-caesarea",
       "name": {
-        "en": "Settlement of Bosnian Muslim families at Caesarea (Qisarya), 1880s"
+        "en": "Settlement of Bosnian Muslim families at Caesarea (Qisarya), 1880s",
+        "ar": "استقرار عائلات مسلمة بوسنية في قيسارية، الثمانينيات من القرن التاسع عشر",
+        "he": "התיישבות משפחות מוסלמיות בוסניות בקיסריה (קיסריה), שנות ה-80 של המאה ה-19",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Bosnian Muslims (mainly from the Mostar region)"
+        "en": "Bosnian Muslims (mainly from the Mostar region)",
+        "ar": "مسلمو البوسنة (معظمهم من منطقة موستار)",
+        "he": "מוסלמים בוסנים (בעיקר מאזור מוסטר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -1225,7 +1669,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Herzegovina (Mostar)"
+          "en": "Herzegovina (Mostar)",
+          "ar": "الهرسك (موستار)",
+          "he": "הרצגובינה (מוסטר)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           17.8075,
@@ -1267,10 +1717,22 @@
     {
       "id": "templer-settlement",
       "name": {
-        "en": "German Templer settlement (1868/69-1940s)"
+        "en": "German Templer settlement (1868/69-1940s)",
+        "ar": "الاستيطان الألماني للهيكليين (1868/69-الأربعينيات)",
+        "he": "התיישבות הטמפלרים הגרמנים (1868/69–שנות ה-40)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Templers (Temple Society), Pietist Protestants from Württemberg"
+        "en": "Templers (Temple Society), Pietist Protestants from Württemberg",
+        "ar": "الهيكليون (جمعية الهيكل)، بروتستانت تقويون من فورتمبرغ",
+        "he": "הטמפלרים (אגודת המקדש), פרוטסטנטים פייטיסטים מווירטמברג",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -1278,7 +1740,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Württemberg (Germany)"
+          "en": "Württemberg (Germany)",
+          "ar": "فورتمبرغ (ألمانيا)",
+          "he": "וירטמברג (גרמניה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.18,
@@ -1327,10 +1795,22 @@
     {
       "id": "templer-deportation-1941",
       "name": {
-        "en": "Internment of Templers and deportation of many to Australia (1941)"
+        "en": "Internment of Templers and deportation of many to Australia (1941)",
+        "ar": "اعتقال الهيكليين وترحيل كثيرين منهم إلى أستراليا (1941)",
+        "he": "מעצר הטמפלרים וגירוש רבים מהם לאוסטרליה (1941)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "German Templers of Palestine"
+        "en": "German Templers of Palestine",
+        "ar": "الهيكليون الألمان في فلسطين",
+        "he": "הטמפלרים הגרמנים בפלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation"
@@ -1340,7 +1820,13 @@
       },
       "destination": {
         "label": {
-          "en": "Internment camps at Tatura, Victoria (Australia)"
+          "en": "Internment camps at Tatura, Victoria (Australia)",
+          "ar": "معسكرات الاعتقال في تاتورا، فيكتوريا (أستراليا)",
+          "he": "מחנות המעצר בטטורה, ויקטוריה (אוסטרליה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           145.233,
@@ -1372,17 +1858,35 @@
     {
       "id": "first-aliyah",
       "name": {
-        "en": "First Aliyah (1882-1903)"
+        "en": "First Aliyah (1882-1903)",
+        "ar": "العلياه الأولى (1882-1903)",
+        "he": "העלייה הראשונה (1882–1903)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants, mainly from the Russian Empire and Romania, also from Yemen"
+        "en": "Jewish immigrants, mainly from the Russian Empire and Romania, also from Yemen",
+        "ar": "مهاجرون يهود، معظمهم من الإمبراطورية الروسية ورومانيا، ومن اليمن أيضًا",
+        "he": "עולים יהודים, בעיקר מהאימפריה הרוסית ומרומניה, וכן מתימן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Eastern Europe (Russian Empire; Odesa shown as port of departure)"
+          "en": "Eastern Europe (Russian Empire; Odesa shown as port of departure)",
+          "ar": "أوروبا الشرقية (الإمبراطورية الروسية؛ تظهر أوديسا ميناءَ مغادرة)",
+          "he": "מזרח אירופה (האימפריה הרוסית; אודסה מוצגת כנמל יציאה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           30.7326,
@@ -1424,17 +1928,35 @@
     {
       "id": "second-aliyah",
       "name": {
-        "en": "Second Aliyah (1904-1914)"
+        "en": "Second Aliyah (1904-1914)",
+        "ar": "العلياه الثانية (1904-1914)",
+        "he": "העלייה השנייה (1904–1914)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants, mainly from the Russian Empire"
+        "en": "Jewish immigrants, mainly from the Russian Empire",
+        "ar": "مهاجرون يهود، معظمهم من الإمبراطورية الروسية",
+        "he": "עולים יהודים, בעיקר מהאימפריה הרוסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Russian Empire (Odesa shown)"
+          "en": "Russian Empire (Odesa shown)",
+          "ar": "الإمبراطورية الروسية (تظهر أوديسا)",
+          "he": "האימפריה הרוסית (אודסה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           30.7326,
@@ -1481,17 +2003,35 @@
     {
       "id": "third-aliyah",
       "name": {
-        "en": "Third Aliyah (1919-1923)"
+        "en": "Third Aliyah (1919-1923)",
+        "ar": "العلياه الثالثة (1919-1923)",
+        "he": "העלייה השלישית (1919–1923)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants, mainly from Europe"
+        "en": "Jewish immigrants, mainly from Europe",
+        "ar": "مهاجرون يهود، معظمهم من أوروبا",
+        "he": "עולים יהודים, בעיקר מאירופה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Europe"
+          "en": "Europe",
+          "ar": "أوروبا",
+          "he": "אירופה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1534,17 +2074,35 @@
     {
       "id": "fourth-aliyah",
       "name": {
-        "en": "Fourth Aliyah (1924-1931 in CBS periodisation)"
+        "en": "Fourth Aliyah (1924-1931 in CBS periodisation)",
+        "ar": "العلياه الرابعة (1924-1931 بحسب تقسيم الإحصاء المركزي)",
+        "he": "העלייה הרביעית (1924–1931 לפי חלוקת הלמ״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants, mainly from Europe (notably Poland)"
+        "en": "Jewish immigrants, mainly from Europe (notably Poland)",
+        "ar": "مهاجرون يهود، معظمهم من أوروبا (ولا سيما بولندا)",
+        "he": "עולים יהודים, בעיקר מאירופה (ובמיוחד מפולין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Europe"
+          "en": "Europe",
+          "ar": "أوروبا",
+          "he": "אירופה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1587,10 +2145,22 @@
     {
       "id": "fifth-aliyah",
       "name": {
-        "en": "Fifth Aliyah (1932-1938/39)"
+        "en": "Fifth Aliyah (1932-1938/39)",
+        "ar": "العلياه الخامسة (1932-1938/39)",
+        "he": "העלייה החמישית (1932–1938/39)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants, mainly from Central and Eastern Europe (incl. refugees from Nazi Germany)"
+        "en": "Jewish immigrants, mainly from Central and Eastern Europe (incl. refugees from Nazi Germany)",
+        "ar": "مهاجرون يهود، معظمهم من أوروبا الوسطى والشرقية (ومنهم لاجئون من ألمانيا النازية)",
+        "he": "עולים יהודים, בעיקר ממרכז אירופה ומזרחה (ובהם פליטים מגרמניה הנאצית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -1598,7 +2168,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Europe"
+          "en": "Europe",
+          "ar": "أوروبا",
+          "he": "אירופה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1641,10 +2217,22 @@
     {
       "id": "immigration-1939-1948-aliyah-bet",
       "name": {
-        "en": "Jewish immigration 1939-May 1948, including clandestine immigration (Aliyah Bet)"
+        "en": "Jewish immigration 1939-May 1948, including clandestine immigration (Aliyah Bet)",
+        "ar": "الهجرة اليهودية 1939 - أيار/مايو 1948، بما فيها الهجرة السرية (العلياه بيت)",
+        "he": "העלייה היהודית 1939 – מאי 1948, כולל העלייה הבלתי חוקית (עליית ב׳)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants and refugees, mainly from Europe (incl. Holocaust survivors after 1945)"
+        "en": "Jewish immigrants and refugees, mainly from Europe (incl. Holocaust survivors after 1945)",
+        "ar": "مهاجرون ولاجئون يهود، معظمهم من أوروبا (ومنهم الناجون من المحرقة بعد 1945)",
+        "he": "עולים ופליטים יהודים, בעיקר מאירופה (ובהם ניצולי השואה אחרי 1945)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -1652,7 +2240,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Europe"
+          "en": "Europe",
+          "ar": "أوروبا",
+          "he": "אירופה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1703,10 +2297,22 @@
     {
       "id": "cyprus-detention-1946-1948",
       "name": {
-        "en": "Interception and detention of would-be Jewish immigrants in Cyprus and elsewhere (1940s)"
+        "en": "Interception and detention of would-be Jewish immigrants in Cyprus and elsewhere (1940s)",
+        "ar": "اعتراض مهاجرين يهود محتملين واحتجازهم في قبرص وأماكن أخرى (الأربعينيات)",
+        "he": "יירוט עולים יהודים פוטנציאליים ועצירתם בקפריסין ובמקומות אחרים (שנות ה-40)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish refugees attempting to enter Palestine without British certificates"
+        "en": "Jewish refugees attempting to enter Palestine without British certificates",
+        "ar": "لاجئون يهود حاولوا دخول فلسطين دون شهادات هجرة بريطانية",
+        "he": "פליטים יהודים שניסו להיכנס לפלשתינה ללא סרטיפיקטים בריטיים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "deportation"
@@ -1716,7 +2322,13 @@
       },
       "destination": {
         "label": {
-          "en": "Detention camps in Cyprus (also Mauritius and other places)"
+          "en": "Detention camps in Cyprus (also Mauritius and other places)",
+          "ar": "معسكرات احتجاز في قبرص (وفي موريشيوس وأماكن أخرى أيضًا)",
+          "he": "מחנות מעצר בקפריסין (וגם במאוריציוס ובמקומות אחרים)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           33,
@@ -1757,10 +2369,22 @@
     {
       "id": "arab-immigration-late-ottoman-mandate",
       "name": {
-        "en": "Arab immigration into Palestine in the late Ottoman and Mandate periods (extent disputed)"
+        "en": "Arab immigration into Palestine in the late Ottoman and Mandate periods (extent disputed)",
+        "ar": "الهجرة العربية إلى فلسطين في أواخر العهد العثماني وفي فترة الانتداب (حجمها محل خلاف)",
+        "he": "ההגירה הערבית לפלשתינה בסוף התקופה העות׳מאנית ובתקופת המנדט (היקפה שנוי במחלוקת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Arabs from neighbouring countries (Syria, Lebanon, Transjordan, Egypt) and migrants within Palestine"
+        "en": "Arabs from neighbouring countries (Syria, Lebanon, Transjordan, Egypt) and migrants within Palestine",
+        "ar": "عرب من البلدان المجاورة (سوريا ولبنان وشرق الأردن ومصر) ومهاجرون داخل فلسطين",
+        "he": "ערבים ממדינות שכנות (סוריה, לבנון, עבר הירדן, מצרים) ומהגרים בתוך פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "labour-migration",
@@ -1768,7 +2392,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Neighbouring countries (Syria shown)"
+          "en": "Neighbouring countries (Syria shown)",
+          "ar": "البلدان المجاورة (تظهر سوريا)",
+          "he": "מדינות שכנות (סוריה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.5833,
@@ -1840,23 +2470,47 @@
         "en": "Numbers in the literature: Bachi's working hypotheses add about +5,000 net Muslim migrants for 1922-31 and at least 13,500 unrecorded Muslim immigrants who remained in 1932-45 (about 900 per year convicted of illegal entry and not deported), plus some 14,000 illegal entrants among wartime workers in 1944-45 (some later repatriated). McCarthy applies Bachi's 900 per year. Gottheil imputes 64,790 Arab residents in 1931 above the natural-increase expectation in the sub-districts that became Israel, which he attributes to internal migration and/or illegal immigration. Destination point Haifa is illustrative (coastal growth areas)."
       },
       "contested_note": {
-        "en": "Bachi (demographer) and McCarthy (Ottoman population historian) conclude that registered Muslim immigration was small and, while unrecorded immigration existed, it was limited relative to natural increase; Porath (historian) holds that most Arab population growth came from natural increase. Gottheil (economist) argues that economic disparities drew substantial unrecorded immigration and internal migration toward Jewish-developed areas, and criticises McCarthy's use of Bachi; Peters (journalist, 1984) argued for large-scale in-migration, a thesis McCarthy and Porath reject."
+        "en": "Bachi (demographer) and McCarthy (Ottoman population historian) conclude that registered Muslim immigration was small and, while unrecorded immigration existed, it was limited relative to natural increase; Porath (historian) holds that most Arab population growth came from natural increase. Gottheil (economist) argues that economic disparities drew substantial unrecorded immigration and internal migration toward Jewish-developed areas, and criticises McCarthy's use of Bachi; Peters (journalist, 1984) argued for large-scale in-migration, a thesis McCarthy and Porath reject.",
+        "ar": "يخلص باخي (الديموغرافي) وماكارثي (مؤرخ سكان الدولة العثمانية) إلى أن الهجرة الإسلامية المسجَّلة كانت صغيرة، وأنه رغم وجود هجرة غير مسجَّلة فقد كانت محدودة قياسًا بالزيادة الطبيعية؛ ويرى بورات (المؤرخ) أن معظم نمو السكان العرب جاء من الزيادة الطبيعية. ويرى غوتهايل (الاقتصادي) أن الفوارق الاقتصادية جذبت هجرة كبيرة غير مسجَّلة وهجرة داخلية نحو المناطق التي طورها اليهود، وينتقد استخدام ماكارثي لباخي؛ أما بيترز (صحفي، 1984) فقد دافع عن هجرة وافدة واسعة النطاق، وهي أطروحة يرفضها ماكارثي وبورات.",
+        "he": "בכי (דמוגרף) ומקארתי (היסטוריון של האוכלוסייה העות׳מאנית) מסיקים שההגירה המוסלמית הרשומה הייתה קטנה, ושאף שהייתה הגירה בלתי רשומה היא הייתה מוגבלת ביחס לגידול הטבעי; פורת (היסטוריון) סבור שרוב הגידול באוכלוסייה הערבית נבע מגידול טבעי. גוטהייל (כלכלן) טוען שפערים כלכליים משכו הגירה בלתי רשומה ניכרת והגירה פנימית לעבר אזורים שפיתחו יהודים, ומבקר את שימושו של מקארתי בבכי; פיטרס (עיתונאי, 1984) טען להגירה פנימה בהיקף נרחב, תזה שמקארתי ופורת דוחים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "european-war-refugees-wwii",
       "name": {
-        "en": "European war refugees in Palestine during the Second World War"
+        "en": "European war refugees in Palestine during the Second World War",
+        "ar": "لاجئو الحرب الأوروبيون في فلسطين خلال الحرب العالمية الثانية",
+        "he": "פליטי מלחמה אירופים בפלשתינה במהלך מלחמת העולם השנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "War refugees, mainly from Greece, Poland, Czechoslovakia and Yugoslavia (largely Christian)"
+        "en": "War refugees, mainly from Greece, Poland, Czechoslovakia and Yugoslavia (largely Christian)",
+        "ar": "لاجئو حرب، معظمهم من اليونان وبولندا وتشيكوسلوفاكيا ويوغوسلافيا (ومعظمهم مسيحيون)",
+        "he": "פליטי מלחמה, בעיקר מיוון, מפולין, מצ׳כוסלובקיה ומיוגוסלביה (רובם נוצרים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight"
       ],
       "origin": {
         "label": {
-          "en": "Europe (Greece, Poland, Czechoslovakia, Yugoslavia)"
+          "en": "Europe (Greece, Poland, Czechoslovakia, Yugoslavia)",
+          "ar": "أوروبا (اليونان وبولندا وتشيكوسلوفاكيا ويوغوسلافيا)",
+          "he": "אירופה (יוון, פולין, צ׳כוסלובקיה, יוגוסלביה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -1903,10 +2557,22 @@
     {
       "id": "hebron-jewish-community-1929-1936",
       "name": {
-        "en": "Flight and evacuation of the Jewish community of Hebron (1929; 1936)"
+        "en": "Flight and evacuation of the Jewish community of Hebron (1929; 1936)",
+        "ar": "فرار الجالية اليهودية في الخليل وإجلاؤها (1929؛ 1936)",
+        "he": "בריחת הקהילה היהודית בחברון ופינויה (1929; 1936)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Hebron"
+        "en": "Jews of Hebron",
+        "ar": "يهود الخليل",
+        "he": "יהודי חברון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
@@ -1916,7 +2582,13 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in Mandatory Palestine (not specified in source)"
+          "en": "Elsewhere in Mandatory Palestine (not specified in source)",
+          "ar": "أماكن أخرى في فلسطين الانتدابية (غير محددة في المصدر)",
+          "he": "מקומות אחרים בפלשתינה המנדטורית (לא צוין במקור)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.2367,
@@ -1962,10 +2634,22 @@
     {
       "id": "christian-emigration-latin-america",
       "name": {
-        "en": "Emigration from Palestine to the Americas, especially Latin America (late Ottoman and early Mandate periods)"
+        "en": "Emigration from Palestine to the Americas, especially Latin America (late Ottoman and early Mandate periods)",
+        "ar": "الهجرة من فلسطين إلى الأمريكتين، ولا سيما أمريكا اللاتينية (أواخر العهد العثماني وأوائل الانتداب)",
+        "he": "הגירה מפלשתינה לאמריקות, ובמיוחד לאמריקה הלטינית (סוף התקופה העות׳מאנית ותחילת המנדט)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian Arabs, predominantly Christian men"
+        "en": "Palestinian Arabs, predominantly Christian men",
+        "ar": "عرب فلسطينيون، معظمهم رجال مسيحيون",
+        "he": "ערבים פלסטינים, רובם גברים נוצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "emigration",
@@ -1973,7 +2657,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Ottoman / Mandatory Palestine"
+          "en": "Ottoman / Mandatory Palestine",
+          "ar": "فلسطين العثمانية / الانتدابية",
+          "he": "פלשתינה העות׳מאנית / המנדטורית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.2367,
@@ -1983,7 +2673,13 @@
       },
       "destination": {
         "label": {
-          "en": "Latin America"
+          "en": "Latin America",
+          "ar": "أمريكا اللاتينية",
+          "he": "אמריקה הלטינית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -68.0974,
@@ -2022,10 +2718,22 @@
     {
       "id": "palestinian-refugees-1947-1949",
       "name": {
-        "en": "Palestinian Arab refugees of 1947-1949 (the Nakba)"
+        "en": "Palestinian Arab refugees of 1947-1949 (the Nakba)",
+        "ar": "اللاجئون العرب الفلسطينيون 1947-1949 (النكبة)",
+        "he": "הפליטים הערבים הפלסטינים 1947–1949 (הנכבה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian Arabs from the areas that came under Israeli control"
+        "en": "Palestinian Arabs from the areas that came under Israeli control",
+        "ar": "عرب فلسطينيون من المناطق التي أصبحت تحت السيطرة الإسرائيلية",
+        "he": "ערבים פלסטינים מהאזורים שהגיעו לשליטה ישראלית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -2033,15 +2741,33 @@
       ],
       "alt_names": [
         {
-          "en": "Nakba (Catastrophe)"
+          "en": "Nakba (Catastrophe)",
+          "ar": "النكبة",
+          "he": "הנכבה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         {
-          "en": "Palestinian exodus of 1948"
+          "en": "Palestinian exodus of 1948",
+          "ar": "النزوح الفلسطيني عام 1948",
+          "he": "יציאת הפלסטינים ב-1948",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         }
       ],
       "origin": {
         "label": {
-          "en": "Areas that became Israel (Jaffa, Haifa, Lydda, Ramla, Galilee, coastal plain, Negev)"
+          "en": "Areas that became Israel (Jaffa, Haifa, Lydda, Ramla, Galilee, coastal plain, Negev)",
+          "ar": "المناطق التي أصبحت إسرائيل (يافا وحيفا واللد والرملة والجليل والسهل الساحلي والنقب)",
+          "he": "האזורים שהפכו לישראל (יפו, חיפה, לוד, רמלה, הגליל, מישור החוף, הנגב)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.879,
@@ -2051,7 +2777,13 @@
       },
       "destination": {
         "label": {
-          "en": "West Bank, Gaza Strip, Transjordan, Lebanon and Syria (West Bank shown)"
+          "en": "West Bank, Gaza Strip, Transjordan, Lebanon and Syria (West Bank shown)",
+          "ar": "الضفة الغربية وقطاع غزة وشرق الأردن ولبنان وسوريا (تظهر الضفة الغربية)",
+          "he": "הגדה המערבית, רצועת עזה, עבר הירדן, לבנון וסוריה (הגדה המערבית מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -2062,7 +2794,13 @@
       "destinations": [
         {
           "label": {
-            "en": "West Bank"
+            "en": "West Bank",
+            "ar": "الضفة الغربية",
+            "he": "הגדה המערבית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             35.35,
@@ -2072,7 +2810,13 @@
         },
         {
           "label": {
-            "en": "Gaza Strip"
+            "en": "Gaza Strip",
+            "ar": "قطاع غزة",
+            "he": "רצועת עזה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             34.4,
@@ -2082,7 +2826,13 @@
         },
         {
           "label": {
-            "en": "Transjordan (Jordan)"
+            "en": "Transjordan (Jordan)",
+            "ar": "شرق الأردن (الأردن)",
+            "he": "עבר הירדן (ירדן)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             35.9333,
@@ -2092,7 +2842,13 @@
         },
         {
           "label": {
-            "en": "Lebanon"
+            "en": "Lebanon",
+            "ar": "لبنان",
+            "he": "לבנון",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             35.5131,
@@ -2102,7 +2858,13 @@
         },
         {
           "label": {
-            "en": "Syria"
+            "en": "Syria",
+            "ar": "سوريا",
+            "he": "סוריה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             36.2919,
@@ -2179,7 +2941,13 @@
         "en": "Estimates: UN Conciliation Commission (1950) about 711,000; UN Economic Survey Mission and UNRWA 726,000; British estimate (Feb 1949) 810,000; Israeli official figure 520,000-530,000; Arab officials 900,000-1,000,000 (all as reported by Morris, Appendix I, except the UNCCP figure). Morris writes of 'some 700,000' displaced; PalQuest of three-quarters of a million. The UN Mediator counted 360,000 Arab refugees as of 10 September 1948, before the autumn 1948 offensives. Porath (1986) notes some 20,000 refugees later returned to Israel under a family-reunion scheme. Multiple destinations are listed in 'destinations'; see the diaspora snapshots for the UNRWA distribution of June 1951. Casualty figures are deliberately not recorded."
       },
       "contested_note": {
-        "en": "Both the number and the causes are disputed. Palestinian historiography (e.g. PalQuest, drawing on W. Khalidi and N. Masalha) describes a planned expulsion and ethnic cleansing, with Plan Dalet as its blueprint. Morris, working from Israeli archives, describes a mix of flight and expulsion born of war 'and not design', with no pre-war plan or agreed expulsion policy but with transfer thinking and many expulsions. Karsh (and Gelber, not consulted here) argue that much of the exodus resulted from flight, Arab leadership instructions and the collapse of Palestinian society, and that there was no Jewish grand design. The UN Mediator in 1948 recorded that the Arab population 'fled or was expelled'."
+        "en": "Both the number and the causes are disputed. Palestinian historiography (e.g. PalQuest, drawing on W. Khalidi and N. Masalha) describes a planned expulsion and ethnic cleansing, with Plan Dalet as its blueprint. Morris, working from Israeli archives, describes a mix of flight and expulsion born of war 'and not design', with no pre-war plan or agreed expulsion policy but with transfer thinking and many expulsions. Karsh (and Gelber, not consulted here) argue that much of the exodus resulted from flight, Arab leadership instructions and the collapse of Palestinian society, and that there was no Jewish grand design. The UN Mediator in 1948 recorded that the Arab population 'fled or was expelled'.",
+        "ar": "العدد والأسباب كلاهما محل خلاف. تصف الكتابة التاريخية الفلسطينية (مثل PalQuest، استنادًا إلى و. خالدي ون. مصالحة) طردًا مخططًا وتطهيرًا عرقيًا، وتعدّ «خطة دالت» مخططه. ويصف موريس، معتمدًا على الأرشيفات الإسرائيلية، مزيجًا من الفرار والطرد نشأ عن الحرب «لا عن تصميم»، دون خطة سابقة للحرب أو سياسة طرد متفق عليها، ولكن مع تفكير في «الترحيل» وطرد كثيرين. ويرى كارش (وجلبر، ولم يُرجع إليه هنا) أن جزءًا كبيرًا من النزوح نتج عن الفرار وتعليمات القيادة العربية وانهيار المجتمع الفلسطيني، وأنه لم يكن هناك مخطط يهودي كبير. وسجّل وسيط الأمم المتحدة عام 1948 أن السكان العرب «فرّوا أو طُردوا».",
+        "he": "גם המספר וגם הסיבות שנויים במחלוקת. ההיסטוריוגרפיה הפלסטינית (למשל PalQuest, בהסתמך על ו. ח׳אלידי ונ. מסאלחה) מתארת גירוש מתוכנן וטיהור אתני, כאשר תוכנית ד׳ היא התוכנית שלו. מוריס, בהסתמך על ארכיונים ישראליים, מתאר שילוב של בריחה וגירוש שנולד מהמלחמה 'ולא מתכנון', ללא תוכנית מלפני המלחמה או מדיניות גירוש מוסכמת, אך עם מחשבת טרנספר וגירושים רבים. קרש (וגלבר, שלא נבדק כאן) טוענים שחלק גדול מהיציאה נבע מבריחה, מהוראות ההנהגה הערבית ומקריסת החברה הפלסטינית, ושלא הייתה תוכנית אב יהודית. מתווך האו״ם ב-1948 רשם שהאוכלוסייה הערבית 'ברחה או גורשה'.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 520000,
@@ -2190,10 +2958,22 @@
     {
       "id": "jewish-displacement-1948",
       "name": {
-        "en": "Jewish refugees displaced by the 1947-1949 war inside Palestine"
+        "en": "Jewish refugees displaced by the 1947-1949 war inside Palestine",
+        "ar": "اللاجئون اليهود المهجَّرون بسبب حرب 1947-1949 داخل فلسطين",
+        "he": "פליטים יהודים שנעקרו בגלל מלחמת 1947–1949 בתוך פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish residents of areas of fighting or areas held by Arab forces"
+        "en": "Jewish residents of areas of fighting or areas held by Arab forces",
+        "ar": "سكان يهود في مناطق القتال أو المناطق التي سيطرت عليها قوات عربية",
+        "he": "תושבים יהודים באזורי לחימה או באזורים שהוחזקו בידי כוחות ערביים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -2201,7 +2981,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Areas of fighting in Mandatory Palestine (locations not specified in source)"
+          "en": "Areas of fighting in Mandatory Palestine (locations not specified in source)",
+          "ar": "مناطق القتال في فلسطين الانتدابية (المواقع غير محددة في المصدر)",
+          "he": "אזורי לחימה בפלשתינה המנדטורית (המקומות לא צוינו במקור)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.2367,
@@ -2211,7 +2997,13 @@
       },
       "destination": {
         "label": {
-          "en": "Jewish-held areas (Israel)"
+          "en": "Jewish-held areas (Israel)",
+          "ar": "مناطق خاضعة للسيطرة اليهودية (إسرائيل)",
+          "he": "אזורים בשליטה יהודית (ישראל)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2251,17 +3043,35 @@
     {
       "id": "internal-displacement-israel-1948",
       "name": {
-        "en": "Internally displaced Palestinian Arabs inside Israel ('present absentees')"
+        "en": "Internally displaced Palestinian Arabs inside Israel ('present absentees')",
+        "ar": "عرب فلسطينيون مهجَّرون داخليًا في إسرائيل ('الحاضرون الغائبون')",
+        "he": "ערבים פלסטינים עקורים בתוך ישראל ('נפקדים נוכחים')",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian Arabs who remained in Israel but lost their homes"
+        "en": "Palestinian Arabs who remained in Israel but lost their homes",
+        "ar": "عرب فلسطينيون بقوا في إسرائيل لكنهم فقدوا بيوتهم",
+        "he": "ערבים פלסטינים שנשארו בישראל אך איבדו את בתיהם",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
       ],
       "origin": {
         "label": {
-          "en": "Depopulated villages and towns inside Israel"
+          "en": "Depopulated villages and towns inside Israel",
+          "ar": "قرى ومدن مهجَّرة داخل إسرائيل",
+          "he": "כפרים וערים שנעזבו בתוך ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -2311,10 +3121,22 @@
     {
       "id": "border-clearing-1948-1950",
       "name": {
-        "en": "Post-war expulsions and transfers from Israel's border areas (Nov 1948-1950)"
+        "en": "Post-war expulsions and transfers from Israel's border areas (Nov 1948-1950)",
+        "ar": "عمليات طرد ونقل بعد الحرب من المناطق الحدودية لإسرائيل (تشرين الثاني/نوفمبر 1948-1950)",
+        "he": "גירושים והעברות לאחר המלחמה מאזורי הגבול של ישראל (נובמבר 1948–1950)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian Arab villagers and Negev Bedouin"
+        "en": "Palestinian Arab villagers and Negev Bedouin",
+        "ar": "قرويون عرب فلسطينيون وبدو النقب",
+        "he": "כפריים ערבים פלסטינים ובדואי הנגב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "expulsion",
@@ -2322,7 +3144,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Israel's border areas (e.g. al-Faluja and 'Iraq al-Manshiya; the Negev)"
+          "en": "Israel's border areas (e.g. al-Faluja and 'Iraq al-Manshiya; the Negev)",
+          "ar": "المناطق الحدودية لإسرائيل (مثل الفالوجة وعراق المنشية؛ والنقب)",
+          "he": "אזורי הגבול של ישראל (למשל אל-פלוג׳ה ועיראק אל-מנשייה; הנגב)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -2332,7 +3160,13 @@
       },
       "destination": {
         "label": {
-          "en": "Gaza Strip, West Bank and Jordan (Gaza Strip shown)"
+          "en": "Gaza Strip, West Bank and Jordan (Gaza Strip shown)",
+          "ar": "قطاع غزة والضفة الغربية والأردن (يظهر قطاع غزة)",
+          "he": "רצועת עזה, הגדה המערבית וירדן (רצועת עזה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -2380,17 +3214,35 @@
     {
       "id": "jewish-mass-immigration-1948-1951",
       "name": {
-        "en": "Mass Jewish immigration to Israel (May 1948-1951)"
+        "en": "Mass Jewish immigration to Israel (May 1948-1951)",
+        "ar": "الهجرة اليهودية الجماعية إلى إسرائيل (أيار/مايو 1948-1951)",
+        "he": "העלייה ההמונית של יהודים לישראל (מאי 1948–1951)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jewish immigrants from Europe, Asia and Africa"
+        "en": "Jewish immigrants from Europe, Asia and Africa",
+        "ar": "مهاجرون يهود من أوروبا وآسيا وأفريقيا",
+        "he": "עולים יהודים מאירופה, מאסיה ומאפריקה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Europe, Asia and North Africa (Europe shown)"
+          "en": "Europe, Asia and North Africa (Europe shown)",
+          "ar": "أوروبا وآسيا وشمال أفريقيا (تظهر أوروبا)",
+          "he": "אירופה, אסיה וצפון אפריקה (אירופה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -2400,7 +3252,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2448,10 +3306,22 @@
     {
       "id": "holocaust-survivors-1945-1951",
       "name": {
-        "en": "Immigration of Holocaust survivors and other European Jews (1945-1951)"
+        "en": "Immigration of Holocaust survivors and other European Jews (1945-1951)",
+        "ar": "هجرة الناجين من المحرقة وغيرهم من يهود أوروبا (1945-1951)",
+        "he": "עליית ניצולי השואה ויהודים אחרים מאירופה (1945–1951)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Holocaust survivors, displaced persons and other European Jews"
+        "en": "Holocaust survivors, displaced persons and other European Jews",
+        "ar": "الناجون من المحرقة والمشرَّدون وغيرهم من يهود أوروبا",
+        "he": "ניצולי שואה, עקורים ויהודים אחרים מאירופה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2459,7 +3329,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Europe (displaced-persons camps; Cyprus detention camps)"
+          "en": "Europe (displaced-persons camps; Cyprus detention camps)",
+          "ar": "أوروبا (معسكرات المشرَّدين؛ ومعسكرات الاحتجاز في قبرص)",
+          "he": "אירופה (מחנות עקורים; מחנות המעצר בקפריסין)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           9.1406,
@@ -2503,10 +3379,22 @@
     {
       "id": "jewish-emigration-arab-muslim-countries",
       "name": {
-        "en": "Departure of Jews from Arab and Muslim-majority countries (1948-1970s): causes debated"
+        "en": "Departure of Jews from Arab and Muslim-majority countries (1948-1970s): causes debated",
+        "ar": "مغادرة اليهود من البلدان العربية وذات الأغلبية المسلمة (1948-السبعينيات): الأسباب محل نقاش",
+        "he": "יציאת יהודים ממדינות ערב וממדינות ברוב מוסלמי (1948–שנות ה-70): הסיבות שנויות בוויכוח",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of the Middle East and North Africa"
+        "en": "Jews of the Middle East and North Africa",
+        "ar": "يهود الشرق الأوسط وشمال أفريقيا",
+        "he": "יהודי המזרח התיכון וצפון אפריקה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "emigration",
@@ -2516,7 +3404,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Middle East and North Africa (Baghdad shown)"
+          "en": "Middle East and North Africa (Baghdad shown)",
+          "ar": "الشرق الأوسط وشمال أفريقيا (تظهر بغداد)",
+          "he": "המזרח התיכון וצפון אפריקה (בגדאד מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.3661,
@@ -2526,7 +3420,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2586,16 +3486,34 @@
         "en": "Per-country records with CBS numbers follow. Bachi notes that some communities (Iraq, Yemen, Libya) were transplanted almost in their entirety and that part of North African emigration went to France and other countries."
       },
       "contested_note": {
-        "en": "Scholars and advocates weigh 'push' and 'pull' differently. Bachi lists both: Zionist and religious motivation and Israel's open-door policy (pull) and riots, insecurity and anti-Jewish legislation (push). Advocates of a 'Jewish refugees' framing (e.g. Ya'akov Meron, as described by Shenhav) see an Arab policy of expulsion; classic Zionist accounts (described by Porath and Shenhav) stress the 'ingathering of the exiles' and Zionist organising; Arab accounts (as described by Porath) attribute the departures to Israeli action in collusion with Arab rulers. The balance differed from country to country."
+        "en": "Scholars and advocates weigh 'push' and 'pull' differently. Bachi lists both: Zionist and religious motivation and Israel's open-door policy (pull) and riots, insecurity and anti-Jewish legislation (push). Advocates of a 'Jewish refugees' framing (e.g. Ya'akov Meron, as described by Shenhav) see an Arab policy of expulsion; classic Zionist accounts (described by Porath and Shenhav) stress the 'ingathering of the exiles' and Zionist organising; Arab accounts (as described by Porath) attribute the departures to Israeli action in collusion with Arab rulers. The balance differed from country to country.",
+        "ar": "يوازن الباحثون والمدافعون بين عاملَي «الدفع» و«الجذب» على نحو مختلف. يذكر باخي كليهما: الدافع الصهيوني والديني وسياسة الباب المفتوح في إسرائيل (الجذب)، والشغب وانعدام الأمن والتشريعات المعادية لليهود (الدفع). ويرى المدافعون عن إطار «اللاجئين اليهود» (مثل يعقوب ميرون، كما يصفه شنهاف) سياسة عربية للطرد؛ بينما تشدد الروايات الصهيونية الكلاسيكية (كما يصفها بورات وشنهاف) على «تجميع المنفيين» والتنظيم الصهيوني؛ وتعزو الروايات العربية (كما يصفها بورات) المغادرة إلى عمل إسرائيلي بالتواطؤ مع الحكام العرب. وقد اختلف الميزان من بلد إلى آخر.",
+        "he": "חוקרים ומצדדים בעמדות שונות מעריכים את גורמי 'הדחיפה' ו'המשיכה' באופן שונה. בכי מונה את שניהם: מניע ציוני ודתי ומדיניות הדלת הפתוחה של ישראל (משיכה), ומהומות, חוסר ביטחון וחקיקה אנטי-יהודית (דחיפה). תומכי מסגור 'הפליטים היהודים' (למשל יעקב מירון, כפי שמתאר שנהב) רואים מדיניות ערבית של גירוש; התיאורים הציוניים הקלאסיים (כפי שמתארים פורת ושנהב) מדגישים את 'קיבוץ הגלויות' ואת הארגון הציוני; התיאורים הערביים (כפי שמתאר פורת) מייחסים את היציאות לפעולה ישראלית בשיתוף פעולה עם שליטים ערבים. האיזון היה שונה ממדינה למדינה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
       "id": "jewish-immigration-iraq",
       "name": {
-        "en": "Immigration of Iraqi Jews to Israel (mainly 1950-1951)"
+        "en": "Immigration of Iraqi Jews to Israel (mainly 1950-1951)",
+        "ar": "هجرة يهود العراق إلى إسرائيل (معظمها 1950-1951)",
+        "he": "עליית יהודי עיראק לישראל (בעיקר 1950–1951)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Iraq"
+        "en": "Jews of Iraq",
+        "ar": "يهود العراق",
+        "he": "יהודי עיראק",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2603,7 +3521,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Iraq (Baghdad)"
+          "en": "Iraq (Baghdad)",
+          "ar": "العراق (بغداد)",
+          "he": "עיראק (בגדאד)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.3661,
@@ -2613,7 +3537,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2661,10 +3591,22 @@
     {
       "id": "jewish-immigration-yemen",
       "name": {
-        "en": "Immigration of Yemenite Jews to Israel (1948-1951)"
+        "en": "Immigration of Yemenite Jews to Israel (1948-1951)",
+        "ar": "هجرة اليهود اليمنيين إلى إسرائيل (1948-1951)",
+        "he": "עליית יהודי תימן לישראל (1948–1951)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Yemen (incl. Aden)"
+        "en": "Jews of Yemen (incl. Aden)",
+        "ar": "يهود اليمن (بمن فيهم عدن)",
+        "he": "יהודי תימן (כולל עדן)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2672,7 +3614,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Yemen (Sanaa shown)"
+          "en": "Yemen (Sanaa shown)",
+          "ar": "اليمن (تظهر صنعاء)",
+          "he": "תימן (צנעא מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.2,
@@ -2682,7 +3630,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2725,10 +3679,22 @@
     {
       "id": "jewish-immigration-morocco",
       "name": {
-        "en": "Immigration of Moroccan Jews to Israel (1948-1970s)"
+        "en": "Immigration of Moroccan Jews to Israel (1948-1970s)",
+        "ar": "هجرة اليهود المغاربة إلى إسرائيل (1948-السبعينيات)",
+        "he": "עליית יהודי מרוקו לישראל (1948–שנות ה-70)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Morocco"
+        "en": "Jews of Morocco",
+        "ar": "يهود المغرب",
+        "he": "יהודי מרוקו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2736,7 +3702,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Morocco"
+          "en": "Morocco",
+          "ar": "المغرب",
+          "he": "מרוקו",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -6,
@@ -2746,7 +3718,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2784,10 +3762,22 @@
     {
       "id": "jewish-immigration-egypt",
       "name": {
-        "en": "Immigration of Egyptian (and Sudanese) Jews to Israel (1948-1960s)"
+        "en": "Immigration of Egyptian (and Sudanese) Jews to Israel (1948-1960s)",
+        "ar": "هجرة اليهود المصريين (والسودانيين) إلى إسرائيل (1948-الستينيات)",
+        "he": "עליית יהודי מצרים (וסודאן) לישראל (1948–שנות ה-60)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Egypt and Sudan"
+        "en": "Jews of Egypt and Sudan",
+        "ar": "يهود مصر والسودان",
+        "he": "יהודי מצרים וסודאן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2795,7 +3785,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Egypt"
+          "en": "Egypt",
+          "ar": "مصر",
+          "he": "מצרים",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           29,
@@ -2805,7 +3801,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2843,10 +3845,22 @@
     {
       "id": "jewish-immigration-syria",
       "name": {
-        "en": "Immigration of Syrian Jews to Israel (1948-1990s)"
+        "en": "Immigration of Syrian Jews to Israel (1948-1990s)",
+        "ar": "هجرة اليهود السوريين إلى إسرائيل (1948-التسعينيات)",
+        "he": "עליית יהודי סוריה לישראל (1948–שנות ה-90)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Syria"
+        "en": "Jews of Syria",
+        "ar": "يهود سوريا",
+        "he": "יהודי סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2857,7 +3871,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2895,10 +3915,22 @@
     {
       "id": "jewish-immigration-iran",
       "name": {
-        "en": "Immigration of Iranian Jews to Israel (1948-1990s)"
+        "en": "Immigration of Iranian Jews to Israel (1948-1990s)",
+        "ar": "هجرة اليهود الإيرانيين إلى إسرائيل (1948-التسعينيات)",
+        "he": "עליית יהודי איראן לישראל (1948–שנות ה-90)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Iran"
+        "en": "Jews of Iran",
+        "ar": "يهود إيران",
+        "he": "יהודי איראן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2906,7 +3938,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Iran"
+          "en": "Iran",
+          "ar": "إيران",
+          "he": "איראן",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           53,
@@ -2916,7 +3954,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -2954,10 +3998,22 @@
     {
       "id": "jewish-immigration-libya",
       "name": {
-        "en": "Immigration of Libyan Jews to Israel (mainly 1949-1951)"
+        "en": "Immigration of Libyan Jews to Israel (mainly 1949-1951)",
+        "ar": "هجرة اليهود الليبيين إلى إسرائيل (معظمها 1949-1951)",
+        "he": "עליית יהודי לוב לישראל (בעיקר 1949–1951)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Libya"
+        "en": "Jews of Libya",
+        "ar": "يهود ليبيا",
+        "he": "יהודי לוב",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -2965,7 +4021,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Libya"
+          "en": "Libya",
+          "ar": "ليبيا",
+          "he": "לוב",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           17,
@@ -2975,7 +4037,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3018,10 +4086,22 @@
     {
       "id": "jewish-immigration-tunisia",
       "name": {
-        "en": "Immigration of Tunisian Jews to Israel (1948-1970s)"
+        "en": "Immigration of Tunisian Jews to Israel (1948-1970s)",
+        "ar": "هجرة اليهود التونسيين إلى إسرائيل (1948-السبعينيات)",
+        "he": "עליית יהודי תוניסיה לישראל (1948–שנות ה-70)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews of Tunisia"
+        "en": "Jews of Tunisia",
+        "ar": "يهود تونس",
+        "he": "יהודי תוניסיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -3029,7 +4109,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Tunisia"
+          "en": "Tunisia",
+          "ar": "تونس",
+          "he": "תוניסיה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           10,
@@ -3039,7 +4125,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3077,10 +4169,22 @@
     {
       "id": "naksa-1967-west-bank",
       "name": {
-        "en": "1967 displacement from the West Bank to the East Bank (Naksa)"
+        "en": "1967 displacement from the West Bank to the East Bank (Naksa)",
+        "ar": "تهجير 1967 من الضفة الغربية إلى الضفة الشرقية (النكسة)",
+        "he": "עקירת 1967 מהגדה המערבית לגדה המזרחית (הנכסה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinians of the West Bank, incl. 1948 refugees displaced a second time"
+        "en": "Palestinians of the West Bank, incl. 1948 refugees displaced a second time",
+        "ar": "فلسطينيو الضفة الغربية، ومنهم لاجئو 1948 الذين هُجِّروا مرة ثانية",
+        "he": "פלסטינים מהגדה המערבית, כולל פליטי 1948 שנעקרו בפעם השנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -3088,12 +4192,24 @@
       ],
       "alt_names": [
         {
-          "en": "Naksa (Setback)"
+          "en": "Naksa (Setback)",
+          "ar": "النكسة",
+          "he": "הנכסה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         }
       ],
       "origin": {
         "label": {
-          "en": "West Bank"
+          "en": "West Bank",
+          "ar": "الضفة الغربية",
+          "he": "הגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -3152,7 +4268,13 @@
         "en": "UN estimate about 200,000 (para. 40 and 159). Jordan's registration of 177,165 was said to cover about 70 per cent, which implies roughly 250,000 (a derived figure, used as 'high'). The report also records Jordanian complaints that villages in the Latrun area and at Beit Awa and Beit Mersim were levelled and that Qalqiliya was heavily damaged. Casualty figures are deliberately not recorded."
       },
       "contested_note": {
-        "en": "Causes are disputed: Jordan complained of expulsions and intimidation; Israel stated that no encouragement was given to flee. The UN Special Representative (Gussing) found no specific reports of people being physically forced across, but persistent reports of intimidation, and concluded that the truth lay between the two positions, with fear of hostilities and occupation a main factor."
+        "en": "Causes are disputed: Jordan complained of expulsions and intimidation; Israel stated that no encouragement was given to flee. The UN Special Representative (Gussing) found no specific reports of people being physically forced across, but persistent reports of intimidation, and concluded that the truth lay between the two positions, with fear of hostilities and occupation a main factor.",
+        "ar": "الأسباب محل خلاف: اشتكى الأردن من عمليات طرد وترهيب؛ وذكرت إسرائيل أنه لم يُقدَّم أي تشجيع على الفرار. ولم يجد الممثل الخاص للأمم المتحدة (غوسينغ) تقارير محددة عن أشخاص أُجبروا فعليًا على العبور، لكنه وجد تقارير مستمرة عن الترهيب، وخلص إلى أن الحقيقة تقع بين الموقفين، وأن الخوف من الأعمال القتالية ومن الاحتلال كان عاملًا رئيسيًا.",
+        "he": "הסיבות שנויות במחלוקת: ירדן התלוננה על גירושים והפחדה; ישראל הצהירה שלא ניתן עידוד לברוח. הנציג המיוחד של האו״ם (גוסינג) לא מצא דיווחים ספציפיים על אנשים שהועברו בכוח לעבר השני, אך מצא דיווחים מתמשכים על הפחדה, והסיק שהאמת נמצאת בין שתי העמדות, כשהפחד מפני פעולות איבה ומפני כיבוש הוא גורם עיקרי.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 200000,
@@ -3163,10 +4285,22 @@
     {
       "id": "golan-1967-displacement",
       "name": {
-        "en": "Displacement of the Syrian population of the Golan (1967)"
+        "en": "Displacement of the Syrian population of the Golan (1967)",
+        "ar": "تهجير السكان السوريين من الجولان (1967)",
+        "he": "עקירת האוכלוסייה הסורית מהגולן (1967)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Syrian inhabitants of the Golan, incl. Palestinian refugees"
+        "en": "Syrian inhabitants of the Golan, incl. Palestinian refugees",
+        "ar": "سكان الجولان السوريون، ومنهم لاجئون فلسطينيون",
+        "he": "תושבי הגולן הסורים, כולל פליטים פלסטינים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight"
@@ -3205,7 +4339,13 @@
         "en": "Displaced persons went mainly to the Damascus and Deraa areas (para. 159). The original population was about 115,000 according to Syrian sources and 90,000 according to Israeli sources (para. 14)."
       },
       "contested_note": {
-        "en": "The number differs between Syrian (about 110,000) and Israeli (not more than 85,000) sources as reported by the UN. The type follows the UN wording (persons who had fled); whether departures were flight or expulsion is disputed in other literature, which was not consulted for this record."
+        "en": "The number differs between Syrian (about 110,000) and Israeli (not more than 85,000) sources as reported by the UN. The type follows the UN wording (persons who had fled); whether departures were flight or expulsion is disputed in other literature, which was not consulted for this record.",
+        "ar": "يختلف العدد بين المصادر السورية (نحو 110,000) والإسرائيلية (لا يزيد على 85,000) كما أوردتها الأمم المتحدة. ويتبع النوع صياغة الأمم المتحدة (أشخاص فرّوا)؛ أما ما إذا كانت المغادرة فرارًا أو طردًا فمحل خلاف في أدبيات أخرى لم يُرجع إليها في هذا السجل.",
+        "he": "המספר שונה בין מקורות סוריים (כ-110,000) לישראליים (לא יותר מ-85,000) כפי שדווח באו״ם. הסוג עוקב אחר ניסוח האו״ם (אנשים שנמלטו); האם היציאות היו בריחה או גירוש שנוי במחלוקת בספרות אחרת, שלא נבדקה לצורך רשומה זו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "numbers": {
         "low": 85000,
@@ -3215,17 +4355,35 @@
     {
       "id": "gaza-sinai-1967-displacement",
       "name": {
-        "en": "Displacement from the Gaza Strip and Sinai across the Suez Canal (1967)"
+        "en": "Displacement from the Gaza Strip and Sinai across the Suez Canal (1967)",
+        "ar": "التهجير من قطاع غزة وسيناء عبر قناة السويس (1967)",
+        "he": "עקירה מרצועת עזה ומסיני מעבר לתעלת סואץ (1967)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Residents of the Gaza Strip and Sinai"
+        "en": "Residents of the Gaza Strip and Sinai",
+        "ar": "سكان قطاع غزة وسيناء",
+        "he": "תושבי רצועת עזה וסיני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight"
       ],
       "origin": {
         "label": {
-          "en": "Gaza Strip and Sinai (Sinai shown)"
+          "en": "Gaza Strip and Sinai (Sinai shown)",
+          "ar": "قطاع غزة وسيناء (تظهر سيناء)",
+          "he": "רצועת עזה וסיני (סיני מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34,
@@ -3235,7 +4393,13 @@
       },
       "destination": {
         "label": {
-          "en": "Egypt west of the Suez Canal"
+          "en": "Egypt west of the Suez Canal",
+          "ar": "مصر غرب قناة السويس",
+          "he": "מצרים ממערב לתעלת סואץ",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           29,
@@ -3274,10 +4438,22 @@
     {
       "id": "west-bank-returns-1967",
       "name": {
-        "en": "Return of some 1967 displaced persons to the West Bank (August-September 1967)"
+        "en": "Return of some 1967 displaced persons to the West Bank (August-September 1967)",
+        "ar": "عودة بعض المهجَّرين عام 1967 إلى الضفة الغربية (آب/أغسطس-أيلول/سبتمبر 1967)",
+        "he": "שיבת חלק מהעקורים של 1967 לגדה המערבית (אוגוסט–ספטמבר 1967)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "West Bank residents displaced to the East Bank"
+        "en": "West Bank residents displaced to the East Bank",
+        "ar": "سكان الضفة الغربية المهجَّرون إلى الضفة الشرقية",
+        "he": "תושבי הגדה המערבית שנעקרו לגדה המזרחית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "return"
@@ -3287,7 +4463,13 @@
       },
       "destination": {
         "label": {
-          "en": "West Bank"
+          "en": "West Bank",
+          "ar": "الضفة الغربية",
+          "he": "הגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -3332,17 +4514,35 @@
     {
       "id": "west-bank-settlement",
       "name": {
-        "en": "Israeli settlement in the West Bank (excluding East Jerusalem), since 1967"
+        "en": "Israeli settlement in the West Bank (excluding East Jerusalem), since 1967",
+        "ar": "الاستيطان الإسرائيلي في الضفة الغربية (باستثناء القدس الشرقية)، منذ 1967",
+        "he": "ההתנחלות הישראלית בגדה המערבית (למעט מזרח ירושלים), מאז 1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli citizens (Jewish settlers)"
+        "en": "Israeli citizens (Jewish settlers)",
+        "ar": "مواطنون إسرائيليون (مستوطنون يهود)",
+        "he": "אזרחים ישראלים (מתנחלים יהודים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "settlement"
       ],
       "origin": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3352,7 +4552,13 @@
       },
       "destination": {
         "label": {
-          "en": "West Bank"
+          "en": "West Bank",
+          "ar": "الضفة الغربية",
+          "he": "הגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -3394,17 +4600,35 @@
     {
       "id": "east-jerusalem-settlement",
       "name": {
-        "en": "Israeli residential neighbourhoods/settlements in East Jerusalem, since 1967"
+        "en": "Israeli residential neighbourhoods/settlements in East Jerusalem, since 1967",
+        "ar": "أحياء/مستوطنات سكنية إسرائيلية في القدس الشرقية، منذ 1967",
+        "he": "שכונות/התנחלויות מגורים ישראליות במזרח ירושלים, מאז 1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli citizens (Jewish residents)"
+        "en": "Israeli citizens (Jewish residents)",
+        "ar": "مواطنون إسرائيليون (سكان يهود)",
+        "he": "אזרחים ישראלים (תושבים יהודים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "settlement"
       ],
       "origin": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3445,17 +4669,35 @@
     {
       "id": "gaza-settlement-1970s-2005",
       "name": {
-        "en": "Israeli settlement in the Gaza Strip (1970s-2005)"
+        "en": "Israeli settlement in the Gaza Strip (1970s-2005)",
+        "ar": "الاستيطان الإسرائيلي في قطاع غزة (السبعينيات-2005)",
+        "he": "ההתנחלות הישראלית ברצועת עזה (שנות ה-70–2005)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli citizens (Jewish settlers)"
+        "en": "Israeli citizens (Jewish settlers)",
+        "ar": "مواطنون إسرائيليون (مستوطنون يهود)",
+        "he": "אזרחים ישראלים (מתנחלים יהודים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "settlement"
       ],
       "origin": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3465,7 +4707,13 @@
       },
       "destination": {
         "label": {
-          "en": "Gaza Strip (Gush Katif area)"
+          "en": "Gaza Strip (Gush Katif area)",
+          "ar": "قطاع غزة (منطقة غوش قطيف)",
+          "he": "רצועת עזה (אזור גוש קטיף)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -3507,17 +4755,35 @@
     {
       "id": "gaza-disengagement-2005",
       "name": {
-        "en": "Evacuation of Israeli settlements in the Gaza Strip and northern Samaria (August 2005)"
+        "en": "Evacuation of Israeli settlements in the Gaza Strip and northern Samaria (August 2005)",
+        "ar": "إخلاء المستوطنات الإسرائيلية في قطاع غزة وشمال السامرة (آب/أغسطس 2005)",
+        "he": "פינוי ההתנחלויות הישראליות ברצועת עזה ובצפון השומרון (אוגוסט 2005)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli settlers"
+        "en": "Israeli settlers",
+        "ar": "مستوطنون إسرائيليون",
+        "he": "מתנחלים ישראלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "resettlement"
       ],
       "origin": {
         "label": {
-          "en": "Gaza Strip"
+          "en": "Gaza Strip",
+          "ar": "قطاع غزة",
+          "he": "רצועת עזה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -3527,7 +4793,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3569,17 +4841,35 @@
     {
       "id": "golan-settlement",
       "name": {
-        "en": "Israeli settlement in the Golan Heights, since 1967"
+        "en": "Israeli settlement in the Golan Heights, since 1967",
+        "ar": "الاستيطان الإسرائيلي في هضبة الجولان، منذ 1967",
+        "he": "ההתנחלות הישראלית ברמת הגולן, מאז 1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli citizens (Jewish settlers)"
+        "en": "Israeli citizens (Jewish settlers)",
+        "ar": "مواطنون إسرائيليون (مستوطنون يهود)",
+        "he": "אזרחים ישראלים (מתנחלים יהודים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "settlement"
       ],
       "origin": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3589,7 +4879,13 @@
       },
       "destination": {
         "label": {
-          "en": "Golan Heights"
+          "en": "Golan Heights",
+          "ar": "هضبة الجولان",
+          "he": "רמת הגולן",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.75,
@@ -3626,10 +4922,22 @@
     {
       "id": "sinai-settlement-1967-1982",
       "name": {
-        "en": "Israeli settlement in Sinai and its removal under the Egypt-Israel peace treaty (1967-1982)"
+        "en": "Israeli settlement in Sinai and its removal under the Egypt-Israel peace treaty (1967-1982)",
+        "ar": "الاستيطان الإسرائيلي في سيناء وإزالته بموجب معاهدة السلام المصرية-الإسرائيلية (1967-1982)",
+        "he": "ההתנחלות הישראלית בסיני ופינויה במסגרת הסכם השלום בין מצרים וישראל (1967–1982)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Israeli civilians in Sinai"
+        "en": "Israeli civilians in Sinai",
+        "ar": "مدنيون إسرائيليون في سيناء",
+        "he": "אזרחים ישראלים בסיני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "settlement",
@@ -3637,7 +4945,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3647,7 +4961,13 @@
       },
       "destination": {
         "label": {
-          "en": "Sinai Peninsula"
+          "en": "Sinai Peninsula",
+          "ar": "شبه جزيرة سيناء",
+          "he": "חצי האי סיני",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34,
@@ -3688,17 +5008,35 @@
     {
       "id": "soviet-immigration-1970s",
       "name": {
-        "en": "Jewish immigration from the USSR in the 1970s"
+        "en": "Jewish immigration from the USSR in the 1970s",
+        "ar": "الهجرة اليهودية من الاتحاد السوفييتي في السبعينيات",
+        "he": "העלייה היהודית מברית המועצות בשנות ה-70",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Soviet Jews"
+        "en": "Soviet Jews",
+        "ar": "اليهود السوفييت",
+        "he": "יהודי ברית המועצות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "USSR (Moscow shown)"
+          "en": "USSR (Moscow shown)",
+          "ar": "الاتحاد السوفييتي (تظهر موسكو)",
+          "he": "ברית המועצות (מוסקבה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           37.6175,
@@ -3708,7 +5046,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3748,17 +5092,35 @@
     {
       "id": "post-soviet-immigration-1989-2000s",
       "name": {
-        "en": "Mass immigration from the former Soviet Union (1989-2000s)"
+        "en": "Mass immigration from the former Soviet Union (1989-2000s)",
+        "ar": "الهجرة الجماعية من الاتحاد السوفييتي السابق (1989-العقد الأول من الألفية)",
+        "he": "העלייה ההמונית מברית המועצות לשעבר (1989–שנות ה-2000)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Jews and family members eligible under the Law of Return from the USSR and successor states"
+        "en": "Jews and family members eligible under the Law of Return from the USSR and successor states",
+        "ar": "يهود وأفراد أسرهم المؤهلون بموجب قانون العودة من الاتحاد السوفييتي والدول الخلف",
+        "he": "יהודים ובני משפחותיהם הזכאים לפי חוק השבות מברית המועצות וממדינות היורשות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Former Soviet Union (Moscow shown)"
+          "en": "Former Soviet Union (Moscow shown)",
+          "ar": "الاتحاد السوفييتي السابق (تظهر موسكو)",
+          "he": "ברית המועצות לשעבר (מוסקבה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           37.6175,
@@ -3768,7 +5130,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3805,10 +5173,22 @@
     {
       "id": "ethiopian-operation-moses",
       "name": {
-        "en": "Operation Moses: airlift of Ethiopian Jews from Sudan (1984-1985)"
+        "en": "Operation Moses: airlift of Ethiopian Jews from Sudan (1984-1985)",
+        "ar": "عملية موسى: نقل جوي ليهود إثيوبيا من السودان (1984-1985)",
+        "he": "מבצע משה: גשר אווירי של יהודי אתיופיה מסודאן (1984–1985)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Beta Israel (Ethiopian Jews)"
+        "en": "Beta Israel (Ethiopian Jews)",
+        "ar": "بيتا إسرائيل (يهود إثيوبيا)",
+        "he": "בית ישראל (יהודי אתיופיה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration",
@@ -3816,7 +5196,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Refugee camps in Sudan (Sudan shown)"
+          "en": "Refugee camps in Sudan (Sudan shown)",
+          "ar": "مخيمات اللاجئين في السودان (يظهر السودان)",
+          "he": "מחנות פליטים בסודאן (סודאן מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           32,
@@ -3826,7 +5212,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3878,17 +5270,35 @@
     {
       "id": "ethiopian-operation-solomon",
       "name": {
-        "en": "Operation Solomon: airlift of Ethiopian Jews from Addis Ababa (24-25 May 1991)"
+        "en": "Operation Solomon: airlift of Ethiopian Jews from Addis Ababa (24-25 May 1991)",
+        "ar": "عملية سليمان: نقل جوي ليهود إثيوبيا من أديس أبابا (24-25 أيار/مايو 1991)",
+        "he": "מבצע שלמה: גשר אווירי של יהודי אתיופיה מאדיס אבבה (24–25 במאי 1991)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Beta Israel (Ethiopian Jews)"
+        "en": "Beta Israel (Ethiopian Jews)",
+        "ar": "بيتا إسرائيل (يهود إثيوبيا)",
+        "he": "בית ישראל (יהודי אתיופיה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "immigration"
       ],
       "origin": {
         "label": {
-          "en": "Addis Ababa"
+          "en": "Addis Ababa",
+          "ar": "أديس أبابا",
+          "he": "אדיס אבבה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.7525,
@@ -3898,7 +5308,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -3942,10 +5358,22 @@
     {
       "id": "palestinians-kuwait-1990-1991",
       "name": {
-        "en": "Departure of Palestinians from Kuwait during and after the 1990-91 Gulf crisis"
+        "en": "Departure of Palestinians from Kuwait during and after the 1990-91 Gulf crisis",
+        "ar": "رحيل الفلسطينيين من الكويت أثناء أزمة الخليج 1990-1991 وبعدها",
+        "he": "עזיבת פלסטינים את כווית במהלך משבר המפרץ 1990–1991 ואחריו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinians resident in Kuwait"
+        "en": "Palestinians resident in Kuwait",
+        "ar": "الفلسطينيون المقيمون في الكويت",
+        "he": "פלסטינים תושבי כווית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -3954,7 +5382,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Kuwait"
+          "en": "Kuwait",
+          "ar": "الكويت",
+          "he": "כווית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           47.6,
@@ -4008,17 +5442,35 @@
     {
       "id": "palestinian-workers-israel-settlements",
       "name": {
-        "en": "Palestinian workers commuting to jobs in Israel and Israeli settlements (2021 snapshot; permits revoked October 2023)"
+        "en": "Palestinian workers commuting to jobs in Israel and Israeli settlements (2021 snapshot; permits revoked October 2023)",
+        "ar": "العمال الفلسطينيون الذين يتنقلون للعمل في إسرائيل وفي المستوطنات الإسرائيلية (لقطة عام 2021؛ أُلغيت التصاريح في تشرين الأول/أكتوبر 2023)",
+        "he": "פועלים פלסטינים הנוסעים לעבודה בישראל ובהתנחלויות ישראליות (תמונת מצב 2021; ההיתרים בוטלו באוקטובר 2023)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian workers from the West Bank (and, until October 2023, Gaza)"
+        "en": "Palestinian workers from the West Bank (and, until October 2023, Gaza)",
+        "ar": "عمال فلسطينيون من الضفة الغربية (ومن غزة حتى تشرين الأول/أكتوبر 2023)",
+        "he": "פועלים פלסטינים מהגדה המערבית (ומעזה עד אוקטובר 2023)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "labour-migration"
       ],
       "origin": {
         "label": {
-          "en": "West Bank"
+          "en": "West Bank",
+          "ar": "الضفة الغربية",
+          "he": "הגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -4028,7 +5480,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -4072,17 +5530,35 @@
     {
       "id": "foreign-workers-israel",
       "name": {
-        "en": "Foreign (migrant) workers in Israel (2024 snapshot)"
+        "en": "Foreign (migrant) workers in Israel (2024 snapshot)",
+        "ar": "العمال الأجانب (المهاجرون) في إسرائيل (لقطة عام 2024)",
+        "he": "עובדים זרים (מהגרי עבודה) בישראל (תמונת מצב 2024)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Migrant workers from India, Thailand, China, the Philippines, Uzbekistan, Moldova, Sri Lanka and elsewhere"
+        "en": "Migrant workers from India, Thailand, China, the Philippines, Uzbekistan, Moldova, Sri Lanka and elsewhere",
+        "ar": "عمال مهاجرون من الهند وتايلاند والصين والفلبين وأوزبكستان ومولدوفا وسريلانكا وغيرها",
+        "he": "מהגרי עבודה מהודו, מתאילנד, מסין, מהפיליפינים, מאוזבקיסטן, ממולדובה, מסרי לנקה ומקומות אחרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "labour-migration"
       ],
       "origin": {
         "label": {
-          "en": "Asia and Eastern Europe (India shown)"
+          "en": "Asia and Eastern Europe (India shown)",
+          "ar": "آسيا وأوروبا الشرقية (تظهر الهند)",
+          "he": "אסיה ומזרח אירופה (הודו מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           83,
@@ -4092,7 +5568,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -4103,7 +5585,13 @@
       "origins": [
         {
           "label": {
-            "en": "India"
+            "en": "India",
+            "ar": "الهند",
+            "he": "הודו",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             83,
@@ -4113,7 +5601,13 @@
         },
         {
           "label": {
-            "en": "Thailand"
+            "en": "Thailand",
+            "ar": "تايلاند",
+            "he": "תאילנד",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             101,
@@ -4123,7 +5617,13 @@
         },
         {
           "label": {
-            "en": "China"
+            "en": "China",
+            "ar": "الصين",
+            "he": "סין",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             103.4519,
@@ -4133,7 +5633,13 @@
         },
         {
           "label": {
-            "en": "Philippines"
+            "en": "Philippines",
+            "ar": "الفلبين",
+            "he": "הפיליפינים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "coords": [
             123,
@@ -4170,17 +5676,35 @@
     {
       "id": "african-asylum-seekers-israel",
       "name": {
-        "en": "Eritrean and Sudanese irregular migrants / asylum seekers in Israel (2024 snapshot)"
+        "en": "Eritrean and Sudanese irregular migrants / asylum seekers in Israel (2024 snapshot)",
+        "ar": "مهاجرون غير نظاميين / طالبو لجوء إريتريون وسودانيون في إسرائيل (لقطة عام 2024)",
+        "he": "מהגרים בלתי סדירים / מבקשי מקלט אריתראים וסודאנים בישראל (תמונת מצב 2024)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Mainly Eritreans and Sudanese"
+        "en": "Mainly Eritreans and Sudanese",
+        "ar": "معظمهم إريتريون وسودانيون",
+        "he": "בעיקר אריתראים וסודאנים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "other"
       ],
       "origin": {
         "label": {
-          "en": "Eritrea (and Sudan), via Sinai"
+          "en": "Eritrea (and Sudan), via Sinai",
+          "ar": "إريتريا (والسودان)، عبر سيناء",
+          "he": "אריתריאה (וסודאן), דרך סיני",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.25,
@@ -4190,7 +5714,13 @@
       },
       "destination": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.78,
@@ -4226,17 +5756,35 @@
     {
       "id": "gaza-internal-displacement-2023",
       "name": {
-        "en": "Internal displacement in the Gaza Strip since October 2023"
+        "en": "Internal displacement in the Gaza Strip since October 2023",
+        "ar": "النزوح الداخلي في قطاع غزة منذ تشرين الأول/أكتوبر 2023",
+        "he": "עקירה פנימית ברצועת עזה מאז אוקטובר 2023",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Residents of the Gaza Strip"
+        "en": "Residents of the Gaza Strip",
+        "ar": "سكان قطاع غزة",
+        "he": "תושבי רצועת עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
       ],
       "origin": {
         "label": {
-          "en": "Gaza Strip (north and Gaza City)"
+          "en": "Gaza Strip (north and Gaza City)",
+          "ar": "قطاع غزة (الشمال ومدينة غزة)",
+          "he": "רצועת עזה (הצפון ועיר עזה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -4297,10 +5845,22 @@
     {
       "id": "gaza-departures-2023-2025",
       "name": {
-        "en": "Departures from the Gaza Strip since October 2023"
+        "en": "Departures from the Gaza Strip since October 2023",
+        "ar": "المغادرة من قطاع غزة منذ تشرين الأول/أكتوبر 2023",
+        "he": "יציאות מרצועת עזה מאז אוקטובר 2023",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Residents of the Gaza Strip"
+        "en": "Residents of the Gaza Strip",
+        "ar": "سكان قطاع غزة",
+        "he": "תושבי רצועת עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "refugee-flight",
@@ -4308,7 +5868,13 @@
       ],
       "origin": {
         "label": {
-          "en": "Gaza Strip"
+          "en": "Gaza Strip",
+          "ar": "قطاع غزة",
+          "he": "רצועת עזה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -4318,7 +5884,13 @@
       },
       "destination": {
         "label": {
-          "en": "Egypt and other countries (Egypt shown)"
+          "en": "Egypt and other countries (Egypt shown)",
+          "ar": "مصر وبلدان أخرى (تظهر مصر)",
+          "he": "מצרים ומדינות אחרות (מצרים מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           29,
@@ -4357,10 +5929,22 @@
     {
       "id": "west-bank-northern-camps-2025",
       "name": {
-        "en": "Displacement from Jenin, Tulkarm and Nur Shams refugee camps by Israeli military operations (2025-)"
+        "en": "Displacement from Jenin, Tulkarm and Nur Shams refugee camps by Israeli military operations (2025-)",
+        "ar": "النزوح من مخيمات اللاجئين في جنين وطولكرم ونور شمس بسبب العمليات العسكرية الإسرائيلية (2025-)",
+        "he": "עקירה ממחנות הפליטים ג׳נין, טול כרם ונור א-שמס בעקבות מבצעים צבאיים ישראליים (2025–)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinians, mostly registered Palestine refugees, in the northern West Bank"
+        "en": "Palestinians, mostly registered Palestine refugees, in the northern West Bank",
+        "ar": "فلسطينيون، معظمهم لاجئون فلسطينيون مسجَّلون، في شمال الضفة الغربية",
+        "he": "פלסטינים, רובם פליטים פלסטינים רשומים, בצפון הגדה המערבית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
@@ -4370,7 +5954,13 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in the northern West Bank"
+          "en": "Elsewhere in the northern West Bank",
+          "ar": "أماكن أخرى في شمال الضفة الغربية",
+          "he": "מקומות אחרים בצפון הגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -4409,10 +5999,22 @@
     {
       "id": "west-bank-demolitions-settler-violence-2023-2026",
       "name": {
-        "en": "Displacement in the West Bank by demolitions, settler violence and access restrictions (since October 2023)"
+        "en": "Displacement in the West Bank by demolitions, settler violence and access restrictions (since October 2023)",
+        "ar": "النزوح في الضفة الغربية بسبب عمليات الهدم وعنف المستوطنين وقيود الوصول (منذ تشرين الأول/أكتوبر 2023)",
+        "he": "עקירה בגדה המערבית בגלל הריסות, אלימות מתנחלים והגבלות גישה (מאז אוקטובר 2023)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Palestinian communities in Area C and East Jerusalem, incl. Bedouin and herding communities"
+        "en": "Palestinian communities in Area C and East Jerusalem, incl. Bedouin and herding communities",
+        "ar": "تجمعات فلسطينية في المنطقة (ج) والقدس الشرقية، ومنها تجمعات البدو والرعاة",
+        "he": "קהילות פלסטיניות בשטח C ובמזרח ירושלים, כולל קהילות בדואים ורועים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement",
@@ -4423,7 +6025,13 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in the West Bank"
+          "en": "Elsewhere in the West Bank",
+          "ar": "أماكن أخرى في الضفة الغربية",
+          "he": "מקומות אחרים בגדה המערבית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -4467,17 +6075,35 @@
     {
       "id": "israeli-evacuation-gaza-border-2023",
       "name": {
-        "en": "Evacuation of Israeli communities near the Gaza Strip (October 2023)"
+        "en": "Evacuation of Israeli communities near the Gaza Strip (October 2023)",
+        "ar": "إخلاء التجمعات الإسرائيلية القريبة من قطاع غزة (تشرين الأول/أكتوبر 2023)",
+        "he": "פינוי היישובים הישראליים הסמוכים לרצועת עזה (אוקטובר 2023)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Residents of Israeli communities bordering Gaza"
+        "en": "Residents of Israeli communities bordering Gaza",
+        "ar": "سكان التجمعات الإسرائيلية المحاذية لغزة",
+        "he": "תושבי היישובים הישראליים הגובלים בעזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
       ],
       "origin": {
         "label": {
-          "en": "Israeli communities near the Gaza Strip (Sderot shown)"
+          "en": "Israeli communities near the Gaza Strip (Sderot shown)",
+          "ar": "التجمعات الإسرائيلية القريبة من قطاع غزة (تظهر سديروت)",
+          "he": "יישובים ישראליים סמוכים לרצועת עזה (שדרות מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.5969,
@@ -4487,7 +6113,13 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in Israel (hotels, temporary housing, relatives)"
+          "en": "Elsewhere in Israel (hotels, temporary housing, relatives)",
+          "ar": "أماكن أخرى في إسرائيل (فنادق ومساكن مؤقتة وأقارب)",
+          "he": "מקומות אחרים בישראל (בתי מלון, דיור זמני, קרובי משפחה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -4531,17 +6163,35 @@
     {
       "id": "israeli-evacuation-north-2023",
       "name": {
-        "en": "Evacuation of Israeli communities near the Lebanese border (from October 2023)"
+        "en": "Evacuation of Israeli communities near the Lebanese border (from October 2023)",
+        "ar": "إخلاء التجمعات الإسرائيلية القريبة من الحدود اللبنانية (منذ تشرين الأول/أكتوبر 2023)",
+        "he": "פינוי היישובים הישראליים הסמוכים לגבול לבנון (מאז אוקטובר 2023)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "group": {
-        "en": "Residents of northern Israeli communities within about 2 km of the Blue Line"
+        "en": "Residents of northern Israeli communities within about 2 km of the Blue Line",
+        "ar": "سكان التجمعات الإسرائيلية الشمالية الواقعة ضمن نحو 2 كم من الخط الأزرق",
+        "he": "תושבי יישובים ישראליים בצפון בטווח של כ-2 ק״מ מהקו הכחול",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "types": [
         "internal-displacement"
       ],
       "origin": {
         "label": {
-          "en": "Northern Israeli communities near the Lebanese border (Kiryat Shmona shown)"
+          "en": "Northern Israeli communities near the Lebanese border (Kiryat Shmona shown)",
+          "ar": "التجمعات الإسرائيلية الشمالية القريبة من الحدود اللبنانية (تظهر كريات شمونة)",
+          "he": "יישובים ישראליים בצפון הסמוכים לגבול לבנון (קריית שמונה מוצגת)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.5697,
@@ -4551,7 +6201,13 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in Israel (hotels, temporary housing, relatives)"
+          "en": "Elsewhere in Israel (hotels, temporary housing, relatives)",
+          "ar": "أماكن أخرى في إسرائيل (فنادق ومساكن مؤقتة وأقارب)",
+          "he": "מקומות אחרים בישראל (בתי מלון, דיור זמני, קרובי משפחה)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -4603,7 +6259,13 @@
       "id": "jewish-israel-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4611,7 +6273,13 @@
       },
       "location": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -4639,7 +6307,13 @@
       "id": "jewish-united-states-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4647,7 +6321,13 @@
       },
       "location": {
         "label": {
-          "en": "United States"
+          "en": "United States",
+          "ar": "الولايات المتحدة",
+          "he": "ארצות הברית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -98.5795,
@@ -4675,7 +6355,13 @@
       "id": "jewish-france-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4683,7 +6369,13 @@
       },
       "location": {
         "label": {
-          "en": "France"
+          "en": "France",
+          "ar": "فرنسا",
+          "he": "צרפת",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           2,
@@ -4711,7 +6403,13 @@
       "id": "jewish-canada-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4719,7 +6417,13 @@
       },
       "location": {
         "label": {
-          "en": "Canada"
+          "en": "Canada",
+          "ar": "كندا",
+          "he": "קנדה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -109,
@@ -4747,7 +6451,13 @@
       "id": "jewish-united-kingdom-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4755,7 +6465,13 @@
       },
       "location": {
         "label": {
-          "en": "United Kingdom"
+          "en": "United Kingdom",
+          "ar": "المملكة المتحدة",
+          "he": "הממלכה המאוחדת",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -2,
@@ -4783,7 +6499,13 @@
       "id": "jewish-argentina-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4791,7 +6513,13 @@
       },
       "location": {
         "label": {
-          "en": "Argentina"
+          "en": "Argentina",
+          "ar": "الأرجنتين",
+          "he": "ארגנטינה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           -64,
@@ -4819,7 +6547,13 @@
       "id": "jewish-germany-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4827,7 +6561,13 @@
       },
       "location": {
         "label": {
-          "en": "Germany"
+          "en": "Germany",
+          "ar": "ألمانيا",
+          "he": "גרמניה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           10,
@@ -4855,7 +6595,13 @@
       "id": "jewish-russia-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4863,7 +6609,13 @@
       },
       "location": {
         "label": {
-          "en": "Russia"
+          "en": "Russia",
+          "ar": "روسيا",
+          "he": "רוסיה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           94.25,
@@ -4891,7 +6643,13 @@
       "id": "jewish-australia-2024",
       "group": "jewish",
       "definition": {
-        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)"
+        "en": "'Core' Jewish population (people who identify as Jews and do not profess another religion, or of Jewish parentage with no other religious or ethnic identity)",
+        "ar": "السكان اليهود «الأساسيون» (الأشخاص الذين يعرّفون أنفسهم يهودًا ولا يعتنقون دينًا آخر، أو المنحدرون من أصل يهودي دون هوية دينية أو إثنية أخرى)",
+        "he": "האוכלוסייה היהודית ה״ליבה״ (אנשים המגדירים עצמם יהודים ואינם מצהירים על דת אחרת, או בני הורים יהודים ללא זהות דתית או אתנית אחרת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -4899,7 +6657,13 @@
       },
       "location": {
         "label": {
-          "en": "Australia"
+          "en": "Australia",
+          "ar": "أستراليا",
+          "he": "אוסטרליה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           133,
@@ -4927,7 +6691,13 @@
       "id": "jewish-palestine-1882",
       "group": "jewish",
       "definition": {
-        "en": "Jews in the Land of Israel / Palestine"
+        "en": "Jews in the Land of Israel / Palestine",
+        "ar": "اليهود في أرض إسرائيل / فلسطين",
+        "he": "יהודים בארץ ישראל / פלשתינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1882,
@@ -4935,7 +6705,13 @@
       },
       "location": {
         "label": {
-          "en": "Palestine (Land of Israel)"
+          "en": "Palestine (Land of Israel)",
+          "ar": "فلسطين (أرض إسرائيل)",
+          "he": "פלשתינה (ארץ ישראל)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.1453,
@@ -4963,7 +6739,13 @@
       "id": "jewish-palestine-1939",
       "group": "jewish",
       "definition": {
-        "en": "Jews in Mandatory Palestine"
+        "en": "Jews in Mandatory Palestine",
+        "ar": "اليهود في فلسطين الانتدابية",
+        "he": "יהודים בפלשתינה המנדטורית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1939,
@@ -4971,7 +6753,13 @@
       },
       "location": {
         "label": {
-          "en": "Mandatory Palestine"
+          "en": "Mandatory Palestine",
+          "ar": "فلسطين الانتدابية",
+          "he": "פלשתינה המנדטורית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.2367,
@@ -4999,7 +6787,13 @@
       "id": "jewish-israel-1948",
       "group": "jewish",
       "definition": {
-        "en": "Jews in Israel at independence"
+        "en": "Jews in Israel at independence",
+        "ar": "اليهود في إسرائيل عند الاستقلال",
+        "he": "יהודים בישראל בעת העצמאות",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1948,
@@ -5009,7 +6803,13 @@
       },
       "location": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -5042,7 +6842,13 @@
       "id": "unrwa-jordan-1951",
       "group": "palestinian",
       "definition": {
-        "en": "Persons on UNRWA relief rolls (Palestine refugees), Jordan incl. the West Bank"
+        "en": "Persons on UNRWA relief rolls (Palestine refugees), Jordan incl. the West Bank",
+        "ar": "الأشخاص المسجلون في قوائم الإغاثة التابعة للأونروا (لاجئو فلسطين)، الأردن بما في ذلك الضفة الغربية",
+        "he": "אנשים ברשימות הסיוע של אונר״א (פליטים פלסטינים), ירדן כולל הגדה המערבית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1951,
@@ -5051,7 +6857,13 @@
       },
       "location": {
         "label": {
-          "en": "Jordan (incl. West Bank)"
+          "en": "Jordan (incl. West Bank)",
+          "ar": "الأردن (بما في ذلك الضفة الغربية)",
+          "he": "ירדן (כולל הגדה המערבית)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           36.5,
@@ -5080,7 +6892,13 @@
       "id": "unrwa-gaza-1951",
       "group": "palestinian",
       "definition": {
-        "en": "Persons on UNRWA relief rolls (Palestine refugees), Gaza"
+        "en": "Persons on UNRWA relief rolls (Palestine refugees), Gaza",
+        "ar": "الأشخاص المسجلون في قوائم الإغاثة التابعة للأونروا (لاجئو فلسطين)، غزة",
+        "he": "אנשים ברשימות הסיוע של אונר״א (פליטים פלסטינים), עזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1951,
@@ -5089,7 +6907,13 @@
       },
       "location": {
         "label": {
-          "en": "Gaza Strip"
+          "en": "Gaza Strip",
+          "ar": "قطاع غزة",
+          "he": "רצועת עזה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -5118,7 +6942,13 @@
       "id": "unrwa-lebanon-1951",
       "group": "palestinian",
       "definition": {
-        "en": "Persons on UNRWA relief rolls (Palestine refugees), Lebanon"
+        "en": "Persons on UNRWA relief rolls (Palestine refugees), Lebanon",
+        "ar": "الأشخاص المسجلون في قوائم الإغاثة التابعة للأونروا (لاجئو فلسطين)، لبنان",
+        "he": "אנשים ברשימות הסיוע של אונר״א (פליטים פלסטינים), לבנון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1951,
@@ -5127,7 +6957,13 @@
       },
       "location": {
         "label": {
-          "en": "Lebanon"
+          "en": "Lebanon",
+          "ar": "لبنان",
+          "he": "לבנון",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.7667,
@@ -5156,7 +6992,13 @@
       "id": "unrwa-syria-1951",
       "group": "palestinian",
       "definition": {
-        "en": "Persons on UNRWA relief rolls (Palestine refugees), Syria"
+        "en": "Persons on UNRWA relief rolls (Palestine refugees), Syria",
+        "ar": "الأشخاص المسجلون في قوائم الإغاثة التابعة للأونروا (لاجئو فلسطين)، سوريا",
+        "he": "אנשים ברשימות הסיוע של אונר״א (פליטים פלסטינים), סוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1951,
@@ -5165,7 +7007,13 @@
       },
       "location": {
         "label": {
-          "en": "Syria"
+          "en": "Syria",
+          "ar": "سوريا",
+          "he": "סוריה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.5833,
@@ -5194,7 +7042,13 @@
       "id": "unrwa-israel-1951",
       "group": "palestinian",
       "definition": {
-        "en": "Persons on UNRWA relief rolls inside Israel (internally displaced)"
+        "en": "Persons on UNRWA relief rolls inside Israel (internally displaced)",
+        "ar": "الأشخاص المسجلون في قوائم الإغاثة التابعة للأونروا داخل إسرائيل (المهجَّرون داخليًا)",
+        "he": "אנשים ברשימות הסיוע של אונר״א בתוך ישראל (עקורים פנימיים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1951,
@@ -5203,7 +7057,13 @@
       },
       "location": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -5232,7 +7092,13 @@
       "id": "unrwa-jordan-2021",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2021,
@@ -5240,7 +7106,13 @@
       },
       "location": {
         "label": {
-          "en": "Jordan"
+          "en": "Jordan",
+          "ar": "الأردن",
+          "he": "ירדן",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           36.5,
@@ -5269,7 +7141,13 @@
       "id": "unrwa-lebanon-2021",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2021,
@@ -5277,7 +7155,13 @@
       },
       "location": {
         "label": {
-          "en": "Lebanon"
+          "en": "Lebanon",
+          "ar": "لبنان",
+          "he": "לבנון",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.7667,
@@ -5306,7 +7190,13 @@
       "id": "unrwa-syria-2021",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2021,
@@ -5314,7 +7204,13 @@
       },
       "location": {
         "label": {
-          "en": "Syria"
+          "en": "Syria",
+          "ar": "سوريا",
+          "he": "סוריה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.5833,
@@ -5343,7 +7239,13 @@
       "id": "unrwa-west-bank-2021",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2021,
@@ -5351,7 +7253,13 @@
       },
       "location": {
         "label": {
-          "en": "West Bank (incl. East Jerusalem)"
+          "en": "West Bank (incl. East Jerusalem)",
+          "ar": "الضفة الغربية (بما فيها القدس الشرقية)",
+          "he": "הגדה המערבית (כולל מזרח ירושלים)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.35,
@@ -5380,7 +7288,13 @@
       "id": "unrwa-gaza-2021",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2021,
@@ -5388,7 +7302,13 @@
       },
       "location": {
         "label": {
-          "en": "Gaza Strip"
+          "en": "Gaza Strip",
+          "ar": "قطاع غزة",
+          "he": "רצועת עזה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -5417,7 +7337,13 @@
       "id": "unrwa-jordan-2024",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -5425,7 +7351,13 @@
       },
       "location": {
         "label": {
-          "en": "Jordan"
+          "en": "Jordan",
+          "ar": "الأردن",
+          "he": "ירדן",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           36.5,
@@ -5459,7 +7391,13 @@
       "id": "unrwa-gaza-2024",
       "group": "palestinian",
       "definition": {
-        "en": "UNRWA-registered Palestine refugees"
+        "en": "UNRWA-registered Palestine refugees",
+        "ar": "لاجئو فلسطين المسجلون لدى الأونروا",
+        "he": "פליטים פלסטינים הרשומים באונר״א",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -5467,7 +7405,13 @@
       },
       "location": {
         "label": {
-          "en": "Gaza Strip"
+          "en": "Gaza Strip",
+          "ar": "قطاع غزة",
+          "he": "רצועת עזה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           34.4,
@@ -5496,7 +7440,13 @@
       "id": "palestine-refugees-in-syria-2024",
       "group": "palestinian",
       "definition": {
-        "en": "Palestine refugees estimated to be present in Syria"
+        "en": "Palestine refugees estimated to be present in Syria",
+        "ar": "لاجئو فلسطين المقدَّر وجودهم في سوريا",
+        "he": "פליטים פלסטינים המוערכים כנמצאים בסוריה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2024,
@@ -5504,7 +7454,13 @@
       },
       "location": {
         "label": {
-          "en": "Syria"
+          "en": "Syria",
+          "ar": "سوريا",
+          "he": "סוריה",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           38.5833,
@@ -5533,7 +7489,13 @@
       "id": "pcbs-state-of-palestine-2025",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians in the State of Palestine (West Bank incl. East Jerusalem, and Gaza Strip) - PCBS estimate"
+        "en": "Palestinians in the State of Palestine (West Bank incl. East Jerusalem, and Gaza Strip) - PCBS estimate",
+        "ar": "الفلسطينيون في دولة فلسطين (الضفة الغربية بما فيها القدس الشرقية، وقطاع غزة) - تقدير الجهاز المركزي للإحصاء الفلسطيني",
+        "he": "פלסטינים במדינת פלסטין (הגדה המערבית כולל מזרח ירושלים, ורצועת עזה) – אומדן הלשכה המרכזית לסטטיסטיקה הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2025,
@@ -5542,7 +7504,13 @@
       },
       "location": {
         "label": {
-          "en": "State of Palestine"
+          "en": "State of Palestine",
+          "ar": "دولة فلسطين",
+          "he": "מדינת פלסטין",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35.25,
@@ -5571,7 +7539,13 @@
       "id": "pcbs-palestinians-in-israel-2025",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians in Israel ('1948 territories') - PCBS estimate"
+        "en": "Palestinians in Israel ('1948 territories') - PCBS estimate",
+        "ar": "الفلسطينيون في إسرائيل ('أراضي 1948') - تقدير الجهاز المركزي للإحصاء الفلسطيني",
+        "he": "פלסטינים בישראל ('שטחי 1948') – אומדן הלשכה המרכזית לסטטיסטיקה הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2025,
@@ -5580,7 +7554,13 @@
       },
       "location": {
         "label": {
-          "en": "Israel"
+          "en": "Israel",
+          "ar": "إسرائيل",
+          "he": "ישראל",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           35,
@@ -5609,7 +7589,13 @@
       "id": "pcbs-palestinians-arab-countries-2025",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians living in Arab countries (outside historic Palestine) - PCBS estimate"
+        "en": "Palestinians living in Arab countries (outside historic Palestine) - PCBS estimate",
+        "ar": "الفلسطينيون المقيمون في البلدان العربية (خارج فلسطين التاريخية) - تقدير الجهاز المركزي للإحصاء الفلسطيني",
+        "he": "פלסטינים החיים במדינות ערב (מחוץ לפלשתינה ההיסטורית) – אומדן הלשכה המרכזית לסטטיסטיקה הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2025,
@@ -5618,7 +7604,13 @@
       },
       "location": {
         "label": {
-          "en": "Arab countries (aggregate; no single location)"
+          "en": "Arab countries (aggregate; no single location)",
+          "ar": "البلدان العربية (مجموع؛ لا موقع واحدًا)",
+          "he": "מדינות ערב (סך הכול; ללא מיקום אחד)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": null
       },
@@ -5643,7 +7635,13 @@
       "id": "pcbs-palestinians-other-countries-2025",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians living outside Arab countries (Americas, Europe and elsewhere) - derived from PCBS"
+        "en": "Palestinians living outside Arab countries (Americas, Europe and elsewhere) - derived from PCBS",
+        "ar": "الفلسطينيون المقيمون خارج البلدان العربية (الأمريكتان وأوروبا وغيرها) - مشتق من بيانات الجهاز المركزي للإحصاء الفلسطيني",
+        "he": "פלסטינים החיים מחוץ למדינות ערב (אמריקות, אירופה ואחרות) – נגזר מנתוני הלשכה המרכזית לסטטיסטיקה הפלסטינית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 2025,
@@ -5652,7 +7650,13 @@
       },
       "location": {
         "label": {
-          "en": "Non-Arab countries (aggregate; no single location)"
+          "en": "Non-Arab countries (aggregate; no single location)",
+          "ar": "البلدان غير العربية (مجموع؛ لا موقع واحدًا)",
+          "he": "מדינות שאינן ערביות (סך הכול; ללא מיקום אחד)",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": null
       },
@@ -5677,7 +7681,13 @@
       "id": "palestinians-kuwait-1990",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians in Kuwait before the Iraqi invasion"
+        "en": "Palestinians in Kuwait before the Iraqi invasion",
+        "ar": "الفلسطينيون في الكويت قبل الغزو العراقي",
+        "he": "פלסטינים בכווית לפני הפלישה העיראקית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1990,
@@ -5686,7 +7696,13 @@
       },
       "location": {
         "label": {
-          "en": "Kuwait"
+          "en": "Kuwait",
+          "ar": "الكويت",
+          "he": "כווית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           47.6,
@@ -5716,7 +7732,13 @@
       "id": "palestinians-kuwait-1992",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians remaining in Kuwait after the Gulf war"
+        "en": "Palestinians remaining in Kuwait after the Gulf war",
+        "ar": "الفلسطينيون الذين بقوا في الكويت بعد حرب الخليج",
+        "he": "פלסטינים שנשארו בכווית לאחר מלחמת המפרץ",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1992,
@@ -5725,7 +7747,13 @@
       },
       "location": {
         "label": {
-          "en": "Kuwait"
+          "en": "Kuwait",
+          "ar": "الكويت",
+          "he": "כווית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           47.6,
@@ -5753,7 +7781,13 @@
       "id": "palestinians-kuwait-1998",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians in Kuwait (UNRWA estimate)"
+        "en": "Palestinians in Kuwait (UNRWA estimate)",
+        "ar": "الفلسطينيون في الكويت (تقدير الأونروا)",
+        "he": "פלסטינים בכווית (אומדן אונר״א)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1998,
@@ -5761,7 +7795,13 @@
       },
       "location": {
         "label": {
-          "en": "Kuwait"
+          "en": "Kuwait",
+          "ar": "الكويت",
+          "he": "כווית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           47.6,
@@ -5791,7 +7831,13 @@
       "id": "palestinians-saudi-arabia-1998",
       "group": "palestinian",
       "definition": {
-        "en": "Palestinians in Saudi Arabia (UNRWA estimate)"
+        "en": "Palestinians in Saudi Arabia (UNRWA estimate)",
+        "ar": "الفلسطينيون في المملكة العربية السعودية (تقدير الأونروا)",
+        "he": "פלסטינים בערב הסעודית (אומדן אונר״א)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "date": {
         "year": 1998,
@@ -5799,7 +7845,13 @@
       },
       "location": {
         "label": {
-          "en": "Saudi Arabia"
+          "en": "Saudi Arabia",
+          "ar": "المملكة العربية السعودية",
+          "he": "ערב הסעודית",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "coords": [
           44.1167,

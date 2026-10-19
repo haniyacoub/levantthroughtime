@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Ramla, Jerusalem and nearby lands, excluding Ascalon; Gaza and Jaffa among the towns that later rebelled against him."
+          "en": "Ramla, Jerusalem and nearby lands, excluding Ascalon; Gaza and Jaffa among the towns that later rebelled against him.",
+          "ar": "الرملة والقدس والأراضي المجاورة، باستثناء عسقلان؛ وغزة ويافا بين البلدات التي ثارت عليه لاحقًا.",
+          "he": "רמלה, ירושלים והאדמות הסמוכות, מלבד אשקלון; עזה ויפו בין הערים שמרדו בו מאוחר יותר.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -81,7 +87,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Palestine plus Damascus, taken in Dhu l-Qa'da 468 (June–July 1076)."
+          "en": "Palestine plus Damascus, taken in Dhu l-Qa'da 468 (June–July 1076).",
+          "ar": "فلسطين مع دمشق، التي أُخذت في ذي القعدة 468 (حزيران/يونيو–تموز/يوليو 1076).",
+          "he": "פלשתינה בתוספת דמשק, שנלקחה בד׳ו אל-קעדה 468 (יוני–יולי 1076).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

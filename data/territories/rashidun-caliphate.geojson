@@ -39,7 +39,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Invasion phase: after Ajnadayn \"all of Palestine lay open\", but towns held out."
+          "en": "Invasion phase: after Ajnadayn \"all of Palestine lay open\", but towns held out.",
+          "ar": "مرحلة الغزو: بعد أجنادين 'all of Palestine lay open' [كانت فلسطين كلها مفتوحة]، لكن البلدات صمدت.",
+          "he": "שלב הפלישה: לאחר אג׳נדין “all of Palestine lay open” [כל פלשתינה הייתה פתוחה], אך ערים החזיקו מעמד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -102,7 +108,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After the Yarmuk: all but Jerusalem (to 638) and Caesarea (to 640)."
+          "en": "After the Yarmuk: all but Jerusalem (to 638) and Caesarea (to 640).",
+          "ar": "بعد اليرموك: كل شيء ما عدا القدس (حتى 638) وقيسارية (حتى 640).",
+          "he": "לאחר הירמוך: הכול מלבד ירושלים (עד 638) וקיסריה (עד 640).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -165,7 +177,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole map area; organized in the junds of Filastin, al-Urdunn and Dimashq."
+          "en": "Whole map area; organized in the junds of Filastin, al-Urdunn and Dimashq.",
+          "ar": "كامل منطقة الخريطة؛ منظمة في أجناد فلسطين والأردن ودمشق.",
+          "he": "כל שטח המפה; מאורגן בג׳ונדים של פלסטין, אל-ארדן ודמשק.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

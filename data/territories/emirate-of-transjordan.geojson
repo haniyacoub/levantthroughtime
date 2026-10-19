@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Transjordan without the Ma'an and Aqaba districts, which belonged to the Kingdom of the Hijaz until May 1925."
+          "en": "Transjordan without the Ma'an and Aqaba districts, which belonged to the Kingdom of the Hijaz until May 1925.",
+          "ar": "شرق الأردن من دون منطقتي معان والعقبة، اللتين تبعتا مملكة الحجاز حتى أيار/مايو 1925.",
+          "he": "עבר הירדן ללא מחוזות מעאן ועקבה, ששייכים לממלכת חיג׳אז עד מאי 1925.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -60,7 +66,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Transjordan including the Aqaba-Ma'an region."
+          "en": "Transjordan including the Aqaba-Ma'an region.",
+          "ar": "شرق الأردن بما فيه منطقة العقبة–معان.",
+          "he": "עבר הירדן כולל אזור עקבה–מעאן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

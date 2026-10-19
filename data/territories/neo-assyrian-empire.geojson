@@ -32,7 +32,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Directly ruled provinces after the 733-732 campaigns: Damascus (governor installed), Magiddu (Galilee and northern valleys), northern Transjordan (Gilead/Qarninu, debated), with Gaza 'in Assyrian hands'. Vassal kingdoms (Israel, Judah, Philistine cities, Ammon, Moab, Edom, Tyre, Sidon) are given as relations, not territory."
+          "en": "Directly ruled provinces after the 733-732 campaigns: Damascus (governor installed), Magiddu (Galilee and northern valleys), northern Transjordan (Gilead/Qarninu, debated), with Gaza 'in Assyrian hands'. Vassal kingdoms (Israel, Judah, Philistine cities, Ammon, Moab, Edom, Tyre, Sidon) are given as relations, not territory.",
+          "ar": "أقاليم محكومة مباشرة بعد حملات 733-732: دمشق (نُصّب حاكم)، مجدو (الجليل والوديان الشمالية)، شمال شرق الأردن (جلعاد/قرنينو، محل خلاف)، مع غزة 'in Assyrian hands' [بيد الآشوريين]. أما الممالك التابعة (إسرائيل ويهوذا ومدن فلستية وعمّون وموآب وأدوم وصور وصيدا) فتظهر علاقات لا إقليمًا.",
+          "he": "מחוזות הנשלטים ישירות לאחר מסעות 733-732: דמשק (מושל מונה), מגידו (הגליל והעמקים הצפוניים), צפון עבר הירדן (גלעד/קרנינו, שנוי במחלוקת), עם עזה “in Assyrian hands” [בידי האשורים]. הממלכות הווסאליות (ישראל, יהודה, ערים פלשתיות, עמון, מואב, אדום, צור, צידון) מוצגות כיחסים ולא כשטח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -84,7 +90,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Adds the province of Samerina (722-720) and the coastal Dor area, either as part of Samerina or as a separate province. The end date is an estimate for the waning of Assyrian control in the west."
+          "en": "Adds the province of Samerina (722-720) and the coastal Dor area, either as part of Samerina or as a separate province. The end date is an estimate for the waning of Assyrian control in the west.",
+          "ar": "تضيف إقليم السامرة (722-720) ومنطقة دور الساحلية، إما جزءًا من السامرة أو إقليمًا منفصلًا. تاريخ النهاية تقدير لضعف السيطرة الآشورية في الغرب.",
+          "he": "מוסיפה את מחוז שומרון (722-720) ואת אזור דור החופי, כחלק משומרון או כמחוז נפרד. תאריך הסיום הוא הערכה לדעיכת השליטה האשורית במערב.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

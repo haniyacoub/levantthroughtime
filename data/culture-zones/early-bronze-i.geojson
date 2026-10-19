@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Early EB sites named by Britannica (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai), plus southern EB IB sites where Egyptian material occurs among local settlements (Tel Erani, Tel Halif, Tel Lod and others). Schematic."
+          "en": "Early EB sites named by Britannica (Megiddo, Jericho, Tell el-Far'ah, Beth Shean, Khirbet Kerak, Ai), plus southern EB IB sites where Egyptian material occurs among local settlements (Tel Erani, Tel Halif, Tel Lod and others). Schematic.",
+          "ar": "مواقع العصر البرونزي المبكر الأولى التي تسميها بريتانيكا (مجدو وأريحا وتل الفارعة وبيسان وخربة الكرك وعاي)، إضافة إلى مواقع جنوبية من العصر البرونزي المبكر IB حيث توجد مواد مصرية بين المستوطنات المحلية (تل عراني وتل حليف وتل اللد وغيرها). تخطيطي.",
+          "he": "אתרי תקופת הברונזה הקדומה המוקדמת שמזכירה בריטניקה (מגידו, יריחו, תל אל-פארעה, בית שאן, חירבת כרך, העי), בתוספת אתרים דרומיים מהברונזה הקדומה IB שבהם יש חומר מצרי בין יישובים מקומיים (תל ארני, תל חליף, תל לוד ואחרים). סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

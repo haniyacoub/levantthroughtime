@@ -21,7 +21,13 @@
         },
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Israeli-held Golan west of the 10 June 1967 ceasefire line, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone)."
+          "en": "Israeli-held Golan west of the 10 June 1967 ceasefire line, adjusted by the 31 May 1974 separation-of-forces agreement (UN buffer zone).",
+          "ar": "الجولان الذي تسيطر عليه إسرائيل غرب خط وقف إطلاق النار في 10 حزيران/يونيو 1967، مع تعديله باتفاق فصل القوات في 31 أيار/مايو 1974 (منطقة عازلة تابعة للأمم المتحدة).",
+          "he": "רמת הגולן שבידי ישראל ממערב לקו הפסקת האש מ-10 ביוני 1967, בהתאמה לפי הסכם הפרדת הכוחות מ-31 במאי 1974 (אזור חיץ של האו״ם).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

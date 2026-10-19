@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Galilee, and Peraea east of the Jordan River."
+          "en": "Galilee, and Peraea east of the Jordan River.",
+          "ar": "الجليل وبيرية شرق نهر الأردن.",
+          "he": "הגליל ופריאה ממזרח לנהר הירדן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

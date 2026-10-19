@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Most of the Gaza Strip and the Jericho area."
+          "en": "Most of the Gaza Strip and the Jericho area.",
+          "ar": "معظم قطاع غزة ومنطقة أريحا.",
+          "he": "רוב רצועת עזה ואזור יריחו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -57,7 +63,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Areas A and B of the West Bank (expanded in stages 1995-2000) and most of Gaza (all of Gaza after Sept 2005)."
+          "en": "Areas A and B of the West Bank (expanded in stages 1995-2000) and most of Gaza (all of Gaza after Sept 2005).",
+          "ar": "المنطقتان أ وب في الضفة الغربية (توسعتا على مراحل 1995-2000) ومعظم غزة (كل غزة بعد أيلول/سبتمبر 2005).",
+          "he": "אזורים A ו-B בגדה המערבית (הורחבו בשלבים 1995-2000) ורוב עזה (כל עזה לאחר ספטמבר 2005).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -92,7 +104,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Areas A and B of the West Bank only (under 40% of the West Bank, since Area C is over 60%)."
+          "en": "Areas A and B of the West Bank only (under 40% of the West Bank, since Area C is over 60%).",
+          "ar": "المنطقتان أ وب في الضفة الغربية فقط (أقل من 40% من الضفة الغربية، إذ المنطقة ج أكثر من 60%).",
+          "he": "אזורים A ו-B בגדה המערבית בלבד (פחות מ-40% מהגדה המערבית, שכן אזור C הוא יותר מ-60%).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

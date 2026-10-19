@@ -47,7 +47,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Egypt and southern Syria incl. Palestine."
+          "en": "Egypt and southern Syria incl. Palestine.",
+          "ar": "مصر وجنوب سوريا بما فيها فلسطين.",
+          "he": "מצרים ודרום סוריה כולל פלשתינה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

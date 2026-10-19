@@ -2,10 +2,22 @@
   "$schema": "../../schema/story.schema.json",
   "id": "jerusalem-through-time",
   "title": {
-    "en": "Jerusalem through time"
+    "en": "Jerusalem through time",
+    "ar": "القدس عبر الزمن",
+    "he": "ירושלים לאורך הזמן",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "summary": {
-    "en": "One city under many names and rulers, holy to three religions, and contested today."
+    "en": "One city under many names and rulers, holy to three religions, and contested today.",
+    "ar": "مدينة واحدة بأسماء وحكام كثيرين، مقدسة لثلاث ديانات، ومتنازع عليها اليوم.",
+    "he": "עיר אחת בשמות ובשליטים רבים, קדושה לשלוש דתות, ושנויה במחלוקת כיום.",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "steps": [
     {
@@ -30,10 +42,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Urusalim"
+        "en": "Urusalim",
+        "ar": "أوروساليم",
+        "he": "אורוסלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The city’s earliest recorded name, Urusalim, appears in Akkadian cuneiform texts of the Late Bronze Age [1]. Jerusalem was then the centre of one of two large political units in the highlands; the other was centred on Shechem [2]. Letters written by its ruler, Abdi-Heba, survive [3]."
+        "en": "The city’s earliest recorded name, Urusalim, appears in Akkadian cuneiform texts of the Late Bronze Age [1]. Jerusalem was then the centre of one of two large political units in the highlands; the other was centred on Shechem [2]. Letters written by its ruler, Abdi-Heba, survive [3].",
+        "ar": "يرد أقدم اسم مسجّل للمدينة، أوروساليم، في نصوص مسمارية أكادية من العصر البرونزي المتأخر [1]. وكانت القدس حينئذ مركز إحدى وحدتين سياسيتين كبيرتين في المرتفعات؛ وتمركزت الأخرى في شكيم [2]. وتبقى رسائل كتبها حاكمها عبدي خيبا [3].",
+        "he": "השם המתועד הקדום ביותר של העיר, אורוסלים, מופיע בטקסטים אכדיים בכתב יתדות מתקופת הברונזה המאוחרת [1]. ירושלים הייתה אז מרכזה של אחת משתי יחידות מדיניות גדולות באזור ההר; השנייה התמקדה בשכם [2]. נשמרו מכתבים שכתב שליטה, עבדי-חבה [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -75,10 +99,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "David’s city: text and archaeology"
+        "en": "David’s city: text and archaeology",
+        "ar": "مدينة داود: النص وعلم الآثار",
+        "he": "עיר דוד: טקסט וארכאולוגיה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Many scholars date a united monarchy of Israel to about 1020–922 BCE, while others doubt that it existed [1]. Archaeologists who accept it differ on its size: some see a small entity centred on Jerusalem and its vicinity, others a short-lived tribal alliance with wide influence [2][3]. Israel Finkelstein argues that the great united monarchy of the Bible is a literary construct [4]."
+        "en": "Many scholars date a united monarchy of Israel to about 1020–922 BCE, while others doubt that it existed [1]. Archaeologists who accept it differ on its size: some see a small entity centred on Jerusalem and its vicinity, others a short-lived tribal alliance with wide influence [2][3]. Israel Finkelstein argues that the great united monarchy of the Bible is a literary construct [4].",
+        "ar": "يؤرخ كثير من الباحثين مملكة موحدة لإسرائيل بنحو 1020-922 ق.م.، بينما يشكك آخرون في وجودها [1]. ويختلف علماء الآثار الذين يقبلون بوجودها في حجمها: فيرى بعضهم كيانًا صغيرًا متمركزًا في القدس وجوارها، ويرى آخرون تحالفًا قبليًا قصير العمر ذا نفوذ واسع [2][3]. ويرى إسرائيل فينكلشتاين أن المملكة الموحدة العظيمة في التوراة بناء أدبي [4].",
+        "he": "חוקרים רבים מתארכים מלוכה מאוחדת של ישראל לכ-1020–922 לפנה״ס, ואחרים מטילים ספק בקיומה [1]. ארכאולוגים שמקבלים את קיומה חלוקים בנוגע לגודלה: חלקם רואים ישות קטנה שמרכזה בירושלים וסביבתה, אחרים ברית שבטים קצרת ימים בעלת השפעה רחבה [2][3]. ישראל פינקלשטיין טוען שהמלוכה המאוחדת הגדולה של המקרא היא בנייה ספרותית [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -126,10 +162,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Destroyed by Babylon"
+        "en": "Destroyed by Babylon",
+        "ar": "دُمرت على يد بابل",
+        "he": "נחרבה בידי בבל",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Nebuchadnezzar II captured Jerusalem in 597 BCE and deported King Jehoiachin to Babylon [1]. About 587/586 BCE the city was stormed and destroyed [2]."
+        "en": "Nebuchadnezzar II captured Jerusalem in 597 BCE and deported King Jehoiachin to Babylon [1]. About 587/586 BCE the city was stormed and destroyed [2].",
+        "ar": "استولى نبوخذ نصر الثاني على القدس عام 597 ق.م. ونفى الملك يهوياكين إلى بابل [1]. ونحو 587/586 ق.م. اقتُحمت المدينة ودُمرت [2].",
+        "he": "נבוכדנאצר השני כבש את ירושלים ב-597 לפנה״ס וגלה את המלך יהויכין לבבל [1]. בערך ב-587/586 לפנה״ס נפרצה העיר ונחרבה [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -167,10 +215,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "A small Persian-period town"
+        "en": "A small Persian-period town",
+        "ar": "بلدة صغيرة في العصر الفارسي",
+        "he": "עיר קטנה בתקופה הפרסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Cyrus decreed around 538 BCE that the Temple of Jerusalem be rebuilt [1]. Archaeological estimates of the Persian-period city’s population range from about 1,000 people to about 4,800 [2][3]."
+        "en": "Cyrus decreed around 538 BCE that the Temple of Jerusalem be rebuilt [1]. Archaeological estimates of the Persian-period city’s population range from about 1,000 people to about 4,800 [2][3].",
+        "ar": "أصدر كورش نحو 538 ق.م. مرسومًا بإعادة بناء هيكل القدس [1]. وتتراوح التقديرات الأثرية لعدد سكان المدينة في العصر الفارسي بين نحو 1,000 شخص ونحو 4,800 [2][3].",
+        "he": "כורש הוציא בערך ב-538 לפנה״ס צו לבנות מחדש את בית המקדש בירושלים [1]. אומדנים ארכאולוגיים לאוכלוסיית העיר בתקופה הפרסית נעים מכ-1,000 איש עד כ-4,800 [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -214,10 +274,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "The Temple rededicated to Zeus"
+        "en": "The Temple rededicated to Zeus",
+        "ar": "إعادة تكريس الهيكل لزيوس",
+        "he": "חנוכת בית המקדש מחדש לזאוס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Greek rule Hellenized much of Jerusalem’s upper class [1]. On 25 December 167 BCE the Seleucid king Antiochus IV rededicated the Temple in Jerusalem to the Olympian god Zeus [2]. Under the Hasmoneans who rose against him, Judea became independent of the Seleucids [3]."
+        "en": "Greek rule Hellenized much of Jerusalem’s upper class [1]. On 25 December 167 BCE the Seleucid king Antiochus IV rededicated the Temple in Jerusalem to the Olympian god Zeus [2]. Under the Hasmoneans who rose against him, Judea became independent of the Seleucids [3].",
+        "ar": "هلّنت الحكم اليوناني جانبًا كبيرًا من الطبقة العليا في القدس [1]. وفي 25 كانون الأول/ديسمبر 167 ق.م. أعاد الملك السلوقي أنطيوخس الرابع تكريس الهيكل في القدس للإله الأولمبي زيوس [2]. وفي ظل الحشمونيين الذين ثاروا عليه، أصبحت اليهودية مستقلة عن السلوقيين [3].",
+        "he": "השלטון היווני גרם להתייוונות של חלק גדול מהמעמד העליון בירושלים [1]. ב-25 בדצמבר 167 לפנה״ס חנך המלך הסלאוקי אנטיוכוס הרביעי מחדש את בית המקדש בירושלים לאל האולימפי זאוס [2]. תחת החשמונאים שקמו נגדו, נעשתה יהודה עצמאית מהסלאוקים [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -259,10 +331,22 @@
         "temple-mount-haram-al-sharif"
       ],
       "title": {
-        "en": "The Roman sack"
+        "en": "The Roman sack",
+        "ar": "النهب الروماني",
+        "he": "הביזה הרומית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Herod, the Roman-appointed king of Judaea from 37 to 4 BCE, ordered the Temple rebuilt on a magnificent scale in 20/19 BCE [1][2]. Jerusalem was sacked in 70 CE, and the Jews, deprived of the Temple, founded a new religious centre at Jamnia (Yavne) [3][4]."
+        "en": "Herod, the Roman-appointed king of Judaea from 37 to 4 BCE, ordered the Temple rebuilt on a magnificent scale in 20/19 BCE [1][2]. Jerusalem was sacked in 70 CE, and the Jews, deprived of the Temple, founded a new religious centre at Jamnia (Yavne) [3][4].",
+        "ar": "أمر هيرودس، ملك اليهودية الذي عيّنه الرومان من 37 إلى 4 ق.م.، بإعادة بناء الهيكل على نطاق فخم في 20/19 ق.م. [1][2]. ونُهبت القدس عام 70 م، وأسس اليهود، وقد حُرموا من الهيكل، مركزًا دينيًا جديدًا في يمنيا (يبنة) [3][4].",
+        "he": "הורדוס, מלך יהודה שמינו הרומאים בשנים 37 עד 4 לפנה״ס, הורה לבנות מחדש את בית המקדש בקנה מידה מפואר ב-20/19 לפנה״ס [1][2]. ירושלים נבזזה בשנת 70 לספירה, והיהודים, שנשללו מהם בית המקדש, ייסדו מרכז דתי חדש ביבנה [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -310,10 +394,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Aelia Capitolina"
+        "en": "Aelia Capitolina",
+        "ar": "إيليا كابيتولينا",
+        "he": "איליה קפיטולינה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem [1]. The plan helped provoke the Second Jewish Revolt, led by Bar Kokhba [2]. According to Le Strange, Hadrian removed all the Jews from the city when he renamed it [3]."
+        "en": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem [1]. The plan helped provoke the Second Jewish Revolt, led by Bar Kokhba [2]. According to Le Strange, Hadrian removed all the Jews from the city when he renamed it [3].",
+        "ar": "في 132 قرر الإمبراطور هادريان بناء مستعمرة رومانية، إيليا كابيتولينا، في موقع القدس [1]. وساعدت الخطة في إشعال الثورة اليهودية الثانية بقيادة بار كوخبا [2]. ووفقًا للي سترانج، أخرج هادريان جميع اليهود من المدينة حين غيّر اسمها [3].",
+        "he": "בשנת 132 החליט הקיסר אדריאנוס לבנות מושבה רומית, איליה קפיטולינה, באתר ירושלים [1]. התוכנית סייעה לעורר את המרד היהודי השני בהנהגת בר כוכבא [2]. לפי לה סטריינג׳, אדריאנוס הרחיק את כל היהודים מהעיר כששינה את שמה [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -356,10 +452,22 @@
         "church-of-the-holy-sepulchre"
       ],
       "title": {
-        "en": "A Christian holy city"
+        "en": "A Christian holy city",
+        "ar": "مدينة مسيحية مقدسة",
+        "he": "עיר קדושה נוצרית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Constantine built a church on the site of the Holy Sepulchre, the most sacred of Christian holy places [1]. Christians venerate it as the place of Jesus’ crucifixion and burial [2]."
+        "en": "Constantine built a church on the site of the Holy Sepulchre, the most sacred of Christian holy places [1]. Christians venerate it as the place of Jesus’ crucifixion and burial [2].",
+        "ar": "بنى قسطنطين كنيسة في موقع القبر المقدس، أقدس الأماكن المسيحية [1]. ويبجّله المسيحيون بوصفه مكان صلب يسوع ودفنه [2].",
+        "he": "קונסטנטינוס בנה כנסייה באתר הקבר הקדוש, הקדוש ביותר מהמקומות הקדושים הנוצריים [1]. נוצרים מכבדים אותו כמקום צליבתו וקבורתו של ישו [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -397,10 +505,22 @@
         "dome-of-the-rock"
       ],
       "title": {
-        "en": "Bayt al-Maqdis"
+        "en": "Bayt al-Maqdis",
+        "ar": "بيت المقدس",
+        "he": "בית אל-מקדס",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Jerusalem surrendered to the Muslims in 638 [1]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [2]. Muslims hold that the Prophet Muhammad was taken up to heaven from the rock beneath it, and Jerusalem was the first direction of Muslim prayer [3][4]. Arabic writers called the city Iliya, from the Latin Aelia, and Bayt al-Maqdis, “the Holy House” [5][6]."
+        "en": "Jerusalem surrendered to the Muslims in 638 [1]. The Umayyad caliph ʿAbd al-Malik built the Dome of the Rock in 691 [2]. Muslims hold that the Prophet Muhammad was taken up to heaven from the rock beneath it, and Jerusalem was the first direction of Muslim prayer [3][4]. Arabic writers called the city Iliya, from the Latin Aelia, and Bayt al-Maqdis, “the Holy House” [5][6].",
+        "ar": "استسلمت القدس للمسلمين عام 638 [1]. وبنى الخليفة الأموي عبد الملك قبة الصخرة عام 691 [2]. ويعتقد المسلمون أن النبي محمدًا عُرج به إلى السماء من الصخرة التي تحتها، وكانت القدس أول اتجاه للصلاة عند المسلمين [3][4]. وسمّى الكتّاب العرب المدينة إيلياء، من الاسم اللاتيني إيليا، وبيت المقدس، «البيت المقدس» [5][6].",
+        "he": "ירושלים נכנעה למוסלמים בשנת 638 [1]. החליף האומיי עבד אל-מלכ בנה את כיפת הסלע ב-691 [2]. מוסלמים מאמינים שהנביא מוחמד עלה לשמים מהסלע שמתחתיה, וירושלים הייתה הכיוון הראשון של התפילה המוסלמית [3][4]. כותבים ערבים כינו את העיר איליא, מהשם הלטיני איליה, ובית אל-מקדס, ״הבית הקדוש״ [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -457,10 +577,22 @@
         "church-of-the-holy-sepulchre"
       ],
       "title": {
-        "en": "The church destroyed"
+        "en": "The church destroyed",
+        "ar": "الكنيسة المهدومة",
+        "he": "הכנסייה שנהרסה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Fatimid caliph al-Hakim (996–1021) was at times extremely harsh towards his non-Muslim subjects [1]. In 1009 he ordered the destruction of the Church of the Holy Sepulchre, which was severely damaged [2]."
+        "en": "The Fatimid caliph al-Hakim (996–1021) was at times extremely harsh towards his non-Muslim subjects [1]. In 1009 he ordered the destruction of the Church of the Holy Sepulchre, which was severely damaged [2].",
+        "ar": "كان الخليفة الفاطمي الحاكم (996-1021) قاسيًا للغاية في أحيان تجاه رعاياه من غير المسلمين [1]. وفي 1009 أمر بهدم كنيسة القيامة، فتضررت ضررًا بالغًا [2].",
+        "he": "החליף הפאטמי אל-חאכם (996–1021) היה לפעמים קשה ביותר כלפי נתיניו הלא מוסלמים [1]. ב-1009 הורה להרוס את כנסיית הקבר, ונגרם לה נזק חמור [2].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -498,10 +630,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Crusader capital"
+        "en": "Crusader capital",
+        "ar": "عاصمة صليبية",
+        "he": "בירה צלבנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "As the Crusaders approached in 1099, villagers from the surrounding area left their homes for the safety of the walls, doubling a population that had reached about 20,000, according to Benvenisti [1][2]. The Crusaders took Jerusalem on 15 July 1099, and a year later the Latin Kingdom of Jerusalem was established [3][4]. The Ayyubid sultan al-Salih Ayyub restored Jerusalem to Muslim rule for good in 1244 [5]."
+        "en": "As the Crusaders approached in 1099, villagers from the surrounding area left their homes for the safety of the walls, doubling a population that had reached about 20,000, according to Benvenisti [1][2]. The Crusaders took Jerusalem on 15 July 1099, and a year later the Latin Kingdom of Jerusalem was established [3][4]. The Ayyubid sultan al-Salih Ayyub restored Jerusalem to Muslim rule for good in 1244 [5].",
+        "ar": "مع اقتراب الصليبيين عام 1099 ترك قرويون من المنطقة المحيطة بيوتهم طلبًا لأمان الأسوار، مضاعفين عدد سكان كان قد بلغ نحو 20,000 بحسب بنفنستي [1][2]. واستولى الصليبيون على القدس في 15 تموز/يوليو 1099، وبعد سنة قامت مملكة القدس اللاتينية [3][4]. وأعاد السلطان الأيوبي الصالح أيوب القدس إلى الحكم الإسلامي نهائيًا عام 1244 [5].",
+        "he": "כשהצלבנים התקרבו ב-1099 עזבו כפריים מהסביבה את בתיהם למען ביטחון החומות, והכפילו אוכלוסייה שהגיעה לכ-20,000 לפי בנבנישתי [1][2]. הצלבנים כבשו את ירושלים ב-15 ביולי 1099, ושנה לאחר מכן הוקמה ממלכת ירושלים הלטינית [3][4]. הסולטאן האיובי אל-צאלח איוב החזיר את ירושלים לשלטון מוסלמי סופית ב-1244 [5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -554,10 +698,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Al-Quds under the Ottomans"
+        "en": "Al-Quds under the Ottomans",
+        "ar": "القدس في العهد العثماني",
+        "he": "אל-קודס בימי העות׳מאנים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Under the Ottomans, Jerusalem was for centuries an ordinary district of the province of Damascus [1]. In 1872 it was made a separate district answering directly to Istanbul, and stayed so until the First World War [2][3]. Le Strange noted that “al-Quds”, “the Holy”, had become the city’s most common Arabic name [4]."
+        "en": "Under the Ottomans, Jerusalem was for centuries an ordinary district of the province of Damascus [1]. In 1872 it was made a separate district answering directly to Istanbul, and stayed so until the First World War [2][3]. Le Strange noted that “al-Quds”, “the Holy”, had become the city’s most common Arabic name [4].",
+        "ar": "في ظل العثمانيين كانت القدس لقرون منطقة عادية في ولاية دمشق [1]. وفي 1872 جُعلت منطقة منفصلة ترتبط مباشرة بإسطنبول، وظلت كذلك حتى الحرب العالمية الأولى [2][3]. ولاحظ لي سترانج أن «القدس»، «المقدسة»، أصبحت أشيع اسم عربي للمدينة [4].",
+        "he": "תחת העות׳מאנים הייתה ירושלים במשך מאות שנים מחוז רגיל בפרובינציית דמשק [1]. ב-1872 הוכרזה כמחוז נפרד הכפוף ישירות לאיסטנבול, וכך נשארה עד מלחמת העולם הראשונה [2][3]. לה סטריינג׳ ציין ש״אל-קודס״, ״הקדושה״, הפך לשם הערבי הנפוץ ביותר של העיר [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -605,10 +761,22 @@
         "western-wall"
       ],
       "title": {
-        "en": "The Wall and the Mandate"
+        "en": "The Wall and the Mandate",
+        "ar": "الحائط والانتداب",
+        "he": "הכותל והמנדט",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917 [1]. A commission approved by the League of Nations found in 1930 that the Western Wall had for centuries been an object of Jewish religious veneration [2]. It also found that the wall is sacred to Muslims because of the Prophet’s visit with his steed al-Buraq, and that its ownership is Muslim [3][4]."
+        "en": "British and Allied forces under General Allenby captured Jerusalem in December 1917 [1]. A commission approved by the League of Nations found in 1930 that the Western Wall had for centuries been an object of Jewish religious veneration [2]. It also found that the wall is sacred to Muslims because of the Prophet’s visit with his steed al-Buraq, and that its ownership is Muslim [3][4].",
+        "ar": "استولت القوات البريطانية وقوات الحلفاء بقيادة الجنرال اللنبي على القدس في كانون الأول/ديسمبر 1917 [1]. وخلصت لجنة أقرّتها عصبة الأمم عام 1930 إلى أن حائط المبكى ظل قرونًا موضع تبجيل ديني يهودي [2]. وخلصت أيضًا إلى أن الحائط مقدس عند المسلمين بسبب زيارة النبي على دابته البراق، وأن ملكيته إسلامية [3][4].",
+        "he": "כוחות בריטיים וכוחות בעלות הברית בפיקודו של הגנרל אלנבי כבשו את ירושלים בדצמבר 1917 [1]. ועדה שאושרה על ידי חבר הלאומים קבעה ב-1930 שהכותל המערבי היה במשך מאות שנים מושא להערצה דתית יהודית [2]. היא קבעה גם שהכותל קדוש למוסלמים בשל ביקורו של הנביא עם סוסו אל-בוראק, ושהבעלות עליו מוסלמית [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -657,10 +825,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "A divided city"
+        "en": "A divided city",
+        "ar": "مدينة مقسّمة",
+        "he": "עיר מחולקת",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated [1]. On 28 May 1948 the Jewish Quarter of the Old City was taken by Transjordan’s Arab Legion and left in rubble [2]. From 1948 to 1967 Israelis were not allowed access to the Temple Mount or the Western Wall [3]."
+        "en": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated [1]. On 28 May 1948 the Jewish Quarter of the Old City was taken by Transjordan’s Arab Legion and left in rubble [2]. From 1948 to 1967 Israelis were not allowed access to the Temple Mount or the Western Wall [3].",
+        "ar": "في كانون الثاني/يناير 1948 أصبحت لفتا، وهي قرية عربية فلسطينية في غرب القدس، من أولى البلدات العربية التي أُخليت من سكانها [1]. وفي 28 أيار/مايو 1948 استولى الفيلق العربي التابع لشرق الأردن على الحي اليهودي في البلدة القديمة وتركه ركامًا [2]. ومن عام 1948 حتى عام 1967 لم يُسمح للإسرائيليين بالوصول إلى جبل الهيكل / الحرم الشريف أو إلى حائط المبكى / حائط البراق [3].",
+        "he": "בינואר 1948 הפכה ליפתא, כפר ערבי פלסטיני במערב ירושלים, לאחת הערים הערביות הראשונות שרוקנו מתושביהן [1]. ב-28 במאי 1948 נכבש הרובע היהודי בעיר העתיקה בידי הלגיון הערבי של עבר הירדן והושאר בהריסות [2]. מ-1948 עד 1967 לא הורשו ישראלים להגיע להר הבית / אל-חרם א-שריף או לכותל המערבי / חומת אל-בוראק [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -702,10 +882,22 @@
         "temple-mount-haram-al-sharif"
       ],
       "title": {
-        "en": "1967"
+        "en": "1967",
+        "ar": "1967",
+        "he": "1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Israel captured the Old City in the June 1967 war and extended Israeli law and administration to East Jerusalem [1][2]. After the war the adjoining Mughrabi Quarter, an Islamic endowment, was bulldozed and its inhabitants expelled, which Arab sources describe as illegal [3][4]. Israel’s government announced that the Temple Mount compound would remain under Muslim administration; Jews could visit it but not pray there [5][6]."
+        "en": "Israel captured the Old City in the June 1967 war and extended Israeli law and administration to East Jerusalem [1][2]. After the war the adjoining Mughrabi Quarter, an Islamic endowment, was bulldozed and its inhabitants expelled, which Arab sources describe as illegal [3][4]. Israel’s government announced that the Temple Mount compound would remain under Muslim administration; Jews could visit it but not pray there [5][6].",
+        "ar": "استولت إسرائيل على البلدة القديمة في حرب حزيران/يونيو 1967 ومدّت القانون والإدارة الإسرائيليين إلى القدس الشرقية [1][2]. وبعد الحرب جُرف حي المغاربة المجاور، وهو وقف إسلامي، وطُرد سكانه، وهو ما تصفه مصادر عربية بأنه غير قانوني [3][4]. وأعلنت حكومة إسرائيل أن مجمّع جبل الهيكل / الحرم الشريف سيبقى تحت إدارة إسلامية؛ ويمكن لليهود زيارته لكن لا يصلّون فيه [5][6].",
+        "he": "ישראל כבשה את העיר העתיקה במלחמת יוני 1967 והחילה את החוק והמינהל הישראליים על מזרח ירושלים [1][2]. לאחר המלחמה נהרס בבולדוזרים רובע המוגרבים הסמוך, הקדש אסלאמי, ותושביו גורשו, מעשה שמקורות ערביים מתארים כבלתי חוקי [3][4]. ממשלת ישראל הודיעה שמתחם הר הבית / אל-חרם א-שריף יישאר בניהול מוסלמי; יהודים יוכלו לבקר בו אך לא להתפלל בו [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -761,10 +953,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Capital claims today"
+        "en": "Capital claims today",
+        "ar": "ادعاءات العاصمة اليوم",
+        "he": "תביעות לבירה כיום",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Israel’s Basic Law of 1980 declares Jerusalem, “complete and united”, its capital, and Prime Minister Netanyahu has called it “our eternal capital” [1][2]. The 1988 Palestinian declaration of independence names Jerusalem as the capital of the State of Palestine [3]. The UN Security Council declared Israel’s measures altering the city’s status null and void, and the International Court of Justice regards East Jerusalem as occupied territory [4][5]. The United States, which recognised Jerusalem as Israel’s capital in 2017, says the boundaries of Israeli sovereignty there are subject to final-status negotiations [6]."
+        "en": "Israel’s Basic Law of 1980 declares Jerusalem, “complete and united”, its capital, and Prime Minister Netanyahu has called it “our eternal capital” [1][2]. The 1988 Palestinian declaration of independence names Jerusalem as the capital of the State of Palestine [3]. The UN Security Council declared Israel’s measures altering the city’s status null and void, and the International Court of Justice regards East Jerusalem as occupied territory [4][5]. The United States, which recognised Jerusalem as Israel’s capital in 2017, says the boundaries of Israeli sovereignty there are subject to final-status negotiations [6].",
+        "ar": "يعلن قانون الأساس الإسرائيلي لعام 1980 القدس «الكاملة والموحدة» عاصمة لإسرائيل، وقد وصفها رئيس الوزراء نتنياهو بأنها «عاصمتنا الأبدية» [1][2]. ويسمّي إعلان الاستقلال الفلسطيني لعام 1988 القدس عاصمة لدولة فلسطين [3]. وأعلن مجلس الأمن التابع للأمم المتحدة أن الإجراءات الإسرائيلية التي تغيّر وضع المدينة باطلة ولاغية، وتعدّ محكمة العدل الدولية القدس الشرقية أرضًا محتلة [4][5]. وتقول الولايات المتحدة، التي اعترفت بالقدس عاصمة لإسرائيل عام 2017، إن حدود السيادة الإسرائيلية فيها تخضع لمفاوضات الوضع النهائي [6].",
+        "he": "חוק היסוד של ישראל מ-1980 מכריז על ירושלים, “שלמה ומאוחדת”, כבירתה, וראש הממשלה נתניהו כינה אותה “בירתנו הנצחית” [1][2]. הכרזת העצמאות הפלסטינית מ-1988 מציינת את ירושלים כבירת מדינת פלסטין [3]. מועצת הביטחון של האו״ם הכריזה שהצעדים הישראליים לשינוי מעמד העיר בטלים ומבוטלים, ובית הדין הבינלאומי לצדק רואה במזרח ירושלים שטח כבוש [4][5]. ארצות הברית, שהכירה בירושלים כבירת ישראל ב-2017, אומרת שגבולות הריבונות הישראלית בה כפופים למשא ומתן על הסדר הקבע [6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {

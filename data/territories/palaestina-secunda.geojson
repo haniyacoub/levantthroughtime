@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "The two Galilees and the western part of Peraea; capital Scythopolis."
+          "en": "The two Galilees and the western part of Peraea; capital Scythopolis.",
+          "ar": "الجليلان وغرب بيرية؛ العاصمة سكيثوبوليس.",
+          "he": "שני הגלילות והחלק המערבי של פריאה; הבירה סקיתופוליס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

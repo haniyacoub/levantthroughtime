@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egyptian-style kitchenware and other finds at sites spanning 'from northern Negev to the central Coastal Plain' (Tel es-Sakan, Tel Halif, Amaziya, Tel Lod, Maghar, En Besor, Tel Ma'ahaz, Tel Erani), concentrated around Tel Erani and En Besor. A trade route ran through northern Sinai. These are enclaves within local settlement, not a bounded territory."
+          "en": "Egyptian-style kitchenware and other finds at sites spanning 'from northern Negev to the central Coastal Plain' (Tel es-Sakan, Tel Halif, Amaziya, Tel Lod, Maghar, En Besor, Tel Ma'ahaz, Tel Erani), concentrated around Tel Erani and En Besor. A trade route ran through northern Sinai. These are enclaves within local settlement, not a bounded territory.",
+          "ar": "أدوات مطبخ بأسلوب مصري ومكتشفات أخرى في مواقع تمتد 'from northern Negev to the central Coastal Plain' [من شمال النقب إلى السهل الساحلي الأوسط] (تل السكن، تل حليف، عمازيا، تل اللد، مغار، عين بسور، تل معحز، تل عراني)، مركّزة حول تل عراني وعين بسور. مرّ طريق تجاري عبر شمال سيناء. هذه جيوب ضمن الاستيطان المحلي لا إقليم محدد الحدود.",
+          "he": "כלי מטבח בסגנון מצרי וממצאים אחרים באתרים הנפרשים “from northern Negev to the central Coastal Plain” [מצפון הנגב ועד מישור החוף המרכזי] (תל א-סכן, תל חלִיף, אמציה, תל לוד, מגהר, עין בסור, תל מעחז, תל ארני), מרוכזים סביב תל ארני ועין בסור. דרך מסחר עברה בצפון סיני. אלה מובלעות בתוך יישוב מקומי ולא שטח תחום גבולות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

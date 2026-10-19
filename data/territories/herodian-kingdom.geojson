@@ -32,7 +32,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Judea, Samaria, Galilee, Idumea and Peraea; Cleopatra obtained some of Herod's best land (incl. the Jericho balsam groves) from Antony."
+          "en": "Judea, Samaria, Galilee, Idumea and Peraea; Cleopatra obtained some of Herod's best land (incl. the Jericho balsam groves) from Antony.",
+          "ar": "اليهودية والسامرة والجليل وأدوميا وبيرية؛ حصلت كليوباترا من أنطونيوس على بعض أفضل أراضي هيرودس (بما فيها بساتين البلسم في أريحا).",
+          "he": "יהודה, שומרון, הגליל, אידומיאה ופריאה; קליאופטרה השיגה מאנטוניוס חלק מאדמותיו הטובות של הורדוס (כולל מטעי האפרסמון ביריחו).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -85,7 +91,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Octavian/Augustus restored the land Cleopatra had taken and the Jewish territories Pompey had removed (incl. coastal cities)."
+          "en": "Octavian/Augustus restored the land Cleopatra had taken and the Jewish territories Pompey had removed (incl. coastal cities).",
+          "ar": "أعاد أوكتافيان/أغسطس الأرض التي أخذتها كليوباترا والأراضي اليهودية التي انتزعها بومبي (بما فيها المدن الساحلية).",
+          "he": "אוקטביאנוס/אוגוסטוס השיב את האדמה שקליאופטרה לקחה ואת השטחים היהודיים שפומפיוס הסיר (כולל ערי החוף).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -141,7 +153,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Further enlarged east of the Jordan and the Sea of Galilee (Trachonitis, Batanaea, Auranitis/Hauran, Gaulanitis, Paneas)."
+          "en": "Further enlarged east of the Jordan and the Sea of Galilee (Trachonitis, Batanaea, Auranitis/Hauran, Gaulanitis, Paneas).",
+          "ar": "توسع إضافي شرق الأردن وبحيرة طبرية (تراخونيتس، باتانيا، أورانيتس/حوران، جولانيتس، بانياس).",
+          "he": "התרחבות נוספת ממזרח לירדן ולכינרת (טרכונית, בתניה, אוראניטיס/חורן, גולניטיס, פניאס).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

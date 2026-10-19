@@ -38,7 +38,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Parthian occupation of Palestine (and Syria) after the invasion of 40 BCE; Roman troops expelled them after Herod's return in 39."
+          "en": "Parthian occupation of Palestine (and Syria) after the invasion of 40 BCE; Roman troops expelled them after Herod's return in 39.",
+          "ar": "احتلال بارثي لفلسطين (وسوريا) بعد غزو 40 ق.م.؛ طردتهم القوات الرومانية بعد عودة هيرودس عام 39.",
+          "he": "כיבוש פרתי של פלשתינה (וסוריה) לאחר הפלישה של 40 לפנה״ס; כוחות רומיים גירשו אותם לאחר שובו של הורדוס ב-39.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

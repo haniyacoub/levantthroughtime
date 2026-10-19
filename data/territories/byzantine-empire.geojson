@@ -47,7 +47,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole map area (Palaestina I–III, Arabia, Phoenice, Egypt)."
+          "en": "Whole map area (Palaestina I–III, Arabia, Phoenice, Egypt).",
+          "ar": "كامل منطقة الخريطة (فلسطين الأولى والثانية والثالثة، العربية، فينيقية، مصر).",
+          "he": "כל שטח המפה (פלשתינה הראשונה, השנייה והשלישית, ארביה, פיניקה, מצרים).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -108,7 +114,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Restored after the Persian withdrawal; then the Arab invasions (from 634)."
+          "en": "Restored after the Persian withdrawal; then the Arab invasions (from 634).",
+          "ar": "استُعيدت بعد الانسحاب الفارسي؛ ثم الغزوات العربية (من 634).",
+          "he": "הושבה לאחר הנסיגה הפרסית; ואז הפלישות הערביות (מ-634).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -148,7 +160,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Only Jerusalem (to 638) and Caesarea (to October 640) held out after the Yarmuk."
+          "en": "Only Jerusalem (to 638) and Caesarea (to October 640) held out after the Yarmuk.",
+          "ar": "القدس وحدها (حتى 638) وقيسارية (حتى تشرين الأول/أكتوبر 640) صمدتا بعد اليرموك.",
+          "he": "רק ירושלים (עד 638) וקיסריה (עד אוקטובר 640) החזיקו מעמד לאחר הירמוך.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

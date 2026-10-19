@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Jerusalem and its surroundings in the central Judean hills, 'far more limited than those of the kingdom of Judah'; Hebron and the south were outside (Edomite/Idumaean). The northern border is debated."
+          "en": "Jerusalem and its surroundings in the central Judean hills, 'far more limited than those of the kingdom of Judah'; Hebron and the south were outside (Edomite/Idumaean). The northern border is debated.",
+          "ar": "القدس وما حولها في مرتفعات اليهودية الوسطى، 'far more limited than those of the kingdom of Judah' [أكثر محدودية بكثير من مملكة يهوذا]؛ وكانت الخليل والجنوب خارجها (أدومية). الحد الشمالي موضع خلاف.",
+          "he": "ירושלים וסביבתה בהרי יהודה המרכזיים, “far more limited than those of the kingdom of Judah” [מוגבל הרבה יותר מאלה של ממלכת יהודה]; חברון והדרום היו מחוצה לה (אדומיים/אידומיים). הגבול הצפוני שנוי במחלוקת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

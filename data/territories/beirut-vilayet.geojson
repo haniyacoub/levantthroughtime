@@ -31,7 +31,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Sanjaks of Beirut (incl. Tyre/Sur district in southern Lebanon), Acre (Galilee; northern border Ras al-Naqura to Lake Hula) and Nablus (from the Jezreel valley to north of Jaffa, east to the Jordan)."
+          "en": "Sanjaks of Beirut (incl. Tyre/Sur district in southern Lebanon), Acre (Galilee; northern border Ras al-Naqura to Lake Hula) and Nablus (from the Jezreel valley to north of Jaffa, east to the Jordan).",
+          "ar": "سناجق بيروت (بما فيها منطقة صور في جنوب لبنان)، وعكا (الجليل؛ حدودها الشمالية من رأس الناقورة إلى بحيرة الحولة)، ونابلس (من مرج ابن عامر إلى شمال يافا، وشرقًا حتى الأردن).",
+          "he": "סנג׳קים של ביירות (כולל מחוז צור בדרום לבנון), עכו (הגליל; הגבול הצפוני מראס א-נקורה ועד אגם החולה) ושכם/נאבלוס (מעמק יזרעאל ועד צפון יפו, ומזרחה עד הירדן).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

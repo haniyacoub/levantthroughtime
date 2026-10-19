@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus and southern Syria, with Jerusalem/Palestine held through appointed emirs."
+          "en": "Damascus and southern Syria, with Jerusalem/Palestine held through appointed emirs.",
+          "ar": "دمشق وجنوب سوريا، مع القدس/فلسطين عبر أمراء معيّنين.",
+          "he": "דמשק ודרום סוריה, עם ירושלים/פלשתינה באמצעות אמירים ממונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

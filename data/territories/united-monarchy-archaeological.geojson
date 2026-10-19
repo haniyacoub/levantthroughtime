@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Minimal conventional reading (Garfinkel et al. 2019): Jerusalem and the hill country, with the western Shephelah marked by Khirbet Qeiyafa and Khirbet al-Ra'i, collapsing c. 1020-970. Mazar (2021) allows wider influence over the inner country; Finkelstein (2013) assigns the northern central hills and western Gilead to a separate Gibeon/Gibeah polity and denies a Jerusalem-ruled united monarchy."
+          "en": "Minimal conventional reading (Garfinkel et al. 2019): Jerusalem and the hill country, with the western Shephelah marked by Khirbet Qeiyafa and Khirbet al-Ra'i, collapsing c. 1020-970. Mazar (2021) allows wider influence over the inner country; Finkelstein (2013) assigns the northern central hills and western Gilead to a separate Gibeon/Gibeah polity and denies a Jerusalem-ruled united monarchy.",
+          "ar": "القراءة التقليدية الدنيا (غارفينكل وآخرون 2019): القدس والمرتفعات، مع الشفيلا الغربية التي تحدها خربة قيافة وخربة الراعي، وانهارت نحو 1020-970. يتيح مازار (2021) نفوذًا أوسع على الداخل؛ ويعزو فنكلشتاين (2013) المرتفعات الشمالية الوسطى وجلعاد الغربية إلى كيان منفصل في جبعون/جبعة وينفي وجود مملكة موحدة يحكمها من القدس.",
+          "he": "הקריאה הקונבנציונלית המינימלית (גרפינקל ואחרים 2019): ירושלים והרי יהודה, עם השפלה המערבית המסומנת בחורבת קיאפה ובחורבת א-ראעי, קורסת בערך 1020-970. מזר (2021) מאפשר השפעה רחבה יותר על פנים הארץ; פינקלשטיין (2013) מייחס את ההר המרכזי הצפוני ואת הגלעד המערבי לישות נפרדת של גבעון/גבעה ומכחיש קיום של ממלכה מאוחדת בשלטון ירושלים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

@@ -46,7 +46,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Precarious control of Palestine and southern Syria."
+          "en": "Precarious control of Palestine and southern Syria.",
+          "ar": "سيطرة هشّة على فلسطين وجنوب سوريا.",
+          "he": "שליטה שברירית בפלשתינה ובדרום סוריה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -94,7 +100,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Egypt and Sinai, plus some coastal towns (Ascalon; Acre under Badr al-Jamali until 1074); interior lost to Atsiz."
+          "en": "Egypt and Sinai, plus some coastal towns (Ascalon; Acre under Badr al-Jamali until 1074); interior lost to Atsiz.",
+          "ar": "مصر وسيناء، إضافة إلى بعض البلدات الساحلية (عسقلان؛ وعكا في عهد بدر الجمالي حتى 1074)؛ فُقد الداخل لصالح أتسز.",
+          "he": "מצרים וסיני, בתוספת כמה ערי חוף (אשקלון; עכו תחת בדר אל-ג׳מאלי עד 1074); הפנים אבד לאטסיז.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -149,7 +161,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Jerusalem retaken from the Artuqids; partial recovery of southern Syria."
+          "en": "Jerusalem retaken from the Artuqids; partial recovery of southern Syria.",
+          "ar": "استُعيدت القدس من الأرتقيين؛ استعادة جزئية لجنوب سوريا.",
+          "he": "ירושלים הוחזרה מידי הארתוקים; השבה חלקית של דרום סוריה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -195,7 +213,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Ascalon, the last Fatimid stronghold on the Palestinian coast, plus Sinai as part of Fatimid Egypt."
+          "en": "Ascalon, the last Fatimid stronghold on the Palestinian coast, plus Sinai as part of Fatimid Egypt.",
+          "ar": "عسقلان، آخر معاقل الفاطميين على الساحل الفلسطيني، إضافة إلى سيناء بوصفها جزءًا من مصر الفاطمية.",
+          "he": "אשקלון, המעוז הפאטימי האחרון בחוף הפלשתיני, בתוספת סיני כחלק ממצרים הפאטימית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -246,7 +270,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Egypt's Sinai frontier only, until Saladin abolished the caliphate (1171)."
+          "en": "Egypt's Sinai frontier only, until Saladin abolished the caliphate (1171).",
+          "ar": "حدود سيناء المصرية فقط، حتى ألغى صلاح الدين الخلافة (1171).",
+          "he": "גבול סיני של מצרים בלבד, עד שצלאח א-דין ביטל את הח׳ליפות (1171).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

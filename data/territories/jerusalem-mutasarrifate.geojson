@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Jerusalem with the districts of Gaza, Jaffa and Hebron (Beersheba district added 1899/1900). British consul (1900): bounded on the north by a line from the mouth of the Auja (Yarkon) to the Jordan bridge near Jericho; east by the Jordan and Dead Sea; south and south-west 'less clear-cut'."
+          "en": "Jerusalem with the districts of Gaza, Jaffa and Hebron (Beersheba district added 1899/1900). British consul (1900): bounded on the north by a line from the mouth of the Auja (Yarkon) to the Jordan bridge near Jericho; east by the Jordan and Dead Sea; south and south-west 'less clear-cut'.",
+          "ar": "القدس مع مقاطعات غزة ويافا والخليل (أُضيفت مقاطعة بئر السبع 1899/1900). القنصل البريطاني (1900): يحدها شمالًا خط من مصب العوجا (اليركون) إلى جسر الأردن قرب أريحا؛ وشرقًا الأردن والبحر الميت؛ أما الجنوب والجنوب الغربي فـ'less clear-cut' [أقل وضوحًا].",
+          "he": "ירושלים עם מחוזות עזה, יפו וחברון (מחוז באר שבע נוסף 1899/1900). הקונסול הבריטי (1900): גבולה בצפון קו ממוצא הירקון (אל-עוג׳א) עד גשר הירדן ליד יריחו; במזרח הירדן וים המלח; בדרום ובדרום-מערב “less clear-cut” [פחות ברור].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -85,7 +91,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After the 1906 Ottoman-British agreement fixing the line from Rafah to the Gulf of Aqaba, 'the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba.'"
+          "en": "After the 1906 Ottoman-British agreement fixing the line from Rafah to the Gulf of Aqaba, 'the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba.'",
+          "ar": "بعد الاتفاق العثماني-البريطاني لعام 1906 الذي حدد الخط من رفح إلى خليج العقبة، 'the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba.' [امتدت سلطة متصرف القدس إلى العقبة، وهي منطقة شملت النقب كله حتى العقبة].",
+          "he": "לאחר ההסכם העות׳מאני-בריטי של 1906 שקבע את הקו מרפיח למפרץ עקבה, “the authority of the governor of Jerusalem extended to Aqaba—an area that included the entire Negev down to Aqaba.” [סמכות מושל ירושלים השתרעה עד עקבה, אזור שכלל את כל הנגב עד עקבה].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

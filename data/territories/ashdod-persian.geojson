@@ -21,7 +21,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Ashdod and its hinterland on the southern coastal plain; extent not given."
+          "en": "Ashdod and its hinterland on the southern coastal plain; extent not given.",
+          "ar": "أشدود وما حولها في السهل الساحلي الجنوبي؛ لم يُذكر مداها.",
+          "he": "אשדוד וסביבתה במישור החוף הדרומי; היקפה לא צוין.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

@@ -31,7 +31,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Britannica: 'mainly in the south of Palestine, with an extension up the coastal plain and its fringes'. Includes Teleilat Ghassul (lower Jordan Valley), the Beersheba copper- and ivory-working sites, the En Gedi shrine and the Nahal Mishmar caves (Judean Desert)."
+          "en": "Britannica: 'mainly in the south of Palestine, with an extension up the coastal plain and its fringes'. Includes Teleilat Ghassul (lower Jordan Valley), the Beersheba copper- and ivory-working sites, the En Gedi shrine and the Nahal Mishmar caves (Judean Desert).",
+          "ar": "بريتانيكا: 'mainly in the south of Palestine, with an extension up the coastal plain and its fringes' [أساسًا في جنوب فلسطين، مع امتداد صعودًا في السهل الساحلي وأطرافه]. تشمل تليلات الغسول (وادي الأردن الأسفل)، ومواقع بئر السبع لصناعة النحاس والعاج، ومعبد عين جدي، وكهوف نحال مشمار (صحراء يهودا).",
+          "he": "בריטניקה: “mainly in the south of Palestine, with an extension up the coastal plain and its fringes” [בעיקר בדרום פלשתינה, עם הרחבה במעלה מישור החוף ושוליו]. כוללת את תלילאת א-גסול (בקעת הירדן התחתונה), אתרי עיבוד הנחושת והשנהב בבאר שבע, מקדש עין גדי ומערות נחל משמר (מדבר יהודה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

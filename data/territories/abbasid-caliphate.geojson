@@ -47,7 +47,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Whole map area under Abbasid governors."
+          "en": "Whole map area under Abbasid governors.",
+          "ar": "كامل منطقة الخريطة تحت ولاة عباسيين.",
+          "he": "כל שטח המפה תחת מושלים עבאסיים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -106,7 +112,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Abbasid authority briefly restored after the Tulunids."
+          "en": "Abbasid authority briefly restored after the Tulunids.",
+          "ar": "استعادة موجزة للسلطة العباسية بعد الطولونيين.",
+          "he": "השבה קצרה של הסמכות העבאסית לאחר הטולונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

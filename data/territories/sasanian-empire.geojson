@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Syria and northern Palestine occupied; Jerusalem taken 614."
+          "en": "Syria and northern Palestine occupied; Jerusalem taken 614.",
+          "ar": "احتلال سوريا وشمال فلسطين؛ أُخذت القدس 614.",
+          "he": "כיבוש סוריה וצפון פלשתינה; ירושלים נלקחה ב-614.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -93,7 +99,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Direct rule over the whole of Palestine incl. its desert frontage (Egypt invaded from 618)."
+          "en": "Direct rule over the whole of Palestine incl. its desert frontage (Egypt invaded from 618).",
+          "ar": "حكم مباشر لفلسطين كلها بما في ذلك واجهتها الصحراوية (غُزيت مصر منذ 618).",
+          "he": "שלטון ישיר בכל פלשתינה כולל חזיתה המדברית (מצרים נפלשה מ-618).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

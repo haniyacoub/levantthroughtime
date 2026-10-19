@@ -38,7 +38,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Interior Palestine and (from 1076) Damascus under Turkmen/Seljuq rulers."
+          "en": "Interior Palestine and (from 1076) Damascus under Turkmen/Seljuq rulers.",
+          "ar": "داخل فلسطين، ومنذ 1076 دمشق، تحت حكام تركمان/سلاجقة.",
+          "he": "פנים פלשתינה, ומ-1076 דמשק, תחת שליטים טורקמנים / סלג׳וקים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

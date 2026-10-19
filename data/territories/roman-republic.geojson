@@ -44,7 +44,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Province of Syria (annexed 64/63) plus dependent rulers: Hasmonean Judea, the Decapolis, Ituraeans, and the Nabataeans as vassals."
+          "en": "Province of Syria (annexed 64/63) plus dependent rulers: Hasmonean Judea, the Decapolis, Ituraeans, and the Nabataeans as vassals.",
+          "ar": "إقليم سوريا (ضُمّ 64/63) إضافة إلى حكام تابعين: اليهودية الحشمونية والديكابوليس والإيطوريين والأنباط بوصفهم تابعين.",
+          "he": "מחוז סוריה (סופח 64/63) בתוספת שליטים תלויים: יהודה החשמונאית, הדקאפוליס, האיטוראים והנבטים כווסאלים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -101,7 +107,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Roman authority restored after the expulsion of the Parthians; Herod as client king."
+          "en": "Roman authority restored after the expulsion of the Parthians; Herod as client king.",
+          "ar": "استُعيدت السلطة الرومانية بعد طرد البارثيين؛ هيرودس ملكًا تابعًا.",
+          "he": "הסמכות הרומית הושבה לאחר גירוש הפרתים; הורדוס כמלך לקוח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

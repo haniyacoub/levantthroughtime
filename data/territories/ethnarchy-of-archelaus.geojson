@@ -30,7 +30,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Judaea, Samaria and Idumaea (Edom), i.e. central and southern Palestine."
+          "en": "Judaea, Samaria and Idumaea (Edom), i.e. central and southern Palestine.",
+          "ar": "اليهودية والسامرة وأدوميا (أدوم)، أي وسط فلسطين وجنوبها.",
+          "he": "יהודה, שומרון ואידומיאה (אדום), כלומר מרכז פלשתינה ודרומה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

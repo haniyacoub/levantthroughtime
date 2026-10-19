@@ -22,7 +22,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Middle Bronze: southern highland body centred on Jerusalem (Execration Texts)."
+          "en": "Middle Bronze: southern highland body centred on Jerusalem (Execration Texts).",
+          "ar": "العصر البرونزي الوسيط: كيان مرتفعات جنوبي مركزه القدس (نصوص اللعنات).",
+          "he": "תקופת הברונזה התיכונה: ישות הר דרומית שמרכזה ירושלים (טקסטי הקללות).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -55,7 +61,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Late Bronze highland city-state of Jerusalem (Abdi-Heba in the 14th century). Extent not given in the sources consulted; shown as part of the Judean hills."
+          "en": "Late Bronze highland city-state of Jerusalem (Abdi-Heba in the 14th century). Extent not given in the sources consulted; shown as part of the Judean hills.",
+          "ar": "دولة مدينة مرتفعات القدس في العصر البرونزي المتأخر (عبدي-خيبا في القرن الرابع عشر). لم يُذكر مداها في المصادر المستشارة؛ تظهر جزءًا من جبال اليهودية.",
+          "he": "עיר-מדינה הררית של ירושלים בתקופת הברונזה המאוחרת (עבדי-חבה במאה ה-14). היקפה לא צוין במקורות שנבדקו; מוצגת כחלק מהרי יהודה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

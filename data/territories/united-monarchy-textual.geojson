@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Saul's kingdom per the biblical narrative; Britannica gives no boundaries. Schematic central highlands and Gilead."
+          "en": "Saul's kingdom per the biblical narrative; Britannica gives no boundaries. Schematic central highlands and Gilead.",
+          "ar": "مملكة شاول بحسب الرواية التوراتية؛ لا تعطي بريتانيكا حدودًا. المرتفعات الوسطى وجلعاد تخطيطيًا.",
+          "he": "ממלכת שאול לפי התיאור המקראי; בריטניקה אינה נותנת גבולות. הר המרכז והגלעד באופן סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -89,7 +95,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "David's kingdom as described in the biblical account (via Britannica): the land 'from Dan to Beer-sheba' plus the conquered Transjordanian states (Ammon, Moab, Edom) and Aramaean states up to the borders of Hamath. Britannica itself doubts effective control over the Syrian desert tribes."
+          "en": "David's kingdom as described in the biblical account (via Britannica): the land 'from Dan to Beer-sheba' plus the conquered Transjordanian states (Ammon, Moab, Edom) and Aramaean states up to the borders of Hamath. Britannica itself doubts effective control over the Syrian desert tribes.",
+          "ar": "مملكة داود كما في الرواية التوراتية (عبر بريتانيكا): الأرض 'from Dan to Beer-sheba' [من دان إلى بئر سبع] إضافة إلى دول شرق الأردن المفتوحة (عمّون وموآب وأدوم) والدول الآرامية حتى حدود حماة. وتشكك بريتانيكا نفسها في سيطرة فعلية على قبائل البادية السورية.",
+          "he": "ממלכת דוד כפי שמתוארת בתיאור המקראי (דרך בריטניקה): הארץ “from Dan to Beer-sheba” [מדן ועד באר שבע] בתוספת מדינות עבר הירדן שנכבשו (עמון, מואב, אדום) והמדינות הארמיות עד גבולות חמת. בריטניקה עצמה מטילה ספק בשליטה אפקטיבית בשבטי המדבר הסורי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [
@@ -144,7 +156,13 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Solomon's kingdom per the biblical account (via Britannica): it 'gradually lost control over outlying territories conquered by David' (Ammon regained independence c. 960 per Britannica Jordan) but kept access to Ezion-geber on the Gulf of Aqaba."
+          "en": "Solomon's kingdom per the biblical account (via Britannica): it 'gradually lost control over outlying territories conquered by David' (Ammon regained independence c. 960 per Britannica Jordan) but kept access to Ezion-geber on the Gulf of Aqaba.",
+          "ar": "مملكة سليمان بحسب الرواية التوراتية (عبر بريتانيكا): 'gradually lost control over outlying territories conquered by David' [فقدت تدريجيًا السيطرة على الأراضي الطرفية التي فتحها داود] (استعادت عمّون استقلالها نحو 960 بحسب بريتانيكا الأردن) لكنها احتفظت بالوصول إلى عصيون جابر على خليج العقبة.",
+          "he": "ממלכת שלמה לפי התיאור המקראי (דרך בריטניקה): “gradually lost control over outlying territories conquered by David” [איבדה בהדרגה את השליטה בשטחי השוליים שכבש דוד] (עמון חזרה לעצמאות בערך 960 לפי בריטניקה ירדן) אך שמרה על גישה לעציון גבר על מפרץ עקבה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "contested",
         "sources": [

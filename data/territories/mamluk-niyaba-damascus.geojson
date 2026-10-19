@@ -27,7 +27,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus and the central Palestinian hill country (Jerusalem, Hebron, Nablus districts), the latter 'usually part of the Province of Damascus'."
+          "en": "Damascus and the central Palestinian hill country (Jerusalem, Hebron, Nablus districts), the latter 'usually part of the Province of Damascus'.",
+          "ar": "دمشق ومنطقة وسط جبال فلسطين (مقاطعات القدس والخليل ونابلس)، وهذه الأخيرة 'usually part of the Province of Damascus' [عادة جزء من ولاية دمشق].",
+          "he": "דמשק ואזור ההר המרכזי של פלשתינה (מחוזות ירושלים, חברון ושכם/נאבלוס), האחרון “usually part of the Province of Damascus” [בדרך כלל חלק ממחוז דמשק].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

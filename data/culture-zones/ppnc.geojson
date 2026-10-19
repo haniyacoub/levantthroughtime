@@ -23,7 +23,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Known mainly from 'Ain Ghazal (Amman area) and the now-submerged coastal site of Atlit Yam (Carmel coast). Only site markers; no regional extent is given."
+          "en": "Known mainly from 'Ain Ghazal (Amman area) and the now-submerged coastal site of Atlit Yam (Carmel coast). Only site markers; no regional extent is given.",
+          "ar": "معروفة أساسًا من عين غزال (منطقة عمّان) وموقع عتليت يام الساحلي المغمور الآن (ساحل الكرمل). علامات مواقع فقط؛ لا يُعطى امتداد إقليمي.",
+          "he": "ידועה בעיקר מעין ע׳זאל (אזור עמאן) ומאתר החוף השקוע כיום עתלית יָם (חוף הכרמל). סימוני אתרים בלבד; לא ניתן היקף אזורי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

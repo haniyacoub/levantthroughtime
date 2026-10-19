@@ -2,10 +2,22 @@
   "$schema": "../../schema/story.schema.json",
   "id": "1967-to-today",
   "title": {
-    "en": "1967 to today"
+    "en": "1967 to today",
+    "ar": "من 1967 إلى اليوم",
+    "he": "מ-1967 ועד היום",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "summary": {
-    "en": "From the June 1967 war through peace treaties, uprisings, the Oslo years and the wars since 2023, with each side’s account."
+    "en": "From the June 1967 war through peace treaties, uprisings, the Oslo years and the wars since 2023, with each side’s account.",
+    "ar": "من حرب حزيران/يونيو 1967 مرورًا بمعاهدات السلام والانتفاضات وسنوات أوسلو والحروب منذ 2023، مع رواية كل طرف.",
+    "he": "ממלחמת יוני 1967 דרך הסכמי שלום, מרידות, שנות אוסלו והמלחמות מאז 2023, עם הגרסה של כל צד.",
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "steps": [
     {
@@ -29,10 +41,22 @@
         "modern"
       ],
       "title": {
-        "en": "June 1967"
+        "en": "June 1967",
+        "ar": "حزيران/يونيو 1967",
+        "he": "יוני 1967",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Between 5 and 10 June 1967 Israel defeated Egypt, Jordan and Syria and occupied the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem and the Golan Heights [1]. Israelis call it the Six-Day War; in Arabic it is called al-Naksa, “the setback” [2][3]."
+        "en": "Between 5 and 10 June 1967 Israel defeated Egypt, Jordan and Syria and occupied the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem and the Golan Heights [1]. Israelis call it the Six-Day War; in Arabic it is called al-Naksa, “the setback” [2][3].",
+        "ar": "بين 5 و10 حزيران/يونيو 1967 هزمت إسرائيل مصر والأردن وسوريا واحتلت شبه جزيرة سيناء وقطاع غزة والضفة الغربية والقدس الشرقية وهضبة الجولان [1]. ويسميها الإسرائيليون حرب الأيام الستة؛ وتسمى بالعربية النكسة [2][3].",
+        "he": "בין 5 ל-10 ביוני 1967 ניצחה ישראל את מצרים, ירדן וסוריה וכבשה את חצי האי סיני, רצועת עזה, הגדה המערבית, מזרח ירושלים ורמת הגולן [1]. הישראלים מכנים אותה מלחמת ששת הימים; בערבית היא נקראת אל-נכסה, ״המפלה״ [2][3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -77,10 +101,22 @@
         "jerusalem"
       ],
       "title": {
-        "en": "Jerusalem"
+        "en": "Jerusalem",
+        "ar": "القدس",
+        "he": "ירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "On 27 and 28 June 1967 Israel applied its law, jurisdiction and administration to East Jerusalem and surrounding areas [1][2]. Israel told the UN that “annexation” was the wrong word and that the measures concerned administrative integration; the Palestinian account calls them annexation [3][4]."
+        "en": "On 27 and 28 June 1967 Israel applied its law, jurisdiction and administration to East Jerusalem and surrounding areas [1][2]. Israel told the UN that “annexation” was the wrong word and that the measures concerned administrative integration; the Palestinian account calls them annexation [3][4].",
+        "ar": "في 27 و28 حزيران/يونيو 1967 طبقت إسرائيل قانونها وولايتها القضائية وإدارتها على القدس الشرقية والمناطق المحيطة بها [1][2]. وأبلغت إسرائيل الأمم المتحدة بأن «الضم» تعبير خاطئ وأن الإجراءات تتعلق بالدمج الإداري؛ وتسميها الرواية الفلسطينية ضمًّا [3][4].",
+        "he": "ב-27 וב-28 ביוני 1967 החילה ישראל את החוק, השיפוט והמינהל שלה על מזרח ירושלים ועל אזורים סביבה [1][2]. ישראל הודיעה לאו״ם ש״סיפוח״ הוא מונח שגוי ושהצעדים נוגעים לאיחוד מינהלי; הנרטיב הפלסטיני מכנה אותם סיפוח [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -127,10 +163,22 @@
         "modern"
       ],
       "title": {
-        "en": "Resolution 242"
+        "en": "Resolution 242",
+        "ar": "القرار 242",
+        "he": "החלטה 242",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In September an Arab summit in Khartoum resolved on “no peace with Israel, no recognition of Israel, no negotiations with it” [1]. In November the UN Security Council unanimously called for the “withdrawal of Israel armed forces from territories occupied in the recent conflict” [2][3]. Whether that means all the territories is disputed: Israeli scholars note that proposals to require a total withdrawal were rejected, while others point to the French text, “des territoires”, “the territories” [4][5]."
+        "en": "In September an Arab summit in Khartoum resolved on “no peace with Israel, no recognition of Israel, no negotiations with it” [1]. In November the UN Security Council unanimously called for the “withdrawal of Israel armed forces from territories occupied in the recent conflict” [2][3]. Whether that means all the territories is disputed: Israeli scholars note that proposals to require a total withdrawal were rejected, while others point to the French text, “des territoires”, “the territories” [4][5].",
+        "ar": "في أيلول/سبتمبر قررت قمة عربية في الخرطوم «لا صلح مع إسرائيل، ولا اعتراف بإسرائيل، ولا مفاوضات معها» [1]. وفي تشرين الثاني/نوفمبر دعا مجلس الأمن بالإجماع إلى «سحب القوات المسلحة الإسرائيلية من أراضٍ احتُلت في النزاع الأخير» [2][3]. وما إذا كان ذلك يعني جميع الأراضي محل خلاف: فيشير باحثون إسرائيليون إلى أن مقترحات إلزام الانسحاب الكامل رُفضت، بينما يشير آخرون إلى النص الفرنسي «des territoires»، أي «الأراضي» [4][5].",
+        "he": "בספטמבר החליטה פסגה ערבית בח׳רטום על ״לא שלום עם ישראל, לא הכרה בישראל, לא משא ומתן עמה״ [1]. בנובמבר קרא מועצת הביטחון של האו״ם פה אחד ל״נסיגת כוחות מזוינים ישראליים משטחים שנכבשו בסכסוך האחרון״ [2][3]. אם הכוונה לכל השטחים שנויה במחלוקת: חוקרים ישראלים מציינים שהצעות לחייב נסיגה מלאה נדחו, ואחרים מצביעים על הנוסח הצרפתי, ״des territoires״, ״השטחים״ [4][5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -182,10 +230,22 @@
         "modern"
       ],
       "title": {
-        "en": "October 1973"
+        "en": "October 1973",
+        "ar": "تشرين الأول/أكتوبر 1973",
+        "he": "אוקטובר 1973",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "On 6 October 1973, the Jewish Day of Atonement, Egyptian forces crossed the Suez Canal and broke through Israel’s Bar Lev line [1][2]. The UN Security Council called for a ceasefire on 22 October [3]. Israelis call it the Yom Kippur War; it is also known as the October War and the Ramadan War [4]."
+        "en": "On 6 October 1973, the Jewish Day of Atonement, Egyptian forces crossed the Suez Canal and broke through Israel’s Bar Lev line [1][2]. The UN Security Council called for a ceasefire on 22 October [3]. Israelis call it the Yom Kippur War; it is also known as the October War and the Ramadan War [4].",
+        "ar": "في 6 تشرين الأول/أكتوبر 1973، يوم الغفران اليهودي، عبرت القوات المصرية قناة السويس واخترقت خط بارليف الإسرائيلي [1][2]. ودعا مجلس الأمن إلى وقف إطلاق النار في 22 تشرين الأول/أكتوبر [3]. ويسميها الإسرائيليون حرب يوم الغفران؛ وتُعرف أيضًا بحرب تشرين وحرب رمضان [4].",
+        "he": "ב-6 באוקטובר 1973, יום הכיפורים היהודי, חצו כוחות מצריים את תעלת סואץ ופרצו את קו בר-לב הישראלי [1][2]. מועצת הביטחון של האו״ם קראה להפסקת אש ב-22 באוקטובר [3]. הישראלים מכנים אותה מלחמת יום הכיפורים; היא ידועה גם כמלחמת אוקטובר ומלחמת רמדאן [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -232,10 +292,22 @@
         "modern"
       ],
       "title": {
-        "en": "The PLO at the UN"
+        "en": "The PLO at the UN",
+        "ar": "منظمة التحرير الفلسطينية في الأمم المتحدة",
+        "he": "אש״ף באו״ם",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In 1974 the Arab states meeting at Rabat recognised the PLO as the “sole legitimate representative of the Palestinian people” [1]. Yasser Arafat told the UN General Assembly that he had come “bearing an olive branch and a freedom-fighter’s gun” [2]. Israel’s representative replied that the PLO sought not the rights of the Palestinians but the annulment of the rights of the Jewish people [3]."
+        "en": "In 1974 the Arab states meeting at Rabat recognised the PLO as the “sole legitimate representative of the Palestinian people” [1]. Yasser Arafat told the UN General Assembly that he had come “bearing an olive branch and a freedom-fighter’s gun” [2]. Israel’s representative replied that the PLO sought not the rights of the Palestinians but the annulment of the rights of the Jewish people [3].",
+        "ar": "في 1974 اعترفت الدول العربية المجتمعة في الرباط بمنظمة التحرير الفلسطينية «الممثل الشرعي الوحيد للشعب الفلسطيني» [1]. وقال ياسر عرفات للجمعية العامة للأمم المتحدة إنه جاء «يحمل غصن الزيتون وبندقية المقاتل من أجل الحرية» [2]. ورد ممثل إسرائيل بأن المنظمة لا تسعى إلى حقوق الفلسطينيين بل إلى إلغاء حقوق الشعب اليهودي [3].",
+        "he": "ב-1974 הכירו המדינות הערביות שהתכנסו ברבאט באש״ף כ״נציג הלגיטימי היחיד של העם הפלסטיני״ [1]. יאסר ערפאת אמר לעצרת הכללית של האו״ם שבא ״נושא ענף זית ורובה של לוחם חופש״ [2]. נציג ישראל השיב שאש״ף אינו שואף לזכויות הפלסטינים אלא לביטול זכויות העם היהודי [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -277,10 +349,22 @@
         "modern"
       ],
       "title": {
-        "en": "Peace with Egypt"
+        "en": "Peace with Egypt",
+        "ar": "السلام مع مصر",
+        "he": "שלום עם מצרים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Egypt’s President Anwar Sadat visited Israel and addressed the Knesset in November 1977 [1]. After the Camp David summit, Egypt and Israel signed a peace treaty on 26 March 1979, and Israel completed its withdrawal from Sinai on 25 April 1982 [2][3]. Many Arabs rejected the accompanying framework for a wider peace, which had been negotiated without the PLO [4]."
+        "en": "Egypt’s President Anwar Sadat visited Israel and addressed the Knesset in November 1977 [1]. After the Camp David summit, Egypt and Israel signed a peace treaty on 26 March 1979, and Israel completed its withdrawal from Sinai on 25 April 1982 [2][3]. Many Arabs rejected the accompanying framework for a wider peace, which had been negotiated without the PLO [4].",
+        "ar": "زار الرئيس المصري أنور السادات إسرائيل وخاطب الكنيست في تشرين الثاني/نوفمبر 1977 [1]. وبعد قمة كامب ديفيد، وقّعت مصر وإسرائيل معاهدة سلام في 26 آذار/مارس 1979، وأكملت إسرائيل انسحابها من سيناء في 25 نيسان/أبريل 1982 [2][3]. ورفض كثير من العرب الإطار المصاحب لسلام أوسع، الذي جرى التفاوض عليه دون منظمة التحرير الفلسطينية [4].",
+        "he": "נשיא מצרים אנואר סאדאת ביקר בישראל ונשא דברים בכנסת בנובמבר 1977 [1]. לאחר פסגת קמפ דייוויד חתמו מצרים וישראל על הסכם שלום ב-26 במרס 1979, וישראל השלימה את נסיגתה מסיני ב-25 באפריל 1982 [2][3]. ערבים רבים דחו את המסגרת שנלוותה לשלום רחב יותר, שנוהלה ללא אש״ף [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -327,10 +411,22 @@
         "modern"
       ],
       "title": {
-        "en": "Jerusalem, the Golan and Lebanon"
+        "en": "Jerusalem, the Golan and Lebanon",
+        "ar": "القدس والجولان ولبنان",
+        "he": "ירושלים, הגולן ולבנון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In 1980 the Knesset declared “Jerusalem, complete and united” Israel’s capital, and the UN Security Council decided not to recognise the law [1][2]. In 1981 Israel applied its law to the Golan Heights, which the Security Council declared null and void [3][4]. On 6 June 1982 Israel invaded Lebanon, saying it intended to end attacks on its territory, and reached Beirut [5][6]."
+        "en": "In 1980 the Knesset declared “Jerusalem, complete and united” Israel’s capital, and the UN Security Council decided not to recognise the law [1][2]. In 1981 Israel applied its law to the Golan Heights, which the Security Council declared null and void [3][4]. On 6 June 1982 Israel invaded Lebanon, saying it intended to end attacks on its territory, and reached Beirut [5][6].",
+        "ar": "في 1980 أعلن الكنيست «القدس الكاملة والموحدة» عاصمة لإسرائيل، وقرر مجلس الأمن عدم الاعتراف بالقانون [1][2]. وفي 1981 طبقت إسرائيل قانونها على هضبة الجولان، التي أعلن مجلس الأمن بطلانه [3][4]. وفي 6 حزيران/يونيو 1982 غزت إسرائيل لبنان، قائلة إنها تنوي إنهاء الهجمات على أراضيها، ووصلت إلى بيروت [5][6].",
+        "he": "ב-1980 הכריזה הכנסת על ״ירושלים השלמה והמאוחדת״ כבירת ישראל, ומועצת הביטחון של האו״ם החליטה שלא להכיר בחוק [1][2]. ב-1981 החילה ישראל את החוק שלה על רמת הגולן, שמועצת הביטחון הכריזה עליו כבטל ומבוטל [3][4]. ב-6 ביוני 1982 פלשה ישראל ללבנון, באומרה שבכוונתה לשים קץ להתקפות על שטחה, והגיעה לביירות [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -387,10 +483,22 @@
         "modern"
       ],
       "title": {
-        "en": "The First Intifada"
+        "en": "The First Intifada",
+        "ar": "الانتفاضة الأولى",
+        "he": "האינתיפאדה הראשונה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "On 9 December 1987 demonstrations broke out in Jabaliya, the largest refugee camp, and grew into the First Intifada [1]. The same day, leaders of the Muslim Brotherhood in Gaza agreed to set up the group that became Hamas [2]. In 1988 Jordan cut its legal and administrative ties with the West Bank, and the Palestine National Council proclaimed the State of Palestine, accepting for the first time the partition of Palestine [3][4]."
+        "en": "On 9 December 1987 demonstrations broke out in Jabaliya, the largest refugee camp, and grew into the First Intifada [1]. The same day, leaders of the Muslim Brotherhood in Gaza agreed to set up the group that became Hamas [2]. In 1988 Jordan cut its legal and administrative ties with the West Bank, and the Palestine National Council proclaimed the State of Palestine, accepting for the first time the partition of Palestine [3][4].",
+        "ar": "في 9 كانون الأول/ديسمبر 1987 اندلعت مظاهرات في جباليا، أكبر المخيمات، وتحولت إلى الانتفاضة الأولى [1]. وفي اليوم نفسه اتفق قادة الإخوان المسلمين في غزة على تأسيس الجماعة التي أصبحت حماس [2]. وفي 1988 قطع الأردن ارتباطه القانوني والإداري بالضفة الغربية، وأعلن المجلس الوطني الفلسطيني دولة فلسطين، قابلًا للمرة الأولى بتقسيم فلسطين [3][4].",
+        "he": "ב-9 בדצמבר 1987 פרצו הפגנות בג׳באליה, מחנה הפליטים הגדול ביותר, והן התפתחו לאינתיפאדה הראשונה [1]. באותו יום הסכימו מנהיגי האחים המוסלמים בעזה להקים את הקבוצה שהפכה לחמאס [2]. ב-1988 ניתקה ירדן את קשריה המשפטיים והמינהליים עם הגדה המערבית, והמועצה הלאומית הפלסטינית הכריזה על מדינת פלסטין, ובכך קיבלה לראשונה את חלוקת פלשתינה [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -437,10 +545,22 @@
         "modern"
       ],
       "title": {
-        "en": "Oslo"
+        "en": "Oslo",
+        "ar": "أوسلو",
+        "he": "אוסלו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "After the Madrid conference of October 1991, Israel and the PLO recognised each other in September 1993: Israel accepted the PLO as the representative of the Palestinians, and the PLO renounced terrorism and recognised Israel’s right to exist in peace [1][2]. On 13 September they signed the Declaration of Principles in Washington, for Palestinian self-government during a transitional period of up to five years [3][4]."
+        "en": "After the Madrid conference of October 1991, Israel and the PLO recognised each other in September 1993: Israel accepted the PLO as the representative of the Palestinians, and the PLO renounced terrorism and recognised Israel’s right to exist in peace [1][2]. On 13 September they signed the Declaration of Principles in Washington, for Palestinian self-government during a transitional period of up to five years [3][4].",
+        "ar": "بعد مؤتمر مدريد في تشرين الأول/أكتوبر 1991، اعترفت إسرائيل ومنظمة التحرير الفلسطينية ببعضهما في أيلول/سبتمبر 1993: قبلت إسرائيل المنظمة ممثلةً للفلسطينيين، ونبذت المنظمة الإرهاب واعترفت بحق إسرائيل في الوجود في سلام [1][2]. وفي 13 أيلول/سبتمبر وقّعتا إعلان المبادئ في واشنطن، من أجل حكم ذاتي فلسطيني خلال فترة انتقالية مدتها حتى خمس سنوات [3][4].",
+        "he": "לאחר ועידת מדריד באוקטובר 1991 הכירו ישראל ואש״ף זה בזה בספטמבר 1993: ישראל קיבלה את אש״ף כנציג הפלסטינים, ואש״ף ויתר על הטרור והכיר בזכות ישראל להתקיים בשלום [1][2]. ב-13 בספטמבר חתמו בוושינגטון על הצהרת העקרונות, לשלטון עצמי פלסטיני בתקופת מעבר של עד חמש שנים [3][4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -486,10 +606,22 @@
         "modern"
       ],
       "title": {
-        "en": "Interim years"
+        "en": "Interim years",
+        "ar": "سنوات المرحلة الانتقالية",
+        "he": "שנות המעבר",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Israel and Jordan signed a peace treaty in October 1994 [1]. The 1995 Interim Agreement divided the West Bank into Areas A, B and C, with different Palestinian and Israeli powers in each [2]. On 4 November 1995 Prime Minister Yitzhak Rabin was assassinated by an Israeli extremist [3]."
+        "en": "Israel and Jordan signed a peace treaty in October 1994 [1]. The 1995 Interim Agreement divided the West Bank into Areas A, B and C, with different Palestinian and Israeli powers in each [2]. On 4 November 1995 Prime Minister Yitzhak Rabin was assassinated by an Israeli extremist [3].",
+        "ar": "وقّعت إسرائيل والأردن معاهدة سلام في تشرين الأول/أكتوبر 1994 [1]. وقسّم الاتفاق المرحلي لعام 1995 الضفة الغربية إلى المناطق (أ) و(ب) و(ج)، بصلاحيات فلسطينية وإسرائيلية مختلفة في كل منها [2]. وفي 4 تشرين الثاني/نوفمبر 1995 اغتال متطرف إسرائيلي رئيس الوزراء يتسحاق رابين [3].",
+        "he": "ישראל וירדן חתמו על הסכם שלום באוקטובר 1994 [1]. ההסכם הביניים של 1995 חילק את הגדה המערבית לשטחים A, B ו-C, עם סמכויות פלסטיניות וישראליות שונות בכל אחד מהם [2]. ב-4 בנובמבר 1995 נרצח ראש הממשלה יצחק רבין בידי קיצוני ישראלי [3].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -534,10 +666,22 @@
         "temple-mount-haram-al-sharif"
       ],
       "title": {
-        "en": "Camp David and the Second Intifada"
+        "en": "Camp David and the Second Intifada",
+        "ar": "كامب ديفيد والانتفاضة الثانية",
+        "he": "קמפ דייוויד והאינתיפאדה השנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "The Camp David summit of July 2000 ended without agreement [1]. Ehud Barak, interviewed by Benny Morris, said Arafat refused even to accept Israel’s proposals as a basis for negotiation; the Palestinian negotiators called them a “re-packaging” of military occupation [2][3]. The Second Intifada began on 29 September 2000 [4]. The international Mitchell committee found that Ariel Sharon’s visit to the Temple Mount/al-Haram al-Sharif did not cause it but was provocative, and found no basis to conclude that the Palestinian Authority had planned the violence [5][6]."
+        "en": "The Camp David summit of July 2000 ended without agreement [1]. Ehud Barak, interviewed by Benny Morris, said Arafat refused even to accept Israel’s proposals as a basis for negotiation; the Palestinian negotiators called them a “re-packaging” of military occupation [2][3]. The Second Intifada began on 29 September 2000 [4]. The international Mitchell committee found that Ariel Sharon’s visit to the Temple Mount/al-Haram al-Sharif did not cause it but was provocative, and found no basis to conclude that the Palestinian Authority had planned the violence [5][6].",
+        "ar": "انتهت قمة كامب ديفيد في تموز/يوليو 2000 دون اتفاق [1]. وقال إيهود باراك، في مقابلة مع بيني موريس، إن عرفات رفض حتى قبول مقترحات إسرائيل أساسًا للتفاوض؛ ووصفها المفاوضون الفلسطينيون بأنها «إعادة تغليف» للاحتلال العسكري [2][3]. وبدأت الانتفاضة الثانية في 29 أيلول/سبتمبر 2000 [4]. وخلصت لجنة ميتشل الدولية إلى أن زيارة أريئيل شارون إلى جبل الهيكل / الحرم الشريف لم تتسبب بها لكنها كانت استفزازية، ولم تجد أساسًا للاستنتاج بأن السلطة الفلسطينية خططت للعنف [5][6].",
+        "he": "פסגת קמפ דייוויד ביולי 2000 הסתיימה ללא הסכם [1]. אהוד ברק, בראיון עם בני מוריס, אמר שערפאת סירב אפילו לקבל את הצעות ישראל כבסיס למשא ומתן; המנהלים הפלסטינים של המשא ומתן כינו אותן ״אריזה מחדש״ של הכיבוש הצבאי [2][3]. האינתיפאדה השנייה החלה ב-29 בספטמבר 2000 [4]. ועדת מיטשל הבינלאומית מצאה שביקורו של אריאל שרון בהר הבית / אל-חרם א-שריף לא גרם לה אך היה פרובוקטיבי, ולא מצאה בסיס להסיק שהרשות הפלסטינית תכננה את האלימות [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -594,10 +738,22 @@
         "modern"
       ],
       "title": {
-        "en": "The barrier and Gaza disengagement"
+        "en": "The barrier and Gaza disengagement",
+        "ar": "الحاجز وفك الارتباط عن غزة",
+        "he": "המכשול וההתנתקות מעזה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In 2002 Israel’s cabinet approved the first phase of a continuous barrier in the West Bank, which Israel says is meant to stop attacks [1][2]. In 2004 the International Court of Justice advised that the wall built inside the occupied territory is contrary to international law [3]. In August–September 2005 Israel evacuated all 21 settlements in Gaza and four in the northern West Bank [4]. Israel said there was then no basis for calling Gaza occupied; the Palestinian Authority argued that Israel remained the occupying power while it controlled the crossings [5][6]."
+        "en": "In 2002 Israel’s cabinet approved the first phase of a continuous barrier in the West Bank, which Israel says is meant to stop attacks [1][2]. In 2004 the International Court of Justice advised that the wall built inside the occupied territory is contrary to international law [3]. In August–September 2005 Israel evacuated all 21 settlements in Gaza and four in the northern West Bank [4]. Israel said there was then no basis for calling Gaza occupied; the Palestinian Authority argued that Israel remained the occupying power while it controlled the crossings [5][6].",
+        "ar": "في 2002 وافق مجلس الوزراء الإسرائيلي على المرحلة الأولى من حاجز متواصل في الضفة الغربية، تقول إسرائيل إن الغرض منه وقف الهجمات [1][2]. وفي 2004 أفادت محكمة العدل الدولية في فتواها بأن الجدار المبني داخل الأراضي المحتلة مخالف للقانون الدولي [3]. وفي آب/أغسطس-أيلول/سبتمبر 2005 أخلت إسرائيل جميع المستوطنات الـ21 في غزة وأربع مستوطنات في شمال الضفة الغربية [4]. وقالت إسرائيل إنه لم يعد هناك أساس لوصف غزة بأنها محتلة؛ وحاججت السلطة الفلسطينية بأن إسرائيل ظلت القوة القائمة بالاحتلال ما دامت تسيطر على المعابر [5][6].",
+        "he": "ב-2002 אישרה ממשלת ישראל את השלב הראשון של מכשול רציף בגדה המערבית, שלדברי ישראל נועד לעצור התקפות [1][2]. ב-2004 קבע בית הדין הבינלאומי לצדק בחוות דעתו שהחומה הנבנית בתוך השטח הכבוש סותרת את המשפט הבינלאומי [3]. באוגוסט–ספטמבר 2005 פינתה ישראל את כל 21 ההתנחלויות ברצועת עזה וארבע בצפון הגדה המערבית [4]. ישראל אמרה שאין עוד בסיס לכנות את עזה כבושה; הרשות הפלסטינית טענה שישראל נותרה המעצמה הכובשת כל עוד היא שולטת במעברים [5][6].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -653,10 +809,22 @@
         "modern"
       ],
       "title": {
-        "en": "Hamas, Gaza and the blockade"
+        "en": "Hamas, Gaza and the blockade",
+        "ar": "حماس وغزة والحصار",
+        "he": "חמאס, עזה והמצור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "Hamas won 74 of the 132 seats in the 2006 legislative election [1]. In June 2007, after fighting with Fatah, Hamas took control of the Gaza Strip, while a Fatah-led emergency cabinet governed the West Bank [2]. Israel and Egypt then blockaded Gaza [3]. Wars between Israel and Hamas followed in 2008–09, 2012, 2014 and 2021 [4][5][6][7]."
+        "en": "Hamas won 74 of the 132 seats in the 2006 legislative election [1]. In June 2007, after fighting with Fatah, Hamas took control of the Gaza Strip, while a Fatah-led emergency cabinet governed the West Bank [2]. Israel and Egypt then blockaded Gaza [3]. Wars between Israel and Hamas followed in 2008–09, 2012, 2014 and 2021 [4][5][6][7].",
+        "ar": "فازت حماس بـ74 من 132 مقعدًا في الانتخابات التشريعية عام 2006 [1]. وفي حزيران/يونيو 2007، بعد قتال مع فتح، سيطرت حماس على قطاع غزة، بينما حكمت حكومة طوارئ بقيادة فتح الضفة الغربية [2]. ثم فرضت إسرائيل ومصر حصارًا على غزة [3]. وتلت ذلك حروب بين إسرائيل وحماس في 2008-2009 و2012 و2014 و2021 [4][5][6][7].",
+        "he": "חמאס זכה ב-74 מתוך 132 מושבים בבחירות לחקיקה ב-2006 [1]. ביוני 2007, לאחר לחימה עם פתח, השתלט חמאס על רצועת עזה, ואילו ממשלת חירום בהנהגת פתח שלטה בגדה המערבית [2]. ישראל ומצרים הטילו אז מצור על עזה [3]. מלחמות בין ישראל לחמאס באו בעקבות זאת ב-2008–09, 2012, 2014 ו-2021 [4][5][6][7].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -718,10 +886,22 @@
         "modern"
       ],
       "title": {
-        "en": "7 October 2023"
+        "en": "7 October 2023",
+        "ar": "7 تشرين الأول/أكتوبر 2023",
+        "he": "7 באוקטובר 2023",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "On 7 October 2023 Hamas and other armed groups from Gaza attacked southern Israel; Hamas’s military commander announced it as “Operation Al-Aqsa Flood” [1][2]. A UN commission of inquiry found that the war crimes of deliberately attacking civilians and murder had been committed [3]. Hamas has described it as “a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people” [4]. The next day Israel declared war, for the first time since 1973 [5]."
+        "en": "On 7 October 2023 Hamas and other armed groups from Gaza attacked southern Israel; Hamas’s military commander announced it as “Operation Al-Aqsa Flood” [1][2]. A UN commission of inquiry found that the war crimes of deliberately attacking civilians and murder had been committed [3]. Hamas has described it as “a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people” [4]. The next day Israel declared war, for the first time since 1973 [5].",
+        "ar": "في 7 تشرين الأول/أكتوبر 2023 هاجمت حماس وجماعات مسلحة أخرى من غزة جنوب إسرائيل؛ وأعلن القائد العسكري لحماس الهجوم باسم «عملية طوفان الأقصى» [1][2]. وخلصت لجنة تحقيق تابعة للأمم المتحدة إلى أن جرائم الحرب المتمثلة في الهجوم المتعمد على المدنيين والقتل قد ارتُكبت [3]. ووصفته حماس بأنه «خطوة ضرورية ورد فعل طبيعي لمواجهة كل المؤامرات الإسرائيلية ضد الشعب الفلسطيني» [4]. وفي اليوم التالي أعلنت إسرائيل الحرب، للمرة الأولى منذ 1973 [5].",
+        "he": "ב-7 באוקטובר 2023 תקפו חמאס וקבוצות חמושות אחרות מעזה את דרום ישראל; המפקד הצבאי של חמאס הכריז עליו כ״מבצע מבול אל-אקצא״ [1][2]. ועדת חקירה של האו״ם מצאה שבוצעו פשעי המלחמה של התקפה מכוונת על אזרחים ורצח [3]. חמאס תיאר זאת כ״צעד הכרחי ותגובה טבעית להתמודדות עם כל המזימות הישראליות נגד העם הפלסטיני״ [4]. למחרת הכריזה ישראל מלחמה, לראשונה מאז 1973 [5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -774,10 +954,22 @@
         "modern"
       ],
       "title": {
-        "en": "The courts"
+        "en": "The courts",
+        "ar": "المحاكم",
+        "he": "בתי הדין",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In January 2024, in a case brought by South Africa, the International Court of Justice ordered Israel to take all measures within its power to prevent acts covered by the Genocide Convention against Palestinians in Gaza [1]. In July 2024 the court advised that Israel’s continued presence in the occupied Palestinian territory is unlawful [2]. Prime Minister Netanyahu responded that “the Jewish people are not occupiers in their own land” [3]. In November 2024 the International Criminal Court issued arrest warrants for Netanyahu and former defence minister Yoav Gallant, after rejecting Israel’s challenge to its jurisdiction [4][5]."
+        "en": "In January 2024, in a case brought by South Africa, the International Court of Justice ordered Israel to take all measures within its power to prevent acts covered by the Genocide Convention against Palestinians in Gaza [1]. In July 2024 the court advised that Israel’s continued presence in the occupied Palestinian territory is unlawful [2]. Prime Minister Netanyahu responded that “the Jewish people are not occupiers in their own land” [3]. In November 2024 the International Criminal Court issued arrest warrants for Netanyahu and former defence minister Yoav Gallant, after rejecting Israel’s challenge to its jurisdiction [4][5].",
+        "ar": "في كانون الثاني/يناير 2024، في قضية رفعتها جنوب أفريقيا، أمرت محكمة العدل الدولية إسرائيل باتخاذ جميع التدابير في حدود سلطتها لمنع أفعال تشملها اتفاقية منع جريمة الإبادة الجماعية ضد الفلسطينيين في غزة [1]. وفي تموز/يوليو 2024 أفادت المحكمة في فتوى بأن استمرار وجود إسرائيل في الأرض الفلسطينية المحتلة غير قانوني [2]. ورد رئيس الوزراء نتنياهو بأن «الشعب اليهودي ليس محتلًا في أرضه» [3]. وفي تشرين الثاني/نوفمبر 2024 أصدرت المحكمة الجنائية الدولية مذكرات اعتقال بحق نتنياهو ووزير الدفاع السابق يوآف غالانت، بعد رفضها طعن إسرائيل في اختصاصها [4][5].",
+        "he": "בינואר 2024, בתיק שהגישה דרום אפריקה, הורה בית הדין הבינלאומי לצדק לישראל לנקוט את כל האמצעים שבסמכותה כדי למנוע מעשים המכוסים באמנה למניעת רצח עם נגד הפלסטינים ברצועת עזה [1]. ביולי 2024 קבע בית הדין בחוות דעת שהמשך נוכחותה של ישראל בשטח הפלסטיני הכבוש אינו חוקי [2]. ראש הממשלה נתניהו השיב ש״העם היהודי אינו כובש בארצו שלו״ [3]. בנובמבר 2024 הוציא בית הדין הפלילי הבינלאומי צווי מעצר נגד נתניהו ושר הביטחון לשעבר יואב גלנט, לאחר שדחה את ערעור ישראל על סמכותו [4][5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -829,10 +1021,22 @@
         "modern"
       ],
       "title": {
-        "en": "Recognition and ceasefire"
+        "en": "Recognition and ceasefire",
+        "ar": "الاعتراف ووقف إطلاق النار",
+        "he": "הכרה והפסקת אש",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In September 2025 the United Kingdom, Canada, Australia, Portugal, France and other states recognised a Palestinian state [1][2]. Prime Minister Netanyahu said a Palestinian state “will not happen” [3]. A US-brokered ceasefire took effect in Gaza on 10 October 2025, and the last surviving hostages were released on 13 October [4]. Israeli forces withdrew to the “Yellow Line”, keeping about half of the Strip [5]."
+        "en": "In September 2025 the United Kingdom, Canada, Australia, Portugal, France and other states recognised a Palestinian state [1][2]. Prime Minister Netanyahu said a Palestinian state “will not happen” [3]. A US-brokered ceasefire took effect in Gaza on 10 October 2025, and the last surviving hostages were released on 13 October [4]. Israeli forces withdrew to the “Yellow Line”, keeping about half of the Strip [5].",
+        "ar": "في أيلول/سبتمبر 2025 اعترفت المملكة المتحدة وكندا وأستراليا والبرتغال وفرنسا ودول أخرى بدولة فلسطينية [1][2]. وقال رئيس الوزراء نتنياهو إن الدولة الفلسطينية «لن تحدث» [3]. ودخل وقف إطلاق نار برعاية أمريكية حيز التنفيذ في غزة في 10 تشرين الأول/أكتوبر 2025، وأُفرج عن آخر الرهائن الأحياء في 13 تشرين الأول/أكتوبر [4]. وانسحبت القوات الإسرائيلية إلى «الخط الأصفر»، محتفظةً بنحو نصف القطاع [5].",
+        "he": "בספטמבר 2025 הכירו הממלכה המאוחדת, קנדה, אוסטרליה, פורטוגל, צרפת ומדינות אחרות במדינה פלסטינית [1][2]. ראש הממשלה נתניהו אמר שמדינה פלסטינית ״לא תקום״ [3]. הפסקת אש בתיווך אמריקאי נכנסה לתוקף בעזה ב-10 באוקטובר 2025, והחטופים החיים האחרונים שוחררו ב-13 באוקטובר [4]. כוחות ישראליים נסוגו ל״קו הצהוב״ ושמרו על כמחצית מהרצועה [5].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -884,10 +1088,22 @@
         "modern"
       ],
       "title": {
-        "en": "Today"
+        "en": "Today",
+        "ar": "اليوم",
+        "he": "היום",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "card": {
-        "en": "In November 2025 the UN Security Council endorsed a US plan for Gaza with a transitional “Board of Peace” [1]. In December 2025 Israel’s defence minister said Israel would “never leave all of Gaza” [2]. A year after the ceasefire, Human Rights Watch reported that Israel kept moving the Yellow Line westward [3]. In October 2026 a presidential decree set Palestinian legislative and presidential elections for 11 September 2027 [4]."
+        "en": "In November 2025 the UN Security Council endorsed a US plan for Gaza with a transitional “Board of Peace” [1]. In December 2025 Israel’s defence minister said Israel would “never leave all of Gaza” [2]. A year after the ceasefire, Human Rights Watch reported that Israel kept moving the Yellow Line westward [3]. In October 2026 a presidential decree set Palestinian legislative and presidential elections for 11 September 2027 [4].",
+        "ar": "في تشرين الثاني/نوفمبر 2025 أيد مجلس الأمن خطة أمريكية لغزة تتضمن «مجلس سلام» انتقاليًا [1]. وفي كانون الأول/ديسمبر 2025 قال وزير الدفاع الإسرائيلي إن إسرائيل «لن تغادر غزة كلها أبدًا» [2]. وبعد عام من وقف إطلاق النار أفادت هيومن رايتس ووتش بأن إسرائيل ظلت تنقل الخط الأصفر غربًا [3]. وفي تشرين الأول/أكتوبر 2026 حدد مرسوم رئاسي موعد الانتخابات التشريعية والرئاسية الفلسطينية في 11 أيلول/سبتمبر 2027 [4].",
+        "he": "בנובמבר 2025 אישרה מועצת הביטחון של האו״ם תוכנית אמריקאית לעזה עם ״מועצת שלום״ מעבר [1]. בדצמבר 2025 אמר שר הביטחון של ישראל שישראל ״לעולם לא תעזוב את כל עזה״ [2]. שנה לאחר הפסקת האש דיווח ארגון Human Rights Watch שישראל המשיכה להזיז את הקו הצהוב מערבה [3]. באוקטובר 2026 קבע צו נשיאותי את הבחירות לחקיקה ולנשיאות הפלסטיניות ל-11 בספטמבר 2027 [4].",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {

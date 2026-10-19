@@ -33,7 +33,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Judaea and Samaria with the coast; capital Caesarea."
+          "en": "Judaea and Samaria with the coast; capital Caesarea.",
+          "ar": "اليهودية والسامرة مع الساحل؛ العاصمة قيسارية.",
+          "he": "יהודה ושומרון עם החוף; הבירה קיסריה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [

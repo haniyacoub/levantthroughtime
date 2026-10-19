@@ -49,7 +49,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Palestine, Lebanon, southern Syria and Transjordan, plus Sinai as part of Ottoman Egypt (from Jan 1517); control east of the Jordan and in the desert margins was loose."
+          "en": "Palestine, Lebanon, southern Syria and Transjordan, plus Sinai as part of Ottoman Egypt (from Jan 1517); control east of the Jordan and in the desert margins was loose.",
+          "ar": "فلسطين ولبنان وجنوب سوريا وشرق الأردن، إضافة إلى سيناء بوصفها جزءًا من مصر العثمانية (منذ كانون الثاني/يناير 1517)؛ وكانت السيطرة شرق الأردن وفي أطراف الصحراء رخوة.",
+          "he": "פלשתינה, לבנון, דרום סוריה ועבר הירדן, בתוספת סיני כחלק ממצרים העות׳מאנית (מינואר 1517); השליטה ממזרח לירדן ובשולי המדבר הייתה רופפת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -129,7 +135,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Restored direct Ottoman rule after the Egyptian withdrawal; Tanzimat-era provinces. Karak and southern Transjordan administered from the 1890s; the Negev down to Aqaba under Jerusalem after the 1906 Ottoman-British boundary agreement (line from Rafah to the Gulf of Aqaba)."
+          "en": "Restored direct Ottoman rule after the Egyptian withdrawal; Tanzimat-era provinces. Karak and southern Transjordan administered from the 1890s; the Negev down to Aqaba under Jerusalem after the 1906 Ottoman-British boundary agreement (line from Rafah to the Gulf of Aqaba).",
+          "ar": "استُعيد الحكم العثماني المباشر بعد الانسحاب المصري؛ ولايات عهد التنظيمات. أُديرت الكرك وجنوب شرق الأردن منذ تسعينيات القرن التاسع عشر؛ والنقب حتى العقبة تحت القدس بعد اتفاق الحدود العثماني-البريطاني 1906 (خط من رفح إلى خليج العقبة).",
+          "he": "שלטון עות׳מאני ישיר הוחזר לאחר הנסיגה המצרית; מחוזות תקופת הטנזימאת. כרך ודרום עבר הירדן נוהלו משנות ה-90 של המאה ה-19; הנגב עד עקבה תחת ירושלים לאחר הסכם הגבול העות׳מאני-בריטי של 1906 (קו מרפיח למפרץ עקבה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -205,7 +217,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "After the capture of Jerusalem (Dec 1917) Ottoman forces still held northern Palestine, Transjordan, Lebanon and Syria; 'The remaining area was occupied by the British by October 1918.'"
+          "en": "After the capture of Jerusalem (Dec 1917) Ottoman forces still held northern Palestine, Transjordan, Lebanon and Syria; 'The remaining area was occupied by the British by October 1918.'",
+          "ar": "بعد الاستيلاء على القدس (كانون الأول/ديسمبر 1917) ظلت القوات العثمانية تحتفظ بشمال فلسطين وشرق الأردن ولبنان وسوريا؛ 'The remaining area was occupied by the British by October 1918.' [احتل البريطانيون المنطقة المتبقية بحلول تشرين الأول/أكتوبر 1918].",
+          "he": "לאחר כיבוש ירושלים (דצמבר 1917) עדיין החזיקו הכוחות העות׳מאניים בצפון פלשתינה, בעבר הירדן, בלבנון ובסוריה; “The remaining area was occupied by the British by October 1918.” [האזור שנותר נכבש בידי הבריטים עד אוקטובר 1918].",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -251,7 +269,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Ottoman-held part of the map area in 1917 before the Gaza-Beersheba line broke: Palestine north of that line, plus Transjordan (Aqaba was taken by Faisal's Arab army in July 1917), the Golan, Syria and Lebanon."
+          "en": "Ottoman-held part of the map area in 1917 before the Gaza-Beersheba line broke: Palestine north of that line, plus Transjordan (Aqaba was taken by Faisal's Arab army in July 1917), the Golan, Syria and Lebanon.",
+          "ar": "الجزء الذي كان بيد العثمانيين من منطقة الخريطة عام 1917 قبل انكسار خط غزة–بئر السبع: فلسطين شمال ذلك الخط، إضافة إلى شرق الأردن (أخذ جيش فيصل العربي العقبة في تموز/يوليو 1917) والجولان وسوريا ولبنان.",
+          "he": "החלק מאזור המפה שהיה בידי העות׳מאנים ב-1917 לפני פריצת קו עזה–באר שבע: פלשתינה מצפון לקו זה, בתוספת עבר הירדן (עקבה נלקחה בידי הצבא הערבי של פייסל ביולי 1917), הגולן, סוריה ולבנון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [
@@ -298,7 +322,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "After the fall of Jerusalem (Dec 1917) the Ottomans held northern Palestine (Galilee, Samaria) and most of Transjordan, the Golan, Syria and Lebanon until the Allied offensive of September 1918; by October 1918 the region was in Allied/Arab hands."
+          "en": "After the fall of Jerusalem (Dec 1917) the Ottomans held northern Palestine (Galilee, Samaria) and most of Transjordan, the Golan, Syria and Lebanon until the Allied offensive of September 1918; by October 1918 the region was in Allied/Arab hands.",
+          "ar": "بعد سقوط القدس (كانون الأول/ديسمبر 1917) احتفظ العثمانيون بشمال فلسطين (الجليل والسامرة) ومعظم شرق الأردن والجولان وسوريا ولبنان حتى هجوم الحلفاء في أيلول/سبتمبر 1918؛ وبحلول تشرين الأول/أكتوبر 1918 كانت المنطقة بيد الحلفاء/العرب.",
+          "he": "לאחר נפילת ירושלים (דצמבר 1917) החזיקו העות׳מאנים בצפון פלשתינה (הגליל ושומרון), ברוב עבר הירדן, בגולן, בסוריה ובלבנון עד מתקפת בעלות הברית בספטמבר 1918; עד אוקטובר 1918 היה האזור בידי בעלות הברית / הערבים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

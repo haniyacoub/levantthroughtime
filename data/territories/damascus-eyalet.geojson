@@ -44,7 +44,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus, Transjordan and Palestine including Safad/Galilee (before Safad's transfer to Sidon) and the Sidon-Beirut district."
+          "en": "Damascus, Transjordan and Palestine including Safad/Galilee (before Safad's transfer to Sidon) and the Sidon-Beirut district.",
+          "ar": "دمشق وشرق الأردن وفلسطين بما فيها صفد/الجليل (قبل نقل صفد إلى صيدا) ومنطقة صيدا-بيروت.",
+          "he": "דמשק, עבר הירדן ופלשתינה כולל צפת/הגליל (לפני העברת צפת לצידון) ומחוז צידון-ביירות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -113,7 +119,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Sanjaks of Jerusalem, Gaza/Jaffa and Nablus plus Damascus and Transjordan; Galilee now under Sidon."
+          "en": "Sanjaks of Jerusalem, Gaza/Jaffa and Nablus plus Damascus and Transjordan; Galilee now under Sidon.",
+          "ar": "سناجق القدس وغزة/يافا ونابلس إضافة إلى دمشق وشرق الأردن؛ الجليل الآن تحت صيدا.",
+          "he": "סנג׳קים של ירושלים, עזה/יפו ושכם/נאבלוס בתוספת דמשק ועבר הירדן; הגליל כעת תחת צידון.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
@@ -185,7 +197,13 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Damascus plus the enlarged sanjak of Jerusalem (with Jaffa and Gaza) and Nablus (joined to Jerusalem 1842-1858)."
+          "en": "Damascus plus the enlarged sanjak of Jerusalem (with Jaffa and Gaza) and Nablus (joined to Jerusalem 1842-1858).",
+          "ar": "دمشق إضافة إلى سنجق القدس الموسّع (مع يافا وغزة) ونابلس (ضُمّت إلى القدس 1842-1858).",
+          "he": "דמשק בתוספת סנג׳ק ירושלים המורחב (עם יפו ועזה) ושכם/נאבלוס (צורפה לירושלים 1842-1858).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "estimated",
         "sources": [
