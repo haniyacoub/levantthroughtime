@@ -45,16 +45,31 @@ export default function App() {
   }, [view]);
 
   useEffect(() => {
-    loadAppData()
+    loadAppData(readUrl(window.location.search).lang ?? 'en')
       .then(setData)
       .catch((e: Error) => setError(e.message));
   }, []);
 
+  // Switching language loads that language's texts; the old data stays on screen until it arrives.
+  useEffect(() => {
+    if (!data || data.lang === lang) return;
+    let stale = false;
+    loadAppData(lang)
+      .then((d) => !stale && setData(d))
+      .catch((e: Error) => setError(e.message));
+    return () => {
+      stale = true;
+    };
+  }, [data, lang]);
+
+  // The timeline is the same in every language file, so it is built once.
+  const hasData = data !== null;
   const scale = useMemo(() => {
     if (!data) return null;
     const asOf = data.config.timeline.as_of;
     return new EraScale(data.eras, startT({ year: asOf.year, month: asOf.month }));
-  }, [data]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hasData]);
 
   // Initial state from the URL (or the start of the timeline).
   useEffect(() => {

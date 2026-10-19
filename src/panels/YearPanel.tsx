@@ -4,7 +4,7 @@ import { activeAt, depthAt, happeningAt, relationsAt, stepYearsAt, type AppData,
 import { nearestFigures, panelSeries } from '../data/population';
 import { loc, resolve } from '../i18n/localize';
 import { useStore } from '../state/store';
-import { formatDate, type Lang } from '../time/format';
+import { formatDate, intlLocale, type Lang } from '../time/format';
 import { endT, startT } from '../time/years';
 import { formatRange } from './format';
 import { SourceButton } from './Sources';
@@ -31,6 +31,9 @@ function eventWindow(t: number): number {
   if (t < 1900) return 3;
   return 1;
 }
+
+/** A list joined the way the reader's language joins lists (Arabic uses "،" and "و"). */
+const listOf = (items: string[], lang: Lang) => new Intl.ListFormat(intlLocale(lang), { style: 'narrow', type: 'conjunction' }).format(items);
 
 function PopulationFigure({ p, lang, areaName }: { p: PopulationPoint; lang: Lang; areaName: string }) {
   const { t } = useTranslation();
@@ -141,7 +144,7 @@ export function YearPanel({ data }: { data: AppData }) {
           </span>
           {r.relation && <span className="row-rel">{r.relation}</span>}
           {ext.extent_type === 'claim' && <span className="row-rel">{tr('onMap.claim')}</span>}
-          {disputed.length > 0 && <span className="row-rel">{tr('onMap.disputedUnits', { units: disputed.join(', ') })}</span>}
+          {disputed.length > 0 && <span className="row-rel">{tr('onMap.disputedUnits', { units: listOf(disputed, lang) })}</span>}
           <span className="row-meta">
             {formatDate(r.record.start, lang)} – {r.record.end ? formatDate(r.record.end, lang) : ''} · {tr(`certainty.${ext.boundary_certainty}`)} <Badge confidence={ext.confidence} />{' '}
             <SourceButton refs={[...r.record.sources, ...ext.sources]} title={r.name} />
@@ -261,7 +264,7 @@ export function YearPanel({ data }: { data: AppData }) {
           <ul className="plain-list">
             {languages.map(({ l, periods }) => (
               <li key={l.id}>
-                <strong>{loc(l.name, lang)}</strong>: {periods.map((p) => tr(`langRole.${p.role}`, { defaultValue: p.role })).join(', ')}
+                <strong>{loc(l.name, lang)}</strong>: {listOf(periods.map((p) => tr(`langRole.${p.role}`, { defaultValue: p.role })), lang)}
                 {periods[0]?.speakers ? ` — ${loc(periods[0].speakers, lang)}` : ''}{' '}
                 <SourceButton refs={periods.flatMap((p) => p.sources)} title={loc(l.name, lang)} compact />
               </li>

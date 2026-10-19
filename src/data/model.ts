@@ -344,6 +344,8 @@ export interface ModernLayer {
 }
 
 export interface AppData {
+  /** The reading language this file was built for. */
+  lang: 'en' | 'ar' | 'he';
   config: {
     title: LocalizedText;
     subtitle: LocalizedText;
@@ -385,9 +387,10 @@ export function baseUrl(): string {
   return import.meta.env.BASE_URL ?? '/';
 }
 
-export async function loadAppData(): Promise<AppData> {
-  const res = await fetch(`${baseUrl()}data/app-data.json`);
-  if (!res.ok) throw new Error(`app-data.json: HTTP ${res.status}`);
+/** Loads the data for one reading language (English plus that language's texts). */
+export async function loadAppData(lang: 'en' | 'ar' | 'he' = 'en'): Promise<AppData> {
+  const res = await fetch(`${baseUrl()}data/app-data.${lang}.json`);
+  if (!res.ok) throw new Error(`app-data.${lang}.json: HTTP ${res.status}`);
   return (await res.json()) as AppData;
 }
 

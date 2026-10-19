@@ -3,7 +3,7 @@
  *
  * Validates /data (and stops if there are errors), then writes the optimised
  * files the website loads into public/data/ (generated; not committed):
- *   app-data.json      config, eras, polities (with colours), cultures, sources, population…
+ *   app-data.<lang>.json  config, eras, polities (with colours), cultures, sources, population… (one per language)
  *   territories.geojson territory and culture-zone shapes, built from units, simplified
  *   labels.geojson     one label point per shape
  *   basemap/*.geojson  physical layers (copied from data/geo/basemap)
@@ -355,7 +355,27 @@ appData.modernLayers = (b.modern?.layers ?? []).map((l) => {
   return { ...l, t0: lt0, t1: lt1 };
 });
 
-writeJson(join(OUT, 'app-data.json'), appData, true);
+// One file per reading language: every text keeps English (the original and the fallback) and that
+// language only, so a reader downloads about a third less text.
+const LOC_KEYS = new Set(['en', 'ar', 'he', 'translation_status']);
+function forLanguage(o: unknown, lang: 'en' | 'ar' | 'he'): unknown {
+  if (Array.isArray(o)) return o.map((x) => forLanguage(x, lang));
+  if (!o || typeof o !== 'object') return o;
+  const rec = o as Record<string, unknown>;
+  if (typeof rec.en === 'string' && Object.keys(rec).every((k) => LOC_KEYS.has(k))) {
+    const out: Record<string, unknown> = { en: rec.en };
+    if (lang !== 'en' && rec[lang]) {
+      out[lang] = rec[lang];
+      const st = (rec.translation_status as Record<string, string> | undefined)?.[lang];
+      if (st) out.translation_status = { [lang]: st };
+    }
+    return out;
+  }
+  return Object.fromEntries(Object.entries(rec).map(([k, v]) => [k, forLanguage(v, lang)]));
+}
+for (const lang of ['en', 'ar', 'he'] as const) {
+  writeJson(join(OUT, `app-data.${lang}.json`), { ...(forLanguage(appData, lang) as object), lang }, true);
+}
 
 // ------------------------------------------------------------ basemap copy
 
