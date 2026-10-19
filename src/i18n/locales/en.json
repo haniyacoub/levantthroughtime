@@ -321,7 +321,7 @@
       ],
       [
         "Names",
-        "Where communities use different names, all are shown with who uses them. Places are labelled with the name in use at the selected date; a switch shows today’s names instead."
+        "Where communities use different names, all are shown with who uses them. Places are labelled with the name in use at the selected date; a switch shows today’s names instead. Names with no sourced date are treated as current usage and shown from 1800. A place destroyed or depopulated is drawn as a hollow ring only where the sources say it was not lived in again."
       ],
       [
         "Colours",
@@ -332,12 +332,20 @@
         "English is the original. Arabic and Hebrew texts are machine-drafted unless marked reviewed, and carry a notice until a fluent reviewer has checked them."
       ],
       [
+        "Modern map layers",
+        "The 1947 partition plan, the 1949 armistice lines and demilitarised zones, the Oslo areas, the West Bank barrier, Israeli settlements by founding year and, for Gaza since 2023, schematic lines only. Each layer names its publisher, licence and date in the year panel. The 1947 plan is an approximate digitisation from the text of the UN resolution, because no open map of it exists."
+      ],
+      [
+        "Stories and perspectives",
+        "The guided tours and the perspectives page are written from the same sourced records: every sentence ends with a link to its source. Perspectives set out how Israeli, Palestinian and academic or international historians describe contested events, side by side, without declaring a winner."
+      ],
+      [
         "What is not shown",
         "Casualty figures for wars and attacks are deliberately left out at this stage."
       ],
       [
         "Corrections and licences",
-        "All data is in plain files that anyone can review. The code is MIT-licensed and the project’s data CC BY 4.0, with short quotations remaining their authors’. Basemap: Natural Earth (public domain); elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA)."
+        "All data is in plain files that anyone can review. The code is MIT-licensed and the project’s data CC BY 4.0, with short quotations remaining their authors’. Layers derived from OpenStreetMap are under the Open Database Licence (ODbL). Basemap: Natural Earth (public domain); elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA); place data: Wikidata (CC0) and Pleiades (CC BY)."
       ]
     ]
   },
