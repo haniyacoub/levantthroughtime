@@ -174,6 +174,11 @@
           "ref": "britannica-amarna-letters",
           "locator": "first paragraph",
           "quote": "dating to the reigns of kings Amenhotep III and Akhenaton of the 18th dynasty"
+        },
+        {
+          "ref": "kennedy-2013-late-bronze-canaan",
+          "locator": "pp. 72-73 (citing EA 244:25-33)",
+          "quote": "for reinforcing the city against an attack led by Lab’ayu"
         }
       ],
       "notes": {
@@ -506,12 +511,42 @@
           "ref": "britannica-palestine-iron-age",
           "locator": "The Israelites in Palestine",
           "quote": "He joined forces with Hiram of Tyre"
+        },
+        {
+          "ref": "josephus-against-apion-whiston",
+          "locator": "Against Apion 1.18 (Menander of Ephesus)",
+          "quote": "Upon the death of Abibalus, his son Hirom took the kingdom; he lived fifty-three years, and reigned thirty-four."
+        },
+        {
+          "ref": "josephus-against-apion-whiston",
+          "locator": "Against Apion 1.18",
+          "quote": "So the whole time from the reign of Hirom, till the building of Carthage, amounts to the sum of one hundred fifty-five years and eight months."
+        },
+        {
+          "ref": "fleming-1915-history-of-tyre",
+          "locator": "ch. II, p. 16",
+          "quote": "He enlarged the city by filling in on the eastern side of the island"
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "1 Kings 5:15 (textual tradition)",
+          "quote": "King Hiram of Tyre sent his officials to Solomon when he heard that he had been anointed king in place of his father"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 107 (on 1 Kgs 9:10-13)",
+          "quote": "should probably be interpreted as an etiological story that explains why, in late monarchic times, areas in the western Galilee were held by the kingdom of Tyre."
+        },
+        {
+          "ref": "josephus-against-apion-whiston",
+          "locator": "Against Apion 1.18",
+          "quote": "had taken much pains to learn their history out of their own records."
         }
       ],
       "notes": {
-        "en": "Regnal dates are Britannica's. In the sources consulted he is known through the biblical account of his dealings with David and Solomon (1 Kings 5, 9); no contemporary inscription naming him was among them. Because his dates are tied to the debated chronology of Solomon, treat them as approximate.",
-        "ar": "تواريخ الحكم من بريتانيكا. في المصادر التي رُوجعت يُعرف من خلال الرواية التوراتية عن تعامله مع داود وسليمان (الملوك الأول 5، 9)؛ ولم يكن بينها نقش معاصر يذكره. ولأن تواريخه مرتبطة بالتسلسل الزمني المتنازع عليه لسليمان، تُعامل على أنها تقريبية.",
-        "he": "תאריכי השלטון הם של בריטניקה. במקורות שנבדקו הוא מוכר מהתיאור המקראי של יחסיו עם דוד ושלמה (מלכים א' 5, 9); לא היה ביניהם כתב מקורי בן התקופה המציין אותו. מכיוון שתאריכיו קשורים לכרונולוגיה השנויה במחלוקת של שלמה, יש להתייחס אליהם כמשוערים.",
+        "en": "Regnal dates are Britannica's. Besides the biblical account (1 Kings 5, 9), Josephus (Against Apion 1.17-18) quotes the Hellenistic historians Dius and Menander of Ephesus, who used Tyrian records: Hiram son of Abibaal reigned 34 years, and 155 years and 8 months separated his accession from the founding of Carthage. Absolute dates (c. 969-936) are modern calculations from these figures and depend on the date assumed for Carthage. No contemporary inscription naming him is known from the sources consulted. Because his dates are tied to the debated chronology of Solomon, treat them as approximate.",
+        "ar": "تواريخ الحكم من بريتانيكا. وإلى جانب الرواية التوراتية (الملوك الأول 5، 9)، يقتبس يوسيفوس (ضد أبيون 1.17-18) المؤرخَين الهلنستيين ديوس ومناندروس الأفسسي، اللذين اعتمدا سجلات صور: حكم حيرام بن أبيبعل 34 سنة، وفصلت 155 سنة و8 أشهر بين توليه وتأسيس قرطاج. والتواريخ المطلقة (نحو 969-936) حسابات حديثة من هذه الأرقام وتتوقف على التاريخ المفترض لتأسيس قرطاج. ولا يُعرف من المصادر التي رُجع إليها نقش معاصر يذكره. ولأن تواريخه مرتبطة بالتسلسل الزمني الخلافي لسليمان، ينبغي اعتبارها تقريبية.",
+        "he": "תאריכי השלטון הם של בריטניקה. מלבד התיאור המקראי (מלכים א' ה, ט), יוספוס (נגד אפיון 1.17–18) מצטט את ההיסטוריונים ההלניסטיים דיוס ומננדרוס מאפסוס, שהשתמשו ברשומות של צור: חירם בן אבי־בעל מלך 34 שנה, ו־155 שנים ו־8 חודשים הפרידו בין עלייתו לייסוד קרתגו. התאריכים המוחלטים (בערך 969–936) הם חישובים מודרניים מן המספרים האלה ותלויים בתאריך שמניחים לייסוד קרתגו. לא ידועה במקורות שנבדקו כתובת בת הזמן הנוקבת בשמו. משום שתאריכיו קשורים לכרונולוגיה השנויה במחלוקת של שלמה, יש להתייחס אליהם כמשוערים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -994,12 +1029,32 @@
           "ref": "britannica-uzziah",
           "locator": "biography",
           "quote": "Assyrian records indicate that Uzziah reigned for 42 years (c. 783–742)."
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "2 Kings 15:1-2 (textual tradition)",
+          "quote": "He was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem"
+        },
+        {
+          "ref": "young-2005-jets-reign-tables",
+          "locator": "p. 226 and Table 2 (Uzziah: 791t-740t)",
+          "quote": "Thiele went against the usual rule for coregencies and considered that Uzziah’s fifty-two years were by accession reckoning"
+        },
+        {
+          "ref": "iip-unkn0136-uzziah-epitaph",
+          "locator": "translation (later epigraphic tradition, 1st c. BCE - 1st c. CE)",
+          "quote": "To this place were brought the bones of Uzziah King of Judah. Do not open."
+        },
+        {
+          "ref": "young-2005-jets-reign-tables",
+          "locator": "p. 226",
+          "quote": "his starting year for the Amaziah/Uzziah coregency is one year earlier than the 791t shown in Table 2."
         }
       ],
       "notes": {
-        "en": "Regnal dates follow Encyclopaedia Britannica; the standard chronologies of the kings (Thiele, Albright, Galil and others) differ from each other by a few years and were not consulted directly, so dates are marked circa. Britannica gives the biblical 52-year reign (c. 791-739; Britannica notes that his son Jotham ruled for him until his death) and a shorter 42-year reign (c. 783-742) which it bases on Assyrian records; both are shown as windows.",
-        "ar": "تتبع تواريخ الحكم دائرة المعارف البريطانية (بريتانيكا)؛ وتختلف التسلسلات الزمنية المعيارية للملوك (ثيلي، أولبرايت، غليل وغيرهم) فيما بينها ببضع سنوات ولم يُرجع إليها مباشرة، ولذلك وُسمت التواريخ بأنها تقريبية. تعطي بريتانيكا الحكم التوراتي البالغ 52 سنة (نحو 791-739؛ وتلاحظ بريتانيكا أن ابنه يوثام حكم عنه حتى وفاته) وحكمًا أقصر مدته 42 سنة (نحو 783-742) تستند فيه إلى السجلات الآشورية؛ ويُعرض كلاهما كنافذتين.",
-        "he": "תאריכי השלטון עוקבים אחר האנציקלופדיה בריטניקה; הכרונולוגיות הסטנדרטיות של המלכים (תיל, אולברייט, גליל ואחרים) נבדלות זו מזו בכמה שנים ולא נבדקו ישירות, ולכן התאריכים מסומנים כמשוערים. בריטניקה נותנת את שלטון 52 השנים המקראי (בערך 791-739; בריטניקה מציינת שבנו יותם שלט במקומו עד מותו) ושלטון קצר יותר של 42 שנה (בערך 783-742) שהיא מבססת על רשומות אשוריות; שניהם מוצגים כחלונות.",
+        "en": "Regnal dates follow Encyclopaedia Britannica; the standard chronologies differ by a few years, so dates are marked circa. A revised Thiele chronology (Young 2005) has a co-regency from 791 BCE and the end of the reign in 740 BCE. Basis: biblical text (2 Kings 15; 2 Chronicles 26). Epigraphy: a Second Temple-period plaque records the reburial of 'the bones of Uzziah King of Judah' (Inscriptions of Israel/Palestine, Unkn 0136); it is a later tradition, not a contemporary record. Britannica gives the biblical 52-year reign (c. 791-739; Britannica notes that his son Jotham ruled for him until his death) and a shorter 42-year reign (c. 783-742) which it bases on Assyrian records; both are shown as windows.",
+        "ar": "تتبع تواريخ الحكم الموسوعة البريطانية؛ وتختلف التسلسلات الزمنية المعتمدة ببضع سنوات، لذا تُوسم التواريخ بـ«نحو». ويضع تسلسل ثيله المنقح (يونغ 2005) حكماً مشتركاً منذ 791 ق.م. ونهاية الحكم سنة 740 ق.م. الأساس: النص التوراتي (الملوك الثاني 15؛ أخبار الأيام الثاني 26). النقوش: لوحة من فترة الهيكل الثاني تسجل إعادة دفن «عظام عُزيا ملك يهوذا» (نقوش إسرائيل/فلسطين، Unkn 0136)؛ وهي تقليد لاحق لا سجل معاصر. وتذكر بريتانيكا مدة الحكم التوراتية البالغة 52 سنة (نحو 791-739؛ وتشير بريتانيكا إلى أن ابنه يوثام حكم نيابة عنه حتى وفاته) ومدة أقصر بلغت 42 سنة (نحو 783-742) تستند فيها إلى السجلات الآشورية؛ وتُعرض كلتاهما نافذتين.",
+        "he": "תאריכי השלטון הולכים אחר אנציקלופדיה בריטניקה; הכרונולוגיות המקובלות נבדלות בכמה שנים, ולכן התאריכים מסומנים \"בערך\". כרונולוגיה מתוקנת של תילה (יאנג 2005) קובעת שלטון משותף מ־791 לפנה״ס וסוף השלטון ב־740 לפנה״ס. בסיס: הטקסט המקראי (מלכים ב' טו; דברי הימים ב' כו). אפיגרפיה: לוח מימי הבית השני מתעד את הקבורה מחדש של \"עצמות עוזיה מלך יהודה\" (כתובות ישראל/פלשתינה, Unkn 0136); זו מסורת מאוחרת ולא תיעוד בן הזמן. בריטניקה נותנת את שלטונו המקראי בן 52 השנים (בערך 791–739; בריטניקה מציינת שבנו יותם משל במקומו עד מותו) ושלטון קצר יותר בן 42 שנים (בערך 783–742) שהיא מבססת על רשומות אשוריות; שניהם מוצגים כחלונות.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -1028,16 +1083,16 @@
         }
       },
       "start": {
-        "year": -786,
+        "year": -793,
+        "latest": -783,
         "circa": true,
-        "precision": "year",
-        "latest": -783
+        "precision": "year"
       },
       "end": {
-        "year": -746,
+        "year": -753,
+        "latest": -741,
         "circa": true,
-        "precision": "year",
-        "latest": -741
+        "precision": "year"
       },
       "basis": "textual-tradition",
       "confidence": "estimated",
@@ -1056,6 +1111,31 @@
           "ref": "britannica-palestine-iron-age",
           "locator": "The Israelites in Palestine",
           "quote": "the triumphs of Jeroboam II (c. 786–746 bce)"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 129",
+          "quote": "Jeroboam II, Joash’s son, ruled over Israel for forty years (788–747 b.c.e.)."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 132 (Samaria ostraca, dated by the latest regnal year 17)",
+          "quote": "Jeroboam II was the only king of that time who ruled for seventeen years and more."
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "2 Kings 14:23 (textual tradition)",
+          "quote": "King Jeroboam son of Joash of Israel became king in Samaria—for forty-one years."
+        },
+        {
+          "ref": "young-2005-jets-reign-tables",
+          "locator": "Table 1 (kings of Israel)",
+          "quote": "Jeroboam II 793n 782t/781n 753, Elul (Sep) 793n–753n 41 (40)"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 148",
+          "quote": "Historically, this means the site was active in the days of Jeroboam II (788–747 b.c.e.)."
         }
       ],
       "notes": {
@@ -1327,6 +1407,26 @@
           "ref": "britannica-palestine-iron-age",
           "locator": "The Israelites in Palestine",
           "quote": "Another strong king, Josiah (c. 640–609 bce)"
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "2 Kings 22:1 (textual tradition)",
+          "quote": "Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem."
+        },
+        {
+          "ref": "young-2005-jets-reign-tables",
+          "locator": "p. 228",
+          "quote": "My “Jerusalem” paper showed that Josiah’s thirty-one years (2 Kgs 22:1) are to be taken in an accession sense."
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "p. 94 (archaeological view of Judah under Josiah)",
+          "quote": "but even in the late seventh century Judah did not control the Gezer-lod area"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 157",
+          "quote": "probably in the days of Josiah in the late seventh century b.c.e., after the withdrawal of Assyria from the region."
         }
       ],
       "notes": {
@@ -1698,6 +1798,26 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "Alexander",
           "quote": "After the death of Alexander in 323 bce, Palestine, with much of Syria and Phoenicia, fell to Ptolemy I (Soter)"
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 1.1.1 with translator's note 14",
+          "quote": "B.C. 336. He was murdered by a young noble named Pausanias"
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 7.28.1 with translator's note 976",
+          "quote": "Alexander died in the hundred and fourteenth Olympiad, in the archonship of Hegesias at Athens."
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 7.28.1 (Aristobulus)",
+          "quote": "He had reigned twelve years and these eight months."
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 2.24.6 with translator's note 331 (Tyre, July/August 332)",
+          "quote": "Thus then was Tyre captured in the month Hecatombaion, when Anicetus was archon at Athens."
         }
       ],
       "notes": {
@@ -1989,6 +2109,16 @@
           "ref": "livius-babylonian-king-list-hellenistic",
           "locator": "reverse line 14 (Seleucid year 148 = 164 BCE)",
           "quote": "Year 148, Kislîmu [= month IX]: It was heard that An(tiochus IV), the k[ing died]."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 4 sketch of Seleucid history, p. 172",
+          "quote": "Antiochus IV. Epiphanes, b.c. 175-164."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 2 (chronology of 1-2 Maccabees)",
+          "quote": "The death of Antiochus Epiphanes is set down in 1 Mace. vi. 16 at the year 149 of the Seleucid era"
         }
       ],
       "notes": {

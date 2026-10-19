@@ -375,6 +375,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "albright-1969-anet-palestinian-inscriptions",
+      "type": "chapter",
+      "authors": [
+        "Albright, W. F. (translator)"
+      ],
+      "title": "Palestinian Inscriptions: The Gezer Calendar; The Moabite Stone",
+      "container": "J. B. Pritchard (ed.), Ancient Near Eastern Texts Relating to the Old Testament, 3rd ed. with supplement, pp. 320-321",
+      "publisher": "Princeton University Press",
+      "year": 1969,
+      "isbn": "0691035326",
+      "url": "https://openlibrary.org/works/OL20829693W",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read pp. 320-321 only, in a scanned course-reading PDF hosted by the University of Michigan (courses.lsa.umich.edu, Israel-Palestine course); this is a copy of a copyrighted book of uncertain authorisation, so the entry links to the Open Library catalogue record instead."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "albright-1975-amarna-letters",
       "type": "chapter",
       "authors": [
@@ -863,7 +884,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full translation as transcribed at tertullian.org (Roger Pearse). An eyewitness narrative (7th century) preserved in Georgian, translated in 1910; dated scholarship."
+        "note": "Read the full translation as transcribed at tertullian.org (Roger Pearse). An eyewitness narrative (7th century) preserved in Georgian, translated in 1910; dated scholarship. | Re-read in Milestone 8: Re-downloaded the tertullian.org transcription and read the account of the siege (date, duration) and the burial of the dead at Mamel."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -1050,6 +1071,26 @@
       "kind": "ngo",
       "institution_country": "PS",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "arrian-anabasis-chinnock-1884",
+      "type": "book",
+      "authors": [
+        "Arrian",
+        "Chinnock, E. J. (translator)"
+      ],
+      "title": "The Anabasis of Alexander; or, The History of the Wars and Conquests of Alexander the Great",
+      "publisher": "Hodder and Stoughton",
+      "year": 1884,
+      "url": "https://www.gutenberg.org/ebooks/46976",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (2nd century CE) in a dated (1884) translation with commentary; read the Project Gutenberg text of books 1.1, 2.24-27, 3.22 and 7.28 with the translator's notes."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "avalon-aaci-report-1946",
@@ -1425,6 +1466,26 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "avni-2010-persian-conquest-jerusalem-bi",
+      "type": "web",
+      "authors": [
+        "Avni, Gideon"
+      ],
+      "title": "The Persian Conquest of Jerusalem (614 CE) - An Archaeological Assessment",
+      "container": "Bible and Interpretation",
+      "publisher": "University of Arizona (Arizona Center for Judaic Studies)",
+      "year": 2010,
+      "url": "https://bibleinterp.arizona.edu/node/2487",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the author's essay in full (October 2010; the author was then director of excavations and surveys at the Israel Antiquities Authority). It summarises his peer-reviewed article in BASOR 357 (2010): 35-48, which was not opened."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "avni-2014",
@@ -1977,6 +2038,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+      "type": "web",
+      "authors": [
+        "Bartelmus, Alexa"
+      ],
+      "title": "Nebuchadnezzar II (604-562 BC)",
+      "container": "RIBo, Babylon 7: The Inscriptions of the Neo-Babylonian Dynasty (Oracc)",
+      "publisher": "RIBo Project, LMU Munich",
+      "year": 2024,
+      "url": "https://oracc.museum.upenn.edu/ribo/babylon7/Rulers/NebuchadnezzarII/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online ruler essay in full (campaigns in the Levant, Jerusalem 597 and 587)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "bartelmus-2025-ribo-cyrus-ii",
+      "type": "web",
+      "authors": [
+        "Bartelmus, Alexa"
+      ],
+      "title": "Cyrus II (559-530 BC)",
+      "container": "RIBo, Babylon 8: The Inscriptions of Cyrus II and His Successors (Oracc)",
+      "publisher": "RIBo Project, LMU Munich",
+      "year": 2025,
+      "url": "https://oracc.museum.upenn.edu/ribo/babylon8/Rulers/CyrusII/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online ruler essay in full (defeat of Astyages, conquest of Babylonia)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "bartov-2004-dissertation",
       "type": "book",
       "authors": [
@@ -2321,11 +2422,31 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review."
+        "note": "Read the full review. | Re-read in Milestone 8: Re-read the full review (BMCR 2011.03.86)."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-farahani-2009-dignas-winter-rome-persia",
+      "type": "web",
+      "authors": [
+        "Farahani, Alan"
+      ],
+      "title": "Review of Beate Dignas and Engelbert Winter, Rome and Persia in Late Antiquity: Neighbours and Rivals (Cambridge University Press, 2007)",
+      "container": "Bryn Mawr Classical Review 2009.03.51",
+      "publisher": "Bryn Mawr College",
+      "year": 2009,
+      "url": "https://bmcr.brynmawr.edu/2009/2009.03.51/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "bmcr-girardin-2020-jacobson-agrippa-ii",
@@ -2346,6 +2467,46 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-hauser-2002-dignas-winter-rom-perserreich",
+      "type": "web",
+      "authors": [
+        "Hauser, Stefan"
+      ],
+      "title": "Review of Engelbert Winter and Beate Dignas, Rom und das Perserreich: zwei Weltmächte zwischen Konfrontation und Koexistenz (Akademie Verlag, 2001)",
+      "container": "Bryn Mawr Classical Review 2002.05.06",
+      "publisher": "Bryn Mawr College",
+      "year": 2002,
+      "url": "https://bmcr.brynmawr.edu/2002/2002.05.06/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "bmcr-king-2026-zarghamee-achaemenids",
+      "type": "web",
+      "authors": [
+        "King, Rhyne"
+      ],
+      "title": "Review of Reza Zarghamee, Myth and history in ancient Persia: the Achaemenids in the Iranian tradition",
+      "container": "Bryn Mawr Classical Review 2026.01.27",
+      "publisher": "Bryn Mawr College",
+      "year": 2026,
+      "url": "https://bmcr.brynmawr.edu/2026/2026.01.27/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "CA"
     },
     {
       "id": "bmcr-lichtenberger-2024-johannsen",
@@ -2381,7 +2542,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review."
+        "note": "Read the full review. | Re-read in Milestone 8: Re-read the full review (BMCR 2004.03.08), chapter summaries for 610-633."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -2421,11 +2582,51 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review; book details (Johannes Christian Bernhardt, De Gruyter 2017, KLIO Beihefte NF 22) as given in the review header."
+        "note": "Read the full review; book details (Johannes Christian Bernhardt, De Gruyter 2017, KLIO Beihefte NF 22) as given in the review header. | Re-read in Milestone 8: Re-read the full review (BMCR 2018.11.36)."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-walker-2005-butcher-roman-syria",
+      "type": "web",
+      "authors": [
+        "Walker, Joel"
+      ],
+      "title": "Review of Kevin Butcher, Roman Syria and the Near East (British Museum Press / Getty, 2003)",
+      "container": "Bryn Mawr Classical Review 2005.06.21",
+      "publisher": "Bryn Mawr College",
+      "year": 2005,
+      "url": "https://bmcr.brynmawr.edu/2005/2005.06.21/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "bmcr-wheeler-2013-ellerbrock-parther",
+      "type": "web",
+      "authors": [
+        "Wheeler, Everett L."
+      ],
+      "title": "Review of Uwe Ellerbrock and Sylvia Winkelmann, Die Parther: die vergessene Großmacht (Philipp von Zabern, 2012)",
+      "container": "Bryn Mawr Classical Review 2013.06.19",
+      "publisher": "Bryn Mawr College",
+      "year": 2013,
+      "url": "https://bmcr.brynmawr.edu/2013/2013.06.19/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "bmcr-winger-2011-myers-ituraeans",
@@ -2609,6 +2810,44 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "breasted-1906-ancient-records-2",
+      "type": "book",
+      "authors": [
+        "Breasted, James Henry"
+      ],
+      "title": "Ancient Records of Egypt: Historical Documents from the Earliest Times to the Persian Conquest, vol. II: The Eighteenth Dynasty",
+      "publisher": "University of Chicago Press",
+      "year": 1906,
+      "url": "https://archive.org/details/ancientrecordsof02brea",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Annals of Thutmose III on the first campaign (Megiddo). Dated scholarship (1906): the translation stands, but Breasted's absolute dates are obsolete."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "breasted-1906-ancient-records-3",
+      "type": "book",
+      "authors": [
+        "Breasted, James Henry"
+      ],
+      "title": "Ancient Records of Egypt: Historical Documents from the Earliest Times to the Persian Conquest, vol. III: The Nineteenth Dynasty",
+      "publisher": "University of Chicago Press",
+      "year": 1906,
+      "url": "https://archive.org/details/ancientrecordsof03brea",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Kadesh records of Ramses II and the Israel Stela of Merneptah. Dated scholarship (1906): Breasted's absolute dates are obsolete."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "breger-reiter-hammer-holy-places",
@@ -8680,7 +8919,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (early 3rd century CE). Downloaded and read 48.26 (Pacorus invades Syria and Palestine, 40 BCE) and 48.41 (Ventidius recovers Syria and Palestine, 39 BCE)."
+        "note": "Primary source (early 3rd century CE). Downloaded and read 48.26 (Pacorus invades Syria and Palestine, 40 BCE) and 48.41 (Ventidius recovers Syria and Palestine, 39 BCE). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 48 and read chs. 26 and 41 (Parthian invasion of Palestine, 40-39 BCE)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -8707,6 +8946,27 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "cassius-dio-53-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book LIII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VI (1917)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1917,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/53*.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (3rd century CE). Downloaded and read the book summary with its consular list and chs. 16-17 (title Augustus, 27 BCE)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "cassius-dio-55-cary",
       "type": "document",
       "authors": [
@@ -8720,7 +8980,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read 55.25-27 (the year of the consuls Aemilius Lepidus and L. Arruntius, 6 CE, ending with the banishment of 'Herod of Palestine', i.e. Archelaus, per the translator's note)."
+        "note": "Primary source. Downloaded and read 55.25-27 (the year of the consuls Aemilius Lepidus and L. Arruntius, 6 CE, ending with the banishment of 'Herod of Palestine', i.e. Archelaus, per the translator's note). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 55 and read ch. 27 (banishment of \"Herod of Palestine\", i.e. Archelaus, with the translator's note 34)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -8761,7 +9021,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read chapters 12-14 (Bar Kokhba revolt; Loeb translation by E. Cary). Book 69 survives in the Byzantine epitome of Xiphilinus."
+        "note": "Downloaded the page and read chapters 12-14 (Bar Kokhba revolt; Loeb translation by E. Cary). Book 69 survives in the Byzantine epitome of Xiphilinus. | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 69 and read chs. 12-14."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -9730,6 +9990,48 @@
       "institution_country": "US"
     },
     {
+      "id": "diodorus-16-sherman",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Sherman, Charles L. (translator)"
+      ],
+      "title": "Library of History, Book XVI",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VII (1952)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1952,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/16C*.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read chs. 40-52 (Artaxerxes III Ochus, revolt of Sidon, reconquest of Egypt) with the translator's notes on the date."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "diodorus-17-welles",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Welles, C. Bradford (translator)"
+      ],
+      "title": "Library of History, Book XVII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VIII (1963)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1963,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17C*.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read chs. 40-49 (sieges of Tyre and Gaza) with the translator's notes."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "diodorus-18-geer",
       "type": "document",
       "authors": [
@@ -9764,7 +10066,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read the LacusCurtius pages 19C (chs. 49-65: Antigonus enters Phoenicia and takes Joppa and Gaza, 315), 19E (chs. 73-101: battle of Gaza 312, Ptolemy's withdrawal 311, campaign against the Nabataeans) and 19F (ch. 105: peace of 311). Year equations are the translator's notes (Loeb)."
+        "note": "Primary source. Downloaded and read the LacusCurtius pages 19C (chs. 49-65: Antigonus enters Phoenicia and takes Joppa and Gaza, 315), 19E (chs. 73-101: battle of Gaza 312, Ptolemy's withdrawal 311, campaign against the Nabataeans) and 19F (ch. 105: peace of 311). Year equations are the translator's notes (Loeb). | Re-read in Milestone 8: Re-downloaded LacusCurtius page 19E and read chs. 77-86 (battle of Gaza) with the Loeb notes 22, 40-41."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -10160,6 +10462,27 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "edgerton-wilson-1936-saoc12",
+      "type": "book",
+      "authors": [
+        "Edgerton, William F.",
+        "Wilson, John A."
+      ],
+      "title": "Historical Records of Ramses III: The Texts in Medinet Habu Volumes I and II, Translated with Explanatory Notes",
+      "container": "Studies in Ancient Oriental Civilization 12",
+      "publisher": "University of Chicago Press (Oriental Institute)",
+      "year": 1936,
+      "url": "https://isac.uchicago.edu/research/publications/saoc/saoc-12-historical-records-ramses-iii-texts-medinet-habu-volumes-i-and-ii",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the free PDF released by the Institute for the Study of Ancient Cultures (ISAC), Chicago, and read plates 27-28, 29-46 (Northern War of Year 8) with the translators' notes. Dated scholarship (1936)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "egypt-israel-gaa-1949",
@@ -10639,7 +10962,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the open-access full text (Europe PMC, PMC6609216): abstract, introduction on the migration debate, results."
+        "note": "Read the open-access full text (Europe PMC, PMC6609216): abstract, introduction on the migration debate, results. | Re-read in Milestone 8: Re-read the Europe PMC full text (PMC6609216): introduction on the 12th-century cultural change at Ashkelon, Ashdod and Ekron."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -10700,7 +11023,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel)."
+        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -10720,7 +11043,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open PDF read. Ch. 1 reprints 'Jerusalem in the Persian (and Early Hellenistic) Period and the Wall of Nehemiah', JSOT 32 (2008): 501-20; ch. 3 (pp. 51-65) reprints 'The Territorial Extent and Demography of Yehud/Judea in the Persian and Early Hellenistic Periods', Revue Biblique 117 (2010): 39-54 (reprint list on p. viii). Figures quoted from the reprint."
+        "note": "Open PDF read. Ch. 1 reprints 'Jerusalem in the Persian (and Early Hellenistic) Period and the Wall of Nehemiah', JSOT 32 (2008): 501-20; ch. 3 (pp. 51-65) reprints 'The Territorial Extent and Demography of Yehud/Judea in the Persian and Early Hellenistic Periods', Revue Biblique 117 (2010): 39-54 (reprint list on p. viii). Figures quoted from the reprint. | Re-read in Milestone 8: Re-downloaded the SBL open-access PDF and read ch. 4, \"Nehemiah's Adversaries\", pp. 71-80 (Tobiah the Ammonite)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -10768,6 +11091,26 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "fleming-1915-history-of-tyre",
+      "type": "book",
+      "authors": [
+        "Fleming, Wallace B."
+      ],
+      "title": "The History of Tyre",
+      "container": "Columbia University Oriental Studies, vol. X",
+      "publisher": "Columbia University Press",
+      "year": 1915,
+      "url": "https://archive.org/details/historyoftyre00flemuoft",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read chs. I-II (origins, Amarna period, Hiram) and V (Babylonian siege). Dated scholarship (1915): its absolute dates for the Bronze Age follow the chronology of its time."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "follett-2017-iip-earthquake-363",
@@ -11919,6 +12262,26 @@
       "kind": "un"
     },
     {
+      "id": "herodotus-macaulay-1890",
+      "type": "book",
+      "authors": [
+        "Herodotus",
+        "Macaulay, G. C. (translator)"
+      ],
+      "title": "The History of Herodotus (2 vols.)",
+      "publisher": "Macmillan (Project Gutenberg e-texts nos. 2707 and 2456)",
+      "year": 1890,
+      "url": "https://www.gutenberg.org/ebooks/2707",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "herzog-1999-deconstructing-walls-jericho",
       "type": "article",
       "authors": [
@@ -11994,7 +12357,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text."
+        "note": "Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (originsofislamic00balarich) and read Part II, chs. I-X and the Palestine chapter (pp. 165-220): Dathin, al-Arabah, Ajnadayn, Damascus, al-Yarmuk, Gaza, Jerusalem."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -12036,6 +12399,29 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "honigmann-1950-juvenal",
+      "type": "article",
+      "authors": [
+        "Honigmann, Ernest"
+      ],
+      "title": "Juvenal of Jerusalem",
+      "container": "Dumbarton Oaks Papers",
+      "volume": 5,
+      "pages": "209-279",
+      "publisher": "Dumbarton Oaks, Trustees for Harvard University",
+      "year": 1950,
+      "doi": "10.2307/1291077",
+      "url": "https://archive.org/details/DOP05_06_Honigmann",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the OCR text of the copy uploaded to the Internet Archive by Dumbarton Oaks itself (Dumbarton Oaks Papers collection): ch. on the Council of Chalcedon (pp. 244-247) and Appendix I on the creation of the patriarchate. Dated scholarship (1950). DOI from the journal's JSTOR record, not re-checked."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "horsley-2002-hasmonean-rule",
@@ -12489,6 +12875,25 @@
       },
       "kind": "ngo",
       "institution_country": "CH"
+    },
+    {
+      "id": "iip-unkn0136-uzziah-epitaph",
+      "type": "web",
+      "authors": [
+        "Satlow, Michael (project director)"
+      ],
+      "title": "Unkn 0136: epitaph of the reburied bones of Uzziah, king of Judah (Israel Museum inv. 68.56.38)",
+      "container": "Inscriptions of Israel/Palestine",
+      "publisher": "Brown University",
+      "url": "https://github.com/Brown-University-Library/iip-texts/blob/master/epidoc-files/unkn0136.xml",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the project's EpiDoc record (the public search page refused a direct request, so the record was read in the project's GitHub repository). A Second Temple-period reburial plaque, not a contemporary record of the king."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "ilan-1995-dawn-of-internationalism",
@@ -13422,6 +13827,25 @@
       "institution_country": "IL"
     },
     {
+      "id": "josephus-against-apion-whiston",
+      "type": "book",
+      "authors": [
+        "Josephus, Flavius",
+        "Whiston, William (translator)"
+      ],
+      "title": "Against Apion",
+      "publisher": "Project Gutenberg (Whiston translation, 1737)",
+      "url": "https://www.gutenberg.org/ebooks/2849",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (1st century CE) in Whiston's 1737 translation; read book 1, chs. 17-18 (Dius and Menander on Hiram) and 21 (Tyrian records on the Babylonian siege) in the Project Gutenberg text."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "josephus-antiquities-whiston",
       "type": "book",
       "authors": [
@@ -13436,7 +13860,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships."
+        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -13456,7 +13880,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in Whiston's translation; read books 2.5, 2.19, 3.7, 4.1, 6.8, 6.10, 7.8-9 online."
+        "note": "Primary source (1st century CE) in Whiston's translation; read books 2.5, 2.19, 3.7, 4.1, 6.8, 6.10, 7.8-9 online. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2850; Perseus was unavailable): Wars 2.14.4, 2.19.9 and 7.9.1."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -13683,6 +14107,40 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "kaniewski-2011-sea-peoples",
+      "type": "article",
+      "authors": [
+        "Kaniewski, David",
+        "Van Campo, Elise",
+        "Van Lerberghe, Karel",
+        "Boiy, Tom",
+        "Vansteenhuyse, Klaas",
+        "Jans, Greta",
+        "Nys, Karin",
+        "Weiss, Harvey",
+        "Morhange, Christophe",
+        "Otto, Thierry",
+        "Bretschneider, Joachim"
+      ],
+      "title": "The Sea Peoples, from Cuneiform Tablets to Carbon Dating",
+      "container": "PLOS ONE",
+      "publisher": "Public Library of Science",
+      "year": 2011,
+      "volume": 6,
+      "issue": 6,
+      "pages": "e20232",
+      "doi": "10.1371/journal.pone.0020232",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3110627/fullTextXML",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Open-access article (Europe PMC, PMC3110627); downloaded the full-text XML and read the introduction and discussion of the date of Ramesses III's Year 8."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
     },
     {
       "id": "karpat-1978",
@@ -13915,7 +14373,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access thesis PDF read: ch. 1 (pp. 1-26, review of earlier estimates), p. 111, ch. 11 (pp. 579-580, conclusions). Kennedy's own estimates are far above all earlier ones."
+        "note": "Open-access thesis PDF read: ch. 1 (pp. 1-26, review of earlier estimates), p. 111, ch. 11 (pp. 579-580, conclusions). Kennedy's own estimates are far above all earlier ones. | Re-read in Milestone 8: Re-downloaded the UNISA thesis PDF (https://ir.unisa.ac.za/bitstream/10500/13257/1/thesis_kennedy_tm.pdf) and read the passage on garrison requests in the Amarna letters (pp. 72-73)."
       },
       "kind": "academic",
       "institution_country": "ZA",
@@ -15004,7 +15462,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access PDF. Extracted the text and read the discussion of the United Monarchy (pp. 259-260). Represents the 'modified conventional chronology' view, which accepts a limited historical David."
+        "note": "Open-access PDF. Extracted the text and read the discussion of the United Monarchy (pp. 259-260). Represents the 'modified conventional chronology' view, which accepts a limited historical David. | Re-read in Milestone 8: Re-downloaded the open-access PDF (JJAR 1) and read pp. 259-261 on the United Monarchy."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -15824,6 +16282,47 @@
       "institution_country": "US"
     },
     {
+      "id": "novotny-jeffers-rinap5-1-introduction",
+      "type": "web",
+      "authors": [
+        "Novotny, Jamie",
+        "Jeffers, Joshua"
+      ],
+      "title": "Introduction (Military Campaigns), RINAP 5/1: The Royal Inscriptions of Ashurbanipal, Aššur-etel-ilāni, and Sîn-šarra-iškun",
+      "container": "RINAP Online, Oracc",
+      "publisher": "University of Pennsylvania / LMU Munich (RINAP 5 Project)",
+      "year": 2019,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap5/RINAP51Introduction/MilitaryCampaigns/Part2/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online introduction pages on Ashurbanipal's military campaigns (parts 1-3), incl. the Egyptian campaigns and the installation of Psammetichus I."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "novotny-rinap5-3-introduction",
+      "type": "web",
+      "authors": [
+        "Novotny, Jamie"
+      ],
+      "title": "Introduction, RINAP 5/3 (Aššur-etel-ilāni, Sîn-šarra-iškun, Aššur-uballiṭ II and the end of the Assyrian Empire)",
+      "container": "RINAP Online, Oracc",
+      "publisher": "University of Pennsylvania / LMU Munich (RINAP 5 Project)",
+      "year": 2023,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap5/RINAP53Introduction/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online introduction pages: overview, \"Wars with Nabopolassar\" and \"Aššur-uballiṭ II and the End of the Assyrian Empire\"."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "npa-2025-04-24-nabi-shuayb",
       "type": "web",
       "title": "Israel Permits Syrian Druze Religious Delegation to Visit Tomb of Prophet Shuʿayb",
@@ -16299,7 +16798,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the online edition and translation (col. ii lines on the Qarqar coalition)."
+        "note": "Read the online edition and translation (col. ii lines on the Qarqar coalition). | Re-read in Milestone 8: Re-read the Oracc English translation of the Kurkh Monolith (Q004607), col. ii 90-95 (the coalition of 853 BCE)."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -16401,7 +16900,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of the tribute list (rev. 7'-12')."
+        "note": "Read the translation of the tribute list (rev. 7'-12'). | Re-read in Milestone 8: Re-read the Oracc English translation (Q003460), rev. 7-12 (list of tributary kings of the West)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -16422,7 +16921,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of col. ii 73-iii 49 (Ekron, Hezekiah of Judah)."
+        "note": "Read the translation of col. ii 73-iii 49 (Ekron, Hezekiah of Judah). | Re-read in Milestone 8: Re-read the Oracc English translation of the prism (Q003496), cols. ii 37 - iii 49 (third campaign, 701 BCE)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -16442,7 +16941,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of col. v 54-63 (list of western kings incl. Manasseh of Judah); written ca. 673/672 BCE."
+        "note": "Read the translation of col. v 54-63 (list of western kings incl. Manasseh of Judah); written ca. 673/672 BCE. | Re-read in Milestone 8: Re-read the Oracc English translation of the Nineveh prism (Q003230), cols. ii 65 - iii 19 (Sidon) and v 54-63 (kings of Hatti and Across the River)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18226,11 +18725,53 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (2nd century BCE). Downloaded and read chs. 18-19 (battle of Panium) and 39 (Antiochus III occupies Samaria, Abila, Gadara and receives the surrender of Jerusalem; this fragment survives as a quotation in Josephus, Antiquities 12.135-136)."
+        "note": "Primary source (2nd century BCE). Downloaded and read chs. 18-19 (battle of Panium) and 39 (Antiochus III occupies Samaria, Abila, Gadara and receives the surrender of Jerusalem; this fragment survives as a quotation in Josephus, Antiquities 12.135-136). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 16 and read chs. 18-19 (Panium) and 39."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "polybius-3-paton",
+      "type": "document",
+      "authors": [
+        "Polybius",
+        "Paton, W. R. (translator)"
+      ],
+      "title": "The Histories, Book III",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. II (1922)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1922,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/3*.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (2nd century BCE). Downloaded and read ch. 22 (first treaty with Carthage, dated to the first consuls)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "polybius-5-paton",
+      "type": "document",
+      "authors": [
+        "Polybius",
+        "Paton, W. R. (translator)"
+      ],
+      "title": "The Histories, Book V",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. III (1923)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1923,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/5*.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (2nd century BCE). Downloaded and read chs. 79-87 (campaign and battle of Raphia) and 105 (synchronism with the 140th Olympiad)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "porath-1986-nyrb",
@@ -18612,7 +19153,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw the abstract and bibliographic data on Cambridge Core. The full PDF was too large to fetch."
+        "note": "Saw the abstract and bibliographic data on Cambridge Core. The full PDF was too large to fetch. | Re-read in Milestone 8: UPGRADE (was excerpt): downloaded the full 42-page PDF from Cambridge Core (Radiocarbon 54/3-4, pp. 525-566) and read the period definitions (pp. 525-528) and the EB III discussion (p. 560)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -18771,7 +19312,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online."
+        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online. | Re-read in Milestone 8: Re-read the Oracc English translation of Sargon II 007 (Great Display Inscription, Q006488), lines 90-109 (Ashdod)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -19136,7 +19677,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Searched and read the Internet Archive OCR text (Scribner issue, undated on the title page; translation of the 2nd German edition). Read § 2 (Seleucid era), the sketch of Seleucid history (pp. 169-185), §§ 4-7 and § 12. A 19th-century work: its chronology is dated (e.g. it puts the rededication of the Temple in December 165 BCE)."
+        "note": "Searched and read the Internet Archive OCR text (Scribner issue, undated on the title page; translation of the 2nd German edition). Read § 2 (Seleucid era), the sketch of Seleucid history (pp. 169-185), §§ 4-7 and § 12. A 19th-century work: its chronology is dated (e.g. it puts the rededication of the Temple in December 165 BCE). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis01schuoft) and read § 3 on the Jerusalem Talmud (pp. 133-135), the sketch of Antiochus IV (p. 172) and § 4 (p. 199)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -19156,7 +19697,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Searched and read the Internet Archive OCR text: § 17 (sons of Herod, procurators 6-41), Excursus I (census of Quirinius, pp. 105 ff.), §§ 18-19 (Agrippa I, procurators 44-66, Agrippa II), Appendix I (Chalcis, Iturea, Abilene) and Appendix II (Nabataean kings). Quotes keep the OCR text as downloaded (some OCR errors such as 'A-D.' for 'A.D.'). 19th-century scholarship."
+        "note": "Searched and read the Internet Archive OCR text: § 17 (sons of Herod, procurators 6-41), Excursus I (census of Quirinius, pp. 105 ff.), §§ 18-19 (Agrippa I, procurators 44-66, Agrippa II), Appendix I (Chalcis, Iturea, Abilene) and Appendix II (Nabataean kings). Quotes keep the OCR text as downloaded (some OCR errors such as 'A-D.' for 'A.D.'). 19th-century scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis02schuoft) and read § 17 (c) on Archelaus, pp. 38-43, and § 20 (the war of 66-73), pp. 207-257."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -19177,7 +19718,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship."
+        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -19235,7 +19776,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9)."
+        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10."
       },
       "kind": "religious-institution",
       "institution_country": "US"
@@ -19575,6 +20116,59 @@
       "institution_country": "GB"
     },
     {
+      "id": "stager-master-schloen-2011-ashkelon-3-page",
+      "type": "web",
+      "authors": [
+        "Stager, Lawrence E.",
+        "Master, Daniel M.",
+        "Schloen, J. David"
+      ],
+      "title": "Ashkelon 3: The Seventh Century B.C. (publisher's description)",
+      "container": "Final Reports of the Leon Levy Expedition to Ashkelon",
+      "publisher": "Eisenbrauns / Harvard Semitic Museum",
+      "year": 2011,
+      "isbn": "978-1-57506-939-5",
+      "url": "https://eisenbrauns.org/books/titles/978-1-57506-939-5.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read only the publisher's description of the excavation report on the Eisenbrauns site; the report itself was not opened."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "stantis-2020-hyksos-strontium",
+      "type": "article",
+      "authors": [
+        "Stantis, Chris",
+        "Kharobi, Arwa",
+        "Maaranen, Nina",
+        "Nowell, Geoff M.",
+        "Bietak, Manfred",
+        "Prell, Silvia",
+        "Schutkowski, Holger"
+      ],
+      "title": "Who were the Hyksos? Challenging traditional narratives using strontium isotope (87Sr/86Sr) analysis of human remains from ancient Egypt",
+      "container": "PLOS ONE",
+      "publisher": "Public Library of Science",
+      "year": 2020,
+      "volume": 15,
+      "issue": 7,
+      "pages": "e0235414",
+      "doi": "10.1371/journal.pone.0235414",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235414",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Open-access article; downloaded the HTML full text and read the abstract, introduction and discussion (dates of the 15th Dynasty; immigration versus invasion)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "state-dept-abraham-accords",
       "type": "web",
       "title": "The Abraham Accords (incl. Abraham Accords Declaration and linked agreements)",
@@ -19703,6 +20297,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "still-2024-ribo-nabopolassar",
+      "type": "web",
+      "authors": [
+        "Still, Bastian"
+      ],
+      "title": "Nabopolassar (625-605 BC)",
+      "container": "RIBo, Babylon 7: The Inscriptions of the Neo-Babylonian Dynasty (Oracc)",
+      "publisher": "RIBo Project, LMU Munich",
+      "year": 2024,
+      "url": "https://oracc.museum.upenn.edu/ribo/babylon7/Rulers/Nabopolassar/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online ruler essay in full."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "strickert-2023-zahir",
       "type": "web",
       "authors": [
@@ -19818,11 +20432,32 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read chs. 1 (Titus sent to finish the Judaean war, 70 CE) and 9 (outline of Judaean history from Pompey to Felix)."
+        "note": "Primary source. Downloaded and read chs. 1 (Titus sent to finish the Judaean war, 70 CE) and 9 (outline of Judaean history from Pompey to Felix). | Re-read in Milestone 8: Re-downloaded LacusCurtius Histories 5A and read ch. 1."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "tadmor-yamada-rinap1-introduction",
+      "type": "web",
+      "authors": [
+        "Tadmor, Hayim",
+        "Yamada, Shigeo"
+      ],
+      "title": "Introduction (Historical Overview: Tiglath-pileser III), RINAP 1: Tiglath-pileser III and Shalmaneser V",
+      "container": "RINAP Online, Oracc",
+      "publisher": "University of Pennsylvania (RINAP Project)",
+      "year": 2019,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap1/rinap1introduction/historicaloverviewtiglathpileseriii/index.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online introduction pages (general introduction; Historical Overview: Tiglath-pileser III, with the chronological table of campaigns). Online version of the introduction to RINAP 1 (Eisenbrauns 2011)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "tappy-2009-samaria",
@@ -20491,6 +21126,28 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "tucci-2022-review-koch-colonial-encounters",
+      "type": "article",
+      "authors": [
+        "Tucci, Giulia"
+      ],
+      "title": "Review of Ido Koch, Colonial Encounters in Southwest Canaan during the Late Bronze Age and the Early Iron Age (Brill, 2021)",
+      "container": "Antiguo Oriente",
+      "publisher": "Centro de Estudios de Historia del Antiguo Oriente, Pontificia Universidad Catolica Argentina",
+      "year": 2022,
+      "volume": 20,
+      "pages": "159-163",
+      "url": "https://archaeopresspublishing.com/ojs/index.php/AntOr/article/download/1996/1598/14532",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the open-access PDF of the review and read it in full. The reviewed book itself (Koch 2021) was not accessible."
+      },
+      "kind": "academic",
+      "institution_country": "AR"
     },
     {
       "id": "uae-israel-treaty-2020",
@@ -22601,6 +23258,39 @@
       "publisher": "US Office of the Federal Register"
     },
     {
+      "id": "webster-2023-gezer-chronology",
+      "type": "article",
+      "authors": [
+        "Webster, Lyndelle C.",
+        "Wolff, Samuel R.",
+        "Ortiz, Steven M.",
+        "Barbosa, Marcella",
+        "Coyle, Cameron",
+        "Arbino, Gary P.",
+        "Dee, Michael W.",
+        "Hua, Quan",
+        "Jacobsen, Geraldine E.",
+        "Hart, John P."
+      ],
+      "title": "The chronology of Gezer from the end of the late bronze age to iron age II: A meeting point for radiocarbon, archaeology, Egyptology and the Bible",
+      "container": "PLOS ONE",
+      "publisher": "Public Library of Science",
+      "year": 2023,
+      "volume": 18,
+      "issue": 11,
+      "pages": "e0293119",
+      "doi": "10.1371/journal.pone.0293119",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10651010/fullTextXML",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Open-access article (Europe PMC, PMC10651010); downloaded the full-text XML and read the introduction (historical background with radiocarbon-modelled accession dates of Egyptian kings) and the results tables. Author list as given in the XML (first ten authors)."
+      },
+      "kind": "academic",
+      "institution_country": "AT"
+    },
+    {
       "id": "weinberg-1992-citizen-temple-community",
       "type": "book",
       "authors": [
@@ -22809,6 +23499,52 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "young-2004-jets-jerusalem-fall",
+      "type": "article",
+      "authors": [
+        "Young, Rodger C."
+      ],
+      "title": "When Did Jerusalem Fall?",
+      "container": "Journal of the Evangelical Theological Society",
+      "volume": 47,
+      "issue": 1,
+      "pages": "21-38",
+      "publisher": "Evangelical Theological Society",
+      "year": 2004,
+      "url": "https://www.rcyoung.org/articles/jerusalem.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the author's own PDF of the published article in full (the 587 versus 586 debate)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "young-2005-jets-reign-tables",
+      "type": "article",
+      "authors": [
+        "Young, Rodger C."
+      ],
+      "title": "Tables of Reign Lengths from the Hebrew Court Recorders",
+      "container": "Journal of the Evangelical Theological Society",
+      "volume": 48,
+      "issue": 2,
+      "pages": "225-248",
+      "publisher": "Evangelical Theological Society",
+      "year": 2005,
+      "url": "https://www.rcyoung.org/articles/rtables.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the author's own PDF of the published article (tables 1-4, a modification of Thiele's chronology). Represents the harmonising chronology of the biblical reign data (evangelical scholarship); used alongside Finkelstein's archaeology-based dates."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "ziada-1969-mamluk-sultans-to-1293",

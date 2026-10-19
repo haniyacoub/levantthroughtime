@@ -659,6 +659,15 @@ def apply_m8(name):
             to = ch['to']
             if field in ('notes', 'description'):
                 text = to['en'] if isinstance(to, dict) else to
+                cur = (rec.get(field) or {}).get('en', '') if isinstance(rec.get(field), dict) else (rec.get(field) or '')
+                mode = ch.get('mode')
+                if mode == 'append':
+                    text = (cur + ' ' + text).strip()
+                elif mode == 'replace-sentence':
+                    frm = ch.get('from') or ''
+                    if frm and frm in cur: text = cur.replace(frm, text)
+                    else:
+                        log.append(f"  sentence to replace not found, appended instead: {pt['id']}"); text = (cur + ' ' + text).strip()
                 rec[field] = {'en': text}          # older Arabic/Hebrew drafts no longer match; retranslated later
             elif field == 'date' and isinstance(to, dict) and 'date' in to:
                 rec['date'] = to['date']

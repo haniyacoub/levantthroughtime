@@ -13,9 +13,9 @@
           "precision": "century"
         },
         "end": {
-          "year": -540,
+          "year": -582,
           "circa": true,
-          "precision": "decade"
+          "precision": "year"
         },
         "units": [
           "ammon"
@@ -42,10 +42,54 @@
           {
             "ref": "britannica-palestine-iron-age",
             "locator": "The Israelites in Palestine"
+          },
+          {
+            "ref": "oracc-riao-shalmaneser-iii-2",
+            "locator": "Kurkh Monolith ii 95 (853 BCE)",
+            "quote": "of the land (Bīt-) Ammon. They attacked to [wage] war and battle against me."
+          },
+          {
+            "ref": "oracc-rinap1-tiglath-pileser-iii-47",
+            "locator": "rev. 10 (tribute list, c. 734-732 BCE)",
+            "quote": "Sanīpu of the land Bīt-Ammon, Salāmānu of the land Moab"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "ii 55 (701 BCE)",
+            "quote": "Būdi-il of the land Bīt-Ammon, Kammūsu-nadbi of the land Moab, Aya-rāmu of the land Edom, all of the kings of the land Amurru"
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "Jeremiah 40:14 (textual tradition, c. 586-582 BCE)",
+            "quote": "King Baalis of Ammon has sent Ishmael son of Nethaniah to kill you"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 10.9.7 (582 BCE)",
+            "quote": "he made war against the Ammonites and Moabites; and when he had brought all these nations under subjection, he fell upon Egypt"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 10.9.7",
+            "quote": "on the fifth year after the destruction of Jerusalem, which was the twenty-third of the reign of Nebuchadnezzar, he made an expedition against Celesyria"
+          },
+          {
+            "ref": "oracc-rinap4-esarhaddon-1",
+            "locator": "v 55-63",
+            "quote": "Būdi-il, king of Bīt-Ammon"
           }
         ],
         "id": "ammon-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "The start (c. 1300) has no documentary support in the sources consulted: the earliest datable mention of an Ammonite ruler is Baasha of (Bit-)Ruhubi of Ammon in the anti-Assyrian coalition of 853 BCE (Kurkh Monolith); Ammonite kings then appear as Assyrian tributaries (Sanipu under Tiglath-pileser III, Budu-il under Sennacherib and Esarhaddon).",
+          "ar": "لا سند وثائقياً للبداية (نحو 1300) في المصادر التي رُجع إليها: أقدم ذكر يمكن تأريخه لحاكم عمّوني هو بعشا من (بيت) رحوبي من عمّون في التحالف المناهض لآشور سنة 853 ق.م. (مسلة كرخ)؛ ثم يظهر ملوك عمّون تابعين يدفعون الجزية لآشور (سانيبو في عهد تغلات فلاسر الثالث، وبودو-إيل في عهد سنحاريب وأسرحدون).",
+          "he": "להתחלה (בערך 1300) אין ביסוס תיעודי במקורות שנבדקו: האזכור המתוארך המוקדם ביותר של שליט עמוני הוא בעשא מ(בית־)רחובי מעמון בקואליציה נגד אשור ב־853 לפנה״ס (מצבת קורח'); אחר כך מופיעים מלכי עמון כמשלמי מס לאשור (סניפו בימי תגלת־פלאסר השלישי, בודו־אל בימי סנחריב ואסרחדון).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {
@@ -80,10 +124,39 @@
           {
             "ref": "britannica-palestine-iron-age",
             "locator": "The Persian empire"
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "Nehemiah 2:10 (textual tradition)",
+            "quote": "When Sanballat the Horonite and Tobiah the Ammonite servant heard"
+          },
+          {
+            "ref": "finkelstein-2018-hasmonean-realities",
+            "locator": "ch. 4, p. 74",
+            "quote": "The adjective “ammonite” is explained by scholars as referring either to the origin of this person, or to his post as a high official in ammon."
+          },
+          {
+            "ref": "finkelstein-2018-hasmonean-realities",
+            "locator": "ch. 4, p. 74",
+            "quote": "a tobiah is mentioned in the zenon papyri of the mid-third century bCe as a prominent figure in ammonitis."
+          },
+          {
+            "ref": "finkelstein-2018-hasmonean-realities",
+            "locator": "ch. 4, p. 79 n. 41",
+            "quote": "also seems to fit Hasmonean realities"
           }
         ],
         "id": "ammon-2",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "The link between Persian-period Ammon and 'governors of the house of Tobiah' rests on Nehemiah's 'Tobiah the Ammonite servant' (Neh 2:10), whose title is read either as an origin or as an office in Ammon; Finkelstein (2018) argues that Nehemiah's list of adversaries may reflect Hasmonean-period realities. The Tobiad family is securely attested in Ammonitis only from the 3rd century BCE (Zenon papyri).",
+          "ar": "تستند الصلة بين عمّون في العصر الفارسي و«ولاة بيت طوبيا» إلى «طوبيا العبد العموني» عند نحميا (نحميا 2:10)، الذي يُقرأ لقبه إما نسبةً إلى الأصل أو منصباً في عمّون؛ ويرى فنكلشتاين (2018) أن قائمة خصوم نحميا قد تعكس واقع العصر الحشموني. ولا تُثبت عائلة طوبيا بشكل مؤكد في عمّون إلا منذ القرن الثالث ق.م. (بردي زينون).",
+          "he": "הקשר בין עמון בתקופה הפרסית לבין \"מושלים מבית טוביה\" נשען על \"טוביה העבד העמוני\" אצל נחמיה (נחמיה ב, י), שתוארו נקרא כציון מוצא או כמשרה בעמון; פינקלשטיין (2018) טוען שרשימת יריביו של נחמיה עשויה לשקף מציאות מן התקופה החשמונאית. משפחת טוביה מתועדת בוודאות באמוניטיס רק מן המאה ה־3 לפנה״ס (פפירוסי זנון).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

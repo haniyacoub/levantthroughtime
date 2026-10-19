@@ -65,6 +65,21 @@
           {
             "ref": "britannica-palestine-iron-age",
             "locator": "The Persian empire"
+          },
+          {
+            "ref": "bartelmus-2025-ribo-cyrus-ii",
+            "locator": "essay, conquest of Babylonia",
+            "quote": "In 539/538, Cyrus II achieved his main victory, the defeat of the Neo-Babylonian Empire"
+          },
+          {
+            "ref": "diodorus-16-sherman",
+            "locator": "Diodorus 16.41.1-2 (revolt of the Phoenicians, 340s BCE)",
+            "quote": "Now since the King's satraps and generals dwelt in the city of the Sidonians"
+          },
+          {
+            "ref": "arrian-anabasis-chinnock-1884",
+            "locator": "Anabasis 2.25.4 (332 BCE)",
+            "quote": "had already yielded to him; but a certain eunuch, named Batis, who was in possession of the city of Gaza, paid no heed to him"
           }
         ],
         "notes": {

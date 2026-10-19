@@ -55,6 +55,21 @@
             "ref": "britannica-palestine-hellenistic",
             "locator": "opening paragraph",
             "quote": "He left the Jews undisturbed in their religion and customs."
+          },
+          {
+            "ref": "arrian-anabasis-chinnock-1884",
+            "locator": "Anabasis 2.25.4",
+            "quote": "had already yielded to him; but a certain eunuch, named Batis, who was in possession of the city of Gaza, paid no heed to him"
+          },
+          {
+            "ref": "diodorus-17-welles",
+            "locator": "Diodorus 17.46.5 (Tyre)",
+            "quote": "So Tyre had undergone the siege bravely rather than wisely and come into such misfortunes, after a resistance of seven months."
+          },
+          {
+            "ref": "diodorus-17-welles",
+            "locator": "Diodorus 17.48.7 (Gaza)",
+            "quote": "Alexander, in the meantime, marched down to Gaza, which was garrisoned by the Persians, and took the city by storm after a siege of two months."
           }
         ],
         "notes": {

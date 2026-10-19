@@ -186,6 +186,31 @@
           {
             "ref": "britannica-jordan-history",
             "locator": "ancient history"
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "1 Kings 5:1 (JPS numbering; 4:21 in Christian Bibles) - textual tradition",
+            "quote": "Solomon’s rule extended over all the kingdoms from the Euphrates to the land of the Philistines and the boundary of Egypt."
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "1 Kings 9:26 - textual tradition",
+            "quote": "King Solomon also built a fleet of ships at Ezion-geber"
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "1 Kings 11:14 - textual tradition",
+            "quote": "So GOD raised up an adversary against Solomon, the Edomite Hadad"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 9 (archaeology, critical view)",
+            "quote": "it is clear today that the biblical idea of a great united monarchy is a literary construct"
+          },
+          {
+            "ref": "mazar-2021-beth-shean",
+            "locator": "p. 260 (archaeology, modified conventional view)",
+            "quote": "The historical Solomon is even more elusive, due to the literary/legendary nature of the biblical narrative"
           }
         ],
         "notes": {

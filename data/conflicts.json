@@ -91,12 +91,27 @@
         {
           "ref": "britannica-megiddo",
           "quote": "Megiddo was captured by the Egyptian king Thutmose III about 1468."
+        },
+        {
+          "ref": "breasted-1906-ancient-records-2",
+          "locator": "§ 406 (Annals of Thutmose III, conspectus)",
+          "quote": "Early in the year 23, Thutmose III met and overthrew the allied Syrians at Megiddo, which he besieged and captured"
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Introduction (radiocarbon-based accession dates)",
+          "quote": "The chronology of these rulers is supported by radiocarbon dating, with accession years estimated in the range 1518–1501 BC and 1434–1420 BC respectively"
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Introduction",
+          "quote": "During the 15th century BC, this town appears in the topographic list of Thutmose III"
         }
       ],
       "notes": {
-        "en": "The absolute date depends on the Egyptian chronology used: Britannica's Megiddo article gives about 1468 BCE, while its Thutmose III article dates his reign c. 1479-1425 BCE and places the campaign after a coalition formed in his 22nd regnal year (i.e. later, in the 1450s). The campaign is recorded in Thutmose III's annals at Karnak.",
-        "ar": "يعتمد التاريخ المطلق على التسلسل الزمني المصري المستخدم: فمقالة بريتانيكا عن مجدو تذكر نحو 1468 ق.م.، بينما تؤرخ مقالتها عن تحتمس الثالث حكمه بنحو 1479-1425 ق.م. وتضع الحملة بعد تشكّل التحالف في سنة حكمه الثانية والعشرين (أي لاحقًا، في خمسينيات القرن الخامس عشر ق.م.). والحملة مسجلة في حوليات تحتمس الثالث في الكرنك.",
-        "he": "התאריך המוחלט תלוי בכרונולוגיה המצרית שבה משתמשים: המאמר של בריטניקה על מגידו מציין בערך 1468 לפנה״ס, ואילו המאמר שלה על תחותמס השלישי מתארך את שלטונו בערך ל-1479-1425 לפנה״ס ומציב את המסע לאחר היווצרות הקואליציה בשנת שלטונו ה-22 (כלומר מאוחר יותר, בשנות ה-50 של המאה ה-15 לפנה״ס). המסע מתועד בדברי הימים של תחותמס השלישי בכרנך.",
+        "en": "The absolute date depends on the Egyptian chronology used: Britannica's Megiddo article gives about 1468 BCE, while its Thutmose III article dates his reign c. 1479-1425 BCE and places the campaign after a coalition formed in his 22nd regnal year (i.e. later, in the 1450s). The campaign is dated to Thutmose III's regnal Year 23 in his annals at Karnak (Breasted 1906). A radiocarbon-based model of New Kingdom chronology (Webster et al. 2023, after Dee 2013 and Manning 2014) puts Thutmose III's accession at 1518-1501 BCE (95.4%), which would place Year 23 c. 1496-1479 BCE, earlier than both dates in the record.",
+        "ar": "يعتمد التاريخ المطلق على التسلسل الزمني المصري المستخدم: تذكر مقالة بريتانيكا عن مجدو نحو 1468 ق.م.، بينما تؤرخ مقالتها عن تحتمس الثالث حكمه بنحو 1479-1425 ق.م. وتضع الحملة بعد تحالف تشكّل في سنة حكمه الثانية والعشرين (أي لاحقاً، في خمسينيات القرن الخامس عشر ق.م.). وتؤرخ الحملة بالسنة الثالثة والعشرين من حكم تحتمس الثالث في حولياته في الكرنك (بريستد 1906). ويضع نموذج للتسلسل الزمني للدولة الحديثة قائم على الكربون المشع (ويبستر وآخرون 2023، استناداً إلى دي 2013 ومانينغ 2014) تولي تحتمس الثالث في 1518-1501 ق.م. (95.4%)، ما يضع السنة الثالثة والعشرين نحو 1496-1479 ق.م.، أي قبل كلا التاريخين الواردين في السجل.",
+        "he": "התאריך המוחלט תלוי בכרונולוגיה המצרית שבה משתמשים: מאמר בריטניקה על מגידו נותן בערך 1468 לפנה״ס, ואילו מאמרה על תחותמס השלישי מתארך את שלטונו לבערך 1479–1425 לפנה״ס וממקם את המסע אחרי קואליציה שקמה בשנת שלטונו ה־22 (כלומר מאוחר יותר, בשנות ה־50 של המאה ה־15 לפנה״ס). המסע מתוארך לשנת השלטון ה־23 של תחותמס השלישי בדברי הימים שלו בכרנך (ברסטד 1906). מודל של הכרונולוגיה של הממלכה החדשה המבוסס על פחמן רדיואקטיבי (וובסטר ואחרים 2023, בעקבות די 2013 ומנינג 2014) מציב את עלייתו של תחותמס השלישי ב־1518–1501 לפנה״ס (95.4%), מה שממקם את שנה 23 בערך ב־1496–1479 לפנה״ס, מוקדם משני התאריכים שברשומה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -182,6 +197,16 @@
         {
           "ref": "britannica-battle-of-kadesh",
           "quote": "In truth, the outcome was inconclusive"
+        },
+        {
+          "ref": "breasted-1906-ancient-records-3",
+          "locator": "§ 307 (Ramses II, Kadesh records: date line)",
+          "quote": "Year 5, the second month of the third season (tenth month), on the ninth day,"
+        },
+        {
+          "ref": "breasted-1906-ancient-records-3",
+          "locator": "§ 356 note",
+          "quote": "the battle of Kadesh (year 5) and the recovery of Galilee (year 8)"
         }
       ],
       "notes": {
@@ -331,12 +356,37 @@
         {
           "ref": "britannica-ashkelon",
           "quote": "About 150 years later it was taken by the Egyptian pharaoh Merneptah II following a revolt."
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Introduction",
+          "quote": "The historicity of Merneptah’s southern Levantine campaign and his attack on Gezer (dated to his 5th year) enjoys wide acceptance"
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Discussion (Stratum 12B)",
+          "quote": "Using the traditional approach to Egyptian chronology, Kitchen would date Merneptah’s reign at 1213–1203 BC"
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Discussion (Stratum 12B)",
+          "quote": "while Schneider would place it at 1224–1214 BC"
+        },
+        {
+          "ref": "breasted-1906-ancient-records-3",
+          "locator": "§ 602 (Israel Stela)",
+          "quote": "It is a poetic encomium in celebration of the great victory of Merneptah over the Libyans in the fifth year of his reign."
+        },
+        {
+          "ref": "webster-2023-gezer-chronology",
+          "locator": "Discussion",
+          "quote": "The 14 C-based Egyptian model puts his accession at 1241–1219 BC (95.4% hpd)"
         }
       ],
       "notes": {
-        "en": "Dated only as \"early in Merneptah's reign\" (reign c. 1213-1203 BCE per Britannica). Yenoam's location is not given in the sources used; the units are an approximation of the named places.",
-        "ar": "مؤرَّخة فقط بعبارة «في مطلع عهد مرنبتاح» (حكم مرنبتاح نحو 1213-1203 ق.م. بحسب بريتانيكا). موقع ينعم غير مذكور في المصادر المستخدمة؛ والوحدات المعروضة تقريبية للأماكن المسماة.",
-        "he": "מתוארך רק כ״בראשית שלטון מרנפתח״ (שלטון מרנפתח בערך 1213-1203 לפנה״ס לפי בריטניקה). מיקומה של ינועם אינו מצוין במקורות שנעשה בהם שימוש; היחידות המוצגות הן קירוב של המקומות הנזכרים.",
+        "en": "The campaign is usually placed in Merneptah's Year 5, the year of the Israel Stela. His reign is dated 1213-1203 BCE by Kitchen and 1224-1214 BCE by Schneider; a radiocarbon-based model puts his accession at 1241-1219 BCE (Webster et al. 2023). The record's window follows the first of these. Yenoam's location is not given in the sources used; the units are an approximation of the named places.",
+        "ar": "تُوضع الحملة عادةً في السنة الخامسة من حكم مرنبتاح، سنة لوحة إسرائيل. ويؤرخ كيتشن حكمه بـ 1213-1203 ق.م. وشنايدر بـ 1224-1214 ق.م.؛ ويضع نموذج قائم على الكربون المشع توليه في 1241-1219 ق.م. (ويبستر وآخرون 2023). وتتبع نافذة السجل أول هذه التواريخ. ولا تذكر المصادر المستخدمة موقع ينوعم؛ والوحدات تقريب للأماكن المذكورة.",
+        "he": "המסע ממוקם בדרך כלל בשנה ה־5 של מרנפתח, שנת מצבת ישראל. קיצ'ן מתארך את שלטונו ל־1213–1203 לפנה״ס ושניידר ל־1224–1214 לפנה״ס; מודל מבוסס פחמן רדיואקטיבי מציב את עלייתו ב־1241–1219 לפנה״ס (וובסטר ואחרים 2023). חלון הרשומה הולך אחר הראשון מבין אלה. מיקומה של ינועם אינו מצוין במקורות ששימשו; היחידות הן קירוב של המקומות הנזכרים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -425,6 +475,26 @@
         {
           "ref": "britannica-palestine-iron-age",
           "quote": "the great invasion of the Sea Peoples in the time of Ramses III, in the early decades of the 12th century bce"
+        },
+        {
+          "ref": "edgerton-wilson-1936-saoc12",
+          "locator": "Pl. 46 description",
+          "quote": "This inscription bears the date \"year 8\" and concerns itself with the Northern War of Ramses III."
+        },
+        {
+          "ref": "edgerton-wilson-1936-saoc12",
+          "locator": "Pl. 46, n. 17a (Zahi)",
+          "quote": "Ramses III moved against them, meeting them perhaps at his frontier on the Phoenician and Palestinian coast"
+        },
+        {
+          "ref": "kaniewski-2011-sea-peoples",
+          "locator": "Discussion",
+          "quote": "Ramses III defeated the Sea Peoples during the 8th year of his reign"
+        },
+        {
+          "ref": "kaniewski-2011-sea-peoples",
+          "locator": "Discussion",
+          "quote": "giving historical dates of 1176 BC, 1179 BC, and a radiocarbon-based date of 1188–1177 BC for the Sea People invasions in the Nile delta."
         }
       ],
       "notes": {
@@ -2515,6 +2585,26 @@
         {
           "ref": "britannica-necho-ii",
           "quote": "When Josiah, king of Judah and an ally of the Neo-Babylonians, was slain in battle at Megiddo, Necho replaced Josiah’s chosen successor with his own nominee and imposed tribute on Judah."
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "2 Kings 23:29 (textual tradition)",
+          "quote": "King Josiah marched toward him, but when he confronted him at Megiddo, [Pharaoh Neco] slew him."
+        },
+        {
+          "ref": "herodotus-macaulay-1890",
+          "locator": "Herodotus 2.159",
+          "quote": "Necos engaged battle at Magdolos with the Syrians, and conquered them"
+        },
+        {
+          "ref": "novotny-rinap5-3-introduction",
+          "locator": "Aššur-uballiṭ II and the End of the Assyrian Empire",
+          "quote": "During the following year, 609, Aššur-uballiṭ returned with a large Egyptian army"
+        },
+        {
+          "ref": "young-2005-jets-reign-tables",
+          "locator": "Table 2 (Josiah)",
+          "quote": "Josiah 641t 609 Tammuz (Jul)"
         }
       ],
       "notes": {
@@ -2901,6 +2991,26 @@
         {
           "ref": "britannica-nebuchadnezzar-ii",
           "quote": "He destroyed the Temple of Jerusalem and initiated the Babylonian Captivity of the Jewish population."
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "2 Kings 25:1-2 (textual tradition)",
+          "quote": "on the tenth day of the tenth month, Nebuchadnezzar moved against Jerusalem with his whole army."
+        },
+        {
+          "ref": "young-2004-jets-jerusalem-fall",
+          "locator": "p. 21",
+          "quote": "scholars are divided on whether this refers to 586 bc or 587 bc."
+        },
+        {
+          "ref": "young-2004-jets-jerusalem-fall",
+          "locator": "p. 21",
+          "quote": "The Babylonian records describing the destruction of Jerusalem by the army of Nebuchadnezzar have not been found."
+        },
+        {
+          "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+          "locator": "essay, second rebellion of Judah",
+          "quote": "In 587, after a siege that reportedly lasted two years and caused severe famine in the city"
         }
       ],
       "notes": {
@@ -3084,6 +3194,21 @@
         {
           "ref": "britannica-nebuchadnezzar-ii",
           "quote": "a siege of Tyre (lasting 13 years, according to the Jewish historian Flavius Josephus)"
+        },
+        {
+          "ref": "josephus-against-apion-whiston",
+          "locator": "Against Apion 1.21 (Tyrian records)",
+          "quote": "Nabuchodonosor besieged Tyre for thirteen years in the days of Ithobal, their king"
+        },
+        {
+          "ref": "fleming-1915-history-of-tyre",
+          "locator": "ch. V, p. 44",
+          "quote": "Tyre for thirteen years, 585-572 B.C."
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "Ezekiel 29:17-18 (textual tradition)",
+          "quote": "King Nebuchadrezzar of Babylon has made his army expend vast labor on Tyre"
         }
       ],
       "notes": {
@@ -3170,12 +3295,32 @@
         {
           "ref": "britannica-palestine-iron-age",
           "quote": "In 343 Artaxerxes III (Ochus) is said to have devastated parts of Palestine in connection with his reconquest of Egypt."
+        },
+        {
+          "ref": "diodorus-16-sherman",
+          "locator": "Diodorus 16.40.3 with translator's note 2",
+          "quote": "Diodorus has misplaced the conquest of Egypt by Ochus, which occurred in the year 344 or 343."
+        },
+        {
+          "ref": "diodorus-16-sherman",
+          "locator": "Diodorus 16.42.1-2 (revolt of Sidon under Tennes)",
+          "quote": "Tennes, the king of Sidon, acquired from the Egyptians four thousand Greek mercenary soldiers"
+        },
+        {
+          "ref": "diodorus-16-sherman",
+          "locator": "Diodorus 16.46.4-6 (march from Sidon to Pelusium)",
+          "quote": "Having passed through the Barathra with his army the King came to Pelusium."
+        },
+        {
+          "ref": "diodorus-16-sherman",
+          "locator": "Diodorus 16.41.6",
+          "quote": "Such was the beginning of the war with the Phoenicians"
         }
       ],
       "notes": {
-        "en": "Thinly documented; Britannica reports it with \"is said to\". The related revolt of Sidon under Tennes is not covered by the sources consulted here.",
-        "ar": "موثقة توثيقًا ضعيفًا؛ وتذكرها بريتانيكا بعبارة «يقال إنه». ولا تغطي المصادر المستشارة هنا ثورة صيدا المرتبطة بها بقيادة تنيس.",
-        "he": "מתועדת באופן דל; בריטניקה מדווחת עליה בלשון ״נאמר ש״. המרד הקשור של צידון בהנהגת תנס אינו מכוסה במקורות שנבדקו כאן.",
+        "en": "Thinly documented; Britannica reports it with \"is said to\". Diodorus (16.40-51) narrates the revolt of Sidon under Tennes, its capture, and the King's march to Egypt via the Barathra marshes to Pelusium; his translator dates the reconquest of Egypt to 344 or 343 (Diodorus misplaces it under 351/0). Diodorus does not mention devastation inside Palestine; that claim is not supported by the sources consulted.",
+        "ar": "قليل التوثيق؛ تورده بريتانيكا بصيغة «يُقال إن». ويروي ديودوروس (16.40-51) ثورة صيدا بقيادة تنيس، والاستيلاء عليها، وزحف الملك إلى مصر عبر مستنقعات بارثرا إلى بيلوزيوم؛ ويؤرخ مترجمه إعادة فتح مصر بسنة 344 أو 343 (يضعها ديودوروس خطأً تحت 351/0). ولا يذكر ديودوروس دماراً داخل فلسطين؛ وهذا الادعاء لا تدعمه المصادر التي رُجع إليها.",
+        "he": "מתועד דל; בריטניקה מביאה אותו בניסוח \"מסופר ש\". דיודורוס (16.40–51) מתאר את מרד צידון בהנהגת טנס, את כיבושה ואת מסע המלך למצרים דרך ביצות ברתרה עד פלוסיון; מתרגמו מתארך את כיבוש מצרים מחדש ל־344 או 343 (דיודורוס ממקם אותו בטעות תחת 351/0). דיודורוס אינו מזכיר הרס בתוך פלשתינה; טענה זו אינה נתמכת במקורות שנבדקו.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -3267,6 +3412,16 @@
         {
           "ref": "britannica-tyre",
           "quote": "who took it after a seven-month siege in 332."
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 2.24.6 with note 331 (end of July and beginning of August 332)",
+          "quote": "Thus then was Tyre captured in the month Hecatombaion, when Anicetus was archon at Athens."
+        },
+        {
+          "ref": "diodorus-17-welles",
+          "locator": "Diodorus 17.46.5",
+          "quote": "So Tyre had undergone the siege bravely rather than wisely and come into such misfortunes, after a resistance of seven months."
         }
       ],
       "notes": {
@@ -3361,6 +3516,16 @@
         {
           "ref": "britannica-gaza",
           "quote": "Alexander the Great met stiff resistance there, and, after conquering it, he sold its inhabitants into slavery."
+        },
+        {
+          "ref": "arrian-anabasis-chinnock-1884",
+          "locator": "Anabasis 2.25.4",
+          "quote": "had already yielded to him; but a certain eunuch, named Batis, who was in possession of the city of Gaza, paid no heed to him"
+        },
+        {
+          "ref": "diodorus-17-welles",
+          "locator": "Diodorus 17.48.7",
+          "quote": "Alexander, in the meantime, marched down to Gaza, which was garrisoned by the Persians, and took the city by storm after a siege of two months."
         }
       ],
       "notes": {
@@ -3454,6 +3619,16 @@
         {
           "ref": "britannica-antigonus-i",
           "quote": "his son, Demetrius Poliorcetes, was defeated at Gaza by Ptolemy and Seleucus (312)."
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.80.5 with Loeb notes 22 and 41 (archon year 312/11; Demetrius wintered 313/12)",
+          "quote": "Marching through the desert from Pelusium, he camped near the enemy at Old Gaza in Syria."
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.93.1",
+          "quote": "Meanwhile Ptolemy remained in Coelê Syria after having conquered Antigonus' son Demetrius in a great battle."
         }
       ],
       "notes": {
@@ -3549,6 +3724,21 @@
         {
           "ref": "britannica-ptolemaic-dynasty",
           "quote": "Egypt invaded Coele Syria that same year, and was decisively defeated by the Seleucid ruler Antiochus IV, who seized the Egyptian frontier city of Pelusium."
+        },
+        {
+          "ref": "bmcr-burstein-2011-grainger-syrian-wars",
+          "locator": "review, para. 1",
+          "quote": "for over a century, beginning in the 270s BC, the Ptolemies and Seleucids fought over this territory at least once a generation."
+        },
+        {
+          "ref": "bmcr-burstein-2011-grainger-syrian-wars",
+          "locator": "review, para. 1",
+          "quote": "Historians even differ concerning how many Syrian Wars they recognize, with the number varying between six and the nine discussed in this study."
+        },
+        {
+          "ref": "polybius-5-paton",
+          "locator": "Polybius 5.86.7 (Fourth Syrian War)",
+          "quote": "Such was the result of the battle of Raphia fought by the kings for the possession of Coele-Syria."
         }
       ],
       "notes": {
@@ -3638,6 +3828,26 @@
         {
           "ref": "britannica-palestine-hellenistic",
           "quote": "after the decisive defeat of Antiochus by Ptolemy IV (Philopator) at Raphia (modern Rafah in the Gaza Strip) in 217"
+        },
+        {
+          "ref": "polybius-5-paton",
+          "locator": "Polybius 5.80.3",
+          "quote": "he encamped at a distance of fifty stades from Raphia, which is the first city of Coele-Syria on the Egyptian side after Rhinocolura."
+        },
+        {
+          "ref": "polybius-5-paton",
+          "locator": "Polybius 5.86.7",
+          "quote": "Such was the result of the battle of Raphia fought by the kings for the possession of Coele-Syria."
+        },
+        {
+          "ref": "polybius-5-paton",
+          "locator": "Polybius 5.105.3 (synchronism with Lake Trasimene, 217 BCE)",
+          "quote": "All these events took place in the third year of the 140th Olympiad"
+        },
+        {
+          "ref": "bmcr-burstein-2011-grainger-syrian-wars",
+          "locator": "review, para. 1",
+          "quote": "only with the outbreak of the Fourth Syrian War in 221 BC is a comprehensive narrative of a Syrian War provided by Polybius."
         }
       ],
       "notes": {
@@ -3727,6 +3937,16 @@
         {
           "ref": "britannica-palestine-hellenistic",
           "quote": "Palestine, in 200 bce, became part of the Seleucid kingdom."
+        },
+        {
+          "ref": "polybius-16-paton",
+          "locator": "Polybius 16.18.2",
+          "quote": "the engagement between Antiochus and Scopas at the Panium in Coele-Syria"
+        },
+        {
+          "ref": "polybius-16-paton",
+          "locator": "Polybius 16.39.1 (quoted by Josephus)",
+          "quote": "Ptolemy's general, set out into the upper country and destroyed the Jewish nation in this winter."
         }
       ],
       "casualties": null
@@ -3851,6 +4071,21 @@
         {
           "ref": "britannica-judas-maccabeus",
           "quote": "Although he himself was killed two years later, his younger brothers took over the fight, finally securing the independence of Judaea."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "Contents, §§ 4-5",
+          "quote": "§ 5. The Times of Judas Maccabaeus, b.c. 165-161"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 3 (Josephus, Antiquities 12)",
+          "quote": "down to the death of Judas Maccabee in B.C. 161"
+        },
+        {
+          "ref": "bmcr-vanhenten-2018-bernhardt",
+          "locator": "review, on Bernhardt ch. 7 (a critical reading of 1 Maccabees)",
+          "quote": "The report about Mattathias is fictitious and Judas the Maccabee and his brothers formed one of the competing priestly factions in Jerusalem"
         }
       ],
       "notes": {
@@ -4701,9 +4936,38 @@
         {
           "ref": "britannica-palestine-hasmonean-herodian",
           "quote": "Hyrcanus was defeated but was encouraged to reassert his rights by Antipater, an Edomite"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.1.2",
+          "quote": "Hyrcanus then began his high priesthood on the third year of the hundred and seventy-seventh olympiad, when Quintus Hortensius and Quintus Metellus"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.4.3 (fall of the Temple to Pompey, 63 BCE)",
+          "quote": "upon the hundred and seventy-ninth olympiad, when Caius Antonius and Marcus Tullius Cicero were consuls"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "Contents, § 12",
+          "quote": "§12. Aristobulus II., b.c. 69-63"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "Contents, § 11",
+          "quote": "§11. Alexandra, b.c. 78-69"
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "notes": {
+        "en": "Josephus (Ant. 14.1.2) synchronises Hyrcanus II's accession, and the start of Aristobulus' war against him, with Olympiad 177.3 and the consulship of Hortensius and Metellus, i.e. 69 BCE, and Schürer (1890) dates Aristobulus II's reign 69-63 accordingly. The record's start (67 BCE) follows its current encyclopaedia source; Josephus' own figures for the Hasmonean reigns are not fully consistent, so the year should be shown as debated (e.g. a window 69-67).",
+        "ar": "يربط يوسيفوس (العاديات 14.1.2) تولي هيركانوس الثاني، وبداية حرب أرسطوبولس عليه، بالأولمبياد 177.3 وقنصلية هورتنسيوس ومتيلوس، أي سنة 69 ق.م.، ويؤرخ شورر (1890) حكم أرسطوبولس الثاني بـ 69-63 تبعاً لذلك. وتتبع بداية السجل (67 ق.م.) مصدره الموسوعي الحالي؛ وأرقام يوسيفوس نفسه لعهود الحشمونيين ليست متسقة تماماً، لذا ينبغي عرض السنة على أنها موضع خلاف (مثلاً نافذة 69-67).",
+        "he": "יוספוס (קדמוניות 14.1.2) מתזמן את עלייתו של הורקנוס השני, ואת תחילת מלחמת אריסטובולוס בו, עם האולימפיאדה 177.3 והקונסולות של הורטנסיוס ומטלוס, כלומר 69 לפנה״ס, ושירר (1890) מתארך בהתאם את שלטון אריסטובולוס השני ל־69–63. ההתחלה ברשומה (67 לפנה״ס) הולכת אחר מקורה האנציקלופדי הנוכחי; המספרים של יוספוס עצמו לשלטונות החשמונאים אינם עקביים לגמרי, ולכן יש להציג את השנה כשנויה במחלוקת (למשל חלון 69–67).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "pompey-siege-of-jerusalem",
@@ -5260,6 +5524,31 @@
         {
           "ref": "britannica-palestine-hasmonean-herodian",
           "quote": "By 73 all resistance had ceased."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Contents, § 20",
+          "quote": "The Great War with Rome, a.d. 66-73"
+        },
+        {
+          "ref": "josephus-jewish-war-whiston",
+          "locator": "Wars 2.14.4",
+          "quote": "at the same time began the war, in the twelfth year of the reign of Nero"
+        },
+        {
+          "ref": "tacitus-histories-5-moore",
+          "locator": "Histories 5.1 (70 CE)",
+          "quote": "Titus Caesar, who had been selected by his father to complete the subjugation of Judea"
+        },
+        {
+          "ref": "josephus-jewish-war-whiston",
+          "locator": "Wars 7.9.1 (Masada)",
+          "quote": "This calamitous slaughter was made on the fifteenth day of the month Xanthicus [Nisan]."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 20, note on the Zealots",
+          "quote": "conducted the defence of Masada in a.d. 73"
         }
       ],
       "notes": {
@@ -6087,6 +6376,21 @@
         {
           "ref": "britannica-bar-kokhba-revolt",
           "quote": "With the fall of Jerusalem and then Bethar, the fortress to the southwest of Jerusalem where Bar Kokhba was slain, the rebellion was crushed in 135."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 21, pp. 309-310",
+          "quote": "The last hiding-place of Bar-Cochba and his followers was the strong mountain fastness of Beth-ther"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 21, p. 310",
+          "quote": "this stronghold was also conquered in the eighteenth year of Hadrian = A.D. 134-135"
+        },
+        {
+          "ref": "cassius-dio-69-cary",
+          "locator": "Dio 69.13.2-14.1",
+          "quote": "Fifty of their most important outposts and nine hundred and eighty-five of their most famous villages were"
         }
       ],
       "casualties": null
@@ -6577,6 +6881,21 @@
         {
           "ref": "britannica-heraclius",
           "quote": "After a seven-year struggle, he defeated the main Persian army at Nineveh in 627 and restored the True Cross to Jerusalem in 630."
+        },
+        {
+          "ref": "bmcr-hauser-2002-dignas-winter-rom-perserreich",
+          "locator": "review (on Dignas & Winter pp. 136-140)",
+          "quote": "The latter finally led to the longest wars between the empires after Phocas had removed Mauricios"
+        },
+        {
+          "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+          "locator": "review, on Kaegi ch. 2",
+          "quote": "This period of 610-620 is represented as a time of predominance of the Persians on all fronts"
+        },
+        {
+          "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+          "locator": "review, on Kaegi ch. 5",
+          "quote": "marked by the battle “of Nineveh” (12 December 627)"
         }
       ],
       "notes": {
@@ -6679,12 +6998,32 @@
         {
           "ref": "howard-johnston-iranica-khosrow-ii",
           "quote": "the fragments of the True Cross, which had been taken from Jerusalem in 614"
+        },
+        {
+          "ref": "antiochus-strategos-conybeare-1910",
+          "locator": "eyewitness account (Georgian version, tr. Conybeare)",
+          "quote": "The beginning of the struggle of the Persians with the Christians of Jerusalem was on the 15th April, in the second indiction, in the fourth year of the Emperor Heraclius."
+        },
+        {
+          "ref": "antiochus-strategos-conybeare-1910",
+          "locator": "same passage",
+          "quote": "on the twenty-first day they broke down the city wall."
+        },
+        {
+          "ref": "avni-2010-persian-conquest-jerusalem-bi",
+          "locator": "essay (archaeological evidence)",
+          "quote": "a number of sites yielding evidence of mass burials, and on the other hand, no traces of destruction or damage in churches and monasteries throughout the city and its environs."
+        },
+        {
+          "ref": "avni-2010-persian-conquest-jerusalem-bi",
+          "locator": "essay",
+          "quote": "it seems highly probable that this was one of the locations in which the massacred Christians of Jerusalem were buried."
         }
       ],
       "notes": {
-        "en": "The sources frame the event differently: Britannica describes a capture with destruction of churches, while Howard-Johnston (Iranica) speaks of a Persian intervention in Jerusalem to stop a pogrom.",
-        "ar": "تؤطر المصادر الحدث بصورة مختلفة: تصف بريتانيكا استيلاءً مع تدمير كنائس، بينما يتحدث هوارد-جونستون (Iranica) عن تدخل فارسي في القدس لوقف مذبحة.",
-        "he": "המקורות מגדירים את האירוע באופן שונה: בריטניקה מתארת כיבוש עם הרס כנסיות, ואילו האוורד-ג'ונסטון (Iranica) מדבר על התערבות פרסית בירושלים כדי לעצור פוגרום.",
+        "en": "The sources frame the event differently: Britannica describes a capture with destruction of churches, while Howard-Johnston (Iranica) speaks of a Persian intervention in Jerusalem to stop a pogrom. Archaeology (Avni 2010, Israel Antiquities Authority) finds mass burials of the period around Jerusalem (e.g. the Mamilla cave, matching Strategius' account) but no destruction layers in the city's churches and monasteries, so the written accounts of widespread demolition are not borne out on the ground.",
+        "ar": "تؤطر المصادر الحدث بشكل مختلف: تصف بريتانيكا استيلاءً مع تدمير للكنائس، بينما يتحدث هوارد-جونستون (إيرانيكا) عن تدخل فارسي في القدس لوقف مذبحة. ويجد علم الآثار (أفني 2010، سلطة الآثار الإسرائيلية) مدافن جماعية من تلك الفترة حول القدس (مثل مغارة ماميلا، بما يطابق رواية ستراتيغيوس) لكن دون طبقات دمار في كنائس المدينة وأديرتها، لذا لا تؤكد الشواهد على الأرض الروايات المكتوبة عن هدم واسع.",
+        "he": "המקורות ממסגרים את האירוע באופן שונה: בריטניקה מתארת כיבוש עם הרס כנסיות, ואילו הווארד־ג'ונסטון (איראניקה) מדבר על התערבות פרסית בירושלים כדי לעצור פוגרום. הארכאולוגיה (אבני 2010, רשות העתיקות) מוצאת קבורות המוניות מן התקופה סביב ירושלים (כמו מערת ממילא, התואמת את תיאורו של אסטרטגיוס) אך לא שכבות הרס בכנסיות ובמנזרים של העיר, ולכן התיאורים הכתובים על הרס נרחב אינם מתאשרים בשטח.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6776,12 +7115,37 @@
         {
           "ref": "britannica-khosrow-ii",
           "quote": "the tide turned with Emperor Heraclius 's counterattacks between 622 and 627."
+        },
+        {
+          "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+          "locator": "review, on Kaegi ch. 4",
+          "quote": "the Byzantine large-scale offensive combined with skilful diplomatic measures in 624-627"
+        },
+        {
+          "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+          "locator": "review, on Kaegi ch. 6",
+          "quote": "is devoted to the period of 628-633, i.e. to Byzantium after the victory over Persia on the eve of the Arab invasion."
+        },
+        {
+          "ref": "bmcr-farahani-2009-dignas-winter-rome-persia",
+          "locator": "review (on Dignas & Winter p. 47)",
+          "quote": "the return of the Holy Cross to Jerusalem in 628 C.E."
+        },
+        {
+          "ref": "avni-2010-persian-conquest-jerusalem-bi",
+          "locator": "essay, introduction",
+          "quote": "Although the Persian domination - lasting only 14 years (614-628), was a very brief episode"
+        },
+        {
+          "ref": "bmcr-farahani-2009-dignas-winter-rome-persia",
+          "locator": "review",
+          "quote": "is characterized as “the final victory of the West over the East”"
         }
       ],
       "notes": {
-        "en": "Most fighting took place outside the map area; the recovery of Palestine followed the collapse of Khosrow II's regime.",
-        "ar": "جرى معظم القتال خارج منطقة الخريطة؛ وجاء استرداد فلسطين بعد انهيار نظام خسرو الثاني.",
-        "he": "רוב הלחימה התרחשה מחוץ לאזור המפה; החזרת פלשתינה באה לאחר קריסת משטרו של חוסרו השני.",
+        "en": "Most fighting took place outside the map area; the recovery of Palestine followed the collapse of Khosrow II's regime. The year of the restoration of the True Cross to Jerusalem is given differently in modern works: 628 (Dignas & Winter, as quoted in their BMCR review) or 630 (the end date of this record); Avni counts Persian rule in Palestine as 614-628.",
+        "ar": "دار معظم القتال خارج نطاق الخريطة؛ وجاءت استعادة فلسطين بعد انهيار نظام خسرو الثاني. وتختلف الأعمال الحديثة في سنة إعادة الصليب الحقيقي إلى القدس: 628 (ديغناس ووينتر، كما يقتبسهما عرض BMCR لكتابهما) أو 630 (تاريخ نهاية هذا السجل)؛ ويعدّ أفني الحكم الفارسي في فلسطين 614-628.",
+        "he": "רוב הלחימה התנהלה מחוץ לתחום המפה; השבת פלשתינה באה אחרי קריסת משטרו של כוסרו השני. השנה שבה הוחזר צלב הקדושה לירושלים ניתנת באופן שונה בחיבורים מודרניים: 628 (דיגנס ווינטר, כפי שמובא בסקירת BMCR של ספרם) או 630 (תאריך הסיום של רשומה זו); אבני מונה את השלטון הפרסי בפלשתינה כ־614–628.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6888,6 +7252,26 @@
         {
           "ref": "britannica-khalid-ibn-al-walid",
           "quote": "Khālid remained the effective leader of the forces facing the Byzantine armies in Syria and Palestine."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. I, p. 165",
+          "quote": "The tying of these banners took place on Thursday the first of Safar, year 13"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, Jerusalem, p. 213",
+          "quote": "The conquest of Jerusalem took place in the year 17."
+        },
+        {
+          "ref": "bmcr-walker-2005-butcher-roman-syria",
+          "locator": "review (on Butcher's epilogue)",
+          "quote": "describes, without drama or sentimentality, the Arab conquest of Syria during the late 630’s."
+        },
+        {
+          "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+          "locator": "review, on Kaegi ch. 7",
+          "quote": "draws the reader’s attention to the problem of how the Byzantines confronted the Arab raids."
         }
       ],
       "notes": {
@@ -6972,6 +7356,21 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "The first battle took place at Wadi Al-Arabah, south of the Dead Sea. The Byzantine defenders were defeated and retreated toward Gaza but were overtaken and almost annihilated."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. I, pp. 167-168 (Dathin)",
+          "quote": "Here the battle raged furiously, but at last Allah gave victory to his friends and defeat to his enemies whom he dispersed."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. I, p. 168 (al-Arabah)",
+          "quote": "which lay in Palestine, he directed against them abu-Umamah"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. I, p. 168",
+          "quote": "All this took place before the arrival of Khalid ibn-al-Walid in Syria."
         }
       ],
       "casualties": null
@@ -7045,9 +7444,28 @@
         {
           "ref": "britannica-gaza",
           "quote": "In 635 ce the Arabs took Gaza, and it became a Muslim city."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, Palestine chapter, p. 213",
+          "quote": "effected the conquest of Ghazzah, then Sabastiyah"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "p. 213",
+          "quote": "The first conflict between Moslems and Greeks took place in the caliphate of abu-Bakr in the province of Palestine"
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "notes": {
+        "en": "Al-Baladhuri (9th century) reports a tradition that 'Amr ibn al-'As took Gaza, then Sebastia and Nablus, on terms 'later on in the caliphate of Abu Bakr' (i.e. before August 634), after the first battle at Dathin near Gaza; the record's 635 follows Britannica. The early Arabic tradition is not unanimous on the date.",
+        "ar": "يروي البلاذري (القرن التاسع) رواية مفادها أن عمرو بن العاص أخذ غزة، ثم سبسطية ونابلس، صلحاً «في آخر خلافة أبي بكر» (أي قبل آب/أغسطس 634)، بعد المعركة الأولى في داثن قرب غزة؛ وتتبع سنة 635 في السجل بريتانيكا. والرواية العربية المبكرة ليست مجمعة على التاريخ.",
+        "he": "אל־בלאד'ורי (המאה ה־9) מוסר מסורת שעמרו בן אל־עאס כבש את עזה, ואחר כך את סבסטיה ושכם, בהסכם \"מאוחר יותר בח'ליפות אבו בכר\" (כלומר לפני אוגוסט 634), אחרי הקרב הראשון בדאת'ין ליד עזה; שנת 635 ברשומה הולכת אחר בריטניקה. המסורת הערבית המוקדמת אינה תמימת דעים לגבי התאריך.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "battle-of-ajnadayn",
@@ -7121,6 +7539,16 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "the combined forces won a bloody victory on July 30, 634, at a place in southern Palestine that the sources call Ajnādayn. All of Palestine then lay open to the invaders."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. IV, p. 175",
+          "quote": "This battle of Ajnadin took place on Monday twelve days before the end of Jumada I, year 13."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. IV, p. 175",
+          "quote": "Some, however, say two days after the beginning of Jumada II, and others two days before its end."
         }
       ],
       "notes": {
@@ -7211,6 +7639,16 @@
         {
           "ref": "britannica-khalid-ibn-al-walid",
           "quote": "Routing the Byzantine armies, he surrounded Damascus, which surrendered on Sept. 4, 635, and pushed northward."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. VIII, p. 189",
+          "quote": "According to al-Wakidi, the conquest of Damascus was effected in Rajab, year 14,"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. VIII, p. 189",
+          "quote": "but the date which Khalid's statement of capitulation bears was Rabi' II, year 15."
         }
       ],
       "notes": {
@@ -7312,6 +7750,11 @@
         {
           "ref": "britannica-khalid-ibn-al-walid",
           "quote": "attacked and destroyed the remaining Byzantine forces along the ravines of the Yarmūk valley (Aug. 20, 636)."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, ch. X, p. 210",
+          "quote": "The battle of al-Yarmuk took place in Rajab, year 15."
         }
       ],
       "casualties": null
@@ -7406,6 +7849,16 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "declared it a sacred place of prayer, and erected there the first structure called Al-Aqsa Mosque."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, Jerusalem, p. 213",
+          "quote": "The conquest of Jerusalem took place in the year 17."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Part II, Jerusalem, p. 214",
+          "quote": "whose people asked him to make terms with them, which he did in the year 17, with the stipulation that"
         }
       ],
       "notes": {

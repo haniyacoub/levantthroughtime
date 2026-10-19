@@ -131,6 +131,31 @@
           {
             "ref": "britannica-mesopotamia-neo-assyrian",
             "locator": "Sennacherib"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "iii 18-20 (701 BCE)",
+            "quote": "Moreover, (as for) Hezekiah of the land Judah, who had not submitted to my yoke, I surrounded (and) conquered forty-six of his fortified cities"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "iii 30-34",
+            "quote": "I detached from his land the cities of his that I had plundered"
+          },
+          {
+            "ref": "oracc-rinap4-esarhaddon-1",
+            "locator": "v 55",
+            "quote": "Manasseh, king of Judah"
+          },
+          {
+            "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+            "locator": "essay, campaigns against Judah",
+            "quote": "Judah's capital was successfully conquered on the second of Addaru (= on the 16th of March), 597."
+          },
+          {
+            "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+            "locator": "essay, second rebellion of Judah",
+            "quote": "In 587, after a siege that reportedly lasted two years and caused severe famine in the city"
           }
         ],
         "id": "kingdom-of-judah-3",

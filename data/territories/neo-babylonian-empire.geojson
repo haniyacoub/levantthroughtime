@@ -106,6 +106,21 @@
           {
             "ref": "britannica-palestine-iron-age",
             "locator": "Assyrian and Babylonian rule"
+          },
+          {
+            "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+            "locator": "essay, second rebellion of Judah",
+            "quote": "In 587, after a siege that reportedly lasted two years and caused severe famine in the city"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 10.9.1 (Gedaliah)",
+            "quote": "made one, whose name was Gedaliah, the son of Ahikam, a person of a noble family, their governor"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 10.9.7 (582 BCE)",
+            "quote": "on the fifth year after the destruction of Jerusalem, which was the twenty-third of the reign of Nebuchadnezzar, he made an expedition against Celesyria"
           }
         ],
         "id": "neo-babylonian-empire-2",

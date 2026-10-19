@@ -40,10 +40,44 @@
           {
             "ref": "britannica-megiddo",
             "locator": "history"
+          },
+          {
+            "ref": "novotny-rinap5-3-introduction",
+            "locator": "Aššur-uballiṭ II and the End of the Assyrian Empire",
+            "quote": "During the following year, 609, Aššur-uballiṭ returned with a large Egyptian army"
+          },
+          {
+            "ref": "herodotus-macaulay-1890",
+            "locator": "Herodotus 2.159",
+            "quote": "Necos engaged battle at Magdolos with the Syrians, and conquered them; and after this he took Cadytis, which is a great city of Syria"
+          },
+          {
+            "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+            "locator": "essay, early campaigns (605) and the campaign of 601-600",
+            "quote": "that military expedition forced the Egyptians to give up any control they had on territory on the Asian continent"
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "2 Kings 23:29-35 (textual tradition)",
+            "quote": "King Josiah marched toward him, but when he confronted him at Megiddo, [Pharaoh Neco] slew him."
+          },
+          {
+            "ref": "bartelmus-2024-ribo-nebuchadnezzar-ii",
+            "locator": "essay",
+            "quote": "Nebuchadnezzar spent the following year (600/599) reorganizing his forces"
           }
         ],
         "id": "egypt-26th-dynasty-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "The Babylonian sources place the end of Egyptian control of the Levant later than Carchemish (605): after a failed Babylonian attack on Egypt in 601, Nebuchadnezzar's expedition of 600/599 forced Egypt to give up its remaining Asian territory (Bartelmus, RIBo). The 605 end date marks the loss of Syria; the southern coast may have stayed under Egyptian influence a few years longer.",
+          "ar": "تضع المصادر البابلية نهاية السيطرة المصرية على المشرق بعد قرقميش (605): فبعد هجوم بابلي فاشل على مصر سنة 601، أجبرت حملة نبوخذنصر في 600/599 مصر على التخلي عن ما تبقى من أراضيها الآسيوية (بارتلموس، RIBo). ويشير تاريخ النهاية 605 إلى خسارة سوريا؛ وربما بقي الساحل الجنوبي تحت النفوذ المصري بضع سنوات أخرى.",
+          "he": "המקורות הבבליים ממקמים את סוף השליטה המצרית בלבנט מאוחר יותר מכרכמיש (605): אחרי מתקפה בבלית כושלת על מצרים ב־601, אילץ מסע נבוכדנאצר ב־600/599 את מצרים לוותר על שאר שטחיה באסיה (ברטלמוס, RIBo). תאריך הסיום 605 מציין את אובדן סוריה; ייתכן שהחוף הדרומי נשאר תחת השפעה מצרית עוד כמה שנים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

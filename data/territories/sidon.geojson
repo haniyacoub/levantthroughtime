@@ -35,10 +35,34 @@
           {
             "ref": "britannica-sidon",
             "locator": "article"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "ii 37-40 (701 BCE)",
+            "quote": "Fear of my lordly brilliance overwhelmed Lulî, the king of the city Sidon, and (ii 40) he fled afar into the midst of the sea and disappeared."
+          },
+          {
+            "ref": "oracc-rinap4-esarhaddon-1",
+            "locator": "ii 65-70 (c. 677 BCE)",
+            "quote": "I leveled Sidon, his stronghold, which is situated in the midst of the sea, like a flood"
+          },
+          {
+            "ref": "oracc-rinap4-esarhaddon-1",
+            "locator": "iii 10-16",
+            "quote": "I reorganized that province, placed my official as a governor over them, and increased and imposed upon it tribute and payment greater than before."
           }
         ],
         "id": "sidon-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Esarhaddon (c. 677 BCE) destroyed Sidon after the revolt of Abdi-Milkuti, built Kar-Esarhaddon nearby, made Sidon's territory an Assyrian province under a governor and gave Ma'rubbu and Sarepta to the king of Tyre; the record's continuous span to c. 540 does not show this interruption.",
+          "ar": "دمّر أسرحدون (نحو 677 ق.م.) صيدا بعد ثورة عبدي ملكوتي، وبنى كار-أسرحدون بالقرب منها، وجعل أراضي صيدا ولاية آشورية تحت حاكم، ومنح ماروبو وصرفة لملك صور؛ ولا يُظهر امتداد السجل المتصل حتى نحو 540 هذا الانقطاع.",
+          "he": "אסרחדון (בערך 677 לפנה״ס) החריב את צידון אחרי מרד עבדי־מלכותי, בנה את כאר־אסרחדון בסמוך, הפך את שטח צידון לפרובינציה אשורית בפיקוד מושל ונתן את מערובו וצרפת למלך צור; רצף הרשומה עד בערך 540 אינו מראה הפסקה זו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {

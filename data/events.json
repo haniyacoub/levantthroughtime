@@ -276,7 +276,7 @@
         "precision": "millennium"
       },
       "end": {
-        "year": -2300,
+        "year": -2500,
         "circa": true,
         "precision": "century"
       },
@@ -302,6 +302,26 @@
           "ref": "britannica-palestine-history",
           "locator": "The Bronze Age",
           "quote": "By about the 23rd century bce the whole civilization had ceased to be urban."
+        },
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "p. 526 (EB I-II transition)",
+          "quote": "There are fewer sites in all regions, and they are usually large, densely built up, and fortified."
+        },
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "p. 527 (EB III)",
+          "quote": "The end of the period is conventionally placed around 2300 BC"
+        },
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "p. 527 (EB IV)",
+          "quote": "EB III urban settlements are all abandoned."
+        },
+        {
+          "ref": "regev-et-al-2012-eb-chronology",
+          "locator": "p. 560",
+          "quote": "Hence, the data suggest that many EB III sites were abandoned about or before 2500 BC, which suggests a shift upward of"
         }
       ],
       "notes": {
@@ -567,6 +587,16 @@
           "ref": "britannica-gezer-calendar",
           "locator": "excerpt (calendar)",
           "quote": "the Hebrew calendar is the Gezer calendar, written probably in the age of Solomon, in the late 10th century bce. The inscription indicates the length of main agricultural tasks within the cycle of 12 lunations."
+        },
+        {
+          "ref": "albright-1969-anet-palestinian-inscriptions",
+          "locator": "ANET p. 320",
+          "quote": "This little inscription was discovered at Gezer in 1908 by R. A. S. Macalister"
+        },
+        {
+          "ref": "albright-1969-anet-palestinian-inscriptions",
+          "locator": "ANET p. 320",
+          "quote": "point to the second half of the tenth century or the very beginning of the ninth as its probable time."
         }
       ],
       "notes": {
@@ -753,6 +783,26 @@
           "ref": "britannica-palestine-iron-age",
           "locator": "The Israelites in Palestine",
           "quote": "Omri himself, founder of the dynasty, selected Samaria as his capital and began constructing elaborate defenses and royal buildings, which have been uncovered by excavations."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 78",
+          "quote": "Tirzah lost its importance in the early ninth century, when Omri (884–873 b.c.e.) moved the capital of the northern kingdom to Samaria"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 78",
+          "quote": "the construction of the first palace at Samaria, probably by Omri."
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 87",
+          "quote": "the allusion in Assyrian texts to the northern kingdom as Bit Humri, in reference to Omri as the founder of the dominant dynasty or the capital"
+        },
+        {
+          "ref": "sefaria-jps-tanakh",
+          "locator": "1 Kings 16:23-24 (textual tradition)",
+          "quote": "Then he bought the hill of Samaria from Shemer for two talents of silver"
         }
       ],
       "notes": {
@@ -2863,6 +2913,21 @@
           "ref": "ej-2007-jabneh",
           "locator": "historical section (M. Avi-Yonah)",
           "quote": "With the outbreak of the Bar Kokhba Revolt, Jabneh ceased to be the center of Jewish life"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 20, pp. 272-273",
+          "quote": "After the overthrow of Jerusalem, Jamnia (Jabne) seems in a special way to have become a centre of literary activity."
+        },
+        {
+          "ref": "schurer-1910-div2-vol1",
+          "locator": "§ 23.III (Sanhedrin), pp. 173-174",
+          "quote": "the Jewish people lost no time in again creating for themselves a new centre in the so-called court of justice"
+        },
+        {
+          "ref": "schurer-1910-div2-vol1",
+          "locator": "§ 23.III, p. 174",
+          "quote": "it was not a legislative body, but a judicial tribunal"
         }
       ],
       "notes": {
@@ -3441,6 +3506,16 @@
           "ref": "ej-2007-talmud-jerusalem",
           "locator": "section on Yerushalmi Neziqin",
           "quote": "the Jerusalem Talmud to Nezikin represents the school of Caesarea, where it was compiled about the middle of the fourth century c.e."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 3, p. 133",
+          "quote": "especially in that of Tiberias, during the third and fourth centuries."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 3, p. 134",
+          "quote": "no Jewish authorities are referred to who can be assigned to a later period than the middle of the fourth century."
         }
       ],
       "notes": {
@@ -3534,7 +3609,9 @@
       "kind": "religious",
       "date": {
         "year": 451,
-        "precision": "year"
+        "month": 10,
+        "day": 26,
+        "precision": "day"
       },
       "coords": [
         29.0333,
@@ -3572,6 +3649,21 @@
           "ref": "npnf-chalcedon-acts-percival",
           "locator": "Session VII",
           "quote": "the most holy bishop Maximus, or rather the most holy church of Antioch, shall have under its own jurisdiction the two Phœnicias and Arabia"
+        },
+        {
+          "ref": "honigmann-1950-juvenal",
+          "locator": "p. 245 (session of 23 October 451)",
+          "quote": "only the three Palestinian provinces to that of Jerusalem, and that both interested parties should in the future renounce any further claims."
+        },
+        {
+          "ref": "honigmann-1950-juvenal",
+          "locator": "p. 246 (26 October 451)",
+          "quote": "On October 26, the agreement between Maximus and Juvenal was again brought up on the request of the Emperor."
+        },
+        {
+          "ref": "honigmann-1950-juvenal",
+          "locator": "p. 245",
+          "quote": "really took place on October 23."
         }
       ],
       "notes": {

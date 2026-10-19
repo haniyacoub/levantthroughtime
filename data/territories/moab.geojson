@@ -38,6 +38,11 @@
           {
             "ref": "britannica-moab",
             "locator": "article"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 84 (Mesha Inscription on Omri)",
+            "quote": "Omri king of Israel humbled Moab many days"
           }
         ],
         "id": "moab-1",
@@ -116,6 +121,31 @@
           {
             "ref": "britannica-moab",
             "locator": "article"
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 97 (Jahaz and Ataroth in Moab)",
+            "quote": "The Mesha Inscription refers to two strongholds that were built by the Omrides in Moab east of the Dead Sea—Jahaz and Ataroth"
+          },
+          {
+            "ref": "oracc-rinap1-tiglath-pileser-iii-47",
+            "locator": "rev. 10",
+            "quote": "Sanīpu of the land Bīt-Ammon, Salāmānu of the land Moab"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "ii 55 (701 BCE)",
+            "quote": "Būdi-il of the land Bīt-Ammon, Kammūsu-nadbi of the land Moab"
+          },
+          {
+            "ref": "oracc-rinap4-esarhaddon-1",
+            "locator": "v 55",
+            "quote": "Muṣurī, king of Moab"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 10.9.7 (582 BCE)",
+            "quote": "he made war against the Ammonites and Moabites"
           }
         ],
         "id": "moab-3",

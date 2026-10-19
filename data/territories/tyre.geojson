@@ -35,6 +35,21 @@
           {
             "ref": "britannica-tyre",
             "locator": "history"
+          },
+          {
+            "ref": "fleming-1915-history-of-tyre",
+            "locator": "ch. I, p. 8",
+            "quote": "As early as 1400 B.C. Tyre was not only a great city but was considered impregnable."
+          },
+          {
+            "ref": "josephus-against-apion-whiston",
+            "locator": "Against Apion 1.18 (Menander of Ephesus on Hiram)",
+            "quote": "Upon the death of Abibalus, his son Hirom took the kingdom; he lived fifty-three years, and reigned thirty-four."
+          },
+          {
+            "ref": "finkelstein-2013-forgotten-kingdom",
+            "locator": "p. 107",
+            "quote": "should probably be interpreted as an etiological story that explains why, in late monarchic times, areas in the western Galilee were held by the kingdom of Tyre."
           }
         ],
         "id": "tyre-1",

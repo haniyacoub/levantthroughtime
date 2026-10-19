@@ -40,6 +40,26 @@
             "ref": "britannica-philistine",
             "locator": "article",
             "quote": "settled—possibly with Egypt’s permission—on the coastal plain of Palestine from Joppa (modern Tel Aviv–Yafo) southward to Gaza."
+          },
+          {
+            "ref": "feldman-2019-philistines",
+            "locator": "introduction",
+            "quote": "During the 12th century BCE, coincident with these events, substantive cultural changes appeared in the archeological record of Ashkelon, Ashdod, and Ekron"
+          },
+          {
+            "ref": "edgerton-wilson-1936-saoc12",
+            "locator": "Pl. 46 (Year 8 inscription), l. 17",
+            "quote": "They were coming, while the flame was prepared before them, forward toward Egypt."
+          },
+          {
+            "ref": "kaniewski-2011-sea-peoples",
+            "locator": "Discussion",
+            "quote": "giving historical dates of 1176 BC, 1179 BC, and a radiocarbon-based date of 1188–1177 BC for the Sea People invasions in the Nile delta."
+          },
+          {
+            "ref": "tucci-2022-review-koch-colonial-encounters",
+            "locator": "p. 161 (on Koch, ch. 5)",
+            "quote": "deals with the decline and collapse of the Egyptian colonial network during the second half of the 12th century B.C."
           }
         ],
         "id": "philistine-pentapolis-1",
@@ -133,6 +153,26 @@
           {
             "ref": "britannica-ashdod",
             "locator": "article"
+          },
+          {
+            "ref": "rinap2-sargon-ii",
+            "locator": "Sargon II 007, lines 90-109 (Ashdod, 712/711 BCE)",
+            "quote": "Azūri, king of the city Ashdod, plotted (so as) to no longer (have to) deliver tribute (to me)"
+          },
+          {
+            "ref": "oracc-rinap3-sennacherib-22",
+            "locator": "iii 27b-34 (701 BCE)",
+            "quote": "I gave (them) to Mitinti, the king of the city Ashdod, Padî, the king of the city Ekron, and Ṣilli-Bēl, the king of the city Gaza, and (thereby) made his land smaller."
+          },
+          {
+            "ref": "stager-master-schloen-2011-ashkelon-3-page",
+            "locator": "publisher's description",
+            "quote": "a study of the city destroyed in the campaign of the Babylonian king Nebuchadrezzar in December of 604 B.C."
+          },
+          {
+            "ref": "sefaria-jps-tanakh",
+            "locator": "2 Chronicles 26:6 (textual tradition on Uzziah)",
+            "quote": "He went forth to fight the Philistines, and breached the wall of Gath and the wall of Jabneh and the wall of Ashdod"
           }
         ],
         "id": "philistine-pentapolis-3",
