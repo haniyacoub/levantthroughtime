@@ -67,22 +67,302 @@ export interface Segment {
   fine_steps?: { start: { year: number; month?: number }; end: { year: number; month?: number }; unit: 'year' | 'month'; size: number }[];
 }
 
+export interface Range {
+  low: number | null;
+  high: number | null;
+  best?: number | null;
+}
+
+export interface SourceEntry {
+  id: string;
+  type: string;
+  authors?: string[];
+  editors?: string[];
+  title: string;
+  container?: string;
+  publisher?: string;
+  place?: string;
+  year?: string | number;
+  volume?: string | number;
+  issue?: string | number;
+  pages?: string;
+  edition?: string;
+  isbn?: string;
+  doi?: string;
+  url?: string;
+  accessed?: string;
+  license?: string;
+  verification: { level: 'full-text' | 'excerpt' | 'catalogue-only' | 'cited-via'; checked_on: string; note?: string };
+  kind: string;
+  institution_country?: string;
+  notes?: string;
+}
+
+export interface Area {
+  id: string;
+  name: LocalizedText;
+  definition: LocalizedText;
+  series?: string;
+}
+
+export interface Group {
+  id: string;
+  axis: 'religion' | 'ethnicity' | 'population-group';
+  name: LocalizedText;
+}
+
+export interface CompositionGroup {
+  group: string;
+  count?: Range;
+  share_pct?: Range;
+  notes?: string;
+}
+
+export interface PopulationPoint {
+  id: string;
+  area: string;
+  date: HistDate;
+  date_note?: string;
+  total: Range | null;
+  composition?: { axis: Group['axis']; label?: string; partial?: boolean; groups: CompositionGroup[] }[];
+  basis: string;
+  method?: string;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export interface PlaceName {
+  text: string;
+  translit?: string;
+  display?: LocalizedText;
+  lang: string;
+  script?: string;
+  start?: HistDate;
+  end?: HistDate;
+  used_by?: string;
+  primary?: boolean;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: string;
+}
+
+export interface Place {
+  id: string;
+  name: LocalizedText;
+  kind: string[];
+  coords: [number, number];
+  coords_precision?: string;
+  founded?: HistDate | null;
+  founded_note?: string;
+  destroyed?: { date: HistDate; by?: string; note?: string; sources: SourceRef[] }[];
+  names?: PlaceName[];
+  holy_site?: { traditions: Partial<Record<string, { significance: LocalizedText; sources: SourceRef[] }>> };
+  description?: LocalizedText;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export interface EventRecord {
+  id: string;
+  name: LocalizedText;
+  kind: string;
+  date: HistDate;
+  end?: HistDate;
+  place?: string;
+  coords?: [number, number];
+  description?: LocalizedText;
+  importance?: 1 | 2 | 3;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export interface Ruler {
+  id: string;
+  name: LocalizedText;
+  polity: string;
+  office?: LocalizedText;
+  start: HistDate;
+  end?: HistDate;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export interface AltName {
+  text: LocalizedText;
+  used_by: string;
+  sources: SourceRef[];
+}
+
+export interface Conflict {
+  id: string;
+  name: LocalizedText;
+  alt_names?: AltName[];
+  kind: string;
+  parent?: string;
+  start: HistDate;
+  end?: HistDate;
+  location?: { place?: string; coords?: [number, number]; units?: string[]; description?: LocalizedText };
+  belligerents?: { side: string; parties: ({ polity: string } | { group: LocalizedText })[] }[];
+  outcome?: LocalizedText;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+  /** Marker position, computed when the data is built. */
+  _coords?: [number, number] | null;
+}
+
+export type Endpoint = { place: string } | { label: LocalizedText; coords: [number, number] };
+
+export interface Migration {
+  id: string;
+  name: LocalizedText;
+  group: LocalizedText;
+  types: string[];
+  origin: Endpoint;
+  destination: Endpoint;
+  start: HistDate;
+  end?: HistDate;
+  numbers?: Range | null;
+  direction: 'in' | 'out' | 'within';
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+  contested_note?: LocalizedText;
+  /** Endpoint positions, computed when the data is built. */
+  _from?: [number, number] | null;
+  _to?: [number, number] | null;
+}
+
+export interface Diaspora {
+  id: string;
+  group: string;
+  definition: LocalizedText;
+  date: HistDate;
+  location: { label: LocalizedText; coords: [number, number] };
+  number: Range;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export interface LanguageRecord {
+  id: string;
+  name: LocalizedText;
+  family?: string;
+  scripts?: string[];
+  periods: { start: HistDate; end?: HistDate; role: string; speakers?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
+  notes?: LocalizedText;
+}
+
+export interface LevelPoint {
+  id: string;
+  date: HistDate;
+  level_m: { low: number | null; high: number | null; best?: number };
+  location?: string;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: string;
+}
+
+export interface TradeRoute {
+  id: string;
+  name: LocalizedText;
+  start: HistDate;
+  end?: HistDate;
+  waypoints: { label: string; coords: [number, number] }[];
+  certainty: string;
+  description?: LocalizedText;
+  confidence: Confidence;
+  sources: SourceRef[];
+}
+
+export interface Perspective {
+  id: string;
+  title: LocalizedText;
+  about?: string[];
+  accounts: { perspective: string; label: LocalizedText; summary: LocalizedText; sources: SourceRef[] }[];
+  notes?: LocalizedText;
+  /** Time span from the records it is about, computed when the data is built. */
+  _t0?: number;
+  _t1?: number;
+}
+
+export interface Story {
+  id: string;
+  title: LocalizedText;
+  summary: LocalizedText;
+  steps: {
+    date: { year: number; month?: number };
+    view?: { center: [number, number]; zoom: number };
+    layers?: string[];
+    highlight?: string[];
+    title: LocalizedText;
+    card: LocalizedText;
+    sources: SourceRef[];
+    duration_s?: number;
+  }[];
+}
+
+export interface ModernLayer {
+  id: string;
+  name: LocalizedText;
+  file: string;
+  kind: 'fill' | 'line' | 'point';
+  color: string;
+  class_styles?: Record<string, { dash?: number[]; color?: string; label: LocalizedText }>;
+  start: HistDate;
+  end?: HistDate;
+  as_of: HistDate;
+  publisher: string;
+  license: string;
+  attribution: string;
+  method: LocalizedText;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+  t0: number;
+  t1: number | null;
+}
+
 export interface AppData {
   config: {
     title: LocalizedText;
     subtitle: LocalizedText;
     timeline: { start: { year: number; month?: number }; as_of: HistDate };
     prehistoric_until: number;
+    corrections_url?: string;
     map: { bounds: [[number, number], [number, number]]; initial: { center: [number, number]; zoom: number } };
   };
   eras: Segment[];
-  sources: { id: string; title: string; authors?: string[]; year?: string | number; url?: string; doi?: string; verification: { level: string } }[];
+  sources: SourceEntry[];
   polities: Polity[];
   cultures: Culture[];
   extents: Extent[];
-  population: unknown[];
+  population: PopulationPoint[];
+  areas: Area[];
+  groups: Group[];
+  groupColors: Record<string, string>;
   /** Names of geographic units (schematic and modern), for panels. */
   units: { id: string; name: LocalizedText }[];
+  /** Ruler bands: periods when each polity held part of the core land. */
+  bands: { owner: string; intervals: [number, number | null][] }[];
+  /** How many references cite each source. */
+  sourceUsage: Record<string, number>;
+  places: Place[];
+  events: EventRecord[];
+  rulers: Ruler[];
+  conflicts: Conflict[];
+  migrations: Migration[];
+  diaspora: Diaspora[];
+  languages: LanguageRecord[];
+  landscape: { sea_level: LevelPoint[]; dead_sea_levels: LevelPoint[]; trade_routes: TradeRoute[] } | null;
+  perspectives: Perspective[];
+  stories: Story[];
+  modernLayers?: ModernLayer[];
 }
 
 export function baseUrl(): string {

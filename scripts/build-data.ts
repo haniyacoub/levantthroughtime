@@ -178,6 +178,23 @@ function assignColours(): Record<string, string> {
   return colour;
 }
 
+/**
+ * Colours for population groups: a fixed, colour-blind-safe mapping (Paul Tol's "bright"
+ * scheme) chosen to avoid flag colours. Pinned in palette.json under "group:<axis>:<id>" if needed.
+ */
+function groupColour(axis: string, id: string, i: number): string {
+  const pinned = b.palette?.pinned[`${axis}-${id}`]?.color;
+  if (pinned) return pinned;
+  // Avoided on purpose: yellow for Jews (the yellow badge), green for Muslims, flag blue/white for Jews.
+  const fixed: Record<string, string> = {
+    muslims: '#4477AA', christians: '#EE6677', jews: '#AA3377', druze: '#66CCEE', samaritans: '#CCBB44',
+    bahais: '#228833', others: '#BBBBBB', 'no-religion': '#999999', 'not-classified-by-religion': '#AAAAAA',
+    'others-and-unknown': '#BBBBBB', arabs: '#EE7733', 'jews-and-others': '#AA3377', foreigners: '#66CCEE',
+    'arabs-and-others': '#EE7733', israelites: '#AA3377', franks: '#CCBB44',
+  };
+  return fixed[id] ?? ['#4477AA', '#EE6677', '#228833', '#CCBB44', '#66CCEE', '#AA3377', '#BBBBBB'][i % 7]!;
+}
+
 function hash(s: string): number {
   let h = 0;
   for (const ch of s) h = (h * 31 + ch.charCodeAt(0)) | 0;
@@ -186,9 +203,59 @@ function hash(s: string): number {
 
 const colours = assignColours();
 
+// ------------------------------------------------------------ ruler bands
+
+/**
+ * Units that make up the "core" land (between the Mediterranean and the Jordan).
+ * A polity gets a ruler band for the periods when it held any of them.
+ */
+const CORE_UNITS = new Set([
+  'upper-galilee', 'lower-galilee', 'acre-plain', 'carmel-sharon', 'jezreel', 'samaria', 'judea', 'shephelah',
+  'philistia', 'judean-desert', 'jordan-valley', 'negev-north', 'negev-south',
+  'israel-1949', 'west-bank', 'east-jerusalem', 'gaza-strip', 'mount-scopus', 'nml-latrun', 'nml-jerusalem',
+]);
+const bandMap = new Map<string, [number, number][]>();
+for (const { data } of b.territories) {
+  for (const f of data.features) {
+    const p = f.properties;
+    if (p.extent_type === 'claim') continue;
+    const all = [...(p.units ?? []), ...(p.partial_units ?? []), ...(p.contested_units ?? [])];
+    if (!all.some((u) => CORE_UNITS.has(u))) continue;
+    const list = bandMap.get(p.polity) ?? [];
+    list.push([startT(p.start), p.end ? endT(p.end) : Infinity]);
+    bandMap.set(p.polity, list);
+  }
+}
+const bands = [...bandMap.entries()].map(([owner, ivs]) => {
+  ivs.sort((a, c) => a[0] - c[0]);
+  const merged: [number, number][] = [];
+  for (const iv of ivs) {
+    const last = merged[merged.length - 1];
+    if (last && iv[0] <= last[1] + 1e-6) last[1] = Math.max(last[1], iv[1]);
+    else merged.push([...iv]);
+  }
+  return { owner, intervals: merged.map(([a, c]) => [a, Number.isFinite(c) ? c : null]) };
+});
+
+// ------------------------------------------------------------ which records cite each source
+
+const sourceUsage: Record<string, number> = {};
+const countRefs = (o: unknown): void => {
+  if (Array.isArray(o)) o.forEach(countRefs);
+  else if (o && typeof o === 'object') {
+    const rec = o as Record<string, unknown>;
+    if (typeof rec.ref === 'string' && Object.keys(rec).every((k) => ['ref', 'locator', 'quote', 'via', 'note'].includes(k))) {
+      sourceUsage[rec.ref] = (sourceUsage[rec.ref] ?? 0) + 1;
+    }
+    for (const v of Object.values(rec)) countRefs(v);
+  }
+};
+countRefs([b.polities, b.cultures, b.territories.map((t) => t.data), b.cultureZones.map((t) => t.data), b.population, b.areas,
+  b.places, b.events, b.rulers, b.conflicts, b.migrations, b.languages, b.landscape, b.perspectives, b.stories.map((s) => s.data)]);
+
 // ------------------------------------------------------------ app data
 
-const appData = {
+const appData: Record<string, any> & { conflicts: any[]; migrations: any[] } = {
   generated: new Date().toISOString(),
   config: b.config,
   eras: b.eras?.segments,
@@ -206,13 +273,84 @@ const appData = {
     ...unitsData.units.map((u) => ({ id: u.id, name: u.name, description: u.description })),
     ...modern.features.map((f) => ({ id: String(f.properties?.id), name: { en: String(f.properties?.name_en) } })),
   ],
+  bands,
+  sourceUsage,
+  places: b.places?.places ?? [],
+  events: b.events?.events ?? [],
+  rulers: b.rulers?.rulers ?? [],
+  conflicts: b.conflicts?.conflicts ?? [],
+  migrations: b.migrations?.migrations ?? [],
+  diaspora: b.migrations?.diaspora ?? [],
+  languages: b.languages?.languages ?? [],
+  landscape: b.landscape ?? null,
+  perspectives: b.perspectives?.perspectives ?? [],
+  stories: b.stories.map((s) => s.data),
+  groupColors: Object.fromEntries((b.groups?.groups ?? []).map((g, i) => [`${g.axis}:${g.id}`, groupColour(g.axis, g.id, i)])),
 };
+
+// ------------------------------------------------------------ map positions for conflicts and migrations
+
+const placeCoords = new Map((b.places?.places ?? []).map((p) => [p.id, p.coords as [number, number]]));
+/** A conflict's marker position: its place, its own coordinates, or the centre of its units. */
+function conflictCoords(c: { location?: { place?: string; coords?: [number, number]; units?: string[] } }): [number, number] | null {
+  const loc = c.location;
+  if (!loc) return null;
+  if (loc.coords) return loc.coords;
+  if (loc.place && placeCoords.has(loc.place)) return placeCoords.get(loc.place)!;
+  if (loc.units?.length) {
+    const shape = shapeOf(loc.units);
+    if (shape) return labelPoint(shape);
+  }
+  return null;
+}
+appData.conflicts = appData.conflicts.map((c) => ({ ...c, _coords: conflictCoords(c) }));
+const endpoint = (e: { place: string } | { label: unknown; coords: [number, number] }) => ('place' in e ? placeCoords.get(e.place) ?? null : e.coords);
+appData.migrations = appData.migrations.map((m) => ({ ...m, _from: endpoint(m.origin), _to: endpoint(m.destination) }));
+
+// Each perspective's time span, from the records it is about (for showing it in the year panel).
+{
+  const spans = new Map<string, [number, number]>();
+  const add = (id: string, s0: { year: number; month?: number }, e0?: { year: number; month?: number }) =>
+    spans.set(id, [startT(s0), e0 ? endT(e0) : startT(s0) + 1]);
+  for (const c of b.conflicts?.conflicts ?? []) add(c.id, c.start, c.end);
+  for (const e of b.events?.events ?? []) add(e.id, e.date, e.end);
+  for (const m of b.migrations?.migrations ?? []) add(m.id, m.start, m.end);
+  for (const p of b.polities?.polities ?? []) add(p.id, p.start, p.end);
+  appData.perspectives = appData.perspectives.map((p: { about?: string[] }) => {
+    const ss = (p.about ?? []).map((id) => spans.get(id)).filter((x): x is [number, number] => !!x);
+    return ss.length ? { ...p, _t0: Math.min(...ss.map((x) => x[0])), _t1: Math.max(...ss.map((x) => x[1])) } : p;
+  });
+}
+
+// ------------------------------------------------------------ modern layers
+
+/** Copies each modern layer with per-feature times (t0/t1) for date filtering on the map. */
+mkdirSync(join(OUT, 'modern'), { recursive: true });
+appData.modernLayers = (b.modern?.layers ?? []).map((l) => {
+  const fc = readJson<FeatureCollection>(join(DATA, 'modern', l.file));
+  const lt0 = startT(l.start);
+  const lt1 = l.end ? endT(l.end) : null;
+  for (const f of fc.features) {
+    const p = (f.properties ??= {}) as Record<string, unknown>;
+    const s0 = p.start as { year: number; month?: number } | undefined;
+    const e0 = p.end as { year: number; month?: number } | undefined;
+    p.t0 = s0 ? startT(s0) : lt0;
+    p.t1 = e0 ? endT(e0) : lt1 ?? 1e9;
+  }
+  writeJson(join(OUT, 'modern', l.file), turf.truncate(fc, { precision: 5 }), true);
+  return { ...l, t0: lt0, t1: lt1 };
+});
+
 writeJson(join(OUT, 'app-data.json'), appData, true);
 
 // ------------------------------------------------------------ basemap copy
 
 mkdirSync(join(OUT, 'basemap'), { recursive: true });
 for (const f of readdirSync(join(DATA, 'geo', 'basemap'))) copyFileSync(join(DATA, 'geo', 'basemap', f), join(OUT, 'basemap', f));
+mkdirSync(join(OUT, 'landscape'), { recursive: true });
+if (existsSync(join(DATA, 'geo', 'landscape'))) {
+  for (const f of readdirSync(join(DATA, 'geo', 'landscape'))) copyFileSync(join(DATA, 'geo', 'landscape', f), join(OUT, 'landscape', f));
+}
 
 // ------------------------------------------------------------ fonts for map labels
 

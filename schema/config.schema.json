@@ -177,6 +177,10 @@
       "type": "number",
       "exclusiveMinimum": 0
     },
+    "corrections_url": {
+      "type": "string",
+      "format": "uri"
+    },
     "map": {
       "type": "object",
       "properties": {

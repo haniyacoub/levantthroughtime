@@ -1,0 +1,260 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "perspectives": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "title": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          },
+          "about": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+            }
+          },
+          "accounts": {
+            "minItems": 3,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "perspective": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "label": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "summary": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "sources": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ref": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      },
+                      "via": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "ref"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "perspective",
+                "label",
+                "summary",
+                "sources"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "notes": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "he": {
+                "type": "string",
+                "minLength": 1
+              },
+              "translation_status": {
+                "type": "object",
+                "properties": {
+                  "ar": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  },
+                  "he": {
+                    "type": "string",
+                    "enum": [
+                      "original",
+                      "machine-draft",
+                      "reviewed"
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "en"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "accounts"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "perspectives"
+  ],
+  "additionalProperties": false
+}

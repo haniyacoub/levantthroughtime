@@ -25,4 +25,17 @@ describe('shareable URL state', () => {
     expect(yParam(tOf(-586), scale)).toBe('-586');
     expect(yParam(tOf(1948, 5), scale)).toBe('1948-05');
   });
+
+  it('keeps the month for dates that are not at the start of a year', () => {
+    const s2 = new EraScale(
+      [
+        { id: 'war', start: { year: 1947, month: 11 }, weight: 1, step: { unit: 'month', size: 1 } },
+        { id: 'after', start: { year: 1949, month: 8 }, weight: 1, step: { unit: 'year', size: 1 } },
+      ],
+      tOf(1967),
+    );
+    expect(yParam(tOf(1949, 8), s2)).toBe('1949-08');
+    expect(readUrl(`?y=${yParam(tOf(1949, 8), s2)}`).t).toBeCloseTo(tOf(1949, 8));
+    expect(yParam(tOf(1955), s2)).toBe('1955');
+  });
 });

@@ -8,9 +8,10 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import type { z } from 'zod';
 import {
-  AreasFile, Config, CultureZoneFile, CulturesFile, ErasFile, GroupsFile, Palette, PolitiesFile,
-  PopulationFile, SourcesFile, UnitsFile, TerritoryFile,
-  type HistDate, type Range, type SourceRef,
+  AreasFile, Config, ConflictsFile, CultureZoneFile, CulturesFile, ErasFile, EventsFile, GroupsFile, LandscapeFile,
+  LanguagesFile, MigrationsFile, ModernLayersFile, Palette, PerspectivesFile, PlacesFile, PolitiesFile, PopulationFile, RulersFile,
+  SourcesFile, Story, UnitsFile, TerritoryFile,
+  type HistDate, type Localized, type Range, type SourceRef,
 } from '../../src/schema/index';
 import { endT, startT, toAstronomical } from '../../src/time/years';
 
@@ -38,6 +39,16 @@ export interface DataBundle {
   groups?: Inferred<typeof GroupsFile>;
   population?: Inferred<typeof PopulationFile>;
   palette?: Inferred<typeof Palette>;
+  places?: Inferred<typeof PlacesFile>;
+  events?: Inferred<typeof EventsFile>;
+  rulers?: Inferred<typeof RulersFile>;
+  conflicts?: Inferred<typeof ConflictsFile>;
+  migrations?: Inferred<typeof MigrationsFile>;
+  languages?: Inferred<typeof LanguagesFile>;
+  landscape?: Inferred<typeof LandscapeFile>;
+  perspectives?: Inferred<typeof PerspectivesFile>;
+  modern?: Inferred<typeof ModernLayersFile>;
+  stories: { file: string; data: Inferred<typeof Story> }[];
 }
 
 export interface Result {
@@ -46,7 +57,7 @@ export interface Result {
   warnings: Issue[];
 }
 
-const COLLECTION_KEYS = ['segments', 'sources', 'polities', 'cultures', 'features', 'landmarks', 'units', 'areas', 'groups', 'population'];
+const COLLECTION_KEYS = ['segments', 'sources', 'polities', 'cultures', 'features', 'landmarks', 'units', 'areas', 'groups', 'population', 'places', 'events', 'rulers', 'conflicts', 'migrations', 'diaspora', 'languages', 'sea_level', 'dead_sea_levels', 'trade_routes', 'perspectives', 'steps'];
 
 /** Turn a Zod path like ["polities", 3, "end", "year"] into "polities[3] (id: x) › end.year". */
 function describePath(path: PropertyKey[], raw: unknown): { where: string; field: string } {
@@ -107,7 +118,7 @@ function listFiles(dir: string, sub: string, ext: string, issues?: Issue[]): str
 }
 
 export function loadData(dir: string, issues: Issue[]): DataBundle {
-  const b: DataBundle = { dir, territories: [], cultureZones: [], modernUnitIds: new Set() };
+  const b: DataBundle = { dir, territories: [], cultureZones: [], modernUnitIds: new Set(), stories: [] };
   b.config = parseFile(dir, 'config.json', Config, issues);
   b.eras = parseFile(dir, 'eras.json', ErasFile, issues);
   b.sources = parseFile(dir, 'sources.json', SourcesFile, issues);
@@ -118,6 +129,19 @@ export function loadData(dir: string, issues: Issue[]): DataBundle {
   b.groups = parseFile(dir, 'groups.json', GroupsFile, issues, false);
   b.population = parseFile(dir, 'population.json', PopulationFile, issues, false);
   b.palette = parseFile(dir, 'palette.json', Palette, issues);
+  b.places = parseFile(dir, 'places.json', PlacesFile, issues, false);
+  b.events = parseFile(dir, 'events.json', EventsFile, issues, false);
+  b.rulers = parseFile(dir, 'rulers.json', RulersFile, issues, false);
+  b.conflicts = parseFile(dir, 'conflicts.json', ConflictsFile, issues, false);
+  b.migrations = parseFile(dir, 'migrations.json', MigrationsFile, issues, false);
+  b.languages = parseFile(dir, 'languages.json', LanguagesFile, issues, false);
+  b.landscape = parseFile(dir, 'landscape.json', LandscapeFile, issues, false);
+  b.perspectives = parseFile(dir, 'perspectives.json', PerspectivesFile, issues, false);
+  b.modern = parseFile(dir, 'modern/layers.json', ModernLayersFile, issues, false);
+  for (const f of listFiles(dir, 'stories', '.json', issues)) {
+    const data = parseFile(dir, f, Story, issues);
+    if (data) b.stories.push({ file: f, data });
+  }
   for (const f of listFiles(dir, 'territories', '.geojson', issues)) {
     const data = parseFile(dir, f, TerritoryFile, issues);
     if (data) b.territories.push({ file: f, data });
@@ -397,6 +421,142 @@ export function validateData(dir: string): Result {
           if (Math.abs(sb - t.best) / t.best > tol / 100) err('population.json', cw, `Group counts add up to ${sb.toLocaleString('en')}, but the total is ${t.best.toLocaleString('en')}`);
         }
       }
+    }
+  }
+
+  // --- places, events, rulers, conflicts, migrations, languages, landscape
+  const placeIds = new Set((b.places?.places ?? []).map((p) => p.id));
+  const conflictIds = new Set((b.conflicts?.conflicts ?? []).map((c) => c.id));
+  checkIdsUnique(b.places?.places, 'places.json', 'place', issues);
+  checkIdsUnique(b.events?.events, 'events.json', 'event', issues);
+  checkIdsUnique(b.rulers?.rulers, 'rulers.json', 'ruler', issues);
+  checkIdsUnique(b.conflicts?.conflicts, 'conflicts.json', 'conflict', issues);
+  checkIdsUnique(b.migrations?.migrations, 'migrations.json', 'migration', issues);
+  checkIdsUnique(b.languages?.languages, 'languages.json', 'language', issues);
+  checkIdsUnique(b.perspectives?.perspectives, 'perspectives.json', 'perspective', issues);
+
+  for (const p of b.places?.places ?? []) {
+    const where = `id "${p.id}"`;
+    checkRefs('places.json', where, p.sources);
+    checkConfidence('places.json', where, p.confidence, p.sources);
+    for (const [i, n] of (p.names ?? []).entries()) {
+      const nw = `${where} › names[${i}] ("${n.text}")`;
+      checkRefs('places.json', nw, n.sources);
+      checkConfidence('places.json', nw, n.confidence, n.sources);
+      if (n.start) checkDates('places.json', nw, n.start, n.end);
+    }
+    for (const d of p.destroyed ?? []) checkRefs('places.json', `${where} › destroyed`, d.sources);
+    for (const [tr, e] of Object.entries(p.holy_site?.traditions ?? {})) if (e) checkRefs('places.json', `${where} › holy_site.${tr}`, e.sources);
+  }
+  for (const e of b.events?.events ?? []) {
+    const where = `id "${e.id}"`;
+    checkRefs('events.json', where, e.sources);
+    checkConfidence('events.json', where, e.confidence, e.sources);
+    checkDates('events.json', where, e.date, e.end);
+    if (e.place && !placeIds.has(e.place)) err('events.json', where, `Place "${e.place}" is not in places.json`);
+  }
+  for (const r of b.rulers?.rulers ?? []) {
+    const where = `id "${r.id}"`;
+    if (!polityIds.has(r.polity)) err('rulers.json', where, `Polity "${r.polity}" is not in polities.json`);
+    checkRefs('rulers.json', where, r.sources);
+    checkConfidence('rulers.json', where, r.confidence, r.sources);
+    checkDates('rulers.json', where, r.start, r.end);
+  }
+  for (const c of b.conflicts?.conflicts ?? []) {
+    const where = `id "${c.id}"`;
+    checkRefs('conflicts.json', where, c.sources);
+    checkConfidence('conflicts.json', where, c.confidence, c.sources);
+    checkDates('conflicts.json', where, c.start, c.end);
+    if (c.parent && !conflictIds.has(c.parent)) err('conflicts.json', where, `Parent conflict "${c.parent}" does not exist`);
+    if (c.location?.place && !placeIds.has(c.location.place)) err('conflicts.json', where, `Place "${c.location.place}" is not in places.json`);
+    for (const u of c.location?.units ?? []) if (!unitIds.has(u)) err('conflicts.json', where, `Unknown geographic unit "${u}"`);
+    for (const side of c.belligerents ?? []) for (const party of side.parties) {
+      if ('polity' in party && !polityIds.has(party.polity)) err('conflicts.json', where, `Belligerent polity "${party.polity}" is not in polities.json`);
+    }
+    for (const a of c.alt_names ?? []) checkRefs('conflicts.json', `${where} › alt_names`, a.sources);
+  }
+  for (const m of b.migrations?.migrations ?? []) {
+    const where = `id "${m.id}"`;
+    checkRefs('migrations.json', where, m.sources);
+    checkConfidence('migrations.json', where, m.confidence, m.sources);
+    checkDates('migrations.json', where, m.start, m.end);
+    for (const ep of [m.origin, m.destination]) if ('place' in ep && !placeIds.has(ep.place)) err('migrations.json', where, `Place "${ep.place}" is not in places.json`);
+  }
+  for (const d of b.migrations?.diaspora ?? []) {
+    checkRefs('migrations.json', `diaspora "${d.id}"`, d.sources);
+    checkConfidence('migrations.json', `diaspora "${d.id}"`, d.confidence, d.sources);
+  }
+  for (const l of b.languages?.languages ?? []) {
+    checkRefs('languages.json', `id "${l.id}"`, l.sources);
+    for (const [i, per] of l.periods.entries()) {
+      const pw = `id "${l.id}" › periods[${i}]`;
+      checkRefs('languages.json', pw, per.sources);
+      checkConfidence('languages.json', pw, per.confidence, per.sources);
+      checkDates('languages.json', pw, per.start, per.end);
+    }
+  }
+  if (b.landscape) {
+    for (const lp of [...b.landscape.sea_level, ...b.landscape.dead_sea_levels]) {
+      checkRefs('landscape.json', `id "${lp.id}"`, lp.sources);
+      checkConfidence('landscape.json', `id "${lp.id}"`, lp.confidence, lp.sources);
+    }
+    for (const r of b.landscape.trade_routes) {
+      checkRefs('landscape.json', `route "${r.id}"`, r.sources);
+      checkConfidence('landscape.json', `route "${r.id}"`, r.confidence, r.sources);
+      checkDates('landscape.json', `route "${r.id}"`, r.start, r.end);
+    }
+  }
+
+  // --- modern layers: files exist and are valid GeoJSON in the map area
+  for (const l of b.modern?.layers ?? []) {
+    const where = `layer "${l.id}"`;
+    checkRefs('modern/layers.json', where, l.sources);
+    checkConfidence('modern/layers.json', where, l.confidence, l.sources);
+    checkDates('modern/layers.json', where, l.start, l.end);
+    const f = join(dir, 'modern', l.file);
+    if (!existsSync(f)) err('modern/layers.json', where, `File modern/${l.file} is missing`);
+    else {
+      try {
+        const fc = JSON.parse(readFileSync(f, 'utf8')) as { type?: string; features?: unknown[] };
+        if (fc.type !== 'FeatureCollection' || !Array.isArray(fc.features)) err(`modern/${l.file}`, '(file)', 'Not a GeoJSON FeatureCollection');
+      } catch (e) {
+        err(`modern/${l.file}`, '(file)', `Not valid JSON: ${(e as Error).message}`);
+      }
+    }
+  }
+
+  // --- narrative text: every sentence ends with citation markers [n]; translations keep the same markers
+  const checkCitedText = (file: string, where: string, text: Localized, nSources: number) => {
+    const markers = (s: string) => (s.match(/\[(\d+)\]/g) ?? []).map((m) => Number(m.slice(1, -1))).sort((a, c) => a - c).join(',');
+    const sentences = text.en.split(/(?<=[.!?…])\s+(?=[A-Z0-9"“‘'(])/).map((x) => x.trim()).filter(Boolean);
+    for (const sentence of sentences) {
+      if (!/\[\d+\][.!?"”’)]*$/.test(sentence)) err(file, where, `This sentence has no citation marker [n] at its end: "${sentence.slice(0, 90)}"`);
+    }
+    for (const m of text.en.match(/\[(\d+)\]/g) ?? []) {
+      const n = Number(m.slice(1, -1));
+      if (n < 1 || n > nSources) err(file, where, `Citation marker ${m} points past the ${nSources} source(s) listed`);
+    }
+    for (const lang of ['ar', 'he'] as const) {
+      const tx = text[lang];
+      if (tx && markers(tx) !== markers(text.en)) err(file, where, `The ${lang} text does not carry the same citation markers as the English`);
+    }
+  };
+  for (const p of b.perspectives?.perspectives ?? []) {
+    for (const [i, a] of p.accounts.entries()) {
+      const aw = `id "${p.id}" › accounts[${i}] (${a.perspective})`;
+      checkRefs('perspectives.json', aw, a.sources);
+      checkCitedText('perspectives.json', aw, a.summary, a.sources.length);
+    }
+    const kinds = new Set(p.accounts.map((a) => a.perspective.split('-')[0]));
+    for (const need of ['israeli', 'palestinian']) {
+      if (!kinds.has(need) && !p.accounts.some((a) => a.perspective.includes(need))) warn('perspectives.json', `id "${p.id}"`, `No ${need} account`);
+    }
+  }
+  for (const { file, data } of b.stories) {
+    for (const [i, st] of data.steps.entries()) {
+      const sw = `steps[${i}]`;
+      checkRefs(file, sw, st.sources);
+      checkCitedText(file, sw, st.card, st.sources.length);
     }
   }
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schema/palette.schema.json",
-  "note": "Colours come from Paul Tol's colour-blind-safe 'muted' and 'light' schemes (https://personal.sron.nl/~pault/). Polities without a pinned colour get one from 'cycle', chosen so that polities on the map at the same time never share a colour. Modern entities are pinned to colours that avoid national flag colours and politically coded associations; each pin explains why. Reviewers: challenge any choice by editing the rationale and colour.",
+  "note": "Colours come from Paul Tol's colour-blind-safe 'muted' and 'light' schemes (https://personal.sron.nl/~pault/). Polities without a pinned colour get one from 'cycle', chosen so that polities on the map at the same time never share a colour. Modern entities are pinned to colours that avoid national flag colours and politically coded associations; each pin explains why. Reviewers: challenge any choice by editing the rationale and colour. Population groups use Paul Tol's 'bright' colours with deliberate choices: Jews purple (not yellow, because of the yellow badge, and not flag blue); Muslims blue (not green, a religiously coded colour); Christians rose; Druze cyan; Samaritans yellow; Arabs, as an ethnic or population group, orange. The same group keeps its colour on every axis. To change a group colour, pin '<axis>-<group id>' here.",
   "cycle": [
     "#CC6677",
     "#332288",

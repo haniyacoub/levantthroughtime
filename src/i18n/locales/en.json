@@ -68,5 +68,277 @@
   "draftNotice": "Text in this language is a machine-translated draft that has not yet been reviewed.",
   "attribution": "Elevation: SRTM, GMTED2010, ETOPO1 (USGS, NOAA) via AWS Terrain Tiles · Coastlines, rivers: Natural Earth",
   "skipToTimeline": "Skip to timeline",
-  "mapLabel": "Map of the southern Levant at the selected date. The “On the map” panel lists the same information as text."
+  "mapLabel": "Map of the southern Levant at the selected date. The “On the map” panel lists the same information as text.",
+  "nav": {
+    "map": "Map",
+    "bibliography": "Bibliography",
+    "about": "About & method",
+    "backToMap": "Back to the map",
+    "perspectives": "Perspectives",
+    "stories": "Stories"
+  },
+  "sources": {
+    "button": "Sources",
+    "count": "{{count}} sources",
+    "count_one": "1 source",
+    "dialogTitle": "Sources",
+    "close": "Close",
+    "locator": "Where",
+    "quote": "Quoted passage",
+    "via": "Seen quoted in",
+    "note": "Note",
+    "open": "Open the source",
+    "missing": "Missing from the bibliography: {{id}}",
+    "suggest": "Suggest a correction",
+    "showFor": "Show the sources for {{what}}",
+    "level": {
+      "full-text": "Checked: the passage was read in the work itself",
+      "excerpt": "Checked: the passage was seen in an excerpt, preview or transcription",
+      "catalogue-only": "Only the work’s existence was confirmed (catalogue record), not its content",
+      "cited-via": "Not seen in the original; seen quoted in another work"
+    }
+  },
+  "panel": {
+    "whoRuled": "Who controlled the land",
+    "cultures": "Archaeological cultures (before states existed)",
+    "population": "Population",
+    "populationEmpty": "No population estimate for this area near this date. Unknown is shown as unknown.",
+    "estimateAt": "Estimate for {{date}}",
+    "estimatesCount": "{{count}} different estimates",
+    "area": "Area",
+    "composition": "Composition",
+    "partial": "Only some groups are given by the source.",
+    "languages": "Languages",
+    "events": "Events around this date",
+    "conflicts": "Conflicts",
+    "rulers": "Rulers",
+    "none": "None recorded for this date.",
+    "openChart": "See the population chart",
+    "nearestNote": "Shown: the nearest published figures before and after this date. Nothing is interpolated.",
+    "earlier": "Nearest earlier figure",
+    "later": "Nearest later figure",
+    "migrations": "Migrations"
+  },
+  "chart": {
+    "title": "Population",
+    "total": "Total",
+    "composition": "By group",
+    "share": "Share (%)",
+    "log": "Log scale",
+    "series": "Area",
+    "core": "The land west of the Jordan (series of comparable areas)",
+    "hide": "Hide chart",
+    "show": "Show population chart",
+    "noData": "No figures for this area.",
+    "table": "Show as a table",
+    "hideTable": "Hide table",
+    "axisReligion": "by religion",
+    "axisEthnicity": "by ethnic group",
+    "axisPopulationGroup": "by population group (Israel CBS)",
+    "axis": "Groups",
+    "legendDocumented": "documented (census, register)",
+    "legendEstimated": "estimate (range)",
+    "legendContested": "contested (scholars differ)",
+    "legendMidpoint": "hollow marker: middle of a range, not a published figure",
+    "label": "Population chart. Each mark is one published figure; vertical bars show its range.",
+    "date": "Date",
+    "value": "Population",
+    "confidence": "Status"
+  },
+  "bands": {
+    "label": "Who held the land (ruler bands)",
+    "jump": "Go to the start of {{name}}"
+  },
+  "biblio": {
+    "title": "Bibliography",
+    "intro": "Every work cited on this site, with how it was checked. Numbers in brackets show how many records cite it.",
+    "filter": "Filter by author, title or year",
+    "count": "{{count}} sources",
+    "citedBy": "cited {{count}} times",
+    "levelFilter": "Checked",
+    "all": "All",
+    "kind": {
+      "academic": "academic",
+      "government": "government",
+      "un": "UN",
+      "ngo": "NGO",
+      "press": "press",
+      "reference": "reference work",
+      "religious-institution": "religious institution"
+    }
+  },
+  "place": {
+    "back": "Back to the year",
+    "names": "Names through time",
+    "lang": "Language",
+    "usedBy": "Used by",
+    "period": "Period",
+    "holy": "Significance to religious traditions",
+    "founded": "Founded",
+    "destroyed": "Destroyed or abandoned",
+    "undated": "undated",
+    "namesMode": "Place names",
+    "namesThen": "In use at the time",
+    "namesToday": "Today’s names",
+    "traditions": {
+      "jewish": "Jewish",
+      "christian": "Christian",
+      "muslim": "Muslim",
+      "samaritan": "Samaritan",
+      "druze": "Druze",
+      "bahai": "Bahá’í"
+    },
+    "langNames": {
+      "he": "Hebrew",
+      "hbo": "Ancient Hebrew",
+      "arc": "Aramaic",
+      "grc": "Ancient Greek",
+      "el": "Greek",
+      "la": "Latin",
+      "akk": "Akkadian",
+      "egy": "Egyptian",
+      "ar": "Arabic",
+      "arb": "Arabic",
+      "en": "English",
+      "tr": "Turkish",
+      "ota": "Ottoman Turkish",
+      "fr": "French",
+      "syc": "Syriac",
+      "smp": "Samaritan Hebrew",
+      "phn": "Phoenician",
+      "yi": "Yiddish",
+      "lad": "Ladino"
+    }
+  },
+  "langRole": {
+    "vernacular": "spoken",
+    "administrative": "administration",
+    "liturgical": "worship",
+    "literary": "writing",
+    "lingua-franca": "common language"
+  },
+  "layers": {
+    "title": "Layers",
+    "territories": "Territories and cultures",
+    "places": "Places",
+    "holy": "Holy sites",
+    "conflicts": "Conflicts",
+    "migrations": "Migrations",
+    "landscape": "Landscape (coast, Dead Sea)",
+    "routes": "Trade routes",
+    "modern": "Modern lines and settlements"
+  },
+  "landscape": {
+    "title": "Landscape",
+    "seaLevel": "Mediterranean sea level: {{level}} m relative to today (modelled coastline)",
+    "deadSea": "Dead Sea level: {{level}} m",
+    "deadSeaModern": "below the 2000 survey surface: today’s outline shown",
+    "model": "Coastlines and lake extents are modelled from elevation data and published level curves; they are schematic."
+  },
+  "compare": {
+    "title": "Compare",
+    "open": "Compare two dates",
+    "left": "Left / main timeline",
+    "right": "Right",
+    "secondDate": "Second date, e.g. 1949-08",
+    "mode": "Layout",
+    "split": "Side by side",
+    "swipe": "Swipe",
+    "presets": "Presets",
+    "close": "Close compare",
+    "preset": {
+      "plan-vs-1949": "1947 plan vs 1949 lines",
+      "1949-vs-1967": "Before vs after June 1967",
+      "1967-vs-today": "1967 vs today",
+      "mandate-vs-today": "Mandate vs today"
+    }
+  },
+  "persp": {
+    "title": "Perspectives",
+    "intro": "For contested events, how Israeli, Palestinian and academic historians describe them, side by side. Each sentence links to its source; the site does not declare a winner.",
+    "none": "No perspectives have been added yet.",
+    "inPanel": "Perspectives on this period",
+    "open": "Read the perspectives"
+  },
+  "inset": {
+    "title": "World view",
+    "label": "World map: diaspora communities (circles, sized by number) and flows into or out of the region at the selected date. Purple: Jewish; orange: Palestinian."
+  },
+  "story": {
+    "title": "Guided tours",
+    "none": "No tours yet.",
+    "steps": "{{count}} steps",
+    "stepOf": "step {{n}} of {{total}}",
+    "prev": "Back",
+    "next": "Next",
+    "close": "Leave the tour"
+  },
+  "about": {
+    "title": "About this map and how it was made",
+    "asOf": "Data as of {{date}}.",
+    "sections": [
+      [
+        "What this is",
+        "An interactive history of the land that is today Israel and the Palestinian territories, from 10,000 BCE to the present. Every number, date, border and name on the map comes from a source you can open, with a note on how it was checked."
+      ],
+      [
+        "How sure is each item?",
+        "Records are marked documented (directly recorded), estimated (a scholar’s reconstruction), contested (scholars or sides disagree; at least two sourced positions are given) or unknown (shown as unknown, never guessed). On the map, solid outlines are surveyed or legally defined boundaries, dashed outlines are approximate, soft dotted edges are schematic (the area is known, the edges are not) and hatching marks contested areas."
+      ],
+      [
+        "How territories before 1917 are drawn",
+        "Historians describe ancient extents in words: “Judea, Samaria and Galilee”. The map follows them, using 28 schematic regions bounded by rivers, wadis and coastlines. These regions are drawn by this project and are not historical borders; each territory says which regions it covered and which source describes it."
+      ],
+      [
+        "Claims and disputed status",
+        "Areas a state claims but does not govern are drawn as a dashed outline, not as control. Units held but whose status is internationally disputed (for example East Jerusalem and the Golan Heights since 1967, or the West Bank under Jordan in 1950–67) are hatched, and the panel names them."
+      ],
+      [
+        "Population",
+        "Figures are ranges as published, for a named area. Figures for different areas are not added together (for example, Israel’s and Palestine’s statistics bureaus both count East Jerusalem). The year panel shows the nearest published figures before and after the selected date; nothing is interpolated. Where scholars disagree, every estimate is shown. No absolute estimate exists before the Early Bronze Age, so none is shown."
+      ],
+      [
+        "Coastlines and the Dead Sea",
+        "Past coastlines and Dead Sea extents are models: published sea-level and lake-level reconstructions applied to an elevation model (SRTM on land, ETOPO1 offshore). They are schematic, especially offshore."
+      ],
+      [
+        "Names",
+        "Where communities use different names, all are shown with who uses them. Places are labelled with the name in use at the selected date; a switch shows today’s names instead."
+      ],
+      [
+        "Colours",
+        "Colours come from colour-blind-safe palettes and avoid national flag colours and politically or religiously coded colours. Each modern colour choice is explained in the data so reviewers can challenge it."
+      ],
+      [
+        "Translations",
+        "English is the original. Arabic and Hebrew texts are machine-drafted unless marked reviewed, and carry a notice until a fluent reviewer has checked them."
+      ],
+      [
+        "What is not shown",
+        "Casualty figures for wars and attacks are deliberately left out at this stage."
+      ],
+      [
+        "Corrections and licences",
+        "All data is in plain files that anyone can review. The code is MIT-licensed and the project’s data CC BY 4.0, with short quotations remaining their authors’. Basemap: Natural Earth (public domain); elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA)."
+      ]
+    ]
+  },
+  "migType": {
+    "conquest-settlement": "settlement after conquest",
+    "deportation": "deportation",
+    "exile": "exile",
+    "return": "return",
+    "immigration": "immigration",
+    "emigration": "emigration",
+    "refugee-flight": "refugee flight",
+    "expulsion": "expulsion",
+    "labour-migration": "labour migration",
+    "tribal-migration": "tribal migration",
+    "pilgrimage-settlement": "pilgrimage and settlement",
+    "resettlement": "resettlement",
+    "internal-displacement": "internal displacement",
+    "colonization": "colonization",
+    "settlement": "settlement",
+    "other": "other"
+  }
 }

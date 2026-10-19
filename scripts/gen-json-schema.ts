@@ -11,7 +11,8 @@ import { join } from 'node:path';
 import { ROOT, writeJson } from './lib/io';
 import {
   AreasFile, Config, CultureZoneFile, CulturesFile, ErasFile, GroupsFile, Palette, PolitiesFile,
-  PopulationFile, SourcesFile, TerritoryFile, UnitsFile,
+  PopulationFile, SourcesFile, TerritoryFile, UnitsFile, PlacesFile, EventsFile, RulersFile, ConflictsFile,
+  MigrationsFile, LanguagesFile, LandscapeFile, PerspectivesFile, Story, ModernLayersFile,
 } from '../src/schema/index';
 
 const files: Record<string, z.ZodType> = {
@@ -27,6 +28,16 @@ const files: Record<string, z.ZodType> = {
   groups: GroupsFile,
   population: PopulationFile,
   palette: Palette,
+  places: PlacesFile,
+  events: EventsFile,
+  rulers: RulersFile,
+  conflicts: ConflictsFile,
+  migrations: MigrationsFile,
+  languages: LanguagesFile,
+  landscape: LandscapeFile,
+  perspectives: PerspectivesFile,
+  story: Story,
+  'modern-layers': ModernLayersFile,
 };
 
 export function generateSchemas(): number {

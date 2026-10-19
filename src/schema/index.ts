@@ -178,6 +178,8 @@ export const Config = z.strictObject({
   /** Before this year the map shows archaeological cultures; from it, political territories. */
   prehistoric_until: Year,
   composition_tolerance_pct: z.number().positive(),
+  /** Where "Suggest a correction" links lead, e.g. "https://github.com/<user>/<repo>/issues/new". Optional. */
+  corrections_url: z.url().optional(),
   map: z.strictObject({
     bounds: z.tuple([z.tuple([z.number(), z.number()]), z.tuple([z.number(), z.number()])]),
     initial: z.strictObject({ center: z.tuple([z.number(), z.number()]), zoom: z.number() }),
@@ -381,3 +383,270 @@ export const Palette = z.strictObject({
   cycle: z.array(z.string().regex(/^#[0-9a-fA-F]{6}$/)).min(4),
   pinned: z.record(Id, z.strictObject({ color: z.string().regex(/^#[0-9a-fA-F]{6}$/), rationale: z.string().min(1) })),
 });
+
+// ---------------------------------------------------------------- places & holy sites
+
+export const LangCode = z.string().regex(/^[a-z]{2,3}(-[A-Za-z0-9]+)*$/, 'ISO 639 language code, e.g. "he", "ar", "grc", "akk"');
+export const ScriptCode = z.string().regex(/^[A-Z][a-z]{3}$/, 'ISO 15924 script code, e.g. "Hebr", "Arab", "Grek", "Latn"');
+
+export const PlaceName = z.strictObject({
+  text: z.string().min(1),
+  translit: z.string().optional(),
+  display: Localized.optional(),
+  lang: LangCode,
+  script: ScriptCode.optional(),
+  start: HistDate.optional(),
+  end: HistDate.optional(),
+  used_by: z.string().optional(),
+  primary: z.boolean().optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: z.string().optional(),
+});
+export type PlaceName = z.infer<typeof PlaceName>;
+
+export const Tradition = z.enum(['jewish', 'christian', 'muslim', 'samaritan', 'druze', 'bahai']);
+export const TraditionEntry = z.strictObject({ significance: Localized, sources: z.array(SourceRef).min(1), notes: z.string().optional() });
+
+export const PlaceKind = z.enum(['city', 'town', 'village', 'port', 'fortress', 'archaeological-site', 'holy-site', 'region', 'outside-region']);
+
+export const Place = z.strictObject({
+  id: Id,
+  name: Localized,
+  wikidata: z.string().regex(/^Q\d+$/).optional(),
+  pleiades: z.string().regex(/^\d+$/).optional(),
+  kind: z.array(PlaceKind).min(1),
+  coords: z.tuple([z.number().min(-180).max(180), z.number().min(-90).max(90)]),
+  coords_source: z.string().optional(),
+  coords_precision: z.enum(['exact', 'approximate', 'uncertain']).optional(),
+  founded: HistDate.nullable().optional(),
+  founded_note: z.string().optional(),
+  destroyed: z
+    .array(z.strictObject({ date: HistDate, by: z.string().optional(), note: z.string().optional(), sources: z.array(SourceRef) }))
+    .optional(),
+  names: z.array(PlaceName).optional(),
+  holy_site: z.strictObject({ traditions: z.partialRecord(Tradition, TraditionEntry) }).optional(),
+  description: Localized.optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export type Place = z.infer<typeof Place>;
+export const PlacesFile = z.strictObject({ $schema: SchemaRef, places: z.array(Place) });
+
+// ---------------------------------------------------------------- events & rulers
+
+export const Event = z.strictObject({
+  id: Id,
+  name: Localized,
+  kind: z.enum([
+    'political', 'treaty', 'declaration', 'foundation', 'construction', 'religious', 'natural-disaster',
+    'epidemic', 'administrative', 'cultural', 'economic', 'demographic', 'legal', 'other',
+  ]),
+  date: HistDate,
+  end: HistDate.optional(),
+  place: Id.optional(),
+  coords: z.tuple([z.number(), z.number()]).optional(),
+  description: Localized.optional(),
+  importance: z.union([z.literal(1), z.literal(2), z.literal(3)]).optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export const EventsFile = z.strictObject({ $schema: SchemaRef, events: z.array(Event) });
+
+export const Ruler = z.strictObject({
+  id: Id,
+  name: Localized,
+  polity: Id,
+  office: Localized.optional(),
+  start: HistDate,
+  end: HistDate.optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export const RulersFile = z.strictObject({ $schema: SchemaRef, rulers: z.array(Ruler) });
+
+// ---------------------------------------------------------------- conflicts
+
+export const AltName = z.strictObject({ text: Localized, used_by: z.string().min(1), sources: z.array(SourceRef) });
+export const Party = z.union([z.strictObject({ polity: Id }), z.strictObject({ group: Localized })]);
+export const Location = z.strictObject({
+  place: Id.optional(),
+  coords: z.tuple([z.number(), z.number()]).optional(),
+  units: z.array(Id).optional(),
+  description: Localized.optional(),
+});
+
+export const Conflict = z.strictObject({
+  id: Id,
+  name: Localized,
+  alt_names: z.array(AltName).optional(),
+  kind: z.enum(['war', 'battle', 'siege', 'revolt', 'uprising', 'campaign', 'raid', 'civil-war', 'occupation', 'massacre', 'attack', 'operation']),
+  parent: Id.optional(),
+  start: HistDate,
+  end: HistDate.optional(),
+  location: Location.optional(),
+  belligerents: z.array(z.strictObject({ side: z.string().min(1), parties: z.array(Party) })).optional(),
+  outcome: Localized.optional(),
+  /** Left empty for now at the project owner's request. */
+  casualties: z.null().optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export const ConflictsFile = z.strictObject({ $schema: SchemaRef, conflicts: z.array(Conflict) });
+
+// ---------------------------------------------------------------- migrations & diaspora
+
+export const Endpoint = z.union([
+  z.strictObject({ place: Id }),
+  z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]) }),
+]);
+
+export const Migration = z.strictObject({
+  id: Id,
+  name: Localized,
+  group: Localized,
+  types: z
+    .array(
+      z.enum([
+        'conquest-settlement', 'deportation', 'exile', 'return', 'immigration', 'emigration', 'refugee-flight', 'expulsion',
+        'labour-migration', 'tribal-migration', 'pilgrimage-settlement', 'resettlement', 'internal-displacement', 'colonization', 'settlement', 'other',
+      ]),
+    )
+    .min(1),
+  origin: Endpoint,
+  destination: Endpoint,
+  start: HistDate,
+  end: HistDate.optional(),
+  numbers: Range.nullable().optional(),
+  direction: z.enum(['in', 'out', 'within']),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+  contested_note: Localized.optional(),
+});
+export const Diaspora = z.strictObject({
+  id: Id,
+  group: z.string().min(1),
+  definition: Localized,
+  date: HistDate,
+  location: z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]) }),
+  number: Range,
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export const MigrationsFile = z.strictObject({ $schema: SchemaRef, migrations: z.array(Migration), diaspora: z.array(Diaspora).optional() });
+
+// ---------------------------------------------------------------- languages & landscape
+
+export const LanguageRecord = z.strictObject({
+  id: Id,
+  name: Localized,
+  family: z.string().optional(),
+  scripts: z.array(ScriptCode).optional(),
+  periods: z
+    .array(
+      z.strictObject({
+        start: HistDate,
+        end: HistDate.optional(),
+        role: z.enum(['vernacular', 'administrative', 'liturgical', 'literary', 'lingua-franca']),
+        speakers: Localized.optional(),
+        confidence: Confidence,
+        sources: z.array(SourceRef),
+      }),
+    )
+    .min(1),
+  sources: z.array(SourceRef).optional(),
+  notes: Localized.optional(),
+});
+export const LanguagesFile = z.strictObject({ $schema: SchemaRef, languages: z.array(LanguageRecord) });
+
+export const LevelPoint = z.strictObject({
+  id: Id,
+  date: HistDate,
+  level_m: z.strictObject({ low: z.number().nullable(), high: z.number().nullable(), best: z.number().optional() }),
+  location: z.string().optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: z.string().optional(),
+});
+export const Waypoint = z.strictObject({ label: z.string(), coords: z.tuple([z.number(), z.number()]), coords_source: z.string().optional(), place: Id.optional() });
+export const TradeRoute = z.strictObject({
+  id: Id,
+  name: Localized,
+  alt_names: z.array(AltName).optional(),
+  start: HistDate,
+  end: HistDate.optional(),
+  waypoints: z.array(Waypoint).min(2),
+  certainty: z.enum(['approximate', 'schematic']),
+  description: Localized.optional(),
+  confidence: Confidence,
+  sources: z.array(SourceRef),
+  notes: Localized.optional(),
+});
+export const LandscapeFile = z.strictObject({
+  $schema: SchemaRef,
+  sea_level: z.array(LevelPoint),
+  dead_sea_levels: z.array(LevelPoint),
+  trade_routes: z.array(TradeRoute),
+});
+
+// ---------------------------------------------------------------- perspectives & stories
+
+export const Perspective = z.strictObject({
+  id: Id,
+  title: Localized,
+  about: z.array(Id).optional(),
+  accounts: z
+    .array(
+      z.strictObject({
+        perspective: z.string().min(1),
+        label: Localized,
+        summary: Localized,
+        sources: z.array(SourceRef).min(1),
+      }),
+    )
+    .min(3, 'A perspectives entry needs at least three accounts (e.g. Israeli, Palestinian, academic)'),
+  notes: Localized.optional(),
+});
+export const PerspectivesFile = z.strictObject({ $schema: SchemaRef, perspectives: z.array(Perspective) });
+
+export const StoryStep = z.strictObject({
+  date: YearMonth,
+  view: z.strictObject({ center: z.tuple([z.number(), z.number()]), zoom: z.number() }).optional(),
+  layers: z.array(z.string()).optional(),
+  highlight: z.array(Id).optional(),
+  title: Localized,
+  card: Localized,
+  sources: z.array(SourceRef).min(1),
+  duration_s: z.number().positive().optional(),
+});
+export const Story = z.strictObject({ $schema: SchemaRef, id: Id, title: Localized, summary: Localized, steps: z.array(StoryStep).min(1) });
+
+// ---------------------------------------------------------------- modern layers
+
+export const ModernLayer = z.strictObject({
+  id: Id,
+  name: Localized,
+  /** GeoJSON file in data/modern/. Features may carry "start"/"end" dates (e.g. a settlement's founding year) and a "class" used for styling. */
+  file: z.string().regex(/^[a-z0-9-]+\.geojson$/),
+  kind: z.enum(['fill', 'line', 'point']),
+  color: z.string().regex(/^#[0-9a-fA-F]{6}$/),
+  /** Line styles per feature "class", e.g. barrier status. */
+  class_styles: z.record(z.string(), z.strictObject({ dash: z.array(z.number()).optional(), color: z.string().optional(), label: Localized })).optional(),
+  start: HistDate,
+  end: HistDate.optional(),
+  as_of: HistDate,
+  publisher: z.string(),
+  license: z.string(),
+  attribution: z.string(),
+  method: Localized,
+  confidence: Confidence,
+  sources: z.array(SourceRef).min(1),
+  notes: Localized.optional(),
+});
+export const ModernLayersFile = z.strictObject({ $schema: SchemaRef, layers: z.array(ModernLayer) });

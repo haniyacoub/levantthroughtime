@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState, type FormEvent, type KeyboardEvent, type PointerEvent } from 'react';
+import { useEffect, useMemo, useRef, useState, type FormEvent, type KeyboardEvent, type PointerEvent, type ReactNode } from 'react';
 import { useTranslation } from 'react-i18next';
 import type { AppData } from '../data/model';
 import { isRtl } from '../i18n';
@@ -9,7 +9,7 @@ import { formatT, formatYear } from '../time/format';
 import { parseUserDate } from '../time/parse';
 import { fromT } from '../time/years';
 
-export function Timeline({ data, scale }: { data: AppData; scale: EraScale }) {
+export function Timeline({ data, scale, children }: { data: AppData; scale: EraScale; children?: ReactNode }) {
   const { t: tr } = useTranslation();
   const { t, setT, playing, setPlaying, speed, setSpeed, lang } = useStore();
   const rtl = isRtl(lang);
@@ -22,7 +22,7 @@ export function Timeline({ data, scale }: { data: AppData; scale: EraScale }) {
   const eraById = useMemo(() => new Map(data.eras.map((e) => [e.id, e])), [data]);
   const seg = scale.segmentAt(t);
   const eraLabel = loc(eraById.get(seg.id)?.label, lang);
-  const unit = scale.stepAt(t).unit;
+  const unit = scale.displayUnit(t);
   const dateText = formatT(t, lang, unit);
   const pos = scale.tToPos(t);
 
@@ -204,6 +204,7 @@ export function Timeline({ data, scale }: { data: AppData; scale: EraScale }) {
           <div className="thumb" style={{ insetInlineStart: `${pos * 100}%` }} aria-hidden />
         </div>
       </div>
+      {children}
       <p id="timeline-help" className="visually-hidden">
         {tr('timeline.help')}
       </p>

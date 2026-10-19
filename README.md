@@ -5,7 +5,16 @@ An interactive, sourced history map of the southern Levant (the land that is tod
 - The design and the reasons behind it are in [PLAN.md](PLAN.md).
 - All historical content lives in [data/](data/). [data/README.md](data/README.md) explains how to read and correct it.
 
-**Status:** Milestone 2. The map, the non-linear timeline, the data validator and a first, thin pass of data for every era are in place. Later milestones add the year panel, population chart, migrations, modern layers, compare mode, stories and full translations (see PLAN.md §14).
+**What you can do on the site:**
+
+- **Move through time** with the slider (keyboard: arrows, Page Up/Down for eras, Space to play). The slider gives more room to busy periods, and the ruler bands below it show who held the land.
+- **Read the year panel:** who controlled the land, rulers, the nearest published population figures (never an in-between guess), languages, conflicts, events, and perspectives on contested topics.
+- **Click any "sources" button** to see the full citation, page, quoted passage and how it was checked. Every source is listed on the **Bibliography** page.
+- **Click a place** to see its names through time and, for holy sites, what it means to each tradition.
+- **Switch layers** (top right of the map): territories, places, holy sites, conflicts, migrations, landscape (past coastlines, Dead Sea), trade routes, and modern lines and settlements.
+- **Compare two dates** side by side or with a swipe handle, with presets for 1947, 1949, 1967 and today.
+- **Take a guided tour** (Stories), or read the **Perspectives** and **About & method** pages.
+- **Share a link:** the address bar always holds the date, language, layers, compare dates, open place and tour step.
 
 ---
 
@@ -55,7 +64,22 @@ Every fact is in a JSON file under `data/`. To change one:
 
 The site refuses to build while the data has errors, so a broken file can never reach the public site.
 
-## 4. Tests
+## 4. Review reports
+
+```bash
+npm run review             # writes data/REVIEW.md: source balance by era, contested items, weak sources
+```
+
+`data/REVIEW.md` is the checklist for historians and translators. `data/CHANGELOG.md` records every decision taken when data was imported.
+
+## 5. Rebuilding generated geography (rarely needed)
+
+```bash
+npm run build-basemap      # Natural Earth layers + elevation tiles
+npm run build-landscape    # past coastlines and Dead Sea extents, modelled from the elevation tiles
+```
+
+## 6. Tests
 
 ```bash
 npm test                   # fast unit tests (dates, timeline maths, every validator rule)
@@ -64,7 +88,7 @@ npm run test:e2e           # opens the built site in a headless browser and clic
 npm run screenshots        # saves screenshots of key views to docs/screenshots/
 ```
 
-## 5. Publish the site
+## 7. Publish the site
 
 The site is a set of static files, so it can be hosted for free. Nothing has been published yet; these are the steps for when you're ready.
 
@@ -80,12 +104,14 @@ The site is a set of static files, so it can be hosted for free. Nothing has bee
 
 3. On GitHub, open the repository → **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 4. Every push now runs the checks in `.github/workflows/ci.yml`: validate the data, run the tests, build. If they pass on `main`, it publishes to `https://<your-user>.github.io/<repo-name>/`. Progress is under the **Actions** tab.
+5. Optional: to turn on the "Suggest a correction" links, add this line to `data/config.json`:
+   `"corrections_url": "https://github.com/<your-user>/<repo-name>/issues/new"`
 
 ### Vercel (alternative)
 
 Import the repository at <https://vercel.com/new>. Set the build command to `npm run build-basemap -- --tiles-only && npm run build` and the output directory to `dist`. No other settings are needed.
 
-## 6. What's where
+## 8. What's where
 
 | Path | What it is |
 |---|---|
@@ -98,7 +124,7 @@ Import the repository at <https://vercel.com/new>. Set the build command to `npm
 | `public/` | Static files. `public/data`, `public/tiles` and `public/fonts` are generated; don't edit them. |
 | `docs/screenshots/` | Screenshots from each milestone |
 
-## 7. Credits and licences
+## 9. Credits and licences
 
 - Elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA; US public domain), via AWS Terrain Tiles.
 - Coastlines, rivers, lakes and reference outlines: Natural Earth (public domain).

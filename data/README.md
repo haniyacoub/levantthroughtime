@@ -176,7 +176,24 @@ Before modern surveys, scholars describe extents in words: "Judea, Samaria and G
 
 ---
 
-## 5. Fixing something: a checklist
+## 5. The other collections
+
+| File | One record is… | Notes |
+|---|---|---|
+| `places.json` | a city, village, archaeological site or holy site | `names` lists every name through time: the text in its own script, a transliteration, language (ISO 639: `he`, `ar`, `arc` Aramaic, `grc` Ancient Greek, `la`, `akk` Akkadian…), script (ISO 15924: `Hebr`, `Arab`, `Grek`, `Latn`…), the period, who used it, and sources. `primary: true` marks the name the map shows for that period. `holy_site.traditions` gives, for each tradition that holds the site significant (Jewish, Christian, Muslim, Samaritan, Druze, Bahá’í), a short sourced statement. |
+| `events.json` | a non-war event (treaty, declaration, foundation, earthquake…) | `importance` 1–3 decides which events show at a glance. |
+| `rulers.json` | a ruler or governor | Linked to a polity id. |
+| `conflicts.json` | a war, battle, siege, revolt or uprising | `alt_names` records the name each side uses, with who uses it. `belligerents` use polity ids or a named group. **`casualties` stays empty** by decision of the project owner. |
+| `migrations.json` | a movement of people into, out of or within the region, plus `diaspora` snapshots | `types` may list two types when the framing is disputed (e.g. refugee flight and expulsion), with `contested_note`. `numbers` is a range. |
+| `languages.json` | a language and its roles over time | Roles: vernacular, administrative, liturgical, literary, lingua franca. |
+| `landscape.json` | sea-level and Dead Sea level points, and trade routes | Levels are metres relative to today's mean sea level. The map uses the latest dated level at or before the selected date (not interpolated) and draws the matching modelled shape from `geo/landscape/`. |
+| `perspectives.json` | a contested topic | `accounts` holds at least an Israeli, a Palestinian and an academic account. **Every sentence of a summary ends with a marker like `[1]`** pointing at that account's own `sources` list; Arabic and Hebrew versions must carry the same markers. The validator enforces both. |
+| `stories/<id>.json` | a guided tour | Each step: a date, an optional map view and layers, a title, and a card whose sentences end with `[n]` markers like perspectives. |
+| `modern/layers.json` + `modern/*.geojson` | a modern map layer (partition plan, armistice lines, settlements, Oslo areas, barrier, Gaza lines) | Each layer records publisher, licence, attribution, `as_of` date and method. Features may carry `start`/`end` dates (a settlement's founding year) and a `class` (e.g. barrier status) that sets the line style. |
+
+---
+
+## 6. Fixing something: a checklist
 
 1. Find the record: search the `data/` folder for a word from the name or its id.
 2. Change the fact **and its source**: add or update `sources` with a locator, and add the work to `sources.json` if it's new, with an honest `verification.level`.

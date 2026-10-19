@@ -5,8 +5,31 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import type { Feature, FeatureCollection, Geometry } from 'geojson';
 import { baseUrl, depthAt, relationsAt, type AppData, type Polity } from '../data/model';
 import { loc } from '../i18n/localize';
+import { placeLabelAt, placeVisibleAt } from '../data/places';
+import { useStore } from '../state/store';
+import { startT } from '../time/years';
 import type { Lang } from '../time/format';
 import { buildStyle, hatchImage, territoryLayerOpacities, TERRAIN_BOUNDS, type Slot } from './style';
+import { deadSeaLevelAt, levelValue, nearestLevel, seaLevelAt } from '../data/landscape';
+import { activeAt, type ModernLayer } from '../data/model';
+import type { FlowOverlay } from './flows';
+import { LayerControl } from './LayerControl';
+import { lazy, Suspense } from 'react';
+
+const DiasporaInset = lazy(() => import('../inset/DiasporaInset').then((m) => ({ default: m.DiasporaInset })));
+import type { LayerKey } from '../state/store';
+
+/** Map layers controlled by each layer switch. */
+const LAYER_GROUPS: Record<LayerKey, string[]> = {
+  territories: territoryLayerOpacities('a').map((l) => l.id).concat(territoryLayerOpacities('b').map((l) => l.id), ['labels']),
+  places: ['places-circle', 'places-label'],
+  holy: [],
+  conflicts: ['conflicts-pulse', 'conflicts-dot'],
+  migrations: [],
+  landscape: ['shoreline', 'shoreline-edge'],
+  routes: ['routes', 'routes-label'],
+  modern: [],
+};
 
 interface ShapeProps {
   id: string;
@@ -24,14 +47,28 @@ type Shapes = FeatureCollection<Geometry, ShapeProps>;
 const FADE_MS = 450;
 
 /** Fetches the generated geometry once. */
-async function loadShapes(): Promise<{ shapes: Shapes; labels: Shapes; fontFaces: Record<string, { url: string; 'unicode-range': string[] }[]> }> {
+type LevelShapes = FeatureCollection<Geometry, { level_m: number; method?: string }>;
+
+async function loadShapes(): Promise<{
+  shapes: Shapes;
+  labels: Shapes;
+  fontFaces: Record<string, { url: string; 'unicode-range': string[] }[]>;
+  shorelines: LevelShapes;
+  deadSea: LevelShapes;
+}> {
   const get = async (f: string) => {
     const r = await fetch(`${baseUrl()}data/${f}`);
     if (!r.ok) throw new Error(`${f}: HTTP ${r.status}`);
     return r.json();
   };
-  const [shapes, labels, fontFaces] = await Promise.all([get('territories.geojson'), get('labels.geojson'), get('font-faces.json')]);
-  return { shapes, labels, fontFaces };
+  const [shapes, labels, fontFaces, shorelines, deadSea] = await Promise.all([
+    get('territories.geojson'),
+    get('labels.geojson'),
+    get('font-faces.json'),
+    get('landscape/shorelines.geojson'),
+    get('landscape/dead-sea-extents.geojson'),
+  ]);
+  return { shapes, labels, fontFaces, shorelines, deadSea };
 }
 
 /** The shapes and labels visible at time t, with display properties attached. */
@@ -92,23 +129,28 @@ export function visibleAt(data: AppData, shapes: Shapes, labels: Shapes, t: numb
   return { shapes: vis, labels: lab };
 }
 
-export function MapView({ data, t, lang }: { data: AppData; t: number; lang: Lang }) {
+export function MapView({ data, t, lang, controls = true, onMap }: { data: AppData; t: number; lang: Lang; controls?: boolean; onMap?: (m: MLMap) => void }) {
   const { t: tr } = useTranslation();
+  const { namesMode, setNamesMode, placeId, layers, modernOff } = useStore();
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
-  const geo = useRef<{ shapes: Shapes; labels: Shapes } | null>(null);
+  const geo = useRef<{ shapes: Shapes; labels: Shapes; shorelines: LevelShapes; deadSea: LevelShapes } | null>(null);
+  const flows = useRef<FlowOverlay | null>(null);
+  const pulseRaf = useRef(0);
+  const attribution = useRef<AttributionControl | null>(null);
   const slot = useRef<Slot>('a');
   const lastKey = useRef('');
   const fadeRaf = useRef(0);
   const [ready, setReady] = useState(false);
+  const [flowsReady, setFlowsReady] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
     loadShapes()
-      .then(({ shapes, labels, fontFaces }) => {
+      .then(({ shapes, labels, fontFaces, shorelines, deadSea }) => {
         if (cancelled || !container.current) return;
-        geo.current = { shapes, labels };
+        geo.current = { shapes, labels, shorelines, deadSea };
         const cfg = data.config.map;
         const map = new MLMap({
           container: container.current,
@@ -127,13 +169,30 @@ export function MapView({ data, t, lang }: { data: AppData; t: number; lang: Lan
         });
         map.touchZoomRotate.disableRotation();
         map.addControl(new NavigationControl({ showCompass: false }), 'top-left');
-        map.addControl(new AttributionControl({ compact: true, customAttribution: tr('attribution') }));
+        attribution.current = new AttributionControl({ compact: true, customAttribution: tr('attribution') });
+        map.addControl(attribution.current);
         map.on('styleimagemissing', (e: MapStyleImageMissingEvent) => {
           if (e.id === 'hatch' && !map.hasImage('hatch')) map.addImage('hatch', hatchImage());
         });
         map.on('load', () => {
           if (!map.hasImage('hatch')) map.addImage('hatch', hatchImage());
+          map.on('click', 'places-circle', (e) => {
+            const id = e.features?.[0]?.properties?.id;
+            if (typeof id === 'string') useStore.getState().setPlace(id);
+          });
+          map.on('mouseenter', 'places-circle', () => (map.getCanvas().style.cursor = 'pointer'));
+          map.on('mouseleave', 'places-circle', () => (map.getCanvas().style.cursor = ''));
+          addModernLayers(map, data);
+          // deck.gl (migration flows) is loaded only after the map is up.
+          void import('./flows').then(({ FlowOverlay: FO }) => {
+            if (cancelled) return;
+            const fo = new FO();
+            fo.attach(map);
+            flows.current = fo;
+            setFlowsReady(true);
+          });
           mapRef.current = map;
+          onMap?.(map);
           setReady(true);
         });
       })
@@ -141,6 +200,8 @@ export function MapView({ data, t, lang }: { data: AppData; t: number; lang: Lan
     return () => {
       cancelled = true;
       cancelAnimationFrame(fadeRaf.current);
+      cancelAnimationFrame(pulseRaf.current);
+      flows.current?.destroy();
       mapRef.current?.remove();
       mapRef.current = null;
     };
@@ -184,8 +245,145 @@ export function MapView({ data, t, lang }: { data: AppData; t: number; lang: Lan
     fadeRaf.current = requestAnimationFrame(tick);
   }, [ready, data, t, lang]);
 
+  // Places: shown while they existed, labelled with the name in use at the time (or today's name).
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map) return;
+    const prehistoricEnd = startT({ year: data.config.prehistoric_until });
+    const features = data.places
+      .filter((p) => !p.kind.includes('outside-region') && placeVisibleAt(p, t, prehistoricEnd))
+      .map((p) => ({
+        type: 'Feature' as const,
+        geometry: { type: 'Point' as const, coordinates: p.coords },
+        properties: {
+          id: p.id,
+          label: placeLabelAt(p, t, lang, namesMode),
+          cls: p.holy_site ? 'holy' : p.kind.includes('city') || p.kind.includes('town') ? 'city' : p.kind.includes('archaeological-site') ? 'site' : 'city',
+          rank: p.kind.includes('city') ? 0 : 1,
+          selected: p.id === placeId,
+        },
+      }));
+    (map.getSource('places') as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features });
+  }, [ready, data, t, lang, namesMode, placeId]);
+
+  // Credits follow the reader's language.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map || !attribution.current) return;
+    map.removeControl(attribution.current);
+    attribution.current = new AttributionControl({ compact: true, customAttribution: tr('attribution') });
+    map.addControl(attribution.current);
+  }, [ready, lang, tr]);
+
+  // Landscape: the coastline and Dead Sea for the documented levels in force at time t (modelled).
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map || !geo.current) return;
+    const set = (id: string, features: Feature[]) => (map.getSource(id) as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features });
+    const sea = seaLevelAt(data, t);
+    const seaLevel = sea ? levelValue(sea) : null;
+    const shoreLevels = geo.current.shorelines.features.map((f) => f.properties.level_m);
+    const sl = seaLevel !== null && seaLevel < -0.5 ? nearestLevel(shoreLevels, seaLevel) : null;
+    set('shoreline', sl === null ? [] : geo.current.shorelines.features.filter((f) => f.properties.level_m === sl));
+    const ds = deadSeaLevelAt(data, t);
+    const dsLevel = ds ? levelValue(ds) : null;
+    const dsFeatures = geo.current.deadSea.features;
+    const modern = dsFeatures.filter((f) => f.properties.method === 'natural-earth-modern-outline');
+    const modelled = dsFeatures.filter((f) => f.properties.method !== 'natural-earth-modern-outline');
+    let lake = modern;
+    if (dsLevel !== null && dsLevel > -412) {
+      const lv = nearestLevel(modelled.map((f) => f.properties.level_m), dsLevel);
+      lake = modelled.filter((f) => f.properties.level_m === lv);
+    }
+    set('deadsea', lake);
+    // Trade routes in use at time t.
+    set(
+      'routes',
+      (data.landscape?.trade_routes ?? [])
+        .filter((r) => activeAt(r, t))
+        .map((r) => ({ type: 'Feature', properties: { id: r.id, label: loc(r.name, lang) }, geometry: { type: 'LineString', coordinates: r.waypoints.map((w) => w.coords) } })),
+    );
+  }, [ready, data, t, lang]);
+
+  // Conflicts under way at time t, with a pulsing marker.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map) return;
+    const features = data.conflicts
+      .filter((c) => activeAt(c, t) && c._coords)
+      .map((c) => ({ type: 'Feature' as const, properties: { id: c.id, label: loc(c.name, lang) }, geometry: { type: 'Point' as const, coordinates: c._coords! } }));
+    (map.getSource('conflicts') as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features });
+    cancelAnimationFrame(pulseRaf.current);
+    if (!features.length || window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) return;
+    const tick = (now: number) => {
+      const k = (now % 1600) / 1600;
+      map.setPaintProperty('conflicts-pulse', 'circle-radius', 6 + k * 16);
+      map.setPaintProperty('conflicts-pulse', 'circle-opacity', 0.35 * (1 - k));
+      pulseRaf.current = requestAnimationFrame(tick);
+    };
+    pulseRaf.current = requestAnimationFrame(tick);
+  }, [ready, data, t, lang]);
+
+  // Migration flows under way at time t.
+  useEffect(() => {
+    if (!ready || !flowsReady || !flows.current) return;
+    const fo = flows.current;
+    void import('./flows').then(({ flowsAt }) => fo.setData(flowsAt(data.migrations, t), layers.includes('migrations')));
+  }, [ready, flowsReady, data, t, layers]);
+
+  // Modern layers: each feature shows from its start (e.g. founding year) to its end.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map) return;
+    const on = layers.includes('modern');
+    for (const l of data.modernLayers ?? []) {
+      const timeFilter = ['all', ['<=', ['get', 't0'], t + 1e-9], ['>', ['get', 't1'], t + 1e-9]];
+      for (const id of modernLayerIds(l)) {
+        if (!map.getLayer(id.id)) continue;
+        map.setFilter(id.id, (id.cls ? ['all', timeFilter, ['==', ['get', 'class'], id.cls]] : timeFilter) as never);
+        map.setLayoutProperty(id.id, 'visibility', on && !modernOff.includes(l.id) ? 'visible' : 'none');
+      }
+    }
+  }, [ready, data, t, layers, modernOff]);
+
+  // Layer switches.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!ready || !map) return;
+    for (const [key, ids] of Object.entries(LAYER_GROUPS) as [LayerKey, string[]][]) {
+      for (const id of ids) if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', layers.includes(key) ? 'visible' : 'none');
+    }
+    // Holy sites can be shown even when other places are hidden.
+    const showPlaces = layers.includes('places');
+    const showHoly = layers.includes('holy');
+    const filter = showPlaces && showHoly ? null : showHoly ? ['==', ['get', 'cls'], 'holy'] : showPlaces ? ['!=', ['get', 'cls'], 'holy'] : ['==', 1, 0];
+    for (const id of ['places-circle', 'places-label']) {
+      if (map.getLayer(id)) {
+        map.setLayoutProperty(id, 'visibility', showPlaces || showHoly ? 'visible' : 'none');
+        map.setFilter(id, filter as never);
+      }
+    }
+  }, [ready, layers]);
+
   return (
     <section className="map-wrap" aria-label={tr('mapLabel')}>
+      {controls && <LayerControl modern={data.modernLayers} />}
+      {controls && (
+        <Suspense fallback={null}>
+          <DiasporaInset data={data} />
+        </Suspense>
+      )}
+      {controls && data.places.length > 0 && (
+        <div className="map-toggle" role="group" aria-label={tr('place.namesMode')}>
+          <span>{tr('place.namesMode')}:</span>
+          <button type="button" aria-pressed={namesMode === 'then'} onClick={() => setNamesMode('then')}>
+            {tr('place.namesThen')}
+          </button>
+          <button type="button" aria-pressed={namesMode === 'today'} onClick={() => setNamesMode('today')}>
+            {tr('place.namesToday')}
+          </button>
+        </div>
+      )}
       <div ref={container} className="map" data-testid="map" data-ready={ready ? 'true' : 'false'} />
       {!ready && !error && <div className="map-status">{tr('loading')}</div>}
       {error && (
@@ -195,4 +393,53 @@ export function MapView({ data, t, lang }: { data: AppData; t: number; lang: Lan
       )}
     </section>
   );
+}
+
+/** The map layers drawn for one modern layer (one per style class for lines). */
+function modernLayerIds(l: ModernLayer): { id: string; cls?: string }[] {
+  if (l.kind === 'line' && l.class_styles) return Object.keys(l.class_styles).map((cls) => ({ id: `modern-${l.id}-${cls}`, cls }));
+  if (l.kind === 'fill') return [{ id: `modern-${l.id}-fill` }, { id: `modern-${l.id}-line` }];
+  if (l.kind === 'point') return [{ id: `modern-${l.id}-pt` }, { id: `modern-${l.id}-label` }];
+  return [{ id: `modern-${l.id}-line` }];
+}
+
+/** Adds sources and layers for every modern layer, below the place labels. */
+function addModernLayers(map: MLMap, data: AppData): void {
+  const before = map.getLayer('places-circle') ? 'places-circle' : undefined;
+  const origin = window.location.origin;
+  for (const l of data.modernLayers ?? []) {
+    const src = `modern-${l.id}`;
+    map.addSource(src, { type: 'geojson', data: `${origin}${baseUrl()}data/modern/${l.file}` });
+    if (l.kind === 'fill') {
+      map.addLayer({ id: `modern-${l.id}-fill`, type: 'fill', source: src, paint: { 'fill-color': l.color, 'fill-opacity': 0.16 } }, before);
+      map.addLayer({ id: `modern-${l.id}-line`, type: 'line', source: src, paint: { 'line-color': l.color, 'line-width': 1.8, 'line-dasharray': [3, 1.5] } }, before);
+    } else if (l.kind === 'line') {
+      const styles = l.class_styles ?? { '': { label: l.name } };
+      for (const [cls, st] of Object.entries(styles)) {
+        map.addLayer(
+          {
+            id: l.class_styles ? `modern-${l.id}-${cls}` : `modern-${l.id}-line`,
+            type: 'line',
+            source: src,
+            layout: { 'line-cap': 'round' },
+            paint: { 'line-color': st.color ?? l.color, 'line-width': 2.4, ...(st.dash ? { 'line-dasharray': st.dash } : {}) },
+          },
+          before,
+        );
+      }
+    } else {
+      map.addLayer({ id: `modern-${l.id}-pt`, type: 'circle', source: src, paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2, 11, 4.5], 'circle-color': l.color, 'circle-stroke-color': '#fff', 'circle-stroke-width': 0.8 } }, before);
+      map.addLayer(
+        {
+          id: `modern-${l.id}-label`,
+          type: 'symbol',
+          source: src,
+          minzoom: 9.5,
+          layout: { 'text-field': ['coalesce', ['get', 'name'], ''], 'text-font': ['Noto Sans Regular'], 'text-size': 10, 'text-offset': [0, 0.9], 'text-optional': true },
+          paint: { 'text-color': '#444', 'text-halo-color': '#fff', 'text-halo-width': 1.2 },
+        },
+        before,
+      );
+    }
+  }
 }

@@ -19,6 +19,30 @@ function withChange(file: string, change: (json: any) => void): string {
   return dir;
 }
 
+/** Copy the valid fixture and add one extra file. */
+function withFile(file: string, json: unknown): string {
+  const dir = mkdtempSync(join(tmpdir(), 'levant-data-'));
+  dirs.push(dir);
+  cpSync(FIXTURE, dir, { recursive: true });
+  writeFileSync(join(dir, file), JSON.stringify(json));
+  return dir;
+}
+
+const perspective = (summaryEn: string, extra: Record<string, string> = {}) => ({
+  perspectives: [
+    {
+      id: 'topic',
+      title: { en: 'Topic' },
+      accounts: ['israeli', 'palestinian', 'academic'].map((p) => ({
+        perspective: p,
+        label: { en: p },
+        summary: { en: summaryEn, ...extra, ...(Object.keys(extra).length ? { translation_status: { ar: 'machine-draft' } } : {}) },
+        sources: [{ ref: 'source-a' }, { ref: 'source-b' }],
+      })),
+    },
+  ],
+});
+
 function errorsFor(dir: string): string[] {
   return validateData(dir).errors.map((e) => `${e.file} › ${e.where}: ${e.message}`);
 }
@@ -139,6 +163,26 @@ describe('validator', () => {
   it('rejects duplicate ids', () => {
     const dir = withChange('sources.json', (j) => j.sources.push({ ...j.sources[0] }));
     expect(errorsFor(dir).join('\n')).toMatch(/Duplicate source id "source-a"/);
+  });
+
+  it('accepts narrative text where every sentence is cited', () => {
+    const dir = withFile('perspectives.json', perspective('First claim.[1] Second claim.[1][2]'));
+    expect(errorsFor(dir)).toEqual([]);
+  });
+
+  it('rejects a narrative sentence without a citation marker', () => {
+    const dir = withFile('perspectives.json', perspective('First claim.[1] Second claim without a source.'));
+    expect(errorsFor(dir).join('\n')).toMatch(/no citation marker/);
+  });
+
+  it('rejects markers that point past the listed sources', () => {
+    const dir = withFile('perspectives.json', perspective('First claim.[3]'));
+    expect(errorsFor(dir).join('\n')).toMatch(/points past/);
+  });
+
+  it('requires translations to keep the same citation markers', () => {
+    const dir = withFile('perspectives.json', perspective('First claim.[1] Second.[2]', { ar: 'الأول.[1] الثاني.' }));
+    expect(errorsFor(dir).join('\n')).toMatch(/same citation markers/);
   });
 
   it('rejects unknown fields (typos)', () => {

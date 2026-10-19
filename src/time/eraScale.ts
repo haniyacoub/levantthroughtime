@@ -200,6 +200,15 @@ export class EraScale {
     return this.onGrid(t, this.stepAt(t));
   }
 
+  /**
+   * Resolution to display t at: months in month-step segments, and also whenever t is not
+   * at the start of a year (e.g. a segment that begins in August 1949).
+   */
+  displayUnit(t: number): 'year' | 'month' {
+    if (this.stepAt(t).unit === 'month') return 'month';
+    return Math.abs(t - Math.round(t)) > 1e-6 ? 'month' : 'year';
+  }
+
   /** Start of the next / previous segment (Page Up / Page Down). */
   jumpSegment(t: number, dir: 1 | -1): number {
     const i = this.segmentIndexAt(t);
