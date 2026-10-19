@@ -144,3 +144,12 @@ Seven layers, each with publisher, licence, as-of date and method in `data/moder
 - East Jerusalem neighbourhoods have no founding year in the source, so they are shown from 2011, the date of the aerial photographs they were mapped from.
 - The Morag corridor has no published geometry; it is a straight line through the former Morag settlement, oriented as press reports describe it, and labelled schematic.
 - No areas are drawn for Gaza after 2023, as decided in the plan: the zones changed too often. Dated shares of the Strip under Israeli control are given in the polity records, from several sides.
+
+### 1948 villages and conflicts 1516–today (imported 2026-10-19)
+
+**1948 villages.** Dated captures and depopulations for al-Tantura, Saffuriya, Isdud, Yibna, Bayt Jibrin, al-Lajjun, Zir'in, al-Majdal (1948 and the 1950 transfer of its remaining residents) and Lifta, from the *All That Remains* entries (Institute for Palestine Studies, PalQuest), Zochrot (an Israeli NGO), Britannica, the UN, BADIL, NPR and Morris. Where the accounts differ (whether residents fled or were expelled; what happened at al-Tantura after the fighting), the entry is `contested` and each account is attributed. No casualty figures.
+- The Israeli official military histories and Morris's *Birth of the Palestinian Refugee Problem* are cited only as quoted in those entries (`via`); the only Israeli scholarship read directly is the abstract of Morris's 1990 chapter on al-Majdal. Direct Israeli sources should be added in Milestone 8.
+- Yavne/Yibna and Ashkelon/al-Majdal: the place records also stand for the Israeli towns there today, so the events are listed without the "former place" marker.
+
+**Conflicts 1516–today.** 96 records from the second pass, merged with the first (205 in all; the 1516–17 Ottoman–Mamluk war, Marj Dabiq and Khan Yunis appeared in both and were merged). 34 records give each side's name for the war with a source (e.g. War of Independence / al-Nakba; Six-Day War / al-Naksa; Operation Al-Aqsa Flood / the October 7 massacre). Fifteen are `contested`, each with both positions sourced.
+- Gaps: Karameh (1968), October 2000, al-Dawayima and May 2021 rest only on Palestinian sources; the Kahan Commission report could not be opened (its findings come via a summary); several operation names (e.g. Lebanon's "July War") are mentioned only in notes as unverified.
