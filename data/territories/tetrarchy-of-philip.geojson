@@ -25,7 +25,13 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Trachonitis, Batanaea and Auranitis, with Gaulanitis and the Paneas district (part of the former domain of Zenodorus), between the Decapolis and Damascus. Iturea proper, in the Lebanon, was not part of it."
+          "en": "Trachonitis, Batanaea and Auranitis, with Gaulanitis and the Paneas district (part of the former domain of Zenodorus), between the Decapolis and Damascus. Iturea proper, in the Lebanon, was not part of it.",
+          "ar": "تراخونيتس وباتانيا وأورانيتس، مع الجولان (غولانيتيس) ومنطقة بانياس (جزء من أملاك زينودوروس السابقة)، بين الديكابوليس ودمشق. ولم تكن إيطورية بمعناها الضيق، في لبنان، جزءاً منها.",
+          "he": "טרכוניטיס, בטניאה ואורניטיס, עם גולניטיס ומחוז פניאס (חלק מתחום זנודורוס לשעבר), בין הדקאפוליס לדמשק. יטוריה עצמה, שבלבנון, לא הייתה חלק ממנה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "confidence": "documented",
         "sources": [

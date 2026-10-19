@@ -3505,7 +3505,13 @@
         }
       ],
       "notes": {
-        "en": "Removed by the legate of Syria, Ummidius Quadratus, on the petition of the Jews after popular uprisings (Jewish Encyclopedia). Tenure dates are modern reconstructions from Josephus; this record follows the Jewish Encyclopedia (Deutsch & Krauss, 1906) and Livius.org (J. Lendering), which agree here. Tacitus (Annals 12.54) gives a different picture: Cumanus and Felix governing at the same time, Cumanus over Galilee and Felix over Samaria; most modern reconstructions follow Josephus' succession."
+        "en": "Removed by the legate of Syria, Ummidius Quadratus, on the petition of the Jews after popular uprisings (Jewish Encyclopedia). Tenure dates are modern reconstructions from Josephus; this record follows the Jewish Encyclopedia (Deutsch & Krauss, 1906) and Livius.org (J. Lendering), which agree here. Tacitus (Annals 12.54) gives a different picture: Cumanus and Felix governing at the same time, Cumanus over Galilee and Felix over Samaria; most modern reconstructions follow Josephus' succession.",
+        "ar": "عزله والي سوريا أوميديوس كوادراتوس بناءً على التماس اليهود بعد انتفاضات شعبية (الموسوعة اليهودية). وتواريخ ولايته إعادة بناء حديثة من يوسيفوس؛ ويتبع هذا السجل الموسوعة اليهودية (دويتش وكراوس، 1906) وموقع Livius.org (ي. لندرينغ)، وهما متفقان هنا. ويقدّم تاسيتوس (الحوليات 12.54) صورة مختلفة: كومانوس وفيلكس يحكمان في الوقت نفسه، كومانوس على الجليل وفيلكس على السامرة؛ وتتبع معظم إعادات البناء الحديثة تسلسل يوسيفوس.",
+        "he": "הודח בידי נציב סוריה, אומידיוס קוודרטוס, בעקבות עתירת היהודים לאחר התקוממויות עממיות (האנציקלופדיה היהודית). תאריכי כהונתו הם שחזור מודרני על פי יוספוס; הרשומה הולכת אחר האנציקלופדיה היהודית (דויטש וקראוס, 1906) ואחר Livius.org (י' לנדרינג), המסכימים כאן. טקיטוס (דברי הימים 12.54) מציג תמונה אחרת: קומנוס ופליקס מושלים בעת ובעונה אחת, קומנוס בגליל ופליקס בשומרון; רוב השחזורים המודרניים הולכים אחר רצף המושלים של יוספוס.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -3651,7 +3657,13 @@
         }
       ],
       "notes": {
-        "en": "End of tenure disputed: the Jewish Encyclopedia gives 52-60, Livius.org 52-58 (placing Festus 58-60). A freedman - the only one to govern Judaea (Jewish Encyclopedia); judged the apostle Paul. Schürer (1890) also gives 52-60 and thinks Felix was probably recalled in 60. Tacitus (Annals 12.54) says Felix had held Judaea 'for a while past' alongside Cumanus, governing Samaria while Cumanus held Galilee."
+        "en": "End of tenure disputed: the Jewish Encyclopedia gives 52-60, Livius.org 52-58 (placing Festus 58-60). A freedman - the only one to govern Judaea (Jewish Encyclopedia); judged the apostle Paul. Schürer (1890) also gives 52-60 and thinks Felix was probably recalled in 60. Tacitus (Annals 12.54) says Felix had held Judaea 'for a while past' alongside Cumanus, governing Samaria while Cumanus held Galilee.",
+        "ar": "نهاية الولاية موضع خلاف: تذكر الموسوعة اليهودية 52-60، وموقع Livius.org يذكر 52-58 (ويضع فستوس في 58-60). كان عبداً معتَقاً، وهو الوحيد من هذه الفئة الذي حكم اليهودية (الموسوعة اليهودية)؛ وحاكم الرسول بولس. ويذكر شورر (1890) أيضاً 52-60 ويرى أن فيلكس استُدعي على الأرجح سنة 60. ويقول تاسيتوس (الحوليات 12.54) إن فيلكس كان يتولى اليهودية «منذ مدة» إلى جانب كومانوس، حاكماً السامرة بينما كان كومانوس على الجليل.",
+        "he": "סיום הכהונה שנוי במחלוקת: האנציקלופדיה היהודית נותנת 52–60, ו־Livius.org נותן 52–58 (ומציב את פסטוס ב־58–60). משוחרר — היחיד מסוגו שמשל ביהודה (האנציקלופדיה היהודית); שפט את השליח פאולוס. גם שירר (1890) נותן 52–60 וסבור שפליקס נקרא חזרה כנראה ב־60. טקיטוס (דברי הימים 12.54) אומר שפליקס החזיק ביהודה \"זה זמן מה\" לצד קומנוס, ומשל בשומרון בעוד קומנוס החזיק בגליל.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {

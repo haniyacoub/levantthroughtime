@@ -2072,7 +2072,13 @@
         }
       ],
       "notes": {
-        "en": "1 Maccabees dates the setting-up of the altar to 15 Kislev and the first sacrifice on it (1:59) to 25 Kislev of Seleucid year 145, usually equated with December 167 BCE (as in Britannica's Maccabees article); Britannica's Palestine article gives 168 BCE. The revolt itself is recorded separately. Interpretation is debated: J. C. Bernhardt (2017, as summarised in BMCR 2018.11.36) argues that Antiochus intervened in the Jerusalem cult as a punitive measure but did not organise a systematic persecution or a ban of Judaism, which he sees as largely a Hasmonean foundation story in 1 and 2 Maccabees."
+        "en": "1 Maccabees dates the setting-up of the altar to 15 Kislev and the first sacrifice on it (1:59) to 25 Kislev of Seleucid year 145, usually equated with December 167 BCE (as in Britannica's Maccabees article); Britannica's Palestine article gives 168 BCE. The revolt itself is recorded separately. Interpretation is debated: J. C. Bernhardt (2017, as summarised in BMCR 2018.11.36) argues that Antiochus intervened in the Jerusalem cult as a punitive measure but did not organise a systematic persecution or a ban of Judaism, which he sees as largely a Hasmonean foundation story in 1 and 2 Maccabees.",
+        "ar": "يؤرخ سفر المكابيين الأول إقامة المذبح في 15 كسلو وأول ذبيحة عليه (1:59) في 25 كسلو من السنة السلوقية 145، وتُعادَل عادةً بكانون الأول/ديسمبر 167 ق.م. (كما في مقالة بريتانيكا عن المكابيين)؛ وتذكر مقالة بريتانيكا عن فلسطين سنة 168 ق.م. وتُسجَّل الثورة نفسها في سجل منفصل. والتفسير موضع خلاف: يرى ج. ك. برنهارت (2017، بحسب ملخص مراجعة BMCR 2018.11.36) أن أنطيوخوس تدخّل في العبادة في القدس إجراءً عقابياً، لكنه لم ينظّم اضطهاداً منهجياً ولا حظراً لليهودية، ويعدّ ذلك إلى حد كبير قصة تأسيسية حشمونية في سفرَي المكابيين الأول والثاني.",
+        "he": "ספר מקבים א' מתארך את הקמת המזבח ל־ט\"ו בכסלו ואת הקרבן הראשון עליו (א, נט) ל־כ\"ה בכסלו של השנה הסלווקית 145, המקובלת כמקבילה לדצמבר 167 לפנה״ס (כמו במאמר בריטניקה על המקבים); מאמר בריטניקה על פלשתינה נותן 168 לפנה״ס. המרד עצמו מתועד ברשומה נפרדת. הפרשנות שנויה במחלוקת: י. ק. ברנהרדט (2017, לפי סיכום ב־BMCR 2018.11.36) טוען שאנטיוכוס התערב בפולחן בירושלים כצעד ענישה, אך לא ארגן רדיפה שיטתית או איסור על היהדות, שבעיניו הם במידה רבה סיפור ייסוד חשמונאי בספרי מקבים א' וב'.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2567,7 +2573,13 @@
         }
       ],
       "notes": {
-        "en": "The date window is inferred from the Gospels' statement that Jesus was born under Herod the Great (died 4 BCE). Bethlehem as birthplace rests on the Gospels of Matthew and Luke; Jesus grew up in Nazareth in Galilee. Luke also links the birth to a census under Quirinius (Cyrenius), governor of Syria, which Josephus places in 6/7 CE, ten or more years after Herod's death; scholars have long debated how, or whether, the two datings can be reconciled."
+        "en": "The date window is inferred from the Gospels' statement that Jesus was born under Herod the Great (died 4 BCE). Bethlehem as birthplace rests on the Gospels of Matthew and Luke; Jesus grew up in Nazareth in Galilee. Luke also links the birth to a census under Quirinius (Cyrenius), governor of Syria, which Josephus places in 6/7 CE, ten or more years after Herod's death; scholars have long debated how, or whether, the two datings can be reconciled.",
+        "ar": "استُنتجت نافذة التاريخ من قول الأناجيل إن يسوع وُلد في عهد هيرودس الكبير (توفي 4 ق.م.). ويستند كون بيت لحم مكان الولادة إلى إنجيلَي متى ولوقا؛ ونشأ يسوع في الناصرة في الجليل. ويربط لوقا الولادة أيضاً بإحصاء جرى في عهد كيرينيوس، والي سوريا، الذي يضعه يوسيفوس في 6/7 م، أي بعد وفاة هيرودس بعشر سنوات أو أكثر؛ وقد ناقش الباحثون طويلاً كيف يمكن التوفيق بين التأريخين، أو ما إذا كان ذلك ممكناً.",
+        "he": "חלון התאריכים נגזר מקביעת הבשורות שישו נולד בימי הורדוס הגדול (מת ב־4 לפנה״ס). בית לחם כמקום הלידה נשענת על הבשורות של מתי ולוקס; ישו גדל בנצרת שבגליל. לוקס קושר את הלידה גם למפקד בימי קווירניוס, נציב סוריה, שיוספוס ממקם ב־6/7 לספירה, עשר שנים או יותר אחרי מות הורדוס; חוקרים דנים זה מכבר כיצד, ואם בכלל, אפשר ליישב בין שני התיארוכים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -2854,7 +2866,13 @@
         }
       ],
       "notes": {
-        "en": "Approximate date (after 70 CE). Rabbinic tradition credits Rabban Yohanan ben Zakkai: the Mishnah (Rosh Hashanah 4:1) has him issue rulings at Yavne after the Temple's destruction, and a later Babylonian Talmud story (Gittin 56b) has him ask Vespasian for 'Yavne and its Sages'. Avi-Yonah (Encyclopaedia Judaica) describes Yavne as the seat of the reconstituted Sanhedrin, under Yohanan and then Rabban Gamaliel II, until the Bar Kokhba revolt. The Talmud story is late legend rather than a contemporary record. Coordinates are those of the modern town of Yavne."
+        "en": "Approximate date (after 70 CE). Rabbinic tradition credits Rabban Yohanan ben Zakkai: the Mishnah (Rosh Hashanah 4:1) has him issue rulings at Yavne after the Temple's destruction, and a later Babylonian Talmud story (Gittin 56b) has him ask Vespasian for 'Yavne and its Sages'. Avi-Yonah (Encyclopaedia Judaica) describes Yavne as the seat of the reconstituted Sanhedrin, under Yohanan and then Rabban Gamaliel II, until the Bar Kokhba revolt. The Talmud story is late legend rather than a contemporary record. Coordinates are those of the modern town of Yavne.",
+        "ar": "تاريخ تقريبي (بعد 70 م). ينسب التقليد الرباني الفضل إلى رابان يوحنان بن زكاي: إذ تُظهره المشناه (روش هشناه 4:1) يُصدر أحكاماً في يفنه بعد خراب الهيكل، وتروي قصة لاحقة في التلمود البابلي (جيطين 56ب) أنه طلب من فسبازيان «يفنه وحكماءها». ويصف آفي يونا (الموسوعة اليهودية) يفنه بأنها مقر السنهدرين المُعاد تأسيسه، برئاسة يوحنان ثم رابان غمالائيل الثاني، حتى ثورة بار كوخبا. وقصة التلمود أسطورة متأخرة لا سجل معاصر. والإحداثيات هي إحداثيات بلدة يفنه الحديثة.",
+        "he": "תאריך משוער (אחרי 70 לספירה). המסורת הרבנית מייחסת זאת לרבן יוחנן בן זכאי: המשנה (ראש השנה ד, א) מתארת אותו מתקן תקנות ביבנה אחרי חורבן הבית, וסיפור מאוחר יותר בתלמוד הבבלי (גיטין נו ע\"ב) מספר שביקש מאספסיאנוס \"תן לי יבנה וחכמיה\". אבי־יונה (אנציקלופדיה יודאיקה) מתאר את יבנה כמושב הסנהדרין שחודשה, בראשות יוחנן ואחריו רבן גמליאל השני, עד מרד בר כוכבא. סיפור התלמוד הוא אגדה מאוחרת ולא תיעוד בן הזמן. הקואורדינטות הן של העיר יבנה המודרנית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -3426,7 +3444,13 @@
         }
       ],
       "notes": {
-        "en": "Modern estimates put the redaction around 400 CE (Encyclopaedia Judaica, 2nd ed., 2007), usually assumed to have been in Tiberias; S. Lieberman argued that the tractates of Neziqin were compiled earlier, in Caesarea, about the mid-4th century. The older view tying the end of the work to c. 425 comes from the Jewish Encyclopedia (1906). Despite its name the work was compiled in Galilee (and possibly Caesarea), not Jerusalem."
+        "en": "Modern estimates put the redaction around 400 CE (Encyclopaedia Judaica, 2nd ed., 2007), usually assumed to have been in Tiberias; S. Lieberman argued that the tractates of Neziqin were compiled earlier, in Caesarea, about the mid-4th century. The older view tying the end of the work to c. 425 comes from the Jewish Encyclopedia (1906). Despite its name the work was compiled in Galilee (and possibly Caesarea), not Jerusalem.",
+        "ar": "تضع التقديرات الحديثة التحرير النهائي نحو 400 م (الموسوعة اليهودية، الطبعة الثانية، 2007)، ويُفترض عادةً أنه جرى في طبريا؛ ورأى س. ليبرمان أن مقالات «نزيقين» جُمعت قبل ذلك، في قيسارية، نحو منتصف القرن الرابع. والرأي الأقدم الذي يربط نهاية العمل بنحو 425 مصدره الموسوعة اليهودية (1906). ورغم اسمه، جُمع العمل في الجليل (وربما في قيسارية)، لا في القدس.",
+        "he": "הערכות מודרניות מציבות את העריכה בסביבות 400 לספירה (אנציקלופדיה יודאיקה, מהדורה שנייה, 2007), ומקובל להניח שנעשתה בטבריה; ש' ליברמן טען שמסכתות נזיקין נערכו קודם לכן, בקיסריה, באמצע המאה ה־4 בערך. הדעה הישנה הקושרת את סוף החיבור לשנת 425 בערך מקורה באנציקלופדיה היהודית (1906). למרות שמו, החיבור נערך בגליל (ואולי בקיסריה), ולא בירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {

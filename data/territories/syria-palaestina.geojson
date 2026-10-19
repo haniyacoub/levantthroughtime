@@ -219,7 +219,13 @@
         "id": "syria-palaestina-3",
         "geometry_method": "units",
         "notes": {
-          "en": "Di Segni (2018) dates the creation of Palaestina Salutaris to c. 357/8; its governorship lapsed for some years in the 380s and was restored c. 389/90. The northern division (Palaestina Secunda) followed only in the early 5th century, which is why the end date runs to 409 at the latest."
+          "en": "Di Segni (2018) dates the creation of Palaestina Salutaris to c. 357/8; its governorship lapsed for some years in the 380s and was restored c. 389/90. The northern division (Palaestina Secunda) followed only in the early 5th century, which is why the end date runs to 409 at the latest.",
+          "ar": "تؤرخ دي سيني (2018) إنشاء فلسطين السالوتاريس بنحو 357/8؛ وتوقفت ولايتها بضع سنوات في ثمانينيات القرن الرابع وأُعيدت نحو 389/90. ولم يأتِ التقسيم الشمالي (فلسطين الثانية) إلا في أوائل القرن الخامس، ولهذا يمتد تاريخ النهاية حتى 409 على أبعد تقدير.",
+          "he": "די סגני (2018) מתארכת את הקמת פלשתינה סלוטריס לשנת 357/8 בערך; הנציבות שלה הופסקה לכמה שנים בשנות ה־80 של המאה ה־4 וחודשה בשנת 389/90 בערך. החלוקה הצפונית (פלשתינה השנייה) באה רק בראשית המאה ה־5, ולכן תאריך הסיום משתרע עד 409 לכל המאוחר.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         }
       }
     }
