@@ -772,6 +772,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ammianus-14-rolfe",
+      "type": "document",
+      "authors": [
+        "Ammianus Marcellinus",
+        "Rolfe, John C. (translator)"
+      ],
+      "title": "Res Gestae, Book XIV",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. I",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/14*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (late 4th century CE). Downloaded and read 14.8.11-13 (Palestine made a province by Pompey; Arabia made a province by Trajan)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "ammianus-23-rolfe",
       "type": "document",
       "authors": [
@@ -807,6 +827,27 @@
       "kind": "press",
       "institution_country": "TR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "antiochus-strategos-conybeare-1910",
+      "type": "article",
+      "authors": [
+        "Conybeare, F. C."
+      ],
+      "title": "Antiochus Strategos' Account of the Sack of Jerusalem in A.D. 614",
+      "container": "English Historical Review",
+      "volume": 25,
+      "pages": "502-517",
+      "year": 1910,
+      "url": "https://www.tertullian.org/fathers/antiochus_strategos_capture.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full translation as transcribed at tertullian.org (Roger Pearse). An eyewitness narrative (7th century) preserved in Georgian, translated in 1910; dated scholarship."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
     },
     {
       "id": "anu-krockenberger-obituary",
@@ -2119,6 +2160,146 @@
       },
       "kind": "reference",
       "institution_country": "GB"
+    },
+    {
+      "id": "bmcr-burstein-2011-grainger-syrian-wars",
+      "type": "web",
+      "authors": [
+        "Burstein, Stanley M."
+      ],
+      "title": "Review of John D. Grainger, The Syrian Wars (Brill, 2010)",
+      "container": "Bryn Mawr Classical Review 2011.03.86",
+      "publisher": "Bryn Mawr College",
+      "year": 2011,
+      "url": "https://bmcr.brynmawr.edu/2011/2011.03.86/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-girardin-2020-jacobson-agrippa-ii",
+      "type": "web",
+      "authors": [
+        "Girardin, Michael"
+      ],
+      "title": "Review of David M. Jacobson, Agrippa II: The Last of the Herods (Routledge, 2019)",
+      "container": "Bryn Mawr Classical Review 2020.04.35",
+      "publisher": "Bryn Mawr College",
+      "year": 2020,
+      "url": "https://bmcr.brynmawr.edu/2020/2020.04.35/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review (in French). Jacobson's book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-lichtenberger-2024-johannsen",
+      "type": "web",
+      "authors": [
+        "Lichtenberger, Achim"
+      ],
+      "title": "Review of Ole Johannsen, Imperialer Wandel und ptolemäischer Imperialismus in Syrien (Brill/Schöningh, 2023)",
+      "container": "Bryn Mawr Classical Review 2024.03.10",
+      "publisher": "Bryn Mawr College",
+      "year": 2024,
+      "url": "https://bmcr.brynmawr.edu/2024/2024.03.10/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-prozorov-2004-kaegi-heraclius",
+      "type": "web",
+      "authors": [
+        "Prozorov, Vadim"
+      ],
+      "title": "Review of Walter E. Kaegi, Heraclius: Emperor of Byzantium (Cambridge University Press, 2003)",
+      "container": "Bryn Mawr Classical Review 2004.03.08",
+      "publisher": "Bryn Mawr College",
+      "year": 2004,
+      "url": "https://bmcr.brynmawr.edu/2004/2004.03.08/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-schlude-2022-van-wijlick",
+      "type": "web",
+      "authors": [
+        "Schlude, Jason M."
+      ],
+      "title": "Review of Hendrikus A. M. van Wijlick, Rome and the Near Eastern Kingdoms and Principalities, 44-31 BC (Brill, 2021)",
+      "container": "Bryn Mawr Classical Review 2022.04.29",
+      "publisher": "Bryn Mawr College",
+      "year": 2022,
+      "url": "https://bmcr.brynmawr.edu/2022/2022.04.29/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-vanhenten-2018-bernhardt",
+      "type": "web",
+      "authors": [
+        "van Henten, Jan Willem"
+      ],
+      "title": "Review of Johannes Christian Bernhardt, Die jüdische Revolution: Untersuchungen zu Ursachen, Verlauf und Folgen der hasmonäischen Erhebung (De Gruyter, 2017)",
+      "container": "Bryn Mawr Classical Review 2018.11.36",
+      "publisher": "Bryn Mawr College",
+      "year": 2018,
+      "url": "https://bmcr.brynmawr.edu/2018/2018.11.36/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review; book details (Johannes Christian Bernhardt, De Gruyter 2017, KLIO Beihefte NF 22) as given in the review header."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-winger-2011-myers-ituraeans",
+      "type": "web",
+      "authors": [
+        "Winger, Justin"
+      ],
+      "title": "Review of E. A. Myers, The Ituraeans and the Roman Near East: Reassessing the Sources (Cambridge University Press, 2010)",
+      "container": "Bryn Mawr Classical Review 2011.04.36",
+      "publisher": "Bryn Mawr College",
+      "year": 2011,
+      "url": "https://bmcr.brynmawr.edu/2011/2011.04.36/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "boas-2001-jerusalem-crusades",
@@ -8232,6 +8413,86 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "cassius-dio-48-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book XLVIII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. V",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/48*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (early 3rd century CE). Downloaded and read 48.26 (Pacorus invades Syria and Palestine, 40 BCE) and 48.41 (Ventidius recovers Syria and Palestine, 39 BCE)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "cassius-dio-49-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book XLIX",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. V",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/49*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read 49.22 (Sosius takes Jerusalem; Antony gives the Jews to Herod and executes Antigonus; consulship of Claudius and Norbanus, 38 BCE in Dio's arrangement)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "cassius-dio-55-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book LV",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VI",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/55*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read 55.25-27 (the year of the consuls Aemilius Lepidus and L. Arruntius, 6 CE, ending with the banishment of 'Herod of Palestine', i.e. Archelaus, per the translator's note)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "cassius-dio-59-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book LIX",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VII",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/59*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read 59.8 and 59.12 (Gaius gives Agrippa his grandfather's domain and grants Sohaemus 'the land of the Ituraean Arabians', 37-38 CE)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "cassius-dio-69-cary",
       "type": "document",
       "authors": [
@@ -9200,6 +9461,146 @@
       "institution_country": "US"
     },
     {
+      "id": "diodorus-18-geer",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Geer, Russel M. (translator)"
+      ],
+      "title": "Library of History, Book XVIII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. IX",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1947,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18A*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (1st century BCE). Downloaded and read the pages for 18.1-25 (18A) and 18.26-47 (18B, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18B*.html): chs. 3 (satrapies of 323), 39 (Triparadeisus) and 43 (Ptolemy seizes Syria and Phoenicia, with the translator's note dating it to 319/18 from the Marmor Parium)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "diodorus-19-geer",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Geer, Russel M. (translator)"
+      ],
+      "title": "Library of History, Book XIX",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vols. IX-X",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19E*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read the LacusCurtius pages 19C (chs. 49-65: Antigonus enters Phoenicia and takes Joppa and Gaza, 315), 19E (chs. 73-101: battle of Gaza 312, Ptolemy's withdrawal 311, campaign against the Nabataeans) and 19F (ch. 105: peace of 311). Year equations are the translator's notes (Loeb)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "diodorus-20-geer",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Geer, Russel M. (translator)"
+      ],
+      "title": "Library of History, Book XX",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. X",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1954,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/20C*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read pages 20C (ch. 53: Antigonus, Demetrius and Ptolemy take the royal title, 306) and 20E (ch. 113: Ptolemy's occupation of Coele-Syria in 302)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "diodorus-21-walton",
+      "type": "document",
+      "authors": [
+        "Diodorus Siculus",
+        "Walton, Francis R. (translator)"
+      ],
+      "title": "Library of History, Book XXI (fragments)",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. XI",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "year": 1957,
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/21*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (fragmentary book). Downloaded and read fragment 1 (after the battle of Ipsus, 301: Ptolemy already holds the cities of Coele Syria)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "dir-arcadius-nathan",
+      "type": "web",
+      "authors": [
+        "Nathan, Geoffrey S."
+      ],
+      "title": "Arcadius (395-408 A.D.)",
+      "container": "De Imperatoribus Romanis: An Online Encyclopedia of Roman Emperors",
+      "publisher": "Loyola University Chicago (current host)",
+      "url": "https://roman-emperors.sites.luc.edu/arcadius.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the introduction and early-reign sections."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "dir-augustus-fagan",
+      "type": "web",
+      "authors": [
+        "Fagan, Garrett G."
+      ],
+      "title": "Augustus (31 B.C. - 14 A.D.)",
+      "container": "De Imperatoribus Romanis: An Online Encyclopedia of Roman Rulers",
+      "publisher": "Loyola University Chicago (current host)",
+      "url": "https://roman-emperors.sites.luc.edu/auggie.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article; used the section on the 'First Settlement' of 13 January 27 BC."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "dir-claudius-fagan",
+      "type": "web",
+      "authors": [
+        "Fagan, Garrett G."
+      ],
+      "title": "Claudius (41-54 A.D.)",
+      "container": "De Imperatoribus Romanis: An Online Encyclopedia of Roman Emperors",
+      "publisher": "Loyola University Chicago (current host)",
+      "url": "https://roman-emperors.sites.luc.edu/claudius.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (sections on Claudius's accession and on client kings, incl. Agrippa I)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "dir-constantine-pohlsander",
       "type": "web",
       "authors": [
@@ -9218,6 +9619,25 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "dir-gaius-fagan",
+      "type": "web",
+      "authors": [
+        "Fagan, Garrett G."
+      ],
+      "title": "Gaius (Caligula) (A.D. 37-41)",
+      "container": "De Imperatoribus Romanis: An Online Encyclopedia of Roman Emperors",
+      "publisher": "Loyola University Chicago (current host)",
+      "url": "https://roman-emperors.sites.luc.edu/gaius.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (section 'Gaius and the Empire')."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "dir-heraclius-moore",
@@ -9256,6 +9676,25 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "dir-trajan-benario",
+      "type": "web",
+      "authors": [
+        "Benario, Herbert W."
+      ],
+      "title": "Trajan (A.D. 98-117)",
+      "container": "De Imperatoribus Romanis: An Online Encyclopedia of Roman Emperors",
+      "publisher": "Loyola University Chicago (current host)",
+      "url": "https://roman-emperors.sites.luc.edu/trajan.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (section on the empire's expansion: the province of Arabia)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "disegni-2018-liber-annuus",
@@ -9362,14 +9801,15 @@
       "volume": 89,
       "year": 1999,
       "pages": "76-89",
+      "url": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/bar-kokhba-revolt-the-roman-point-of-view/27E95F52A627562F93178F17A51D5FD4",
       "verification": {
-        "level": "cited-via",
-        "checked_on": "2026-10-18",
-        "note": "Not seen directly; cited (pp. 87-89) in the Judaism and Rome record by C. Barron for the point that other unruly provinces did not lose their names."
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "UPDATE to the existing entry (previously cited-via): read the article's footnotes as displayed on the Cambridge Core page (the body text is paywalled), in particular nn. 1, 16 and 97-98 on the renaming of Judaea as Syria Palaestina."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-19"
     },
     {
       "id": "eck-2010-judaea-diploma",
@@ -9459,6 +9899,48 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-jabneh",
+      "type": "chapter",
+      "authors": [
+        "Avi-Yonah, Michael",
+        "Herr, Moshe David"
+      ],
+      "title": "Jabneh",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jabneh",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full entry on Encyclopedia.com; the historical section used here is signed by Michael Avi-Yonah (first published in the 1971 edition)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "ej-2007-talmud-jerusalem",
+      "type": "chapter",
+      "authors": [
+        "Rabinowitz, Louis Isaac",
+        "Wald, Stephen G."
+      ],
+      "title": "Talmud, Jerusalem",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/talmud-jerusalem",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full entry on Encyclopedia.com (2nd-edition revision by S. G. Wald), incl. the sections on redaction and on Yerushalmi Neziqin."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "ej-bar-kokhba",
@@ -10981,6 +11463,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "hitti-1916-baladhuri",
+      "type": "book",
+      "authors": [
+        "al-Baladhuri, Ahmad ibn Yahya",
+        "Hitti, Philip Khuri (translator)"
+      ],
+      "title": "The Origins of the Islamic State, being a translation from the Arabic of the Kitab Futuh al-Buldan, vol. I",
+      "container": "Studies in History, Economics and Public Law, vol. 68",
+      "publisher": "Columbia University (Longmans, Green & Co., agents)",
+      "year": 1916,
+      "url": "https://archive.org/details/originsofislamic00balarich",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "hoffmeier-1997-israel-in-egypt",
       "type": "book",
       "authors": [
@@ -11520,6 +12023,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "iranica-arsacids-ii-schippmann",
+      "type": "web",
+      "authors": [
+        "Schippmann, Klaus"
+      ],
+      "title": "ARSACIDS ii. The Arsacid dynasty",
+      "container": "Encyclopaedia Iranica, vol. II, fasc. 5, pp. 525-536 (online edition updated 7 July 2016)",
+      "publisher": "Encyclopaedia Iranica Foundation",
+      "year": 1986,
+      "url": "https://www.iranicaonline.org/articles/arsacids-ii",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive capture http://web.archive.org/web/20260903043836/https://www.iranicaonline.org/articles/arsacids-ii/ (live site returned HTTP 403): the sections on the rise of Arsaces, the invasion of Syria in 41/40 BCE and the end of the dynasty in 224 CE."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "iranica-ayyubids-humphreys-1987",
       "type": "web",
       "authors": [
@@ -11640,6 +12163,26 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "iranica-sasanian-dynasty-shahbazi",
+      "type": "web",
+      "authors": [
+        "Shahbazi, A. Shapur"
+      ],
+      "title": "SASANIAN DYNASTY",
+      "container": "Encyclopaedia Iranica (online edition, published 20 July 2005, updated 14 May 2018)",
+      "publisher": "Encyclopaedia Iranica Foundation",
+      "year": 2005,
+      "url": "https://www.iranicaonline.org/articles/sasanian-dynasty",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive capture http://web.archive.org/web/20260910101400/https://www.iranicaonline.org/articles/sasanian-dynasty/ (the live site returned HTTP 403): the opening section and the sections on Khosrow II and Yazdegerd III."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "isa-samuel-exhibition",
@@ -13021,6 +13564,22 @@
       "institution_country": "US"
     },
     {
+      "id": "kjv-gospels-gutenberg",
+      "type": "document",
+      "title": "The King James Version of the Bible: Gospel of Matthew, ch. 2; Gospel of Luke, ch. 2",
+      "container": "Project Gutenberg eBook #10",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/cache/epub/10/pg10.txt",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the plain text and read Matthew 2:1 and Luke 2:1-2. Primary texts (late 1st century CE) in the 1611 translation."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "klausner-1944-from-jesus-to-paul",
       "type": "book",
       "authors": [
@@ -13330,6 +13889,25 @@
       },
       "kind": "reference",
       "institution_country": "NL"
+    },
+    {
+      "id": "livius-babylonian-king-list-hellenistic",
+      "type": "web",
+      "authors": [
+        "van der Spek, R. J. (Bert) (translator)"
+      ],
+      "title": "Babylonian King List of the Hellenistic Period (BM 35603)",
+      "container": "Livius.org, Mesopotamian Chronicles",
+      "publisher": "Livius.org",
+      "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full transliteration-based translation (page created 2004, last modified 4 October 2020). Cuneiform primary source; Seleucid-era years with BCE equivalents in brackets as given by the translator."
+      },
+      "kind": "reference",
+      "institution_country": "NL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "livius-cyrus-cylinder",
@@ -14410,6 +14988,26 @@
       },
       "kind": "press",
       "institution_country": "SY",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "npnf-chalcedon-acts-percival",
+      "type": "document",
+      "authors": [
+        "Percival, Henry R. (editor)"
+      ],
+      "title": "Council of Chalcedon (A.D. 451): Extracts from the Acts (incl. Session VII, Decree on the Jurisdiction of Jerusalem and Antioch)",
+      "container": "Nicene and Post-Nicene Fathers, Second Series, vol. 14 (New Advent transcription)",
+      "publisher": "New Advent",
+      "year": 1900,
+      "url": "https://www.newadvent.org/fathers/3811.htm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the page and read the decree of Session VII on the agreement between Maximus of Antioch and Juvenal of Jerusalem. A 19th-century translation of the conciliar acts."
+      },
+      "kind": "reference",
+      "institution_country": "US",
       "accessed": "2026-10-19"
     },
     {
@@ -16698,6 +17296,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "polybius-16-paton",
+      "type": "document",
+      "authors": [
+        "Polybius",
+        "Paton, W. R. (translator)"
+      ],
+      "title": "The Histories, Book XVI",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. V",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/16*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (2nd century BCE). Downloaded and read chs. 18-19 (battle of Panium) and 39 (Antiochus III occupies Samaria, Abila, Gadara and receives the surrender of Jerusalem; this fragment survives as a quotation in Josephus, Antiquities 12.135-136)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "porath-1986-nyrb",
       "type": "article",
       "authors": [
@@ -17498,6 +18116,67 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "schurer-1890-div1-vol1",
+      "type": "book",
+      "authors": [
+        "Schürer, Emil",
+        "Macpherson, John (translator)"
+      ],
+      "title": "A History of the Jewish People in the Time of Jesus Christ, First Division: Political History of Palestine from B.C. 175 to A.D. 135, vol. I",
+      "publisher": "T. & T. Clark (Edinburgh); Charles Scribner's Sons (New York)",
+      "year": 1890,
+      "url": "https://archive.org/details/s1historyofjewis01schuoft",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Searched and read the Internet Archive OCR text (Scribner issue, undated on the title page; translation of the 2nd German edition). Read § 2 (Seleucid era), the sketch of Seleucid history (pp. 169-185), §§ 4-7 and § 12. A 19th-century work: its chronology is dated (e.g. it puts the rededication of the Temple in December 165 BCE)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "schurer-1890-div1-vol2",
+      "type": "book",
+      "authors": [
+        "Schürer, Emil",
+        "Macpherson, John (translator)"
+      ],
+      "title": "A History of the Jewish People in the Time of Jesus Christ, First Division, vol. II",
+      "publisher": "T. & T. Clark (Edinburgh); Charles Scribner's Sons (New York)",
+      "year": 1890,
+      "url": "https://archive.org/details/s1historyofjewis02schuoft",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Searched and read the Internet Archive OCR text: § 17 (sons of Herod, procurators 6-41), Excursus I (census of Quirinius, pp. 105 ff.), §§ 18-19 (Agrippa I, procurators 44-66, Agrippa II), Appendix I (Chalcis, Iturea, Abilene) and Appendix II (Nabataean kings). Quotes keep the OCR text as downloaded (some OCR errors such as 'A-D.' for 'A.D.'). 19th-century scholarship."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "schurer-1910-div2-vol1",
+      "type": "book",
+      "authors": [
+        "Schürer, Emil",
+        "Taylor, Sophia (translator)",
+        "Christie, Peter (translator)"
+      ],
+      "title": "A History of the Jewish People in the Time of Jesus Christ, Second Division: The Internal Condition of Palestine, and of the Jewish People, vol. I",
+      "publisher": "T. & T. Clark (Edinburgh)",
+      "year": 1910,
+      "url": "https://archive.org/details/p2historyofjewishp01schuoft",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "schwartz-2006-land-of-israel-66-235",
       "type": "chapter",
       "authors": [
@@ -17520,6 +18199,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "sefaria-bavli-gittin-56b",
+      "type": "document",
+      "title": "Babylonian Talmud, Gittin 56b (William Davidson Edition, English)",
+      "container": "Sefaria",
+      "publisher": "Sefaria (text: Koren/Steinsaltz William Davidson Edition, CC BY-NC)",
+      "url": "https://www.sefaria.org/Gittin.56b",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded via the Sefaria texts API (https://www.sefaria.org/api/texts/Gittin.56b) and read the story of Rabban Yohanan ben Zakkai and Vespasian; the quoted words are the edition's bold (literal) translation. A late-antique Babylonian tradition, compiled centuries after 70 CE."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "sefaria-jps-tanakh",
       "type": "document",
       "authors": [
@@ -17537,6 +18232,22 @@
       },
       "kind": "religious-institution",
       "institution_country": "US"
+    },
+    {
+      "id": "sefaria-mishnah-rosh-hashanah-4-1",
+      "type": "document",
+      "title": "Mishnah Rosh Hashanah 4:1 (William Davidson Edition, English)",
+      "container": "Sefaria",
+      "publisher": "Sefaria (text: Koren/Steinsaltz William Davidson Edition, CC BY-NC)",
+      "url": "https://www.sefaria.org/Mishnah_Rosh_Hashanah.4.1",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded via the Sefaria texts API (https://www.sefaria.org/api/texts/Mishnah_Rosh_Hashanah.4.1). The edition prints the literal Mishnah text in bold and the translator's explanatory words in plain type; the quote reproduces the printed English, and the words 'this practice' are the translator's."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "sered-1989-rachels-tomb",
@@ -18010,6 +18721,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "tacitus-annals-12-jackson",
+      "type": "document",
+      "authors": [
+        "Tacitus",
+        "Jackson, John (translator)"
+      ],
+      "title": "Annals, Book XII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition of Tacitus, vol. IV",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/12A*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source (early 2nd century CE). Downloaded and read 12.23 (page 12A: Ituraea and Judaea attached to Syria on the deaths of Sohaemus and Agrippa, year 49 CE) and 12.54 (page 12B, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/12B*.html: Felix and Ventidius Cumanus as simultaneous governors)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "tacitus-annals-15-jackson",
       "type": "document",
       "authors": [
@@ -18028,6 +18759,26 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "tacitus-histories-5-moore",
+      "type": "document",
+      "authors": [
+        "Tacitus",
+        "Moore, Clifford H. (translator)"
+      ],
+      "title": "Histories, Book V",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition of Tacitus, vol. III",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Histories/5A*.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Primary source. Downloaded and read chs. 1 (Titus sent to finish the Judaean war, 70 CE) and 9 (outline of Judaean history from Pompey to Felix)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "tappy-2009-samaria",
@@ -18127,6 +18878,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-bizans",
+      "type": "web",
+      "authors": [
+        "Demirkent, Işın"
+      ],
+      "title": "BİZANS",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 1992,
+      "volume": 6,
+      "pages": "230-244",
+      "url": "https://islamansiklopedisi.org.tr/bizans",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online entry (Turkish), section I (Byzantium as the continuation of the Roman Empire); printed in vol. 6 (1992), pp. 230-244."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "tdv-canbirdi-gazali",
       "type": "chapter",
       "title": "CANBİRDİ GAZÂLÎ",
@@ -18187,6 +18960,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-ecnadeyn-savasi",
+      "type": "web",
+      "authors": [
+        "Yıldız, Hakkı Dursun"
+      ],
+      "title": "ECNÂDEYN SAVAŞI",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 1994,
+      "volume": 10,
+      "pages": "385",
+      "url": "https://islamansiklopedisi.org.tr/ecnadeyn-savasi",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full online entry (Turkish); printed in vol. 10 (1994), p. 385."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "tdv-hadim-sinan-pasa",
       "type": "web",
       "authors": [
@@ -18204,6 +18999,28 @@
       },
       "kind": "reference",
       "institution_country": "TR"
+    },
+    {
+      "id": "tdv-hulefa-yi-rasidin",
+      "type": "web",
+      "authors": [
+        "Fayda, Mustafa"
+      ],
+      "title": "HULEFÂ-yi RÂŞİDÎN",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 1998,
+      "volume": 18,
+      "pages": "324-338",
+      "url": "https://islamansiklopedisi.org.tr/hulefa-yi-rasidin",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the online entry (Turkish), section I (political history); printed in TDV İslâm Ansiklopedisi vol. 18 (1998), pp. 324-338."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-19"
     },
     {
       "id": "tdv-ibrahim-pasa",
@@ -18312,6 +19129,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-sasaniler",
+      "type": "web",
+      "authors": [
+        "Naskali, Esko"
+      ],
+      "title": "SÂSÂNÎLER",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2009,
+      "volume": 36,
+      "pages": "174-176",
+      "url": "https://islamansiklopedisi.org.tr/sasaniler",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full online entry (Turkish); printed in vol. 36 (2009), pp. 174-176."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "tdv-serif-huseyin",
       "type": "chapter",
       "title": "ŞERÎF HÜSEYİN",
@@ -18348,6 +19187,28 @@
       },
       "kind": "reference",
       "institution_country": "TR"
+    },
+    {
+      "id": "tdv-yermuk-savasi",
+      "type": "web",
+      "authors": [
+        "Fayda, Mustafa"
+      ],
+      "title": "YERMÜK SAVAŞI",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2013,
+      "volume": 43,
+      "pages": "485-486",
+      "url": "https://islamansiklopedisi.org.tr/yermuk-savasi",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full online entry (Turkish); printed in vol. 43 (2013), pp. 485-486."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-19"
     },
     {
       "id": "tdv-zahir-el-omer",
@@ -18481,6 +19342,26 @@
       },
       "kind": "press",
       "institution_country": "IN"
+    },
+    {
+      "id": "trismegistos-zenon-archive-vandorpe",
+      "type": "document",
+      "authors": [
+        "Vandorpe, Katelijn"
+      ],
+      "title": "Zenon son of Agreophon (Trismegistos Archives, ArchID 256, version 1)",
+      "container": "Trismegistos Archives",
+      "publisher": "KU Leuven (Trismegistos)",
+      "year": 2013,
+      "url": "https://www.trismegistos.org/arch/archives/pdf/256.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the 9-page PDF via Internet Archive capture http://web.archive.org/web/20260602195953/https://www.trismegistos.org/arch/archives/pdf/256.pdf (the live site returned 403), esp. 'Phase I' (Zenon in Palestine) and 'Phase IV'."
+      },
+      "kind": "academic",
+      "institution_country": "BE",
+      "accessed": "2026-10-19"
     },
     {
       "id": "trump-wh-remarks-2020-01-28",

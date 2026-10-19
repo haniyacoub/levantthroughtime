@@ -44,6 +44,16 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "Herod Archelaus should rule Judaea, Samaria, and Edom (i.e., central and southern Palestine)"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.6.3 (Whiston)",
+            "quote": "while Idumea, and all Judea, and Samaria were parts of the ethnarchy of Archelaus"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.6.3 (Whiston)",
+            "quote": "He also made subject to him the following cities, viz. Strato's Tower, and Sebaste, and Joppa, and Jerusalem"
           }
         ],
         "id": "ethnarchy-of-archelaus-1",

@@ -160,3 +160,21 @@ Seven layers, each with publisher, licence, as-of date and method in `data/moder
 - Citation markers were moved before the full stop ("… honey' [1].") to match the rest of the site, so the validator can check every sentence.
 - The research linked each topic to whole polities (e.g. the Mandate for the 1929 riots), which made topics appear across decades. Each topic is now linked to the specific conflicts, events and migrations it is about; the validator checks that these links exist.
 - Gaps: not read directly: W. Khalidi's "Plan Dalet", Masalha's *Expulsion*, the Levy Report, the ICRC commentary on Article 49, the Turkel Commission. No Israeli government source rejecting the 2024 ICJ opinion or the 2025 UN commission report; Hamas's "Our Narrative" and Israel's ICJ pleadings only via press and UN summaries. Three publication years (Hoffmeier, Hagopian & Zahlan, Morris 1987) were filled from catalogue knowledge, as the source notes say.
+
+## 2026-10-19 — Milestone 8: data deepening
+
+### Scholarly sources for 330 BCE – 640 CE (group A)
+
+All 83 records in this period that rested only on reference works (mostly Britannica) now cite at least two further sources: 269 source references, 45 new works. Ancient authors in standard translations (Diodorus, Polybius, Cassius Dio, Tacitus, Ammianus, Josephus, 1 Maccabees, the Mishnah and Talmud, the Acts of Chalcedon, Antiochus Strategos, al-Baladhuri), Schürer's *History of the Jewish People* (dated, and noted as such), Di Segni (2018), Eck (1999), Encyclopaedia Iranica, the TDV İslâm Ansiklopedisi, the Encyclopaedia Judaica (2007), Bryn Mawr Classical Review summaries of recent monographs, and De Imperatoribus Romanis.
+
+Corrections applied (each quoting both the old and the new basis):
+- The Ptolemaic hold on Palestine starts c. 319/318 BCE, not 323: Diodorus has Syria under the satrap Laomedon until Ptolemy's general took it.
+- Zenon's journey: November 260 – c. June 259 BCE (was 259).
+- The division into three Palestines: by the early 5th century (latest 451), following Di Segni; Palaestina Salutaris dates from c. 357/8.
+- Agrippa I's tetrarchy may have begun only in 40 CE; Agrippa II's death c. 93 with a latest of 100 CE (Jacobson argues for 94/95; Schürer 100).
+- Philip's tetrarchy: Iturea proper was not part of it (Josephus, Schürer); the Jewish Encyclopedia statement is no longer used for the map.
+- Notes added on: the 312–311 and 302 episodes under Antigonus; Myers on the Ituraeans; the Decapolis outliving 106; the 34–37 CE status of Philip's lands; the Sasanian span conventions; al-Baladhuri's dates for Jerusalem and Caesarea; Bernhardt's view of Antiochus IV's decrees; Luke's census and the date of Jesus' birth; the rabbinic sources on Yavne; the redaction of the Jerusalem Talmud; Tacitus on Cumanus and Felix.
+
+Texts changed by these corrections lost their Arabic and Hebrew drafts and were drafted again.
+
+Gaps: the end of Ptolemy I's reign and the start of Ptolemy II's co-regency; the 616 step to direct Sasanian rule (still Howard-Johnston alone); Bostra as capital of Provincia Arabia; no open-access modern Arab or Palestinian scholarship on the conquest of 634–640 was found.

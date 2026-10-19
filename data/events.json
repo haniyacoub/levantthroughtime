@@ -1714,8 +1714,9 @@
       },
       "kind": "economic",
       "date": {
-        "year": -259,
-        "precision": "year"
+        "year": -260,
+        "month": 11,
+        "precision": "month"
       },
       "description": {
         "en": "Zenon, business manager of Ptolemy II's chief minister, travelled through Palestine and Syria; his letters are the main evidence for trade and administration in Ptolemaic Palestine.",
@@ -1733,6 +1734,26 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "The Ptolemies",
           "quote": "In 259 Zenon was sent to Palestine and Syria, where his master had commercial interests."
+        },
+        {
+          "ref": "trismegistos-zenon-archive-vandorpe",
+          "locator": "Phase I, p. 3",
+          "quote": "Palestine was at that time in the hands of the Ptolemies, but the area was contested by the Seleucid kings."
+        },
+        {
+          "ref": "bmcr-lichtenberger-2024-johannsen",
+          "locator": "review, para. 4",
+          "quote": "Another important broker was Tobias, a Jewish ruler in Transjordan who was active under Ptolemy II and who is also mentioned in the Zenon Papyri."
+        },
+        {
+          "ref": "trismegistos-zenon-archive-vandorpe",
+          "locator": "Phase I, p. 3",
+          "quote": "One year later, in November 260, Zenon is about to leave Egypt for Palestine, where he tours around as a business representative of Apollonios."
+        },
+        {
+          "ref": "trismegistos-zenon-archive-vandorpe",
+          "locator": "Phase I, p. 3",
+          "quote": "ends his trip at the coast in Ptolemais Akko ca. June 259"
         }
       ],
       "notes": {
@@ -1743,6 +1764,12 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "end": {
+        "year": -259,
+        "month": 6,
+        "circa": true,
+        "precision": "month"
       }
     },
     {
@@ -2027,16 +2054,25 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "The Seleucids",
           "quote": "such as the prohibition of circumcision and the abolition of the observance of the Sabbath—was punishable by death"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 1:59",
+          "quote": "Now the five and twentieth day of the month they did sacrifice upon the idol altar, which was upon the altar of God."
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 12.5.4 (Whiston)",
+          "quote": "in the hundred forty and fifth year, on the twenty-fifth day of that month which is by us called Chasleu, and by the Macedonians Apelleus, in the hundred and fifty-third olympiad"
+        },
+        {
+          "ref": "bmcr-vanhenten-2018-bernhardt",
+          "locator": "review, summary of ch. 6",
+          "quote": "So Antiochus interfered in the cult in Jerusalem, but did not organize a systematic persecution and a ban of Judean religion, as 1 and 2 Maccabees imply"
         }
       ],
       "notes": {
-        "en": "1 Maccabees dates the setting-up of the altar to 15 Kislev and the first sacrifice on it (1:59) to 25 Kislev of Seleucid year 145, usually equated with December 167 BCE (as in Britannica's Maccabees article); Britannica's Palestine article gives 168 BCE. The revolt itself is recorded separately.",
-        "ar": "يؤرخ سفر المكابيين الأول إقامة المذبح بـ 15 كسلو وأول ذبيحة عليه (1:59) بـ 25 كسلو من السنة السلوقية 145، وتُعادَل عادة بكانون الأول/ديسمبر 167 ق.م. (كما في مقالة بريتانيكا عن المكابيين)؛ وتعطي مقالتها عن فلسطين 168 ق.م. والثورة نفسها مسجلة منفصلة.",
-        "he": "מקבים א' מתארך את הקמת המזבח ל-15 בכסלו ואת הקרבן הראשון עליו (א' 59) ל-25 בכסלו בשנה הסלווקית 145, המזוהה בדרך כלל עם דצמבר 167 לפנה״ס (כמו במאמר של בריטניקה על המכבים); המאמר שלה על פלשתינה נותן 168 לפנה״ס. המרד עצמו רשום בנפרד.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "1 Maccabees dates the setting-up of the altar to 15 Kislev and the first sacrifice on it (1:59) to 25 Kislev of Seleucid year 145, usually equated with December 167 BCE (as in Britannica's Maccabees article); Britannica's Palestine article gives 168 BCE. The revolt itself is recorded separately. Interpretation is debated: J. C. Bernhardt (2017, as summarised in BMCR 2018.11.36) argues that Antiochus intervened in the Jerusalem cult as a punitive measure but did not organise a systematic persecution or a ban of Judaism, which he sees as largely a Hasmonean foundation story in 1 and 2 Maccabees."
       }
     },
     {
@@ -2090,6 +2126,26 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "The Seleucids",
           "quote": "after three years of intermittent warfare he succeeded in purifying the Temple (165 bce)"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 4:52",
+          "quote": "Now on the five and twentieth day of the ninth month, which is called the month Casleu, in the hundred forty and eighth year"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 12.7.7 (Whiston)",
+          "quote": "And from that time to this we celebrate this festival, and call it Lights."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 4, pp. 216-217 (older chronology)",
+          "quote": "on 25th Chisleu, in the Seleucid year 148, or December B.C. 165"
+        },
+        {
+          "ref": "livius-babylonian-king-list-hellenistic",
+          "locator": "reverse line 14 (death of Antiochus IV reported in the same Seleucid year and month)",
+          "quote": "Year 148, Kislîmu [= month IX]: It was heard that An(tiochus IV), the k[ing died]."
         }
       ],
       "notes": {
@@ -2483,16 +2539,35 @@
           "ref": "britannica-jesus",
           "locator": "Summary of Jesus’ life",
           "quote": "Although born in Bethlehem, according to Matthew and Luke, Jesus was a Galilean from Nazareth"
+        },
+        {
+          "ref": "kjv-gospels-gutenberg",
+          "locator": "Matthew 2:1",
+          "quote": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king"
+        },
+        {
+          "ref": "kjv-gospels-gutenberg",
+          "locator": "Luke 2:2",
+          "quote": "(And this taxing was first made when Cyrenius was governor of Syria.)"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 3, on Nicolas of Damascus (c. p. 57)",
+          "quote": "immediately after the death of Herod, in B.C. 4"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Excursus I, The Census of Quirinius, p. 107",
+          "quote": "in a.d. 6 or 7, proceeded to make a census"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Excursus I, p. 107",
+          "quote": "he places it in the last days of Herod the Great, that is, somewhere about ten or twelve years earlier"
         }
       ],
       "notes": {
-        "en": "The date window is inferred from the Gospels' statement that Jesus was born under Herod the Great (died 4 BCE). Bethlehem as birthplace rests on the Gospels of Matthew and Luke; Jesus grew up in Nazareth in Galilee.",
-        "ar": "يُستنتج نطاق التاريخ من قول الأناجيل إن يسوع وُلد في عهد هيرودس الكبير (توفي 4 ق.م.). وكون بيت لحم مكان الولادة يستند إلى إنجيلي متى ولوقا؛ ونشأ يسوع في الناصرة في الجليل.",
-        "he": "טווח התאריך נגזר מהאמירה באוונגליונים שישו נולד בימי הורדוס הגדול (מת ב-4 לפנה״ס). בית לחם כמקום הלידה נשען על האוונגליונים של מתי ולוקס; ישו גדל בנצרת שבגליל.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "The date window is inferred from the Gospels' statement that Jesus was born under Herod the Great (died 4 BCE). Bethlehem as birthplace rests on the Gospels of Matthew and Luke; Jesus grew up in Nazareth in Galilee. Luke also links the birth to a census under Quirinius (Cyrenius), governor of Syria, which Josephus places in 6/7 CE, ten or more years after Herod's death; scholars have long debated how, or whether, the two datings can be reconciled."
       }
     },
     {
@@ -2685,6 +2760,21 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "Roman Palestine",
           "quote": "After the destruction of Jerusalem, a legion (X Fretensis) was stationed on the site"
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 6.4.5 (Whiston)",
+          "quote": "it was the tenth day of the month Lous, [Ab,] upon which it was formerly burnt by the king of Babylon"
+        },
+        {
+          "ref": "tacitus-histories-5-moore",
+          "locator": "Tacitus, Histories 5.1 (70 CE)",
+          "quote": "Titus Caesar, who had been selected by his father to complete the subjugation of Judea"
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.14.4 (Whiston), outbreak of the war",
+          "quote": "at the same time began the war, in the twelfth year of the reign of Nero, and the seventeenth of the reign of Agrippa"
         }
       ],
       "notes": {
@@ -2736,16 +2826,35 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "Roman Palestine",
           "quote": "The Jews, deprived of the Temple, founded a new religious center in the rabbinical school of Jamnia (Jabneh)."
+        },
+        {
+          "ref": "sefaria-bavli-gittin-56b",
+          "locator": "Gittin 56b",
+          "quote": "Give me Yavne and its Sages"
+        },
+        {
+          "ref": "sefaria-mishnah-rosh-hashanah-4-1",
+          "locator": "Mishnah Rosh Hashanah 4:1",
+          "quote": "Rabbi Elazar said: Rabban Yoḥanan ben Zakkai instituted this practice only in Yavne,"
+        },
+        {
+          "ref": "ej-2007-jabneh",
+          "locator": "historical section (M. Avi-Yonah)",
+          "quote": "After the fall of Jerusalem, the Sanhedrin was reconstituted at Jabneh, first under R. Johanan and then under the patriarch Rabban Gamaliel ii"
+        },
+        {
+          "ref": "sefaria-mishnah-rosh-hashanah-4-1",
+          "locator": "Mishnah Rosh Hashanah 4:1",
+          "quote": "After the Temple was destroyed, Rabban Yoḥanan ben Zakkai instituted that the people should sound the shofar on Shabbat"
+        },
+        {
+          "ref": "ej-2007-jabneh",
+          "locator": "historical section (M. Avi-Yonah)",
+          "quote": "With the outbreak of the Bar Kokhba Revolt, Jabneh ceased to be the center of Jewish life"
         }
       ],
       "notes": {
-        "en": "Approximate date (after 70 CE). Later rabbinic tradition credits Rabban Yohanan ben Zakkai with founding the academy; that tradition was not checked against a primary text here. Coordinates are those of the modern town of Yavne.",
-        "ar": "تاريخ تقريبي (بعد 70 م). وتنسب التقاليد الحاخامية اللاحقة تأسيس المدرسة إلى الربّان يوحنان بن زكاي؛ ولم يُتحقق من هذا التقليد بنص أصلي هنا. والإحداثيات هي إحداثيات بلدة يبنة الحديثة.",
-        "he": "תאריך מקורב (אחרי 70 לספירה). המסורת הרבנית המאוחרת מייחסת לרבן יוחנן בן זכאי את ייסוד בית המדרש; מסורת זו לא נבדקה כאן מול טקסט ראשוני. הקואורדינטות הן של העיר המודרנית יבנה.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Approximate date (after 70 CE). Rabbinic tradition credits Rabban Yohanan ben Zakkai: the Mishnah (Rosh Hashanah 4:1) has him issue rulings at Yavne after the Temple's destruction, and a later Babylonian Talmud story (Gittin 56b) has him ask Vespasian for 'Yavne and its Sages'. Avi-Yonah (Encyclopaedia Judaica) describes Yavne as the seat of the reconstituted Sanhedrin, under Yohanan and then Rabban Gamaliel II, until the Bar Kokhba revolt. The Talmud story is late legend rather than a contemporary record. Coordinates are those of the modern town of Yavne."
       }
     },
     {
@@ -3196,15 +3305,15 @@
       },
       "kind": "administrative",
       "date": {
-        "year": 390,
-        "precision": "decade",
+        "year": 400,
         "circa": true,
-        "latest": 400
+        "precision": "decade",
+        "latest": 451
       },
       "description": {
-        "en": "At the end of the 4th century the enlarged province of Palaestina was divided into Palaestina Prima (capital Caesarea), Palaestina Secunda (capital Scythopolis/Beit She'an) and Palaestina Salutaris (capital Petra or Elusa).",
-        "ar": "في نهاية القرن الرابع قُسّمت ولاية فلسطين الموسّعة إلى فلسطين الأولى (عاصمتها قيصرية) وفلسطين الثانية (عاصمتها سكيثوبوليس/بيسان) وفلسطين السالوتاريس (عاصمتها البتراء أو إيلوسا).",
-        "he": "בסוף המאה ה־4 חולקה מחוז פלשתינה המורחב לפלשתינה הראשונה (בירתה קיסריה), פלשתינה השנייה (בירתה סקיתופוליס/בית שאן) ופלשתינה הסלוטריס (בירתה פטרה או אלוסה).",
+        "en": "By the early 5th century the enlarged province of Palaestina had been divided into Palaestina Prima (capital Caesarea), Palaestina Secunda (capital Scythopolis/Beit She'an) and Palaestina Salutaris (capital Petra or Elusa).",
+        "ar": "بحلول أوائل القرن الخامس كانت ولاية فلسطين الموسّعة قد قُسّمت إلى فلسطين الأولى (عاصمتها قيصرية) وفلسطين الثانية (عاصمتها سكيثوبوليس/بيسان) وفلسطين السالوتاريس (عاصمتها البتراء أو إيلوسا).",
+        "he": "עד ראשית המאה ה־5 חולק מחוז פלשתינה המורחב לפלשתינה הראשונה (בירתה קיסריה), פלשתינה השנייה (בירתה סקיתופוליס/בית שאן) ופלשתינה הסלוטריס (בירתה פטרה או אלוסה).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -3227,6 +3336,21 @@
           "ref": "jewish-encyclopedia-procurators",
           "locator": "later governors",
           "quote": "follows the chronology of Mommsen, who places the division of Syria, Phenicia, and Palestine at about 395-399"
+        },
+        {
+          "ref": "disegni-2018-liber-annuus",
+          "locator": "abstract",
+          "quote": "Internal changes occurred in Palaestina, with the creation of Palaestina Salutaris ca. 357/8."
+        },
+        {
+          "ref": "npnf-chalcedon-acts-percival",
+          "locator": "Session VII, Decree on the Jurisdiction of Jerusalem and Antioch (451)",
+          "quote": "the most holy Juvenal, bishop of Jerusalem, or rather the most holy Church which is under him, shall have under his own power the three Palestines"
+        },
+        {
+          "ref": "disegni-2018-liber-annuus",
+          "locator": "abstract",
+          "quote": "The office of governor of Palaestina Salutaris was discontinued for some years in the 380s, until the reconstitution of this province ca. 389/90, some years before the creation of Palaestina Secunda in the early 5th century."
         }
       ],
       "notes": {
@@ -3284,16 +3408,25 @@
           "ref": "jewish-encyclopedia-talmud",
           "locator": "Activity of Jonah and Jose",
           "quote": "it was approximated to this form, toward the end of the fourth century, by Jonah and Jose, the two directors of the Academy of Tiberias"
+        },
+        {
+          "ref": "ej-2007-talmud-jerusalem",
+          "locator": "section on redaction",
+          "quote": "It is reasonable, therefore, to assume that the Yerushalmi was redacted at about the time of the latest amoraim that are mentioned in it, or about the year 400 c.e."
+        },
+        {
+          "ref": "ej-2007-talmud-jerusalem",
+          "locator": "section on redaction",
+          "quote": "it is usually assumed that it was redacted in Tiberias, perhaps with material deriving from Sepphoris and Caesarea also included"
+        },
+        {
+          "ref": "ej-2007-talmud-jerusalem",
+          "locator": "section on Yerushalmi Neziqin",
+          "quote": "the Jerusalem Talmud to Nezikin represents the school of Caesarea, where it was compiled about the middle of the fourth century c.e."
         }
       ],
       "notes": {
-        "en": "Based on the Jewish Encyclopedia (1906), which is dated scholarship; it implies a final form around 400-425. Despite its name the work was compiled in Galilee, not Jerusalem.",
-        "ar": "يستند إلى الموسوعة اليهودية (1906)، وهي دراسة قديمة التاريخ؛ وتفترض صيغة نهائية نحو 400-425. ورغم اسمه جُمع العمل في الجليل لا في القدس.",
-        "he": "מבוסס על האנציקלופדיה היהודית (1906), מחקר ישן יחסית; היא מניחה צורה סופית בסביבות 400-425. למרות שמו נערך החיבור בגליל ולא בירושלים.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Modern estimates put the redaction around 400 CE (Encyclopaedia Judaica, 2nd ed., 2007), usually assumed to have been in Tiberias; S. Lieberman argued that the tractates of Neziqin were compiled earlier, in Caesarea, about the mid-4th century. The older view tying the end of the work to c. 425 comes from the Jewish Encyclopedia (1906). Despite its name the work was compiled in Galilee (and possibly Caesarea), not Jerusalem."
       }
     },
     {
@@ -3405,6 +3538,16 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "Roman Palestine",
           "quote": "When Juvenal returned from Chalcedon, having signed the Council’s canons, the monks of Palestine rose and elected another bishop of Jerusalem"
+        },
+        {
+          "ref": "npnf-chalcedon-acts-percival",
+          "locator": "Session VII, Decree on the Jurisdiction of Jerusalem and Antioch",
+          "quote": "the most holy Juvenal, bishop of Jerusalem, or rather the most holy Church which is under him, shall have under his own power the three Palestines"
+        },
+        {
+          "ref": "npnf-chalcedon-acts-percival",
+          "locator": "Session VII",
+          "quote": "the most holy bishop Maximus, or rather the most holy church of Antioch, shall have under its own jurisdiction the two Phœnicias and Arabia"
         }
       ],
       "notes": {

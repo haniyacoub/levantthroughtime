@@ -61,6 +61,21 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "Roman Palestine",
             "quote": "the country enjoyed peace and prosperity until 611, when Khosrow II, king of Persia, launched an invasion of Byzantine territory"
+          },
+          {
+            "ref": "dir-arcadius-nathan",
+            "locator": "Introduction and Early Life",
+            "quote": "In January of 395, Theodosius the Great died and his two sons took theoretical control of the two halves of the Roman Empire."
+          },
+          {
+            "ref": "antiochus-strategos-conybeare-1910",
+            "locator": "siege of Jerusalem (614)",
+            "quote": "The beginning of the struggle of the Persians with the Christians of Jerusalem was on the 15th April, in the second indiction, in the fourth year of the Emperor Heraclius."
+          },
+          {
+            "ref": "tdv-bizans",
+            "locator": "section on Heraclius",
+            "quote": "611’de Antakya, 613’te Dımaşk, 614’te Kudüs, 619’da Mısır’ı zaptetmişlerdi."
           }
         ],
         "id": "byzantine-empire-1",
@@ -133,6 +148,21 @@
             "ref": "howard-johnston-iranica-khosrow-ii",
             "locator": "end of the war",
             "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+          },
+          {
+            "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+            "locator": "review, summary of ch. 6",
+            "quote": "is devoted to the period of 628-633, i.e. to Byzantium after the victory over Persia on the eve of the Arab invasion"
+          },
+          {
+            "ref": "tdv-ecnadeyn-savasi",
+            "locator": "battle account",
+            "quote": "Ancak savaş müslümanların kesin zaferiyle sonuçlandı (28 Cemâziyelevvel 13 / 30 Temmuz 634)."
+          },
+          {
+            "ref": "tdv-yermuk-savasi",
+            "locator": "battle account",
+            "quote": "12 Receb 15 (20 Ağustos 636) tarihinde cereyan eden savaşta Bizans ordusu ağır bir yenilgiye uğradı"
           }
         ],
         "id": "byzantine-empire-2",
@@ -174,6 +204,21 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "The rise of Islam",
             "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+          },
+          {
+            "ref": "tdv-hulefa-yi-rasidin",
+            "locator": "section on Umar",
+            "quote": "Halife Ömer 17 (638) yılında bizzat gelerek şehri Patrik Sophronios’tan teslim aldı"
+          },
+          {
+            "ref": "tdv-hulefa-yi-rasidin",
+            "locator": "section on Umar",
+            "quote": "Daha sonra da Askalân ile (19/640) Kaysâriye (20 yılı başları / 640 sonu) başta olmak üzere diğer şehirler ele geçirildi."
+          },
+          {
+            "ref": "hitti-1916-baladhuri",
+            "locator": "Palestine chapter, p. 217",
+            "quote": "Its conquest took place in Shauwal, year 19."
           }
         ],
         "id": "byzantine-empire-3",

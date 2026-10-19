@@ -37,6 +37,26 @@
             "ref": "jewish-encyclopedia-iturea",
             "locator": "entry",
             "quote": "the Iturean kingdom lay north of Galilee"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 14.7.4 (Whiston)",
+            "quote": "Ptolemy, the son of Menneus, who was the ruler of Chalcis, under Mount Libanus"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17a, note on Iturea (p. 12)",
+            "quote": "The Itureans proper had their dwelling in the Lebanon"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 15.10.3 (Whiston), c. 20 BCE",
+            "quote": "so Caesar bestowed his country, which was no small one, upon Herod; it lay between Trachon and Galilee, and contained Ulatha, and Paneas, and the country round about."
+          },
+          {
+            "ref": "bmcr-winger-2011-myers-ituraeans",
+            "locator": "review, para. 6",
+            "quote": "the Ituraeans had established a principality within the southern Biqa' valley by the middle of the first century BCE"
           }
         ],
         "notes": {
@@ -84,6 +104,21 @@
             "ref": "jewish-encyclopedia-iturea",
             "locator": "entry",
             "quote": "That Iturea was in the region of Mount Lebanon is confirmed by an inscription of about the year 6 C.E."
+          },
+          {
+            "ref": "cassius-dio-59-cary",
+            "locator": "Cassius Dio 59.12.2 (38 CE)",
+            "quote": "Meanwhile he granted to Sohaemus the land of the Ituraean Arabians"
+          },
+          {
+            "ref": "tacitus-annals-12-jackson",
+            "locator": "Tacitus, Annals 12.23 (49 CE)",
+            "quote": "Ituraea and Judaea, on the death of their sovereigns, Sohaemus and Agrippa, were attached to the province of Syria."
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17a, note on Iturea (p. 12)",
+            "quote": "during the period a.d. 38-49 were under the sovereignty of a certain Soemus"
           }
         ],
         "id": "ituraean-principality-2",

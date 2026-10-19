@@ -39,6 +39,16 @@
             "ref": "britannica-herod-agrippa-i",
             "locator": "article",
             "quote": "king of the former realm of his uncle Philip the Tetrarch and of an adjoining region"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 18.6.10 (Whiston), 37 CE",
+            "quote": "appointed him to be king of the tetrarchy of Philip. He also gave him the tetrarchy of Lysanias"
+          },
+          {
+            "ref": "dir-gaius-fagan",
+            "locator": "Gaius and the Empire",
+            "quote": "Herod Agrippa was appointed to a kingdom in Palestine"
           }
         ],
         "id": "kingdom-of-agrippa-i-1",
@@ -53,7 +63,8 @@
         "start": {
           "year": 39,
           "circa": true,
-          "precision": "year"
+          "precision": "year",
+          "latest": 40
         },
         "end": {
           "year": 41,
@@ -87,6 +98,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "The tetrarchy of Antipas was added soon after his removal in 39"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 18.7.2 (Whiston)",
+            "quote": "So he took away from him his tetrarchy, and gave it by way of addition to Agrippa's kingdom"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.9.6 (Whiston)",
+            "quote": "to whom also Caius gave his tetrarchy, by way of addition"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17b, note on the date (p. 37)",
+            "quote": "Agrippa obtained the tetrarchy of Antipas in the beginning of A.D. 40."
           }
         ],
         "id": "kingdom-of-agrippa-i-2",
@@ -142,6 +168,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "the territories of Judaea, Samaria, and Edom were added in 41"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 19.5.1 (Whiston), 41 CE",
+            "quote": "He also made all addition to it of all that country over which Herod, who was his grandfather, had reigned, that is, Judea and Samaria"
+          },
+          {
+            "ref": "dir-claudius-fagan",
+            "locator": "section on client kings",
+            "quote": "he was granted Judaea and Samaria in addition to his former holdings"
+          },
+          {
+            "ref": "dir-claudius-fagan",
+            "locator": "section on client kings",
+            "quote": "He died suddenly in 44 A.D., after which his former kingdom again came under direct Roman rule."
           }
         ],
         "id": "kingdom-of-agrippa-i-3",

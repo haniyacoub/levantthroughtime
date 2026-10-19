@@ -51,6 +51,21 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "Roman Palestine",
             "quote": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem."
+          },
+          {
+            "ref": "eck-1999-jrs",
+            "locator": "n. 16 (Cambridge Core footnotes)",
+            "quote": "the name of the province of Judaea has already been changed to Syria Palaestina, it must be inferred that AE 1904.9 was written after the conclusion of the war in Judaea, i.e. in 136."
+          },
+          {
+            "ref": "eck-1999-jrs",
+            "locator": "n. 97",
+            "quote": "The first city coins displaying Syria Palaestina come from Neapolis Sebaste, and were minted under Antoninus Pius"
+          },
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract (end of this phase c. 300)",
+            "quote": "No territorial changes occurred between Palestine and Arabia after the transfer of southern Transjordan, the Negev and most of the Sinai Peninsula from Arabia to Palaestina under the Tetrarchy."
           }
         ],
         "id": "syria-palaestina-1",
@@ -184,10 +199,28 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "Roman Palestine",
             "quote": "in 357–358 (or perhaps as late as the 390s) the addition was made a separate province under the name of Palaestina or Salutaris (later Palaestina Tertia)"
+          },
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract",
+            "quote": "Internal changes occurred in Palaestina, with the creation of Palaestina Salutaris ca. 357/8."
+          },
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract",
+            "quote": "The office of governor of Palaestina Salutaris was discontinued for some years in the 380s, until the reconstitution of this province ca. 389/90, some years before the creation of Palaestina Secunda in the early 5th century."
+          },
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract",
+            "quote": "until the reconstitution of this province ca. 389/90"
           }
         ],
         "id": "syria-palaestina-3",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Di Segni (2018) dates the creation of Palaestina Salutaris to c. 357/8; its governorship lapsed for some years in the 380s and was restored c. 389/90. The northern division (Palaestina Secunda) followed only in the early 5th century, which is why the end date runs to 409 at the latest."
+        }
       }
     }
   ]

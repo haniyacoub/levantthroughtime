@@ -53,6 +53,16 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "The rise of Islam",
             "quote": "All of Palestine then lay open to the invaders."
+          },
+          {
+            "ref": "hitti-1916-baladhuri",
+            "locator": "Part II ch. IV, p. 175",
+            "quote": "This battle of Ajnadin took place on Monday twelve days before the end of Jumada I, year 13."
+          },
+          {
+            "ref": "tdv-ecnadeyn-savasi",
+            "locator": "concluding paragraph",
+            "quote": "Ecnâdeyn Savaşı ile Filistin ve Suriye’nin kapıları müslümanlara açılmış, iki yıl sonra kazanılan Yermük zaferiyle de bölgenin fethi tamamlanmıştır."
           }
         ],
         "id": "rashidun-caliphate-1",
@@ -122,6 +132,26 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "The rise of Islam",
             "quote": "The decisive battle that delivered Palestine to the Muslims took place on August 20, 636."
+          },
+          {
+            "ref": "tdv-yermuk-savasi",
+            "locator": "battle account",
+            "quote": "12 Receb 15 (20 Ağustos 636) tarihinde cereyan eden savaşta Bizans ordusu ağır bir yenilgiye uğradı"
+          },
+          {
+            "ref": "hitti-1916-baladhuri",
+            "locator": "Yarmuk chapter, c. p. 209",
+            "quote": "The battle of al-Yarmuk took place in Rajab, year 15."
+          },
+          {
+            "ref": "tdv-kudus",
+            "locator": "section 2 (C. Avcı), conquest",
+            "quote": "Hz. Ömer, Ebû Ubeyde’nin daveti üzerine Câbiye’den Kudüs’e gelerek şehri Patrik Sophronios’tan teslim aldı ve anlaşmayı imzaladı (17/638)."
+          },
+          {
+            "ref": "tdv-hulefa-yi-rasidin",
+            "locator": "section on Umar",
+            "quote": "Daha sonra da Askalân ile (19/640) Kaysâriye (20 yılı başları / 640 sonu) başta olmak üzere diğer şehirler ele geçirildi."
           }
         ],
         "notes": {
@@ -197,6 +227,16 @@
             "ref": "britannica-palestine-roman-to-fatimid",
             "locator": "The rise of Islam",
             "quote": "Palestine, and indeed all of Syria, was then in Muslim hands."
+          },
+          {
+            "ref": "hitti-1916-baladhuri",
+            "locator": "Palestine chapter, p. 217",
+            "quote": "Its conquest took place in Shauwal, year 19."
+          },
+          {
+            "ref": "tdv-hulefa-yi-rasidin",
+            "locator": "introduction (end of the Rashidun period)",
+            "quote": "Muâviye b. Ebû Süfyân’a bıraktığı güne kadar (25 Rebîülevvel 41/29 Temmuz 661)"
           }
         ],
         "id": "rashidun-caliphate-3",

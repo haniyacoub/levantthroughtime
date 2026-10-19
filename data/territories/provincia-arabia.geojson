@@ -48,6 +48,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Hasmonean priest-princes",
             "quote": "It appears that Philadelphia, Gerasa, and probably Dion went to Arabia"
+          },
+          {
+            "ref": "cassius-dio-roman-history",
+            "locator": "Cassius Dio 68.14.5 (book LXVIII page)",
+            "quote": "About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans."
+          },
+          {
+            "ref": "ammianus-14-rolfe",
+            "locator": "Ammianus 14.8.13",
+            "quote": "This region also has, in addition to some towns, great cities, Bostra, Gerasa and Philadelphia, all strongly defended by mighty walls."
+          },
+          {
+            "ref": "disegni-2018-liber-annuus",
+            "locator": "abstract (end of this phase c. 300)",
+            "quote": "No territorial changes occurred between Palestine and Arabia after the transfer of southern Transjordan, the Negev and most of the Sinai Peninsula from Arabia to Palaestina under the Tetrarchy."
           }
         ],
         "id": "provincia-arabia-1",

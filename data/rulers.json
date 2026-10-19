@@ -1767,6 +1767,21 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "Alexander",
           "quote": "who established himself as satrap in Egypt that same year and adopted the title of king by 304"
+        },
+        {
+          "ref": "diodorus-18-geer",
+          "locator": "Diodorus 18.39.5 (321/320 BCE)",
+          "quote": "To Ptolemy he assigned what was already his, for it was impossible to displace him"
+        },
+        {
+          "ref": "diodorus-18-geer",
+          "locator": "Diodorus 18.43.2 (c. 319/318 BCE)",
+          "quote": "The latter marched into Syria, took the satrap Laomedon captive, and subdued the whole land."
+        },
+        {
+          "ref": "diodorus-20-geer",
+          "locator": "Diodorus 20.53.3 (306/305 BCE)",
+          "quote": "Ptolemy, however, not at all humbled in spirit by his defeat, also assumed the diadem and always signed himself king."
         }
       ],
       "notes": {
@@ -1824,6 +1839,16 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "The Ptolemies",
           "quote": "the chief minister of Ptolemy II (Philadelphus; 285–246 bce)"
+        },
+        {
+          "ref": "trismegistos-zenon-archive-vandorpe",
+          "locator": "Phase IV, p. 5",
+          "quote": "on 28 January 246, Ptolemy III succeeds his father as king"
+        },
+        {
+          "ref": "bmcr-lichtenberger-2024-johannsen",
+          "locator": "review, para. 4",
+          "quote": "Another important broker was Tobias, a Jewish ruler in Transjordan who was active under Ptolemy II and who is also mentioned in the Zenon Papyri."
         }
       ],
       "notes": {
@@ -1876,6 +1901,21 @@
           "ref": "britannica-seleucid-kingdom",
           "locator": "article text",
           "quote": "Antiochus III the Great (223–187)"
+        },
+        {
+          "ref": "livius-babylonian-king-list-hellenistic",
+          "locator": "reverse lines 2-3",
+          "quote": "Year 90 [222/221]: An(tiochus III the Great), the king, as[cended] the throne."
+        },
+        {
+          "ref": "livius-babylonian-king-list-hellenistic",
+          "locator": "reverse line 7 (Seleucid year 125 = 187 BCE)",
+          "quote": "On the twenty-fifth day An(tiochus III), the king, was killed in Elam"
+        },
+        {
+          "ref": "polybius-16-paton",
+          "locator": "Polybius 16.39.3",
+          "quote": "When Scopas was conquered by Antiochus, that king occupied Samaria, Abila, and Gadara"
         }
       ],
       "notes": {
@@ -1934,6 +1974,21 @@
           "ref": "britannica-seleucid-kingdom",
           "locator": "article text",
           "quote": "the reign of Antiochus IV (175–163)"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 1:10",
+          "quote": "he reigned in the hundred and thirty and seventh year of the kingdom of the Greeks"
+        },
+        {
+          "ref": "livius-babylonian-king-list-hellenistic",
+          "locator": "reverse lines 9-10 (Seleucid year 137 = 175 BCE)",
+          "quote": "ascended the throne. He reigned for eleven years."
+        },
+        {
+          "ref": "livius-babylonian-king-list-hellenistic",
+          "locator": "reverse line 14 (Seleucid year 148 = 164 BCE)",
+          "quote": "Year 148, Kislîmu [= month IX]: It was heard that An(tiochus IV), the k[ing died]."
         }
       ],
       "notes": {
@@ -2003,6 +2058,16 @@
           "ref": "britannica-hanukkah",
           "locator": "article text",
           "quote": "Led by Mattathias and his son Judas Maccabeus (died c. 161 bce)"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 9:3",
+          "quote": "Also the first month of the hundred fifty and second year they encamped before Jerusalem"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "contents of vol. I (older chronology)",
+          "quote": "The Times of Judas Maccabaeus, b.c. 165-161"
         }
       ],
       "notes": {
@@ -2670,6 +2735,21 @@
           "ref": "britannica-herod-antipas",
           "locator": "article text",
           "quote": "About 37 the Nabataean king Aretas IV, whose daughter Antipas had repudiated, attacked Herod’s realm, inflicting severe damage."
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 16.9.4 (Whiston)",
+          "quote": "Obodas was dead; and Aeneas, whose name was afterward changed to Aretas"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Appendix II, History of the Nabataean kings (c. pp. 356-357)",
+          "quote": "till A.D. 40, succeeded Obodas immediately in the possession of the throne"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Appendix II, note on Aretas IV's regnal years on inscriptions and coins",
+          "quote": "but only Aretas IV. can have reigned for so long a time"
         }
       ],
       "notes": {
@@ -2964,6 +3044,16 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "M. Ambibulus (9-12)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.2.2 (Whiston)",
+          "quote": "A little after which accident Coponius returned to Rome, and Marcus Ambivius came to be his successor in that government"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17c, list of procurators 6-41, p. 81 (OCR text)",
+          "quote": "(2) Marcus Ambivius, probably A-D. 9-12"
         }
       ],
       "notes": {
@@ -3018,6 +3108,16 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "Annius Rufus (12-15)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.2.2 (Whiston)",
+          "quote": "After him came Annius Rufus, under whom died Caesar, the second emperor of the Romans"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17c, list of procurators 6-41, p. 81 (OCR text; Eufus = Rufus)",
+          "quote": "(3) Annius Eufus, probably A.D. 12-15"
         }
       ],
       "notes": {
@@ -3263,6 +3363,16 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "C. Cuspius Fadus (44-46)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.5.1 (Whiston)",
+          "quote": "This was what befell the Jews in the time of Cuspius Fadus's government."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.1",
+          "quote": "The first procurator whom Claudius sent to Palestine was Cuspius Fadus"
         }
       ],
       "notes": {
@@ -3315,6 +3425,16 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "Tib. Julius Alexander (46-48)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.5.2 (Whiston)",
+          "quote": "Then came Tiberius Alexander as successor to Fadus"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.2",
+          "quote": "The successor of Fadus was Tiberius Alexander, down to A.D. 48"
         }
       ],
       "notes": {
@@ -3367,16 +3487,25 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "P. Ventidius Cumanus (48-52)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.5.2 (Whiston)",
+          "quote": "And now it was that Cumanus came as successor to Tiberius Alexander"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.3",
+          "quote": "The first rebellion against which Ventidius Cumanus, A.D. 48-52"
+        },
+        {
+          "ref": "tacitus-annals-12-jackson",
+          "locator": "Tacitus, Annals 12.54",
+          "quote": "his worst efforts being emulated by Ventidius Comanus, his colleague in the other half of the province — which was so divided that the natives of Galilee were subject to Ventidius, Samaria to Felix."
         }
       ],
       "notes": {
-        "en": "Removed by the legate of Syria, Ummidius Quadratus, on the petition of the Jews after popular uprisings (Jewish Encyclopedia). Tenure dates are modern reconstructions from Josephus; this record follows the Jewish Encyclopedia (Deutsch & Krauss, 1906) and Livius.org (J. Lendering), which agree here.",
-        "ar": "عزله مبعوث سوريا أُميديوس كوادراتوس بناءً على التماس اليهود بعد انتفاضات شعبية (الموسوعة اليهودية). تواريخ الولاية إعادات بناء حديثة مستندة إلى يوسيفوس؛ ويتبع هذا السجل الموسوعة اليهودية (دويتش وكراوس، 1906) وموقع Livius.org (ج. لندرينغ)، وهما متفقان هنا.",
-        "he": "הודח בידי הלגאט של סוריה, אומידיוס קוואדרטוס, על פי עצומת היהודים לאחר התקוממויות עממיות (האנציקלופדיה היהודית). תאריכי הכהונה הם שחזורים מודרניים על סמך יוספוס; רשומה זו עוקבת אחר האנציקלופדיה היהודית (דויטש וקראוס, 1906) ו-Livius.org (י. לנדרינג), המסכימים כאן.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Removed by the legate of Syria, Ummidius Quadratus, on the petition of the Jews after popular uprisings (Jewish Encyclopedia). Tenure dates are modern reconstructions from Josephus; this record follows the Jewish Encyclopedia (Deutsch & Krauss, 1906) and Livius.org (J. Lendering), which agree here. Tacitus (Annals 12.54) gives a different picture: Cumanus and Felix governing at the same time, Cumanus over Galilee and Felix over Samaria; most modern reconstructions follow Josephus' succession."
       }
     },
     {
@@ -3407,7 +3536,8 @@
       "end": {
         "year": 93,
         "precision": "year",
-        "circa": true
+        "circa": true,
+        "latest": 100
       },
       "confidence": "estimated",
       "sources": [
@@ -3420,6 +3550,26 @@
           "ref": "britannica-herod-agrippa-ii",
           "locator": "article text",
           "quote": "After the war, his territory was enlarged by Titus, and he apparently survived until 93 ce."
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.5.2 (Whiston)",
+          "quote": "But Claudius Caesar bestowed his dominions on Agrippa, junior."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19 Supplement, p. 193",
+          "quote": "he obtained, though not probably just at once, but only in A.D. 50, his kingdom in the Lebanon"
+        },
+        {
+          "ref": "bmcr-girardin-2020-jacobson-agrippa-ii",
+          "locator": "review, para. 5 (French)",
+          "quote": "pousse l'auteur à dater la mort du roi de l'année 94/5 de notre ère"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "contents of vol. II",
+          "quote": "Supplement, Agrippa II., a.d. 50-100"
         }
       ],
       "notes": {
@@ -3473,16 +3623,35 @@
           "ref": "livius-judaea-governors",
           "locator": "list",
           "quote": "M. Antonius Felix (52-58)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.7.1 (Whiston)",
+          "quote": "Claudius sent Felix, the brother of Pallas, to take care of the affairs of Judea"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.4, pp. 174-175",
+          "quote": "whose name was Felix (a.d. 52—60)"
+        },
+        {
+          "ref": "tacitus-histories-5-moore",
+          "locator": "Tacitus, Histories 5.9",
+          "quote": "one of the latter, Antonius Felix"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.5, pp. 182-183",
+          "quote": "Felix, probably in a,d. 60, was recalled by Nero"
+        },
+        {
+          "ref": "tacitus-annals-12-jackson",
+          "locator": "Tacitus, Annals 12.54",
+          "quote": "who for a while past had held the governorship of Judaea"
         }
       ],
       "notes": {
-        "en": "End of tenure disputed: the Jewish Encyclopedia gives 52-60, Livius.org 52-58 (placing Festus 58-60). A freedman - the only one to govern Judaea (Jewish Encyclopedia); judged the apostle Paul.",
-        "ar": "نهاية الولاية متنازَع عليها: تعطي الموسوعة اليهودية 52-60، وLivius.org 52-58 (مع وضع فستوس في 58-60). عبد محرَّر - وهو الوحيد الذي حكم يهودا (الموسوعة اليهودية)؛ وحاكم الرسول بولس.",
-        "he": "סיום הכהונה שנוי במחלוקת: האנציקלופדיה היהודית נותנת 52-60, Livius.org 52-58 (ממקם את פסטוס ב-58-60). עבד משוחרר - היחיד ששלט ביהודה (האנציקלופדיה היהודית); שפט את השליח פאולוס.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "End of tenure disputed: the Jewish Encyclopedia gives 52-60, Livius.org 52-58 (placing Festus 58-60). A freedman - the only one to govern Judaea (Jewish Encyclopedia); judged the apostle Paul. Schürer (1890) also gives 52-60 and thinks Felix was probably recalled in 60. Tacitus (Annals 12.54) says Felix had held Judaea 'for a while past' alongside Cumanus, governing Samaria while Cumanus held Galilee."
       }
     },
     {
@@ -3642,6 +3811,21 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "Gessius Florus, procurator 64–66, led in 66 to the decisive and final outbreak, known as the First Jewish Revolt"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 20.11.1 (Whiston)",
+          "quote": "Gessius Florus, who was sent as successor to Albinus by Nero, filled Judea with abundance of miseries."
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.14.4 (Whiston)",
+          "quote": "at the same time began the war, in the twelfth year of the reign of Nero, and the seventeenth of the reign of Agrippa"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 19.7, p. 190",
+          "quote": "The last procurator, Gessius Florus, a.d. 64-66"
         }
       ],
       "notes": {

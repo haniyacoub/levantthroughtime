@@ -41,6 +41,16 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "Herod Antipas should rule Galilee and Peraea (east of the Jordan River)"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.6.3 (Whiston)",
+            "quote": "Under this last was Perea and Galilee, with a revenue of two hundred talents"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17b, note on the date (p. 37)",
+            "quote": "The deposition of Antipas took place at Baiae therefore before the 31st August a.d. 39."
           }
         ],
         "id": "tetrarchy-of-herod-antipas-1",

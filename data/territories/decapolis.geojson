@@ -43,6 +43,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Hasmonean priest-princes",
             "quote": "All these cities, except Scythopolis, are located east of the Jordan River, extending from Damascus in the north to Philadelphia in the south."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 14.4.4 (Whiston)",
+            "quote": "All these Pompey left in a state of freedom, and joined them to the province of Syria."
+          },
+          {
+            "ref": "schurer-1910-div2-vol1",
+            "locator": "§ 23.I, p. 95",
+            "quote": "All the towns except Scythopolis lie in the region east of the Jordan."
+          },
+          {
+            "ref": "schurer-1910-div2-vol1",
+            "locator": "§ 23.I, p. 95 (citing Pliny, NH 5.18.74)",
+            "quote": "Pliny, our chief authority"
           }
         ],
         "id": "decapolis-1",

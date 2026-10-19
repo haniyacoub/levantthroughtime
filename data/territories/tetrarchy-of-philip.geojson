@@ -25,13 +25,7 @@
         ],
         "boundary_certainty": "approximate",
         "description": {
-          "en": "Trachonitis, Batanaea and Auranitis, between the Decapolis and Damascus (Iturea also bequeathed to Philip per the Jewish Encyclopedia).",
-          "ar": "تراخونيتس وباتانيا وأورانيتس، بين الديكابوليس ودمشق (وأُوصي لفيليب أيضًا بإيطورية بحسب الموسوعة اليهودية).",
-          "he": "טרכונית, בתניה ואוראניטיס, בין הדקאפוליס לדמשק (איטוראה הוריש גם לפיליפוס לפי האנציקלופדיה היהודית).",
-          "translation_status": {
-            "ar": "machine-draft",
-            "he": "machine-draft"
-          }
+          "en": "Trachonitis, Batanaea and Auranitis, with Gaulanitis and the Paneas district (part of the former domain of Zenodorus), between the Decapolis and Damascus. Iturea proper, in the Lebanon, was not part of it."
         },
         "confidence": "documented",
         "sources": [
@@ -44,6 +38,26 @@
             "ref": "jewish-encyclopedia-iturea",
             "locator": "entry",
             "quote": "Augustus gave Iturea to Herod the Great, who in turn bequeathed it to his son Philip"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.6.3 (Whiston)",
+            "quote": "but Batanea, and Trachonitis, and Auranitis, and certain parts of Zeno's house about Jamnia, with a revenue of a hundred talents, were made subject to Philip"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 17.8.1 (Whiston), Herod's last will",
+            "quote": "He also gave Gaulonitis, and Trachonitis, and Paneas to Philip"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17a, note on Iturea (p. 12)",
+            "quote": "Iturea proper cannot therefore have belonged to the domain of Philip"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 17a, note on Iturea (p. 12)",
+            "quote": "The Itureans proper had their dwelling in the Lebanon"
           }
         ],
         "id": "tetrarchy-of-philip-1",

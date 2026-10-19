@@ -51,6 +51,16 @@
             "ref": "britannica-ptolemaic-dynasty",
             "locator": "Cleopatra VII",
             "quote": "even the rich balsam groves of Jericho"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 15.4.2 (Whiston)",
+            "quote": "Herod met her, and farmed of her parts of Arabia, and those revenues that came to her from the region about Jericho."
+          },
+          {
+            "ref": "cassius-dio-49-cary",
+            "locator": "Cassius Dio 49.22.6",
+            "quote": "These people Antony entrusted to a certain Herod to govern"
           }
         ],
         "id": "herodian-kingdom-1",
@@ -110,6 +120,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "Between 31 and 20, Augustus restored to Herod the Jewish territories that Pompey had taken away"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 15.7.3 (Whiston), 30 BCE",
+            "quote": "restored that country to him again, which, by her means, had been taken away from him."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 15.7.3 (Whiston), 30 BCE",
+            "quote": "He also added to his kingdom Gadara, Hippos, and Samaria; and, besides those, the maritime cities, Gaza, and Anthedon, and Joppa, and Strato's Tower."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 15.10.1 (Whiston), next enlargement (c. 23 BCE)",
+            "quote": "he bestowed on him Trachon, and Batanea, and Auranitis"
           }
         ],
         "id": "herodian-kingdom-2",

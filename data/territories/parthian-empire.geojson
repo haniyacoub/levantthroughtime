@@ -52,6 +52,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "returned to Palestine in 39. Shortly afterward Roman troops expelled the Parthians"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 14.13.3 (Whiston)",
+            "quote": "Now, in the second year, Pacorus, the king of Parthia's son, and Barzapharnes, a commander of the Parthians, possessed themselves of Syria."
+          },
+          {
+            "ref": "iranica-arsacids-ii-schippmann",
+            "locator": "1. History",
+            "quote": "Mounting a counterattack in the year 39 BCE, the Romans defeated first Labienus and then Pacorus, who both lost their lives."
+          },
+          {
+            "ref": "tacitus-histories-5-moore",
+            "locator": "Tacitus, Histories 5.9",
+            "quote": "the Parthian prince, Pacorus, seized Judea, but he was slain by Publius Ventidius, and the Parthians were thrown back across the Euphrates"
           }
         ],
         "id": "parthian-empire-1",

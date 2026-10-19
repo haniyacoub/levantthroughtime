@@ -34,6 +34,21 @@
             "ref": "britannica-herod-agrippa-ii",
             "locator": "article",
             "quote": "Two years later he became king of Chalcis"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.5.2 (Whiston)",
+            "quote": "Herod, brother of Agrippa the great king, departed this life, in the eighth year of the reign of Claudius Caesar."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.5.2 (Whiston)",
+            "quote": "But Claudius Caesar bestowed his dominions on Agrippa, junior."
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 19 Supplement, Agrippa II, p. 193",
+            "quote": "he obtained, though not probably just at once, but only in A.D. 50, his kingdom in the Lebanon"
           }
         ],
         "id": "kingdom-of-agrippa-ii-1",
@@ -52,7 +67,8 @@
         "end": {
           "year": 93,
           "circa": true,
-          "precision": "year"
+          "precision": "year",
+          "latest": 100
         },
         "units": [
           "bashan"
@@ -79,6 +95,31 @@
             "ref": "britannica-herod-agrippa-ii",
             "locator": "article",
             "quote": "in 53 he exchanged this land for Philip the Tetrarch’s former holdings. Nero, the new emperor, in 54 added territory near the Sea of Galilee"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.7.1 (Whiston)",
+            "quote": "when he had already completed the twelfth year of his reign, he bestowed upon Agrippa the tetrarchy of Philip and Batanea, and added thereto Trachonites, with Abila"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.8.4 (Whiston)",
+            "quote": "Caesar also bestowed on Agrippa a certain part of Galilee, Tiberias, and Tarichae"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 19 Supplement, p. 193",
+            "quote": "in the thirteenth year of Claudius, in return for the relinquishment of the small kingdom of Chalcis, he received a larger territory"
+          },
+          {
+            "ref": "bmcr-girardin-2020-jacobson-agrippa-ii",
+            "locator": "review, para. 5 (French)",
+            "quote": "pousse l'auteur à dater la mort du roi de l'année 94/5 de notre ère"
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "contents of vol. II",
+            "quote": "Supplement, Agrippa II., a.d. 50-100"
           }
         ],
         "id": "kingdom-of-agrippa-ii-2",

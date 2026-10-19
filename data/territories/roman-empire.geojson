@@ -67,6 +67,21 @@
             "ref": "britannica-nabataean",
             "locator": "Roman period",
             "quote": "Aretas became a Roman vassal"
+          },
+          {
+            "ref": "dir-augustus-fagan",
+            "locator": "section on the First Settlement",
+            "quote": "the so-called First Constitutional Settlement of 13 January, 27 BC"
+          },
+          {
+            "ref": "tacitus-histories-5-moore",
+            "locator": "Tacitus, Histories 5.9",
+            "quote": "Claudius made Judea a province and entrusted it to Roman knights or to freedmen"
+          },
+          {
+            "ref": "cassius-dio-roman-history",
+            "locator": "Cassius Dio 68.14.5 (book LXVIII page)",
+            "quote": "About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans."
           }
         ],
         "notes": {
@@ -141,6 +156,21 @@
             "ref": "britannica-nabataean",
             "locator": "annexation",
             "quote": "When the Roman emperor Trajan annexed the kingdom (ad 105–106) and set up the new province of Arabia"
+          },
+          {
+            "ref": "ammianus-14-rolfe",
+            "locator": "Ammianus 14.8.13",
+            "quote": "It was given the name of a province, assigned a governor, and compelled to obey our laws by the emperor Trajan"
+          },
+          {
+            "ref": "dir-trajan-benario",
+            "locator": "section on expansion",
+            "quote": "This was the province of Arabia, which followed upon the absorption of the Nabataean kingdom (105-106)."
+          },
+          {
+            "ref": "dir-arcadius-nathan",
+            "locator": "Introduction",
+            "quote": "ruled the eastern and western halves of the Roman Empire respectively from 395"
           }
         ],
         "notes": {

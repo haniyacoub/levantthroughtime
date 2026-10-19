@@ -58,6 +58,21 @@
             "ref": "britannica-pompey",
             "locator": "eastern settlement",
             "quote": "He annexed Syria and left Judaea as a dependent, diminished temple state."
+          },
+          {
+            "ref": "ammianus-14-rolfe",
+            "locator": "Ammianus 14.8.12 (on Palestine)",
+            "quote": "being formed into a province by Pompey, after he had defeated the Jews and taken Jerusalem"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 14.4.4 (Whiston)",
+            "quote": "All these Pompey left in a state of freedom, and joined them to the province of Syria."
+          },
+          {
+            "ref": "schurer-1890-div1-vol1",
+            "locator": "§ 12, pp. 322-323",
+            "quote": "All these towns were immediately put under the rule of the governor of the newly-formed Roman province of Syria."
           }
         ],
         "id": "roman-republic-1",
@@ -121,6 +136,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "Shortly afterward Roman troops expelled the Parthians"
+          },
+          {
+            "ref": "cassius-dio-48-cary",
+            "locator": "Cassius Dio 48.41.4 (39 BCE)",
+            "quote": "later occupied Palestine without trouble, after he had frightened the king, Antigonus, out of the country."
+          },
+          {
+            "ref": "tacitus-histories-5-moore",
+            "locator": "Tacitus, Histories 5.9",
+            "quote": "Antony gave the throne to Herod"
+          },
+          {
+            "ref": "dir-augustus-fagan",
+            "locator": "section on the First Settlement (end of phase)",
+            "quote": "the so-called First Constitutional Settlement of 13 January, 27 BC"
           }
         ],
         "id": "roman-republic-2",

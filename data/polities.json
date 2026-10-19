@@ -2941,16 +2941,40 @@
           "ref": "britannica-antigonus-i",
           "locator": "Ipsus",
           "quote": "In 301 the united armies of Lysimachus and Seleucus engaged the forces of Antigonus and Demetrius at Ipsus in Phrygia."
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.59.2 (315 BCE)",
+          "quote": "he himself set out with the army and took by storm Joppa and Gaza, cities that had refused obedience."
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.105.1 (peace of 311 BCE)",
+          "quote": "that Ptolemy rule Egypt and the cities adjacent thereto in Libya and Arabia; that Antigonus have first place in all Asia"
+        },
+        {
+          "ref": "diodorus-20-geer",
+          "locator": "Diodorus 20.53.2 (306 BCE)",
+          "quote": "he assumed the diadem and from that time on he used the style of king"
+        },
+        {
+          "ref": "diodorus-21-walton",
+          "locator": "Diodorus 21.1.5 (after Ipsus, 301 BCE)",
+          "quote": "But Ptolemy had already occupied the cities of that region"
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.93.7 (311 BCE)",
+          "quote": "he razed the most noteworthy of the cities that he had captured: Akê in Phoenician Syria, and Ioppê, Samaria, and Gaza in Syria"
+        },
+        {
+          "ref": "diodorus-20-geer",
+          "locator": "Diodorus 20.113.1 (302 BCE)",
+          "quote": "King Ptolemy, setting out from Egypt with an army of considerable size, subjugated all the cities of Coelê-Syria"
         }
       ],
       "notes": {
-        "en": "Entry covers only the period when Antigonus held Syria (incl. Palestine) during the wars of the successors; he took the royal title in 306 and died at Ipsus in 301. His son Demetrius was defeated at Gaza in 312 by Ptolemy and Seleucus, after which Ptolemy briefly advanced into the region (details not covered by the sources used). The Britannica Palestine article simplifies the period, stating that Palestine fell to Ptolemy after 323 BCE.",
-        "ar": "يغطي السجل فقط الفترة التي حكم فيها أنتيغونوس سوريا (بما فيها فلسطين) خلال حروب الخلفاء؛ وقد اتخذ اللقب الملكي عام 306 ومات في إبسوس عام 301. وهُزم ابنه ديمتريوس في غزة عام 312 على يد بطلميوس وسلوقس، وتقدم بعدها بطلميوس وجيزًا في المنطقة (التفاصيل غير مغطاة في المصادر المستخدمة). وتبسّط مقالة بريتانيكا عن فلسطين هذه الفترة إذ تذكر أن فلسطين آلت إلى بطلميوس بعد 323 ق.م.",
-        "he": "הרשומה מכסה רק את התקופה שבה החזיק אנטיגונוס בסוריה (כולל פלשתינה) במהלך מלחמות היורשים; הוא נטל את התואר המלכותי ב-306 ומת באיפסוס ב-301. בנו דמטריוס הובס בעזה ב-312 בידי תלמי וסלאוקוס, ואחר כך התקדם תלמי לזמן קצר באזור (הפרטים אינם מכוסים במקורות ששימשו). המאמר של בריטניקה על פלשתינה מפשט את התקופה וקובע שפלשתינה נפלה לתלמי אחרי 323 לפנה״ס.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Entry covers only the period when Antigonus held Syria (incl. Palestine) during the wars of the successors; he took the royal title in 306 and died at Ipsus in 301. Diodorus has him storm Joppa and Gaza in 315. After his son Demetrius was defeated at Gaza in 312, Ptolemy took over Coele Syria and Phoenicia, but withdrew in 311 when Antigonus returned, razing Akko, Joppa, Samaria and Gaza; in 302 Ptolemy again occupied the cities of Coele Syria briefly, and he held them after Ipsus (301). The Britannica Palestine article simplifies the period, stating that Palestine fell to Ptolemy after 323 BCE."
       }
     },
     {
@@ -2993,6 +3017,21 @@
           "ref": "britannica-ptolemaic-dynasty",
           "locator": "end",
           "quote": "His descendants ruled Egypt until the death of Cleopatra VII on August 12, 30 bce."
+        },
+        {
+          "ref": "diodorus-18-geer",
+          "locator": "Diodorus 18.39.5 (Triparadeisus, 321/320 BCE)",
+          "quote": "To Ptolemy he assigned what was already his, for it was impossible to displace him, since he seemed to be holding Egypt by virtue of his own prowess as if it were a prize of war."
+        },
+        {
+          "ref": "bmcr-burstein-2011-grainger-syrian-wars",
+          "locator": "review, para. 1",
+          "quote": "The root cause of the wars was the occupation of Koile Syria by Ptolemy I in 301 BC"
+        },
+        {
+          "ref": "polybius-16-paton",
+          "locator": "Polybius 16.39.3 (quoted by Josephus, Ant. 12.136)",
+          "quote": "When Scopas was conquered by Antiochus, that king occupied Samaria, Abila, and Gadara"
         }
       ],
       "notes": {
@@ -3038,6 +3077,21 @@
           "ref": "britannica-palestine-hellenistic",
           "locator": "The Ptolemies",
           "quote": "finally stilled only when Palestine, in 200 bce, became part of the Seleucid kingdom"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 2c, Chronology (c. pp. 33-36)",
+          "quote": "The usual Seleucid era begins with autumn 312 B.C."
+        },
+        {
+          "ref": "bmcr-lichtenberger-2024-johannsen",
+          "locator": "review, para. 2",
+          "quote": "This is an area which in the 3rd century BC was ruled by the Ptolemies and in the 2nd century BC mostly was controlled by the Seleucids"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "Sketch of the history of Syria, pp. 183-184",
+          "quote": "in B.C. 64 he went himself; but the definite arrangements of Syrian affairs were first settled in B.C. 63-62"
         }
       ],
       "notes": {
@@ -3087,6 +3141,26 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Hasmonean priest-princes",
           "quote": "In 153 one of the Seleucid pretenders, Alexander Balas, in order to outplay the legitimate king, Demetrius, granted Jonathan the office of high priest"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 1:54",
+          "quote": "Now the fifteenth day of the month Casleu, in the hundred forty and fifth year, they set up the abomination of desolation upon the altar"
+        },
+        {
+          "ref": "kjv-1-maccabees",
+          "locator": "1 Maccabees 13:41",
+          "quote": "Thus the yoke of the heathen was taken away from Israel in the hundred and seventieth year."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 7 Simon, pp. 254-255 (chronological note)",
+          "quote": "the year of Simon's rule is to be connected from Seleucid year 170, or B.C. 143-142"
+        },
+        {
+          "ref": "bmcr-vanhenten-2018-bernhardt",
+          "locator": "review, summary of ch. 8",
+          "quote": "Jonathan had to withdraw to the country-side, like Judas before him, but the erosion of the Seleucid empire and Jonathan's smart cooperation with the Seleucids offered him the opportunity to return to Jerusalem"
         }
       ],
       "notes": {
@@ -3256,6 +3330,21 @@
           "ref": "britannica-nabataean",
           "locator": "annexation",
           "quote": "When the Roman emperor Trajan annexed the kingdom (ad 105–106) and set up the new province of Arabia"
+        },
+        {
+          "ref": "diodorus-19-geer",
+          "locator": "Diodorus 19.94.1 (312 BCE)",
+          "quote": "Now that Antigonus without a fight had gained possession of all Syria and Phoenicia, he desired to make a campaign against the land of the Arabs who are called Nabataeans."
+        },
+        {
+          "ref": "cassius-dio-roman-history",
+          "locator": "Cassius Dio 68.14.5 (book LXVIII page, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68*.html)",
+          "quote": "About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans."
+        },
+        {
+          "ref": "dir-trajan-benario",
+          "locator": "section on expansion",
+          "quote": "This was the province of Arabia, which followed upon the absorption of the Nabataean kingdom (105-106)."
         }
       ],
       "notes": {
@@ -3348,16 +3437,40 @@
           "ref": "jewish-encyclopedia-iturea",
           "locator": "entry",
           "quote": "After the death of Soemus (49) his kingdom was incorporated into the province of Syria"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 13.11.3 (Whiston), Aristobulus I, 104-103 BCE",
+          "quote": "made war against Iturea, and added a great part of it to Judea, and compelled the inhabitants, if they would continue in that country, to be circumcised"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "Appendix I, History of Chalcis, Iturea and Abilene, p. 329",
+          "quote": "In the last decades before the arrival of Pompey, the Itureans belonged to an important confederacy, which recognised as its head Ptolemy the son of Mennaus"
+        },
+        {
+          "ref": "cassius-dio-59-cary",
+          "locator": "Cassius Dio 59.12.2 (38 CE)",
+          "quote": "Meanwhile he granted to Sohaemus the land of the Ituraean Arabians"
+        },
+        {
+          "ref": "tacitus-annals-12-jackson",
+          "locator": "Tacitus, Annals 12.23 (49 CE)",
+          "quote": "Ituraea and Judaea, on the death of their sovereigns, Sohaemus and Agrippa, were attached to the province of Syria."
+        },
+        {
+          "ref": "bmcr-winger-2011-myers-ituraeans",
+          "locator": "review, para. 6",
+          "quote": "the Ituraeans were settled and politically organized by ca. 200 BCE"
+        },
+        {
+          "ref": "bmcr-winger-2011-myers-ituraeans",
+          "locator": "review, para. 6",
+          "quote": "the Ituraeans had established a principality within the southern Biqa' valley by the middle of the first century BCE"
         }
       ],
       "notes": {
-        "en": "Start is the earliest dated event in the source, not a founding date. Rulers: Ptolemy son of Mennaeus (85–40 BCE), Lysanias, then Zenodorus (c. 23–20 BCE); Augustus gave Iturea to Herod (c. 20 BCE), who bequeathed it to Philip; Caligula gave it to Soemus in 38 CE. The source is a 1904-era reference work; to be checked against modern scholarship (e.g. E. A. Myers, The Ituraeans and the Roman Near East, 2010, not consulted).",
-        "ar": "البداية هي أقدم حدث مؤرخ في المصدر، لا تاريخ تأسيس. الحكام: بطلميوس بن منايوس (85–40 ق.م.)، ليسانياس، ثم زينودوروس (نحو 23–20 ق.م.)؛ وأعطى أغسطس إيطورية لهيرودس (نحو 20 ق.م.) الذي أورثها لفيلبس؛ وأعطاها كاليغولا لسويموس عام 38م. والمصدر مرجع من عهد 1904؛ ويجب التحقق منه بالدراسات الحديثة (مثل E. A. Myers, The Ituraeans and the Roman Near East, 2010، لم يُرجع إليه).",
-        "he": "ההתחלה היא האירוע המתוארך הקדום ביותר במקור, ולא תאריך ייסוד. שליטים: תלמי בן מנאיוס (85–40 לפנה״ס), ליסניאס, ואחר כך זנודורוס (בערך 23–20 לפנה״ס); אוגוסטוס נתן את איטוריאה להורדוס (בערך 20 לפנה״ס), שהוריש אותה לפיליפוס; קליגולה נתן אותה לסואמוס ב-38 לספירה. המקור הוא ספר עיון מסוף 1904; יש לבדוק אותו מול המחקר המודרני (למשל E. A. Myers, The Ituraeans and the Roman Near East, 2010, לא נבדק).",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Start is the earliest dated event in the sources (Aristobulus I's war against Iturea, 104/103 BCE), not a founding date: E. A. Myers (2010, as summarised by J. Winger, BMCR 2011.04.36) concludes that the Ituraeans were settled and politically organized by c. 200 BCE and had a principality in the southern Beqaa by the mid-1st century BCE, while doubting that they lived in Galilee or the Golan. Rulers: Ptolemy son of Mennaeus (capital Chalcis under Mount Lebanon), Lysanias, then Zenodorus (c. 23-20 BCE); Augustus gave Zenodorus' lands to Herod (c. 20 BCE); Gaius gave 'the land of the Ituraean Arabians' to Sohaemus (38 CE), on whose death (49 CE) it was attached to the province of Syria (Tacitus)."
       },
       "relations": [
         {
@@ -3451,16 +3564,30 @@
           "ref": "britannica-decapolis",
           "locator": "introduction",
           "quote": "league of ancient Greek cities that was formed in 63 bce and existed until the 2nd century ce"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.4.4 (Whiston), Pompey 63 BCE",
+          "quote": "restored the rest of the cities, Hippos, and Scythopolis, and Pella, and Dios, and Samaria"
+        },
+        {
+          "ref": "schurer-1910-div2-vol1",
+          "locator": "§ 23.I, p. 94",
+          "quote": "The organization alluded to in this word was probably the work of Pompey"
+        },
+        {
+          "ref": "schurer-1910-div2-vol1",
+          "locator": "§ 23.I, p. 95",
+          "quote": "In any case Decapolis, as such, continued in existence in the second century after Christ"
+        },
+        {
+          "ref": "schurer-1910-div2-vol1",
+          "locator": "§ 23.I, p. 95",
+          "quote": "Its dissolution took place in the course of the third century, in consequence of the transference of some of its most important towns to the province of Arabia"
         }
       ],
       "notes": {
-        "en": "Membership varied (10, 11 or up to 14 cities). Pliny's list: Scythopolis, Hippos, Gadara, Raphana, Dion, Pella, Gerasa, Philadelphia, Canatha, Damascus; Abila from inscriptions. After 106 the cities were divided among Arabia, Judaea and Syria. Other Hellenistic coastal cities (e.g. Ascalon, Gaza, Ptolemais) are not modelled separately in this pass.",
-        "ar": "تفاوتت العضوية (10 أو 11 أو حتى 14 مدينة). قائمة بليني: بيسان (سكيثوبوليس)، هيبوس، جدارا، رفنة، ديون، بيلا، جرش، فيلادلفيا، قنوات، دمشق؛ وأبيلا من النقوش. بعد 106 قُسمت المدن بين أرابيا ويهودا وسوريا. ولا تُنمذج مدن ساحلية هلنستية أخرى (مثل عسقلان وغزة وبطلمايس) منفصلة في هذه الجولة.",
-        "he": "החברות השתנתה (10, 11 או עד 14 ערים). רשימת פליניוס: סקיתופוליס, היפוס, גדרה, רפנה, דיון, פלה, גרשה, פילדלפיה, קנתה, דמשק; אבילה מכתובות. אחרי 106 חולקו הערים בין ערב (ארביה), יהודה וסוריה. ערי חוף הלניסטיות אחרות (למשל אשקלון, עזה ופטולמאיס) אינן מדומיינות בנפרד בשלב זה.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Membership varied (10, 11 or up to 14 cities). Pliny's list: Scythopolis, Hippos, Gadara, Raphana, Dion, Pella, Gerasa, Philadelphia, Canatha, Damascus; Abila from inscriptions. After 106 the cities were divided among Arabia, Judaea and Syria. Other Hellenistic coastal cities (e.g. Ascalon, Gaza, Ptolemais) are not modelled separately in this pass. The end date marks the provincial reorganisation of 106; the name Decapolis remained in use in the 2nd century (the geographer Ptolemy lists its towns), and Schürer (1910) puts its dissolution in the 3rd century, after important member towns had been transferred to the province of Arabia."
       },
       "relations": [
         {
@@ -3579,6 +3706,26 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Hasmonean priest-princes",
           "quote": "appointed Hyrcanus II as high priest without the title of king adopted by his predecessors. He also imposed taxes on the Jews and curtailed Jewish dominions"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.4.4 (Whiston)",
+          "quote": "restored the high priesthood to Hyrcanus"
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 12, pp. 322-323",
+          "quote": "The contracted Jewish territory was given over to Hyrcanus II., who was recognised as high priest, without the title of king."
+        },
+        {
+          "ref": "bmcr-schlude-2022-van-wijlick",
+          "locator": "review, Part 2 summary",
+          "quote": "In the 40s, the Romans controlled it, using and advancing the Hasmonean Hyrcanus and Hyrcanus' strongmen, Antipater and his sons, especially Herod."
+        },
+        {
+          "ref": "cassius-dio-48-cary",
+          "locator": "Cassius Dio 48.26.2 (40 BCE)",
+          "quote": "He then invaded Palestine and deposed Hyrcanus, who was at the moment in charge of affairs there, having been appointed by the Romans"
         }
       ],
       "notes": {
@@ -3646,6 +3793,21 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Hasmonean priest-princes",
           "quote": "The unexpected occupation of Palestine by Parthian troops in 40 bce altered the situation."
+        },
+        {
+          "ref": "iranica-arsacids-ii-schippmann",
+          "locator": "1. History",
+          "quote": "Shortly afterwards, probably ca. 247 BCE, Arsaces was proclaimed king in Asaak"
+        },
+        {
+          "ref": "iranica-arsacids-ii-schippmann",
+          "locator": "1. History (end of the dynasty)",
+          "quote": "The decisive battle, probably on 28 April 224 in the region of what is now Golpāyegān"
+        },
+        {
+          "ref": "iranica-arsacids-ii-schippmann",
+          "locator": "1. History (41/40 BCE)",
+          "quote": "Pacorus occupied Syria and Palestine"
         }
       ],
       "notes": {
@@ -3690,6 +3852,21 @@
           "ref": "britannica-hasmonean-dynasty",
           "locator": "introduction",
           "quote": "the last Hasmonean, Antigonus, who was deposed and executed by the Romans under Mark Antony"
+        },
+        {
+          "ref": "bmcr-schlude-2022-van-wijlick",
+          "locator": "review, Part 2 summary",
+          "quote": "In 41/40, at Orodes' direction, Pacorus invaded Syria, appointing the Hasmonean Antigonus as vassal king of Judaea."
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.16.4 (Whiston), fall of Jerusalem, 37 BCE",
+          "quote": "This destruction befell the city of Jerusalem when Marcus Agrippa and Caninius Gallus were consuls of Rome"
+        },
+        {
+          "ref": "cassius-dio-49-cary",
+          "locator": "Cassius Dio 49.22.3",
+          "quote": "also conquered in battle Antigonus, who had put to death the Roman guards that were with him, and reduced him by siege when he took refuge in Jerusalem."
         }
       ],
       "notes": {
@@ -3758,6 +3935,16 @@
           "ref": "britannica-roman-empire",
           "locator": "Top Questions",
           "quote": "The Roman Empire was founded in 27 BCE, and in 395 AD it split into Western and Eastern empires."
+        },
+        {
+          "ref": "dir-augustus-fagan",
+          "locator": "section on the First Settlement",
+          "quote": "the so-called First Constitutional Settlement of 13 January, 27 BC which, with the broadest of brush strokes, began painting the portrait of the new order"
+        },
+        {
+          "ref": "dir-arcadius-nathan",
+          "locator": "Introduction",
+          "quote": "ruled the eastern and western halves of the Roman Empire respectively from 395"
         }
       ],
       "notes": {
@@ -3809,6 +3996,21 @@
           "ref": "britannica-herod",
           "locator": "introduction",
           "quote": "Herod (born 73 bce —died March/April, 4 bce, Jericho, Judaea) was the Roman-appointed king of Judaea (37–4 bce)"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 14.14.5 (Whiston), 40 BCE",
+          "quote": "And thus did this man receive the kingdom, having obtained it on the hundred and eighty-fourth olympiad, when Caius Domitius Calvinus was consul the second time"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 17.8.1 (Whiston)",
+          "quote": "having reigned, since he had procured Antigonus to be slain, thirty-four years; but since he had been declared king by the Romans, thirty-seven."
+        },
+        {
+          "ref": "schurer-1890-div1-vol1",
+          "locator": "§ 3, on Nicolas of Damascus (c. p. 57)",
+          "quote": "immediately after the death of Herod, in B.C. 4"
         }
       ],
       "notes": {
@@ -3897,6 +4099,26 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "Archelaus reigned for 10 years only; he was removed at the request of his subjects in 6 ce."
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.6.3 (Whiston)",
+          "quote": "he gave the one half of Herod's kingdom to Archelaus, by the name of Ethnarch"
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.7.3 (Whiston)",
+          "quote": "in the ninth year of his government he was banished to Vienna, a city of Gaul, and his effects were put into Caesar's treasury."
+        },
+        {
+          "ref": "cassius-dio-55-cary",
+          "locator": "Cassius Dio 55.27.6 (year of the consuls Lepidus and Arruntius, 6 CE; 55.25.1)",
+          "quote": "Herod of Palestine, who was accused by his brothers of some wrongdoing or other, was banished beyond the Alps and a portion of the domain was confiscated to the state."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17c, Archelaus (pp. 42-43)",
+          "quote": "to depose him from his government, and banish him to Vienne in Gaul in a.d. 6"
         }
       ],
       "relations": [
@@ -3951,6 +4173,21 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "Antipas reigned in Galilee and Peraea until 39 ce but was then banished by the emperor Caligula"
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.6.3 (Whiston)",
+          "quote": "Under this last was Perea and Galilee, with a revenue of two hundred talents"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.7.2 (Whiston)",
+          "quote": "So he took away from him his tetrarchy, and gave it by way of addition to Agrippa's kingdom"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17b, note on the date of Antipas's deposition (pp. 36-37)",
+          "quote": "The deposition of Antipas took place at Baiae therefore before the 31st August a.d. 39."
         }
       ],
       "relations": [
@@ -4005,16 +4242,30 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "Philip, the most peaceable of the three, ruled the northern area until his death in 34 ce."
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.4.6 (Whiston; Greek 18.106)",
+          "quote": "departed this life, in the twentieth year of the reign of Tiberius"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.4.6 (Whiston)",
+          "quote": "after he had been tetrarch of Trachonitis and Gaulanitis, and of the nation of the Bataneans also, thirty-seven years."
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17, Excursus I on the census (pp. 132-133)",
+          "quote": "The tetrarchy of Philip was after his death added by Tiberius to the province of Syria"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 18.6.10 (Whiston), 37 CE",
+          "quote": "appointed him to be king of the tetrarchy of Philip. He also gave him the tetrarchy of Lysanias"
         }
       ],
       "notes": {
-        "en": "After Philip's death the territory was given to Agrippa I in 37 CE (status 34–37 not established in this pass).",
-        "ar": "بعد موت فيلبس أُعطيت الأرض لأغريبا الأول عام 37م (ووضعها 34–37 غير مقرر في هذه الجولة).",
-        "he": "לאחר מות פיליפוס ניתן השטח לאגריפס הראשון ב-37 לספירה (מעמדו ב-34–37 לא נקבע בשלב זה).",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "After Philip's death (20th year of Tiberius, 33/34 CE) Tiberius attached the tetrarchy to the province of Syria (its tribute was to be kept within the tetrarchy); Gaius gave it to Agrippa I as a kingdom in 37 CE."
       },
       "relations": [
         {
@@ -4074,6 +4325,26 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "In 44 the entire kingdom passed under Roman rule and was reconstituted as the procuratorial province of Judaea."
+        },
+        {
+          "ref": "josephus-war-whiston",
+          "locator": "Wars 2.8.1 (Whiston)",
+          "quote": "And now Archelaus's part of Judea was reduced into a province, and Coponius, one of the equestrian order among the Romans, was sent as a procurator"
+        },
+        {
+          "ref": "schurer-1890-div1-vol2",
+          "locator": "§ 17c (pp. 42-43)",
+          "quote": "The territory of Archelaus was taken under immediate Roman rule, for it was attached to the province of Syria, but received a governor of its own from the equestrian order."
+        },
+        {
+          "ref": "tacitus-histories-5-moore",
+          "locator": "Tacitus, Histories 5.9",
+          "quote": "Claudius made Judea a province and entrusted it to Roman knights or to freedmen"
+        },
+        {
+          "ref": "eck-1999-jrs",
+          "locator": "n. 97 (renaming as Syria Palaestina)",
+          "quote": "The point of time at which the change took place is not explicitly stated anywhere."
         }
       ],
       "notes": {
@@ -4161,6 +4432,21 @@
           "ref": "britannica-palestine-hasmonean-herodian",
           "locator": "The Herodian house",
           "quote": "from 41 to his death in 44 Agrippa ruled the kingdom of his grandfather, Herod the Great, from Jerusalem"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 19.8.2 (Whiston)",
+          "quote": "he reigned four years under Caius Caesar, three of them were over Philip's tetrarchy only, and on the fourth he had that of Herod added to it"
+        },
+        {
+          "ref": "josephus-antiquities-whiston",
+          "locator": "Antiquities 19.8.2 (Whiston)",
+          "quote": "three years under the reign of Claudius Caesar; in which time he reigned over the forementioned countries, and also had Judea added to them, as well as Samaria"
+        },
+        {
+          "ref": "dir-claudius-fagan",
+          "locator": "section on client kings",
+          "quote": "He died suddenly in 44 A.D., after which his former kingdom again came under direct Roman rule."
         }
       ],
       "relations": [
@@ -4854,6 +5140,21 @@
           "ref": "britannica-byzantine-empire",
           "locator": "introduction",
           "quote": "The term East Rome accurately described the political unit embracing the Eastern provinces of the old Roman Empire until 476, while there were yet two emperors."
+        },
+        {
+          "ref": "tdv-bizans",
+          "locator": "opening definition",
+          "quote": "Roma İmparatorluğu’nun devamı olarak 330-1453 yılları arasında Balkan yarımadası, Anadolu, Suriye, Filistin ve Mısır’da hüküm süren"
+        },
+        {
+          "ref": "dir-arcadius-nathan",
+          "locator": "Introduction and Early Life",
+          "quote": "In January of 395, Theodosius the Great died and his two sons took theoretical control of the two halves of the Roman Empire."
+        },
+        {
+          "ref": "tdv-bizans",
+          "locator": "section on Heraclius",
+          "quote": "611’de Antakya, 613’te Dımaşk, 614’te Kudüs, 619’da Mısır’ı zaptetmişlerdi."
         }
       ],
       "notes": {
@@ -4899,16 +5200,40 @@
           "ref": "howard-johnston-iranica-khosrow-ii",
           "locator": "campaigns",
           "quote": "Palestine replaced Asia Minor as the target in 616, direct rule being established over the whole region, including its desert frontage, with little or no fighting"
+        },
+        {
+          "ref": "iranica-sasanian-dynasty-shahbazi",
+          "locator": "opening",
+          "quote": "ruled 224 CE–650 CE"
+        },
+        {
+          "ref": "iranica-sasanian-dynasty-shahbazi",
+          "locator": "section on Khosrow II",
+          "quote": "Jerusalem was captured in 614, and the \"True Cross\" was transferred to Ctesiphon"
+        },
+        {
+          "ref": "tdv-sasaniler",
+          "locator": "reign of Ardashir I",
+          "quote": "Erdeşîr 224’te Hürmüzdegân’da Part Hükümdarı V. Erdevân’ı (Artabanus) yenilgiye uğrattı"
+        },
+        {
+          "ref": "tdv-sasaniler",
+          "locator": "end of the dynasty",
+          "quote": "651 yılında düşmanları tarafından Merv’de öldürülen Yezdicerd"
+        },
+        {
+          "ref": "tdv-sasaniler",
+          "locator": "opening definition",
+          "quote": "226-651 yılları arasında hüküm süren bir İran hânedanı."
+        },
+        {
+          "ref": "iranica-sasanian-dynasty-shahbazi",
+          "locator": "section on Yazdegerd III",
+          "quote": "succeeded in destroying the Persian empire by 650"
         }
       ],
       "notes": {
-        "en": "Occupied the Byzantine Levant under Khosrow II: Syria and northern Palestine 613–614, Jerusalem captured 614 (True Cross taken to Ctesiphon), direct rule over all Palestine from 616; evacuated after Khosrow's fall (628), final peace 630. Howard-Johnston: an initial policy allowing Jews to settle in Jerusalem after 614 was reversed within two years because of Christian opposition.",
-        "ar": "احتلت بلاد الشام البيزنطية في عهد كسرى الثاني: سوريا وشمال فلسطين 613–614، واستولت على القدس 614 (نُقل الصليب الحقيقي إلى طيسفون)، وحكم مباشر لكل فلسطين منذ 616؛ وأخلتها بعد سقوط كسرى (628)، والسلام النهائي 630. هاورد-جونستون: سياسة أولية سمحت لليهود بالاستيطان في القدس بعد 614 عُكست خلال عامين بسبب المعارضة المسيحية.",
-        "he": "כבשה את הלבנט הביזנטי בימי חוסרו השני: סוריה וצפון פלשתינה 613–614, ירושלים נכבשה ב-614 (הצלב האמיתי הועבר לקטסיפון), שלטון ישיר על כל פלשתינה מ-616; פונתה אחרי נפילת חוסרו (628), שלום סופי 630. האוורד-ג'ונסטון: מדיניות ראשונית שאפשרה ליהודים להתיישב בירושלים אחרי 614 בוטלה תוך שנתיים בגלל התנגדות נוצרית.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Occupied the Byzantine Levant under Khosrow II: Syria and northern Palestine 613–614, Jerusalem captured 614 (True Cross taken to Ctesiphon), direct rule over all Palestine from 616; evacuated after Khosrow's fall (628), final peace 630. Howard-Johnston: an initial policy allowing Jews to settle in Jerusalem after 614 was reversed within two years because of Christian opposition. Conventions for the dynasty's span differ slightly: Shahbazi (Iranica) gives 224-650, saying the Arabs had destroyed the empire 'by 650'; Naskali (TDV) gives 226-651 (Ardashir's coronation in 226 after his victory of 224; Yazdegerd III killed at Merv in 651). The record uses 224-651."
       }
     },
     {
@@ -4944,16 +5269,45 @@
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "The rise of Islam",
           "quote": "the combined forces won a bloody victory on July 30, 634, at a place in southern Palestine that the sources call Ajnādayn"
+        },
+        {
+          "ref": "tdv-hulefa-yi-rasidin",
+          "locator": "opening definition",
+          "quote": "Hz. Peygamber’den sonraki ilk dört halife (632-661)."
+        },
+        {
+          "ref": "tdv-ecnadeyn-savasi",
+          "locator": "battle account",
+          "quote": "Ancak savaş müslümanların kesin zaferiyle sonuçlandı (28 Cemâziyelevvel 13 / 30 Temmuz 634)."
+        },
+        {
+          "ref": "tdv-yermuk-savasi",
+          "locator": "battle account",
+          "quote": "12 Receb 15 (20 Ağustos 636) tarihinde cereyan eden savaşta Bizans ordusu ağır bir yenilgiye uğradı"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Palestine chapter, p. 217 (Caesarea)",
+          "quote": "Its conquest took place in Shauwal, year 19."
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Palestine chapter, p. 214 (Jerusalem)",
+          "quote": "The conquest of Jerusalem took place in the year 17."
+        },
+        {
+          "ref": "tdv-hulefa-yi-rasidin",
+          "locator": "section on Umar",
+          "quote": "Halife Ömer 17 (638) yılında bizzat gelerek şehri Patrik Sophronios’tan teslim aldı"
+        },
+        {
+          "ref": "hitti-1916-baladhuri",
+          "locator": "Palestine chapter, p. 219 (date of the conquest of Caesarea)",
+          "quote": "Of the two views, the latter is the tenable one. According to still other reports, the city was reduced in the early part of the year 20."
         }
       ],
       "notes": {
-        "en": "Conquest of Palestine 634–640: Wadi Arabah and Ajnadayn (30 July 634), Yarmuk (20 August 636), Jerusalem (Britannica: 638; Le Strange 1890 gives 635/AH 14; other dates exist), Caesarea (October 640). Muawiya, later the first Umayyad caliph, was governor of Syria.",
-        "ar": "فتح فلسطين 634–640: وادي عربة وأجنادين (30 تموز/يوليو 634)، اليرموك (20 آب/أغسطس 636)، القدس (بريتانيكا: 638؛ ويعطي لو سترينج 1890 عام 635/14 هـ؛ وثمة تواريخ أخرى)، قيصرية (تشرين الأول/أكتوبر 640). كان معاوية، الخليفة الأموي الأول لاحقًا، والي سوريا.",
-        "he": "כיבוש פלשתינה 634–640: הערבה ואג'נדין (30 ביולי 634), הירמוך (20 באוגוסט 636), ירושלים (בריטניקה: 638; לה סטריינג' 1890 נותן 635/14 להיג'רה; קיימים תאריכים אחרים), קיסריה (אוקטובר 640). מועאוויה, לימים החליף האומיי הראשון, היה מושל סוריה.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Conquest of Palestine 634–640: Wadi Arabah and Ajnadayn (30 July 634), Yarmuk (20 August 636), Jerusalem (surrendered to Umar in AH 17/638 according to al-Baladhuri and the TDV İslâm Ansiklopedisi, as in Britannica; Le Strange 1890 gives 635/AH 14; other dates exist), Caesarea (Shawwal AH 19, i.e. autumn 640, per al-Baladhuri; some reports say early AH 20). Muawiya, later the first Umayyad caliph, was governor of Syria."
       }
     },
     {

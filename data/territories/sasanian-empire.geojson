@@ -47,6 +47,21 @@
             "ref": "howard-johnston-iranica-khosrow-ii",
             "locator": "campaigns of 613–614",
             "quote": "occupied Syria and northern Palestine, intervened in Jerusalem to stop a pogrom (614)"
+          },
+          {
+            "ref": "antiochus-strategos-conybeare-1910",
+            "locator": "narrative of the invasion",
+            "quote": "And they reached Palestine and its borders, and they arrived at Caesarea, which is the metropolis. But there they begged for a truce"
+          },
+          {
+            "ref": "antiochus-strategos-conybeare-1910",
+            "locator": "siege of Jerusalem",
+            "quote": "The beginning of the struggle of the Persians with the Christians of Jerusalem was on the 15th April, in the second indiction, in the fourth year of the Emperor Heraclius."
+          },
+          {
+            "ref": "tdv-sasaniler",
+            "locator": "section on Khosrow II",
+            "quote": "613’te İrmîniye ve Suriye’ye girip Dımaşk’ı işgal eden Sâsânî orduları ertesi yıl Kudüs’ü zaptederek kutsal haçı ele geçirdiler"
           }
         ],
         "id": "sasanian-empire-1",
@@ -118,6 +133,21 @@
             "ref": "howard-johnston-iranica-khosrow-ii",
             "locator": "end of the war",
             "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+          },
+          {
+            "ref": "iranica-sasanian-dynasty-shahbazi",
+            "locator": "section on Khosrow II",
+            "quote": "Jerusalem was captured in 614, and the \"True Cross\" was transferred to Ctesiphon"
+          },
+          {
+            "ref": "tdv-bizans",
+            "locator": "section on Heraclius",
+            "quote": "611’de Antakya, 613’te Dımaşk, 614’te Kudüs, 619’da Mısır’ı zaptetmişlerdi."
+          },
+          {
+            "ref": "bmcr-prozorov-2004-kaegi-heraclius",
+            "locator": "review, summary of ch. 6",
+            "quote": "is devoted to the period of 628-633, i.e. to Byzantium after the victory over Persia on the eve of the Arab invasion"
           }
         ],
         "notes": {

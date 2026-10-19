@@ -8,8 +8,10 @@
       "properties": {
         "polity": "ptolemaic-kingdom",
         "start": {
-          "year": -323,
-          "precision": "year"
+          "year": -319,
+          "circa": true,
+          "precision": "year",
+          "latest": -318
         },
         "end": {
           "year": -315,
@@ -35,9 +37,9 @@
         ],
         "boundary_certainty": "contested",
         "description": {
-          "en": "Palestine with much of Syria and Phoenicia, per Britannica's simplified account of the years after 323.",
-          "ar": "فلسطين مع معظم سوريا وفينيقيا، بحسب رواية بريتانيكا المبسّطة لسنوات ما بعد 323.",
-          "he": "פלשתינה עם רוב סוריה ופיניקיה, לפי התיאור המפושט של בריטניקה לשנים שלאחר 323.",
+          "en": "Palestine with Phoenicia and Coele Syria, which Ptolemy's general Nicanor took from the satrap Laomedon c. 319/318 BCE (Diodorus).",
+          "ar": "فلسطين مع فينيقيا وسوريا المجوّفة، التي انتزعها نيكانور قائد بطليموس من الوالي لاوميدون نحو 319/318 ق.م. (ديودوروس).",
+          "he": "פלשתינה עם פיניקיה וסוריה החלולה, שנקנור, מצביאו של תלמי, נטל מידי הסטרפ לאומדון בערך ב־319/318 לפנה״ס (דיודורוס).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -49,6 +51,31 @@
             "ref": "britannica-palestine-hellenistic",
             "locator": "The Ptolemies",
             "quote": "After the death of Alexander in 323 bce, Palestine, with much of Syria and Phoenicia, fell to Ptolemy I (Soter)"
+          },
+          {
+            "ref": "diodorus-18-geer",
+            "locator": "Diodorus 18.3.1 (settlement of 323 BCE)",
+            "quote": "Syria to Laomedon of Mitylenê, Cilicia to Philotas"
+          },
+          {
+            "ref": "diodorus-18-geer",
+            "locator": "Diodorus 18.39.6 (Triparadeisus, 321/320 BCE)",
+            "quote": "He gave Syria to Laomedon of Mitylenê and Cilicia to Philoxenus."
+          },
+          {
+            "ref": "diodorus-18-geer",
+            "locator": "Diodorus 18.43.1",
+            "quote": "Seeing that Phoenicia and Coelê Syria, as it was called, were conveniently situated for an offensive against Egypt, he set about in earnest to become master of those regions."
+          },
+          {
+            "ref": "diodorus-18-geer",
+            "locator": "Diodorus 18.43.2",
+            "quote": "The latter marched into Syria, took the satrap Laomedon captive, and subdued the whole land."
+          },
+          {
+            "ref": "diodorus-18-geer",
+            "locator": "translator's note 40 to 18.43",
+            "quote": "For Ptolemy's campaign in Syria cp. Marmor Parium for 319/18;"
           }
         ],
         "notes": {
@@ -125,6 +152,21 @@
             "ref": "britannica-palestine-hellenistic",
             "locator": "The Ptolemies",
             "quote": "At Panion, on the northern boundary of Galilee, the armies of Antiochus and Ptolemy met, and Ptolemy was defeated."
+          },
+          {
+            "ref": "diodorus-21-walton",
+            "locator": "Diodorus 21.1.5 (301 BCE)",
+            "quote": "But Ptolemy had already occupied the cities of that region"
+          },
+          {
+            "ref": "bmcr-burstein-2011-grainger-syrian-wars",
+            "locator": "review, para. 1",
+            "quote": "The root cause of the wars was the occupation of Koile Syria by Ptolemy I in 301 BC"
+          },
+          {
+            "ref": "bmcr-lichtenberger-2024-johannsen",
+            "locator": "review, para. 2",
+            "quote": "This is an area which in the 3rd century BC was ruled by the Ptolemies"
           }
         ],
         "notes": {
@@ -174,6 +216,16 @@
             "ref": "britannica-palestine-hellenistic",
             "locator": "The Ptolemies",
             "quote": "Thus, the Ptolemaic possessions north of the Sinai desert, including Palestine, passed into the hands of the house of Seleucus."
+          },
+          {
+            "ref": "polybius-16-paton",
+            "locator": "Polybius 16.39.3 (via Josephus, Ant. 12.136)",
+            "quote": "When Scopas was conquered by Antiochus, that king occupied Samaria, Abila, and Gadara"
+          },
+          {
+            "ref": "bmcr-lichtenberger-2024-johannsen",
+            "locator": "review, para. 2",
+            "quote": "in the 2nd century BC mostly was controlled by the Seleucids"
           }
         ],
         "id": "ptolemaic-kingdom-3",

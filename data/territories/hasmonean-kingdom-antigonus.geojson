@@ -41,6 +41,21 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "After struggles against Antigonus, the Parthian nominee, in which he was assisted by Roman troops, Herod eventually captured Jerusalem."
+          },
+          {
+            "ref": "cassius-dio-48-cary",
+            "locator": "Cassius Dio 48.41.4 (39 BCE)",
+            "quote": "later occupied Palestine without trouble, after he had frightened the king, Antigonus, out of the country."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 14.16.4 (Whiston), 37 BCE",
+            "quote": "This destruction befell the city of Jerusalem when Marcus Agrippa and Caninius Gallus were consuls of Rome"
+          },
+          {
+            "ref": "tacitus-histories-5-moore",
+            "locator": "Tacitus, Histories 5.9",
+            "quote": "the Jews were subdued by Gaius Sosius."
           }
         ],
         "id": "hasmonean-kingdom-antigonus-1",

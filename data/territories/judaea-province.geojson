@@ -43,6 +43,16 @@
             "ref": "britannica-palestine-hasmonean-herodian",
             "locator": "The Herodian house",
             "quote": "The region under Archelaus’s rule (i.e., Judaea, Samaria, and Edom) became the province of Judaea"
+          },
+          {
+            "ref": "josephus-war-whiston",
+            "locator": "Wars 2.8.1 (Whiston)",
+            "quote": "And now Archelaus's part of Judea was reduced into a province, and Coponius, one of the equestrian order among the Romans, was sent as a procurator"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 18.1.1 (Whiston)",
+            "quote": "Cyrenius came himself into Judea, which was now added to the province of Syria, to take an account of their substance"
           }
         ],
         "id": "judaea-province-1",
@@ -101,6 +111,26 @@
             "ref": "britannica-herod-agrippa-ii",
             "locator": "article",
             "quote": "Nero, the new emperor, in 54 added territory near the Sea of Galilee to Agrippa’s realm."
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.5.1 (Whiston)",
+            "quote": "This was what befell the Jews in the time of Cuspius Fadus's government."
+          },
+          {
+            "ref": "schurer-1890-div1-vol2",
+            "locator": "§ 19.1",
+            "quote": "The first procurator whom Claudius sent to Palestine was Cuspius Fadus"
+          },
+          {
+            "ref": "josephus-antiquities-whiston",
+            "locator": "Antiquities 20.7.1 (Whiston), areas given to Agrippa II",
+            "quote": "when he had already completed the twelfth year of his reign, he bestowed upon Agrippa the tetrarchy of Philip and Batanea, and added thereto Trachonites, with Abila"
+          },
+          {
+            "ref": "eck-1999-jrs",
+            "locator": "n. 97",
+            "quote": "The point of time at which the change took place is not explicitly stated anywhere."
           }
         ],
         "notes": {
