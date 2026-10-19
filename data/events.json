@@ -13614,9 +13614,11 @@
       ],
       "notes": {
         "en": "Arabic quote translations: \"Palestinians went on Saturday 25 April [2026] to vote...\"; \"The 2026 local elections took place in 183 local bodies, including the city of Deir al-Balah in the Gaza Strip\"; \"turnout was 56% in the West Bank and 23% in Deir al-Balah\". Lists or candidates were returned unopposed in 197 other bodies (CEC). The CEC is an official PA body.",
+        "ar": "النصوص العربية الأصلية لهذه الاقتباسات معروضة في مصادر هذا السجل. وعادت قوائم أو مرشحون بالتزكية في 197 هيئة أخرى (لجنة الانتخابات المركزية). ولجنة الانتخابات المركزية هيئة رسمية تابعة للسلطة الفلسطينية.",
         "he": "תרגומי הציטוטים בערבית: «Palestinians went on Saturday 25 April [2026] to vote...»; «The 2026 local elections took place in 183 local bodies, including the city of Deir al-Balah in the Gaza Strip»; «turnout was 56% in the West Bank and 23% in Deir al-Balah». רשימות או מועמדים נבחרו ללא התמודדות ב-197 גופים נוספים (ועדת הבחירות המרכזית). ועדת הבחירות המרכזית היא גוף רשמי של הרשות הפלסטינית.",
         "translation_status": {
-          "he": "machine-draft"
+          "he": "machine-draft",
+          "ar": "machine-draft"
         }
       }
     },
