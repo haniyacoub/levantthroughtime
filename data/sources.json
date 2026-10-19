@@ -201,6 +201,26 @@
       "institution_country": "IL"
     },
     {
+      "id": "admiralty-1920-handbook-of-syria",
+      "type": "book",
+      "authors": [
+        "Great Britain, Admiralty, Naval Intelligence Division, Geographical Section"
+      ],
+      "title": "A Handbook of Syria (including Palestine), I.D. 1215",
+      "publisher": "H.M. Stationery Office",
+      "place": "London",
+      "year": 1920,
+      "url": "https://archive.org/details/handbksyria",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/handbksyria): the chapter 'Turkish Administration' (administrative divisions, with footnotes on the Beirut, Damascus and Jerusalem units), the population chapter and the passage on milling and the Haifa branch of the Hejaz Railway. Prepared by the Geographical Section of the Naval Intelligence Division, British Admiralty, from wartime intelligence; page numbers as printed in the scan."
+      },
+      "kind": "government",
+      "institution_country": "GB"
+    },
+    {
       "id": "afp-2025-10-10-pullback",
       "type": "web",
       "title": "Gaza civil defense says Israeli forces pulling back from several areas",
@@ -848,6 +868,27 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "antonius-1939-arab-awakening",
+      "type": "book",
+      "authors": [
+        "Antonius, George"
+      ],
+      "title": "The Arab Awakening: The Story of the Arab National Movement",
+      "publisher": "J. B. Lippincott",
+      "place": "Philadelphia",
+      "year": 1939,
+      "edition": "US printing of the 1938 London first edition",
+      "url": "https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "anu-krockenberger-obituary",
@@ -2046,14 +2087,35 @@
         "Begin, Menachem"
       ],
       "title": "The Revolt: Story of the Irgun",
-      "accessed": "2026-10-18",
+      "year": 1951,
+      "accessed": "2026-10-19",
       "verification": {
-        "level": "cited-via",
-        "checked_on": "2026-10-18",
-        "note": "Not opened; the Deir Yassin passage was read as quoted in un-dpr-origins-part2. Memoir of the Irgun commander (later Israeli prime minister); 'kind' set to academic only for lack of a 'memoir' category."
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the Internet Archive OCR text of an upload labelled 1951; the text itself is a later 'Revised Edition' printing. This is a user upload of an in-copyright book, apparently not authorised by the rights holder, so the project should not link it; page numbers were not legible in the OCR and quotes should be checked against a library copy. Memoir by the Irgun commander Menachem Begin: a partisan primary source. Read in a third-party copy of uncertain licensing status, which this project does not link."
       },
       "kind": "academic",
-      "institution_country": "IL"
+      "institution_country": "GB"
+    },
+    {
+      "id": "beinin-1998-dispersion-egyptian-jewry",
+      "type": "book",
+      "authors": [
+        "Beinin, Joel"
+      ],
+      "title": "The Dispersion of Egyptian Jewry: Culture, Politics, and the Formation of a Modern Diaspora",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 1998,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/the-dispersion-of-egyptian-jewry-culture-politics-and-the-formation-of-a-modern-diaspora.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the Introduction section 'Alternatives to Neo-lachrymosity' (1952 coup) and searched the book for all Faruq passages. Joel Beinin is a US historian (Stanford)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "beloch-1886-bevoelkerung",
@@ -9321,6 +9383,21 @@
       "institution_country": "US"
     },
     {
+      "id": "cojs-safed-printing-press-1577",
+      "type": "web",
+      "title": "1577 The First Printing Press in the Middle East - Safed",
+      "container": "Center for Online Judaic Studies (cojs.org)",
+      "url": "https://cojs.org/?p=36593",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full page. The text is credited on the page to the Israeli historian Michael Avi-Yonah (the original publication is not named; it was not identified or opened). The Center for Online Judaic Studies is an educational non-profit; treat as a secondary summary."
+      },
+      "kind": "ngo",
+      "institution_country": "US"
+    },
+    {
       "id": "cojs-syro-ephraimite-war",
       "type": "web",
       "title": "Tiglath-Pileser III and the Syro-Ephraimite War: Kalah Palace Summary Inscription 4, 730 BCE",
@@ -9911,6 +9988,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "djemal-1922-memories-turkish-statesman",
+      "type": "book",
+      "authors": [
+        "Djemal Pasha, Ahmed"
+      ],
+      "title": "Memories of a Turkish Statesman, 1913-1919",
+      "publisher": "Hutchinson & Co.",
+      "place": "London",
+      "year": 1922,
+      "url": "https://archive.org/details/cu31924028514564",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the 1922 Hutchinson edition (https://archive.org/details/cu31924028514564), ch. IV ('In Command of the Fourth Army') and ch. VIII. Memoir of Ahmed Cemal (Djemal) Pasha himself: a self-justifying primary source."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "dols-1974-ibn-al-wardi-plague",
       "type": "chapter",
       "authors": [
@@ -9945,7 +10042,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection edition (no printed page numbers shown); read the Introduction and ch. 1 \"The Meanings of Autonomy\" (sections \"The 1657 Campaign\", \"The Rise of Acre\", \"Egyptian Rule, 1831-1840\"). Doumani is a Palestinian-American historian."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection edition (no printed page numbers shown); read the Introduction and ch. 1 \"The Meanings of Autonomy\" (sections \"The 1657 Campaign\", \"The Rise of Acre\", \"Egyptian Rule, 1831-1840\"). Doumani is a Palestinian-American historian. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the open-access UC Press E-Books Collection edition and re-read ch. 1 ('The Rise of Acre', 'Egyptian Rule, 1831-1840', 'Ottoman Centralization and the Fall of Arraba') and ch. 4 ('Integration', 'Commoditization of Land') on the 1858 land law."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -10281,6 +10378,33 @@
       },
       "kind": "academic",
       "institution_country": "MY"
+    },
+    {
+      "id": "eldem-2018-cultural-networks-introduction",
+      "type": "chapter",
+      "authors": [
+        "Eldem, Edhem"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Introduction [to Part 3: Cultural Networks, Public Knowledge]",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "283-286",
+      "doi": "10.1163/9789004375741_018",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the introduction (pp. 283-286). Edhem Eldem is a Turkish historian (Bogazici University, Istanbul)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "ellenblum-1998",
@@ -11309,6 +11433,33 @@
       "institution_country": "US"
     },
     {
+      "id": "gribetz-2018-arab-zionist-conversations",
+      "type": "chapter",
+      "authors": [
+        "Gribetz, Jonathan Marc"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Arab-Zionist Conversations in Late Ottoman Jerusalem: Sa'id al-Husayni, Ruhi al-Khalidi and Eliezer Ben-Yehuda",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "305-329",
+      "doi": "10.1163/9789004375741_020",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the chapter (pp. 305-329), especially the biographies of the Jerusalem deputies elected in 1908. Jonathan Marc Gribetz is a US historian (Princeton)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "grossman-2011-rural-arab-demography",
       "type": "book",
       "authors": [
@@ -11656,6 +11807,33 @@
       "kind": "government",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "hanssen-2018-municipal-jerusalem",
+      "type": "chapter",
+      "authors": [
+        "Hanssen, Jens"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Municipal Jerusalem in the Age of Urban Democracy: On the Difference between What Happened and What Is Said to Have Happened",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "262-282",
+      "doi": "10.1163/9789004375741_017",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the chapter (pp. 262-282). Jens Hanssen is a historian at the University of Toronto."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "harnack-mission-ausbreitung",
@@ -13631,6 +13809,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "kayali-1997-arabs-and-young-turks",
+      "type": "book",
+      "authors": [
+        "Kayali, Hasan"
+      ],
+      "title": "Arabs and Young Turks: Ottomanism, Arabism, and Islamism in the Ottoman Empire, 1908-1918",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 1997,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/arabs-and-young-turks-ottomanism-arabism-and-islamism-in-the-ottoman-empire-1908-1918.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the Introduction, ch. 1 (sections 'Tanzimat Centralization, Arabs, and Ottomanism'; 'The Constitution, Parliament, and Arab Representation', with notes), ch. 4 and ch. 6-7 (wartime Syria, Cemal Pasha, 'The End of the Empire and Turkish-Arab Relations'). Hasan Kayali is a Turkish-born historian (UC San Diego)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "kcl-lhcma-cunningham",
       "type": "web",
       "title": "CUNNINGHAM, Sir Alan Gordon (1887-1983), General",
@@ -14463,6 +14661,26 @@
       "institution_country": "NL"
     },
     {
+      "id": "lockman-1996-comrades-and-enemies",
+      "type": "book",
+      "authors": [
+        "Lockman, Zachary"
+      ],
+      "title": "Comrades and Enemies: Arab and Jewish Workers in Palestine, 1906-1948",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 1996,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/comrades-and-enemies-arab-and-jewish-workers-in-palestine-1906-1948.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read ch. 1 ('The Emergence of Zionism', 'The \"Conquest of Labor\"', 'Economic Separatism and Working-Class Formation'), the King David Hotel passage in ch. 7 ('The PLL: Confusion, Drift, and Defeat') and ch. 9 ('The Descent into Madness'). Zachary Lockman is a US historian (New York University)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "louvre-ao-5066-mesha-stele",
       "type": "web",
       "title": "Stèle de Mesha (AO 5066)",
@@ -14497,6 +14715,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "luke-keith-roach-1922-handbook-of-palestine",
+      "type": "book",
+      "authors": [
+        "Luke, Harry Charles",
+        "Keith-Roach, Edward"
+      ],
+      "title": "The Handbook of Palestine",
+      "publisher": "Macmillan",
+      "place": "London",
+      "year": 1922,
+      "url": "https://archive.org/details/39020001828394-thehandbookofpa",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan."
+      },
+      "kind": "government",
+      "institution_country": "GB"
+    },
+    {
       "id": "lwj-2026-10-07-south-lebanon",
       "type": "web",
       "title": "IDF shifts southern Lebanon forces toward 'forward-defense' posture as troops prepare for winter",
@@ -14512,6 +14751,26 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "lybyer-1913-government-ottoman-empire",
+      "type": "book",
+      "authors": [
+        "Lybyer, Albert Howe"
+      ],
+      "title": "The Government of the Ottoman Empire in the Time of Suleiman the Magnificent",
+      "publisher": "Harvard University Press",
+      "place": "Cambridge, Mass.",
+      "year": 1913,
+      "url": "https://archive.org/details/governmentofotto00lyby",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/governmentofotto00lyby), including the appendix with the 16th-century list of sultans and Lybyer's corrective footnote. Early 20th-century scholarship (Harvard Historical Studies XVIII)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "maeir-hitchcock-horwitz-2013",
@@ -14553,6 +14812,26 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "makdisi-2000-culture-of-sectarianism",
+      "type": "book",
+      "authors": [
+        "Makdisi, Ussama"
+      ],
+      "title": "The Culture of Sectarianism: Community, History, and Violence in Nineteenth-Century Ottoman Lebanon",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 2000,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/the-culture-of-sectarianism-community-history-and-violence-in-nineteenth-century-ottoman-lebanon.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the Introduction ('The Context of Reform', 'Sources and Structure of Argument') and ch. 4 ('To Uplift the Name of Egypt') with its notes. Ussama Makdisi is a Lebanese-American historian (Rice University)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "malamat-ej-exile-assyrian",
@@ -14911,6 +15190,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "migdal-2000-israel-1967-war",
+      "type": "chapter",
+      "authors": [
+        "Migdal, Joel S."
+      ],
+      "editors": [
+        "Heydemann, Steven"
+      ],
+      "title": "Changing Boundaries and Social Crisis: Israel and the 1967 War",
+      "container": "War, Institutions, and Social Change in the Middle East",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 2000,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/war-institutions-and-social-change-in-the-middle-east.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the section 'Boundary Changes Open New Questions about the Construction of Society'. Joel S. Migdal is a US political scientist (University of Washington)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "migowski-2006-holocene-dead-sea",
       "type": "article",
       "authors": [
@@ -15145,6 +15448,34 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "muhtadi-naili-2018-end-of-egyptian-rule",
+      "type": "chapter",
+      "authors": [
+        "Muhtadi, Abla",
+        "Naili, Falestin"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Back into the Imperial Fold: The End of Egyptian Rule through the Court Records of Jerusalem, 1839-1840",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "186-199",
+      "doi": "10.1163/9789004375741_013",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the whole chapter (pp. 186-199). Abla Muhtadi and Falestin Naili are Palestinian historians working from the Jerusalem Islamic court registers (sijill)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "mujir-al-din-sauvaire-1876-histoire-jerusalem-hebron",
       "type": "book",
       "authors": [
@@ -15330,6 +15661,26 @@
       },
       "kind": "government",
       "institution_country": "PS"
+    },
+    {
+      "id": "napier-1842-war-in-syria",
+      "type": "book",
+      "authors": [
+        "Napier, Charles"
+      ],
+      "title": "The War in Syria, vol. I",
+      "publisher": "John W. Parker",
+      "place": "London",
+      "year": 1842,
+      "url": "https://archive.org/details/warinsyria01napiuoft",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/warinsyria01napiuoft): introduction (1831-1833 campaign and the Kutahya settlement), ch. XVI-XVII (bombardment and capture of Acre, with Admiral Stopford's dispatch of 4 November 1840 and the return of casualties), ch. XIX-XX (convention with Boghos Bey at Alexandria, 27 November 1840) and the appendix with the text of the Convention of London of 15 July 1840 and its Separate Act. Memoir of the British naval commander (19th century; participant's account)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "napoleon-org-campaign-in-egypt",
@@ -15913,6 +16264,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ongley-1892-ottoman-land-code",
+      "type": "book",
+      "authors": [
+        "Ongley, F. (translator)",
+        "Miller, Horace Edward (revised by)"
+      ],
+      "title": "The Ottoman Land Code",
+      "publisher": "William Clowes and Sons",
+      "place": "London",
+      "year": 1892,
+      "url": "https://archive.org/details/ottomanlandcode00turkuoft",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/ottomanlandcode00turkuoft): table of contents and the Land Law itself, which is headed with its Hijri date. English translation by F. Ongley, revised by Horace E. Miller (19th-century translation of the official Ottoman text)."
+      },
+      "kind": "government",
+      "institution_country": "GB"
+    },
+    {
       "id": "oracc-riao-shalmaneser-iii-2",
       "type": "document",
       "authors": [
@@ -16181,7 +16553,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the OCR text of the full PDF from UNISPAL; ch. III, para. 44 (Lord Plumer's tenure)."
+        "note": "Read the OCR text of the full PDF from UNISPAL; ch. III, para. 44 (Lord Plumer's tenure). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UNISPAL PDF (Cmd. 5479) and read the OCR text of ch. I paras. 25-29 (Jewish colonies, Rothschild, first Zionist Congress), ch. II paras. 24-28 (Feisal, 1918-1920) and ch. VI paras. 12-14 (the Occupied Enemy Territory Administration, 1918-1920)."
       },
       "kind": "government",
       "institution_country": "GB",
@@ -17527,6 +17899,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "picard-2000-civil-war-lebanon",
+      "type": "chapter",
+      "authors": [
+        "Picard, Elizabeth"
+      ],
+      "editors": [
+        "Heydemann, Steven"
+      ],
+      "title": "The Political Economy of Civil War in Lebanon",
+      "container": "War, Institutions, and Social Change in the Middle East",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 2000,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/war-institutions-and-social-change-in-the-middle-east.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the sections 'The Genesis and Trajectory of the Militia Economy' and 'From Clientelism to Predation'. Elizabeth Picard is a French political scientist (CNRS)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "piccirillo-alliata-1999-madaba-map",
       "type": "book",
       "authors": [
@@ -18402,6 +18798,33 @@
       "institution_country": "US"
     },
     {
+      "id": "rioli-2018-visiting-cards-jerusalem",
+      "type": "chapter",
+      "authors": [
+        "Rioli, Maria Chiara"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Introducing Jerusalem: Visiting Cards, Advertisements and Urban Identities at the Turn of the 20th Century",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "29-49",
+      "doi": "10.1163/9789004375741_005",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the chapter (pp. 29-49), including the passage on the Jaffa-Jerusalem railway and the invitation to the inauguration banquet. Maria Chiara Rioli is an Italian historian."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "rodman-2010-review-karsh",
       "type": "article",
       "authors": [
@@ -18439,7 +18862,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here. | Re-read in Milestone 8: EXISTING ID. The live page (palestine-studies.org) now returns a bot check, so re-read the full text saved by an earlier research step on 18 Oct 2026 (research/conf_dl/A-jq-peasants-jerusalem.txt): opening paragraph and the 1834 narrative."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18514,6 +18937,26 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+      "type": "book",
+      "authors": [
+        "Ruppin, Arthur"
+      ],
+      "title": "Syrien als Wirtschaftsgebiet",
+      "publisher": "Benjamin Harz",
+      "place": "Berlin",
+      "year": 1920,
+      "url": "https://archive.org/details/syrienalswirtsch00ruppuoft",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/syrienalswirtsch00ruppuoft): the chapter on Jewish colonisation (founding of Petah Tikva and Rishon LeZion; colony table) and the railway chapter (table 'Die bestehenden syrischen Eisenbahnlinien' with opening years; Jaffa-Jerusalem concession). German, 2nd ed. 1920 (first ed. 1917). Arthur Ruppin headed the Zionist Organization's Palestine Office; dated work. OCR renders '161' as 'i6i'."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "said-1985-conspiracy-of-praise",
@@ -18599,6 +19042,27 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "schechter-1908-safed-sixteenth-century",
+      "type": "chapter",
+      "authors": [
+        "Schechter, Solomon"
+      ],
+      "title": "Safed in the Sixteenth Century: A City of Legists and Mystics",
+      "container": "Studies in Judaism, Second Series",
+      "publisher": "Jewish Publication Society of America",
+      "place": "Philadelphia",
+      "year": 1908,
+      "url": "https://archive.org/details/cu31924029096944",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of Studies in Judaism, Second Series (https://archive.org/details/cu31924029096944), the whole essay (pp. 202-285). Early 20th-century scholarship. Its passage on printing in Safed reads, in the OCR, 'about the year 1653 by two German Jews' with Alsheikh's commentary on Daniel as the first book; the printed date could not be checked against a page image, so it is not used here."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "schiff-yaari-1990-intifada",
@@ -19091,6 +19555,26 @@
       "institution_country": "US"
     },
     {
+      "id": "sokolow-1919-history-of-zionism",
+      "type": "book",
+      "authors": [
+        "Sokolow, Nahum"
+      ],
+      "title": "History of Zionism, 1600-1918 (2 vols.)",
+      "publisher": "Longmans, Green and Co.",
+      "place": "London",
+      "year": 1919,
+      "url": "https://archive.org/details/india.history.resource.106104",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR texts of vol. I (https://archive.org/details/historyofzionism01soko) and vol. II (https://archive.org/details/india.history.resource.106104): the appendix on Zionist institutions (first Congress, Basle Programme, Ahuzat Bait) and appendix LXXVIII, a table of Jewish colonies with founding years taken 'mostly from the Report of the Jewish Colonisation Association for 1910'. Nahum Sokolow was a leading Zionist official; the work is dated (1919) and written from a Zionist standpoint. The OCR of the table is noisy (e.g. '2gth' for 29th)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "state-dept-abraham-accords",
       "type": "web",
       "title": "The Abraham Accords (incl. Abraham Accords Declaration and linked agreements)",
@@ -19262,6 +19746,23 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "taba-arbitration-award-1988",
+      "type": "document",
+      "title": "Case concerning the location of boundary markers in Taba between Egypt and Israel: Award of 29 September 1988",
+      "container": "Reports of International Arbitral Awards, vol. XX, pp. 1-118",
+      "publisher": "United Nations",
+      "year": 1988,
+      "url": "https://legal.un.org/riaa/cases/vol_XX/1-118.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence."
+      },
+      "kind": "un",
+      "institution_country": "UN"
     },
     {
       "id": "tacitus-annals-12-jackson",
@@ -19774,6 +20275,54 @@
       },
       "kind": "reference",
       "institution_country": "TR"
+    },
+    {
+      "id": "tell-2000-guns-gold-and-grain",
+      "type": "chapter",
+      "authors": [
+        "Tell, Tariq"
+      ],
+      "editors": [
+        "Heydemann, Steven"
+      ],
+      "title": "Guns, Gold, and Grain: War and Food Supply in the Making of Transjordan",
+      "container": "War, Institutions, and Social Change in the Middle East",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 2000,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/war-institutions-and-social-change-in-the-middle-east.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "thompson-2000-colonial-welfare-state",
+      "type": "chapter",
+      "authors": [
+        "Thompson, Elizabeth"
+      ],
+      "editors": [
+        "Heydemann, Steven"
+      ],
+      "title": "The Climax and Crisis of the Colonial Welfare State in Syria and Lebanon during World War II",
+      "container": "War, Institutions, and Social Change in the Middle East",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 2000,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/war-institutions-and-social-change-in-the-middle-east.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the sections 'Realization of a Colonial Welfare State, 1941-43' and 'National Governments and the Legacy of Colonial Welfare, 1944-46'. Elizabeth Thompson is a US historian."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "thompson-view-from-copenhagen",
@@ -21750,7 +22299,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the UNISPAL web text of A/364: Chapter II, Population, paras 10-13 with footnotes 42-43; Chapter VI, Part II (Boundaries), Justification, settled-population table (footnote 166)."
+        "note": "Read the UNISPAL web text of A/364: Chapter II, Population, paras 10-13 with footnotes 42-43; Chapter VI, Part II (Boundaries), Justification, settled-population table (footnote 166). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UNISPAL web text of A/364 and read ch. II, the paragraph on Jewish resistance and violence 1945-1947 (King David Hotel)."
       },
       "kind": "un",
       "institution_country": "US",
@@ -21861,6 +22410,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "van-berchem-1922-cia-jerusalem-ville",
+      "type": "book",
+      "authors": [
+        "Berchem, Max van"
+      ],
+      "title": "Materiaux pour un Corpus Inscriptionum Arabicarum, deuxieme partie: Syrie du Sud, tome premier: Jerusalem 'Ville'",
+      "publisher": "Institut francais d'archeologie orientale",
+      "place": "Cairo",
+      "year": 1922,
+      "url": "https://archive.org/details/MIFAO43",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR text of the Institut francais d'archeologie orientale edition (MIFAO 43; https://archive.org/details/MIFAO43): the Ottoman inscriptions of the city walls (nos. 119-129) and the commentary on their dates, and the note on the citadel inscriptions. Max van Berchem (Swiss epigrapher, d. 1921); published posthumously in 1922, in French; the standard corpus of the Arabic inscriptions of Jerusalem. OCR is imperfect (e.g. '9 3 8', 'q44')."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
       "id": "van-cleve-1969-crusade-frederick-ii",
       "type": "chapter",
       "authors": [
@@ -21907,6 +22476,46 @@
       "kind": "academic",
       "institution_country": "FR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "vitalis-1995-when-capitalists-collide",
+      "type": "book",
+      "authors": [
+        "Vitalis, Robert"
+      ],
+      "title": "When Capitalists Collide: Business Conflict and the End of Empire in Egypt",
+      "publisher": "University of California Press",
+      "place": "Berkeley",
+      "year": 1995,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/when-capitalists-collide-business-conflict-and-the-end-of-empire-in-egypt.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read ch. 1-2 (on the 1914 protectorate and the 1922 grant of independence) and the chapter on the 1935-37 political transition (death of King Fu'ad, Faruq). Robert Vitalis is a US political scientist (University of Pennsylvania)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "volney-1787-travels-syria-egypt",
+      "type": "book",
+      "authors": [
+        "Volney, Constantin-Francois"
+      ],
+      "title": "Travels through Syria and Egypt, in the Years 1783, 1784, and 1785 (2 vols., English translation)",
+      "publisher": "G. G. J. and J. Robinson",
+      "place": "London",
+      "year": 1787,
+      "url": "https://archive.org/details/bim_eighteenth-century_travels-through-syria-an_volney-c-f-constanti_1787_2",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the Internet Archive OCR texts of the 1787 London edition, vol. I (https://archive.org/details/bim_eighteenth-century_travels-through-syria-an_volney-c-f-constanti_1787_1; history of Ali Bey and Muhammad Bey Abu al-Dhahab) and vol. II (https://archive.org/details/bim_eighteenth-century_travels-through-syria-an_volney-c-f-constanti_1787_2; ch. XXV, 'Summary of the history of Daher, son of Omar', and the chapter on the pashalik of Acre). Near-contemporary French traveller's account (18th century); the OCR is noisy (long s, broken words), so quotes were matched approximately. Where the 1787 vol. I OCR is illegible (the sack of Jaffa), the 1788 London printing (https://archive.org/details/b28775478) was also read. Volney's own year for the Egyptian invasion and the death of Daher is 1776, a year later than modern dates (1775)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "vunsh-2018-coastal-wells",
@@ -22156,6 +22765,33 @@
       },
       "kind": "academic",
       "institution_country": "JO"
+    },
+    {
+      "id": "yazbak-2018-ottoman-municipalities-palestine",
+      "type": "chapter",
+      "authors": [
+        "Yazbak, Mahmoud"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Comparing Ottoman Municipalities in Palestine: The Cases of Nablus, Haifa, and Nazareth, 1864-1914",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "240-261",
+      "doi": "10.1163/9789004375741_016",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the complete open-access volume (Brill 2018, CC BY-NC-ND) as deposited on HAL (617-page PDF, Brill 'via free access' copy); page numbers are the printed book pages. Read the chapter (pp. 240-261), especially the section 'Establishing Municipalities'. Mahmoud Yazbak is a Palestinian historian (University of Haifa)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "ynet-2022-04-10-josephs-tomb",

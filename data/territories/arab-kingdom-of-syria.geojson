@@ -10,7 +10,8 @@
         "start": {
           "year": 1920,
           "month": 3,
-          "precision": "month"
+          "day": 8,
+          "precision": "day"
         },
         "end": {
           "year": 1920,
@@ -36,6 +37,26 @@
           {
             "ref": "britannica-palestine-ww1",
             "quote": "elected Faisal I ... king of a united Syria (including Palestine)"
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 9, p. 304",
+            "quote": "On the 8th of March, the General Syrian Congress sat in Damascus and passed a resolution proclaiming the independence of Syria (including Palestine and the Lebanon) as a sovereign state"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Proclaimed king by the Syrian Congress in March 1920, he was forced to abandon his capital four months later as the French army of the Levant under General Gouraud advanced upon it from Beirut."
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 10, p. 308",
+            "quote": "French columns advanced on Damascus and entered the city on the tenth day following its presentation."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "ch. 'The War Years and After, 1915-1920'",
+            "quote": "The Syrian declaration of independence in Damascus, in the congress of 7 March 1920, recognized the right of the Lebanese to preserve their own form of administration"
           }
         ],
         "notes": {

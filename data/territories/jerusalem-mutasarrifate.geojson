@@ -121,12 +121,37 @@
             "ref": "britannica-palestine-ww1",
             "locator": "section 'World War I and after', paragraph 2",
             "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 46",
+            "quote": "The Agreement, signed at Rafah on 1 October 1906, reads in Article 1:"
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "ch. 'Turkish Administration', p. 239, note 3",
+            "quote": "During 1906-8 the kaza of Nazareth, for the convenience of pilgrims, was treated as a portion of the sanjaq of Jerusalem"
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "ch. 'Turkish Administration', p. 240, note 4",
+            "quote": "In 1908 steps were taken to make it a sanjaq having two kazas, Bir Seba‘ and Hafir (or El-‘Auja), and including territory to the south that had belonged to the sanjaq of Kerak"
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "Part I, history section on the British occupation, p. 24",
+            "quote": "General Allenby began his operations in October, 1917, and on the 31st of the month had taken Beersheba. Gaza fell on the 7th November, and on the 16th November Jaffa was occupied without opposition."
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "Part I, history section on the British occupation, p. 24",
+            "quote": "at noon of the 9th December a Turkish parlementaire conveyed the surrender of the city to the Commander-in-Chief"
           }
         ],
         "notes": {
-          "en": "Nazareth sub-district attached 1906-1908 (not mapped). Southern parts fell to British forces in late 1917 before Jerusalem (dates not verified here).",
-          "ar": "ضُمّت ناحية الناصرة 1906-1908 (غير مرسومة). وسقطت الأجزاء الجنوبية بيد القوات البريطانية في أواخر 1917 قبل القدس (لم تُتحقق التواريخ هنا).",
-          "he": "נפת נצרת צורפה ב-1906-1908 (לא ממופה). החלקים הדרומיים נפלו בידי הכוחות הבריטיים בסוף 1917 לפני ירושלים (התאריכים לא אומתו כאן).",
+          "en": "Nazareth sub-district attached 1906-1908 (not mapped; the Admiralty handbook says it was treated as part of the sanjaq of Jerusalem 'for the convenience of pilgrims'). In 1908 steps were taken to make Beersheba a separate sanjaq that included territory formerly of the sanjaq of Kerak (Admiralty handbook). The British took Beersheba on 31 October 1917, Gaza on 7 November and Jaffa on 16 November, and Jerusalem surrendered on 9 December 1917 (Luke and Keith-Roach 1922).",
+          "ar": "أُلحق قضاء الناصرة في 1906-1908 (غير مرسوم؛ يقول دليل الأميرالية إنه عومل جزءاً من سنجق القدس «لراحة الحجاج»). وفي 1908 اتُّخذت خطوات لجعل بئر السبع سنجقاً منفصلاً يضم أراضي كانت تابعة سابقاً لسنجق الكرك (دليل الأميرالية). واستولى البريطانيون على بئر السبع في 31 تشرين الأول/أكتوبر 1917، وعلى غزة في 7 تشرين الثاني/نوفمبر، وعلى يافا في 16 تشرين الثاني/نوفمبر، واستسلمت القدس في 9 كانون الأول/ديسمبر 1917 (لوك وكيث-روتش 1922).",
+          "he": "נפת נצרת סופחה ב־1906–1908 (לא משורטט; המדריך של האדמירליות אומר שנחשבה לחלק מסנג'ק ירושלים \"לנוחות עולי הרגל\"). ב־1908 ננקטו צעדים להפוך את באר שבע לסנג'ק נפרד שכלל שטחים שהיו קודם בסנג'ק כרכ (המדריך של האדמירליות). הבריטים כבשו את באר שבע ב־31 באוקטובר 1917, את עזה ב־7 בנובמבר ואת יפו ב־16 בנובמבר, וירושלים נכנעה ב־9 בדצמבר 1917 (לוק וקית'־רוץ' 1922).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

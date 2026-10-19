@@ -43,10 +43,44 @@
             "ref": "britannica-palestine-to-1900",
             "locator": "section 'Ottoman rule'",
             "quote": "Ẓāhir al-ʿUmar (c. 1737–75) dominated the political life of northern Palestine for nearly 40 years."
+          },
+          {
+            "ref": "doumani-1995-rediscovering-palestine",
+            "locator": "ch. 1, section 'The Rise of Acre'",
+            "quote": "Zahir al-Umar began his career as a minor tax collector and, over a forty-five-year period (1730–1775), emerged as the most powerful leader in Palestine."
+          },
+          {
+            "ref": "doumani-1995-rediscovering-palestine",
+            "locator": "ch. 1, section 'The Rise of Acre'",
+            "quote": "In 1735 the Jarrars were defeated by Zahir al-Umar, and their leader, Shaykh Ibrahim, was killed in the battle."
+          },
+          {
+            "ref": "volney-1787-travels-syria-egypt",
+            "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+            "quote": "There Pocock found him in 1737; occupied in fortifying himself against the Pacha of Damascus, who, not long before, had strangled one of his brothers."
+          },
+          {
+            "ref": "volney-1787-travels-syria-egypt",
+            "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+            "quote": "In 1742, another Pacha, named Soliman el adm, besieged him there; and bombarded the place, to the great astonishment of all Syria"
+          },
+          {
+            "ref": "volney-1787-travels-syria-egypt",
+            "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+            "quote": "entered the town, where he established himself, without resistance: this happened about the year 1749."
           }
         ],
         "id": "zahir-al-umar-galilee-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Doumani dates Zahir's rise from 1730 and his defeat of the Jarrar clan, which brought Nazareth into his domain, to 1735. Volney (1787) found him fortifying Tiberias in 1737 and dates his move to Acre to about 1749 (later than the 1746 used here for the end of this slice).",
+          "ar": "يؤرخ دوماني صعود ظاهر بسنة 1730، وانتصاره على آل جرار، الذي أدخل الناصرة في نطاق حكمه، بسنة 1735. ووجده فولني (1787) يحصّن طبريا سنة 1737، ويؤرخ انتقاله إلى عكا بنحو 1749 (أي بعد سنة 1746 المستخدمة هنا نهايةً لهذه الشريحة).",
+          "he": "דומאני מתארך את עלייתו של דאהר ל־1730, ואת ניצחונו על משפחת ג'ראר, שהכניס את נצרת לתחומו, ל־1735. וולניי (1787) מצא אותו מבצר את טבריה ב־1737 ומתארך את מעברו לעכו לשנת 1749 בערך (מאוחר מ־1746 המשמשת כאן כסוף הפרוסה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {

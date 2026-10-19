@@ -35,10 +35,34 @@
           {
             "ref": "britannica-sinai",
             "quote": "The Sinai was administered by Egypt until the Israelis overran the peninsula in the Six-Day War of June 1967."
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 20",
+            "quote": "Egypt was empowered to administer the territory of Sinai."
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 64",
+            "quote": "Finally, in December, Great Britain declared a Protectorate over Egypt due to the state of war with Turkey."
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 65",
+            "quote": "In early 1915, Great Britain withdrew its forces towards the Suez Canal and Turkey occupied much of the Sinai, remaining there until El Arish was taken in December 1916."
           }
         ],
         "id": "egypt-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Ottoman forces occupied much of Sinai from early 1915 until the British took El Arish in December 1916 (Taba award, para. 65); this wartime occupation is not modelled in this slice. Egyptian administration of Sinai dates from the 1841 hereditary grant to Muhammad Ali (Taba award, para. 20).",
+          "ar": "احتلت القوات العثمانية معظم سيناء من أوائل 1915 حتى استولى البريطانيون على العريش في كانون الأول/ديسمبر 1916 (قرار التحكيم في طابا، الفقرة 65)؛ ولا يُمثَّل هذا الاحتلال في زمن الحرب في هذه الشريحة. وتعود الإدارة المصرية لسيناء إلى منح الحكم الوراثي لمحمد علي سنة 1841 (قرار التحكيم في طابا، الفقرة 20).",
+          "he": "כוחות עות'מאניים כבשו את רוב סיני מראשית 1915 עד שהבריטים כבשו את אל־עריש בדצמבר 1916 (פסק הבוררות בעניין טאבה, סעיף 65); הכיבוש בזמן המלחמה אינו מתואר בפרוסה זו. המנהל המצרי בסיני מתחיל במענק הירושה למוחמד עלי ב־1841 (פסק הבוררות בעניין טאבה, סעיף 20).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {

@@ -194,3 +194,14 @@ Corrections applied:
 Held back: Ziada's statement that a treaty of April 1253 gave the Mamluks Jerusalem and the coast would change the map for 1253–1260; it rests on one source, so it is recorded as a note until checked against Humphreys (1977).
 
 Gaps: the early Islamic records still rest on older works (Gil, Donner and Kennedy could not be opened); one Hitti quotation comes from a poor OCR line and should be checked against a page image.
+
+### Scholarly sources for 1517–1948 (group C)
+
+All 60 records in this period that rested only on reference works now cite further sources: 230 source references, 31 new works. Open-access monographs from the University of California Press (Doumani, Kayalı, Akarlı, Makdisi, Lockman, Beinin, Vitalis, and chapters by Tariq Tell, Elizabeth Thompson, Joel Migdal and Elizabeth Picard), *Ordinary Jerusalem 1840–1940* (Brill, open access; chapters by Muhtadi and Naïli, using the Jerusalem Islamic court registers, Yazbak, Hanssen, Rioli, Gribetz and Eldem), the 1988 Taba arbitration award, and older public-domain works marked as dated or partisan where they are (Antonius 1938, Sokolow 1919, Volney 1787, Napier 1842, the 1922 *Handbook of Palestine*, the Admiralty *Handbook of Syria*, Ruppin 1920, van Berchem's corpus of Jerusalem inscriptions, Djemal Pasha's memoirs).
+- Begin's *The Revolt* was read in an unauthorised upload; it is cited but not linked.
+
+Corrections applied: the Arab Kingdom of Syria proclaimed on 8 March 1920 (Antonius; Akarlı gives the congress session of 7 March; Britannica's 20 March is not supported); Ottoman rule restored in November 1840 (Acre taken 4 November; Jerusalem court records), with the end of Egyptian rule aligned; Abdulhamid II 31 August 1876 – 27 April 1909; Cemal Pasha took command in Damascus in December 1914; the bombardment of Acre on 3–4 November 1840; the Rafah–Aqaba agreement signed 1 October 1906; the Jaffa–Jerusalem railway inaugurated 26 September 1892; the First Zionist Congress from 29 August 1897. Notes added or corrected on: the Jerusalem municipality (1863, not 1887), Petah Tikva (1878), Suleiman's walls (inscriptions AH 944–947), the Land Code, the 1773 and 1775 campaigns, OETA East and Transjordan, the Golan and Karak in the vilayet of Syria, the Ottoman occupation of Sinai in 1915–16, and the 1917 British advance.
+
+Not changed on the map yet: Faisal's administration in northern and central Transjordan (1918–1920) and the wartime Ottoman occupation of Sinai are described in notes but not drawn.
+
+Gaps: Suleiman's death (1566), Syria's independence (April 1946), Egypt's republic (1953) and the days of the Gülhane edict, the Kütahya convention and the King David Hotel bombing still rest on Britannica alone; DergiPark (Turkish journals) and the Jerusalem Quarterly could not be searched.

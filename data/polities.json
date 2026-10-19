@@ -8241,7 +8241,7 @@
       },
       "end": {
         "year": 1840,
-        "month": 12,
+        "month": 11,
         "circa": true,
         "precision": "month",
         "latest": 1841
@@ -8594,6 +8594,26 @@
           "ref": "britannica-palestine-ww1",
           "locator": "section 'World War I and after', paragraph 2",
           "quote": "Jerusalem was captured by British and Allied forces under the command of General Sir Edmund (later 1st Viscount) Allenby in December 1917. The remaining area was occupied by the British by October 1918."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "after which it was attached to the province of Sidon, and then to the province of Beirut in 1887/1888."
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "ch. 'Turkish Administration', p. 238",
+          "quote": "The corresponding western half, still excluding Lebanon and also the sanjaq of Jerusalem, was called the vilayet of Beirut."
+        },
+        {
+          "ref": "luke-keith-roach-1922-handbook-of-palestine",
+          "locator": "Part IV, 'System of Administration', p. 134",
+          "quote": "Palestine lay, administratively speaking, partly in the autonomous Sanjaq (Liwa, Mutesarriflik) of Jerusalem, partly in the Vilayet of Beirut."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 7, section 'The End of the Empire and Turkish-Arab Relations'",
+          "quote": "With the occupation of Damascus and the rest of Syria by the Anglo-Arab forces in October 1918 and the Ottoman surrender at the Mudros cease-fire at the end of that month"
         }
       ],
       "notes": {
@@ -8893,12 +8913,37 @@
           "ref": "britannica-syria-ottoman-rule-restored",
           "locator": "World War I",
           "quote": "When the war ended, Allenby installed an Arab military administration, under Faisal, in Damascus and the interior. The French took over the coast"
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 2, p. 279",
+          "quote": "the second, known as O.E.T.A. East, comprised the interior of Syria from 'Aqaba to Aleppo and was Arab"
+        },
+        {
+          "ref": "tell-2000-guns-gold-and-grain",
+          "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+          "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+        },
+        {
+          "ref": "tell-2000-guns-gold-and-grain",
+          "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+          "quote": "Although local shaykhs and “petty notables” from Ma‘an, ‘Ajlun, and al-Salt took part in Damascene politics, the unified Faisalite administration established in Amman wielded little effective power."
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. II, para. 24",
+          "quote": "The Emir Feisal had ridden into Damascus at the head of the Arab horsemen in the first week of October and, with General Allenby’s permission, had hoisted the Arab flag."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 8 (Anglo-French arrangement of September 1919), p. 299",
+          "quote": "This gave the Arabs the exclusive garrisoning of the towns and districts of 'Aqaba, 'Amman, Damascus, Homs, Hama and Aleppo"
         }
       ],
       "notes": {
-        "en": "Arab administration of the Syrian interior under Faisal, operating under the overall authority of the Allied (British) commander-in-chief until the proclamation of the Arab Kingdom of Syria in March 1920. Its southern extent (Golan, Hauran, and whether northern Transjordan was administered from Damascus) was not confirmed in the sources consulted; the southern Transjordanian districts of Ma'an and Aqaba were held by the Kingdom of the Hijaz (King Hussein site).",
-        "ar": "إدارة عربية للداخل السوري بقيادة فيصل، تعمل تحت السلطة العامة للقائد العام للحلفاء (البريطاني) حتى إعلان المملكة العربية السورية في آذار/مارس 1920. ولم يُؤكد في المصادر التي رُجع إليها امتدادها الجنوبي (الجولان وحوران، وهل كان شمال شرق الأردن يُدار من دمشق)؛ وكانت المقاطعات الجنوبية في شرق الأردن معان والعقبة بيد مملكة الحجاز (موقع الملك حسين).",
-        "he": "מינהל ערבי של פנים סוריה בהנהגת פייסל, הפועל תחת הסמכות הכוללת של המפקד העליון של בעלות הברית (הבריטי) עד הכרזת הממלכה הערבית של סוריה במרץ 1920. היקפו הדרומי (הגולן, החורן, והאם צפון עבר הירדן נוהל מדמשק) לא אושר במקורות שנבדקו; המחוזות הדרומיים של עבר הירדן, מעאן ועקבה, הוחזקו בידי ממלכת החיג'אז (אתר המלך חוסיין).",
+        "en": "Arab administration of the Syrian interior under Faisal, operating under the overall authority of the Allied (British) commander-in-chief until the proclamation of the Arab Kingdom of Syria in March 1920. Antonius describes OETA East as comprising 'the interior of Syria from 'Aqaba to Aleppo', and under the Anglo-French arrangement of September 1919 Arab troops garrisoned 'Aqaba, 'Amman, Damascus, Homs, Hama and Aleppo. Tell (2000) shows that northern and central Transjordan ('Ajlun, al-Salt, Amman) belonged to Faisal's government, with a 'unified Faisalite administration established in Amman' that had little effective power, and that the regime began with King Hussein annexing Ma'an and Aqaba to the Hijaz. The Golan and Hauran are inferred to lie within the Damascus administration.",
+        "ar": "إدارة عربية للداخل السوري برئاسة فيصل، عملت تحت السلطة العامة للقائد العام للحلفاء (البريطاني) حتى إعلان المملكة العربية السورية في آذار/مارس 1920. ويصف أنطونيوس منطقة الإدارة الشرقية بأنها تشمل «داخل سوريا من العقبة إلى حلب»، وبموجب الترتيب الإنجليزي-الفرنسي في أيلول/سبتمبر 1919 رابطت قوات عربية في العقبة وعمّان ودمشق وحمص وحماة وحلب. ويبيّن تل (2000) أن شمال شرق الأردن ووسطه (عجلون والسلط وعمّان) كانت تابعة لحكومة فيصل، مع «إدارة فيصلية موحدة أُقيمت في عمّان» لم تكن لها سلطة فعلية تُذكر، وأن النظام بدأ بضم الملك حسين معان والعقبة إلى الحجاز. ويُستنتج أن الجولان وحوران كانا ضمن إدارة دمشق.",
+        "he": "מנהל ערבי של פנים סוריה בראשות פייסל, שפעל תחת סמכותו הכוללת של המפקד העליון של בעלות הברית (הבריטי) עד הכרזת הממלכה הערבית של סוריה במרץ 1920. אנטוניוס מתאר את מנהל השטח הכבוש המזרחי כמשתרע על \"פנים סוריה מעקבה ועד חלב\", ולפי ההסדר האנגלו־צרפתי מספטמבר 1919 חנו כוחות ערביים בעקבה, עמאן, דמשק, חומס, חמה וחלב. טל (2000) מראה שצפון עבר הירדן ומרכזו (עג'לון, א־סלט, עמאן) השתייכו לממשלת פייסל, עם \"מנהל פייסלי מאוחד שהוקם בעמאן\" שהיה לו כוח ממשי מועט, ושהמשטר החל בסיפוח מען ועקבה לחג'אז בידי המלך חוסיין. ההנחה היא שהגולן והחוראן היו בתחום המנהל של דמשק.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8953,7 +8998,8 @@
       "start": {
         "year": 1920,
         "month": 3,
-        "precision": "month"
+        "day": 8,
+        "precision": "day"
       },
       "end": {
         "year": 1920,
@@ -8970,12 +9016,47 @@
         {
           "ref": "britannica-syria-french-mandate",
           "quote": "a French ultimatum demanding Syrian recognition of the mandate was followed by a French occupation and the expulsion in July of Faisal"
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 9, p. 304",
+          "quote": "On the 8th of March, the General Syrian Congress sat in Damascus and passed a resolution proclaiming the independence of Syria (including Palestine and the Lebanon) as a sovereign state"
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 'The War Years and After, 1915-1920'",
+          "quote": "The Syrian declaration of independence in Damascus, in the congress of 7 March 1920, recognized the right of the Lebanese to preserve their own form of administration"
+        },
+        {
+          "ref": "tell-2000-guns-gold-and-grain",
+          "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+          "quote": "Proclaimed king by the Syrian Congress in March 1920, he was forced to abandon his capital four months later as the French army of the Levant under General Gouraud advanced upon it from Beirut."
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. II, para. 28",
+          "quote": "In March, 1920, he had been proclaimed King of Syria and Palestine by a congress of Syrian notables."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 10, p. 307",
+          "quote": "This communication was eventually despatched on the 14th of July and reached Faisal later in the day."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 10, p. 308",
+          "quote": "French columns advanced on Damascus and entered the city on the tenth day following its presentation."
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. II, para. 28",
+          "quote": "By the end of August Damascus had been occupied by a French army, and the Emir expelled from Syria."
         }
       ],
       "notes": {
-        "en": "The kingdom claimed Palestine (and by implication Transjordan) but controlled only the Damascus-centred interior; the San Remo conference (25 April 1920) instead placed Syria and Palestine under mandates, with Syria to France (Britannica; UN DPR Part I). Britannica's Palestine article dates the Syrian Congress resolution to 20 March 1920 while its Syria article gives only 'March 1920'; the day is left unspecified. Ended with the French occupation of Damascus in July 1920.",
-        "ar": "ادّعت المملكة فلسطين (وضمنًا شرق الأردن) لكنها لم تسيطر إلا على الداخل الذي مركزه دمشق؛ أما مؤتمر سان ريمو (25 نيسان/أبريل 1920) فوضع سوريا وفلسطين تحت الانتداب، وسوريا لفرنسا (بريتانيكا؛ UN DPR الجزء الأول). تؤرخ مقالة بريتانيكا عن فلسطين قرار المؤتمر السوري بـ20 آذار/مارس 1920 بينما تذكر مقالتها عن سوريا \"March 1920\" فقط؛ ولذلك يُترك اليوم غير محدد. انتهت بالاحتلال الفرنسي لدمشق في تموز/يوليو 1920.",
-        "he": "הממלכה תבעה את פלשתינה (ובאופן משתמע את עבר הירדן) אך שלטה רק בפנים שמרכזו דמשק; ועידת סן רמו (25 באפריל 1920) הציבה במקום זאת את סוריה ופלשתינה תחת מנדטים, כשסוריה לצרפת (בריטניקה; UN DPR חלק I). המאמר של בריטניקה על פלשתינה מתארך את החלטת הקונגרס הסורי ל-20 במרץ 1920, בעוד המאמר שלה על סוריה נותן רק \"March 1920\"; היום נשאר בלתי מוגדר. הסתיימה בכיבוש הצרפתי של דמשק ביולי 1920.",
+        "en": "The kingdom claimed Palestine (and by implication Transjordan) but controlled only the Damascus-centred interior; the San Remo conference (25 April 1920) instead placed Syria and Palestine under mandates, with Syria to France (Britannica; UN DPR Part I). The General Syrian Congress proclaimed independence and Faisal's kingship on 8 March 1920 (Antonius; Akarli gives the congress session as 7 March); Britannica's Palestine article gives 20 March. The French ultimatum reached Faisal on 14 July 1920 and French columns entered Damascus on the tenth day after it (Antonius), after the fighting at Maysalun; the Peel report's 'by the end of August' is loose.",
+        "ar": "طالبت المملكة بفلسطين (وضمناً بشرق الأردن) لكنها لم تسيطر إلا على الداخل المتمركز حول دمشق؛ وبدلاً من ذلك وضع مؤتمر سان ريمو (25 نيسان/أبريل 1920) سوريا وفلسطين تحت الانتداب، وأُسندت سوريا إلى فرنسا (بريتانيكا؛ دراسة الأمم المتحدة، الجزء الأول). وأعلن المؤتمر السوري العام الاستقلال وملكية فيصل في 8 آذار/مارس 1920 (أنطونيوس؛ ويذكر أقارلي أن جلسة المؤتمر كانت في 7 آذار/مارس)؛ وتذكر مقالة بريتانيكا عن فلسطين 20 آذار/مارس. ووصل الإنذار الفرنسي إلى فيصل في 14 تموز/يوليو 1920 ودخلت الطوابير الفرنسية دمشق في اليوم العاشر بعده (أنطونيوس)، بعد معركة ميسلون؛ وعبارة تقرير بيل «بحلول نهاية آب/أغسطس» غير دقيقة.",
+        "he": "הממלכה תבעה את פלשתינה (ומכללא את עבר הירדן) אך שלטה רק בפנים הארץ שמרכזו בדמשק; ועידת סן רמו (25 באפריל 1920) הציבה במקום זאת את סוריה ופלשתינה תחת מנדטים, וסוריה ניתנה לצרפת (בריטניקה; מחקר האו\"ם, חלק א'). הקונגרס הסורי הכללי הכריז על העצמאות ועל מלכות פייסל ב־8 במרץ 1920 (אנטוניוס; אקרלי נותן את מושב הקונגרס ב־7 במרץ); מאמר בריטניקה על פלשתינה נותן 20 במרץ. האולטימטום הצרפתי הגיע לפייסל ב־14 ביולי 1920, והטורים הצרפתיים נכנסו לדמשק ביום העשירי שאחריו (אנטוניוס), אחרי הקרב במייסלון; הניסוח \"עד סוף אוגוסט\" בדוח פיל אינו מדויק.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9185,12 +9266,42 @@
         {
           "ref": "britannica-syria-french-mandate",
           "quote": "Withdrawal from Syria was completed by April 1946."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "p. 354 (San Remo settlement)",
+          "quote": "while O.E.T.A. (East) and O.E.T.A. (West) became the State of Syria and the State of the Lebanon respectively, both of them subject to a French mandate"
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XIV, section 10, p. 308",
+          "quote": "French columns advanced on Damascus and entered the city on the tenth day following its presentation."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 'The Council as the Representative of Lebanese'",
+          "quote": "after the withdrawal of the Ottomans from Syria in October 1918 until the proclamation of the State of Greater Lebanon under French mandate in September 1920"
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'National Governments and the Legacy of Colonial Welfare, 1944-46'",
+          "quote": "On January 1, 1944, the French transferred to the national governments the main pillar of their rule: the Common Interests administration."
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'National Governments and the Legacy of Colonial Welfare, 1944-46'",
+          "quote": "Second, the states did not yet face prohibitive military costs, which they would after the French withdrawal in 1946."
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'National Governments and the Legacy of Colonial Welfare, 1944-46'",
+          "quote": "By the end of 1944, the only important institutions still left in French hands were their own army, the Troupes spéciales (the locally recruited military), and the Serail building"
         }
       ],
       "notes": {
-        "en": "Start = French occupation of Damascus and expulsion of Faisal (July 1920), following the San Remo allocation (April 1920); mandate text approved July 1922 and in force 1923 together with the Palestine Mandate (UN DPR Part I). Greater Lebanon was declared in August 1920 (Britannica Syria article; its Lebanon article says 'In 1920'). Free French proclaimed Syrian and Lebanese independence in 1941; Lebanon's independence was proclaimed 22 Nov 1943; foreign troops left Syria by April 1946 and Lebanon by end-1946. Contains the Golan from March 1923.",
-        "ar": "البداية = الاحتلال الفرنسي لدمشق وطرد فيصل (تموز/يوليو 1920)، بعد تخصيص سان ريمو (نيسان/أبريل 1920)؛ أُقر نص الانتداب في تموز/يوليو 1922 ونفذ عام 1923 مع الانتداب على فلسطين (UN DPR الجزء الأول). أُعلن لبنان الكبير في آب/أغسطس 1920 (مقالة بريتانيكا عن سوريا؛ وتقول مقالتها عن لبنان \"In 1920\"). أعلنت فرنسا الحرة استقلال سوريا ولبنان عام 1941؛ وأُعلن استقلال لبنان في 22 تشرين الثاني/نوفمبر 1943؛ وغادرت القوات الأجنبية سوريا بحلول نيسان/أبريل 1946 ولبنان بنهاية 1946. تضم الجولان منذ آذار/مارس 1923.",
-        "he": "התחלה = הכיבוש הצרפתי של דמשק וגירוש פייסל (יולי 1920), בעקבות הקצאת סן רמו (אפריל 1920); נוסח המנדט אושר ביולי 1922 ונכנס לתוקף ב-1923 יחד עם המנדט לפלשתינה (UN DPR חלק I). לבנון רבתי הוכרזה באוגוסט 1920 (המאמר של בריטניקה על סוריה; המאמר שלה על לבנון אומר \"In 1920\"). צרפת החופשית הכריזה על עצמאות סוריה ולבנון ב-1941; עצמאות לבנון הוכרזה ב-22 בנובמבר 1943; כוחות זרים עזבו את סוריה עד אפריל 1946 ואת לבנון עד סוף 1946. כוללת את הגולן ממרץ 1923.",
+        "en": "Start = French occupation of Damascus and expulsion of Faisal (July 1920), following the San Remo allocation (April 1920); mandate text approved July 1922 and in force 1923 together with the Palestine Mandate (UN DPR Part I). Greater Lebanon was proclaimed in September 1920 (Akarli; Britannica's Syria article says August 1920, its Lebanon article 'In 1920'). Free French proclaimed Syrian and Lebanese independence in 1941; Lebanon's independence was proclaimed 22 Nov 1943; on 1 January 1944 the French handed the Common Interests administration to the national governments but kept their army and the Troupes speciales (Thompson); foreign troops left Syria by April 1946 and Lebanon by end-1946. Contains the Golan from March 1923.",
+        "ar": "البداية = الاحتلال الفرنسي لدمشق وطرد فيصل (تموز/يوليو 1920)، بعد تخصيص سان ريمو (نيسان/أبريل 1920)؛ وأُقرّ نص الانتداب في تموز/يوليو 1922 ودخل حيز النفاذ سنة 1923 مع انتداب فلسطين (دراسة الأمم المتحدة، الجزء الأول). وأُعلن لبنان الكبير في أيلول/سبتمبر 1920 (أقارلي؛ وتقول مقالة بريتانيكا عن سوريا آب/أغسطس 1920، ومقالتها عن لبنان «سنة 1920»). وأعلنت فرنسا الحرة استقلال سوريا ولبنان سنة 1941؛ وأُعلن استقلال لبنان في 22 تشرين الثاني/نوفمبر 1943؛ وفي 1 كانون الثاني/يناير 1944 سلّم الفرنسيون إدارة المصالح المشتركة إلى الحكومتين الوطنيتين لكنهم أبقوا جيشهم والقوات الخاصة (تومسون)؛ وغادرت القوات الأجنبية سوريا بحلول نيسان/أبريل 1946 ولبنان بحلول نهاية 1946. ويشمل الجولان منذ آذار/مارس 1923.",
+        "he": "התחלה = הכיבוש הצרפתי של דמשק וגירוש פייסל (יולי 1920), בעקבות ההקצאה בסן רמו (אפריל 1920); נוסח המנדט אושר ביולי 1922 ונכנס לתוקף ב־1923 יחד עם מנדט פלשתינה (מחקר האו\"ם, חלק א'). לבנון הגדולה הוכרזה בספטמבר 1920 (אקרלי; מאמר בריטניקה על סוריה אומר אוגוסט 1920, ומאמרה על לבנון \"ב־1920\"). צרפת החופשית הכריזה על עצמאות סוריה ולבנון ב־1941; עצמאות לבנון הוכרזה ב־22 בנובמבר 1943; ב־1 בינואר 1944 העבירו הצרפתים את מנהל האינטרסים המשותפים לממשלות הלאומיות אך השאירו את צבאם ואת הכוחות המיוחדים (תומפסון); הכוחות הזרים עזבו את סוריה עד אפריל 1946 ואת לבנון עד סוף 1946. כולל את הגולן ממרץ 1923.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9251,6 +9362,16 @@
         {
           "ref": "britannica-golan-heights",
           "quote": "The area was part of extreme southwestern Syria until 1967, when it came under Israeli military occupation"
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'National Governments and the Legacy of Colonial Welfare, 1944-46'",
+          "quote": "Second, the states did not yet face prohibitive military costs, which they would after the French withdrawal in 1946."
+        },
+        {
+          "ref": "migdal-2000-israel-1967-war",
+          "locator": "section 'Boundary Changes Open New Questions about the Construction of Society'",
+          "quote": "at the 1967 war’s end Israel ruled the Golan Heights, the Sinai Desert, the West Bank, and the Gaza Strip."
         }
       ],
       "notes": {
@@ -9287,6 +9408,26 @@
         {
           "ref": "britannica-lebanon-french-mandate",
           "quote": "Although independence had been proclaimed on November 22, 1943, it was not until after another crisis in 1945 that an agreement was reached on a simultaneous withdrawal of British and French troops."
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'Realization of a Colonial Welfare State, 1941-43' (end)",
+          "quote": "When in November the Lebanese parliament proceeded unilaterally to amend the country’s constitution, expunging references to the mandate, Helleu staged a coup"
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'Realization of a Colonial Welfare State, 1941-43' (end)",
+          "quote": "Thirteen days of protest began on November 10 with crowds tearing down pictures of Charles de Gaulle from public walls."
+        },
+        {
+          "ref": "thompson-2000-colonial-welfare-state",
+          "locator": "section 'National Governments and the Legacy of Colonial Welfare, 1944-46' (opening)",
+          "quote": "Allied pressure forced the French not only to reinstate the Lebanese government but also to relinquish their civilian powers in both countries."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 'The Council as the Representative of Lebanese'",
+          "quote": "after the withdrawal of the Ottomans from Syria in October 1918 until the proclamation of the State of Greater Lebanon under French mandate in September 1920"
         }
       ],
       "notes": {
@@ -9330,6 +9471,26 @@
         {
           "ref": "britannica-egypt-revolution-republic",
           "quote": "had been president since June 1953, when Egypt officially became a republic"
+        },
+        {
+          "ref": "taba-arbitration-award-1988",
+          "locator": "para. 64",
+          "quote": "Finally, in December, Great Britain declared a Protectorate over Egypt due to the state of war with Turkey."
+        },
+        {
+          "ref": "vitalis-1995-when-capitalists-collide",
+          "locator": "ch. 2, opening of the section on British policy after 1914",
+          "quote": "In 1914, the British state had finally formalized its thirty-year occupation of the Ottoman province by declaring Egypt a protectorate."
+        },
+        {
+          "ref": "vitalis-1995-when-capitalists-collide",
+          "locator": "ch. 2, opening of the section on British policy after 1914",
+          "quote": "a countrywide revolt in 1919 tipped the scales against ultraimperialist currents in the British state and society, and paved the way for the formal grant of independence to Egypt in 1922."
+        },
+        {
+          "ref": "beinin-1998-dispersion-egyptian-jewry",
+          "locator": "Introduction, section 'Alternatives to Neo-lachrymosity'",
+          "quote": "On July 23, 1952, a military coup led by Gamal Abdel Nasser and the Free Officers overthrew the monarchy."
         }
       ],
       "notes": {

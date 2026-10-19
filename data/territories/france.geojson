@@ -39,12 +39,32 @@
           {
             "ref": "britannica-syria-french-mandate",
             "quote": "a French ultimatum demanding Syrian recognition of the mandate was followed by a French occupation and the expulsion in July of Faisal"
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 10, p. 308",
+            "quote": "French columns advanced on Damascus and entered the city on the tenth day following its presentation."
+          },
+          {
+            "ref": "akarli-1993-long-peace",
+            "locator": "ch. 'The Council as the Representative of Lebanese'",
+            "quote": "after the withdrawal of the Ottomans from Syria in October 1918 until the proclamation of the State of Greater Lebanon under French mandate in September 1920"
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "Part I, §1 'Introductory', p. 1",
+            "quote": "The boundary on the north was determined by the Franco-British Convention of the 23rd December, 1920, and was delimited in 1922."
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "Part I, §1 'Introductory', p. 1",
+            "quote": "thence N.N.E. to Metullah and across the upper Jordan Valley to Banias, thence S.S.W. to Jisr Benat Yaqub"
           }
         ],
         "notes": {
-          "en": "The coast (incl. Beirut) had been under French military administration since late 1918 (Britannica: 'The French took over the coast'); not modelled separately.",
-          "ar": "كان الساحل (بما فيه بيروت) تحت الإدارة العسكرية الفرنسية منذ أواخر 1918 (بريتانيكا: 'The French took over the coast')؛ ولم يُمثَّل منفصلًا.",
-          "he": "החוף (כולל ביירות) היה תחת מנהל צבאי צרפתי מסוף 1918 (בריטניקה: 'The French took over the coast'); לא מודל בנפרד.",
+          "en": "The coast (incl. Beirut) had been under French military administration since late 1918 (Britannica: 'The French took over the coast'); not modelled separately. The Palestine-Syria boundary was set by the Franco-British Convention of 23 December 1920 and delimited by a joint commission in 1922 (Luke and Keith-Roach 1922, who already describe the delimited line running from Banias S.S.W. to Jisr Banat Yaqub); the transfer of the Golan triangle took effect in 1923.",
+          "ar": "كان الساحل (بما فيه بيروت) تحت إدارة عسكرية فرنسية منذ أواخر 1918 (بريتانيكا: «تسلّم الفرنسيون الساحل»)؛ ولا يُمثَّل منفصلاً. ورُسمت الحدود بين فلسطين وسوريا بموجب الاتفاقية الفرنسية-البريطانية في 23 كانون الأول/ديسمبر 1920 وعلّمتها لجنة مشتركة سنة 1922 (لوك وكيث-روتش 1922، اللذان يصفان بالفعل الخط المُعلَّم الممتد من بانياس جنوباً جنوبَ غربٍ إلى جسر بنات يعقوب)؛ ودخل نقل مثلث الجولان حيز التنفيذ سنة 1923.",
+          "he": "החוף (כולל ביירות) היה תחת ממשל צבאי צרפתי מסוף 1918 (בריטניקה: \"הצרפתים השתלטו על החוף\"); אינו מתואר בנפרד. הגבול בין פלשתינה לסוריה נקבע באמנה הצרפתית־בריטית מ־23 בדצמבר 1920 וסומן בידי ועדה משותפת ב־1922 (לוק וקית'־רוץ' 1922, שכבר מתארים את הקו המסומן העובר מבניאס דרומה־דרום־מערבה לגשר בנות יעקב); העברת משולש הגולן נכנסה לתוקף ב־1923.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

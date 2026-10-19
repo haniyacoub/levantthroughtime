@@ -176,9 +176,9 @@
         ],
         "boundary_certainty": "schematic",
         "description": {
-          "en": "Reduced inland province after the creation of the Province of Beirut; Balqa (east of the Jordan) appended to it. Ottoman administration reached Karak in the 1890s (which province it belonged to was not verified here).",
-          "ar": "إقليم داخلي مقلّص بعد إنشاء ولاية بيروت؛ وأُلحقت به البلقاء (شرق الأردن). وصلت الإدارة العثمانية إلى الكرك في تسعينيات القرن التاسع عشر (ولم يُتحقق هنا من الولاية التي تبعها).",
-          "he": "מחוז פנימי מצומצם לאחר הקמת מחוז ביירות; הבלקא (ממזרח לירדן) צורפה אליו. המינהל העות׳מאני הגיע לכרך בשנות ה-90 של המאה ה-19 (לאיזה מחוז השתייכה לא אומת כאן).",
+          "en": "Reduced inland province (vilayet of Syria, also called the vilayet of Damascus) after the creation of the Province of Beirut; Balqa (east of the Jordan) appended to it in 1888. It included the Golan (kaza of Quneitra) and, from the 1890s, the sanjaq of Karak (Ma'an).",
+          "ar": "ولاية داخلية مقلّصة (ولاية سوريا، وتسمى أيضاً ولاية دمشق) بعد إنشاء ولاية بيروت؛ وأُلحق بها البلقاء (شرقي الأردن) سنة 1888. وضمت الجولان (قضاء القنيطرة)، ومنذ تسعينيات القرن التاسع عشر سنجق الكرك (معان).",
+          "he": "פרובינציה פנימית מצומצמת (וילאיית סוריה, הנקרא גם וילאיית דמשק) אחרי הקמת וילאיית ביירות; אל־בלקאא (ממזרח לירדן) צורף אליה ב־1888. היא כללה את הגולן (קזה של קוניטרה) ומשנות ה־90 של המאה ה־19 את סנג'ק כרכ (מען).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -200,12 +200,37 @@
             "ref": "britannica-al-karak",
             "locator": "paragraph 4",
             "quote": "In 1840 Al-Karak was occupied by Ibrahim Pasha; it was administered by the Ottomans in the 1890s"
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "ch. 'Turkish Administration', p. 238",
+            "quote": "The eastern half retained the old name and is best referred to as the vilayet of Damascus."
+          },
+          {
+            "ref": "doumani-1995-rediscovering-palestine",
+            "locator": "ch. 1, section 'Egyptian Rule, 1831-1840' (last paragraph)",
+            "quote": "Until this new part was detached in 1888, Jabal Nablus became officially known as the district (mutasarrifiyya) of Jabal Nablus and al-Balqa."
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "ch. 'Turkish Administration', p. 240, note 3",
+            "quote": "Previous to 1894 this sanjaq was called Ma‘an and had its capital at Ma‘an. In 1894 Salt was added to the sanjaq and the capital was moved to Kerak."
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "ch. 'Turkish Administration', p. 240, note 1",
+            "quote": "Quneiterah was transferred from the Hauran to this sanjaq between 1901 and 1906."
+          },
+          {
+            "ref": "kayali-1997-arabs-and-young-turks",
+            "locator": "ch. 7, section 'The End of the Empire and Turkish-Arab Relations'",
+            "quote": "With the occupation of Damascus and the rest of Syria by the Anglo-Arab forces in October 1918 and the Ottoman surrender at the Mudros cease-fire at the end of that month"
           }
         ],
         "notes": {
-          "en": "Golan assignment not verified.",
-          "ar": "لم يُتحقق من إسناد الجولان.",
-          "he": "שיוך הגולן לא אומת.",
+          "en": "The Golan belonged to this province: the Admiralty handbook lists the kaza of Quneitra in the vilayet of Damascus (moved from the sanjaq of Hauran to that of Damascus between 1901 and 1906). The Karak/Ma'an sanjaq (capital Ma'an until 1894, then Karak) was also part of this vilayet. The Balqa was detached from the Nablus district in 1888 (Doumani).",
+          "ar": "كان الجولان تابعاً لهذه الولاية: يدرج دليل الأميرالية قضاء القنيطرة ضمن ولاية دمشق (نُقل من سنجق حوران إلى سنجق دمشق بين 1901 و1906). وكان سنجق الكرك/معان (عاصمته معان حتى 1894، ثم الكرك) جزءاً من هذه الولاية أيضاً. وفُصل البلقاء عن لواء نابلس سنة 1888 (دوماني).",
+          "he": "הגולן השתייך לפרובינציה זו: המדריך של האדמירליות מונה את קזה של קוניטרה בווילאיית דמשק (הועברה מסנג'ק חוראן לסנג'ק דמשק בין 1901 ל־1906). גם סנג'ק כרכ/מען (בירתו מען עד 1894, ואחר כך כרכ) היה חלק מווילאיית זו. אל־בלקאא הופרד ממחוז שכם ב־1888 (דומאני).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

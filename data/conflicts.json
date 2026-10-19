@@ -11414,6 +11414,26 @@
           "ref": "tdv-zahir-el-omer",
           "locator": "article text",
           "quote": "Bu kesimde Sakr kabilesiyle ittifak yaparak 1730’lardan itibaren bölgedeki gücünü arttırmaya başladı."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "Zahir al-Umar began his career as a minor tax collector and, over a forty-five-year period (1730–1775), emerged as the most powerful leader in Palestine."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "Zahir al-Umar built a military force that allowed him to expand the territories under his control and to withstand repeated attacks by the governors of Damascus."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "to cooperate with the Mamluks in Egypt, who, with his help, invaded Greater Syria in 1771 and again in 1773. It was precisely in these two years that Zahir al-Umar twice laid siege to Nablus."
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "In 1742, another Pacha, named Soliman el adm, besieged him there; and bombarded the place, to the great astonishment of all Syria"
         }
       ],
       "notes": {
@@ -11519,6 +11539,16 @@
           "ref": "strickert-2023-zahir",
           "locator": "Summary of Event",
           "quote": "In 1743, Süleyman was succeeded as governor of Damascus by Esad Paṣa."
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "In 1742, another Pacha, named Soliman el adm, besieged him there; and bombarded the place, to the great astonishment of all Syria"
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "A violent and sudden cholic carried off Soliman in two days."
         }
       ],
       "notes": {
@@ -11643,12 +11673,27 @@
           "ref": "tdv-yafa",
           "locator": "article text",
           "quote": "Şehir şiddetle mukavemet ettiyse de baş gösteren kıtlık ve açlık yüzünden Şubat 1773’te Ali Bey’e teslim olmak zorunda kaldı"
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "Mohammad Bey arrived in Palestine, with the grand army, in the month of February 1771, and followed the Shaik along the sea-coast to Acre."
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "In the month of February 1773, Ali Bey placed a governor in the town, for Daher, and hastened to join the Shaik at Acre"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "to cooperate with the Mamluks in Egypt, who, with his help, invaded Greater Syria in 1771 and again in 1773. It was precisely in these two years that Zahir al-Umar twice laid siege to Nablus."
         }
       ],
       "notes": {
-        "en": "Sources differ on who took Jaffa: Strickert credits Zahir; TDV says the city surrendered to Ali Bey in February 1773 after a siege. The troop number in the Strickert quote is an army size, not a casualty figure. Coordinates: Tiberias area (approximate).",
-        "ar": "تختلف المصادر فيمن أخذ يافا: يعزو ستريكرت ذلك إلى ظاهر؛ بينما يقول TDV إن المدينة استسلمت لعلي بك في شباط/فبراير 1773 بعد حصار. والعدد الوارد في اقتباس ستريكرت هو حجم جيش وليس عدد ضحايا. الإحداثيات: منطقة طبريا (تقريبية).",
-        "he": "המקורות חלוקים בשאלה מי כבש את יפו: סטריקרט מייחס זאת לדאהר; TDV אומר שהעיר נכנעה לעלי ביי בפברואר 1773 לאחר מצור. המספר בציטוט של סטריקרט הוא גודל צבא ולא מספר נפגעים. קואורדינטות: אזור טבריה (מקורבות).",
+        "en": "Sources differ on who took Jaffa: Strickert credits Zahir; TDV says the city surrendered to Ali Bey in February 1773 after a siege. Volney (1787) reconciles the two: after a long blockade the town capitulated in February 1773 and Ali Bey placed a governor there 'for Daher'. Doumani adds that Zahir twice besieged Nablus during the Egyptian invasions of 1771 and 1773. The troop number in the Strickert quote is an army size, not a casualty figure. Coordinates: Tiberias area (approximate).",
+        "ar": "تختلف المصادر في من استولى على يافا: ينسب ستريكرت ذلك إلى ظاهر؛ وتقول موسوعة TDV إن المدينة استسلمت لعلي بك في شباط/فبراير 1773 بعد حصار. ويوفّق فولني (1787) بين الروايتين: بعد حصار طويل استسلمت المدينة في شباط/فبراير 1773 وعيّن علي بك فيها حاكماً «لظاهر». ويضيف دوماني أن ظاهر حاصر نابلس مرتين خلال الغزوين المصريين سنتَي 1771 و1773. والرقم الوارد في اقتباس ستريكرت هو حجم جيش، لا عدد ضحايا. الإحداثيات: منطقة طبريا (تقريبية).",
+        "he": "המקורות חלוקים בשאלה מי כבש את יפו: שטריקרט מייחס זאת לדאהר; TDV אומרת שהעיר נכנעה לעלי ביי בפברואר 1773 אחרי מצור. וולניי (1787) מיישב בין השניים: אחרי מצור ממושך נכנעה העיר בפברואר 1773, ועלי ביי מינה בה מושל \"עבור דאהר\". דומאני מוסיף שדאהר צר פעמיים על שכם בזמן הפלישות המצריות של 1771 ו־1773. המספר בציטוט של שטריקרט הוא גודל צבא, לא מספר נפגעים. קואורדינטות: אזור טבריה (משוער).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11753,12 +11798,32 @@
           "ref": "tdv-yafa",
           "locator": "article text",
           "quote": "Ancak Ebü’z-Zeheb Muhammed’in Ali Bey’i bertaraf etmesinin ardından Yafa işgalden kurtarıldı (1189/1775)."
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. I, history of Ali Bey and Mohammad Bey, p. 145",
+          "quote": "in the month of February, 1776, appeared in Palestine, with an army equal to that he had formerly headed against Damascus"
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. I, account of Muhammad Bey's 1776 [sic] campaign in Palestine, pp. 145-152",
+          "quote": "This catastrophe, which happened the 19th of May, 1776, spread terror through the country. Shaik Daher himself fled from Acre"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "it was the rulers of Acre—Zahir al-Umar (d. 1775), Ahmad Pasha al-Jazzar (d. 1804), Sulayman Pasha al-Adil (d. 1819)"
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. I, account of Muhammad Bey's 1776 [sic] campaign in Palestine, pp. 145-152",
+          "quote": "the whole army then rushed into the town, which suffered all the horrors of war: women and children, young and old, all were cut to"
         }
       ],
       "notes": {
-        "en": "The sack of Jaffa and killing of its inhabitants in 1775 is reported in the literature but was not verified in the sources opened here. Zahir's death in 1775: Strickert ('died violently in 1775' - polities layer). Start month approximate.",
-        "ar": "نهب يافا وقتل سكانها عام 1775 مذكور في الأدبيات لكن لم يُتحقق منه في المصادر المفتوحة هنا. وفاة ظاهر عام 1775: ستريكرت (‘died violently in 1775’ - طبقة الكيانات السياسية). شهر البدء تقريبي.",
-        "he": "ביזת יפו והריגת תושביה ב-1775 מדווחות בספרות אך לא אומתו במקורות שנפתחו כאן. מות דאהר ב-1775: סטריקרט (‘died violently in 1775’ - שכבת הישויות המדיניות). חודש ההתחלה מקורב.",
+        "en": "The sack of Jaffa is documented by Volney (1787): when the city fell 'the whole army then rushed into the town', killing women and children, young and old; he adds that Muhammad Bey had a pyramid of the heads raised and that the dead were said to number over twelve hundred. Volney dates the campaign one year late (arrival in Palestine February 1776, fall of Jaffa 19 May 1776, Muhammad's death in June 1776) but his day and months agree with the record (Jaffa taken 19/20 May; death within weeks at Acre). Zahir's death in 1775: Strickert ('died violently in 1775' - polities layer); Doumani also gives 1775. Start month approximate (Volney: February).",
+        "ar": "يوثّق فولني (1787) نهب يافا: حين سقطت المدينة «اندفع الجيش كله إلى المدينة»، فقتل النساء والأطفال، الشباب والشيوخ؛ ويضيف أن محمد بك أمر بإقامة هرم من الرؤوس، وأن عدد القتلى قيل إنه تجاوز ألفاً ومئتين. ويؤرخ فولني الحملة متأخراً سنة واحدة (الوصول إلى فلسطين في شباط/فبراير 1776، وسقوط يافا في 19 أيار/مايو 1776، ووفاة محمد في حزيران/يونيو 1776)، لكن اليوم والأشهر عنده تتفق مع السجل (أُخذت يافا في 19/20 أيار/مايو؛ والوفاة خلال أسابيع في عكا). وفاة ظاهر سنة 1775: ستريكرت («مات ميتة عنيفة سنة 1775» - طبقة الكيانات)؛ ويذكر دوماني أيضاً 1775. شهر البداية تقريبي (فولني: شباط/فبراير).",
+        "he": "שוד יפו מתועד אצל וולניי (1787): כשהעיר נפלה \"הסתער הצבא כולו אל העיר\" והרג נשים וילדים, צעירים וזקנים; הוא מוסיף שמוחמד ביי ציווה להקים פירמידה של ראשים ושמספר ההרוגים, כך נאמר, עלה על אלף ומאתיים. וולניי מתארך את המסע שנה אחת מאוחר מדי (הגעה לפלשתינה בפברואר 1776, נפילת יפו ב־19 במאי 1776, מות מוחמד ביוני 1776), אך היום והחודשים אצלו תואמים את הרשומה (יפו נכבשה ב־19/20 במאי; המוות בתוך שבועות בעכו). מות דאהר ב־1775: שטריקרט (\"מת מוות אלים ב־1775\" — שכבת הישויות); גם דומאני נותן 1775. חודש ההתחלה משוער (וולניי: פברואר).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -12343,6 +12408,31 @@
           "ref": "tdv-ibrahim-pasa",
           "locator": "article text",
           "quote": "taraflara bildirildi (6 Mayıs 1833). Bu sonuç, birçok Avrupa tarihçisi tarafından Kütahya Antlaşması olarak tanımlanmakla birlikte"
+        },
+        {
+          "ref": "makdisi-2000-culture-of-sectarianism",
+          "locator": "ch. 4, note 7",
+          "quote": "The Egyptian siege of Acre began in 1831, and it fell in May 1832; the battle of Konya took place in December 1832."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 1, section 'International Rivalries and Sectarian Strife'",
+          "quote": "Once Akka fell, in May 1832, Ibrahim Pasha quickly established his authority in coastal and inland Syria and then smoothly advanced to Kütahya, near Istanbul."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Introduction, p. xxii",
+          "quote": "The Egyptian army did not leave Koniyeh till the 20th of January, 1833, and reached Kutayah on the 1st of February."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Introduction, p. xxiii",
+          "quote": "the Treaty of Kutayah, by which the Ottoman empire was saved from immediate destruction, was signed, the Pachalic of Adana and the whole of Syria"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'Egyptian Rule, 1831-1840'",
+          "quote": "under the brilliant leadership of Muhammad Ali Pasha’s son, Ibrahim Pasha, soundly defeated the Ottoman forces"
         }
       ],
       "notes": {
@@ -12466,6 +12556,21 @@
           "ref": "tdv-akka",
           "locator": "article text",
           "quote": "Şehir, altı ay süren bu kuşatma sonunda harap bir halde Osmanlı muhafızlarından teslim alındı."
+        },
+        {
+          "ref": "makdisi-2000-culture-of-sectarianism",
+          "locator": "ch. 4, note 7",
+          "quote": "The Egyptian siege of Acre began in 1831, and it fell in May 1832; the battle of Konya took place in December 1832."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 1, section 'International Rivalries and Sectarian Strife'",
+          "quote": "In 1831 Ibrahim lay siege to Akka, beginning an all-out struggle between the sultan and the pasha of Egypt that lasted ten long years"
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 1, section 'International Rivalries and Sectarian Strife'",
+          "quote": "Once Akka fell, in May 1832, Ibrahim Pasha quickly established his authority in coastal and inland Syria and then smoothly advanced to Kütahya, near Istanbul."
         }
       ],
       "casualties": null
@@ -12774,6 +12879,36 @@
           "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "When in 1840 the British, the Austrians, and the Russians came to the aid of the Ottomans, the Egyptians were forced to withdraw, and Palestine reverted to the Ottoman Empire."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Appendix, text of the Convention of London, p. 297",
+          "quote": "Done at London, the fifteenth day of July, in the year of our Lord One thousand Eight hundred and forty."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XVII, Admiral Stopford's dispatch dated 4 November 1840, p. 220",
+          "quote": "the town and fortress of Acre were taken possession of by the allied forces under my command this morning in the name of the Sultan."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XX, convention with Boghos Bey, p. 282",
+          "quote": "signed at Alexandria, the 27th November, 1840."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XX, convention with Boghos Bey, art. I, p. 282",
+          "quote": "he engages to order his son Ibrahim Pacha to proceed immediately to the evacuation of Syria."
+        },
+        {
+          "ref": "muhtadi-naili-2018-end-of-egyptian-rule",
+          "locator": "p. 191",
+          "quote": "in a letter sent in December 1840, the Ottoman victory over the Egyptian forces was announced"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'Egyptian Rule, 1831-1840'",
+          "quote": "The European powers that forced Ibrahim Pasha’s retreat in 1840 lavished their attention on Jerusalem instead."
         }
       ],
       "notes": {
@@ -12804,14 +12939,14 @@
       "start": {
         "year": 1840,
         "month": 11,
-        "circa": true,
-        "precision": "month"
+        "day": 3,
+        "precision": "day"
       },
       "end": {
         "year": 1840,
         "month": 11,
-        "circa": true,
-        "precision": "month"
+        "day": 4,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -12887,12 +13022,27 @@
           "ref": "tdv-akka",
           "locator": "article text",
           "quote": "İngiltere ve Avusturyalılar’ın yardımı ile Suriye sahilleri abluka altına alındı; Sur ve Sayda şehirlerinden sonra Mehmed Ali Paşa’nın bu bölgedeki son dayanak noktası olan Akkâ yeniden Osmanlı hâkimiyetine girdi."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XVII, Admiral Stopford's dispatch dated 4 November 1840, pp. 220-221",
+          "quote": "The circumstances which led to this result occurred on the 3rd, when a heavy cannonade from the ships and vessels, beginning at 2 p.m. and ending at 5, completely demolished the town"
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XVII, Admiral Stopford's dispatch dated 4 November 1840, p. 220",
+          "quote": "the town and fortress of Acre were taken possession of by the allied forces under my command this morning in the name of the Sultan."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XVII, return of killed and wounded, p. 230",
+          "quote": "in the attack of the fortifications of St. Jean d'Acre, on the 3rd of November, 1840"
         }
       ],
       "notes": {
-        "en": "The commonly cited date of the naval bombardment (3 November 1840) was not given in the opened source; month shown as approximate.",
-        "ar": "التاريخ المتداول للقصف البحري (3 تشرين الثاني/نوفمبر 1840) لم يرد في المصدر المفتوح؛ والشهر المعروض تقريبي.",
-        "he": "התאריך המקובל להפצצה הימית (3 בנובמבר 1840) לא נמסר במקור שנפתח; החודש המוצג מקורב.",
+        "en": "Bombardment on the afternoon of 3 November 1840; the main powder magazine exploded about 4 p.m. and the Egyptian garrison evacuated in the night; the allies occupied Acre on 4 November (Admiral Stopford's dispatch, printed in Napier 1842).",
+        "ar": "قُصفت المدينة بعد ظهر 3 تشرين الثاني/نوفمبر 1840؛ وانفجر مخزن البارود الرئيسي نحو الساعة الرابعة مساءً وأخلت الحامية المصرية المدينة ليلاً؛ واحتل الحلفاء عكا في 4 تشرين الثاني/نوفمبر (رسالة الأدميرال ستوبفورد، المنشورة في نابير 1842).",
+        "he": "ההפגזה נערכה אחר הצהריים של 3 בנובמבר 1840; מחסן אבק השרפה הראשי התפוצץ בסביבות 4 אחר הצהריים, וחיל המצב המצרי פינה את העיר בלילה; בעלות הברית תפסו את עכו ב־4 בנובמבר (המשלוח של האדמירל סטופורד, שפורסם אצל נפייר 1842).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -15205,12 +15355,37 @@
           "ref": "britannica-irgun",
           "locator": "article text",
           "quote": "their actions included the capture of Acre prison, a medieval fortress that not even Napoleon had succeeded in capturing."
+        },
+        {
+          "ref": "begin-1951-the-revolt",
+          "locator": "chapter on the call to revolt (page not legible in OCR)",
+          "quote": "the public call to revolt published by the Irgun Zvai Leumi throughout the length and breadth of Eretz Israel early in 1944."
+        },
+        {
+          "ref": "begin-1951-the-revolt",
+          "locator": "final chapter (page not legible in OCR)",
+          "quote": "The Hebrew revolt of 1944-48 has been blessed with success"
+        },
+        {
+          "ref": "unscop-1947",
+          "locator": "ch. II, para. 92",
+          "quote": "From 1945 onwards, the Jewish resistance to the enforcement of the White Paper was accompanied by increasing acts of violence, culminating in 1946-1947 in the underground activities of the Irgun Zvai Leumi and the so-called Stern Group."
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 9, section 'The Descent into Madness'",
+          "quote": "There were, however, other Jewish military forces which did not accept the authority of the Yishuv's leadership. The most important of these (though much smaller than the Hagana) was ETZEL, commanded by Menahem Begin"
+        },
+        {
+          "ref": "unscop-1947",
+          "locator": "ch. II, para. 92",
+          "quote": "From 1945 onwards, the Jewish resistance to the enforcement of the White Paper was accompanied by increasing acts of violence"
         }
       ],
       "notes": {
-        "en": "Start: the Irgun's declaration of revolt in early 1944 is commonly cited (Wikidata Q6190058 gives 1 Feb 1944); the sources opened date the attacks only as wartime and November 1944 (Moyne). End taken as the end of the Mandate (Wikidata 14 May 1948). Framing differs: Britannica calls LEHI a 'terrorist splinter group' and Irgun's methods terrorism; the groups and later Israeli usage present it as a revolt/struggle for independence. The Haganah's participation (Jewish Resistance Movement, 1945-46) is general knowledge not verified in the sources opened, so it is listed as a party but not described further.",
-        "ar": "البداية: يُتداول إعلان الإرغون الثورة في مطلع 1944 (يعطي ويكي بيانات Q6190058 تاريخ 1 شباط/فبراير 1944)؛ وتؤرخ المصادر المفتوحة الهجمات فقط بزمن الحرب وبتشرين الثاني/نوفمبر 1944 (موين). والنهاية هي نهاية الانتداب (ويكي بيانات 14 أيار/مايو 1948). يختلف التأطير: تسمي بريتانيكا ليحي ‘terrorist splinter group’ وتصف أساليب الإرغون بالإرهاب؛ بينما تقدمها الجماعات نفسها والاستخدام الإسرائيلي اللاحق ثورة/نضالًا من أجل الاستقلال. ومشاركة الهاغاناه (حركة المقاومة اليهودية، 1945-46) معلومة عامة لم يُتحقق منها في المصادر المفتوحة، لذا تُدرج طرفًا دون مزيد من الوصف.",
-        "he": "ההתחלה: הכרזת האצ״ל על מרד בתחילת 1944 מצוטטת בדרך כלל (ויקינתונים Q6190058 נותן 1 בפברואר 1944); המקורות שנפתחו מתארכים את ההתקפות רק כימי מלחמה וכנובמבר 1944 (מוין). הסיום נלקח כסוף המנדט (ויקינתונים 14 במאי 1948). ההצגה שונה: בריטניקה מכנה את לח״י ‘terrorist splinter group’ ואת שיטות האצ״ל טרור; הארגונים עצמם והשימוש הישראלי המאוחר מציגים זאת כמרד/מאבק לעצמאות. השתתפות ההגנה (תנועת המרי העברי, 1945-46) היא ידיעה כללית שלא אומתה במקורות שנפתחו, ולכן היא רשומה כצד אך אינה מתוארת יותר.",
+        "en": "Start: Begin, the Irgun commander, dates the published call to revolt to 'early in 1944' and calls the campaign 'the Hebrew revolt of 1944-48'; Wikidata Q6190058 gives 1 Feb 1944, a day not found in an opened source. UNSCOP (1947) instead describes Jewish resistance to the White Paper as 'accompanied by increasing acts of violence' from 1945 onwards, culminating in 1946-1947. End taken as the end of the Mandate (Wikidata 14 May 1948). Framing differs: Britannica calls LEHI a 'terrorist splinter group' and Irgun's methods terrorism; the groups and later Israeli usage present it as a revolt/struggle for independence. The Haganah's participation (Jewish Resistance Movement, 1945-46) is general knowledge not verified in the sources opened, so it is listed as a party but not described further.",
+        "ar": "البداية: يؤرخ بيغن، قائد الإرغون، الدعوة المنشورة إلى الثورة بـ«أوائل 1944» ويسمي الحملة «الثورة العبرية 1944-1948»؛ ويذكر ويكي بيانات Q6190058 تاريخ 1 شباط/فبراير 1944، وهو يوم لم يُعثر عليه في مصدر فُتح. أما لجنة الأمم المتحدة الخاصة بفلسطين (1947) فتصف المقاومة اليهودية للكتاب الأبيض بأنها «مصحوبة بأعمال عنف متزايدة» منذ 1945 فصاعداً، وبلغت ذروتها في 1946-1947. وتُعتبر النهاية نهاية الانتداب (ويكي بيانات 14 أيار/مايو 1948). ويختلف التأطير: تسمي بريتانيكا ليحي «جماعة إرهابية منشقة» وأساليب الإرغون إرهاباً؛ بينما تقدمها هذه الجماعات والاستخدام الإسرائيلي اللاحق على أنها ثورة/نضال من أجل الاستقلال. ومشاركة الهاغاناه (حركة المقاومة العبرية، 1945-1946) معرفة عامة لم يُتحقق منها في المصادر المفتوحة، لذا تُذكر طرفاً دون وصف إضافي.",
+        "he": "התחלה: בגין, מפקד האצ\"ל, מתארך את הקריאה הפומבית למרד ל\"ראשית 1944\" וקורא למערכה \"המרד העברי 1944–1948\"; ויקינתונים Q6190058 נותנים 1 בפברואר 1944, יום שלא נמצא במקור שנפתח. ועדת האו\"ם המיוחדת (1947) מתארת לעומת זאת את ההתנגדות היהודית לספר הלבן כ\"מלווה במעשי אלימות גוברים\" מ־1945 ואילך, שהגיעו לשיאם ב־1946–1947. הסיום נקבע כסוף המנדט (ויקינתונים 14 במאי 1948). המסגור שונה: בריטניקה מכנה את לח\"י \"קבוצת פיצול טרוריסטית\" ואת שיטות האצ\"ל טרור; הקבוצות עצמן והשימוש הישראלי המאוחר מציגים זאת כמרד/מאבק לעצמאות. השתתפות ההגנה (תנועת המרי העברי, 1945–1946) היא ידע כללי שלא אומת במקורות שנפתחו, ולכן היא רשומה כצד אך אינה מתוארת יותר.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -15310,6 +15485,21 @@
           "ref": "britannica-palestine-arab-revolt",
           "locator": "section 'The early postwar period'",
           "quote": "The underground’s attacks culminated in Jerusalem on July 22, 1946, when the Irgun blew up a part of the King David Hotel containing British government and military offices"
+        },
+        {
+          "ref": "unscop-1947",
+          "locator": "ch. II, para. 92",
+          "quote": "Since the July 1946 attack by terrorists on the headquarters of the Administration Secretariat in the King David Hotel, Jerusalem"
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 7, section 'The PLL: Confusion, Drift, and Defeat'",
+          "quote": "in July 1946 the hotel (much of which had been taken over by the British civil and military authorities for office space) was closed down after a bomb planted by the right-wing Zionist military organization Irgun Tzva’i Le’umi"
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 7, section 'The PLL: Confusion, Drift, and Defeat'",
+          "quote": "destroyed an entire wing, killing almost a hundred people, among them Arab and Jewish civilians."
         }
       ],
       "casualties": null

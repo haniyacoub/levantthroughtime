@@ -37,12 +37,32 @@
             "ref": "britannica-syria-ottoman-rule-restored",
             "locator": "World War I",
             "quote": "Allenby installed an Arab military administration, under Faisal, in Damascus and the interior."
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 2, p. 279",
+            "quote": "the second, known as O.E.T.A. East, comprised the interior of Syria from 'Aqaba to Aleppo and was Arab"
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 8 (Anglo-French arrangement of September 1919), p. 299",
+            "quote": "This gave the Arabs the exclusive garrisoning of the towns and districts of 'Aqaba, 'Amman, Damascus, Homs, Hama and Aleppo"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Although local shaykhs and “petty notables” from Ma‘an, ‘Ajlun, and al-Salt took part in Damascene politics, the unified Faisalite administration established in Amman wielded little effective power."
           }
         ],
         "notes": {
-          "en": "Transjordan omitted because its 1918-1920 administrative attachment was not confirmed in an opened source.",
-          "ar": "حُذف شرق الأردن لأن ارتباطه الإداري في 1918-1920 لم يُؤكَّد في مصدر مفتوح.",
-          "he": "עבר הירדן הושמט משום שהשתייכותו המנהלית ב-1918-1920 לא אושרה במקור שנפתח.",
+          "en": "Northern and central Transjordan ('Ajlun, al-Salt, Amman) were part of Faisal's administration, though its hold there was weak: Antonius describes OETA East as running from Aqaba to Aleppo, with Arab garrisons in 'Amman under the September 1919 arrangement, and Tell describes the 'Faisalite administration established in Amman'; Ma'an and Aqaba were annexed to the Hijaz by King Hussein (Tell). These areas are not yet mapped in this slice.",
+          "ar": "كان شمال شرق الأردن ووسطه (عجلون والسلط وعمّان) جزءاً من إدارة فيصل، وإن كانت قبضتها هناك ضعيفة: يصف أنطونيوس منطقة الإدارة الشرقية بأنها تمتد من العقبة إلى حلب، مع حاميات عربية في عمّان بموجب ترتيب أيلول/سبتمبر 1919، ويصف تل «الإدارة الفيصلية التي أُقيمت في عمّان»؛ وضم الملك حسين معان والعقبة إلى الحجاز (تل). ولم تُرسم هذه المناطق بعد في هذه الشريحة.",
+          "he": "צפון עבר הירדן ומרכזו (עג'לון, א־סלט, עמאן) היו חלק מהמנהל של פייסל, אף שאחיזתו שם הייתה חלשה: אנטוניוס מתאר את מנהל השטח הכבוש המזרחי כמשתרע מעקבה ועד חלב, עם חילות מצב ערביים בעמאן לפי ההסדר מספטמבר 1919, וטל מתאר את \"המנהל הפייסלי שהוקם בעמאן\"; מען ועקבה סופחו לחג'אז בידי המלך חוסיין (טל). אזורים אלה עדיין אינם משורטטים בפרוסה זו.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

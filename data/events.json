@@ -5370,12 +5370,22 @@
           "ref": "britannica-wall-of-suleyman",
           "locator": "excerpt from 'Jerusalem: Architecture'",
           "quote": "the city wall erected in 1538–40 by the Ottoman sultan Süleyman the Magnificent, largely on the foundations of earlier walls dating chiefly to the period of the Crusades"
+        },
+        {
+          "ref": "van-berchem-1922-cia-jerusalem-ville",
+          "locator": "commentary to the Ottoman wall inscriptions nos. 119-129, p. 444",
+          "quote": "Ainsi l’épigraphie attribue clairement à Sulaiman la réfection complète et systématique de l’enceinte."
+        },
+        {
+          "ref": "van-berchem-1922-cia-jerusalem-ville",
+          "locator": "commentary to inscription no. 48 (citadel), p. 153",
+          "quote": "les autres inscriptions de Sulaimân à la citadelle et à l’enceinte datent de 938 (n° 45) et de 944 à 947 (nos 119 à 129)"
         }
       ],
       "notes": {
-        "en": "Dates differ: TDV gives 1536-1540 and says the work took five years; Britannica gives 1538-40 and notes that the wall largely follows earlier, mainly Crusader-period foundations. Other ranges (e.g. 1537-1541) appear elsewhere but were not checked here. Turkish quotes: 'construction of the walls of Jerusalem (1536-1540)'; 'the walls, completed in five years, over 3 km long and over 12 m high, have 34 towers and 7 gates'.",
-        "ar": "تختلف التواريخ: يعطي TDV 1536-1540 ويقول إن العمل استغرق خمس سنوات؛ وتعطي بريتانيكا 1538-40 وتشير إلى أن السور يتبع في معظمه أسسًا أقدم، من فترة الصليبيين غالبًا. وتظهر نطاقات أخرى (مثل 1537-1541) في مواضع أخرى لكنها لم تُفحص هنا. الاقتباسات التركية: ‘construction of the walls of Jerusalem (1536-1540)’؛ ‘the walls, completed in five years, over 3 km long and over 12 m high, have 34 towers and 7 gates’.",
-        "he": "התאריכים שונים: TDV נותן 1536-1540 ואומר שהעבודה נמשכה חמש שנים; בריטניקה נותנת 1538-40 ומציינת שהחומה הולכת ברובה אחר יסודות קדומים יותר, בעיקר מהתקופה הצלבנית. טווחים אחרים (למשל 1537-1541) מופיעים במקומות אחרים אך לא נבדקו כאן. הציטוטים הטורקיים: ‘construction of the walls of Jerusalem (1536-1540)’; ‘the walls, completed in five years, over 3 km long and over 12 m high, have 34 towers and 7 gates’.",
+        "en": "Dates differ: TDV gives 1536-1540 and says the work took five years; Britannica gives 1538-40 and notes that the wall largely follows earlier, mainly Crusader-period foundations. The dated inscriptions on the walls, gates and towers run from AH 944 to 947 (about 1537 to 1541 CE; conversion ours), the northern fronts first and the southern front last, and a citadel inscription is dated AH 938 (van Berchem 1922). Turkish quotes: 'construction of the walls of Jerusalem (1536-1540)'; 'the walls, completed in five years, over 3 km long and over 12 m high, have 34 towers and 7 gates'.",
+        "ar": "التواريخ مختلفة: تذكر موسوعة TDV 1536-1540 وتقول إن العمل استغرق خمس سنوات؛ وتذكر بريتانيكا 1538-1540 وتشير إلى أن السور يتبع إلى حد كبير أسساً أقدم، صليبية في معظمها. وتمتد النقوش المؤرخة على الأسوار والأبواب والأبراج من 944 إلى 947 هـ (نحو 1537 إلى 1541 م؛ التحويل من عندنا)، الواجهات الشمالية أولاً والجنوبية أخيراً، ونقش في القلعة مؤرخ بسنة 938 هـ (فان برشم 1922). الاقتباسات التركية: «بناء أسوار القدس (1536-1540)»؛ «للأسوار، التي اكتملت في خمس سنوات ويزيد طولها على 3 كم وارتفاعها على 12 م، 34 برجاً و7 أبواب».",
+        "he": "התאריכים שונים: TDV נותנת 1536–1540 ואומרת שהעבודה נמשכה חמש שנים; בריטניקה נותנת 1538–1540 ומציינת שהחומה הולכת ברובה על יסודות קדומים יותר, בעיקר מהתקופה הצלבנית. הכתובות המתוארכות על החומות, השערים והמגדלים משתרעות משנת 944 עד 947 להג'רה (בערך 1537 עד 1541 לספירה; ההמרה שלנו), החזיתות הצפוניות ראשונות והחזית הדרומית אחרונה, וכתובת במצודה מתוארכת לשנת 938 להג'רה (ואן ברשם 1922). ציטוטים בטורקית: \"בניית חומות ירושלים (1536–1540)\"; \"לחומות, שהושלמו בתוך חמש שנים, באורך של יותר מ־3 ק\"מ ובגובה של יותר מ־12 מ', יש 34 מגדלים ו־7 שערים\".",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5425,6 +5435,16 @@
           "ref": "britannica-zefat",
           "locator": "article",
           "quote": "The Hebrew printing press established in Safed in 1577 was the first in all of Asia to use movable type."
+        },
+        {
+          "ref": "schechter-1908-safed-sixteenth-century",
+          "locator": "p. 210",
+          "quote": "R. Joseph Caro, the leading legist of the time, and his contemporary, R. Isaac Loria, the generally recognised head of the mystical school of Safed."
+        },
+        {
+          "ref": "cojs-safed-printing-press-1577",
+          "locator": "page text (credited to Michael Avi-Yonah)",
+          "quote": "Between 1577 and 1580 they issued three books."
         }
       ],
       "notes": {
@@ -5491,12 +5511,22 @@
           "ref": "tdv-akka",
           "locator": "entry",
           "quote": "Zâhir el-Ömer, Akkâ’yı ele geçirip kendisine merkez yaptı. Harap durumdaki surlarını tamir ettirdi"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'The Rise of Acre'",
+          "quote": "this ancient port and one-time Crusader stronghold became the headquarters for Zahir al-Umar."
+        },
+        {
+          "ref": "volney-1787-travels-syria-egypt",
+          "locator": "vol. II, ch. XXV, 'Summary of the history of Daher, son of Omar' (from p. 107)",
+          "quote": "entered the town, where he established himself, without resistance: this happened about the year 1749."
         }
       ],
       "notes": {
-        "en": "Dating varies: Strickert gives 1746; Emecen (TDV, 2013) says there is information that Zahir brought Acre under his influence in 1746, and his TDV 'Akka' entry (1989) places his activity in the region from the 1750s. He was officially only the tax farmer (multazim) of Acre (Strickert).",
-        "ar": "يختلف التأريخ: يعطي ستريكرت 1746؛ ويقول إيمجن (TDV، 2013) إن هناك معلومات بأن ظاهر أخضع عكا لنفوذه عام 1746، وتضع مادته ‘عكا’ في TDV (1989) نشاطه في المنطقة منذ خمسينيات القرن الثامن عشر. وكان رسميًا ملتزم ضرائب (multazim) عكا فقط (ستريكرت).",
-        "he": "התארוך משתנה: סטריקרט נותן 1746; אמג'ן (TDV, 2013) אומר שיש מידע שדאהר הכניס את עכו להשפעתו ב-1746, והערך שלו ב-TDV ‘Akka’ (1989) ממקם את פעילותו באזור משנות ה-50 של המאה ה-18. רשמית הוא היה רק מקבל זיכיון המס (multazim) של עכו (סטריקרט).",
+        "en": "Dating varies: Strickert gives 1746; Emecen (TDV, 2013) says there is information that Zahir brought Acre under his influence in 1746, and his TDV 'Akka' entry (1989) places his activity in the region from the 1750s; Volney (1787), a near-contemporary account, says Zahir entered Acre without resistance 'about the year 1749'. He was officially only the tax farmer (multazim) of Acre (Strickert).",
+        "ar": "التأريخ متفاوت: يذكر ستريكرت 1746؛ ويقول أمجن (TDV، 2013) إن هناك معلومات عن إخضاع ظاهر عكا لنفوذه سنة 1746، بينما تضع مادته عن «عكا» في TDV (1989) نشاطه في المنطقة منذ خمسينيات القرن الثامن عشر؛ ويقول فولني (1787)، وهو رواية شبه معاصرة، إن ظاهر دخل عكا دون مقاومة «نحو سنة 1749». ولم يكن رسمياً سوى ملتزم الضرائب (ملتزم) في عكا (ستريكرت).",
+        "he": "התיארוך שונה: שטריקרט נותן 1746; אמג'ן (TDV, 2013) אומר שיש ידיעות שדאהר הכניס את עכו להשפעתו ב־1746, וערכו \"עכו\" ב־TDV (1989) ממקם את פעילותו באזור משנות ה־50 של המאה ה־18; וולניי (1787), עדות כמעט בת הזמן, אומר שדאהר נכנס לעכו בלי התנגדות \"בערך בשנת 1749\". רשמית היה רק חוכר המסים (מולתזם) של עכו (שטריקרט).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5603,6 +5633,26 @@
           "ref": "britannica-muhammad-ali",
           "locator": "biography",
           "quote": "His first war against the sultan (1831–33) gained him control of Syria as far north as Adana."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Introduction, p. xxiii",
+          "quote": "the Treaty of Kutayah, by which the Ottoman empire was saved from immediate destruction, was signed, the Pachalic of Adana and the whole of Syria"
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Introduction, p. xxii",
+          "quote": "The Egyptian army did not leave Koniyeh till the 20th of January, 1833, and reached Kutayah on the 1st of February."
+        },
+        {
+          "ref": "muhtadi-naili-2018-end-of-egyptian-rule",
+          "locator": "p. 189",
+          "quote": "although the territory of jurisdiction was under the control of Ibrahim Pasha by virtue of the Kütahya agreement (1833)."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "ch. 1, section 'International Rivalries and Sectarian Strife'",
+          "quote": "Once Akka fell, in May 1832, Ibrahim Pasha quickly established his authority in coastal and inland Syria and then smoothly advanced to Kütahya, near Istanbul."
         }
       ],
       "notes": {
@@ -5714,6 +5764,26 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'Ottoman rule'",
           "quote": "After 1840 the reforms the sultan promulgated gradually took effect in Palestine."
+        },
+        {
+          "ref": "makdisi-2000-culture-of-sectarianism",
+          "locator": "Introduction, section 'The Context of Reform'",
+          "quote": "Sultan Abdülmecid proclaimed the Gülhane edict in 1839."
+        },
+        {
+          "ref": "makdisi-2000-culture-of-sectarianism",
+          "locator": "Introduction, section 'The Context of Reform'",
+          "quote": "It stipulated an equitable taxation of subjects according to their means and pledged to ensure their security and property."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, section 'Tanzimat Centralization, Arabs, and Ottomanism'",
+          "quote": "The Gülhane Decree of 1839 gave the empire’s non-Muslims legal status equal to Muslims"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'Ottoman Centralization and the Fall of Arraba'",
+          "quote": "the Ottoman authorities unveiled in 1839 an ambitious program of reforms known as the Tanzimat."
         }
       ],
       "notes": {
@@ -5781,12 +5851,47 @@
           "ref": "britannica-jerusalem-history-roman-to-ottoman",
           "locator": "section 'Mamluk and Ottoman periods'",
           "quote": "introduced a series of far-reaching reforms, which were retained when the Turks regained the city in 1840"
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Appendix, text of the Convention of London, p. 297",
+          "quote": "Done at London, the fifteenth day of July, in the year of our Lord One thousand Eight hundred and forty."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "Appendix, Separate Act annexed to the Convention, § 2, p. 294",
+          "quote": "the Sultan will then withdraw the offer of the life administration of the Pachalic of Acre"
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XVII, Admiral Stopford's dispatch dated 4 November 1840, p. 220",
+          "quote": "the town and fortress of Acre were taken possession of by the allied forces under my command this morning in the name of the Sultan."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XX, convention with Boghos Bey, p. 282",
+          "quote": "signed at Alexandria, the 27th November, 1840."
+        },
+        {
+          "ref": "napier-1842-war-in-syria",
+          "locator": "ch. XX, convention with Boghos Bey, art. I, p. 282",
+          "quote": "he engages to order his son Ibrahim Pacha to proceed immediately to the evacuation of Syria."
+        },
+        {
+          "ref": "muhtadi-naili-2018-end-of-egyptian-rule",
+          "locator": "p. 189",
+          "quote": "The judge had thus been nominated by the central Ottoman government in Istanbul one year before the restoration of Ottoman rule in Jerusalem in November 1840."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 1, section 'Egyptian Rule, 1831-1840'",
+          "quote": "The European powers that forced Ibrahim Pasha’s retreat in 1840 lavished their attention on Jerusalem instead."
         }
       ],
       "notes": {
-        "en": "The Egyptian evacuation took place in the winter of 1840-41 (Britannica, 'Ibrahim Pasha' excerpt). Britannica's Jerusalem article notes that the reforms introduced under Egyptian rule (1831-1840) were retained after the Ottoman return. Military operations of 1840 are not recorded here.",
-        "ar": "جرى الجلاء المصري في شتاء 1840-41 (بريتانيكا، مقتطف ‘إبراهيم باشا’). وتشير مقالة بريتانيكا عن القدس إلى أن الإصلاحات المدخلة في ظل الحكم المصري (1831-1840) بقيت بعد عودة العثمانيين. والعمليات العسكرية لعام 1840 غير مسجلة هنا.",
-        "he": "הפינוי המצרי התרחש בחורף 1840-41 (בריטניקה, קטע ‘Ibrahim Pasha’). המאמר של בריטניקה על ירושלים מציין שהרפורמות שהונהגו בשלטון המצרי (1831-1840) נשמרו לאחר שובם של העות'מאנים. המבצעים הצבאיים של 1840 אינם רשומים כאן.",
+        "en": "Under the Convention of London (signed 15 July 1840; text in Napier 1842) the Sultan offered Muhammad Ali hereditary Egypt and, if accepted within ten days, the life administration of the Pashalik of Acre; after his refusal the allied fleet took Acre (3-4 November 1840), Ottoman rule was restored in Jerusalem in November 1840 (Jerusalem court records, Muhtadi and Naili), and on 27 November 1840 Napier signed a convention at Alexandria for the Egyptian evacuation of Syria. The evacuation itself ran through the winter of 1840-41 (Britannica, 'Ibrahim Pasha' excerpt). Britannica's Jerusalem article notes that the reforms introduced under Egyptian rule (1831-1840) were retained after the Ottoman return.",
+        "ar": "بموجب معاهدة لندن (وُقّعت في 15 تموز/يوليو 1840؛ النص في نابير 1842) عرض السلطان على محمد علي حكم مصر وراثياً، وإن قبل خلال عشرة أيام، إدارة باشوية عكا مدى الحياة؛ وبعد رفضه استولى أسطول الحلفاء على عكا (3-4 تشرين الثاني/نوفمبر 1840)، وأُعيد الحكم العثماني في القدس في تشرين الثاني/نوفمبر 1840 (سجلات محكمة القدس، المهتدي ونايلي)، وفي 27 تشرين الثاني/نوفمبر 1840 وقّع نابير في الإسكندرية اتفاقية لإخلاء المصريين سوريا. وجرى الإخلاء نفسه خلال شتاء 1840-1841 (بريتانيكا، مقتطف «إبراهيم باشا»). وتشير مقالة بريتانيكا عن القدس إلى أن الإصلاحات التي أُدخلت في عهد الحكم المصري (1831-1840) أُبقيت بعد عودة العثمانيين.",
+        "he": "לפי אמנת לונדון (נחתמה ב־15 ביולי 1840; הנוסח אצל נפייר 1842) הציע הסולטן למוחמד עלי את מצרים בירושה, ואם יסכים בתוך עשרה ימים — גם את ניהול פשליק עכו לכל ימי חייו; אחרי סירובו תפס צי בעלות הברית את עכו (3–4 בנובמבר 1840), השלטון העות'מאני הוחזר בירושלים בנובמבר 1840 (רישומי בית הדין של ירושלים, מוהתדי ונאילי), וב־27 בנובמבר 1840 חתם נפייר באלכסנדריה על אמנה לפינוי המצרים מסוריה. הפינוי עצמו נמשך לאורך חורף 1840–1841 (בריטניקה, קטע \"איברהים פאשה\"). מאמר בריטניקה על ירושלים מציין שהרפורמות שהונהגו בתקופת השלטון המצרי (1831–1840) נשמרו אחרי חזרת העות'מאנים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5890,12 +5995,32 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'Ottoman rule'",
           "quote": "the Ottoman Land Law of 1858 encouraged the development of private property, agricultural production for the world market, the decline of tribal social organization, growth of the population, and the enrichment of the notable families"
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 4, section 'Integration'",
+          "quote": "First was the promulgation of the 1858 land law, which constituted an important step in the Ottoman government’s campaign to increase its revenues by streamlining land-tenure relations in its domains."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 4, section 'Integration'",
+          "quote": "the legalization and registration of private ownership (milk) of what had long been considered inalienable state (miri) lands—proved to be a boon for local urban elites"
+        },
+        {
+          "ref": "ongley-1892-ottoman-land-code",
+          "locator": "Contents, item 1",
+          "quote": "LAND LAW. 7. Ramazan, 1274."
+        },
+        {
+          "ref": "doumani-1995-rediscovering-palestine",
+          "locator": "ch. 4, section 'Commoditization of Land'",
+          "quote": "the intent, in addition to streamlining tax collection, was to protect the peasant base of production by preserving small landownership"
         }
       ],
       "notes": {
-        "en": "Only the general effects named by Britannica are recorded; the law's provisions (land categories, registration) and its debated role in later land transfers were not checked against a specialist source here.",
-        "ar": "لا تُسجَّل إلا الآثار العامة التي تسميها بريتانيكا؛ أما أحكام القانون (فئات الأراضي، التسجيل) ودوره المختلف عليه في عمليات نقل الأراضي اللاحقة فلم يُتحقق منها هنا في مصدر متخصص.",
-        "he": "נרשמות רק ההשפעות הכלליות שבריטניקה מנקבת בהן; הוראות החוק (סוגי קרקע, רישום) ותפקידו השנוי במחלוקת בהעברות קרקע מאוחרות יותר לא נבדקו כאן מול מקור מומחה.",
+        "en": "The law's provisions and its later role in land transfers are debated. Doumani (1995) describes its main innovation as the legalisation and registration of private ownership of state (miri) land, which benefited urban elites, although its intent was to protect small peasant holdings. Ongley's 1892 English translation dates the Land Law 7 Ramazan 1274 AH (21 April 1858; conversion ours).",
+        "ar": "أحكام القانون ودوره اللاحق في نقل ملكية الأراضي موضع خلاف. ويصف دوماني (1995) ابتكاره الرئيسي بأنه تقنين الملكية الخاصة لأراضي الدولة (الأميرية) وتسجيلها، وهو ما أفاد النخب الحضرية، رغم أن غايته كانت حماية حيازات الفلاحين الصغيرة. وتؤرخ ترجمة أونغلي الإنجليزية لسنة 1892 قانون الأراضي بـ 7 رمضان 1274 هـ (21 نيسان/أبريل 1858؛ التحويل من عندنا).",
+        "he": "הוראות החוק ותפקידו המאוחר בהעברות קרקע שנויים במחלוקת. דומאני (1995) מתאר את החידוש העיקרי שלו כמיסוד ורישום של בעלות פרטית על אדמות המדינה (מירי), שהיטיבו עם האליטות העירוניות, אף שכוונתו הייתה להגן על אחזקות האיכרים הקטנות. התרגום האנגלי של אונגלי משנת 1892 מתארך את חוק הקרקעות ל־7 ברמדאן 1274 להג'רה (21 באפריל 1858; ההמרה שלנו).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5946,12 +6071,37 @@
           "ref": "britannica-jerusalem-history-roman-to-ottoman",
           "locator": "section 'Mamluk and Ottoman periods'",
           "quote": "Although a municipality was established in 1887, politics remained largely oligarchic"
+        },
+        {
+          "ref": "yazbak-2018-ottoman-municipalities-palestine",
+          "locator": "section 'Establishing Municipalities', p. 254",
+          "quote": "The first municipality in Palestine was established in 1863 in Jerusalem."
+        },
+        {
+          "ref": "hanssen-2018-municipal-jerusalem",
+          "locator": "p. 267",
+          "quote": "first in Tunis (1858) and Beirut (1861), then Jerusalem (1863), Tripoli, Libya (1867), Nablus, Baghdad, and Damascus (1868)"
+        },
+        {
+          "ref": "hanssen-2018-municipal-jerusalem",
+          "locator": "p. 280",
+          "quote": "of the sixteen Jerusalem mayors between 1863 and 1910, only four were not from the Khalidi, ʿAlami, and Husayni families."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, section 'Tanzimat Centralization, Arabs, and Ottomanism'",
+          "quote": "After a nine-year career as president of the reorganized municipality of Jerusalem, he was appointed to the Translation Bureau."
+        },
+        {
+          "ref": "muhtadi-naili-2018-end-of-egyptian-rule",
+          "locator": "p. 198",
+          "quote": "the municipality (majlis baladi; baladīyya), which was founded in Jerusalem in the 1860s"
         }
       ],
       "notes": {
-        "en": "Sources disagree on the date: TDV (Turkish: 'In 1863 the Jerusalem Municipality was formed') gives 1863; Britannica's Jerusalem article gives 1887. TDV adds that the municipality opened a hospital in 1891 and that mayors were drawn from the Khalidi family; Britannica names the Alamis, Husaynis and Khalidis among the notable families holding office.",
-        "ar": "تتعارض المصادر في التاريخ: يعطي TDV (بالتركية: ‘In 1863 the Jerusalem Municipality was formed’) عام 1863؛ وتعطي مقالة بريتانيكا عن القدس عام 1887. ويضيف TDV أن البلدية افتتحت مستشفى عام 1891 وأن رؤساءها كانوا من عائلة الخالدي؛ وتذكر بريتانيكا العلمي والحسيني والخالدي بين العائلات البارزة التي شغلت المنصب.",
-        "he": "המקורות חלוקים בתאריך: TDV (בטורקית: ‘In 1863 the Jerusalem Municipality was formed’) נותן 1863; המאמר של בריטניקה על ירושלים נותן 1887. TDV מוסיף שהעירייה פתחה בית חולים ב-1891 ושראשי העירייה נבחרו ממשפחת אל-ח'אלידי; בריטניקה מנקבת במשפחות אל-עלמי, אל-חוסייני ואל-ח'אלידי בין המשפחות הבולטות שכיהנו בתפקיד.",
+        "en": "Scholarly sources date the municipality to 1863 (Yazbak 2018; Hanssen 2018; TDV); Avci and Lemire's study of the Ottoman municipality is titled '1867-1917' (cited in the same volume, not opened here). Kayali records that Yusuf Diya al-Khalidi served nine years as president of the 'reorganized' municipality before returning to Jerusalem in 1875, and Muhtadi and Naili give his terms as mayor as 1870-76 and 1878-79, so Britannica's 1887 cannot be the founding date. Mayors were drawn largely from the Khalidi, Alami and Husayni families (Hanssen); TDV adds that the municipality opened a hospital in 1891.",
+        "ar": "تؤرخ المصادر العلمية البلدية بسنة 1863 (يزبك 2018؛ هانسن 2018؛ TDV)؛ وعنوان دراسة أفجي ولومير عن البلدية العثمانية «1867-1917» (مذكورة في المجلد نفسه، ولم تُفتح هنا). ويسجّل كيالي أن يوسف ضياء الخالدي ترأس البلدية «المُعاد تنظيمها» تسع سنوات قبل عودته إلى القدس سنة 1875، ويذكر المهتدي ونايلي ولايتيه رئيساً للبلدية في 1870-1876 و1878-1879، لذا لا يمكن أن تكون سنة 1887 الواردة في بريتانيكا تاريخ التأسيس. وكان رؤساء البلدية في الغالب من عائلات الخالدي والعلمي والحسيني (هانسن)؛ وتضيف TDV أن البلدية افتتحت مستشفى سنة 1891.",
+        "he": "מקורות מחקריים מתארכים את העירייה ל־1863 (יזבק 2018; הנסן 2018; TDV); מחקרם של אבג'י ולמיר על העירייה העות'מאנית נקרא \"1867–1917\" (מצוטט באותו כרך, לא נפתח כאן). כיאלי מתעד שיוסף דיא אל־ח'אלדי כיהן תשע שנים כנשיא העירייה \"שאורגנה מחדש\" לפני ששב לירושלים ב־1875, ומוהתדי ונאילי נותנים את כהונותיו כראש העירייה ב־1870–1876 וב־1878–1879, ולכן 1887 של בריטניקה אינה יכולה להיות תאריך הייסוד. ראשי העירייה באו בעיקר ממשפחות ח'אלדי, עלמי וחוסייני (הנסן); TDV מוסיפה שהעירייה פתחה בית חולים ב־1891.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6000,6 +6150,21 @@
           "ref": "abu-manneh-palquest-ottoman-reorganization",
           "locator": "essay",
           "quote": "the Sublime Porte decided to join the Province of Damascus to that of Saida to form a large province, which was called the Province of Syria"
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, section 'Tanzimat Centralization, Arabs, and Ottomanism'",
+          "quote": "In 1864 a more confident leadership in İstanbul reorganized the provincial administration to strengthen the provincial governors, and the notables lost some of their political prerogatives and autonomy."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, note on Tanzimat statesmen",
+          "quote": "Cevdet Pasha, historian, jurist, and reformer, was entrusted with the application of the 1864 Provincial Law in the newly created province of Aleppo."
+        },
+        {
+          "ref": "akarli-1993-long-peace",
+          "locator": "Appendix B (archival sources)",
+          "quote": "its border disputes with the Province of Damascus (\"Suriye\")—which included the city of Beirut at this stage."
         }
       ],
       "notes": {
@@ -6116,6 +6281,31 @@
           "ref": "tdv-kudus",
           "locator": "section 5 (Kâmil Cemîl el-Aselî), pp. 334-338",
           "quote": "seçimi Yûsuf Ziyâ el-Hâlidî kazanmıştır"
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, section 'Tanzimat Centralization, Arabs, and Ottomanism'",
+          "quote": "Like Yusuf al-Khalidi, Khalil Ghanem was elected to the First Parliament in 1877."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 1, note 48",
+          "quote": "In the selection of the one candidate to which the independent sancak of Jerusalem was entitled, for instance, Ziya al-Khalidi’s rival was a member from the other prestigious family of the town, the Husaynis"
+        },
+        {
+          "ref": "muhtadi-naili-2018-end-of-egyptian-rule",
+          "locator": "p. 189, note 12",
+          "quote": "who would later become mayor of Jerusalem (1870–76, 1878–79) and deputy in the Ottoman parliament (1877–78)."
+        },
+        {
+          "ref": "gribetz-2018-arab-zionist-conversations",
+          "locator": "p. 311",
+          "quote": "After the Young Turk Revolution and the reinstitution of the Ottoman parliament, he was elected in 1908 as one of the representatives of the province of Jerusalem."
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 3, section on Zionism in Parliament",
+          "quote": "‘Abd al-Rahman al-Yusuf (Damascus) and Ruhi al-Khalidi (Jerusalem)"
         }
       ],
       "notes": {
@@ -6171,12 +6361,27 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'Ottoman rule'",
           "quote": "The earliest of these settlements was founded by Russian Jews in 1882."
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "chapter on Jewish colonisation, pp. 106-107",
+          "quote": "Es folgte im Jahre 1878 die Gründung der ersten Kolonie Petach-Tikwah bei Jaffa durch"
+        },
+        {
+          "ref": "sokolow-1919-history-of-zionism",
+          "locator": "vol. II, appendix LXXVIII, table 'The Jewish Colonies in Palestine', p. 326",
+          "quote": "Petach-Tikvah ‘ 3 é 1878"
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "chapter on Jewish colonisation, p. 107",
+          "quote": "Juden aus Jerusalem, im Jahre 1882 der Kolonie Rischon le Zion bei Jaffa durch russische Juden"
         }
       ],
       "notes": {
-        "en": "Britannica's Palestine article (Faris and Khalidi) says the earliest of the settlements was founded by Russian Jews in 1882, which differs from the 1878 date in Britannica's Petah Tiqwa article. The same article notes that before 1914 Palestinian Arabs 'sought an end to Jewish immigration and to land purchases by Zionists'. Specific disputes over Petah Tikva's land and former tenants were not documented from a source here.",
-        "ar": "تقول مقالة بريتانيكا عن فلسطين (فارس والخالدي) إن أقدم المستوطنات أسسها يهود روس عام 1882، وهو ما يختلف عن تاريخ 1878 في مقالتها عن بتاح تكفا. وتشير المقالة نفسها إلى أن عرب فلسطين ‘sought an end to Jewish immigration and to land purchases by Zionists’ قبل 1914. ولم توثق هنا من مصدر نزاعات بعينها حول أراضي بتاح تكفا ومستأجريها السابقين.",
-        "he": "המאמר של בריטניקה על פלשתינה (פארס וח'אלידי) אומר שהמוקדמת בהתיישבויות נוסדה בידי יהודים רוסים ב-1882, מה שונה מתאריך 1878 במאמר שלה על פתח תקווה. אותו מאמר מציין שלפני 1914 ערביי פלשתינה ‘sought an end to Jewish immigration and to land purchases by Zionists’. סכסוכים ספציפיים על אדמות פתח תקווה ועל החוכרים לשעבר לא תועדו כאן ממקור.",
+        "en": "Britannica's Palestine article (Faris and Khalidi) says the earliest of the settlements was founded by Russian Jews in 1882, which differs from the 1878 date in Britannica's Petah Tiqwa article. Ruppin (1920) and Sokolow's colony table (1919, from the Jewish Colonization Association report for 1910) both give 1878, Ruppin adding that the founders were Jews from Jerusalem (Rishon LeZion, 1882, was founded by Russian Jews). The same Britannica article notes that before 1914 Palestinian Arabs 'sought an end to Jewish immigration and to land purchases by Zionists'. Specific disputes over Petah Tikva's land and former tenants were not documented from a source here.",
+        "ar": "تقول مقالة بريتانيكا عن فلسطين (فارس والخالدي) إن أقدم المستوطنات أسسها يهود روس سنة 1882، وهذا يخالف تاريخ 1878 في مقالة بريتانيكا عن بيتح تكفا. ويذكر روبين (1920) وجدول المستعمرات عند سوكولوف (1919، من تقرير جمعية الاستعمار اليهودي لسنة 1910) كلاهما 1878، ويضيف روبين أن المؤسسين كانوا يهوداً من القدس (أما ريشون لتسيون، 1882، فأسسها يهود روس). وتشير المقالة نفسها في بريتانيكا إلى أن عرب فلسطين قبل 1914 «سعوا إلى وقف الهجرة اليهودية وشراء الصهاينة للأراضي». ولم تُوثَّق هنا من مصدر نزاعات محددة على أراضي بيتح تكفا ومستأجريها السابقين.",
+        "he": "מאמר בריטניקה על פלשתינה (פארס וח'אלדי) אומר שהראשונה מבין המושבות נוסדה בידי יהודים מרוסיה ב־1882, בניגוד לתאריך 1878 במאמר בריטניקה על פתח תקווה. רופין (1920) וטבלת המושבות של סוקולוב (1919, מתוך דוח יק\"א לשנת 1910) נותנים שניהם 1878, ורופין מוסיף שהמייסדים היו יהודים מירושלים (ראשון לציון, 1882, נוסדה בידי יהודים מרוסיה). אותו מאמר בבריטניקה מציין שלפני 1914 \"ביקשו ערביי פלשתינה לשים קץ להגירה היהודית ולרכישות הקרקע של הציונים\". סכסוכים מסוימים על אדמות פתח תקווה ועל אריסיה לשעבר לא תועדו כאן ממקור.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6231,6 +6436,26 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'From 1900 to 1948'",
           "quote": "The Arabs sought an end to Jewish immigration and to land purchases by Zionists."
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "chapter on Jewish colonisation, p. 107",
+          "quote": "im Jahre 1882 der Kolonie Rischon le Zion bei Jaffa durch russische Juden"
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 1, section 'The Emergence of Zionism'",
+          "quote": "the Hibbat Tziyon movement managed to establish a number of new Jewish agricultural settlements in Palestine, referred to in Hebrew as moshavot"
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 1, section 'The Emergence of Zionism'",
+          "quote": "They were rescued by the generosity of Baron Edmond de Rothschild"
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. I, para. 25",
+          "quote": "Baron Edmond de Rothschild, who between 1883 and 1900 made himself responsible for a group of seven pioneer “ colonies ”"
         }
       ],
       "notes": {
@@ -6257,7 +6482,9 @@
       "kind": "economic",
       "date": {
         "year": 1892,
-        "precision": "year"
+        "month": 9,
+        "day": 26,
+        "precision": "day"
       },
       "place": "jerusalem",
       "coords": [
@@ -6286,12 +6513,32 @@
           "ref": "tdv-yafa",
           "locator": "entry",
           "quote": "Bölgede ilk defa bir Fransız şirketi Osmanlılar’dan aldığı ruhsatla 1890-1892’de Yafa ile Kudüs arasında 87 km. uzunluğunda bir demiryolu inşa etti."
+        },
+        {
+          "ref": "rioli-2018-visiting-cards-jerusalem",
+          "locator": "p. 38",
+          "quote": "the construction of the railway between Jaffa and the Holy City, completed in 1892."
+        },
+        {
+          "ref": "rioli-2018-visiting-cards-jerusalem",
+          "locator": "p. 38",
+          "quote": "the governor’s invitation to the banquet celebrating the inauguration of the line, “le lundi, 26 septembre [1892], à 6 heures du soir,”"
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "railway chapter, p. 404",
+          "quote": "Die Bahn wurde 1892 in Betrieb gesetzt."
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "railway chapter, p. 404",
+          "quote": "Die Strecke Jaffa — Jerusalem wurde durch kaiserliches Irade vom 28. Oktober 1888 bewilligt"
         }
       ],
       "notes": {
-        "en": "TDV (Turkish): 'the Jerusalem-Jaffa road opened in 1868 and the Jerusalem-Jaffa railway in 1892'; 'for the first time in the region a French company, under a licence from the Ottomans, built an 87-km railway between Jaffa and Jerusalem in 1890-1892'.",
-        "ar": "TDV (بالتركية): ‘the Jerusalem-Jaffa road opened in 1868 and the Jerusalem-Jaffa railway in 1892’؛ ‘for the first time in the region a French company, under a licence from the Ottomans, built an 87-km railway between Jaffa and Jerusalem in 1890-1892’.",
-        "he": "TDV (בטורקית): ‘the Jerusalem-Jaffa road opened in 1868 and the Jerusalem-Jaffa railway in 1892’; ‘for the first time in the region a French company, under a licence from the Ottomans, built an 87-km railway between Jaffa and Jerusalem in 1890-1892’.",
+        "en": "TDV (Turkish): 'the Jerusalem-Jaffa road opened in 1868 and the Jerusalem-Jaffa railway in 1892'; 'for the first time in the region a French company, under a licence from the Ottomans, built an 87-km railway between Jaffa and Jerusalem in 1890-1892'. Ruppin (1920) dates the concession to an imperial irade of 28 October 1888, transferred to the Societe du Chemin de fer de Jaffa a Jerusalem founded by Paris capitalists in 1889.",
+        "ar": "موسوعة TDV (بالتركية): «افتُتح طريق القدس-يافا سنة 1868 وسكة حديد القدس-يافا سنة 1892»؛ «لأول مرة في المنطقة بنت شركة فرنسية، بامتياز من العثمانيين، خط سكة حديد طوله 87 كم بين يافا والقدس في 1890-1892». ويؤرخ روبين (1920) الامتياز بإرادة سلطانية مؤرخة في 28 تشرين الأول/أكتوبر 1888، نُقلت إلى شركة سكة حديد يافا-القدس التي أسسها رأسماليون باريسيون سنة 1889.",
+        "he": "TDV (בטורקית): \"דרך ירושלים–יפו נפתחה ב־1868 ומסילת ירושלים–יפו ב־1892\"; \"לראשונה באזור בנתה חברה צרפתית, בזיכיון מן העות'מאנים, מסילת ברזל באורך 87 ק\"מ בין יפו לירושלים ב־1890–1892\". רופין (1920) מתארך את הזיכיון לאִירָדֶה קיסרית מ־28 באוקטובר 1888, שהועברה ל\"חברת מסילת הברזל יפו–ירושלים\" שייסדו בעלי הון מפריז ב־1889.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6313,7 +6560,8 @@
       "date": {
         "year": 1897,
         "month": 8,
-        "precision": "month"
+        "day": 29,
+        "precision": "day"
       },
       "coords": [
         7.5878,
@@ -6346,6 +6594,21 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'Ottoman rule'",
           "quote": "In 1896 Theodor Herzl issued a pamphlet entitled Der Judenstaat"
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. I, para. 29",
+          "quote": "Zionism entered the field of practical politics when in 1897 Theodor Herzl, a Viennese playwright and journalist, spurred to action by the Dreyfus Case, convened a congress of World Jewry at Basle and founded the Zionist Organisation."
+        },
+        {
+          "ref": "sokolow-1919-history-of-zionism",
+          "locator": "vol. II, appendix on Zionist institutions, '1. The Congress', p. 358",
+          "quote": "The first Congress was held on the 2gth of August, 1897, at Basle, Switzerland."
+        },
+        {
+          "ref": "sokolow-1919-history-of-zionism",
+          "locator": "vol. II, ch. on the Balfour Declaration (speeches), p. 124",
+          "quote": "the 28th August, 1897, the birthday of the New Zionist Organization at the first Basle Congress."
         }
       ],
       "notes": {
@@ -6396,6 +6659,26 @@
           "ref": "britannica-palestine-to-1900",
           "locator": "section 'Ottoman rule'",
           "quote": "Two years later he himself went to Palestine to investigate its possibilities and, possibly, to seek the help of the German emperor William II, who was then making a spectacular pilgrimage to the Holy Land."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. V, p. 76",
+          "quote": "In the autumn of 1898, after four or five years of diplomatic preparation, Wilhelm II arrived in Constantinople on a state visit to the Sultan"
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. V, p. 77",
+          "quote": "From Constantinople the Kaiser went to Jerusalem and on to Damascus, to lay the foundations of the new edifice of German influence in Syria."
+        },
+        {
+          "ref": "eldem-2018-cultural-networks-introduction",
+          "locator": "p. 285",
+          "quote": "it was Kaiser Wilhelm II who had a 47–meter tower built to accompany the Church of the Dormition, for which he had, during his visit in 1898, forcefully obtained a plot of land"
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "chapter 'Inhabitants' (German Templer colonies), p. 192",
+          "quote": "After the Kaiser’s visit, in 1898, they obtained useful financial support from Germany"
         }
       ],
       "notes": {
@@ -6446,6 +6729,21 @@
           "ref": "abu-manneh-palquest-ottoman-reorganization",
           "locator": "essay",
           "quote": "the Ottomans founded in 1900 the township of Bir al-Sabi'"
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "ch. 'Turkish Administration', p. 240, note 4",
+          "quote": "The kaza of Bir Seba‘ was formed from parts of those of Gaza and Hebron before 1901."
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "ch. 'Turkish Administration', p. 240, note 4",
+          "quote": "In 1908 steps were taken to make it a sanjaq having two kazas, Bir Seba‘ and Hafir (or El-‘Auja), and including territory to the south that had belonged to the sanjaq of Kerak"
+        },
+        {
+          "ref": "luke-keith-roach-1922-handbook-of-palestine",
+          "locator": "Part IV, 'System of Administration', p. 134 (list of qazas)",
+          "quote": "Autonomous Sanjaq of Jerusalem - Hebron. Gaza. .Beersheba."
         }
       ]
     },
@@ -6492,6 +6790,21 @@
           "ref": "britannica-hejaz-railway",
           "locator": "section 'Construction'",
           "quote": "The main line of the Hejaz Railway was constructed in 1900–08"
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "railway chapter, table 'Die bestehenden syrischen Eisenbahnlinien', p. 391 (column 'Betriebseröffnung'; OCR 'i6i' = 161 km)",
+          "quote": "Haifa— Deraa i6i 105 1904/05"
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "chapter 'Industry and Trade', p. 277",
+          "quote": "The opening of the Haifa branch of the Hejaz railway has favoured the direct transportation of grain to the coast"
+        },
+        {
+          "ref": "kayali-1997-arabs-and-young-turks",
+          "locator": "ch. 5, section 'The Young Turk Revolution and the Hijaz'",
+          "quote": "the completion and official opening on 1 September 1908 of the Hijaz Railway’s Damascus-Medina line"
         }
       ]
     },
@@ -6509,7 +6822,9 @@
       "kind": "treaty",
       "date": {
         "year": 1906,
-        "precision": "year"
+        "month": 10,
+        "day": 1,
+        "precision": "day"
       },
       "place": "rafah",
       "coords": [
@@ -6538,12 +6853,32 @@
           "ref": "abu-manneh-palquest-ottoman-reorganization",
           "locator": "essay",
           "quote": "an area that included the entire Negev down to Aqaba"
+        },
+        {
+          "ref": "taba-arbitration-award-1988",
+          "locator": "para. 46",
+          "quote": "The Agreement, signed at Rafah on 1 October 1906, reads in Article 1:"
+        },
+        {
+          "ref": "taba-arbitration-award-1988",
+          "locator": "para. 32",
+          "quote": "The Sultan agreed to evacuate Taba and on 13 May 1906 the Turkish forces at Taba were withdrawn."
+        },
+        {
+          "ref": "taba-arbitration-award-1988",
+          "locator": "para. 23",
+          "quote": "At the end of December 1905, Lord Cromer received intelligence from Constantinople that the Sultan had been informed of Egyptian plans to construct \"barracks\" on the Sinai frontier near Aqaba"
+        },
+        {
+          "ref": "luke-keith-roach-1922-handbook-of-palestine",
+          "locator": "Part I, §1 'Introductory', p. 1",
+          "quote": "the boundary running from a point west of Rafa on the Mediterranean to east of Taba at the head of the Gulf of Akaba"
         }
       ],
       "notes": {
-        "en": "PalQuest's bibliography cites a study of 'The Gulf of Eilat Crisis of 1906'; that crisis is not documented here.",
-        "ar": "تستشهد ببليوغرافيا PalQuest بدراسة عن ‘The Gulf of Eilat Crisis of 1906’؛ وهذه الأزمة غير موثقة هنا.",
-        "he": "הביבליוגרפיה של PalQuest מצטטת מחקר על ‘The Gulf of Eilat Crisis of 1906’; משבר זה אינו מתועד כאן.",
+        "en": "The agreement followed the 'Taba crisis' of January-May 1906: Ottoman troops held Taba until a British ultimatum of 3 May 1906 and withdrew on 13 May (Taba award, paras. 23-32). The line was demarcated from October 1906, first with telegraph poles and then with masonry pillars (paras. 52-53), and was the subject of the 1988 Egypt-Israel Taba arbitration. PalQuest's bibliography also cites a study of 'The Gulf of Eilat Crisis of 1906'.",
+        "ar": "جاء الاتفاق في أعقاب «أزمة طابا» في كانون الثاني/يناير-أيار/مايو 1906: احتفظت القوات العثمانية بطابا حتى إنذار بريطاني في 3 أيار/مايو 1906 وانسحبت في 13 أيار/مايو (قرار التحكيم في طابا، الفقرات 23-32). وعُلّم الخط منذ تشرين الأول/أكتوبر 1906، أولاً بأعمدة تلغراف ثم بأعمدة حجرية (الفقرتان 52-53)، وكان موضوع تحكيم طابا بين مصر وإسرائيل سنة 1988. وتذكر ببليوغرافيا موسوعة القضية الفلسطينية أيضاً دراسة عن «أزمة خليج إيلات سنة 1906».",
+        "he": "ההסכם בא בעקבות \"משבר טאבה\" בינואר–מאי 1906: כוחות עות'מאניים החזיקו בטאבה עד אולטימטום בריטי ב־3 במאי 1906 ונסוגו ב־13 במאי (פסק הבוררות בעניין טאבה, סעיפים 23–32). הקו סומן החל מאוקטובר 1906, תחילה בעמודי טלגרף ואחר כך בעמודי אבן (סעיפים 52–53), והיה נושא הבוררות בין מצרים לישראל בטאבה ב־1988. בביבליוגרפיה של PalQuest מוזכר גם מחקר על \"משבר מפרץ אילת של 1906\".",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6588,6 +6923,21 @@
           "ref": "britannica-deganya",
           "locator": "excerpt from 'Jordan River'",
           "quote": "the oldest kibbutz (collective agricultural settlement) in Israel, founded in 1909"
+        },
+        {
+          "ref": "ruppin-1920-syrien-als-wirtschaftsgebiet",
+          "locator": "colony table (Galilee section), pp. 109-113",
+          "quote": "Daganiah Migdal Bethania Melhamie 1909 I9I0 I9I3 1902"
+        },
+        {
+          "ref": "sokolow-1919-history-of-zionism",
+          "locator": "vol. II, appendix LXXVIII, table 'The Jewish Colonies in Palestine', p. 327",
+          "quote": "Dagania : - : . 1909"
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 1, section 'Economic Separatism and Working-Class Formation'",
+          "quote": "These were the kibbutz, a collective farm whose first prototypes were established a few years before the First World War"
         }
       ],
       "notes": {
@@ -6643,6 +6993,16 @@
           "ref": "tdv-yafa",
           "locator": "entry",
           "quote": "Aynı yıl Yafa’nın varoşlarında oluşturulan yahudi yerleşim birimi Tel Aviv zamanla büyüdü."
+        },
+        {
+          "ref": "lockman-1996-comrades-and-enemies",
+          "locator": "ch. 1, section 'The \"Conquest of Labor\"'",
+          "quote": "including the new exclusively Jewish town of Tel Aviv, founded in 1909 on the outskirts of Jaffa"
+        },
+        {
+          "ref": "sokolow-1919-history-of-zionism",
+          "locator": "vol. II, appendix on Zionist institutions in Palestine, p. 386",
+          "quote": "The Ahuzat Bait, for house-building at Jaffa (this Company founded Tel-Aviv)"
         }
       ],
       "notes": {
