@@ -126,7 +126,13 @@
           }
         ],
         "notes": {
-          "en": "Syria was formally independent (proclaimed 1941, Quwatli government from 1943) during this slice; the slice records continued French presence."
+          "en": "Syria was formally independent (proclaimed 1941, Quwatli government from 1943) during this slice; the slice records continued French presence.",
+          "ar": "كانت سوريا مستقلة رسميًا (أُعلنت 1941، حكومة القوتلي منذ 1943) خلال هذه الشريحة؛ وتسجل الشريحة استمرار الوجود الفرنسي.",
+          "he": "סוריה הייתה עצמאית רשמית (הוכרזה ב-1941, ממשלת קוואתלי מ-1943) במהלך פרוסה זו; הפרוסה מתעדת את המשך הנוכחות הצרפתית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "french-mandate-syria-lebanon-3",
         "geometry_method": "units"

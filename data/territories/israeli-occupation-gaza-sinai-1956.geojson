@@ -43,7 +43,13 @@
           }
         ],
         "notes": {
-          "en": "UNEF background dates the first phase of Israeli withdrawal 'November 1956-mid-January 1957' and reports that by 22 January 1957 the Sinai was to be evacuated except the Sharm el-Sheikh area; staged lines not modelled."
+          "en": "UNEF background dates the first phase of Israeli withdrawal 'November 1956-mid-January 1957' and reports that by 22 January 1957 the Sinai was to be evacuated except the Sharm el-Sheikh area; staged lines not modelled.",
+          "ar": "تؤرخ خلفية UNEF المرحلة الأولى من الانسحاب الإسرائيلي بـ'November 1956-mid-January 1957' وتفيد بأنه بحلول 22 كانون الثاني/يناير 1957 كان يُفترض إخلاء سيناء باستثناء منطقة شرم الشيخ؛ ولم تُمثَّل خطوط المراحل.",
+          "he": "הרקע של UNEF מתארך את השלב הראשון של הנסיגה הישראלית 'November 1956-mid-January 1957' ומדווח שעד 22 בינואר 1957 היה אמור סיני להתפנות מלבד אזור שארם א-שייח'; קווי שלבים לא מודלו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-occupation-gaza-sinai-1956-1",
         "geometry_method": "units"

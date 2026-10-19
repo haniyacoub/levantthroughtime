@@ -49,7 +49,13 @@
           }
         ],
         "notes": {
-          "en": "The armistice lines were explicitly not borders. The no-man's-land areas (nml-latrun, nml-jerusalem) are excluded; demilitarised arrangements along other armistice lines were not researched. In May-July 1948 Israeli-held territory was considerably smaller than israel-1949 in some sectors (e.g. the Negev) and the Old City Jewish Quarter was lost in May 1948 (Britannica)."
+          "en": "The armistice lines were explicitly not borders. The no-man's-land areas (nml-latrun, nml-jerusalem) are excluded; demilitarised arrangements along other armistice lines were not researched. In May-July 1948 Israeli-held territory was considerably smaller than israel-1949 in some sectors (e.g. the Negev) and the Old City Jewish Quarter was lost in May 1948 (Britannica).",
+          "ar": "لم تكن خطوط الهدنة حدودًا صراحةً. مناطق الأرض الحرام (nml-latrun, nml-jerusalem) مستثناة؛ ولم تُبحث الترتيبات منزوعة السلاح على خطوط هدنة أخرى. وفي أيار/مايو-تموز/يوليو 1948 كانت الأراضي التي بيد إسرائيل أصغر بكثير من israel-1949 في بعض القطاعات (مثل النقب) وفُقد الحي اليهودي في البلدة القديمة في أيار/مايو 1948 (بريتانيكا).",
+          "he": "קווי שביתת הנשק לא היו גבולות במפורש. שטחי ההפקר (nml-latrun, nml-jerusalem) אינם כלולים; הסדרים מפורזים לאורך קווי שביתת נשק אחרים לא נחקרו. במאי-יולי 1948 היה השטח בידי ישראל קטן בהרבה מ-israel-1949 בכמה גזרות (למשל הנגב) והרובע היהודי בעיר העתיקה אבד במאי 1948 (בריטניקה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israel-1",
         "geometry_method": "units"
@@ -107,7 +113,13 @@
           }
         ],
         "notes": {
-          "en": "The enlarged municipal area of 1967 included areas beyond the pre-1967 Jordanian municipality; the east-jerusalem unit is an approximation. Status of the former no-man's-land units after 1967 not researched. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not."
+          "en": "The enlarged municipal area of 1967 included areas beyond the pre-1967 Jordanian municipality; the east-jerusalem unit is an approximation. Status of the former no-man's-land units after 1967 not researched. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not.",
+          "ar": "شمل النطاق البلدي الموسَّع لعام 1967 مناطق تتجاوز البلدية الأردنية قبل 1967؛ ووحدة east-jerusalem تقريبية. ولم تُبحث حالة وحدات الأرض الحرام السابقة بعد 1967. ملاحظة النمذجة: الوحدات التي تكون حالتها محل خلاف دولي مدرجة في contested_units ومرسومة بتهشير؛ أما باقي الامتداد فلا.",
+          "he": "האזור העירוני המורחב של 1967 כלל שטחים מעבר לעירייה הירדנית שלפני 1967; יחידת east-jerusalem היא קירוב. מעמד יחידות שטחי ההפקר לשעבר לאחר 1967 לא נחקר. הערת מידול: יחידות שמעמדן שנוי במחלוקת בינלאומית רשומות ב-contested_units ומצוירות בקווקוו; שאר ההיקף אינו כך.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israel-2",
         "geometry_method": "units",
@@ -164,7 +176,13 @@
           }
         ],
         "notes": {
-          "en": "Golan: the UN and nearly all states regard it as occupied Syrian territory; Israel's 1981 law and the 2019 US proclamation take the opposite position. Shebaa Farms: held by Israel as part of the Golan; Lebanon claims them (supported by Syria in 2000), while the UN placed them in the UNDOF (Syrian) area of operations (S/2000/460). Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not."
+          "en": "Golan: the UN and nearly all states regard it as occupied Syrian territory; Israel's 1981 law and the 2019 US proclamation take the opposite position. Shebaa Farms: held by Israel as part of the Golan; Lebanon claims them (supported by Syria in 2000), while the UN placed them in the UNDOF (Syrian) area of operations (S/2000/460). Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not.",
+          "ar": "الجولان: تعدّه الأمم المتحدة وجميع الدول تقريبًا أرضًا سورية محتلة؛ ويتخذ قانون إسرائيل لعام 1981 وإعلان الولايات المتحدة لعام 2019 الموقف المعاكس. مزارع شبعا: تحتفظ بها إسرائيل جزءًا من الجولان؛ وتطالب بها لبنان (بدعم من سوريا عام 2000)، بينما وضعتها الأمم المتحدة ضمن منطقة عمليات UNDOF (السورية) (S/2000/460). ملاحظة النمذجة: الوحدات التي تكون حالتها محل خلاف دولي مدرجة في contested_units ومرسومة بتهشير؛ أما باقي الامتداد فلا.",
+          "he": "הגולן: האו\"ם וכמעט כל המדינות רואים בו שטח סורי כבוש; חוק ישראל מ-1981 וההכרזה האמריקנית מ-2019 נוקטים עמדה הפוכה. חוות שבעא: מוחזקות בידי ישראל כחלק מהגולן; לבנון תובעת אותן (בתמיכת סוריה ב-2000), ואילו האו\"ם הציב אותן באזור הפעילות של UNDOF (הסורי) (S/2000/460). הערת מידול: יחידות שמעמדן שנוי במחלוקת בינלאומית רשומות ב-contested_units ומצוירות בקווקוו; שאר ההיקף אינו כך.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israel-3",
         "geometry_method": "units",

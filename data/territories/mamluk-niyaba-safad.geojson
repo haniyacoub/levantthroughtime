@@ -42,7 +42,13 @@
           }
         ],
         "notes": {
-          "en": "Whether the Acre plain (after 1291) and all of Lower Galilee belonged to Safad was not verified."
+          "en": "Whether the Acre plain (after 1291) and all of Lower Galilee belonged to Safad was not verified.",
+          "ar": "لم يُتحقق مما إذا كان سهل عكا (بعد 1291) والجليل الأدنى كله تابعًا لصفد.",
+          "he": "לא אומת אם מישור עכו (אחרי 1291) וכל הגליל התחתון השתייכו לצפת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mamluk-niyaba-safad-1",
         "geometry_method": "units"

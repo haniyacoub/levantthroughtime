@@ -40,7 +40,13 @@
           }
         ],
         "notes": {
-          "en": "Transjordan omitted because its 1918-1920 administrative attachment was not confirmed in an opened source."
+          "en": "Transjordan omitted because its 1918-1920 administrative attachment was not confirmed in an opened source.",
+          "ar": "حُذف شرق الأردن لأن ارتباطه الإداري في 1918-1920 لم يُؤكَّد في مصدر مفتوح.",
+          "he": "עבר הירדן הושמט משום שהשתייכותו המנהלית ב-1918-1920 לא אושרה במקור שנפתח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "oeta-east-arab-administration-1",
         "geometry_method": "units"

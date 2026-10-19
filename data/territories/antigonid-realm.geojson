@@ -62,7 +62,13 @@
           }
         ],
         "notes": {
-          "en": "The two sources give different simplified pictures of 323–301; marked contested."
+          "en": "The two sources give different simplified pictures of 323–301; marked contested.",
+          "ar": "يعطي المصدران صورتين مبسطتين مختلفتين لـ323–301؛ وُسم بأنه متنازَع عليه.",
+          "he": "שני המקורות נותנים תמונות מפושטות שונות של 323–301; סומן כשנוי במחלוקת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "antigonid-realm-1",
         "geometry_method": "units"

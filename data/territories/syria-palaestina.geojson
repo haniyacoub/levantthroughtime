@@ -121,7 +121,13 @@
           }
         ],
         "notes": {
-          "en": "Some scholars have proposed repeated back-and-forth transfers of the south in 300–390 (rejected by Di Segni)."
+          "en": "Some scholars have proposed repeated back-and-forth transfers of the south in 300–390 (rejected by Di Segni).",
+          "ar": "اقترح بعض الباحثين انتقالات متكررة ذهابًا وإيابًا للجنوب في 300–390 (يرفضها دي سيغني).",
+          "he": "חוקרים מסוימים הציעו העברות חוזרות הלוך ושוב של הדרום ב-300–390 (נדחה על ידי די סגני).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-palaestina-2",
         "geometry_method": "units"

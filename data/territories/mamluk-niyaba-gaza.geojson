@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Temporary enlargement in the 1310s (Jerusalem, Hebron, Nablus) not mapped."
+          "en": "Temporary enlargement in the 1310s (Jerusalem, Hebron, Nablus) not mapped.",
+          "ar": "لم يُرسم التوسع المؤقت في عشرينيات القرن 14 (القدس والخليل ونابلس).",
+          "he": "ההרחבה הזמנית בשנות ה-1310 (ירושלים, חברון, שכם) אינה ממופה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mamluk-niyaba-gaza-1",
         "geometry_method": "units"

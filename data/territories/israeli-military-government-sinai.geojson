@@ -78,7 +78,13 @@
           }
         ],
         "notes": {
-          "en": "Stage lines not reconstructed."
+          "en": "Stage lines not reconstructed.",
+          "ar": "لم تُعاد بناء خطوط المراحل.",
+          "he": "קווי השלבים לא שוחזרו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-military-government-sinai-2",
         "geometry_method": "units"

@@ -133,7 +133,13 @@
           }
         ],
         "notes": {
-          "en": "The date of Mamluk control over Karak and southern Transjordan was not verified here, so moab/edom/madaba-plain are partial; Galilee units partial until the conquest of Galilee in 1266."
+          "en": "The date of Mamluk control over Karak and southern Transjordan was not verified here, so moab/edom/madaba-plain are partial; Galilee units partial until the conquest of Galilee in 1266.",
+          "ar": "لم يُتحقق هنا من تاريخ سيطرة المماليك على الكرك وجنوب شرق الأردن، ولذلك moab/edom/madaba-plain جزئية؛ ووحدات الجليل جزئية حتى فتح الجليل عام 1266.",
+          "he": "תאריך השליטה הממלוכית בכרך ובדרום עבר הירדן לא אומת כאן, ולכן moab/edom/madaba-plain חלקיות; יחידות הגליל חלקיות עד כיבוש הגליל ב-1266.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mamluk-sultanate-2",
         "geometry_method": "units"
@@ -227,7 +233,13 @@
           }
         ],
         "notes": {
-          "en": "Interrupted by the Mongol occupation of Damascus and raids in Palestine in 1299-1300 (see ilkhanate). Desert margins partial."
+          "en": "Interrupted by the Mongol occupation of Damascus and raids in Palestine in 1299-1300 (see ilkhanate). Desert margins partial.",
+          "ar": "انقطعت باحتلال المغول لدمشق والغارات في فلسطين في 1299-1300 (انظر ilkhanate). هوامش الصحراء جزئية.",
+          "he": "נקטעה בכיבוש המונגולי של דמשק ובפשיטות בפלשתינה ב-1299-1300 (ראו ilkhanate). שולי המדבר חלקיים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mamluk-sultanate-3",
         "geometry_method": "units"

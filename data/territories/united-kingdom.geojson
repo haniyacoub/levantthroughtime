@@ -58,7 +58,13 @@
           }
         ],
         "notes": {
-          "en": "Northern Palestine (israel-1949, partly) only came under British control in Sept-Oct 1918. Transjordan: local administrations with British advisers (King Hussein site), then the Emirate from April 1921."
+          "en": "Northern Palestine (israel-1949, partly) only came under British control in Sept-Oct 1918. Transjordan: local administrations with British advisers (King Hussein site), then the Emirate from April 1921.",
+          "ar": "لم تخضع شمال فلسطين (israel-1949، جزئيًا) للسيطرة البريطانية إلا في أيلول/سبتمبر-تشرين الأول/أكتوبر 1918. شرق الأردن: إدارات محلية بمستشارين بريطانيين (موقع الملك الحسين)، ثم الإمارة منذ نيسان/أبريل 1921.",
+          "he": "צפון פלשתינה (israel-1949, בחלקו) עבר לשליטה בריטית רק בספטמבר-אוקטובר 1918. עבר הירדן: מנהלים מקומיים עם יועצים בריטיים (אתר המלך חוסיין), ואחר כך האמירות מאפריל 1921.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-kingdom-1",
         "geometry_method": "units"
@@ -110,7 +116,13 @@
           }
         ],
         "notes": {
-          "en": "Egypt's protectorate ended 28 Feb 1922 (Britannica), so Sinai is excluded from this slice."
+          "en": "Egypt's protectorate ended 28 Feb 1922 (Britannica), so Sinai is excluded from this slice.",
+          "ar": "انتهت محمية مصر في 28 شباط/فبراير 1922 (بريتانيكا)، ولذلك استُثنيت سيناء من هذه الشريحة.",
+          "he": "החסות על מצרים הסתיימה ב-28 בפברואר 1922 (בריטניקה), ולכן סיני אינה כלולה בפרוסה זו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-kingdom-2",
         "geometry_method": "units"
@@ -160,7 +172,13 @@
           }
         ],
         "notes": {
-          "en": "During the civil war phase (Nov 1947-May 1948) effective British control receded; not modelled here."
+          "en": "During the civil war phase (Nov 1947-May 1948) effective British control receded; not modelled here.",
+          "ar": "خلال مرحلة الحرب الأهلية (تشرين الثاني/نوفمبر 1947 - أيار/مايو 1948) تراجعت السيطرة البريطانية الفعلية؛ ولم تُمثَّل هنا.",
+          "he": "בשלב מלחמת האזרחים (נובמבר 1947 - מאי 1948) נסוגה השליטה הבריטית בפועל; לא מודלה כאן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-kingdom-3",
         "geometry_method": "units"

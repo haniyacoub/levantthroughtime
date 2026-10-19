@@ -125,7 +125,13 @@
           }
         ],
         "notes": {
-          "en": "Egypt (incl. Sinai) was conquered from 639/640; Sinai units included schematically."
+          "en": "Egypt (incl. Sinai) was conquered from 639/640; Sinai units included schematically.",
+          "ar": "فُتحت مصر (بما فيها سيناء) منذ 639/640؛ وأُدرجت وحدات سيناء تخطيطيًا.",
+          "he": "מצרים (כולל סיני) נכבשה מ-639/640; יחידות סיני נכללו באופן סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "rashidun-caliphate-2",
         "geometry_method": "units"

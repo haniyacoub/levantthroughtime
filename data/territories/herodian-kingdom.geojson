@@ -175,7 +175,13 @@
           }
         ],
         "notes": {
-          "en": "Britannica gives 22 and 20 BCE, Dar 23 BCE for the Hauran grant."
+          "en": "Britannica gives 22 and 20 BCE, Dar 23 BCE for the Hauran grant.",
+          "ar": "تعطي بريتانيكا 22 و20 ق.م.، ودار 23 ق.م. لمنحة حوران.",
+          "he": "בריטניקה נותנת 22 ו-20 לפנה״ס, דר 23 לפנה״ס למענק חורן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "herodian-kingdom-3",
         "geometry_method": "units"

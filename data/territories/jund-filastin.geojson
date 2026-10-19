@@ -60,7 +60,13 @@
           }
         ],
         "notes": {
-          "en": "Boundaries shifted somewhat over four centuries; one slice used for this first pass. Le Strange says part of former Palaestina Tertia was counted in Filastin."
+          "en": "Boundaries shifted somewhat over four centuries; one slice used for this first pass. Le Strange says part of former Palaestina Tertia was counted in Filastin.",
+          "ar": "تغيرت الحدود نوعًا ما على مدى أربعة قرون؛ واستُخدمت شريحة واحدة لهذه الجولة الأولى. يقول لو سترينج إن جزءًا من فلسطين الثالثة السابقة كان يُعدّ ضمن فلسطين.",
+          "he": "הגבולות השתנו במידה מסוימת לאורך ארבע מאות שנה; פרוסה אחת שימשה לסבב ראשון זה. לה סטריינג' אומר שחלק מפלשתינה השלישית לשעבר נחשב כחלק מפלסטין.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jund-filastin-1",
         "geometry_method": "units"

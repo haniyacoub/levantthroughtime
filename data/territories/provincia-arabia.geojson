@@ -103,7 +103,13 @@
           }
         ],
         "notes": {
-          "en": "Date of transfer: Tetrarchy (284–305) per Di Segni vs Constantine (306–337) per Britannica. Moab's assignment uncertain."
+          "en": "Date of transfer: Tetrarchy (284–305) per Di Segni vs Constantine (306–337) per Britannica. Moab's assignment uncertain.",
+          "ar": "تاريخ النقل: الرباعية (284–305) بحسب دي سيغني مقابل قسطنطين (306–337) بحسب بريتانيكا. وإسناد موآب غير مؤكد.",
+          "he": "תאריך ההעברה: הטטרכיה (284–305) לפי די סגני לעומת קונסטנטינוס (306–337) לפי בריטניקה. שיוך מואב אינו ודאי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "provincia-arabia-2",
         "geometry_method": "units"

@@ -42,7 +42,13 @@
           }
         ],
         "notes": {
-          "en": "During the October 1973 war Israel temporarily advanced beyond the Golan into Syria (Britannica Arab-Israeli wars); not modelled."
+          "en": "During the October 1973 war Israel temporarily advanced beyond the Golan into Syria (Britannica Arab-Israeli wars); not modelled.",
+          "ar": "خلال حرب تشرين الأول/أكتوبر 1973 تقدمت إسرائيل مؤقتًا إلى ما بعد الجولان داخل سوريا (بريتانيكا، الحروب العربية الإسرائيلية)؛ ولم يُمثَّل.",
+          "he": "במהלך מלחמת אוקטובר 1973 התקדמה ישראל זמנית מעבר לגולן לתוך סוריה (בריטניקה, מלחמות ערב-ישראל); לא מודל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-military-government-golan-1",
         "geometry_method": "units",

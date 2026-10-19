@@ -68,7 +68,13 @@
           }
         ],
         "notes": {
-          "en": "Qarmatian occupation of parts of Palestine in the 970s not modelled (not verified with citable sources)."
+          "en": "Qarmatian occupation of parts of Palestine in the 970s not modelled (not verified with citable sources).",
+          "ar": "لم يُمثَّل احتلال القرامطة لأجزاء من فلسطين في سبعينيات القرن العاشر (لم يُتحقق منه بمصادر قابلة للاستشهاد).",
+          "he": "הכיבוש הקרמטי של חלקים מפלשתינה בשנות ה-970 לא מודל (לא אומת במקורות הניתנים לציטוט).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "fatimid-caliphate-1",
         "geometry_method": "units"
@@ -122,7 +128,13 @@
           }
         ],
         "notes": {
-          "en": "Brief Fatimid recovery of Ramla and Jerusalem in 1072/73 not modelled as a separate slice."
+          "en": "Brief Fatimid recovery of Ramla and Jerusalem in 1072/73 not modelled as a separate slice.",
+          "ar": "لم تُمثَّل استعادة الفاطميين القصيرة للرملة والقدس في 1072/73 كشريحة منفصلة.",
+          "he": "השבת הפאטמים הקצרה של רמלה וירושלים ב-1072/73 לא מודלה כפרוסה נפרדת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "fatimid-caliphate-2",
         "geometry_method": "units"
@@ -183,7 +195,13 @@
           }
         ],
         "notes": {
-          "en": "End = Crusader capture of Jerusalem; Fatimid Ascalon survived into the next era."
+          "en": "End = Crusader capture of Jerusalem; Fatimid Ascalon survived into the next era.",
+          "ar": "النهاية = استيلاء الصليبيين على القدس؛ وبقيت عسقلان الفاطمية إلى العصر التالي.",
+          "he": "הסיום = כיבוש ירושלים בידי הצלבנים; אשקלון הפאטמית שרדה אל העידן הבא.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "fatimid-caliphate-3",
         "geometry_method": "units"
@@ -245,7 +263,13 @@
           }
         ],
         "notes": {
-          "en": "Sinai assigned because it lay between Egypt and Palestine; no source specifically describing Fatimid Sinai was checked."
+          "en": "Sinai assigned because it lay between Egypt and Palestine; no source specifically describing Fatimid Sinai was checked.",
+          "ar": "أُسندت سيناء لأنها تقع بين مصر وفلسطين؛ ولم يُفحص أي مصدر يصف سيناء الفاطمية تحديدًا.",
+          "he": "סיני יוחסה משום שהייתה בין מצרים לפלשתינה; לא נבדק מקור המתאר ספציפית את סיני הפאטמית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "fatimid-caliphate-4",
         "geometry_method": "units"

@@ -40,7 +40,13 @@
           }
         ],
         "notes": {
-          "en": "Shebaa Farms: maps issued by Syria and Lebanon after 1966 mostly place the farmlands in Syria (UN S/2000/460 para 17); the unit is treated as Syrian-held before 1967."
+          "en": "Shebaa Farms: maps issued by Syria and Lebanon after 1966 mostly place the farmlands in Syria (UN S/2000/460 para 17); the unit is treated as Syrian-held before 1967.",
+          "ar": "مزارع شبعا: الخرائط الصادرة عن سوريا ولبنان بعد 1966 تضع الأراضي الزراعية في الغالب في سوريا (الأمم المتحدة S/2000/460 الفقرة 17)؛ وتُعامل الوحدة على أنها بيد سوريا قبل 1967.",
+          "he": "חוות שבעא: מפות שהוציאו סוריה ולבנון אחרי 1966 ממקמות את האדמות החקלאיות ברובן בסוריה (האו\"ם S/2000/460 סעיף 17); היחידה מטופלת כמוחזקת בידי סוריה לפני 1967.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-1",
         "geometry_method": "units"
@@ -84,7 +90,13 @@
           }
         ],
         "notes": {
-          "en": "Syria regards the whole Golan as its territory (UNSC 497 calls it 'the occupied Syrian Golan Heights'). Modelling note: the eastern strip of the Golan that Syria retained is the UN area of separation, which is not part of the Golan Heights unit."
+          "en": "Syria regards the whole Golan as its territory (UNSC 497 calls it 'the occupied Syrian Golan Heights'). Modelling note: the eastern strip of the Golan that Syria retained is the UN area of separation, which is not part of the Golan Heights unit.",
+          "ar": "تعدّ سوريا الجولان كله أرضها (يصفه قرار مجلس الأمن 497 بأنه 'the occupied Syrian Golan Heights'). ملاحظة النمذجة: الشريط الشرقي من الجولان الذي احتفظت به سوريا هو منطقة الفصل التابعة للأمم المتحدة، وهي ليست جزءًا من وحدة هضبة الجولان.",
+          "he": "סוריה רואה בכל הגולן את שטחה (החלטת מועצת הביטחון 497 מכנה אותו 'the occupied Syrian Golan Heights'). הערת מידול: הרצועה המזרחית של הגולן ששמרה סוריה היא אזור ההפרדה של האו\"ם, שאינו חלק מיחידת רמת הגולן.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-2",
         "geometry_method": "units"
@@ -119,7 +131,13 @@
           }
         ],
         "notes": {
-          "en": "Britannica says the IDF entered the buffer zone on 7 Dec 2024 as the Assad government was 'on the brink of collapse'; Damascus called the seizure a violation of the 1974 Disengagement Agreement (A News, Aug 2026). Large parts of Syria were outside central government control during the civil war (2011-2024); not modelled. Modelling note: drawn as the whole of Syria; the Israeli-held positions since December 2024 are a separate record (israeli-positions-syria-2024)."
+          "en": "Britannica says the IDF entered the buffer zone on 7 Dec 2024 as the Assad government was 'on the brink of collapse'; Damascus called the seizure a violation of the 1974 Disengagement Agreement (A News, Aug 2026). Large parts of Syria were outside central government control during the civil war (2011-2024); not modelled. Modelling note: drawn as the whole of Syria; the Israeli-held positions since December 2024 are a separate record (israeli-positions-syria-2024).",
+          "ar": "تقول بريتانيكا إن جيش الدفاع الإسرائيلي دخل المنطقة العازلة في 7 كانون الأول/ديسمبر 2024 فيما كانت حكومة الأسد 'on the brink of collapse'؛ ووصفت دمشق الاستيلاء بأنه انتهاك لاتفاقية فض الاشتباك لعام 1974 (A News، آب/أغسطس 2026). وكانت أجزاء كبيرة من سوريا خارج سيطرة الحكومة المركزية خلال الحرب الأهلية (2011-2024)؛ ولم تُمثَّل. ملاحظة النمذجة: مرسومة كل سوريا؛ والمواقع التي تحتفظ بها إسرائيل منذ كانون الأول/ديسمبر 2024 سجل منفصل (israeli-positions-syria-2024).",
+          "he": "בריטניקה אומרת שצה\"ל נכנס לאזור החיץ ב-7 בדצמבר 2024 בעוד ממשלת אסד 'on the brink of collapse'; דמשק כינתה את ההשתלטות הפרה של הסכם הפרדת הכוחות מ-1974 (A News, אוגוסט 2026). חלקים גדולים מסוריה היו מחוץ לשליטת השלטון המרכזי במהלך מלחמת האזרחים (2011-2024); לא מודלו. הערת מידול: מצוירת כל סוריה; העמדות המוחזקות בידי ישראל מאז דצמבר 2024 הן רשומה נפרדת (israeli-positions-syria-2024).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-3",
         "geometry_method": "units",

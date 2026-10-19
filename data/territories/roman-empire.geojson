@@ -70,7 +70,13 @@
           }
         ],
         "notes": {
-          "en": "Nabataean lands (partial units) were under a vassal king, not direct rule."
+          "en": "Nabataean lands (partial units) were under a vassal king, not direct rule.",
+          "ar": "كانت أراضي الأنباط (وحدات جزئية) تحت ملك تابع، لا حكم مباشر.",
+          "he": "אדמות הנבטים (יחידות חלקיות) היו תחת מלך וסאל, לא שלטון ישיר.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "roman-empire-1",
         "geometry_method": "units"
@@ -138,7 +144,13 @@
           }
         ],
         "notes": {
-          "en": "Eastern desert (badia) control was loose."
+          "en": "Eastern desert (badia) control was loose.",
+          "ar": "كانت السيطرة على الصحراء الشرقية (البادية) فضفاضة.",
+          "he": "השליטה במדבר המזרחי (הבאדיה) הייתה רופפת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "roman-empire-2",
         "geometry_method": "units"

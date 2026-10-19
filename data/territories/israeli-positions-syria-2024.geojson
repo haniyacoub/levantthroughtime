@@ -38,7 +38,13 @@
           }
         ],
         "notes": {
-          "en": "No polygon; extent not quantified in opened sources. Modelling note: drawn as the UN area of separation only; the positions on the Syrian side of Mount Hermon are not mapped."
+          "en": "No polygon; extent not quantified in opened sources. Modelling note: drawn as the UN area of separation only; the positions on the Syrian side of Mount Hermon are not mapped.",
+          "ar": "لا مضلع؛ الامتداد غير محدد كميًا في المصادر المفتوحة. ملاحظة النمذجة: مرسومة كمنطقة فصل الأمم المتحدة فقط؛ ولم تُرسم المواقع على الجانب السوري من جبل الشيخ.",
+          "he": "ללא מצולע; ההיקף לא הוערך כמותית במקורות שנפתחו. הערת מידול: מצוירת כאזור ההפרדה של האו\"ם בלבד; העמדות בצד הסורי של החרמון אינן ממופות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-positions-syria-2024-1",
         "geometry_method": "units"

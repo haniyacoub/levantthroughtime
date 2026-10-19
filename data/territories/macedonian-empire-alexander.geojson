@@ -58,7 +58,13 @@
           }
         ],
         "notes": {
-          "en": "Extent of direct control inland is not described in the sources; interior units marked partial."
+          "en": "Extent of direct control inland is not described in the sources; interior units marked partial.",
+          "ar": "لا تصف المصادر امتداد السيطرة المباشرة في الداخل؛ ووُسمت وحدات الداخل بأنها جزئية.",
+          "he": "המקורות אינם מתארים את היקף השליטה הישירה בפנים הארץ; יחידות הפנים סומנו כחלקיות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "macedonian-empire-alexander-1",
         "geometry_method": "units"

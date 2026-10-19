@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Extent beyond Jerusalem not specified in the sources."
+          "en": "Extent beyond Jerusalem not specified in the sources.",
+          "ar": "لا تحدد المصادر الامتداد خارج القدس.",
+          "he": "המקורות אינם מפרטים את ההיקף מחוץ לירושלים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "artuqid-jerusalem-1",
         "geometry_method": "units"

@@ -40,7 +40,13 @@
           }
         ],
         "notes": {
-          "en": "Southern parts lost to the Hasmoneans c. 104 BCE."
+          "en": "Southern parts lost to the Hasmoneans c. 104 BCE.",
+          "ar": "فُقدت الأجزاء الجنوبية لصالح الحشمونيين نحو 104 ق.م.",
+          "he": "החלקים הדרומיים אבדו לחשמונאים בערך ב-104 לפנה״ס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ituraean-principality-1",
         "geometry_method": "units"

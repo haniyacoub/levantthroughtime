@@ -134,7 +134,13 @@
           }
         ],
         "notes": {
-          "en": "Qarmatian raids 903–906 not modelled as territory."
+          "en": "Qarmatian raids 903–906 not modelled as territory.",
+          "ar": "غارات القرامطة 903-906 غير مُمثَّلة كأرض.",
+          "he": "פשיטות הקרמטים 903-906 אינן ממודלות כשטח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "abbasid-caliphate-2",
         "geometry_method": "units"

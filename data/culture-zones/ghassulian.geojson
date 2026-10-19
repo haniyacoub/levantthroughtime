@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Chalcolithic variants elsewhere (e.g. Golan) are not included."
+          "en": "Chalcolithic variants elsewhere (e.g. Golan) are not included.",
+          "ar": "المتغيرات الكالكوليثية في مواضع أخرى (مثل الجولان) غير مشمولة.",
+          "he": "וריאנטים כלקוליתיים במקומות אחרים (למשל הגולן) אינם כלולים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ghassulian-1",
         "geometry_method": "units"

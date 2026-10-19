@@ -60,7 +60,13 @@
           }
         ],
         "notes": {
-          "en": "Fatimid interlude 1072/73; Damascus only from 1076."
+          "en": "Fatimid interlude 1072/73; Damascus only from 1076.",
+          "ar": "فترة فاطمية قصيرة 1072/73؛ دمشق فقط منذ 1076.",
+          "he": "הפוגה פאטמית 1072/73; דמשק רק מ-1076.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "seljuk-empire-1",
         "geometry_method": "units"

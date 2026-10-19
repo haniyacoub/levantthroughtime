@@ -186,7 +186,13 @@
           }
         ],
         "notes": {
-          "en": "Partial coastal units: Ayyubid 1187-1191, Frankish afterwards. Internal division among Ayyubid princes not mapped. Upper and Lower Galilee partial because parts (e.g. Safad, Nazareth) were Frankish again in the 1240s."
+          "en": "Partial coastal units: Ayyubid 1187-1191, Frankish afterwards. Internal division among Ayyubid princes not mapped. Upper and Lower Galilee partial because parts (e.g. Safad, Nazareth) were Frankish again in the 1240s.",
+          "ar": "وحدات ساحلية جزئية: أيوبية 1187-1191، وفرنجية بعد ذلك. لم يُرسم التقسيم الداخلي بين الأمراء الأيوبيين. الجليل الأعلى والأدنى جزئيان لأن أجزاء منهما (مثل صفد والناصرة) عادت فرنجية في أربعينيات القرن 13.",
+          "he": "יחידות חוף חלקיות: איובי 1187-1191, פרנקי לאחר מכן. החלוקה הפנימית בין נסיכים איוביים לא מופתה. הגליל העליון והתחתון חלקיים משום שחלקים מהם (למשל צפת ונצרת) היו שוב פרנקיים בשנות ה-1240.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ayyubid-sultanate-3",
         "geometry_method": "units"
@@ -255,7 +261,13 @@
           }
         ],
         "notes": {
-          "en": "How southern Palestine was divided between the Syrian Ayyubids and Mamluk Egypt in 1250-1260 was not verified; the Mongols briefly held much of the area in 1260 (see ilkhanate)."
+          "en": "How southern Palestine was divided between the Syrian Ayyubids and Mamluk Egypt in 1250-1260 was not verified; the Mongols briefly held much of the area in 1260 (see ilkhanate).",
+          "ar": "لم يُتحقق من كيفية تقسيم جنوب فلسطين بين الأيوبيين في الشام ومصر المملوكية في 1250-1260؛ وسيطر المغول لفترة وجيزة على معظم المنطقة عام 1260 (انظر ilkhanate).",
+          "he": "לא אומת כיצד חולקה דרום פלשתינה בין האיובים בסוריה לבין מצרים הממלוכית ב-1250-1260; המונגולים החזיקו לזמן קצר ברוב האזור ב-1260 (ראו ilkhanate).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ayyubid-sultanate-4",
         "geometry_method": "units"

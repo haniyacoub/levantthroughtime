@@ -39,7 +39,13 @@
           }
         ],
         "notes": {
-          "en": "Golan inclusion schematic, as for the preceding Arab administration."
+          "en": "Golan inclusion schematic, as for the preceding Arab administration.",
+          "ar": "إدراج الجولان تخطيطي، كما في الإدارة العربية السابقة.",
+          "he": "הכללת הגולן סכמטית, כמו במנהל הערבי הקודם.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "arab-kingdom-of-syria-1",
         "geometry_method": "units"

@@ -76,7 +76,13 @@
           }
         ],
         "notes": {
-          "en": "Depth of the zone not quantified in an opened source."
+          "en": "Depth of the zone not quantified in an opened source.",
+          "ar": "لم يُحدَّد عمق المنطقة كميًا في مصدر مفتوح.",
+          "he": "עומק האזור לא הוערך כמותית במקור שנפתח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-occupied-zone-south-lebanon-1982-2",
         "geometry_method": "units"

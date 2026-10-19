@@ -85,7 +85,13 @@
           }
         ],
         "notes": {
-          "en": "Scholars differ on the depth of control: Humphreys (1977) saw the occupation of Palestine as 'effectively completed' but thought the Mongols never entered Jerusalem and did not hold Transjordan; Runciman (1954) also held that they never reached Jerusalem; Amitai (1987) argues the conquest of Palestine was 'tenuous at best', but that Mongols did enter Jerusalem and conquered most of Transjordan. All partial units = raids/tenuous control, not administration."
+          "en": "Scholars differ on the depth of control: Humphreys (1977) saw the occupation of Palestine as 'effectively completed' but thought the Mongols never entered Jerusalem and did not hold Transjordan; Runciman (1954) also held that they never reached Jerusalem; Amitai (1987) argues the conquest of Palestine was 'tenuous at best', but that Mongols did enter Jerusalem and conquered most of Transjordan. All partial units = raids/tenuous control, not administration.",
+          "ar": "يختلف الباحثون في عمق السيطرة: رأى همفريز (1977) أن احتلال فلسطين 'effectively completed' لكنه ظن أن المغول لم يدخلوا القدس قط ولم يحتفظوا بشرق الأردن؛ ورأى رانسيمان (1954) أيضًا أنهم لم يبلغوا القدس قط؛ ويرى عميتاي (1987) أن فتح فلسطين كان 'tenuous at best'، لكن المغول دخلوا القدس وفتحوا معظم شرق الأردن. وكل الوحدات الجزئية = غارات/سيطرة هشة، لا إدارة.",
+          "he": "חוקרים חלוקים לגבי עומק השליטה: המפריס (1977) ראה בכיבוש פלשתינה 'effectively completed' אך סבר שהמונגולים מעולם לא נכנסו לירושלים ולא החזיקו בעבר הירדן; רנסימן (1954) סבר גם הוא שמעולם לא הגיעו לירושלים; עמיתי (1987) טוען שכיבוש פלשתינה היה 'tenuous at best', אך שהמונגולים אכן נכנסו לירושלים וכבשו את רוב עבר הירדן. כל היחידות החלקיות = פשיטות/שליטה רופפת, לא מנהל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ilkhanate-1",
         "geometry_method": "units"
@@ -151,7 +157,13 @@
           }
         ],
         "notes": {
-          "en": "Mulay's return is dated 29 Rabi' II 699 by Rashid al-Din and end of Jumada II 699 by Mamluk writers (Amitai 1987, n. 85), i.e. early 1300. Raid, not administration."
+          "en": "Mulay's return is dated 29 Rabi' II 699 by Rashid al-Din and end of Jumada II 699 by Mamluk writers (Amitai 1987, n. 85), i.e. early 1300. Raid, not administration.",
+          "ar": "يؤرخ رشيد الدين عودة ملاي بـ29 ربيع الآخر 699، ويؤرخها الكتّاب المماليك بنهاية جمادى الآخرة 699 (عميتاي 1987، هـ 85)، أي مطلع 1300. غارة، لا إدارة.",
+          "he": "שובו של מולאי מתוארך ל-29 ברביע' השני 699 אצל ראשיד א-דין ולסוף ג'ומאדא השנייה 699 אצל הכותבים הממלוכים (עמיתי 1987, הערה 85), כלומר תחילת 1300. פשיטה, לא מנהל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ilkhanate-2",
         "geometry_method": "units"

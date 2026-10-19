@@ -39,7 +39,13 @@
           }
         ],
         "notes": {
-          "en": "Day of the main ground incursion (27 Oct 2023) is commonly cited but Britannica says only 'at the end of October'; precision set to month. Not to be drawn as a polygon."
+          "en": "Day of the main ground incursion (27 Oct 2023) is commonly cited but Britannica says only 'at the end of October'; precision set to month. Not to be drawn as a polygon.",
+          "ar": "يُذكر عادةً يوم التوغل البري الرئيسي (27 تشرين الأول/أكتوبر 2023) لكن بريتانيكا تقول فقط 'at the end of October'؛ فضُبطت الدقة على الشهر. لا يُرسم مضلعًا.",
+          "he": "היום של הפלישה הקרקעית העיקרית (27 באוקטובר 2023) מצוטט בדרך כלל אך בריטניקה אומרת רק 'at the end of October'; הדיוק נקבע לחודש. אין לצייר כמצולע.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "idf-controlled-zone-gaza-2023-1",
         "geometry_method": "units"
@@ -97,7 +103,13 @@
           }
         ],
         "notes": {
-          "en": "Deliberately no polygon. The 65% OCHA figure was seen only as reported by Al Jazeera; the OCHA document itself was not located."
+          "en": "Deliberately no polygon. The 65% OCHA figure was seen only as reported by Al Jazeera; the OCHA document itself was not located.",
+          "ar": "لا مضلع عن قصد. رقم OCHA البالغ 65% لم يُرَ إلا كما أوردته الجزيرة؛ ولم يُعثر على وثيقة OCHA نفسها.",
+          "he": "במכוון ללא מצולע. נתון OCHA של 65% נראה רק כפי שדווח על ידי אל-ג'זירה; מסמך OCHA עצמו לא אותר.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "idf-controlled-zone-gaza-2023-2",
         "geometry_method": "units"

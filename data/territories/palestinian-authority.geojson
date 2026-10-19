@@ -83,7 +83,13 @@
           }
         ],
         "notes": {
-          "en": "Area A/B shares and Israeli reoccupation of PA areas in 2002 not modelled."
+          "en": "Area A/B shares and Israeli reoccupation of PA areas in 2002 not modelled.",
+          "ar": "لم تُمثَّل نسب المنطقتين أ/ب وإعادة احتلال إسرائيل لمناطق السلطة الفلسطينية عام 2002.",
+          "he": "שיעורי שטחי A/B והכיבוש מחדש של שטחי הרשות הפלסטינית בידי ישראל ב-2002 לא מודלו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "palestinian-authority-2",
         "geometry_method": "units"

@@ -37,7 +37,13 @@
           }
         ],
         "notes": {
-          "en": "Point positions; not an area."
+          "en": "Point positions; not an area.",
+          "ar": "مواقع نقطية؛ ليست منطقة.",
+          "he": "עמדות נקודתיות; לא שטח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-security-zone-south-lebanon-2024-1",
         "geometry_method": "units"
@@ -78,7 +84,13 @@
           }
         ],
         "notes": {
-          "en": "No polygon. The ground offensive began in March 2026 (day not verified in an opened source)."
+          "en": "No polygon. The ground offensive began in March 2026 (day not verified in an opened source).",
+          "ar": "لا مضلع. بدأ الهجوم البري في آذار/مارس 2026 (لم يُتحقق من اليوم في مصدر مفتوح).",
+          "he": "ללא מצולע. המתקפה הקרקעית החלה במרץ 2026 (היום לא אומת במקור שנפתח).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-security-zone-south-lebanon-2024-2",
         "geometry_method": "units"

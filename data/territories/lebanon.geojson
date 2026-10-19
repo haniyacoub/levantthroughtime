@@ -39,7 +39,13 @@
           }
         ],
         "notes": {
-          "en": "The Israeli incursion of March 1978 (which led to UNSC res. 425 and UNIFIL) and the civil war are not modelled."
+          "en": "The Israeli incursion of March 1978 (which led to UNSC res. 425 and UNIFIL) and the civil war are not modelled.",
+          "ar": "لم يُمثَّل التوغل الإسرائيلي في آذار/مارس 1978 (الذي أفضى إلى قرار مجلس الأمن 425 وقوة اليونيفيل) ولا الحرب الأهلية.",
+          "he": "הפלישה הישראלית של מרץ 1978 (שהובילה להחלטת מועצת הביטחון 425 ול-UNIFIL) ומלחמת האזרחים לא מודלו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "lebanon-1",
         "geometry_method": "units"
@@ -79,7 +85,13 @@
           }
         ],
         "notes": {
-          "en": "Syrian forces were also present in much of Lebanon in this period; not modelled. Modelling note: drawn as the whole of Lebanon; the Israeli-held south is a separate record (israeli-occupied-zone-south-lebanon-1982) drawn on top."
+          "en": "Syrian forces were also present in much of Lebanon in this period; not modelled. Modelling note: drawn as the whole of Lebanon; the Israeli-held south is a separate record (israeli-occupied-zone-south-lebanon-1982) drawn on top.",
+          "ar": "كانت القوات السورية موجودة أيضًا في معظم لبنان في هذه الفترة؛ ولم تُمثَّل. ملاحظة النمذجة: مرسوم كل لبنان؛ والجنوب الذي تحتله إسرائيل سجل منفصل (israeli-occupied-zone-south-lebanon-1982) مرسوم فوقه.",
+          "he": "כוחות סוריים נכחו גם ברוב לבנון בתקופה זו; לא מודלו. הערת מידול: מצויר כל לבנון; הדרום המוחזק בידי ישראל הוא רשומה נפרדת (israeli-occupied-zone-south-lebanon-1982) המצוירת מעליו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "lebanon-2",
         "geometry_method": "units",
@@ -120,7 +132,13 @@
           }
         ],
         "notes": {
-          "en": "Overlaps with israeli-security-zone-south-lebanon-2024 from 2024; Lebanon's sovereignty claim covers the whole unit. Modelling note: the Israeli-held positions since 2024 are a separate record drawn on top."
+          "en": "Overlaps with israeli-security-zone-south-lebanon-2024 from 2024; Lebanon's sovereignty claim covers the whole unit. Modelling note: the Israeli-held positions since 2024 are a separate record drawn on top.",
+          "ar": "يتداخل مع israeli-security-zone-south-lebanon-2024 منذ 2024؛ ويشمل ادعاء السيادة اللبنانية الوحدة كلها. ملاحظة النمذجة: المواقع التي تحتفظ بها إسرائيل منذ 2024 سجل منفصل مرسوم فوقه.",
+          "he": "חופף ל-israeli-security-zone-south-lebanon-2024 מ-2024; טענת הריבונות הלבנונית כוללת את כל היחידה. הערת מידול: העמדות המוחזקות בידי ישראל מאז 2024 הן רשומה נפרדת המצוירת מעליו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "lebanon-3",
         "geometry_method": "units"

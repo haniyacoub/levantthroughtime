@@ -105,7 +105,13 @@
           }
         ],
         "notes": {
-          "en": "Britannica says Aretas kept Damascus after 63 BCE and that it was later annexed by Nero; Dar limits the takeover to 85–72 BCE."
+          "en": "Britannica says Aretas kept Damascus after 63 BCE and that it was later annexed by Nero; Dar limits the takeover to 85–72 BCE.",
+          "ar": "تقول بريتانيكا إن الحارث احتفظ بدمشق بعد 63 ق.م. وإنها ضُمّت لاحقًا على يد نيرون؛ ويحصر دار الاستيلاء في 85–72 ق.م.",
+          "he": "בריטניקה אומרת שארתס שמר על דמשק אחרי 63 לפנה״ס ושהיא סופחה מאוחר יותר בידי נירון; דר מגביל את השתלטות ל-85–72 לפנה״ס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "nabataean-kingdom-2",
         "geometry_method": "units"
@@ -161,7 +167,13 @@
           }
         ],
         "notes": {
-          "en": "Damascus status after 72 BCE contested (see previous slice)."
+          "en": "Damascus status after 72 BCE contested (see previous slice).",
+          "ar": "وضع دمشق بعد 72 ق.م. متنازَع عليه (انظر الشريحة السابقة).",
+          "he": "מעמד דמשק אחרי 72 לפנה״ס שנוי במחלוקת (ראו הפרוסה הקודמת).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "nabataean-kingdom-3",
         "geometry_method": "units"

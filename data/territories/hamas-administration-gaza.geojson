@@ -39,7 +39,13 @@
           }
         ],
         "notes": {
-          "en": "Buffer-zone extent varied (Al Jazeera cites a 2010 OCHA estimate of 17% of Gaza's land)."
+          "en": "Buffer-zone extent varied (Al Jazeera cites a 2010 OCHA estimate of 17% of Gaza's land).",
+          "ar": "تباين امتداد المنطقة العازلة (تستشهد الجزيرة بتقدير لـ OCHA عام 2010 بأنها 17% من أرض غزة).",
+          "he": "היקף אזור החיץ השתנה (אל-ג'זירה מצטטת אומדן OCHA משנת 2010 של 17% משטח עזה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "hamas-administration-gaza-1",
         "geometry_method": "units"
@@ -80,7 +86,13 @@
           }
         ],
         "notes": {
-          "en": "No polygon is drawn; see idf-controlled-zone-gaza-2023 for the competing figures. Hamas's degree of control varied and parts of the area were contested by Israeli strikes and local armed groups (not researched)."
+          "en": "No polygon is drawn; see idf-controlled-zone-gaza-2023 for the competing figures. Hamas's degree of control varied and parts of the area were contested by Israeli strikes and local armed groups (not researched).",
+          "ar": "لم يُرسم مضلع؛ انظر idf-controlled-zone-gaza-2023 للأرقام المتنافسة. وتباينت درجة سيطرة حماس وكانت أجزاء من المنطقة محل نزاع بين الضربات الإسرائيلية والجماعات المسلحة المحلية (لم يُبحث).",
+          "he": "לא צויר מצולע; ראו idf-controlled-zone-gaza-2023 לנתונים המתחרים. מידת השליטה של חמאס השתנתה וחלקים מהאזור היו שנויים במחלוקת בין תקיפות ישראליות לקבוצות חמושות מקומיות (לא נחקר).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "hamas-administration-gaza-2",
         "geometry_method": "units"

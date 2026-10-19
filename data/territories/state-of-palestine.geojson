@@ -42,7 +42,13 @@
           }
         ],
         "notes": {
-          "en": "The 1988 declaration itself did not define borders. Renderers should style this slice as a claim, distinct from the PA's and Hamas's areas of actual administration. Modelling note: a claim, drawn as an outline only; control on the ground is shown by the Palestinian Authority, Hamas-led administration and Israeli military government records."
+          "en": "The 1988 declaration itself did not define borders. Renderers should style this slice as a claim, distinct from the PA's and Hamas's areas of actual administration. Modelling note: a claim, drawn as an outline only; control on the ground is shown by the Palestinian Authority, Hamas-led administration and Israeli military government records.",
+          "ar": "لم يحدد إعلان 1988 نفسه حدودًا. ينبغي أن تُظهر المصيّرات هذه الشريحة بوصفها ادعاءً، متميزًا عن مناطق الإدارة الفعلية للسلطة الفلسطينية وحماس. ملاحظة النمذجة: ادعاء، مرسوم كخط خارجي فقط؛ والسيطرة على الأرض تُبيّنها سجلات السلطة الفلسطينية والإدارة التي تقودها حماس والحكم العسكري الإسرائيلي.",
+          "he": "הכרזת 1988 עצמה לא הגדירה גבולות. על מציירים לעצב פרוסה זו כטענה, שונה מאזורי הניהול בפועל של הרשות הפלסטינית וחמאס. הערת מידול: טענה, מצוירת כקו מתאר בלבד; השליטה בשטח מוצגת ברשומות הרשות הפלסטינית, הניהול בהובלת חמאס והממשל הצבאי הישראלי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "state-of-palestine-1",
         "geometry_method": "units",

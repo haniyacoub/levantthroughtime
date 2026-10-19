@@ -58,7 +58,13 @@
           }
         ],
         "notes": {
-          "en": "Extent of control over central and southern Palestine is schematic."
+          "en": "Extent of control over central and southern Palestine is schematic.",
+          "ar": "امتداد السيطرة على وسط فلسطين وجنوبها تخطيطي.",
+          "he": "היקף השליטה במרכז פלשתינה ובדרומה סכמטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jazzar-acre-1",
         "geometry_method": "units"

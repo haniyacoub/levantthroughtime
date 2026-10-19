@@ -98,7 +98,13 @@
           }
         ],
         "notes": {
-          "en": "One schematic slice for 884-733; the Aramaean losses c. 840-800 are not shown separately."
+          "en": "One schematic slice for 884-733; the Aramaean losses c. 840-800 are not shown separately.",
+          "ar": "شريحة تخطيطية واحدة لـ884-733؛ ولا تُعرض الخسائر أمام الآراميين نحو 840-800 منفصلة.",
+          "he": "פרוסה סכמטית אחת ל-884-733; ההפסדים לארמים בערך 840-800 אינם מוצגים בנפרד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-israel-2",
         "geometry_method": "units"

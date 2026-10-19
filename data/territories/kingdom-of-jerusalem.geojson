@@ -85,7 +85,13 @@
           }
         ],
         "notes": {
-          "en": "Single slice for 1099-1187; the kingdom grew over the first decades, so the full extent applies only from c. 1124/1153. Unit choice is schematic."
+          "en": "Single slice for 1099-1187; the kingdom grew over the first decades, so the full extent applies only from c. 1124/1153. Unit choice is schematic.",
+          "ar": "شريحة واحدة لـ1099-1187؛ ونمت المملكة خلال العقود الأولى، ولذلك ينطبق الامتداد الكامل فقط من نحو 1124/1153. واختيار الوحدات تخطيطي.",
+          "he": "פרוסה אחת ל-1099-1187; הממלכה גדלה בעשורים הראשונים, ולכן ההיקף המלא חל רק מבערך 1124/1153. בחירת היחידות סכמטית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-jerusalem-1",
         "geometry_method": "units"
@@ -142,7 +148,13 @@
           }
         ],
         "notes": {
-          "en": "Partial units = Tyre (phoenician-coast), Belvoir (lower Galilee edge of the Jordan valley), Kerak/Montréal until 1188-89."
+          "en": "Partial units = Tyre (phoenician-coast), Belvoir (lower Galilee edge of the Jordan valley), Kerak/Montréal until 1188-89.",
+          "ar": "الوحدات الجزئية = صور (phoenician-coast)، وبلفوار (حافة الجليل الأدنى من وادي الأردن)، والكرك/مونريال حتى 1188-89.",
+          "he": "היחידות החלקיות = צור (phoenician-coast), בלווואר (קצה הגליל התחתון של בקעת הירדן), כרך/מונרואל עד 1188-89.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-jerusalem-2",
         "geometry_method": "units"
@@ -204,7 +216,13 @@
           }
         ],
         "notes": {
-          "en": "Some coastal towns changed hands again after 1192 (not mapped)."
+          "en": "Some coastal towns changed hands again after 1192 (not mapped).",
+          "ar": "غيّرت بعض المدن الساحلية يدها مجددًا بعد 1192 (غير مرسومة).",
+          "he": "כמה ערי חוף החליפו ידיים שוב אחרי 1192 (לא ממופות).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-jerusalem-3",
         "geometry_method": "units"
@@ -274,7 +292,13 @@
           }
         ],
         "notes": {
-          "en": "Partial units: Jerusalem-Bethlehem (judea), the corridor to Jaffa (shephelah), Nazareth (lower-galilee); upper-galilee partial because Safad changed hands during the Crusades and was Frankish until Baybars took it in 1266 (exact date of its 13th-century recovery not verified). Other territory regained in 1239-41 is not mapped."
+          "en": "Partial units: Jerusalem-Bethlehem (judea), the corridor to Jaffa (shephelah), Nazareth (lower-galilee); upper-galilee partial because Safad changed hands during the Crusades and was Frankish until Baybars took it in 1266 (exact date of its 13th-century recovery not verified). Other territory regained in 1239-41 is not mapped.",
+          "ar": "وحدات جزئية: القدس-بيت لحم (judea)، والممر إلى يافا (shephelah)، والناصرة (lower-galilee)؛ والجليل الأعلى (upper-galilee) جزئي لأن صفد تبدلت يدها خلال الحروب الصليبية وظلت فرنجية حتى أخذها بيبرس عام 1266 (لم يُتحقق من التاريخ الدقيق لاسترداد القرن 13). ولم تُرسم أراضٍ أخرى استُردت في 1239-41.",
+          "he": "יחידות חלקיות: ירושלים-בית לחם (judea), המסדרון ליפו (shephelah), נצרת (lower-galilee); הגליל העליון (upper-galilee) חלקי משום שצפת החליפה ידיים במהלך מסעי הצלב והייתה פרנקית עד שבייברס לקח אותה ב-1266 (התאריך המדויק של השבתה במאה ה-13 לא אומת). שטחים אחרים שהוחזרו ב-1239-41 אינם ממופים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-jerusalem-4",
         "geometry_method": "units"
@@ -343,7 +367,13 @@
           }
         ],
         "notes": {
-          "en": "Partial units shrink over the period: Caesarea/Arsuf (carmel-sharon) until 1265; Safed (upper-galilee) until 1266; Jaffa (philistia) until its Mamluk capture (date not verified here)."
+          "en": "Partial units shrink over the period: Caesarea/Arsuf (carmel-sharon) until 1265; Safed (upper-galilee) until 1266; Jaffa (philistia) until its Mamluk capture (date not verified here).",
+          "ar": "تتقلص الوحدات الجزئية على مدى الفترة: قيسارية/أرسوف (carmel-sharon) حتى 1265؛ وصفد (upper-galilee) حتى 1266؛ ويافا (philistia) حتى استيلاء المماليك عليها (التاريخ غير متحقق منه هنا).",
+          "he": "היחידות החלקיות מצטמצמות במהלך התקופה: קיסריה/ארסוף (carmel-sharon) עד 1265; צפת (upper-galilee) עד 1266; יפו (philistia) עד כיבושה בידי הממלוכים (התאריך לא אומת כאן).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "kingdom-of-jerusalem-5",
         "geometry_method": "units"

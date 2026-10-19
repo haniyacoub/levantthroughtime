@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Gopher's millennium is uncalibrated."
+          "en": "Gopher's millennium is uncalibrated.",
+          "ar": "ألفية غوفر غير معايَرة.",
+          "he": "האלף של גופר אינו מכויל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "lodian-jericho-ix-1",
         "geometry_method": "units"

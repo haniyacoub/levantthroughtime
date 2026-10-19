@@ -68,7 +68,13 @@
           }
         ],
         "notes": {
-          "en": "Desert margins and northern Sinai partial; Egypt was outside Persian control for part of the 4th century (Britannica mentions the reconquest of Egypt in 343)."
+          "en": "Desert margins and northern Sinai partial; Egypt was outside Persian control for part of the 4th century (Britannica mentions the reconquest of Egypt in 343).",
+          "ar": "هوامش الصحراء وشمال سيناء جزئية؛ وكانت مصر خارج السيطرة الفارسية لجزء من القرن 4 (تذكر بريتانيكا إعادة فتح مصر عام 343).",
+          "he": "שולי המדבר וצפון סיני חלקיים; מצרים הייתה מחוץ לשליטה הפרסית בחלק מהמאה ה-4 (בריטניקה מזכירה את כיבוש מצרים מחדש ב-343).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "achaemenid-empire-1",
         "geometry_method": "units"

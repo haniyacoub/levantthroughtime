@@ -64,7 +64,13 @@
           }
         ],
         "notes": {
-          "en": "Nabataean areas to the south and east excluded."
+          "en": "Nabataean areas to the south and east excluded.",
+          "ar": "مناطق الأنباط في الجنوب والشرق مستثناة.",
+          "he": "אזורי הנבטים בדרום ובמזרח אינם כלולים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "seleucid-empire-1",
         "geometry_method": "units"
@@ -108,7 +114,13 @@
           }
         ],
         "notes": {
-          "en": "Exact holdings in the map area in the 1st century BCE not established in this pass (e.g. Damascus passed to the Nabataeans c. 85 BCE)."
+          "en": "Exact holdings in the map area in the 1st century BCE not established in this pass (e.g. Damascus passed to the Nabataeans c. 85 BCE).",
+          "ar": "لم تُحدَّد في هذه الجولة الحيازات الدقيقة في منطقة الخريطة في القرن الأول ق.م. (مثلًا انتقلت دمشق إلى الأنباط نحو 85 ق.م.).",
+          "he": "האחזקות המדויקות באזור המפה במאה ה-1 לפנה״ס לא נקבעו בסבב זה (למשל דמשק עברה לנבטים בערך ב-85 לפנה״ס).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "seleucid-empire-2",
         "geometry_method": "units"

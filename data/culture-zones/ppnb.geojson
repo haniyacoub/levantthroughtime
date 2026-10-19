@@ -45,7 +45,13 @@
           }
         ],
         "notes": {
-          "en": "The Early PPNB in the south was a 'short bridging episode'."
+          "en": "The Early PPNB in the south was a 'short bridging episode'.",
+          "ar": "كان العصر النيوليثي ما قبل الفخاري ب المبكر في الجنوب 'short bridging episode'.",
+          "he": "ה-PPNB המוקדם בדרום היה 'short bridging episode'.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ppnb-1",
         "geometry_method": "units"

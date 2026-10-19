@@ -40,7 +40,13 @@
           }
         ],
         "notes": {
-          "en": "Overlaps the Egyptian administration of Gaza (client relation)."
+          "en": "Overlaps the Egyptian administration of Gaza (client relation).",
+          "ar": "يتداخل مع الإدارة المصرية لغزة (علاقة تبعية).",
+          "he": "חופף לממשל המצרי בעזה (יחס חסות).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "all-palestine-government-1",
         "geometry_method": "units"

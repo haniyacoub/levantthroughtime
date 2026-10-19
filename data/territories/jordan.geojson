@@ -96,7 +96,13 @@
           }
         ],
         "notes": {
-          "en": "Recognition: Britain recognised the union (24 April 1950 act) but not Jordanian sovereignty over its part of Jerusalem, recognising only de facto authority there (Hansard, 27 April 1950); Britannica states only Britain and Pakistan recognised the annexation and that 'the Arab countries and most of the world opposed the king's action'; the US Secretary of State was non-committal (FRUS 1950). Israel's government describes the 1948-67 period as a 'Jordanian occupation'. Jordanian sources describe a union voted by a parliament in which West Bank Palestinians were equally represented (King Hussein site, 1988 speech introduction). The Jericho Congress of 1 Dec 1948 preceded the union (Shlaim 1990). Mount Scopus (Israeli exclave) and the no-man's-land strips were excluded. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not. The 1950 annexation of the West Bank had very limited international recognition."
+          "en": "Recognition: Britain recognised the union (24 April 1950 act) but not Jordanian sovereignty over its part of Jerusalem, recognising only de facto authority there (Hansard, 27 April 1950); Britannica states only Britain and Pakistan recognised the annexation and that 'the Arab countries and most of the world opposed the king's action'; the US Secretary of State was non-committal (FRUS 1950). Israel's government describes the 1948-67 period as a 'Jordanian occupation'. Jordanian sources describe a union voted by a parliament in which West Bank Palestinians were equally represented (King Hussein site, 1988 speech introduction). The Jericho Congress of 1 Dec 1948 preceded the union (Shlaim 1990). Mount Scopus (Israeli exclave) and the no-man's-land strips were excluded. Modelling note: units whose status is internationally disputed are listed in contested_units and drawn hatched; the rest of the extent is not. The 1950 annexation of the West Bank had very limited international recognition.",
+          "ar": "الاعتراف: اعترفت بريطانيا بالوحدة (قانون 24 نيسان/أبريل 1950) لكن ليس بالسيادة الأردنية على جزئها من القدس، معترفة فقط بالسلطة الفعلية هناك (Hansard، 27 نيسان/أبريل 1950)؛ وتذكر بريتانيكا فقط أن بريطانيا وباكستان اعترفتا بالضم وأن 'the Arab countries and most of the world opposed the king's action'؛ وكان وزير الخارجية الأمريكي غير ملتزم (FRUS 1950). وتصف حكومة إسرائيل الفترة 1948-67 بأنها 'احتلال أردني'. وتصف مصادر أردنية وحدة صوّت عليها برلمان مُثِّل فيه فلسطينيو الضفة الغربية بالتساوي (موقع الملك الحسين، مقدمة خطاب 1988). وسبق مؤتمر أريحا في 1 كانون الأول/ديسمبر 1948 الوحدة (شلايم 1990). واستُثني جبل المشارف (جيب إسرائيلي) وشرائط الأرض الحرام. ملاحظة النمذجة: الوحدات التي تكون حالتها محل خلاف دولي مدرجة في contested_units ومرسومة بتهشير؛ أما باقي الامتداد فلا. كان لضم الضفة الغربية عام 1950 اعتراف دولي محدود جدًا.",
+          "he": "ההכרה: בריטניה הכירה באיחוד (חוק 24 באפריל 1950) אך לא בריבונות ירדנית בחלקה בירושלים, והכירה רק בסמכות דה פקטו שם (Hansard, 27 באפריל 1950); בריטניקה קובעת רק שבריטניה ופקיסטן הכירו בסיפוח ו-'the Arab countries and most of the world opposed the king's action'; מזכיר המדינה האמריקני נמנע מהתחייבות (FRUS 1950). ממשלת ישראל מתארת את התקופה 1948-67 כ'כיבוש ירדני'. מקורות ירדניים מתארים איחוד שהצביע עליו פרלמנט שבו ייצוג שווה לפלסטינים מהגדה המערבית (אתר המלך חוסיין, פתיחת נאום 1988). ועידת יריחו ב-1 בדצמבר 1948 קדמה לאיחוד (שליים 1990). הר הצופים (מובלעת ישראלית) ורצועות שטח ההפקר אינם כלולים. הערת מידול: יחידות שמעמדן שנוי במחלוקת בינלאומית רשומות ב-contested_units ומצוירות בקווקוו; שאר ההיקף אינו כך. לסיפוח הגדה המערבית ב-1950 הייתה הכרה בינלאומית מוגבלת מאוד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jordan-2",
         "geometry_method": "units",
@@ -142,7 +148,13 @@
           }
         ],
         "notes": {
-          "en": "Britannica describes the West Bank as 'claimed from 1949 to 1988 as part of the Hashemite Kingdom of Jordan'."
+          "en": "Britannica describes the West Bank as 'claimed from 1949 to 1988 as part of the Hashemite Kingdom of Jordan'.",
+          "ar": "تصف بريتانيكا الضفة الغربية بأنها 'claimed from 1949 to 1988 as part of the Hashemite Kingdom of Jordan'.",
+          "he": "בריטניקה מתארת את הגדה המערבית כ-'claimed from 1949 to 1988 as part of the Hashemite Kingdom of Jordan'.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jordan-3",
         "geometry_method": "units"

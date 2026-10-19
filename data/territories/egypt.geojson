@@ -82,7 +82,13 @@
           }
         ],
         "notes": {
-          "en": "Gaza is included as an Egyptian-administered (not sovereign) territory; in 1948 Egyptian forces also held a larger area of southern Palestine before the autumn 1948 fighting (Britannica)."
+          "en": "Gaza is included as an Egyptian-administered (not sovereign) territory; in 1948 Egyptian forces also held a larger area of southern Palestine before the autumn 1948 fighting (Britannica).",
+          "ar": "غزة مدرجة بوصفها أرضًا تديرها مصر (لا ذات سيادة)؛ وفي 1948 سيطرت القوات المصرية أيضًا على منطقة أوسع من جنوب فلسطين قبل قتال خريف 1948 (بريتانيكا).",
+          "he": "עזה נכללת כשטח בניהול מצרי (לא ריבוני); ב-1948 החזיקו כוחות מצריים גם בשטח גדול יותר של דרום פלשתינה לפני הלחימה בסתיו 1948 (בריטניקה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "egypt-2",
         "geometry_method": "units"
@@ -120,7 +126,13 @@
           }
         ],
         "notes": {
-          "en": "1967-1982 omitted: Sinai held by Israel (separate record); Egypt regained a strip east of the Suez Canal after 1973 and further areas in stages from 1979."
+          "en": "1967-1982 omitted: Sinai held by Israel (separate record); Egypt regained a strip east of the Suez Canal after 1973 and further areas in stages from 1979.",
+          "ar": "1967-1982 محذوفة: سيناء بيد إسرائيل (سجل منفصل)؛ واستعادت مصر شريطًا شرق قناة السويس بعد 1973 ومناطق أخرى على مراحل منذ 1979.",
+          "he": "1967-1982 מושמטות: סיני בידי ישראל (רשומה נפרדת); מצרים קיבלה בחזרה רצועה ממזרח לתעלת סואץ אחרי 1973 ושטחים נוספים בשלבים מ-1979.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "egypt-3",
         "geometry_method": "units"

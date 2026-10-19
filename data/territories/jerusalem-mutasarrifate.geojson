@@ -57,7 +57,13 @@
           }
         ],
         "notes": {
-          "en": "Abu-Manneh dates the Beersheba qada to an 1899 irade; PalQuest dates the founding of the township of Bir al-Sabi' to 1900."
+          "en": "Abu-Manneh dates the Beersheba qada to an 1899 irade; PalQuest dates the founding of the township of Bir al-Sabi' to 1900.",
+          "ar": "يؤرخ أبو منّه قضاء بئر السبع بإرادة عام 1899؛ ويؤرخ PalQuest تأسيس بلدة بئر السبع بعام 1900.",
+          "he": "אבו-מנה מתארך את קאדא באר שבע לאירדה משנת 1899; PalQuest מתארך את ייסוד העיירה בִּיר א-סבע ל-1900.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jerusalem-mutasarrifate-1",
         "geometry_method": "units"
@@ -118,7 +124,13 @@
           }
         ],
         "notes": {
-          "en": "Nazareth sub-district attached 1906-1908 (not mapped). Southern parts fell to British forces in late 1917 before Jerusalem (dates not verified here)."
+          "en": "Nazareth sub-district attached 1906-1908 (not mapped). Southern parts fell to British forces in late 1917 before Jerusalem (dates not verified here).",
+          "ar": "ضُمّت ناحية الناصرة 1906-1908 (غير مرسومة). وسقطت الأجزاء الجنوبية بيد القوات البريطانية في أواخر 1917 قبل القدس (لم تُتحقق التواريخ هنا).",
+          "he": "נפת נצרת צורפה ב-1906-1908 (לא ממופה). החלקים הדרומיים נפלו בידי הכוחות הבריטיים בסוף 1917 לפני ירושלים (התאריכים לא אומתו כאן).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "jerusalem-mutasarrifate-2",
         "geometry_method": "units"

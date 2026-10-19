@@ -98,7 +98,13 @@
           }
         ],
         "notes": {
-          "en": "Jeroboam II's reconquests (first half of the 8th century) are not shown."
+          "en": "Jeroboam II's reconquests (first half of the 8th century) are not shown.",
+          "ar": "لا تُعرض استعادات يربعام الثاني (النصف الأول من القرن 8).",
+          "he": "כיבושיו המחודשים של ירבעם השני (המחצית הראשונה של המאה ה-8) אינם מוצגים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "aram-damascus-2",
         "geometry_method": "units"

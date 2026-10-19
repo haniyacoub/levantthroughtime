@@ -52,7 +52,13 @@
           }
         ],
         "notes": {
-          "en": "Actual Ptolemaic occupation in these years was intermittent; see antigonid-realm."
+          "en": "Actual Ptolemaic occupation in these years was intermittent; see antigonid-realm.",
+          "ar": "كان الاحتلال البطلمي الفعلي في هذه السنوات متقطعًا؛ انظر antigonid-realm.",
+          "he": "הכיבוש התלמי בפועל בשנים אלה היה לסירוגין; ראו antigonid-realm.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ptolemaic-kingdom-1",
         "geometry_method": "units"
@@ -122,7 +128,13 @@
           }
         ],
         "notes": {
-          "en": "Temporary Seleucid occupation during the Fourth Syrian War (before Raphia, 217) not modelled."
+          "en": "Temporary Seleucid occupation during the Fourth Syrian War (before Raphia, 217) not modelled.",
+          "ar": "لم يُمثَّل الاحتلال السلوقي المؤقت خلال الحرب السورية الرابعة (قبل رفح، 217).",
+          "he": "הכיבוש הסלאוקי הזמני במהלך מלחמת סוריה הרביעית (לפני רפיח, 217) לא מודל.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ptolemaic-kingdom-2",
         "geometry_method": "units"

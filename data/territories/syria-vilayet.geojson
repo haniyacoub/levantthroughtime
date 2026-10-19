@@ -70,7 +70,13 @@
           }
         ],
         "notes": {
-          "en": "In May-July 1872 Acre, Nablus and Jerusalem were briefly detached as a separate 'Province of Jerusalem' (not mapped as its own slice)."
+          "en": "In May-July 1872 Acre, Nablus and Jerusalem were briefly detached as a separate 'Province of Jerusalem' (not mapped as its own slice).",
+          "ar": "في أيار/مايو-تموز/يوليو 1872 فُصلت عكا ونابلس والقدس لفترة وجيزة كـ'ولاية القدس' منفصلة (غير مرسومة كشريحة مستقلة).",
+          "he": "במאי-יולי 1872 הופרדו עכו, שכם וירושלים לזמן קצר כ'מחוז ירושלים' נפרד (לא ממופה כפרוסה עצמאית).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-vilayet-1",
         "geometry_method": "units"
@@ -197,7 +203,13 @@
           }
         ],
         "notes": {
-          "en": "Golan assignment not verified."
+          "en": "Golan assignment not verified.",
+          "ar": "لم يُتحقق من إسناد الجولان.",
+          "he": "שיוך הגולן לא אומת.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "syria-vilayet-3",
         "geometry_method": "units"

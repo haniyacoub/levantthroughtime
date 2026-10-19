@@ -104,7 +104,13 @@
           }
         ],
         "notes": {
-          "en": "Some Decapolis cities were assigned to Judaea after 106."
+          "en": "Some Decapolis cities were assigned to Judaea after 106.",
+          "ar": "أُلحقت بعض مدن الديكابوليس بيهودا بعد 106.",
+          "he": "חלק מערי הדקאפוליס צורפו ליהודה אחרי 106.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "judaea-province-2",
         "geometry_method": "units"

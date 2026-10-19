@@ -49,7 +49,13 @@
           }
         ],
         "notes": {
-          "en": "Jerusalem was at times a separate unit; Mongol occupation 1299-1300."
+          "en": "Jerusalem was at times a separate unit; Mongol occupation 1299-1300.",
+          "ar": "كانت القدس أحيانًا وحدة منفصلة؛ احتلال مغولي 1299-1300.",
+          "he": "ירושלים הייתה לעתים יחידה נפרדת; כיבוש מונגולי 1299-1300.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mamluk-niyaba-damascus-1",
         "geometry_method": "units"

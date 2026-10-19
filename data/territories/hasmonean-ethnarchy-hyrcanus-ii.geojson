@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Retention of Idumea and Peraea is not stated in the sources used; marked partial."
+          "en": "Retention of Idumea and Peraea is not stated in the sources used; marked partial.",
+          "ar": "الاحتفاظ بأدومية وبيرية غير مذكور في المصادر المستخدمة؛ وُسم بأنه جزئي.",
+          "he": "שמירת אדומיאה ופרעיה אינה מצוינת במקורות שנעשה בהם שימוש; סומן כחלקי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "hasmonean-ethnarchy-hyrcanus-ii-1",
         "geometry_method": "units"

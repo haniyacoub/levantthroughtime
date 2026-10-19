@@ -121,7 +121,13 @@
           }
         ],
         "notes": {
-          "en": "End: 628 (Britannica: Heraclius recovered Palestine) to 630 (Iranica: final peace)."
+          "en": "End: 628 (Britannica: Heraclius recovered Palestine) to 630 (Iranica: final peace).",
+          "ar": "النهاية: 628 (بريتانيكا: استعاد هرقل فلسطين) إلى 630 (إيرانيكا: السلام النهائي).",
+          "he": "הסיום: 628 (בריטניקה: הרקליוס השיב את פלשתינה) עד 630 (איראניקה: השלום הסופי).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "sasanian-empire-2",
         "geometry_method": "units"

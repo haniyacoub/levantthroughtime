@@ -97,7 +97,13 @@
           }
         ],
         "notes": {
-          "en": "Conquests were gradual between 129 and 104; individual dates not given in the sources used."
+          "en": "Conquests were gradual between 129 and 104; individual dates not given in the sources used.",
+          "ar": "كانت الفتوحات تدريجية بين 129 و104؛ ولا تُعطى تواريخ منفردة في المصادر المستخدمة.",
+          "he": "הכיבושים היו הדרגתיים בין 129 ל-104; תאריכים בודדים אינם ניתנים במקורות שנעשה בהם שימוש.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "hasmonean-state-2",
         "geometry_method": "units"
@@ -160,7 +166,13 @@
           }
         ],
         "notes": {
-          "en": "Not every coastal city was held (e.g. Ascalon is generally described as remaining independent, not verified in this pass); Transjordan holdings contested with the Nabataeans (see dar-nabateans-hauran)."
+          "en": "Not every coastal city was held (e.g. Ascalon is generally described as remaining independent, not verified in this pass); Transjordan holdings contested with the Nabataeans (see dar-nabateans-hauran).",
+          "ar": "لم تكن كل مدينة ساحلية في أيديهم (مثلًا يُوصف عسقلان عمومًا بأنها بقيت مستقلة، ولم يُتحقق من ذلك في هذه الجولة)؛ وكانت الحيازات في شرق الأردن محل نزاع مع الأنباط (انظر dar-nabateans-hauran).",
+          "he": "לא כל עיר חוף הוחזקה (למשל אשקלון מתוארת בדרך כלל כעצמאית, לא אומת בסבב זה); האחזקות בעבר הירדן היו שנויות במחלוקת עם הנבטים (ראו dar-nabateans-hauran).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "hasmonean-state-3",
         "geometry_method": "units"

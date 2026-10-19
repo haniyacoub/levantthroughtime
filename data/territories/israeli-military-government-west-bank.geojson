@@ -77,7 +77,13 @@
           }
         ],
         "notes": {
-          "en": "Exact Area A/B/C polygons are deliberately not drawn here (to be handled in a later, detailed pass)."
+          "en": "Exact Area A/B/C polygons are deliberately not drawn here (to be handled in a later, detailed pass).",
+          "ar": "لم تُرسم عن قصد مضلعات المنطقتين أ/ب/ج الدقيقة هنا (لتعالج في جولة لاحقة مفصلة).",
+          "he": "מצולעי שטחי A/B/C המדויקים אינם מצוירים כאן במכוון (יטופלו בסבב מפורט מאוחר יותר).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-military-government-west-bank-2",
         "geometry_method": "units"

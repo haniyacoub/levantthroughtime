@@ -42,7 +42,13 @@
           }
         ],
         "notes": {
-          "en": "The coast (incl. Beirut) had been under French military administration since late 1918 (Britannica: 'The French took over the coast'); not modelled separately."
+          "en": "The coast (incl. Beirut) had been under French military administration since late 1918 (Britannica: 'The French took over the coast'); not modelled separately.",
+          "ar": "كان الساحل (بما فيه بيروت) تحت الإدارة العسكرية الفرنسية منذ أواخر 1918 (بريتانيكا: 'The French took over the coast')؛ ولم يُمثَّل منفصلًا.",
+          "he": "החוף (כולל ביירות) היה תחת מנהל צבאי צרפתי מסוף 1918 (בריטניקה: 'The French took over the coast'); לא מודל בנפרד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "france-1",
         "geometry_method": "units"
@@ -92,7 +98,13 @@
           }
         ],
         "notes": {
-          "en": "Syria 1941-1946 was jointly occupied by British and Free French forces (Britannica)."
+          "en": "Syria 1941-1946 was jointly occupied by British and Free French forces (Britannica).",
+          "ar": "احتلت سوريا في 1941-1946 قوات بريطانية وفرنسية حرة معًا (بريتانيكا).",
+          "he": "סוריה ב-1941-1946 נכבשה במשותף על ידי כוחות בריטיים וצרפת החופשית (בריטניקה).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "france-2",
         "geometry_method": "units"

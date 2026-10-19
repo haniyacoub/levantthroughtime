@@ -39,7 +39,13 @@
           }
         ],
         "notes": {
-          "en": "The eastern desert frontiers (with Najd/Saudi Arabia, Iraq, Syria) were defined only gradually in the 1920s-1930s; not modelled."
+          "en": "The eastern desert frontiers (with Najd/Saudi Arabia, Iraq, Syria) were defined only gradually in the 1920s-1930s; not modelled.",
+          "ar": "لم تُحدَّد الحدود الصحراوية الشرقية (مع نجد/السعودية والعراق وسوريا) إلا تدريجيًا في عشرينيات وثلاثينيات القرن العشرين؛ ولم تُمثَّل.",
+          "he": "הגבולות המדבריים המזרחיים (עם נג'ד/ערב הסעודית, עיראק וסוריה) הוגדרו רק בהדרגה בשנות ה-1920-1930; לא מודלו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "emirate-of-transjordan-1",
         "geometry_method": "units"

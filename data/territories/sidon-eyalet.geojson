@@ -48,7 +48,13 @@
           }
         ],
         "notes": {
-          "en": "Most of Galilee was in practice controlled by Zahir al-Umar from c. 1740s to 1775."
+          "en": "Most of Galilee was in practice controlled by Zahir al-Umar from c. 1740s to 1775.",
+          "ar": "كان معظم الجليل عمليًا تحت سيطرة ظاهر العمر من نحو أربعينيات القرن 18 إلى 1775.",
+          "he": "רוב הגליל היה למעשה בשליטת ט'אהר אל-עומר מבערך שנות ה-1740 עד 1775.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "sidon-eyalet-1",
         "geometry_method": "units"

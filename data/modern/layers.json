@@ -105,7 +105,13 @@
         }
       ],
       "notes": {
-        "en": "A proposal that was never implemented. Shown from the vote (29 November 1947) to the end of the Mandate (15 May 1948). Approximate: errors of roughly 1–5 km along most lines."
+        "en": "A proposal that was never implemented. Shown from the vote (29 November 1947) to the end of the Mandate (15 May 1948). Approximate: errors of roughly 1–5 km along most lines.",
+        "ar": "اقتراح لم يُنفَّذ قط. يُعرض من التصويت (29 تشرين الثاني/نوفمبر 1947) حتى نهاية الانتداب (15 أيار/مايو 1948). تقريبي: أخطاء بنحو 1–5 كم على امتداد معظم الخطوط.",
+        "he": "הצעה שמעולם לא יושמה. מוצגת מההצבעה (29 בנובמבר 1947) עד סוף המנדט (15 במאי 1948). משוער: שגיאות של כ-1–5 ק\"מ לאורך רוב הקווים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -232,7 +238,13 @@
         }
       ],
       "notes": {
-        "en": "Drawn from the Jordan armistice (3 April 1949) to today; after 1967 it remains the line of reference in UN resolutions and in Israeli statistics, though not a border on the ground."
+        "en": "Drawn from the Jordan armistice (3 April 1949) to today; after 1967 it remains the line of reference in UN resolutions and in Israeli statistics, though not a border on the ground.",
+        "ar": "مرسوم من هدنة الأردن (3 نيسان/أبريل 1949) حتى اليوم؛ وبعد 1967 يظل خط المرجعية في قرارات الأمم المتحدة وفي الإحصاءات الإسرائيلية، وإن لم يكن حدًّا على الأرض.",
+        "he": "מצויר מהסכם שביתת הנשק עם ירדן (3 באפריל 1949) ועד היום; לאחר 1967 הוא נשאר קו הייחוס בהחלטות האו\"ם ובסטטיסטיקה הישראלית, אף שאינו גבול בשטח.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -351,7 +363,13 @@
         }
       ],
       "notes": {
-        "en": "Today’s extent is drawn for every date since the Interim Agreement of 28 September 1995; land was transferred between the areas in stages after that, so earlier years are shown less accurately."
+        "en": "Today’s extent is drawn for every date since the Interim Agreement of 28 September 1995; land was transferred between the areas in stages after that, so earlier years are shown less accurately.",
+        "ar": "يُرسم الامتداد الحالي لكل تاريخ منذ الاتفاق المرحلي في 28 أيلول/سبتمبر 1995؛ وانتُقلت الأراضي بين المناطق على مراحل بعد ذلك، ولذلك تُعرض السنوات الأسبق بدقة أقل.",
+        "he": "ההיקף של היום מצויר לכל תאריך מאז ההסכם הביניים מ-28 בספטמבר 1995; קרקע הועברה בין האזורים בשלבים לאחר מכן, ולכן שנים מוקדמות יותר מוצגות בפחות דיוק.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -449,7 +467,13 @@
         }
       ],
       "notes": {
-        "en": "Israel calls it a security fence; Palestinians and the International Court of Justice call it a wall. The route as of January 2018 is drawn from June 2002, when the Israeli cabinet approved the first phase; it was built in stages (about 190 km by January 2004, according to the UN Secretary-General as cited by the ICJ)."
+        "en": "Israel calls it a security fence; Palestinians and the International Court of Justice call it a wall. The route as of January 2018 is drawn from June 2002, when the Israeli cabinet approved the first phase; it was built in stages (about 190 km by January 2004, according to the UN Secretary-General as cited by the ICJ).",
+        "ar": "تسميه إسرائيل 'سياجًا أمنيًا'؛ ويسميه الفلسطينيون ومحكمة العدل الدولية 'جدارًا'. المسار حتى كانون الثاني/يناير 2018 مرسوم منذ حزيران/يونيو 2002، حين أقرّ مجلس الوزراء الإسرائيلي المرحلة الأولى؛ وبُني على مراحل (نحو 190 كم بحلول كانون الثاني/يناير 2004، بحسب الأمين العام للأمم المتحدة كما استشهدت به محكمة العدل الدولية).",
+        "he": "ישראל מכנה אותה 'גדר ביטחון'; הפלסטינים ובית הדין הבינלאומי לצדק מכנים אותה 'חומה'. התוואי נכון לינואר 2018 מצויר מיוני 2002, כשהקבינט הישראלי אישר את השלב הראשון; היא נבנתה בשלבים (כ-190 ק\"מ עד ינואר 2004, לפי מזכ\"ל האו\"ם כפי שצוטט על ידי בית הדין).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -553,7 +577,13 @@
         }
       ],
       "notes": {
-        "en": "Each settlement appears from the founding year given by Israel’s Central Bureau of Statistics. Most states and the UN consider the settlements illegal under international law; Israel disputes this (see the Perspectives page). Arab-population localities in the Golan Heights (e.g. Majdal Shams) are not shown, and Nimrod is left out because the CBS file gives neither a founding year nor a population. East Jerusalem neighbourhoods have no founding year in the source, so they are shown from 2011, the date of the aerial photographs they were mapped from."
+        "en": "Each settlement appears from the founding year given by Israel’s Central Bureau of Statistics. Most states and the UN consider the settlements illegal under international law; Israel disputes this (see the Perspectives page). Arab-population localities in the Golan Heights (e.g. Majdal Shams) are not shown, and Nimrod is left out because the CBS file gives neither a founding year nor a population. East Jerusalem neighbourhoods have no founding year in the source, so they are shown from 2011, the date of the aerial photographs they were mapped from.",
+        "ar": "يظهر كل مستوطنة منذ سنة التأسيس التي تعطيها الدائرة المركزية للإحصاء في إسرائيل. تعدّ معظم الدول والأمم المتحدة المستوطنات غير قانونية بموجب القانون الدولي؛ وتعترض إسرائيل على ذلك (انظر صفحة وجهات النظر). ولا تُعرض التجمعات ذات السكان العرب في هضبة الجولان (مثل مجدل شمس)، وتُستبعد نمرود لأن ملف الدائرة المركزية للإحصاء لا يعطي لها سنة تأسيس ولا عدد سكان. وليس لأحياء القدس الشرقية سنة تأسيس في المصدر، ولذلك تُعرض منذ 2011، تاريخ الصور الجوية التي رُسمت منها.",
+        "he": "כל יישוב מופיע משנת ההקמה שנתנה הלשכה המרכזית לסטטיסטיקה של ישראל. רוב המדינות והאו\"ם רואים ביישובים בלתי חוקיים לפי המשפט הבינלאומי; ישראל חולקת על כך (ראו עמוד נקודות המבט). יישובים בעלי אוכלוסייה ערבית ברמת הגולן (למשל מג'דל שמס) אינם מוצגים, ונמרוד מושמטת משום שקובץ הלמ\"ס אינו נותן לה שנת הקמה או אוכלוסייה. לשכונות מזרח ירושלים אין שנת הקמה במקור, ולכן הן מוצגות מ-2011, תאריך התצלומים האוויריים שמהם מופו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -659,7 +689,13 @@
         }
       ],
       "notes": {
-        "en": "Schematic lines only, deliberately simplified: the zones they bound changed often and are not drawn as areas. Traced by OSM contributors from an Israeli military map; Reuters (28 Jul 2026) reports the line was later moved inward in several places, and OSM also maps a 2026 \"Orange Line\". Deliberately simplified. The Morag corridor has no published geometry; it is drawn as a straight line through the former Morag settlement, oriented as press reports describe it."
+        "en": "Schematic lines only, deliberately simplified: the zones they bound changed often and are not drawn as areas. Traced by OSM contributors from an Israeli military map; Reuters (28 Jul 2026) reports the line was later moved inward in several places, and OSM also maps a 2026 \"Orange Line\". Deliberately simplified. The Morag corridor has no published geometry; it is drawn as a straight line through the former Morag settlement, oriented as press reports describe it.",
+        "ar": "خطوط تخطيطية فقط، مبسَّطة عن قصد: فالمناطق التي تحدّها تغيّرت كثيرًا ولا تُرسم كمساحات. رسمها مساهمو OSM عن خريطة عسكرية إسرائيلية؛ وتفيد رويترز (28 تموز/يوليو 2026) بأن الخط نُقل لاحقًا إلى الداخل في عدة مواضع، كما ترسم OSM \"Orange Line\" لعام 2026. مبسَّط عن قصد. ولا توجد هندسة منشورة لممر موراغ؛ وهو مرسوم كخط مستقيم عبر مستوطنة موراغ السابقة، موجَّهًا كما تصفه التقارير الصحفية.",
+        "he": "קווים סכמטיים בלבד, מפושטים במכוון: האזורים שהם תוחמים השתנו לעתים קרובות ואינם מצוירים כשטחים. נתחקו על ידי תורמי OSM ממפה צבאית ישראלית; רויטרס (28 ביולי 2026) מדווחת שהקו הוזז מאוחר יותר פנימה במספר מקומות, וגם OSM ממפה \"Orange Line\" של 2026. מפושט במכוון. לפרוזדור מוראג אין גאומטריה שפורסמה; הוא מצויר כקו ישר דרך היישוב מוראג לשעבר, בכיוון שמתארים דיווחי העיתונות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

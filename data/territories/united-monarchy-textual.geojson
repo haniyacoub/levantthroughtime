@@ -47,7 +47,13 @@
           }
         ],
         "notes": {
-          "en": "Textual tradition; not an archaeologically established extent."
+          "en": "Textual tradition; not an archaeologically established extent.",
+          "ar": "تقليد نصي؛ وليس امتدادًا ثبتته الآثار.",
+          "he": "מסורת טקסטואלית; לא היקף שהוכח ארכאולוגית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-monarchy-textual-1",
         "geometry_method": "units"
@@ -115,7 +121,13 @@
           }
         ],
         "notes": {
-          "en": "Textual tradition. Finkelstein (p. 8) notes that 'Dan to Beer-sheba' probably reflects later Iron Age realities and the larger 1 Kgs 5:4 extent probably a Persian-period insertion."
+          "en": "Textual tradition. Finkelstein (p. 8) notes that 'Dan to Beer-sheba' probably reflects later Iron Age realities and the larger 1 Kgs 5:4 extent probably a Persian-period insertion.",
+          "ar": "تقليد نصي. يلاحظ فنكلشتاين (ص 8) أن 'Dan to Beer-sheba' تعكس على الأرجح وقائع العصر الحديدي المتأخر، وأن الامتداد الأكبر في الملوك الأول 5:4 إضافة من العصر الفارسي على الأرجح.",
+          "he": "מסורת טקסטואלית. פינקלשטיין (עמ' 8) מציין ש-'Dan to Beer-sheba' משקף כנראה מציאות מתקופת הברזל המאוחרת, וההיקף הגדול יותר במלכים א' 5:4 הוא כנראה הוספה מהתקופה הפרסית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-monarchy-textual-2",
         "geometry_method": "units"
@@ -177,7 +189,13 @@
           }
         ],
         "notes": {
-          "en": "Textual tradition."
+          "en": "Textual tradition.",
+          "ar": "تقليد نصي.",
+          "he": "מסורת טקסטואלית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "united-monarchy-textual-3",
         "geometry_method": "units"

@@ -80,7 +80,13 @@
         "id": "sidon-2",
         "geometry_method": "units",
         "notes": {
-          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+          "en": "Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself.",
+          "ar": "وجود هذا الكيان أو تأريخه متنازَع عليه؛ والمصادر المتنافسة موجودة في سجل الكيان السياسي أو الثقافة نفسه.",
+          "he": "קיומה של ישות זו או תיארוכה שנויים במחלוקת; המקורות המתחרים נמצאים ברשומת הישות המדינית או התרבות עצמה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         }
       }
     }

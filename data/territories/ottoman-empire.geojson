@@ -81,7 +81,13 @@
           }
         ],
         "notes": {
-          "en": "Indirect control in the 18th century; autonomous rulers in Galilee/Acre (see zahir-al-umar-galilee, jazzar-acre)."
+          "en": "Indirect control in the 18th century; autonomous rulers in Galilee/Acre (see zahir-al-umar-galilee, jazzar-acre).",
+          "ar": "سيطرة غير مباشرة في القرن 18؛ حكام شبه مستقلون في الجليل/عكا (انظر zahir-al-umar-galilee, jazzar-acre).",
+          "he": "שליטה עקיפה במאה ה-18; שליטים אוטונומיים בגליל/עכו (ראו zahir-al-umar-galilee, jazzar-acre).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ottoman-empire-1",
         "geometry_method": "units"
@@ -172,7 +178,13 @@
           }
         ],
         "notes": {
-          "en": "Sinai excluded: administered with Egypt, under the hereditary rule of Muhammad Ali's family (Ottoman suzerainty) after 1841."
+          "en": "Sinai excluded: administered with Egypt, under the hereditary rule of Muhammad Ali's family (Ottoman suzerainty) after 1841.",
+          "ar": "سيناء مستثناة: كانت تُدار مع مصر، في ظل حكم أسرة محمد علي الوراثي (سيادة عثمانية) بعد 1841.",
+          "he": "סיני אינה כלולה: נוהלה עם מצרים, תחת שלטונה התורשתי של משפחת מוחמד עלי (ריבונות עות'מאנית) אחרי 1841.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ottoman-empire-2",
         "geometry_method": "units"
@@ -234,7 +246,13 @@
           }
         ],
         "notes": {
-          "en": "The front line of Dec 1917 - Sept 1918 is not mapped precisely."
+          "en": "The front line of Dec 1917 - Sept 1918 is not mapped precisely.",
+          "ar": "لم يُرسم خط الجبهة من كانون الأول/ديسمبر 1917 إلى أيلول/سبتمبر 1918 بدقة.",
+          "he": "קו החזית מדצמבר 1917 עד ספטמבר 1918 אינו ממופה בדיוק.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ottoman-empire-3",
         "geometry_method": "units"
@@ -289,7 +307,13 @@
           }
         ],
         "notes": {
-          "en": "Exact front lines not reconstructed; partial units are schematic. AWM: 'On 6 November, after severe fighting, Turkish forces began to withdraw from Gaza'."
+          "en": "Exact front lines not reconstructed; partial units are schematic. AWM: 'On 6 November, after severe fighting, Turkish forces began to withdraw from Gaza'.",
+          "ar": "لم تُعاد بناء خطوط الجبهة الدقيقة؛ والوحدات الجزئية تخطيطية. AWM: 'On 6 November, after severe fighting, Turkish forces began to withdraw from Gaza'.",
+          "he": "קווי החזית המדויקים לא שוחזרו; היחידות החלקיות סכמטיות. AWM: 'On 6 November, after severe fighting, Turkish forces began to withdraw from Gaza'.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ottoman-empire-4",
         "geometry_method": "units"
@@ -355,7 +379,13 @@
           }
         ],
         "notes": {
-          "en": "Britannica's Faisal I biography places the Arab occupation of Damascus in September 1918, its Jordan article says 'by October 1918'; the end month is given as October 1918 (Armistice of Mudros, 30 Oct 1918)."
+          "en": "Britannica's Faisal I biography places the Arab occupation of Damascus in September 1918, its Jordan article says 'by October 1918'; the end month is given as October 1918 (Armistice of Mudros, 30 Oct 1918).",
+          "ar": "تضع سيرة فيصل الأول في بريتانيكا الاحتلال العربي لدمشق في أيلول/سبتمبر 1918، وتقول مقالتها عن الأردن 'by October 1918'؛ وشهر النهاية معطى بأنه تشرين الأول/أكتوبر 1918 (هدنة مودروس، 30 تشرين الأول/أكتوبر 1918).",
+          "he": "הביוגרפיה של פייסל הראשון בבריטניקה ממקמת את הכיבוש הערבי של דמשק בספטמבר 1918, והמאמר שלה על ירדן אומר 'by October 1918'; חודש הסיום ניתן כאוקטובר 1918 (שביתת הנשק של מודרוס, 30 באוקטובר 1918).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "ottoman-empire-5",
         "geometry_method": "units"

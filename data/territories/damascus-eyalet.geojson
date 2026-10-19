@@ -76,7 +76,13 @@
           }
         ],
         "notes": {
-          "en": "Transjordan control loose; Lebanon partly under local emirs."
+          "en": "Transjordan control loose; Lebanon partly under local emirs.",
+          "ar": "السيطرة على شرق الأردن فضفاضة؛ ولبنان تحت أمراء محليين جزئيًا.",
+          "he": "השליטה בעבר הירדן רופפת; לבנון בחלקה תחת אמירים מקומיים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "damascus-eyalet-1",
         "geometry_method": "units"
@@ -151,7 +157,13 @@
           }
         ],
         "notes": {
-          "en": "Under Zahir al-Umar and al-Jazzar parts of the coast (e.g. Jaffa) were at times controlled from Acre."
+          "en": "Under Zahir al-Umar and al-Jazzar parts of the coast (e.g. Jaffa) were at times controlled from Acre.",
+          "ar": "في عهد ظاهر العمر والجزار كانت أجزاء من الساحل (مثل يافا) تُدار أحيانًا من عكا.",
+          "he": "בימי ט'אהר אל-עומר ואל-ג'זאר נשלטו חלקים מהחוף (למשל יפו) לעתים מעכו.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "damascus-eyalet-2",
         "geometry_method": "units"

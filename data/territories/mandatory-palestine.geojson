@@ -54,7 +54,13 @@
           }
         ],
         "notes": {
-          "en": "Only one opened source (Blum) gives the Golan-triangle detail; ECF confirms the 1923 agreement amended the 1920 one. Mark the Golan part as schematic. The eastern boundary was laid down by a British memorandum of 16 Sept 1922 (ICJ 2004, para. 70)."
+          "en": "Only one opened source (Blum) gives the Golan-triangle detail; ECF confirms the 1923 agreement amended the 1920 one. Mark the Golan part as schematic. The eastern boundary was laid down by a British memorandum of 16 Sept 1922 (ICJ 2004, para. 70).",
+          "ar": "مصدر واحد مفتوح فقط (بلوم) يعطي تفاصيل مثلث الجولان؛ وتؤكد ECF أن اتفاق 1923 عدّل اتفاق 1920. وُسم جزء الجولان بأنه تخطيطي. وُضعت الحدود الشرقية بمذكرة بريطانية في 16 أيلول/سبتمبر 1922 (محكمة العدل الدولية 2004، الفقرة 70).",
+          "he": "רק מקור פתוח אחד (בלום) נותן את פרטי משולש הגולן; ECF מאשר שהסכם 1923 תיקן את הסכם 1920. יש לסמן את חלק הגולן כסכמטי. הגבול המזרחי נקבע במזכר בריטי מ-16 בספטמבר 1922 (בית הדין הבינלאומי לצדק 2004, סעיף 70).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mandatory-palestine-1",
         "geometry_method": "units"
@@ -113,7 +119,13 @@
           }
         ],
         "notes": {
-          "en": "The 1923 agreement took the form of an exchange of notes dated 7 March 1923 (UN treaty list; ECF). Blum states the Golan triangle was transferred 'in 1923, to accommodate an influential sheikh' - a motive given by one author only."
+          "en": "The 1923 agreement took the form of an exchange of notes dated 7 March 1923 (UN treaty list; ECF). Blum states the Golan triangle was transferred 'in 1923, to accommodate an influential sheikh' - a motive given by one author only.",
+          "ar": "اتخذ اتفاق 1923 شكل تبادل مذكرات مؤرخ في 7 آذار/مارس 1923 (قائمة معاهدات الأمم المتحدة؛ ECF). ويذكر بلوم أن مثلث الجولان نُقل 'in 1923, to accommodate an influential sheikh' - وهو دافع يذكره مؤلف واحد فقط.",
+          "he": "הסכם 1923 קיבל צורה של חילופי איגרות מתאריך 7 במרץ 1923 (רשימת האמנות של האו\"ם; ECF). בלום קובע שמשולש הגולן הועבר 'in 1923, to accommodate an influential sheikh' - מניע שמציין מחבר אחד בלבד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "mandatory-palestine-2",
         "geometry_method": "units"

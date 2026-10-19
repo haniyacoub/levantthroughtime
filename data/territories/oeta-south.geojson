@@ -43,7 +43,13 @@
           }
         ],
         "notes": {
-          "en": "Front-line positions Dec 1917-Sept 1918 are not reconstructed; partial units schematic."
+          "en": "Front-line positions Dec 1917-Sept 1918 are not reconstructed; partial units schematic.",
+          "ar": "لم تُعاد بناء مواقع خط الجبهة من كانون الأول/ديسمبر 1917 إلى أيلول/سبتمبر 1918؛ والوحدات الجزئية تخطيطية.",
+          "he": "עמדות קו החזית מדצמבר 1917 עד ספטמבר 1918 לא שוחזרו; היחידות החלקיות סכמטיות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "oeta-south-1",
         "geometry_method": "units"
@@ -92,7 +98,13 @@
           }
         ],
         "notes": {
-          "en": "The far north (upper Galilee/Hula area) boundary with the French-administered zone was unsettled in 1918-1920; israel-1949 is used as an approximation."
+          "en": "The far north (upper Galilee/Hula area) boundary with the French-administered zone was unsettled in 1918-1920; israel-1949 is used as an approximation.",
+          "ar": "كانت حدود أقصى الشمال (الجليل الأعلى/منطقة الحولة) مع المنطقة التي تديرها فرنسا غير مستقرة في 1918-1920؛ ويُستخدم israel-1949 تقريبًا.",
+          "he": "הגבול של הצפון הרחוק (הגליל העליון/אזור החולה) עם האזור בניהול צרפתי לא היה מיושב ב-1918-1920; israel-1949 משמש כקירוב.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "oeta-south-2",
         "geometry_method": "units"

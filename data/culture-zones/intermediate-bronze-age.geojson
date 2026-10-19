@@ -48,7 +48,13 @@
           }
         ],
         "notes": {
-          "en": "The start date is contested (see the culture record). Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself."
+          "en": "The start date is contested (see the culture record). Whether this entity existed, or its dating, is disputed; the competing sources are on the polity or culture record itself.",
+          "ar": "تاريخ البداية متنازَع عليه (انظر سجل الثقافة). وجود هذا الكيان أو تأريخه متنازَع عليه؛ والمصادر المتنافسة موجودة في سجل الكيان السياسي أو الثقافة نفسه.",
+          "he": "תאריך ההתחלה שנוי במחלוקת (ראו רשומת התרבות). קיומה של ישות זו או תיארוכה שנויים במחלוקת; המקורות המתחרים נמצאים ברשומת הישות המדינית או התרבות עצמה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "intermediate-bronze-age-1",
         "geometry_method": "units"

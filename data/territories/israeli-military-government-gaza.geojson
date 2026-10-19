@@ -78,7 +78,13 @@
           }
         ],
         "notes": {
-          "en": "Share of territory retained by Israel 1994-2005 not quantified in an opened source."
+          "en": "Share of territory retained by Israel 1994-2005 not quantified in an opened source.",
+          "ar": "لم تُحدَّد كميًا في مصدر مفتوح نسبة الأرض التي احتفظت بها إسرائيل في 1994-2005.",
+          "he": "חלקו של השטח שישראל שמרה בו ב-1994-2005 לא הוערך כמותית במקור שנפתח.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "id": "israeli-military-government-gaza-2",
         "geometry_method": "units"
