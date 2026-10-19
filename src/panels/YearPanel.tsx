@@ -10,6 +10,7 @@ import { formatRange } from './format';
 import { SourceButton } from './Sources';
 import { Badge } from './Badge';
 import { PerspectiveCard } from './Perspectives';
+import { LocText } from './LocText';
 import { deadSeaLevelAt, levelValue, seaLevelAt } from '../data/landscape';
 
 interface Row {
@@ -318,7 +319,7 @@ export function YearPanel({ data }: { data: AppData }) {
                 <p className="fine">
                   {tr('modern.meta', { publisher: m.publisher, license: m.license, asOf: formatDate(m.as_of, lang) })}
                 </p>
-                {m.notes && <p className="fine">{loc(m.notes, lang)}</p>}
+                {m.notes && <p className="fine"><LocText text={m.notes} lang={lang} /></p>}
                 <details className="fine">
                   <summary>{tr('modern.method')}</summary>
                   <p>{loc(m.method, lang)}</p>

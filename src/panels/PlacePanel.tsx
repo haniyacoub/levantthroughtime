@@ -5,6 +5,7 @@ import { loc, resolve } from '../i18n/localize';
 import { useStore } from '../state/store';
 import { formatDate } from '../time/format';
 import { SourceButton } from './Sources';
+import { LocText } from './LocText';
 import { Badge } from './Badge';
 
 const TRADITIONS = ['jewish', 'christian', 'muslim', 'samaritan', 'druze', 'bahai'] as const;
@@ -130,7 +131,7 @@ export function PlacePanel({ data, placeId }: { data: AppData; placeId: string }
           </a>
         </p>
       )}
-      {p.notes && <p className="fine">{loc(p.notes, lang)}</p>}
+      {p.notes && <p className="fine"><LocText text={p.notes} lang={lang} /></p>}
     </aside>
   );
 }

@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import type { AppData, Perspective } from '../data/model';
 import { loc } from '../i18n/localize';
 import { useStore } from '../state/store';
+import { LocText } from './LocText';
 import { CitedText } from './CitedText';
 
 /** Column order chosen by the project owner: Israeli · Palestinian · Academic, then any others. */
@@ -34,7 +35,7 @@ export function PerspectiveCard({ p }: { p: Perspective }) {
           </section>
         ))}
       </div>
-      {p.notes && <p className="fine">{loc(p.notes, lang)}</p>}
+      {p.notes && <p className="fine"><LocText text={p.notes} lang={lang} /></p>}
     </article>
   );
 }
