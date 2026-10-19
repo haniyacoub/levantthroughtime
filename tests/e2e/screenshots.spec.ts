@@ -43,13 +43,18 @@ const VIEWS: { name: string; query: string; viewport?: { width: number; height: 
   { name: '33-story-peoples-1949', query: '?story=peoples-and-migrations&step=12' },
   { name: '34-perspectives-1948-panel', query: '?y=1948-06' },
   { name: '35-diaspora-inset-1951', query: '?y=1951' },
+  { name: '36-arabic-story-jerusalem', query: '?story=jerusalem-through-time&step=13&lang=ar' },
+  { name: '37-hebrew-perspectives', query: '?lang=he#/perspectives' },
+  { name: '38-arabic-place-hebron', query: '?y=1500&lang=ar&place=cave-of-the-patriarchs-ibrahimi-mosque' },
+  { name: '39-mobile-arabic-1948', query: '?y=1948-06&lang=ar', viewport: { width: 390, height: 844 } },
+  { name: '40-mobile-hebrew-story', query: '?story=1967-to-today&step=8&lang=he', viewport: { width: 390, height: 844 } },
 ];
 
 for (const v of VIEWS) {
   test(`screenshot ${v.name}`, async ({ page }) => {
     if (v.viewport) await page.setViewportSize(v.viewport);
     await page.goto(`/${v.query}`);
-    if (!v.query.startsWith('#')) await expect(page.getByTestId('map').first()).toHaveAttribute('data-ready', 'true', { timeout: 30_000 });
+    if (!v.query.includes('#/')) await expect(page.getByTestId('map').first()).toHaveAttribute('data-ready', 'true', { timeout: 30_000 });
     await page.waitForTimeout(2500); // crossfade + hillshade tiles
     await page.screenshot({ path: `${DIR}/${v.name}.png` });
   });

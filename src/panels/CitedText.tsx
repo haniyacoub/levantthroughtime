@@ -11,24 +11,35 @@ export function CitedText({ text, sources, title }: { text: LocalizedText; sourc
   const { t } = useTranslation();
   const { lang, openSources } = useStore();
   const r = resolve(text, lang);
-  const parts = r.text.split(/(\[\d+\])/g);
+  // Markers and the punctuation right after them ("[1][2].") form one unbreakable group, so a line
+  // break never strands the full stop on the next line (which also misplaces it in right-to-left text).
+  const parts = r.text.split(/((?:\[\d+\])+[.!?,;:،؛]*)/g);
   return (
     <span className={r.draft ? 'cited draft' : 'cited'} lang={r.fallback ? 'en' : undefined} dir={r.fallback ? 'ltr' : undefined}>
       {parts.map((p, i) => {
-        const m = /^\[(\d+)\]$/.exec(p);
-        if (!m) return p ? <span key={i}>{p}</span> : null;
-        // Consecutive markers ("[1][2]") are separated so they don't read as one number.
-        const afterMarker = i >= 2 && parts[i - 1] === '' && /^\[\d+\]$/.test(parts[i - 2] ?? '');
-        const n = Number(m[1]);
-        const ref = sources[n - 1];
-        if (!ref) return <sup key={i}>{p}</sup>;
+        const nums = [...p.matchAll(/\[(\d+)\]/g)].map((m) => Number(m[1]));
+        if (!nums.length) return p ? <span key={i}>{p}</span> : null;
+        const tail = p.replace(/(\[\d+\])+/, '');
         return (
-          <sup key={i}>
-            {afterMarker && ','}
-            <button type="button" className="cite-mark" onClick={() => openSources({ title, refs: [ref] })} aria-label={t('sources.showFor', { what: `${title} [${n}]` })}>
-              {n}
-            </button>
-          </sup>
+          <span key={i} className="cite-group">
+            {nums.map((n, j) => {
+              const ref = sources[n - 1];
+              return (
+                <sup key={j}>
+                  {/* Consecutive markers are separated so they don't read as one number. */}
+                  {j > 0 && ','}
+                  {ref ? (
+                    <button type="button" className="cite-mark" onClick={() => openSources({ title, refs: [ref] })} aria-label={t('sources.showFor', { what: `${title} [${n}]` })}>
+                      {n}
+                    </button>
+                  ) : (
+                    `[${n}]`
+                  )}
+                </sup>
+              );
+            })}
+            {tail}
+          </span>
         );
       })}
       {r.draft && (
