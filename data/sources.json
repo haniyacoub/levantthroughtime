@@ -23,6 +23,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "absentees-property-law-1950",
+      "type": "document",
+      "title": "Absentees' Property Law, 5710-1950",
+      "publisher": "State of Israel (UNISPAL \"as is\" reproduction)",
+      "year": 1950,
+      "url": "https://web.archive.org/web/20120609143352/http://domino.un.org/UNISPAL.NSF/d80185e9f0c69a7b85256cbf005afeac/e0b719e95e3b494885256f9a005ab90a",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the law text, section 1(b) (definition of \"absentee\")."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "abu-husayn-2004-view-from-istanbul",
       "type": "book",
       "authors": [
@@ -427,6 +443,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "anu-krockenberger-obituary",
+      "type": "web",
+      "title": "Krockenberger, Oskar (1926-2018)",
+      "container": "Obituaries Australia",
+      "publisher": "National Centre of Biography, Australian National University",
+      "url": "https://oa.anu.edu.au/obituary/krockenberger-oskar-18058",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full obituary (reprinted from the Templer Record)."
+      },
+      "kind": "reference",
+      "institution_country": "AU"
+    },
+    {
       "id": "anzac-memorial-megiddo",
       "type": "web",
       "title": "Megiddo",
@@ -597,6 +629,27 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "avni-2014",
+      "type": "book",
+      "authors": [
+        "Avni, Gideon"
+      ],
+      "title": "The Byzantine-Islamic Transition in Palestine: An Archaeological Approach",
+      "container": "Oxford Studies in Byzantium",
+      "publisher": "Oxford University Press",
+      "year": 2014,
+      "doi": "10.1093/acprof:oso/9780199684335.001.0001",
+      "url": "https://gallerybookshop.com/book/9780199684335",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the publisher's description as reproduced on a bookseller page; DOI confirmed via Crossref."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "awm-beersheba",
@@ -936,6 +989,22 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "begin-1951-the-revolt",
+      "type": "book",
+      "authors": [
+        "Begin, Menachem"
+      ],
+      "title": "The Revolt: Story of the Irgun",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened; the Deir Yassin passage was read as quoted in un-dpr-origins-part2. Memoir of the Irgun commander (later Israeli prime minister); 'kind' set to academic only for lack of a 'memoir' category."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "beloch-1886-bevoelkerung",
       "type": "book",
       "authors": [
@@ -990,6 +1059,26 @@
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ben-zeev-2011-remembering-palestine",
+      "type": "chapter",
+      "authors": [
+        "Ben-Ze'ev, Efrat"
+      ],
+      "title": "Remembering Palestine in 1948: Beyond National Narratives (chapter 'Framework')",
+      "container": "Remembering Palestine in 1948: Beyond National Narratives",
+      "publisher": "Cambridge University Press",
+      "year": 2011,
+      "url": "https://www.cambridge.org/core/books/remembering-palestine-in-1948/framework/E8060B09E2C9097FD2C2188F4A63D78F",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the opening of the chapter shown in the Cambridge Core preview (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "benjamin-2017-mediterranean-sea-level",
@@ -1314,6 +1403,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-alexander-jannaeus",
+      "type": "web",
+      "title": "Alexander Jannaeus",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Alexander-Jannaeus",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "The archived page is short and quotes excerpts from other Britannica articles; the cited sentence is one such excerpt. Read via Internet Archive Wayback Machine snapshot 20260903102912 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-alexander-the-great",
       "type": "web",
       "title": "Alexander the Great",
@@ -1613,6 +1718,38 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "britannica-bar-kokhba-revolt",
+      "type": "web",
+      "title": "Bar Kokhba Revolt",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Bar-Kokhba-Revolt",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261001204303 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-battle-of-arsuf",
+      "type": "web",
+      "title": "Battle of Arsuf",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Battle-of-Arsuf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20251005230543 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-battle-of-ayn-jalut",
       "type": "web",
       "authors": [
@@ -1630,6 +1767,79 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-battle-of-hattin",
+      "type": "web",
+      "title": "Battle of Hattin",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Battle-of-Hattin",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261011154837 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-battle-of-jaffa",
+      "type": "web",
+      "authors": [
+        "Matthews, Rupert"
+      ],
+      "title": "Battle of Jaffa (1192)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Battle-of-Jaffa",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20251005230545 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-battle-of-kadesh",
+      "type": "web",
+      "authors": [
+        "Kerrigan, Michael"
+      ],
+      "title": "Battle of Kadesh",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Battle-of-Kadesh",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260917142239 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-baybars-i",
+      "type": "web",
+      "authors": [
+        "Rabie, Hassanein Muhammad"
+      ],
+      "title": "Baybars I",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Baybars-I",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260728150146 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-beersheba",
@@ -1870,6 +2080,83 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-crusades-final-loss",
+      "type": "web",
+      "authors": [
+        "Madden, Thomas F."
+      ],
+      "title": "Crusades: The final loss of the Crusader states",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Crusades/The-final-loss-of-the-Crusader-states",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260812123825 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-crusades-frederick-ii",
+      "type": "web",
+      "authors": [
+        "Madden, Thomas F."
+      ],
+      "title": "Crusades: The Crusade of Frederick II",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Crusades/The-Crusade-of-Frederick-II",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260722070023 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-crusades-third-crusade",
+      "type": "web",
+      "authors": [
+        "Madden, Thomas F."
+      ],
+      "title": "Crusades: The Third Crusade",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Crusades/The-Third-Crusade",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260714081342 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-crusades-to-1187",
+      "type": "web",
+      "authors": [
+        "Baldwin, Marshall W.",
+        "Madden, Thomas F."
+      ],
+      "title": "Crusades: The Crusader states to 1187",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Crusades/The-Crusader-states-to-1187",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20250822042042 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-damascus",
       "type": "web",
       "authors": [
@@ -2084,6 +2371,38 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-first-crusade",
+      "type": "web",
+      "title": "First Crusade",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/First-Crusade",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20251127141011 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-first-jewish-revolt",
+      "type": "web",
+      "title": "First Jewish Revolt",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/First-Jewish-Revolt",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260915001350 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-france-third-republic",
       "type": "web",
       "title": "France: The Third Republic",
@@ -2292,6 +2611,25 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-heraclius",
+      "type": "web",
+      "authors": [
+        "Franzius, Enno"
+      ],
+      "title": "Heraclius",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Heraclius-Byzantine-emperor",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260818022802 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-herod",
       "type": "web",
       "title": "Herod (king of Judaea)",
@@ -2354,6 +2692,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-hezekiah",
+      "type": "web",
+      "title": "Hezekiah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Hezekiah",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261012000135 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-hyksos",
@@ -2424,6 +2778,41 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-intifada",
+      "type": "web",
+      "authors": [
+        "Araj, Bader"
+      ],
+      "title": "intifada",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/intifada",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the article by Bader Araj (live page, 18 Oct 2026); AI-generated question answers on the page not used."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-irgun",
+      "type": "web",
+      "title": "Irgun Zvai Leumi",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Irgun-Zvai-Leumi",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full short article (live page, 18 Oct 2026)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-israel-hamas-war",
@@ -2532,6 +2921,38 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-jewish-diaspora",
+      "type": "web",
+      "title": "Jewish Diaspora",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Diaspora-Judaism",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-john-hyrcanus-i",
+      "type": "web",
+      "title": "John Hyrcanus I",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/John-Hyrcanus-I",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260201171136 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-jordan-history",
       "type": "web",
       "title": "Jordan: History",
@@ -2580,6 +3001,73 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-josiah",
+      "type": "web",
+      "title": "Josiah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Josiah",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260731222641 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-judas-maccabeus",
+      "type": "web",
+      "title": "Judas Maccabeus",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Judas-Maccabeus",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260903005516 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-khalid-ibn-al-walid",
+      "type": "web",
+      "title": "Khalid ibn al-Walid",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Khalid-ibn-al-Walid",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261003203543 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-khosrow-ii",
+      "type": "web",
+      "authors": [
+        "Culican, William"
+      ],
+      "title": "Khosrow II",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Khosrow-II",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260831085714 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-kingdom-of-jerusalem",
@@ -2640,6 +3128,22 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-lachish",
+      "type": "web",
+      "title": "Lachish",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Lachish",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "The archived page holds only short excerpts from other Britannica articles; the cited sentence was read there. Read via Internet Archive Wayback Machine snapshot 20250716000618 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-ladino-language",
       "type": "web",
       "authors": [
@@ -2677,6 +3181,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-lebanese-civil-war",
+      "type": "web",
+      "title": "Lebanese Civil War",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Lebanese-Civil-War",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the editorial article text (live page, 18 Oct 2026); the AI-generated question answers on the page were not used."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-lebanon-french-mandate",
@@ -2838,6 +3358,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-merneptah",
+      "type": "web",
+      "title": "Merneptah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Merneptah",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260826061201 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-mesopotamia-neo-assyrian",
@@ -3184,6 +3720,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-palestine-arab-revolt",
+      "type": "web",
+      "title": "Palestine: The Arab Revolt (incl. World War II and the early postwar period)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/The-Arab-Revolt",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive snapshot 20260715075200: the sections on the Arab Revolt of 1936-39, World War II and the early postwar period (Irgun and LEHI attacks, King David Hotel). Note: this page says the general strike 'was called off in October 1939', which conflicts with other sources (October 1936); that sentence is not used."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-palestine-hasmonean-herodian",
       "type": "web",
       "authors": [
@@ -3244,6 +3796,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-palestine-intl-recognition",
+      "type": "web",
+      "title": "Palestine: International recognition (PLO and the civil war in Lebanon, 1978, 1982)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/International-recognition",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive snapshot 20260921070011: sections 'Palestinians and the civil war in Lebanon' and 'The dispersal of the PLO from Lebanon'."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-palestine-iron-age",
       "type": "web",
       "authors": [
@@ -3262,6 +3830,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-palestine-resurgence",
+      "type": "web",
+      "title": "Palestine: Resurgence of Palestinian identity (PLO in Jordan and Lebanon)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/Resurgence-of-Palestinian-identity",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive snapshot 20260926101446: the sections on the PLO in Jordan (Black September)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-palestine-roman-to-fatimid",
@@ -3458,6 +4042,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-ptolemy-iv",
+      "type": "web",
+      "title": "Ptolemy IV Philopator",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Ptolemy-IV-Philopator",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260109113759 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-qumran",
       "type": "web",
       "authors": [
@@ -3548,6 +4148,22 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251126072609."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-ramses-iii",
+      "type": "web",
+      "title": "Ramses III",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Ramses-III",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261003115337 (direct access blocked by a bot check)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -3662,6 +4278,25 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-sargon-ii",
+      "type": "web",
+      "authors": [
+        "Laessoe, Jorgen"
+      ],
+      "title": "Sargon II",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Sargon-II",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260606204854 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-sasanian-dynasty",
       "type": "web",
       "title": "Sasanian dynasty",
@@ -3676,6 +4311,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-sea-people",
+      "type": "web",
+      "title": "Sea People",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Sea-People",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260810152704 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-seleucid-kingdom",
@@ -3729,6 +4380,57 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-sennacherib",
+      "type": "web",
+      "authors": [
+        "Saggs, Henry W. F."
+      ],
+      "title": "Sennacherib",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Sennacherib",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260427225715 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-shalmaneser-iii",
+      "type": "web",
+      "title": "Shalmaneser III",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Shalmaneser-III",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260731055223 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-sheshonk-i",
+      "type": "web",
+      "title": "Sheshonk I",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Sheshonk-I",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20261006134412 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-sidon",
       "type": "web",
       "title": "Sidon",
@@ -3743,6 +4445,44 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-siege-of-jerusalem-70",
+      "type": "web",
+      "authors": [
+        "Lohnes, Kathleen"
+      ],
+      "title": "Siege of Jerusalem (70 ce)",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Siege-of-Jerusalem-70",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260911001703 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-siege-of-masada",
+      "type": "web",
+      "authors": [
+        "Bunting, Tony"
+      ],
+      "title": "Siege of Masada",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Siege-of-Masada",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260522170705 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-sinai",
@@ -3777,6 +4517,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-stern-gang",
+      "type": "web",
+      "title": "Stern Gang",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Stern-Gang",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full short article (live page, 18 Oct 2026)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-suez-crisis",
@@ -3924,6 +4680,41 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "britannica-third-crusade",
+      "type": "web",
+      "title": "Third Crusade",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Third-Crusade",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260904022407 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-thutmose-iii",
+      "type": "web",
+      "authors": [
+        "Dorman, Peter F."
+      ],
+      "title": "Thutmose III",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Thutmose-III",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive Wayback Machine snapshot 20260928154103 (direct access blocked by a bot check)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-tiberias",
       "type": "web",
       "authors": [
@@ -3938,6 +4729,22 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260106233437."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-trumpeldor",
+      "type": "web",
+      "title": "Joseph Trumpeldor",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/biography/Joseph-Trumpeldor",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Live page (18 Oct 2026); the Tel Hai passage was read as the excerpt from Britannica's 'Tel Ḥay' article shown on this page."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -4116,6 +4923,22 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261008195507. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-yom-kippur-war",
+      "type": "web",
+      "title": "Yom Kippur War",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/Yom-Kippur-War",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive snapshot 20261008200237: Quick Facts and article text (the AI-generated question answers on the page were not used)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -4351,6 +5174,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "cassius-dio-roman-history",
+      "type": "book",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Books 68-69",
+      "container": "LacusCurtius",
+      "publisher": "Loeb Classical Library (1925), online at LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source (early 3rd century CE); read 68.32 (Jewish revolts under Trajan) and 69.12-14 (revolt under Hadrian)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "cbs-census-1967-vol1",
       "type": "census",
       "authors": [
@@ -4424,6 +5267,23 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "cbs-sai-2005-t2-8",
+      "type": "dataset",
+      "title": "Localities and population, by population group, district, sub-district and natural region (Table 2.8)",
+      "container": "Statistical Abstract of Israel 2005, No. 56",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "year": 2005,
+      "url": "https://web.archive.org/web/20071125001737/http://www1.cbs.gov.il/shnaton56/st02_08.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF table via a Wayback Machine capture: rows \"Judea and Samaria\" and \"Gaza area\", 31 XII 2004 and census years."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "cbs-sai-2023-t2-01",
@@ -4526,6 +5386,74 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "cbs-sai-2025-t2-35",
+      "type": "dataset",
+      "title": "Immigrants, by period of immigration and last continent of residence (Table 2.35)",
+      "container": "Statistical Abstract of Israel 2025, No. 76",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "year": 2025,
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2025/2.shnatonpopulation/st02_35.xlsx",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded and read the Excel table (published 11.11.2025)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-sai-2025-t2-37",
+      "type": "dataset",
+      "title": "Immigrants, by period of immigration, country of birth and last country of residence (Table 2.37)",
+      "container": "Statistical Abstract of Israel 2025, No. 76",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "year": 2025,
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2025/2.shnatonpopulation/st02_37.xlsx",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded and read the Excel table (published 11.11.2025). Columns: 2024, 2023, 2022, 2000-2021, 1990-1999, 1980-1989, 1972-1979, 1961-1971, 1952-1960, 15.5.1948-1951."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-sai-2025-t2-42",
+      "type": "dataset",
+      "title": "Population of foreign residents in Israel, by main countries of citizenship and status in Israel (Table 2.42)",
+      "container": "Statistical Abstract of Israel 2025, No. 76",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "year": 2025,
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2025/2.shnatonpopulation/st02_42.xlsx",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded and read the Excel table (2024 data; published 11.11.2025)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "cbs-sai-2025-t2-48",
+      "type": "dataset",
+      "title": "Jews in the world and in Israel (Table 2.48)",
+      "container": "Statistical Abstract of Israel 2025, No. 76",
+      "publisher": "Central Bureau of Statistics (Israel); Division of Jewish Demography and Statistics, A. Harman Institute of Contemporary Jewry, Hebrew University of Jerusalem",
+      "year": 2026,
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2025/2.shnatonpopulation/st02_48.xlsx",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded and read the Excel table (published 11.02.2026). Country rows follow the 2024 row; diaspora figures are \"core\" Jewish population (revised rough estimates)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "cohen-lewis-1978-population-revenue",
       "type": "book",
       "authors": [
@@ -4544,6 +5472,22 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "cojs-syro-ephraimite-war",
+      "type": "web",
+      "title": "Tiglath-Pileser III and the Syro-Ephraimite War: Kalah Palace Summary Inscription 4, 730 BCE",
+      "container": "Center for Online Judaic Studies",
+      "publisher": "Center for Online Judaic Studies",
+      "url": "https://cojs.org/tiglath-pileser_iii_and_the_syro-ephraimite_war-_kalah_palace_summary_inscription_4-_730_bce/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the commentary page."
+      },
+      "kind": "ngo",
+      "institution_country": "US"
     },
     {
       "id": "conder-hastings-bible-dictionary",
@@ -4829,6 +5773,127 @@
       "institution_country": "IL"
     },
     {
+      "id": "egypt-israel-treaty-1979",
+      "type": "document",
+      "title": "Treaty of Peace between the Arab Republic of Egypt and the State of Israel (26 March 1979), with Annex I",
+      "container": "The Avalon Project",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1979,
+      "url": "https://avalon.law.yale.edu/20th_century/isregypt.asp",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the treaty text, Article I and Annex I Article I."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-bar-kokhba",
+      "type": "chapter",
+      "authors": [
+        "Abramsky, Samuel",
+        "Gibson, Shimon"
+      ],
+      "title": "Bar Kokhba",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bar-kokhba",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-beta-israel",
+      "type": "chapter",
+      "authors": [
+        "Kaplan, Steven",
+        "Lenhoff, Howard M.",
+        "Trevisan Semi, Emanuela"
+      ],
+      "title": "Beta Israel",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/beta-israel",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry (immigration section)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-hebron",
+      "type": "chapter",
+      "title": "Hebron",
+      "container": "Encyclopaedia Judaica (2nd ed.) and other encyclopedias on Encyclopedia.com",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hebron",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the Encyclopedia.com page, which combines several encyclopedia entries on Hebron (the EJ entry and others)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-safed",
+      "type": "chapter",
+      "authors": [
+        "Avi-Yonah, Michael",
+        "Orni, Efraim",
+        "Yaari, Avraham"
+      ],
+      "title": "Safed",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/safed",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry (history sections)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ellenblum-1998",
+      "type": "book",
+      "authors": [
+        "Ellenblum, Ronnie"
+      ],
+      "title": "Frankish Rural Settlement in the Latin Kingdom of Jerusalem",
+      "publisher": "Cambridge University Press",
+      "year": 1998,
+      "doi": "10.1017/CBO9780511585340",
+      "url": "https://doi.org/10.1017/CBO9780511585340",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the publisher's abstract (Crossref metadata record)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "ennab-1994",
       "type": "document",
       "authors": [
@@ -4895,6 +5960,38 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "feldman-2019-philistines",
+      "type": "article",
+      "authors": [
+        "Feldman, Michal",
+        "Master, Daniel M.",
+        "Bianco, Raffaela A.",
+        "Burri, Marta",
+        "Stockhammer, Philipp W.",
+        "Mittnik, Alissa",
+        "Aja, Adam J.",
+        "Jeong, Choongwon",
+        "Krause, Johannes"
+      ],
+      "title": "Ancient DNA sheds light on the genetic origins of early Iron Age Philistines",
+      "container": "Science Advances",
+      "publisher": "American Association for the Advancement of Science",
+      "year": 2019,
+      "volume": 5,
+      "issue": 7,
+      "pages": "eaax0061",
+      "doi": "10.1126/sciadv.aax0061",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6609216/fullTextXML",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the open-access full text (Europe PMC, PMC6609216): abstract, introduction on the migration debate, results."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "finkelstein-1996-territorial-political-system",
@@ -5193,6 +6290,51 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "gottheil-1973",
+      "type": "article",
+      "authors": [
+        "Gottheil, Fred M."
+      ],
+      "title": "Arab immigration into pre-state Israel: 1922-1931",
+      "container": "Middle Eastern Studies",
+      "publisher": "Taylor & Francis",
+      "year": 1973,
+      "volume": 9,
+      "issue": 3,
+      "pages": "315-324",
+      "doi": "10.1080/00263207308700251",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-18",
+        "note": "Not consulted; existence confirmed via Crossref. The author restates its argument in Gottheil 2003."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "gottheil-2003-meq",
+      "type": "article",
+      "authors": [
+        "Gottheil, Fred M."
+      ],
+      "title": "The Smoking Gun: Arab Immigration into Palestine, 1922-1931",
+      "container": "Middle East Quarterly",
+      "publisher": "Middle East Forum",
+      "year": 2003,
+      "volume": 10,
+      "issue": 1,
+      "url": "https://www.meforum.org/middle-east-quarterly/the-smoking-gun-arab-immigration-into-palestine",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article. Published by the Middle East Forum, a US think tank with a stated political orientation; used here to state the author's own position."
+      },
+      "kind": "ngo",
+      "institution_country": "US"
+    },
+    {
       "id": "grabar-kedar-2009",
       "type": "book",
       "authors": [
@@ -5246,6 +6388,25 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "grayson-1975-chronicles",
+      "type": "book",
+      "authors": [
+        "Grayson, A. Kirk"
+      ],
+      "title": "Assyrian and Babylonian Chronicles",
+      "container": "Texts from Cuneiform Sources 5",
+      "publisher": "J. J. Augustin",
+      "year": 1975,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Chronicle ABC 5 seen only in the adapted translation on Livius.org."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "guillerm-2024-pangaea-dead-sea-levels",
@@ -5575,6 +6736,38 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "idmc-grid-2024",
+      "type": "document",
+      "title": "Global Report on Internal Displacement 2024",
+      "publisher": "Internal Displacement Monitoring Centre (IDMC)",
+      "year": 2024,
+      "url": "https://api.internal-displacement.org/sites/default/files/publications/documents/IDMC-GRID-2024-Global-Report-on-Internal-Displacement.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full PDF: Middle East & North Africa overview and Palestine spotlight."
+      },
+      "kind": "ngo",
+      "institution_country": "CH"
+    },
+    {
+      "id": "idmc-grid-2025",
+      "type": "document",
+      "title": "Global Report on Internal Displacement 2025",
+      "publisher": "Internal Displacement Monitoring Centre (IDMC)",
+      "year": 2025,
+      "url": "https://api.internal-displacement.org/sites/default/files/publications/documents/idmc-grid-2025-global-report-on-internal-displacement.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full PDF: Middle East & North Africa overview (Israel; Palestine) and notes 136-138, 152-171."
+      },
+      "kind": "ngo",
+      "institution_country": "CH"
+    },
+    {
       "id": "ilan-1995-dawn-of-internationalism",
       "type": "chapter",
       "authors": [
@@ -5727,6 +6920,25 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "israel-mfa-arab-israeli-wars",
+      "type": "web",
+      "authors": [
+        "Lorch, Netanel"
+      ],
+      "title": "The Arab-Israeli Wars (by Netanel Lorch)",
+      "container": "Israel Ministry of Foreign Affairs website",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "url": "http://mfa.gov.il/MFA/AboutIsrael/History/Pages/The%20Arab-Israeli%20Wars.aspx",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full page via Internet Archive snapshot 20140106201413 (downloaded by an earlier research step and read here): sections on the War of Independence, Sinai Campaign, Six-Day War, War of Attrition, Yom Kippur War, Operation Litani, Operation Peace for Galilee and the Gulf War."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-mfa-disengagement-plan-2004",
       "type": "document",
       "title": "The Cabinet Resolution Regarding the Disengagement Plan (revised plan, 6 June 2004)",
@@ -5776,6 +6988,22 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-pmo-refugee-issue",
+      "type": "web",
+      "title": "Background Papers: The Refugee Issue",
+      "container": "Prime Minister's Office of Israel website",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "url": "http://www.pmo.gov.il/english/policy/bp-refugees.html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive copy (1998 capture; downloaded by an earlier research step and read here): section 'The Arab Refugees of 1948' incl. the Haifa passage."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "israel-state-comptroller-2020-civadmin",
@@ -5893,6 +7121,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "jordan-1967-aide-memoire",
+      "type": "document",
+      "title": "Aide-memoire submitted to the Special Representative [N.-G. Gussing] by the Jordanian authorities (Annex II of S/8158)",
+      "publisher": "Government of Jordan (reproduced by the United Nations)",
+      "year": 1967,
+      "url": "https://documents.un.org/api/symbol/access?s=A/6797&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the aide-memoire as reproduced in Annex II of the UN Secretary-General report S/8158 (A/6797)."
+      },
+      "kind": "government",
+      "institution_country": "JO"
+    },
+    {
       "id": "jordan-dos-1953",
       "type": "census",
       "authors": [
@@ -5945,6 +7189,83 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "joseph-1960-faithful-city",
+      "type": "book",
+      "authors": [
+        "Joseph, Dov"
+      ],
+      "title": "The Faithful City: The Siege of Jerusalem, 1948",
+      "year": 1960,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened; the Deir Yassin passage was read as quoted in un-dpr-origins-part2 ('A former Israeli military governor of Jerusalem writes'). Year as commonly catalogued; not checked."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "josephus-antiquities-whiston",
+      "type": "book",
+      "authors": [
+        "Josephus, Flavius",
+        "Whiston, William (translator)"
+      ],
+      "title": "The Antiquities of the Jews",
+      "container": "Perseus Digital Library",
+      "publisher": "Tufts University (Perseus Digital Library)",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "josephus-jewish-war-whiston",
+      "type": "book",
+      "authors": [
+        "Josephus, Flavius",
+        "Whiston, William (translator)"
+      ],
+      "title": "The Wars of the Jews",
+      "container": "Perseus Digital Library",
+      "publisher": "Tufts University (Perseus Digital Library)",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0148",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source (1st century CE) in Whiston's translation; read books 2.5, 2.19, 3.7, 4.1, 6.8, 6.10, 7.8-9 online."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "josephus-war-whiston",
+      "type": "book",
+      "authors": [
+        "Josephus, Flavius"
+      ],
+      "title": "The Wars of the Jews; or, The History of the Destruction of Jerusalem (trans. William Whiston)",
+      "container": "Project Gutenberg eBook #2850",
+      "publisher": "Project Gutenberg",
+      "year": 2001,
+      "url": "https://www.gutenberg.org/cache/epub/2850/pg2850.txt",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read Book VI, ch. 9, sec. 3 (Greek 6.420) in the Whiston translation."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "jpost-2026-06-23-idf-control",
       "type": "web",
       "title": "IDF expands control to approx. 70% of Gaza Strip as Southern Command prepares for next steps",
@@ -5994,6 +7315,23 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "jps-tanakh-2023",
+      "type": "book",
+      "title": "The JPS Tanakh: Gender-Sensitive Edition",
+      "container": "Sefaria (online library)",
+      "publisher": "Jewish Publication Society",
+      "year": 2023,
+      "url": "https://www.sefaria.org/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67."
+      },
+      "kind": "religious-institution",
+      "institution_country": "US"
     },
     {
       "id": "juster-1914-juifs-empire-romain",
@@ -6064,6 +7402,29 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "karsh-2000-commentary",
+      "type": "article",
+      "authors": [
+        "Karsh, Efraim"
+      ],
+      "title": "Were the Palestinians Expelled?",
+      "container": "Commentary",
+      "publisher": "American Jewish Committee",
+      "year": 2000,
+      "volume": 110,
+      "issue": 1,
+      "pages": "29-34",
+      "url": "https://web.archive.org/web/20140224112045/http://www.kcl.ac.uk/artshums/depts/mems/people/staff/academic/karsh/articles/WerethePalestiniansExpelled.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article (author-hosted PDF at King's College London, via Wayback Machine)."
+      },
+      "kind": "press",
+      "institution_country": "US"
     },
     {
       "id": "karsh-2008-commentary-1948",
@@ -6150,6 +7511,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "khalidi-1988-plan-dalet",
+      "type": "article",
+      "authors": [
+        "Khalidi, Walid"
+      ],
+      "title": "Plan Dalet: Master Plan for the Conquest of Palestine",
+      "container": "Journal of Palestine Studies",
+      "publisher": "Institute for Palestine Studies / University of California Press",
+      "year": 1988,
+      "volume": 18,
+      "issue": 1,
+      "pages": "4-33",
+      "doi": "10.2307/2537591",
+      "url": "https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/Plan%20dalet.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (Internet Archive snapshot 20260711041121): the article (a reprint of Khalidi's 1961 article with a new introduction), its list of Plan D operations, and Appendix B, the translated text of Plan Dalet's general section (from Sefer Toldot Hahaganah, vol. 3, Appendix 48)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "khalidi-1992-all-that-remains",
       "type": "book",
       "authors": [
@@ -6166,6 +7551,47 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "khalidi-2006-all-that-remains",
+      "type": "book",
+      "authors": [
+        "Khalidi, Walid (ed.)"
+      ],
+      "title": "All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948 (2nd ed.)",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2006,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-18",
+        "note": "Not consulted; listed in the bibliography of the PalQuest entry \"The Nakba\". Cited only to identify works associated with the position."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "khalidi-2008-fall-of-haifa",
+      "type": "article",
+      "authors": [
+        "Khalidi, Walid"
+      ],
+      "title": "The Fall of Haifa Revisited",
+      "container": "Journal of Palestine Studies",
+      "publisher": "Institute for Palestine Studies / University of California Press",
+      "year": 2008,
+      "volume": 37,
+      "issue": 3,
+      "pages": "30-58",
+      "url": "https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/haifa.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (Internet Archive snapshot 20251004140016): the new introduction summarising the 1959 article's findings."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "khalidi-2009-mamilla",
@@ -6298,6 +7724,29 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "kressel-aharoni-2004",
+      "type": "article",
+      "authors": [
+        "Kressel, Gideon M.",
+        "Aharoni, Reuven"
+      ],
+      "title": "Egyptian Immigrants in the Bilad al-Sham",
+      "container": "Jama'a: An Interdisciplinary Journal of Middle East Studies",
+      "publisher": "Ben-Gurion University of the Negev",
+      "year": 2004,
+      "volume": 12,
+      "pages": "201-245",
+      "url": "https://jamaa.bgu.ac.il/index.php/jamaa/en/article/view/249",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the abstract on the journal's article page."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "kushnir-stein-2019-medieval-climate",
       "type": "article",
       "authors": [
@@ -6418,6 +7867,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "livius-abc5",
+      "type": "web",
+      "authors": [
+        "Lendering, Jona"
+      ],
+      "title": "Chronicle Concerning the Early Years of Nebuchadnezzar II (ABC 5)",
+      "container": "Livius.org",
+      "publisher": "Livius.org",
+      "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes."
+      },
+      "kind": "reference",
+      "institution_country": "NL"
+    },
+    {
       "id": "lowdermilk-1944-palestine-land-of-promise",
       "type": "book",
       "authors": [
@@ -6451,6 +7919,92 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "maeir-hitchcock-horwitz-2013",
+      "type": "article",
+      "authors": [
+        "Maeir, Aren M.",
+        "Hitchcock, Louise A.",
+        "Horwitz, Liora Kolska"
+      ],
+      "title": "On the Constitution and Transformation of Philistine Identity",
+      "container": "Oxford Journal of Archaeology",
+      "publisher": "Wiley",
+      "year": 2013,
+      "volume": 32,
+      "issue": 1,
+      "pages": "1-38",
+      "doi": "10.1111/ojoa.12000",
+      "url": "https://cris.iucc.ac.il/en/publications/on-the-constitution-and-transformation-of-philistine-identity/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the full abstract on the Israeli universities research portal (CRIS IUCC)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "malamat-ej-exile-assyrian",
+      "type": "chapter",
+      "authors": [
+        "Malamat, Abraham"
+      ],
+      "title": "Exile, Assyrian",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/exile-assyrian",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "marom-sasson-2022",
+      "type": "chapter",
+      "authors": [
+        "Sasson, Avraham (Avi)",
+        "Marom, Roy"
+      ],
+      "title": "'Asqalan al-Jadida: Egyptian Rule and the Settlement of Egyptians in the Vicinity of Ashkelon, 1831-1948",
+      "container": "Ashkelon - Landscape of Peace and Conflicts (eds. R. Y. Lewis, D. Varga, A. Sasson)",
+      "publisher": "Resling / Ashkelon Academic College and Israel Antiquities Authority",
+      "year": 2022,
+      "url": "https://escholarship.org/uc/item/2wb2x85k",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the English abstract in the eScholarship PDF (the chapter itself is in Hebrew)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "masalha-1992",
+      "type": "book",
+      "authors": [
+        "Masalha, Nur"
+      ],
+      "title": "Expulsion of the Palestinians: The Concept of \"Transfer\" in Zionist Political Thought, 1882-1948",
+      "publisher": "Institute for Palestine Studies",
+      "year": 1992,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-18",
+        "note": "Not consulted; listed in the bibliography of the PalQuest entry \"The Nakba\". Cited only to identify works associated with the position."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "matveev-2010",
@@ -6624,6 +8178,67 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "morris-1987-birth",
+      "type": "book",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "The Birth of the Palestinian Refugee Problem, 1947-1949",
+      "publisher": "Cambridge University Press",
+      "year": 1987,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened; Morris's conclusion read as quoted in shlaim-1995-debate-about-1948. The PalQuest Lydda page also cites Morris for the 12 July expulsion decision."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "morris-2004",
+      "type": "book",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "The Birth of the Palestinian Refugee Problem Revisited",
+      "publisher": "Cambridge University Press",
+      "year": 2004,
+      "doi": "10.1017/CBO9780511816659",
+      "url": "https://www.cambridge.org/core/books/birth-of-the-palestinian-refugee-problem-revisited/8AE72A6813CEA7DDDE8F9386313F0D97",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Read the free opening page previews on Cambridge Core of Appendix I (number of refugees), the Conclusion, and the chapter \"Clearing the borders: expulsions and population transfers, November 1948-1950\", plus the book description."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "naaman-2007-jerusalem",
+      "type": "article",
+      "authors": [
+        "Na'aman, Nadav"
+      ],
+      "title": "When and How Did Jerusalem Become a Great City? The Rise of Jerusalem as Judah's Premier City in the Eighth-Seventh Centuries B.C.E.",
+      "container": "Bulletin of the American Schools of Oriental Research",
+      "publisher": "University of Chicago Press",
+      "year": 2007,
+      "volume": 347,
+      "pages": "21-56",
+      "doi": "10.1086/BASOR25067021",
+      "url": "https://www.journals.uchicago.edu/toc/basor/2007/347",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Saw the abstract's opening sentence in a search-result snippet of the journal's issue page (the page itself returned HTTP 403); bibliographic data confirmed via Crossref."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "national-2026-09-22-unifil",
       "type": "web",
       "title": "Unifil counts eight fortified bases among 30 Israeli military positions in south Lebanon",
@@ -6744,6 +8359,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ocha-flash-appeal-2026",
+      "type": "document",
+      "title": "Flash Appeal: Occupied Palestinian Territory 2026",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs (OCHA oPt)",
+      "year": 2025,
+      "url": "https://www.ochaopt.org/sites/default/files/OPT_Flash_Appeal_2026_EN_FINAL.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full PDF (issued December 2025), context sections on Gaza and the West Bank."
+      },
+      "kind": "un",
+      "institution_country": "PS"
+    },
+    {
       "id": "ocha-hsu-357",
       "type": "web",
       "title": "Humanitarian Situation Update #357 | Gaza Strip (12 February 2026)",
@@ -6759,6 +8390,55 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ocha-sitrep-2026-10-02",
+      "type": "web",
+      "title": "Humanitarian Situation Report, 2 October 2026",
+      "container": "OCHA oPt",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2026,
+      "url": "https://www.ochaopt.org/content/humanitarian-situation-report-2-october-2026",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full web report."
+      },
+      "kind": "un",
+      "institution_country": "PS"
+    },
+    {
+      "id": "ohchr-2024-a-hrc-55-72",
+      "type": "document",
+      "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan (A/HRC/55/72)",
+      "publisher": "United Nations Human Rights Council",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=A/HRC/55/72&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report, settler population paragraph."
+      },
+      "kind": "un",
+      "institution_country": "CH"
+    },
+    {
+      "id": "ohchr-2025-a-hrc-58-73",
+      "type": "document",
+      "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan: Report of the UN High Commissioner for Human Rights (A/HRC/58/73)",
+      "publisher": "United Nations Human Rights Council",
+      "year": 2025,
+      "url": "https://documents.un.org/api/symbol/access?s=A/HRC/58/73&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report, para. 14 and notes 35-37 (figures attributed to Peace Now)."
+      },
+      "kind": "un",
+      "institution_country": "CH"
     },
     {
       "id": "ohist-suez",
@@ -6873,6 +8553,95 @@
       "institution_country": "GB"
     },
     {
+      "id": "palquest-1956-war",
+      "type": "web",
+      "title": "1956 War: The Political Failure of the Tripartite Aggression",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/161/1956-war",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-arab-algerians",
+      "type": "web",
+      "authors": [
+        "Arab, Yannis"
+      ],
+      "title": "The Algerians of Palestine",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://palquest.org/en/highlight/38738/algerians-palestine",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-charif-bosnians",
+      "type": "web",
+      "authors": [
+        "Charif, Maher"
+      ],
+      "title": "The Bosnians of Palestine",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://palquest.org/en/highlight/36221/bosnians-palestine",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-charif-nakba",
+      "type": "web",
+      "authors": [
+        "Charif, Maher"
+      ],
+      "title": "The Nakba",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://palquest.org/en/highlight/160/nakba",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-dawayima",
+      "type": "web",
+      "title": "Al-Dawayima, 29 October 1948: A Most Brutal Massacre Long Kept Under Wraps",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/22274/al-dawayima-29-october-1948",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "palquest-deir-yasin",
       "type": "web",
       "authors": [
@@ -6887,6 +8656,89 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read a saved copy of the article text (the operation date and narrative of 9 April 1948). Palestinian academic institution; URL is the canonical link recorded in the saved page."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-first-intifada",
+      "type": "web",
+      "authors": [
+        "Heacock, Roger"
+      ],
+      "title": "The First Intifada, 1987-1993: Exhilaration of Revolt, Promise of Freedom",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/29773/first-intifada-1987-1993",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight by Roger Heacock (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-great-rebellion",
+      "type": "web",
+      "title": "Great Palestinian Rebellion, 1936-1939: A Popular Uprising Facing a Ruthless Repression",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/158/great-palestinian-rebellion-1936-1939",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-june-1967-war",
+      "type": "web",
+      "title": "June 1967 War: A Watershed in the Arab-Israeli Conflict",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/163/june-1967-war",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-karama-1968",
+      "type": "web",
+      "title": "Battle of al-Karama, 21 March 1968: A Triggering Moment For the Palestinian Resistance",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/165/battle-al-karama-21-march-1968",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-lebanon-war-1982",
+      "type": "web",
+      "title": "Lebanon War, 1982: A Setback for the PLO and for Israel's 'Grand Design'",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/168/lebanon-war-1982",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -6911,6 +8763,70 @@
       "institution_country": "LB"
     },
     {
+      "id": "palquest-october-1973-war",
+      "type": "web",
+      "title": "October 1973 War: A Daring Arab Initiative Followed by Ambivalent Results",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/166/october-1973-war",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-palestine-war-1947-1950",
+      "type": "web",
+      "title": "IV. The Palestine War and the Nakba, 1947-1950",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/31109/iv-palestine-war-and-nakba",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full period overview (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-sabra-shatila",
+      "type": "web",
+      "title": "Sabra and Shatila, 16-18 September 1982: A Massacre by Proxy",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/169/sabra-and-shatila-16-18-september-1982",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026), incl. its summary of the Kahan Commission report."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-shaw-report-1929",
+      "type": "web",
+      "title": "Report of the Shaw Commission on the al-Buraq / Western Wall Disturbances of August, 1929 (summary of conclusions)",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://palquest.org/en/node/21720",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PalQuest document page reproducing the Shaw Commission's summary of conclusions (live page, 18 Oct 2026). The title wording ('al-Buraq / Western Wall Disturbances') is PalQuest's."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "pcbs-2018-census-summary",
       "type": "census",
       "authors": [
@@ -6928,6 +8844,22 @@
       "kind": "government",
       "institution_country": "PS",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "pcbs-2022-lfs-2021",
+      "type": "document",
+      "title": "Results of the Labour Force Survey 2021 (press release)",
+      "publisher": "Palestinian Central Bureau of Statistics",
+      "year": 2022,
+      "url": "https://pcbs.gov.ps/portals/_pcbs/PressRelease/Press_En_15-2-2022-LF-year-en.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full press release (15 February 2022)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
     },
     {
       "id": "pcbs-2025-end-year",
@@ -7004,6 +8936,24 @@
       "kind": "government",
       "institution_country": "PS",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "peters-1984",
+      "type": "book",
+      "authors": [
+        "Peters, Joan"
+      ],
+      "title": "From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine",
+      "publisher": "Harper & Row",
+      "year": 1984,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not consulted; its thesis is summarised (and criticised) in McCarthy 1990, p. 40 n. 20 and p. 41 n. 13, and in Porath 1986."
+      },
+      "kind": "press",
+      "institution_country": "US"
     },
     {
       "id": "pfeiffer-1949-new-testament-times",
@@ -7083,6 +9033,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "porath-1986-nyrb",
+      "type": "article",
+      "authors": [
+        "Porath, Yehoshua"
+      ],
+      "title": "Mrs. Peters's Palestine",
+      "container": "The New York Review of Books",
+      "publisher": "NYREV",
+      "year": 1986,
+      "url": "https://www.nybooks.com/articles/1986/01/16/mrs-peterss-palestine/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full review (16 January 1986 issue)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "prawer-1980-crusader-institutions",
       "type": "book",
       "authors": [
@@ -7146,6 +9116,26 @@
       "institution_country": "US"
     },
     {
+      "id": "prime-2003-narratives",
+      "type": "book",
+      "authors": [
+        "Adwan, Sami (ed.)",
+        "Bar-On, Dan (ed.)"
+      ],
+      "title": "Learning Each Other's Historical Narrative: Palestinians and Israelis (Balfour Declaration, 1948 war, 1987 Intifada)",
+      "publisher": "Peace Research Institute in the Middle East (PRIME), Beit Jallah",
+      "year": 2003,
+      "url": "https://vispo.com/PRIME/leohn1.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (preliminary English translation, March 2003; downloaded by an earlier research step and read here). Quotes are de-hyphenated where the PDF text broke words across lines. Parallel Israeli and Palestinian narratives written by Israeli and Palestinian teachers; each quote is attributed to the narrative it comes from. | Read the PDF (preliminary English translation, March 2003; downloaded by an earlier research step and read here). Parallel Israeli and Palestinian narratives written by Israeli and Palestinian teachers; each quote is attributed to the narrative it comes from. Quotes are de-hyphenated where the PDF text broke words across lines."
+      },
+      "kind": "ngo",
+      "institution_country": "PS"
+    },
+    {
       "id": "prime-2006-learning-narrative-2",
       "type": "book",
       "authors": [
@@ -7167,6 +9157,46 @@
       },
       "kind": "ngo",
       "institution_country": "PS"
+    },
+    {
+      "id": "procopius-buildings",
+      "type": "book",
+      "authors": [
+        "Procopius of Caesarea",
+        "Dewing, H. B. (translator)"
+      ],
+      "title": "Buildings (De Aedificiis), Book V",
+      "container": "LacusCurtius",
+      "publisher": "Loeb Classical Library (1940), online at LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Buildings/5*.html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source (6th century); read V.7 on the Samaritans of Neapolis/Mount Gerizim, with the site's editorial footnotes."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "procopius-secret-history",
+      "type": "book",
+      "authors": [
+        "Procopius of Caesarea",
+        "Dewing, H. B. (translator)"
+      ],
+      "title": "The Anecdota (Secret History), chapter 11",
+      "container": "LacusCurtius",
+      "publisher": "Loeb Classical Library (1935), online at LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Anecdota/11*.html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source; read 11.24-29 on the Samaritan rising under Justinian."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "reagan-1982-sinai",
@@ -7275,6 +9305,88 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "riao-shalmaneser-iii",
+      "type": "document",
+      "authors": [
+        "Grayson, A. Kirk"
+      ],
+      "title": "Royal Inscriptions of Assyria online (RIAo): Shalmaneser III 002 (Kurkh Monolith) and Shalmaneser III 008",
+      "container": "RIAo, Oracc",
+      "publisher": "Oracc (Open Richly Annotated Cuneiform Corpus)",
+      "year": 1996,
+      "url": "https://oracc.museum.upenn.edu/riao/Q004607/html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English translations online (Q004607 = Shalmaneser III 002; Q004613 = Shalmaneser III 008). Editions based on Grayson, RIMA 3 (1996)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "rinap1-tiglath-pileser-iii",
+      "type": "document",
+      "authors": [
+        "Tadmor, Hayim",
+        "Yamada, Shigeo"
+      ],
+      "title": "The Royal Inscriptions of Tiglath-pileser III (744-727 BC) and Shalmaneser V (726-722 BC), Kings of Assyria (RINAP 1), online edition",
+      "container": "RINAP Online, Oracc",
+      "publisher": "Eisenbrauns / Oracc",
+      "year": 2011,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap1/Q003455/html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English translations of Tiglath-pileser III 21 (Q003434), 42 (Q003455), 44 (Q003457) and 49 (Q003462) online."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "rinap2-sargon-ii",
+      "type": "document",
+      "authors": [
+        "Frame, Grant"
+      ],
+      "title": "The Royal Inscriptions of Sargon II, King of Assyria (721-705 BC) (RINAP 2), online edition",
+      "container": "RINAP Online, Oracc",
+      "publisher": "Eisenbrauns / Oracc",
+      "year": 2021,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap2/Q006488/html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "rinap3-sennacherib",
+      "type": "document",
+      "authors": [
+        "Grayson, A. Kirk",
+        "Novotny, Jamie"
+      ],
+      "title": "The Royal Inscriptions of Sennacherib, King of Assyria (704-681 BC) (RINAP 3), online edition",
+      "container": "RINAP Online, Oracc",
+      "publisher": "Eisenbrauns / Oracc",
+      "year": 2012,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap3/Q003497/html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the English translations of Sennacherib 023 (Q003497, prism account of the third campaign) and 066 (Q003540, Lachish relief epigraph) online."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "runciman-1954-history-crusades-iii",
       "type": "book",
       "authors": [
@@ -7378,6 +9490,29 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "shenhav-2002",
+      "type": "article",
+      "authors": [
+        "Shenhav, Yehouda"
+      ],
+      "title": "Ethnicity and National Memory: The World Organization of Jews from Arab Countries (WOJAC) in the Context of the Palestinian National Struggle",
+      "container": "British Journal of Middle Eastern Studies",
+      "publisher": "Taylor & Francis",
+      "year": 2002,
+      "volume": 29,
+      "issue": 1,
+      "pages": "27-56",
+      "url": "http://people.socsci.tau.ac.il/mu/yshenhav/files/2013/07/Ethnicity-and-National-Memory.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full article (author-posted PDF), esp. pp. 37-38."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "shlaim-1990-apg",
       "type": "article",
       "authors": [
@@ -7399,6 +9534,29 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "shlaim-1995-debate-about-1948",
+      "type": "article",
+      "authors": [
+        "Shlaim, Avi"
+      ],
+      "title": "The Debate About 1948",
+      "container": "International Journal of Middle East Studies",
+      "publisher": "Cambridge University Press",
+      "year": 1995,
+      "volume": 27,
+      "issue": 3,
+      "pages": "287-304",
+      "url": "https://users.ox.ac.uk/~ssfc0005/The%20Debate%20About%201948.html",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the author's posted text (Internet Archive copy of the Oxford page, downloaded by an earlier research step and read here): the section on the origins of the refugee problem."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "sivan-2001-holocene-sea-level-israel",
@@ -7491,6 +9649,26 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "socrates-ecclesiastical-history",
+      "type": "book",
+      "authors": [
+        "Socrates Scholasticus",
+        "Zenos, A. C. (translator)"
+      ],
+      "title": "Ecclesiastical History, Book II",
+      "container": "New Advent (Church Fathers)",
+      "publisher": "Nicene and Post-Nicene Fathers, Second Series vol. 2 (1890); online at New Advent",
+      "url": "https://www.newadvent.org/fathers/26012.htm",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Primary source (5th century); read II.33 \"Of the Jews inhabiting Dio-Caesarea in Palestine\". Hosted on a Catholic website."
+      },
+      "kind": "religious-institution",
+      "institution_country": "US"
     },
     {
       "id": "stein-2010-post-glacial-dead-sea",
@@ -7655,6 +9833,45 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "tdv-hadim-sinan-pasa",
+      "type": "web",
+      "authors": [
+        "Turan, Şerafettin"
+      ],
+      "title": "HADIM SİNAN PAŞA",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "TDV İslâm Araştırmaları Merkezi",
+      "url": "https://islamansiklopedisi.org.tr/hadim-sinan-pasa",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the online article (Turkish)."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-mercidabik-muharebesi",
+      "type": "web",
+      "authors": [
+        "Emecen, Feridun"
+      ],
+      "title": "MERCİDÂBIK MUHAREBESİ",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "TDV İslâm Araştırmaları Merkezi",
+      "year": 2004,
+      "url": "https://islamansiklopedisi.org.tr/mercidabik-muharebesi",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the online article (Turkish; print edition 2004, updated 2025)."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
       "id": "tsafrir-1996-byzantine-demography",
       "type": "chapter",
       "authors": [
@@ -7674,6 +9891,22 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "un-a-res-37-123",
+      "type": "document",
+      "title": "General Assembly resolution 37/123 (A-F), The situation in the Middle East, 16 December 1982",
+      "publisher": "United Nations",
+      "year": 1982,
+      "url": "https://documents.un.org/api/symbol/access?s=A/RES/37/123&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read part D (Sabra and Shatila) of the PDF (live, 18 Oct 2026)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
     },
     {
       "id": "un-armistice-israel-jordan-1949",
@@ -7742,6 +9975,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "un-mediator-1948-a648",
+      "type": "document",
+      "title": "Progress Report of the United Nations Mediator on Palestine (A/648)",
+      "publisher": "United Nations General Assembly",
+      "year": 1948,
+      "url": "https://web.archive.org/web/20120609143305/http://domino.un.org/unispal.nsf/9a798adbf322aff38525617b006d88d7/ab14d4aafc4e1bb985256204004f55fa",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full document (UNISPAL copy via Wayback Machine), Part Three (assistance to refugees)."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
       "id": "un-news-2803-vote",
       "type": "web",
       "title": "UN Security Council authorizes temporary international force for Gaza",
@@ -7776,6 +10025,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "un-s-1996-337",
+      "type": "document",
+      "title": "Letter dated 7 May 1996 from the Secretary-General to the President of the Security Council (report of the Military Adviser on the shelling of the UNIFIL compound at Qana, 18 April 1996)",
+      "publisher": "United Nations",
+      "year": 1996,
+      "url": "https://documents.un.org/api/symbol/access?s=S/1996/337&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 18 Oct 2026): the Secretary-General's letter and Maj.-Gen. Franklin van Kappen's report and addendum."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "un-s-8158-1967",
       "type": "document",
       "authors": [
@@ -7790,6 +10055,86 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the OCR text of the PDF, paragraphs 51 and 58-64 ('Villages in the Latrun area') and 72. Report of the Special Representative (Gussing) dated 2 October 1967; it records both the Israeli officials' statements and the displaced villagers' accounts."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "un-s-res-101-1953",
+      "type": "document",
+      "title": "Security Council resolution 101 (1953) of 24 November 1953 [Qibya]",
+      "publisher": "United Nations",
+      "year": 1953,
+      "url": "https://documents.un.org/api/symbol/access?s=S/RES/101(1953)&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 18 Oct 2026)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-res-106-1955",
+      "type": "document",
+      "title": "Security Council resolution 106 (1955) of 29 March 1955 [Gaza]",
+      "publisher": "United Nations",
+      "year": 1955,
+      "url": "https://documents.un.org/api/symbol/access?s=S/RES/106(1955)&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 18 Oct 2026); the scan's OCR text is imperfect, quotes were checked against the readable parts."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-res-228-1966",
+      "type": "document",
+      "title": "Security Council resolution 228 (1966) of 25 November 1966 [Samu]",
+      "publisher": "United Nations",
+      "year": 1966,
+      "url": "https://documents.un.org/api/symbol/access?s=S/RES/228(1966)&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 18 Oct 2026)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-res-425-1978",
+      "type": "document",
+      "title": "Security Council resolution 425 (1978) of 19 March 1978 (with resolutions 426 and 427 in the same PDF)",
+      "publisher": "United Nations",
+      "year": 1978,
+      "url": "https://documents.un.org/api/symbol/access?s=S/RES/425(1978)&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 18 Oct 2026)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-sg-1967-s8158",
+      "type": "document",
+      "title": "Report of the Secretary-General under General Assembly resolution 2252 (ES-V) and Security Council resolution 237 (1967) (S/8158; A/6797)",
+      "publisher": "United Nations",
+      "year": 1967,
+      "url": "https://documents.un.org/api/symbol/access?s=A/6797&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full scanned report (UN ODS): paras. 14, 40-50, 159, 190 and Annex II (Jordanian aide-memoire)."
       },
       "kind": "un",
       "institution_country": "US"
@@ -7830,6 +10175,22 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "unccp-1950-a1367",
+      "type": "document",
+      "title": "General Progress Report and Supplementary Report of the United Nations Conciliation Commission for Palestine, covering the period from 11 December 1949 to 23 October 1950 (A/1367/Rev.1)",
+      "publisher": "United Nations General Assembly",
+      "year": 1950,
+      "url": "https://web.archive.org/web/20110822123836/http://unispal.un.org/unispal.nsf/b792301807650d6685256cef0073cb80/93037e3b939746de8525610200567883?OpenDocument",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full document (UNISPAL copy via Wayback Machine); Technical Committee report, paras. 7-17."
+      },
+      "kind": "un",
+      "institution_country": "US"
     },
     {
       "id": "unef1-background",
@@ -8099,6 +10460,116 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "unrwa-1951-a1905",
+      "type": "document",
+      "title": "Assistance to Palestine Refugees: Report of the Director of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (A/1905)",
+      "publisher": "United Nations General Assembly",
+      "year": 1951,
+      "url": "https://web.archive.org/web/20140407095842/http://domino.un.org/unispal.nsf/181c4bf00c44e5fd85256cef0073c426/8d26108af518ce7e052565a6006e8948",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full document (UNISPAL copy via Wayback Machine), paras. 16-20."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "unrwa-1991-a-46-13",
+      "type": "document",
+      "title": "Report of the Commissioner-General of UNRWA, 1 July 1990-30 June 1991 (A/46/13)",
+      "publisher": "United Nations",
+      "year": 1991,
+      "url": "https://documents.un.org/api/symbol/access?s=A/46/13&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the scanned report: Advisory Commission statement and paras. 2-3."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "unrwa-1992-a-47-13",
+      "type": "document",
+      "title": "Report of the Commissioner-General of UNRWA, 1 July 1991-30 June 1992 (A/47/13)",
+      "publisher": "United Nations",
+      "year": 1992,
+      "url": "https://documents.un.org/api/symbol/access?s=A/47/13&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the scanned report, para. 15."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "unrwa-1998-cited",
+      "type": "document",
+      "title": "UNRWA estimates of Palestinians in Gulf states and Libya (1998)",
+      "publisher": "UNRWA",
+      "year": 1998,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not consulted; quoted in Gottheil 2003 (note 13)."
+      },
+      "kind": "un"
+    },
+    {
+      "id": "unrwa-2022-a-77-13",
+      "type": "document",
+      "title": "Report of the Commissioner-General of UNRWA, 1 January-31 December 2021 (A/77/13)",
+      "publisher": "United Nations",
+      "year": 2022,
+      "url": "https://documents.un.org/api/symbol/access?s=A/77/13&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report: field sections on Gaza, West Bank, Syria, Lebanon and Jordan and para. 88."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "unrwa-2025-a-80-13",
+      "type": "document",
+      "title": "Report of the Commissioner-General of UNRWA, 1 January-31 December 2024 (A/80/13)",
+      "publisher": "United Nations",
+      "year": 2025,
+      "url": "https://documents.un.org/api/symbol/access?s=A/80/13&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report: paras. 16, 28, 31-32."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
+      "id": "unrwa-2025-a-80-13-add1",
+      "type": "document",
+      "title": "UNRWA programme budget 2026-2027 (A/80/13/Add.1)",
+      "publisher": "United Nations",
+      "year": 2025,
+      "url": "https://documents.un.org/api/symbol/access?s=A/80/13/Add.1&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full document; para. 1 gives the registered population."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
       "id": "unsc-res-2803-2025",
       "type": "document",
       "title": "Security Council resolution 2803 (2025) of 17 November 2025",
@@ -8168,6 +10639,22 @@
       "kind": "un",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "us-oh-1967-war",
+      "type": "web",
+      "title": "The 1967 Arab-Israeli War",
+      "container": "Milestones in the History of U.S. Foreign Relations",
+      "publisher": "US Department of State, Office of the Historian",
+      "url": "https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the page (downloaded by an earlier research step and read here)."
+      },
+      "kind": "government",
+      "institution_country": "US"
     },
     {
       "id": "us-proclamation-9683",

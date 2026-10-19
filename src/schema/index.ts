@@ -507,12 +507,20 @@ export const RulersFile = z.strictObject({ $schema: SchemaRef, rulers: z.array(R
 
 // ---------------------------------------------------------------- conflicts
 
-export const AltName = z.strictObject({ text: Localized, used_by: z.string().min(1), sources: z.array(SourceRef) });
+export const AltName = z.strictObject({
+  text: Localized,
+  /** The name in its own language and script, e.g. מלחמת העצמאות or النكبة. */
+  original: z.strictObject({ text: z.string().min(1), lang: LangCode, script: ScriptCode.optional(), translit: z.string().optional() }).optional(),
+  used_by: z.string().min(1),
+  note: z.string().optional(),
+  sources: z.array(SourceRef),
+});
 export const Party = z.union([z.strictObject({ polity: Id }), z.strictObject({ group: Localized })]);
 export const Location = z.strictObject({
   place: Id.optional(),
   coords: z.tuple([z.number(), z.number()]).optional(),
   units: z.array(Id).optional(),
+  coords_source: z.string().optional(),
   description: Localized.optional(),
 });
 
@@ -521,6 +529,11 @@ export const Conflict = z.strictObject({
   name: Localized,
   alt_names: z.array(AltName).optional(),
   kind: z.enum(['war', 'battle', 'siege', 'revolt', 'uprising', 'campaign', 'raid', 'civil-war', 'occupation', 'massacre', 'attack', 'operation']),
+  wikidata: z.string().regex(/^Q\d+$/).optional(),
+  /** 1 = major (always shown), 2 = shown when zoomed in a little, 3 = local. */
+  importance: z.union([z.literal(1), z.literal(2), z.literal(3)]).optional(),
+  /** "textual-tradition": known only from texts such as the Bible, not from independent evidence. */
+  basis: z.enum(['textual-tradition', 'archaeological', 'documentary']).optional(),
   parent: Id.optional(),
   start: HistDate,
   end: HistDate.optional(),
@@ -539,7 +552,7 @@ export const ConflictsFile = z.strictObject({ $schema: SchemaRef, conflicts: z.a
 
 export const Endpoint = z.union([
   z.strictObject({ place: Id }),
-  z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]) }),
+  z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]), coords_source: z.string().optional() }),
 ]);
 
 export const Migration = z.strictObject({
@@ -554,12 +567,19 @@ export const Migration = z.strictObject({
       ]),
     )
     .min(1),
+  /** Other names for the movement, e.g. "Nakba". */
+  alt_names: z.array(Localized).optional(),
   origin: Endpoint,
   destination: Endpoint,
+  /** When people left from or went to several places: all of them (the sources do not split the number between them). */
+  origins: z.array(Endpoint).optional(),
+  destinations: z.array(Endpoint).optional(),
   start: HistDate,
   end: HistDate.optional(),
   numbers: Range.nullable().optional(),
   direction: z.enum(['in', 'out', 'within']),
+  /** "textual-tradition": known only from texts such as the Bible, not from independent evidence. */
+  basis: z.enum(['textual-tradition', 'archaeological', 'documentary']).optional(),
   confidence: Confidence,
   sources: z.array(SourceRef),
   notes: Localized.optional(),
@@ -570,7 +590,8 @@ export const Diaspora = z.strictObject({
   group: z.string().min(1),
   definition: Localized,
   date: HistDate,
-  location: z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]) }),
+  /** coords is null for regional totals that have no single place (e.g. "Arab countries"). */
+  location: z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]).nullable(), coords_source: z.string().optional() }),
   number: Range,
   confidence: Confidence,
   sources: z.array(SourceRef),

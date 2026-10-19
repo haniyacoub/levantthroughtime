@@ -379,9 +379,37 @@
                   ],
                   "additionalProperties": false
                 },
+                "original": {
+                  "type": "object",
+                  "properties": {
+                    "text": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "lang": {
+                      "type": "string",
+                      "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]+)*$"
+                    },
+                    "script": {
+                      "type": "string",
+                      "pattern": "^[A-Z][a-z]{3}$"
+                    },
+                    "translit": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "text",
+                    "lang"
+                  ],
+                  "additionalProperties": false
+                },
                 "used_by": {
                   "type": "string",
                   "minLength": 1
+                },
+                "note": {
+                  "type": "string"
                 },
                 "sources": {
                   "type": "array",

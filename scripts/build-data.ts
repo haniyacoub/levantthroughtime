@@ -305,7 +305,15 @@ function conflictCoords(c: { location?: { place?: string; coords?: [number, numb
 }
 appData.conflicts = appData.conflicts.map((c) => ({ ...c, _coords: conflictCoords(c) }));
 const endpoint = (e: { place: string } | { label: unknown; coords: [number, number] }) => ('place' in e ? placeCoords.get(e.place) ?? null : e.coords);
-appData.migrations = appData.migrations.map((m) => ({ ...m, _from: endpoint(m.origin), _to: endpoint(m.destination) }));
+appData.migrations = appData.migrations.map((m) => {
+  const from = endpoint(m.origin);
+  const to = endpoint(m.destination);
+  // Several origins or destinations: one leg each (the sources don't split the number between them).
+  const legs: [[number, number], [number, number]][] = [];
+  for (const d of m.destinations ?? []) { const p = endpoint(d); if (from && p) legs.push([from, p]); }
+  for (const o of m.origins ?? []) { const p = endpoint(o); if (p && to) legs.push([p, to]); }
+  return { ...m, _from: from, _to: to, ...(legs.length ? { _legs: legs } : {}) };
+});
 
 // Each perspective's time span, from the records it is about (for showing it in the year panel).
 {

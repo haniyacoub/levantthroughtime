@@ -101,3 +101,26 @@ Totals after merging: **438 sources, 150 places.**
 - Late Bronze Age (Amarna) names only where Pleiades has them; the *Tabula Imperii Romani* was not opened directly.
 - Quneitra's 1974 destruction rests on Britannica alone; the Israeli account is not represented.
 - Druze shrine sourcing is thin (Nabi Sabalan rests on one underlying source). The 1967 Protection of Holy Places Law and the Oslo II holy-sites article could not be retrieved.
+
+### Migrations and conflicts (imported 2026-10-19)
+
+| Pass | Covers | Result |
+|---|---|---|
+| Migrations and diaspora | Movements into, out of and within the region from the Bronze Age to 2026, and diaspora snapshots | 73 migrations (32 documented, 27 estimated, 14 contested); 33 diaspora snapshots |
+| Conflicts before 1517 | Wars, battles and sieges from Megiddo (c. 1468 BCE) to the Ottoman conquest | 112 records (90 documented, 13 estimated, 9 contested) |
+| Conflicts 1517–today (first part) | From the Ottoman period to today | 43 records so far |
+
+**Decisions**
+- The research pass classed seven movements as "colonization". They are recorded with the project's neutral category "settlement", and each record says so in its note.
+- Figures published as a single number are stored as `low = high = best`.
+- Second Aliyah: CBS gives 35,000–40,000 and Bachi's sub-periods sum to 34,300, so the range runs from 34,300 to 40,000 with no single best figure.
+- 1948 refugees: the research used Wikidata's single point for Israel (in the Negev) as the origin. Because the origin label names Jaffa, Haifa, Lydda and Ramla first, the arrows start from the centroid of those four places. The five destinations (West Bank, Gaza Strip, Transjordan, Lebanon, Syria) are drawn as equal thin legs, because the sources don't split the number between them.
+- Arrows for "Israel" as a whole are drawn to or from Tel Aviv–Jaffa (display convention, see `data/README.md`).
+- Conflict place ids that are not project places (e.g. Kadesh, Carchemish, the Horns of Hattin, Ain Jalut) were dropped; the coordinates from Wikidata are kept. Six were matched to existing places (Samaria → Samaria-Sebastia, Tel Ashdod → Isdud, Tell es-Safi → Gath, Panias → Banias, Emmaus → Imwas, Shechem → Tell Balata).
+- Casualty fields are empty in every conflict record.
+
+**Gaps**
+- No sourced figures for Palestinians in Chile or the United States; UNRWA's 2024 field totals for Lebanon and the West Bank were not found.
+- No overall total for Aliyah Bet; CBS period totals are used instead.
+- Samaritan revolts carry reign windows rather than the usual years (484, 529, 556), which were not in any source read; 556 is omitted.
+- Dathin, Fahl, Ramla 1105 and Montfort have no record (no source opened).

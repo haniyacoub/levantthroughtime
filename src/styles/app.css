@@ -1231,3 +1231,10 @@ blockquote {
 .names-list .name-orig {
   font-weight: 600;
 }
+.inset-totals {
+  margin: 4px 0 0;
+  padding: 0 6px 4px;
+  list-style: none;
+  font-size: 0.75rem;
+  max-width: 260px;
+}

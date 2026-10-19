@@ -218,19 +218,23 @@ export interface Conflict {
   _coords?: [number, number] | null;
 }
 
-export type Endpoint = { place: string } | { label: LocalizedText; coords: [number, number] };
+export type Endpoint = { place: string } | { label: LocalizedText; coords: [number, number]; coords_source?: string };
 
 export interface Migration {
   id: string;
   name: LocalizedText;
   group: LocalizedText;
   types: string[];
+  alt_names?: LocalizedText[];
   origin: Endpoint;
   destination: Endpoint;
+  origins?: Endpoint[];
+  destinations?: Endpoint[];
   start: HistDate;
   end?: HistDate;
   numbers?: Range | null;
   direction: 'in' | 'out' | 'within';
+  basis?: 'textual-tradition' | 'archaeological' | 'documentary';
   confidence: Confidence;
   sources: SourceRef[];
   notes?: LocalizedText;
@@ -238,6 +242,8 @@ export interface Migration {
   /** Endpoint positions, computed when the data is built. */
   _from?: [number, number] | null;
   _to?: [number, number] | null;
+  /** Every drawn leg [from, to] when there are several origins or destinations. */
+  _legs?: [[number, number], [number, number]][];
 }
 
 export interface Diaspora {
@@ -245,7 +251,8 @@ export interface Diaspora {
   group: string;
   definition: LocalizedText;
   date: HistDate;
-  location: { label: LocalizedText; coords: [number, number] };
+  /** coords is null for regional totals with no single place. */
+  location: { label: LocalizedText; coords: [number, number] | null; coords_source?: string };
   number: Range;
   confidence: Confidence;
   sources: SourceRef[];

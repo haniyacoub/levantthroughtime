@@ -125,6 +125,52 @@
               ]
             }
           },
+          "alt_names": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ar": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "he": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "translation_status": {
+                  "type": "object",
+                  "properties": {
+                    "ar": {
+                      "type": "string",
+                      "enum": [
+                        "original",
+                        "machine-draft",
+                        "reviewed"
+                      ]
+                    },
+                    "he": {
+                      "type": "string",
+                      "enum": [
+                        "original",
+                        "machine-draft",
+                        "reviewed"
+                      ]
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "en"
+              ],
+              "additionalProperties": false
+            }
+          },
           "origin": {
             "anyOf": [
               {
@@ -199,6 +245,9 @@
                     "items": false,
                     "minItems": 2,
                     "maxItems": 2
+                  },
+                  "coords_source": {
+                    "type": "string"
                   }
                 },
                 "required": [
@@ -283,6 +332,9 @@
                     "items": false,
                     "minItems": 2,
                     "maxItems": 2
+                  },
+                  "coords_source": {
+                    "type": "string"
                   }
                 },
                 "required": [
@@ -292,6 +344,186 @@
                 "additionalProperties": false
               }
             ]
+          },
+          "origins": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "place": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                    }
+                  },
+                  "required": [
+                    "place"
+                  ],
+                  "additionalProperties": false
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "label": {
+                      "type": "object",
+                      "properties": {
+                        "en": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "ar": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "he": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "translation_status": {
+                          "type": "object",
+                          "properties": {
+                            "ar": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            },
+                            "he": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "en"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "coords": {
+                      "type": "array",
+                      "prefixItems": [
+                        {
+                          "type": "number"
+                        },
+                        {
+                          "type": "number"
+                        }
+                      ],
+                      "items": false,
+                      "minItems": 2,
+                      "maxItems": 2
+                    },
+                    "coords_source": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "label",
+                    "coords"
+                  ],
+                  "additionalProperties": false
+                }
+              ]
+            }
+          },
+          "destinations": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "place": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                    }
+                  },
+                  "required": [
+                    "place"
+                  ],
+                  "additionalProperties": false
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "label": {
+                      "type": "object",
+                      "properties": {
+                        "en": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "ar": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "he": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "translation_status": {
+                          "type": "object",
+                          "properties": {
+                            "ar": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            },
+                            "he": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "en"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "coords": {
+                      "type": "array",
+                      "prefixItems": [
+                        {
+                          "type": "number"
+                        },
+                        {
+                          "type": "number"
+                        }
+                      ],
+                      "items": false,
+                      "minItems": 2,
+                      "maxItems": 2
+                    },
+                    "coords_source": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "label",
+                    "coords"
+                  ],
+                  "additionalProperties": false
+                }
+              ]
+            }
           },
           "start": {
             "type": "object",
@@ -445,6 +677,14 @@
               "in",
               "out",
               "within"
+            ]
+          },
+          "basis": {
+            "type": "string",
+            "enum": [
+              "textual-tradition",
+              "archaeological",
+              "documentary"
             ]
           },
           "confidence": {
@@ -738,18 +978,28 @@
                 "additionalProperties": false
               },
               "coords": {
-                "type": "array",
-                "prefixItems": [
+                "anyOf": [
                   {
-                    "type": "number"
+                    "type": "array",
+                    "prefixItems": [
+                      {
+                        "type": "number"
+                      },
+                      {
+                        "type": "number"
+                      }
+                    ],
+                    "items": false,
+                    "minItems": 2,
+                    "maxItems": 2
                   },
                   {
-                    "type": "number"
+                    "type": "null"
                   }
-                ],
-                "items": false,
-                "minItems": 2,
-                "maxItems": 2
+                ]
+              },
+              "coords_source": {
+                "type": "string"
               }
             },
             "required": [

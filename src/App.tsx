@@ -10,6 +10,8 @@ import { SourceDialog } from './panels/Sources';
 import { RulerBands } from './timeline/RulerBands';
 import { StoriesDialog, StoryCard } from './stories/StoryMode';
 import { mapRegistry } from './map/registry';
+// Perspectives cards are also used by the year panel, so the page is not split out.
+import { PerspectivesPage } from './panels/Perspectives';
 import { DEFAULT_LAYERS, LAYER_KEYS, type LayerKey } from './state/store';
 import { useStore } from './state/store';
 import { readUrl, writeUrl } from './state/url';
@@ -18,7 +20,6 @@ import { EraScale } from './time/eraScale';
 import { startT } from './time/years';
 
 const Bibliography = lazy(() => import('./panels/Bibliography').then((m) => ({ default: m.Bibliography })));
-const PerspectivesPage = lazy(() => import('./panels/Perspectives').then((m) => ({ default: m.PerspectivesPage })));
 const PopulationChart = lazy(() => import('./charts/PopulationChart').then((m) => ({ default: m.PopulationChart })));
 const CompareView = lazy(() => import('./map/CompareView').then((m) => ({ default: m.CompareView })));
 const About = lazy(() => import('./panels/About').then((m) => ({ default: m.About })));

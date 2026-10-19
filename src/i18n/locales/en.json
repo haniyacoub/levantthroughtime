@@ -272,7 +272,8 @@
   },
   "inset": {
     "title": "World view",
-    "label": "World map: diaspora communities (circles, sized by number) and flows into or out of the region at the selected date. Purple: Jewish; orange: Palestinian."
+    "label": "World map: diaspora communities (circles, sized by number) and flows into or out of the region at the selected date. Purple: Jewish; orange: Palestinian.",
+    "empty": "Nothing outside the region at this date"
   },
   "story": {
     "title": "Guided tours",

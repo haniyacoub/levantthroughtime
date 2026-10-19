@@ -28,7 +28,7 @@ const SAMPLES = 48;
 /** Width in pixels on a square-root scale of the number of people (unknown numbers get a thin line). */
 function widthFor(n: number | null): number {
   if (n === null) return 2;
-  return Math.max(2, Math.min(18, 1.5 + Math.sqrt(n) / 40));
+  return Math.max(2, Math.min(11, 1.5 + Math.sqrt(n) / 70));
 }
 
 function value(r: Range | null | undefined, which: 'mid' | 'high'): number | null {
@@ -55,7 +55,10 @@ function curve(a: [number, number], b: [number, number]): [number, number][] {
   return out;
 }
 
-type MigrationWithCoords = Migration & { _from?: [number, number] | null; _to?: [number, number] | null };
+/** Line width for flows split over several origins or destinations (not scaled by number). */
+const MULTI_LEG_WIDTH = 3;
+
+type MigrationWithCoords = Migration & { _from?: [number, number] | null; _to?: [number, number] | null; _legs?: [[number, number], [number, number]][] };
 
 /** Migrations under way at time t, as drawable flows. */
 export function flowsAt(migrations: MigrationWithCoords[], t: number): FlowDatum[] {
@@ -63,16 +66,21 @@ export function flowsAt(migrations: MigrationWithCoords[], t: number): FlowDatum
     .filter((m) => {
       const a = startT(m.start);
       const b = m.end ? endT(m.end) : a + 1;
-      return t >= a - 1e-9 && t < b && m._from && m._to;
+      return t >= a - 1e-9 && t < b && ((m._from && m._to) || m._legs?.length);
     })
-    .map((m) => ({
-      id: m.id,
-      path: curve(m._from!, m._to!),
-      timestamps: Array.from({ length: SAMPLES + 1 }, (_, i) => i / SAMPLES),
-      width: widthFor(value(m.numbers, 'mid')),
-      halo: widthFor(value(m.numbers, 'high')) + 4,
-      color: DIRECTION_COLOR[m.direction],
-    }));
+    .flatMap((m) => {
+      const legs = m._legs?.length ? m._legs : [[m._from!, m._to!] as [[number, number], [number, number]]];
+      // With several legs the number is not split between them, so each leg gets the same thin line.
+      const many = legs.length > 1;
+      return legs.map(([a, b], i) => ({
+        id: many ? `${m.id}#${i}` : m.id,
+        path: curve(a, b),
+        timestamps: Array.from({ length: SAMPLES + 1 }, (_, k) => k / SAMPLES),
+        width: many ? MULTI_LEG_WIDTH : widthFor(value(m.numbers, 'mid')),
+        halo: many ? MULTI_LEG_WIDTH + 2 : widthFor(value(m.numbers, 'high')) + 2,
+        color: DIRECTION_COLOR[m.direction],
+      }));
+    });
 }
 
 /** deck.gl overlay that animates migration flows along their paths. */
