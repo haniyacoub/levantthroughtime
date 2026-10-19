@@ -62,11 +62,24 @@ out('## 1. Source balance by era');
 out();
 out('How many citations in each era come from each kind of source and from institutions in each country. A topic that relies on one side only should get sources from the other side and from independent scholarship.');
 out();
-const byEra = new Map<string, { kinds: Map<string, number>; countries: Map<string, number>; n: number }>();
+/**
+ * Which side's institutions a source comes from. Country alone misleads: the Institute for Palestine
+ * Studies is based in Beirut, and some Israeli publishers are registered abroad. Publisher, container
+ * and title are matched against named institutions; anything else counts by institutional country.
+ */
+const PS_INST = /Institute for Palestine Studies|PalQuest|Palestine Liberation Organi[sz]ation|Negotiations Affairs Department|PASSIA|Palestinian Central Bureau|PCBS|WAFA|BADIL|Al-Haq|Birzeit|Palestine National Council|Applied Research Institute|ARIJ|Central Elections Commission - Palestine|Palestinian Academic Society/i;
+const IL_INST = /Israel(i)? (Central Bureau|Ministry|Defense Forces|Antiquities|Nature and Parks|State|Prime Minister)|Knesset|Israel Exploration Society|Yad (Izhak|Yitzhak) Ben-Zvi|Hebrew University|Tel Aviv University|Bar-Ilan|Haifa University|University of Haifa|Ben-Gurion University|Times of Israel|Haaretz|Jerusalem Post|Jerusalem Center for Public Affairs|IDF|Israel Ministry/i;
+const sideOf = (s: { institution_country?: string; publisher?: string; container?: string; title?: string }): 'IL' | 'PS' | null => {
+  const text = `${s.publisher ?? ''} | ${s.container ?? ''} | ${s.title ?? ''}`;
+  if (s.institution_country === 'PS' || PS_INST.test(text)) return 'PS';
+  if (s.institution_country === 'IL' || IL_INST.test(text)) return 'IL';
+  return null;
+};
+const byEra = new Map<string, { kinds: Map<string, number>; countries: Map<string, number>; sides: { IL: number; PS: number }; n: number }>();
 for (const r of recs) {
   if (r.t === null) continue;
   const era = eraOf(r.t);
-  const e = byEra.get(era) ?? { kinds: new Map(), countries: new Map(), n: 0 };
+  const e = byEra.get(era) ?? { kinds: new Map(), countries: new Map(), sides: { IL: 0, PS: 0 }, n: 0 };
   for (const ref of r.refs) {
     const s = sources.get(ref.ref);
     if (!s) continue;
@@ -74,20 +87,24 @@ for (const r of recs) {
     e.kinds.set(s.kind, (e.kinds.get(s.kind) ?? 0) + 1);
     const c = s.institution_country ?? '?';
     e.countries.set(c, (e.countries.get(c) ?? 0) + 1);
+    const side = sideOf(s);
+    if (side) e.sides[side]++;
   }
   byEra.set(era, e);
 }
 const top = (m: Map<string, number>, n: number) => [...m.entries()].sort((a, c) => c[1] - a[1]).slice(0, 6).map(([k, v]) => `${k} ${Math.round((100 * v) / n)}%`).join(', ');
-out('| Era | Citations | By kind | By institutional country | Flag |');
-out('|---|---|---|---|---|');
+out('"Israeli / Palestinian institutions" counts citations of sources from each side\'s institutions (by country, or by named institution, e.g. the Institute for Palestine Studies in Beirut). The flag marks modern eras where one side has more than three times the other.');
+out();
+out('| Era | Citations | By kind | By institutional country | Israeli / Palestinian institutions | Flag |');
+out('|---|---|---|---|---|---|');
 for (const e of eras) {
   const d = byEra.get(e.label);
   if (!d || !d.n) continue;
-  const il = d.countries.get('IL') ?? 0;
-  const ps = d.countries.get('PS') ?? 0;
+  const il = d.sides.IL;
+  const ps = d.sides.PS;
   const flag = e.t0 >= 1900 && (il > 3 * Math.max(1, ps) || ps > 3 * Math.max(1, il)) ? `⚠ IL ${il} / PS ${ps}` : '';
   const ref = (d.kinds.get('reference') ?? 0) / d.n > 0.5 ? ' ⚠ mostly reference works' : '';
-  out(`| ${e.label} | ${d.n} | ${top(d.kinds, d.n)} | ${top(d.countries, d.n)} | ${flag}${ref} |`);
+  out(`| ${e.label} | ${d.n} | ${top(d.kinds, d.n)} | ${top(d.countries, d.n)} | ${il} / ${ps} | ${flag}${ref} |`);
 }
 out();
 
