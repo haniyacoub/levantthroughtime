@@ -2558,7 +2558,90 @@
       ],
       "notes": {
         "en": "Modern Israeli city that grew from the Arab town of al-Majdal, about 2 km east-north-east of ancient Ascalon (recorded separately as ashkelon-ancient)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 11,
+            "day": 4,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Israel Defense Forces, Operation Yoav",
+          "note": "Al-Majdal, the Arab town on the site of modern Ashkelon, was captured at the end of Operation Yoav. Benny Morris's chapter abstract (Oxford) says the IDF shelled and bombed the town and took it on 4 November 1948. It adds that the Egyptian garrison and much of the population had already fled on 30 October. Zochrot gives 04/11/1948. The All That Remains entry for Bayt Jibrin (PalQuest) says Israeli units \"sacked\" al-Majdal on 4-5 November. The IPS Nakba overview says Israeli forces occupied al-Majdal in November 1948 and expelled its residents to the Gaza Strip. Accounts differ on flight before the capture versus expulsion, so the record is marked contested. Part of the population stayed until 1950 (see the next event), so ended_settlement is false here.",
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "morris-1990-majdal",
+              "locator": "chapter abstract",
+              "quote": "the IDF repeatedly shelled and bombed the town and, on 4 November, conquered it"
+            },
+            {
+              "ref": "morris-1990-majdal",
+              "locator": "chapter abstract",
+              "quote": "Majdal's Egyptian army garrison, and much of the population, had fled the town already on 30 October."
+            },
+            {
+              "ref": "zochrot-al-majdal-gaza",
+              "locator": "info box",
+              "quote": "Occupation date: 04/11/1948"
+            },
+            {
+              "ref": "palquest-place-bayt-jibrin",
+              "locator": "Occupation and depopulation (All That Remains entry for Bayt Jibrin)",
+              "quote": "In Gaza sub-district, Israeli units sacked the city of al-Majdal along with a number of satellite villages on 4-5 November 1948."
+            },
+            {
+              "ref": "palquest-charif-nakba",
+              "locator": "third stage of the exodus",
+              "quote": "In November 1948, Israeli forces occupied the southern cities of Isdud and al-Majdal, expelled their residents to the Gaza Strip"
+            }
+          ]
+        },
+        {
+          "date": {
+            "year": 1950,
+            "precision": "year"
+          },
+          "what": "residents transferred",
+          "by": "Israeli authorities",
+          "note": "Residents who had stayed in al-Majdal after its capture were removed to the Egyptian-held Gaza Strip in 1950. The year is given in the title of Benny Morris's chapter (Israeli historian; only the title and abstract were read) and in a 1999 editorial by BADIL (Palestinian refugee-rights NGO). BADIL says they were evicted \"by a combination of Israeli military force and bureaucratic measures\" and that most found shelter in Gaza. Morris's title calls it a \"transfer\". The sources read do not give a month or day for 1950, so precision is year. The UNRWA report of 1951 (UN) mentions a work scheme in Gaza for weavers from Majdal, which is consistent with their presence there as refugees. ended_settlement: Britannica says the site was resettled with Jewish immigrants and renamed Migdal Gad (later Migdal Ashkelon), and that the planned modern city was built west of the Arab town from 1950. The place record also covers the town that exists on or beside the site today, so it is not marked as a former place.",
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "morris-1990-majdal",
+              "locator": "chapter title (Oxford Academic)",
+              "quote": "The Transfer of Al Majdal's Remainng Arabs to Gaza, 1950"
+            },
+            {
+              "ref": "badil-1999-al-majdal-editorial",
+              "locator": "editorial",
+              "quote": "not all of the people of Majdal Jad, as it was known, had vacated their town during the war of 1948."
+            },
+            {
+              "ref": "badil-1999-al-majdal-editorial",
+              "locator": "editorial",
+              "quote": "More than 1,500 residents remained steadfast until 1950, when they were finally evicted by a combination of Israeli military force and bureaucratic measures"
+            },
+            {
+              "ref": "badil-1999-al-majdal-editorial",
+              "locator": "editorial",
+              "quote": "Thus, Palestinians of Majdal Jad were turned into refugees, most of them finding shelter in the nearby Gaza Strip."
+            },
+            {
+              "ref": "unrwa-1951-a1905",
+              "locator": "para. 57",
+              "quote": "Another works scheme for skilled refugees was set up in Gaza for the weavers from Majdal."
+            },
+            {
+              "ref": "britannica-ashkelon",
+              "locator": "paragraph on the modern city",
+              "quote": "After the Arab-Israeli war of 1948–49, the Arabs left the site, which was resettled with Jewish immigrants and renamed Migdal Gad, later Migdal Ashkelon."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ashdod",
@@ -2964,7 +3047,55 @@
       ],
       "notes": {
         "en": "Ancient Philistine Ashdod (Tel Ashdod) and the Arab village of Isdud; the modern Israeli city of Ashdod (founded 1956) is recorded separately. The village's fate in 1948 is not covered by the sources used for this record."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 10,
+            "day": 28,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Israeli forces, final stage of Operation Yoav",
+          "note": "Isdud was on the Egyptian-Israeli front line from late May 1948. Benny Morris (as cited in the All That Remains entry) says an Israeli attack on 2-3 June led thousands of residents to flee. The town was taken at the end of Operation Yoav, after the Egyptian army withdrew south. The All That Remains entry (PalQuest) says most remaining civilians left with the Egyptian columns before the Israeli entry on 28 October 1948. Zochrot gives the same date. Morris (same entry) says about 300 who stayed were expelled south almost at once. An Israeli army communiqué of that day, cited in the same entry, said Israeli forces entered at the request of a local delegation. The IPS Nakba overview says Israeli forces occupied Isdud \"in November 1948\" and expelled its residents to the Gaza Strip. The record is contested because the sources disagree on flight versus expulsion and on the month. ended_settlement: the All That Remains entry (PalQuest) says most houses were destroyed and Israeli settlements were founded on village lands from 1949.",
+          "ended_settlement": true,
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "palquest-place-isdud",
+              "locator": "Occupation and depopulation",
+              "quote": "The bulk of the remaining civilian population fled with the retreating Egyptian columns before the Israeli entry on 28 October."
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "they were almost immediately expelled southwards.",
+              "via": "palquest-place-isdud"
+            },
+            {
+              "ref": "palquest-place-isdud",
+              "locator": "Occupation and depopulation (Israeli army communiqué)",
+              "quote": "an Israeli army communiqué issued on the date of occupation claimed that Israeli forces had entered Isdud at the request of a delegation from the local Arab population."
+            },
+            {
+              "ref": "zochrot-isdud",
+              "locator": "info box",
+              "quote": "Occupation date: 28/10/1948"
+            },
+            {
+              "ref": "palquest-charif-nakba",
+              "locator": "third stage of the exodus",
+              "quote": "In November 1948, Israeli forces occupied the southern cities of Isdud and al-Majdal, expelled their residents to the Gaza Strip"
+            },
+            {
+              "ref": "palquest-place-isdud",
+              "locator": "The Village Today",
+              "quote": "Most of the houses have been destroyed; the rubble is covered with grasses and thorns."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "jaffa",
@@ -5523,7 +5654,81 @@
       ],
       "notes": {
         "en": "Arab coastal village next to Tel Dor. Events of 1948 at the village are not recorded here because no source covering them could be consulted in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 5,
+            "day": 23,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Alexandroni Brigade, 33rd Battalion (Haganah / Israeli forces)",
+          "note": "Al-Tantura was attacked on the night of 22-23 May 1948 by the 33rd Battalion of the Alexandroni Brigade and fell after a short battle. The History of the War of Independence (official Israeli military history, cited in the All That Remains entry), NPR and Zochrot (occupation date 23/05/1948) agree on this. Benny Morris (as quoted in the entry) writes that the commanders wanted the village emptied and at least some residents were expelled. The entry says many were moved to nearby al-Furaydis, and by summer most had been expelled from Israeli-held territory. What happened after the fighting is disputed. The IPS Nakba overview (Maher Charif) says Israeli forces carried out a massacre on 22 May. NPR reports that some survivor accounts, gathered by Israeli and Palestinian researchers, describe men being separated from the others and killed and buried in a mass grave. NPR also reports that some Israeli veterans deny any massacre or mass grave. The Israeli historian Yoav Gelber rejects the 1998 thesis by Teddy Katz behind the allegation as resting mainly on oral evidence. Benny Morris (per NPR, citing his Haaretz op-ed) says some Israeli historians conclude there were war crimes but not a massacre. A libel suit by veterans, Katz's retraction and later re-assertion, and the university's downgrading of his degree are also reported by NPR. The record is therefore contested. No casualty figures are given here. ended_settlement: the All That Remains entry (PalQuest) says kibbutz Nachsholim was founded on village lands in June 1948 and the site became an Israeli recreational area.",
+          "ended_settlement": true,
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "idf-history-war-of-independence",
+              "locator": "as cited in the All That Remains entry, \"Occupation and depopulation\"",
+              "quote": "The History of the War of Independence confirms that the decision was implemented in al-Tantura two weeks later, on the night of 22-23 May.",
+              "via": "palquest-place-al-tantura"
+            },
+            {
+              "ref": "palquest-place-al-tantura",
+              "locator": "Occupation and depopulation",
+              "quote": "The Haganah's Thirty-Third Battalion (the Third Battalion of the Alexandroni Brigade) attacked the village, which fell after a brief battle."
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "[I]t is clear that the Alexandroni commanders wanted the village emptied of its inhabitants and that at least some of them were expelled.",
+              "via": "palquest-place-al-tantura"
+            },
+            {
+              "ref": "zochrot-al-tantura",
+              "locator": "info box",
+              "quote": "Occupation date: 23/05/1948"
+            },
+            {
+              "ref": "palquest-charif-nakba",
+              "locator": "second stage of the exodus (May-July 1948)",
+              "quote": "On 22 May, Israeli forces carried out a massacre in the village of al-Tantura"
+            },
+            {
+              "ref": "npr-2023-tantura",
+              "locator": "report by Linah Mohammad",
+              "quote": "It was the night of the 22 of May, 1948, when the Alexandroni Brigade's 33rd Battalion of what would become the Israeli military entered Tantura."
+            },
+            {
+              "ref": "npr-2023-tantura",
+              "locator": "report by Linah Mohammad",
+              "quote": "Some survivor accounts collected by Israeli and Palestinian researchers over the years say the troops separated the men from the other villagers and killed them, burying them in a mass grave."
+            },
+            {
+              "ref": "npr-2023-tantura",
+              "locator": "report by Linah Mohammad",
+              "quote": "Some Israeli soldiers who were there deny that any massacre took place or that there was a mass grave in Tantura."
+            },
+            {
+              "ref": "npr-2023-tantura",
+              "locator": "interview with Yoav Gelber (University of Haifa)",
+              "quote": "Teddy's thesis was about 90% or so based on oral evidence, which is good for folklore but not for history."
+            },
+            {
+              "ref": "npr-2023-tantura",
+              "locator": "report citing Benny Morris's op-ed in Haaretz",
+              "quote": "He said some Israeli historians have concluded there were, quote, \"small war crimes committed but not a massacre.\""
+            },
+            {
+              "ref": "palquest-place-al-tantura",
+              "locator": "Israeli Settlements on Village Lands",
+              "quote": "In June of 1948, Zionist immigrants from the United States and Poland established the kibbutz of Nachsholim, northeast of the site, on village lands."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "megiddo",
@@ -6439,7 +6644,86 @@
       ],
       "notes": {
         "en": "The Arab village of Saffuriya occupied the site in the Mandate period (1931 census); its fate in 1948 is not covered by the sources used in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 7,
+            "day": 16,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Israeli forces, Operation Dekel (an armoured battalion of the 7th 'Sheva'' Brigade and Carmeli Brigade infantry, per the All That Remains entry)",
+          "note": "Saffuriya was taken overnight on 15-16 July 1948, just before the capture of Nazareth. Zochrot gives 16/07/1948. The History of the War of Independence (official Israeli military history, quoted in the All That Remains entry) says the village \"fell with almost no fighting\" because of surprise. Benny Morris (same entry) says it put up strong resistance. Villagers interviewed by the Palestinian historian Nafez Nazzal (same entry) describe a night air raid, scattered fighting by the village militia, and flight north and east by morning. The accounts conflict, so the record is marked contested. Most residents left at this point; the remaining and returning residents were removed later (see the next event). ended_settlement is false here; see the next event.",
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "idf-history-war-of-independence",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "The Arabs of Saffuriyya were always known in the Galilee as fierce warriors, but the village fell with almost no fighting because of the extreme surprise.",
+              "via": "palquest-place-saffuriyya"
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "put up strong resistance to the IDF [Israel Defense Forces] advance",
+              "via": "palquest-place-saffuriyya"
+            },
+            {
+              "ref": "palquest-place-saffuriyya",
+              "locator": "Occupation and depopulation (villagers interviewed by Nafez Nazzal)",
+              "quote": "The battle was soon over, and by morning many of those hiding out in orchards decided to leave, going northwards or eastwards."
+            },
+            {
+              "ref": "zochrot-saffuriyya",
+              "locator": "info box",
+              "quote": "Occupation date: 16/07/1948"
+            }
+          ]
+        },
+        {
+          "date": {
+            "year": 1949,
+            "month": 1,
+            "precision": "month"
+          },
+          "what": "residents expelled",
+          "by": "Israeli authorities (per Benny Morris, as cited in the All That Remains entry)",
+          "note": "According to Benny Morris (as cited in the All That Remains entry), residents still in Saffuriya were expelled in September 1948. Hundreds came back over the following months. In January 1949 they were put on trucks and moved to the Arab villages of 'Illut, al-Rayna and Kafr Kanna, and from February 1949 village land was handed to Jewish settlements. The villagers' own account (same entry) says only a few people stayed and only a few managed to return for belongings. The sources differ on how many stayed or came back, so the record is marked contested. ended_settlement: the All That Remains entry (PalQuest) says the moshav Tzippori was founded on village land in 1949 and most of the site is now a Jewish National Fund pine forest.",
+          "ended_settlement": true,
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as cited in the All That Remains entry",
+              "quote": "Consequently, Morris states, the inhabitants were loaded on trucks in January 1949 and expelled again to the Arab communities of Illut, al-Rayna, and Kafr Kanna.",
+              "via": "palquest-place-saffuriyya"
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as cited in the All That Remains entry",
+              "quote": "Morris states that those remaining were expelled in September 1948, but 'hundreds infiltrated back' in the following months",
+              "via": "palquest-place-saffuriyya"
+            },
+            {
+              "ref": "palquest-place-saffuriyya",
+              "locator": "Occupation and depopulation (villagers' account)",
+              "quote": "Villagers reported that a small number of people remained in the village and that only a few managed to return for belongings."
+            },
+            {
+              "ref": "palquest-place-saffuriyya",
+              "locator": "Israeli Settlements on Village Lands",
+              "quote": "The agricultural settlement of Tzippori, located 3 km southeast of the village site, was founded on village land in 1949."
+            },
+            {
+              "ref": "palquest-place-saffuriyya",
+              "locator": "The Village Today",
+              "quote": "Otherwise the site is covered by a pine forest planted by the Jewish National Fund"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "safed",
@@ -14554,7 +14838,55 @@
       ],
       "notes": {
         "en": "The Arab town of Yibna and the modern Israeli city of Yavne (Wikidata Q167677) adjoin; coordinates are those of Yibna. The fate of Yibna in 1948 is not covered by the sources used in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 6,
+            "day": 4,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Giv'ati Brigade (Israeli forces), Operation Barak",
+          "note": "Yibna was taken in the second stage of Operation Barak. Benny Morris (as quoted in the All That Remains entry) dates the capture to 4 June 1948. The History of the War of Independence (official Israeli military history, same entry) puts it on the night of 4-5 June. Zochrot gives 04/06/1948 and names the Giv'ati Brigade. The accounts differ on how the village emptied. The official history says the inhabitants abandoned it out of fear and it fell without fighting. Morris says troops found it deserted except for some elderly people, who were sent away. A United Press report (same entry) describes shelling and civilians fleeing toward the coast. The record is marked contested because of this difference; the date differs by at most one day. ended_settlement: the All That Remains entry (PalQuest) lists Israeli localities built on village lands, including Yavne, Kefar ha-Nagid and Beyt Gamli'el in 1949. The place record also covers the town that exists on or beside the site today, so it is not marked as a former place.",
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "After mortaring and a brief fight, the units entered the village, which they found deserted ‘save for some old Arab men and women,’ who were sent packing.",
+              "via": "palquest-place-yibna"
+            },
+            {
+              "ref": "idf-history-war-of-independence",
+              "locator": "as quoted in the All That Remains entry",
+              "quote": "its inhabitants abandoned it and, on the night of [June] 4-5, it fell into our hands without fighting.",
+              "via": "palquest-place-yibna"
+            },
+            {
+              "ref": "palquest-place-yibna",
+              "locator": "Occupation and depopulation (United Press report)",
+              "quote": "'At sunrise,' the account added, 'civilians could be seen fleeing from the town toward the coast without interference from the Israeli attackers.'"
+            },
+            {
+              "ref": "zochrot-yibna",
+              "locator": "info box",
+              "quote": "Occupation date: 04/06/1948"
+            },
+            {
+              "ref": "zochrot-yibna",
+              "locator": "info box",
+              "quote": "Occupying unit: Giva'ati"
+            },
+            {
+              "ref": "palquest-place-yibna",
+              "locator": "Israeli Settlements on Village Lands",
+              "quote": "Three more settlements, Yavne (126142), Kefar ha-Nagid (126143), and Beyt Gamli'el (127140), were established on village lands in 1949."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "tel-aviv",
@@ -14940,16 +15272,50 @@
             "month": 1,
             "precision": "month"
           },
-          "by": "not stated in the source",
-          "note": "Depopulated (Britannica: \"one of the first Arab towns to be depopulated\"); this entry records depopulation, not physical destruction.",
+          "what": "depopulated",
+          "by": "Jewish forces: Haganah raids, with Irgun and Lehi (Stern Gang) attacks, per the sources below",
+          "note": "Lifta, on the western edge of Jerusalem, was emptied between late December 1947 and January 1948, before the Arab armies entered the war. Britannica dates the depopulation to January 1948. The Institute for Palestine Studies (IPS) overview says the village was emptied \"by 11 January 1948\" and calls it ethnic cleansing. The All That Remains entry (PalQuest/Zochrot) quotes the History of the Haganah (Israeli), which says Arabs were evicted from neighbouring Romema and Shaykh Badr and \"afterwards\" also vacated Lifta. The same entry cites the Palestinian historian Aref al-Aref: most residents left after an armed attack on a village coffeehouse on 28 December 1947, and the rest soon after. It also cites Benny Morris (Israeli historian): Haganah demolitions were meant to drive residents out of their homes. Accounts therefore differ on whether residents left on their own or were driven out, so the record is marked contested; the month is not in dispute. Zochrot gives the occupation date as 01/01/1948, which looks like a month-level placeholder. ended_settlement: the All That Remains entry (PalQuest) says most remaining houses are deserted, a few were taken over by Jewish families, and Mey Niftoach and Giv'at Sha'ul were built on village lands.",
+          "ended_settlement": true,
+          "confidence": "contested",
           "sources": [
             {
               "ref": "britannica-1948-war",
-              "locator": "Nakba section",
+              "locator": "section on the civil war (1947-48)",
               "quote": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated."
+            },
+            {
+              "ref": "palquest-charif-nakba",
+              "locator": "first stage of the exodus",
+              "quote": "Lifta was completely cleansed of its 2,500 Palestinian residents by 11 January 1948."
+            },
+            {
+              "ref": "toldot-hahagana",
+              "locator": "as quoted in the All That Remains entry, \"Occupation and depopulation\"",
+              "quote": "Securing the western exit of the city [of Jerusalem] entailed the eviction of Arabs from Romema and Shaykh Badr. Afterwards, the Arabs also vacated Lifta.",
+              "via": "palquest-place-lifta"
+            },
+            {
+              "ref": "palquest-place-lifta",
+              "locator": "Occupation and depopulation (citing Aref al-Aref)",
+              "quote": "Al-Aref writes that most of the residents of Lifta left after the attack on the coffeehouse and the rest evacuated soon afterwards."
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as summarised in the All That Remains entry",
+              "quote": "Morris adds that the purpose of these demolitions was to turn the Palestinian residents out of their homes; to a large extent, this goal was achieved.",
+              "via": "palquest-place-lifta"
+            },
+            {
+              "ref": "palquest-place-lifta",
+              "locator": "The Village Today",
+              "quote": "Most of the houses remaining on the site are deserted, although some have been restored for the use of Jewish families."
+            },
+            {
+              "ref": "zochrot-lifta",
+              "locator": "info box",
+              "quote": "Occupation date: 01/01/1948"
             }
-          ],
-          "ended_settlement": true
+          ]
         }
       ],
       "names": [
@@ -15435,7 +15801,51 @@
       ],
       "notes": {
         "en": "The kibbutz and national park of Beit Guvrin are nearby; the fate of the village in 1948 is not covered by the sources used in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 10,
+            "day": 27,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Israeli forces, Operation Yoav (Zochrot names the Giv'ati Brigade)",
+          "note": "Bayt Jibrin, on the Egyptian front line, was bombed from mid-October 1948 during Operation Yoav. Benny Morris (as cited in the All That Remains entry) calls the result a \"panic flight\". The sources agree it was taken on 27 October 1948. Morris dates a first attack to the night of 24 October; the History of the Haganah (Israeli) dates the first raid to 26 October and the capture to the next day. Zochrot gives 27/10/1948. The IPS Dawayima article says that on 27 October Egyptian troops withdrew towards Hebron and the people of Bayt Jibrin left with them. All sources describe flight, not expulsion, so the record is marked documented. ended_settlement: the All That Remains entry (PalQuest) says Beyt Guvrin was founded on village lands north of the site in 1949. Zochrot and PalQuest say some remaining houses are lived in by Jews and others are deserted.",
+          "ended_settlement": true,
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "morris-1987-birth",
+              "locator": "as cited in the All That Remains entry",
+              "quote": "Morris records an initial attack on Bayt Jibrin during the night of 24 October 1948, but states that it was not occupied until 27 October.",
+              "via": "palquest-place-bayt-jibrin"
+            },
+            {
+              "ref": "toldot-hahagana",
+              "locator": "as cited in the All That Remains entry",
+              "quote": "The History of the Haganah puts the initial raid on 26 October and confirms that it was occupied the following day.",
+              "via": "palquest-place-bayt-jibrin"
+            },
+            {
+              "ref": "palquest-dawayima",
+              "locator": "background to the al-Dawayima events",
+              "quote": "On 27 October 1948, the Egyptian troops withdrew from Bayt Jibrin to Hebron and the people of the villages of Bayt Jibrin and al-Qubayba withdrew along with them"
+            },
+            {
+              "ref": "zochrot-bayt-jibrin",
+              "locator": "info box",
+              "quote": "Occupation date: 27/10/1948"
+            },
+            {
+              "ref": "palquest-place-bayt-jibrin",
+              "locator": "Israeli Settlements on Village Lands",
+              "quote": "The settlement of Beyt Guvrin was established on village lands in 1949, north of the village site."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "al-lajjun",
@@ -15647,7 +16057,60 @@
       ],
       "notes": {
         "en": "Fate of the village in 1948 not covered by the sources used in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 5,
+            "day": 30,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Golani Brigade (Israeli forces)",
+          "note": "The All That Remains entry (PalQuest) says the official Israeli account puts the capture \"shortly before 1 June 1948\", and a New York Times report gives dawn on 30 May. Zochrot gives 30/05/1948 and says Golani took it in Operation Gideon. Earlier New York Times reports had said the village was taken in mid-April 1948 during the fighting around Mishmar ha-'Emeq. The ALA commander Fawzi al-Qawuqji reported fighting near al-Lajjun again on 6-8 May, which suggests it was not held then; the entry leaves the point open. Because the sources disagree on the date, the record is marked contested (30 May is the date most of them give). How the residents left is not documented in these sources; the entry says only that Golani's Fourth Battalion \"possibly\" expelled them directly. ended_settlement: Zochrot says Kibbutz Megiddo was built on some of the village lands, and both Zochrot and PalQuest say only the mosque, a mill, the health centre and a few partly destroyed houses remain.",
+          "ended_settlement": true,
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "idf-history-war-of-independence",
+              "locator": "the \"official Israeli account\" as cited in the All That Remains entry",
+              "quote": "The official Israeli account states that al-Lajjun was occupied shortly before 1 June 1948",
+              "via": "palquest-place-al-lajjun"
+            },
+            {
+              "ref": "palquest-place-al-lajjun",
+              "locator": "Occupation and depopulation (citing the New York Times)",
+              "quote": "including al-Lajjun, which was entered at dawn on 30 May, according to a press report in the New York Times"
+            },
+            {
+              "ref": "palquest-place-al-lajjun",
+              "locator": "Occupation and depopulation",
+              "quote": "Earlier New York Times reports had stated that the village was first attacked and captured in mid-April, during the battle around the settlement of Mishmar ha-'Emeq."
+            },
+            {
+              "ref": "palquest-place-al-lajjun",
+              "locator": "Occupation and depopulation",
+              "quote": "It is possible that the Golani's Fourth Battalion expelled the villagers directly, in keeping with their practice during their previous operation in the Baysan Valley."
+            },
+            {
+              "ref": "zochrot-al-lajjun",
+              "locator": "narrative",
+              "quote": "On May 30, 1948, in the first stage of the 1948 Arab-Israeli War, Lajjun was captured by Israel's Golani Brigade in Operation Gideon."
+            },
+            {
+              "ref": "zochrot-al-lajjun",
+              "locator": "narrative",
+              "quote": "Kibbutz Megiddo was built on some of Lajjun's village lands."
+            },
+            {
+              "ref": "palquest-place-al-lajjun",
+              "locator": "The Village Today",
+              "quote": "Only the white stone mosque, one village mill, the village health center, and a few partially destroyed houses remain on the site."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "zirin-jezreel",
@@ -15799,7 +16262,56 @@
       ],
       "notes": {
         "en": "Palmer notes that Zer'in corresponds to Hebrew Jezreel. Fate of the village in 1948 not covered by the sources used in this pass (gap)."
-      }
+      },
+      "destroyed": [
+        {
+          "date": {
+            "year": 1948,
+            "month": 5,
+            "day": 28,
+            "precision": "day"
+          },
+          "what": "captured",
+          "by": "Golani Brigade (Israeli forces): Fourth Battalion per the History of the War of Independence as cited by Khalidi; Zochrot names the Thirteenth Battalion",
+          "note": "Zir'in, held by the Arab Liberation Army (ALA) and overlooking the Jezreel valley, was taken on 28 May 1948. The date is the same in the History of the War of Independence (official Israeli military history, as cited in the All That Remains entry), in an Israeli army statement reported by the New York Times (same entry), and in Zochrot's info box. The sources differ on the battalion (Fourth or Thirteenth Battalion of Golani). Earlier attacks in March and April 1948 failed. Benny Morris (as quoted in the entry) cites a Palmach order of 19 April 1948 that most houses be destroyed once the village was captured. Zochrot adds that women and children had left weeks before the capture. Arab counter-attacks (30 May, 10 and 19 July) failed, and the armistice line was drawn just south of the village. ended_settlement: the All That Remains entry (PalQuest) says Israel founded Yizre'el on the north-western side of the site in 1948 and only one building remains.",
+          "ended_settlement": true,
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "idf-history-war-of-independence",
+              "locator": "as cited in the All That Remains entry, \"Occupation and depopulation\"",
+              "quote": "Zir'in was occupied on 28 May 1948 by the Fourth Battalion of the Golani Brigade, the same unit that later occupied nearby Nuris.",
+              "via": "palquest-place-zirin"
+            },
+            {
+              "ref": "zochrot-zirin",
+              "locator": "narrative",
+              "quote": "the village was captured on May 28 by the Thirteenth Battalion of the Golani Brigade"
+            },
+            {
+              "ref": "zochrot-zirin",
+              "locator": "narrative",
+              "quote": "Women and children fled weeks prior to its capture"
+            },
+            {
+              "ref": "morris-1987-birth",
+              "locator": "Palmach order of 19 April 1948, as quoted in the All That Remains entry",
+              "quote": "With the capture of Zir'in, most of the village's houses must be destroyed while [some houses] should be left intact for accommodation and defense.",
+              "via": "palquest-place-zirin"
+            },
+            {
+              "ref": "palquest-place-zirin",
+              "locator": "Israeli Settlements on Village Lands",
+              "quote": "Israel established the settlement of Yizre'el on the northwestern side of the village site in 1948."
+            },
+            {
+              "ref": "palquest-place-zirin",
+              "locator": "The Village Today",
+              "quote": "Only one (dilapidated) building remains."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "arsuf",

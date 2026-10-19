@@ -84,7 +84,7 @@
         {
           "ref": "britannica-israel-kingdom",
           "locator": "introduction",
-          "quote": "scholars date the united monarchy of ancient Israel to about 1020–922 bce, although others doubt the historicity of the polity because of differences in the interpretation of certain texts."
+          "quote": "scholars date the united monarchy of ancient Israel to about 1020–922 bce, although others doubt the historicity of the polity because of differences in the interpretation of certain texts. The northern kingdom lasted from 922"
         },
         {
           "ref": "mazar-2021-beth-shean",
@@ -232,7 +232,7 @@
         {
           "ref": "britannica-hasmonean-dynasty",
           "locator": "introduction",
-          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea; the offices were hereditary"
+          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea"
         }
       ],
       "duration_s": 14
@@ -319,7 +319,7 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "locator": "Roman Palestine",
-          "quote": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem."
+          "quote": "In 132 the emperor Hadrian decided to build a Roman colony, Aelia Capitolina, on the site of Jerusalem. The announcement of his plan"
         },
         {
           "ref": "britannica-palestine-roman-to-fatimid",
@@ -410,8 +410,8 @@
         },
         {
           "ref": "britannica-palestine-roman-to-fatimid",
-          "locator": "The rise of Islam",
-          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691"
+          "locator": "section 'The rise of Islam'",
+          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691 on the site of the Temple of Solomon"
         },
         {
           "ref": "britannica-dome-of-the-rock",
@@ -567,8 +567,8 @@
         },
         {
           "ref": "abu-manneh-1999-sanjak-jerusalem",
-          "locator": "p. 39",
-          "quote": "in the summer of 1872, Nedim separated the sanjak of Jerusalem from the jurisdiction of Damascus, under which it had been for centuries, and constituted it as an independent sanjak subject directly to Istanbul."
+          "locator": "text and n. 23",
+          "quote": "in the summer of 1872, Nedim separated the sanjak of Jerusalem from the jurisdiction o f Damascus, under which it had been for centuries, and constituted it as an independent sanjak subject directly to Istanbul"
         },
         {
           "ref": "abu-manneh-1999-sanjak-jerusalem",
@@ -665,7 +665,7 @@
       "sources": [
         {
           "ref": "britannica-1948-war",
-          "locator": "Nakba section",
+          "locator": "section on the civil war (1947-48)",
           "quote": "In January 1948 Lifta, a Palestinian Arab village in west Jerusalem, became one of the first Arab towns to be depopulated."
         },
         {
@@ -774,6 +774,7 @@
         },
         {
           "ref": "algemeiner-2024-07-19-netanyahu",
+          "locator": "Netanyahu post on X",
           "quote": "The Jewish people are not occupiers in their own land, including in our eternal capital Jerusalem nor in Judea and Samaria, our historical homeland"
         },
         {

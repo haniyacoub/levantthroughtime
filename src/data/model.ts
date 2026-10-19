@@ -157,7 +157,7 @@ export interface Place {
   founded?: HistDate | null;
   founded_note?: string;
   founded_sources?: SourceRef[];
-  destroyed?: { date: HistDate; by?: string; note?: string; ended_settlement?: boolean; sources: SourceRef[] }[];
+  destroyed?: { date: HistDate; what?: string; by?: string; note?: string; ended_settlement?: boolean; confidence?: Confidence; sources: SourceRef[] }[];
   names?: PlaceName[];
   holy_site?: { traditions: Partial<Record<string, { significance: LocalizedText; denominations?: string[]; sources: SourceRef[] }>> };
   custody?: { summary: LocalizedText; confidence: Confidence; sources: SourceRef[] };

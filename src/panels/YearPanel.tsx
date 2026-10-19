@@ -8,6 +8,7 @@ import { formatDate, type Lang } from '../time/format';
 import { endT, startT } from '../time/years';
 import { formatRange } from './format';
 import { SourceButton } from './Sources';
+import { Badge } from './Badge';
 import { PerspectiveCard } from './Perspectives';
 import { deadSeaLevelAt, levelValue, seaLevelAt } from '../data/landscape';
 
@@ -29,12 +30,6 @@ function eventWindow(t: number): number {
   if (t < 1500) return 15;
   if (t < 1900) return 3;
   return 1;
-}
-
-function Badge({ confidence }: { confidence: string }) {
-  const { t } = useTranslation();
-  if (confidence === 'documented') return null;
-  return <span className={`badge conf-${confidence}`}>{t(`confidence.${confidence}`)}</span>;
 }
 
 function PopulationFigure({ p, lang, areaName }: { p: PopulationPoint; lang: Lang; areaName: string }) {

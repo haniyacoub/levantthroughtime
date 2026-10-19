@@ -218,7 +218,14 @@
     "custody": "الوصاية اليوم",
     "custodyContested": "تصف الأطراف هذه الترتيبات بشكل مختلف؛ وكل موقف موثّق بمصدره.",
     "unesco": "التراث العالمي لليونسكو: «{{name}}» (أُدرج {{year}})",
-    "inDanger": "على قائمة التراث العالمي المعرّض للخطر منذ {{year}}"
+    "inDanger": "على قائمة التراث العالمي المعرّض للخطر منذ {{year}}",
+    "what": {
+      "captured": "احتُلّت",
+      "depopulated": "هُجّرت من سكانها",
+      "residents expelled": "طُرد السكان",
+      "residents transferred": "نُقل السكان",
+      "residents fled": "فرّ السكان"
+    }
   },
   "langRole": {
     "vernacular": "لغة محكية",

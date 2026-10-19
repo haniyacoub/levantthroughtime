@@ -23,6 +23,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "abdeen-2026-peasants-revolt-1834",
+      "type": "document",
+      "authors": [
+        "Abdeen, Mu'tazz Abd al-Jawad (عابدين، معتز عبد الجواد)"
+      ],
+      "title": "ثورة الفلاحين الفلسطينيين ضد الحكم المصري عام 1834م (Palestinian Peasants Revolt Against Egyptian Rule in 1834) [thesis record]",
+      "publisher": "Hebron University",
+      "year": 2026,
+      "url": "http://dspace.hebron.edu:8080/xmlui/handle/123456789/1630",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the repository record (title, author, abstract), not the thesis itself."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
+    },
+    {
       "id": "absentees-property-law-1950",
       "type": "document",
       "title": "Absentees' Property Law, 5710-1950",
@@ -349,6 +368,74 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "aljazeera-2023-10-07-al-aqsa-flood",
+      "type": "web",
+      "title": "Israel retaliation kills ... Palestinians after Hamas operation [live report, 7 Oct 2023]",
+      "container": "Al Jazeera",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2023,
+      "url": "https://www.aljazeera.com/news/2023/10/7/sirens-warn-of-rockets-launched-towards-israel-from-gaza-news-reports",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the report (live page, 19 Oct 2026), incl. Mohammed Deif's and Saleh al-Arouri's statements naming the operation."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
+      "id": "aljazeera-2024-01-21-hamas-narrative",
+      "type": "web",
+      "title": "Hamas says October 7 attack was a 'necessary step', admits to 'some faults'",
+      "container": "Al Jazeera",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2024,
+      "url": "https://www.aljazeera.com/news/2024/1/21/hamas-says-october-7-attack-was-a-necessary-step-admits-to-some-faults",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full report (downloaded by an earlier research step and read here) summarising and quoting Hamas's document 'Our Narrative ... Operation Al-Aqsa Flood'."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
+      "id": "aljazeera-2025-01-19-ceasefire",
+      "type": "web",
+      "title": "Israel-Hamas ceasefire takes effect in Gaza",
+      "container": "Al Jazeera",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2025,
+      "url": "https://www.aljazeera.com/news/2025/1/19/israel-hamas-ceasefire-takes-effect-in-gaza",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the report (live page, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
+      "id": "aljazeera-2025-01-23-iron-wall",
+      "type": "web",
+      "title": "What is Israel's deadly 'Iron Wall' military raid in the West Bank's Jenin?",
+      "container": "Al Jazeera",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2025,
+      "url": "https://www.aljazeera.com/news/2025/1/23/what-is-israels-deadly-iron-wall-military-raid-in-the-west-banks-jenin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the explainer (live page, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "QA"
     },
     {
       "id": "aljazeera-2025-01-25-exchange",
@@ -731,6 +818,40 @@
       "kind": "government",
       "institution_country": "AU",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ap-2023-11-israel-ground-operation",
+      "type": "web",
+      "title": "Israel's ground operation in Gaza: what we know [AP explainer, early November 2023]",
+      "container": "Associated Press",
+      "publisher": "Associated Press",
+      "year": 2023,
+      "url": "https://apnews.com/article/israel-gaza-ground-operation-invasion-6ba5bf06f81c315252a9e53735f3de47",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 19 Oct 2026); exact publication date not recorded from the page."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "ap-2025-03-18-gaza-strikes",
+      "type": "web",
+      "title": "Israeli strikes across Gaza shatter ceasefire [AP report, 18 March 2025]",
+      "container": "Associated Press",
+      "publisher": "Associated Press",
+      "year": 2025,
+      "url": "https://apnews.com/article/gaza-airstrikes-ceasefire-israel-palestinians-war-34d2d174417e3f7caf341406bc761c0e",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "US"
     },
     {
       "id": "ap-2025-09-21-recognition",
@@ -1171,6 +1292,38 @@
       "institution_country": "GB"
     },
     {
+      "id": "awm-battle-of-romani",
+      "type": "web",
+      "title": "Battle of Romani",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84339",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
+      "id": "awm-battles-of-gaza",
+      "type": "web",
+      "title": "Battles of Gaza",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84346",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the three battles of Gaza, 1917."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
       "id": "awm-beersheba",
       "type": "web",
       "title": "Charge at Beersheba",
@@ -1185,6 +1338,86 @@
       "kind": "government",
       "institution_country": "AU",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "awm-es-salt-raid",
+      "type": "web",
+      "title": "Es Salt Raid",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84824",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
+      "id": "awm-first-amman-raid",
+      "type": "web",
+      "title": "First Amman Raid",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84825",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
+      "id": "awm-jerusalem-honour",
+      "type": "web",
+      "title": "Jerusalem [battle honour]",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84501",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates of the operations."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
+      "id": "awm-megiddo-honour",
+      "type": "web",
+      "title": "Megiddo [battle honour]",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84540",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates."
+      },
+      "kind": "government",
+      "institution_country": "AU"
+    },
+    {
+      "id": "awm-sinai-campaign",
+      "type": "web",
+      "title": "Sinai Campaign",
+      "container": "Australian War Memorial",
+      "publisher": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/collection/E84837",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description."
+      },
+      "kind": "government",
+      "institution_country": "AU"
     },
     {
       "id": "bachi-1977",
@@ -1205,6 +1438,26 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "badil-1999-al-majdal-editorial",
+      "type": "article",
+      "authors": [
+        "BADIL Resource Center"
+      ],
+      "title": "From the editor",
+      "container": "al-Majdal (magazine), Issue No. 2 (Summer 1999): Reversing Ethnic Cleansing in Palestine",
+      "publisher": "BADIL Resource Center for Palestinian Residency and Refugee Rights",
+      "year": 1999,
+      "url": "https://badil.org/publications/al-majdal/issues/items/113.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the full editorial, which explains why the magazine is named after al-Majdal."
+      },
+      "kind": "ngo",
+      "institution_country": "PS"
     },
     {
       "id": "bagg-2011-assyrer-westland",
@@ -1848,6 +2101,22 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "britannica-12-day-war",
+      "type": "web",
+      "title": "12-Day War",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/12-Day-War",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the article (live page, 18 Oct 2026): Quick Facts, introduction (incl. the February 2026 renewal of conflict) and background sections. AI-generated answers not used."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-1948-war",
       "type": "web",
       "title": "1948 Arab-Israeli War",
@@ -1862,6 +2131,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-2006-lebanon-war",
+      "type": "web",
+      "title": "2006 Lebanon War",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/event/2006-Lebanon-War",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read via Internet Archive snapshot 20261001134811: Quick Facts and article text (AI-generated answers not used)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-abbas",
@@ -4112,6 +4397,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-hezbollah",
+      "type": "web",
+      "title": "Hezbollah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Hezbollah",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 18-19 Oct 2026; last updated 18 Oct 2026), incl. the section 'Israel-Hezbollah War (2023- )'. AI-generated 'Top Questions' answers not used."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-hezekiah",
       "type": "web",
       "title": "Hezekiah",
@@ -5661,6 +5962,22 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-palestine-crusades-ottoman",
+      "type": "web",
+      "title": "Palestine: The Crusades (incl. 'Ottoman rule')",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/The-Crusades",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Ottoman rule'."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-palestine-first-intifada",
       "type": "web",
       "title": "Palestine: The first intifada",
@@ -5807,6 +6124,22 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-palestine-split-administration",
+      "type": "web",
+      "title": "Palestine: Split administration of the West Bank and the Gaza Strip",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Palestine/Split-administration-of-the-West-Bank-and-the-Gaza-Strip",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the section (live page, 18 Oct 2026)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-palestine-term",
@@ -8095,6 +8428,26 @@
       "institution_country": "PS"
     },
     {
+      "id": "cfr-2025-06-13-israel-strikes-iran",
+      "type": "web",
+      "authors": [
+        "Roy, Diana"
+      ],
+      "title": "Day One: Israel's Strikes on Iran - What to Know",
+      "container": "Council on Foreign Relations",
+      "publisher": "Council on Foreign Relations",
+      "year": 2025,
+      "url": "https://www.cfr.org/articles/day-one-israels-strikes-iran-what-know",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article of 13 June 2025 (live page, 19 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "channel4-netzarim-2025",
       "type": "web",
       "title": "Gaza ceasefire: Israeli troops withdraw from Netzarim corridor",
@@ -9594,6 +9947,81 @@
       "institution_country": "US"
     },
     {
+      "id": "guardian-2025-01-21-iron-wall",
+      "type": "web",
+      "authors": [
+        "Tondo, Lorenzo"
+      ],
+      "title": "Israeli security forces launch operation in West Bank city of Jenin",
+      "container": "The Guardian",
+      "publisher": "Guardian News & Media",
+      "year": 2025,
+      "url": "https://www.theguardian.com/world/2025/jan/21/israeli-security-forces-launch-operation-in-west-bank-city-of-jenin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "GB"
+    },
+    {
+      "id": "guardian-2025-08-08-gaza-city-plan",
+      "type": "web",
+      "title": "Israel's plan to take over Gaza City approved [live updates, 8 Aug 2025]",
+      "container": "The Guardian",
+      "publisher": "Guardian News & Media",
+      "year": 2025,
+      "url": "https://www.theguardian.com/world/live/2025/aug/08/israel-gaza-city-take-over-netanyahu-plan-approved-live-updates-latest-news",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the live page (live, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "GB"
+    },
+    {
+      "id": "guardian-2025-10-09-ceasefire",
+      "type": "web",
+      "authors": [
+        "Christou, William",
+        "Burke, Jason"
+      ],
+      "title": "First phase of ceasefire deal to end war in Gaza agreed by Israel and Hamas",
+      "container": "The Guardian",
+      "publisher": "Guardian News & Media",
+      "year": 2025,
+      "url": "https://www.theguardian.com/world/2025/oct/09/first-phase-of-ceasefire-deal-to-end-war-in-gaza-agreed-by-israel-and-hamas",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 19 Oct 2026)."
+      },
+      "kind": "press",
+      "institution_country": "GB"
+    },
+    {
+      "id": "guardian-2026-07-08-iran-ceasefire",
+      "type": "web",
+      "title": "US-Iran ceasefire collapses as strikes resume over strait of Hormuz [8 July 2026]",
+      "container": "The Guardian",
+      "publisher": "Guardian News & Media",
+      "year": 2026,
+      "url": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (live page, 19 Oct 2026). Title paraphrased from the page."
+      },
+      "kind": "press",
+      "institution_country": "GB"
+    },
+    {
       "id": "guillerm-2024-pangaea-dead-sea-levels",
       "type": "dataset",
       "authors": [
@@ -9697,6 +10125,23 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "hamas-2024-our-narrative",
+      "type": "document",
+      "authors": [
+        "Hamas (Islamic Resistance Movement)"
+      ],
+      "title": "Our Narrative ... Operation Al-Aqsa Flood",
+      "year": 2024,
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-18",
+        "note": "Not opened; read as quoted by Al Jazeera (aljazeera-2024-01-21-hamas-narrative). Hamas was the de facto authority in Gaza when it was issued; 'government' used as the nearest kind."
+      },
+      "kind": "government",
+      "institution_country": "PS"
     },
     {
       "id": "hansard-1931-02-13-macdonald-letter",
@@ -9892,6 +10337,23 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "hrw-2024-07-17-october-7",
+      "type": "web",
+      "title": "Israel/Palestine: Hamas-Led Groups Committed Numerous War Crimes (news release for the report 'I Can't Erase All the Blood from My Mind': Palestinian Armed Groups' October 7 Assault on Israel)",
+      "container": "Human Rights Watch",
+      "publisher": "Human Rights Watch",
+      "year": 2024,
+      "url": "https://www.hrw.org/report/2024/07/17/i-cant-erase-all-blood-my-mind/palestinian-armed-groups-october-7-assault-israel",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the report page and summary (live, 19 Oct 2026)."
+      },
+      "kind": "ngo",
+      "institution_country": "US"
     },
     {
       "id": "hrw-2026-10-10",
@@ -10110,6 +10572,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "icj-case-192-page",
+      "type": "web",
+      "title": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel): case page",
+      "publisher": "International Court of Justice",
+      "year": 2026,
+      "url": "https://www.icj-cij.org/case/192",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the case page as downloaded on 18 Oct 2026 by an earlier research step (latest entries: press release 2026/24 of 22 Sept 2026; Order of 21 May 2026 fixing time-limits for the Reply and Rejoinder)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "icj-pr-2024-6",
       "type": "document",
       "title": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel): The Court indicates provisional measures (Press release No. 2024/6, 26 January 2024)",
@@ -10125,6 +10603,24 @@
       "kind": "un",
       "institution_country": "NL",
       "publisher": "International Court of Justice"
+    },
+    {
+      "id": "idf-history-war-of-independence",
+      "type": "book",
+      "authors": [
+        "Israel Defense Forces, General Staff, History Branch"
+      ],
+      "title": "Toldot Milhemet ha-Komemiyut (History of the War of Independence)",
+      "publisher": "Ma'arakhot",
+      "year": 1959,
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened. Official Israeli military history, read only as quoted or paraphrased in the All That Remains entries (PalQuest place pages / Zochrot), which call it \"The History of the War of Independence\". Publisher and year are the usual catalogue details and are not given on the pages read."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "idmc-grid-2024",
@@ -10383,6 +10879,22 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "israel-mfa-2015-gaza-conflict-report",
+      "type": "document",
+      "title": "The 2014 Gaza Conflict (7 July - 26 August 2014): Factual and Legal Aspects",
+      "publisher": "State of Israel (Ministry of Foreign Affairs)",
+      "year": 2015,
+      "url": "https://mfa.gov.il/ProtectiveEdge/Documents/2014GazaConflictFullReport.pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF via Internet Archive snapshot 20240922014620: executive summary and chapter II background (paras. 1, 35, 49-51)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "israel-mfa-arab-israeli-wars",
@@ -11347,6 +11859,22 @@
       "institution_country": "JO"
     },
     {
+      "id": "kinghussein-great-arab-revolt",
+      "type": "web",
+      "title": "History: The Great Arab Revolt",
+      "container": "King Hussein Bin Talal (official website)",
+      "publisher": "Hashemite Kingdom of Jordan, Royal Hashemite Court",
+      "url": "http://www.kinghussein.gov.jo/his_arabrevolt.html",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the page (live, 19 Oct 2026; same text as an earlier download)."
+      },
+      "kind": "government",
+      "institution_country": "JO"
+    },
+    {
       "id": "kinghussein-his-kings",
       "type": "web",
       "title": "History: The Martyrdom of King Abdullah and The Reign of King Talal",
@@ -12126,6 +12654,22 @@
       "institution_country": "US"
     },
     {
+      "id": "mitchell-report-2001",
+      "type": "document",
+      "title": "Sharm el-Sheikh Fact-Finding Committee Report (the Mitchell Report), 30 April 2001",
+      "publisher": "Sharm el-Sheikh Fact-Finding Committee (chaired by George J. Mitchell); text hosted by Yale Law School, Avalon Project",
+      "year": 2001,
+      "url": "https://avalon.law.yale.edu/21st_century/mitchell_plan.asp",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the Avalon Project text (downloaded by an earlier research step and read here): sections on what happened and why, incl. the positions of the Government of Israel (GOI) and the PLO."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
       "id": "morris-1987-birth",
       "type": "book",
       "authors": [
@@ -12142,6 +12686,26 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "morris-1990-majdal",
+      "type": "book",
+      "authors": [
+        "Morris, Benny"
+      ],
+      "title": "The Transfer of Al Majdal's Remaining Arabs to Gaza, 1950",
+      "container": "1948 and After: Israel and the Palestinians",
+      "publisher": "Oxford University Press (Clarendon Press); online edn Oxford Academic 2023",
+      "year": 1990,
+      "url": "https://academic.oup.com/book/51761/chapter/420473048",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read only the chapter title and abstract on Oxford Academic. The site blocks direct download, so the page was read with a fetch tool that returned short verbatim fragments of the abstract (kept in research/vill_dl/oup_majdal_fragments.txt). The chapter text is paywalled and was not read; the abstract covers 1948 only, and the 1950 transfer is supported here only by the chapter title (which the page spells \"Remainng\")."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "morris-2004",
@@ -12331,6 +12895,38 @@
       "institution_country": "PS"
     },
     {
+      "id": "napoleon-org-campaign-in-egypt",
+      "type": "web",
+      "title": "The Campaign in Egypt",
+      "container": "napoleon.org",
+      "publisher": "Fondation Napoléon",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-campaign-in-egypt/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
+      "id": "napoleon-org-egyptian-campaign-timeline",
+      "type": "web",
+      "title": "The Egyptian Campaign [chronology]",
+      "container": "napoleon.org",
+      "publisher": "Fondation Napoléon",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/timelines/the-egyptian-campaign/",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
       "id": "national-2026-09-22-unifil",
       "type": "web",
       "title": "Unifil counts eight fortified bases among 30 Israeli military positions in south Lebanon",
@@ -12435,6 +13031,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "npr-2023-tantura",
+      "type": "article",
+      "authors": [
+        "Mohammad, Linah"
+      ],
+      "title": "An Israeli documentary challenges a narrative of what happened in one Palestinian village in 1948",
+      "container": "All Things Considered (broadcast transcript, 27 January 2023)",
+      "publisher": "NPR",
+      "year": 2023,
+      "url": "https://www.npr.org/transcripts/1152140555",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the full transcript. It reports Palestinian survivor accounts, Israeli veterans' denials, and comments by the Israeli historians Yoav Gelber (University of Haifa) and Benny Morris (citing his op-ed in Haaretz) on the 2022 documentary \"Tantura\"."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "npr-2026-02-16-land-registration",
       "type": "web",
       "title": "Israel will begin contentious West Bank land registration",
@@ -12526,6 +13142,22 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "nzhistory-palestine-overview",
+      "type": "web",
+      "title": "Sinai and Palestine campaign: Overview",
+      "container": "NZHistory",
+      "publisher": "Ministry for Culture and Heritage (New Zealand)",
+      "url": "https://nzhistory.govt.nz/war/palestine-campaign/overview",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here."
+      },
+      "kind": "government",
+      "institution_country": "NZ"
     },
     {
       "id": "ocha-area-c",
@@ -12640,6 +13272,23 @@
       },
       "kind": "un",
       "institution_country": "CH"
+    },
+    {
+      "id": "ohchr-2025-09-16-coi-genocide",
+      "type": "web",
+      "title": "Israel has committed genocide in the Gaza Strip, UN Commission finds",
+      "container": "OHCHR press releases",
+      "publisher": "Office of the UN High Commissioner for Human Rights",
+      "year": 2025,
+      "url": "https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the press release of 16 Sept 2025 (live page, 19 Oct 2026)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
     },
     {
       "id": "ohchr-2025-a-hrc-58-73",
@@ -13505,6 +14154,86 @@
       "institution_country": "PS"
     },
     {
+      "id": "palquest-gaza-2006-2017",
+      "type": "web",
+      "title": "XII. Gaza Strip Separated and Assaulted, 2006-2017",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/31125/xii-gaza-strip-separated-and-assaulted",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full period overview (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-gaza-war-2008-2009",
+      "type": "web",
+      "title": "The War on Gaza, 2008-2009: Israel's Strategic Quandary",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/29896/war-gaza-2008%E2%80%932009",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-gaza-war-2014",
+      "type": "web",
+      "title": "The 2014 Gaza War: An Asymmetric Draw",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/30097/2014-gaza-war",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026); it also covers the 2012 conflict."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-gaza-war-2021",
+      "type": "web",
+      "title": "The May 2021 Gaza War",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/33682/may-2021-gaza-war",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-great-march-of-return",
+      "type": "web",
+      "title": "The Great March of Return, 2018-2019: Peaceful Demonstrations, Bloody Crackdown",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/40200/great-march-return-2018-2019",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "palquest-great-rebellion",
       "type": "web",
       "title": "Great Palestinian Rebellion, 1936-1939: A Popular Uprising Facing a Ruthless Repression",
@@ -13623,6 +14352,22 @@
       "institution_country": "LB"
     },
     {
+      "id": "palquest-october-2000-events",
+      "type": "web",
+      "title": "The October 2000 Events in Israel: The Violent Repression of a Palestinian Solidarity Outburst",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/14336/october-2000-events-israel",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "palquest-palestine-war-1947-1950",
       "type": "web",
       "title": "IV. The Palestine War and the Nakba, 1947-1950",
@@ -13658,6 +14403,134 @@
       "institution_country": "PS"
     },
     {
+      "id": "palquest-place-al-lajjun",
+      "type": "web",
+      "title": "al-Lajjun",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/16833/al-lajjun",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-al-tantura",
+      "type": "web",
+      "title": "al-Tantura",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/16895/al-tantura",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-bayt-jibrin",
+      "type": "web",
+      "title": "Bayt Jibrin",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/16940/bayt-jibrin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-isdud",
+      "type": "web",
+      "title": "Isdud",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/17014/isdud",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-lifta",
+      "type": "web",
+      "title": "Lifta",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/17085/lifta",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-saffuriyya",
+      "type": "web",
+      "title": "Saffuriyya",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/17130/saffuriyya",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-yibna",
+      "type": "web",
+      "title": "Yibna",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/17181/yibna",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-place-zirin",
+      "type": "web",
+      "title": "Zir'in",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Places",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/place/17189/zirin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "palquest-sabra-shatila",
       "type": "web",
       "title": "Sabra and Shatila, 16-18 September 1982: A Massacre by Proxy",
@@ -13669,6 +14542,22 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the full highlight (live page, 18 Oct 2026), incl. its summary of the Kahan Commission report."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-second-intifada",
+      "type": "web",
+      "title": "The Second Intifada, 2000-2005: Mounting Confrontation, Shattered Aspirations",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies; Palestinian Museum",
+      "url": "https://www.palquest.org/en/highlight/33567/second-intifada-2000-2005",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the full highlight (live page, 18 Oct 2026)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -14562,6 +15451,28 @@
       "institution_country": "US"
     },
     {
+      "id": "rood-2006-peasants-jerusalem",
+      "type": "article",
+      "authors": [
+        "Rood, Judith Mendelsohn"
+      ],
+      "title": "The Time the Peasants Entered Jerusalem: The revolt against Ibrahim Pasha in the Islamic court sources",
+      "container": "Jerusalem Quarterly",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2006,
+      "issue": 27,
+      "doi": "10.70190/jq.I27.p28",
+      "url": "https://www.palestine-studies.org/en/node/77914",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "runciman-1954-history-crusades-iii",
       "type": "book",
       "authors": [
@@ -15165,6 +16076,38 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-birinci-dunya-savasi",
+      "type": "chapter",
+      "title": "BİRİNCİ DÜNYA SAVAŞI",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "url": "https://islamansiklopedisi.org.tr/birinci-dunya-savasi",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Kanal Harekâtı'. Author not recorded from the page."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-canbirdi-gazali",
+      "type": "chapter",
+      "title": "CANBİRDİ GAZÂLÎ",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "url": "https://islamansiklopedisi.org.tr/canbirdi-gazali",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the battle at Khan Yunis (21 Dec 1516). Author not recorded from the page."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
       "id": "tdv-cemal-pasa",
       "type": "web",
       "authors": [
@@ -15223,6 +16166,22 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the online article (Turkish)."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-ibrahim-pasa",
+      "type": "chapter",
+      "title": "İBRÂHİM PAŞA, Kavalalı",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "url": "https://islamansiklopedisi.org.tr/ibrahim-pasa-kavalali",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the 1831-33 and 1839-40 wars and the 1834 uprisings. Author not recorded from the page."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -15318,6 +16277,22 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-serif-huseyin",
+      "type": "chapter",
+      "title": "ŞERÎF HÜSEYİN",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "url": "https://islamansiklopedisi.org.tr/serif-huseyin",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the Sharif's revolt and the McMahon correspondence. Author not recorded from the page."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
       "id": "tdv-yafa",
       "type": "web",
       "authors": [
@@ -15360,6 +16335,46 @@
       },
       "kind": "reference",
       "institution_country": "TR"
+    },
+    {
+      "id": "toi-2025-10-19-war-of-revival",
+      "type": "web",
+      "authors": [
+        "Berman, Lazar",
+        "Sokol, Sam",
+        "Karmel, Ariela"
+      ],
+      "title": "'War of Revival': Cabinet approves Netanyahu's controversial renaming of Gaza war",
+      "container": "The Times of Israel",
+      "publisher": "The Times of Israel",
+      "year": 2025,
+      "url": "https://www.timesofisrael.com/war-of-revival-cabinet-approves-netanyahus-controversial-renaming-of-gaza-war/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read through WebFetch (19 Oct 2026), which returned the headline and quoted passages from the first part of the article (cabinet vote, critics' statements); the last part of the page was not read."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
+      "id": "toldot-hahagana",
+      "type": "book",
+      "authors": [
+        "Slutsky, Yehuda (ed.)"
+      ],
+      "title": "Sefer Toldot ha-Haganah (History of the Haganah), vol. 3",
+      "publisher": "Am Oved / Zionist Library",
+      "year": 1972,
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened. Semi-official Israeli history of the Haganah, read only as quoted in the All That Remains entries (PalQuest place pages / Zochrot), which call it \"The History of the Haganah\". Editor, volume, publisher and year are the usual catalogue details and are not given on the pages read."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "tribune-india-2004-11-12-fattouh",
@@ -15576,6 +16591,22 @@
       "institution_country": "UN"
     },
     {
+      "id": "un-a-es-10-186",
+      "type": "document",
+      "title": "Report of the Secretary-General prepared pursuant to General Assembly resolution ES-10/10 (events in Jenin and other Palestinian cities, March-May 2002)",
+      "publisher": "United Nations",
+      "year": 2002,
+      "url": "https://documents.un.org/api/symbol/access?s=A/ES-10/186&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 19 Oct 2026): summary and the Jenin section (paras. 48-62)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "un-a-hrc-12-48",
       "type": "document",
       "title": "Human Rights in Palestine and Other Occupied Arab Territories: Report of the United Nations Fact-Finding Mission on the Gaza Conflict (A/HRC/12/48, 25 September 2009)",
@@ -15587,6 +16618,54 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the background chapter (paras. 187-192). The report as a whole was rejected by the Government of Israel; it is cited here only for background dates."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-a-hrc-29-52",
+      "type": "document",
+      "title": "Report of the independent commission of inquiry established pursuant to Human Rights Council resolution S-21/1 (2014 Gaza conflict)",
+      "publisher": "United Nations",
+      "year": 2015,
+      "url": "https://documents.un.org/api/symbol/access?s=A/HRC/29/52&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 19 Oct 2026): introduction and context (paras. 1-30)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-a-hrc-40-74",
+      "type": "document",
+      "title": "Report of the independent international Commission of inquiry on the protests in the Occupied Palestinian Territory",
+      "publisher": "United Nations",
+      "year": 2019,
+      "url": "https://documents.un.org/api/symbol/access?s=A/HRC/40/74&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 19 Oct 2026): methodology, Israeli rules of engagement, legal assessment (paras. 1-51)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-a-hrc-56-26",
+      "type": "document",
+      "title": "Report of the Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel (on 7 October 2023 and Israel's military operations)",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=A/HRC/56/26&l=en&t=pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the PDF (live, 19 Oct 2026): introduction, factual findings on 7 October and conclusions (paras. 1-10, 73-75)."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -15930,6 +17009,40 @@
       "institution_country": "US"
     },
     {
+      "id": "un-news-2024-01-12-israel-icj",
+      "type": "web",
+      "title": "War against Hamas in Gaza is act of self-defence, Israel tells world court",
+      "container": "UN News",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://news.un.org/en/story/2024/01/1145452",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the report of Israel's oral pleadings, 12 Jan 2024 (downloaded by an earlier research step and read here)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-news-2024-01-26-icj-order",
+      "type": "web",
+      "title": "UN world court calls for prevention of genocidal acts in Gaza",
+      "container": "UN News",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://news.un.org/en/story/2024/01/1145937",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the report (downloaded by an earlier research step and read here)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "un-news-2803-vote",
       "type": "web",
       "title": "UN Security Council authorizes temporary international force for Gaza",
@@ -16154,6 +17267,22 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the PDF (live, 18 Oct 2026); the scan's OCR text is imperfect, quotes were checked against the readable parts."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-res-1701-2006",
+      "type": "document",
+      "title": "Security Council resolution 1701 (2006) of 11 August 2006",
+      "publisher": "United Nations",
+      "year": 2006,
+      "url": "https://documents.un.org/api/symbol/access?s=S/RES/1701(2006)&l=en&t=pdf",
+      "accessed": "2026-10-18",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-18",
+        "note": "Read the PDF (live, 19 Oct 2026)."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -17318,6 +18447,102 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "zochrot-al-lajjun",
+      "type": "web",
+      "title": "al-Lajjun",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/53285/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-al-majdal-gaza",
+      "type": "web",
+      "title": "al-Majdal (Gaza)",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49283/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. This page has only the info box (district, 1948 population, occupation date, settlements); no narrative text."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-al-tantura",
+      "type": "web",
+      "title": "al-Tantura",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/55025/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-bayt-jibrin",
+      "type": "web",
+      "title": "Bayt Jibrin",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49055/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-isdud",
+      "type": "web",
+      "title": "Isdud",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/48983/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-lifta",
+      "type": "web",
+      "title": "Lifta",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49239/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "zochrot-sabalan",
       "type": "web",
       "title": "Sabalan",
@@ -17332,6 +18557,54 @@
       "kind": "ngo",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "zochrot-saffuriyya",
+      "type": "web",
+      "title": "Safuriyya",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49363/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-yibna",
+      "type": "web",
+      "title": "Yibna",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49202/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. This page has only the info box (district, 1948 population, occupation date, settlements); no narrative text."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "zochrot-zirin",
+      "type": "web",
+      "title": "Zir'in",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "https://www.zochrot.org/villages/village_details/49147/en",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded and read the whole village page (19 Oct 2026): info box (occupation date, units, settlements) and narrative. The narrative is credited on the page to al-Khalidi, Walid (ed.), All That Remains (1992/1990); Zochrot also adds some sentences of its own."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
     },
     {
       "id": "zohar-et-al-2016",

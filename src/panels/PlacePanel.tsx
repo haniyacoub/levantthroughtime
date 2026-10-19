@@ -5,6 +5,7 @@ import { loc, resolve } from '../i18n/localize';
 import { useStore } from '../state/store';
 import { formatDate } from '../time/format';
 import { SourceButton } from './Sources';
+import { Badge } from './Badge';
 
 const TRADITIONS = ['jewish', 'christian', 'muslim', 'samaritan', 'druze', 'bahai'] as const;
 
@@ -44,10 +45,11 @@ export function PlacePanel({ data, placeId }: { data: AppData; placeId: string }
             </li>
           )}
           {p.destroyed?.map((d, i) => (
-            <li key={i}>
-              {tr('place.destroyed')}: {formatDate(d.date, lang)}
-              {d.by ? ` — ${d.by}` : ''}
-              {d.note ? ` (${d.note})` : ''} <SourceButton refs={d.sources} title={`${nm.text}: ${tr('place.destroyed')}`} compact />
+            <li key={i} className={d.confidence ? `conf-${d.confidence}` : undefined}>
+              <strong>{d.what ? tr(`place.what.${d.what}`, { defaultValue: d.what }) : tr('place.destroyed')}</strong>: {formatDate(d.date, lang)}
+              {d.by ? ` — ${d.by}` : ''} {d.confidence && <Badge confidence={d.confidence} />}{' '}
+              <SourceButton refs={d.sources} title={`${nm.text}: ${d.what ?? tr('place.destroyed')}`} compact />
+              {d.note && <p className="fine">{d.note}</p>}
             </li>
           ))}
         </ul>

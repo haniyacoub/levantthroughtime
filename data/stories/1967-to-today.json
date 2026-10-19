@@ -1,0 +1,917 @@
+{
+  "$schema": "../../schema/story.schema.json",
+  "id": "1967-to-today",
+  "title": {
+    "en": "1967 to today"
+  },
+  "summary": {
+    "en": "From the June 1967 war through peace treaties, uprisings, the Oslo years and the wars since 2023, with each side’s account."
+  },
+  "steps": [
+    {
+      "date": {
+        "year": 1967,
+        "month": 7
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "June 1967"
+      },
+      "card": {
+        "en": "Between 5 and 10 June 1967 Israel defeated Egypt, Jordan and Syria and occupied the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem and the Golan Heights [1]. Israelis call it the Six-Day War; in Arabic it is called al-Naksa, “the setback” [2][3]."
+      },
+      "sources": [
+        {
+          "ref": "us-oh-1967-war",
+          "locator": "section 'The War and its Aftermath'",
+          "quote": "Between June 5 and June 10, Israel defeated Egypt, Jordan, and Syria and occupied the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem, and the Golan Heights."
+        },
+        {
+          "ref": "palquest-june-1967-war",
+          "locator": "highlight text",
+          "quote": "Dubbed the Six-Day War by Israelis because in six days they were able to achieve an overwhelming victory over the armed forces of Egypt , Syria , and Jordan"
+        },
+        {
+          "ref": "britannica-six-day-war",
+          "locator": "Quick Facts",
+          "quote": "Also called: June War or Third Arab-Israeli War or Naksah"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1967,
+        "month": 8
+      },
+      "view": {
+        "center": [
+          35.232,
+          31.777
+        ],
+        "zoom": 10.5
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "highlight": [
+        "jerusalem"
+      ],
+      "title": {
+        "en": "Jerusalem"
+      },
+      "card": {
+        "en": "On 27 and 28 June 1967 Israel applied its law, jurisdiction and administration to East Jerusalem and surrounding areas [1][2]. Israel told the UN that “annexation” was the wrong word and that the measures concerned administrative integration; the Palestinian account calls them annexation [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "un-s-8146-1967",
+          "locator": "para. 39 (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "Under the Law and Administration Ordinance (Amendment No. 11) Law of 27 June 1967, it was provided that the law, jurisdiction and administration of the State should apply"
+        },
+        {
+          "ref": "un-s-8146-1967",
+          "locator": "para. 39 (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "the Government issued an order dated 28 June 1967 which declared that a territory defined in an annex was an area in which the law, jurisdiction and administration of the State of Israel were in force"
+        },
+        {
+          "ref": "un-s-8052-1967",
+          "locator": "Israeli Foreign Minister's reply of 10 July 1967 (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "The term \"annexation\" used by supporters of the resolution is out of place. The measures adopted relate to the integration of Jerusalem in the administrative and municipal spheres"
+        },
+        {
+          "ref": "palquest-fischbach-jerusalem",
+          "locator": "essay",
+          "quote": "On 28 June 1967, Israel adopted legislation annexing East Jerusalem and uniting it under the authority of the city administration of West Jerusalem."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1967,
+        "month": 12
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Resolution 242"
+      },
+      "card": {
+        "en": "In September an Arab summit in Khartoum resolved on “no peace with Israel, no recognition of Israel, no negotiations with it” [1]. In November the UN Security Council unanimously called for the “withdrawal of Israel armed forces from territories occupied in the recent conflict” [2][3]. Whether that means all the territories is disputed: Israeli scholars note that proposals to require a total withdrawal were rejected, while others point to the French text, “des territoires”, “the territories” [4][5]."
+      },
+      "sources": [
+        {
+          "ref": "avalon-khartoum",
+          "locator": "resolution 3",
+          "quote": "no peace with Israel, no recognition of Israel, no negotiations with it, and insistence on the rights of the Palestinian people in their own country."
+        },
+        {
+          "ref": "un-s-res-242-1967",
+          "locator": "operative para. 1(i) (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "Withdrawal of Israel armed forces from territories occupied in the recent conflict"
+        },
+        {
+          "ref": "un-s-res-242-1967",
+          "locator": "adoption note (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "Adopted unanimously at the 1382nd meeting."
+        },
+        {
+          "ref": "blum-boundaries",
+          "locator": "section on 1967",
+          "quote": "Arab-Soviet attempts to have the resolution demand Israel’s total withdrawal to the former armistice lines were rejected by the resolution’s sponsors"
+        },
+        {
+          "ref": "palquest-fischbach-242",
+          "locator": "essay",
+          "quote": "Others reject this interpretation, often pointing to the official French version of the resolution, which includes a definite article, referring to withdrawal from “des territoires.”"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1973,
+        "month": 11
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "October 1973"
+      },
+      "card": {
+        "en": "On 6 October 1973, the Jewish Day of Atonement, Egyptian forces crossed the Suez Canal and broke through Israel’s Bar Lev line [1][2]. The UN Security Council called for a ceasefire on 22 October [3]. Israelis call it the Yom Kippur War; it is also known as the October War and the Ramadan War [4]."
+      },
+      "sources": [
+        {
+          "ref": "israel-mfa-arab-israeli-wars",
+          "locator": "section 'The Yom Kippur War (October 1973)'",
+          "quote": "The war was so called because it started on the holiest day in the Jewish calendar, the Day of Atonement (October 6, 1973)."
+        },
+        {
+          "ref": "palquest-october-1973-war",
+          "locator": "highlight text",
+          "quote": "On the afternoon of 6 October 1973, Egyptian tanks backed by war planes broke through the Bar Lev Line , Israel’s line of fortifications along the eastern edge of the Suez Canal ."
+        },
+        {
+          "ref": "palquest-october-1973-war",
+          "locator": "highlight text",
+          "quote": "on 22 October 1973, the UN Security Council passed Resolution 338 ."
+        },
+        {
+          "ref": "britannica-yom-kippur-war",
+          "locator": "Quick Facts",
+          "quote": "Also called the: October War, the Ramadan War, the Arab-Israeli war of October 1973, or the Fourth Arab-Israeli War"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1974,
+        "month": 12
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The PLO at the UN"
+      },
+      "card": {
+        "en": "In 1974 the Arab states meeting at Rabat recognised the PLO as the “sole legitimate representative of the Palestinian people” [1]. Yasser Arafat told the UN General Assembly that he had come “bearing an olive branch and a freedom-fighter’s gun” [2]. Israel’s representative replied that the PLO sought not the rights of the Palestinians but the annulment of the rights of the Jewish people [3]."
+      },
+      "sources": [
+        {
+          "ref": "kinghussein-1988-disengagement",
+          "locator": "editorial introduction",
+          "quote": "King Hussein agreed with all the other Arab leaders to a declaration recognizing the Palestine Liberation Organization (PLO) as the “sole legitimate representative of the Palestinian people.”"
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "locator": "Part II, quoting A/PV.2282",
+          "quote": "Today I have come bearing an olive branch and a freedom-fighter’s gun. Do not let the olive branch fall from my hand."
+        },
+        {
+          "ref": "un-dpr-origins-part2",
+          "locator": "Part II, quoting the Israeli reply (A/PV.2283)",
+          "quote": "concerned primarily not with the realization of the rights of the Palestinians, but with the annulment of the rights of the Jewish people."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1979,
+        "month": 4
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Peace with Egypt"
+      },
+      "card": {
+        "en": "Egypt’s President Anwar Sadat visited Israel and addressed the Knesset in November 1977 [1]. After the Camp David summit, Egypt and Israel signed a peace treaty on 26 March 1979, and Israel completed its withdrawal from Sinai on 25 April 1982 [2][3]. Many Arabs rejected the accompanying framework for a wider peace, which had been negotiated without the PLO [4]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-anwar-sadat",
+          "locator": "summary",
+          "quote": "In November 1977, he made a historic visit to Israel, addressing the Knesset (parliament) in Jerusalem with a plan for a peaceful settlement."
+        },
+        {
+          "ref": "ohist-camp-david",
+          "locator": "milestone text",
+          "quote": "the Egyptian-Israeli Peace Treaty was formally signed on March 26."
+        },
+        {
+          "ref": "reagan-1982-sinai",
+          "locator": "message text, 2nd paragraph",
+          "quote": "ended on April 25, 1982, when Israel completed its withdrawal from the Sinai and Egyptian sovereignty was reestablished in accordance with the 1979 Peace Treaty"
+        },
+        {
+          "ref": "palquest-winder-camp-david",
+          "locator": "essay",
+          "quote": "Many Arabs saw this framework for a comprehensive peace as a nonstarter. It had been negotiated without the involvement of most key actors, most prominently the PLO"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1982,
+        "month": 7
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Jerusalem, the Golan and Lebanon"
+      },
+      "card": {
+        "en": "In 1980 the Knesset declared “Jerusalem, complete and united” Israel’s capital, and the UN Security Council decided not to recognise the law [1][2]. In 1981 Israel applied its law to the Golan Heights, which the Security Council declared null and void [3][4]. On 6 June 1982 Israel invaded Lebanon, saying it intended to end attacks on its territory, and reached Beirut [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "knesset-basic-law-jerusalem",
+          "locator": "section 1",
+          "quote": "Jerusalem, complete and united, is the capital of Israel."
+        },
+        {
+          "ref": "unsc-res-478-1980",
+          "locator": "operative para. 5 (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "Decides not to recognize the \"basic law\""
+        },
+        {
+          "ref": "israel-mfa-golan-heights-law",
+          "locator": "text of the law",
+          "quote": "The Law, jurisdiction and administration of the state shall apply to the Golan Heights, as described in the Appendix."
+        },
+        {
+          "ref": "unsc-res-497-1981",
+          "locator": "operative para. 1 (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
+          "quote": "Decides that the Israeli decision to impose its laws, jurisdiction and administration in the occupied Syrian Golan Heights is null and void and without international legal effect"
+        },
+        {
+          "ref": "britannica-palestine-intl-recognition",
+          "locator": "section 'The dispersal of the PLO from Lebanon'",
+          "quote": "On June 6, 1982, Israel, claiming that it intended to end attacks on its territory (although a ceasefire had been in effect since July 1981) and aiming to dislodge the PLO"
+        },
+        {
+          "ref": "unifil-background",
+          "locator": "section on 1982-85",
+          "quote": "In June 1982, after intense exchange of fire in southern Lebanon and across the Israel-Lebanon border, Israel invaded Lebanon again, reaching and surrounding Beirut."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1988,
+        "month": 12
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The First Intifada"
+      },
+      "card": {
+        "en": "On 9 December 1987 demonstrations broke out in Jabaliya, the largest refugee camp, and grew into the First Intifada [1]. The same day, leaders of the Muslim Brotherhood in Gaza agreed to set up the group that became Hamas [2]. In 1988 Jordan cut its legal and administrative ties with the West Bank, and the Palestine National Council proclaimed the State of Palestine, accepting for the first time the partition of Palestine [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "palquest-first-intifada",
+          "locator": "highlight text",
+          "quote": "Demonstrations broke out on 9 December 1987, in Jabaliya , the largest refugee camp in Palestine"
+        },
+        {
+          "ref": "palquest-charif-hamas",
+          "locator": "section on origins",
+          "quote": "met in Gaza City on 9 December 1987 and agreed to set up the organizational framework for a group that would enable the Brotherhood to conduct jihad against the occupation"
+        },
+        {
+          "ref": "kinghussein-1988-disengagement",
+          "locator": "editorial introduction",
+          "quote": "full legal and administrative disengagement from the West Bank"
+        },
+        {
+          "ref": "palquest-charif-declaration-1988",
+          "locator": "opening paragraph",
+          "quote": "affirming for the first time an acceptance of Palestine’s partition"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1993,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Oslo"
+      },
+      "card": {
+        "en": "After the Madrid conference of October 1991, Israel and the PLO recognised each other in September 1993: Israel accepted the PLO as the representative of the Palestinians, and the PLO renounced terrorism and recognised Israel’s right to exist in peace [1][2]. On 13 September they signed the Declaration of Principles in Washington, for Palestinian self-government during a transitional period of up to five years [3][4]."
+      },
+      "sources": [
+        {
+          "ref": "palquest-fischbach-madrid-oslo",
+          "locator": "essay",
+          "quote": "The conference took place in Madrid on 30 October, under a formal US-Soviet sponsorship."
+        },
+        {
+          "ref": "ohist-oslo",
+          "locator": "milestone text",
+          "quote": "Israel accepted the PLO as the representative of the Palestinians, and the PLO renounced terrorism and recognized Israel’s right to exist in peace."
+        },
+        {
+          "ref": "ohist-oslo",
+          "locator": "milestone text",
+          "quote": "On September 13, 1993, Israeli Prime Minister Yitzhak Rabin and Palestine Liberation Organization (PLO) Negotiator Mahmoud Abbas signed a Declaration of Principles"
+        },
+        {
+          "ref": "avalon-dop-1993",
+          "locator": "Article I",
+          "quote": "to establish a Palestinian Interim Self-Government Authority, the elected Council, (the \"Council\") for the Palestinian people in the West Bank and the Gaza Strip, for a transitional period not exceeding five years"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 1996
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Interim years"
+      },
+      "card": {
+        "en": "Israel and Jordan signed a peace treaty in October 1994 [1]. The 1995 Interim Agreement divided the West Bank into Areas A, B and C, with different Palestinian and Israeli powers in each [2]. On 4 November 1995 Prime Minister Yitzhak Rabin was assassinated by an Israeli extremist [3]."
+      },
+      "sources": [
+        {
+          "ref": "un-a-50-73",
+          "locator": "cover letter, p. 1",
+          "quote": "signed by the two States at the Arava/Araba crossing-point on 26 October 1994, and witnessed by the United States of America and the Russian Federation"
+        },
+        {
+          "ref": "britannica-palestinian-authority",
+          "locator": "Administration section (map caption)",
+          "quote": "divided the West Bank and the Gaza Strip into areas A (Palestinian civil and security control), B (Palestinian civil control and joint Israeli-Palestinian security control), and C (Israeli civil and security control)"
+        },
+        {
+          "ref": "un-dpr-origins-part5",
+          "locator": "ch. III.D",
+          "quote": "the assassination of Prime Minister Rabin by an Israeli extremist on 4 November 1995"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2000,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "highlight": [
+        "temple-mount-haram-al-sharif"
+      ],
+      "title": {
+        "en": "Camp David and the Second Intifada"
+      },
+      "card": {
+        "en": "The Camp David summit of July 2000 ended without agreement [1]. Ehud Barak, interviewed by Benny Morris, said Arafat refused even to accept Israel’s proposals as a basis for negotiation; the Palestinian negotiators called them a “re-packaging” of military occupation [2][3]. The Second Intifada began on 29 September 2000 [4]. The international Mitchell committee found that Ariel Sharon’s visit to the Temple Mount/al-Haram al-Sharif did not cause it but was provocative, and found no basis to conclude that the Palestinian Authority had planned the violence [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "clinton-wh-trilateral-statement-2000",
+          "locator": "trilateral statement",
+          "quote": "While they were not able to bridge the gaps and reach an agreement, their negotiations were unprecedented in both scope and detail."
+        },
+        {
+          "ref": "nyrb-morris-barak-2002",
+          "locator": "Barak interview",
+          "quote": "Arafat refused even to accept it as a basis for negotiations, walked out of the room, and deliberately turned to terrorism."
+        },
+        {
+          "ref": "nad-faq-camp-david",
+          "locator": "question 1",
+          "quote": "Israel's Camp David proposal presented a 're-packaging' of military occupation, not an end to military occupation."
+        },
+        {
+          "ref": "prime-2003-narratives",
+          "locator": "Palestinian narrative, glossary 'Intifada'",
+          "quote": "The first Intifada began on December 9, 1987 and the second began on September 29, 2000."
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "section 'Why did it happen?'",
+          "quote": "The Sharon visit did not cause the \"Al-Aqsa Intifada.\" But it was poorly timed and the provocative effect should have been foreseen"
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "same section",
+          "quote": "we have no basis on which to conclude that there was a deliberate plan by the PA to initiate a campaign of violence at the first opportunity"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2005,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The barrier and Gaza disengagement"
+      },
+      "card": {
+        "en": "In 2002 Israel’s cabinet approved the first phase of a continuous barrier in the West Bank, which Israel says is meant to stop attacks [1][2]. In 2004 the International Court of Justice advised that the wall built inside the occupied territory is contrary to international law [3]. In August–September 2005 Israel evacuated all 21 settlements in Gaza and four in the northern West Bank [4]. Israel said there was then no basis for calling Gaza occupied; the Palestinian Authority argued that Israel remained the occupying power while it controlled the crossings [5][6]."
+      },
+      "sources": [
+        {
+          "ref": "icj-2004-wall-ao",
+          "locator": "para. 80 (decision of 23 June 2002)",
+          "quote": "the Israeli Cabinet approved the first phase of the construction of a “continuous fence” in the West Bank"
+        },
+        {
+          "ref": "icj-2004-wall-ao",
+          "locator": "para. 116 (Israel's position)",
+          "quote": "Israel has argued that the wall’s sole purpose is to enable it effectively to combat terrorist attacks launched from the West Bank"
+        },
+        {
+          "ref": "icj-2004-wall-ao",
+          "locator": "para. 163 (3) A",
+          "quote": "By fourteen votes to one, The construction of the wall being built by Israel,... occupying Power, in the Occupied Palestinian Territory, including in and around East Jerusalem, and its associated régime, are contrary to"
+        },
+        {
+          "ref": "crs-rs22000-2005",
+          "locator": "Background",
+          "quote": "the government approved a plan to withdraw from all 21 settlements in Gaza and 4 small settlements in the northern West Bank"
+        },
+        {
+          "ref": "un-a-hrc-12-48",
+          "locator": "para. 187 (quoting the Israeli disengagement plan)",
+          "quote": "Israel declared that “there will be no basis for claiming that the Gaza Strip is occupied territory”"
+        },
+        {
+          "ref": "crs-rs22000-2005",
+          "locator": "Rafah crossing section",
+          "quote": "The PA rejected the compromise, arguing that Israel remains an occupying power as long as it controls access points."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2010
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Hamas, Gaza and the blockade"
+      },
+      "card": {
+        "en": "Hamas won 74 of the 132 seats in the 2006 legislative election [1]. In June 2007, after fighting with Fatah, Hamas took control of the Gaza Strip, while a Fatah-led emergency cabinet governed the West Bank [2]. Israel and Egypt then blockaded Gaza [3]. Wars between Israel and Hamas followed in 2008–09, 2012, 2014 and 2021 [4][5][6][7]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-palestinian-authority",
+          "locator": "Administration",
+          "quote": "This resulted in the controversial outcome of Hamas winning 74 of 132 seats although it received 44 percent of the vote (against Fatah ’s 41 percent)."
+        },
+        {
+          "ref": "britannica-hamas",
+          "locator": "Control of the Gaza Strip",
+          "quote": "Hamas was left in control of the Gaza Strip, while a Fatah-led emergency cabinet had control of the West Bank."
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "background",
+          "quote": "The election of Hamas in 2006 and its subsequent takeover of the Gaza Strip in 2007 prompted Israel and Egypt to blockade the enclave."
+        },
+        {
+          "ref": "un-a-hrc-12-48",
+          "locator": "para. 29",
+          "quote": "lasted from 27 December 2008 to 18 January 2009"
+        },
+        {
+          "ref": "palquest-gaza-war-2014",
+          "locator": "text",
+          "quote": "Israel launched Operation Pillar of Defense on 14 November 2012"
+        },
+        {
+          "ref": "israel-mfa-2015-gaza-conflict-report",
+          "locator": "executive summary, para. 1",
+          "quote": "presents detailed factual and legal information regarding the intensive hostilities that took place from July 7 to August 26, 2014 between the State of Israel and Hamas"
+        },
+        {
+          "ref": "palquest-gaza-war-2021",
+          "locator": "text",
+          "quote": "The fighting ended on 21 May, after both Hamas and Israel agreed to a ceasefire brokered by Egypt, Qatar , and the UN"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2023,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "7 October 2023"
+      },
+      "card": {
+        "en": "On 7 October 2023 Hamas and other armed groups from Gaza attacked southern Israel; Hamas’s military commander announced it as “Operation Al-Aqsa Flood” [1][2]. A UN commission of inquiry found that the war crimes of deliberately attacking civilians and murder had been committed [3]. Hamas has described it as “a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people” [4]. The next day Israel declared war, for the first time since 1973 [5]."
+      },
+      "sources": [
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "section 'The October 7, 2023, attack'",
+          "quote": "Hamas, along with other militants in the Gaza Strip, such as the Palestinian Islamic Jihad (PIJ), carried out the October 7 attack on Shemini Atzeret"
+        },
+        {
+          "ref": "aljazeera-2023-10-07-al-aqsa-flood",
+          "locator": "report text",
+          "quote": "Mohammed Deif, a senior Hamas military commander, said the rocket fire marked the start of “Operation Al-Aqsa Flood”"
+        },
+        {
+          "ref": "un-a-hrc-56-26",
+          "locator": "para. 74",
+          "quote": "The Commission found that the war crimes of intentionally directing attacks against civilians and murder or wilful killing had been committed"
+        },
+        {
+          "ref": "hamas-2024-our-narrative",
+          "locator": "as quoted by Al Jazeera",
+          "quote": "a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people",
+          "via": "aljazeera-2024-01-21-hamas-narrative"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "introduction",
+          "quote": "The next day, Israel declared war for the first time since the Yom Kippur War (1973)."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2024,
+        "month": 12
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "The courts"
+      },
+      "card": {
+        "en": "In January 2024, in a case brought by South Africa, the International Court of Justice ordered Israel to take all measures within its power to prevent acts covered by the Genocide Convention against Palestinians in Gaza [1]. In July 2024 the court advised that Israel’s continued presence in the occupied Palestinian territory is unlawful [2]. Prime Minister Netanyahu responded that “the Jewish people are not occupiers in their own land” [3]. In November 2024 the International Criminal Court issued arrest warrants for Netanyahu and former defence minister Yoav Gallant, after rejecting Israel’s challenge to its jurisdiction [4][5]."
+      },
+      "sources": [
+        {
+          "ref": "icj-pr-2024-6",
+          "locator": "measure 1",
+          "quote": "By fifteen votes to two, The State of Israel shall... in relation to Palestinians in Gaza, take all measures within its power to prevent the commission of all acts within the scope of Article II"
+        },
+        {
+          "ref": "icj-2024-opt-ao",
+          "locator": "para. 285 (3)",
+          "quote": "By eleven votes to four, Is of the opinion that the State of Israel ’s continued presence in the Occupied Palestinian Territory is unlawful"
+        },
+        {
+          "ref": "algemeiner-2024-07-19-netanyahu",
+          "locator": "Netanyahu post on X",
+          "quote": "The Jewish people are not occupiers in their own land, including in our eternal capital Jerusalem nor in Judea and Samaria, our historical homeland"
+        },
+        {
+          "ref": "icc-pr-2024-11-21",
+          "locator": "press release",
+          "quote": "Today, on 21 November 2024, Pre-Trial Chamber I of the International Criminal Court (‘Court’), in its composition for the Situation in the State of Palestine, unanimously issued two decisions rejecting challenges by the State of Israel"
+        },
+        {
+          "ref": "icc-pr-2024-11-21",
+          "locator": "decisions on requests by Israel",
+          "quote": "Israel challenged the Court’s jurisdiction over the Situation in the State of Palestine in general, and over Israeli nationals more specifically"
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2025,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Recognition and ceasefire"
+      },
+      "card": {
+        "en": "In September 2025 the United Kingdom, Canada, Australia, Portugal, France and other states recognised a Palestinian state [1][2]. Prime Minister Netanyahu said a Palestinian state “will not happen” [3]. A US-brokered ceasefire took effect in Gaza on 10 October 2025, and the last surviving hostages were released on 13 October [4]. Israeli forces withdrew to the “Yellow Line”, keeping about half of the Strip [5]."
+      },
+      "sources": [
+        {
+          "ref": "ap-2025-09-21-recognition",
+          "locator": "lead (21 Sept 2025)",
+          "quote": "The U.K., Australia and Canada formally recognized a Palestinian state on Sunday, prompting an angry response from Israel, which ruled out the prospect."
+        },
+        {
+          "ref": "aljazeera-2025-09-23-recognition",
+          "locator": "lead (23 Sept 2025)",
+          "quote": "France, Luxembourg, Malta, Monaco, Andorra and Belgium have formally recognised a Palestinian state at the 80th session of the General Assembly (UNGA). They join Canada, Australia and Portugal"
+        },
+        {
+          "ref": "ap-2025-09-21-recognition",
+          "locator": "Palestinian and Israeli reactions",
+          "quote": "“It will not happen,” he said. “A Palestinian state will not be established west of the Jordan River.”"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "introduction",
+          "quote": "The ceasefire went into effect on October 10, and the final surviving hostages were released on October 13."
+        },
+        {
+          "ref": "aljazeera-2026-10-10-board-of-peace",
+          "locator": "\"What were the BoP's goals?\"",
+          "quote": "It required Israeli forces to withdraw to about 50 percent of the Gaza Strip and cease aerial and artillery bombardments."
+        }
+      ],
+      "duration_s": 14
+    },
+    {
+      "date": {
+        "year": 2026,
+        "month": 10
+      },
+      "view": {
+        "center": [
+          35.6,
+          31.6
+        ],
+        "zoom": 6.3
+      },
+      "layers": [
+        "territories",
+        "places",
+        "holy",
+        "conflicts",
+        "migrations",
+        "modern"
+      ],
+      "title": {
+        "en": "Today"
+      },
+      "card": {
+        "en": "In November 2025 the UN Security Council endorsed a US plan for Gaza with a transitional “Board of Peace” [1]. In December 2025 Israel’s defence minister said Israel would “never leave all of Gaza” [2]. A year after the ceasefire, Human Rights Watch reported that Israel kept moving the Yellow Line westward [3]. In October 2026 a presidential decree set Palestinian legislative and presidential elections for 11 September 2027 [4]."
+      },
+      "sources": [
+        {
+          "ref": "unsc-res-2803-2025",
+          "locator": "para. 2",
+          "quote": "Welcomes the establishment of the Board of Peace (BoP) as a transitional administration with international legal personality"
+        },
+        {
+          "ref": "aljazeera-2025-12-23-katz",
+          "locator": "Katz quote",
+          "quote": "“We are located deep inside Gaza, and we will never leave all of Gaza,” Katz said. “We are there to protect.”"
+        },
+        {
+          "ref": "hrw-2026-10-10",
+          "locator": "news release",
+          "quote": "Israel continues to move the “ Yellow Line,” the stated limit of the physical presence of Israeli ground forces under the ceasefire, westward beyond its agreed boundaries"
+        },
+        {
+          "ref": "cec-ps-legislative-elections-2026",
+          "locator": "overview (Arabic)",
+          "quote": "صدر مرسوم رئاسي بتاريخ 10/10/2026 يقضي بإلغاء الانتخابات التشريعية 2026، والدعوة لعقد انتخابات تشريعية ورئاسية متزامنة بتاريخ 11/9/2027"
+        }
+      ],
+      "duration_s": 14
+    }
+  ]
+}

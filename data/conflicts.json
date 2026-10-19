@@ -8276,10 +8276,20 @@
         {
           "ref": "britannica-palestine-to-1900",
           "quote": "Palestine began its four centuries under Ottoman domination."
+        },
+        {
+          "ref": "britannica-selim-i",
+          "locator": "article text",
+          "quote": "Selim defeated the Mamluk armies at the battles of Marj Dābiq (north of Aleppo; August 24, 1516) and Raydāniyyah (near Cairo; January 22, 1517), thus bringing Syria, Egypt, and Palestine under Ottoman rule."
+        },
+        {
+          "ref": "tdv-hadim-sinan-pasa",
+          "locator": "article text",
+          "quote": "Halep, Hama, Humus ve Şam ele geçirildi; böylece bütün Suriye zaptedilmiş oldu."
         }
       ],
       "notes": {
-        "en": "The war ended with the battle of Raydaniyya near Cairo on 22 January 1517 (Britannica, Selim I; the TDV gives 23 January 1517); events after 1516 are included only to close the record."
+        "en": "The war ended with the battle of Raydaniyya near Cairo on 22 January 1517 (Britannica, Selim I; the TDV gives 23 January 1517); events after 1516 are included only to close the record. End date: the battle of Ridaniya (22 Jan 1517); Mamluk resistance in Egypt continued until Tumanbay's capture in April 1517 (not verified in an opened source). Wikidata item for the war: Q4338038."
       },
       "casualties": null
     },
@@ -8351,10 +8361,25 @@
         {
           "ref": "tdv-mercidabik-muharebesi",
           "quote": "Bazı araştırmalarda Hayır Bey ile Canbirdi Gazâlî’nin hıyanet edip sultanın öldüğünü orduda ilân etmeleriyle Memlük kuvvetlerinin dağıldığı belirtilirse de bu doğru değildir."
+        },
+        {
+          "ref": "britannica-selim-i",
+          "locator": "article text",
+          "quote": "Marj Dābiq (north of Aleppo; August 24, 1516)"
+        },
+        {
+          "ref": "tdv-hadim-sinan-pasa",
+          "locator": "article text",
+          "quote": "İki ordu 25 Receb 922 (24 Ağustos 1516) günü karşılaştı."
+        },
+        {
+          "ref": "tdv-hadim-sinan-pasa",
+          "locator": "article text",
+          "quote": "Halep, Hama, Humus ve Şam ele geçirildi"
         }
       ],
       "notes": {
-        "en": "Context record outside the map area. Emecen (TDV) rejects the claim found in some studies that the Mamluk defeat was caused by the treason of Khair Bey and Janbirdi al-Ghazali announcing the sultan's death."
+        "en": "Context record outside the map area. Emecen (TDV) rejects the claim found in some studies that the Mamluk defeat was caused by the treason of Khair Bey and Janbirdi al-Ghazali announcing the sultan's death. The death of Sultan Qansuh al-Ghawri in the battle is stated in TDV ('sultanın Mercidâbık Savaşı’nda ölmesi', search-result snippet) and is general knowledge."
       },
       "casualties": null
     },
@@ -8425,10 +8450,2173 @@
         {
           "ref": "tdv-hadim-sinan-pasa",
           "quote": "Yavuz Sultan Selim 3 Ocak 1517’de Gazze’ye ulaşarak Sinan Paşa ile buluştu."
+        },
+        {
+          "ref": "tdv-canbirdi-gazali",
+          "locator": "article text",
+          "quote": "Ancak Han Yûnus mevkiinde Vezîriâzam Sinan Paşa’nın kuvvetleri karşısında yenildi (21 Aralık 1516)"
+        },
+        {
+          "ref": "tdv-hadim-sinan-pasa",
+          "locator": "article text",
+          "quote": "Gazze’ye varan Sinan Paşa, Canbirdi Gazâlî kumandasındaki Memlük kuvvetleriyle 21 Aralık’ta şehrin güneybatısında"
         }
       ],
       "notes": {
-        "en": "Date per the TDV İslâm Ansiklopedisi (21 December 1516); it was not cross-checked against a second source."
+        "en": "Date per the TDV İslâm Ansiklopedisi (21 December 1516); it was not cross-checked against a second source. Date per the TDV encyclopaedia (21 Dec 1516); some older accounts date a battle near Khan Yunis to late October 1516 - not verified here."
+      },
+      "casualties": null
+    },
+    {
+      "id": "zahir-al-umar-conflicts",
+      "name": {
+        "en": "Wars of Zahir al-Umar in Galilee (c. 1738–1775)"
+      },
+      "kind": "revolt",
+      "importance": 2,
+      "start": {
+        "year": 1738,
+        "circa": true,
+        "precision": "year"
+      },
+      "end": {
+        "year": 1775,
+        "precision": "year"
+      },
+      "location": {
+        "coords": [
+          35.0839,
+          32.9261
+        ],
+        "units": [
+          "lower-galilee",
+          "upper-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel"
+        ],
+        "coords_source": "wikidata:Q126084",
+        "description": {
+          "en": "Galilee, Acre, Haifa and, at times, Jaffa and the Phoenician coast"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "zahir-al-umar-galilee"
+            },
+            {
+              "group": {
+                "en": "Zaydani clan and allies"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "damascus-eyalet"
+            },
+            {
+              "polity": "sidon-eyalet"
+            },
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Zahir built an autonomous power in Galilee centred on Acre and repeatedly defeated the governors of Damascus, but after the Russo-Ottoman peace of 1774 the Ottomans and Egypt's Muhammad Bey (Abu al-Dhahab) moved against him and he was killed in 1775."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "The governor of Damascus, Süleyman Paṣa, realized the threat of Zāhir’s growing power base and attempted to take Tiberias from him in a series of attacks from 1738 to 1743"
+        },
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "In 1746, he took the city by force, killed the local multazim , and took his place."
+        },
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "his death in 1775 marked the end of an era of local autonomy"
+        },
+        {
+          "ref": "britannica-palestine-crusades-ottoman",
+          "locator": "section 'Ottoman rule'",
+          "quote": "Ẓāhir al-ʿUmar (c. 1737–75) dominated the political life of northern Palestine for nearly 40 years."
+        },
+        {
+          "ref": "tdv-zahir-el-omer",
+          "locator": "article text",
+          "quote": "Bu kesimde Sakr kabilesiyle ittifak yaparak 1730’lardan itibaren bölgedeki gücünü arttırmaya başladı."
+        }
+      ],
+      "notes": {
+        "en": "Framing: Ottoman-centred accounts treat Zahir as a rebellious tax-farmer; Palestinian historiography often presents him as an early autonomous ruler of Palestine. His power is dated from 1706 (tax farms), c. 1737/1738 or 1746 (Acre) depending on the source."
+      },
+      "casualties": null
+    },
+    {
+      "id": "siege-of-tiberias-1742",
+      "name": {
+        "en": "Sieges of Tiberias (1742 and 1743)"
+      },
+      "kind": "siege",
+      "importance": 3,
+      "parent": "zahir-al-umar-conflicts",
+      "start": {
+        "year": 1742,
+        "month": 9,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1743,
+        "month": 7,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.5247,
+          32.7897
+        ],
+        "units": [
+          "lower-galilee"
+        ],
+        "coords_source": "wikidata:Q151920",
+        "description": {
+          "en": "Tiberias"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "damascus-eyalet"
+            },
+            {
+              "group": {
+                "en": "Sulayman Pasha al-Azm, governor of Damascus"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "zahir-al-umar-galilee"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Zahir al-Umar withstood both sieges; the governor of Damascus died in 1743 and his successor left Zahir in peace."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-zahir-el-omer",
+          "locator": "article text",
+          "quote": "Şam Valisi Azmzâde Süleyman Paşa’nın Eylül 1742’de başlayan ve seksen üç gün süren Taberiye kuşatmasına direndi; 1743 Temmuzunda ikinci defa yapılan kuşatmada da Süleyman Paşa karşısında başarı gösterdi."
+        },
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "In 1743, Süleyman was succeeded as governor of Damascus by Esad Paṣa."
+        }
+      ],
+      "notes": {
+        "en": "TDV: first siege from September 1742 lasting 83 days; second siege July 1743. Strickert gives a series of attacks 1738-1743."
+      },
+      "casualties": null
+    },
+    {
+      "id": "zahir-ali-bey-campaign-1771",
+      "name": {
+        "en": "Zahir al-Umar and Ali Bey's campaign in Syria (1770–1773)"
+      },
+      "kind": "campaign",
+      "importance": 3,
+      "parent": "zahir-al-umar-conflicts",
+      "start": {
+        "year": 1770,
+        "precision": "year"
+      },
+      "end": {
+        "year": 1773,
+        "month": 2,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.5247,
+          32.7897
+        ],
+        "units": [
+          "lower-galilee",
+          "upper-galilee",
+          "philistia",
+          "damascus",
+          "golan"
+        ],
+        "coords_source": "wikidata:Q151920",
+        "description": {
+          "en": "Gaza, Jaffa, Damascus and the upper Jordan (Daughters of Jacob Bridge)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "zahir-al-umar-galilee"
+            },
+            {
+              "group": {
+                "en": "Egyptian forces of Ali Bey al-Kabir"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "damascus-eyalet"
+            },
+            {
+              "group": {
+                "en": "Uthman Pasha al-Kurji, governor of Damascus"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Egyptian troops sent by Ali Bey occupied Gaza and Jaffa and marched on Damascus before withdrawing; Zahir defeated Uthman Pasha near the Daughters of Jacob Bridge and Jaffa came under Zahir's and Ali Bey's control (surrendering in February 1773)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "In 1770, Ali Bey dispatched troops to Gaza and Jaffa. The following year, he added another thirty-five thousand troops and marched to Damascus."
+        },
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "Once again, Zāhir prevailed in battle at the Daughters of Jacob Bridge on the upper Jordan River. He then took advantage of retreating Egyptian forces and conquered the coastal city of Jaffa."
+        },
+        {
+          "ref": "tdv-yafa",
+          "locator": "article text",
+          "quote": "Şehir şiddetle mukavemet ettiyse de baş gösteren kıtlık ve açlık yüzünden Şubat 1773’te Ali Bey’e teslim olmak zorunda kaldı"
+        }
+      ],
+      "notes": {
+        "en": "Sources differ on who took Jaffa: Strickert credits Zahir; TDV says the city surrendered to Ali Bey in February 1773 after a siege. The troop number in the Strickert quote is an army size, not a casualty figure. Coordinates: Tiberias area (approximate)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "abu-al-dhahab-campaign-1775",
+      "name": {
+        "en": "Abu al-Dhahab's invasion of Palestine (1775)"
+      },
+      "kind": "campaign",
+      "importance": 3,
+      "parent": "zahir-al-umar-conflicts",
+      "start": {
+        "year": 1775,
+        "month": 3,
+        "circa": true,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1775,
+        "month": 6,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          34.7531,
+          32.0522
+        ],
+        "units": [
+          "philistia",
+          "acre-plain",
+          "lower-galilee"
+        ],
+        "coords_source": "wikidata:Q180294",
+        "description": {
+          "en": "Jaffa and Acre"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Egyptian forces of Muhammad Bey Abu al-Dhahab (with Ottoman encouragement)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "zahir-al-umar-galilee"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Muhammad Bey took Jaffa (20 May 1775) and entered Acre after Zahir fled, but died there within weeks; Zahir was killed later in 1775 as Ottoman forces reasserted control, and al-Jazzar was installed at Acre."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "Istanbul also encouraged Egypt to invade Palestine. Muḥammad Bey took Jaffa on May 20, 1775, and threatened Acre to the north."
+        },
+        {
+          "ref": "strickert-2023-zahir",
+          "locator": "Summary of Event",
+          "quote": "To Zāhir’s good fortune, the Egyptian ruler became ill and died in Acre within two weeks."
+        },
+        {
+          "ref": "tdv-yafa",
+          "locator": "article text",
+          "quote": "Ancak Ebü’z-Zeheb Muhammed’in Ali Bey’i bertaraf etmesinin ardından Yafa işgalden kurtarıldı (1189/1775)."
+        }
+      ],
+      "notes": {
+        "en": "The sack of Jaffa and killing of its inhabitants in 1775 is reported in the literature but was not verified in the sources opened here. Zahir's death in 1775: Strickert ('died violently in 1775' - polities layer). Start month approximate."
+      },
+      "casualties": null
+    },
+    {
+      "id": "french-campaign-in-syria-1799",
+      "name": {
+        "en": "French campaign in Syria (Bonaparte's Syrian expedition, 1799)"
+      },
+      "kind": "campaign",
+      "importance": 1,
+      "start": {
+        "year": 1799,
+        "month": 2,
+        "day": 6,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1799,
+        "month": 6,
+        "day": 14,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.0817,
+          32.9275
+        ],
+        "units": [
+          "sinai-north",
+          "philistia",
+          "carmel-sharon",
+          "acre-plain",
+          "lower-galilee",
+          "jezreel"
+        ],
+        "coords_source": "wikidata:Q815109",
+        "description": {
+          "en": "El-Arish, Gaza, Jaffa, Haifa, Acre, Nazareth and Mount Tabor"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "French Republic (Army of the Orient under Bonaparte)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "polity": "jazzar-acre"
+            },
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After taking El-Arish, Gaza and Jaffa, Bonaparte failed to take Acre, defended by al-Jazzar with British and Ottoman help, lifted the siege in May 1799 and returned to Egypt."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "6 February : Beginning of the Syrian campaign."
+        },
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "24 February : Occupation of Gaza ."
+        },
+        {
+          "ref": "napoleon-org-campaign-in-egypt",
+          "locator": "chronology",
+          "quote": "10th May 1799-21st floréal year VII: after inconclusive eighth attack on Saint John d'Acre, Bonaparte decides to lift the siege."
+        },
+        {
+          "ref": "napoleon-org-campaign-in-egypt",
+          "locator": "chronology",
+          "quote": "14th June 1799-26th prairial year VII: Bonaparte once again in Cairo."
+        },
+        {
+          "ref": "britannica-palestine-crusades-ottoman",
+          "locator": "section 'Ottoman rule'",
+          "quote": "in 1799, with English and Ottoman help, he successfully defended Acre against Napoleon I ."
+        }
+      ],
+      "notes": {
+        "en": "End shown as Bonaparte's return to Cairo (14 June 1799); the army left Acre in late May."
+      },
+      "casualties": null
+    },
+    {
+      "id": "siege-of-jaffa-1799",
+      "name": {
+        "en": "Siege and capture of Jaffa (1799)"
+      },
+      "kind": "siege",
+      "wikidata": "Q3178783",
+      "importance": 2,
+      "parent": "french-campaign-in-syria-1799",
+      "start": {
+        "year": 1799,
+        "month": 3,
+        "day": 3,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1799,
+        "month": 3,
+        "day": 7,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.7697,
+          32.0453
+        ],
+        "units": [
+          "philistia"
+        ],
+        "coords_source": "wikidata:Q3178783",
+        "description": {
+          "en": "Jaffa"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "French Republic (Army of the Orient under Bonaparte)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "Ottoman garrison of Jaffa"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The French stormed Jaffa on 7 March 1799; prisoners from the garrison were afterwards executed on the beach, and plague broke out in the town."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "3 March : Arrival at the walls of Jaffa."
+        },
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "7 March : Assault on the port of Jaffa. 11 March : An epidemic of the plague breaks out in Jaffa."
+        },
+        {
+          "ref": "napoleon-org-campaign-in-egypt",
+          "locator": "chronology",
+          "quote": "7th March 1799-17th ventôse year VII: taking of Jaffa."
+        }
+      ],
+      "notes": {
+        "en": "The execution of prisoners is reported by TDV (Yafa article, which gives a number and the date 6 May 1799 - the date conflicts with the French chronology and is not used). Wikidata labels: Arabic حصار ومذبحة يافا ('siege and massacre of Jaffa'), Hebrew כיבוש יפו (1799) ('capture of Jaffa')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "battle-of-mount-tabor-1799",
+      "name": {
+        "en": "Battle of Mount Tabor (1799)",
+        "ar": "معركة جبل طابور",
+        "he": "קרב תבור",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q2420811",
+      "importance": 3,
+      "parent": "french-campaign-in-syria-1799",
+      "start": {
+        "year": 1799,
+        "month": 4,
+        "day": 16,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1799,
+        "month": 4,
+        "day": 16,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.3266,
+          32.6124
+        ],
+        "units": [
+          "jezreel",
+          "lower-galilee"
+        ],
+        "coords_source": "wikidata:Q2420811",
+        "description": {
+          "en": "Plain below Mount Tabor, Jezreel valley"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "French Republic (Kléber's division, relieved by Bonaparte)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "Ottoman relief army from Damascus"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "French forces under Kléber fought an Ottoman force near Mount Tabor; the French held the field (general knowledge; the chronology records only the combat)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "16 April : Combat of Mont-Thabor (Kléber) ."
+        }
+      ],
+      "notes": {
+        "en": "That the Ottoman force was a relief army from Damascus is general knowledge not stated in the opened chronology."
+      },
+      "casualties": null
+    },
+    {
+      "id": "siege-of-acre-1799",
+      "name": {
+        "en": "Siege of Acre (1799)",
+        "ar": "حصار عكا",
+        "he": "המצור על עכו (1799)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "siege",
+      "wikidata": "Q815109",
+      "importance": 2,
+      "parent": "french-campaign-in-syria-1799",
+      "start": {
+        "year": 1799,
+        "month": 3,
+        "day": 19,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1799,
+        "month": 5,
+        "day": 20,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.0817,
+          32.9275
+        ],
+        "units": [
+          "acre-plain"
+        ],
+        "coords_source": "wikidata:Q815109",
+        "description": {
+          "en": "Acre"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "French Republic (Army of the Orient under Bonaparte)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "jazzar-acre"
+            },
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Acre held: after eight failed assaults Bonaparte lifted the siege in May 1799 and retreated to Egypt."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "napoleon-org-egyptian-campaign-timeline",
+          "locator": "chronology 1799",
+          "quote": "19 March : Beginning of the siege of St Jean d’Acre ."
+        },
+        {
+          "ref": "napoleon-org-campaign-in-egypt",
+          "locator": "chronology",
+          "quote": "10th May 1799-21st floréal year VII: after inconclusive eighth attack on Saint John d'Acre, Bonaparte decides to lift the siege."
+        },
+        {
+          "ref": "britannica-palestine-crusades-ottoman",
+          "locator": "section 'Ottoman rule'",
+          "quote": "in 1799, with English and Ottoman help, he successfully defended Acre against Napoleon I ."
+        }
+      ],
+      "notes": {
+        "en": "End: decision to lift the siege on 10 May; the withdrawal took place around 20-21 May 1799 (approximate; not in the opened chronology). British naval support under Sidney Smith is general knowledge ('English help', Britannica)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "egyptian-ottoman-war-1831-1833",
+      "name": {
+        "en": "First Egyptian–Ottoman War (1831–1833)"
+      },
+      "kind": "war",
+      "wikidata": "Q2584439",
+      "importance": 1,
+      "start": {
+        "year": 1831,
+        "month": 11,
+        "day": 2,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1833,
+        "month": 5,
+        "day": 6,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.0839,
+          32.9261
+        ],
+        "units": [
+          "philistia",
+          "judea",
+          "samaria",
+          "acre-plain",
+          "lower-galilee",
+          "upper-galilee",
+          "phoenician-coast",
+          "damascus"
+        ],
+        "coords_source": "wikidata:Q126084",
+        "description": {
+          "en": "Palestine, Lebanon and Syria, then Anatolia (Konya, Kütahya)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Egypt under Muhammad Ali (army of Ibrahim Pasha)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Ibrahim Pasha took Palestine and Syria and defeated the Ottomans at Konya (Dec 1832); by the Kütahya settlement (May 1833) Syria was granted to Muhammad Ali's family, beginning Egyptian rule in Palestine."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "İbrâhim Paşa kumandasında güçlü bir orduyu harekete geçirdi (2 Kasım 1831). 8 Kasım’da Yafa’ya çıkan İbrâhim Paşa Hayfa, Kudüs ve Nablus’u da zaptedip"
+        },
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "taraflara bildirildi (6 Mayıs 1833). Bu sonuç, birçok Avrupa tarihçisi tarafından Kütahya Antlaşması olarak tanımlanmakla birlikte"
+        }
+      ],
+      "notes": {
+        "en": "TDV notes that the 'Kütahya Treaty' was in fact an imperial grant (ferman) communicated on 6 May 1833 rather than a signed treaty; Britannica dates it 4 May 1833 (polities layer). Egyptian rule in Syria is a polity record (egyptian-rule-syria)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "siege-of-acre-1831-1832",
+      "name": {
+        "en": "Siege of Acre (1831–1832)"
+      },
+      "kind": "siege",
+      "importance": 2,
+      "parent": "egyptian-ottoman-war-1831-1833",
+      "start": {
+        "year": 1831,
+        "month": 11,
+        "day": 26,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1832,
+        "month": 5,
+        "day": 27,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.0839,
+          32.9261
+        ],
+        "units": [
+          "acre-plain"
+        ],
+        "coords_source": "wikidata:Q126084",
+        "description": {
+          "en": "Acre"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Egypt under Muhammad Ali (army of Ibrahim Pasha)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "polity": "sidon-eyalet"
+            },
+            {
+              "group": {
+                "en": "Abdullah Pasha, governor of Acre"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After a six-month land and sea siege Acre surrendered to Ibrahim Pasha on 27 May 1832."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "şiddetli bir direniş gösteren Akkâ’yı denizden ve karadan muhasara altına aldı (26 Kasım)."
+        },
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "altı aydır kuşatma altında tutulan Akkâ’yı da 27 Mayıs’ta teslim aldı."
+        },
+        {
+          "ref": "tdv-akka",
+          "locator": "article text",
+          "quote": "Şehir, altı ay süren bu kuşatma sonunda harap bir halde Osmanlı muhafızlarından teslim alındı."
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "peasants-revolt-1834",
+      "name": {
+        "en": "Peasants' revolt in Palestine (1834)",
+        "ar": "ثورة الفلاحين في فلسطين",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Peasants' revolt (Thawrat al-Fallahin)"
+          },
+          "original": {
+            "text": "ثورة الفلاحين",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "Thawrat al-Fallahin"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "abdeen-2026-peasants-revolt-1834",
+              "locator": "repository record (title)",
+              "quote": "ثورة الفلاحين الفلسطينيين ضد الحكم المصري عام 1834م"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "The time the peasants entered Jerusalem"
+          },
+          "used_by": "palestinian",
+          "note": "Contemporary name in Jerusalem court records for the peasants' entry into the city (Rood).",
+          "sources": [
+            {
+              "ref": "rood-2006-peasants-jerusalem",
+              "locator": "article text",
+              "quote": "the time the peasants entered Jerusalem"
+            }
+          ]
+        }
+      ],
+      "kind": "revolt",
+      "wikidata": "Q4554402",
+      "importance": 2,
+      "start": {
+        "year": 1834,
+        "month": 5,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1834,
+        "month": 8,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.2608,
+          32.2211
+        ],
+        "units": [
+          "samaria",
+          "judea",
+          "lower-galilee",
+          "upper-galilee"
+        ],
+        "coords_source": "wikidata:Q214178",
+        "description": {
+          "en": "Nablus, Hebron, Jerusalem and its hinterland, Safed and other districts"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian peasants, rural notables and Bedouin (Nablus, Hebron and Jerusalem districts)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "egyptian-rule-syria"
+            },
+            {
+              "group": {
+                "en": "Army of Ibrahim Pasha"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The revolt against conscription, disarmament and heavy taxation was suppressed by Ibrahim Pasha; some groups continued to resist until the Egyptian withdrawal in 1840."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "rood-2006-peasants-jerusalem",
+          "locator": "article text",
+          "quote": "In 1834, the people of Jerusalem and the peasants in her hinterlands rebelled against Ibrahim Pasha for a number of reasons."
+        },
+        {
+          "ref": "rood-2006-peasants-jerusalem",
+          "locator": "article text",
+          "quote": "This chaotic event became known as “the time of the entrance of the peasants into Jerusalem” or “the time the peasants entered Jerusalem.”"
+        },
+        {
+          "ref": "rood-2006-peasants-jerusalem",
+          "locator": "article text",
+          "quote": "This group continued to oppose Ibrahim Pasha until the withdrawal of his army in 1840."
+        },
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "Mayıs 1834’te Nablus ve Hebron’da meydana gelen ayaklanmalar İbrâhim Paşa tarafından kanlı bir şekilde bastırıldı."
+        },
+        {
+          "ref": "abdeen-2026-peasants-revolt-1834",
+          "locator": "repository record (title)",
+          "quote": "Palestinian Peasants Revolt Against Egyptian Rule in 1834."
+        }
+      ],
+      "notes": {
+        "en": "End date approximate (the main suppression was in summer 1834). Causes per Rood: heavy taxation, conscription and disarmament. Palestinian academic usage: 'Thawrat al-Fallahin' (peasants' revolt) - Hebron University thesis title."
+      },
+      "casualties": null
+    },
+    {
+      "id": "egyptian-ottoman-war-1839-1841",
+      "name": {
+        "en": "Second Egyptian–Ottoman War and Oriental Crisis (1839–1841)"
+      },
+      "kind": "war",
+      "wikidata": "Q2600326",
+      "importance": 2,
+      "start": {
+        "year": 1839,
+        "month": 6,
+        "day": 24,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1840,
+        "month": 12,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.0839,
+          32.9261
+        ],
+        "units": [
+          "phoenician-coast",
+          "acre-plain",
+          "philistia",
+          "judea",
+          "damascus"
+        ],
+        "coords_source": "wikidata:Q126084",
+        "description": {
+          "en": "Northern Syria (Nizip), then the Syrian and Palestinian coast (Beirut, Sidon, Tyre, Acre)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Egypt under Muhammad Ali (army of Ibrahim Pasha)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Austrian Empire"
+              }
+            },
+            {
+              "group": {
+                "en": "Russian Empire and Prussia (signatories of the 1840 London agreement)"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Egypt defeated the Ottomans at Nizip (24 June 1839), but under the London agreement of 15 July 1840 Britain and Austria blockaded and attacked the coast; the Egyptians were forced to withdraw from Syria and Palestine, which reverted to Ottoman rule."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "İbrâhim Paşa idaresindeki Mısır ordusu karşısında Nizip’te tekrar mağlûp olması (24 Haziran 1839)"
+        },
+        {
+          "ref": "tdv-ibrahim-pasa",
+          "locator": "article text",
+          "quote": "15 Temmuz 1840’ta Londra’da İngiltere, Rusya, Avusturya, Prusya ve Osmanlı Devleti arasında bir anlaşma imzalanarak"
+        },
+        {
+          "ref": "britannica-palestine-crusades-ottoman",
+          "locator": "section 'Ottoman rule'",
+          "quote": "When in 1840 the British, the Austrians, and the Russians came to the aid of the Ottomans, the Egyptians were forced to withdraw, and Palestine reverted to the Ottoman Empire."
+        }
+      ],
+      "notes": {
+        "en": "End approximate: the Egyptian evacuation took place in winter 1840-41 (Britannica Ibrahim Pasha, polities layer). Wikidata: Q2600326 (war), Q325127 (Oriental Crisis)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "bombardment-of-acre-1840",
+      "name": {
+        "en": "Bombardment and capture of Acre (1840)"
+      },
+      "kind": "siege",
+      "importance": 3,
+      "parent": "egyptian-ottoman-war-1839-1841",
+      "start": {
+        "year": 1840,
+        "month": 11,
+        "circa": true,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1840,
+        "month": 11,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.0839,
+          32.9261
+        ],
+        "units": [
+          "acre-plain"
+        ],
+        "coords_source": "wikidata:Q126084",
+        "description": {
+          "en": "Acre"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Austrian Empire"
+              }
+            },
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Egyptian garrison of Ibrahim Pasha"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "With British and Austrian help the Syrian coast was blockaded and Acre, the last Egyptian stronghold on the coast, returned to Ottoman control."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-akka",
+          "locator": "article text",
+          "quote": "İngiltere ve Avusturyalılar’ın yardımı ile Suriye sahilleri abluka altına alındı; Sur ve Sayda şehirlerinden sonra Mehmed Ali Paşa’nın bu bölgedeki son dayanak noktası olan Akkâ yeniden Osmanlı hâkimiyetine girdi."
+        }
+      ],
+      "notes": {
+        "en": "The commonly cited date of the naval bombardment (3 November 1840) was not given in the opened source; month shown as approximate."
+      },
+      "casualties": null
+    },
+    {
+      "id": "sinai-and-palestine-campaign",
+      "name": {
+        "en": "Sinai and Palestine campaign (First World War)",
+        "ar": "حملة سيناء وفلسطين",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "kind": "campaign",
+      "wikidata": "Q727536",
+      "importance": 1,
+      "start": {
+        "year": 1915,
+        "month": 2,
+        "day": 3,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1918,
+        "month": 10,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          34.7997,
+          31.2498
+        ],
+        "units": [
+          "sinai-egypt",
+          "gaza-strip",
+          "israel-1949",
+          "west-bank",
+          "east-jerusalem",
+          "transjordan",
+          "syria",
+          "lebanon"
+        ],
+        "coords_source": "wikidata:Q41843",
+        "description": {
+          "en": "Sinai, Palestine, Transjordan and Syria"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Egyptian Expeditionary Force (British, Australian, New Zealand, Indian and other units)"
+              }
+            },
+            {
+              "group": {
+                "en": "Arab forces of the Hashemite revolt (from 1916)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "German and Austro-Hungarian units"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After defending the Suez Canal and advancing across Sinai, British and dominion forces broke the Gaza-Beersheba line (Nov 1917), took Jerusalem (Dec 1917) and, after the Megiddo offensive (Sept 1918), occupied Palestine and Syria before the Ottoman armistice of October 1918."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-sinai-campaign",
+          "locator": "description",
+          "quote": "The Sinai campaign was fought by a principally British and dominion force, against Turkish forces operating from Palestine, for the security of the Suez Canal."
+        },
+        {
+          "ref": "awm-sinai-campaign",
+          "locator": "record",
+          "quote": "Date from 03 February 1915 Date to 28 February 1917"
+        },
+        {
+          "ref": "nzhistory-palestine-overview",
+          "locator": "overview",
+          "quote": "The British made their third attempt to capture Gaza at the end of October 1917."
+        },
+        {
+          "ref": "awm-megiddo-honour",
+          "locator": "description",
+          "quote": "Awarded for participation in the first phase of the final Allied offensive in Palestine."
+        }
+      ],
+      "notes": {
+        "en": "End: the Armistice of Mudros (30 Oct 1918) - not quoted from an opened source here (see britannica-armistice-mudros in the polities layer); month approximate. Turkish usage for the theatre: 'Filistin cephesi' / 'Kanal Harekâtı' for the 1915 canal attack (TDV)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "raid-on-the-suez-canal-1915",
+      "name": {
+        "en": "Ottoman attack on the Suez Canal (1915)"
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Kanal Harekâtı (the Canal operation)"
+          },
+          "used_by": "ottoman",
+          "note": "Turkish historiographical name.",
+          "sources": [
+            {
+              "ref": "tdv-birinci-dunya-savasi",
+              "locator": "section heading",
+              "quote": "Kanal Harekâtı."
+            }
+          ]
+        }
+      ],
+      "kind": "battle",
+      "importance": 2,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1915,
+        "month": 2,
+        "day": 3,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1915,
+        "month": 2,
+        "day": 15,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          32.3442,
+          30.705
+        ],
+        "units": [
+          "sinai-egypt"
+        ],
+        "coords_source": "wikidata:Q899",
+        "description": {
+          "en": "Suez Canal (Ismailia sector)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "Ottoman 4th Army under Djemal Pasha"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "British, Indian and Egyptian forces defending the canal"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The Ottoman attempt to cross the canal failed and the force withdrew to its starting point."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "tdv-birinci-dunya-savasi",
+          "locator": "section 'Kanal Harekâtı'",
+          "quote": "Bahriye Nâzırı Cemal Paşa kumandasındaki Türk kuvvetleri 3 Şubat’ta kanalı geçmeye giriştiler; fakat başarısızlığa uğrayarak 15 Şubat’ta geldikleri yere döndüler."
+        },
+        {
+          "ref": "awm-sinai-campaign",
+          "locator": "record",
+          "quote": "Date from 03 February 1915"
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "battle-of-romani-1916",
+      "name": {
+        "en": "Battle of Romani",
+        "ar": "معركة رمانة",
+        "he": "קרב רומני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q2722527",
+      "importance": 2,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1916,
+        "month": 8,
+        "day": 3,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1916,
+        "month": 8,
+        "day": 5,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          32.648,
+          30.992
+        ],
+        "units": [
+          "sinai-north"
+        ],
+        "coords_source": "wikidata:Q2722527",
+        "description": {
+          "en": "Romani, east of the Suez Canal in northern Sinai"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Anzac Mounted Division and British infantry"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "German units"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "British and dominion forces defeated the Ottoman-German advance, ending the threat to the Suez Canal."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-battle-of-romani",
+          "locator": "description",
+          "quote": "The battle of Romani, fought between 3 and 5 August 1916, finally put a"
+        }
+      ],
+      "notes": {
+        "en": "AWM's record dates are 4-5 August while its description gives 3-5 August 1916. Quote truncated at the page's own sentence break in the downloaded text."
+      },
+      "casualties": null
+    },
+    {
+      "id": "first-battle-of-gaza-1917",
+      "name": {
+        "en": "First Battle of Gaza",
+        "ar": "معركة غزة الأولى",
+        "he": "קרב עזה הראשון",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q2791318",
+      "importance": 2,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1917,
+        "month": 3,
+        "day": 26,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1917,
+        "month": 3,
+        "day": 26,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4737,
+          31.4893
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q2791318",
+        "description": {
+          "en": "Gaza"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The British attack failed after troops were withdrawn at nightfall with the town nearly taken."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-battles-of-gaza",
+          "locator": "description",
+          "quote": "The first battle of Gaza took place on 26 March 1917."
+        },
+        {
+          "ref": "nzhistory-palestine-overview",
+          "locator": "overview",
+          "quote": "On 26 March 1917 the New Zealand Mounted Rifles Brigade all but captured the town, only to be ordered to withdraw as nightfall approache"
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "second-battle-of-gaza-1917",
+      "name": {
+        "en": "Second Battle of Gaza",
+        "ar": "معركة غزة الثانية",
+        "he": "קרב עזה השני",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q388581",
+      "importance": 2,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1917,
+        "month": 4,
+        "day": 17,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1917,
+        "month": 4,
+        "day": 19,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4737,
+          31.4893
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q388581",
+        "description": {
+          "en": "Gaza"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After three days of frontal attacks against strengthened Ottoman defences the British called off the attack without significant gains."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-battles-of-gaza",
+          "locator": "description",
+          "quote": "The second battle of Gaza took place three weeks later, beginning on 17 April 1917."
+        },
+        {
+          "ref": "awm-battles-of-gaza",
+          "locator": "description",
+          "quote": "After three days of fighting the attack was called off, having not gained any significant ground."
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "third-battle-of-gaza-1917",
+      "name": {
+        "en": "Third Battle of Gaza (Gaza-Beersheba offensive)",
+        "ar": "معركة غزة الثالثة",
+        "he": "קרב עזה השלישי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q941322",
+      "importance": 2,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1917,
+        "month": 10,
+        "day": 31,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1917,
+        "month": 11,
+        "day": 7,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4737,
+          31.4893
+        ],
+        "units": [
+          "gaza-strip",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q941322",
+        "description": {
+          "en": "Gaza-Beersheba line"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After the capture of Beersheba outflanked the Ottoman line, Gaza fell to the British on 7 November 1917."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-battles-of-gaza",
+          "locator": "description",
+          "quote": "The third battle of Gaza was begun as a feint to divert enemy forces to Gaza."
+        },
+        {
+          "ref": "awm-battles-of-gaza",
+          "locator": "description",
+          "quote": "This undermined the security of Gaza, which fell to the British on 7 November 1917 after little resistance from Turkish forces."
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "battle-of-beersheba-1917",
+      "name": {
+        "en": "Battle of Beersheba (1917)",
+        "ar": "معركة بئر السبع",
+        "he": "קרב באר שבע",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q2665626",
+      "importance": 2,
+      "parent": "third-battle-of-gaza-1917",
+      "start": {
+        "year": 1917,
+        "month": 10,
+        "day": 31,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1917,
+        "month": 10,
+        "day": 31,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.7997,
+          31.2498
+        ],
+        "units": [
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q2665626",
+        "description": {
+          "en": "Beersheba"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "British 20th Corps and Desert Mounted Corps (incl. Australian Light Horse)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "British and Australian forces captured Beersheba and its wells, outflanking the Gaza-Beersheba line."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-beersheba",
+          "locator": "article text",
+          "quote": "The British 20 Corps launched an attack on Beersheba at dawn on 31 October 1917."
+        },
+        {
+          "ref": "awm-beersheba",
+          "locator": "article text",
+          "quote": "The capture of Beersheba would break the Gaza—Beersheba lin"
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "battle-of-jerusalem-1917",
+      "name": {
+        "en": "Battle of Jerusalem (1917)",
+        "ar": "معركة القدس",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q1378270",
+      "importance": 1,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1917,
+        "month": 11,
+        "circa": true,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1917,
+        "month": 12,
+        "day": 30,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.2275,
+          31.7764
+        ],
+        "units": [
+          "east-jerusalem",
+          "israel-1949",
+          "west-bank"
+        ],
+        "coords_source": "wikidata:Q1378270",
+        "description": {
+          "en": "Judean hills and Jerusalem"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "German units"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "British forces captured Jerusalem (7-9 December 1917) and held it against Ottoman counter-attacks (26-30 December 1917)."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-jerusalem-honour",
+          "locator": "description",
+          "quote": "Awarded for participation in the operations to capture and occupy Jerusalem between 7 and 9 December 1917, and its subsequent defence between 26 and 30 December 1917 ."
+        }
+      ],
+      "notes": {
+        "en": "Fighting in the Judean hills began in November 1917 (start approximate); the city surrendered on 9 December and Allenby entered on 11 December (polities layer: OETA). Wikidata Hebrew label: כיבוש ירושלים בידי הבריטים ('the capture of Jerusalem by the British')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "transjordan-raids-1918",
+      "name": {
+        "en": "Transjordan raids (First Amman and Es Salt raids, 1918)"
+      },
+      "kind": "raid",
+      "importance": 3,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1918,
+        "month": 3,
+        "day": 22,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1918,
+        "month": 5,
+        "day": 3,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.7272,
+          32.0392
+        ],
+        "units": [
+          "transjordan",
+          "west-bank"
+        ],
+        "coords_source": "wikidata:Q867586",
+        "description": {
+          "en": "Jordan valley, Es Salt and Amman"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Anzac and British mounted and infantry units"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "German units"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Both raids east of the Jordan (22-30 March and 30 April - 3 May 1918) failed and the British withdrew west of the river."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-first-amman-raid",
+          "locator": "description",
+          "quote": "The first \"raid\" on Amman was mounted between 22 and 30 March 1918 by the British 60th Infantry Division"
+        },
+        {
+          "ref": "awm-es-salt-raid",
+          "locator": "description",
+          "quote": "Es Salt, a village in Palestine 23 km west of Amman, was the scene of heavy fighting between 30 April"
+        },
+        {
+          "ref": "nzhistory-palestine-overview",
+          "locator": "overview",
+          "quote": "A more ambitious large-scale raid on Amman a month later by the Anzac and British mounted troops ended in failure, as did a second raid across the Jordan at the end of April."
+        }
+      ],
+      "casualties": null
+    },
+    {
+      "id": "battle-of-megiddo-1918",
+      "name": {
+        "en": "Battle of Megiddo (1918)",
+        "ar": "معركة مجدو",
+        "he": "קרב מגידו",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "battle",
+      "wikidata": "Q199371",
+      "importance": 1,
+      "parent": "sinai-and-palestine-campaign",
+      "start": {
+        "year": 1918,
+        "month": 9,
+        "day": 19,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1918,
+        "month": 9,
+        "day": 25,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.883,
+          32.4
+        ],
+        "units": [
+          "israel-1949",
+          "west-bank",
+          "transjordan"
+        ],
+        "coords_source": "wikidata:Q199371",
+        "description": {
+          "en": "Sharon plain, Jezreel valley, Samaria (Nablus) and the Jordan valley"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "group": {
+                "en": "Egyptian Expeditionary Force (British, Australian, New Zealand, Indian, French units)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            },
+            {
+              "group": {
+                "en": "German units"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "First phase of the final Allied offensive in Palestine (19-25 September 1918), which broke the Ottoman front."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "awm-megiddo-honour",
+          "locator": "record",
+          "quote": "Date from 19 September 1918 Date to 25 September 1918"
+        },
+        {
+          "ref": "awm-megiddo-honour",
+          "locator": "description",
+          "quote": "Awarded for participation in the first phase of the final Allied offensive in Palestine."
+        }
+      ],
+      "notes": {
+        "en": "The outcome's 'destroyed the Ottoman armies ... opening the way to Damascus' is general history; the opened AWM record supports the dates and its being the first phase of the final offensive."
+      },
+      "casualties": null
+    },
+    {
+      "id": "arab-revolt-1916-1918",
+      "name": {
+        "en": "Arab Revolt (1916–1918)",
+        "he": "המרד הערבי",
+        "translation_status": {
+          "he": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "The Great Arab Revolt (al-Thawra al-Arabiyya al-Kubra)"
+          },
+          "original": {
+            "text": "الثورة العربية الكبرى",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "al-Thawra al-'Arabiyya al-Kubra"
+          },
+          "used_by": "jordanian",
+          "sources": [
+            {
+              "ref": "kinghussein-great-arab-revolt",
+              "locator": "page title",
+              "quote": "The Great Arab Revolt"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Sharif Hussein's rebellion (Şerîf Hüseyin isyanı)"
+          },
+          "used_by": "ottoman",
+          "note": "Turkish historiographical usage.",
+          "sources": [
+            {
+              "ref": "tdv-serif-huseyin",
+              "locator": "article text",
+              "quote": "Şerîf Hüseyin isyanına"
+            }
+          ]
+        }
+      ],
+      "kind": "revolt",
+      "wikidata": "Q239060",
+      "importance": 1,
+      "start": {
+        "year": 1916,
+        "month": 6,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1918,
+        "month": 10,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          35.0,
+          29.53
+        ],
+        "units": [
+          "aqaba-hisma",
+          "edom",
+          "moab",
+          "ammon",
+          "badia",
+          "damascus"
+        ],
+        "coords_source": "approximate (Aqaba, not from Wikidata)",
+        "description": {
+          "en": "Hejaz, then Aqaba, Transjordan and southern Syria to Damascus"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Hashemite Arab forces of Sharif Hussein (emirs Faisal and Abdullah)"
+              }
+            },
+            {
+              "polity": "united-kingdom"
+            },
+            {
+              "polity": "france"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "ottoman-empire"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Arab forces allied with Britain advanced from the Hejaz through Transjordan; Emir Faisal's forces entered Damascus in 1918, and at the end of the war Arab forces controlled modern Jordan and much of southern Syria."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "kinghussein-great-arab-revolt",
+          "locator": "page text",
+          "quote": "Consequently, in June 1916, as head of the Arab nationalists and in alliance with Britain and France, Sharif Hussein initiated the Great Arab Revolt against Ottoman rule."
+        },
+        {
+          "ref": "kinghussein-great-arab-revolt",
+          "locator": "page text",
+          "quote": "His sons, the emirs Abdullah and Faisal, led the Arab forces, with Emir Faisal’s forces liberating Damascus from Ottoman rule in 1918."
+        },
+        {
+          "ref": "tdv-serif-huseyin",
+          "locator": "article text",
+          "quote": "İngilizler, önceleri stratejik anlamda pek önemli görmedikleri Şerîf Hüseyin isyanına Çanakkale savaşlarında yaşadıkları hayal kırıklığından sonra ağırlık verdiler."
+        }
+      ],
+      "notes": {
+        "en": "Framing differs: the Jordanian (Hashemite) account calls it the 'Great Arab Revolt' that 'liberated' Damascus; Turkish historiography calls it 'Sharif Hussein's rebellion' (Şerîf Hüseyin isyanı). The 'france' polity id is used for the French Third Republic (from 1870). Coordinates approximate (Aqaba)."
       },
       "casualties": null
     },
@@ -13143,6 +15331,2786 @@
       ],
       "notes": {
         "en": "Context record. Exact dates of the first and last missile attacks (January and February 1991) were not given in the opened source; months are approximate. Coordinates: Tel Aviv (Wikidata Q33935)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "second-intifada-2000-2005",
+      "name": {
+        "en": "Second Intifada (al-Aqsa Intifada)",
+        "ar": "الانتفاضة الفلسطينية الثانية",
+        "he": "האינתיפאדה השנייה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "al-Aqsa Intifada"
+          },
+          "original": {
+            "text": "انتفاضة الأقصى",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "Intifadat al-Aqsa"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "mitchell-report-2001",
+              "locator": "section 'What happened?'",
+              "quote": "Thus began what has become known as the \"Al-Aqsa Intifada\""
+            },
+            {
+              "ref": "palquest-second-intifada",
+              "locator": "text",
+              "quote": "marking the beginning of the al-Aqsa Intifada"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Second Intifada"
+          },
+          "used_by": "international",
+          "sources": [
+            {
+              "ref": "britannica-intifada",
+              "locator": "section 'The second intifada'",
+              "quote": "the second intifada (sometimes called the Al-Aqsa intifada) began in September 2000"
+            }
+          ]
+        }
+      ],
+      "kind": "uprising",
+      "wikidata": "Q49106",
+      "importance": 1,
+      "start": {
+        "year": 2000,
+        "month": 9,
+        "day": 29,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2005,
+        "month": 2,
+        "day": 8,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.2342,
+          31.7767
+        ],
+        "units": [
+          "west-bank",
+          "gaza-strip",
+          "east-jerusalem",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q1218",
+        "description": {
+          "en": "West Bank, Gaza Strip, East Jerusalem and Israeli cities"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian armed groups (Fatah/Tanzim and al-Aqsa Martyrs' Brigades, Hamas, Palestinian Islamic Jihad, PFLP)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Authority security forces (in part)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The uprising gradually subsided by 2005 without a political settlement; Israel reoccupied the West Bank cities during it (Operation Defensive Shield, 2002)."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "section 'What happened?'",
+          "quote": "Thus began what has become known as the \"Al-Aqsa Intifada\" (Al-Aqsa being a mosque at the Haram al-Sharif/Temple Mount)."
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "same section",
+          "quote": "In this view, Palestinian violence was planned by the PA leadership, and was aimed at \"provoking and incurring Palestinian casualties as a means of regaining the diplomatic initiative.\""
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "same section",
+          "quote": "The Palestine Liberation Organization (PLO) denies the allegation that the intifada was planned."
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "section 'Why did it happen?'",
+          "quote": "The Sharon visit did not cause the \"Al-Aqsa Intifada.\" But it was poorly timed and the provocative effect should have been foreseen"
+        },
+        {
+          "ref": "mitchell-report-2001",
+          "locator": "same section",
+          "quote": "we have no basis on which to conclude that there was a deliberate plan by the PA to initiate a campaign of violence at the first opportunity"
+        },
+        {
+          "ref": "prime-2003-narratives",
+          "locator": "Palestinian narrative, glossary 'Intifada'",
+          "quote": "The first Intifada began on December 9, 1987 and the second began on September 29, 2000."
+        },
+        {
+          "ref": "palquest-second-intifada",
+          "locator": "section 'Outbreak, 29 September 2000'",
+          "quote": "it came in the form of the provocative visit by Likud Party leader Ariel Sharon to the Haram al-Sharif, surrounded by 1,000 policemen, on 28 September 2000."
+        },
+        {
+          "ref": "britannica-intifada",
+          "locator": "section 'The second intifada'",
+          "quote": "Although no single event signaled its end, most analysts agree that it had run its course by late 2005."
+        }
+      ],
+      "notes": {
+        "en": "Contested causes: the Government of Israel held that the violence was planned by the PA leadership after the failure of Camp David; the PLO denied this and blamed Israel's excessive force and the Sharon visit; the Mitchell Committee found no basis to conclude that either side planned the violence. End: no single event; the Sharm el-Sheikh summit of 8 February 2005 is often used (Wikidata), Britannica says it had run its course by late 2005. The outcome sentence summarises general history (Defensive Shield 2002 is sourced below; the barrier and the 2005 Gaza withdrawal are covered by other layers)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "october-2000-events",
+      "name": {
+        "en": "October 2000 events (protests by Arab citizens of Israel)",
+        "he": "אירועי אוקטובר 2000",
+        "translation_status": {
+          "he": "machine-draft"
+        }
+      },
+      "kind": "uprising",
+      "wikidata": "Q2893596",
+      "importance": 3,
+      "parent": "second-intifada-2000-2005",
+      "start": {
+        "year": 2000,
+        "month": 10,
+        "day": 1,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2000,
+        "month": 10,
+        "day": 8,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.3035,
+          32.7019
+        ],
+        "units": [
+          "israel-1949"
+        ],
+        "coords_source": "approximate (Nazareth, not from Wikidata)",
+        "description": {
+          "en": "Arab towns in Galilee and the Triangle (Nazareth, Umm al-Fahm, Sakhnin and others) and mixed towns"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Arab (Palestinian) citizens of Israel - protesters"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Israel Police"
+              }
+            },
+            {
+              "group": {
+                "en": "Jewish rioters (in places)"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Police killed a number of Arab protesters; the state Or Commission (2003) found there was no justification for the killings."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "palquest-october-2000-events",
+          "locator": "highlight text",
+          "quote": "they opened fire on the protesters with tear gas, rubber-coated metal bullets, and live ammunition."
+        },
+        {
+          "ref": "palquest-october-2000-events",
+          "locator": "section 'Or Commission Report'",
+          "quote": "the Or Commission issued its report in late October 2003. The commission acknowledged that there was no justification for killings during the protests"
+        }
+      ],
+      "notes": {
+        "en": "Only a Palestinian source (PalQuest) was opened; it also reports the Or Commission's finding that Arab leaders had incited confrontation. Arabic usage 'Habbat October' (Wikidata Arabic label هبة أكتوبر); Hebrew 'the October 2000 events' (אירועי אוקטובר 2000). Coordinates: Nazareth (approximate, not from Wikidata)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "operation-defensive-shield-2002",
+      "name": {
+        "en": "Operation Defensive Shield",
+        "ar": "عملية الدرع الواقي",
+        "he": "מבצע חומת מגן",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "campaign",
+      "wikidata": "Q2276724",
+      "importance": 2,
+      "parent": "second-intifada-2000-2005",
+      "start": {
+        "year": 2002,
+        "month": 3,
+        "day": 29,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2002,
+        "month": 5,
+        "day": 10,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.2034,
+          31.9038
+        ],
+        "units": [
+          "west-bank"
+        ],
+        "coords_source": "approximate (Ramallah, not from Wikidata)",
+        "description": {
+          "en": "Palestinian cities of the West Bank: Ramallah, Tulkarm, Qalqilya, Bethlehem, Jenin, Nablus"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian armed groups"
+              }
+            },
+            {
+              "polity": "palestinian-authority"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israeli forces occupied the largest Palestinian cities of the West Bank under extensive curfews."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "summary",
+          "quote": "Israel’s military action during Operation Defensive Shield, which began on 29 March with an incursion into"
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "summary",
+          "quote": "followed by entry into Tulkarm and Qalqilya on 1 April, Bethlehem on 2 April, and Jenin and Nablus on 3 April."
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "summary",
+          "quote": "By 3 April, six of the largest cities in the West Bank, and their surrounding towns, villages and refugee camps, had been occupied by the Israeli military."
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "summary",
+          "quote": "Operation Defensive Shield was characterized by extensive curfews on civilian populations and restrictions"
+        }
+      ],
+      "notes": {
+        "en": "End date approximate (Wikidata 10 May 2002; the UN report covers events to 7 May). The UN report gives the Israeli rationale as attacks by Palestinian armed groups operating from the West Bank (e.g. the Netanya Passover bombing of 27 March 2002). Hebrew name Homat Magen ('Defensive Wall'). Coordinates: Ramallah (approximate)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "battle-of-jenin-2002",
+      "name": {
+        "en": "Battle of Jenin (April 2002)"
+      },
+      "kind": "battle",
+      "wikidata": "Q4871330",
+      "importance": 2,
+      "parent": "operation-defensive-shield-2002",
+      "start": {
+        "year": 2002,
+        "month": 4,
+        "day": 3,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2002,
+        "month": 4,
+        "day": 11,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.3014,
+          32.4603
+        ],
+        "units": [
+          "west-bank"
+        ],
+        "coords_source": "wikidata:Q4871330",
+        "description": {
+          "en": "Jenin refugee camp"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian armed groups in Jenin camp (Islamic Jihad, Fatah/al-Aqsa Martyrs' Brigades, Hamas)"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After heavy fighting the IDF took control of the camp on 11 April; large parts of the camp were destroyed; Israeli forces withdrew and lifted the curfew on 18 April."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "para. 48",
+          "quote": "The fighting lasted approximately 10 days and was characterized by two distinct phases: the first phase began on 3 April and ended on 9 April, while the second phase lasted during 10 and 11 April."
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "para. 49",
+          "quote": "There are allegations by the Palestinian Authority and human rights organizations that in the conduct of their operations in the refugee camp the Israeli Defence Forces engaged in unlawful killings, the use of human shields"
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "summary",
+          "quote": "in large part because the armed Palestinian groups sought by IDF placed their combatants and installations among civilians."
+        },
+        {
+          "ref": "un-a-es-10-186",
+          "locator": "para. 61",
+          "quote": "On 11 April, the last Palestinian militants in Jenin camp surrendered to IDF"
+        },
+        {
+          "ref": "palquest-second-intifada",
+          "locator": "text",
+          "quote": "Subduing Jenin refugee camp proved to be a difficult undertaking. The resistance of the camp fighters reverberated through the West Bank and Gaza."
+        }
+      ],
+      "notes": {
+        "en": "Contested: Palestinian officials alleged a massacre with a very high death toll; the UN Secretary-General's report states that this figure 'has not been substantiated in the light of the evidence that has emerged', while recording allegations of unlawful killings and use of human shields and Israel's argument that armed groups operated among civilians. Wikidata labels: Arabic مجزرة جنين ('Jenin massacre'), Hebrew הקרב בג'נין 2002 ('the battle in Jenin 2002'). Casualty figures omitted."
+      },
+      "casualties": null
+    },
+    {
+      "id": "lebanon-war-2006",
+      "name": {
+        "en": "2006 Lebanon War",
+        "ar": "حرب لبنان 2006",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Second Lebanon War"
+          },
+          "original": {
+            "text": "מלחמת לבנון השנייה",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Milhemet Levanon ha-Shniya"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "britannica-arab-israeli-wars",
+              "locator": "table of wars",
+              "quote": "2006 Second Lebanon War Hezbollah"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q49104",
+      "importance": 1,
+      "start": {
+        "year": 2006,
+        "month": 7,
+        "day": 12,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2006,
+        "month": 8,
+        "day": 14,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.5131,
+          33.8869
+        ],
+        "units": [
+          "lebanon",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q3820",
+        "description": {
+          "en": "Southern Lebanon, Beirut's southern suburbs and other parts of Lebanon; northern Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hezbollah"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "A UN-brokered cessation of hostilities under Security Council resolution 1701 took effect on 14 August 2006; the Lebanese army and an enlarged UNIFIL deployed in the south."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-2006-lebanon-war",
+          "locator": "Quick Facts",
+          "quote": "Date: July 12, 2006 - August 14, 2006"
+        },
+        {
+          "ref": "unifil-background",
+          "locator": "section 'New Crisis Erupts'",
+          "quote": "New hostilities on the Israeli-Lebanese border started on 12 July 2006 when Hizbollah launched several rockets from Lebanese territory across the Blue Line towards IDF positions"
+        },
+        {
+          "ref": "un-s-res-1701-2006",
+          "locator": "para. 1",
+          "quote": "Calls for a full cessation of hostilities based upon, in particular, the immediate cessation by Hizbollah of all attacks and the immediate cessation by Israel of all offensive military operations"
+        },
+        {
+          "ref": "britannica-arab-israeli-wars",
+          "locator": "table of wars",
+          "quote": "2006 Second Lebanon War Hezbollah Began with the killing and capture of Israeli soldiers by Hezbollah"
+        },
+        {
+          "ref": "palquest-gaza-2006-2017",
+          "locator": "text",
+          "quote": "in July-August 2006, war broke out between Israel and Hizballah after the latter abducted two soldiers north of Israel."
+        }
+      ],
+      "notes": {
+        "en": "Lebanon and the Arab world commonly call it the 'July War' (Harb Tammuz); this usage was not verified in an opened source. Israel's name 'Second Lebanon War' (Wikidata Hebrew label מלחמת לבנון השנייה) is given by Britannica."
+      },
+      "casualties": null
+    },
+    {
+      "id": "battle-of-gaza-2007",
+      "name": {
+        "en": "Battle of Gaza (June 2007, Hamas–Fatah fighting)"
+      },
+      "kind": "civil-war",
+      "wikidata": "Q373655",
+      "importance": 2,
+      "start": {
+        "year": 2007,
+        "month": 6,
+        "day": 10,
+        "circa": true,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2007,
+        "month": 6,
+        "day": 15,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.45,
+          31.5167
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q373655",
+        "description": {
+          "en": "Gaza Strip"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades, Executive Support Force)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Fatah and PA security forces loyal to President Abbas"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Hamas took control of the Gaza Strip; President Abbas dismissed the Hamas-led government and declared a state of emergency (14 June 2007), leaving a Fatah-led PA in the West Bank and Hamas rule in Gaza."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-palestine-split-administration",
+          "locator": "section text",
+          "quote": "After a week of fighting, Hamas forces defeated Fatah forces and took control of the Gaza Strip, leading Abbas to dismiss the Hamas-led government and declare a state of emergency in June 2007."
+        },
+        {
+          "ref": "palquest-gaza-2006-2017",
+          "locator": "text",
+          "quote": "However, all-out fighting between the two sides resumed in June 2007, with Hamas eliminating security forces loyal to Abbas in Gaza. The latter declared a state of emergency on 14 June"
+        }
+      ],
+      "notes": {
+        "en": "The factions characterise the events differently; no source stating each faction's own framing (e.g. 'coup' vs pre-emptive action) was opened here, so they are not attributed. Dates 10-15 June from Wikidata (Q373655); Wikidata labels: Arabic اشتباكات حماس–فتح ('Hamas-Fatah clashes'), Hebrew השתלטות חמאס על עזה ('Hamas takeover of Gaza')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-war-2008-2009",
+      "name": {
+        "en": "Gaza War (2008–2009)",
+        "ar": "الحرب على غزة (2008–2009)",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Cast Lead (Oferet Yetzuka)"
+          },
+          "original": {
+            "text": "מבצע עופרת יצוקה",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Mivtza Oferet Yetzuka"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "israel-mfa-2015-gaza-conflict-report",
+              "locator": "para. 49 and p. 19",
+              "quote": "Operation “Cast Lead”"
+            },
+            {
+              "ref": "un-a-hrc-12-48",
+              "locator": "para. 29",
+              "quote": "the operation it codenamed “Operation Cast Lead”"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Battle of al-Furqan"
+          },
+          "original": {
+            "text": "معركة الفرقان",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "Ma'rakat al-Furqan"
+          },
+          "used_by": "palestinian-hamas",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2008-2009",
+              "locator": "text",
+              "quote": "Hamas would call it the Battle of al-Furqan (the Battle of Right against Wrong)."
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "The War on Gaza"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2008-2009",
+              "locator": "title",
+              "quote": "The War on Gaza, 2008–2009"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q170682",
+      "importance": 1,
+      "start": {
+        "year": 2008,
+        "month": 12,
+        "day": 27,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2009,
+        "month": 1,
+        "day": 18,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip; rocket fire on southern Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "A ceasefire on 18 January 2009 ended the 23-day Israeli offensive and Israel completed its withdrawal on 21 January; Hamas remained in control of Gaza."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "un-a-hrc-12-48",
+          "locator": "para. 29 (summary)",
+          "quote": "Israel deployed its navy, air force and army in the operation it codenamed “Operation Cast Lead”."
+        },
+        {
+          "ref": "un-a-hrc-12-48",
+          "locator": "para. 29",
+          "quote": "lasted from 27 December 2008 to 18 January 2009"
+        },
+        {
+          "ref": "palquest-gaza-war-2008-2009",
+          "locator": "text",
+          "quote": "On 26 December, Israeli defense minister Ehud Barak approved a detailed offensive plan known as Operation Cast Lead . Hamas would call it the Battle of al-Furqan (the Battle of Right against Wrong)."
+        },
+        {
+          "ref": "palquest-gaza-war-2008-2009",
+          "locator": "text",
+          "quote": "On 18 January 2009, a cease-fire agreement was reached, twenty-three days after Israel launched the attack; the Israeli withdrawal was completed on 21 January."
+        },
+        {
+          "ref": "israel-mfa-2015-gaza-conflict-report",
+          "locator": "para. 49",
+          "quote": "Israel, as a last resort, launched air and later ground operations against Hamas in December 2008 and January 2009"
+        }
+      ],
+      "notes": {
+        "en": "The 'Gaza massacre' usage in Arab media was not verified in an opened source. Israel did not cooperate with the Goldstone mission and rejected its findings (general history; Israel's 2009 MFA report 'The Operation in Gaza: Factual and Legal Aspects' is cited in the 2015 MFA report but was not opened). Wikidata labels: Arabic الحرب على غزة (2008–2009) ('the war on Gaza'), Hebrew מבצע עופרת יצוקה ('Operation Cast Lead')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-conflict-2012",
+      "name": {
+        "en": "Gaza conflict (November 2012)",
+        "ar": "الحرب على غزة 2012",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Pillar of Defense (Amud Anan)"
+          },
+          "original": {
+            "text": "מבצע עמוד ענן",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Mivtza Amud Anan"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "israel-mfa-2015-gaza-conflict-report",
+              "locator": "para. 51",
+              "quote": "also known as Operation “Pillar of Defense”"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q53692",
+      "importance": 2,
+      "start": {
+        "year": 2012,
+        "month": 11,
+        "day": 14,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2012,
+        "month": 11,
+        "day": 21,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.3333,
+          31.3333
+        ],
+        "units": [
+          "gaza-strip",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q53692",
+        "description": {
+          "en": "Gaza Strip (air strikes); rocket fire on Israel incl. Tel Aviv"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Islamic Jihad (al-Quds Brigades)"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "An eight-day exchange of Israeli air strikes and Palestinian rocket fire ended with an Egyptian-brokered ceasefire on 21 November 2012, without an Israeli ground invasion."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "palquest-gaza-war-2014",
+          "locator": "text",
+          "quote": "Israel launched Operation Pillar of Defense on 14 November 2012"
+        },
+        {
+          "ref": "palquest-gaza-war-2014",
+          "locator": "text",
+          "quote": "On 21 November, a cease-fire—brokered by Mohamed Morsi ’s Muslim Brotherhood –led Egyptian government—took effect."
+        },
+        {
+          "ref": "israel-mfa-2015-gaza-conflict-report",
+          "locator": "para. 51",
+          "quote": "the IDF initiated an aerial operation (hereinafter: “the Gaza Operation 2012,” also known as Operation “Pillar of Defense”) on November 14, 2012."
+        },
+        {
+          "ref": "palquest-gaza-2006-2017",
+          "locator": "text",
+          "quote": "Israel carried out another campaign of intensive bombardment of Gaza but did not commit ground forces."
+        }
+      ],
+      "notes": {
+        "en": "Hamas named its operation 'Stones of Baked Clay' (Hijarat al-Sijjil) - not verified in an opened source. The Hebrew name 'Amud Anan' means 'Pillar of Cloud' (Wikidata Hebrew label מבצע עמוד ענן). Arabic Wikidata label الحرب على غزة 2012 ('the war on Gaza 2012')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-war-2014",
+      "name": {
+        "en": "Gaza War (2014)",
+        "ar": "الحرب على غزة 2014",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Protective Edge (Tzuk Eitan)"
+          },
+          "original": {
+            "text": "מבצע צוק איתן",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Mivtza Tzuk Eitan"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "israel-mfa-2015-gaza-conflict-report",
+              "locator": "executive summary, para. 1",
+              "quote": "also known as “Operation Protective Edge” or the “2014 Gaza Conflict”"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "The 2014 Gaza War"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2014",
+              "locator": "title",
+              "quote": "The 2014 Gaza War"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q17324420",
+      "importance": 1,
+      "start": {
+        "year": 2014,
+        "month": 7,
+        "day": 7,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2014,
+        "month": 8,
+        "day": 26,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip (air, naval and ground operations); rocket fire and tunnel attacks on Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Islamic Jihad and other armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "The fighting ended with an open-ended ceasefire on 26 August 2014; Hamas remained in control of Gaza."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-mfa-2015-gaza-conflict-report",
+          "locator": "executive summary, para. 1",
+          "quote": "presents detailed factual and legal information regarding the intensive hostilities that took place from July 7 to August 26, 2014 between the State of Israel and Hamas"
+        },
+        {
+          "ref": "un-a-hrc-29-52",
+          "locator": "para. 19",
+          "quote": "On 7 July 2014, the Israel Defense Forces commenced operation “Protective Edge” in the Gaza Strip, with the stated objective of stopping the rocket attacks by Hamas and destroying its capabilities to conduct operations against Israel."
+        },
+        {
+          "ref": "palquest-gaza-war-2014",
+          "locator": "text",
+          "quote": "Operation Protective Edge began on 8 July."
+        },
+        {
+          "ref": "palquest-gaza-2006-2017",
+          "locator": "text",
+          "quote": "From 8 July through 26 August 2014, Israeli naval, air, and ground forces assaulted and re-invaded Gaza in what the Israelis called Operation Protective Edge ."
+        }
+      ],
+      "notes": {
+        "en": "Start date given as 7 July (Israel MFA; UN COI) or 8 July (PalQuest). Hamas named its campaign 'Eaten Straw' (al-'Asf al-Ma'kul) - not verified in an opened source. The Hebrew name 'Tzuk Eitan' means 'Solid Cliff'. The UN commission of inquiry (A/HRC/29/52) found possible war crimes by both Israel and Palestinian armed groups; Israel's 2015 report defends its conduct as lawful (not quoted here). 'Blockade continued' is general context (the MFA report describes the maritime blockade)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "great-march-of-return-2018-2019",
+      "name": {
+        "en": "Great March of Return (Gaza border protests, 2018–2019)",
+        "ar": "احتجاجات غزة الحدودية 2018–19",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Great March of Return and Breaking the Siege"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "un-a-hrc-40-74",
+              "locator": "para. 7",
+              "quote": "supporting the “great march of return and breaking of the siege”"
+            }
+          ]
+        }
+      ],
+      "kind": "uprising",
+      "wikidata": "Q51139646",
+      "importance": 2,
+      "start": {
+        "year": 2018,
+        "month": 3,
+        "day": 30,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2019,
+        "month": 12,
+        "circa": true,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Five main protest sites along the Gaza-Israel perimeter fence"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian protesters in Gaza (organised with the participation of factions incl. Hamas)"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Weekly protests at the perimeter fence continued until the end of 2019; Israeli forces used live fire, and the protests' character is disputed."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "palquest-great-march-of-return",
+          "locator": "text",
+          "quote": "The Great March of Return demonstrations began on 30 March 2018, deliberately timed to coincide with Land Day"
+        },
+        {
+          "ref": "palquest-great-march-of-return",
+          "locator": "text",
+          "quote": "What began as a single demonstration evolved into a sustained campaign lasting nearly twenty months, from March 2018 through the end of 2019."
+        },
+        {
+          "ref": "palquest-great-march-of-return",
+          "locator": "text",
+          "quote": "Israeli officials characterized the protests as a security threat orchestrated by Hamas, alleging that militants were using civilian crowds as cover"
+        },
+        {
+          "ref": "un-a-hrc-40-74",
+          "locator": "para. 29",
+          "quote": "Israeli security forces stated that they perceived a new security threat in the demonstrations as being closely linked with Palestinian armed groups and an attempt to mask “terror activities”."
+        },
+        {
+          "ref": "un-a-hrc-40-74",
+          "locator": "para. 32",
+          "quote": "In the commission’s view, the demonstrations were civilian in nature, had clearly stated political aims and, despite some acts of significant violence, did not constitute combat or a military campaign."
+        }
+      ],
+      "notes": {
+        "en": "Contested: Palestinian organisers and the UN commission describe civilian protests (with some violence) met by disproportionate Israeli live fire; Israel and the IDF describe Hamas-orchestrated riots used as cover for attacks and border breaches. The outcome's last clause is a summary of these positions; Israel's rejection of the commission's report is general knowledge (not quoted). End: end of 2019 (PalQuest)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "israel-palestine-crisis-2021",
+      "name": {
+        "en": "May 2021 Israel–Palestine crisis and Gaza war",
+        "ar": "الاشتباكات الإسرائيلية الفلسطينية 2021",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Guardian of the Walls (Shomer ha-Homot)"
+          },
+          "original": {
+            "text": "מבצע שומר החומות",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Mivtza Shomer ha-Homot"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2021",
+              "locator": "text",
+              "quote": "Israeli counteraction, named Operation Guardian of the Walls"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Operation Sword of Jerusalem (Sayf al-Quds)"
+          },
+          "original": {
+            "text": "سيف القدس",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "Sayf al-Quds"
+          },
+          "used_by": "palestinian-hamas",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2021",
+              "locator": "text",
+              "quote": "Hamas and other Gaza -based resistance forces launched Operation Sword of Jerusalem"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Unity Intifada"
+          },
+          "used_by": "palestinian",
+          "sources": [
+            {
+              "ref": "palquest-gaza-war-2021",
+              "locator": "text",
+              "quote": "the unity intifada in which Palestinian citizens of Israel and Palestinians in the territories occupied in 1967 rose in protest in May 2021"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q106775117",
+      "importance": 2,
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip",
+          "east-jerusalem",
+          "israel-1949",
+          "west-bank"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip and Israel (rockets and air strikes); East Jerusalem (al-Aqsa compound, Sheikh Jarrah); mixed Arab-Jewish towns in Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Islamic Jihad and other Gaza armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Eleven days of Israeli air strikes and Palestinian rocket fire ended in a ceasefire brokered by Egypt, Qatar and the UN on 21 May 2021; the crisis also brought unrest in Jerusalem, the West Bank and mixed towns in Israel."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "palquest-gaza-war-2021",
+          "locator": "text",
+          "quote": "As the deadline passed, Hamas and other Gaza -based resistance forces launched Operation Sword of Jerusalem"
+        },
+        {
+          "ref": "palquest-gaza-war-2021",
+          "locator": "text",
+          "quote": "Israeli counteraction, named Operation Guardian of the Walls , began that evening with airstrikes on Hamas targets"
+        },
+        {
+          "ref": "palquest-gaza-war-2021",
+          "locator": "text",
+          "quote": "The fighting ended on 21 May, after both Hamas and Israel agreed to a ceasefire brokered by Egypt, Qatar , and the UN"
+        },
+        {
+          "ref": "palquest-gaza-war-2021",
+          "locator": "text",
+          "quote": "the unity intifada in which Palestinian citizens of Israel and Palestinians in the territories occupied in 1967 rose in protest in May 2021"
+        }
+      ],
+      "notes": {
+        "en": "Only a Palestinian-institution source (PalQuest) was opened for this record; it gives both sides' operation names. Background: clashes at al-Aqsa during Ramadan and threatened evictions in Sheikh Jarrah. Hebrew name 'Shomer ha-Homot'. Wikidata Hebrew label המהומות בישראל (2021) ('the 2021 riots in Israel')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "october-7-attack-2023",
+      "name": {
+        "en": "7 October 2023 attack on Israel"
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Al-Aqsa Flood (Tufan al-Aqsa)"
+          },
+          "original": {
+            "text": "طوفان الأقصى",
+            "lang": "ar",
+            "script": "Arab",
+            "translit": "Tufan al-Aqsa"
+          },
+          "used_by": "palestinian-hamas",
+          "sources": [
+            {
+              "ref": "aljazeera-2023-10-07-al-aqsa-flood",
+              "locator": "report text",
+              "quote": "the rocket fire marked the start of “Operation Al-Aqsa Flood”"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "The October 7 massacre"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "jpost-2026-06-23-idf-control",
+              "locator": "article text",
+              "quote": "who were directly or indirectly involved in the October 7 massacre"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "October 7 attack"
+          },
+          "used_by": "international",
+          "sources": [
+            {
+              "ref": "britannica-israel-hamas-war",
+              "locator": "section heading",
+              "quote": "The October 7, 2023, attack"
+            }
+          ]
+        }
+      ],
+      "kind": "raid",
+      "importance": 1,
+      "start": {
+        "year": 2023,
+        "month": 10,
+        "day": 7,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2023,
+        "month": 10,
+        "day": 7,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "israel-1949",
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Israeli communities, military posts and a music festival near the Gaza perimeter (Gaza envelope); launched from the Gaza Strip"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Islamic Jihad and other Palestinian armed groups"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "group": {
+                "en": "Israeli and foreign civilians"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Armed groups from Gaza breached the perimeter, attacked military posts and civilian communities and took hostages into Gaza; Israel declared war the next day."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "aljazeera-2023-10-07-al-aqsa-flood",
+          "locator": "report text",
+          "quote": "Mohammed Deif, a senior Hamas military commander, said the rocket fire marked the start of “Operation Al-Aqsa Flood”"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "section 'The October 7, 2023, attack'",
+          "quote": "Hamas, along with other militants in the Gaza Strip, such as the Palestinian Islamic Jihad (PIJ), carried out the October 7 attack on Shemini Atzeret"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "introduction",
+          "quote": "The next day, Israel declared war for the first time since the Yom Kippur War (1973)."
+        },
+        {
+          "ref": "un-a-hrc-56-26",
+          "locator": "para. 74",
+          "quote": "The Commission found that the war crimes of intentionally directing attacks against civilians and murder or wilful killing had been committed"
+        },
+        {
+          "ref": "hrw-2024-07-17-october-7",
+          "locator": "news release",
+          "quote": "Hamas’ military wing – the Qassam Brigades – and at least four other Palestinian armed groups committed numerous war crimes and crimes against humanity against civilians during the October 7, 2023 assault on southern Israel"
+        },
+        {
+          "ref": "hamas-2024-our-narrative",
+          "locator": "as quoted by Al Jazeera",
+          "quote": "a necessary step and a normal response to confront all Israeli conspiracies against the Palestinian people",
+          "via": "aljazeera-2024-01-21-hamas-narrative"
+        },
+        {
+          "ref": "hamas-2024-our-narrative",
+          "locator": "as quoted by Al Jazeera",
+          "quote": "If there was any case of targeting civilians; it happened accidentally and in the course of the confrontation with the occupation forces",
+          "via": "aljazeera-2024-01-21-hamas-narrative"
+        }
+      ],
+      "notes": {
+        "en": "Contested framing: Hamas calls it 'Operation Al-Aqsa Flood', presents it as a response to occupation and blockade aimed at military sites and the capture of soldiers, and says any harm to civilians was accidental (its January 2024 'Our Narrative'). The UN Commission of Inquiry (June 2024) and Human Rights Watch (July 2024) found deliberate attacks on civilians, killings and hostage-taking amounting to war crimes (HRW: also crimes against humanity). Israeli usage includes 'the October 7 massacre' (Jerusalem Post). Other Israeli names reported elsewhere ('Black Saturday/Shabbat', 'Simchat Torah massacre') were not verified in an opened source. Casualty and hostage numbers deliberately omitted."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-war-2023",
+      "name": {
+        "en": "Gaza war (2023– ) / Israel–Hamas war"
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Swords of Iron (Haravot Barzel)"
+          },
+          "original": {
+            "text": "חרבות ברזל",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Haravot Barzel"
+          },
+          "used_by": "israeli",
+          "note": "Name announced by the IDF on the day of the attack (ToI).",
+          "sources": [
+            {
+              "ref": "toi-2025-10-19-war-of-revival",
+              "locator": "article text (via WebFetch)",
+              "quote": "replaces “Swords of Iron,”"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "War of Revival (Milhemet ha-Tkuma)"
+          },
+          "used_by": "israeli-government",
+          "note": "Adopted by cabinet vote on Sunday 19 Oct 2025; disputed - opposition leader Yair Lapid called it the 'War of Blame', hostage family members objected and one minister voted against (ToI). The Hebrew form (Milhemet ha-Tkuma) was not given in the opened source.",
+          "sources": [
+            {
+              "ref": "toi-2025-10-19-war-of-revival",
+              "locator": "headline",
+              "quote": "'War of Revival': Cabinet approves Netanyahu's controversial renaming of Gaza war"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Israel-Hamas War / Gaza War / Israel-Gaza War"
+          },
+          "used_by": "international",
+          "sources": [
+            {
+              "ref": "britannica-israel-hamas-war",
+              "locator": "Quick Facts",
+              "quote": "Also called: Israel-Gaza War or Gaza War"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q122962941",
+      "importance": 1,
+      "start": {
+        "year": 2023,
+        "month": 10,
+        "day": 7,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip",
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip; rocket and other attacks on Israel; related fronts in Lebanon, Yemen, Iran and the West Bank are separate records"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas (Izz ad-Din al-Qassam Brigades)"
+              }
+            },
+            {
+              "group": {
+                "en": "Palestinian Islamic Jihad (al-Quds Brigades) and other armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "A US-brokered ceasefire took effect on 10 October 2025 (all living hostages released, Palestinian prisoners freed, partial Israeli pullback to the 'Yellow Line'); as of 18 October 2026 Israeli forces still held a large part of Gaza, strikes and killings continued, Hamas had not disarmed, and the war had not formally ended."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "introduction",
+          "quote": "The Israel-Hamas War is a war in the Gaza Strip between Israel and Palestinian militants, especially Hamas , that began on October 7, 2023"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "introduction",
+          "quote": "The ceasefire went into effect on October 10"
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "Quick Facts",
+          "quote": "Date: October 7, 2023 - present"
+        },
+        {
+          "ref": "toi-2025-10-19-war-of-revival",
+          "locator": "article text (via WebFetch)",
+          "quote": "The government on Sunday overwhelmingly voted to rename the war in Gaza “The War of Revival,”"
+        },
+        {
+          "ref": "icj-case-192-page",
+          "locator": "case page, latest developments",
+          "quote": "Order of 21 May 2026 Fixing of time-limits: Reply and Rejoinder"
+        },
+        {
+          "ref": "ohchr-2025-09-16-coi-genocide",
+          "locator": "press release, 16 Sept 2025",
+          "quote": "Israel has committed genocide against Palestinians in the Gaza Strip, the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel said in a new report today."
+        },
+        {
+          "ref": "un-news-2024-01-26-icj-order",
+          "locator": "report of the ICJ order of 26 Jan 2024",
+          "quote": "calling on Israel to “take all measures within its power” to prevent such actions"
+        },
+        {
+          "ref": "un-news-2024-01-12-israel-icj",
+          "locator": "report of Israel's oral pleadings",
+          "quote": "Israel strongly rejected accusations by South Africa of genocidal intent against Palestinians"
+        },
+        {
+          "ref": "un-news-2024-01-12-israel-icj",
+          "locator": "same",
+          "quote": "Israel is in a war of defence against Hamas, not against the Palestinian people"
+        },
+        {
+          "ref": "aljazeera-2026-10-10-board-of-peace",
+          "locator": "explainer",
+          "quote": "Hamas has released all 168 living captives and Israel has freed Palestinian prisoners."
+        },
+        {
+          "ref": "hrw-2026-10-10",
+          "locator": "news release",
+          "quote": "Israeli forces continue to kill and wound civilians and deny sufficient food, aid, and water to Palestinians in Gaza one year after a ceasefire agreement took effect on October 10, 2025"
+        }
+      ],
+      "notes": {
+        "en": "Contested - the genocide question: South Africa's case at the ICJ (filed 29 Dec 2023; provisional-measures orders in 2024) was pending on the merits as of Oct 2026 (Order of 21 May 2026 fixed time-limits for the Reply and Rejoinder); the UN Commission of Inquiry concluded in Sept 2025 that Israel committed genocide, and HRW (Oct 2026) refers to 'Israel's acts of genocide'; Israel rejects the accusation, describing a war of self-defence against Hamas, not against Palestinians (ICJ pleadings, Jan 2024). No court has ruled on the merits. Names: Israel's 'Swords of Iron' (announced by the IDF on 7 Oct 2023) was replaced by cabinet vote on 19 Oct 2025 with 'War of Revival' (Milhemet ha-Tkuma); opposition leader Yair Lapid and hostage families objected (ToI), and critics said the name aims to evade responsibility. Wikidata labels: Hebrew 'זירת רצועת עזה במלחמת חרבות ברזל' (Gaza front in the Swords of Iron war), Arabic aliases include 'العدوان الإسرائيلي على غزة' (the Israeli aggression on Gaza). End omitted: ceasefire since 10 Oct 2025 but no formal end; see the child record for the ceasefire period. Casualty figures omitted as requested. The 168 figure quoted is a hostage count, not a casualty figure."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-ground-invasion-2023",
+      "name": {
+        "en": "Israeli ground invasion of the Gaza Strip (from October 2023)"
+      },
+      "kind": "campaign",
+      "importance": 2,
+      "parent": "gaza-war-2023",
+      "start": {
+        "year": 2023,
+        "month": 10,
+        "day": 27,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2025,
+        "month": 10,
+        "day": 10,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Northern Gaza and Gaza City first, then Khan Yunis and the south"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas and other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israeli ground forces advanced into and held large parts of the Strip in stages; a first seven-day pause with a hostage-prisoner exchange followed in late November 2023."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "ap-2023-11-israel-ground-operation",
+          "locator": "section 'Is it an invasion?'",
+          "quote": "Ground forces have moved into enemy territory and operated continuously since last Friday."
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "section 'October 2023-January 2024'",
+          "quote": "The war entered a new chapter at the end of October when Israeli ground forces advanced into the Gaza Strip."
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "same section",
+          "quote": "The first agreement to pause fighting occurred just six weeks into the war, when on November 22 Israel and Hamas agreed to a prisoner exchange mediated by Qatar and Egypt ."
+        }
+      ],
+      "notes": {
+        "en": "Start: the expanded ground operation of Friday 27 Oct 2023 (AP: 'since last Friday'). The November 2023 pause lasted seven days (Britannica); its start date (24 Nov) is general knowledge not in the quoted passage. No end date: ground operations continued in phases until the October 2025 ceasefire and Israeli forces remain in part of the Strip."
+      },
+      "casualties": null
+    },
+    {
+      "id": "rafah-offensive-2024",
+      "name": {
+        "en": "Rafah offensive (May 2024)"
+      },
+      "kind": "campaign",
+      "importance": 2,
+      "parent": "gaza-war-2023",
+      "start": {
+        "year": 2024,
+        "month": 5,
+        "day": 6,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.25,
+          31.2967
+        ],
+        "units": [
+          "gaza-strip",
+          "sinai-egypt"
+        ],
+        "coords_source": "approximate (Rafah, not from Wikidata)",
+        "description": {
+          "en": "Rafah, the Rafah crossing and the Philadelphi Corridor along the Egyptian border"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas and other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israel ordered the evacuation of eastern Rafah, took the Rafah crossing and the Philadelphi Corridor and entered the city; the population sheltering there was displaced again."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "section 'May-June 2024'",
+          "quote": "The next day, Israel ordered the evacuation of 100,000 Palestinians from Rafah ."
+        },
+        {
+          "ref": "britannica-israel-hamas-war",
+          "locator": "same section",
+          "quote": "Soon after the authorization Israeli forces began moving to take control of the Rafah border crossing and the Philadelphi Corridor . On May 14 they entered the city."
+        }
+      ],
+      "notes": {
+        "en": "Start: evacuation order of 6 May 2024 (Britannica: 'the next day' after 5 May). The 100,000 figure in the quote is an evacuation-order figure, not a casualty figure. No clear end date (operations continued through 2024-25). Coordinates approximate (Rafah)."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-war-resumption-2025",
+      "name": {
+        "en": "Collapse of the January 2025 ceasefire and renewed Israeli offensive (March-October 2025)"
+      },
+      "kind": "campaign",
+      "importance": 2,
+      "parent": "gaza-war-2023",
+      "start": {
+        "year": 2025,
+        "month": 3,
+        "day": 18,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2025,
+        "month": 10,
+        "day": 10,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas and other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "A ceasefire in force from 19 January 2025 collapsed when Israel resumed large-scale strikes on 18 March 2025; renewed offensives followed until the October 2025 ceasefire."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "aljazeera-2025-01-19-ceasefire",
+          "locator": "report text",
+          "quote": "The ceasefire came into effect at 11:15am local time (09:15 GMT) on Sunday after Hamas handed over to Israel a list of three female captives to be released as part of the deal."
+        },
+        {
+          "ref": "ap-2025-03-18-gaza-strikes",
+          "locator": "report text",
+          "quote": "The surprise wave of airstrikes plunged Palestinians back into a nightmare they had hoped might be behind them."
+        },
+        {
+          "ref": "ap-2025-03-18-gaza-strikes",
+          "locator": "photo caption",
+          "quote": "following overnight Israeli airstrikes across the Gaza Strip, in Gaza City, Tuesday, March 18"
+        }
+      ],
+      "notes": {
+        "en": "The two sides blamed each other for the collapse of the January ceasefire (negotiations on its second phase failed); these positions were not quoted from an opened source. The January-March 2025 ceasefire is described here as background rather than as a separate record."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-city-offensive-2025",
+      "name": {
+        "en": "Gaza City offensive (August-October 2025)"
+      },
+      "kind": "campaign",
+      "importance": 2,
+      "parent": "gaza-war-resumption-2025",
+      "start": {
+        "year": 2025,
+        "month": 8,
+        "day": 8,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2025,
+        "month": 10,
+        "day": 10,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza City"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hamas and other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israel's security cabinet approved a plan to take control of Gaza City (8 August 2025), drawing UN and international condemnation; the offensive ended with the ceasefire of October 2025."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "guardian-2025-08-08-gaza-city-plan",
+          "locator": "live update 8 Aug 2025, 20.33",
+          "quote": "after Israel’s security cabinet approved a widely condemned plan to take control of Gaza City"
+        },
+        {
+          "ref": "guardian-2025-08-08-gaza-city-plan",
+          "locator": "live update",
+          "quote": "United Nations secretary-general António Guterres has criticized Israel’s plan to take control of Gaza City"
+        },
+        {
+          "ref": "guardian-2025-10-09-ceasefire",
+          "locator": "article text",
+          "quote": "Israel and Hamas have agreed to the initial phase of a ceasefire plan in Gaza, pausing hostilities in the devastated territory"
+        }
+      ],
+      "notes": {
+        "en": "Start shown as the cabinet decision (8 Aug 2025); ground operations began later in August (date not verified in an opened source). The IDF operation name ('Gideon's Chariots II') was not verified in an opened source."
+      },
+      "casualties": null
+    },
+    {
+      "id": "gaza-ceasefire-period-2025-2026",
+      "name": {
+        "en": "Gaza ceasefire period and Israeli 'Yellow Line' zone (October 2025 - )"
+      },
+      "kind": "occupation",
+      "importance": 1,
+      "parent": "gaza-war-2023",
+      "start": {
+        "year": 2025,
+        "month": 10,
+        "day": 10,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          34.4597,
+          31.5075
+        ],
+        "units": [
+          "gaza-strip"
+        ],
+        "coords_source": "wikidata:Q47492",
+        "description": {
+          "en": "Gaza Strip: Israeli forces east of the 'Yellow Line'; Hamas-controlled coastal area west of it"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "polity": "idf-controlled-zone-gaza-2023"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "hamas-administration-gaza"
+            },
+            {
+              "group": {
+                "en": "Hamas and other Palestinian armed groups"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "As of 18 October 2026 the ceasefire formally held but Israeli forces controlled a large part of Gaza behind the 'Yellow Line', Israeli strikes and shootings continued, Hamas had not disarmed, the International Stabilization Force had not deployed and reconstruction had not begun."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "afp-2025-10-10-pullback",
+          "locator": "report",
+          "quote": "Thousands of Gazans began heading north in the territory after the Israeli military announced that a ceasefire had come into effect on Friday."
+        },
+        {
+          "ref": "unsc-res-2803-2025",
+          "locator": "para. 1",
+          "quote": "Endorses the Comprehensive Plan, acknowledges the parties have accepted it, and calls on all parties to implement it in its entirety, including maintenance of the ceasefire"
+        },
+        {
+          "ref": "unsc-res-2803-2025",
+          "locator": "para. 7",
+          "quote": "the Israel Defense Forces (IDF) will withdraw from the Gaza Strip based on standards, milestones, and timeframes linked to demilitarization"
+        },
+        {
+          "ref": "jpost-2026-06-23-idf-control",
+          "locator": "article text",
+          "quote": "Israeli defense officials express concern that Hamas is delaying implementation of the ceasefire agreement while rebuilding its capabilities and preparing for the possibility of renewed fighting."
+        },
+        {
+          "ref": "jpost-2026-06-23-idf-control",
+          "locator": "article text",
+          "quote": "Officials said Hamas has continued to challenge Israeli forces in the area and has not complied with demands to disarm."
+        },
+        {
+          "ref": "jpost-2026-08-11-yellow-line",
+          "locator": "article text",
+          "quote": "The military said Southern Command troops remained deployed in the area under the ceasefire agreement and would continue to act against immediate threats."
+        },
+        {
+          "ref": "hrw-2026-10-10",
+          "locator": "news release",
+          "quote": "Israel continues to move the “ Yellow Line ,” the stated limit of the physical presence of Israeli ground forces under the ceasefire, westward beyond its agreed boundaries"
+        },
+        {
+          "ref": "aljazeera-2026-10-12-yellow-line",
+          "locator": "explainer",
+          "quote": "Israel has expanded its military occupation in the Gaza Strip in violation of a United States-brokered ‘ceasefire’"
+        },
+        {
+          "ref": "aljazeera-2026-10-10-board-of-peace",
+          "locator": "explainer",
+          "quote": "Hamas has also announced the dissolution of its government in the Gaza Strip although Israel has dismissed that as a “stunt”."
+        }
+      ],
+      "notes": {
+        "en": "Dated developments, from several sides: 9 Oct 2025 - Israel and Hamas agree the first phase of the US plan (Guardian). 10 Oct 2025 - ceasefire takes effect; IDF pulls back from parts of Gaza City and Khan Yunis (AFP). 17 Nov 2025 - UNSC res. 2803 endorses the plan, the Board of Peace and a temporary International Stabilization Force; IDF withdrawal tied to demilitarisation. 23 Jun 2026 - Israeli defence officials say Hamas is delaying implementation, rebuilding and refusing to disarm, and that IDF control may expand (Jerusalem Post). 11 Aug 2026 - IDF says it fired on a suspected Hamas sniper near the Yellow Line and will act against immediate threats (Jerusalem Post). 10 Oct 2026 - HRW: Israeli forces continue to kill and wound civilians, restrict aid and move the Yellow Line westward; Al Jazeera: Hamas has released all living captives and announced the dissolution of its Gaza government, which Israel called a 'stunt'. 12 Oct 2026 - Al Jazeera (citing UN data) reports Israel restricting access to about two-thirds of Gaza in violation of the ceasefire. Positions: Israeli officials present the zone as a security perimeter pending Hamas's disarmament; HRW and Al Jazeera describe expanding occupation and continuing violations. Kind 'occupation' reflects IDF ground control of part of Gaza under the ceasefire; the legal characterisation is itself disputed. Casualty figures omitted."
+      },
+      "casualties": null
+    },
+    {
+      "id": "west-bank-operations-2023-2026",
+      "name": {
+        "en": "Israeli military operations in the northern West Bank ('Iron Wall', 2025 - )"
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Iron Wall"
+          },
+          "used_by": "idf",
+          "sources": [
+            {
+              "ref": "guardian-2025-01-21-iron-wall",
+              "locator": "article text",
+              "quote": "The operation, codenamed “Iron Wall”"
+            }
+          ]
+        }
+      ],
+      "kind": "campaign",
+      "importance": 2,
+      "parent": "gaza-war-2023",
+      "start": {
+        "year": 2025,
+        "month": 1,
+        "day": 21,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.3,
+          32.4611
+        ],
+        "units": [
+          "west-bank"
+        ],
+        "coords_source": "wikidata:Q374748",
+        "description": {
+          "en": "Jenin city and refugee camp, then Tulkarm, Nur Shams and other northern West Bank towns and camps"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "polity": "israeli-military-government-west-bank"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Palestinian armed groups in the northern West Bank camps (e.g. Jenin Brigades)"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israel launched a large operation named 'Iron Wall' in Jenin on 21 January 2025, two days into the Gaza ceasefire, extending it to other northern West Bank camps; its end was not established in the sources opened."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "guardian-2025-01-21-iron-wall",
+          "locator": "article text",
+          "quote": "The operation, codenamed “Iron Wall”, took place as the Gaza ceasefire entered a third day"
+        },
+        {
+          "ref": "guardian-2025-01-21-iron-wall",
+          "locator": "article text",
+          "quote": "another step towards achieving the goal we set – strengthening security in Judea and Samaria"
+        },
+        {
+          "ref": "guardian-2025-01-21-iron-wall",
+          "locator": "article text",
+          "quote": "Jenin has been a focus of Israeli raids into the occupied West Bank throughout the 15-month war in Gaza."
+        },
+        {
+          "ref": "aljazeera-2025-01-23-iron-wall",
+          "locator": "explainer",
+          "quote": "The military assault comes after a weeks-long raid by Palestinian Authority (PA) security forces on the Jenin refugee camp"
+        }
+      ],
+      "notes": {
+        "en": "Context: Israeli raids in the West Bank intensified throughout the Gaza war (Guardian), and Britannica's Israel-Hamas War article has a section on 'Israel's large-scale offensive in the West Bank launched in August 2024' (heading seen; text not in the archived copy). Settler violence and Palestinian attacks in the West Bank are not covered here. Status after early 2025 and the operation's end, if any, were not verified; end omitted."
+      },
+      "casualties": null
+    },
+    {
+      "id": "israel-hezbollah-conflict-2023-2024",
+      "name": {
+        "en": "Israel–Hezbollah conflict (2023–2024)"
+      },
+      "kind": "war",
+      "wikidata": "Q122974556",
+      "importance": 1,
+      "start": {
+        "year": 2023,
+        "month": 10,
+        "day": 8,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2024,
+        "month": 11,
+        "day": 27,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.4,
+          33.2
+        ],
+        "units": [
+          "lebanon",
+          "israel-1949",
+          "golan-heights",
+          "shebaa-farms"
+        ],
+        "coords_source": "approximate (southern Lebanon, not from Wikidata)",
+        "description": {
+          "en": "Israel-Lebanon border area, southern Lebanon, Beirut's southern suburbs and northern Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hezbollah"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Cross-border fire from October 2023 escalated into full-scale war in September-November 2024; a ceasefire announced on 26 November 2024, based on UN resolution 1701, left Hezbollah weakened but was only partly implemented."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "section 'Israel-Hezbollah War (2023- )'",
+          "quote": "Hezbollah stepped up its cross-border attacks after Hamas , an allied Palestinian militant group in the Gaza Strip , attacked southern Israel on October 7"
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "Hezbollah pledged to continue firing into Israel until the fighting in the Gaza Strip came to an end."
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "A ceasefire agreement announced on November 26 was based largely around the provisions of United Nations Resolution 1701 that brought the 2006 war to an end."
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "The ceasefire remained tenuous as both Hezbollah and Israel failed to meet its provisions."
+        }
+      ],
+      "notes": {
+        "en": "Start 8 Oct 2023 (first Hezbollah fire after 7 Oct; Britannica gives no day). End: the ceasefire was announced on 26 Nov 2024 and took effect early on 27 Nov (effect date not quoted from an opened source). After the ceasefire Israel kept positions inside southern Lebanon and continued strikes (see israel-hezbollah-war-2026; The National cites 'more than a year of Israeli ceasefire violations'). Hezbollah described its fire as a 'support front' for Gaza - not verified in an opened source."
+      },
+      "casualties": null
+    },
+    {
+      "id": "israeli-invasion-of-lebanon-2024",
+      "name": {
+        "en": "2024 Israeli offensive and ground invasion in Lebanon"
+      },
+      "kind": "campaign",
+      "wikidata": "Q130388076",
+      "importance": 2,
+      "parent": "israel-hezbollah-conflict-2023-2024",
+      "start": {
+        "year": 2024,
+        "month": 9,
+        "day": 17,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2024,
+        "month": 11,
+        "day": 27,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.5131,
+          33.8869
+        ],
+        "units": [
+          "lebanon"
+        ],
+        "coords_source": "wikidata:Q3820",
+        "description": {
+          "en": "Southern Lebanon, the Beqaa and Beirut's southern suburbs (Dahieh)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hezbollah"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After the pager and walkie-talkie explosions (17-18 Sept), intensive air strikes and the killing of Hassan Nasrallah (27 Sept), Israeli ground forces entered southern Lebanon on 1 October 2024; fighting ended with the November 2024 ceasefire."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "section 'Israel-Hezbollah War (2023- )'",
+          "quote": "thousands of pagers and walkie-talkies belonging to members of Hezbollah exploded"
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "photo caption",
+          "quote": "One of hundreds of pagers that exploded across Lebanon on September 17, 2024."
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "On September 27 the Israeli air force dropped more than 80 bombs into the Dahieh neighborhood just south of Beirut in a strike targeting Nasrallah."
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "The devastation in Lebanon over the following two months exceeded that of the 2006 war and included wide destruction in southern Lebanon."
+        }
+      ],
+      "notes": {
+        "en": "Ground invasion date (1 October 2024) from the same Britannica section ('On October 1 Israeli ground forces entered southern Lebanon'; quote not reproduced because it continues with casualty numbers). The '80 bombs' figure quoted is a munitions count, not a casualty figure. Israel's operation name(s) (e.g. 'Northern Arrows') not verified in an opened source."
+      },
+      "casualties": null
+    },
+    {
+      "id": "israel-hezbollah-war-2026",
+      "name": {
+        "en": "Israel–Hezbollah war of 2026 and Israeli 'security zone' in southern Lebanon"
+      },
+      "kind": "war",
+      "importance": 1,
+      "start": {
+        "year": 2026,
+        "month": 3,
+        "day": 2,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.4,
+          33.2
+        ],
+        "units": [
+          "lebanon",
+          "israel-1949"
+        ],
+        "coords_source": "approximate (southern Lebanon, not from Wikidata)",
+        "description": {
+          "en": "Southern Lebanon up to Israel's self-declared 'Yellow Line' (in places about 10-12 km deep), with strikes on Beirut; northern Israel"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "polity": "israeli-security-zone-south-lebanon-2024"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Hezbollah"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Fighting resumed on 2 March 2026 during the US/Israel-Iran war; Israel invaded again and set up a buffer 'security zone' bounded by a self-declared 'Yellow Line'; a ceasefire took effect on 19 June 2026, but Israeli forces remained in fortified positions in the zone as of October 2026."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "national-2026-09-22-unifil",
+          "locator": "article text",
+          "quote": "On March 2, following more than a year of Israeli ceasefire violations in south Lebanon, Hezbollah fired rockets at Israel in retaliation for the assassination of Iran’s supreme leader Ayatollah Ali Khamenei"
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "section 'Israel-Hezbollah War (2023- )'",
+          "quote": "In March 2026 it effectively came to an end when Hezbollah fired missiles at Israel in response to the killing of Ali Khamenei , the supreme leader of Iran ."
+        },
+        {
+          "ref": "britannica-hezbollah",
+          "locator": "same section",
+          "quote": "the Lebanese government quickly moved to outlaw Hezbollah’s military activities"
+        },
+        {
+          "ref": "national-2026-09-22-unifil",
+          "locator": "article text",
+          "quote": "the so-called security buffer zone Israel maintains across the south, which extends up to 10 kilometres into Lebanese territory."
+        },
+        {
+          "ref": "npr-2026-09-19-south-lebanon",
+          "locator": "photo caption",
+          "quote": "Israel has established a restricted buffer zone beyond that line after a U.S.-brokered ceasefire this year."
+        },
+        {
+          "ref": "lwj-2026-10-07-south-lebanon",
+          "locator": "article text",
+          "quote": "That depth is not uniform along the Yellow Line, the boundary of Israel’s self-declared security zone."
+        },
+        {
+          "ref": "lwj-2026-10-07-south-lebanon",
+          "locator": "article text",
+          "quote": "found dozens of launchers that had been left in the area before the June 19 ceasefire took effect."
+        }
+      ],
+      "notes": {
+        "en": "Framing: The National (UAE) describes the March 2026 rockets as retaliation after 'more than a year of Israeli ceasefire violations' and the zone as entrenchment; Israeli military reporting (via Long War Journal/Ynet) describes a defensive security zone and the clearing of Hezbollah sites. UNIFIL's mandate is due to end at the end of 2026 (reported elsewhere; not verified here). No end date: Israeli forces remained in the zone and strikes continued as of mid-October 2026."
+      },
+      "casualties": null
+    },
+    {
+      "id": "iran-israel-strikes-2024",
+      "name": {
+        "en": "Iran–Israel direct strikes of April and October 2024"
+      },
+      "kind": "campaign",
+      "importance": 3,
+      "start": {
+        "year": 2024,
+        "month": 4,
+        "precision": "month"
+      },
+      "end": {
+        "year": 2024,
+        "month": 10,
+        "precision": "month"
+      },
+      "location": {
+        "coords": [
+          51.3897,
+          35.6889
+        ],
+        "units": [
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q3616",
+        "description": {
+          "en": "Missile and drone attacks from Iran on Israel and Israeli strikes in Iran (context; Iran is outside the map area)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Iran"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israel and Iran exchanged direct strikes in April and again in October 2024; according to Britannica, Iran's barrages largely failed to cause significant damage."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "section 'Israel-Hamas War and Israel's window of opportunity'",
+          "quote": "When Israel and Iran twice exchanged direct strikes—first in April 2024 and again in October—Iran downplayed the effectiveness of Israel’s missiles at striking its military targets"
+        },
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "same section",
+          "quote": "Iran’s barrage of missiles toward Israel largely failed to cause significant damage or casualties."
+        }
+      ],
+      "notes": {
+        "en": "Context record only. Exact dates (13-14 and 19 April; 1 and 26 October 2024) and operation names (Iran's 'True Promise' I and II; Israel's 'Days of Repentance') were not verified in an opened source."
+      },
+      "casualties": null
+    },
+    {
+      "id": "iran-israel-war-2025",
+      "name": {
+        "en": "Twelve-Day War (Israel–Iran war, June 2025)",
+        "ar": "حرب الاثني عشر يوما",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Operation Rising Lion (Am ke-Lavi)"
+          },
+          "original": {
+            "text": "עם כלביא",
+            "lang": "he",
+            "script": "Hebr",
+            "translit": "Am ke-Lavi"
+          },
+          "used_by": "israeli",
+          "sources": [
+            {
+              "ref": "cfr-2025-06-13-israel-strikes-iran",
+              "locator": "article text",
+              "quote": "Israel launched Operation Rising Lion"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "12-Day War / Israel-Iran Conflict"
+          },
+          "used_by": "international",
+          "sources": [
+            {
+              "ref": "britannica-12-day-war",
+              "locator": "Quick Facts",
+              "quote": "Also called: Israel-Iran Conflict"
+            }
+          ]
+        }
+      ],
+      "kind": "war",
+      "wikidata": "Q134900605",
+      "importance": 2,
+      "start": {
+        "year": 2025,
+        "month": 6,
+        "day": 13,
+        "precision": "day"
+      },
+      "end": {
+        "year": 2025,
+        "month": 6,
+        "day": 24,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          51.3897,
+          35.6889
+        ],
+        "units": [
+          "israel-1949"
+        ],
+        "coords_source": "wikidata:Q3616",
+        "description": {
+          "en": "Israeli and US strikes across Iran; Iranian missile and drone attacks on Israel (context; Iran is outside the map area)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "group": {
+                "en": "United States"
+              }
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Iran"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "Israel struck Iranian nuclear, military and leadership targets and the US struck Fordow and other nuclear sites; Iran fired missiles and drones at Israel; a ceasefire was announced on 24 June 2025."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "Quick Facts",
+          "quote": "Date: June 13, 2025 - June 24, 2025"
+        },
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "introduction",
+          "quote": "On June 13, 2025, Israel conducted a major operation against Iran ."
+        },
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "introduction",
+          "quote": "A ceasefire was announced on June 24, bringing the 12-day war to an end."
+        },
+        {
+          "ref": "cfr-2025-06-13-israel-strikes-iran",
+          "locator": "article text",
+          "quote": "Israel launched Operation Rising Lion, a large-scale attack taking aim at Iran’s nuclear facilities, military sites, and top military commanders on Friday, June 13."
+        },
+        {
+          "ref": "cfr-2025-06-13-israel-strikes-iran",
+          "locator": "article text",
+          "quote": "Iranian Foreign Minister Abbas Araghchi said that Israel’s attack amounts to a “declaration of war,” and Iran retaliated with its own barrage of drones and missiles."
+        }
+      ],
+      "notes": {
+        "en": "Context record. Iran's name for its retaliation ('True Promise III') and the US operation name ('Midnight Hammer') were not verified in an opened source. Wikidata Hebrew label מבצע עם כלביא ('Operation Rising Lion')."
+      },
+      "casualties": null
+    },
+    {
+      "id": "iran-war-2026",
+      "name": {
+        "en": "2026 Iran war (United States and Israel vs Iran)",
+        "ar": "حرب إيران 2026",
+        "translation_status": {
+          "ar": "machine-draft"
+        }
+      },
+      "kind": "war",
+      "wikidata": "Q138503695",
+      "importance": 2,
+      "start": {
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          51.3897,
+          35.6889
+        ],
+        "units": [
+          "israel-1949",
+          "lebanon"
+        ],
+        "coords_source": "wikidata:Q3616",
+        "description": {
+          "en": "Strikes across Iran; Iranian missile and drone attacks on Israel and on US bases and Gulf states; linked fronts in Lebanon (context; Iran is outside the map area)"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "group": {
+                "en": "United States"
+              }
+            },
+            {
+              "polity": "israel"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "group": {
+                "en": "Iran"
+              }
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "US-Israeli strikes beginning in late February 2026 killed Supreme Leader Ali Khamenei; Iran retaliated against Israel and US bases; a US-Iran memorandum of understanding of 14 June 2026 produced a lull that collapsed on 8 July 2026; the conflict had not formally ended by mid-October 2026."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "introduction",
+          "quote": "Conflict between Iran, Israel, and the United States flared up anew in February 2026"
+        },
+        {
+          "ref": "britannica-12-day-war",
+          "locator": "introduction",
+          "quote": "On the first day of operations, supreme leader Ali Khamenei was killed in the U.S.-Israeli strikes."
+        },
+        {
+          "ref": "guardian-2026-07-08-iran-ceasefire",
+          "locator": "article text",
+          "quote": "the memorandum of understanding (MoU) – the ceasefire negotiating framework agreed on June 14."
+        },
+        {
+          "ref": "guardian-2026-07-08-iran-ceasefire",
+          "locator": "article text",
+          "quote": "The US began another wave of strikes on Iran on Wednesday night"
+        },
+        {
+          "ref": "national-2026-09-22-unifil",
+          "locator": "article text",
+          "quote": "created after Hezbollah and Israel resumed fighting amid the wider US-Iran war."
+        }
+      ],
+      "notes": {
+        "en": "Context record (the war's main theatre is outside the map area). Start date 28 Feb 2026 from Wikidata (Q138503695); Britannica says 'February 2026'. Operation names (US 'Epic Fury', Israel 'Roaring Lion', Iran 'True Promise IV') were not verified in an opened source (Wikidata's Hebrew label is מבצע שאגת הארי, 'Operation Roaring Lion'). Status after July 2026 was not verified in detail; no end date. Lebanon front: see israel-hezbollah-war-2026."
+      },
+      "casualties": null
+    },
+    {
+      "id": "israeli-operations-in-syria-2024",
+      "name": {
+        "en": "Israeli incursion into the Golan buffer zone and Mount Hermon (Syria, December 2024 - )"
+      },
+      "kind": "occupation",
+      "wikidata": "Q131405504",
+      "importance": 2,
+      "start": {
+        "year": 2024,
+        "month": 12,
+        "day": 8,
+        "circa": true,
+        "precision": "day"
+      },
+      "location": {
+        "coords": [
+          35.85,
+          33.4
+        ],
+        "units": [
+          "undof-zone",
+          "syria",
+          "golan-heights"
+        ],
+        "coords_source": "wikidata:Q215471",
+        "description": {
+          "en": "UN area of separation on the Golan (UNDOF zone), the Syrian side of Mount Hermon and other positions in south-west Syria"
+        }
+      },
+      "belligerents": [
+        {
+          "side": "A",
+          "parties": [
+            {
+              "polity": "israel"
+            },
+            {
+              "polity": "israeli-positions-syria-2024"
+            }
+          ]
+        },
+        {
+          "side": "B",
+          "parties": [
+            {
+              "polity": "syria"
+            }
+          ]
+        }
+      ],
+      "outcome": {
+        "en": "After the fall of Bashar al-Assad Israeli troops entered the UN-monitored area of separation and the Syrian side of Mount Hermon and, as of August 2026, said they would not withdraw while threats persisted."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "un-press-sc15951",
+          "locator": "press release, 20 Dec 2024",
+          "quote": "follows reports of Israeli troops entering the demilitarized zone after the fall of Syrian President Bashar al-Assad earlier this month."
+        },
+        {
+          "ref": "un-press-sc15951",
+          "locator": "statement of Algeria's delegate",
+          "quote": "The actual presence of Israeli forces in the area is illegal and constitutes a flagrant violation of the 1974 disengagement agreement and relevant Security Council resolutions"
+        },
+        {
+          "ref": "anews-2026-08-25-katz-hermon",
+          "locator": "article text",
+          "quote": "We will not leave Mount Hermon or the security zone as long as there are jihadist threats to the State of Israel"
+        },
+        {
+          "ref": "anews-2026-08-25-katz-hermon",
+          "locator": "article text",
+          "quote": "After the fall of the Bashar al-Assad regime in late 2024, Israel declared the Disengagement Agreement null and void, seizing the buffer zone and other positions, including the Syrian side of Mount Hermon."
+        }
+      ],
+      "notes": {
+        "en": "Contested: Syria and others (e.g. Algeria at the Security Council) call the presence illegal under the 1974 Disengagement Agreement; Israel's defence minister says forces will stay while 'jihadist threats' persist, and (per Anadolu) Israel declared the agreement null and void. Israeli air strikes elsewhere in Syria (Dec 2024 onward) and Israel-Syria security talks are not covered here. Start: 8 Dec 2024 (fall of Assad; day not quoted)."
       },
       "casualties": null
     }

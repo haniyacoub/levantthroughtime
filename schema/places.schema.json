@@ -259,6 +259,9 @@
                   ],
                   "additionalProperties": false
                 },
+                "what": {
+                  "type": "string"
+                },
                 "by": {
                   "type": "string"
                 },
@@ -267,6 +270,15 @@
                 },
                 "ended_settlement": {
                   "type": "boolean"
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "documented",
+                    "estimated",
+                    "contested",
+                    "unknown"
+                  ]
                 },
                 "sources": {
                   "type": "array",

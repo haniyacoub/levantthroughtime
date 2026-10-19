@@ -43,7 +43,7 @@
         },
         {
           "ref": "britannica-jericho",
-          "locator": "archaeology paragraphs",
+          "locator": "Early settlement: The Stone Age",
           "quote": "By about 8000 bce the inhabitants had grown into an organized community capable of building a massive stone wall around the settlement, strengthened at one point at least by a massive stone tower."
         }
       ],
@@ -450,7 +450,7 @@
         {
           "ref": "britannica-hasmonean-dynasty",
           "locator": "introduction",
-          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea; the offices were hereditary"
+          "quote": "He soon became independent of the Seleucids as high priest, ruler, and ethnarch of Judaea"
         }
       ],
       "duration_s": 14
@@ -589,8 +589,8 @@
         },
         {
           "ref": "britannica-palestine-roman-to-fatimid",
-          "locator": "The rise of Islam",
-          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691"
+          "locator": "section 'The rise of Islam'",
+          "quote": "The caliph ʿAbd al-Malik ibn Marwān (685–705) erected the Dome of the Rock in 691 on the site of the Temple of Solomon"
         }
       ],
       "duration_s": 14

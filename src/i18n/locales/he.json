@@ -218,7 +218,14 @@
     "custody": "האחריות על המקום כיום",
     "custodyContested": "הצדדים מתארים הסדרים אלה באופן שונה; כל עמדה מובאת עם מקורה.",
     "unesco": "אתר מורשת עולמית של אונסק\"ו: „{{name}}” (הוכרז {{year}})",
-    "inDanger": "ברשימת אתרי המורשת העולמית שבסכנה מאז {{year}}"
+    "inDanger": "ברשימת אתרי המורשת העולמית שבסכנה מאז {{year}}",
+    "what": {
+      "captured": "נכבש",
+      "depopulated": "התרוקן מתושביו",
+      "residents expelled": "התושבים גורשו",
+      "residents transferred": "התושבים הועברו",
+      "residents fled": "התושבים ברחו"
+    }
   },
   "langRole": {
     "vernacular": "שפה מדוברת",

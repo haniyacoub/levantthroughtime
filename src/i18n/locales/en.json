@@ -218,7 +218,14 @@
     "custody": "Custody today",
     "custodyContested": "The parties describe these arrangements differently; each position is cited.",
     "unesco": "UNESCO World Heritage: “{{name}}” (inscribed {{year}})",
-    "inDanger": "On the List of World Heritage in Danger since {{year}}"
+    "inDanger": "On the List of World Heritage in Danger since {{year}}",
+    "what": {
+      "captured": "Captured",
+      "depopulated": "Depopulated",
+      "residents expelled": "Residents expelled",
+      "residents transferred": "Residents transferred",
+      "residents fled": "Residents fled"
+    }
   },
   "langRole": {
     "vernacular": "spoken",

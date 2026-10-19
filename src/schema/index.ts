@@ -439,10 +439,13 @@ export const Place = z.strictObject({
     .array(
       z.strictObject({
         date: HistDate,
+        /** What happened, e.g. "captured", "depopulated", "residents expelled" (default: destroyed). */
+        what: z.string().optional(),
         by: z.string().optional(),
         note: z.string().optional(),
         /** True when the sources say the place was not lived in again afterwards (shown as a former place). */
         ended_settlement: z.boolean().optional(),
+        confidence: Confidence.optional(),
         sources: z.array(SourceRef),
       }),
     )
