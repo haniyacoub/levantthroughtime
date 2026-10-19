@@ -173,6 +173,11 @@
       "minimum": -9007199254740991,
       "maximum": 9007199254740991
     },
+    "undated_names_from": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
     "composition_tolerance_pct": {
       "type": "number",
       "exclusiveMinimum": 0
@@ -260,6 +265,7 @@
     "subtitle",
     "timeline",
     "prehistoric_until",
+    "undated_names_from",
     "composition_tolerance_pct",
     "map"
   ],

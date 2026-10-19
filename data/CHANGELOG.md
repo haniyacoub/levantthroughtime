@@ -61,3 +61,43 @@ Totals after merging: **289 sources, 117 polities, 11 cultures, 221 territory sl
 - **Polity gaps.** The Zengids (Damascus 1099–1174); Ayyubid successor principalities; the Mamluk provinces of Kerak and Jerusalem; Josiah's expansion; the Babylonian-period province at Mizpah; Qarmatian incursions (no citable source found).
 - **Paywalled originals.** Many figures are cited via secondary works (60 sources are `cited-via`). The validator lists them for confirmation against the originals.
 - **Fast-moving present.** Post-2023 Gaza, south Lebanon and Syria records carry dated figures from several sides as of 18 Oct 2026 and need regular updating.
+
+---
+
+## 2026-10-19 — Milestones 3–4: languages, landscape, places and holy sites
+
+### What was added
+
+| Pass | Covers | Result |
+|---|---|---|
+| Languages and landscape | Languages spoken and written, by period and role; Mediterranean sea level; Dead Sea levels; four trade routes | 22 languages; 19 sea-level and 23 Dead Sea points; 4 routes |
+| Places | Cities, towns, villages (including depopulated villages), archaeological and prehistoric sites, with dated names | 115 places, 524 names |
+| Holy sites | Significance to each tradition (Jewish, Christian, Muslim, Samaritan, Druze, Bahá'í), names used by each community, custody today, UNESCO listings | 38 sites (3 merged into existing places) |
+
+Totals after merging: **438 sources, 150 places.**
+
+### Decisions made when importing
+
+**Place names**
+- Most ancient names come from Pleiades, whose dates are the bounds of broad periods (to the century), not exact dates of use. Pleiades period tags that are impossible for the language (e.g. an Arabic name tagged to the Bronze Age) were not used; each such name says so in its note.
+- Medieval Arabic names start at the earliest dated geographer quoted by Le Strange (1890). That is a first attestation, not the date the name came into use.
+- A displayed form that is the name itself, in its own language and script, is marked `original`. Arabic and Hebrew place titles taken from Wikidata labels remain `machine-draft`, as decided in Milestone 2.
+- Contested names (e.g. Nablus/Shekhem, Hebron/al-Khalil/Hevron, Jerusalem/al-Quds/Yerushalayim, the Temple Mount/al-Haram al-Sharif) are separate name records, each saying who uses it.
+- **Undated names and places.** Names with no sourced date (mostly current names from Wikidata) are treated as current usage and shown from 1800, the period of the modern surveys (`config.json` › `undated_names_from`). Inhabited places with no dated name at all are also shown from 1800. This is a display rule, not a claim that the place or name is no older; the place panel shows such names with an open date ("…").
+- **Map label in "names then" mode.** The map shows a name in use at the date in the reader's language when there is one, preferring the reader-language rendering of the main name. Otherwise it shows the main name attested most recently. This keeps, for example, Hebron labelled al-Khalil rather than Masjid Ibrahim after 1300.
+
+**Destroyed and depopulated places**
+- A destruction is marked `ended_settlement: true` (shown as a hollow ring) only where the cited source says the place was not lived in again: ancient Ascalon (1191), Lifta and Deir Yassin (1948), Imwas, Yalu and Bayt Nuba (1967), Quneitra (1974). Other destructions (e.g. Ramla 1187, the Gerizim temple c. 110s BCE) are listed in the place panel but do not change the marker.
+- For Deir Yassin, a quote from the Institute for Palestine Studies' Palestinian Journeys was added recording that the captured villagers were removed by truck.
+- Casualty figures are not recorded for any place.
+
+**Holy sites**
+- Custody summaries (13 sites) are marked `contested` where the parties describe the arrangements differently, and cite each side (e.g. for the Temple Mount/al-Haram al-Sharif: the Jerusalem Center for Public Affairs, Jordan's Royal Court, the Arab Center Washington DC, and Reiter 2017).
+- UNESCO's own wording is kept, including the listing "Jerusalem (Site proposed by Jordan)".
+
+### Known gaps (to address in Milestone 8)
+
+- **1948 depopulation dates** are missing for al-Tantura, Saffuriya, Isdud, Yibna, Bayt Jibrin, al-Lajjun and Zir'in: neither Khalidi's *All That Remains* nor Morris's *Birth of the Palestinian Refugee Problem* could be opened. Until they are added, these villages are shown as inhabited after 1948, which is wrong.
+- Late Bronze Age (Amarna) names only where Pleiades has them; the *Tabula Imperii Romani* was not opened directly.
+- Quneitra's 1974 destruction rests on Britannica alone; the Israeli account is not represented.
+- Druze shrine sourcing is thin (Nabi Sabalan rests on one underlying source). The 1967 Protection of Holy Places Law and the Oslo II holy-sites article could not be retrieved.

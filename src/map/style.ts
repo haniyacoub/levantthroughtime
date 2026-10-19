@@ -99,8 +99,8 @@ export function buildStyle(fontFaces: Record<string, { url: string; 'unicode-ran
       { id: 'sea', type: 'background', paint: { 'background-color': COLORS.sea } },
       { id: 'land', type: 'fill', source: 'land', paint: { 'fill-color': COLORS.land } },
       // Land exposed by lower sea levels (modelled).
-      { id: 'shoreline', type: 'fill', source: 'shoreline', paint: { 'fill-color': '#ece4d0', 'fill-opacity': 0.95 } },
-      { id: 'shoreline-edge', type: 'line', source: 'shoreline', paint: { 'line-color': '#b9a77c', 'line-width': 0.8, 'line-dasharray': [2, 2] } },
+      { id: 'shoreline', type: 'fill', source: 'shoreline', paint: { 'fill-color': '#e2cf9b', 'fill-opacity': 0.9 } },
+      { id: 'shoreline-edge', type: 'line', source: 'shoreline', paint: { 'line-color': '#8f7640', 'line-width': 1.1, 'line-dasharray': [2, 1.5] } },
       {
         id: 'hillshade',
         type: 'hillshade',
@@ -134,9 +134,10 @@ export function buildStyle(fontFaces: Record<string, { url: string; 'unicode-ran
         source: 'places',
         paint: {
           'circle-radius': ['interpolate', ['linear'], ['zoom'], 5, ['match', ['get', 'cls'], 'city', 3, 2.5], 10, ['match', ['get', 'cls'], 'city', 5.5, 4.5]],
-          'circle-color': ['match', ['get', 'cls'], 'holy', '#6a3d9a', 'site', '#8c6d31', '#2f3b45'],
-          'circle-stroke-color': '#ffffff',
-          'circle-stroke-width': 1.2,
+          // Former (destroyed or depopulated) places are hollow rings.
+          'circle-color': ['case', ['get', 'former'], '#ffffff', ['match', ['get', 'cls'], 'holy', '#6a3d9a', 'site', '#8c6d31', '#2f3b45']],
+          'circle-stroke-color': ['case', ['get', 'former'], '#5a5a5a', '#ffffff'],
+          'circle-stroke-width': ['case', ['get', 'former'], 1.6, 1.2],
           'circle-opacity': ['case', ['==', ['get', 'selected'], true], 1, 0.9],
         },
       },
@@ -155,7 +156,7 @@ export function buildStyle(fontFaces: Record<string, { url: string; 'unicode-ran
           'symbol-sort-key': ['get', 'rank'],
           'text-optional': true,
         },
-        paint: { 'text-color': '#2f3b45', 'text-halo-color': COLORS.halo, 'text-halo-width': 1.4 },
+        paint: { 'text-color': ['case', ['get', 'former'], '#5f5f5f', '#2f3b45'], 'text-halo-color': COLORS.halo, 'text-halo-width': 1.4 },
       },
       { id: 'conflicts-pulse', type: 'circle', source: 'conflicts', paint: { 'circle-radius': 10, 'circle-color': '#b2182b', 'circle-opacity': 0.25, 'circle-stroke-width': 0 } },
       { id: 'conflicts-dot', type: 'circle', source: 'conflicts', paint: { 'circle-radius': 4, 'circle-color': '#b2182b', 'circle-stroke-color': '#fff', 'circle-stroke-width': 1.2 } },

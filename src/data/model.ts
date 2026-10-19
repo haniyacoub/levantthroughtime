@@ -155,9 +155,12 @@ export interface Place {
   coords_precision?: string;
   founded?: HistDate | null;
   founded_note?: string;
-  destroyed?: { date: HistDate; by?: string; note?: string; sources: SourceRef[] }[];
+  founded_sources?: SourceRef[];
+  destroyed?: { date: HistDate; by?: string; note?: string; ended_settlement?: boolean; sources: SourceRef[] }[];
   names?: PlaceName[];
-  holy_site?: { traditions: Partial<Record<string, { significance: LocalizedText; sources: SourceRef[] }>> };
+  holy_site?: { traditions: Partial<Record<string, { significance: LocalizedText; denominations?: string[]; sources: SourceRef[] }>> };
+  custody?: { summary: LocalizedText; confidence: Confidence; sources: SourceRef[] };
+  unesco?: { property: number; name: string; state_party_label?: string; inscribed: number; criteria?: string; in_danger_since?: number; note?: string };
   description?: LocalizedText;
   confidence: Confidence;
   sources: SourceRef[];
@@ -274,6 +277,7 @@ export interface TradeRoute {
   start: HistDate;
   end?: HistDate;
   waypoints: { label: string; coords: [number, number] }[];
+  branches?: { label: string; waypoints: { label: string; coords: [number, number] }[] }[];
   certainty: string;
   description?: LocalizedText;
   confidence: Confidence;
@@ -334,6 +338,7 @@ export interface AppData {
     subtitle: LocalizedText;
     timeline: { start: { year: number; month?: number }; as_of: HistDate };
     prehistoric_until: number;
+    undated_names_from: number;
     corrections_url?: string;
     map: { bounds: [[number, number], [number, number]]; initial: { center: [number, number]; zoom: number } };
   };

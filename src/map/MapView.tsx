@@ -5,7 +5,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import type { Feature, FeatureCollection, Geometry } from 'geojson';
 import { baseUrl, depthAt, relationsAt, type AppData, type Polity } from '../data/model';
 import { loc } from '../i18n/localize';
-import { placeLabelAt, placeVisibleAt } from '../data/places';
+import { placeLabelAt, placeStateAt } from '../data/places';
 import { useStore } from '../state/store';
 import { startT } from '../time/years';
 import type { Lang } from '../time/format';
@@ -249,17 +249,21 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
   useEffect(() => {
     const map = mapRef.current;
     if (!ready || !map) return;
-    const prehistoricEnd = startT({ year: data.config.prehistoric_until });
+    const times = { prehistoricEndT: startT({ year: data.config.prehistoric_until }), undatedFromT: startT({ year: data.config.undated_names_from }) };
+    const [[x0, y0], [x1, y1]] = data.config.map.bounds;
     const features = data.places
-      .filter((p) => !p.kind.includes('outside-region') && placeVisibleAt(p, t, prehistoricEnd))
-      .map((p) => ({
+      .filter((p) => p.coords[0] >= x0 && p.coords[0] <= x1 && p.coords[1] >= y0 && p.coords[1] <= y1)
+      .map((p) => ({ p, state: placeStateAt(p, t, times) }))
+      .filter((x) => x.state !== null)
+      .map(({ p, state }) => ({
         type: 'Feature' as const,
         geometry: { type: 'Point' as const, coordinates: p.coords },
         properties: {
           id: p.id,
-          label: placeLabelAt(p, t, lang, namesMode),
+          label: placeLabelAt(p, t, lang, namesMode, times),
           cls: p.holy_site ? 'holy' : p.kind.includes('city') || p.kind.includes('town') ? 'city' : p.kind.includes('archaeological-site') ? 'site' : 'city',
-          rank: p.kind.includes('city') ? 0 : 1,
+          former: state === 'former',
+          rank: p.kind.includes('city') ? 0 : p.holy_site ? 1 : 2,
           selected: p.id === placeId,
         },
       }));
@@ -301,7 +305,16 @@ export function MapView({ data, t, lang, controls = true, onMap }: { data: AppDa
       'routes',
       (data.landscape?.trade_routes ?? [])
         .filter((r) => activeAt(r, t))
-        .map((r) => ({ type: 'Feature', properties: { id: r.id, label: loc(r.name, lang) }, geometry: { type: 'LineString', coordinates: r.waypoints.map((w) => w.coords) } })),
+        .flatMap((r) => {
+          const main = r.waypoints.map((w) => w.coords);
+          // A branch starts from the nearest point of the main route.
+          const branches = (r.branches ?? []).map((b) => {
+            const first = b.waypoints[0]!.coords;
+            const start = main.reduce((a, c) => (Math.hypot(c[0] - first[0], c[1] - first[1]) < Math.hypot(a[0] - first[0], a[1] - first[1]) ? c : a));
+            return { type: 'Feature' as const, properties: { id: `${r.id}-${b.label}`, label: '' }, geometry: { type: 'LineString' as const, coordinates: [start, ...b.waypoints.map((w) => w.coords)] } };
+          });
+          return [{ type: 'Feature' as const, properties: { id: r.id, label: loc(r.name, lang) }, geometry: { type: 'LineString' as const, coordinates: main } }, ...branches];
+        }),
     );
   }, [ready, data, t, lang]);
 

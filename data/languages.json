@@ -1,0 +1,1609 @@
+{
+  "$schema": "../schema/languages.schema.json",
+  "languages": [
+    {
+      "id": "egyptian",
+      "name": {
+        "en": "Egyptian (Late Egyptian; hieroglyphic and hieratic)"
+      },
+      "family": "Afro-Asiatic (Egyptian)",
+      "scripts": [
+        "Egyp",
+        "Egyh"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1400,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1150,
+            "circa": true,
+            "precision": "century",
+            "latest": -1101
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Egyptian New Kingdom administration and garrisons in Canaan (hieratic inscriptions concentrated around Lachish; royal stelae at Beth Shean)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 55",
+              "quote": "The Egyptian hieratic inscriptions of the Late Bronze III are found in the same area, with a special intensity around Lachish. This region was the hub of the Egyptian administration in Canaan in the Late Bronze Age"
+            },
+            {
+              "ref": "mazar-2021-beth-shean",
+              "locator": "p. 247",
+              "quote": "a group of Egyptian New Kingdom monuments including two stelae of Seti I, one stele of Ramesses II, and a statue of Rameses III were found"
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 14",
+              "quote": "the situation in the Amarna period represents the entire extent of the Late Bronze II–III, from the fourteenth to the twelfth centuries b.c.e."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-egyptian-language",
+          "quote": "Late Egyptian ( c. 1550– c. 700 bce )"
+        }
+      ],
+      "notes": {
+        "en": "Dates follow Finkelstein's span for the Late Bronze II-III (14th-12th centuries BCE). The local population did not use Egyptian as a vernacular in these sources; diplomatic letters between the Egyptian court and Canaanite rulers were written in Akkadian (see 'akkadian')."
+      }
+    },
+    {
+      "id": "akkadian",
+      "name": {
+        "en": "Akkadian (Babylonian; diplomatic cuneiform)"
+      },
+      "family": "Semitic (East)",
+      "scripts": [
+        "Xsux"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1400,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1301,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "lingua-franca",
+          "speakers": {
+            "en": "Scribes of Canaanite city-state rulers writing to the Egyptian court (Amarna letters)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-amarna-letters",
+              "quote": "Written in an archaic and somewhat provincialized form of Babylonian cuneiform , the tablets represent part of the correspondence between the Egyptian court and other states and vassals of the ancient Middle East ."
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "pp. 13-14",
+              "quote": "The approximately 370 Akkadian clay tablets that were found in the late nineteenth century in el-Amarna in Middle Egypt include part of the diplomatic correspondence between Pharaohs Amenophis III and Amenophis IV and rulers of city-states in Canaan"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -900,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -501,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "lingua-franca",
+          "speakers": {
+            "en": "Regional context: Babylonian as the lingua franca of the Middle East until Aramaic replaced it"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-akkadian-language",
+              "quote": "Babylonian largely supplanted it and became the lingua franca of the Middle East by the 9th century bce . During the 7th and 6th centuries bce , Aramaic gradually began to replace Babylonian"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-akkadian-language"
+        }
+      ],
+      "notes": {
+        "en": "Amarna letters date to the reigns of Amenhotep III and Akhenaten (14th century BCE). The second period is general Middle Eastern context, not specific evidence for the southern Levant."
+      }
+    },
+    {
+      "id": "canaanite-bronze-age",
+      "name": {
+        "en": "Canaanite (Late Bronze Age)"
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "scripts": [
+        "Xsux"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1400,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1150,
+            "circa": true,
+            "precision": "century",
+            "latest": -1101
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Population of the Late Bronze Age city-states of Canaan (known from Canaanite features in the Amarna letters)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-canaanite-languages",
+              "quote": "An early form of Canaanite is attested in the Tell el-Amarna letters ( c. 1400 bc )."
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 14",
+              "quote": "the situation in the Amarna period represents the entire extent of the Late Bronze II–III, from the fourteenth to the twelfth centuries b.c.e."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-canaanite-languages"
+        }
+      ],
+      "notes": {
+        "en": "Britannica groups Hebrew, Moabite, Phoenician and Punic as Canaanite languages; this record covers only the Bronze Age stage known from the Amarna letters. End date is the end of the Late Bronze Age per Finkelstein, not an attested end of the language, which continued in its Iron Age descendants."
+      }
+    },
+    {
+      "id": "phoenician",
+      "name": {
+        "en": "Phoenician"
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "scripts": [
+        "Phnx"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1100,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "People of Tyre, Sidon, Byblos and neighbouring coastal towns (mostly north of the map's core area)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-phoenician-language",
+              "quote": "The earliest Phoenician inscription probably dates from the 11th century bce . The latest inscription from Phoenicia proper is from the 1st century bce , when the language was already being superseded by Aramaic ."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-phoenician-language"
+        }
+      ],
+      "notes": {
+        "en": "Start and end are the earliest and latest inscriptions from Phoenicia proper as given by Britannica; Punic continued in North Africa."
+      }
+    },
+    {
+      "id": "ugaritic",
+      "name": {
+        "en": "Ugaritic (context)"
+      },
+      "family": "Semitic (Northwest)",
+      "scripts": [
+        "Ugar"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1450,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1200,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "literary",
+          "speakers": {
+            "en": "Scribes of the city-state of Ugarit (Ras Shamra, northern Syria) - outside the map area, included for context"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-ugarit",
+              "locator": "The golden age of Ugarit",
+              "quote": "Scribes used four languages: Ugaritic, Akkadian , Sumerian , and Hurrian"
+            },
+            {
+              "ref": "britannica-ugarit",
+              "locator": "The golden age of Ugarit",
+              "quote": "Soon after 1200 bce Ugarit came to an end."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-ugarit"
+        }
+      ],
+      "notes": {
+        "en": "Ugarit's best-documented period is about 1450-1200 BCE (Britannica). Its alphabetic cuneiform texts are a key comparative source for Canaanite languages and literature."
+      }
+    },
+    {
+      "id": "hebrew",
+      "name": {
+        "en": "Hebrew"
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "scripts": [
+        "Phnx",
+        "Hebr"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -1000,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -300,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Israelites and Judahites of the kingdoms of Israel and Judah (Biblical, or Classical, Hebrew)"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "britannica-gezer-calendar",
+              "locator": "excerpt from 'Hebrew alphabet'",
+              "quote": "…of Early Hebrew writing, the Gezer Calendar, dates from the 10th century bce"
+            },
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "the earliest of these is a short inscription in Phoenician characters dating from the 9th century bce"
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 55",
+              "quote": "The language of a late proto-Canaanite ostracon found at Khirbet Qeiyafa was identified by some as Hebrew (Misgav, Garfinkel, and Ganor 2009; Galil 2009; Puech 2010), but other scholars argued against this interpretation"
+            },
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "Hebrew was supplanted by the western dialect of Aramaic beginning about the 3rd century bce ; the language continued to be used as a liturgical and literary language"
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Aramaic had replaced Hebrew as the language of the Jews as early as the 6th century bce ."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -300,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "literary",
+          "speakers": {
+            "en": "Jews of Judaea: religious literature (most Dead Sea Scrolls), legal documents, coin legends of the Hasmonean king Alexander; Mishnaic (Rabbinic) Hebrew of the Mishna (c. 200 CE)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "iaa-lldss-introduction",
+              "quote": "While Hebrew is the most frequently used language in the Scrolls, about 15 % were written in Aramaic and several in Greek."
+            },
+            {
+              "ref": "britannica-palestine-hasmonean-herodian",
+              "locator": "The Hasmonean priest-princes",
+              "quote": "his coins bear Greek as well as Hebrew legends"
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Among the Jews , Aramaic was used by the common people, while Hebrew remained the language of religion and government and of the upper class."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -200,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Whether, and how widely, Jews in Judaea still spoke Hebrew in daily life alongside Aramaic"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Hebrew",
+              "quote": "These texts illustrate the vitality of the Hebrew language in ancient Judea."
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Hebrew",
+              "quote": "The documents from the refuge caves of the Judean Desert are written in a less formal Hebrew."
+            },
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "Mishnaic , or Rabbinic, Hebrew, the language of the Mishna (a collection of Jewish traditions), written about 200 ce (this form of Hebrew was never used among the people as a spoken language)"
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic",
+              "quote": "Jewish Palestinian Aramaic was likely Judea’s primary language at the time of Jesus and the early Christians."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Jewish communities (prayer, religious study, liturgical poetry such as the piyyut of the 6th-9th centuries); Samaritans pray in their own archaic Hebrew"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "Use of the spoken language declined from the 9th century until the 18th century."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "At the beginning of modern Jewish immigration to the Land of Israel (1880ies) Hebrew was used by a considerable part of the Jewish Diaspora population as the language of prayers."
+            },
+            {
+              "ref": "britannica-israel-people",
+              "quote": "They preserve their separate religious and communal organizations and speak Arabic but pray in an archaic form of Hebrew."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1880,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Revived as a spoken language by Jewish immigrants and their children in Ottoman and Mandatory Palestine, then in Israel"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "The idea of giving the immigrants to the Land of Israel the old Biblical and national language — Hebrew, as a common language, was championed by Eliezer Ben Yehuda (1858-1922)"
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "some 40% of the Jewish population in Palestine spoke this language. Their absolute number was about 34,000"
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 288",
+              "quote": "In 1948 some 70% of Jewish adults and 93% of Jewish children spoke Hebrew as their only or principal language"
+            },
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "It was revived as a spoken language in the 19th and 20th centuries and is the official language of Israel ."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1922,
+            "month": 7,
+            "day": 24,
+            "precision": "day"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Mandatory Palestine (one of three official languages)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "avalon-palestine-mandate-1922",
+              "locator": "Art. 22",
+              "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "State of Israel (language of state administration; under the 2018 Basic Law 'the state's language')"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 288",
+              "quote": "political and administrative activities of the country, in Non-Arab localities, have been conducted almost exclusively in Hebrew"
+            },
+            {
+              "ref": "knesset-basic-law-nation-state-2018-adalah-translation",
+              "locator": "Sect. 4(A)",
+              "quote": "The state’s language is Hebrew."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-hebrew-language"
+        },
+        {
+          "ref": "britannica-samaritan",
+          "quote": "They pray in an ancient dialect of Hebrew but speak Arabic as their vernacular"
+        }
+      ],
+      "notes": {
+        "en": "Contested points: (1) the earliest Hebrew texts (Britannica's 'Hebrew alphabet' dates the Gezer Calendar to the 10th century BCE as Early Hebrew writing, its 'Hebrew language' article names a 9th-century inscription as the earliest; the language of the Khirbet Qeiyafa ostracon is disputed); (2) when Aramaic replaced Hebrew as the Jewish vernacular (6th century BCE per Britannica 'Aramaic', from about the 3rd century BCE per Britannica 'Hebrew') and whether Hebrew was still spoken in Roman-period Judaea (the IAA stresses its 'vitality'; Britannica says Mishnaic Hebrew was never a spoken language). Follow-up: specialist works suggested in the brief (e.g. Kutscher, Hezser) were not accessible in this pass. Scripts: paleo-Hebrew (coded here with the Phoenician script code, ISO 15924 having none for it) and the square Jewish script (LLDSS)."
+      }
+    },
+    {
+      "id": "moabite",
+      "name": {
+        "en": "Moabite"
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "periods": [
+        {
+          "start": {
+            "year": -900,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -801,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Kingdom of Moab (royal inscription of King Mesha at Dibon)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-moabite-stone",
+              "locator": "excerpt 'Jordan: Biblical associations'",
+              "quote": "It is inscribed in an eastern form of Canaanite, closely akin to Hebrew."
+            },
+            {
+              "ref": "britannica-moabite-stone",
+              "locator": "excerpt 'Moabite alphabet'",
+              "quote": "The stone bears a 34-line inscription of Meshaʿ, king of Moab, dating from the middle of the 9th century bc"
+            },
+            {
+              "ref": "britannica-canaanite-languages",
+              "quote": "Moabite, which is very close to Hebrew, is known chiefly from one inscription dating from the 8th century bc ."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-moabite-stone"
+        }
+      ],
+      "notes": {
+        "en": "Known chiefly from the Mesha (Moabite) Stone, found at Dhiban in 1868. Britannica's 'Canaanite languages' dates that inscription to the 8th century BC, while its other articles give the 9th century (about 850 BCE); the 9th century is used here. Britannica calls its script the Moabite alphabet (no separate ISO 15924 code, so none is listed)."
+      }
+    },
+    {
+      "id": "aramaic",
+      "name": {
+        "en": "Aramaic"
+      },
+      "family": "Semitic (Northwest, Aramaic)",
+      "scripts": [
+        "Armi",
+        "Hebr"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -900,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -801,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Aramean kingdom of Damascus (royal stele of Hazael at Dan)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "mazar-2021-beth-shean",
+              "locator": "p. 260",
+              "quote": "9th century BCE Aramean stele erected by Hazael at Dan"
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Aramaic is thought to have first appeared among the Aramaeans about the late 11th century bce . By the 8th century bce it had become accepted by the Assyrians as a second language."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -700,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -201,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Assyrian, Babylonian and especially Achaemenid Persian administration; Persian-period provinces such as Yehud and Samaria"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic: Official Aramaic",
+              "quote": "Official Aramaic – Also known as Standard Aramaic or Imperial Aramaic, this language was in use from the 7th to 3rd centuries bce ."
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "It subsequently became the official language of the Achaemenian Persian dynasty (559–330 bce )"
+            },
+            {
+              "ref": "stern-yehud-vision-reality",
+              "locator": "p. 9",
+              "quote": "YEHUD MEDINTA was the Aramaic name given in the Persian period to the province of Judaea."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -200,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Jews of Judaea and Galilee (Jewish Palestinian Aramaic; also literary works and Bar Kokhba-era letters)"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic: Jewish Palestinian Aramaic",
+              "quote": "In use from 200 bce to 200 ce , Jewish Palestinian Aramaic was likely Judea’s primary language at the time of Jesus and the early Christians."
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Aramaic had replaced Hebrew as the language of the Jews as early as the 6th century bce ."
+            },
+            {
+              "ref": "britannica-hebrew-language",
+              "quote": "Hebrew was supplanted by the western dialect of Aramaic beginning about the 3rd century bce ; the language continued to be used as a liturgical and literary language"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 650,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "West Aramaic speakers: Jews (Judeo-Aramaic, language of the Jerusalem Talmud and Targums), Christians (Christian Palestinian Aramaic)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "West Aramaic dialects include Nabataean (formerly spoken in parts of Arabia), Palmyrene (spoken in Palmyra , which was northeast of Damascus), Palestinian-Christian, and Judeo-Aramaic."
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Aramaic continued in wide use until about 650 ce , when it was supplanted by Arabic."
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic",
+              "quote": "Christian Palestinian Aramaic – Examples can be seen in several texts from Khirbet Mird."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-aramaic-language"
+        },
+        {
+          "ref": "iaa-lldss-languages-scripts"
+        }
+      ],
+      "notes": {
+        "en": "The Samarian papyri from Wadi Daliyeh (4th century BCE) are cited by the IAA as examples of Official Aramaic. Samaritan Aramaic as a later literary dialect was not covered by the sources consulted. The timing of the shift from Hebrew to Aramaic among Jews is contested (see 'hebrew'). Britannica's end date of about 650 CE for wide use is a general statement for the Near East."
+      }
+    },
+    {
+      "id": "nabataean-aramaic",
+      "name": {
+        "en": "Nabataean Aramaic"
+      },
+      "family": "Semitic (Northwest, Aramaic)",
+      "scripts": [
+        "Nbat"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -300,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 300,
+            "circa": true,
+            "precision": "century",
+            "latest": 400
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Nabataean kingdom and its successors (inscriptions and legal documents; Petra, the Negev, Transjordan, the Hauran); Nabataeans were an Arabian people"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic: Nabatean Aramaic",
+              "quote": "Used in the Arabian kingdom of Nabatea (east and south of Judea) from the beginning of the 3rd century bce, Nabatean Aramaic incorporated Arabic features, especially vocabulary."
+            },
+            {
+              "ref": "britannica-arabic-alphabet",
+              "quote": "Some scholars believe that the earliest extant example of Arabic script is a royal funerary inscription of the Nabataeans dating from 328 ce ."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-aramaic-language",
+          "quote": "West Aramaic dialects include Nabataean (formerly spoken in parts of Arabia)"
+        }
+      ],
+      "notes": {
+        "en": "End date is approximate: the sources consulted give no end of use; the 328 CE inscription is cited by Britannica as Nabataean (and by some as the earliest Arabic). The Arabic alphabet descends from the Nabataean script (see 'arabic')."
+      }
+    },
+    {
+      "id": "syriac",
+      "name": {
+        "en": "Syriac (context)"
+      },
+      "family": "Semitic (Northwest, Aramaic - East)",
+      "scripts": [
+        "Syrc"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 700,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Syriac-speaking Christians of the wider Near East (literary and liturgical language based on the dialect of Edessa)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-syriac-language",
+              "quote": "an important Christian literary and liturgical language from the 3rd through the 7th century"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-syriac-language"
+        }
+      ],
+      "notes": {
+        "en": "Included for regional context; the sources consulted do not document specific Syriac use within the southern Levant (the brief's suggested source, Griffith 1997 on the languages of the Palestinian monasteries, was not accessible in this pass)."
+      }
+    },
+    {
+      "id": "greek",
+      "name": {
+        "en": "Greek (Koine and Byzantine)"
+      },
+      "family": "Indo-European (Hellenic)",
+      "scripts": [
+        "Grek"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -333,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 700,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Hellenistic (Ptolemaic, Seleucid) rulers, the Roman administration of the eastern provinces and the Byzantine Empire; Greek officials were replaced by Arabs under the Umayyad caliph Abd al-Malik (685-705)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-palestine-hellenistic",
+              "locator": "From Alexander the Great to 70 ce",
+              "quote": "in his attack on that province after the Battle of Issus (333 bce ), he confined his attention, in his passage southward, to reducing the coastal cities"
+            },
+            {
+              "ref": "britannica-seleucid-kingdom",
+              "quote": "A Greek-speaking Macedonian aristocratic class dominated the Seleucid state throughout its history"
+            },
+            {
+              "ref": "britannica-umayyad-dynasty",
+              "quote": "the financial administration of the empire was reorganized, with Arabs replacing Persian and Greek officials"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": -333,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 640,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "lingua-franca",
+          "speakers": {
+            "en": "Hellenized coastal cities and the Decapolis, the Jerusalem upper class, Jewish and Christian writers, documents, inscriptions and mosaics"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-koine",
+              "quote": "the fairly uniform Hellenistic Greek spoken and written from the 4th century bc until the time of the Byzantine emperor Justinian (mid-6th century ad )"
+            },
+            {
+              "ref": "britannica-palestine-hellenistic",
+              "quote": "The century and a half of Greek rule had Hellenized much of the upper class of Jerusalem"
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Greek",
+              "quote": "The majority of Greek manuscripts found at other Judean Desert sites are papyri documents from the Roman era."
+            },
+            {
+              "ref": "britannica-madaba",
+              "quote": "The map language is Greek"
+            },
+            {
+              "ref": "britannica-palestine-roman-to-fatimid",
+              "locator": "From the Arab conquest to 1900",
+              "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-koine"
+        }
+      ],
+      "notes": {
+        "en": "Start: Alexander's passage through Palestine after the Battle of Issus (333 BCE). The Madaba mosaic map (6th century CE) and Greek tombstones are Byzantine-period examples. Britannica's 'Koine' period ends in the mid-6th century; Byzantine rule over Palestine ended with the Arab conquest (630s); Greek remained in Umayyad financial administration until Abd al-Malik's reform. Continuing Greek liturgical use was not covered by the sources consulted."
+      }
+    },
+    {
+      "id": "latin",
+      "name": {
+        "en": "Latin"
+      },
+      "family": "Indo-European (Italic)",
+      "scripts": [
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 70,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Roman soldiers and military administration in Judaea"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Latin",
+              "quote": "Latin papyri found at Masada belonged to Roman soldiers stationed there after the suppression of the Jewish Revolt in the 70s ce."
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Latin",
+              "quote": "several Latin text fragments from the 1st-2nd centuries ce were found at Wadi Murabba'at"
+            },
+            {
+              "ref": "eck-2010-judaea-diploma",
+              "locator": "p. 21",
+              "quote": "EQVITIBVS ET PEDITIBVS QVI MILITANT IN ALA"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "iaa-lldss-languages-scripts"
+        }
+      ],
+      "notes": {
+        "en": "Eck 2010 publishes a Latin bronze military diploma of 13 May 86 CE for auxiliary troops 'QVAE SVNT IN IVDAEA'. The end date reflects only the finds cited (1st-2nd centuries CE); later Roman, Byzantine and Crusader-period Latin (e.g. the Latin Church) was not covered by the sources consulted."
+      }
+    },
+    {
+      "id": "arabic",
+      "name": {
+        "en": "Arabic"
+      },
+      "family": "Semitic (Central)",
+      "scripts": [
+        "Arab",
+        "Nbat"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 300,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 634,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Arabic-speaking groups of the desert borderlands before Islam (Arabic features in Nabataean Aramaic; earliest Arabic-script inscriptions)"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Aramaic: Nabatean Aramaic",
+              "quote": "Nabatean Aramaic incorporated Arabic features, especially vocabulary."
+            },
+            {
+              "ref": "britannica-arabic-alphabet",
+              "quote": "Although it probably developed in the 4th century ce as a direct descendant of the Nabataean alphabet , its origins and early history are vague."
+            },
+            {
+              "ref": "britannica-arabic-alphabet",
+              "quote": "Others believe that this epigraph shows characteristics of Arabic but is essentially Aramaic and that the earliest extant example of Arabic is a trilingual inscription in Greek , Syriac , and Arabic dating from 512 ce ."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 685,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1516,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Umayyad and later Muslim administrations (Arabic made the official state language under Abd al-Malik)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-umayyad-dynasty",
+              "quote": "In an extensive program of Arabization, Arabic became the official state language"
+            },
+            {
+              "ref": "britannica-umayyad-dynasty",
+              "quote": "Under ʿAbd al-Malik (reigned 685–705) the Umayyad caliphate continued to expand."
+            },
+            {
+              "ref": "britannica-syria-ottoman",
+              "locator": "Ottoman government, 16th-17th centuries",
+              "quote": "In 1516 Sultan Selim I defeated the Mamluks in the Battle of Marj Dābiq"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 650,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Majority population from the early Islamic period on (Muslims, Christians, Samaritans, many Jews); today Palestinian Arabs and Arab citizens of Israel (Levantine Arabic, with Modern Standard Arabic learned in school)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-palestine-roman-to-fatimid",
+              "locator": "From the Arab conquest to 1900",
+              "quote": "For various reasons, the Umayyads paid special attention to Palestine. The process of Arabization and Islamization was gaining momentum there."
+            },
+            {
+              "ref": "iaa-lldss-languages-scripts",
+              "locator": "Arabic",
+              "quote": "Over one hundred Arabic manuscripts, mostly from the 7 th and 8 th centuries ce , were discovered at Khirbet Mird."
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "quote": "Aramaic continued in wide use until about 650 ce , when it was supplanted by Arabic."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "Jews who immigrated to the Land of Israel in the last decades of the 19th century from Eastern Europe and constituted the majority of the Jewish population, used mainly Yiddish, while the Sephardic Jews spoke Arabic and to a considerable extent Ladino"
+            },
+            {
+              "ref": "britannica-israel-people",
+              "quote": "Arabs, whether Christian, Muslim, or Druze, speak Levantine Arabic and learn Modern Standard Arabic in school."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1922,
+            "month": 7,
+            "day": 24,
+            "precision": "day"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Mandatory Palestine (one of three official languages)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "avalon-palestine-mandate-1922",
+              "locator": "Art. 22",
+              "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "end": {
+            "year": 2018,
+            "month": 7,
+            "day": 19,
+            "precision": "day"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "State of Israel: Arabic retained an official status after 1948 (described by Adalah as a 'second official language')"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "adalah-2018-jnsl-two-pager",
+              "locator": "p. 1",
+              "quote": "Article 4 states that the official language of the state is Hebrew, demoting Arabic, which was previously a second official language, to a language with an undefined “special status”."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 288",
+              "quote": "English was no longer an official language, though it remained the most widely learnt foreign language."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 2018,
+            "month": 7,
+            "day": 19,
+            "precision": "day"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "State of Israel: 'special status' under the Basic Law: Israel - the Nation State of the Jewish People"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "knesset-basic-law-nation-state-2018-adalah-translation",
+              "locator": "Sect. 4(B)-(C)",
+              "quote": "The Arabic language has a special status; regulation of the use of the Arabic language in or with government institutions will be according to the law."
+            },
+            {
+              "ref": "knesset-basic-law-nation-state-2018-adalah-translation",
+              "locator": "Sect. 4(C)",
+              "quote": "Nothing in this provision is intended to harm the practical status of the Arabic language prior to the enactment of this Basic Law."
+            },
+            {
+              "ref": "adalah-2018-jnsl-two-pager",
+              "locator": "p. 1",
+              "quote": "demoting Arabic, which was previously a second official language, to a language with an undefined “special status”"
+            },
+            {
+              "ref": "israel-supreme-court-2021-jnsl-summary",
+              "locator": "pp. 1-2",
+              "quote": "Section 4 establishes the Hebrew language as the main language of the state but without detracting from the status of the Arabic language in practice"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 2003,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Palestinian Authority (official language under the Amended Basic Law)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "pa-basic-law-2003",
+              "locator": "Art. 4",
+              "quote": "Arabic shall be the official language."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "iaa-lldss-languages-scripts"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "p. 293, Table 15.4",
+          "quote": "1961 Males 98.7 93.3 96.2 96.8"
+        }
+      ],
+      "notes": {
+        "en": "Pre-Islamic Arabic: the date and script of the earliest Arabic inscriptions are debated (Britannica: 328 CE Nabataean inscription vs 512 CE trilingual). Administrative period: start is Abd al-Malik's accession (685); the end marks the Ottoman conquest of 1516 (Ottoman Turkish then used in contacts with government officials, per Bachi for the late 19th century), not the disappearance of Arabic from public life. 2018 status: the law text says the provision does not harm Arabic's prior practical status; Adalah (an Arab minority rights NGO) holds that it demotes Arabic from an official language; the Supreme Court majority (2021) read Section 4 as not detracting from Arabic's status in practice, while Justice Karra (dissent) held that Sections 1(c), 4 and 7 deny the state's democratic identity. Bachi Table 15.4: 96.5% of non-Jews in Israel used Arabic as only or first language in 1961."
+      }
+    },
+    {
+      "id": "ottoman-turkish",
+      "name": {
+        "en": "Ottoman Turkish"
+      },
+      "family": "Turkic (Oghuz)",
+      "scripts": [
+        "Arab"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1516,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1917,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Ottoman government officials (language of contacts with the state)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-syria-ottoman",
+              "locator": "Ottoman government, 16th-17th centuries",
+              "quote": "In 1516 Sultan Selim I defeated the Mamluks in the Battle of Marj Dābiq and occupied the whole of Syria that year and Egypt the next."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "In contacts with the local Arab population Arabic was largely used, and some Turkish in contacts with Government officials."
+            },
+            {
+              "ref": "britannica-turkish-language",
+              "locator": "History",
+              "quote": "Old Turkish gradually absorbed a great many Arabic and Persian words and even grammatical forms and was written in Arabic script ."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-turkish-language"
+        }
+      ],
+      "notes": {
+        "en": "Bachi documents Turkish only for official contacts in the late 19th century; the sources consulted give no detail on its use in earlier Ottoman centuries in Palestine (local courts and most writing are not covered here). End: British occupation (1917); the Mandate text refers to Palestine as territory 'which formerly belonged to the Turkish Empire'."
+      }
+    },
+    {
+      "id": "french",
+      "name": {
+        "en": "French (Old French in the crusader states)"
+      },
+      "family": "Indo-European (Romance)",
+      "scripts": [
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1275,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 1300,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Frankish (European) settlers and authorities of the crusader states, e.g. written privileges"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "prawer-1985-franks",
+              "locator": "p. 192",
+              "quote": "By that time French written privileges were showing unmistakable influences of Italian"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "prawer-1985-franks"
+        }
+      ],
+      "notes": {
+        "en": "Prawer's statement refers to the last quarter of the 13th century; earlier crusader-period use of French is not dated in the sources consulted. End: end of the 13th century (the passage does not give a closing date). Bachi (p. 286) also notes that in the late Ottoman period 'French and other European languages became more and more important in cultural life of the country'."
+      }
+    },
+    {
+      "id": "mediterranean-lingua-franca",
+      "name": {
+        "en": "Mediterranean lingua franca (French-Italian-Greek) and Italian"
+      },
+      "family": "Indo-European (Romance, mixed)",
+      "scripts": [
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1275,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 1300,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "lingua-franca",
+          "speakers": {
+            "en": "Port communities of the crusader states, including the Italian merchant communes (Venetian, Genoese, Pisan) in Acre"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "prawer-1985-franks",
+              "locator": "p. 192",
+              "quote": "a Mediterranean “lingua franca,” a mixture of French, Italian, and Greek, was spoken in the ports, making its way into written deeds"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "prawer-1985-franks"
+        }
+      ],
+      "notes": {
+        "en": "Prawer also cites a Genoese marriage contract written in Acre in 1273."
+      }
+    },
+    {
+      "id": "yiddish",
+      "name": {
+        "en": "Yiddish"
+      },
+      "family": "Indo-European (Germanic)",
+      "scripts": [
+        "Hebr"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1880,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Ashkenazi Jewish immigrants from Eastern Europe and their communities"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "Jews who immigrated to the Land of Israel in the last decades of the 19th century from Eastern Europe and constituted the majority of the Jewish population, used mainly Yiddish, while the Sephardic Jews spoke Arabic and to a considerable extent Ladino"
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 289",
+              "quote": "Yiddish which at the beginning was predominant among Non-Hebrew speakers, has constantly declined."
+            },
+            {
+              "ref": "britannica-yiddish-language",
+              "quote": "Yiddish is the language of the Ashkenazim , central and eastern European Jews and their descendants ."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "pp. 286-290"
+        }
+      ],
+      "notes": {
+        "en": "Start reflects the source's description of late-19th-century immigrants, not the first presence of Yiddish speakers in the country. Bachi's Table 15.3 (p. 290) gives Yiddish as 59.1% of non-Hebrew languages used by Jews in 1916-18."
+      }
+    },
+    {
+      "id": "ladino",
+      "name": {
+        "en": "Ladino (Judeo-Spanish)"
+      },
+      "family": "Indo-European (Romance)",
+      "scripts": [
+        "Hebr",
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1880,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Sephardic Jews (descendants of Jews expelled from Spain after 1492)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "Jews who immigrated to the Land of Israel in the last decades of the 19th century from Eastern Europe and constituted the majority of the Jewish population, used mainly Yiddish, while the Sephardic Jews spoke Arabic and to a considerable extent Ladino"
+            },
+            {
+              "ref": "britannica-ladino-language",
+              "quote": "Ladino language , Romance language spoken by Sephardic Jews living mostly in Israel , the Balkans , North Africa , Greece , and Turkey . Ladino is very nearly extinct in many of these areas."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-ladino-language"
+        }
+      ],
+      "notes": {
+        "en": "Start reflects Bachi's late-19th-century description; earlier Sephardic communities in Ottoman Palestine are not dated in the sources consulted. Bachi's Table 15.3 (p. 290) gives Ladino as 6.8% of non-Hebrew languages used by Jews in 1916-18."
+      }
+    },
+    {
+      "id": "circassian",
+      "name": {
+        "en": "Circassian"
+      },
+      "family": "Northwest Caucasian",
+      "periods": [
+        {
+          "start": {
+            "year": 1870,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Circassian (Sunni Muslim) communities settled by the Ottomans: villages in Galilee, and Amman (resettled 1878)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-israel-people",
+              "quote": "The Circassians , who are Sunni Muslims, emigrated from the Caucasus in the 1870s. They number a few thousand and live in villages in Galilee, preserving their native language and traditions."
+            },
+            {
+              "ref": "britannica-israel-people",
+              "quote": "Older Circassians speak Arabic as well as the Circassian language, but members of the younger generation speak Hebrew."
+            },
+            {
+              "ref": "britannica-amman",
+              "quote": "In 1878 the Ottoman Turks resettled the site with Circassian refugees from Russia"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-circassian",
+          "quote": "almost the entire Circassian population—some 400,000 people—instead emigrated to territories within the Ottoman Empire"
+        }
+      ],
+      "notes": {
+        "en": "Britannica describes the Circassians as speaking 'a northwest Caucasian language'. Writing systems are not discussed in the sources consulted, so no script is listed."
+      }
+    },
+    {
+      "id": "armenian",
+      "name": {
+        "en": "Armenian"
+      },
+      "family": "Indo-European (Armenian branch)",
+      "scripts": [
+        "Armn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 450,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Armenian Christian community of Jerusalem (seat of one of the four sees of the Armenian Apostolic Church)"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "prawer-1985-minorities",
+              "locator": "p. 85",
+              "quote": "Still, there is no doubt that Jerusalem had an Armenian and Georgian community at a very early period (mid-fifth century)"
+            },
+            {
+              "ref": "prawer-1985-minorities",
+              "locator": "p. 86",
+              "quote": "the new Armenian cathedral in Jerusalem in the rue des Arméniens (Hermins) was functioning by 1165"
+            },
+            {
+              "ref": "britannica-armenian-apostolic-church",
+              "quote": "The Armenian church’s dependence on the Syriac alphabet ended in the 5th century, when Mesrop Mashtots invented an Armenian alphabet and undertook numerous translations of the scriptures into Armenian ."
+            },
+            {
+              "ref": "britannica-armenian-apostolic-church",
+              "quote": "There are also two patriarchates, at Constantinople (now Istanbul, Turkey) and Jerusalem , respectively."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-armenian-language",
+          "quote": "language that forms a separate branch of the Indo-European language family"
+        }
+      ],
+      "notes": {
+        "en": "The sources document an Armenian community in Jerusalem from the mid-5th century and the Armenian church's own alphabet and scripture translations from the 5th century, but do not explicitly describe the language of worship in Jerusalem; hence 'estimated'. Everyday use of Armenian in Jerusalem was not covered by the sources consulted."
+      }
+    },
+    {
+      "id": "english",
+      "name": {
+        "en": "English"
+      },
+      "family": "Indo-European (Germanic)",
+      "scripts": [
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1922,
+            "month": 7,
+            "day": 24,
+            "precision": "day"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "British Mandatory administration of Palestine (one of three official languages)"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "avalon-palestine-mandate-1922",
+              "locator": "Art. 22",
+              "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 288",
+              "quote": "English was no longer an official language, though it remained the most widely learnt foreign language."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "avalon-palestine-mandate-1922"
+        }
+      ],
+      "notes": {
+        "en": "Start is the date of the Mandate instrument (24 July 1922); British rule began earlier (1917-20). After 1948 English ceased to be an official language in Israel (Bachi)."
+      }
+    },
+    {
+      "id": "philistine",
+      "name": {
+        "en": "Philistine (undocumented)"
+      },
+      "family": "unknown",
+      "periods": [
+        {
+          "start": {
+            "year": -1190,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": -605,
+            "circa": true,
+            "precision": "decade",
+            "latest": -562
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Philistines of the southern coastal plain (Gaza, Ashkelon, Ashdod, Gath, Ekron)"
+          },
+          "confidence": "unknown",
+          "sources": [
+            {
+              "ref": "britannica-philistine",
+              "quote": "There are no documents in the Philistine language, which was probably replaced by Canaanite, Aramaic, and, later, Greek."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-philistine",
+          "quote": "one of a people of Aegean origin who settled on the southern coast of Palestine in the 12th century bce"
+        }
+      ],
+      "notes": {
+        "en": "Nothing is known of the original Philistine language from documents (Britannica). Dates bracket the period from the Philistines' first appearance in Egyptian records (about 1190 BCE) to the Babylonian conquest of the Philistine cities under Nebuchadrezzar II (605-562 BCE) and are not dates of language use; the language may have been replaced much earlier. Further specialist literature (e.g. on Philistine personal names) was not consulted in this pass."
+      }
+    }
+  ]
+}

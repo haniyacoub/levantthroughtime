@@ -15,10 +15,12 @@ import { formatDate } from '../time/format';
 const H = 120;
 const PAD_TOP = 8;
 const PAD_BOTTOM = 14;
-/** Points further apart than this (years) are not joined by lines or areas. */
-const MAX_GAP = 30;
+/** Points further apart than this (years) are not joined by lines or areas, so long gaps (e.g. across the 1947–49 war) are not drawn as smooth change. */
+const MAX_GAP = 15;
 
 type Axis = 'religion' | 'ethnicity' | 'population-group';
+/** Synthetic layer: the part of the total that the source does not break down by group. */
+const REST = '_rest';
 
 function useWidth(ref: React.RefObject<HTMLElement | null>): number {
   const [w, setW] = useState(800);
@@ -34,7 +36,9 @@ function useWidth(ref: React.RefObject<HTMLElement | null>): number {
 
 export function PopulationChart({ data, scale }: { data: AppData; scale: EraScale }) {
   const { t: tr } = useTranslation();
-  const { t, lang, chartOpen, chartMode, chartLog, chartSeries, setChart, openSources } = useStore();
+  const { t, lang, chartOpen, chartMode, chartLog: logSetting, chartSeries, setChart, openSources } = useStore();
+  // Stacked areas on a log axis misrepresent the parts, so only the total view can be logarithmic.
+  const chartLog = logSetting && chartMode === 'total';
   const wrap = useRef<HTMLDivElement>(null);
   const W = useWidth(wrap);
   const rtl = isRtl(lang);
@@ -83,6 +87,9 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
               return v === undefined ? null : { group: g.group, value: v };
             })
             .filter((x): x is { group: string; value: number } => !!x);
+          // When the source gives only some groups, the rest of the total is shown as "not broken down".
+          const sum = groups.reduce((a, g) => a + g.value, 0);
+          if (total - sum > total * 0.005) groups.push({ group: REST, value: total - sum });
           return { p, total, groups, partial: !!c.partial };
         })
         .filter((x): x is NonNullable<typeof x> => !!x),
@@ -91,7 +98,8 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
   const groupOrder = useMemo(() => {
     const seen: string[] = [];
     for (const cp of compPoints) for (const g of cp.groups) if (!seen.includes(g.group)) seen.push(g.group);
-    return seen;
+    // The remainder goes on top.
+    return [...seen.filter((g) => g !== REST), ...(seen.includes(REST) ? [REST] : [])];
   }, [compPoints]);
 
   const yDomain = useMemo(() => {
@@ -110,7 +118,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
 
   const y = useMemo(() => {
     const range: [number, number] = [H - PAD_BOTTOM, PAD_TOP];
-    return chartLog && chartMode !== 'share' ? scaleLog().domain(yDomain).range(range).clamp(true) : scaleLinear().domain(yDomain).range(range).clamp(true);
+    return chartLog ? scaleLog().domain(yDomain).range(range).clamp(true) : scaleLinear().domain(yDomain).range(range).clamp(true);
   }, [yDomain, chartLog, chartMode]);
 
   // Lines join consecutive documented censuses / official counts only, within MAX_GAP years.
@@ -164,8 +172,8 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
       for (const g of groupOrder) {
         const ar = d3area<(typeof rows)[number]>()
           .x((d) => d.x)
-          .y0((d) => y(Math.max(chartLog && chartMode !== 'share' ? yDomain[0] : 0, d.bounds[g]![0])))
-          .y1((d) => y(Math.max(chartLog && chartMode !== 'share' ? yDomain[0] : 0, d.bounds[g]![1])));
+          .y0((d) => y(Math.max(0, d.bounds[g]![0])))
+          .y1((d) => y(Math.max(0, d.bounds[g]![1])));
         // A single point is drawn as a thin bar so it stays visible.
         const pts = rows.length === 1 ? [{ ...rows[0]!, x: rows[0]!.x - 2 }, { ...rows[0]!, x: rows[0]!.x + 2 }] : rows;
         out.push({ group: g, d: ar(pts) ?? '' });
@@ -211,7 +219,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
           ))}
         </div>
         <label className="chk">
-          <input type="checkbox" checked={chartLog} disabled={chartMode === 'share'} onChange={(e) => setChart({ chartLog: e.target.checked })} /> {tr('chart.log')}
+          <input type="checkbox" checked={chartLog} disabled={chartMode !== 'total'} onChange={(e) => setChart({ chartLog: e.target.checked })} /> {tr('chart.log')}
         </label>
         <button type="button" className="link-btn" onClick={() => setShowTable(!showTable)}>
           {showTable ? tr('chart.hideTable') : tr('chart.table')}
@@ -239,7 +247,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
               </g>
             ))}
             {stacks.map((s, i) => (
-              <path key={`${s.group}-${i}`} d={s.d} fill={data.groupColors[`${axis}:${s.group}`] ?? '#bbb'} opacity={0.75} />
+              <path key={`${s.group}-${i}`} d={s.d} fill={s.group === REST ? 'url(#hatch-pop)' : data.groupColors[`${axis}:${s.group}`] ?? '#bbb'} opacity={s.group === REST ? 0.45 : 0.75} />
             ))}
             {chartMode === 'total' &&
               linePaths.map((d, i) => <path key={i} d={d} className="pop-line" />)}
@@ -288,7 +296,8 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
           <li className="axis-label">{tr(axis === 'religion' ? 'chart.axisReligion' : axis === 'ethnicity' ? 'chart.axisEthnicity' : 'chart.axisPopulationGroup')}:</li>
           {groupOrder.map((g) => (
             <li key={g}>
-              <span className="swatch" style={{ background: data.groupColors[`${axis}:${g}`] }} aria-hidden /> {loc(groupNames.get(`${axis}:${g}`), lang) || g}
+              <span className="swatch" style={{ background: g === REST ? 'repeating-linear-gradient(45deg,#777 0 2px,#fff 2px 4px)' : data.groupColors[`${axis}:${g}`] }} aria-hidden />{' '}
+              {g === REST ? tr('chart.rest') : loc(groupNames.get(`${axis}:${g}`), lang) || g}
             </li>
           ))}
         </ul>

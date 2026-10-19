@@ -63,7 +63,9 @@
     "contested": "Hatching: contested",
     "partial": "Pale fill: only partly held",
     "overlord": "Coloured halo: the outline colour of an overlord (e.g. a client kingdom under Rome)",
-    "claim": "Thick dashed outline, no fill: an area claimed but not governed"
+    "claim": "Thick dashed outline, no fill: an area claimed but not governed",
+    "shoreline": "Sandy band with dashed edge: land exposed by a lower sea level (modelled)",
+    "former": "Hollow ring: a place destroyed or depopulated at this date"
   },
   "draftNotice": "Text in this language is a machine-translated draft that has not yet been reviewed.",
   "attribution": "Elevation: SRTM, GMTED2010, ETOPO1 (USGS, NOAA) via AWS Terrain Tiles · Coastlines, rivers: Natural Earth",
@@ -143,7 +145,8 @@
     "label": "Population chart. Each mark is one published figure; vertical bars show its range.",
     "date": "Date",
     "value": "Population",
-    "confidence": "Status"
+    "confidence": "Status",
+    "rest": "not broken down by the source"
   },
   "bands": {
     "label": "Who held the land (ruler bands)",
@@ -207,8 +210,15 @@
       "smp": "Samaritan Hebrew",
       "phn": "Phoenician",
       "yi": "Yiddish",
-      "lad": "Ladino"
-    }
+      "lad": "Ladino",
+      "fro": "Old French",
+      "und": "Language not recorded (Barrington Atlas form)"
+    },
+    "denominations": "Churches",
+    "custody": "Custody today",
+    "custodyContested": "The parties describe these arrangements differently; each position is cited.",
+    "unesco": "UNESCO World Heritage: “{{name}}” (inscribed {{year}})",
+    "inDanger": "On the List of World Heritage in Danger since {{year}}"
   },
   "langRole": {
     "vernacular": "spoken",

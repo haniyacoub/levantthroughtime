@@ -4,22 +4,51 @@
     "en": "Southern Levant Through Time",
     "ar": "جنوب بلاد الشام عبر الزمن",
     "he": "הלבנט הדרומי לאורך הזמן",
-    "translation_status": { "ar": "machine-draft", "he": "machine-draft" }
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "subtitle": {
     "en": "12,000 years of history in the land that is today Israel and the Palestinian territories",
     "ar": "اثنا عشر ألف عام من التاريخ في الأرض التي تضم اليوم إسرائيل والأراضي الفلسطينية",
     "he": "12,000 שנות היסטוריה בארץ שבה נמצאות כיום ישראל והשטחים הפלסטיניים",
-    "translation_status": { "ar": "machine-draft", "he": "machine-draft" }
+    "translation_status": {
+      "ar": "machine-draft",
+      "he": "machine-draft"
+    }
   },
   "timeline": {
-    "start": { "year": -10000 },
-    "as_of": { "year": 2026, "month": 10, "day": 18, "precision": "day" }
+    "start": {
+      "year": -10000
+    },
+    "as_of": {
+      "year": 2026,
+      "month": 10,
+      "day": 18,
+      "precision": "day"
+    }
   },
   "prehistoric_until": -3000,
+  "undated_names_from": 1800,
   "composition_tolerance_pct": 2,
   "map": {
-    "bounds": [[31.5, 28.0], [39.0, 34.6]],
-    "initial": { "center": [35.3, 31.6], "zoom": 6.6 }
+    "bounds": [
+      [
+        31.5,
+        28.0
+      ],
+      [
+        39.0,
+        34.6
+      ]
+    ],
+    "initial": {
+      "center": [
+        35.3,
+        31.6
+      ],
+      "zoom": 6.6
+    }
   }
 }

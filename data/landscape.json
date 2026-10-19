@@ -1,0 +1,1736 @@
+{
+  "$schema": "../schema/landscape.schema.json",
+  "sea_level": [
+    {
+      "id": "sl-10000-bp",
+      "date": {
+        "year": -8050,
+        "circa": true,
+        "precision": "millennium"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -40
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "galili-2020-israel-submerged-sites",
+          "locator": "p. 470, sect. 23.7.1 and Fig. 23.23",
+          "quote": "from a depth of nearly −40 m 10,000 years ago"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Earliest value found for the Israeli coast: the start of an 'estimated' curve built from archaeological and geomorphological markers on the Carmel coast. 10,000 years ago converted as BP - 1950. No uncertainty is given. No published Israeli sea-level index point for ~12,000 years ago was found, so none is given here."
+    },
+    {
+      "id": "sl-9000-bp",
+      "date": {
+        "year": -7050,
+        "circa": true,
+        "precision": "millennium"
+      },
+      "level_m": {
+        "low": -35,
+        "high": -16
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "galili-2019-tel-hreiz",
+          "locator": "p. 2",
+          "quote": "Between 9000 and 7000 BP, MSL rose ca. 8m (from -16 to -8m)"
+        },
+        {
+          "ref": "benjamin-2017-mediterranean-sea-level",
+          "locator": "accepted MS lines 1029-1031",
+          "quote": "sea level rose from -35 m to -7 m between 9000–6500 BP"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Two statements, both by teams including E. Galili, differ for ~9000 cal BP: about -16 m (Galili et al. 2019, consistent with the Atlit-Yam well, see next record) versus -35 m (Benjamin et al. 2017). The range spans both; no best value is offered."
+    },
+    {
+      "id": "sl-atlit-yam-well",
+      "date": {
+        "year": -7162,
+        "circa": true,
+        "precision": "century",
+        "latest": -6648
+      },
+      "level_m": {
+        "low": -17.5,
+        "high": -15.5,
+        "best": -16.5
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "sivan-2001-holocene-sea-level-israel",
+          "locator": "abstract; Table 1; p. 113-114",
+          "quote": "the archaeological data place it at −16.5 ± 1 m"
+        },
+        {
+          "ref": "galili-2020-israel-submerged-sites",
+          "locator": "p. 470; Table 23.2 (p. 451)",
+          "quote": "The PPNC Atlit-Yam well bottom is about 15.5 m below modern sea level, indicating a sea-level position of c. −16 m."
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Pre-Pottery Neolithic C village of Atlit-Yam (Carmel coast). Sivan et al. date it by charcoal 8000 ± 90 14C BP (uncalibrated); Galili et al. 2020 calibrate the same sample (PTA 3950) to 9112-8598 cal BP, used here (= c. 7160-6650 BCE). Sivan et al.'s isostatic model predicts -13.5 ± 2 m for the same time."
+    },
+    {
+      "id": "sl-kfar-samir-well",
+      "date": {
+        "year": -5894,
+        "circa": true,
+        "precision": "century",
+        "latest": -5570
+      },
+      "level_m": {
+        "low": -10,
+        "high": -7
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "galili-2020-israel-submerged-sites",
+          "locator": "p. 470; Table 23.2 (p. 451)",
+          "quote": "the later PN well at Kfar Samir gives a sea-level position of c. −7 to −9 m"
+        },
+        {
+          "ref": "benjamin-2017-mediterranean-sea-level",
+          "locator": "accepted MS lines 1028-1029",
+          "quote": "some 7000–8000 years ago, sea level on the Carmel coast was at -9 to -10 m"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Pottery Neolithic (Wadi Rabah) well at Kfar Samir. Date: wood from Well 5, 6830 ± 80 14C BP, calibrated by Galili et al. 2020 to 7844-7520 cal BP (= c. 5890-5570 BCE). Galili et al. 2020 give -7 to -9 m; Benjamin et al. 2017 give -9 to -10 m; the range spans both."
+    },
+    {
+      "id": "sl-7000-bp",
+      "date": {
+        "year": -5050,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -8
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "galili-2019-tel-hreiz",
+          "locator": "p. 2",
+          "quote": "Between 9000 and 7000 BP, MSL rose ca. 8m (from -16 to -8m)"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Around the time of the submerged village of Tel Hreiz (dated 7500-7000 BP); 7000 BP converted as BP - 1950."
+    },
+    {
+      "id": "sl-6500-bp",
+      "date": {
+        "year": -4850,
+        "circa": true,
+        "precision": "century",
+        "latest": -4550
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -7
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "benjamin-2017-mediterranean-sea-level",
+          "locator": "accepted MS lines 1073-1075",
+          "quote": "RSL along the coastlines of Israel rose from -7 m to the present level at a rate of 2.5 to 3.5 mm/yr between 6800–4000 BP."
+        },
+        {
+          "ref": "galili-2020-israel-submerged-sites",
+          "locator": "p. 470",
+          "quote": "About 6500 years ago, the rate of rise slowed to c. 2.5–3.5 mm per year"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Point at which the rapid early-Holocene rise slowed."
+    },
+    {
+      "id": "sl-chalcolithic",
+      "date": {
+        "year": -4050,
+        "circa": true,
+        "precision": "century",
+        "latest": -3750
+      },
+      "level_m": {
+        "low": -5,
+        "high": -2.5
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "benjamin-2017-mediterranean-sea-level",
+          "locator": "accepted MS lines 1075-1076",
+          "quote": "RSL was approximately between -2.5 m and -5 m during the Chalcolithic period (6000–5700 BP)."
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Sivan et al. 2001 (abstract) similarly state that sea level was still lower than -3 to -4.5 m at 6000 (radiocarbon) BP."
+    },
+    {
+      "id": "sl-middle-bronze-4000-bp",
+      "date": {
+        "year": -2050,
+        "circa": true,
+        "precision": "century",
+        "latest": -1650
+      },
+      "level_m": {
+        "low": -2,
+        "high": 0
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "galili-2020-israel-submerged-sites",
+          "locator": "p. 470",
+          "quote": "reaching the modern level during the Middle Bronze Age at about 4000 years BP"
+        },
+        {
+          "ref": "benjamin-2017-mediterranean-sea-level",
+          "locator": "accepted MS lines 1076-1077",
+          "quote": "By the Middle Bronze Age (~4000 BP) the sea had reached its present level"
+        },
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "p. 404",
+          "quote": "the sea reached its present level (with an uncertainty of about 1 m) along the coast of Israel between 4000 and 3600 years ago"
+        },
+        {
+          "ref": "sivan-2001-holocene-sea-level-israel",
+          "locator": "p. 114-115",
+          "quote": "The evidence from Tel Nami at 4000 BP is consistent with model predictions of levels at 1–2 m below present"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Galili et al., Benjamin et al. and Vunsh et al. place the arrival at present level at ~4000-3600 BP; Sivan et al. 2001 read the Tel Nami well as 1-2 m below present at 4000 (radiocarbon) BP and conclude that present levels were reached only in the Hellenistic period (2400-2000 BP)."
+    },
+    {
+      "id": "sl-late-bronze-dor",
+      "date": {
+        "year": -1250,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": -1.0,
+        "high": -0.4
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "sivan-2001-holocene-sea-level-israel",
+          "locator": "p. 107-108; Table 2",
+          "quote": "One of the most ancient lines of blocks is dated to the end of the 13th century BC (about 3250 BP)"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Quays at Tel Dor whose bases lie at -0.4 m; Sivan et al. Table 2 gives an upper bound of -0.4 m and a lower bound of -1 m for 3200-3000 BP. A well at Dor of the same date gives the wider range +0.6 to -1.4 m."
+    },
+    {
+      "id": "sl-iron-age-2750-bp",
+      "date": {
+        "year": -800,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": -1.3,
+        "high": -0.3,
+        "best": -0.8
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "Results show RSL in Israel rose from −0.8 ± 0.5 m at ~2750 a BP (Iron Age) to 0.0 ± 0.1 m by ~1850 a BP (Roman period)"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Statistical model (errors-in-variables Gaussian process) fitted to a quality-controlled set of 99 index points; the authors note only four index points predate 2000 a BP."
+    },
+    {
+      "id": "sl-hellenistic-dor",
+      "date": {
+        "year": -450,
+        "circa": true,
+        "precision": "century",
+        "latest": -50
+      },
+      "level_m": {
+        "low": -1.5,
+        "high": -0.2
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "sivan-2001-holocene-sea-level-israel",
+          "locator": "p. 115; Table 2",
+          "quote": "Both predictions and observations for the Hellenistic period at 2400–2000 BP (from Tel Dor and Yavne Yam) indicate that present sea levels were reached by this time."
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Bounds from the Hellenistic flushing channel at Tel Dor (lower bound -1.5 m, notch upper bound -0.2 m; Table 2)."
+    },
+    {
+      "id": "sl-roman-1850-bp",
+      "date": {
+        "year": 100,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": -0.1,
+        "high": 0.1,
+        "best": 0.0
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "to 0.0 ± 0.1 m by ~1850 a BP (Roman period)"
+        },
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "abstract, p. 403",
+          "quote": "sea level in Roman times (1st century CE) was similar to present-day"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). "
+    },
+    {
+      "id": "sl-byzantine-1600-bp",
+      "date": {
+        "year": 350,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": 0.0,
+        "high": 0.45,
+        "best": 0.1
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "continued rising to 0.1 ± 0.1 m until ~1600 a BP (Byzantine Period)"
+        },
+        {
+          "ref": "sivan-2004-caesarea-wells",
+          "locator": "abstract, p. 315",
+          "quote": "during the Byzantine period, sea level at Caesarea was higher by about 30 cm than today"
+        },
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "p. 412",
+          "quote": "This places the Roman–Byzantine maximum level at about +0.19 m rather than the previously calculated +0.45 m."
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). All sources place the Byzantine level at or slightly above present; the size of the excess depends on method (Dean et al. +0.1 ± 0.1 m; Sivan et al. 2004 about +0.3 m; Vunsh et al. recalculate the Caesarea maximum to +0.19 m with one offset and up to +0.74 m with another). Best value follows Dean et al. 2019."
+    },
+    {
+      "id": "sl-early-islamic",
+      "date": {
+        "year": 800,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": -0.2,
+        "high": 0.2
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "sivan-2004-caesarea-wells",
+          "locator": "p. 324",
+          "quote": "throughout the first millenium AD, the local sea levels for Caesarea occurred within 20 cm of present day sea level"
+        },
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "abstract, p. 403",
+          "quote": "lower in part of the Early Islamic period (9th to 10th centuries CE)"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Sivan et al. 2004 centre their Abbasid-period wells on about 1.15 ka BP (c. 800 CE), slightly lower than the earlier Byzantine/Umayyad wells."
+    },
+    {
+      "id": "sl-fatimid-crusader-low",
+      "date": {
+        "year": 1000,
+        "circa": true,
+        "precision": "century",
+        "latest": 1291
+      },
+      "level_m": {
+        "low": -1.04,
+        "high": -0.15,
+        "best": -0.5
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "abstract, p. 403",
+          "quote": "For the later Fatimid/Ayyubid and Crusader periods (11th to 13th centuries CE), RSL reaches its lowest elevations (of about −0.5 m) as previously found."
+        },
+        {
+          "ref": "sivan-2004-caesarea-wells",
+          "locator": "p. 328",
+          "quote": "possibly during the Crusader period sea level may have been lower than today at about 30 ± 15 cm"
+        },
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "the magnitude of the RSL fall during the last 2000 a BP is 50% less"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Most studies find a low stand in the 11th-13th centuries CE, but its size is disputed: about -0.5 m (Vunsh et al.), as low as -0.82 m (Caesarea) or -1.04 m (Akko) with one well offset (Vunsh et al.), about -0.30 ± 0.15 m (Sivan et al. 2004, who cautiously treat it as possibly a local anomaly), and a smaller fall in the statistical model of Dean et al. 2019 (see next record)."
+    },
+    {
+      "id": "sl-late-arab-650-bp",
+      "date": {
+        "year": 1300,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": -0.4,
+        "high": -0.2,
+        "best": -0.3
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "RSL then fell to −0.3 ± 0.1 m by 0.5 mm/a until ~650 a BP (Late Arab period), before returning to present levels at a rate of 0.4 mm/a."
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Minimum of the Dean et al. model (c. 1300 CE)."
+    },
+    {
+      "id": "sl-early-18th-century",
+      "date": {
+        "year": 1700,
+        "circa": true,
+        "precision": "decade"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -0.43
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "p. 413",
+          "quote": "indicating slow rise of sea level from −0.43 m at the beginning of the 18th century to −0.17 m by 1900 CE"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Based on two wells at Jaffa matching vermetid (bioconstruction) data."
+    },
+    {
+      "id": "sl-1900",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "precision": "decade"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -0.17
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "vunsh-2018-coastal-wells",
+          "locator": "p. 413",
+          "quote": "to −0.17 m by 1900 CE"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). "
+    },
+    {
+      "id": "sl-present",
+      "date": {
+        "year": 2026,
+        "precision": "year"
+      },
+      "level_m": {
+        "low": 0,
+        "high": 0,
+        "best": 0
+      },
+      "location": "Israeli Mediterranean coast",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "dean-2019-israel-rsl-3000-years",
+          "locator": "abstract, p. 125",
+          "quote": "before returning to present levels at a rate of 0.4 mm/a"
+        }
+      ],
+      "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Reference level (today's mean sea level, 0 m by definition). Galili et al. 2019 (p. 12) cite current estimates of 21st-century global sea-level rise of 1.7-3.1 mm per year."
+    }
+  ],
+  "dead_sea_levels": [
+    {
+      "id": "ds-younger-dryas",
+      "date": {
+        "year": -11050,
+        "circa": true,
+        "precision": "millennium",
+        "latest": -9050
+      },
+      "level_m": {
+        "low": -400,
+        "high": null
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "stein-2010-post-glacial-dead-sea",
+          "locator": "abstract",
+          "quote": "between 13 and 11 kyr cal BP (the Younger Dryas time interval) the lake rose above 400 m bmsl and declined at 11-10 kyr cal BP depositing a thick sequence of salt"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Only a lower bound is given (the lake stood higher than -400 m). Context: the same abstract reports a drop at ~14 kyr cal BP to below -465 m, 'probably the lowest late Pleistocene stand'."
+    },
+    {
+      "id": "ds-10600-bp",
+      "date": {
+        "year": -9284,
+        "circa": true,
+        "precision": "century",
+        "latest": -8016
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -397
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Nahal-Darga', 10.600 ka BP ± 0.634 (2σ)",
+          "quote": "Nahal-Darga 10.600 0.634 0.634 -397.0 -397.0"
+        },
+        {
+          "ref": "bartov-2007-dead-sea-fan-deltas",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Beach deposit at Nahal Darga dated by radiocarbon (centre 10.6 ka BP = c. 8650 BCE). Stein et al. 2010 describe a decline with salt deposition at 11-10 kyr cal BP."
+    },
+    {
+      "id": "ds-9040-bp",
+      "date": {
+        "year": -7807,
+        "circa": true,
+        "precision": "century",
+        "latest": -6373
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -396
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Nahal-Darga', 9.040 ka BP ± 0.717",
+          "quote": "Nahal-Darga 9.040 0.717 0.717 -396.0 -396.0"
+        },
+        {
+          "ref": "bartov-2007-dead-sea-fan-deltas",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        },
+        {
+          "ref": "migowski-2006-holocene-dead-sea",
+          "locator": "abstract",
+          "quote": "we document the presence of two major wet phases (∼ 10-8.6 and ∼ 5.6-3.5 cal kyr BP) and multiple abrupt arid events during the Holocene"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Within the early-Holocene wet phase identified by Migowski et al. 2006 (their abstract gives no level values)."
+    },
+    {
+      "id": "ds-8470-bp",
+      "date": {
+        "year": -6991,
+        "circa": true,
+        "precision": "century",
+        "latest": -6049
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -398
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Nahal-Darga', 8.470 ka BP ± 0.471",
+          "quote": "Nahal-Darga 8.470 0.471 0.471 -398.0 -398.0"
+        },
+        {
+          "ref": "bartov-2007-dead-sea-fan-deltas",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Migowski et al. 2006 identify abrupt arid events at ~8.6 and 8.2 cal kyr BP."
+    },
+    {
+      "id": "ds-6380-bp",
+      "date": {
+        "year": -4500,
+        "circa": true,
+        "precision": "century",
+        "latest": -4360
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -374
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Arugot', 6.380 ka BP ± 0.070",
+          "quote": "Arugot 6.380 0.070 0.070 -374.0 -374.0"
+        },
+        {
+          "ref": "bartov-2004-dissertation",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Terrace at Nahal Arugot (c. 4430 BCE)."
+    },
+    {
+      "id": "ds-3560-bp-high",
+      "date": {
+        "year": -1685,
+        "circa": true,
+        "precision": "century",
+        "latest": -1535
+      },
+      "level_m": {
+        "low": -380,
+        "high": -370
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Arugot', 3.560 ka BP ± 0.075",
+          "quote": "Arugot 3.560 0.075 0.075 -380.0 -380.0"
+        },
+        {
+          "ref": "bartov-2004-dissertation",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        },
+        {
+          "ref": "kagan-2015-dead-sea-bronze-iron",
+          "locator": "abstract",
+          "quote": "reaching in the Middle Bronze an elevation of ~370 m below mean sea level (bmsl), and declining in the Late Bronze to below 414 m bmsl"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). High stand of the second wet phase of Migowski et al. (5.6-3.5 cal kyr BP). The Arugot terrace level (-380 m) is flagged in the compilation as re-evaluated (Weber et al. 2021); Kagan et al. 2015 report ~-370 m for the Middle Bronze Age (exact dating of that stand not given in their abstract)."
+    },
+    {
+      "id": "ds-late-bronze-low",
+      "date": {
+        "year": -1500,
+        "circa": true,
+        "precision": "century",
+        "latest": -1301
+      },
+      "level_m": {
+        "low": null,
+        "high": -414
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "kagan-2015-dead-sea-bronze-iron",
+          "locator": "abstract",
+          "quote": "declining in the Late Bronze to below 414 m bmsl"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "abstract",
+          "quote": "The oldest and probably deepest drop in the lake level culminated during the fifteenth and fourteenth centuries B.C. after a retreat from a higher lake stand."
+        },
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Ein-Qedem', 3.500 ka BP ± 0.064",
+          "quote": "Ein-Qedem 3.500 0.064 0.064 -415.0 -415.0"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Only an upper bound is given (below -414 m); the Ein Qedem beach at -415 m (c. 1550 BCE) is consistent."
+    },
+    {
+      "id": "ds-3030-bp",
+      "date": {
+        "year": -1165,
+        "circa": true,
+        "precision": "century",
+        "latest": -995
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -409
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Zeelim', 3.030 ka BP ± 0.085",
+          "quote": "Zeelim 3.030 0.085 0.085 -409.0 -409.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        },
+        {
+          "ref": "kagan-2015-dead-sea-bronze-iron",
+          "locator": "abstract",
+          "quote": "At the end of the Late Bronze Age and upon the transition to the Iron Age, the lake recovered slightly and rose to ~408 m bmsl."
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Slight recovery around the Late Bronze / Iron Age transition (c. 1080 BCE for this dated shore)."
+    },
+    {
+      "id": "ds-2040-bp-high",
+      "date": {
+        "year": -185,
+        "circa": true,
+        "precision": "century",
+        "latest": 5
+      },
+      "level_m": {
+        "low": -395,
+        "high": -394,
+        "best": -394
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'David', 2.040 ka BP ± 0.095",
+          "quote": "David 2.040 0.095 0.095 -394.0 -394.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "abstract",
+          "quote": "Highstands occurred in the second and first centuries B.C. and the fourth century A.D. during the Roman and early Byzantine periods"
+        },
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Nahal-Darga', 2.310 ka BP ± 0.164",
+          "quote": "Nahal-Darga 2.310 0.164 0.164 -395.0 -395.0"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Hellenistic-Roman high stand (dated shore at Nahal David centred c. 90 BCE). Bookman et al. give the late-Holocene range as 390-415 m below sea level. A 4th-century CE high stand is also reported by Bookman et al., but no dated level for it was seen."
+    },
+    {
+      "id": "ds-1390-bp",
+      "date": {
+        "year": 440,
+        "circa": true,
+        "precision": "century",
+        "latest": 660
+      },
+      "level_m": {
+        "low": -401,
+        "high": -380
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Arubotaim', 1.390 ka BP (uncertainties not provided)",
+          "quote": "Arubotaim 1.390 0.000 0.000 -380.0 -380.0"
+        },
+        {
+          "ref": "kushnir-stein-2019-medieval-climate",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        },
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'David', 1.400 ka BP ± 0.110",
+          "quote": "David 1.400 0.110 0.110 -401.0 -401.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Late Byzantine (6th century CE): two data points of nearly the same age disagree by ~21 m - a terrace at -380 m (Kushnir & Stein 2019) versus a shore at -401 m (Bookman et al. 2004)."
+    },
+    {
+      "id": "ds-early-islamic-low",
+      "date": {
+        "year": 780,
+        "circa": true,
+        "precision": "century"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -420
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Ein-Qedem', 1.170 ka BP (uncertainties not provided)",
+          "quote": "Ein-Qedem 1.170 0.000 0.000 -420.0 -420.0"
+        },
+        {
+          "ref": "stein-o-2010-ein-qedem",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "abstract",
+          "quote": "The longest lowstand occurred after the Byzantine period and continued at least until the ninth century A.D."
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Low stand centred c. 780 CE."
+    },
+    {
+      "id": "ds-crusader-high",
+      "date": {
+        "year": 1135,
+        "circa": true,
+        "precision": "century",
+        "latest": 1265
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -399
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'David', 0.750 ka BP ± 0.065",
+          "quote": "David 0.750 0.065 0.065 -399.0 -399.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "abstract",
+          "quote": "in the eleventh and twelfth centuries A.D. during the Crusader period"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). High stand of the 11th-12th centuries CE (dated shore centred c. 1200 CE; another shore at Ze'elim, 0.86 ka BP, lies at -403 m)."
+    },
+    {
+      "id": "ds-1620-ce",
+      "date": {
+        "year": 1585,
+        "circa": true,
+        "precision": "decade",
+        "latest": 1655
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -402
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'Zeelim', 0.330 ka BP ± 0.035",
+          "quote": "Zeelim 0.330 0.035 0.035 -402.0 -402.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). "
+    },
+    {
+      "id": "ds-1750-ce",
+      "date": {
+        "year": 1695,
+        "circa": true,
+        "precision": "decade",
+        "latest": 1805
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -400
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "guillerm-2024-pangaea-dead-sea-levels",
+          "locator": "data row 'David', 0.200 ka BP ± 0.055",
+          "quote": "David 0.200 0.055 0.055 -400.0 -400.0"
+        },
+        {
+          "ref": "bookman-2004-late-holocene-dead-sea",
+          "locator": "as cited in the PANGAEA compilation",
+          "via": "guillerm-2024-pangaea-dead-sea-levels"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Bookman et al. report a further high stand at the end of the 19th century."
+    },
+    {
+      "id": "ds-1900",
+      "date": {
+        "year": 1900,
+        "precision": "year"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -392
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "dataset description (Hebrew)",
+          "quote": "מדידות רשמיות של מפלסי ים המלח קיימות משנת 1900, אז עמד המפלס על רום של 392- מ'"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Dataset description: 'Official measurements of Dead Sea levels exist from 1900, when the level stood at -392 m' (translation)."
+    },
+    {
+      "id": "ds-1932",
+      "date": {
+        "year": 1932,
+        "precision": "year"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -389
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "kempe-2008-dead-sea-terraces",
+          "locator": "abstract",
+          "quote": "the Dead Sea has declined from -389 m in 1932 to -399 m in 1979 with an average of 0.2 m/a"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). No dated value for the 1960s was found in an accessible source; Enzel et al. 2003 describe an artificial drop since the 1960s."
+    },
+    {
+      "id": "ds-1976",
+      "date": {
+        "year": 1976,
+        "month": 10,
+        "day": 1,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -398.95
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 01/10/1976",
+          "quote": "01/10/1976 -398.95"
+        },
+        {
+          "ref": "enzel-2003-late-holocene-climates",
+          "locator": "abstract",
+          "quote": "rainfall data pre-dating the artificial Dead Sea level drop since the 1960s are used"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). First record of the monthly series."
+    },
+    {
+      "id": "ds-1980",
+      "date": {
+        "year": 1980,
+        "month": 1,
+        "day": 1,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -400.63
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 01/01/1980",
+          "quote": "01/01/1980 -400.63"
+        },
+        {
+          "ref": "kempe-2008-dead-sea-terraces",
+          "locator": "abstract",
+          "quote": "an accelerated drop from -400 m in 1980 to -419 m in 2007"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). "
+    },
+    {
+      "id": "ds-1990",
+      "date": {
+        "year": 1990,
+        "month": 1,
+        "day": 24,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -406.83
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 24/01/1990",
+          "quote": "24/01/1990 -406.83"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). "
+    },
+    {
+      "id": "ds-2000",
+      "date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -413.2
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 01/01/2000",
+          "quote": "01/01/2000 -413.2"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). "
+    },
+    {
+      "id": "ds-2010",
+      "date": {
+        "year": 2010,
+        "month": 12,
+        "day": 1,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -424.01
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 01/12/2010 and dataset description",
+          "quote": "01/12/2010 -424.01"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). The dataset description also cites -424 m for December 2010."
+    },
+    {
+      "id": "ds-2020",
+      "date": {
+        "year": 2020,
+        "month": 1,
+        "day": 1,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -434.42
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 01/01/2020",
+          "quote": "01/01/2020 -434.42"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). "
+    },
+    {
+      "id": "ds-2026",
+      "date": {
+        "year": 2026,
+        "month": 10,
+        "day": 4,
+        "precision": "day"
+      },
+      "level_m": {
+        "low": null,
+        "high": null,
+        "best": -441.5
+      },
+      "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "israel-water-authority-dead-sea-level",
+          "locator": "record 04/10/2026 (latest)",
+          "quote": "04/10/2026 -441.5"
+        }
+      ],
+      "notes": "Metres relative to mean sea level (negative = below). Latest measurement in the series at the time of access. The dataset description attributes the decline of about 1 m per year in recent decades mainly to the near-cessation of inflow from the Jordan and Yarmouk and to pumping by Israeli and Jordanian Dead Sea industries."
+    }
+  ],
+  "trade_routes": [
+    {
+      "id": "via-maris",
+      "name": {
+        "en": "Via Maris",
+        "ar": "طريق البحر",
+        "he": "דרך הים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Way of the Sea (derekh ha-yam)"
+          },
+          "used_by": "hebrew-bible (Isaiah 8:23)",
+          "sources": [
+            {
+              "ref": "bao-via-maris",
+              "quote": "In biblical texts, the phrase ‘the road of the sea’ appears in Isaiah 8:23, referencing the Galilee region."
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "Via Maris"
+          },
+          "used_by": "latin-bible-translation; modern scholarship",
+          "sources": [
+            {
+              "ref": "bao-via-maris",
+              "quote": "The Latin translation of Isaiah referred to it as ‘via maris,’ while in the Middle Ages, it was known as ‘the road from Damascus to the sea.’"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "the road from Damascus to the sea"
+          },
+          "used_by": "medieval",
+          "sources": [
+            {
+              "ref": "bao-via-maris"
+            }
+          ]
+        },
+        {
+          "text": {
+            "en": "international road from Egypt to Syria and Mesopotamia"
+          },
+          "used_by": "academic (descriptive)",
+          "sources": [
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 19"
+            }
+          ]
+        }
+      ],
+      "start": {
+        "year": -1500,
+        "circa": true,
+        "precision": "century"
+      },
+      "certainty": "schematic",
+      "waypoints": [
+        {
+          "label": "Sile / Tjaru (Tell Abu Sefa)",
+          "coords": [
+            32.3506,
+            30.8572
+          ],
+          "coords_source": "wikidata:Q826420"
+        },
+        {
+          "label": "El-Arish",
+          "coords": [
+            33.8,
+            31.1333
+          ],
+          "coords_source": "wikidata:Q238452"
+        },
+        {
+          "label": "Rafah (Raphia)",
+          "coords": [
+            34.2519,
+            31.2886
+          ],
+          "coords_source": "wikidata:Q172343"
+        },
+        {
+          "label": "Gaza",
+          "coords": [
+            34.4597,
+            31.5075
+          ],
+          "coords_source": "wikidata:Q47492"
+        },
+        {
+          "label": "Ashkelon",
+          "coords": [
+            34.5664,
+            31.6658
+          ],
+          "coords_source": "wikidata:Q60956"
+        },
+        {
+          "label": "Ashdod-Yam",
+          "coords": [
+            34.6222,
+            31.7803
+          ],
+          "coords_source": "wikidata:Q1068119"
+        },
+        {
+          "label": "Megiddo",
+          "coords": [
+            35.1844,
+            32.5853
+          ],
+          "coords_source": "wikidata:Q208379"
+        },
+        {
+          "label": "Beth Shean",
+          "coords": [
+            35.4989,
+            32.4961
+          ],
+          "coords_source": "wikidata:Q152368"
+        },
+        {
+          "label": "Hazor",
+          "coords": [
+            35.5692,
+            33.0183
+          ],
+          "coords_source": "wikidata:Q740138"
+        },
+        {
+          "label": "Damascus",
+          "coords": [
+            36.2919,
+            33.5131
+          ],
+          "coords_source": "wikidata:Q3766"
+        }
+      ],
+      "branches": [
+        {
+          "label": "coastal branch north along the Phoenician coast (via Acre)",
+          "waypoints": [
+            {
+              "label": "Acre (Akko)",
+              "coords": [
+                35.0839,
+                32.9261
+              ],
+              "coords_source": "wikidata:Q126084"
+            }
+          ]
+        }
+      ],
+      "description": {
+        "en": "Ancient route from Egypt along the Sinai and southern Levantine coast, then inland via Megiddo and Hazor to Damascus, used by trade and armies."
+      },
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "bao-via-maris",
+          "quote": "Originating in “Sile” in Egypt (Tel Abu-Seifeh, 2 miles east of Qantara), the road traced along the Sinai coast to El-Arish and Rafah before reaching Gaza City."
+        },
+        {
+          "ref": "aharoni-1978-land-of-the-bible",
+          "locator": "as reported in the glossary entry",
+          "quote": "Professor Yohanan Aharoni suggested that only this route be termed the ‘Sea Road’",
+          "via": "bao-via-maris"
+        },
+        {
+          "ref": "meshel-1973-via-maris",
+          "locator": "title only"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 19",
+          "quote": "It controlled important sections of the international road leading from Egypt to Syria and Mesopotamia on the coastal plain and the Bashan"
+        }
+      ],
+      "notes": {
+        "en": "'Via Maris' is a later Latin name taken from the Latin rendering of Isaiah's 'way of the sea'; it is not attested as the ancient name of the whole road. Scholars disagree on what the biblical phrase referred to and on what the name should cover: Aharoni proposed restricting 'Sea Road' to the coastal branch, and Meshel's 1973 article is titled 'Was There a Via Maris?'. Finkelstein uses the neutral 'international road'. Start date: the earliest written attestations cited in the source are Thutmose III's lists (15th century BCE) and Papyrus Anastasi I (13th century BCE); the road continued in use in later periods, so no end date is given. Waypoints are schematic and follow the description attributed to Aharoni."
+      }
+    },
+    {
+      "id": "kings-highway",
+      "name": {
+        "en": "King's Highway",
+        "ar": "الطريق الملوكي",
+        "he": "דרך המלך",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Via Nova Traiana"
+          },
+          "used_by": "roman-sources (Trajan's renovated road, Bostra to Aqaba)",
+          "sources": [
+            {
+              "ref": "britannica-kings-highway",
+              "quote": "The renovated road was known specifically as the “Via Nova Traiana” to distinguish it from another road that Trajan constructed"
+            }
+          ]
+        }
+      ],
+      "start": {
+        "year": -1350,
+        "circa": true,
+        "precision": "century"
+      },
+      "certainty": "schematic",
+      "waypoints": [
+        {
+          "label": "Aqaba (Gulf of Aqaba)",
+          "coords": [
+            35.0061,
+            29.5322
+          ],
+          "coords_source": "wikidata:Q180522"
+        },
+        {
+          "label": "Petra",
+          "coords": [
+            35.4403,
+            30.3289
+          ],
+          "coords_source": "wikidata:Q5788"
+        },
+        {
+          "label": "Shawbak",
+          "coords": [
+            35.5386,
+            30.52
+          ],
+          "coords_source": "wikidata:Q3299624"
+        },
+        {
+          "label": "Tafilah",
+          "coords": [
+            35.6044,
+            30.8375
+          ],
+          "coords_source": "wikidata:Q2550996"
+        },
+        {
+          "label": "Al-Karak",
+          "coords": [
+            35.705,
+            31.1844
+          ],
+          "coords_source": "wikidata:Q31572"
+        },
+        {
+          "label": "Aroer (Arair), crossing of Wadi Mujib",
+          "coords": [
+            35.5633,
+            31.4672
+          ],
+          "coords_source": "wikidata:Q4795478"
+        },
+        {
+          "label": "Madaba",
+          "coords": [
+            35.8,
+            31.7167
+          ],
+          "coords_source": "wikidata:Q1683958"
+        },
+        {
+          "label": "Bosra (Bostra)",
+          "coords": [
+            36.4833,
+            32.5167
+          ],
+          "coords_source": "wikidata:Q272680"
+        },
+        {
+          "label": "Damascus",
+          "coords": [
+            36.2919,
+            33.5131
+          ],
+          "coords_source": "wikidata:Q3766"
+        }
+      ],
+      "description": {
+        "en": "North-south route across the Transjordanian plateau linking Syria with the Gulf of Aqaba, renovated by Trajan as the Via Nova Traiana."
+      },
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "britannica-kings-highway",
+          "quote": "King’s Highway, ancient thoroughfare that connected Syria and the Gulf of Aqaba by way of what is now Jordan. Mentioned in the Old Testament"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 19",
+          "quote": "as well as a section of the King’s Highway in Transjordan"
+        },
+        {
+          "ref": "finkelstein-2013-forgotten-kingdom",
+          "locator": "p. 105",
+          "quote": "a late ninth- or eighth-century b.c.e. Moabite fort guarding the King’s Highway where it crosses the canyon of Wadi Mujib"
+        },
+        {
+          "ref": "crowell-2007-edom",
+          "locator": "p. 84",
+          "quote": "Nabonidus traveled south on the King’s Highway from the region of Syria during his third (553 b.c.e.) and fourth (552 b.c.e.) years."
+        }
+      ],
+      "notes": {
+        "en": "Start: Finkelstein applies the name to a Transjordanian road segment in the Amarna period (14th century BCE); Britannica notes the name comes from the Old Testament. Trajan (r. 98-117 CE) renovated it between Bostra and Aqaba; it was important during the Crusades (castles along it) and was later largely eclipsed by the Pilgrimage Route, the Hejaz Railway and the Desert Highway, but is still used and promoted today, so no end date is given. Waypoints follow the sites Britannica names (Madaba, Al-Karak, Al-Tafilah, Al-Shawbak, Petra, Bostra, Aqaba) plus Aroer from Finkelstein; the exact line in any period is schematic."
+      }
+    },
+    {
+      "id": "incense-route-negev",
+      "name": {
+        "en": "Incense Route (Petra to the Mediterranean via the Negev)",
+        "ar": "طريق البخور - مدن النقب الصحراوية",
+        "he": "דרך הבשמים (ישראל)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "alt_names": [
+        {
+          "text": {
+            "en": "Incense Route - Desert Cities in the Negev"
+          },
+          "used_by": "UNESCO (World Heritage property 1107)",
+          "sources": [
+            {
+              "ref": "unesco-whc-1107"
+            }
+          ]
+        }
+      ],
+      "start": {
+        "year": -300,
+        "circa": true,
+        "precision": "century"
+      },
+      "end": {
+        "year": 200,
+        "circa": true,
+        "precision": "century",
+        "latest": 399
+      },
+      "certainty": "schematic",
+      "waypoints": [
+        {
+          "label": "Petra",
+          "coords": [
+            35.4403,
+            30.3289
+          ],
+          "coords_source": "wikidata:Q5788"
+        },
+        {
+          "label": "Saharonim caravanserai (Ein Saharonim)",
+          "coords": [
+            34.9348,
+            30.6026
+          ],
+          "coords_source": "wikidata:Q26764236"
+        },
+        {
+          "label": "Nekarot fortress",
+          "coords": [
+            35.0133,
+            30.5792
+          ],
+          "coords_source": "wikidata:Q25489418"
+        },
+        {
+          "label": "Mahmal fortress",
+          "coords": [
+            34.9285,
+            30.6885
+          ],
+          "coords_source": "wikidata:Q6578871"
+        },
+        {
+          "label": "Avdat (Oboda)",
+          "coords": [
+            34.775,
+            30.795
+          ],
+          "coords_source": "wikidata:Q791665"
+        },
+        {
+          "label": "Haluza (Elusa)",
+          "coords": [
+            34.652,
+            31.097
+          ],
+          "coords_source": "wikidata:Q923921"
+        }
+      ],
+      "branches": [
+        {
+          "label": "Shivta (associated town)",
+          "waypoints": [
+            {
+              "label": "Shivta (Sobata)",
+              "coords": [
+                34.63,
+                30.88
+              ],
+              "coords_source": "wikidata:Q2037692"
+            }
+          ]
+        },
+        {
+          "label": "northern parallel route",
+          "waypoints": [
+            {
+              "label": "Mamshit (Mampsis)",
+              "coords": [
+                35.0639,
+                31.0261
+              ],
+              "coords_source": "wikidata:Q2391522"
+            }
+          ]
+        }
+      ],
+      "description": {
+        "en": "Negev segment of the Arabian incense trade network, linking Petra with the Mediterranean through Nabataean towns, forts and caravanserais."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "unesco-whc-1107",
+          "locator": "short description",
+          "quote": "Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD."
+        },
+        {
+          "ref": "unesco-whc-1107",
+          "locator": "description",
+          "quote": "Ten of the sites (four towns - Haluza, Mamshit, Avdat and Shivta; four fortresses - Kazra, Nekarot, Makhmal, and Grafon; and the two caravanserai of Moa and Saharonim) lie along, or near to, the main trade route from Petra"
+        },
+        {
+          "ref": "unesco-whc-326-petra",
+          "locator": "brief synthesis",
+          "quote": "became during Hellenistic and Roman times a major caravan centre for the incense of Arabia, the silks of China and the spices of India"
+        }
+      ],
+      "notes": {
+        "en": "UNESCO's short description dates the flourishing of the trade from the 3rd century BCE to the 2nd century CE; its longer statement speaks of 'a seven hundred year period, from the 3rd century BCE to the 4nd [sic] century CE', hence the 'latest' value of the end date. UNESCO names the western end only as 'the Mediterranean ports'; no source seen here names Gaza explicitly, so Gaza is not given as a waypoint. Moa, Kazra and Grafon are omitted because no coordinates were found in Wikidata; Mamshit lies on the 'northern parallel route' per UNESCO."
+      }
+    },
+    {
+      "id": "hejaz-railway",
+      "name": {
+        "en": "Hejaz Railway (successor of the Syrian pilgrimage route)"
+      },
+      "start": {
+        "year": 1900,
+        "precision": "year"
+      },
+      "end": {
+        "year": 2011,
+        "precision": "year"
+      },
+      "certainty": "schematic",
+      "waypoints": [
+        {
+          "label": "Damascus",
+          "coords": [
+            36.2919,
+            33.5131
+          ],
+          "coords_source": "wikidata:Q3766"
+        },
+        {
+          "label": "Daraa",
+          "coords": [
+            36.1061,
+            32.6253
+          ],
+          "coords_source": "wikidata:Q238217"
+        },
+        {
+          "label": "Zarqa",
+          "coords": [
+            36.1,
+            32.0833
+          ],
+          "coords_source": "wikidata:Q148062"
+        },
+        {
+          "label": "Qatranah",
+          "coords": [
+            36.0472,
+            31.2536
+          ],
+          "coords_source": "wikidata:Q6731617"
+        },
+        {
+          "label": "Ma'an",
+          "coords": [
+            35.7333,
+            30.1933
+          ],
+          "coords_source": "wikidata:Q31616"
+        },
+        {
+          "label": "Medina",
+          "coords": [
+            39.61,
+            24.47
+          ],
+          "coords_source": "wikidata:Q35484"
+        }
+      ],
+      "branches": [
+        {
+          "label": "Daraa-Haifa branch (completed 1905)",
+          "waypoints": [
+            {
+              "label": "Haifa",
+              "coords": [
+                34.9992,
+                32.8192
+              ],
+              "coords_source": "wikidata:Q41621"
+            }
+          ]
+        }
+      ],
+      "description": {
+        "en": "Ottoman railway from Damascus to Medina built in 1900-08, officially to serve pilgrims to the Hejaz, with a branch from Daraa to Haifa."
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "britannica-hejaz-railway",
+          "locator": "Construction",
+          "quote": "The main line of the Hejaz Railway was constructed in 1900–08 as an expression of Abdülhamid II’s Pan-Islamism"
+        },
+        {
+          "ref": "britannica-hejaz-railway",
+          "locator": "Construction",
+          "quote": "The line ran from Damascus southward to Daraa (Darʿā) and thence over Transjordan via Al-Zarqāʾ, Al-Qaṭrānah, and Maʿān into northwestern Arabia"
+        },
+        {
+          "ref": "britannica-kings-highway",
+          "quote": "The development of similar routes—including the Pilgrimage Route, and, later, the Hejaz Railway and the Desert Highway—largely eclipsed the King’s Highway."
+        }
+      ],
+      "notes": {
+        "en": "Included in place of a dated record for the older Syrian Hajj caravan route (Darb al-Hajj al-Shami), for which no accessible source giving dates and stations was found in this pass. The Ma'an-Medina section was abandoned after 1917; the last international section (Amman-Damascus) operated until 2011 (end date)."
+      }
+    }
+  ]
+}

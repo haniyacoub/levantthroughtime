@@ -1206,3 +1206,30 @@ blockquote {
   margin: 0;
   font-size: 0.85rem;
 }
+.legend-key.shoreline {
+  background: #e2cf9b;
+  border: 1.5px dashed #8f7640;
+}
+.legend-key.former {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1.6px solid #5a5a5a;
+}
+.names-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.names-list > li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line, #e3e3e3);
+}
+.names-list .names-period {
+  font-size: 0.8rem;
+  color: var(--muted, #5b6670);
+}
+.names-list .name-orig {
+  font-weight: 600;
+}

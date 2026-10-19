@@ -170,6 +170,42 @@
           "founded_note": {
             "type": "string"
           },
+          "founded_sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ref": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "locator": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                },
+                "via": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "note": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "ref"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "wikidata_related": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^Q\\d+$"
+            }
+          },
           "destroyed": {
             "type": "array",
             "items": {
@@ -228,6 +264,9 @@
                 },
                 "note": {
                   "type": "string"
+                },
+                "ended_settlement": {
+                  "type": "boolean"
                 },
                 "sources": {
                   "type": "array",
@@ -544,6 +583,12 @@
                       ],
                       "additionalProperties": false
                     },
+                    "denominations": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
                     "sources": {
                       "minItems": 1,
                       "type": "array",
@@ -588,6 +633,137 @@
             },
             "required": [
               "traditions"
+            ],
+            "additionalProperties": false
+          },
+          "custody": {
+            "type": "object",
+            "properties": {
+              "summary": {
+                "type": "object",
+                "properties": {
+                  "en": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "ar": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "he": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "translation_status": {
+                    "type": "object",
+                    "properties": {
+                      "ar": {
+                        "type": "string",
+                        "enum": [
+                          "original",
+                          "machine-draft",
+                          "reviewed"
+                        ]
+                      },
+                      "he": {
+                        "type": "string",
+                        "enum": [
+                          "original",
+                          "machine-draft",
+                          "reviewed"
+                        ]
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "required": [
+                  "en"
+                ],
+                "additionalProperties": false
+              },
+              "confidence": {
+                "type": "string",
+                "enum": [
+                  "documented",
+                  "estimated",
+                  "contested",
+                  "unknown"
+                ]
+              },
+              "sources": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "ref": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                    },
+                    "locator": {
+                      "type": "string"
+                    },
+                    "quote": {
+                      "type": "string"
+                    },
+                    "via": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                    },
+                    "note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "ref"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "summary",
+              "confidence",
+              "sources"
+            ],
+            "additionalProperties": false
+          },
+          "unesco": {
+            "type": "object",
+            "properties": {
+              "property": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "name": {
+                "type": "string"
+              },
+              "state_party_label": {
+                "type": "string"
+              },
+              "inscribed": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "criteria": {
+                "type": "string"
+              },
+              "in_danger_since": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "note": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "property",
+              "name",
+              "inscribed"
             ],
             "additionalProperties": false
           },

@@ -231,7 +231,7 @@ export function validateData(dir: string): Result {
   };
 
   /** Confidence rules: anything other than "unknown" needs a source; "contested" needs two positions. */
-  const checkConfidence = (file: string, where: string, confidence: string, refs: SourceRef[]) => {
+  const checkConfidence = (file: string, where: string, confidence: string, refs: SourceRef[], opts: { singleOk?: boolean } = {}) => {
     if (confidence !== 'unknown' && refs.length === 0) err(file, where, `Confidence is "${confidence}" but no source is given (only "unknown" may have no source)`);
     if (confidence === 'contested' && new Set(refs.map((r) => r.ref)).size < 2) {
       err(file, where, 'Marked "contested" but cites fewer than two different sources; a contested item needs at least two sourced positions');
@@ -239,7 +239,7 @@ export function validateData(dir: string): Result {
     if (refs.length > 0 && refs.every((r) => sourceIds.get(r.ref)?.verification.level === 'catalogue-only')) {
       warn(file, where, 'Every source for this record was only checked at catalogue level (content not seen)');
     }
-    if (confidence === 'documented' && new Set(refs.map((r) => r.ref)).size === 1) {
+    if (!opts.singleOk && confidence === 'documented' && new Set(refs.map((r) => r.ref)).size === 1) {
       warn(file, where, '"documented" claim rests on a single source');
     }
   };
@@ -442,7 +442,8 @@ export function validateData(dir: string): Result {
     for (const [i, n] of (p.names ?? []).entries()) {
       const nw = `${where} › names[${i}] ("${n.text}")`;
       checkRefs('places.json', nw, n.sources);
-      checkConfidence('places.json', nw, n.confidence, n.sources);
+      // A name attested in one gazetteer or text is normal; a second source is not expected.
+      checkConfidence('places.json', nw, n.confidence, n.sources, { singleOk: true });
       if (n.start) checkDates('places.json', nw, n.start, n.end);
     }
     for (const d of p.destroyed ?? []) checkRefs('places.json', `${where} › destroyed`, d.sources);

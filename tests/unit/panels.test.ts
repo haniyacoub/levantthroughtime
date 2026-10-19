@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import type { AppData, Place, PopulationPoint } from '../../src/data/model';
 import { nearestFigures, panelSeries, pointT, seriesAreas } from '../../src/data/population';
-import { nameDisplay, placeLabelAt, placeVisibleAt } from '../../src/data/places';
+import { nameDisplay, placeLabelAt, placeStateAt, type PlaceTimes } from '../../src/data/places';
 import { formatRange, plotValue } from '../../src/panels/format';
 import { tOf } from '../../src/time/years';
 
@@ -81,25 +81,63 @@ const jerusalem: Place = {
   ],
 };
 
+const times: PlaceTimes = { prehistoricEndT: tOf(-3000), undatedFromT: tOf(1800) };
+const withCurrent: Place = {
+  ...jerusalem,
+  names: [
+    ...jerusalem.names!,
+    { text: 'ירושלים', translit: 'Yerushalayim', lang: 'he', confidence: 'documented', sources: [] },
+    { text: 'Jerusalem', lang: 'en', confidence: 'documented', sources: [] },
+  ],
+};
+
 describe('place names through time', () => {
   it('labels a place with the name in use at the time', () => {
-    expect(placeLabelAt(jerusalem, tOf(-1350), 'en', 'then')).toBe('Urusalim');
-    expect(placeLabelAt(jerusalem, tOf(300), 'en', 'then')).toBe('Aelia Capitolina');
-    expect(placeLabelAt(jerusalem, tOf(1200), 'ar', 'then')).toBe('القدس');
-    expect(placeLabelAt(jerusalem, tOf(1200), 'en', 'then')).toBe('al-Quds');
+    expect(placeLabelAt(jerusalem, tOf(-1350), 'en', 'then', times)).toBe('Urusalim');
+    expect(placeLabelAt(jerusalem, tOf(300), 'en', 'then', times)).toBe('Aelia Capitolina');
+    expect(placeLabelAt(jerusalem, tOf(1200), 'ar', 'then', times)).toBe('القدس');
+    expect(placeLabelAt(jerusalem, tOf(1200), 'en', 'then', times)).toBe('al-Quds');
   });
 
   it("uses today's name in 'today' mode or when no name is recorded for the date", () => {
-    expect(placeLabelAt(jerusalem, tOf(300), 'he', 'today')).toBe('ירושלים');
-    expect(placeLabelAt(jerusalem, tOf(-2000), 'en', 'then')).toBe('Jerusalem');
+    expect(placeLabelAt(jerusalem, tOf(300), 'he', 'today', times)).toBe('ירושלים');
+    expect(placeLabelAt(jerusalem, tOf(-2000), 'en', 'then', times)).toBe('Jerusalem');
+  });
+
+  it("treats undated names as current usage, shown in the reader's language from 1800", () => {
+    expect(placeLabelAt(withCurrent, tOf(1200), 'he', 'then', times)).toBe('al-Quds');
+    expect(placeLabelAt(withCurrent, tOf(1950), 'he', 'then', times)).toBe('ירושלים');
+    expect(placeLabelAt(withCurrent, tOf(1950), 'en', 'then', times)).toBe('Jerusalem');
+    expect(placeLabelAt(withCurrent, tOf(1950), 'ar', 'then', times)).toBe('القدس');
   });
 
   it('shows a place only while it existed', () => {
-    expect(placeVisibleAt(jerusalem, tOf(-2000), tOf(-3000))).toBe(false);
-    expect(placeVisibleAt(jerusalem, tOf(1948), tOf(-3000))).toBe(true);
+    expect(placeStateAt(jerusalem, tOf(-2000), times)).toBe(null);
+    expect(placeStateAt(jerusalem, tOf(1948), times)).toBe('active');
     const telAviv: Place = { ...jerusalem, id: 'tel-aviv', names: [], founded: { year: 1909, precision: 'year' } };
-    expect(placeVisibleAt(telAviv, tOf(1900), tOf(-3000))).toBe(false);
-    expect(placeVisibleAt(telAviv, tOf(1950), tOf(-3000))).toBe(true);
+    expect(placeStateAt(telAviv, tOf(1900), times)).toBe(null);
+    expect(placeStateAt(telAviv, tOf(1950), times)).toBe('active');
+    const town: Place = { ...jerusalem, id: 'town', names: [] };
+    expect(placeStateAt(town, tOf(-8000), times)).toBe(null);
+    expect(placeStateAt(town, tOf(1900), times)).toBe('active');
+    const cave: Place = { ...jerusalem, id: 'cave', kind: ['archaeological-site'], names: [] };
+    expect(placeStateAt(cave, tOf(-8000), times)).toBe('active');
+    expect(placeStateAt(cave, tOf(1900), times)).toBe(null);
+  });
+
+  it('marks a place as former only when the sources say it was not lived in again', () => {
+    const village: Place = {
+      ...jerusalem,
+      id: 'village',
+      kind: ['village'],
+      names: [],
+      destroyed: [
+        { date: { year: 1187, precision: 'year' }, sources: [] },
+        { date: { year: 1948, month: 4, precision: 'month' }, ended_settlement: true, sources: [] },
+      ],
+    };
+    expect(placeStateAt(village, tOf(1900), times)).toBe('active');
+    expect(placeStateAt(village, tOf(1950), times)).toBe('former');
   });
 
   it('displays a name in the reader language when the name is in that language', () => {

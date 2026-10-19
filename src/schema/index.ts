@@ -177,6 +177,11 @@ export const Config = z.strictObject({
   timeline: z.strictObject({ start: YearMonth, as_of: HistDate }),
   /** Before this year the map shows archaeological cultures; from it, political territories. */
   prehistoric_until: Year,
+  /**
+   * Place names and places with no sourced date are treated as current usage and shown from this
+   * year (the period of the modern surveys). Earlier dates use only dated names.
+   */
+  undated_names_from: Year,
   composition_tolerance_pct: z.number().positive(),
   /** Where "Suggest a correction" links lead, e.g. "https://github.com/<user>/<repo>/issues/new". Optional. */
   corrections_url: z.url().optional(),
@@ -406,7 +411,13 @@ export const PlaceName = z.strictObject({
 export type PlaceName = z.infer<typeof PlaceName>;
 
 export const Tradition = z.enum(['jewish', 'christian', 'muslim', 'samaritan', 'druze', 'bahai']);
-export const TraditionEntry = z.strictObject({ significance: Localized, sources: z.array(SourceRef).min(1), notes: z.string().optional() });
+export const TraditionEntry = z.strictObject({
+  significance: Localized,
+  /** Churches or communities that hold or use the site (Christian sites mostly). */
+  denominations: z.array(z.string()).optional(),
+  sources: z.array(SourceRef).min(1),
+  notes: z.string().optional(),
+});
 
 export const PlaceKind = z.enum(['city', 'town', 'village', 'port', 'fortress', 'archaeological-site', 'holy-site', 'region', 'outside-region']);
 
@@ -421,11 +432,37 @@ export const Place = z.strictObject({
   coords_precision: z.enum(['exact', 'approximate', 'uncertain']).optional(),
   founded: HistDate.nullable().optional(),
   founded_note: z.string().optional(),
+  founded_sources: z.array(SourceRef).optional(),
+  /** Other Wikidata items for the same place (e.g. the compound and the mosque). */
+  wikidata_related: z.array(z.string().regex(/^Q\d+$/)).optional(),
   destroyed: z
-    .array(z.strictObject({ date: HistDate, by: z.string().optional(), note: z.string().optional(), sources: z.array(SourceRef) }))
+    .array(
+      z.strictObject({
+        date: HistDate,
+        by: z.string().optional(),
+        note: z.string().optional(),
+        /** True when the sources say the place was not lived in again afterwards (shown as a former place). */
+        ended_settlement: z.boolean().optional(),
+        sources: z.array(SourceRef),
+      }),
+    )
     .optional(),
   names: z.array(PlaceName).optional(),
   holy_site: z.strictObject({ traditions: z.partialRecord(Tradition, TraditionEntry) }).optional(),
+  /** Who administers the site today and under which arrangements (status quo, treaties). */
+  custody: z.strictObject({ summary: Localized, confidence: Confidence, sources: z.array(SourceRef).min(1) }).optional(),
+  /** UNESCO World Heritage listing, in UNESCO's own wording. */
+  unesco: z
+    .strictObject({
+      property: z.number().int(),
+      name: z.string(),
+      state_party_label: z.string().optional(),
+      inscribed: z.number().int(),
+      criteria: z.string().optional(),
+      in_danger_since: z.number().int().optional(),
+      note: z.string().optional(),
+    })
+    .optional(),
   description: Localized.optional(),
   confidence: Confidence,
   sources: z.array(SourceRef),
@@ -582,6 +619,8 @@ export const TradeRoute = z.strictObject({
   start: HistDate,
   end: HistDate.optional(),
   waypoints: z.array(Waypoint).min(2),
+  /** Side branches; each is drawn from the nearest point of the main route to its own waypoints. */
+  branches: z.array(z.strictObject({ label: z.string(), waypoints: z.array(Waypoint).min(1) })).optional(),
   certainty: z.enum(['approximate', 'schematic']),
   description: Localized.optional(),
   confidence: Confidence,

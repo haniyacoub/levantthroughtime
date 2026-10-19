@@ -380,6 +380,12 @@ export function YearPanel({ data }: { data: AppData }) {
           <li>
             <span className="legend-key claim" aria-hidden /> {tr('legend.claim')}
           </li>
+          <li>
+            <span className="legend-key shoreline" aria-hidden /> {tr('legend.shoreline')}
+          </li>
+          <li>
+            <span className="legend-key former" aria-hidden /> {tr('legend.former')}
+          </li>
         </ul>
       </details>
     </aside>

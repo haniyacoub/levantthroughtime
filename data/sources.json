@@ -81,6 +81,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "adalah-2018-jnsl-two-pager",
+      "type": "document",
+      "authors": [
+        "Adalah - The Legal Center for Arab Minority Rights in Israel"
+      ],
+      "title": "The Basic Law: Israel - The Nation-State of the Jewish People (November 2018 briefing)",
+      "publisher": "Adalah",
+      "year": 2018,
+      "url": "https://www.adalah.org/uploads/uploads/Final_2_pager_on_the_JNSL_27.11.2018%20.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full two-page briefing."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "afp-2025-10-10-pullback",
       "type": "web",
       "title": "Gaza civil defense says Israeli forces pulling back from several areas",
@@ -96,6 +115,22 @@
       "kind": "press",
       "institution_country": "FR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "aharoni-1978-land-of-the-bible",
+      "type": "book",
+      "authors": [
+        "Aharoni, Yohanan"
+      ],
+      "title": "The Land of the Bible: A Historical Geography",
+      "year": 1978,
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened (archive.org copies are lending-only); its view that only the coastal branch should be called the 'Sea Road' was seen as reported in bao-via-maris. Year as given there (revised English edition 1979)."
+      },
+      "kind": "academic"
     },
     {
       "id": "akarli-1993-long-peace",
@@ -115,6 +150,26 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "al-jubeh-2009",
+      "type": "chapter",
+      "authors": [
+        "Al-Jubeh, Nazmi"
+      ],
+      "title": "1917 to the Present: Basic Changes, but not Dramatic: Al-Haram al-Sharif in the Aftermath of 1967",
+      "container": "Where Heaven and Earth Meet: Jerusalem's Sacred Esplanade (ed. O. Grabar and B. Z. Kedar)",
+      "publisher": "Yad Izhak Ben-Zvi and University of Texas Press",
+      "year": 2009,
+      "pages": "274-288",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened; cited in Reiter 2017, endnote 56 (p. 257 of the chapter) and bibliography."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "albright-1925-administrative-divisions",
@@ -264,6 +319,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "alsaud-alqobbaj-2019-josephs-tomb",
+      "type": "article",
+      "authors": [
+        "Alsaud, Loay Abu",
+        "Al-Qobbaj, Amer"
+      ],
+      "title": "Joseph's Tomb: A Model of Traditional Islamic Shrines in Palestine",
+      "container": "Near Eastern Archaeology",
+      "publisher": "University of Chicago Press",
+      "year": 2019,
+      "volume": 82,
+      "issue": 2,
+      "pages": "114-123",
+      "doi": "10.1086/703467",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Crossref and Wikidata (Q127511086) metadata only; not opened."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "amir-2024-gaza-intellectual-centre",
       "type": "article",
       "authors": [
@@ -382,6 +461,66 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "arij-2012-an-nabi-musa",
+      "type": "document",
+      "authors": [
+        "Applied Research Institute - Jerusalem (ARIJ)"
+      ],
+      "title": "An Nabi Musa Locality Profile",
+      "container": "Palestinian Localities Study, Jericho Governorate",
+      "publisher": "Applied Research Institute - Jerusalem",
+      "year": 2012,
+      "url": "http://vprofile.arij.org/jericho/pdfs/vprofile/An_Nabi_Musa_FINAL.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the 11-page PDF, 'History' section (p. 5)."
+      },
+      "kind": "ngo",
+      "institution_country": "PS",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "arij-2012-an-nabi-samwil",
+      "type": "document",
+      "authors": [
+        "Applied Research Institute - Jerusalem (ARIJ)"
+      ],
+      "title": "An Nabi Samwil Village Profile",
+      "container": "Palestinian Localities Study, Jerusalem Governorate",
+      "publisher": "Applied Research Institute - Jerusalem",
+      "year": 2012,
+      "url": "http://vprofile.arij.org/jerusalem/pdfs/vprofile/An%20Nabi%20Samwil_EN.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the 22-page PDF: history, religious sites and the section on Israeli measures (pp. 4-5, 16-17)."
+      },
+      "kind": "ngo",
+      "institution_country": "PS",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "avalon-palestine-mandate-1922",
+      "type": "document",
+      "authors": [
+        "League of Nations"
+      ],
+      "title": "The Palestine Mandate (24 July 1922)",
+      "container": "The Avalon Project, Yale Law School",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1922,
+      "url": "https://avalon.law.yale.edu/20th_century/palmanda.asp",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full text of the Mandate, incl. Art. 22."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "avi-yonah-1947-historical-survey",
@@ -514,6 +653,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "baker-2022-jordan-temple-mount",
+      "type": "web",
+      "authors": [
+        "Baker, Alan"
+      ],
+      "title": "Jordan and the Temple Mount: Have the Jordanians Forgotten Their Peace Treaty Obligations?",
+      "container": "Jerusalem Issue Briefs, vol. 22, no. 11",
+      "publisher": "Jerusalem Center for Public Affairs",
+      "year": 2022,
+      "url": "https://jcfa.org/article/jordan-and-the-temple-mount/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full brief (9 May 2022). Israeli policy/think-tank perspective; quotes Article 9 of the 1994 Israel-Jordan treaty."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "banning-2007-time-tradition",
       "type": "article",
       "authors": [
@@ -558,6 +717,43 @@
       "kind": "academic",
       "institution_country": "FR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "bao-via-maris",
+      "type": "web",
+      "title": "Via Maris (glossary entry)",
+      "container": "Interactive Archaeological Map (biblical-archaeology.org)",
+      "url": "https://biblical-archaeology.org/en/dictionary_terms/%d7%93%d7%a8%d7%9a-%d7%94%d7%99%d7%9d/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the whole glossary entry (English version of a Hebrew/English site; no author named; the entry lists Aharoni 1978 and Meshel 1973 as its sources). Reliability of the site itself is not established, so it is used only for the route description it attributes to those works."
+      },
+      "kind": "reference",
+      "institution_country": "IL"
+    },
+    {
+      "id": "barkan-dayan-2018-sidna-ali",
+      "type": "article",
+      "authors": [
+        "Barkan, Diego",
+        "Dayan, Ayelet"
+      ],
+      "title": "Sidna ‘Ali (Final Report)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 130,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2018,
+      "url": "http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=25476&mag_id=126",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the report (11 Nov 2018), including its background paragraph on the Sidna 'Ali shrine."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "baron-1952-social-religious-history",
@@ -658,6 +854,51 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bartov-2004-dissertation",
+      "type": "book",
+      "authors": [
+        "Bartov, Yuval"
+      ],
+      "title": "Sedimentary fill analysis of a continental basin - the late Pleistocene Dead Sea (dissertation)",
+      "publisher": "Hebrew University of Jerusalem",
+      "year": 2004,
+      "pages": "120 pp.",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened; values seen as rows of the PANGAEA compilation (guillerm-2024-pangaea-dead-sea-levels)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "bartov-2007-dead-sea-fan-deltas",
+      "type": "article",
+      "authors": [
+        "Bartov, Yuval",
+        "Enzel, Yehouda",
+        "Porat, Naomi",
+        "Stein, Mordechai"
+      ],
+      "title": "Evolution of the Late Pleistocene-Holocene Dead Sea Basin from sequence stratigraphy of fan deltas and lake-level reconstruction",
+      "container": "Journal of Sedimentary Research",
+      "publisher": "SEPM",
+      "year": 2007,
+      "volume": 77,
+      "issue": 9,
+      "pages": "680-692",
+      "doi": "10.2110/jsr.2007.070",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened; values seen as rows of the PANGAEA compilation (guillerm-2024-pangaea-dead-sea-levels), which cites this paper."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "baytar-2024-debbane",
       "type": "chapter",
       "authors": [
@@ -676,6 +917,23 @@
       "kind": "academic",
       "institution_country": "TR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "bbc-2006-02-17-mamilla",
+      "type": "web",
+      "title": "Row over Israeli tolerance museum",
+      "container": "BBC News",
+      "publisher": "British Broadcasting Corporation",
+      "year": 2006,
+      "url": "http://news.bbc.co.uk/2/hi/middle_east/4721336.stm",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (17 Feb 2006)."
+      },
+      "kind": "press",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
     },
     {
       "id": "beloch-1886-bevoelkerung",
@@ -732,6 +990,36 @@
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "benjamin-2017-mediterranean-sea-level",
+      "type": "article",
+      "authors": [
+        "Benjamin, Jonathan",
+        "Rovere, Alessio",
+        "Fontana, Alessandro",
+        "Furlani, Stefano",
+        "Vacchi, Matteo",
+        "Inglis, Robyn H.",
+        "Galili, Ehud",
+        "et al."
+      ],
+      "title": "Late Quaternary sea-level changes and early human societies in the central and eastern Mediterranean Basin: An interdisciplinary review",
+      "container": "Quaternary International",
+      "publisher": "Elsevier",
+      "year": 2017,
+      "volume": 449,
+      "pages": "29-57",
+      "doi": "10.1016/j.quaint.2017.06.025",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/119451/1/QUATINT_2016_931_Accepted_Manuscript.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the accepted manuscript in the White Rose repository: sections 6 and 7.1 (manuscript lines 830-835, 1014-1034, 1068-1080). Holocene ages in this paper are calibrated years BP (stated at line 833)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "benvenisti-1970-crusaders-holy-land",
@@ -791,6 +1079,33 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bookman-2004-late-holocene-dead-sea",
+      "type": "article",
+      "authors": [
+        "Bookman (Ken-Tor), Revital",
+        "Enzel, Yehouda",
+        "Agnon, Amotz",
+        "Stein, Mordechai"
+      ],
+      "title": "Late Holocene lake levels of the Dead Sea",
+      "container": "Geological Society of America Bulletin",
+      "publisher": "Geological Society of America",
+      "year": 2004,
+      "volume": 116,
+      "issue": "5-6",
+      "pages": "555-571",
+      "doi": "10.1130/B25286.1",
+      "url": "https://cris.huji.ac.il/en/publications/late-holocene-lake-levels-of-the-dead-sea/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the full abstract on the Hebrew University research portal. Individual dated levels from this paper were seen only as rows of the PANGAEA compilation (guillerm-2024-pangaea-dead-sea-levels)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "bourke-et-al-2001-ghassul",
       "type": "article",
       "authors": [
@@ -848,6 +1163,48 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bowman-2014-rachels-tomb",
+      "type": "article",
+      "authors": [
+        "Bowman, Glenn"
+      ],
+      "title": "Sharing and Exclusion: The Case of Rachel's Tomb",
+      "container": "Jerusalem Quarterly",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2014,
+      "issue": 58,
+      "pages": "30-",
+      "doi": "10.70190/jq.I58.p30",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Crossref metadata only; the PDF host refused automated access (HTTP 403)."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "breger-reiter-hammer-holy-places",
+      "type": "book",
+      "authors": [
+        "Breger, Marshall J. (ed.)",
+        "Reiter, Yitzhak (ed.)",
+        "Hammer, Leonard (ed.)"
+      ],
+      "title": "Holy Places in the Israeli-Palestinian Conflict: Confrontation and Co-existence",
+      "publisher": "Routledge (London and New York)",
+      "year": 2009,
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Existence confirmed only from the bibliography of Reiter 2017, which dates Reiter's chapter 'Contest and Co-habitation in Shared Holy Places: Samuel's Tomb and the Cave of the Patriarchs' (pp. 158-177) to 2009; the book is often catalogued as 2010. Not opened; not used alone to support any fact."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "britannica-1948-war",
       "type": "web",
       "title": "1948 Arab-Israeli War",
@@ -899,6 +1256,45 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-akkadian-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Akkadian language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Akkadian-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261012133952. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-al-aqsa-mosque",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Al-Aqsa Mosque",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/topic/Al-Aqsa-Mosque",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260104175657 of the britannica.com page (direct access returned HTTP 403). Article last modified 2025-12-29."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "britannica-al-karak",
       "type": "web",
       "authors": [
@@ -936,18 +1332,40 @@
     {
       "id": "britannica-amarna-letters",
       "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
       "title": "Amarna Letters",
       "container": "Encyclopaedia Britannica",
       "publisher": "Encyclopaedia Britannica, Inc.",
       "url": "https://www.britannica.com/topic/Amarna-Letters",
+      "accessed": "2026-10-19",
       "verification": {
-        "level": "excerpt",
-        "checked_on": "2026-10-18",
-        "note": "Read only the first two paragraphs (the browser output was cut off after them)."
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260630060058. Quotes are from the article body, not the AI-generated summary boxes."
       },
       "kind": "reference",
-      "institution_country": "US",
-      "accessed": "2026-10-18"
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-amman",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Amman",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Amman",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260811083657. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-ammonite",
@@ -999,6 +1417,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-arabic-alphabet",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Arabic alphabet",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Arabic-alphabet",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261007011110. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-aramaean",
       "type": "web",
       "title": "Aramaean",
@@ -1013,6 +1450,63 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-aramaic-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Aramaic language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Aramaic-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261004172558. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-armenian-apostolic-church",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Armenian Apostolic Church",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Armenian-Apostolic-Church",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260809110121. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-armenian-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Armenian language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Armenian-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260702221912. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-armistice-mudros",
@@ -1099,6 +1593,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-bahai-faith",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Bahāʾī Faith",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2026,
+      "url": "https://www.britannica.com/topic/Bahai-Faith",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260109061925 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "britannica-battle-of-ayn-jalut",
       "type": "web",
       "authors": [
@@ -1116,6 +1630,82 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-beersheba",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Beersheba",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Beersheba",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260102005110."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-beit-shean",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Beit Sheʾan",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Bet-Shean",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251122024042."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-bethlehem",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Bethlehem",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Bethlehem",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251220142914."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-bostra",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Bostra",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Bostra",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260516011214."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-byzantine-empire",
@@ -1182,6 +1772,83 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-canaanite-languages",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Canaanite languages",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Canaanite-languages",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260907183244. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-capernaum",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Capernaum",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Capernaum",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260106014717."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-church-of-the-holy-sepulchre",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Church of the Holy Sepulchre",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2026,
+      "url": "https://www.britannica.com/topic/Church-of-the-Holy-Sepulchre",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20261011001843 of the britannica.com page (direct access returned HTTP 403). The archived page showed only a short topic summary and article snippets, not a full article."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-circassian",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Circassian",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Circassian",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260922230615. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-crusades",
       "type": "web",
       "authors": [
@@ -1203,6 +1870,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-damascus",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Damascus",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Damascus",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251223184748."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-dayr-yasin",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Dayr Yāsīn",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Dayr-Yasin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot (saved copy of the short entry; its alternate-title line and cross-reference snippets were read)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-decapolis",
       "type": "web",
       "title": "Decapolis",
@@ -1217,6 +1922,46 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-dome-of-the-rock",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Dome of the Rock",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/topic/Dome-of-the-Rock",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251229120244 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-druze",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Druze",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2026,
+      "url": "https://www.britannica.com/topic/Druze",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260109033233 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "britannica-edom",
@@ -1267,6 +2012,44 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-egyptian-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Egyptian language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Egyptian-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260904135719. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-elat",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Elat",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Elat",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251116233515."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-faisal-i",
@@ -1367,6 +2150,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-gezer-calendar",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Gezer Calendar (topic page with excerpt from 'Hebrew alphabet')",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Gezer-Calendar",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot (saved earlier in this research project as er/dl/ancient/gezer-calendar.html). Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-golan-heights",
       "type": "web",
       "title": "Golan Heights",
@@ -1382,6 +2184,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-haifa",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Haifa",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Haifa",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251212163608."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-hamas",
@@ -1431,6 +2252,44 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-hebrew-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Hebrew language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Hebrew-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260916041606. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-hejaz-railway",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Hejaz Railway",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Hejaz-Railway",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full article via Internet Archive snapshot 20260925104732 (britannica.com refuses automated requests)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-herod",
@@ -1600,6 +2459,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-israel-people",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Israel: People",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Israel/People",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260718015757. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-jenin",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Jenin",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Janin",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20231110185553."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-jericho",
       "type": "web",
       "title": "Jericho",
@@ -1614,6 +2511,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-jerusalem",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Jerusalem",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Jerusalem",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251216053303."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-jordan-history",
@@ -1685,6 +2601,84 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-kings-highway",
+      "type": "web",
+      "authors": [
+        "Britannica Editors",
+        "Etheredge, Laura"
+      ],
+      "title": "King's Highway (ancient road, Middle East)",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Kings-Highway",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests (HTTP 403); read the full article via Internet Archive snapshot 20261011074117."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-koine",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Koine",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Koine-Greek-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261011142218. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-ladino-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Ladino language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Ladino-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260930104316. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-lag-baomer",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Lag BaOmer",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/topic/Lag-ba-Omer",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251220211757 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "britannica-lebanon-french-mandate",
       "type": "web",
       "title": "Lebanon: French mandate",
@@ -1702,6 +2696,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-lod",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Lod",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Lod",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260214032903."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-maccabees",
       "type": "web",
       "title": "Maccabees",
@@ -1716,6 +2729,45 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-madaba",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Mādabā",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Madaba",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260825002644 (saved earlier in this research project as er/dl/classical/b_madaba). Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-maimonides",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Moses Maimonides",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2026,
+      "url": "https://www.britannica.com/biography/Moses-Maimonides",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260114023945 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "britannica-mamluk",
@@ -1751,6 +2803,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-masada",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Masada",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Masada",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251124083820."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-megiddo",
@@ -1801,6 +2872,125 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-moabite-stone",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Moabite Stone (topic page with excerpts from related articles)",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Moabite-Stone",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20251209205406. Quotes are from the article body, not the AI-generated summary boxes. The page consists of excerpts from the articles 'Dibon', 'Jordan: Biblical associations', 'Moabite alphabet' and 'calligraphy'."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-mount-carmel",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Mount Carmel",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Mount-Carmel-mountain-ridge-Israel",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251116130407 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-mount-gerizim",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Mount Gerizim",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Mount-Gerizim",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251223124735 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-mount-of-olives",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Mount of Olives",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2026,
+      "url": "https://www.britannica.com/place/Mount-of-Olives",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260106014714 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-mount-sinai",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Mount Sinai",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Mount-Sinai-mountain-Egypt",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251213151713 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-mount-tabor",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Mount Tabor",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Mount-Tabor",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251125061045 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "britannica-muhammad-ali",
       "type": "web",
       "authors": [
@@ -1836,6 +3026,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-nablus",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Nablus",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Nablus",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251226230843."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-nabonidus",
       "type": "web",
       "title": "Nabonidus",
@@ -1866,6 +3075,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-nazareth",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Nazareth",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Nazareth-Israel",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251229210547."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-nebuchadnezzar-ii",
@@ -2144,6 +3372,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-petah-tikva",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Petah Tikva",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Petah-Tiqwa",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251102103916."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-philistine",
       "type": "web",
       "title": "Philistine",
@@ -2158,6 +3405,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-phoenician-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Phoenician language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Phoenician-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260702112519. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-pompey",
@@ -2192,6 +3458,101 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-qumran",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Qumrān",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Qumran",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251231141933."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-quneitra",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Quneitra",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Al-Qunaytirah",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251119101929."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-rafah",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Rafah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Rafah",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260110014642."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-ramallah",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Ramallah",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Ramallah",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251230230504."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-ramla",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Ramla",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Ramla",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251126072609."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-rashidun",
       "type": "web",
       "title": "Rashidun",
@@ -2208,6 +3569,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-rishon-lezion",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Rishon LeZion",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Rishon-LeZiyyon",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20250918222005."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-roman-empire",
       "type": "web",
       "title": "Roman Empire",
@@ -2222,6 +3602,26 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-safed",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Ẕefat (Safed)",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Zefat",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251220144415 of the britannica.com page (direct access returned HTTP 403)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "britannica-saladin",
@@ -2241,6 +3641,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-samaritan",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Samaritan",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Samaritan",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261010235416. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-sasanian-dynasty",
@@ -2394,6 +3813,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-syria-ottoman",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Syria: Ottoman period",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Syria/Ottoman-period",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot (saved earlier in this research project as conf_dl/A_wb/A-brit-syria-ottoman). Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-syria-ottoman-rule-restored",
       "type": "web",
       "title": "Syria: Ottoman rule restored (incl. World War I)",
@@ -2428,6 +3866,102 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-syriac-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Syriac language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Syriac-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260518235012. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-tel-aviv-yafo",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Tel Aviv–Yafo",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Tel-Aviv-Yafo",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251218060803."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-temple-mount",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Temple Mount",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/place/Temple-Mount",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20260106233237 of the britannica.com page (direct access returned HTTP 403). Article last modified 2025-12-21."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-tiberias",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Tiberias",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Tiberias",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20260106233437."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-tulkarm",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Tulkarm",
+      "container": "Encyclopaedia Britannica (online)",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Tulkarm",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20250620113819."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-tulunid-dynasty",
       "type": "web",
       "title": "Tulunid dynasty",
@@ -2444,6 +3978,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "britannica-turkish-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Turkish language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Turkish-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260918014445. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-tyre",
       "type": "web",
       "title": "Tyre",
@@ -2458,6 +4011,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-ugarit",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Ugarit",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/place/Ugarit",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260710062325. Quotes are from the article body, not the AI-generated summary boxes. Read the section 'The golden age of Ugarit'."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-umayyad-dynasty",
@@ -2508,6 +4080,45 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-western-wall",
+      "type": "web",
+      "authors": [
+        "Britannica Editors"
+      ],
+      "title": "Western Wall",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "year": 2025,
+      "url": "https://www.britannica.com/topic/Western-Wall",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251225070150 of the britannica.com page (direct access returned HTTP 403). Article last modified 2025-11-28."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "britannica-yiddish-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Yiddish language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Yiddish-language",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261008195507. Quotes are from the article body, not the AI-generated summary boxes."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-zefat",
@@ -3053,6 +4664,34 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "dean-2019-israel-rsl-3000-years",
+      "type": "article",
+      "authors": [
+        "Dean, Silas",
+        "Horton, Benjamin P.",
+        "Evelpidou, Niki",
+        "Cahill, Niamh",
+        "Spada, Giorgio",
+        "Sivan, Dorit"
+      ],
+      "title": "Can we detect centennial sea-level variations over the last three thousand years in Israeli archaeological records?",
+      "container": "Quaternary Science Reviews",
+      "publisher": "Elsevier",
+      "year": 2019,
+      "volume": 210,
+      "pages": "125-135",
+      "doi": "10.1016/j.quascirev.2019.02.021",
+      "url": "https://mural.maynoothuniversity.ie/13627/1/NC_can%20we%20detect.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the published PDF from the Maynooth University repository (MURAL); the modelled RSL values are taken from the abstract (p. 125). Minus and plus-minus signs are garbled in the PDF text layer; quotes are given with the signs restored."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "dellapergola-2001",
       "type": "article",
       "authors": [
@@ -3169,6 +4808,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "eck-2010-judaea-diploma",
+      "type": "article",
+      "authors": [
+        "Eck, Werner"
+      ],
+      "title": "A Second Constitution for the Auxiliary Troops in Judaea in 86 AD",
+      "container": "Scripta Classica Israelica",
+      "publisher": "Israel Society for the Promotion of Classical Studies",
+      "year": 2010,
+      "volume": 29,
+      "pages": "21-31",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the extracted text of the article PDF obtained earlier in this research project (file sci3149.pdf from the journal's open-access archive; exact URL not recorded): p. 21, the Latin text of the diploma."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "ennab-1994",
       "type": "document",
       "authors": [
@@ -3186,6 +4846,36 @@
       "kind": "un",
       "institution_country": "CH",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "enzel-2003-late-holocene-climates",
+      "type": "article",
+      "authors": [
+        "Enzel, Yehouda",
+        "Bookman (Ken Tor), Revital",
+        "Sharon, David",
+        "Gvirtzman, Haim",
+        "Dayan, Uri",
+        "Ziv, Baruch",
+        "Stein, Mordechai"
+      ],
+      "title": "Late Holocene climates of the Near East deduced from Dead Sea level variations and modern regional winter rainfall",
+      "container": "Quaternary Research",
+      "publisher": "Elsevier",
+      "year": 2003,
+      "volume": 60,
+      "issue": 3,
+      "pages": "263-273",
+      "doi": "10.1016/j.yqres.2003.07.011",
+      "url": "https://cris.huji.ac.il/en/publications/late-holocene-climates-of-the-near-east-deduced-from-dead-sea-lev/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the full abstract on the Hebrew University research portal."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "feldman-1990-name-palestine",
@@ -3282,6 +4972,63 @@
       "kind": "government",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "galili-2019-tel-hreiz",
+      "type": "article",
+      "authors": [
+        "Galili, Ehud",
+        "Benjamin, Jonathan",
+        "Eshed, Vered",
+        "Rosen, Baruch",
+        "McCarthy, John",
+        "Kolska Horwitz, Liora"
+      ],
+      "title": "A submerged 7000-year-old village and seawall demonstrate earliest known coastal defence against sea-level rise",
+      "container": "PLOS ONE",
+      "publisher": "Public Library of Science",
+      "year": 2019,
+      "volume": 14,
+      "issue": 12,
+      "pages": "e0222560",
+      "doi": "10.1371/journal.pone.0222560",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222560",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the open-access PDF; sea-level summary on p. 2 and discussion p. 11-12. Its Table 1 gives calibrated ages, so 'BP' here is read as calibrated."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "galili-2020-israel-submerged-sites",
+      "type": "chapter",
+      "authors": [
+        "Galili, Ehud",
+        "Rosen, Baruch",
+        "Weinstein Evron, Mina",
+        "Hershkovitz, Israel",
+        "Eshed, Vered",
+        "Kolska Horwitz, Liora"
+      ],
+      "title": "Israel: Submerged Prehistoric Sites and Settlements on the Mediterranean Coastline - the Current State of the Art",
+      "container": "The Archaeology of Europe's Drowned Landscapes (G. Bailey et al., eds.), Coastal Research Library 35",
+      "publisher": "Springer",
+      "year": 2020,
+      "volume": 35,
+      "pages": "443-481",
+      "doi": "10.1007/978-3-030-37367-2_23",
+      "url": "https://vliz.be/imisdocs/publications/343870.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the open-access chapter PDF (copy in the VLIZ repository): section 23.3, Table 23.2 (radiocarbon dates with calibrated ranges, p. 451) and section 23.7.1 'Water Wells and Sea-Level Change' (p. 470-471)."
+      },
+      "kind": "academic",
+      "institution_country": "CH"
     },
     {
       "id": "gamrat-2019-egyptian-kitchenware",
@@ -3446,6 +5193,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "grabar-kedar-2009",
+      "type": "book",
+      "authors": [
+        "Grabar, Oleg (ed.)",
+        "Kedar, Benjamin Z. (ed.)"
+      ],
+      "title": "Where Heaven and Earth Meet: Jerusalem's Sacred Esplanade",
+      "publisher": "Yad Izhak Ben-Zvi (Jerusalem) and University of Texas Press",
+      "year": 2009,
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Existence and chapter details confirmed only from the bibliography and endnotes of Reiter 2017; the volume itself was not opened. Not used alone to support any fact."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "grant-fc-1926-economic-background",
       "type": "book",
       "authors": [
@@ -3480,6 +5246,95 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "guillerm-2024-pangaea-dead-sea-levels",
+      "type": "dataset",
+      "authors": [
+        "Guillerm, Emmanuel",
+        "Gardien, Véronique",
+        "Waldmann, Nicolas D.",
+        "Brall, Niels S.",
+        "Ariztegui, Daniel",
+        "Schwab, Markus J.",
+        "Neugebauer, Ina",
+        "Lach, Adeline",
+        "Caupin, Frédéric"
+      ],
+      "title": "Dead Sea lake level for the last 237 ka, data compilation",
+      "container": "PANGAEA",
+      "publisher": "PANGAEA (AWI / MARUM)",
+      "year": 2024,
+      "doi": "10.1594/PANGAEA.964546",
+      "url": "https://doi.pangaea.de/10.1594/PANGAEA.964546",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded the full tab-delimited data file (CC BY 4.0) and read the header and every Holocene row (age in ka BP with 2-sigma, lake level in m a.s.l., source reference per row)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "haaretz-2010-02-22-un-heritage-sites",
+      "type": "web",
+      "authors": [
+        "News Agencies"
+      ],
+      "title": "UN: Israel heritage sites are on Palestinian land",
+      "container": "Haaretz",
+      "publisher": "Haaretz",
+      "year": 2010,
+      "url": "https://www.haaretz.com/news/un-israel-heritage-sites-are-on-palestinian-land-1.266107",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Paywalled; saw the subtitle and lead paragraph (22 Feb 2010)."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "haaretz-2010-02-25-us-heritage-sites",
+      "type": "web",
+      "authors": [
+        "The Associated Press"
+      ],
+      "title": "U.S. slams Israel over designating heritage sites",
+      "container": "Haaretz",
+      "publisher": "Haaretz",
+      "year": 2010,
+      "url": "https://www.haaretz.com/news/u-s-slams-israel-over-designating-heritage-sites-1.263737",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Paywalled; saw the lead sentence (25 Feb 2010)."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "haaretz-2010-11-03-unesco-rachels-tomb",
+      "type": "web",
+      "authors": [
+        "Lis, Jonathan"
+      ],
+      "title": "Israel clashes with UNESCO in row over holy sites",
+      "container": "Haaretz",
+      "publisher": "Haaretz",
+      "year": 2010,
+      "url": "https://www.haaretz.com/news/diplomacy-defense/israel-clashes-with-unesco-in-row-over-holy-sites-1.322758",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Paywalled; saw only the lead sentence (3 Nov 2010)."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "haifa-hazor-excavations",
@@ -3646,6 +5501,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "iaa-lldss-introduction",
+      "type": "web",
+      "authors": [
+        "Israel Antiquities Authority"
+      ],
+      "title": "Introduction (Learn About the Scrolls)",
+      "container": "The Leon Levy Dead Sea Scrolls Digital Library",
+      "publisher": "Israel Antiquities Authority",
+      "year": 2026,
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the page text (copy saved earlier in this research project as er/dl/classical/lldss_intro)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "iaa-lldss-languages-scripts",
+      "type": "web",
+      "authors": [
+        "Israel Antiquities Authority"
+      ],
+      "title": "Languages and Scripts",
+      "container": "The Leon Levy Dead Sea Scrolls Digital Library",
+      "publisher": "Israel Antiquities Authority",
+      "year": 2026,
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/languages-and-scripts",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the whole page (sections Hebrew; Aramaic including Nabatean; Greek; Latin; Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "icj-2004-wall-ao",
       "type": "document",
       "title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory, Advisory Opinion of 9 July 2004 (transmitted as UN doc A/ES-10/273)",
@@ -3698,6 +5593,54 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "inpa-mount-gerizim",
+      "type": "web",
+      "title": "Mount Gerizim",
+      "container": "Israel Nature and Parks Authority website",
+      "publisher": "Israel Nature and Parks Authority",
+      "url": "https://en.parks.org.il/reserve-park/mount-gerizim/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the site page (undated; accessed 19 Oct 2026). Israeli government agency that operates the site."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "inpa-nebi-samuel",
+      "type": "web",
+      "title": "Nabi Samuel Park",
+      "container": "Israel Nature and Parks Authority website",
+      "publisher": "Israel Nature and Parks Authority",
+      "url": "https://en.parks.org.il/reserve-park/nebi-samuel-park/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the site page (undated; accessed 19 Oct 2026)."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "inpa-qasr-al-yahud",
+      "type": "web",
+      "title": "Kasr el Yahud - Baptismal Site on the Jordan River",
+      "container": "Israel Nature and Parks Authority website",
+      "publisher": "Israel Nature and Parks Authority",
+      "url": "https://en.parks.org.il/reserve-park/baptismal-site-on-the-jordan-river-qasr-al-yahud/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the site page (undated; accessed 19 Oct 2026)."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "iranica-ayyubids-humphreys-1987",
@@ -3763,6 +5706,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-jordan-peace-treaty-1994",
+      "type": "document",
+      "authors": [
+        "State of Israel",
+        "Hashemite Kingdom of Jordan"
+      ],
+      "title": "Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan (Wadi Araba), 26 October 1994, Article 9",
+      "publisher": "Governments of Israel and Jordan (registered with the UN Secretariat)",
+      "year": 1994,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Treaty text not opened directly; Article 9(2) seen quoted in Kassim 2023 (in full) and Baker 2022 (partly). Both quotations agree."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "israel-mfa-disengagement-plan-2004",
@@ -3831,6 +5793,45 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-supreme-court-2021-jnsl-summary",
+      "type": "document",
+      "authors": [
+        "Supreme Court of Israel (summary released by the Court; English translation by Adalah)"
+      ],
+      "title": "Summary of Israeli Supreme Court Decision on the Jewish Nation-State Basic Law, HCJ 5555/18 Hassoun v. The Knesset (8 July 2021)",
+      "publisher": "Adalah (translation)",
+      "year": 2021,
+      "url": "https://www.adalah.org/uploads/uploads/Translation_of_Summary_of_JNSL_Judgment.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full translated summary (majority and the dissent of Justice Karra)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-water-authority-dead-sea-level",
+      "type": "dataset",
+      "authors": [
+        "Israel Water Authority, Hydrological Service"
+      ],
+      "title": "מפלס ים המלח (Dead Sea level) - monthly measurements since 1976",
+      "container": "data.gov.il (Israel government open data portal)",
+      "publisher": "Israel Water Authority (הרשות הממשלתית למים ולביוב)",
+      "year": 2026,
+      "url": "https://data.gov.il/dataset/https-www-data-gov-il-dataset-683",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Downloaded all 694 records (resource 823479b4-4771-43d8-9189-6a2a1dcaaf10) through the CKAN datastore API on 2026-10-19; first record 01/10/1976 (-398.95 m), last record 04/10/2026 (-441.5 m). Also read the Hebrew dataset description (official measurements since 1900; level -392 m in 1900)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "jacobson-2001-bar",
@@ -3928,6 +5929,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "jordan-royal-court-custodianship",
+      "type": "web",
+      "title": "The Hashemite Custodianship of Islamic and Christian Holy Sites in Jerusalem",
+      "container": "King Abdullah II Official Website",
+      "publisher": "Royal Hashemite Court, Jordan",
+      "url": "https://kingabdullah.jo/en/hashemites/custodianship",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the page (undated; accessed 18 Oct 2026). Official Jordanian statement on the custodianship, the 1988 disengagement exception, the 1994 treaty and the 31 March 2013 agreement with President Abbas."
+      },
+      "kind": "government",
+      "institution_country": "JO",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "jpost-2026-06-23-idf-control",
       "type": "web",
       "title": "IDF expands control to approx. 70% of Gaza Strip as Southern Command prepares for next steps",
@@ -3997,6 +6014,34 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "kagan-2015-dead-sea-bronze-iron",
+      "type": "article",
+      "authors": [
+        "Kagan, Elisa J.",
+        "Langgut, Dafna",
+        "Boaretto, Elisabetta",
+        "Neumann, Frank H.",
+        "Stein, Mordechai"
+      ],
+      "title": "Dead Sea levels during the Bronze and Iron Ages",
+      "container": "Radiocarbon",
+      "publisher": "University of Arizona",
+      "year": 2015,
+      "volume": 57,
+      "issue": 2,
+      "pages": "237-252",
+      "doi": "10.2458/azu_rc.57.18560",
+      "url": "https://cris.biu.ac.il/en/publications/dead-sea-levels-during-the-bronze-and-iron-ages/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the full abstract on the Bar-Ilan University research portal and on the Cambridge Core article page."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "karpat-1978",
       "type": "article",
       "authors": [
@@ -4021,6 +6066,70 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "karsh-2008-commentary-1948",
+      "type": "article",
+      "authors": [
+        "Karsh, Efraim"
+      ],
+      "title": "1948, Israel, and the Palestinians—The True Story",
+      "container": "Commentary",
+      "year": 2008,
+      "url": "https://www.commentary.org/articles/efraim-karsh/1948-israel-and-the-palestinians-the-true-story/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read a saved copy of the article text (May 2008 issue); passage on the survivors of Deir Yasin. Israeli historian writing from a perspective critical of the 'New Historians'."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "kassim-2023-jordan-role",
+      "type": "web",
+      "authors": [
+        "Kassim, Anis Fawzi"
+      ],
+      "title": "Israel's Practices and Its \"Respect\" for Jordan's Role in Jerusalem: A Legal Study",
+      "container": "Arab Center Washington DC",
+      "publisher": "Arab Center Washington DC",
+      "year": 2023,
+      "url": "https://arabcenterdc.org/resource/israels-practices-and-its-respect-for-jordans-role-in-jerusalem-a-legal-study/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full study (27 June 2023). Arab/Palestinian legal perspective; quotes Article 9 of the 1994 Israel-Jordan treaty in full."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "kempe-2008-dead-sea-terraces",
+      "type": "article",
+      "authors": [
+        "Kempe, Stephan",
+        "Abu Ghazleh, Shahrazad",
+        "Hartmann, Jens",
+        "Jansen, Nils"
+      ],
+      "title": "The dramatic drop of the Dead Sea at 0.44 km3/a and its recently (1932-2007) formed terraces",
+      "container": "Geophysical Research Abstracts (EGU General Assembly 2008)",
+      "publisher": "European Geosciences Union / Copernicus",
+      "year": 2008,
+      "volume": 10,
+      "pages": "EGU2008-A-08677",
+      "url": "https://meetings.copernicus.org/www.cosis.net/abstracts/EGU2008/08677/EGU2008-A-08677.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full conference abstract (PDF)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "kennedy-2013-late-bronze-canaan",
       "type": "document",
       "authors": [
@@ -4039,6 +6148,46 @@
       "kind": "academic",
       "institution_country": "ZA",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "khalidi-1992-all-that-remains",
+      "type": "book",
+      "authors": [
+        "Khalidi, Walid (ed.)"
+      ],
+      "title": "All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948",
+      "publisher": "Institute for Palestine Studies (Washington DC)",
+      "year": 1992,
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "The entry on Sabalan (Safad district) was read as reproduced on the Zochrot village page, which credits this book."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "khalidi-2009-mamilla",
+      "type": "article",
+      "authors": [
+        "Khalidi, Asem"
+      ],
+      "title": "The Mamilla Cemetery; A Buried History",
+      "container": "Jerusalem Quarterly",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2009,
+      "issue": 37,
+      "pages": "104-",
+      "doi": "10.70190/jq.I37.p104",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Crossref metadata only; the PDF host refused automated access."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-19"
     },
     {
       "id": "kinghussein-1988-disengagement",
@@ -4109,6 +6258,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "knesset-basic-law-nation-state-2018-adalah-translation",
+      "type": "document",
+      "authors": [
+        "Knesset (law)",
+        "Adalah (unofficial translation)"
+      ],
+      "title": "Basic Law: Israel - The Nation State of the Jewish People (unofficial translation, 25 July 2018)",
+      "publisher": "Adalah - The Legal Center for Arab Minority Rights in Israel",
+      "year": 2018,
+      "url": "https://www.adalah.org/uploads/uploads/Basic_Law_Israel_as_the_Nation_State_of_the_Jewish_People_ENG_TRANSLATION_25072018.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full text of the unofficial English translation posted by Adalah (the Knesset's own English PDF returned a bot-check page). Section 4 'Language'."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "knoppers-grabbe-2009-exile-restoration",
       "type": "book",
       "authors": [
@@ -4127,6 +6296,30 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "kushnir-stein-2019-medieval-climate",
+      "type": "article",
+      "authors": [
+        "Kushnir, Yochanan",
+        "Stein, Mordechai"
+      ],
+      "title": "Medieval Climate in the Eastern Mediterranean: Instability and Evidence of Solar Forcing",
+      "container": "Atmosphere",
+      "publisher": "MDPI",
+      "year": 2019,
+      "volume": 10,
+      "issue": 1,
+      "pages": "29",
+      "doi": "10.3390/atmos10010029",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Publisher site refused automated access; values seen as rows of the PANGAEA compilation (guillerm-2024-pangaea-dead-sea-levels)."
+      },
+      "kind": "academic",
+      "institution_country": "CH"
     },
     {
       "id": "landes-1976",
@@ -4343,6 +6536,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "meshel-1973-via-maris",
+      "type": "article",
+      "authors": [
+        "Meshel, Zeev"
+      ],
+      "title": "Was There a 'Via Maris'?",
+      "container": "Israel Exploration Journal",
+      "publisher": "Israel Exploration Society",
+      "year": 1973,
+      "volume": 23,
+      "issue": 3,
+      "pages": "162-166",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Only the bibliographic reference was seen (in bao-via-maris); content not read."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "meyer-1909-bevoelkerung",
       "type": "chapter",
       "authors": [
@@ -4360,6 +6575,34 @@
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "migowski-2006-holocene-dead-sea",
+      "type": "article",
+      "authors": [
+        "Migowski, Claudia",
+        "Stein, Mordechai",
+        "Prasad, Sushma",
+        "Negendank, Jörg F.W.",
+        "Agnon, Amotz"
+      ],
+      "title": "Holocene climate variability and cultural evolution in the Near East from the Dead Sea sedimentary record",
+      "container": "Quaternary Research",
+      "publisher": "Elsevier",
+      "year": 2006,
+      "volume": 66,
+      "issue": 3,
+      "pages": "421-431",
+      "doi": "10.1016/j.yqres.2006.06.010",
+      "url": "https://cris.huji.ac.il/en/publications/holocene-climate-variability-and-cultural-evolution-in-the-near-e/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the full abstract on the Hebrew University research portal (no level values are given in the abstract)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "mills-1932",
@@ -4414,6 +6657,23 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "npa-2025-04-24-nabi-shuayb",
+      "type": "web",
+      "title": "Israel Permits Syrian Druze Religious Delegation to Visit Tomb of Prophet Shuʿayb",
+      "container": "North Press Agency",
+      "publisher": "North Press Agency",
+      "year": 2025,
+      "url": "https://npasyria.com/en/124897/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (24 April 2025)."
+      },
+      "kind": "press",
+      "institution_country": "SY",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "npr-2026-02-16-land-registration",
       "type": "web",
       "title": "Israel will begin contentious West Bank land registration",
@@ -4446,6 +6706,26 @@
       "kind": "press",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "nyt-2010-02-11-mamilla",
+      "type": "web",
+      "authors": [
+        "Kershner, Isabel"
+      ],
+      "title": "Museum Project Creates Another Divide in Jerusalem",
+      "container": "The New York Times",
+      "publisher": "The New York Times Company",
+      "year": 2010,
+      "url": "https://www.nytimes.com/2010/02/11/world/middleeast/11jerusalem.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article text (11 Feb 2010) with statements from the Palestinian petitioners and from the Simon Wiesenthal Center. Online headline also given as Museum Creates New Jerusalem Divide."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-19"
     },
     {
       "id": "ocha-area-c",
@@ -4497,6 +6777,44 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ovadiah-pierri-elijahs-cave",
+      "type": "article",
+      "authors": [
+        "Ovadiah, Asher",
+        "Pierri, Rosario"
+      ],
+      "title": "Elijah's Cave on Mount Carmel and its Inscriptions",
+      "pages": "29-76 (as printed in the PDF)",
+      "url": "https://www.daat.ac.il/daat/israel/toldot/ovadiha-elijah2.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the 48-page PDF hosted by Daat (Herzog College). The original venue and year are not stated in the PDF; the same authors published a 2015 Archaeopress book of this title (DOI 10.2307/j.ctvr43kx7), not opened."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "pa-basic-law-2003",
+      "type": "document",
+      "authors": [
+        "Palestinian Legislative Council"
+      ],
+      "title": "The Amended Basic Law (2003)",
+      "container": "palestinianbasiclaw.org",
+      "year": 2003,
+      "url": "https://www.palestinianbasiclaw.org/basic-law/2003-amended-basic-law",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read Articles 1-6 of the English text, incl. Article 4."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
       "id": "palestine-royal-commission-1937",
       "type": "document",
       "authors": [
@@ -4532,6 +6850,65 @@
       "kind": "government",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "palmer-1881",
+      "type": "book",
+      "authors": [
+        "Palmer, E. H.",
+        "Conder, C. R.",
+        "Kitchener, H. H."
+      ],
+      "title": "The Survey of Western Palestine: Arabic and English Name Lists Collected during the Survey by Lieutenants Conder and Kitchener, R.E., transliterated and explained by E. H. Palmer",
+      "publisher": "Committee of the Palestine Exploration Fund (London)",
+      "year": 1881,
+      "url": "https://archive.org/details/surveyofwesternp00conduoft",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the Internet Archive OCR text (surveyofwesternp00conduoft_djvu.txt); entries cited by the name as printed. Names were collected in the field during the PEF survey of the 1870s. OCR of diacritics is imperfect; quotes are given as they appear in the OCR with obvious OCR errors in diacritics normalised."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "palquest-deir-yasin",
+      "type": "web",
+      "authors": [
+        "Institute for Palestine Studies"
+      ],
+      "title": "The Deir Yasin Massacre, 9 April 1948",
+      "container": "Interactive Encyclopedia of the Palestine Question (palquest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/highlight/21194/deir-yasin-massacre-9-april-1948",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read a saved copy of the article text (the operation date and narrative of 9 April 1948). Palestinian academic institution; URL is the canonical link recorded in the saved page."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "palquest-lydda-1948",
+      "type": "web",
+      "authors": [
+        "Institute for Palestine Studies"
+      ],
+      "title": "Lydda, 9-13 July 1948",
+      "container": "Interactive Encyclopedia of the Palestine Question (palquest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/highlight/24073/lydda-9-13-july-1948",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read a saved copy of the article text; URL is the canonical link recorded in the saved page. Palestinian academic institution."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "pcbs-2018-census-summary",
@@ -4647,6 +7024,29 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "pleiades",
+      "type": "dataset",
+      "authors": [
+        "Bagnall, Roger",
+        "Talbert, Richard",
+        "Elliott, Tom",
+        "Gillies, Sean"
+      ],
+      "title": "Pleiades: A Gazetteer of Past Places",
+      "container": "Pleiades",
+      "publisher": "Institute for the Study of the Ancient World, New York University",
+      "year": 2026,
+      "url": "https://pleiades.stoa.org",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Fetched the JSON record (https://pleiades.stoa.org/places/<id>/json) of every place cited; locators give the place id, the name record id and the time periods used. Name records incorporate the Barrington Atlas of the Greek and Roman World and the TAVO (Tuebinger Atlas des Vorderen Orients) Index. Licence CC BY 3.0. Period ranges taken from the Pleiades time-period vocabulary page."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "pnc-declaration-1988",
       "type": "document",
       "title": "Letter dated 18 November 1988 ... transmitting the Political Communiqué and the Declaration of Independence of the Palestine National Council (15 November 1988)",
@@ -4702,6 +7102,73 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "prawer-1985-franks",
+      "type": "chapter",
+      "authors": [
+        "Prawer, Joshua"
+      ],
+      "title": "Social Classes in the Latin Kingdom: the Franks",
+      "container": "A History of the Crusades, vol. V: The Impact of the Crusades on the Near East (K. M. Setton gen. ed.; N. P. Zacour and H. W. Hazard, eds.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1985,
+      "volume": "V",
+      "pages": "117-192",
+      "url": "https://search.library.wisc.edu/digital/AJBWKB3KXWEYAW87",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passage on p. 192."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "prawer-1985-minorities",
+      "type": "chapter",
+      "authors": [
+        "Prawer, Joshua"
+      ],
+      "title": "Social Classes in the Crusader States: the 'Minorities'",
+      "container": "A History of the Crusades, vol. V: The Impact of the Crusades on the Near East (K. M. Setton gen. ed.; N. P. Zacour and H. W. Hazard, eds.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1985,
+      "volume": "V",
+      "pages": "c. 59-115",
+      "url": "https://search.library.wisc.edu/digital/AJBWKB3KXWEYAW87",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "prime-2006-learning-narrative-2",
+      "type": "book",
+      "authors": [
+        "Adwan, Sami",
+        "Bar-On, Dan",
+        "Musallam, Adnan",
+        "Naveh, Eyal",
+        "Steinberg, Shoshana"
+      ],
+      "title": "Learning Each Other's Historical Narrative: Palestinians and Israelis (Part Two)",
+      "publisher": "PRIME - Peace Research Institute in the Middle East (Beit Jala)",
+      "year": 2006,
+      "url": "https://www.vispo.com/PRIME/narrative.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the OCR text of the PDF (dated April 2006): Palestinian-narrative column of the 1967 chapter, booklet p. 86. Joint Israeli-Palestinian project presenting the two national narratives side by side."
+      },
+      "kind": "ngo",
+      "institution_country": "PS"
+    },
+    {
       "id": "reagan-1982-sinai",
       "type": "document",
       "title": "Message to the Congress Transmitting the Final Report of the United States Sinai Support Mission (May 26, 1982)",
@@ -4746,6 +7213,66 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "reiter-2009-samuel-patriarchs",
+      "type": "chapter",
+      "authors": [
+        "Reiter, Yitzhak"
+      ],
+      "title": "Contest and Co-habitation in Shared Holy Places: Samuel's Tomb and the Cave of the Patriarchs",
+      "container": "Holy Places in the Israeli-Palestinian Conflict: Confrontation and Co-existence (ed. M. J. Breger, Y. Reiter and L. Hammer)",
+      "publisher": "Routledge",
+      "year": 2009,
+      "pages": "158-177",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Existence confirmed from the bibliography of Reiter 2017 only; not opened."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "reiter-2017-eroding-status-quo",
+      "type": "book",
+      "authors": [
+        "Reiter, Yitzhak"
+      ],
+      "title": "The Eroding Status-Quo: Power Struggles on the Temple Mount",
+      "publisher": "Jerusalem Institute for Policy Research / Multieducator",
+      "year": 2017,
+      "url": "https://jerusaleminstitute.org.il/wp-content/uploads/2019/06/PUB_ERODINGSTATUSQUO-2017_eng.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the publisher's open PDF (ISBN 978-1-885881-50-2): ch. 1 (sanctity, pp. 13-16), ch. 3-5 (post-1967 status quo, pp. 21-32), endnote 1 (names) and bibliography."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "reiter-seligman-2009",
+      "type": "chapter",
+      "authors": [
+        "Reiter, Yitzhak",
+        "Seligman, Jon"
+      ],
+      "title": "1917 to the Present: Al-Haram al-Sharif/Temple Mount (Har ha-Bayit) and the Western Wall",
+      "container": "Where Heaven and Earth Meet: Jerusalem's Sacred Esplanade (ed. O. Grabar and B. Z. Kedar)",
+      "publisher": "Yad Izhak Ben-Zvi and University of Texas Press",
+      "year": 2009,
+      "pages": "231-272",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Existence confirmed from the bibliography of Reiter 2017 only; not opened."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     },
     {
       "id": "runciman-1954-history-crusades-iii",
@@ -4828,6 +7355,29 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "sered-1989-rachels-tomb",
+      "type": "article",
+      "authors": [
+        "Sered, Susan Starr"
+      ],
+      "title": "Rachel's tomb: Societal liminality and the revitalization of a shrine",
+      "container": "Religion",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "year": 1989,
+      "volume": 19,
+      "issue": 1,
+      "pages": "27-40",
+      "doi": "10.1016/0048-721X(89)90075-4",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-19",
+        "note": "Crossref metadata only; not opened."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "shlaim-1990-apg",
       "type": "article",
       "authors": [
@@ -4849,6 +7399,62 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "sivan-2001-holocene-sea-level-israel",
+      "type": "article",
+      "authors": [
+        "Sivan, Dorit",
+        "Wdowinski, Shimon",
+        "Lambeck, Kurt",
+        "Galili, Ehud",
+        "Raban, Avner"
+      ],
+      "title": "Holocene sea-level changes along the Mediterranean coast of Israel, based on archaeological observations and numerical model",
+      "container": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "publisher": "Elsevier",
+      "year": 2001,
+      "volume": 167,
+      "issue": "1-2",
+      "pages": "101-117",
+      "doi": "10.1016/S0031-0182(00)00234-0",
+      "url": "https://ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Levant/IsraelSLR-Sivan2001.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full published PDF (copy hosted on the third-party site ancientportsantiques.com): abstract, Tables 1-2, sections 2-5 and Fig. 6 caption. Note: all ages in this paper are UNCALIBRATED radiocarbon years BP (stated on p. 106 and in the Fig. 6 caption). Minus signs are garbled in the PDF text layer; quotes are given with the signs restored."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
+      "id": "sivan-2004-caesarea-wells",
+      "type": "article",
+      "authors": [
+        "Sivan, Dorit",
+        "Lambeck, Kurt",
+        "Toueg, R.",
+        "Raban, Avner",
+        "Porath, Yosef",
+        "Shirman, B."
+      ],
+      "title": "Ancient coastal wells of Caesarea Maritima, Israel, an indicator for relative sea level changes during the last 2000 years",
+      "container": "Earth and Planetary Science Letters",
+      "publisher": "Elsevier",
+      "year": 2004,
+      "volume": 222,
+      "pages": "315-330",
+      "doi": "10.1016/j.epsl.2004.02.007",
+      "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Levant/IsraelSLR-Sivan2004.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full published PDF (third-party copy on ancientportsantiques.com): abstract, results (p. 324-325) and conclusions (p. 328). The plus-minus sign is garbled in the text layer; quotes restore it."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "smallwood-jews-under-roman-rule",
@@ -4885,6 +7491,51 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "stein-2010-post-glacial-dead-sea",
+      "type": "article",
+      "authors": [
+        "Stein, Mordechai",
+        "Torfstein, Adi",
+        "Gavrieli, Ittai",
+        "Yechieli, Yoseph"
+      ],
+      "title": "Abrupt aridities and salt deposition in the post-glacial Dead Sea and their North Atlantic connection",
+      "container": "Quaternary Science Reviews",
+      "publisher": "Elsevier",
+      "year": 2010,
+      "volume": 29,
+      "issue": "3-4",
+      "pages": "567-575",
+      "doi": "10.1016/j.quascirev.2009.10.015",
+      "url": "https://cris.huji.ac.il/en/publications/abrupt-aridities-and-salt-deposition-in-the-post-glacial-dead-sea-2/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the full abstract on the Hebrew University research portal."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
+      "id": "stein-o-2010-ein-qedem",
+      "type": "document",
+      "authors": [
+        "Stein, O."
+      ],
+      "title": "Geochemistry, Hydrology and Paleo-Hydrology of Ein Qedem Spring System (report GSI/17/2010)",
+      "publisher": "Geological Survey of Israel",
+      "year": 2010,
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-19",
+        "note": "Not opened; cited in the PANGAEA compilation header as 'Stein, O (2010)' and in its data rows as 'Stern (2010)'."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "stern-2009-archaeology-land-bible-ii",
@@ -4940,6 +7591,31 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "sulimani-kletter-2017-mamilla",
+      "type": "article",
+      "authors": [
+        "Sulimani, Gideon",
+        "Kletter, Raz"
+      ],
+      "title": "Bone Considerations: Archaeology, Heritage, and Ethics at Mamilla, Jerusalem",
+      "container": "International Journal of Cultural Property",
+      "publisher": "Cambridge University Press",
+      "year": 2017,
+      "volume": 24,
+      "issue": 3,
+      "pages": "321-",
+      "doi": "10.1017/S0940739117000157",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/bone-considerations-archaeology-heritage-and-ethics-at-mamilla-jerusalem/D7C225315069A1BF2B1363ED747CDF7D",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-19",
+        "note": "Read the abstract and reference list on the publisher page; full text paywalled."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
     },
     {
       "id": "tappy-2009-samaria",
@@ -5100,6 +7776,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "un-s-8158-1967",
+      "type": "document",
+      "authors": [
+        "United Nations Secretary-General"
+      ],
+      "title": "Report of the Secretary-General under General Assembly resolution 2252 (ES-V) and Security Council resolution 237 (1967) (S/8158, also issued as A/6797)",
+      "publisher": "United Nations",
+      "year": 1967,
+      "url": "https://undocs.org/S/8158",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the OCR text of the PDF, paragraphs 51 and 58-64 ('Villages in the Latrun area') and 72. Report of the Special Representative (Gussing) dated 2 October 1967; it records both the Israeli officials' statements and the displaced villagers' accounts."
+      },
+      "kind": "un",
+      "institution_country": "US"
+    },
+    {
       "id": "un-sg-report-s-2000-460",
       "type": "document",
       "title": "Report of the Secretary-General on the implementation of Security Council resolutions 425 (1978) and 426 (1978) (S/2000/460, 22 May 2000)",
@@ -5117,6 +7812,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "unccp-1949-holy-places",
+      "type": "document",
+      "authors": [
+        "United Nations Conciliation Commission for Palestine, Committee on Jerusalem (Secretariat)"
+      ],
+      "title": "The Holy Places: Working Paper prepared by the Secretariat (A/AC.25/Com.Jer/W.14)",
+      "container": "UNISPAL",
+      "publisher": "United Nations",
+      "year": 1949,
+      "url": "https://unispal.un.org/pdfs/FD455E412ACE30AD0525668E006EF702.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full 19-page PDF (8 April 1949): note on the history and scope of the Status Quo, the nine Holy Places to which it applies, and the annotated list of Christian, Moslem and Jewish Holy Places compiled from lists given to UNSCOP in 1947. Entry numbers are cited as locators."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "unef1-background",
       "type": "web",
       "title": "First United Nations Emergency Force (UNEF I) - Background",
@@ -5131,6 +7846,207 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "unesco-whc-1107",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Incense Route - Desert Cities in the Negev (World Heritage property 1107, inscribed 2005)",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "year": 2005,
+      "url": "https://whc.unesco.org/en/list/1107/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property page: short description, Outstanding Universal Value statement (criteria iii and v), integrity and authenticity sections."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-1220",
+      "type": "web",
+      "title": "Bahá’i Holy Places in Haifa and the Western Galilee",
+      "container": "UNESCO World Heritage List (property 1220)",
+      "publisher": "UNESCO World Heritage Centre",
+      "year": 2008,
+      "url": "https://whc.unesco.org/en/list/1220/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property page: Israel, inscribed 2008, criteria (iii)(vi); description. Page saved 18 Oct 2026."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "unesco-whc-1393",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/1393/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20260128160009); the live site blocked automated requests."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-1433",
+      "type": "web",
+      "title": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+      "container": "UNESCO World Heritage List (property 1433)",
+      "publisher": "UNESCO World Heritage Centre",
+      "year": 2012,
+      "url": "https://whc.unesco.org/en/list/1433/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property page: State of Palestine, inscribed 2012, criteria (iv)(vi), on the List of World Heritage in Danger 2012-2019; brief synthesis on the Status Quo and the three churches. Page saved 18 Oct 2026."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "unesco-whc-1446",
+      "type": "web",
+      "title": "Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)",
+      "container": "UNESCO World Heritage List (property 1446)",
+      "publisher": "UNESCO World Heritage Centre",
+      "year": 2015,
+      "url": "https://whc.unesco.org/en/list/1446/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot 20251218095432 of the whc.unesco.org page (direct access blocked by a Cloudflare challenge): Jordan, inscribed 2015, criteria (iii)(vi); description and Statement of Outstanding Universal Value."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "unesco-whc-148",
+      "type": "web",
+      "title": "Old City of Jerusalem and its Walls",
+      "container": "UNESCO World Heritage List (property 148)",
+      "publisher": "UNESCO World Heritage Centre",
+      "year": 1981,
+      "url": "https://whc.unesco.org/en/list/148/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property page text (description in English/French/Arabic; header 'Jerusalem (Site proposed by Jordan)'; inscription 1981; List of World Heritage in Danger 1982-present; coordinates N31 46 40 E35 13 54). Page saved 18 Oct 2026."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "unesco-whc-1492",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/1492/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20251205140604); the live site blocked automated requests."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-1565",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Hebron/Al-Khalil Old Town",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/1565/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20251225044133); the live site blocked automated requests."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-1687",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Ancient Jericho/Tell es-Sultan",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/1687/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20260109105110); the live site blocked automated requests."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-326-petra",
+      "type": "web",
+      "authors": [
+        "UNESCO World Heritage Centre"
+      ],
+      "title": "Petra (World Heritage property 326)",
+      "container": "UNESCO World Heritage List",
+      "publisher": "UNESCO",
+      "year": 1985,
+      "url": "https://whc.unesco.org/en/list/326/",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the property page (description and Outstanding Universal Value statement)."
+      },
+      "kind": "un",
+      "institution_country": "FR"
+    },
+    {
+      "id": "unesco-whc-954",
+      "type": "web",
+      "title": "Saint Catherine Area",
+      "container": "UNESCO World Heritage List (property 954)",
+      "publisher": "UNESCO World Heritage Centre",
+      "year": 2002,
+      "url": "https://whc.unesco.org/en/list/954/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read via Internet Archive snapshot (December 2025) of the whc.unesco.org page (direct access blocked): Egypt, inscribed 2002, criteria (i)(iii)(iv)(vi); brief synthesis."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-19"
     },
     {
       "id": "unga-res-67-19",
@@ -5314,6 +8230,57 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "vunsh-2018-coastal-wells",
+      "type": "article",
+      "authors": [
+        "Vunsh, Reuven",
+        "Tal, Oren",
+        "Yechieli, Yoseph",
+        "Dean, Silas",
+        "Levanon, Elad",
+        "Sivan, Dorit"
+      ],
+      "title": "Evaluating ancient coastal wells as sea-level indicators from the coast of Israel",
+      "container": "Geoarchaeology",
+      "publisher": "Wiley",
+      "year": 2018,
+      "volume": 33,
+      "issue": 4,
+      "pages": "403-416",
+      "doi": "10.1002/gea.21663",
+      "url": "https://ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Levant/IsraelSLR-Vunsh2017.pdf",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full published PDF (third-party copy on ancientportsantiques.com): abstract, introduction (p. 404), discussion (p. 412-413) and conclusions."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "wailing-wall-commission-1930",
+      "type": "document",
+      "authors": [
+        "Löfgren, Eliel",
+        "Barde, Charles",
+        "van Kempen, C. J."
+      ],
+      "title": "Report of the Commission appointed by His Majesty's Government in the United Kingdom of Great Britain and Northern Ireland, with the approval of the Council of the League of Nations, to determine the rights and claims of Moslems and Jews in connection with the Western or Wailing Wall at Jerusalem (December 1930)",
+      "container": "Reproduced in UN document A/7057/Add.1 - S/8427/Add.1 (letter from Jordan, 1968), UNISPAL",
+      "publisher": "His Majesty's Stationery Office / United Nations (1968 reproduction)",
+      "year": 1930,
+      "url": "https://www.un.org/unispal/document/auto-insert-183716/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the full report as reproduced on UNISPAL: sections II (description, Arabic and Hebrew names), the Jewish and Moslem claims, the Commission's findings and conclusions A-B. Signed by the commissioners Eliel Löfgren, Charles Barde and C. J. van Kempen, December 1930."
+      },
+      "kind": "government",
+      "institution_country": "GB",
+      "accessed": "2026-10-19"
+    },
+    {
       "id": "weinberg-1992-citizen-temple-community",
       "type": "book",
       "authors": [
@@ -5331,6 +8298,55 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "wikidata",
+      "type": "dataset",
+      "title": "Wikidata",
+      "container": "Wikidata",
+      "publisher": "Wikimedia Foundation",
+      "url": "https://www.wikidata.org",
+      "accessed": "2026-10-19",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Fetched entity JSON via the wbgetentities API: labels and aliases (en/ar/he), coordinate location (P625) and Pleiades ID (P1584). CC0. Used for current-name labels, a few aliases and coordinates only (not for historical facts)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ynet-2022-04-10-josephs-tomb",
+      "type": "web",
+      "title": "Palestinians vandalize Joseph's Tomb amid security tensions",
+      "container": "Ynetnews",
+      "publisher": "Yedioth Ahronoth",
+      "year": 2022,
+      "url": "https://www.ynetnews.com/article/s1q4rgl49",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the article (10 April 2022), including statements by Israeli ministers and a settler council head."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
+    },
+    {
+      "id": "zochrot-sabalan",
+      "type": "web",
+      "title": "Sabalan",
+      "container": "Zochrot (village pages)",
+      "publisher": "Zochrot",
+      "url": "http://www.zochrot.org/en/village/49327",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-19",
+        "note": "Read the village page (accessed 19 Oct 2026), which reproduces the entry from Khalidi (ed.) 1992."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-19"
     }
   ]
 }
