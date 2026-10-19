@@ -72,14 +72,29 @@ npm run review             # writes data/REVIEW.md: source balance by era, conte
 
 `data/REVIEW.md` is the checklist for historians and translators. `data/CHANGELOG.md` records every decision taken when data was imported.
 
-## 5. Rebuilding generated geography (rarely needed)
+## 5. Arabic and Hebrew
+
+All interface text is in `src/i18n/locales/` (`en.json`, `ar.json`, `he.json`). Data text has `ar` and `he` next to `en`, with a `translation_status` for each:
+
+- `machine-draft`: drafted by machine, not yet checked. The site marks it with an asterisk and a notice.
+- `reviewed`: checked by a fluent reviewer. To mark a text as reviewed, correct it if needed and change its status to `"reviewed"`.
+- `original`: the text is the name itself, in its own language (e.g. a place name in Arabic or Hebrew).
+
+`npm run review` counts how many texts are still drafts. Citation markers like `[1]` must stay exactly as in the English; the checker fails otherwise.
+
+## 6. Stories and perspectives
+
+- A guided tour is one file in `data/stories/`. Each step has a date, a short card and its sources; every sentence of a card must end with a citation marker `[n]` pointing into that step's `sources` list.
+- `data/perspectives.json` holds the contested topics. Each topic has at least three accounts (Israeli, Palestinian, academic or international), each sentence cited the same way, and `about` lists the records the topic concerns, so it appears in the year panel at the right dates.
+
+## 7. Rebuilding generated geography (rarely needed)
 
 ```bash
 npm run build-basemap      # Natural Earth layers + elevation tiles
 npm run build-landscape    # past coastlines and Dead Sea extents, modelled from the elevation tiles
 ```
 
-## 6. Tests
+## 8. Tests
 
 ```bash
 npm test                   # fast unit tests (dates, timeline maths, every validator rule)
@@ -88,7 +103,7 @@ npm run test:e2e           # opens the built site in a headless browser and clic
 npm run screenshots        # saves screenshots of key views to docs/screenshots/
 ```
 
-## 7. Publish the site
+## 9. Publish the site
 
 The site is a set of static files, so it can be hosted for free. Nothing has been published yet; these are the steps for when you're ready.
 
@@ -112,7 +127,7 @@ The site is a set of static files, so it can be hosted for free. Nothing has bee
 
 Import the repository at <https://vercel.com/new>. Set the build command to `npm run build-basemap -- --tiles-only && npm run build` and the output directory to `dist`. No other settings are needed.
 
-## 8. What's where
+## 10. What's where
 
 | Path | What it is |
 |---|---|
@@ -123,13 +138,17 @@ Import the repository at <https://vercel.com/new>. Set the build command to `npm
 | `src/` | The website code (React + TypeScript) |
 | `tests/` | Unit tests and browser tests |
 | `public/` | Static files. `public/data`, `public/tiles` and `public/fonts` are generated; don't edit them. |
+| `data/stories/` | Guided tours |
+| `data/modern/` | Modern map layers (1947 plan, 1949 lines, Oslo areas, barrier, settlements, Gaza lines) with `layers.json` describing each |
 | `docs/screenshots/` | Screenshots from each milestone |
 
-## 9. Credits and licences
+## 11. Credits and licences
 
 - Elevation: SRTM, GMTED2010 and ETOPO1 (USGS, NOAA; US public domain), via AWS Terrain Tiles.
 - Coastlines, rivers, lakes and reference outlines: Natural Earth (public domain).
 - Fonts: Noto Sans, Noto Sans Arabic and Noto Sans Hebrew (SIL Open Font License), via Fontsource.
 - Map rendering: MapLibre GL JS (BSD-3-Clause).
-- Historical sources: every source is listed with its citation in `data/sources.json` (a bibliography page is coming in Milestone 3).
+- Modern map layers: OpenStreetMap contributors (ODbL), OCHA oPt via the Humanitarian Data Exchange (CC BY), Israel Central Bureau of Statistics (data.gov.il), Peace Now via OCHA (CC BY-IGO), OpenHistoricalMap (CC0).
+- Place names and coordinates: Wikidata (CC0) and Pleiades (CC BY).
+- Historical sources: every source is listed with its citation in `data/sources.json` and on the site's **Bibliography** page.
 - This project's own code: MIT ([LICENSE](LICENSE)). Its data: CC BY 4.0, with the exceptions listed in [DATA-LICENSE](DATA-LICENSE).
