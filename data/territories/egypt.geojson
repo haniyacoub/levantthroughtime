@@ -207,12 +207,22 @@
           {
             "ref": "reagan-1982-sinai",
             "quote": "April 25, 1982, when Israel completed its withdrawal from the Sinai and Egyptian sovereignty was reestablished in accordance with the 1979 Peace Treaty."
+          },
+          {
+            "ref": "egyptian-streets-2026-04-19-sinai-liberation-day",
+            "quote": "Sinai Liberation Day is observed annually on 25 April, commemorating the withdrawal of Israeli forces from the Sinai Peninsula in 1982 and the restoration of Egyptian sovereignty over the territory under the Egypt–Israel peace treaty."
+          },
+          {
+            "ref": "sis-egypt-modern-history",
+            "locator": "section on the 1973 war and the peace treaty",
+            "quote": "وانسحبت إسرائيل من شبه جزيرة سيناء فى 25 أبريل 1982، وانسحبت من شريط طابا الحدودي بناء على التحكيم الذى تم فى محكمة العدل الدولية عام 1989",
+            "note": "'Israel withdrew from the Sinai peninsula on 25 April 1982, and withdrew from the Taba border strip on the basis of the arbitration ... in 1989.' Official Egyptian source."
           }
         ],
         "notes": {
-          "en": "1967-1982 omitted: Sinai held by Israel (separate record); Egypt regained a strip east of the Suez Canal after 1973 and further areas in stages from 1979.",
-          "ar": "1967-1982 محذوفة: سيناء بيد إسرائيل (سجل منفصل)؛ واستعادت مصر شريطًا شرق قناة السويس بعد 1973 ومناطق أخرى على مراحل منذ 1979.",
-          "he": "1967-1982 מושמטות: סיני בידי ישראל (רשומה נפרדת); מצרים קיבלה בחזרה רצועה ממזרח לתעלת סואץ אחרי 1973 ושטחים נוספים בשלבים מ-1979.",
+          "en": "1967-1982 omitted: Sinai held by Israel (separate record); Egypt regained a strip east of the Suez Canal after 1973 and further areas in stages from 1979. The Taba strip remained under Israeli control until 1989 (SIS: after the arbitration; handed over in March 1989 after the award of 29 September 1988); the slice draws the whole sinai-egypt unit from 25 April 1982.",
+          "ar": "1967-1982 محذوفة: سيناء كانت بيد إسرائيل (سجل منفصل)؛ واستعادت مصر شريطًا شرق قناة السويس بعد 1973 ومناطق أخرى على مراحل منذ 1979. وظل شريط طابا تحت السيطرة الإسرائيلية حتى 1989 (SIS: بعد التحكيم؛ وسُلّم في آذار/مارس 1989 بعد حكم 29 أيلول/سبتمبر 1988)؛ وترسم الشريحة وحدة sinai-egypt كاملة اعتبارًا من 25 نيسان/أبريل 1982.",
+          "he": "1967-1982 הושמטו: סיני הוחזקה בידי ישראל (רשומה נפרדת); מצרים החזירה לידיה רצועה ממזרח לתעלת סואץ לאחר 1973 ואזורים נוספים בשלבים מ-1979. רצועת טאבה נותרה בשליטה ישראלית עד 1989 (SIS: לאחר הבוררות; נמסרה במרץ 1989 לאחר פסק הבוררות מ-29 בספטמבר 1988); הפרוסה מציירת את כל יחידת sinai-egypt מ-25 באפריל 1982.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

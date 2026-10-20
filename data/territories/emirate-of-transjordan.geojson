@@ -36,12 +36,34 @@
           {
             "ref": "kinghussein-transjordan-history",
             "quote": "The regions of Ma'an and Tabuk were incorporated into the Kingdom of the Hijaz"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. vi, p. 342",
+            "quote": "while they had acquiesced in the status of the Ma‘an and ‘Aqabah districts remaining indeterminate pending a final delimitation of the frontier",
+            "note": "Colonial Secretary Amery, written reply of 6 July 1925; Britain had then taken steps to establish the control of the Transjordan administration in the area. On 24 June 1925 Amery had said that the Transjordanian Government was 'taking steps to assert its authority' at Aqaba after ex-King Husayn was required to leave."
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. vi, p. 342, n.",
+            "quote": "protested against the annexation of Aqabah and Ma‘an to Transjordan in a letter, dated Nicosia, 7th August,"
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "§ 17, p. 227",
+            "quote": "is bounded on the north by the French sphere of Syria, on the west by the Jordan and the Dead Sea, on the south by the territory of the Hejaz ;",
+            "note": "Trans-jordania as described in 1922."
           }
         ],
         "notes": {
-          "en": "The eastern desert frontiers (with Najd/Saudi Arabia, Iraq, Syria) were defined only gradually in the 1920s-1930s; not modelled.",
-          "ar": "لم تُحدَّد الحدود الصحراوية الشرقية (مع نجد/السعودية والعراق وسوريا) إلا تدريجيًا في عشرينيات وثلاثينيات القرن العشرين؛ ولم تُمثَّل.",
-          "he": "הגבולות המדבריים המזרחיים (עם נג'ד/ערב הסעודית, עיראק וסוריה) הוגדרו רק בהדרגה בשנות ה-1920-1930; לא מודלו.",
+          "en": "The eastern desert frontiers (with Najd/Saudi Arabia, Iraq, Syria) were defined only gradually in the 1920s-1930s; not modelled. Britain never formally recognised Ma'an and Aqaba as Hijazi and called their status 'indeterminate' (Amery, 6 July 1925, in Toynbee); Transjordanian control there was asserted in June-July 1925 after ex-King Husayn was required to leave Aqaba (Toynbee, p. 342), so the end of this slice may be May or June 1925.",
+          "ar": "لم تُنمذج الحدود الصحراوية الشرقية (مع نجد/السعودية والعراق وسوريا)، إذ لم تتحدد إلا تدريجيًا في عقدي 1920 و1930. ولم تعترف بريطانيا رسميًا قط بمعان والعقبة كجزء من الحجاز، ووصفت وضعهما بأنه «indeterminate» [غير محدد] (إيمري، 6 تموز/يوليو 1925، في توينبي)؛ وجرى تأكيد السيطرة الأردنية هناك في حزيران/يونيو - تموز/يوليو 1925 بعد إلزام الملك السابق الحسين بمغادرة العقبة (توينبي، ص 342)، ولذا فقد تكون نهاية هذه الشريحة في أيار/مايو أو حزيران/يونيو 1925.",
+          "he": "גבולות המדבר המזרחיים (עם נג'ד/ערב הסעודית, עיראק, סוריה) הוגדרו רק בהדרגה בשנות ה-1920 וה-1930; לא עובדו במודל. בריטניה מעולם לא הכירה רשמית במעאן ובעקבה כחיג'אזיות וכינתה את מעמדן 'indeterminate' [בלתי מוגדר] (אמרי, 6 ביולי 1925, אצל טוינבי); שליטה טרנסירדנית שם נקבעה ביוני-יולי 1925 לאחר שהמלך לשעבר חוסיין נדרש לעזוב את עקבה (טוינבי, עמ' 342), ולכן סוף הפרוסה הזו עשוי להיות מאי או יוני 1925.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

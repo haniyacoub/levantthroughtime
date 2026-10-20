@@ -457,3 +457,38 @@ Gaps:
 - The exact date when Judaea was renamed Syria Palaestina was not found (the earliest evidence is a military diploma of 139 CE).
 - Sidon's status from about 594 to 539 BCE is undocumented in the sources read.
 - The Epigraphic Database Heidelberg, papyri.info and Encyclopaedia Iranica blocked automated access.
+
+### Second sources for single-source claims: polities, rulers, territories (round I2)
+
+40 claims marked "documented" had rested on a single source; each now has a second, independent one. 183 quotes, 14 new works. No rating had to be lowered.
+- **Turkish scholarship:** TDV İslâm Ansiklopedisi entries; Aydın's 2022 thesis on the Ottoman governors of Jerusalem, built from Ottoman archival appointment records; Elçi and Karataş (2024).
+- **The Wisconsin *History of the Crusades*:** chapters by Gibb, Cahen, Fink, Ziada and Runciman.
+- **Ibn al-Qalanisi:** cited, not linked.
+- **Official and legal texts:** the Palestine Act 1948, the 1920 Franco-British Convention, the ICJ 2004 opinion, Israel's Supreme Court in al-Bassiouni, and Egypt's State Information Service.
+- **UN Security Council documents.**
+- **PalQuest and Walid Khalidi.**
+
+Corrections:
+- **Mount Lebanon Mutasarrifate:** ends July 1915. Akarli and TDV give 11 July; the 1920 *Handbook* says 1914.
+- **Israeli positions in south Lebanon:** the slice for the five fortified positions now starts on 18 February 2025, when the UN reports the army had withdrawn from the rest of the south. The record itself still starts in 2024, with the ground invasion.
+- **Ottoman governors of Jerusalem:** exact days from the Ottoman archives (Aydın).
+  - Rauf Pasha: 18 April 1877 – 4 April 1889.
+  - İbrahim Hakkı Pasha: 15 October 1890 – 30 September 1897, with an 11-day break in November 1896.
+  - Ali Ekrem Bey, the poet Ali Ekrem Bolayır: 3 December 1906 – 10 August 1908.
+- **Notes added:**
+  - Tutush's arrival (1078 or 1079).
+  - The Fatimid recapture of Jerusalem in 1098.
+  - The Artuqids' divided loyalties after 1095.
+  - The Mamluk province of Gaza (c. 1300 – 1516/17).
+  - The Jerusalem sanjak's Beersheba district (1900).
+  - May or June 1925 for Ma'an and Aqaba passing to Transjordan.
+  - Abdullah I's start in February–April 1921.
+  - The possible end points of the French mandate.
+  - 12 or 21 September 2005 for the end of the Gaza military government.
+  - Taba under Israel until 1989.
+
+Gaps: these still rest on one source:
+- The All-Palestine Government's end in 1959, and the October 1948 limit of its territory (Shlaim).
+- Abdullah's start day of 11 April 1921 (the Jordanian royal site).
+- The 25 May 2000 withdrawal day from south Lebanon (UN documents; the Israeli foreign ministry page was blocked).
+- The c. 630 BCE end of the Assyrian province of Magiddu, which no source dates.

@@ -97,6 +97,22 @@
           {
             "ref": "unifil-background",
             "quote": "In 1985, Israel carried out a partial withdrawal, but it retained control of an area in southern Lebanon"
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "main text",
+            "quote": "On 6 June 1982, however, the Israeli government used the pretext of the attempted assassination in London of the Israeli ambassador by an anti-PLO Palestinian group to launch an invasion of Lebanon."
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "introduction",
+            "quote": "led to an Israeli occupation of parts of Southern Lebanon that lasted until 2000."
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section 'Operation Peace for Galilee (1982)'",
+            "quote": "A token force was left behind, to help the citizens of south Lebanon to patrol the Security Zone - a narrow strip of territory adjacent to Israel's border",
+            "note": "After the national unity government of 1984 decided to 'withdraw forthwith from Lebanon'. Israeli government narrative (Netanel Lorch), written while the zone still existed."
           }
         ],
         "notes": {
@@ -144,6 +160,27 @@
           {
             "ref": "unifil-background",
             "quote": "On 16 June, the Secretary-General reported to the Security Council that Israel had withdrawn its forces from Lebanon in accordance with resolution 425 (1978)"
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "introduction",
+            "quote": "led to an Israeli occupation of parts of Southern Lebanon that lasted until 2000."
+          },
+          {
+            "ref": "un-s-2000-590",
+            "locator": "para. 1",
+            "quote": "I am, therefore, in a position to confirm that Israeli forces have withdrawn from Lebanon in compliance with resolution 425 (1978).",
+            "note": "UN Secretary-General, 16 June 2000; a separate UN document from the UNIFIL web page, but from the same organisation."
+          },
+          {
+            "ref": "un-s-prst-2000-21",
+            "locator": "first paragraph",
+            "quote": "the Secretary-General’s conclusion that as of 16 June 2000 Israel has withdrawn its forces from Lebanon in accordance with resolution 425 (1978) of 19 March 1978"
+          },
+          {
+            "ref": "un-sg-report-s-2000-460",
+            "locator": "para. 29",
+            "quote": "the Government will treat the inhabitants of the formerly occupied zone as equal citizens of Lebanon"
           }
         ],
         "notes": {

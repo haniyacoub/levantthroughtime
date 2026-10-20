@@ -54,12 +54,34 @@
             "ref": "abu-manneh-1999-sanjak-jerusalem",
             "locator": "pp. 39-40",
             "quote": "A year later (1899) an irade was issued by the Sultan authorizing the establishment of the district of Beer Sheba into a qadā’"
+          },
+          {
+            "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+            "locator": "p. 2",
+            "quote": "1864 Vilayet Nizamnamesi ile Suriye vilayetine bağlanan Kudüs mutasarrıflığı 1872’de, önce vilayet haline getirildi ve birkaç ay sonra da müstakil mutasarrıflık şeklinde Dahiliye Nezareti’ne bağlandı.",
+            "note": "'The mutasarrifate of Jerusalem, attached to the vilayet of Syria by the 1864 Vilayet Law, was first made a vilayet in 1872 and a few months later attached to the Interior Ministry as an independent mutasarrifate.'"
+          },
+          {
+            "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+            "locator": "p. 2, n. 1",
+            "quote": "Bu son düzenleme ile Kudüs şehri Yafa, Gazze ve Halilürrahman kazalarının bağlı bulunduğu mutasarrıflığın merkezi olmaya devam etti. Bu kazalar arasına 1900’de Birüssebi kazası da katılacaktı.",
+            "note": "'With this last arrangement the city of Jerusalem remained the seat of the mutasarrifate to which the kazas of Jaffa, Gaza and Hebron belonged; the kaza of Beersheba would be added to them in 1900.'"
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "p. 240",
+            "quote": "IV. Sanjaq of Jerusalem : * El-Quds (Jerusalem), Yafa (Jaffa). Ghazzeh (Gaza). Khalil er-Rahman (Hebron). Bir Seba‘ (Beersheba)."
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "p. 240, n. 4",
+            "quote": "The kaza of Bir Seba‘ was formed from parts of those of Gaza and Hebron before 1901."
           }
         ],
         "notes": {
-          "en": "Abu-Manneh dates the Beersheba qada to an 1899 irade; PalQuest dates the founding of the township of Bir al-Sabi' to 1900.",
-          "ar": "يؤرخ أبو منّه قضاء بئر السبع بإرادة عام 1899؛ ويؤرخ PalQuest تأسيس بلدة بئر السبع بعام 1900.",
-          "he": "אבו-מנה מתארך את קאדא באר שבע לאירדה משנת 1899; PalQuest מתארך את ייסוד העיירה בִּיר א-סבע ל-1900.",
+          "en": "Abu-Manneh dates the Beersheba qada to an 1899 irade; PalQuest dates the founding of the township of Bir al-Sabi' to 1900. Aydın (2022) dates the independent mutasarrifate to 1872 (briefly a vilayet, then attached directly to the Interior Ministry) and the addition of the Beersheba kaza to 1900; the Admiralty Handbook (1920) says the kaza was formed from parts of Gaza and Hebron before 1901.",
+          "ar": "يؤرّخ أبو مَنّه قضاء بئر السبع بإرادة سنية صدرت في 1899؛ ويؤرّخ PalQuest تأسيس بلدة بئر السبع بسنة 1900. ويؤرّخ أيدن (2022) المتصرفية المستقلة بسنة 1872 (ولاية لفترة وجيزة، ثم ارتبطت مباشرة بوزارة الداخلية) وإضافة قضاء بئر السبع بسنة 1900؛ ويقول Admiralty Handbook (1920) إن القضاء تشكّل من أجزاء من غزة والخليل قبل 1901.",
+          "he": "אבו-מנה מתארך את קזא באר שבע לאירדה משנת 1899; PalQuest מתארך את הקמת העיירה בִּיר אל-סבע לשנת 1900. איידין (2022) מתארך את המותסריפות העצמאית ל-1872 (לזמן קצר וילאייט, ואחר כך מחוברת ישירות למשרד הפנים) ואת הוספת קזא באר שבע ל-1900; ה-Admiralty Handbook (1920) אומר שהקזא נוצר מחלקים של עזה וחברון לפני 1901.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

@@ -8,8 +8,10 @@
       "properties": {
         "polity": "israeli-security-zone-south-lebanon-2024",
         "start": {
-          "year": 2024,
-          "precision": "year"
+          "year": 2025,
+          "month": 2,
+          "day": 18,
+          "precision": "day"
         },
         "end": {
           "year": 2026,
@@ -34,6 +36,16 @@
           {
             "ref": "national-2026-09-22-unifil",
             "quote": "The older bases were established during the Hezbollah-Israel conflict in 2024."
+          },
+          {
+            "ref": "un-s-2025-153",
+            "locator": "summary",
+            "quote": "As at 18 February, the Israel Defense Forces remained present in five positions north of the Blue Line."
+          },
+          {
+            "ref": "un-s-2025-153",
+            "locator": "para. 21",
+            "quote": "By 18 February, the Israel Defense Forces had withdrawn from population centres in southern Lebanon but retained a presence in five locations along the Blue Line, in the vicinity of Aytarun, Hula, Labbunah, Marwahin and Sarda."
           }
         ],
         "notes": {

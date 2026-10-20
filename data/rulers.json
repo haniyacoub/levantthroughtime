@@ -6811,11 +6811,15 @@
       },
       "start": {
         "year": 1877,
-        "precision": "year"
+        "month": 4,
+        "day": 18,
+        "precision": "day"
       },
       "end": {
         "year": 1889,
-        "precision": "year"
+        "month": 4,
+        "day": 4,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -6823,12 +6827,29 @@
           "ref": "abu-manneh-1999-sanjak-jerusalem",
           "locator": "n. 30",
           "quote": "Such were Rauf Pasha who governed Jerusalem for almost 13 years (1877–1889) and Ibrahim Hakki Pasha (1890–1897)"
+        },
+        {
+          "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+          "locator": "Appendix A (Ek A), 'Kudüs Mutasarrıfları 1872-1917', p. 206, row 'Şerif Mehmed Rauf Paşa'",
+          "quote": "18.04.1877-04.04.1889 Trabzon vali yard. Beyrut valisi",
+          "note": "Table row: term of office 18 April 1877 - 4 April 1889; previous post deputy governor of Trabzon; next post governor of Beirut. Compiled from Ottoman archival appointment documents (BOA, İ.MMS 56/2546; Y.A.HUS 224/47; DH.SAİD.d 3/72)."
+        },
+        {
+          "ref": "elci-karatas-2024-rauf-pasa",
+          "locator": "p. 291",
+          "quote": "1877-1889 yılları arasında bölgede 12 yıl gibi uzun bir süre görev yapan Rauf Paşa bu genellemenin dışındadır.",
+          "note": "'Rauf Pasha, who served in the region for as long as 12 years between 1877 and 1889, is an exception to this rule' (governors' terms averaged about two years)."
+        },
+        {
+          "ref": "elci-karatas-2024-rauf-pasa",
+          "locator": "p. 291",
+          "quote": "Asıl adı Şerif Mehmed Rauf olan paşa 1838 yılında İstanbul’da doğmuş ve 1923 yılında İstanbul’da vefat etmiştir."
         }
       ],
       "notes": {
-        "en": "Abu-Manneh's source: British consular despatches (FO 195). Full name (Mehmed Rauf Pasha) not given in the source consulted.",
-        "ar": "مصدر أبو منّه: المراسلات القنصلية البريطانية (FO 195). الاسم الكامل (محمد رؤوف باشا) غير مذكور في المصدر الذي رُوجع.",
-        "he": "המקור של אבו-מנה: משלוחי הקונסוליה הבריטית (FO 195). השם המלא (Mehmed Rauf Pasha) אינו מצוין במקור שנבדק.",
+        "en": "Abu-Manneh's source: British consular despatches (FO 195). Full name Şerif Mehmed Rauf Pasha (1838-1923) (Elçi & Karataş 2024). Aydın (2022), from Ottoman archival appointment documents, gives his term as 18 April 1877 - 4 April 1889, after which he became governor of Beirut.",
+        "ar": "مصدر أبو مَنّه: المراسلات القنصلية البريطانية (FO 195). الاسم الكامل: شريف محمد رؤوف باشا (1838-1923) (إلتشي وقراتاش 2024). ويذكر أيدن (2022)، استنادًا إلى وثائق التعيين في الأرشيف العثماني، أن مدة ولايته من 18 نيسان/أبريل 1877 إلى 4 نيسان/أبريل 1889، ثم أصبح بعدها واليًا على بيروت.",
+        "he": "מקורו של אבו-מנה: משלוחים קונסולריים בריטיים (FO 195). שמו המלא שריף מחמד ראוף פאשה (1838-1923) (אלצ'י וקראטש 2024). איידין (2022), על סמך מסמכי מינוי מהארכיון העות'מאני, מציין שכהונתו נמשכה מ-18 באפריל 1877 עד 4 באפריל 1889, ולאחר מכן הפך למושל בירות.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6858,11 +6879,15 @@
       },
       "start": {
         "year": 1890,
-        "precision": "year"
+        "month": 10,
+        "day": 15,
+        "precision": "day"
       },
       "end": {
         "year": 1897,
-        "precision": "year"
+        "month": 9,
+        "day": 30,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -6870,12 +6895,24 @@
           "ref": "abu-manneh-1999-sanjak-jerusalem",
           "locator": "n. 30",
           "quote": "Such were Rauf Pasha who governed Jerusalem for almost 13 years (1877–1889) and Ibrahim Hakki Pasha (1890–1897)"
+        },
+        {
+          "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+          "locator": "Appendix A (Ek A), 'Kudüs Mutasarrıfları 1872-1917', p. 207, first row 'İbrahim Hakkı Paşa'",
+          "quote": "15.10.1890-04.11.1896 Trablusşam mutasarrıfı Azil",
+          "note": "First term 15 October 1890 - 4 November 1896 (previous post mutasarrif of Tripoli; dismissed). Hüsnü Bey then held the post from 4 to 15 November 1896."
+        },
+        {
+          "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+          "locator": "Appendix A (Ek A), 'Kudüs Mutasarrıfları 1872-1917', p. 207, second row 'İbrahim Hakkı Paşa'",
+          "quote": "15.11.1896-30.09.1897 Kudüs mutasarrıfı Azil",
+          "note": "Second term 15 November 1896 - 30 September 1897 (reinstated; dismissed). The predecessor, Mehmed Reşad Paşa, served 17 April 1889 - 15 October 1890."
         }
       ],
       "notes": {
-        "en": "Dates from British consular despatches cited by Abu-Manneh.",
-        "ar": "التواريخ من المراسلات القنصلية البريطانية التي يستشهد بها أبو منّه.",
-        "he": "התאריכים מתוך משלוחי הקונסוליה הבריטית שמצטט אבו-מנה.",
+        "en": "Dates from British consular despatches cited by Abu-Manneh. Aydın (2022), from Ottoman archival documents: 15 October 1890 - 4 November 1896 and, after an eleven-day interval under Hüsnü Bey, again 15 November 1896 - 30 September 1897 (dismissed both times).",
+        "ar": "التواريخ مأخوذة من المراسلات القنصلية البريطانية التي يستشهد بها أبو مَنّه. أما أيدن (2022)، استنادًا إلى وثائق الأرشيف العثماني: من 15 تشرين الأول/أكتوبر 1890 إلى 4 تشرين الثاني/نوفمبر 1896، ثم، بعد فاصل مدته أحد عشر يومًا تولّى فيه حسني بك، من 15 تشرين الثاني/نوفمبر 1896 إلى 30 أيلول/سبتمبر 1897 (وأُقيل في المرتين).",
+        "he": "התאריכים לקוחים ממשלוחים קונסולריים בריטיים שאבו-מנה מצטט. איידין (2022), על סמך מסמכי הארכיון העות'מאני: 15 באוקטובר 1890 - 4 בנובמבר 1896 ואחרי הפסקה של אחד עשר יום בהנהגת חוסני ביי, שוב 15 בנובמבר 1896 - 30 בספטמבר 1897 (הודח בשני המקרים).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6905,11 +6942,15 @@
       },
       "start": {
         "year": 1906,
-        "precision": "year"
+        "month": 12,
+        "day": 3,
+        "precision": "day"
       },
       "end": {
         "year": 1908,
-        "precision": "year"
+        "month": 8,
+        "day": 10,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -6917,12 +6958,24 @@
           "ref": "abu-manneh-1999-sanjak-jerusalem",
           "locator": "n. 40",
           "quote": "See report of Ekrem Bey, Governor of Jerusalem between 1906–1908"
+        },
+        {
+          "ref": "aydin-2022-osmanli-kudusunde-idari-donusum",
+          "locator": "Appendix A (Ek A), 'Kudüs Mutasarrıfları 1872-1917', p. 207, row 'Ali Ekrem Bey'",
+          "quote": "03.12.1906-10.08.1908 Mabeyn katibi Beyrut valisi",
+          "note": "Term 3 December 1906 - 10 August 1908; previous post secretary of the Mabeyn (palace chancery); next post governor of Beirut."
+        },
+        {
+          "ref": "tdv-bolayir-ali-ekrem",
+          "locator": "biography, para. 1",
+          "quote": "On sekiz yıl bu görevde kalan Ali Ekrem daha sonra Kudüs mutasarrıflığına (1906), Meşrutiyet’te ise Beyrut valiliğine tayin edildi (1908)",
+          "note": "'Having held this post [Mabeyn secretary] for eighteen years, Ali Ekrem was then appointed mutasarrif of Jerusalem (1906) and, under the Constitution, governor of Beirut (1908).' The entry is on the poet Ali Ekrem Bolayır (1867-1937), son of Namık Kemal."
         }
       ],
       "notes": {
-        "en": "Abu-Manneh calls him 'Ekrem Bey'; the fuller name Ali Ekrem is not given in the source consulted.",
-        "ar": "يسميه أبو منّه 'Ekrem Bey'؛ والاسم الأوسع علي أكرم غير مذكور في المصدر الذي رُوجع.",
-        "he": "אבו-מנה מכנה אותו 'Ekrem Bey'; השם המלא יותר, Ali Ekrem, אינו מצוין במקור שנבדק.",
+        "en": "Abu-Manneh calls him 'Ekrem Bey'. Identified in TDV ('Bolayır, Ali Ekrem') as the poet Ali Ekrem Bolayır (1867-1937), son of Namık Kemal, appointed mutasarrif of Jerusalem in 1906 and governor of Beirut in 1908. Aydın (2022), from Ottoman archival documents: 3 December 1906 - 10 August 1908.",
+        "ar": "يسمّيه أبو مَنّه «Ekrem Bey» (أكرم بك). ويحدّده TDV (‏'Bolayır, Ali Ekrem') بأنه الشاعر علي أكرم بولايير (1867-1937)، ابن نامق كمال، الذي عُيّن متصرفًا للقدس في 1906 وواليًا على بيروت في 1908. أما أيدن (2022)، استنادًا إلى وثائق الأرشيف العثماني: من 3 كانون الأول/ديسمبر 1906 إلى 10 آب/أغسطس 1908.",
+        "he": "אבו-מנה קורא לו 'Ekrem Bey' (אכרם ביי). TDV ('Bolayır, Ali Ekrem') מזהה אותו כמשורר עלי אכרם בולאיר (1867-1937), בנו של נאמק כמאל, שמונה למותסרף ירושלים ב-1906 ולמושל בירות ב-1908. איידין (2022), על סמך מסמכי הארכיון העות'מאני: 3 בדצמבר 1906 - 10 באוגוסט 1908.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -7168,12 +7221,34 @@
           "ref": "kinghussein-transjordan-history",
           "locator": "page text",
           "quote": "Two months later, on May 25, 1946, the Transjordanian parliament proclaimed Abdullah king"
+        },
+        {
+          "ref": "luke-keith-roach-1922-handbook-of-palestine",
+          "locator": "§ 17, p. 228",
+          "quote": "the Emir 'Abdallah undertook temporarily to assume the administration of Trans-j ordania, under the general direction of the High Commissioner for Palestine as representing the Mandatory Power.",
+          "note": "Arrangement made at a conference in Jerusalem in March 1921; Abdullah had arrived at Ma'an from the Hejaz in November 1920 and moved to Amman in March 1921."
+        },
+        {
+          "ref": "tdv-urdun",
+          "locator": "part 2 (history)",
+          "quote": "Faysal’ın 1920’de Fransızlar tarafından Suriye’den çıkarılmasının ardından kardeşi Abdullah Ürdün’e gelerek Şubat 1921’de kendini Şarkī Ürdün emîri ilân etti."
+        },
+        {
+          "ref": "ohistorian-jordan-recognition",
+          "locator": "U.S. Recognition of Jordanian Independence, 1949",
+          "quote": "Transjordan had been a mandated territory placed under the protection of Great Britain following World War I, and had declared its independence with the agreement of Great Britain on May 25, 1946."
+        },
+        {
+          "ref": "tdv-urdun",
+          "locator": "part 2 (history)",
+          "quote": "25 Mayıs 1946’da İngilizler tarafından Ürdün’e bağımsızlık verildi.",
+          "note": "'On 25 May 1946 independence was granted to Jordan by the British.'"
         }
       ],
       "notes": {
-        "en": "Ruled Transjordan under the British Mandate, with the British High Commissioner in Jerusalem (also High Commissioner for Trans-Jordan) exercising general supervision. The official King Hussein website (Jordan) dates the establishment of his government to 11 Apr 1921.",
-        "ar": "حكم شرق الأردن في ظل الانتداب البريطاني، فيما مارس المندوب السامي البريطاني في القدس (وهو أيضًا المندوب السامي لشرق الأردن) إشرافًا عامًا. ويؤرخ موقع الملك الحسين الرسمي (الأردن) تأسيس حكومته بـ11 نيسان/أبريل 1921.",
-        "he": "שלט בעבר הירדן תחת המנדט הבריטי, כשהנציב העליון הבריטי בירושלים (גם נציב עליון לעבר הירדן) מפעיל פיקוח כללי. אתר המלך חוסיין הרשמי (ירדן) מתארך את הקמת ממשלתו ל-11 באפריל 1921.",
+        "en": "Ruled Transjordan under the British Mandate, with the British High Commissioner in Jerusalem (also High Commissioner for Trans-Jordan) exercising general supervision. The official King Hussein website (Jordan) dates the establishment of his government to 11 Apr 1921. The start day rests on the Jordanian royal site; the 1922 Handbook of Palestine places the arrangement under which Abdullah assumed the administration in March 1921 (after his move to Amman), and TDV ('Ürdün') says he proclaimed himself emir in February 1921. The end (25 May 1946) is confirmed by the U.S. Office of the Historian and TDV.",
+        "ar": "حكم شرق الأردن في ظل الانتداب البريطاني، وكان المندوب السامي البريطاني في القدس (وهو أيضًا المندوب السامي لشرق الأردن) يمارس إشرافًا عامًا. ويؤرّخ موقع الملك حسين الرسمي (الأردن) تأسيس حكومته بـ 11 نيسان/أبريل 1921. ويستند يوم البداية إلى الموقع الملكي الأردني؛ أما Handbook of Palestine لعام 1922 فيضع الترتيب الذي تولّى بموجبه عبد الله الإدارة في آذار/مارس 1921 (بعد انتقاله إلى عمّان)، ويقول TDV (‏'Ürdün') إنه أعلن نفسه أميرًا في شباط/فبراير 1921. وتؤكد النهاية (25 أيار/مايو 1946) مكتب المؤرّخ في وزارة الخارجية الأمريكية وTDV.",
+        "he": "שלט בעבר הירדן במסגרת המנדט הבריטי, כאשר הנציב העליון הבריטי בירושלים (שהיה גם נציב עליון לעבר הירדן) מפעיל פיקוח כללי. אתר המלך חוסיין הרשמי (ירדן) מתארך את הקמת ממשלתו ל-11 באפריל 1921. יום ההתחלה נשען על האתר המלכותי הירדני; ה-Handbook of Palestine משנת 1922 ממקם את ההסדר שבו קיבל עבדאללה את הניהול במרץ 1921 (לאחר מעברו לעמאן), ו-TDV ('Ürdün') אומר שהכריז על עצמו אמיר בפברואר 1921. הסיום (25 במאי 1946) מאושר בידי משרד ההיסטוריון של ארצות הברית ו-TDV.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

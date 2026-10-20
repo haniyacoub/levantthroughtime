@@ -15,7 +15,8 @@
         },
         "end": {
           "year": 1915,
-          "precision": "year"
+          "month": 7,
+          "precision": "month"
         },
         "partial_units": [
           "lebanon-mountains"
@@ -36,6 +37,34 @@
             "ref": "akarli-1993-long-peace",
             "locator": "Appendix A (p. 194)",
             "quote": "He was appointed governor of Mount Lebanon for a term of three years on the basis of the protocol of 9 June 1861 and the imperial decree of 9 M 1278 (17 July 1861)."
+          },
+          {
+            "ref": "tdv-lubnan-osmanli",
+            "locator": "part 4 (Osmanlı Dönemi)",
+            "quote": "Lübnan yönetimi için son şekli verilen metin (reglement organique) 9 Haziran 1861’de imzalanmış ve ardından bir fermanla yürürlüğe konmuştur.",
+            "note": "'The text finalised for the administration of Lebanon (règlement organique) was signed on 9 June 1861 and then put into force by a firman.'"
+          },
+          {
+            "ref": "tdv-lubnan-osmanli",
+            "locator": "part 4 (Osmanlı Dönemi)",
+            "quote": "Yeni oluşturulmakta olan Lübnan mutasarrıflığı sınırlarına Beyrut’un dahil edilip edilmemesi konusu da görüşüldü ve dahil edilmemesi kararlaştırıldı.",
+            "note": "'Whether Beirut should be included within the borders of the mutasarrifate of Lebanon then being created was also discussed, and it was decided not to include it.'"
+          },
+          {
+            "ref": "admiralty-1920-handbook-of-syria",
+            "locator": "p. 239, n. 2",
+            "quote": "Beirut, its capital, stood isolated and surrounded by the territory of Lebanon"
+          },
+          {
+            "ref": "tdv-lubnan-osmanli",
+            "locator": "part 4 (Osmanlı Dönemi)",
+            "quote": "Dürzîler için yeni uygulama, yoğunlukla yaşadıkları yerlerin mutasarrıflık sınırları dışında bırakılmış olmasından ötürü olumsuz sonuçlar vermiş"
+          },
+          {
+            "ref": "tdv-lubnan-osmanli",
+            "locator": "part 4 (Osmanlı Dönemi)",
+            "quote": "Dünya Savaşı sebebiyle Lübnan hakkındaki milletlerarası protokol Osmanlı Devleti tarafından 11 Temmuz 1915’te tek taraflı olarak ilga edilmiş",
+            "note": "'Because of the [First] World War the international protocol on Lebanon was unilaterally abrogated by the Ottoman state on 11 July 1915', after which the Interior Ministry appointed Muslim mutasarrifs."
           }
         ],
         "id": "mount-lebanon-mutasarrifate-1",

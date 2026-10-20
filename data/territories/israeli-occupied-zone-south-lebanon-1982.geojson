@@ -34,6 +34,21 @@
           {
             "ref": "unifil-background",
             "quote": "For three years, UNIFIL remained behind the Israeli lines"
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "main text",
+            "quote": "On 6 June 1982, however, the Israeli government used the pretext of the attempted assassination in London of the Israeli ambassador by an anti-PLO Palestinian group to launch an invasion of Lebanon."
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "main text",
+            "quote": "The Israelis quickly encircled West Beirut, site of the PLO’s headquarters, and laid siege to that part of the city throughout the summer."
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section 'Operation Peace for Galilee (1982)'",
+            "quote": "Subsequently, however, the mission was enlarged and the capture of Beirut signalled the transition to a long drawn-out war."
           }
         ],
         "id": "israeli-occupied-zone-south-lebanon-1982-1",
@@ -73,6 +88,22 @@
           {
             "ref": "unifil-background",
             "quote": "it retained control of an area in southern Lebanon"
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section 'Operation Peace for Galilee (1982)'",
+            "quote": "A token force was left behind, to help the citizens of south Lebanon to patrol the Security Zone - a narrow strip of territory adjacent to Israel's border",
+            "note": "After the national unity government of 1984 decided to 'withdraw forthwith from Lebanon'. Israeli government narrative (Netanel Lorch), written while the zone still existed."
+          },
+          {
+            "ref": "palquest-lebanon-war-1982",
+            "locator": "introduction",
+            "quote": "led to an Israeli occupation of parts of Southern Lebanon that lasted until 2000."
+          },
+          {
+            "ref": "un-sg-report-s-2000-460",
+            "locator": "para. 29",
+            "quote": "the Government will treat the inhabitants of the formerly occupied zone as equal citizens of Lebanon"
           }
         ],
         "notes": {

@@ -2955,12 +2955,28 @@
             {
               "ref": "gass-2017-assyrian-provinces",
               "locator": "p. 53"
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "ch. 7, p. 153",
+              "quote": "In 732 b.c.e. Tiglath-pileser III king of Assyria took over the Galilee and northern valleys of the northern kingdom and annexed them to the Assyrian empire.",
+              "note": "Archaeologist's synthesis (Tel Aviv University); does not name the province, whose seat was Megiddo (Gaß)."
+            },
+            {
+              "ref": "novotny-rinap5-3-introduction",
+              "locator": "Introduction (overview page)",
+              "quote": "Assyria's fortunes continued to decline during Ashurbanipal's final years on the throne, as well as during the reigns of his successors"
+            },
+            {
+              "ref": "novotny-rinap5-3-introduction",
+              "locator": "section 'Ashurbanipal's Death'",
+              "quote": "Based on the available evidence, it appears that Ashurbanipal reigned until early 631, as evidenced from the latest Babylonian economic documents dated to his reign."
             }
           ],
           "notes": {
-            "en": "End of Assyrian control estimated (c. 630); see the empire record.",
-            "ar": "نهاية السيطرة الآشورية تقديرية (نحو 630)؛ انظر سجل الإمبراطورية.",
-            "he": "סוף השליטה האשורית משוער (בערך 630); ראו רשומת האימפריה.",
+            "en": "End of Assyrian control estimated (c. 630); see the empire record. Start confirmed independently by Finkelstein (2013, p. 153: annexation of the Galilee and the northern valleys in 732 BCE). No opened source dates the end of Assyrian rule at Megiddo; c. 630 rests on the general decline of Assyria after Ashurbanipal (reign probably until early 631: Novotny, RINAP 5/3).",
+            "ar": "انتهاء السيطرة الآشورية مقدَّر (نحو 630)؛ انظر سجل الإمبراطورية. البداية مؤكدة بصورة مستقلة لدى فنكلشتاين (2013، ص 153: ضم الجليل والوديان الشمالية سنة 732 ق.م.). لا يؤرّخ أي مصدر جرى الاطلاع عليه نهاية الحكم الآشوري في مجدو؛ ويستند تاريخ نحو 630 إلى التراجع العام لآشور بعد آشوربانيبال (حكمه حتى مطلع 631 على الأرجح: نوفوتني، RINAP 5/3).",
+            "he": "סיום השליטה האשורית מוערך (בערך 630); ראו את רשומת האימפריה. ההתחלה אושרה באופן עצמאי אצל פינקלשטיין (2013, עמ' 153: סיפוח הגליל והעמקים הצפוניים בשנת 732 לפנה״ס). אף מקור שנבדק אינו מתארך את סיום השלטון האשורי במגידו; התאריך בערך 630 נשען על שקיעתה הכללית של אשור לאחר אשורבניפל (שלטונו כנראה עד תחילת 631: נובוטני, RINAP 5/3).",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -7522,8 +7538,39 @@
               "ref": "matveev-2010",
               "locator": "pp. 74-75",
               "quote": "Jerusalem, a major religious centre and a de facto capital of the province of Palestine"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 94",
+              "quote": "Atsiz surrendered it to the Selchükid prince Tutush, to become the capital of the new Selchükid principality of Syria (1078)."
+            },
+            {
+              "ref": "cahen-1969-turkish-invasion-selchukids",
+              "locator": "p. 151",
+              "quote": "Tutush, brother of Malik-Shah, received central Syria and Palestine, and in 1079 rid himself of Atsiz."
+            },
+            {
+              "ref": "tdv-tutus",
+              "locator": "para. 1",
+              "quote": "471’de (1079) Dımaşk’a giren Tutuş, Atsız’ın hâkimiyetindeki Kudüs, Dımaşk, Akkâ, Sûr, Trablusşam, Yafa, Arîş, Taberiye gibi şehirleri ele geçirip Suriye Selçuklu Devleti’nin temellerini attı",
+              "note": "'Having entered Damascus in 471 (1079), Tutush took the towns under Atsiz's rule such as Jerusalem, Damascus, Acre, Tyre, Tripoli, Jaffa, al-Arish and Tiberias and laid the foundations of the Syrian Seljuk state.' The entry adds that Ibn Asakir dates the entry to 472 (1079)."
+            },
+            {
+              "ref": "tdv-tutus",
+              "locator": "para. 9",
+              "quote": "Bazı çarpışmalardan sonra esas savaş 17 Safer 488’de (26 Şubat 1095) başladı.",
+              "note": "The main battle near Rayy, 'after some skirmishes, began on 17 Safar 488 (26 February 1095)', in which Tutush was killed; his sons Ridwan (Aleppo) and Duqaq (Damascus) then founded separate branches."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Gibb (HoC I, p. 94) dates Tutush's takeover of Damascus to 1078; Cahen (HoC I, p. 151) and TDV ('Tutuş') date his disposal of Atsiz and entry into Damascus to 1079 (A.H. 471, which ran from July 1078 to July 1079; Ibn Asakir: 472). Matveev's Rabi' II 471 corresponds to October 1078. Tutush was killed near Rayy in February 1095 (TDV: battle of 17 Safar 488/26 February 1095).",
+            "ar": "يؤرّخ جب (HoC I، ص 94) استيلاء تتش على دمشق بسنة 1078؛ ويؤرّخ كاهن (HoC I، ص 151) وTDV (‏'Tutuş') تخلّصه من أتسز ودخوله دمشق بسنة 1079 (471 هـ، وهي السنة الممتدة من تموز/يوليو 1078 إلى تموز/يوليو 1079؛ ابن عساكر: 472). ويقابل ربيع الثاني 471 عند ماتفيف تشرين الأول/أكتوبر 1078. وقُتل تتش قرب الري في شباط/فبراير 1095 (TDV: معركة 17 صفر 488 / 26 شباط/فبراير 1095).",
+            "he": "גיב (HoC I, עמ' 94) מתארך את השתלטות טוטוש על דמשק ל-1078; קאהן (HoC I, עמ' 151) ו-TDV ('Tutuş') מתארכים את סילוקו של אטסיז ואת כניסתו לדמשק ל-1079 (471 להג'רה, שנמשכה מיולי 1078 עד יולי 1079; אבן עסאכר: 472). רביע השני 471 אצל מטווייב מקביל לאוקטובר 1078. טוטוש נהרג ליד ריי בפברואר 1095 (TDV: הקרב ב-17 בצפר 488 / 26 בפברואר 1095).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "part-of",
@@ -7577,8 +7624,49 @@
               "ref": "matveev-2010",
               "locator": "p. 76",
               "quote": "resulted in taking Jerusalem from Sukmān and īl‑Ghāzī on 26 August of 1098"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 95",
+              "quote": "Jerusalem was recaptured in 1098 from the Artukid Turkoman chiefs who held it as a Selchükid fief."
+            },
+            {
+              "ref": "runciman-1969-first-crusade-antioch-ascalon",
+              "locator": "p. 316",
+              "quote": "In August 1098 the Egyptians captured Jerusalem and by autumn they had reoccupied the country as far north as the Dog river, beyond Beirut."
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 491, p. 45",
+              "quote": "In Sha‘ban (July) news was received that al-Afdal, the commander-in-chief (amir al-juyush), had come up from Egypt to Syria at the head of a strong ‘askar.",
+              "note": "Primary source. He then 'captured it and received the surrender of the Sanctuary of David from Sukman'; the two Artuqid amirs reached Damascus in the first ten days of Shawwal (September 1098)."
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 491, p. 45",
+              "quote": "They arrived in Damascus during the first ten days of Shawwal (September), and al-Afdal returned with his ‘askar to Egypt."
+            },
+            {
+              "ref": "tdv-ilgazi",
+              "locator": "para. 1",
+              "quote": "Onlar da 10 Şevval 491’de (10 Eylül 1098) Dımaşk’a gitmek üzere Kudüs’ten ayrıldılar.",
+              "note": "'They [İlgazi and Sökmen] left Jerusalem for Damascus on 10 Shawwal 491 (10 September 1098)', after the townspeople opened the gates to al-Afdal, who had marched on the city in Sha'ban 491 (July 1098)."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 368",
+              "quote": "the capture of the city of Jerusalem on July 15, 1099, most of the crusaders felt that their work was done."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Day of the Fatimid capture: 26 August 1098 (Matveev; also the date in the chronological table of the Wisconsin History of the Crusades, vol. I). Ibn al-Qalanisi has al-Afdal arrive in Sha'ban 491 (July 1098) and the Artuqid amirs reach Damascus in early Shawwal (September); TDV ('İlgazi') has them leave Jerusalem on 10 Shawwal 491 (10 September 1098). The crusaders took Jerusalem on 15 July 1099.",
+            "ar": "يوم الاستيلاء الفاطمي: 26 آب/أغسطس 1098 (ماتفيف؛ وهو أيضًا التاريخ الوارد في الجدول الزمني في المجلد الأول من Wisconsin History of the Crusades). ويذكر ابن القلانسي وصول الأفضل في شعبان 491 (تموز/يوليو 1098)، ووصول الأمراء الأرتقيين إلى دمشق في مطلع شوال (أيلول/سبتمبر)؛ أما TDV (‏'İlgazi') فيذكر مغادرتهم القدس في 10 شوال 491 (10 أيلول/سبتمبر 1098). واستولى الصليبيون على القدس في 15 تموز/يوليو 1099.",
+            "he": "יום הכיבוש הפאטימי: 26 באוגוסט 1098 (מטווייב; זה גם התאריך בטבלה הכרונולוגית בכרך I של Wisconsin History of the Crusades). אבן אל-קלאנסי מציין שאל-אפדל הגיע בשעבאן 491 (יולי 1098) ושהאמירים הארתוקים הגיעו לדמשק בתחילת שוואל (ספטמבר); TDV ('İlgazi') מציין שהם עזבו את ירושלים ב-10 בשוואל 491 (10 בספטמבר 1098). הצלבנים כבשו את ירושלים ב-15 ביולי 1099.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -8635,6 +8723,38 @@
           "ref": "matveev-2010",
           "locator": "p. 76",
           "quote": "Ridwān, the oldest, was born in 475/1082, i.e. he was 13 years old only when his father was killed in 1095"
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 94",
+          "quote": "Atsiz surrendered it to the Selchükid prince Tutush, to become the capital of the new Selchükid principality of Syria (1078)."
+        },
+        {
+          "ref": "cahen-1969-turkish-invasion-selchukids",
+          "locator": "p. 151",
+          "quote": "Tutush, brother of Malik-Shah, received central Syria and Palestine, and in 1079 rid himself of Atsiz."
+        },
+        {
+          "ref": "tdv-tutus",
+          "locator": "entry heading",
+          "quote": "Suriye Selçuklu Devleti’nin kurucusu ve ilk hükümdarı (1079-1095)."
+        },
+        {
+          "ref": "tdv-tutus",
+          "locator": "para. 1",
+          "quote": "471’de (1079) Dımaşk’a giren Tutuş, Atsız’ın hâkimiyetindeki Kudüs, Dımaşk, Akkâ, Sûr, Trablusşam, Yafa, Arîş, Taberiye gibi şehirleri ele geçirip Suriye Selçuklu Devleti’nin temellerini attı",
+          "note": "'Having entered Damascus in 471 (1079), Tutush took the towns under Atsiz's rule such as Jerusalem, Damascus, Acre, Tyre, Tripoli, Jaffa, al-Arish and Tiberias and laid the foundations of the Syrian Seljuk state.' The entry adds that Ibn Asakir dates the entry to 472 (1079)."
+        },
+        {
+          "ref": "tdv-tutus",
+          "locator": "para. 9",
+          "quote": "Bazı çarpışmalardan sonra esas savaş 17 Safer 488’de (26 Şubat 1095) başladı.",
+          "note": "The main battle near Rayy, 'after some skirmishes, began on 17 Safar 488 (26 February 1095)', in which Tutush was killed; his sons Ridwan (Aleppo) and Duqaq (Damascus) then founded separate branches."
+        },
+        {
+          "ref": "tdv-tutus",
+          "locator": "para. 9",
+          "quote": "Tutuş’un ölümü üzerine oğlu Rıdvan, Suriye Selçukluları’nın Halep şubesini kurdu (1095-1113)."
         }
       ],
       "notes": {
@@ -8750,8 +8870,40 @@
               "ref": "matveev-2010",
               "locator": "p. 75",
               "quote": "Tutush replaced him by one of his major emirs — Artuq b. Aksab"
+            },
+            {
+              "ref": "cahen-1969-turkish-invasion-selchukids",
+              "locator": "p. 158",
+              "quote": "he fled in fear of Malik-Shah to the service of Tutush, who bestowed Jerusalem on him.",
+              "note": "Artuk, after the death of the Uqailid ruler of Mosul (killed in 1085, p. 152)."
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 95",
+              "quote": "Jerusalem was recaptured in 1098 from the Artukid Turkoman chiefs who held it as a Selchükid fief."
+            },
+            {
+              "ref": "tdv-artuklular",
+              "locator": "para. 1",
+              "quote": "sultanın kardeşi Suriye Meliki Tutuş’un hizmetine girdi; Tutuş da ona Kudüs ve havalisini iktâ olarak verdi.",
+              "note": "Artuk Bey 'entered the service of the sultan's brother, the Syrian king Tutush; Tutush gave him Jerusalem and its surroundings as an iqta''."
+            },
+            {
+              "ref": "tdv-ilgazi",
+              "locator": "para. 1",
+              "quote": "Tutuş’un Berkyaruk ile giriştiği saltanat mücadelesinde 488’de (1095) mağlûp oluşu ve ölümü üzerine Tutuş’un oğlu, Dımaşk Selçuklu Meliki Şemsülmülûk Dukak’ın hizmetine girdi.",
+              "note": "After Tutush's defeat and death in 488 (1095), İlgazi 'entered the service of Tutush's son, the Seljuk king of Damascus, Duqaq'; his brother Sökmen sided with Ridwan of Aleppo."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Cahen (HoC I, p. 158) places Artuk's move into Tutush's service after the death of the Uqailid ruler of Mosul (1085), i.e. c. 1085/86, within the record's 1083-1086 window; Matveev gives 1083. After Tutush's death (1095) Artuk's sons divided their loyalty between his sons: İlgazi served Duqaq of Damascus and Sökmen Ridwan of Aleppo (TDV, 'İlgazi'). Gibb (HoC I, p. 95) describes Jerusalem as held by the Artuqids 'as a Selchükid fief' until 1098.",
+            "ar": "يضع كاهن (HoC I، ص 158) انتقال أرتق إلى خدمة تتش بعد وفاة حاكم الموصل العقيلي (1085)، أي نحو 1085/86، ضمن نافذة السجل 1083-1086؛ ويذكر ماتفيف سنة 1083. وبعد وفاة تتش (1095) انقسم ولاء أبناء أرتق بين ابنيه: خدم إيلغازي دقاق صاحب دمشق، وسقمان رضوان صاحب حلب (TDV، 'İlgazi'). ويصف جب (HoC I، ص 95) القدس بأنها كانت بيد الأرتقيين «as a Selchükid fief» [إقطاعًا سلجوقيًا] حتى 1098.",
+            "he": "קאהן (HoC I, עמ' 158) מציב את מעבר ארתוק לשירות טוטוש לאחר מות שליט מוסול העוקיילי (1085), כלומר בערך 1085/86, בתוך חלון 1083-1086 של הרשומה; מטווייב מציין 1083. לאחר מות טוטוש (1095) התפצלה נאמנותם של בני ארתוק בין בניו: אילגאזי שירת את דוקאק מדמשק וסוקמן את רדואן מחלב (TDV, 'İlgazi'). גיב (HoC I, עמ' 95) מתאר את ירושלים כמוחזקת בידי הארתוקים 'as a Selchükid fief' [כאחוזה סלג'וקית] עד 1098.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "autonomous-under",
@@ -9861,6 +10013,38 @@
               "ref": "amitai-2017-gaza-mamluks",
               "locator": "p. 8 (PDF p. 10)",
               "quote": "In the north was the niyābah or mamlakah – both of which can be translated as “province” in this context – of Ṣafad, including areas in modern-day southern Lebanon and the Golan Heights."
+            },
+            {
+              "ref": "tdv-safed",
+              "locator": "para. 4",
+              "quote": "Mısır’da Memlük Devleti’nin kurulmasından sonra Sultan I. Baybars 664 yazında (1266) Safed’i ele geçirdi."
+            },
+            {
+              "ref": "tdv-safed",
+              "locator": "para. 4",
+              "quote": "Safed bu dönemde Memlük hâkimiyetindeki Suriye’de (Bilâdüşşam) altı nâiblikten birinin merkezi haline geldi.",
+              "note": "'In this period Safed became the seat of one of the six niyabas (provinces) of Mamluk Syria'; Tiberias, Nazareth and other towns were attached to it."
+            },
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 748",
+              "quote": "In 1266 he gave orders for intensive raids against the crusader towns along the Syrian coast, while he himself took Safad"
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 40",
+              "quote": "Dimashki, writing in 1300, states that since the rise of the Turk power (meaning the house of Saladin), Syria had been divided into nine Kingdoms ( Mamlakat )."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 41",
+              "quote": "The Kingdom of Safad. “ Its capital is Safad.",
+              "note": "Al-Dimashqi (c. 1300) in Le Strange's translation; to it belonged Marj Ayyun, al-Lajjun, Jenin, Acre, Tyre and Sidon."
+            },
+            {
+              "ref": "tdv-safed",
+              "locator": "para. 4",
+              "quote": "Yavuz Sultan Selim, Mercidâbık zaferinden (25 Receb 922 / 24 Ağustos 1516) sonra bütün Suriye bölgesiyle birlikte burayı da savaşsız teslim aldı."
             }
           ]
         }
@@ -9944,12 +10128,35 @@
               "ref": "amitai-2017-gaza-mamluks",
               "locator": "p. 8 (PDF p. 10)",
               "quote": "Generally Gaza answered directly to the sultan in Cairo, but at times was subordinate to the governor of Damascus"
+            },
+            {
+              "ref": "tdv-gazze",
+              "locator": "para. 2",
+              "quote": "Bu dönemin idarî taksimatında bir nâiblik olan ve aynı zamanda önemli bir posta güzergâhında bulunan Gazze’ye",
+              "note": "'Gaza, which in the administrative division of this [Mamluk] period was a niyaba and also lay on an important postal route'."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 40",
+              "quote": "Dimashki, writing in 1300, states that since the rise of the Turk power (meaning the house of Saladin), Syria had been divided into nine Kingdoms ( Mamlakat )."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 41",
+              "quote": "South of this lay the Kingdom of Ghazzah (Gaza), the capital of which was anciently called Ghazzah Hashim.",
+              "note": "Al-Dimashqi (c. 1300) in Le Strange's translation. Le Strange describes these 'kingdoms' as divisions that went back to the Ayyubids and were 'far from stable'."
+            },
+            {
+              "ref": "tdv-gazze",
+              "locator": "para. 2",
+              "quote": "Mısır’ın Osmanlılar tarafından fethine kadar (1517) onların idaresinde kalmıştır.",
+              "note": "Gaza 'remained under their [the Mamluks'] administration until the Ottoman conquest of Egypt (1517)'. The Ottoman army took Gaza itself in December 1516 (the entry notes that Tumanbay could not prevent the fall of the town)."
             }
           ],
           "notes": {
-            "en": "Usually directly under Cairo; at times subordinate to the governor of Damascus.",
-            "ar": "تتبع عادةً القاهرة مباشرة؛ وأحيانًا تابعة لوالي دمشق.",
-            "he": "כפופה בדרך כלל ישירות לקהיר; לעיתים כפופה למושל דמשק.",
+            "en": "Usually directly under Cairo; at times subordinate to the governor of Damascus. Start c. 1300: Amitai dates the organised province to around 1300; al-Dimashqi (writing c. 1300, in Le Strange's translation) already lists a 'Kingdom of Ghazzah' among the nine mamlakat of Syria, while Le Strange stresses that their limits were far from stable. End: TDV gives 1517 (the conquest of Egypt); the Ottomans took Gaza itself in December 1516.",
+            "ar": "في الغالب تابعة مباشرة للقاهرة؛ وفي أوقات تابعة لوالي دمشق. البداية نحو 1300: يؤرّخ عميتاي الولاية المنظّمة بنحو 1300؛ ويورد الدمشقي (الذي كتب نحو 1300، في ترجمة لو سترينج) «Kingdom of Ghazzah» [مملكة غزة] ضمن المماليك التسع في بلاد الشام، فيما يشدّد لو سترينج على أن حدودها كانت بعيدة عن الثبات. النهاية: يذكر TDV سنة 1517 (فتح مصر)؛ وكان العثمانيون قد استولوا على غزة نفسها في كانون الأول/ديسمبر 1516.",
+            "he": "בדרך כלל כפופה ישירות לקהיר; לעיתים כפופה למושל דמשק. התחלה בערך 1300: עמיתי מתארך את המחוז המאורגן לסביבות 1300; אל-דימשקי (שכתב בערך 1300, בתרגום לה סטריינג') כבר מונה 'Kingdom of Ghazzah' [ממלכת עזה] בין תשע המַמלכות (mamlakat) של סוריה, ואילו לה סטריינג' מדגיש שגבולותיהן היו רחוקים מלהיות יציבים. סיום: TDV מציין 1517 (כיבוש מצרים); העות'מאנים כבשו את עזה עצמה בדצמבר 1516.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -10248,6 +10455,23 @@
               "ref": "abu-manneh-1999-sanjak-jerusalem",
               "locator": "pp. 36-37",
               "quote": "Throughout the Ottoman period and until the early decades of the nineteenth century Jerusalem was regarded as an ordinary sanjak. On the whole, it was part of the province of Sham (Damascus) and subject to its governor."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), para. 1",
+              "quote": "24 Ağustos 1516’da Osmanlılar’ın galibiyetiyle sonuçlanan Mercidâbık Savaşı’nın en önemli sonuçlarından biri, Eylül 1516’da Şam merkezli Suriye bölgesinin Osmanlı hâkimiyeti altına alınması oldu."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi)",
+              "quote": "Şam eyaleti Şam’dan Gazze’ye kadar uzanan bölgede merkez sancağıyla birlikte on dört sancaktan oluşuyordu.",
+              "note": "'The province (eyalet) of Damascus consisted of fourteen sanjaks, including the central sanjak, in the region stretching from Damascus to Gaza.'"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi)",
+              "quote": "1831’de askerlikten kaçan Mısır köylülerine sahip çıkan Akkâ Valisi Abdullah Paşa ile olan anlaşmazlığı bahane ederek bir yıl içerisinde bütün Suriye’yi eline geçirdi.",
+              "note": "Subject: Muhammad Ali Pasha of Egypt, who 'in 1831, using as a pretext his dispute with the governor of Acre, Abdullah Pasha, ... took the whole of Syria within a year'; Egyptian rule lasted 1832-1840."
             }
           ]
         },
@@ -11189,7 +11413,8 @@
       },
       "end": {
         "year": 1915,
-        "precision": "year"
+        "month": 7,
+        "precision": "month"
       },
       "confidence": "documented",
       "basis": "documentary",
@@ -11208,6 +11433,30 @@
           "ref": "akarli-1993-long-peace",
           "locator": "p. 173",
           "quote": "During the First World War, Mount Lebanon's autonomy was formally abolished and its administration was put under the Interior Ministry in Istanbul"
+        },
+        {
+          "ref": "tdv-lubnan-osmanli",
+          "locator": "part 4 (Osmanlı Dönemi)",
+          "quote": "Lübnan yönetimi için son şekli verilen metin (reglement organique) 9 Haziran 1861’de imzalanmış ve ardından bir fermanla yürürlüğe konmuştur.",
+          "note": "'The text finalised for the administration of Lebanon (règlement organique) was signed on 9 June 1861 and then put into force by a firman.'"
+        },
+        {
+          "ref": "tdv-lubnan-osmanli",
+          "locator": "part 4 (Osmanlı Dönemi)",
+          "quote": "Yeni düzenleme ile Lübnan’a müstakil mutasarrıflık statüsü veriliyor ve mutasarrıfın Lübnan dışından Osmanlı vatandaşı bir hıristiyan olması şartı getiriliyordu.",
+          "note": "'Under the new arrangement Lebanon was given the status of a separate (independent) mutasarrifate, and the mutasarrif had to be a Christian Ottoman subject from outside Lebanon.'"
+        },
+        {
+          "ref": "tdv-lubnan-osmanli",
+          "locator": "part 4 (Osmanlı Dönemi)",
+          "quote": "Dünya Savaşı sebebiyle Lübnan hakkındaki milletlerarası protokol Osmanlı Devleti tarafından 11 Temmuz 1915’te tek taraflı olarak ilga edilmiş",
+          "note": "'Because of the [First] World War the international protocol on Lebanon was unilaterally abrogated by the Ottoman state on 11 July 1915', after which the Interior Ministry appointed Muslim mutasarrifs."
+        },
+        {
+          "ref": "admiralty-1920-handbook-of-syria",
+          "locator": "pp. 241-243",
+          "quote": "From 1864 to 1914 the sanjaq of Lebanon had a special constitution guaranteed by the European powers",
+          "note": "The Handbook dates the special regime from the revised protocol of 1864 and ends it with the war; it lists Ba'albek and the Biqa as kazas of the Damascus vilayet (p. 240)."
         }
       ],
       "notes": {
@@ -11231,7 +11480,8 @@
           },
           "end": {
             "year": 1915,
-            "precision": "year"
+            "month": 7,
+            "precision": "month"
           },
           "confidence": "documented",
           "sources": [
@@ -11244,6 +11494,30 @@
               "ref": "akarli-1993-long-peace",
               "locator": "p. 140",
               "quote": "In July 1915, the Ottoman government abolished the international protocols concerning Mount Lebanon"
+            },
+            {
+              "ref": "tdv-lubnan-osmanli",
+              "locator": "part 4 (Osmanlı Dönemi)",
+              "quote": "Lübnan yönetimi için son şekli verilen metin (reglement organique) 9 Haziran 1861’de imzalanmış ve ardından bir fermanla yürürlüğe konmuştur.",
+              "note": "'The text finalised for the administration of Lebanon (règlement organique) was signed on 9 June 1861 and then put into force by a firman.'"
+            },
+            {
+              "ref": "tdv-lubnan-osmanli",
+              "locator": "part 4 (Osmanlı Dönemi)",
+              "quote": "Yeni düzenleme ile Lübnan’a müstakil mutasarrıflık statüsü veriliyor ve mutasarrıfın Lübnan dışından Osmanlı vatandaşı bir hıristiyan olması şartı getiriliyordu.",
+              "note": "'Under the new arrangement Lebanon was given the status of a separate (independent) mutasarrifate, and the mutasarrif had to be a Christian Ottoman subject from outside Lebanon.'"
+            },
+            {
+              "ref": "tdv-lubnan-osmanli",
+              "locator": "part 4 (Osmanlı Dönemi)",
+              "quote": "Dünya Savaşı sebebiyle Lübnan hakkındaki milletlerarası protokol Osmanlı Devleti tarafından 11 Temmuz 1915’te tek taraflı olarak ilga edilmiş",
+              "note": "'Because of the [First] World War the international protocol on Lebanon was unilaterally abrogated by the Ottoman state on 11 July 1915', after which the Interior Ministry appointed Muslim mutasarrifs."
+            },
+            {
+              "ref": "admiralty-1920-handbook-of-syria",
+              "locator": "pp. 241-243",
+              "quote": "From 1864 to 1914 the sanjaq of Lebanon had a special constitution guaranteed by the European powers",
+              "note": "The Handbook dates the special regime from the revised protocol of 1864 and ends it with the war; it lists Ba'albek and the Biqa as kazas of the Damascus vilayet (p. 240)."
             }
           ]
         }
@@ -11389,6 +11663,16 @@
             {
               "ref": "un-dpr-origins-part1",
               "quote": "Although formally still part of the Ottoman Empire, Palestine was under British military occupation since December 1917."
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "p. 27",
+              "quote": "The Military Administration, 1917-1920. — At the head of the Military Administration of Palestine General Allenby, whose headquarters were then at Ludd, appointed Brigadier-General (now Sir Gilbert) Clayton"
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "p. 30",
+              "quote": "The Military Administration (Occupied Enemy Territory Administration) terminated on the 30th June, 1920, and on the 1st July the Rt. Hon. Sir Herbert Samuel, P.C., G.B.E., assumed office as His Majesty’s High Commissioner for Palestine"
             }
           ],
           "notes": {
@@ -11686,6 +11970,37 @@
             {
               "ref": "un-dpr-origins-part1",
               "quote": "The British Mandate acquired jurisdiction de jure over Palestine in September 1923 following conclusion with Turkey of the Treaty of Lausanne."
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "p. 27",
+              "quote": "At the Supreme Council of the Allied Powers held at San Remo in April, 1920, it was agreed that Great Britain should be entrusted with the Mandate."
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "p. 30",
+              "quote": "The Military Administration (Occupied Enemy Territory Administration) terminated on the 30th June, 1920, and on the 1st July the Rt. Hon. Sir Herbert Samuel, P.C., G.B.E., assumed office as His Majesty’s High Commissioner for Palestine"
+            },
+            {
+              "ref": "icj-2004-wall-ao",
+              "locator": "para. 70",
+              "quote": "a class “A” Mandate for Palestine was entrusted to Great Britain by the League of Nations, pursuant to paragraph 4 of Article 22 of the Covenant"
+            },
+            {
+              "ref": "icj-2004-wall-ao",
+              "locator": "para. 71",
+              "quote": "In 1947 the United Kingdom announced its intention to complete evacuation of the mandated territory by 1 August 1948, subsequently advancing that date to 15 May 1948."
+            },
+            {
+              "ref": "uk-palestine-act-1948",
+              "locator": "s. 1(1)",
+              "quote": "On the fifteenth day of May",
+              "note": "Section 1(1): on 15 May 1948, or an earlier date to be declared by Order in Council as the date on which the mandate would be relinquished ('the appointed day'), all jurisdiction of His Majesty in Palestine was to determine."
+            },
+            {
+              "ref": "uk-palestine-act-1948",
+              "locator": "s. 1(1)",
+              "quote": "all jurisdiction of His Majesty in Palestine shall determine, and His Majesty’s Government in the United Kingdom shall cease to be responsible for the government of Palestine."
             }
           ],
           "notes": {
@@ -11914,8 +12229,49 @@
             {
               "ref": "un-dpr-origins-part1",
               "quote": "The administration of Syria and Lebanon was awarded to France"
+            },
+            {
+              "ref": "frus-1921-v01-d113",
+              "locator": "enclosure, preamble",
+              "quote": "by the attribution to France of the mandate over Syria and the Lebanon, all three conferred by the Supreme Council at San Remo"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3, subsection '1918'den Günümüze Kadar'",
+              "quote": "İtilâf devletlerinin Nisan 1920 San Remo Konferansı’nda Suriye’yi Fransız manda yönetimine vermesiyle bölgede Arap-Fransız çatışmaları arttı."
+            },
+            {
+              "ref": "tdv-lubnan-osmanli",
+              "locator": "part 4, subsection '1918'den Günümüze Kadar'",
+              "quote": "Nisan 1920’de yapılan San Remo Konferansı’nda Lübnan Suriye ile birlikte Fransa manda yönetimine devredildi."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3, subsection '1918'den Günümüze Kadar'",
+              "quote": "Temmuz 1920’de Beyrut-Şam arasında Han Meyselûn’da Fransızlar’ın Suriyeliler’i ağır bir yenilgiye uğratmasının ardından Suriye’de Faysal dönemi sona erdi ve kendisi sürgüne gönderildi.",
+              "note": "'In July 1920, after the French heavily defeated the Syrians at Khan Maysalun between Beirut and Damascus, Faisal's period in Syria ended and he was exiled.'"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3, subsection '1918'den Günümüze Kadar'",
+              "quote": "Fransız işgali, iki yıl sonra Milletler Cemiyeti’nin onayıyla resmen manda yönetimine dönüştü. Manda yönetimi devrinde (1920-1946)"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3, subsection '1918'den Günümüze Kadar'",
+              "quote": "Fransa antlaşma taleplerinden vazgeçti ve 1946 baharında Suriye’yi terketmek zorunda kaldı.",
+              "note": "'France gave up its treaty demands and had to leave Syria in the spring of 1946.'"
             }
-          ]
+          ],
+          "notes": {
+            "en": "The mandates were allotted at San Remo in April 1920 (League of Nations approval July 1922); French rule in Damascus began after Maysalun in July 1920. The end month (April 1946) is the evacuation of Syria (TDV: 'spring 1946'); the UN study dates independence to 22 November 1943 (Lebanon) and 1 January 1944 (Syria), and French troops left Lebanon only at the end of 1946.",
+            "ar": "وُزّعت الانتدابات في سان ريمو في نيسان/أبريل 1920 (وأقرّتها عصبة الأمم في تموز/يوليو 1922)؛ وبدأ الحكم الفرنسي في دمشق بعد ميسلون في تموز/يوليو 1920. وشهر النهاية (نيسان/أبريل 1946) هو شهر الجلاء عن سوريا (TDV: «ربيع 1946»)؛ وتؤرّخ دراسة الأمم المتحدة الاستقلال بـ 22 تشرين الثاني/نوفمبر 1943 (لبنان) و1 كانون الثاني/يناير 1944 (سوريا)، ولم تغادر القوات الفرنسية لبنان إلا في نهاية 1946.",
+            "he": "המנדטים חולקו בסן רמו באפריל 1920 (אישור חבר הלאומים ביולי 1922); השלטון הצרפתי בדמשק החל לאחר מייסלון ביולי 1920. חודש הסיום (אפריל 1946) הוא פינוי סוריה (TDV: 'אביב 1946'); מחקר האו״ם מתארך את העצמאות ל-22 בנובמבר 1943 (לבנון) ול-1 בינואר 1944 (סוריה), והכוחות הצרפתיים עזבו את לבנון רק בסוף 1946.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -12269,12 +12625,28 @@
           "ref": "shlaim-1990-apg",
           "locator": "p. 50",
           "quote": "The All-Palestine Government continued to exist in name only, issuing the occasional statement from its headquarters in Cairo, until President Nasir finally closed its offices in 1959."
+        },
+        {
+          "ref": "palquest-bio-husseini",
+          "locator": "section on 1948",
+          "quote": "In September 1948, the Arab Higher Committee in Gaza proclaimed the formation of the All-Palestine Government, headed by Ahmad Hilmi Abd al-Baqi, with the support of Egypt and the non-Hashemite Arab countries."
+        },
+        {
+          "ref": "palquest-bio-husseini",
+          "locator": "section on 1948",
+          "quote": "Haj Amin presided over the Palestine National Council, held in Gaza, which confirmed the legality of that government."
+        },
+        {
+          "ref": "tdv-gazze",
+          "locator": "para. 3",
+          "quote": "22 Eylül 1948’de Şam’da toplanan el-Lecnetü’l-Arabiyyetü’l-ulyâ li-Filistîn, Kudüs şehri merkez olmak üzere bir Filistin devletinin kurulduğunu ve Gazze’nin geçici merkez kabul edildiğini açıkladı.",
+          "note": "'On 22 September 1948 the Arab Higher Committee for Palestine, meeting in Damascus [sic; Shlaim and PalQuest place it in Gaza], announced the establishment of a Palestinian state with Jerusalem as its centre and Gaza as its provisional seat.'"
         }
       ],
       "notes": {
-        "en": "Government formed under Arab League auspices in Gaza in September 1948; a Palestinian National Council met in Gaza on 30 Sept 1948 and issued a declaration of independence claiming all of Mandate Palestine (Shlaim, p. 43). Recognised in mid-October 1948 by Egypt, Iraq, Syria, Lebanon and Saudi Arabia (Shlaim, p. 48); opposed by King Abdullah of Transjordan. By the end of October 1948 no members remained in Gaza and it operated from Cairo as a shell until 1959.",
-        "ar": "حكومة تشكلت برعاية جامعة الدول العربية في غزة في أيلول/سبتمبر 1948؛ وعقد مجلس وطني فلسطيني في غزة في 30 أيلول/سبتمبر 1948 وأصدر إعلان استقلال يطالب بكل فلسطين الانتدابية (شلايم، ص 43). اعترفت بها في منتصف تشرين الأول/أكتوبر 1948 مصر والعراق وسوريا ولبنان والسعودية (شلايم، ص 48)؛ وعارضها الملك عبد الله ملك شرق الأردن. وبحلول نهاية تشرين الأول/أكتوبر 1948 لم يبقَ أي من أعضائها في غزة وعملت من القاهرة هيكلًا شكليًا حتى 1959.",
-        "he": "ממשלה שהוקמה בחסות הליגה הערבית בעזה בספטמבר 1948; מועצה לאומית פלסטינית התכנסה בעזה ב-30 בספטמבר 1948 ופרסמה הכרזת עצמאות התובעת את כל פלשתינה המנדטורית (שליים, עמ' 43). הוכרה באמצע אוקטובר 1948 בידי מצרים, עיראק, סוריה, לבנון וערב הסעודית (שליים, עמ' 48); המלך עבדאללה מעבר הירדן התנגד לה. עד סוף אוקטובר 1948 לא נותר אף חבר בעזה והיא פעלה מקהיר כמעטפת ריקה עד 1959.",
+        "en": "Government formed under Arab League auspices in Gaza in September 1948; a Palestinian National Council met in Gaza on 30 Sept 1948 and issued a declaration of independence claiming all of Mandate Palestine (Shlaim, p. 43). Recognised in mid-October 1948 by Egypt, Iraq, Syria, Lebanon and Saudi Arabia (Shlaim, p. 48); opposed by King Abdullah of Transjordan. By the end of October 1948 no members remained in Gaza and it operated from Cairo as a shell until 1959. PalQuest (Walid Khalidi's biography of Hajj Amin al-Husseini) and TDV ('Gazze') confirm the proclamation of September 1948 (TDV: 22 September). The end (offices closed by Nasser in 1959) was not found in a second source opened in this pass.",
+        "ar": "تشكّلت الحكومة برعاية جامعة الدول العربية في غزة في أيلول/سبتمبر 1948؛ وعقد المجلس الوطني الفلسطيني اجتماعًا في غزة في 30 أيلول/سبتمبر 1948 وأصدر إعلان استقلال يشمل كامل فلسطين الانتدابية (شلايم، ص 43). اعترفت بها مصر والعراق وسوريا ولبنان والسعودية في منتصف تشرين الأول/أكتوبر 1948 (شلايم، ص 48)؛ وعارضها الملك عبد الله ملك شرق الأردن. وبحلول نهاية تشرين الأول/أكتوبر 1948 لم يبقَ أي من أعضائها في غزة، وظلّت تعمل من القاهرة كهيكل شكلي حتى 1959. ويؤكد PalQuest (سيرة الحاج أمين الحسيني بقلم وليد الخالدي) وTDV (‏'Gazze') إعلان أيلول/سبتمبر 1948 (TDV: 22 أيلول/سبتمبر). أما النهاية (إغلاق عبد الناصر مكاتبها في 1959) فلم يُعثر عليها في مصدر ثانٍ جرى الاطلاع عليه في هذه الجولة.",
+        "he": "הממשלה הוקמה בחסות הליגה הערבית בעזה בספטמבר 1948; המועצה הלאומית הפלסטינית התכנסה בעזה ב-30 בספטמבר 1948 והוציאה הכרזת עצמאות החלה על כל פלשתינה בתקופת המנדט (שליים, עמ' 43). היא הוכרה באמצע אוקטובר 1948 בידי מצרים, עיראק, סוריה, לבנון וסעודיה (שליים, עמ' 48); המלך עבדאללה מעבר הירדן התנגד לה. עד סוף אוקטובר 1948 לא נותר אף חבר שלה בעזה, והיא פעלה מקהיר כמעטפת ריקה עד 1959. PalQuest (ביוגרפיה של חאג' אמין אל-חוסייני מאת וליד ח'אלידי) ו-TDV ('Gazze') מאשרים את ההכרזה בספטמבר 1948 (TDV: 22 בספטמבר). הסיום (סגירת משרדיה בידי נאצר ב-1959) לא נמצא במקור שני שנבדק בסבב זה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -12405,6 +12777,26 @@
             {
               "ref": "unef1-background",
               "quote": "By agreement, that last Israeli element was to be withdrawn at 1600 hours GMT on 8 March and full withdrawal from the Sharm el Sheikh area would be effected at the same time."
+            },
+            {
+              "ref": "palquest-1956-war",
+              "locator": "main text",
+              "quote": "On 29 October, the Protocol of Sèvres was put into action: Israeli forces occupied the Sinai Peninsula up to the Suez Canal"
+            },
+            {
+              "ref": "palquest-1956-war",
+              "locator": "main text",
+              "quote": "international pressure eventually led to Israel’s withdrawal from the Sinai and the Gaza Strip in March 1957."
+            },
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section 'The Sinai Campaign of 1956 (Operation Kadesh)'",
+              "quote": "In a swift, sweeping operation of 100 hours, under the leadership of then Chief of the General Staff, Moshe Dayan, the entire Sinai peninsula fell into Israeli hands"
+            },
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section 'The Sinai Campaign of 1956 (Operation Kadesh)'",
+              "quote": "Although Israel had been compelled to withdraw from Sinai without any security guarantee, UNEF - the United Nations Emergency Force, was established"
             }
           ]
         }
@@ -12570,12 +12962,28 @@
               "ref": "icj-2024-opt-ao",
               "locator": "para. 88",
               "quote": "Following the 1967 armed conflict, Israel, as the occupying Power, placed the Gaza Strip under its effective control."
+            },
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section 'The Six-Day War (1967)'",
+              "quote": "The occupation of the West Bank and Gaza was at first considered by leaders of the PLO as ideal for armed resistance"
+            },
+            {
+              "ref": "israel-hcj-2008-al-bassiouni",
+              "locator": "para. 12",
+              "quote": "since September 2005 Israel no longer has effective control over what happens in the Gaza Strip. Military rule that applied in the past in this territory came to an end by a decision of the government",
+              "note": "Israeli Supreme Court (HCJ 9132/07, 30 January 2008). The ICJ (2024) takes the opposite view of Israel's obligations after 2005; both agree that the military government ended in September 2005."
+            },
+            {
+              "ref": "palquest-gaza-redeployment-2005",
+              "locator": "main text",
+              "quote": "The military withdrawal was completed by 21 September, with the Israeli troops maintaining tight external control of the Strip from land, sea, and air"
             }
           ],
           "notes": {
-            "en": "Israel's government did not apply the 'disputed territory' framing to Gaza in the sources consulted.",
-            "ar": "لم تطبق الحكومة الإسرائيلية على غزة إطار \"الأرض المتنازع عليها\" في المصادر التي رُجع إليها.",
-            "he": "ממשלת ישראל לא החילה על עזה את מסגרת \"השטח השנוי במחלוקת\" במקורות שנבדקו.",
+            "en": "Israel's government did not apply the 'disputed territory' framing to Gaza in the sources consulted. Israel's Supreme Court (HCJ 9132/07, 2008) holds that military rule in Gaza ended by government decision in September 2005 and that Israel no longer has effective control there; PalQuest gives 21 September 2005 for the completion of the military withdrawal (the evacuation also covered four settlements in the northern West Bank), against the 12 September used here.",
+            "ar": "لم تطبّق الحكومة الإسرائيلية إطار «الأرض المتنازع عليها» على غزة في المصادر التي جرت مراجعتها. وتقرّر المحكمة العليا الإسرائيلية (HCJ 9132/07، 2008) أن الحكم العسكري في غزة انتهى بقرار حكومي في أيلول/سبتمبر 2005 وأن إسرائيل لم تعد تملك سيطرة فعلية هناك؛ ويذكر PalQuest يوم 21 أيلول/سبتمبر 2005 لاكتمال الانسحاب العسكري (وشمل الإخلاء أيضًا أربع مستوطنات في شمال الضفة الغربية)، مقابل 12 أيلول/سبتمبر المعتمد هنا.",
+            "he": "ממשלת ישראל לא החילה את המסגרת של 'שטח במחלוקת' על עזה במקורות שנבדקו. בית המשפט העליון של ישראל (HCJ 9132/07, 2008) קובע שהממשל הצבאי בעזה הסתיים בהחלטת ממשלה בספטמבר 2005 ושלישראל אין עוד שליטה אפקטיבית שם; PalQuest מציין את 21 בספטמבר 2005 כמועד השלמת הנסיגה הצבאית (הפינוי כלל גם ארבעה יישובים בצפון הגדה המערבית), לעומת 12 בספטמבר שנעשה בו שימוש כאן.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -12738,6 +13146,16 @@
               "ref": "unsc-res-497-1981",
               "locator": "op. 3",
               "quote": "continue to apply to the Syrian territory occupied by Israel since June 1967"
+            },
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section 'The Six-Day War (1967)'",
+              "quote": "in the last days, without the benefit of surprise, captured a great part of the Golan Heights, including the dominant Mount Hermon"
+            },
+            {
+              "ref": "israel-mfa-golan-heights-law",
+              "locator": "text of the law (14 December 1981)",
+              "quote": "The Law, jurisdiction and administration of the state shall apply to the Golan Heights, as described in the Appendix."
             }
           ],
           "notes": {
@@ -12789,12 +13207,39 @@
         {
           "ref": "unifil-background",
           "quote": "On 25 May, the Government of Israel notified the Secretary-General that Israel had redeployed its forces"
+        },
+        {
+          "ref": "palquest-lebanon-war-1982",
+          "locator": "main text",
+          "quote": "On 6 June 1982, however, the Israeli government used the pretext of the attempted assassination in London of the Israeli ambassador by an anti-PLO Palestinian group to launch an invasion of Lebanon."
+        },
+        {
+          "ref": "palquest-lebanon-war-1982",
+          "locator": "introduction",
+          "quote": "led to an Israeli occupation of parts of Southern Lebanon that lasted until 2000."
+        },
+        {
+          "ref": "israel-mfa-arab-israeli-wars",
+          "locator": "section 'Operation Peace for Galilee (1982)'",
+          "quote": "Subsequently, however, the mission was enlarged and the capture of Beirut signalled the transition to a long drawn-out war."
+        },
+        {
+          "ref": "israel-mfa-arab-israeli-wars",
+          "locator": "section 'Operation Peace for Galilee (1982)'",
+          "quote": "A token force was left behind, to help the citizens of south Lebanon to patrol the Security Zone - a narrow strip of territory adjacent to Israel's border",
+          "note": "After the national unity government of 1984 decided to 'withdraw forthwith from Lebanon'. Israeli government narrative (Netanel Lorch), written while the zone still existed."
+        },
+        {
+          "ref": "un-s-2000-590",
+          "locator": "para. 1",
+          "quote": "I am, therefore, in a position to confirm that Israeli forces have withdrawn from Lebanon in compliance with resolution 425 (1978).",
+          "note": "UN Secretary-General, 16 June 2000; a separate UN document from the UNIFIL web page, but from the same organisation."
         }
       ],
       "notes": {
-        "en": "Positions: 'Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions' (UNIFIL background). The Wikidata labels themselves differ in framing (English 'Israeli occupation of Southern Lebanon'; Hebrew 'רצועת הביטחון', 'the security zone'). An earlier Israeli incursion (March 1978) led to UNSC res. 425 and UNIFIL. The UN confirmed the withdrawal to the Blue Line on 16 June 2000.",
-        "ar": "المواقف: \"Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions\" (خلفية UNIFIL). وتختلف تسميات ويكيداتا نفسها في التأطير (بالإنجليزية \"Israeli occupation of Southern Lebanon\"؛ وبالعبرية \"רצועת הביטחון\"، \"the security zone\"). وأدى توغل إسرائيلي أسبق (آذار/مارس 1978) إلى قرار مجلس الأمن 425 وقوة اليونيفيل. وأكدت الأمم المتحدة الانسحاب إلى الخط الأزرق في 16 حزيران/يونيو 2000.",
-        "he": "עמדות: \"Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions\" (רקע UNIFIL). תוויות Wikidata עצמן נבדלות בהצגה (באנגלית \"Israeli occupation of Southern Lebanon\"; בעברית \"רצועת הביטחון\", \"the security zone\"). חדירה ישראלית מוקדמת יותר (מרץ 1978) הובילה להחלטת מועצת הביטחון 425 ולכוח יוניפי״ל. האו״ם אישר את הנסיגה אל הקו הכחול ב-16 ביוני 2000.",
+        "en": "Positions: 'Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions' (UNIFIL background). The Wikidata labels themselves differ in framing (English 'Israeli occupation of Southern Lebanon'; Hebrew 'רצועת הביטחון', 'the security zone'). An earlier Israeli incursion (March 1978) led to UNSC res. 425 and UNIFIL. The UN confirmed the withdrawal to the Blue Line on 16 June 2000. Further sources: PalQuest (invasion of 6 June 1982; occupation of parts of southern Lebanon 'that lasted until 2000') and the Israeli MFA's history by Netanel Lorch (capture of Beirut; token force left in the 'Security Zone' after the 1984 government's decision to withdraw). The day of the withdrawal (25 May 2000) is from the UNIFIL page; the UN Secretary-General confirmed the withdrawal as of 16 June 2000 (S/2000/590).",
+        "ar": "المواقف: «Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions» [أكدت إسرائيل أن المنطقة ترتيب مؤقت تحكمه هواجسها الأمنية. وطالب لبنان بانسحاب إسرائيل، معتبرًا الاحتلال غير قانوني ومخالفًا لقرارات الأمم المتحدة] (خلفية اليونيفيل UNIFIL). وتختلف تسميات ويكيداتا نفسها في الإطار: الإنكليزية «Israeli occupation of Southern Lebanon»، والعبرية «רצועת הביטחון» («الشريط الأمني»). وأدّى توغل إسرائيلي سابق (آذار/مارس 1978) إلى قرار مجلس الأمن 425 وإنشاء اليونيفيل. وأكدت الأمم المتحدة الانسحاب إلى الخط الأزرق في 16 حزيران/يونيو 2000. ومن المصادر الأخرى: PalQuest (الغزو في 6 حزيران/يونيو 1982؛ واحتلال أجزاء من جنوب لبنان «that lasted until 2000» [استمر حتى عام 2000]) وتاريخ وزارة الخارجية الإسرائيلية بقلم نتنئيل لورخ (احتلال بيروت؛ وبقاء قوة رمزية في «Security Zone» بعد قرار حكومة 1984 بالانسحاب). ويوم الانسحاب (25 أيار/مايو 2000) مأخوذ من صفحة اليونيفيل؛ وأكد الأمين العام للأمم المتحدة الانسحاب اعتبارًا من 16 حزيران/يونيو 2000 (S/2000/590).",
+        "he": "עמדות: 'Israel maintained that the zone was a temporary arrangement governed by its security concerns. Lebanon demanded that Israel withdraw, viewing the occupation as illegal and contrary to United Nations resolutions' [ישראל טענה שהאזור הוא הסדר זמני המונחה בשיקולי הביטחון שלה. לבנון דרשה שישראל תיסוג, מתוך ראייה של הכיבוש כבלתי חוקי ומנוגד להחלטות האו״ם] (רקע של UNIFIL). גם תוויות ויקינתונים עצמן נבדלות במסגור: באנגלית 'Israeli occupation of Southern Lebanon'; בעברית 'רצועת הביטחון' (the security zone). חדירה ישראלית קודמת (מרץ 1978) הובילה להחלטת מועצת הביטחון 425 ולהקמת UNIFIL. האו״ם אישר את הנסיגה אל הקו הכחול ב-16 ביוני 2000. מקורות נוספים: PalQuest (הפלישה ב-6 ביוני 1982; כיבוש חלקים מדרום לבנון 'that lasted until 2000' [שנמשך עד 2000]) ותולדות משרד החוץ הישראלי מאת נתנאל לורך (כיבוש ביירות; כוח סמלי נותר ב-'Security Zone' לאחר החלטת ממשלת 1984 לסגת). יום הנסיגה (25 במאי 2000) לקוח מדף UNIFIL; מזכ״ל האו״ם אישר את הנסיגה נכון ל-16 ביוני 2000 (S/2000/590).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -12820,6 +13265,28 @@
             {
               "ref": "unifil-background",
               "quote": "the Secretary-General continued his efforts to persuade Israel to leave the occupied zone"
+            },
+            {
+              "ref": "palquest-lebanon-war-1982",
+              "locator": "main text",
+              "quote": "On 6 June 1982, however, the Israeli government used the pretext of the attempted assassination in London of the Israeli ambassador by an anti-PLO Palestinian group to launch an invasion of Lebanon."
+            },
+            {
+              "ref": "palquest-lebanon-war-1982",
+              "locator": "introduction",
+              "quote": "led to an Israeli occupation of parts of Southern Lebanon that lasted until 2000."
+            },
+            {
+              "ref": "israel-mfa-arab-israeli-wars",
+              "locator": "section 'Operation Peace for Galilee (1982)'",
+              "quote": "A token force was left behind, to help the citizens of south Lebanon to patrol the Security Zone - a narrow strip of territory adjacent to Israel's border",
+              "note": "After the national unity government of 1984 decided to 'withdraw forthwith from Lebanon'. Israeli government narrative (Netanel Lorch), written while the zone still existed."
+            },
+            {
+              "ref": "un-s-2000-590",
+              "locator": "para. 1",
+              "quote": "I am, therefore, in a position to confirm that Israeli forces have withdrawn from Lebanon in compliance with resolution 425 (1978).",
+              "note": "UN Secretary-General, 16 June 2000; a separate UN document from the UNIFIL web page, but from the same organisation."
             }
           ]
         }
