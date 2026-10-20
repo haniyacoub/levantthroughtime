@@ -231,6 +231,9 @@ export function validateData(dir: string): Result {
   };
 
   /** Confidence rules: anything other than "unknown" needs a source; "contested" needs two positions. */
+  // An official count (a census, a statistical table, a UN agency's register) is documented by its publisher alone.
+  const officialCount = (refs: SourceRef[]) =>
+    refs.length > 0 && refs.every((r) => ['government', 'un'].includes(sourceIds.get(r.ref)?.kind ?? ''));
   const checkConfidence = (file: string, where: string, confidence: string, refs: SourceRef[], opts: { singleOk?: boolean } = {}) => {
     if (confidence !== 'unknown' && refs.length === 0) err(file, where, `Confidence is "${confidence}" but no source is given (only "unknown" may have no source)`);
     if (confidence === 'contested' && new Set(refs.map((r) => r.ref)).size < 2) {
@@ -382,7 +385,7 @@ export function validateData(dir: string): Result {
     const where = `id "${p.id}"`;
     if (!areaIds.has(p.area)) err('population.json', where, `Area "${p.area}" is not defined in areas.json`);
     checkRefs('population.json', where, p.sources);
-    checkConfidence('population.json', where, p.confidence, p.sources);
+    checkConfidence('population.json', where, p.confidence, p.sources, { singleOk: officialCount(p.sources) });
     checkDates('population.json', where, p.date);
     const groupCountsOnly = p.total === null && (p.composition ?? []).some((c) => c.groups.some((g) => g.count));
     if (p.total === null && p.confidence !== 'unknown' && !groupCountsOnly) {
@@ -487,7 +490,7 @@ export function validateData(dir: string): Result {
   }
   for (const d of b.migrations?.diaspora ?? []) {
     checkRefs('migrations.json', `diaspora "${d.id}"`, d.sources);
-    checkConfidence('migrations.json', `diaspora "${d.id}"`, d.confidence, d.sources);
+    checkConfidence('migrations.json', `diaspora "${d.id}"`, d.confidence, d.sources, { singleOk: officialCount(d.sources) });
   }
   for (const l of b.languages?.languages ?? []) {
     checkRefs('languages.json', `id "${l.id}"`, l.sources);

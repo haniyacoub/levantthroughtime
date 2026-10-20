@@ -633,6 +633,7 @@ def apply_m8(name):
     add_sources(fresh)
     cache = {}
     def open_file(f):
+        f = f.split('/')[-1] if f.startswith(('territories/', 'culture-zones/')) else f
         if f not in cache:
             if f.endswith('.geojson'):
                 for sub in ('territories', 'culture-zones'):
@@ -646,12 +647,23 @@ def apply_m8(name):
         doc = open_file(f)
         if f.endswith('.geojson'):
             return next((x['properties'] for x in doc['features'] if x['properties'].get('id') == rid), None)
-        coll = next(v for k, v in doc.items() if isinstance(v, list))
-        return next((x for x in coll if x.get('id') == rid), None)
+        for k, coll in doc.items():
+            if isinstance(coll, list):
+                hit = next((x for x in coll if isinstance(x, dict) and x.get('id') == rid), None)
+                if hit is not None: return hit
+        return None
     added = changed = missing = 0
     log = []
     for pt in d['patches']:
         rec = find(pt['file'], pt['id'])
+        if rec is not None and pt.get('subpath'):
+            # e.g. "relations[8]", "periods[2]", "destroyed[0]", "holy_site.traditions.jewish"
+            for tok in re.findall(r'[^.\[\]]+|\[\d+\]', pt['subpath']):
+                if rec is None: break
+                if tok.startswith('['):
+                    i = int(tok[1:-1]); rec = rec[i] if isinstance(rec, list) and i < len(rec) else None
+                else:
+                    rec = rec.get(tok) if isinstance(rec, dict) else None
         if rec is not None and pt.get('relation') is not None:
             rels = rec.get('relations') or []
             rec = rels[pt['relation']] if 0 <= pt['relation'] < len(rels) else None
@@ -789,6 +801,10 @@ def import_m8h1(): import_m8h('h1')
 def import_m8h2(): import_m8h('h2')
 def import_m8h3(): import_m8h('h3')
 def import_m8h4(): import_m8h('h4')
+def import_m8i1(): import_m8h('i1')
+def import_m8i2(): import_m8h('i2')
+def import_m8i3(): import_m8h('i3')
+def import_m8i3ls(): import_m8h('i3ls')
 
 def import_m8e(): apply_m8('e')
 def import_m8f(): apply_m8('f')

@@ -561,3 +561,7 @@ Gaps:
 - The day of the 1101 battle of Ramla is not verified.
 - The end date of Operation Defensive Shield still rests on Wikidata.
 - The second source for resolution 43/177 is the UN's own text.
+
+### Validator: official counts
+
+A population figure or refugee count whose sources are all official publications counts as documented on its own. That covers a census, a government statistical table, or UNRWA's register of refugees in its annual report. The figure is the publisher's own count, so a second source would only repeat it. This removes 31 warnings, mostly CBS, PCBS and Mandate census tables and UNRWA's 1951 and 2021 figures. Bachi's adjusted census figures (excluding the armed forces) are not official counts and are still flagged.
