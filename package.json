@@ -21,7 +21,8 @@
     "test:e2e": "playwright test tests/e2e/smoke.spec.ts",
     "screenshots": "playwright test tests/e2e/screenshots.spec.ts",
     "review": "tsx scripts/review.ts",
-    "build-landscape": "tsx scripts/build-landscape.ts"
+    "build-landscape": "tsx scripts/build-landscape.ts",
+    "deploy": "npm run build && npx --yes wrangler@4 deploy"
   },
   "dependencies": {
     "@deck.gl/core": "9.4.0",

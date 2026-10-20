@@ -8,3 +8,8 @@ playwright-report/
 data/raw/downloads/
 *.local
 public/fonts/
+
+# Cloudflare wrangler working files and local secrets
+.wrangler
+.dev.vars*
+.env*

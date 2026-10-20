@@ -103,77 +103,34 @@ npm run test:e2e           # opens the built site in a headless browser and clic
 npm run screenshots        # saves screenshots of key views to docs/screenshots/
 ```
 
-## 9. Publish the site (GitHub + Cloudflare Pages)
+## 9. Publish the site
 
-The site is a set of static files, hosted free on Cloudflare Pages, with the code kept on GitHub. Nothing is published until you press the button in step 8, and every later update is published the same way.
+The site is live at **<https://levantthroughtime.com>**. The same site answers at `www.levantthroughtime.com` and `levantthroughtime.hani-yacoub.workers.dev`. It is hosted on Cloudflare as static files; the hosting settings are in `wrangler.jsonc`, and the response headers are in `public/_headers`. The code is on GitHub at <https://github.com/haniyacoub/levantthroughtime>.
 
-### One-time setup
+Pushing to GitHub runs the checks (`.github/workflows/ci.yml`) but never changes the live site. To publish an update, use either of these:
 
-1. **GitHub account.** Sign up at <https://github.com>. Then open **Settings → Emails**, tick **Keep my email addresses private**, and copy the private address it shows (it looks like `12345678+yourname@users.noreply.github.com`).
+### A. From this computer
 
-2. **Keep your personal email out of the public history (do this before the first push).** Every saved version (commit) of this project records an author email, and a public repository shows it. In this folder run, with your private address from step 1:
+```bash
+npm run deploy
+```
 
-   ```bash
-   git config user.email "12345678+yourname@users.noreply.github.com"
-   git filter-branch -f --env-filter 'export GIT_AUTHOR_EMAIL="$(git config user.email)"; export GIT_COMMITTER_EMAIL="$(git config user.email)"' -- --all
-   ```
+This builds the site and uploads it. The first time on a computer, `npx wrangler@4 login` opens Cloudflare in the browser; press **Allow**.
 
-   This rewrites only the local history, keeping every date and message. Do it only before anything has been pushed.
+### B. With the button on GitHub
 
-3. **Create an empty repository** at <https://github.com/new>. Make it public, so readers can file corrections, and leave "Add a README" and "Add .gitignore" unticked. Then, in this folder:
+Open **Actions → Deploy to Cloudflare → Run workflow**. The workflow checks the data, runs the tests, builds the site and uploads it. Untick **Publish to levantthroughtime.com** to upload a preview version with its own address instead.
 
-   ```bash
-   git remote add origin https://github.com/<your-user>/<repo-name>.git
-   git push -u origin main
-   ```
+The button needs one more thing, set up once: a Cloudflare API token. (The Account ID is already stored in GitHub.)
+1. In Cloudflare, open **My Profile → API Tokens → Create Token**, and use the template **Edit Cloudflare Workers** → **Use template**.
+2. Under **Account Resources** choose your account, and under **Zone Resources** choose `levantthroughtime.com`. Then **Continue to summary → Create Token**, and copy the token. It is shown only once.
+3. In the VS Code terminal run `gh secret set CLOUDFLARE_API_TOKEN -R haniyacoub/levantthroughtime` and paste the token when asked. Alternatively, on GitHub open **Settings → Secrets and variables → Actions → New repository secret**.
 
-   Every push runs the checks in `.github/workflows/ci.yml` (validate the data, run the tests, build). A push never publishes anything.
+### Optional
 
-4. **Cloudflare account.** Sign up at <https://dash.cloudflare.com/sign-up> (the free plan is enough).
-
-5. **Account ID.** In the Cloudflare dashboard open **Workers & Pages**. The **Account ID** is shown on the right; copy it.
-
-6. **API token.** In Cloudflare open **My Profile → API Tokens → Create Token → Create Custom Token**. Give it a name (for example "Publish history map"). Under **Permissions** choose **Account → Cloudflare Pages → Edit**, and under **Account Resources** choose your account. Then **Continue to summary → Create Token**, and copy the token. It is shown only once.
-
-7. **Give GitHub the two values.** In your GitHub repository open **Settings → Secrets and variables → Actions → New repository secret**, and add:
-   - `CLOUDFLARE_API_TOKEN`, with the token from step 6;
-   - `CLOUDFLARE_ACCOUNT_ID`, with the Account ID from step 5.
-
-### Publishing (first time and every update)
-
-8. In the GitHub repository open **Actions → Deploy to Cloudflare Pages → Run workflow**.
-   - **Project name**: keep the default, `levantthroughtime`. The site first appears at `https://levantthroughtime.pages.dev`, and at `https://levantthroughtime.com` once step 9 is done. Use the same name every time.
-   - Untick **Publish to the main address** to get a separate preview address first.
-
-   Press **Run workflow**. In about five minutes the workflow has checked the data, built the site and uploaded it. The address is printed at the end of the workflow log.
-
-9. **Connect levantthroughtime.com (once).**
-   - **If you bought the domain at Cloudflare:** open **Workers & Pages → levantthroughtime → Custom domains → Set up a custom domain**, type `levantthroughtime.com`, and press **Activate domain**. Cloudflare adds the DNS record itself. Repeat with `www.levantthroughtime.com`.
-   - **If you bought it elsewhere (GoDaddy, Namecheap and so on):**
-     1. In Cloudflare open **Add a domain**, type `levantthroughtime.com` and choose the **Free** plan. Cloudflare shows two nameservers (names like `ada.ns.cloudflare.com`).
-     2. In your registrar's control panel, replace the domain's nameservers with those two.
-     3. Wait until Cloudflare emails that the domain is active. This usually takes minutes, sometimes up to a day.
-     4. Then do the steps for a domain bought at Cloudflare, above.
-   - **Send www to the main address:** in Cloudflare open the domain → **Rules → Redirect Rules → Create rule → template "Redirect from WWW to root"**, and deploy it.
-   - **Secure connection:** Cloudflare sets up the HTTPS certificate itself, which takes a few minutes the first time.
-
-10. **The "Suggest a correction" links** open a pre-filled issue in the GitHub repository; they are set in `data/config.json`:
-   `"corrections_url": "https://github.com/haniyacoub/levantthroughtime/issues/new"`
-
-11. **Optional: keep search engines away while the content awaits review.** See the note at the top of `public/_headers`.
-
-### Alternative: let Cloudflare publish on every push
-
-Instead of steps 5–8 you can connect the repository in Cloudflare: **Workers & Pages → Create → Pages → Connect to Git**, choose the repository, and set:
-- Framework preset: **None**
-- Build command: `npm run build-basemap -- --tiles-only && npm run build`
-- Build output directory: `dist`
-
-The Node version is read from `.node-version`. With this set-up, every push to `main` publishes immediately, so the manual button is the safer default.
-
-### Before announcing the site
-
-The plan recommends review by at least three historians (Israeli, Palestinian and an outside academic) and by fluent Arabic and Hebrew readers. `data/REVIEW.md` is their checklist. The site already tells readers that the Arabic and Hebrew texts are machine drafts.
+- **"Suggest a correction"**: these links open a pre-filled issue in the GitHub repository (`corrections_url` in `data/config.json`).
+- **Search engines**: to keep them away while the content awaits review, see the note at the top of `public/_headers`.
+- **Before announcing the site**: the plan recommends review by at least three historians (Israeli, Palestinian and an outside academic) and by fluent Arabic and Hebrew readers. `data/REVIEW.md` is their checklist. The site already tells readers that the Arabic and Hebrew texts are machine drafts.
 
 ## 10. What's where
 

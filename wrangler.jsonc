@@ -1,0 +1,18 @@
+// Cloudflare hosting for the static site (Workers static assets, the successor of Cloudflare Pages).
+// "npx wrangler@4 deploy" uploads the built site in ./dist; run "npm run build" first.
+{
+  "name": "levantthroughtime",
+  "compatibility_date": "2026-10-19",
+  "assets": {
+    "directory": "./dist",
+    // A missing file returns "404 Not Found" instead of the home page, so a missing map tile
+    // or data file fails visibly rather than silently.
+    "not_found_handling": "none"
+  },
+  // Cloudflare creates the DNS records and HTTPS certificates for these itself.
+  "routes": [
+    { "pattern": "levantthroughtime.com", "custom_domain": true },
+    { "pattern": "www.levantthroughtime.com", "custom_domain": true }
+  ],
+  "workers_dev": true
+}
