@@ -32,29 +32,64 @@ const KIND_FILL: Record<People['kind'], string> = {
   community: '#c9c0b0',
 };
 
-/** Colours for religions and language families that have no group colour of their own (colour-blind-safe, no flag colours). */
-const EXTRA = ['#c8b273', '#9ab0c9', '#c9a3b6', '#a8c39a', '#d6b48a', '#b9a8c9', '#8fc1b5', '#cdbb94', '#b3b3b3', '#d0a7a0'];
-const hashColour = (key: string) => {
-  let h = 0;
-  for (const c of key) h = (h * 31 + c.charCodeAt(0)) | 0;
-  return EXTRA[Math.abs(h) % EXTRA.length]!;
+/** Broad language branches for colouring, in legend order (colour-blind-safe, no flag colours). */
+const BRANCHES = ['canaanite', 'aramaic', 'arabic', 'semitic-other', 'indo-european', 'other'] as const;
+type Branch = (typeof BRANCHES)[number];
+const BRANCH_FILL: Record<Branch, string> = {
+  canaanite: '#c8b273',
+  aramaic: '#5fa39a',
+  arabic: '#7f9fcf',
+  'semitic-other': '#d9a86c',
+  'indo-european': '#c48fb0',
+  other: '#a9a9a9',
 };
-/** The broad family of a language ("Semitic (Northwest, Canaanite)" → "Semitic: Canaanite"). */
-const familyKey = (fam: string | undefined) => {
-  if (!fam) return '?';
-  const m = /^([^(]+)\(([^)]*)\)/.exec(fam);
-  if (!m) return fam.trim();
-  const inner = m[2]!.split(',').map((x) => x.trim());
-  return `${m[1]!.trim()}${inner.length ? `: ${inner[inner.length - 1]}` : ''}`;
-};
+/** Religions without a population group of their own (the ancient religions, and others) share one colour. */
+const OTHER_RELIGION_FILL = '#d8c79a';
+const NOT_RECORDED_FILL = '#e4e0d8';
+
+/**
+ * The branch of a language: follow its sourced descent (lineage) to the oldest language in the data, then
+ * fall back on its family name. Hebrew, Phoenician, Moabite… lead to Canaanite; Syriac and Nabataean to Aramaic.
+ */
+function branchOf(id: string, langs: Map<string, LanguageRecord>): Branch {
+  let cur = langs.get(id);
+  for (let i = 0; cur?.lineage?.descends_from.length && i < 8; i++) cur = langs.get(cur.lineage.descends_from[0]!) ?? cur;
+  const root = cur?.id ?? id;
+  const fam = (langs.get(id)?.family ?? '').toLowerCase();
+  if (root === 'canaanite-bronze-age' || /canaanite/.test(fam)) return 'canaanite';
+  if (root === 'aramaic' || /aramaic/.test(fam)) return 'aramaic';
+  if (root === 'arabic' || root === 'ancient-north-arabian' || /arabic|north arabian/.test(fam)) return 'arabic';
+  if (/semitic/.test(fam)) return 'semitic-other';
+  if (/indo-european/.test(fam)) return 'indo-european';
+  return 'other';
+}
 
 type ColourBy = 'kind' | 'religion' | 'language';
 interface Segment {
   t0: number;
   t1: number;
   colour: string;
+  /** Legend entry (category) and the specific label shown on hover. */
   key: string;
   label: string;
+  detail: string;
+  /** Parallel stripe when several religions or languages overlap in time. */
+  lane: number;
+  lanes: number;
+}
+
+/** Give overlapping pieces their own stripe, so that two languages spoken at once are both visible. */
+function stack(items: Omit<Segment, 'lane' | 'lanes'>[]): Segment[] {
+  const sorted = [...items].sort((a, b) => a.t0 - b.t0);
+  const ends: number[] = [];
+  const out = sorted.map((it) => {
+    let lane = ends.findIndex((e) => e <= it.t0);
+    if (lane < 0) lane = ends.length;
+    ends[lane] = it.t1;
+    return { ...it, lane, lanes: 1 };
+  });
+  const n = Math.max(1, ends.length);
+  return out.map((o) => ({ ...o, lanes: n }));
 }
 
 function useWidth(ref: React.RefObject<HTMLElement | null>, remount: unknown): number {
@@ -181,36 +216,49 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [scale, data, t0, asOfT, lang, rtl, W]);
 
-  // The coloured pieces of each bar: by kind of people, by religion, or by language family, over the periods the sources give.
+  // The coloured pieces of each bar: by kind of people, by religion, or by language branch, over the periods the sources give.
+  const groupLabel = (id: string) => loc(data.groups.find((g) => g.axis === 'religion' && g.id === id)?.name, lang) || id;
   const segmentsOf = (p: People): Segment[] => {
     const a = startT(p.attested.start);
     const b = p.attested.end ? endT(p.attested.end) : asOfT;
-    if (colourBy === 'kind') return [{ t0: a, t1: b, colour: KIND_FILL[p.kind], key: p.kind, label: tr(`peoples.kind.${p.kind}`) }];
+    if (colourBy === 'kind') {
+      const label = tr(`peoples.kind.${p.kind}`);
+      return [{ t0: a, t1: b, colour: KIND_FILL[p.kind], key: p.kind, label, detail: label, lane: 0, lanes: 1 }];
+    }
     const items =
       colourBy === 'religion'
-        ? (p.religions ?? []).map((r) => {
-            const label = loc(r.label, lang);
-            const key = r.group ? `religion:${r.group}` : `r:${r.label.en}`;
-            return { start: r.start, end: r.end, key, label, colour: (r.group && data.groupColors[`religion:${r.group}`]) || hashColour(key) };
-          })
+        ? (p.religions ?? []).map((r) => ({
+            start: r.start,
+            end: r.end,
+            key: r.group ? `religion:${r.group}` : 'religion:other',
+            label: r.group ? groupLabel(r.group) : tr('peoples.otherReligion'),
+            detail: loc(r.label, lang),
+            colour: (r.group && data.groupColors[`religion:${r.group}`]) || OTHER_RELIGION_FILL,
+          }))
         : (p.languages ?? []).map((l) => {
-            const rec = langById.get(l.language);
-            const fam = familyKey(rec?.family);
-            return { start: l.start, end: l.end, key: `f:${fam}`, label: fam, colour: hashColour(`f:${fam}`) };
+            const br = branchOf(l.language, langById);
+            return { start: l.start, end: l.end, key: `branch:${br}`, label: tr(`peoples.branch.${br}`), detail: loc(langById.get(l.language)?.name, lang), colour: BRANCH_FILL[br] };
           });
-    if (!items.length) return [{ t0: a, t1: b, colour: '#e4e0d8', key: 'none', label: tr('peoples.notRecorded') }];
-    return items.map((it) => ({
-      t0: Math.max(a, it.start ? startT(it.start) : a),
-      t1: Math.min(b, it.end ? endT(it.end) : b),
-      colour: it.colour,
-      key: it.key,
-      label: it.label,
-    }));
+    return stack(
+      items
+        .map((it) => ({
+          t0: Math.max(a, it.start ? startT(it.start) : a),
+          t1: Math.min(b, it.end ? endT(it.end) : b),
+          colour: it.colour,
+          key: it.key,
+          label: it.label,
+          detail: it.detail,
+        }))
+        .filter((it) => it.t1 > it.t0),
+    );
   };
   const legend = (() => {
+    if (colourBy === 'kind') return (Object.keys(KIND_FILL) as People['kind'][]).map((k) => ({ colour: KIND_FILL[k], label: tr(`peoples.kind.${k}`) }));
     const seen = new Map<string, { colour: string; label: string }>();
     for (const p of rows) for (const s of segmentsOf(p)) if (!seen.has(s.key)) seen.set(s.key, { colour: s.colour, label: s.label });
-    return [...seen.values()];
+    const order = colourBy === 'language' ? BRANCHES.map((b) => `branch:${b}`) : ['jews', 'samaritans', 'christians', 'muslims', 'druze', 'bahais', 'other'].map((g) => `religion:${g}`);
+    const out = [...seen.entries()].sort(([a], [b]) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99)).map(([, v]) => v);
+    return [...out, { colour: NOT_RECORDED_FILL, label: tr('peoples.notRecorded') }];
   })();
 
   const sel = selected ? byId.get(selected) : undefined;
@@ -365,12 +413,23 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                       opacity={dim ? 0.2 : 1}
                     >
                       <rect x={0} y={y - OFF - ROW / 2} width={W} height={ROW} fill={on ? '#f1ebdd' : hover === p.id ? '#f7f2e7' : 'transparent'} />
+                      {colourBy !== 'kind' && (
+                        <rect
+                          x={Math.min(xOf(startT(p.attested.start)), xOf(p.attested.end ? endT(p.attested.end) : asOfT))}
+                          y={y - BAND / 2}
+                          width={Math.max(3, Math.abs(xOf(p.attested.end ? endT(p.attested.end) : asOfT) - xOf(startT(p.attested.start))))}
+                          height={BAND}
+                          rx="3"
+                          fill={NOT_RECORDED_FILL}
+                        />
+                      )}
                       {segmentsOf(p).map((s, i) => {
                         const xa = xOf(s.t0);
                         const xb = xOf(s.t1);
+                        const h = BAND / s.lanes;
                         return (
-                          <rect key={i} x={Math.min(xa, xb)} y={y - BAND / 2} width={Math.max(3, Math.abs(xb - xa))} height={BAND} rx="3" fill={s.colour}>
-                            <title>{`${loc(p.name, lang)} · ${s.label}`}</title>
+                          <rect key={i} x={Math.min(xa, xb)} y={y - BAND / 2 + s.lane * h} width={Math.max(3, Math.abs(xb - xa))} height={h} rx={s.lanes > 1 ? 1 : 3} fill={s.colour}>
+                            <title>{`${loc(p.name, lang)} · ${s.detail}`}</title>
                           </rect>
                         );
                       })}
@@ -525,15 +584,17 @@ function PeopleDetail({
   // Language descent: what each language came from and what continues it.
   const children = (id: string) => data.languages.filter((l) => l.lineage?.descends_from.includes(id));
   const langName = (id: string) => loc(langById.get(id)?.name, lang) || id;
+  // A language counts as in use today when it has a modern period (from 1800) with no end: the data records current use that way,
+  // while an ancient period without an end only means the sources read do not say when it ended.
+  const inUseToday = (id: string) => (langById.get(id)?.periods ?? []).some((pr) => !pr.end && startT(pr.start) >= 1800);
+  const ownLanguages = new Set((p.languages ?? []).map((l) => l.language));
+  /** Chains of descent from a language to the languages in use today that continue it (not the people's own). */
   const modernLine = (id: string): string[] => {
     const out: string[] = [];
     const walk = (cur: string, chain: string[], depth: number) => {
-      const kids = children(cur);
-      if (!kids.length || depth > 5) {
-        if (chain.length > 1) out.push(chain.map(langName).join(' → '));
-        return;
-      }
-      for (const k of kids) walk(k.id, [...chain, k.id], depth + 1);
+      if (chain.length > 1 && inUseToday(cur) && !ownLanguages.has(cur)) out.push(chain.map(langName).join(' → '));
+      if (depth > 6) return;
+      for (const k of children(cur)) if (!chain.includes(k.id)) walk(k.id, [...chain, k.id], depth + 1);
     };
     walk(id, [id], 0);
     return out;
@@ -616,6 +677,11 @@ function PeopleDetail({
                 {loc(r.label, lang)}
                 {r.start ? ` · ${formatDate(r.start, lang)}${r.end ? ` – ${formatDate(r.end, lang)}` : ''}` : ''} <Badge confidence={r.confidence} />{' '}
                 <SourceButton refs={r.sources} title={`${title} — ${loc(r.label, lang)}`} compact />
+                {r.note && (
+                  <p className="fine">
+                    <LocText text={r.note} lang={lang} />
+                  </p>
+                )}
               </li>
             ))}
           </ul>
@@ -635,7 +701,12 @@ function PeopleDetail({
                   <SourceButton refs={l.sources} title={`${title} — ${langName(l.language)}`} compact />
                   {rec?.lineage && (
                     <p className="fine">
-                      {tr('peoples.langFrom')}: {rec.lineage.descends_from.map(langName).join(', ')}{' '}
+                      {rec.lineage.descends_from.length > 0 && (
+                        <>
+                          {tr('peoples.langFrom')}: {rec.lineage.descends_from.map(langName).join(', ')}.{' '}
+                        </>
+                      )}
+                      {rec.lineage.note && <LocText text={rec.lineage.note} lang={lang} />}{' '}
                       <SourceButton refs={rec.lineage.sources} title={`${langName(l.language)} — ${tr('peoples.langFrom')}`} compact />
                     </p>
                   )}

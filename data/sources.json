@@ -565,6 +565,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "alhakam-2023-pioneer-missionaries-15",
+      "type": "web",
+      "authors": [
+        "Al Hakam"
+      ],
+      "title": "Pioneer missionaries: Part 15 - Some early milestones of the Ahmadiyya Muslim Community in the Holy Land",
+      "container": "Al Hakam (weekly of the Ahmadiyya Muslim Jamaat)",
+      "publisher": "Al Hakam",
+      "year": 2023,
+      "url": "https://www.alhakam.org/pioneer-missionaries-part-15/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (22 December 2023), the community's own account based on the official history Tarikh-e-Ahmadiyyat."
+      },
+      "kind": "religious-institution",
+      "institution_country": "GB"
+    },
+    {
       "id": "alhaq-2011-gisha-rejoinder",
       "type": "report",
       "authors": [
@@ -974,6 +994,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "almonitor-2013-aramaic-maronites-israel",
+      "type": "web",
+      "authors": [
+        "Hugi, Jacky"
+      ],
+      "title": "Aramaic Language Project in Israel Furthers Recognition of Maronites",
+      "container": "Al-Monitor",
+      "publisher": "Al-Monitor",
+      "year": 2013,
+      "url": "https://www.al-monitor.com/originals/2013/03/an-aramaic-community-seeks-recognition-in-israel.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the opening paragraphs shown before the paywall (15 March 2013); the rest was not seen. Author is an Israeli journalist."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "almonitor-2022-kurdish-families-gaza",
+      "type": "web",
+      "authors": [
+        "Al Gherbawi, Hadeel"
+      ],
+      "title": "Kurdish Gazan families interwoven in Palestine's national fabric",
+      "container": "Al-Monitor",
+      "publisher": "Al-Monitor",
+      "year": 2022,
+      "url": "https://www.al-monitor.com/originals/2022/01/kurdish-gazan-families-interwoven-palestines-national-fabric",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the opening paragraphs shown before the paywall (2 January 2022); the rest of the article was not seen. Author is a Gaza-based journalist."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "alsalameen-2018-umm-al-jimal",
       "type": "article",
       "authors": [
@@ -1119,7 +1179,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: p. 8 (PDF p. 10) on Jerusalem and the province of Damascus."
+        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: p. 8 (PDF p. 10) on Jerusalem and the province of Damascus. | Re-read in Milestone 8: Re-read the working paper's section on Gaza and its region (p. 9 of the paper) on Turcoman and Kurdish nomads under the Mamluks."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -1164,6 +1224,52 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "ancel-2018-ethiopian-orthodox-community",
+      "type": "chapter",
+      "authors": [
+        "Ancel, Stéphane"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "The Ethiopian Orthodox Community in Jerusalem: New Archives and Perspectives on Daily Life and Social Networks, 1840-1940",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "50-74",
+      "doi": "10.1163/9789004375741_006",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 3, opening pages (pp. 50-51)."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
+      "id": "ancel-openjerusalem-ethiopian-archives",
+      "type": "web",
+      "authors": [
+        "Ancel, Stéphane"
+      ],
+      "title": "Work in Progress: Ethiopian Archives in Jerusalem",
+      "container": "Open Jerusalem (European Research Council project), Archival Focus",
+      "publisher": "Open Jerusalem / Centre de recherche français à Jérusalem",
+      "url": "https://www.openjerusalem.org/work-progress-ethiopian-archives-jerusalem",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page (undated)."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
     },
     {
       "id": "anews-2026-08-25-katz-hermon",
@@ -1387,6 +1493,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ap-ynet-2014-rai-kufr-birim",
+      "type": "web",
+      "authors": [
+        "Associated Press"
+      ],
+      "title": "Lebanese patriarch backs followers in Israel",
+      "container": "Ynetnews",
+      "publisher": "Ynet (Yedioth Ahronoth group)",
+      "year": 2014,
+      "url": "https://www.ynetnews.com/article/4525025",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole Associated Press report as published by Ynetnews (28-29 May 2014)."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
       "id": "applebaum-1976-prolegomena-second-revolt",
       "type": "book",
       "authors": [
@@ -1594,6 +1720,26 @@
       },
       "kind": "academic",
       "institution_country": "LB"
+    },
+    {
+      "id": "audeh-2023-review-lemire-maghrebi-quarter",
+      "type": "web",
+      "authors": [
+        "Audeh, Ida"
+      ],
+      "title": "Reconstructing the Life and Erasure of Jerusalem's Moroccan Quarter [review of Vincent Lemire, In the Shadow of the Wall, 2023]",
+      "container": "Jerusalem Story",
+      "publisher": "Jerusalem Story (The Jerusalem Fund)",
+      "year": 2023,
+      "url": "https://www.jerusalemstory.com/en/blog/reconstructing-life-and-erasure-jerusalems-moroccan-quarter",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole review. Lemire's book itself (Stanford University Press, 2023) was not read; statements are attributed to the review's summary of it. Jerusalem Story is a Palestinian-American educational project."
+      },
+      "kind": "ngo",
+      "institution_country": "US"
     },
     {
       "id": "avalon-aaci-report-1946",
@@ -1880,6 +2026,35 @@
       "institution_country": "GB"
     },
     {
+      "id": "avci-lemire-ozdemir-2018-collective-petitions",
+      "type": "chapter",
+      "authors": [
+        "Avcı, Yasemin",
+        "Lemire, Vincent",
+        "Yazıcı Özdemir, Ömür"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Collective Petitions ('arz-ı mahzar) as a Reflective Archival Source for Jerusalem's Networks of Citadinité in the late 19th Century",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "161-185",
+      "doi": "10.1163/9789004375741_012",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 8, passages and figure 8.11 on the Syriac community's petitions."
+      },
+      "kind": "academic",
+      "institution_country": "TR"
+    },
+    {
       "id": "avi-yonah-1947-historical-survey",
       "type": "document",
       "authors": [
@@ -2009,7 +2184,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Read the publisher's description as reproduced on a bookseller page; DOI confirmed via Crossref. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the publisher's description on the Oxford University Press product page, via Internet Archive capture 20230510023930 (the bookseller page given as url refused automated requests). The book itself was not read."
+        "note": "Read the publisher's description as reproduced on a bookseller page; DOI confirmed via Crossref. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the publisher's description on the Oxford University Press product page, via Internet Archive capture 20230510023930 (the bookseller page given as url refused automated requests). The book itself was not read. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the publisher's description; the book itself was not read."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -2195,7 +2370,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there. | Re-read in Milestone 8: Re-read (round J) in the CICRED PDF text saved in an earlier pass: sections 4.1-4.2 and Table 4.1 (pp. 31-32), section 4.6 (p. 36), Appendix 4 sections A.2-A.3 and C (pp. 367-370, the estimates for c. 1880-1890 and the official Turkish 1914 estimate) and Appendix 8.1 (p. 412, the Egyptian statistical unit's Gaza estimates). | Re-read in Milestone 8: Re-read (round K, group K2) in the CICRED PDF saved earlier: ch. 3.1-3.3 (pp. 21-23, incl. p. 23 n. 3 on Jerusalem 'some 2,000'), p. 26 (religious composition after the Arab conquest), Appendix 3A (p. 362) and Appendix 5 with Table A5 (pp. 371-373). Table A5, part B (p. 373) is not in the PDF text layer: it was read from the rendered page image, so its rows are cited without quotes."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there. | Re-read in Milestone 8: Re-read (round J) in the CICRED PDF text saved in an earlier pass: sections 4.1-4.2 and Table 4.1 (pp. 31-32), section 4.6 (p. 36), Appendix 4 sections A.2-A.3 and C (pp. 367-370, the estimates for c. 1880-1890 and the official Turkish 1914 estimate) and Appendix 8.1 (p. 412, the Egyptian statistical unit's Gaza estimates). | Re-read in Milestone 8: Re-read (round K, group K2) in the CICRED PDF saved earlier: ch. 3.1-3.3 (pp. 21-23, incl. p. 23 n. 3 on Jerusalem 'some 2,000'), p. 26 (religious composition after the Arab conquest), Appendix 3A (p. 362) and Appendix 5 with Table A5 (pp. 371-373). Table A5, part B (p. 373) is not in the PDF text layer: it was read from the rendered page image, so its rows are cited without quotes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) section 15.2 on languages (pp. 286-289)."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -2917,6 +3092,26 @@
       "institution_country": "US"
     },
     {
+      "id": "belmont-2017-jcpa-western-wall-plaza",
+      "type": "web",
+      "authors": [
+        "Belmont, Nathaniel"
+      ],
+      "title": "Creation of the Western Wall Plaza in 1967 Was Necessary and Legal",
+      "container": "Jerusalem Center for Public Affairs (jcpa.org)",
+      "publisher": "Jerusalem Center for Public Affairs",
+      "year": 2017,
+      "url": "https://jcpa.org/article/creation-western-wall-plaza-1967-necessary-legal/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (dated 12 July 2017 in the page metadata; the site now redirects to jcfa.org). An advocacy piece by an intern at an Israeli policy institute that defends the demolition; used here for the Israeli account of the 1967 eviction, not for the quarter's history."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "beloch-1886-bevoelkerung",
       "type": "book",
       "authors": [
@@ -3097,10 +3292,30 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Open-access volume (CC BY-NC-ND 3.0; OAPEN Library), read in the copy of the OAPEN PDF downloaded earlier in this project from the Wayback Machine; read sections 1-4 (pp. 111-112, 121-123)."
+        "note": "Open-access volume (CC BY-NC-ND 3.0; OAPEN Library), read in the copy of the OAPEN PDF downloaded earlier in this project from the Wayback Machine; read sections 1-4 (pp. 111-112, 121-123). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) sections 1-4 (pp. 111-112, 121-123): introduction, Moabite, Ammonite and Edomite."
       },
       "kind": "academic",
       "institution_country": "DE"
+    },
+    {
+      "id": "bezie-2013-ethiopian-community-deir-es-sultan",
+      "type": "article",
+      "authors": [
+        "Bezie, Tigab"
+      ],
+      "title": "The Ethiopian religious community and its ancient monastery, Dier es Sultan in Jerusalem from Foundation to 1850s",
+      "container": "Journal of Ethiopian Church Studies 3: 53-63",
+      "publisher": "Research Centre Mahibere Kidusan (Addis Ababa)",
+      "year": 2013,
+      "url": "https://journals.eotcmk.org/index.php/files/article/view/20",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article in the PDF published on the journal's own site (11 pp.): introduction, the medieval and Ottoman sections and the conclusion. Author at Bahir Dar University, Ethiopia; the journal belongs to an association of the Ethiopian Orthodox Tewahedo Church."
+      },
+      "kind": "academic",
+      "institution_country": "ET"
     },
     {
       "id": "bibalex-nasser-historical-sketch",
@@ -3133,6 +3348,23 @@
       },
       "kind": "government",
       "institution_country": "EG"
+    },
+    {
+      "id": "bic-bahaullah-arrival-holy-land",
+      "type": "web",
+      "authors": [
+        "Bahá'í International Community"
+      ],
+      "title": "Bahá'u'lláh: Arrival in the Holy Land",
+      "publisher": "Bahá'í International Community (Bahá'í Reference Library)",
+      "url": "https://reference.bahai.org/en/t/bic/SB/sb-11.html",
+      "accessed": "2026-10-20",
+      "kind": "religious-institution",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the page; the quoted sentences were checked against its text."
+      }
     },
     {
       "id": "bloomsbury-masalha-bible-and-zionism-page",
@@ -3337,7 +3569,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full review. The book itself was not consulted. Reviewer at Universität Bielefeld."
+        "note": "Read the full review. The book itself was not consulted. Reviewer at Universität Bielefeld. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the full review."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -3697,7 +3929,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in round H: the full review. Myers's book itself was not consulted. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the full review. Myers's book itself was not consulted; statements about it are the reviewer's summary."
+        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in round H: the full review. Myers's book itself was not consulted. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the full review. Myers's book itself was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the full review."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -4492,7 +4724,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261007011110. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261007011110. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening of the article body on the Nabataean origin of the script (Internet Archive snapshot 20261007011110)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -4543,7 +4775,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261004172558. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261004172558. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the whole article body (Internet Archive snapshot 20261004172558)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -4700,7 +4932,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read via Internet Archive snapshot 20260109061925 of the britannica.com page (direct access returned HTTP 403)."
+        "note": "Read via Internet Archive snapshot 20260109061925 of the britannica.com page (direct access returned HTTP 403). | Re-read in Milestone 8: Re-read the article text via the same Internet Archive snapshot (20260109061925): sections on Baha'u'llah's exile and the community's institutions in Haifa and Acre."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -5250,7 +5482,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260922230615. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260922230615. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive snapshot 20260922230615)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -5503,7 +5735,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403). | Also recorded as a separate entry: Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20250225154526: the paragraph on the size of the diaspora before 70 CE."
+        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403). | Also recorded as a separate entry: Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20250225154526: the paragraph on the size of the diaspora before 70 CE. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive capture 20250225154526 saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -6524,7 +6756,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260718015757. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read the sections 'Jews' and 'Karaites' in the Internet Archive snapshot used before."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260718015757. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read the sections 'Jews' and 'Karaites' in the Internet Archive snapshot used before. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'Religious and ethnic groups' (Jews, Karaites, Samaritans, Arabs, Muslims, Christians, Druze, Circassians) in the Internet Archive snapshot 20260718015757."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -6940,7 +7172,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260930104316. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260930104316. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive snapshot 20260930104316)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7095,7 +7327,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260825002644 (saved earlier in this research project as er/dl/classical/b_madaba). Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260825002644 (saved earlier in this research project as er/dl/classical/b_madaba). Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the mosaic map (copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7281,7 +7513,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the article text in an Internet Archive Wayback Machine capture (20260926074508) because britannica.com blocks direct download (saved as er/dl/classical/b_mishna.txt); quotes are from the article text, not the AI-generated summary boxes."
+        "note": "Read the article text in an Internet Archive Wayback Machine capture (20260926074508) because britannica.com blocks direct download (saved as er/dl/classical/b_mishna.txt); quotes are from the article text, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening of the article body (Internet Archive copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7895,7 +8127,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via an Internet Archive Wayback Machine capture (20260128155322) of the Britannica page because britannica.com returned a bot challenge; read the whole section; section signed by Peter Marshall Fraser and Glenn Richard Bugh."
+        "note": "Read via an Internet Archive Wayback Machine capture (20260128155322) of the Britannica page because britannica.com returned a bot challenge; read the whole section; section signed by Peter Marshall Fraser and Glenn Richard Bugh. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'From Alexander the Great to 70 ce' (copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -7987,7 +8219,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture. | Also recorded as a separate entry: Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20260927090653: the sections on Hadrian's Aelia Capitolina, the Samaritan revolts and the change of the population's religion after the Arab conquest. | Re-read in Milestone 8: Re-read the section 'The rise of Islam' (Internet Archive capture)."
+        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture. | Also recorded as a separate entry: Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20260927090653: the sections on Hadrian's Aelia Capitolina, the Samaritan revolts and the change of the population's religion after the Arab conquest. | Re-read in Milestone 8: Re-read the section 'The rise of Islam' (Internet Archive capture). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the sections 'Roman Palestine' and 'From the Arab conquest to 1900' (copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -8122,7 +8354,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article text (fetched in the browser)."
+        "note": "Read the full article text (fetched in the browser). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the Philistine language and religion (Internet Archive copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -8441,7 +8673,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261010235416. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261010235416. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body on the languages of the Samaritans (Internet Archive snapshot 20261010235416)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -9006,7 +9238,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260518235012. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260518235012. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive snapshot 20260518235012)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -9455,7 +9687,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261008195507. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261008195507. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening of the article body (Internet Archive snapshot 20261008195507); the AI-generated 'Top Questions' box was not used."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -9815,6 +10047,38 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "burlakov-2025-modern-western-aramaic",
+      "type": "chapter",
+      "authors": [
+        "Burlakov, Phillip Yu.",
+        "Cherkashina, Anna S.",
+        "Häberl, Charles G.",
+        "Loesov, Sergey V."
+      ],
+      "editors": [
+        "Hornkohl, Aaron D.",
+        "Vidro, Nadia",
+        "Watson, Janet C. E.",
+        "Coghill, Eleanor",
+        "Connolly, Magdalen M.",
+        "Outhwaite, Benjamin M."
+      ],
+      "title": "The Church Militant: A Modern Western Aramaic Account",
+      "container": "Interconnected Traditions: Semitic Languages, Literatures, and Cultures - A Festschrift for Geoffrey Khan, vol. 2 (Semitic Languages and Cultures 35), pp. 695-720",
+      "publisher": "Open Book Publishers, Cambridge",
+      "year": 2025,
+      "doi": "10.11647/OBP.0464.23",
+      "url": "https://doi.org/10.11647/OBP.0464.23",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open-access chapter PDF (CC BY-NC 4.0) from Open Book Publishers and read the volume front matter and section 1.0 'Background' (pp. 695-697)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "bush-wh-annapolis-joint-understanding",
@@ -11017,6 +11281,29 @@
       "accessed": "2026-10-20"
     },
     {
+      "id": "cooper-2005-eor-canaanite-religion",
+      "type": "chapter",
+      "authors": [
+        "Cooper, Alan M."
+      ],
+      "editors": [
+        "Jones, Lindsay"
+      ],
+      "title": "Canaanite Religion: An Overview",
+      "container": "Encyclopedia of Religion, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA",
+      "year": 2005,
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/canaanite-religion-overview",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (signed 'Alan M. Cooper (1987)', with a revised bibliography for the 2005 edition): introduction, sections on Mari, Amarna and Ugarit, and 'Survivals'."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "costa-2013-ashkenazi-maternal-lineages",
       "type": "article",
       "authors": [
@@ -11343,6 +11630,34 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "dalachanis-tselikas-2018-greek-orthodox-brotherhood",
+      "type": "chapter",
+      "authors": [
+        "Dalachanis, Angelos",
+        "Tselikas, Agamemnon"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "The Brotherhood, the City and the Land: Patriarchal Archives and Scales of Analysis of Greek Orthodox Jerusalem in the Late Ottoman and Mandate Periods",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "118-138",
+      "doi": "10.1163/9789004375741_009",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 6, introductory section on the patriarchate and the Brotherhood of the Holy Sepulchre (pp. 118-121; PDF pages 144-147)."
+      },
+      "kind": "academic",
+      "institution_country": "GR"
+    },
+    {
       "id": "dalali-amos-2013-ha-zefat",
       "type": "article",
       "authors": [
@@ -11394,7 +11709,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 2-page PDF in full. The catalogue title and year are not printed in the PDF (file metadata dated 2008), so they are omitted here. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): both pages of the PDF (Nabatean presence in the Hauran from the 3rd century BCE; inscriptions after the annexation of 106 CE). Author at Bar-Ilan University (Israel). | Re-read in Milestone 8: Re-read p. 1 (45*)."
+        "note": "Read the 2-page PDF in full. The catalogue title and year are not printed in the PDF (file metadata dated 2008), so they are omitted here. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): both pages of the PDF (Nabatean presence in the Hauran from the 3rd century BCE; inscriptions after the annexation of 106 CE). Author at Bar-Ilan University (Israel). | Re-read in Milestone 8: Re-read p. 1 (45*). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the 2-page PDF."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -11491,6 +11806,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "dermatossian-2011-armenians-palestine",
+      "type": "article",
+      "authors": [
+        "Der Matossian, Bedross"
+      ],
+      "title": "The Armenians of Palestine 1918-48",
+      "container": "Journal of Palestine Studies 41 (1): 24-44",
+      "publisher": "Institute for Palestine Studies / University of California Press",
+      "year": 2011,
+      "doi": "10.1525/jps.2011.XLI.1.24",
+      "url": "https://digitalcommons.unl.edu/historyfacpub/121",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (pp. 24-44) in the copy deposited by the author's university in DigitalCommons@University of Nebraska-Lincoln ('Used by permission' of the publisher, per the footer); DOI as printed on the article (jps.2011.XLI.1.24) with the University of California Press prefix. The repository's PDF link is behind a bot check, so the file was retrieved through the Internet Archive's capture of that same repository URL (May 2024). Author at the University of Nebraska-Lincoln; the journal is published by the Institute for Palestine Studies."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "derwacter-1930-preparing-the-way",
       "type": "book",
       "authors": [
@@ -11564,10 +11900,36 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project: Merneptah stele, United Monarchy, Josiah. | Re-read in Milestone 8: Re-read in M9 the sections on the patriarchs and on the origins of Israel."
+        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project: Merneptah stele, United Monarchy, Josiah. | Re-read in Milestone 8: Re-read in M9 the sections on the patriarchs and on the origins of Israel. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the interview sections on the origins of Israel and 'The Israelites' many gods'."
       },
       "kind": "press",
       "institution_country": "US"
+    },
+    {
+      "id": "dibas-2022-maknuune-palestinian-arabic",
+      "type": "article",
+      "authors": [
+        "Dibas, Shahd",
+        "Khairallah, Christian",
+        "Habash, Nizar",
+        "Sadi, Omar Fayez",
+        "Sairafy, Tariq",
+        "Sarabta, Karmel",
+        "Ardah, Abrar"
+      ],
+      "title": "Maknuune: A Large Open Palestinian Arabic Lexicon",
+      "container": "arXiv:2210.12985 [cs.CL], version 2 (1 December 2022)",
+      "publisher": "arXiv",
+      "year": 2022,
+      "url": "https://arxiv.org/abs/2210.12985",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open-access PDF from arXiv (v2) and read the abstract, introduction (with footnotes) and related-work section (pp. 1-2). Authors at the University of Oxford, New York University Abu Dhabi and UNRWA's University College of Educational Sciences (Ramallah)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "diodorus-16-sherman",
@@ -12134,7 +12496,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com (history section signed Bustanay Oded). Its view that settled life in Transjordan ended in the mid-6th century rests on Nelson Glueck's surveys of the 1930s."
+        "note": "Read the full entry on Encyclopedia.com (history section signed Bustanay Oded). Its view that settled life in Transjordan ended in the mid-6th century rests on Nelson Glueck's surveys of the 1930s. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on the god Milcom and the Ammonite language."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12155,7 +12517,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'Extra-biblical Sources' on the Amorites' language and personal names (copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12176,7 +12538,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the History section on Tiglath-Pileser I's fourth year."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the History section on Tiglath-Pileser I's fourth year. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening definition and the passages on language and religion."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12220,7 +12582,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com: the biblical-period sections (signed Isaac Avishur) and the Second Temple section."
+        "note": "Read the full entry on Encyclopedia.com: the biblical-period sections (signed Isaac Avishur) and the Second Temple section. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the sections 'The People' and 'Religion and Culture'."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12238,7 +12600,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the Ottoman-period section of the entry on Encyclopedia.com (passage on the three Jewish communities of Cairo and Alexandria)."
+        "note": "Read the Ottoman-period section of the entry on Encyclopedia.com (passage on the three Jewish communities of Cairo and Alexandria). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the Ottoman-period passage on the three Jewish communities of Cairo and Alexandria (page downloaded again on 2026-10-20)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12286,6 +12648,33 @@
       "institution_country": "US"
     },
     {
+      "id": "ej-2007-hebrew-language",
+      "type": "chapter",
+      "authors": [
+        "Brovender, Chaim",
+        "Blau, Joshua",
+        "Kutscher, Eduard Yecheskel",
+        "Breuer, Yochanan",
+        "Goldenberg, Esther",
+        "Eytan, Eli",
+        "Ornan, Uzzi"
+      ],
+      "title": "Hebrew Language",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hebrew-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read on Encyclopedia.com the sections 'Pre-biblical' (Chaim Brovender: nature of the evidence and sources) and 'Modern Period' (Eli Eytan: periodisation; Uzzi Ornan: 'Period of Revival (1881-1918)' and 'The End of the Revival Period'). The long middle sections were not read."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ej-2007-high-commissioner-palestine",
       "type": "chapter",
       "title": "High Commissioner for Palestine",
@@ -12319,7 +12708,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the opening paragraph (expulsion by Ahmose and siege of Sharuhen)."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the opening paragraph (expulsion by Ahmose and siege of Sharuhen). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Hyksos personal names and religion."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12358,7 +12747,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the sections on the emergence of the sect and on contemporary Karaite life in Israel on Encyclopedia.com. | Re-read in Milestone 8: Re-read the sections on the 20th century and 'contemporary karaite life'."
+        "note": "Read the sections on the emergence of the sect and on contemporary Karaite life in Israel on Encyclopedia.com. | Re-read in Milestone 8: Re-read the sections on the 20th century and 'contemporary karaite life'. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'Name' and 'contemporary karaite life'."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12379,7 +12768,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the silver bowl from the temple of Han-Ilat."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12401,7 +12790,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com; the history section used here is signed Bustanay Oded. | Re-read in Milestone 8: Re-read the history section on the 6th century BCE."
+        "note": "Read the full entry on Encyclopedia.com; the history section used here is signed Bustanay Oded. | Re-read in Milestone 8: Re-read the history section on the 6th century BCE. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Moabite religion and language."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12445,7 +12834,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com (history section signed Jonas C. Greenfield / S. David Sperling, 2nd ed.)."
+        "note": "Read the full entry on Encyclopedia.com (history section signed Jonas C. Greenfield / S. David Sperling, 2nd ed.). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Philistine language, script, names and religion."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12463,7 +12852,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the definition and history sections on Encyclopedia.com (the online page does not show the article's signatories)."
+        "note": "Read the definition and history sections on Encyclopedia.com (the online page does not show the article's signatories). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'Language'."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12571,7 +12960,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya. | Re-read in Milestone 8: Re-read the definition and the sections on early history and on 1270-1632 on Encyclopedia.com. | Re-read in Milestone 8: Re-read the immigration sections (1975 ruling; Operations Moses and Solomon)."
+        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya. | Re-read in Milestone 8: Re-read the definition and the sections on early history and on 1270-1632 on Encyclopedia.com. | Re-read in Milestone 8: Re-read the immigration sections (1975 ruling; Operations Moses and Solomon). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the sections on monasticism, the missions, Tigray and the rabbinic rulings."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12792,7 +13181,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry (by Norman Stillman, updated by Harvey E. Goldberg). | Re-read in Milestone 8: Re-read the sections on the Ottoman period and on emigration after 1948 (Encyclopedia.com)."
+        "note": "Read the full entry (by Norman Stillman, updated by Harvey E. Goldberg). | Re-read in Milestone 8: Re-read the sections on the Ottoman period and on emigration after 1948 (Encyclopedia.com). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Judeo-Arabic, Judeo-Spanish and Hebrew among Middle Eastern Jews."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -12910,6 +13299,33 @@
       "institution_country": "NL"
     },
     {
+      "id": "eroglu-memis-2018-maghariba-awqaf",
+      "type": "chapter",
+      "authors": [
+        "Eroğlu Memiş, Şerife"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Between Ottomanization and Local Networks: Appointment Registers as Archival Sources for Waqf Studies. The Case of Jerusalem's Maghariba Neighborhood",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "75-99",
+      "doi": "10.1163/9789004375741_007",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 4, section 'The Neighborhood and the awqaf of Maghariba' (pp. 81-83)."
+      },
+      "kind": "academic",
+      "institution_country": "TR"
+    },
+    {
       "id": "eu-eom-2005-west-bank-gaza-presidential-final-report",
       "type": "report",
       "authors": [
@@ -12989,6 +13405,22 @@
       "institution_country": "US"
     },
     {
+      "id": "ewc-1995-samaritans",
+      "type": "chapter",
+      "title": "Samaritans",
+      "container": "Encyclopedia of World Cultures (online at Encyclopedia.com)",
+      "publisher": "Gale",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/samaritans",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full unsigned entry on Encyclopedia.com (its bibliography cites Encyclopaedia Judaica 1972); the print volume and year are not shown online."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ewc-circassians",
       "type": "chapter",
       "title": "Circassians",
@@ -12999,7 +13431,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the identification, demography and history sections of the Encyclopedia of World Cultures entry on Encyclopedia.com (author and volume year not shown on the page)."
+        "note": "Read the identification, demography and history sections of the Encyclopedia of World Cultures entry on Encyclopedia.com (author and volume year not shown on the page). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section 'Linguistic Affiliation'."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -13167,6 +13599,25 @@
       "institution_country": "DE"
     },
     {
+      "id": "ferrand-openjerusalem-syriac-diaspora",
+      "type": "web",
+      "authors": [
+        "Ferrand, Antoinette"
+      ],
+      "title": "The Syriac Orthodox Diaspora in Jerusalem (1831-1948): Pilgrims, Refugees and Community Building in Ottoman and Mandatory Palestine",
+      "container": "Open Jerusalem (European Research Council project), Archival Focus",
+      "publisher": "Open Jerusalem / Centre de recherche français à Jérusalem",
+      "url": "https://www.openjerusalem.org/syriac-diaspora-jerusalem",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole summary page of the author's dissertation (École Normale Supérieure de Lyon), based on the baptismal register of St Mark's Monastery, 1831-1948. The dissertation itself was not read. No date is shown on the page."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
       "id": "fink-1969-foundation-latin-states",
       "type": "chapter",
       "authors": [
@@ -13222,7 +13673,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132. | Re-read in Milestone 8: Re-read in round H: the open-access PDF from the UCA repository, Introduction p. 9 (the \"great united monarchy\" as a literary construct) and p. 56 (casemate sites in Ammon and Moab). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the open-access PDF text downloaded earlier in this project: ch. 7, p. 153 (Tiglath-pileser III annexes the Galilee and the northern valleys in 732 BCE). | Re-read in Milestone 8: Re-read in M9 pp. 38, 110, 153, 157-158 of the open-access PDF."
+        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132. | Re-read in Milestone 8: Re-read in round H: the open-access PDF from the UCA repository, Introduction p. 9 (the \"great united monarchy\" as a literary construct) and p. 56 (casemate sites in Ammon and Moab). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the open-access PDF text downloaded earlier in this project: ch. 7, p. 153 (Tiglath-pileser III annexes the Galilee and the northern valleys in 732 BCE). | Re-read in Milestone 8: Re-read in M9 pp. 38, 110, 153, 157-158 of the open-access PDF. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 50 (n. 6), 139 and 149 on Israelite cult and YHWH of Samaria/Jerusalem."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -13332,6 +13783,31 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "folmer-2012-old-imperial-aramaic",
+      "type": "chapter",
+      "authors": [
+        "Folmer, Margaretha"
+      ],
+      "editors": [
+        "Gzella, Holger"
+      ],
+      "title": "Old and Imperial Aramaic",
+      "container": "Languages from the World of the Bible",
+      "publisher": "De Gruyter, Boston/Berlin",
+      "year": 2012,
+      "pages": "128-159",
+      "isbn": "978-1-934078-63-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "H. Gzella (ed.), Languages from the World of the Bible (Boston/Berlin: De Gruyter, 2012), open-access edition (CC BY-NC-ND 3.0, OAPEN Library), read in the copy of the OAPEN PDF saved earlier in this project from the Wayback Machine. Read section 1 'Introduction' (pp. 128-130)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
     },
     {
       "id": "fordham-pact-of-umar",
@@ -13837,6 +14313,34 @@
       "institution_country": "GB",
       "accessed": "2026-10-18",
       "isbn": "9781902210674"
+    },
+    {
+      "id": "gerd-potin-2018-porfirii-uspenskii",
+      "type": "chapter",
+      "authors": [
+        "Gerd, Lora",
+        "Potin, Yann"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "Foreign Affairs through Private Papers: Bishop Porfirii Uspenskii and His Jerusalem Archives, 1842-1860",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "100-117",
+      "doi": "10.1163/9789004375741_008",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 5, opening and the section on the Russian Ecclesiastical Mission."
+      },
+      "kind": "academic",
+      "institution_country": "RU"
     },
     {
       "id": "geva-2007-estimating-jerusalem",
@@ -14552,6 +15056,56 @@
       "institution_country": "AE"
     },
     {
+      "id": "gzella-2012-ancient-hebrew",
+      "type": "chapter",
+      "authors": [
+        "Gzella, Holger"
+      ],
+      "editors": [
+        "Gzella, Holger"
+      ],
+      "title": "Ancient Hebrew",
+      "container": "Languages from the World of the Bible",
+      "publisher": "De Gruyter, Boston/Berlin",
+      "year": 2012,
+      "pages": "76-110",
+      "isbn": "978-1-934078-63-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "H. Gzella (ed.), Languages from the World of the Bible (Boston/Berlin: De Gruyter, 2012), open-access edition (CC BY-NC-ND 3.0, OAPEN Library), read in the copy of the OAPEN PDF saved earlier in this project from the Wayback Machine. Read section 1 'Introduction and language history' and section 2 'Writing' (pp. 76-79)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
+      "id": "gzella-2012-introduction",
+      "type": "chapter",
+      "authors": [
+        "Gzella, Holger"
+      ],
+      "editors": [
+        "Gzella, Holger"
+      ],
+      "title": "Introduction",
+      "container": "Languages from the World of the Bible",
+      "publisher": "De Gruyter, Boston/Berlin",
+      "year": 2012,
+      "pages": "1-13",
+      "isbn": "978-1-934078-63-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "H. Gzella (ed.), Languages from the World of the Bible (Boston/Berlin: De Gruyter, 2012), open-access edition (CC BY-NC-ND 3.0, OAPEN Library), read in the copy of the OAPEN PDF saved earlier in this project from the Wayback Machine. Read the whole introduction (pp. 1-13)."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "gzella-2012-phoenician",
       "type": "chapter",
       "authors": [
@@ -14570,7 +15124,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction (pp. 55-56). English edition of a German volume first published in 2009 (WBG). | Re-read in Milestone 8: Re-read in M9 the introduction of the chapter (pp. 55-56)."
+        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction (pp. 55-56). English edition of a German volume first published in 2009 (WBG). | Re-read in Milestone 8: Re-read in M9 the introduction of the chapter (pp. 55-56). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) section 1 'Introduction' (pp. 55-56)."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -14749,6 +15303,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "haifa-trail-segment-14-kababir",
+      "type": "web",
+      "authors": [
+        "Haifa Trail"
+      ],
+      "title": "Segment 14: Kababir and Central Carmel - Multiculturalism on the Carmel",
+      "container": "Haifa Trail (haifatrail.com)",
+      "publisher": "Haifa Trail",
+      "url": "https://www.haifatrail.com/haifa-trail-segment14-eng.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole English page of this Haifa walking-trail guide (undated)."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "hajjar-1988-merip-primer",
       "type": "article",
       "authors": [
@@ -14791,6 +15364,27 @@
         "note": "Open-access article (CC BY); downloaded the full-text XML from journals.plos.org and read the introduction and the section 'The site of Eynan' (location by the Eynan spring in the Hula Valley; Natufian phases spanning c. 15,000-12,000 cal BP). Authors: Tel Aviv University (Israel)."
       },
       "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "halkin-2007-ej-judeo-arabic-literature",
+      "type": "chapter",
+      "authors": [
+        "Halkin, Abraham Solomon"
+      ],
+      "title": "Judeo-Arabic Literature",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/judeo-arabic-literature",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the opening definition and the first part of the section 'The East' (signed Abraham Solomon Halkin) on Encyclopedia.com."
+      },
+      "kind": "reference",
       "institution_country": "US"
     },
     {
@@ -15168,7 +15762,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full article (24 pp.). The journal's own PDF URL returned HTTP 403, so the text was read in a copy of the same PDF posted at https://ros-vos.net/uploads/rus-lit.pdf (its running heads read 'Eras Edition 12, Issue 1, December 2010'); Eras is an open-access journal, but whether that copy is authorised was not established. Pages from the PDF's 'Page n' heads."
+        "note": "Read the full article (24 pp.). The journal's own PDF URL returned HTTP 403, so the text was read in a copy of the same PDF posted at https://ros-vos.net/uploads/rus-lit.pdf (its running heads read 'Eras Edition 12, Issue 1, December 2010'); Eras is an open-access journal, but whether that copy is authorised was not established. Pages from the PDF's 'Page n' heads. | Re-read in Milestone 8: Re-read p. 2 on the Imperial Orthodox Palestine Society."
       },
       "kind": "academic",
       "institution_country": "AU",
@@ -15551,7 +16145,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the whole page (sections Hebrew; Aramaic including Nabatean; Greek; Latin; Arabic)."
+        "note": "Read the whole page (sections Hebrew; Aramaic including Nabatean; Greek; Latin; Arabic). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the section on Aramaic (copy saved earlier in this project)."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -17150,6 +17744,26 @@
       "institution_country": "US"
     },
     {
+      "id": "jns-2018-ahmadis-kababir",
+      "type": "web",
+      "authors": [
+        "Rudee, Eliana"
+      ],
+      "title": "Ahmadi Muslims Are Among the Persecuted Mideast Minorities Given Religious Freedom in Israel",
+      "container": "The Algemeiner (JNS.org)",
+      "publisher": "Jewish News Syndicate / The Algemeiner",
+      "year": 2018,
+      "url": "https://www.algemeiner.com/2018/02/13/ahmadi-muslims-are-among-the-persecuted-mideast-minorities-given-religious-freedom-in-israel/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (13 February 2018), which quotes the Kababir community leader Muhammad Sharif Odeh."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "jordan-1967-aide-memoire",
       "type": "document",
       "title": "Aide-memoire submitted to the Special Representative [N.-G. Gussing] by the Jordanian authorities (Annex II of S/8158)",
@@ -17288,7 +17902,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2848): Antiquities 13.6.7; 14.2.3, 14.3.2, 14.4.4-5, 14.5.1, 14.13.3, 14.14.3-5, 14.16.4; 15.6.6-7, 15.7.3, 15.10.1-3; 17.10.9, 17.11.4, 17.13.2, 17.13.5; 18.1.1, 18.4.6, 18.6.10, 18.7.2; 19.5.1, 19.8.2, 19.9.1-2; 20.5.2, 20.7.1. The Gutenberg text prints footnote numbers inside sentences; quotes avoid them. | Re-read in Milestone 8: Re-read in M9 books 9.14.3, 10.9.7 and 11.5.8 in the Project Gutenberg text of Whiston (ebook 2848). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Project Gutenberg plain text of Whiston's translation (eBook #2848): Antiquities 9.14.3 (the 'Cutheans'/Samaritans), 11.8.6 (Samaritans at Shechem claim descent from Joseph), 12.1.1 (Ptolemy I's captives from Judea and Samaria; voluntary Jewish emigration to Egypt), 13.9.1 (John Hyrcanus takes Shechem and Gerizim and subdues the Idumeans), 13.11.3 (Aristobulus I and the Itureans), 13.15.4 (cities held by Alexander Jannaeus) and 14.4.4 (Pompey restores the cities). Whiston's section numbering; standard (Niese) paragraph numbers added in locators. | Re-read in Milestone 8: Re-read Antiquities 13.9.1 and 14.1.3 in a public-domain copy of Whiston's translation (Project Gutenberg text)."
+        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2848): Antiquities 13.6.7; 14.2.3, 14.3.2, 14.4.4-5, 14.5.1, 14.13.3, 14.14.3-5, 14.16.4; 15.6.6-7, 15.7.3, 15.10.1-3; 17.10.9, 17.11.4, 17.13.2, 17.13.5; 18.1.1, 18.4.6, 18.6.10, 18.7.2; 19.5.1, 19.8.2, 19.9.1-2; 20.5.2, 20.7.1. The Gutenberg text prints footnote numbers inside sentences; quotes avoid them. | Re-read in Milestone 8: Re-read in M9 books 9.14.3, 10.9.7 and 11.5.8 in the Project Gutenberg text of Whiston (ebook 2848). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Project Gutenberg plain text of Whiston's translation (eBook #2848): Antiquities 9.14.3 (the 'Cutheans'/Samaritans), 11.8.6 (Samaritans at Shechem claim descent from Joseph), 12.1.1 (Ptolemy I's captives from Judea and Samaria; voluntary Jewish emigration to Egypt), 13.9.1 (John Hyrcanus takes Shechem and Gerizim and subdues the Idumeans), 13.11.3 (Aristobulus I and the Itureans), 13.15.4 (cities held by Alexander Jannaeus) and 14.4.4 (Pompey restores the cities). Whiston's section numbering; standard (Niese) paragraph numbers added in locators. | Re-read in Milestone 8: Re-read Antiquities 13.9.1 and 14.1.3 in a public-domain copy of Whiston's translation (Project Gutenberg text). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) Antiquities 13.9.1 (Idumeans) and 13.11.3 (Itureans) in the Project Gutenberg text of Whiston's translation."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18537,6 +19151,33 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "khachatryan-2018-armenian-printing-house",
+      "type": "chapter",
+      "authors": [
+        "Khachatryan, Arman"
+      ],
+      "editors": [
+        "Dalachanis, Angelos",
+        "Lemire, Vincent"
+      ],
+      "title": "The St. James Armenian Printing House in Jerusalem: Scientific and Educational Activities, 1833-1933",
+      "container": "Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City (eds Angelos Dalachanis and Vincent Lemire), Open Jerusalem vol. 1",
+      "publisher": "Brill",
+      "place": "Leiden",
+      "year": 2018,
+      "pages": "366-383",
+      "doi": "10.1163/9789004375741_023",
+      "url": "https://hal.science/hal-02888585/document",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 18, opening section."
+      },
+      "kind": "academic",
+      "institution_country": "AM"
+    },
+    {
       "id": "khalaily-2016-ha-enot-eynan",
       "type": "article",
       "authors": [
@@ -18683,6 +19324,29 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "killean-2004-emmena-arabic",
+      "type": "chapter",
+      "authors": [
+        "Killean, Carolyn"
+      ],
+      "editors": [
+        "Mattar, Philip"
+      ],
+      "title": "Arabic",
+      "container": "Encyclopedia of the Modern Middle East and North Africa, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2004,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/arabic",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry, signed Carolyn Killean, on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "killebrew-2005-biblical-peoples",
@@ -19192,7 +19856,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Open-access article. mdpi.com refused automated requests, so the full HTML article was read via Internet Archive capture 20241219204757: abstract, sections 1-7 and 11 ('From Southern Judah to Idumea to Southern Judea'), and notes 1 and 142. Author at Bar-Ilan University (Israel). | Re-read in Milestone 8: Re-read the introduction (§ 1) and § 11 on the Hasmonean conquest and after."
+        "note": "Open-access article. mdpi.com refused automated requests, so the full HTML article was read via Internet Archive capture 20241219204757: abstract, sections 1-7 and 11 ('From Southern Judah to Idumea to Southern Judea'), and notes 1 and 142. Author at Bar-Ilan University (Israel). | Re-read in Milestone 8: Re-read the introduction (§ 1) and § 11 on the Hasmonean conquest and after. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the abstract and sections 1 and 3 (Qaus worship, the Aramaic ostraca, Idumeans converted to Judaism)."
       },
       "kind": "academic",
       "institution_country": "IL"
@@ -19601,7 +20265,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier. The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: § 17 'Trans-jordania', pp. 227-228 (Transjordan in the sphere of the Arab administration of Damascus; the 1921 arrangement with the Emir Abdallah under the High Commissioner). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: p. 1 (boundaries), p. 27 (San Remo; the Military Administration 1917-1920), p. 30 (end of the Occupied Enemy Territory Administration on 30 June 1920 and the civil administration from 1 July 1920) and pp. 227-228 (Trans-jordania: its inclusion in the Mandate area, the Hejaz to the south, Abdullah's arrival and the arrangement of March 1921). | Re-read in Milestone 8: Re-read Part II, § 4 'Circassians, Bosnians and Magharbeh' (pp. 35-36) in the Internet Archive OCR text."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier. The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: § 17 'Trans-jordania', pp. 227-228 (Transjordan in the sphere of the Arab administration of Damascus; the 1921 arrangement with the Emir Abdallah under the High Commissioner). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: p. 1 (boundaries), p. 27 (San Remo; the Military Administration 1917-1920), p. 30 (end of the Occupied Enemy Territory Administration on 30 June 1920 and the civil administration from 1 July 1920) and pp. 227-228 (Trans-jordania: its inclusion in the Mandate area, the Hejaz to the south, Abdullah's arrival and the arrangement of March 1921). | Re-read in Milestone 8: Re-read Part II, § 4 'Circassians, Bosnians and Magharbeh' (pp. 35-36) in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read the Internet Archive OCR text: p. 33 (population by religion), p. 37 (Muslim pilgrims' convents), pp. 40-41 (Orthodox Patriarchate), pp. 43-45 (Uniate churches, Armenian Patriarchate, Jacobites, Copts and Abyssinians), pp. 58-59 (the Baha'is), p. 71 (Mamluk hostels) and p. 98 (Monastery of the Cross)."
       },
       "kind": "government",
       "institution_country": "GB"
@@ -19643,7 +20307,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the open-access (CC BY) PDF from the University of Chicago Knowledge repository; quotes from the introduction, pp. 133-135, which summarise Levtzion's, Vryonis's and Ellenblum's models of Islamization. The author is an Israeli geographer-historian. | Re-read in Milestone 8: Re-read p. 133 (opening of section I) in the open-access PDF."
+        "note": "Read the open-access (CC BY) PDF from the University of Chicago Knowledge repository; quotes from the introduction, pp. 133-135, which summarise Levtzion's, Vryonis's and Ellenblum's models of Islamization. The author is an Israeli geographer-historian. | Re-read in Milestone 8: Re-read p. 133 (opening of section I) in the open-access PDF. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the introduction (pp. 133-134)."
       },
       "kind": "academic",
       "institution_country": "IL"
@@ -19700,7 +20364,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read on Persée in the page-by-page text view of pp. 277-332 (the PDF download was refused to automated requests). Used pp. 290 (the Namara epitaph), 297-298 (Provincia Arabia; the term 'Saracen'), 302 (the 'Nabataean' of a Palmyrene inscription of AD 132) and 311 (the Nabataean script used to write Arabic). Author at the University of Oxford. | Re-read in Milestone 8: Re-read p. 311 (Nabataean script and Arabic)."
+        "note": "Read on Persée in the page-by-page text view of pp. 277-332 (the PDF download was refused to automated requests). Used pp. 290 (the Namara epitaph), 297-298 (Provincia Arabia; the term 'Saracen'), 302 (the 'Nabataean' of a Palmyrene inscription of AD 132) and 311 (the Nabataean script used to write Arabic). Author at the University of Oxford. | Re-read in Milestone 8: Re-read p. 311 (Nabataean script and Arabic). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 307-310 on the language(s) of ancient 'Arabs' and the definition of Old Arabic."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -19760,7 +20424,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the book description. | Re-read in Milestone 8: Re-read the Magnes Press book description."
+        "note": "Read the book description. | Re-read in Milestone 8: Re-read the Magnes Press book description. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the Magnes Press book description; the book itself was not read."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -20014,7 +20678,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the author's offprint PDF (58 pp.) from the downloads folder of the Manchester Romani Project site as mirrored at kratylos.org: introduction (pp. 1-3) and section 2 'Ethnographic background' (pp. 4-6)."
+        "note": "Read the author's offprint PDF (58 pp.) from the downloads folder of the Manchester Romani Project site as mirrored at kratylos.org: introduction (pp. 1-3) and section 2 'Ethnographic background' (pp. 4-6). | Re-read in Milestone 8: Re-read pp. 1-6: introduction and section 2 'Ethnographic background'. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the introduction (p. 1) and section 4.2 on nominal inflection (p. 16)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -20034,7 +20698,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the author's pre-publication manuscript (4 pp., headed 'To appear in: Brown, Keith, ed. Encyclopedia of Languages and Linguistics. Oxford: Elsevier') from the Manchester Romani Project downloads mirrored at kratylos.org; the published version (year 2006 from general bibliographic knowledge, not checked) was not seen."
+        "note": "Read the author's pre-publication manuscript (4 pp., headed 'To appear in: Brown, Keith, ed. Encyclopedia of Languages and Linguistics. Oxford: Elsevier') from the Manchester Romani Project downloads mirrored at kratylos.org; the published version (year 2006 from general bibliographic knowledge, not checked) was not seen. | Re-read in Milestone 8: Re-read the author's pre-publication manuscript (abstract)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -20302,6 +20966,26 @@
       "url": "https://archive.org/details/handwrterbuchd02jena"
     },
     {
+      "id": "mida-2014-aramean-recognition",
+      "type": "web",
+      "authors": [
+        "Mida"
+      ],
+      "title": "Israel Recognizes Aramean-Christians",
+      "container": "Mida",
+      "publisher": "Mida (Israeli news and opinion site)",
+      "year": 2014,
+      "url": "https://mida.org.il/2014/09/17/israel-recognizes-aramean-christians/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole English article (17 September 2014). Mida is an Israeli right-of-centre site that openly supports the campaign it reports on."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
       "id": "midilli-2022-kudus-niyabet",
       "type": "article",
       "authors": [
@@ -20486,7 +21170,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Public-domain book (1907). Downloaded and read the Internet Archive OCR text of the Cornell University Library scan; read ch. VI, pp. 110-112 (the Samaritans under Zeno), which draws on the Chronicon Paschale, Procopius and the Samaritan chronicles. | Re-read in Milestone 8: Re-read in M9 ch. III, pp. 50-53 (the fall of Samaria and its aftermath), in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text of the Cornell University Library scan: ch. IV, 'Their origin in the Persian period', pp. 59-62. Dated (1907) scholarship; its racial vocabulary is not reproduced here."
+        "note": "Public-domain book (1907). Downloaded and read the Internet Archive OCR text of the Cornell University Library scan; read ch. VI, pp. 110-112 (the Samaritans under Zeno), which draws on the Chronicon Paschale, Procopius and the Samaritan chronicles. | Re-read in Milestone 8: Re-read in M9 ch. III, pp. 50-53 (the fall of Samaria and its aftermath), in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text of the Cornell University Library scan: ch. IV, 'Their origin in the Persian period', pp. 59-62. Dated (1907) scholarship; its racial vocabulary is not reproduced here. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) ch. II 'The Modern Samaritans', p. 27, on the community's languages (Internet Archive OCR of the Cornell scan)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -21084,7 +21768,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. Written by Mitchell Dahood for the first edition (1967); some views (e.g. an Israelite conquest of the hill country) are older positions that later archaeology has challenged."
+        "note": "Read the full entry on Encyclopedia.com. Written by Mitchell Dahood for the first edition (1967); some views (e.g. an Israelite conquest of the hill country) are older positions that later archaeology has challenged. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the Canaanite language (Biblical Hebrew as a Canaanite dialect)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -22321,6 +23005,27 @@
       "institution_country": "PS"
     },
     {
+      "id": "paczkowski-2018-ethiopians-holy-land",
+      "type": "article",
+      "authors": [
+        "Paczkowski, Mieczysław Celestyn"
+      ],
+      "title": "Etiopczycy w Ziemi Świętej [The Ethiopians in Jerusalem]",
+      "container": "Teologia i Człowiek 44 (4): 123-142",
+      "publisher": "Nicolaus Copernicus University Press, Toruń",
+      "year": 2018,
+      "doi": "10.12775/TiCz.2018.042",
+      "url": "https://apcz.umk.pl/TiCz/article/view/TiCz.2018.042",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the English abstract in the open-access PDF on the journal's site; the body of the article (in Polish) was not read. Author, a Franciscan, at the Faculty of Theology, Nicolaus Copernicus University in Toruń."
+      },
+      "kind": "academic",
+      "institution_country": "PL"
+    },
+    {
       "id": "painter-1969-third-crusade",
       "type": "chapter",
       "authors": [
@@ -22510,7 +23215,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Yannis Arab. | Re-read in Milestone 8: Re-read the introduction and the section on 1948 (expulsions, destinations, the village of Hawsha)."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Yannis Arab. | Re-read in Milestone 8: Re-read the introduction and the section on 1948 (expulsions, destinations, the village of Hawsha). | Re-read in Milestone 8: Re-read the section on Algerian settlement in towns, including Jerusalem's Maghrebi Quarter. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on the Galilee villages (language) and on urban Algerians (marriage)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -22649,7 +23354,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Maher Charif, incl. the closing section on assimilation."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Maher Charif, incl. the closing section on assimilation. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the introduction and the section 'The Integration of the Bosnians into the Palestinian People' (language, census classification)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -23607,7 +24312,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20211025165415."
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20211025165415. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the paragraphs on the Nabataeans' origin, language and religion (Wayback capture saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "PS"
@@ -23671,7 +24376,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20230126072025."
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20230126072025. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the paragraphs on the Ghassanids' Christianity (Wayback capture saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "PS"
@@ -23687,7 +24392,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221002135200."
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221002135200. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the paragraphs on language and religion (Wayback capture saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "PS"
@@ -23803,6 +24508,27 @@
       "isbn": "0060152656"
     },
     {
+      "id": "peterson-2003-jerusalem-gypsy-community",
+      "type": "article",
+      "authors": [
+        "Peterson, Jennifer"
+      ],
+      "title": "The Last Migration? Jerusalem's Gypsy Community",
+      "container": "Jerusalem Quarterly 18: 44-54",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2003,
+      "doi": "10.70190/jq.I18.p44",
+      "url": "https://www.palestine-studies.org/sites/default/files/jq-articles/18_last_Migration_2_0.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (11 pp.) in the journal's own open-access PDF; the publisher's site blocks automated requests, so the file was retrieved through the Internet Archive's capture of that URL (January 2026). The article draws on interviews with the community's mukhtar, Muhammad Deeb Sleem, and on Matras's linguistic work."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
+    },
+    {
       "id": "petrie-1898-syria-egypt-amarna",
       "type": "book",
       "authors": [
@@ -23883,6 +24609,25 @@
       },
       "kind": "academic",
       "institution_country": "IT"
+    },
+    {
+      "id": "pij-blog-afro-palestinians-jerusalem",
+      "type": "web",
+      "authors": [
+        "Bhinde, Jugal"
+      ],
+      "title": "The daily struggles of the Afro-Palestinian community in Jerusalem",
+      "container": "PIJ Blog, Palestine-Israel Journal",
+      "publisher": "Palestine-Israel Journal (East Jerusalem)",
+      "url": "https://www.pij.org/blogs/493/the-daily-struggles-of-the-afropalestinian-community-in-jerusalem",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole blog post (undated; written during the Covid-19 pandemic, about 2020-21) by a former intern of the Palestine-Israel Journal, a joint Israeli-Palestinian quarterly; based on interviews with community members."
+      },
+      "kind": "press",
+      "institution_country": "PS"
     },
     {
       "id": "pipes-2002-review-gelber",
@@ -24394,7 +25139,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passage on p. 192. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) and read p. 133 n. 29 (Tancred and the principality of Galilee) and p. 176 (Sidon 1110). Prawer was an Israeli historian (Hebrew University). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 133 n. 29 (Tancred's principality of Galilee incorporated into the kingdom under Baldwin I)."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passage on p. 192. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) and read p. 133 n. 29 (Tancred and the principality of Galilee) and p. 176 (Sidon 1110). Prawer was an Israeli historian (Hebrew University). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 133 n. 29 (Tancred's principality of Galilee incorporated into the kingdom under Baldwin I). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on French and the Mediterranean lingua franca (p. 192)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -24416,7 +25161,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century). | Re-read in Milestone 8: Re-read the opening of the chapter (HoC vol. V, p. 59) in the University of Wisconsin open-access scan."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century). | Re-read in Milestone 8: Re-read the opening of the chapter (HoC vol. V, p. 59) in the University of Wisconsin open-access scan. | Re-read in Milestone 8: Re-read in the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) pp. 59-60 (lists of communities), 66-68 (Melkites, Jacobites, Armenians), 77-79 (Jacobites, Copts, Ethiopians), 85-89 (Armenians and Georgians in Jerusalem) and 91 (Maronites). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 62 (Arabic among the Muslims of the crusader states) and 66 (the 'Syrians' or Melkites) in the University of Wisconsin Digital Collections copy saved earlier in this project."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -24789,6 +25534,29 @@
       "institution_country": "DE"
     },
     {
+      "id": "raphaeli-2004-emmena-hebrew",
+      "type": "chapter",
+      "authors": [
+        "Raphaeli, Ruth"
+      ],
+      "editors": [
+        "Mattar, Philip"
+      ],
+      "title": "Hebrew",
+      "container": "Encyclopedia of the Modern Middle East and North Africa, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2004,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/hebrew",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry, signed Ruth Raphaeli, as shown on the Encyclopedia.com 'Hebrew Language' page."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
       "type": "article",
       "authors": [
@@ -24955,7 +25723,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the open-access (redacted) thesis PDF from the University of Birmingham eTheses repository and read the passages on conversion and Christian demography (thesis pp. 212-213, 218-219 and 311-312)."
+        "note": "Downloaded the open-access (redacted) thesis PDF from the University of Birmingham eTheses repository and read the passages on conversion and Christian demography (thesis pp. 212-213, 218-219 and 311-312). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) section 4.3 'Linguistic transitions 700-900' (thesis pp. 236-238)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -25728,7 +26496,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22 (p. 18, Pompey and the Decapolis) and § 23.I (pp. 62, 94-95: the Pompeian era and the duration of the Decapolis). Note that p. 95 dates the province of Arabia to 105 CE, Div. I vol. 2 p. 361 to 106. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22.II.1, 'Hellenism in the non-Jewish regions', pp. 11-12. Dated scholarship (1910 printing of an 1885 translation)."
+        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22 (p. 18, Pompey and the Decapolis) and § 23.I (pp. 62, 94-95: the Pompeian era and the duration of the Decapolis). Note that p. 95 dates the province of Arabia to 105 CE, Div. I vol. 2 p. 361 to 106. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22.II.1, 'Hellenism in the non-Jewish regions', pp. 11-12. Dated scholarship (1910 printing of an 1885 translation). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 9-10 on Aramaic as the popular language of Palestine and Hebrew as 'the sacred language' (Internet Archive OCR of the University of Toronto scan)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -25786,7 +26554,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10. | Re-read in Milestone 8: Read in round H through the Sefaria texts API (JPS 2023 gender-sensitive translation): 2 Samuel 8:1-14, 10:1-19, 12:26-31; 2 Kings 15:19-20, 15:29-30, 16:5-9, 17:1-6, 18:7-16, 23:29-35, 24:1-7, 24:17-20; Jeremiah 27:1-8, 46:2, 47:1-5. | Re-read in Milestone 8: Read in M9 through the Sefaria texts API: Gen 10:15-19; Deut 26:5; Josh 10:40; Judg 1:27-33; 2 Kgs 16:6-9, 17:6, 17:24-29, 24:14-16, 25:11-12, 25:26; Jer 43:5-7, 44:1; Ezek 16:3; Amos 9:7; 1 Chr 5:26; Ezra 4:1-2, 4:9-10, 9:1; Neh 2:19, 13:23-24. | Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26. | Also recorded as a separate entry: Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) through the Sefaria texts API (JPS 2023 gender-sensitive translation): II Kings 17:24-41."
+        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10. | Re-read in Milestone 8: Read in round H through the Sefaria texts API (JPS 2023 gender-sensitive translation): 2 Samuel 8:1-14, 10:1-19, 12:26-31; 2 Kings 15:19-20, 15:29-30, 16:5-9, 17:1-6, 18:7-16, 23:29-35, 24:1-7, 24:17-20; Jeremiah 27:1-8, 46:2, 47:1-5. | Re-read in Milestone 8: Read in M9 through the Sefaria texts API: Gen 10:15-19; Deut 26:5; Josh 10:40; Judg 1:27-33; 2 Kgs 16:6-9, 17:6, 17:24-29, 24:14-16, 25:11-12, 25:26; Jer 43:5-7, 44:1; Ezek 16:3; Amos 9:7; 1 Chr 5:26; Ezra 4:1-2, 4:9-10, 9:1; Neh 2:19, 13:23-24. | Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26. | Also recorded as a separate entry: Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) through the Sefaria texts API (JPS 2023 gender-sensitive translation): II Kings 17:24-41. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) through the Sefaria texts saved earlier in this project: 2 Kings 17:24-41, Ezra 4:1-2 and Nehemiah 13:23-24."
       },
       "kind": "religious-institution",
       "institution_country": "US"
@@ -25830,6 +26598,27 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "seitz-2002-african-quarter-jerusalem",
+      "type": "article",
+      "authors": [
+        "Seitz, Charmaine"
+      ],
+      "title": "Pilgrimage to a New Self: The African Quarter and its people",
+      "container": "Jerusalem Quarterly 16: 43-51",
+      "publisher": "Institute for Palestine Studies",
+      "year": 2002,
+      "doi": "10.70190/jq.I16.p43",
+      "url": "https://www.palestine-studies.org/sites/default/files/jq-articles/16_pilgrimage_3.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (9 pp.) in the journal's own open-access PDF, retrieved through the Internet Archive's capture of that URL (November 2019) because the publisher's site blocks automated requests. Largely based on interviews with members of the Jedda family of the African Quarter."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
     },
     {
       "id": "sered-1989-rachels-tomb",
@@ -25974,6 +26763,26 @@
         "note": "Read the full article (author-posted PDF), esp. pp. 37-38."
       },
       "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "shindler-2022-nazis-holy-land",
+      "type": "web",
+      "authors": [
+        "Shindler, Colin"
+      ],
+      "title": "When Nazis roamed the Holy Land",
+      "container": "colinshindler.com",
+      "publisher": "Colin Shindler",
+      "year": 2022,
+      "url": "https://www.colinshindler.com/when-nazis-roamed-the-holy-land/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole essay (dated 20 April 2022) on the author's website. Shindler is emeritus professor at SOAS, University of London; the essay is a commentary drawing on Heidemarie Wawrzyn's book Nazis in the Holy Land 1933-1948."
+      },
+      "kind": "press",
       "institution_country": "GB"
     },
     {
@@ -26273,7 +27082,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Primary source (5th century). Downloaded and read book 5 ch. 3 (Constantia/Maiuma and Gaza, https://www.newadvent.org/fathers/26025.htm), book 6 ch. 38 (Mavia and the conversion of Saracens, this url) and book 7 ch. 15 (cities that remained pagan, https://www.newadvent.org/fathers/26027.htm)."
+        "note": "Primary source (5th century). Downloaded and read book 5 ch. 3 (Constantia/Maiuma and Gaza, https://www.newadvent.org/fathers/26025.htm), book 6 ch. 38 (Mavia and the conversion of Saracens, this url) and book 7 ch. 15 (cities that remained pagan, https://www.newadvent.org/fathers/26027.htm). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) Ecclesiastical History 5.3 (Gaza and Constantia/Maiumas) and 6.38 (the Saracens and their conversion) on New Advent."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -26351,7 +27160,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Open-access article; downloaded the HTML full text and read the abstract, introduction and discussion (dates of the 15th Dynasty; immigration versus invasion). | Re-read in Milestone 8: Re-read in M9 the HTML full text saved earlier: abstract, introduction, discussion and conclusions."
+        "note": "Open-access article; downloaded the HTML full text and read the abstract, introduction and discussion (dates of the 15th Dynasty; immigration versus invasion). | Re-read in Milestone 8: Re-read in M9 the HTML full text saved earlier: abstract, introduction, discussion and conclusions. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the abstract."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -26587,7 +27396,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry by Samy Swayd (a Druze scholar at San Diego State University) on Encyclopedia.com."
+        "note": "Read the full entry by Samy Swayd (a Druze scholar at San Diego State University) on Encyclopedia.com. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on the Druze self-designation and the closing of the faith to converts."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -26691,6 +27500,26 @@
       "institution_country": "IL"
     },
     {
+      "id": "talhami-1995-ewc-palestinians",
+      "type": "chapter",
+      "authors": [
+        "Talhami, Ghada"
+      ],
+      "title": "Palestinians",
+      "container": "Encyclopedia of World Cultures, vol. 9: Africa and the Middle East (online at Encyclopedia.com)",
+      "publisher": "G. K. Hall / Gale",
+      "year": 1995,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/palestinians",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry signed by Ghada Talhami (a Palestinian-American historian) on the Encyclopedia.com 'Palestinians' page, which also carries other works' entries; the print year is given as in that series' volume 9 and was not seen on the page."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "tappy-2009-samaria",
       "type": "chapter",
       "authors": [
@@ -26762,7 +27591,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full online entry (Turkish); printed in vol. 3 (Istanbul 1991)."
+        "note": "Read the full online entry (Turkish); printed in vol. 3 (Istanbul 1991). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the paragraph on Aramean religion (Turkish)."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -27078,7 +27907,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded and read the full online entry (Turkish); printed in vol. 13 (Istanbul 1996), pp. 397-398, according to the site. Presents the Arabic-Islamic tradition (Yemeni origin, Jafnid kings) alongside the Byzantine evidence."
+        "note": "Downloaded and read the full online entry (Turkish); printed in vol. 13 (Istanbul 1996), pp. 397-398, according to the site. Presents the Arabic-Islamic tradition (Yemeni origin, Jafnid kings) alongside the Byzantine evidence. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the paragraphs on the Ghassanids' language and Christianity (Turkish)."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -27723,7 +28552,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole English page (last changed 03.10.2026 per the page footer). It is the Temple Society's own history of its settlements and quotes the Israeli historian Alex Carmel; an interested but independent account relative to Schölch."
+        "note": "Read the whole English page (last changed 03.10.2026 per the page footer). It is the Temple Society's own history of its settlements and quotes the Israeli historian Alex Carmel; an interested but independent account relative to Schölch. | Re-read in Milestone 8: Re-read the whole page, including the sections on internment, deportation to Australia (1941) and departure (1948)."
       },
       "kind": "religious-institution",
       "institution_country": "DE",
@@ -27997,7 +28826,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the entry as reproduced on Encyclopedia.com (Gale), signed 'benyamim tsedaka' and attributed there to the Encyclopedia of the Modern Middle East and North Africa (year of that work's 2nd edition; the page gives no date). The same page reproduces an unsigned entry 'Samaritans' from another Gale reference work."
+        "note": "Read the entry as reproduced on Encyclopedia.com (Gale), signed 'benyamim tsedaka' and attributed there to the Encyclopedia of the Modern Middle East and North Africa (year of that work's 2nd edition; the page gives no date). The same page reproduces an unsigned entry 'Samaritans' from another Gale reference work. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the full entry on Encyclopedia.com (downloaded again on 2026-10-20): faith, language and script."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -30228,6 +31057,27 @@
       "institution_country": "US"
     },
     {
+      "id": "van-cleve-1969-fifth-crusade",
+      "type": "chapter",
+      "authors": [
+        "Van Cleve, Thomas C."
+      ],
+      "title": "The Fifth Crusade",
+      "container": "A History of the Crusades, vol. II: The Later Crusades, 1189-1311 (K. M. Setton gen. ed.; R. L. Wolff and H. W. Hazard, eds.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "pages": "377-428",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Internet Archive full text of Setton vol. II, p. 408 (the 1218-1219 conspiracy against al-Kamil). The University of Wisconsin publishes the series in its free digital collections; the Internet Archive copy is the one used for other chapters already in this project."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "vanderhooft-2007-conversation-lipschits",
       "type": "article",
       "editors": [
@@ -30301,6 +31151,26 @@
         "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read ch. 1-2 (on the 1914 protectorate and the 1922 grant of independence) and the chapter on the 1935-37 political transition (death of King Fu'ad, Faruq). Robert Vitalis is a US political scientist (University of Pennsylvania). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the open-access UC Press E-Books Collection edition downloaded earlier: ch. 1, section 'Oligarchic Democracy' (the 1914 protectorate and the 1922 grant of independence)."
       },
       "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "voa-2023-gaza-kurdish-quarter",
+      "type": "web",
+      "authors": [
+        "Kajjo, Sirwan"
+      ],
+      "title": "Gaza's Kurdish Quarter Survives Through History",
+      "container": "Voice of America (VOA News), video report",
+      "publisher": "Voice of America",
+      "year": 2023,
+      "url": "https://www.voanews.com/a/gaza-s-kurdish-quarter-survives-through-history/7180923.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the written summary of the video report (14 July 2023); the video itself was not watched."
+      },
+      "kind": "press",
       "institution_country": "US"
     },
     {
@@ -30686,7 +31556,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full report as reproduced on UNISPAL: sections II (description, Arabic and Hebrew names), the Jewish and Moslem claims, the Commission's findings and conclusions A-B. Signed by the commissioners Eliel Löfgren, Charles Barde and C. J. van Kempen, December 1930."
+        "note": "Read the full report as reproduced on UNISPAL: sections II (description, Arabic and Hebrew names), the Jewish and Moslem claims, the Commission's findings and conclusions A-B. Signed by the commissioners Eliel Löfgren, Charles Barde and C. J. van Kempen, December 1930. | Re-read in Milestone 8: Re-read section III (history) on the Abu Madian waqf and the Moghrabi Quarter."
       },
       "kind": "government",
       "institution_country": "GB",
@@ -31286,6 +32156,25 @@
       "institution_country": "IL"
     },
     {
+      "id": "zochrot-kafr-birim",
+      "type": "web",
+      "authors": [
+        "Zochrot (quoting Walid Khalidi, ed., All That Remains, 1992)"
+      ],
+      "title": "Kafr Bir'im (village page)",
+      "container": "Zochrot village database",
+      "publisher": "Zochrot (Israeli NGO)",
+      "url": "https://www.zochrot.org/villages/village_details/49225/en",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole English page, whose historical text is reproduced from Walid Khalidi (ed.), All That Remains (Institute for Palestine Studies, 1992); Khalidi's book itself was not read."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
       "id": "zochrot-lifta",
       "type": "web",
       "title": "Lifta",
@@ -31428,6 +32317,26 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "zuckermann-2009-hybridity-revivability",
+      "type": "article",
+      "authors": [
+        "Zuckermann, Ghil'ad"
+      ],
+      "title": "Hybridity versus Revivability: Multiple Causation, Forms and Patterns",
+      "container": "Journal of Language Contact, Varia 2",
+      "year": 2009,
+      "pages": "40-67",
+      "url": "https://www.professorzuckermann.com/articles",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the abstract and introduction (pp. 40-41) in the PDF posted by the author on his own website (linked from the articles page given as url)."
+      },
+      "kind": "academic",
+      "institution_country": "AU"
     }
   ]
 }

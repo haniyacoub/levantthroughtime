@@ -236,6 +236,24 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Late Bronze Age Canaanite is the oldest stage of the Canaanite branch of Northwest Semitic (beside Ugaritic and Aramaic); its ancestor is not in the data, and it was probably influenced by Amorite."
+        },
+        "sources": [
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 2",
+            "quote": "the related historical idioms of Syria-Palestine (now usually subdivided into the three branches Ugaritic, Canaanite, and Aramaic)"
+          },
+          {
+            "ref": "ej-2007-hebrew-language",
+            "locator": "Pre-biblical (Brovender)",
+            "quote": "Canaanite itself was probably under the strong influence of Amorite"
+          }
+        ]
       }
     },
     {
@@ -312,6 +330,26 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "Phoenician continues the Canaanite dialects of the Bronze Age coastal cities, whose earlier stage left traces in Akkadian texts; Punic was its North African offshoot."
+        },
+        "sources": [
+          {
+            "ref": "gzella-2012-phoenician",
+            "locator": "p. 55",
+            "quote": "“Phoenician” is a generic term applied to a number of mutually intelligible Canaanite dialects which were mainly used in the ancient city-states of Byblos, Tyre, and Sidon"
+          },
+          {
+            "ref": "gzella-2012-phoenician",
+            "locator": "p. 56",
+            "quote": "Predecessors of the Phoenician dialects which did not yet serve as written idioms may have left some traces in texts composed during the Late Bronze Age in Akkadian"
+          }
+        ]
       }
     },
     {
@@ -394,6 +432,24 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Ugaritic is a separate, more archaic branch of Northwest Semitic and a close relative, not the ancestor, of Canaanite."
+        },
+        "sources": [
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 2",
+            "quote": "the related historical idioms of Syria-Palestine (now usually subdivided into the three branches Ugaritic, Canaanite, and Aramaic)"
+          },
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 5",
+            "quote": "While the original situation in the ancestors of these idioms presumably resembled the same, more archaic, type of Northwest Semitic reflected by Ugaritic"
+          }
+        ]
       }
     },
     {
@@ -577,15 +633,48 @@
         },
         {
           "start": {
-            "year": 1880,
+            "year": 1800,
             "circa": true,
-            "precision": "decade"
+            "precision": "century"
+          },
+          "end": {
+            "year": 1881,
+            "precision": "year"
+          },
+          "role": "lingua-franca",
+          "speakers": {
+            "en": "Jews of different communities in Ottoman Palestine, who used Hebrew (in the Sephardi pronunciation) as a common language when they had no other",
+            "ar": "يهود من طوائف مختلفة في فلسطين العثمانية استعملوا العبرية (بالنطق السفاردي) لغةً مشتركة حين لم تكن لهم لغة أخرى مشتركة",
+            "he": "יהודים מעדות שונות בארץ ישראל העות'מאנית, שהשתמשו בעברית (בהגייה הספרדית) כשפה משותפת כשלא הייתה להם שפה משותפת אחרת",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "ej-2007-hebrew-language",
+              "locator": "Period of Revival (1881-1918), Ornan",
+              "quote": "Hebrew was spoken in Palestine even before the revival movement, but only as a lingua franca among Jews who had no other common language."
+            },
+            {
+              "ref": "ej-2007-hebrew-language",
+              "locator": "Period of Revival (1881-1918), Ornan",
+              "quote": "all the more so that Hebrew (in the Sephardi pronunciation) even before this had been the common language of different Jewish communities."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1881,
+            "precision": "year"
           },
           "role": "vernacular",
           "speakers": {
-            "en": "Revived as a spoken language by Jewish immigrants and their children in Ottoman and Mandatory Palestine, then in Israel",
-            "ar": "أُحييت لغةً منطوقة على يد المهاجرين اليهود وأبنائهم في فلسطين العثمانية والانتدابية، ثم في إسرائيل",
-            "he": "הוחיתה כשפה מדוברת בידי מהגרים יהודים וילדיהם בפלשתינה העות׳מאנית והמנדטורית, ואחר כך בישראל",
+            "en": "Revival as an everyday mother tongue, begun by Eliezer Ben-Yehuda's household in Jerusalem (1881), Hebrew schools and the new settlements, the Language Committee (1890), and immigrants who adopted it; by 1948 the main language of the Jewish population",
+            "ar": "إحياء العبرية لغةً أمّاً للحياة اليومية، بدءاً ببيت إليعيزر بن يهودا في القدس (1881) والمدارس العبرية والمستوطنات الجديدة ولجنة اللغة (1890) والمهاجرين الذين تبنّوها؛ وبحلول 1948 صارت اللغة الرئيسية للسكان اليهود",
+            "he": "תחייתה כשפת אם יומיומית, החל בבית אליעזר בן-יהודה בירושלים (1881), בתי ספר עבריים, המושבות החדשות, ועד הלשון (1890) ועולים שאימצו אותה; עד 1948 השפה העיקרית של האוכלוסייה היהודית",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -593,6 +682,36 @@
           },
           "confidence": "documented",
           "sources": [
+            {
+              "ref": "ej-2007-hebrew-language",
+              "locator": "Modern Period (Eytan)",
+              "quote": "The growth of Hebrew as a modern language, spoken by masses and gradually used in all areas of life and thought, may be divided into three stages corresponding to periods in the history of modern Palestine"
+            },
+            {
+              "ref": "ej-2007-hebrew-language",
+              "locator": "Modern Period (Eytan)",
+              "quote": "He and his followers developed and propagated Hebrew in everyday life."
+            },
+            {
+              "ref": "raphaeli-2004-emmena-hebrew",
+              "locator": "main text",
+              "quote": "led by Eliezer Ben-Yehuda (1857-1922), who in 1881 settled in Jerusalem and pioneered Hebrew usage at home and in school."
+            },
+            {
+              "ref": "raphaeli-2004-emmena-hebrew",
+              "locator": "main text",
+              "quote": "cofounded the Language Committee (1890-1953), which began dealing with language planning issues and set normative measures."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 288",
+              "quote": "In 1948 some 70% of Jewish adults and 93% of Jewish children spoke Hebrew as their only or principal language"
+            },
+            {
+              "ref": "zuckermann-2009-hybridity-revivability",
+              "locator": "p. 40 (abstract)",
+              "quote": "illustrating the difficulty in determining a single source for the grammar of Israeli, somewhat misleadingly a.k.a. 'Modern Hebrew'."
+            },
             {
               "ref": "bachi-1977",
               "locator": "p. 286",
@@ -602,11 +721,6 @@
               "ref": "bachi-1977",
               "locator": "p. 286",
               "quote": "some 40% of the Jewish population in Palestine spoke this language. Their absolute number was about 34,000"
-            },
-            {
-              "ref": "bachi-1977",
-              "locator": "p. 288",
-              "quote": "In 1948 some 70% of Jewish adults and 93% of Jewish children spoke Hebrew as their only or principal language"
             },
             {
               "ref": "britannica-hebrew-language",
@@ -701,6 +815,46 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "Hebrew is a Canaanite language whose pre-biblical stage is glimpsed in the Amarna glosses; it continued as Biblical, Mishnaic, medieval and revived Modern Hebrew, which most linguists treat as the same language while Zuckermann calls it \"Israeli\", a hybrid shaped also by Yiddish and other European languages."
+        },
+        "sources": [
+          {
+            "ref": "nce-2003-canaan-canaanites",
+            "locator": "main text",
+            "quote": "Biblical Hebrew is a Canaanite dialect"
+          },
+          {
+            "ref": "ej-2007-hebrew-language",
+            "locator": "Pre-biblical (Brovender)",
+            "quote": "these glosses remain the most direct evidence of pre-biblical Hebrew."
+          },
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "pp. 6-7",
+            "quote": "they can be divided into a Canaanite (comprising Phoenician, Hebrew, and some Transjordanian idioms) and an Aramaic branch"
+          },
+          {
+            "ref": "raphaeli-2004-emmena-hebrew",
+            "locator": "main text",
+            "quote": "During its long history (which follows the historical course of the Jewish people), it has undergone diverse changes and has developed several different layers, from biblical Hebrew to modern Israeli Hebrew."
+          },
+          {
+            "ref": "zuckermann-2009-hybridity-revivability",
+            "locator": "p. 40 (abstract)",
+            "quote": "one should expect revival efforts to result in a language with a hybridic genetic and typological character."
+          },
+          {
+            "ref": "zuckermann-2009-hybridity-revivability",
+            "locator": "p. 40 (abstract)",
+            "quote": "'Revived' languages are unlikely to have a single parent."
+          }
+        ]
       }
     },
     {
@@ -769,6 +923,26 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "Moabite is one of the Iron Age Canaanite languages east of the Jordan, grouped with Edomite and southern Hebrew as South Canaanite (Beyer)."
+        },
+        "sources": [
+          {
+            "ref": "beyer-2012-languages-transjordan",
+            "locator": "p. 111",
+            "quote": "Several Canaanite languages were spoken east of the Jordan River and the Dead Sea, all of them known from only a few inscriptions each"
+          },
+          {
+            "ref": "beyer-2012-languages-transjordan",
+            "locator": "p. 111",
+            "quote": "Moabite and Edomite in the south, which are best associated with the richly preserved South Hebrew of the isolated border state of Judah as the conservative South Canaanite."
+          }
+        ]
       }
     },
     {
@@ -954,6 +1128,24 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Aramaic is a separate branch of Northwest Semitic beside Canaanite, with a continuous history from the 10th century BCE to the present."
+        },
+        "sources": [
+          {
+            "ref": "folmer-2012-old-imperial-aramaic",
+            "locator": "p. 128",
+            "quote": "Most twentieth-century scholars hold that among the Northwest Semitic languages, Aramaic represents a separate group distinct from Canaanite (which includes, for instance, Hebrew) and Ugaritic."
+          },
+          {
+            "ref": "folmer-2012-old-imperial-aramaic",
+            "locator": "p. 128",
+            "quote": "The extensive and greatly ramified Aramaic language group has a continuous history from the tenth century bce to the present day"
+          }
+        ]
       }
     },
     {
@@ -1022,6 +1214,26 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [
+          "aramaic"
+        ],
+        "note": {
+          "en": "Nabataean Aramaic is one of the regional written forms of Aramaic that grew out of the Achaemenid chancery language."
+        },
+        "sources": [
+          {
+            "ref": "folmer-2012-old-imperial-aramaic",
+            "locator": "p. 130",
+            "quote": "While the Aramaic language gradually diversified in this period, its basic characteristics echo the Aramaic of the Achaemenid chanceries. This is particularly true for Nabataean Aramaic"
+          },
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 12",
+            "quote": "Nabataean, Palmyrene, Hatran, and Edessan Aramaic (this last being the ancestor of Classical Syriac, later the lingua franca of the Christian Near East) entered the light of history."
+          }
+        ]
       }
     },
     {
@@ -1083,6 +1295,26 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [
+          "aramaic"
+        ],
+        "note": {
+          "en": "Syriac grew out of the Eastern Aramaic dialect of Edessa and became the literary and liturgical language of Syriac Christianity."
+        },
+        "sources": [
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 12",
+            "quote": "Edessan Aramaic (this last being the ancestor of Classical Syriac, later the lingua franca of the Christian Near East)"
+          },
+          {
+            "ref": "britannica-syriac-language",
+            "locator": "main text",
+            "quote": "Syriac was based on the East Aramaic dialect of Edessa"
+          }
+        ]
       }
     },
     {
@@ -1583,6 +1815,29 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Arabic is a Central Semitic language related to, but not descended from, Aramaic and Canaanite; its pre-Islamic stage (Old Arabic) was mostly spoken, while its script descends from the Nabataean Aramaic alphabet."
+        },
+        "sources": [
+          {
+            "ref": "folmer-2012-old-imperial-aramaic",
+            "locator": "p. 128",
+            "quote": "the Northwest Semitic languages have been viewed as part of Central Semitic (which also includes Arabic)."
+          },
+          {
+            "ref": "macdonald-2009-arabs-arabias-arabic",
+            "locator": "p. 310",
+            "quote": "I have suggested defining Old Arabic as Arabic from the pre-Islamic period representing some of the ancestors of some of the forms of Arabic known from the seventh century AD onwards."
+          },
+          {
+            "ref": "britannica-arabic-alphabet",
+            "locator": "main text",
+            "quote": "Although it probably developed in the 4th century ce as a direct descendant of the Nabataean alphabet, its origins and early history are vague."
+          }
+        ]
       }
     },
     {
@@ -1844,6 +2099,19 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Yiddish is a Germanic language of the Ashkenazim written in Hebrew letters; its German ancestor dialects are not in the data, and Hebrew and Aramaic are a component of it rather than its ancestors."
+        },
+        "sources": [
+          {
+            "ref": "britannica-yiddish-language",
+            "locator": "main text",
+            "quote": "one of the many Germanic languages that form a branch of the Indo-European language family. Yiddish is the language of the Ashkenazim"
+          }
+        ]
       }
     },
     {
@@ -1906,6 +2174,19 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Ladino (Judeo-Spanish) continues the Castilian Spanish of the Jews expelled from Spain, with Hebrew and other elements; its ancestor is not in the data."
+        },
+        "sources": [
+          {
+            "ref": "britannica-ladino-language",
+            "locator": "main text",
+            "quote": "A very archaic form of Castilian Spanish mixed somewhat with Hebrew elements"
+          }
+        ]
       }
     },
     {
@@ -1968,6 +2249,19 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Circassian (Adyghe and Kabardian) belongs to the Northwest Caucasian family and is unrelated to the Semitic languages of the region."
+        },
+        "sources": [
+          {
+            "ref": "ewc-circassians",
+            "locator": "section \"Linguistic Affiliation\"",
+            "quote": "Circassian and Ubykh form two branches of the Northwest Caucasian Language Family"
+          }
+        ]
       }
     },
     {
@@ -2166,6 +2460,19 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "The original language of the Philistines is unknown and left no descendants; the Philistines shifted to Canaanite, then Aramaic and Greek."
+        },
+        "sources": [
+          {
+            "ref": "britannica-philistine",
+            "locator": "main text",
+            "quote": "There are no documents in the Philistine language, which was probably replaced by Canaanite, Aramaic, and, later, Greek."
+          }
+        ]
       }
     },
     {
@@ -2515,6 +2822,870 @@
         "en": "An endangered Indo-Aryan language related to Romani; speakers call themselves Dom and dislike the Arabic name Nawar (Matras 1999). Domari has always been oral, so no script is given (Matras). Estimates of the Jerusalem community in the late 1990s range from about 600-700 people to the community's own figure of up to 1,000 (Matras 1999), with up to some 200 elderly speakers (Matras 2006). Many Jerusalem Dom moved to Amman in 1967. Dom presence in Palestine before the 19th-century word lists is likely but is not dated by these sources.",
         "ar": "لغة هندية آرية مهددة بالانقراض قريبة من الرومانية؛ يسمي متحدثوها أنفسهم الدوم ولا يحبون الاسم العربي النَّوَر (ماتراس 1999). وظلت الدومرية لغة شفوية دائمًا، ولذلك لا يُعطى لها خط (ماتراس). وتتراوح تقديرات حجم جماعة القدس في أواخر التسعينيات بين نحو 600-700 شخص ورقم الجماعة نفسها البالغ حتى 1,000 (ماتراس 1999)، مع ما يصل إلى نحو 200 متحدث من كبار السن (ماتراس 2006). وانتقل كثير من دوم القدس إلى عمّان عام 1967. ومن المرجح وجود الدوم في فلسطين قبل قوائم الكلمات في القرن التاسع عشر، لكن هذه المصادر لا تؤرخه.",
         "he": "שפה הודו-ארית בסכנת הכחדה הקרובה לרומאני; דובריה מכנים עצמם דום ואינם אוהבים את הכינוי הערבי נַוַר (מטראס 1999). הדומארית הייתה תמיד שפה בעל-פה, ולכן לא ניתן לה כתב (מטראס). ההערכות לגודל קהילת ירושלים בסוף שנות ה-90 נעות בין כ-600-700 נפש לבין הנתון של הקהילה עצמה, עד 1,000 (מטראס 1999), ועד כ-200 דוברים קשישים (מטראס 2006). רבים מדום ירושלים עברו לעמאן ב-1967. נוכחות הדום בארץ לפני רשימות המילים של המאה ה-19 סבירה, אך מקורות אלה אינם מתארכים אותה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Domari is an Indic (New Indo-Aryan) language brought by the Dom; its ancestor is not in the data and its speakers are shifting to Arabic."
+        },
+        "sources": [
+          {
+            "ref": "matras-1999-domari-jerusalem",
+            "locator": "p. 1",
+            "quote": "Domari is an endangered Indic language spoken in a socially isolated and marginalised community"
+          },
+          {
+            "ref": "matras-1999-domari-jerusalem",
+            "locator": "p. 16 (section 4.2)",
+            "quote": "Like other New Indo-Aryan (NIA) languages, Domari shows a layered system of nominal inflection."
+          }
+        ]
+      }
+    },
+    {
+      "id": "amorite",
+      "name": {
+        "en": "Amorite (known from personal names)",
+        "ar": "الأمورية (معروفة من أسماء الأعلام)",
+        "he": "אמורית (ידועה משמות פרטיים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Northwest, earliest stage)",
+      "periods": [
+        {
+          "start": {
+            "year": -2400,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -1600,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "West Semitic-speaking groups called Amorites in Sumerian and Akkadian texts; people with such names are recorded in Middle Bronze Age Palestine by the Egyptian Execration Texts",
+            "ar": "جماعات ناطقة بالسامية الغربية سمّتها النصوص السومرية والأكادية «الأموريين»؛ وتسجّل نصوص اللعنات المصرية أشخاصاً بأسماء كهذه في فلسطين في العصر البرونزي الوسيط",
+            "he": "קבוצות דוברות שמית מערבית שהטקסטים השומריים והאכדיים כינו «אמורים»; טקסטי המארות המצריים מתעדים אנשים בשמות כאלה בארץ בתקופת הברונזה התיכונה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "ej-2007-amorites",
+              "locator": "section \"Extra-biblical Sources\"",
+              "quote": "That they were even present in Palestine is witnessed by the Egyptian Execration Texts of the 20th and 19th centuries."
+            },
+            {
+              "ref": "ej-2007-amorites",
+              "locator": "section \"Extra-biblical Sources\"",
+              "quote": "Their language did not survive in writing, but when they took over Akkadian Old Babylonian, they transliterated their names"
+            },
+            {
+              "ref": "gzella-2012-introduction",
+              "locator": "p. 2",
+              "quote": "The onomasticon of the “Amorites,” nomadic groups infiltrating the Levant, constitutes the principal set of data for the most archaic stage of Northwest Semitic."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "gzella-2012-introduction",
+          "locator": "p. 2",
+          "quote": "The onomasticon of the “Amorites,” nomadic groups infiltrating the Levant, constitutes the principal set of data for the most archaic stage of Northwest Semitic."
+        }
+      ],
+      "notes": {
+        "en": "Never written as a language of its own: it is reconstructed from personal names and a few words in Akkadian and Egyptian texts. Whether it is the ancestor of Canaanite or Aramaic is disputed (see language lineage). The Hyksos' West Semitic names are attached to this record only provisionally.",
+        "ar": "لم تُكتب قط لغةً مستقلة: تُستعاد من أسماء الأعلام وكلمات قليلة في النصوص الأكادية والمصرية. ومسألة كونها أصل الكنعانية أو الآرامية موضع خلاف. وتُلحق أسماء الهكسوس السامية الغربية بهذا السجل مؤقتاً.",
+        "he": "מעולם לא נכתבה כשפה בפני עצמה: היא משוחזרת משמות פרטיים ומכמה מילים בטקסטים אכדיים ומצריים. השאלה אם היא אם הכנענית או הארמית שנויה במחלוקת. שמות ההיקסוס השמיים-מערביים משויכים לרשומה זו באופן זמני.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "The earliest-known stage of Northwest Semitic, attested only in names; whether it is the ancestor of Canaanite or Aramaic, or a side branch, is disputed."
+        },
+        "sources": [
+          {
+            "ref": "ej-2007-amorites",
+            "locator": "section \"Extra-biblical Sources\"",
+            "quote": "It is still a matter of considerable scholarly dispute whether the language of this group was the direct predecessor of Canaanite-Hebrew or Aramaic, or whether it was rather an early development without immediate ties to any of the later"
+          },
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 2",
+            "quote": "By and large, however, this indirect evidence defies any straightforward connection with the later, historical, languages of the area."
+          },
+          {
+            "ref": "ej-2007-hebrew-language",
+            "locator": "Pre-biblical (Brovender)",
+            "quote": "Amorite, however, is not Canaanite"
+          }
+        ]
+      }
+    },
+    {
+      "id": "philistian",
+      "name": {
+        "en": "Philistian (Iron Age Canaanite dialect of the Philistine cities)",
+        "ar": "الفلسطية (لهجة كنعانية في مدن الفلستيين في العصر الحديدي)",
+        "he": "פלשתית-כנענית (הניב הכנעני של ערי פלשת בתקופת הברזל)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "scripts": [
+        "Phnx"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -900,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -400,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Philistine cities of the southern coastal plain (Ekron royal dedication of the 7th century BCE; Ashdod ostracon of the late 5th century BCE)",
+            "ar": "مدن الفلستيين في السهل الساحلي الجنوبي (نقش الإهداء الملكي في عقرون من القرن السابع ق.م.؛ شقفة أسدود من أواخر القرن الخامس ق.م.)",
+            "he": "ערי פלשת בשפלת החוף הדרומית (כתובת ההקדשה המלכותית מעקרון מהמאה ה-7 לפנה״ס; אוסטרקון אשדוד מסוף המאה ה-5 לפנה״ס)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "ej-2007-philistines",
+              "locator": "main text",
+              "quote": "From the ninth century on, a variant of the Phoenician-Hebrew script was used in Philistia."
+            },
+            {
+              "ref": "ej-2007-philistines",
+              "locator": "main text",
+              "quote": "is written in a Canaanite dialect, and dedicated to a goddess Potgaya"
+            },
+            {
+              "ref": "ej-2007-philistines",
+              "locator": "main text",
+              "quote": "Ashdodite (Neh. 13:24) refers to such a local (Canaanite?) dialect and an ostracon from the late fifth century reading krm zbdyh was found at Ashdod."
+            },
+            {
+              "ref": "gzella-2012-ancient-hebrew",
+              "locator": "p. 78",
+              "quote": "it is debated whether the inscriptions from these cities were composed in a local variant or in Hebrew"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "ej-2007-philistines",
+          "locator": "main text",
+          "quote": "Soon after coming to Palestine, the Philistines adopted a Canaanite dialect, and this in turn gave way to Aramaic."
+        }
+      ],
+      "notes": {
+        "en": "A working name for the Canaanite language that the Philistines adopted after settling; it is not the Philistines' original (undocumented) language, for which see 'philistine'. Some scholars regard the inscriptions as Hebrew or Phoenician rather than a local dialect (Gzella). 'The language of Ashdod' of Nehemiah 13:24 is textual tradition.",
+        "ar": "اسم عمل للغة الكنعانية التي تبنّاها الفلستيون بعد استقرارهم، وليست لغتهم الأصلية غير الموثقة (انظر 'philistine'). ويرى بعض الباحثين أن النقوش عبرية أو فينيقية لا لهجة محلية. و«لسان أشدود» في نحميا 13:24 تقليد نصي.",
+        "he": "שם עבודה לשפה הכנענית שהפלשתים אימצו לאחר התיישבותם; אין זו שפתם המקורית שאינה מתועדת (ראו 'philistine'). יש חוקרים הרואים בכתובות עברית או פיניקית ולא ניב מקומי. «אשדודית» שבנחמיה יג 24 היא מסורת טקסטואלית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "The Iron Age language of the Philistine city inscriptions is a Canaanite dialect adopted by the Philistines, not a descendant of their original language; it later gave way to Aramaic."
+        },
+        "sources": [
+          {
+            "ref": "ej-2007-philistines",
+            "locator": "main text",
+            "quote": "Soon after coming to Palestine, the Philistines adopted a Canaanite dialect, and this in turn gave way to Aramaic."
+          },
+          {
+            "ref": "gzella-2012-ancient-hebrew",
+            "locator": "p. 78",
+            "quote": "it is debated whether the inscriptions from these cities were composed in a local variant or in Hebrew"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ammonite",
+      "name": {
+        "en": "Ammonite",
+        "ar": "العمونية",
+        "he": "עמונית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "periods": [
+        {
+          "start": {
+            "year": -900,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -500,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Kingdom of Ammon (capital Rabbat Ammon, modern Amman): royal inscriptions from the 9th to the 6th century BCE, ostraca and many seals",
+            "ar": "مملكة عمّون (عاصمتها ربّة عمّون، عمّان الحديثة): نقوش ملكية من القرن التاسع إلى السادس ق.م. وشقف وأختام كثيرة",
+            "he": "ממלכת עמון (בירתה רבת עמון, עמאן של ימינו): כתובות מלכותיות מהמאה ה-9 עד המאה ה-6 לפנה״ס, אוסטרקונים וחותמות רבים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "beyer-2012-languages-transjordan",
+              "locator": "p. 122",
+              "quote": "the Amman Citadel fragment (9th c. bce, KAI 307), the undamaged Tell Siran bottle inscription (7th c. bce, KAI 308), and the Amman Theater fragment (6th c. bce)"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "ej-2007-ammon",
+          "locator": "main text",
+          "quote": "Evidence about the Ammonite script and language is available from many names and a few epigraphic discoveries."
+        }
+      ],
+      "notes": {
+        "en": "Written in a form of the Aramaic alphabet (Beyer), so no separate script code is given. A 5th-century BCE ostracon from Tell el-Mazar is also cited as Ammonite (Beyer, p. 113).",
+        "ar": "كُتبت بصيغة من الأبجدية الآرامية (باير)، فلم يُعطَ رمز خط مستقل. وتُذكر شقفة من تل المزار من القرن الخامس ق.م. بوصفها عمونية أيضاً.",
+        "he": "נכתבה בצורה של הכתב הארמי (באייר), ולכן לא ניתן קוד כתב נפרד. אוסטרקון מתל אל-מזאר מהמאה ה-5 לפנה״ס מובא גם הוא כעמוני.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "Ammonite is an Iron Age Canaanite language, grouped by Beyer with the north Hebrew of Israel as Central Canaanite."
+        },
+        "sources": [
+          {
+            "ref": "beyer-2012-languages-transjordan",
+            "locator": "p. 111",
+            "quote": "Ammonite and South Gileadite (Deir ʿAlla) in the north, which are best grouped together with the equally poorly attested North Hebrew of the cosmopolitan, ethnically and religiously diverse state of Israel as Central Canaanite"
+          }
+        ]
+      }
+    },
+    {
+      "id": "edomite",
+      "name": {
+        "en": "Edomite",
+        "ar": "الأدومية",
+        "he": "אדומית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Northwest, Canaanite)",
+      "periods": [
+        {
+          "start": {
+            "year": -700,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": -552,
+            "circa": true,
+            "precision": "year"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "Kingdom of Edom (capital Bozrah, south-east of the Dead Sea): some 30 ostraca, seals and inscriptions of the 7th-6th centuries BCE",
+            "ar": "مملكة أدوم (عاصمتها بصيرة، جنوب شرقي البحر الميت): نحو 30 شقفة وختماً ونقشاً من القرنين السابع والسادس ق.م.",
+            "he": "ממלכת אדום (בירתה בצרה, דרום-מזרחית לים המלח): כ-30 אוסטרקונים, חותמות וכתובות מהמאות ה-7-6 לפנה״ס",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "beyer-2012-languages-transjordan",
+              "locator": "p. 123",
+              "quote": "A third kingdom, Edom, existed from the eighth to the sixth centuries bce (734-552 bce?) south of the Dead Sea"
+            },
+            {
+              "ref": "beyer-2012-languages-transjordan",
+              "locator": "p. 123",
+              "quote": "are distinguished from South Hebrew only by a few special lettershapes and the frequent mention of the god QWS Qaws > Qōs."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "beyer-2012-languages-transjordan",
+          "locator": "p. 123",
+          "quote": "The prerequisites for an Edomite chancery language of its own were thus satisfied."
+        }
+      ],
+      "notes": {
+        "en": "'Estimated' because Beyer finds the Edomite texts barely distinguishable from southern Hebrew; whether Edomite was a language of its own is uncertain. Later Idumean ostraca are in Aramaic (see 'aramaic').",
+        "ar": "«تقديري» لأن باير يجد النصوص الأدومية لا تكاد تتميز عن العبرية الجنوبية؛ فكونها لغة مستقلة غير مؤكد. والشقف الأدومية (الإدومية) اللاحقة بالآرامية.",
+        "he": "«מוערך» משום שבאייר מוצא שהטקסטים האדומיים כמעט אינם נבדלים מהעברית הדרומית; ספק אם האדומית הייתה שפה בפני עצמה. אוסטרקונים אדומיים מאוחרים כתובים ארמית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "canaanite-bronze-age"
+        ],
+        "note": {
+          "en": "Edomite is an Iron Age Canaanite language so close to southern Hebrew that its inscriptions differ mainly in letter shapes and the god Qos."
+        },
+        "sources": [
+          {
+            "ref": "beyer-2012-languages-transjordan",
+            "locator": "p. 111",
+            "quote": "Moabite and Edomite in the south, which are best associated with the richly preserved South Hebrew of the isolated border state of Judah as the conservative South Canaanite."
+          },
+          {
+            "ref": "beyer-2012-languages-transjordan",
+            "locator": "p. 123",
+            "quote": "are distinguished from South Hebrew only by a few special lettershapes and the frequent mention of the god QWS Qaws > Qōs."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ancient-north-arabian",
+      "name": {
+        "en": "Ancient North Arabian (cluster of dialects)",
+        "ar": "العربية الشمالية القديمة (مجموعة لهجات)",
+        "he": "ערבית צפונית עתיקה (אשכול ניבים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Central, Arabian)",
+      "scripts": [
+        "Narb"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": -800,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "North Arabian tribes of the desert margins (e.g. Qedar); by the 6th century BCE some had settled in southern and eastern Palestine",
+            "ar": "قبائل عربية شمالية على أطراف البادية (مثل قيدار)؛ وبحلول القرن السادس ق.م. استقر بعضها في جنوب فلسطين وشرقها",
+            "he": "שבטים ערביים צפוניים בשולי המדבר (כגון קדר); עד המאה ה-6 לפנה״ס התיישבו חלקם בדרום הארץ ובמזרחה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "gzella-2012-introduction",
+              "locator": "p. 9",
+              "quote": "can be traced from the eighth century bce on."
+            },
+            {
+              "ref": "gzella-2012-introduction",
+              "locator": "p. 9",
+              "quote": "By the sixth century bce, North Arabian tribes had settled in southern and eastern Palestine."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "gzella-2012-introduction",
+          "locator": "p. 9",
+          "quote": "Their languages, which are mostly subsumed under the generic term “Ancient North Arabian” (in fact the designation of a rather diverse cluster of dialects) and are distinct from the South Arabian branch"
+        }
+      ],
+      "notes": {
+        "en": "A cover term for diverse dialects known from short inscriptions. Macdonald warns that very little is known of what the 'Arabs' of the Assyrian texts spoke, so attaching this record to the Iron Age Arabs is 'estimated'. The end of use is not given in the sources read.",
+        "ar": "مصطلح جامع للهجات متنوعة معروفة من نقوش قصيرة. ويحذّر ماكدونالد من أن ما يُعرف عن لغة «العرب» في النصوص الآشورية قليل جداً، لذا فربط هذا السجل بعرب العصر الحديدي «تقديري». ولا تذكر المصادر المقروءة نهاية استعمالها.",
+        "he": "מונח כולל לניבים מגוונים הידועים מכתובות קצרות. מקדונלד מזהיר שמעט מאוד ידוע על שפת ה«ערבים» בטקסטים האשוריים, ולכן שיוך רשומה זו לערביי תקופת הברזל הוא «מוערך». סוף השימוש אינו מצוין במקורות שנקראו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Ancient North Arabian is a cluster of dialects of the North Arabian tribes; Classical Arabic is usually seen as belonging to a sister branch rather than descending from it."
+        },
+        "sources": [
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 9",
+            "quote": "Classical Arabic, which is often viewed as belonging to a sister-branch of Ancient North Arabian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "judaeo-arabic",
+      "name": {
+        "en": "Judaeo-Arabic",
+        "ar": "العربية اليهودية",
+        "he": "ערבית-יהודית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Central, Arabic)",
+      "scripts": [
+        "Hebr"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 750,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Jews in the Arabic-speaking lands, including Palestine (everyday speech and much religious and secular writing, mostly in Hebrew letters); later Jewish immigrants to Israel from Asian and African countries",
+            "ar": "اليهود في البلاد الناطقة بالعربية ومنها فلسطين (لغة الحديث اليومي وكثير من الكتابة الدينية والدنيوية، غالباً بحروف عبرية)؛ ولاحقاً المهاجرون اليهود إلى إسرائيل من بلدان آسيا وأفريقيا",
+            "he": "יהודים בארצות דוברות ערבית, ובהן ארץ ישראל (דיבור יומיומי וכתיבה דתית וחילונית רבה, בעיקר באותיות עבריות); ובהמשך עולים יהודים לישראל מארצות אסיה ואפריקה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "halkin-2007-ej-judeo-arabic-literature",
+              "locator": "section \"The East\" (opening)",
+              "quote": "It may be surmised that Arabic gradually displaced the Aramaic vernacular, initially in the larger centers, and that the Jewish population began to use it in its everyday intercourse from about the eighth century."
+            },
+            {
+              "ref": "emmena-2004-jews-middle-east",
+              "locator": "main text",
+              "quote": "Jewish merchants kept records in Arabic rendered in Hebrew script"
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "p. 286",
+              "quote": "Jews from Asia and Africa used Arabic or special Arabic-Jewish dialects."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "halkin-2007-ej-judeo-arabic-literature",
+          "locator": "opening",
+          "quote": "written in Arabic by Jews for Jews. It is written in an idiom which is linguistically closer to the spoken form of Arabic than is the idiom used in Muslim literature."
+        }
+      ],
+      "notes": {
+        "en": "Halkin's 'from about the eighth century' is his own estimate ('it may be surmised'). Its present use in Israel is not documented in the sources read, so the period has no end.",
+        "ar": "عبارة هلكين «منذ القرن الثامن تقريباً» تقدير منه («يمكن الافتراض»). ولا توثّق المصادر المقروءة استعمالها الحالي في إسرائيل، فلا نهاية للفترة.",
+        "he": "«מן המאה השמינית בערך» של הלקין היא הערכה שלו («ניתן לשער»). השימוש בה כיום בישראל אינו מתועד במקורות שנקראו, ולכן לתקופה אין סוף.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "arabic"
+        ],
+        "note": {
+          "en": "Judaeo-Arabic is the Arabic of Jews in the Islamic world, closer to spoken Arabic than Muslim literary Arabic and mostly written in Hebrew letters."
+        },
+        "sources": [
+          {
+            "ref": "halkin-2007-ej-judeo-arabic-literature",
+            "locator": "opening",
+            "quote": "written in Arabic by Jews for Jews. It is written in an idiom which is linguistically closer to the spoken form of Arabic than is the idiom used in Muslim literature."
+          },
+          {
+            "ref": "bachi-1977",
+            "locator": "p. 286",
+            "quote": "Jews from Asia and Africa used Arabic or special Arabic-Jewish dialects."
+          }
+        ]
+      }
+    },
+    {
+      "id": "palestinian-arabic",
+      "name": {
+        "en": "Palestinian Arabic (spoken)",
+        "ar": "العربية الفلسطينية (المحكية)",
+        "he": "ערבית פלסטינית (מדוברת)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Central, Arabic; South Levantine)",
+      "scripts": [
+        "Arab"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1880,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Palestinian Arabs - Muslims, Christians and Druze - in Palestine, Israel and the diaspora, with urban, rural and Bedouin varieties; Modern Standard Arabic is used for writing",
+            "ar": "العرب الفلسطينيون - مسلمين ومسيحيين ودروزاً - في فلسطين وإسرائيل والشتات، بتنويعات مدنية وريفية وبدوية؛ وتُستعمل العربية الفصحى الحديثة في الكتابة",
+            "he": "ערבים פלסטינים - מוסלמים, נוצרים ודרוזים - בפלסטין, בישראל ובתפוצות, בגוונים עירוניים, כפריים ובדואיים; הערבית הספרותית המודרנית משמשת לכתיבה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "ej-2007-hebrew-language",
+              "locator": "Period of Revival (1881-1918), Ornan",
+              "quote": "The most common spoken language was local colloquial Arabic, which was used only as a spoken vernacular"
+            },
+            {
+              "ref": "talhami-1995-ewc-palestinians",
+              "locator": "section \"Linguistic Affiliation\"",
+              "quote": "Palestinians speak a distinct dialect of Arabic but write classical Arabic, like the rest of the Arab world."
+            },
+            {
+              "ref": "dibas-2022-maknuune-palestinian-arabic",
+              "locator": "p. 1",
+              "quote": "PAL consists of several subdialects in the region of Historic Palestine that vary in terms of their phonology and lexical choice"
+            },
+            {
+              "ref": "britannica-israel-people",
+              "locator": "section \"Arabs\"",
+              "quote": "Arabs, whether Christian, Muslim, or Druze, speak Levantine Arabic and learn Modern Standard Arabic in school."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "dibas-2022-maknuune-palestinian-arabic",
+          "locator": "p. 1",
+          "quote": "we focus on Palestinian Arabic (PAL), which is part of the South Levantine Arabic dialect subgroup."
+        }
+      ],
+      "notes": {
+        "en": "The spoken dialects are much older than 1880; the start is the earliest date for which the sources read describe them (Ornan, on late Ottoman Palestine). Recorded as a modern spoken variety of 'arabic', which continues to cover the standard written language. Loans from Syriac, Turkish, Persian, English and Modern Hebrew are noted by the Maknuune team.",
+        "ar": "اللهجات المحكية أقدم بكثير من 1880؛ والبداية هي أقدم تاريخ تصفها فيه المصادر المقروءة (أورنان، عن فلسطين في أواخر العهد العثماني). سُجّلت بوصفها تنويعاً محكياً حديثاً من 'arabic' الذي يظل يغطي اللغة المكتوبة الفصحى.",
+        "he": "הניבים המדוברים עתיקים בהרבה מ-1880; ההתחלה היא התאריך המוקדם ביותר שבו המקורות שנקראו מתארים אותם (אורנן, על ארץ ישראל בשלהי התקופה העות'מאנית). נרשמה כגוון מדובר מודרני של 'arabic', שממשיך לכסות את השפה הכתובה התקנית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "arabic"
+        ],
+        "note": {
+          "en": "Palestinian Arabic is the spoken Arabic of the Palestinians, part of South Levantine Arabic, with urban, rural and Bedouin varieties and loanwords from Syriac, Turkish, Persian, English and Modern Hebrew."
+        },
+        "sources": [
+          {
+            "ref": "dibas-2022-maknuune-palestinian-arabic",
+            "locator": "p. 1",
+            "quote": "we focus on Palestinian Arabic (PAL), which is part of the South Levantine Arabic dialect subgroup."
+          },
+          {
+            "ref": "dibas-2022-maknuune-palestinian-arabic",
+            "locator": "p. 1",
+            "quote": "PAL, like all other DA, has been historically influenced by many languages, specifically, in its case, Syriac, Turkish, Persian, English and most recently Modern Hebrew (Halloun, 2019)"
+          },
+          {
+            "ref": "talhami-1995-ewc-palestinians",
+            "locator": "section \"Linguistic Affiliation\"",
+            "quote": "Palestinians speak a distinct dialect of Arabic but write classical Arabic, like the rest of the Arab world."
+          },
+          {
+            "ref": "killean-2004-emmena-arabic",
+            "locator": "section \"Arabic Dialects\"",
+            "quote": "every speaker of Arabic knows a local spoken vernacular and learns the formal Fusha in addition to it."
+          }
+        ]
+      }
+    },
+    {
+      "id": "western-neo-aramaic",
+      "name": {
+        "en": "Modern Western Aramaic (Western Neo-Aramaic)",
+        "ar": "الآرامية الغربية الحديثة",
+        "he": "ארמית מערבית חדשה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Semitic (Northwest, Aramaic - West)",
+      "periods": [
+        {
+          "start": {
+            "year": 1900,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Christian and Muslim villagers of Maaloula, Bakh'a (Sarkha) and Jubb'adin in the Qalamoun mountains north of Damascus (outside the map area), all bilingual in Arabic; since the Syrian civil war mostly Maaloula, Jubb'adin and a diaspora",
+            "ar": "قرويون مسيحيون ومسلمون في معلولا وبخعة (الصرخة) وجبعدين في جبال القلمون شمال دمشق (خارج نطاق الخريطة)، وكلهم ثنائيو اللغة بالعربية؛ ومنذ الحرب السورية غالباً في معلولا وجبعدين والشتات",
+            "he": "תושבי כפרים נוצרים ומוסלמים במעלולא, בח'עה (צרח'ה) וג'בעדין בהרי הקלמון שמצפון לדמשק (מחוץ לתחום המפה), כולם דוברי ערבית גם כן; מאז מלחמת האזרחים בסוריה בעיקר במעלולא, בג'בעדין ובתפוצה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "burlakov-2025-modern-western-aramaic",
+              "locator": "p. 695",
+              "quote": "Prior to the Syrian civil war (2011 -present), it was spoken in three villages in the Rif Dimashq Governorate of the Syrian Arab Republic"
+            },
+            {
+              "ref": "burlakov-2025-modern-western-aramaic",
+              "locator": "p. 696",
+              "quote": "All these speakers live within larger (and growing) monolithically Arabophone populations, and consequently speak that language in addition to Siryōn."
+            },
+            {
+              "ref": "britannica-aramaic-language",
+              "locator": "main text",
+              "quote": "West Aramaic is still spoken in a small number of villages in Syria."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "burlakov-2025-modern-western-aramaic",
+          "locator": "p. 695",
+          "quote": "Modern Western Aramaic (MWA), or Siryōn to its speakers, is the sole surviving representative of the Western Aramaic languages."
+        }
+      ],
+      "notes": {
+        "en": "Included for the language lineage: it is the last living descendant of the Western Aramaic once spoken in Palestine. The period start (c. 1900) is a placeholder: the sources read document the spoken language only in the 20th-21st centuries and do not date its emergence. Critically endangered.",
+        "ar": "أُدرجت لأجل سلسلة النسب اللغوي: هي آخر سليل حي للآرامية الغربية التي كانت تُحكى في فلسطين. وبداية الفترة (نحو 1900) مؤقتة: لا توثّق المصادر المقروءة اللغة المحكية إلا في القرنين العشرين والحادي والعشرين. مهددة بشدة بالانقراض.",
+        "he": "נכללה לשם שושלת השפות: זוהי הצאצאית החיה האחרונה של הארמית המערבית שדוברה בעבר בארץ. תחילת התקופה (כ-1900) היא מציין מקום: המקורות שנקראו מתעדים את השפה המדוברת רק במאות ה-20-21. בסכנת הכחדה חמורה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "aramaic"
+        ],
+        "note": {
+          "en": "Modern Western Aramaic of Maaloula and two neighbouring Syrian villages is the last surviving descendant of the Western Aramaic dialects once spoken in Palestine and Syria (Jewish, Christian Palestinian, Samaritan)."
+        },
+        "sources": [
+          {
+            "ref": "burlakov-2025-modern-western-aramaic",
+            "locator": "p. 695",
+            "quote": "Modern Western Aramaic (MWA), or Siryōn to its speakers, is the sole surviving representative of the Western Aramaic languages."
+          },
+          {
+            "ref": "britannica-aramaic-language",
+            "locator": "main text",
+            "quote": "West Aramaic is still spoken in a small number of villages in Syria."
+          },
+          {
+            "ref": "gzella-2012-introduction",
+            "locator": "p. 12",
+            "quote": "Also, the immediate roots of the ancestors of the Modern Aramaic languages may lie in this period."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tamazight",
+      "name": {
+        "en": "Tamazight (Berber: Kabyle and Shawiya)",
+        "ar": "الأمازيغية (القبائلية والشاوية)",
+        "he": "תמזיע'ת (ברברית: קבילית ושאוויה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Afro-Asiatic (Berber)",
+      "periods": [
+        {
+          "start": {
+            "year": 1850,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Rural Algerian villages in eastern Galilee, settled after the French conquest of Algeria (1830) and on lands granted to Emir Abd al-Qadir (1855)",
+            "ar": "قرى جزائرية ريفية في الجليل الشرقي استوطنت بعد الاحتلال الفرنسي للجزائر (1830) وفي أراضٍ مُنحت للأمير عبد القادر (1855)",
+            "he": "כפרים כפריים של אלג'יראים בגליל המזרחי, שהתיישבו לאחר הכיבוש הצרפתי של אלג'יריה (1830) ובאדמות שהוענקו לאמיר עבד אל-קאדר (1855)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "palquest-arab-algerians",
+              "locator": "section on the Galilee villages",
+              "quote": "Emir Abd al-Qadir arrived in Damascus in 1855, and the Ottoman authorities granted him large tracts of land in the eastern Galilee"
+            },
+            {
+              "ref": "palquest-arab-algerians",
+              "locator": "section on the Galilee villages",
+              "quote": "preserving their language, Tamazight (Kabyle and Shawiya), and passing on Algerian culinary know-how to their children."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "palquest-arab-algerians",
+          "locator": "section on the Galilee villages",
+          "quote": "preserving their language, Tamazight (Kabyle and Shawiya)"
+        }
+      ],
+      "notes": {
+        "en": "End: the 1948 expulsion of the Algerian villages (see people algerians-in-palestine); the source does not say how long the language was kept before then. No script is given: the source treats it as a spoken language.",
+        "ar": "النهاية: تهجير القرى الجزائرية عام 1948؛ ولا يذكر المصدر مدة الحفاظ على اللغة قبل ذلك. لم يُذكر خط لأن المصدر يعاملها لغةً محكية.",
+        "he": "סוף: גירוש הכפרים האלג'יראיים ב-1948; המקור אינו אומר כמה זמן נשמרה השפה לפני כן. לא צוין כתב כי המקור מתייחס אליה כשפה מדוברת.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "serbo-croatian",
+      "name": {
+        "en": "Serbo-Croatian (Bosnian)",
+        "ar": "الصربية الكرواتية (البوسنية)",
+        "he": "סרבו-קרואטית (בוסנית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Indo-European (Slavic, South)",
+      "periods": [
+        {
+          "start": {
+            "year": 1881,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Bosnian Muslim families resettled by the Ottomans at Qisarya (Caesarea) from the early 1880s; passed on by the women but mostly lost over time",
+            "ar": "عائلات بوسنية مسلمة أسكنها العثمانيون في قيسارية منذ أوائل ثمانينيات القرن التاسع عشر؛ نقلتها النساء إلى الأبناء لكنها فُقدت في الغالب مع الوقت",
+            "he": "משפחות מוסלמיות בוסניות שהעות'מאנים יישבו בקיסריה מראשית שנות ה-80 של המאה ה-19; הנשים העבירו אותה לילדים, אך ברובה אבדה עם הזמן",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "palquest-charif-bosnians",
+              "locator": "section \"The Integration of the Bosnians into the Palestinian People\"",
+              "quote": "the women passed on the Serbo-Croatian language they spoke to their children."
+            },
+            {
+              "ref": "palquest-charif-bosnians",
+              "locator": "section \"The Integration of the Bosnians into the Palestinian People\"",
+              "quote": "However, over time most of them lost their original language."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "palquest-charif-bosnians",
+          "locator": "section \"The Integration of the Bosnians into the Palestinian People\"",
+          "quote": "In the beginning, the Bosnian immigrants clung to their native culture and mother tongue"
+        }
+      ],
+      "notes": {
+        "en": "End: the 1948 expulsion from Qisarya; Charif says most had lost the language before then but gives no date. The script used by the community is not documented.",
+        "ar": "النهاية: التهجير من قيسارية عام 1948؛ يقول شريف إن معظمهم فقدوا اللغة قبل ذلك دون تحديد تاريخ. ولا يوثَّق الخط الذي استعملته الجماعة.",
+        "he": "סוף: הגירוש מקיסריה ב-1948; שריף אומר שרובם איבדו את השפה לפני כן, ללא תאריך. הכתב שבו השתמשה הקהילה אינו מתועד.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

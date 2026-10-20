@@ -735,3 +735,44 @@ Every people and link in `peoples.json` (45 peoples, 86 links, 131 records) was 
 - 20 notes that still used internal research labels ("group P2", "in this pass", "the id expected") were rewritten for readers.
 
 Summaries and notes changed in English have lost their old Arabic and Hebrew drafts. They are re-translated in the same round.
+
+## 2026-10-20 — Milestone 9, round b: religions, languages and missing communities
+
+**Religions and languages of every people.** Each people now lists the religions and languages the sources attribute to it, with periods, confidence and sources: 55 religion entries and 81 language entries, with 317 quotes checked by script. Nothing is recorded where the sources say nothing: the 'Apiru (a social category of mixed origin), the Tjeker, the Shasu's language and the Egyptian settlers' language. The Hyksos' language is attached to Amorite only as "estimated", because the source says only that their names are West Semitic.
+
+**Language descent.** 22 languages carry a sourced `lineage`, showing what they developed from:
+- Canaanite → Phoenician, Hebrew, Moabite, Ammonite, Edomite, and the Canaanite dialect adopted by the Philistines.
+- Aramaic → Nabataean Aramaic, Syriac, Modern Western Aramaic.
+- Arabic → Palestinian Arabic, Judaeo-Arabic.
+
+Where the parent is not in the data or is disputed, the list is empty and a note says so. For example, Arabic is related to Aramaic and Canaanite but does not descend from them, and Amorite's place is disputed. The Peoples page uses these chains to show which language in use today each people's language leads to. It counts a language as in use only if it has a modern period (from 1800) with no end: an ancient period without an end only means the sources read do not give its end.
+
+**New languages:** amorite, philistian, ammonite, edomite, ancient-north-arabian, judaeo-arabic, palestinian-arabic, western-neo-aramaic, tamazight and serbo-croatian.
+
+**Hebrew:** the earlier "c. 1880" spoken period was merged into a revival period from 1881, which keeps its sources. That period is now also sourced to Encyclopaedia Judaica (Eytan, Ornan), Raphaeli and Zuckermann, including Zuckermann's view that the revived language is a hybrid. A new period records Hebrew as a common spoken language among Jews of different communities before the revival (Ornan).
+- Palestinian Arabic's period starts c. 1880 because that is the earliest description in the sources read; the dialects are older. That date is therefore not shown on the peoples' own language entries.
+
+**16 communities added**, with 12 links. They come from Palestinian, Israeli, international and the communities' own sources:
+- Christian communities: Armenians; the Georgian monastic community; Syriac Orthodox; the Coptic and Ethiopian Orthodox communities (the Ethiopians kept separate from Beta Israel); the Greek clergy of the Orthodox Patriarchate; Maronites.
+- Other communities: the Dom (Nawar), Afro-Palestinians, the Maghrebi community of Jerusalem, Kurds, Turkmen.
+- Religious and immigrant communities: Bahá'ís, the Ahmadis of Kababir, the German Templers, Russian Orthodox institutions.
+
+Communities of clergy and pilgrims from abroad have no links: the sources do not describe them merging into another people of the land. The Maronites' link to the Arab citizens of Israel is contested, with sources on both sides of the Arab or Aramean self-identification question.
+
+**Dates checked by hand:**
+- The Bahá'ís start in August 1868. This is now sourced to the Bahá'í International Community; the research draft gave it from general knowledge.
+- The Dom's first attestation, Seetzen's word list collected near Nablus, is dated by Seetzen's stay in Jerusalem in 1806 (Bezie), with 1844 as the latest date. The draft had "early 1800s" without a source.
+
+**Sources:**
+- An Encyclopedia of World Cultures entry and a signed entry by Tsedaka share one page on Encyclopedia.com. They were kept as two sources, and the importer now compares the encyclopedia's name as well.
+- Still resting on a single source (validator warnings): the Ammonite, Tamazight and Serbo-Croatian language periods, and the Armenians' move to Soviet Armenia in 1947.
+
+**Gaps:**
+- Turkmen of the Jezreel Valley and 1948.
+- Ottoman-era Kurdish quarters.
+- Bahá'í institutional sources.
+- The first Ahmadi converts' family.
+- Opponents of the Aramean registration, known only through a source that supports it.
+- No Coptic Church source.
+- Ge'ez/Tigrinya, Judeo-Persian and Jewish Neo-Aramaic.
+- Not drafted: the Indian Hospice, Shi'i villagers, the African Hebrew Israelites of Dimona, the Alawites of Ghajar, the Church of the East and Franciscan clergy.

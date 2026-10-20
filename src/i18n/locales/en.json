@@ -470,6 +470,15 @@
     "howToCards": "About the cards",
     "cardsWhat": "Each card is one people or community, grouped by the period in which the sources first name it. Click a card for everything the sources say: religions, languages, where it came from and what it led to.",
     "cardsPictures": "Pictures are real: art made at the time, an object the group made, or a photograph from before 1946. Each says who made it and why; ancient art shows peoples as its makers saw them, not as portraits.",
-    "cardsAi": "A few ancient peoples also have an artist's impression made with AI, always marked as such and based on the real images and sources. There are none for groups that exist today."
+    "cardsAi": "A few ancient peoples also have an artist's impression made with AI, always marked as such and based on the real images and sources. There are none for groups that exist today.",
+    "otherReligion": "Ancient and other religions",
+    "branch": {
+      "canaanite": "Canaanite languages (incl. Hebrew, Phoenician)",
+      "aramaic": "Aramaic (incl. Syriac)",
+      "arabic": "Arabic and Ancient North Arabian",
+      "semitic-other": "Other Semitic (Akkadian, Amorite, Ethiopian)",
+      "indo-european": "Indo-European (Greek, Latin, European, Armenian, Domari)",
+      "other": "Other and unknown"
+    }
   }
 }

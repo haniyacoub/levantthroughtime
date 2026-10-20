@@ -633,7 +633,12 @@ export const LanguageRecord = z.strictObject({
   notes: Localized.optional(),
   /** The language(s) this one developed from (e.g. Hebrew from the Canaanite of the Bronze Age), with sources. */
   lineage: z
-    .strictObject({ descends_from: z.array(Id).min(1), note: Localized.optional(), sources: z.array(SourceRef).min(1) })
+    .strictObject({
+      /** Empty when the parent language is not in the data or is disputed; the note then says so. */
+      descends_from: z.array(Id),
+      note: Localized.optional(),
+      sources: z.array(SourceRef).min(1),
+    })
     .optional(),
 });
 export const LanguagesFile = z.strictObject({ $schema: SchemaRef, languages: z.array(LanguageRecord) });
@@ -758,6 +763,7 @@ export const People = z.strictObject({
         group: Id.optional(),
         start: HistDate.optional(),
         end: HistDate.nullable().optional(),
+        note: Localized.optional(),
         confidence: Confidence,
         sources: z.array(SourceRef).min(1),
       }),

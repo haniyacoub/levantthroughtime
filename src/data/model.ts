@@ -324,7 +324,7 @@ export interface People {
   confidence: Confidence;
   sources: SourceRef[];
   notes?: LocalizedText;
-  religions?: { label: LocalizedText; group?: string; start?: HistDate; end?: HistDate | null; confidence: Confidence; sources: SourceRef[] }[];
+  religions?: { label: LocalizedText; group?: string; start?: HistDate; end?: HistDate | null; note?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
   languages?: { language: string; start?: HistDate; end?: HistDate | null; note?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
   images?: PeopleImage[];
 }
