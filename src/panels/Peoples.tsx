@@ -126,7 +126,7 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
             ))}
           </ul>
           <div className="peoples-scroll">
-            <svg viewBox={`0 0 ${W} ${H}`} width="100%" role="img" aria-label={tr('peoples.diagramLabel')} className="peoples-diagram">
+            <svg viewBox={`0 0 ${W} ${H}`} width="100%" role="img" aria-label={tr('peoples.diagramLabel')} className="peoples-diagram" direction="ltr" style={{ direction: 'ltr' }}>
               <defs>
                 {(Object.keys(STYLE) as PeopleLink['type'][]).map((k) => (
                   <marker key={k} id={`arrow-${k}`} viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">

@@ -3598,7 +3598,13 @@
     {
       "id": "indigenous-people-of-the-land",
       "title": {
-        "en": "Who are the indigenous people of the land?"
+        "en": "Who are the indigenous people of the land?",
+        "ar": "من هم السكان الأصليون للبلاد؟",
+        "he": "מי הם ילידי הארץ?",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "about": [
         "arab-tribal-settlement-early-islam",
@@ -3610,10 +3616,22 @@
         {
           "perspective": "palestinian",
           "label": {
-            "en": "Palestinian national view and Palestinian scholarship"
+            "en": "Palestinian national view and Palestinian scholarship",
+            "ar": "الرؤية الوطنية الفلسطينية والدراسات الفلسطينية",
+            "he": "הגישה הלאומית הפלסטינית והמחקר הפלסטיני",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "summary": {
-            "en": "The PLO's 1968 National Charter calls Palestine the homeland of the Arab Palestinian people and defines Palestinians as the Arabs who normally lived there until 1947, together with their descendants [1]. The 1988 Declaration of Independence describes an organic, indissoluble and unbroken relationship between the Palestinian Arab people, its land and its history [2]. The historian Nur Masalha, as his reviewer Mohammed Al Aqad summarises him, argues that Palestinians are neither a modern invention nor a recent population but heirs of a civilisation with Canaanite, Philistine, Arab, Islamic and Christian roots [3][4]. Palestinian scholars commonly describe the country's Muslim and Christian Arabs as its indigenous population facing Jewish immigration, as in Muhammad Muslih's encyclopedia account and Mazen Masri's study of Palestinian citizenship in Israel [5][6]. The legal scholar Ahmad Amara notes that Israel rejected a UN rapporteur's treatment of the Negev Bedouin as an indigenous people [7]."
+            "en": "The PLO's 1968 National Charter calls Palestine the homeland of the Arab Palestinian people and defines Palestinians as the Arabs who normally lived there until 1947, together with their descendants [1]. The 1988 Declaration of Independence describes an organic, indissoluble and unbroken relationship between the Palestinian Arab people, its land and its history [2]. The historian Nur Masalha, as his reviewer Mohammed Al Aqad summarises him, argues that Palestinians are neither a modern invention nor a recent population but heirs of a civilisation with Canaanite, Philistine, Arab, Islamic and Christian roots [3][4]. Palestinian scholars commonly describe the country's Muslim and Christian Arabs as its indigenous population facing Jewish immigration, as in Muhammad Muslih's encyclopedia account and Mazen Masri's study of Palestinian citizenship in Israel [5][6]. The legal scholar Ahmad Amara notes that Israel rejected a UN rapporteur's treatment of the Negev Bedouin as an indigenous people [7].",
+            "ar": "يصف الميثاق الوطني لمنظمة التحرير الفلسطينية لعام 1968 فلسطين بأنها وطن الشعب العربي الفلسطيني، ويعرّف الفلسطينيين بأنهم المواطنون العرب الذين كانوا يقيمون إقامة عادية في فلسطين حتى عام 1947، مع أبنائهم [1]. ويصف إعلان الاستقلال لعام 1988 علاقة عضوية لا تنفصم ولا تنقطع بين الشعب العربي الفلسطيني وأرضه وتاريخه [2]. ويرى المؤرخ نور مصالحة، كما يلخصه الناقد محمد العقاد، أن الفلسطينيين ليسوا اختراعًا حديثًا ولا سكانًا جددًا بل ورثة حضارة ذات جذور كنعانية وفلستية وعربية وإسلامية ومسيحية [3][4]. ويصف الباحثون الفلسطينيون عمومًا العرب المسلمين والمسيحيين في البلاد بأنهم سكانها الأصليون في مواجهة الهجرة اليهودية، كما في مادة محمد مصلح في الموسوعة ودراسة مازن مصري عن المواطنة الفلسطينية في إسرائيل [5][6]. ويلاحظ الباحث القانوني أحمد عمارة أن إسرائيل رفضت تعامل مقرر للأمم المتحدة مع بدو النقب بوصفهم شعبًا أصليًا [7].",
+            "he": "האמנה הלאומית הפלסטינית של אש״ף מ-1968 קוראת לפלסטין מולדתו של העם הערבי הפלסטיני ומגדירה פלסטינים כערבים שישבו בה כדרך קבע עד 1947, יחד עם צאצאיהם [1]. הכרזת העצמאות של 1988 מתארת יחס אורגני, בלתי ניתן להתרה ובלתי פוסק בין העם הערבי הפלסטיני, אדמתו והיסטוריה שלו [2]. ההיסטוריון נור מסאלחה, כפי שמסכם אותו מבקרו מוחמד אל-עקד, טוען שהפלסטינים אינם המצאה מודרנית ואינם אוכלוסייה חדשה אלא יורשי תרבות בעלת שורשים כנעניים, פלשתיים, ערביים, אסלאמיים ונוצריים [3][4]. חוקרים פלסטינים מתארים בדרך כלל את הערבים המוסלמים והנוצרים של הארץ כאוכלוסייה הילידית שלה מול ההגירה היהודית, כבחשבון האנציקלופדיה של מוחמד מוסליח ובמחקרו של מאזן מסרי על האזרחות הפלסטינית בישראל [5][6]. המלומד המשפטי אחמד עמארה מציין שישראל דחתה את יחסו של כתב האו״ם לבדואי הנגב כאל עם ילידי [7].",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "sources": [
             {
@@ -3656,10 +3674,22 @@
         {
           "perspective": "israeli",
           "label": {
-            "en": "Israeli official view and Israeli scholarship"
+            "en": "Israeli official view and Israeli scholarship",
+            "ar": "الرؤية الرسمية الإسرائيلية والدراسات الإسرائيلية",
+            "he": "הגישה הרשמית הישראלית והמחקר הישראלי",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "summary": {
-            "en": "Israel's Declaration of Independence calls the Land of Israel the birthplace of the Jewish people, where its spiritual, religious and political identity was shaped [1]. The 2018 Basic Law defines the Land of Israel as the historic national home of the Jewish people [2], and Prime Minister Benjamin Netanyahu has said that the Jewish people cannot be occupiers in their own historical homeland [3]. Israel's foreign ministry stresses continuity, describing an early Ottoman Jewish community that included descendants of Jews who had always lived in the land [4]. The Israeli scholars Seth Frantzman, Havatzelet Yahel and Ruth Kark argue that the Negev Bedouin, whom they see as recent arrivals, do not fit the accepted meaning of indigenous, and that on looser criteria Jews would have the stronger claim [5][6]."
+            "en": "Israel's Declaration of Independence calls the Land of Israel the birthplace of the Jewish people, where its spiritual, religious and political identity was shaped [1]. The 2018 Basic Law defines the Land of Israel as the historic national home of the Jewish people [2], and Prime Minister Benjamin Netanyahu has said that the Jewish people cannot be occupiers in their own historical homeland [3]. Israel's foreign ministry stresses continuity, describing an early Ottoman Jewish community that included descendants of Jews who had always lived in the land [4]. The Israeli scholars Seth Frantzman, Havatzelet Yahel and Ruth Kark argue that the Negev Bedouin, whom they see as recent arrivals, do not fit the accepted meaning of indigenous, and that on looser criteria Jews would have the stronger claim [5][6].",
+            "ar": "يصف إعلان قيام دولة إسرائيل أرض إسرائيل بأنها مهد الشعب اليهودي، حيث تشكّلت هويته الروحية والدينية والسياسية [1]. ويعرّف القانون الأساسي لعام 2018 أرض إسرائيل بأنها الوطن القومي التاريخي للشعب اليهودي [2]، وقال رئيس الوزراء بنيامين نتنياهو إن الشعب اليهودي لا يمكن أن يكون محتلًّا في وطنه التاريخي [3]. وتشدد وزارة الخارجية الإسرائيلية على الاستمرارية، فتصف جالية يهودية عثمانية مبكرة ضمّت أحفاد يهود عاشوا في البلاد على الدوام [4]. ويرى الباحثون الإسرائيليون سيث فرانتزمان وحافاتسِلت يهل وروث كارك أن بدو النقب، الذين يعدّونهم وافدين حديثين، لا ينطبق عليهم المعنى المقبول للسكان الأصليين، وأنه وفق معايير أوسع سيكون لليهود الحق الأقوى [5][6].",
+            "he": "מגילת העצמאות של ישראל קוראת לארץ ישראל מקום הולדתו של העם היהודי, שבו עוצבה דמותו הרוחנית, הדתית והמדינית [1]. חוק היסוד של 2018 מגדיר את ארץ ישראל כמולדתו ההיסטורית של העם היהודי [2], וראש הממשלה בנימין נתניהו אמר שהעם היהודי אינו יכול להיות כובש במולדתו ההיסטורית [3]. משרד החוץ של ישראל מדגיש רציפות ומתאר קהילה יהודית עות'מאנית מוקדמת שכללה צאצאים של יהודים שחיו בארץ תמיד [4]. החוקרים הישראלים סת פרנצמן, חוצלת יהל ורות קרק טוענים שבדואי הנגב, שאותם הם רואים כמי שהגיעו לאחרונה, אינם מתאימים להגדרה המקובלת של ילידים, ושלפי קריטריונים רחבים יותר דווקא ליהודים יש הטענה החזקה יותר [5][6].",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "sources": [
             {
@@ -3697,10 +3727,22 @@
         {
           "perspective": "academic",
           "label": {
-            "en": "Scholarship: law and history"
+            "en": "Scholarship: law and history",
+            "ar": "الدراسات الأكاديمية: القانون والتاريخ",
+            "he": "המחקר האקדמי: משפט והיסטוריה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "summary": {
-            "en": "International law has no agreed definition: the UN Permanent Forum on Indigenous Issues stresses self-identification and lists criteria such as historical continuity with pre-colonial or pre-settler societies [1]. Historians of the medieval period describe gradual change rather than replacement of the population after the Islamic conquest, Nimrod Luz calling the Islamization of the region a slow process and Ronnie Ellenblum explaining much of it by the settling of nomads [2][3]. Beshara Doumani shows Palestinian village clans rooted in the same villages for generations in the Ottoman period, while David Grossman traces Egyptian, Algerian, Bosnian and Circassian settlers who joined the rural population in the nineteenth century [4][5]. Zachary Foster traces the Arabic name 'Palestinian' to the early Islamic period and documents its modern revival as a self-designation before 1914 [6][7]. Historical sources also record small but continuing Jewish communities in the land, such as the Arabic-speaking 'native' Jews whom Spanish exiles met in sixteenth-century Safed [8]. The Israeli historian Shlomo Sand argues that Palestinians are more likely than most Jews to descend from the ancient Judeans, a challenge to the Israeli national account that the historian Israel Bartal rejects [9][10]."
+            "en": "International law has no agreed definition: the UN Permanent Forum on Indigenous Issues stresses self-identification and lists criteria such as historical continuity with pre-colonial or pre-settler societies [1]. Historians of the medieval period describe gradual change rather than replacement of the population after the Islamic conquest, Nimrod Luz calling the Islamization of the region a slow process and Ronnie Ellenblum explaining much of it by the settling of nomads [2][3]. Beshara Doumani shows Palestinian village clans rooted in the same villages for generations in the Ottoman period, while David Grossman traces Egyptian, Algerian, Bosnian and Circassian settlers who joined the rural population in the nineteenth century [4][5]. Zachary Foster traces the Arabic name 'Palestinian' to the early Islamic period and documents its modern revival as a self-designation before 1914 [6][7]. Historical sources also record small but continuing Jewish communities in the land, such as the Arabic-speaking 'native' Jews whom Spanish exiles met in sixteenth-century Safed [8]. The Israeli historian Shlomo Sand argues that Palestinians are more likely than most Jews to descend from the ancient Judeans, a challenge to the Israeli national account that the historian Israel Bartal rejects [9][10].",
+            "ar": "ليس في القانون الدولي تعريف متفق عليه: فالمنتدى الدائم المعني بقضايا الشعوب الأصلية التابع للأمم المتحدة يشدد على التعريف الذاتي ويورد معايير مثل الاستمرارية التاريخية مع المجتمعات السابقة للاستعمار أو للاستيطان [1]. ويصف مؤرخو العصور الوسطى تغيرًا تدريجيًا لا استبدالًا للسكان بعد الفتح الإسلامي، إذ يصف نمرود لوز أسلمة المنطقة بأنها عملية بطيئة، ويفسّر رونّي إلنبلوم جانبًا كبيرًا منها باستقرار الرحّل [2][3]. ويبيّن بشارة دومني عشائر قروية فلسطينية متجذرة في القرى نفسها منذ أجيال في العهد العثماني، بينما يتتبع ديفيد غروسمان مستوطنين مصريين وجزائريين وبوسنيين وشركسًا انضموا إلى السكان الريفيين في القرن التاسع عشر [4][5]. ويتتبع زكاري فوستر الاسم العربي «فلسطيني» إلى العصر الإسلامي المبكر ويوثّق إحياءه الحديث تسميةً ذاتية قبل 1914 [6][7]. وتسجّل المصادر التاريخية أيضًا جاليات يهودية صغيرة لكنها مستمرة في البلاد، مثل اليهود «المحليين» الناطقين بالعربية الذين التقى بهم المنفيون الإسبان في صفد في القرن السادس عشر [8]. ويرى المؤرخ الإسرائيلي شلومو ساند أن الفلسطينيين أرجح من معظم اليهود أن يكونوا منحدرين من اليهودا القدماء، وهو تحدٍّ للرواية القومية الإسرائيلية يرفضه المؤرخ إسرائيل بارتال [9][10].",
+            "he": "במשפט הבינלאומי אין הגדרה מוסכמת: הפורום הקבוע של האו״ם לענייני עמים ילידים מדגיש הגדרה עצמית ומונה קריטריונים כגון רציפות היסטורית עם חברות טרום-קולוניאליות או טרום-התיישבותיות [1]. היסטוריונים של ימי הביניים מתארים שינוי הדרגתי ולא החלפה של האוכלוסייה לאחר הכיבוש האסלאמי, כשנמרוד לוז מכנה את האיסלום של האזור תהליך איטי ורוני אלנבלום מסביר חלק גדול ממנו בהתיישבות נוודים [2][3]. בשארה דומאני מראה חמולות כפריות פלסטיניות המושרשות באותם כפרים במשך דורות בתקופה העות'מאנית, ואילו דייוויד גרוסמן עוקב אחר מתיישבים מצרים, אלג'יראים, בוסנים וצ'רקסים שהצטרפו לאוכלוסייה הכפרית במאה התשע עשרה [4][5]. זכרי פוסטר מאתר את השם הערבי ״פלסטיני״ בתקופה האסלאמית המוקדמת ומתעד את התחדשותו המודרנית ככינוי עצמי לפני 1914 [6][7]. מקורות היסטוריים מתעדים גם קהילות יהודיות קטנות אך מתמשכות בארץ, כמו היהודים ה״ילידים״ דוברי הערבית שגולי ספרד פגשו בצפת של המאה השש עשרה [8]. ההיסטוריון הישראלי שלמה זנד טוען שהפלסטינים סבירים יותר מרוב היהודים להיות צאצאי היהודאים הקדמונים, אתגר לנרטיב הלאומי הישראלי שההיסטוריון ישראל ברטל דוחה [9][10].",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "sources": [
             {
@@ -3758,10 +3800,22 @@
         {
           "perspective": "academic",
           "label": {
-            "en": "Genetic studies"
+            "en": "Genetic studies",
+            "ar": "الدراسات الجينية",
+            "he": "מחקרים גנטיים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "summary": {
-            "en": "Agranat-Tamir and colleagues (2020) found that present-day Arabic-speaking and Jewish populations are both compatible with having more than half Middle Eastern-related ancestry, and caution that this does not mean direct descent from the Bronze Age people they sampled [1][2]. Y-chromosome studies by Almut Nebel and colleagues found a large common pool of Arab and Jewish paternal lineages, suggesting relatively recent common ancestry, as well as lineages in Palestinian Arabs and Bedouin that may come from Arabian migrations of the last two millennia [3][4]. A study led from the Lebanese American University found that conversion to Islam brought admixture with distant Muslim populations, so that Palestinians, Jordanians and Syrians cluster with other Muslim groups, while Christians and Druze became genetically isolated [5][6]. Genome-wide studies of Jewish communities trace most of them to the Levant with varying admixture from host populations, while Ethiopian and Indian Jews cluster with their neighbours [7][8]."
+            "en": "Agranat-Tamir and colleagues (2020) found that present-day Arabic-speaking and Jewish populations are both compatible with having more than half Middle Eastern-related ancestry, and caution that this does not mean direct descent from the Bronze Age people they sampled [1][2]. Y-chromosome studies by Almut Nebel and colleagues found a large common pool of Arab and Jewish paternal lineages, suggesting relatively recent common ancestry, as well as lineages in Palestinian Arabs and Bedouin that may come from Arabian migrations of the last two millennia [3][4]. A study led from the Lebanese American University found that conversion to Islam brought admixture with distant Muslim populations, so that Palestinians, Jordanians and Syrians cluster with other Muslim groups, while Christians and Druze became genetically isolated [5][6]. Genome-wide studies of Jewish communities trace most of them to the Levant with varying admixture from host populations, while Ethiopian and Indian Jews cluster with their neighbours [7][8].",
+            "ar": "وجد أغرانات-تامير وزملاؤه (2020) أن السكان الحاليين الناطقين بالعربية واليهود يتوافقون جميعًا مع كون أكثر من نصف أصلهم مرتبطًا بالشرق الأوسط، ويحذّرون من أن هذا لا يعني انحدارًا مباشرًا من أناس العصر البرونزي الذين أخذوا منهم العينات [1][2]. ووجدت دراسات الكروموسوم Y التي أجراها ألموت نيبل وزملاؤه مجموعة مشتركة كبيرة من السلالات الأبوية العربية واليهودية، ما يوحي بأصل مشترك حديث نسبيًا، إضافة إلى سلالات لدى العرب الفلسطينيين والبدو قد تعود إلى هجرات من الجزيرة العربية في الألفيتين الأخيرتين [3][4]. ووجدت دراسة بقيادة الجامعة اللبنانية الأمريكية أن اعتناق الإسلام جلب اختلاطًا بسكان مسلمين بعيدين، بحيث يتجمع الفلسطينيون والأردنيون والسوريون مع مجموعات مسلمة أخرى، بينما صار المسيحيون والدروز معزولين جينيًا [5][6]. وتُرجع الدراسات الجينومية للجاليات اليهودية معظمها إلى بلاد الشام مع اختلاط متفاوت بالسكان المضيفين، بينما يتجمع اليهود الإثيوبيون والهنود مع جيرانهم [7][8].",
+            "he": "אגרנט-תמיר ועמיתיו (2020) מצאו שאוכלוסיות דוברות ערבית ויהודיות בנות ימינו תואמות שתיהן מוצא הקשור למזרח התיכון בשיעור של יותר ממחצית, ומזהירים שאין פירוש הדבר צאצאות ישירה מאנשי תקופת הברונזה שנדגמו [1][2]. מחקרי כרומוזום Y של אלמוט נבל ועמיתיו מצאו מאגר משותף גדול של שושלות אבהיות ערביות ויהודיות, המרמז על מוצא משותף קרוב יחסית, וכן שושלות אצל ערבים פלסטינים ובדואים שעשויות לבוא מהגירות מחצי האי ערב בשני האלפים האחרונים [3][4]. מחקר בהובלת האוניברסיטה הלבנונית-אמריקאית מצא שההמרה לאסלאם הביאה לערבוב עם אוכלוסיות מוסלמיות רחוקות, כך שפלסטינים, ירדנים וסורים מתקבצים עם קבוצות מוסלמיות אחרות, ואילו נוצרים ודרוזים התבודדו גנטית [5][6]. מחקרי גנום שלם של קהילות יהודיות מייחסים את רובן ללבנט עם ערבוב משתנה מאוכלוסיות מארחות, בעוד יהודי אתיופיה והודו מתקבצים עם שכניהם [7][8].",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
           },
           "sources": [
             {
@@ -3808,7 +3862,13 @@
         }
       ],
       "notes": {
-        "en": "All accounts agree that both Jews and Palestinian Arabs have deep historical ties to the land; they differ on whose ties make a people 'indigenous', and some scholars doubt that the term fits a conflict in which both peoples claim ancestral roots. The genetic studies describe shared ancestry and later admixture; they do not decide identity, belonging or rights, and their authors say so. Druze, Samaritans, Bedouin and Christian Arabs also appear in this debate. Not read: Israeli academic defences of Jewish indigeneity in journals such as Israel Studies (closed access), Tawfiq Canaan's 'nativist' ethnography (Tamari 2004; download blocked), and any Palestinian-authored genome-wide study."
+        "en": "All accounts agree that both Jews and Palestinian Arabs have deep historical ties to the land; they differ on whose ties make a people 'indigenous', and some scholars doubt that the term fits a conflict in which both peoples claim ancestral roots. The genetic studies describe shared ancestry and later admixture; they do not decide identity, belonging or rights, and their authors say so. Druze, Samaritans, Bedouin and Christian Arabs also appear in this debate. Not read: Israeli academic defences of Jewish indigeneity in journals such as Israel Studies (closed access), Tawfiq Canaan's 'nativist' ethnography (Tamari 2004; download blocked), and any Palestinian-authored genome-wide study.",
+        "ar": "تتفق جميع الروايات على أن لكل من اليهود والعرب الفلسطينيين صلات تاريخية عميقة بالبلاد؛ لكنها تختلف في أي الصلات تجعل شعبًا «أصليًا»، ويشك بعض الباحثين في أن المصطلح يناسب نزاعًا يدّعي فيه الشعبان جذورًا أسلافية. وتصف الدراسات الجينية أصلًا مشتركًا واختلاطًا لاحقًا؛ ولا تحسم الهوية ولا الانتماء ولا الحقوق، ويقول مؤلفوها ذلك. ويظهر الدروز والسامريون والبدو والعرب المسيحيون أيضًا في هذا النقاش. لم تُقرأ: الدفاعات الأكاديمية الإسرائيلية عن الأصالة اليهودية في دوريات مثل Israel Studies (وصولها مغلق)، وإثنوغرافيا توفيق كنعان «الأهلية» (تمري 2004؛ التنزيل محجوب)، وأي دراسة جينومية بقلم فلسطينيين.",
+        "he": "כל הנרטיבים מסכימים שליהודים ולערבים הפלסטינים יש קשרים היסטוריים עמוקים לארץ; הם חלוקים בשאלה קשריו של מי הופכים עם ל״ילידי״, וחלק מהחוקרים מפקפקים אם המונח מתאים לסכסוך שבו שני העמים טוענים לשורשים אבות. המחקרים הגנטיים מתארים מוצא משותף וערבוב מאוחר יותר; הם אינם קובעים זהות, שייכות או זכויות, ומחבריהם אומרים זאת. גם דרוזים, שומרונים, בדואים וערבים נוצרים מופיעים בדיון זה. לא נקראו: הגנות אקדמיות ישראליות על ילידיות יהודית בכתבי עת כמו Israel Studies (גישה סגורה), האתנוגרפיה ה״נייטיביסטית״ של תופיק כנעאן (תמרי 2004; ההורדה נחסמה), וכל מחקר גנום שלם פרי עטם של פלסטינים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

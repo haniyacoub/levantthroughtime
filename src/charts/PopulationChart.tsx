@@ -269,7 +269,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
         {points.length === 0 ? (
           <p className="empty">{tr('chart.noData')}</p>
         ) : (
-          <svg width={W} height={H} role="img" aria-label={tr('chart.label')} onMouseLeave={() => setHover(null)}>
+          <svg width={W} height={H} direction="ltr" style={{ direction: 'ltr' }} role="img" aria-label={tr('chart.label')} onMouseLeave={() => setHover(null)}>
             <defs>
               <pattern id="hatch-pop" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
                 <line x1="0" y1="0" x2="0" y2="5" stroke="#555" strokeWidth="1.2" />
