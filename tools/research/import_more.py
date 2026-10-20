@@ -605,7 +605,10 @@ def import_perspectives():
     print('perspectives', len(out), '| accounts', sum(len(p['accounts']) for p in out))
 
 # Proposed corrections not applied until a second source confirms them.
-HOLD = {('mamluk-sultanate-1', 'end'), ('ayyubid-sultanate-4', 'start')}
+HOLD = {('mamluk-sultanate-1', 'end'), ('ayyubid-sultanate-4', 'start'),
+        # Group F: the calibrated Natufian date lies before the timeline's start (moved to the place's founding note by hand);
+        # the 1777/1778 Hasidic start is recorded as a range by hand.
+        ('natufian-settlement-jericho', 'date'), ('natufian-settlement-jericho', 'notes'), ('hasidic-perushim-immigration', 'start')}
 
 def apply_m8(name):
     """Apply a Milestone 8 patch file: extra sources for existing records and reviewed corrections."""
@@ -685,6 +688,56 @@ def import_m8a(): apply_m8('a')
 def import_m8b(): apply_m8('b')
 def import_m8c(): apply_m8('c')
 def import_m8d(): apply_m8('d')
+
+def lz(v):
+    """Localized text from a string or {en,...}."""
+    if v is None or v == '': return None
+    return loc(v if isinstance(v, dict) else {'en': str(v)})
+
+def import_m8g():
+    """New records for known gaps (polities, territories, rulers, languages), then patches to existing records.
+    Proposed territory slices for existing polities are listed for review, not applied here."""
+    d = load(os.path.join(RES, 'm8-g.json'))
+    apply_m8('g')          # sources (incl. stubs and unauthorised-copy handling) and patches
+    pol_path = os.path.join(DATA, 'polities.json'); P = load(pol_path)
+    have = {x['id'] for x in P['polities']}
+    added = []
+    for x in d.get('new_polities', []):
+        if x['id'] in have: print('  polity exists, skipped:', x['id']); continue
+        q = dict(x)
+        q['name'] = lz(x['name']); q['notes'] = lz(x.get('notes')); q['sources'] = [tidy_quote(r) for r in refs(x.get('sources'))]
+        q['relations'] = [clean({**r, 'sources': refs(r.get('sources')), 'notes': lz(r.get('notes'))}) for r in x.get('relations') or []]
+        P['polities'].append(clean(q)); have.add(x['id']); added.append(x['id'])
+    write(pol_path, P)
+    for t in d.get('new_territories', []):
+        path = os.path.join(DATA, 'territories', t['file'])
+        doc = load(path) or {'$schema': '../../schema/territory.schema.json', 'type': 'FeatureCollection', 'features': []}
+        ids = {f['properties'].get('id') for f in doc['features']}
+        for f in t['features']:
+            pr = dict(f['properties'])
+            if pr.get('id') in ids: print('  territory exists, skipped:', pr.get('id')); continue
+            pr['description'] = lz(pr.get('description')); pr['notes'] = lz(pr.get('notes'))
+            pr['sources'] = [tidy_quote(r) for r in refs(pr.get('sources'))]
+            doc['features'].append({'type': 'Feature', 'geometry': None, 'properties': clean(pr)})
+        write(path, doc)
+    R = load(os.path.join(DATA, 'rulers.json')); rid = {x['id'] for x in R['rulers']}
+    for x in d.get('new_rulers', []):
+        if x['id'] in rid: print('  ruler exists, skipped:', x['id']); continue
+        R['rulers'].append(clean({**x, 'name': lz(x['name']), 'office': lz(x.get('office')), 'notes': lz(x.get('notes')),
+                                  'sources': [tidy_quote(r) for r in refs(x.get('sources'))]}))
+    write(os.path.join(DATA, 'rulers.json'), R)
+    L = load(os.path.join(DATA, 'languages.json')); lid = {x['id'] for x in L['languages']}
+    for x in d.get('new_languages', []):
+        if x['id'] in lid: print('  language exists, skipped:', x['id']); continue
+        L['languages'].append(clean({**x, 'name': lz(x['name']), 'notes': lz(x.get('notes')), 'sources': refs(x.get('sources')),
+                                     'periods': [clean({**pp, 'speakers': lz(pp.get('speakers')), 'sources': refs(pp.get('sources'))}) for pp in x['periods']]}))
+    write(os.path.join(DATA, 'languages.json'), L)
+    print('new polities:', ', '.join(added) or '-', '| new territory files/features:', sum(len(t['features']) for t in d.get('new_territories', [])),
+          '| new rulers:', len(d.get('new_rulers', [])), '| new languages:', len(d.get('new_languages', [])),
+          '| proposed slices for review:', len(d.get('proposed_territories', [])))
+
+def import_m8e(): apply_m8('e')
+def import_m8f(): apply_m8('f')
 
 # ---------------------------------------------------------------- run
 for w in WANT:
