@@ -7942,6 +7942,21 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+        },
+        {
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
+          "locator": "p. 217",
+          "quote": "Its conquest took place in Shauwal, year 19."
+        },
+        {
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
+          "locator": "p. 219",
+          "quote": "Kaisariyah was taken by storm in the year 19."
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "p. 153",
+          "quote": "held their gates stubbornly closed in the face of the invaders, the former till 638 and the latter till October 640."
         }
       ],
       "notes": {
@@ -8036,6 +8051,21 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "Pro-Umayyad uprisings were frequent and received Palestinian support."
+        },
+        {
+          "ref": "hitti-history-of-the-arabs",
+          "locator": "p. 284",
+          "quote": "On June 9, 747, the long-meditated revolt broke out"
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 37 (Wikisource scan page 37)",
+          "quote": "وذلك في ١١ جمادى الثاني من سنة ١٣٢هـ ٢٦ يناير ٧٥٠م"
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 82",
+          "quote": "was replaced by a third line of caliphs, descended from the prophet's uncle al-'Abbas, who built themselves a new capital at Baghdad."
         }
       ],
       "notes": {
@@ -8129,12 +8159,37 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "In 840/841 Abū Ḥarb, a Yemenite, unfurled the white banner of the Umayyads and succeeded in recruiting a large number of peasant followers, mainly among the Palestinian population"
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 132 (Wikisource scan page 133)",
+          "quote": "وفي السنة التالية ٢٢٧هـ ظهرت أماني البلاد من جديد متبلورة في فكرة السفياني المنتظر، وذلـك عندما خرج بالرملة من نواحي فلسطين رجل من اليمن أطلق عليه اسم \"المبرقع اليماني\""
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 132 (Wikisource scan page 133)",
+          "quote": "ثم ادعى أنه أموي فتبعه بعض فلاحي الناحية، كما استجاب جماعة من رؤساء اليمانية"
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 132 (Wikisource scan page 133)",
+          "quote": "ولكن لن يشهد المعتصم القضاء على هذه الثورة إذ سيتم ذلك على عهد الواثق خليفته."
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 132 (Wikisource scan page 133)",
+          "quote": "وفي السنة التالية ٢٢٧هـ ظهرت أماني البلاد من جديد متبلورة في فكرة السفياني المنتظر"
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 132 (Wikisource scan page 133)",
+          "quote": "إذ سيتم ذلك على عهد الواثق خليفته."
         }
       ],
       "notes": {
-        "en": "End date approximate; the source says only that the insurrection was put down.",
-        "ar": "تاريخ النهاية تقريبي؛ فالمصدر يقول فقط إن التمرد قُمع.",
-        "he": "תאריך הסיום מקורב; המקור אומר רק שהמרד דוכא.",
+        "en": "End date approximate; the source says only that the insurrection was put down. Nabila Hasan Muhammad (1969) dates the outbreak at Ramla to 227 AH (which began in late October 841), late in the reign of al-Mu'tasim (d. January 842), and says the revolt was put down under his successor al-Wathiq (r. 842-847); this fits the record's 840/841 start (Britannica) only at its late end, so the start is best read as 841.",
+        "ar": "تاريخ النهاية تقريبي؛ لا يذكر المصدر إلا أن التمرد قُمع. وتؤرخ نبيلة حسن محمد (1969) اندلاعه في الرملة بسنة 227 هـ (التي بدأت في أواخر تشرين الأول/أكتوبر 841)، في أواخر عهد المعتصم (ت. كانون الثاني/يناير 842)، وتذكر أن الثورة قُمعت في عهد خليفته الواثق (حكم 842-847)؛ وهذا لا يتفق مع بداية السجل في 840/841 (بريتانيكا) إلا في طرفها المتأخر، لذا فالأرجح قراءة البداية على أنها 841.",
+        "he": "תאריך הסיום משוער; המקור אומר רק שההתקוממות דוכאה. נבילה חסן מוחמד (1969) מתארכת את פריצתה ברמלה לשנת 227 להג'רה (שהחלה בסוף אוקטובר 841), בשלהי שלטונו של אל-מועתצם (מת בינואר 842), וכותבת שהמרד דוכא בימי יורשו אל-ואת'ק (שלט 842-847); הדבר מתיישב עם תאריך ההתחלה ברשומה, 840/841 (בריטניקה), רק בקצהו המאוחר, ולכן מוטב לקרוא את ההתחלה כ-841.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8227,12 +8282,32 @@
         {
           "ref": "britannica-palestine-roman-to-fatimid",
           "quote": "During that period Palestine also experienced the destructive operations of the Qarmaṭians, an Ismāʿīlī Shiʿi sect that launched an insurrection in 903–906."
+        },
+        {
+          "ref": "nabila-1969-abbasid-lectures",
+          "locator": "p. 165 (Wikisource scan page 166)",
+          "quote": "وفي عهد هارون خرج القرامطة بالشام (٢٩٠هـ) وكانت تابعة لمصر، فأنفذ والي مصر جيشاً لِمحاربتهم، ولم يستطع هذا الجيش إخراجهم من الشام، بل حلت به الهزيمة"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "p. 76",
+          "quote": "The Karmatis (Carmathians) overran Syria and laid siege to Damascus, and the Egyptian armies suffered heavy losses."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 84",
+          "quote": "carried fire and slaughter from Basra to Antioch and only in 907 were reduced temporarily to quiescence."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 84",
+          "quote": "only in 907 were reduced temporarily to quiescence."
         }
       ],
       "notes": {
-        "en": "The source does not name the forces that suppressed the insurrection; it notes that Abbasid authority was briefly restored after the Tulunid period (868-905).",
-        "ar": "لا يسمّي المصدر القوات التي قمعت التمرد؛ ويشير إلى أن السلطة العباسية استُعيدت لفترة وجيزة بعد العهد الطولوني (868-905).",
-        "he": "המקור אינו נוקב בשמות הכוחות שדיכאו את ההתקוממות; הוא מציין שהסמכות העבאסית שוחזרה לזמן קצר לאחר התקופה הטולונית (868-905).",
+        "en": "The source does not name the forces that suppressed the insurrection; it notes that Abbasid authority was briefly restored after the Tulunid period (868-905). Nabila Hasan Muhammad (1969) dates the Qarmatian rising in Syria to 290 AH (902-903), under the Tulunid Harun ibn Khumarawayh, whose army failed to dislodge them; Lane-Poole (1901) says they besieged Damascus. Gibb (HoC I) says the movement as a whole, from Basra to Antioch, was only reduced to quiescence in 907, a year after the record's end date.",
+        "ar": "لا يسمّي المصدر القوات التي قمعت التمرد؛ ويذكر أن السلطة العباسية استُعيدت لفترة وجيزة بعد العهد الطولوني (868-905). وتؤرخ نبيلة حسن محمد (1969) قيام القرامطة في الشام بسنة 290 هـ (902-903)، في عهد الطولوني هارون بن خمارويه الذي أخفق جيشه في إزاحتهم؛ ويذكر لين-بول (1901) أنهم حاصروا دمشق. ويقول جب (HoC I) إن الحركة في مجملها، من البصرة إلى أنطاكية، لم تخمد إلا سنة 907، أي بعد تاريخ نهاية السجل بسنة.",
+        "he": "המקור אינו מציין את הכוחות שדיכאו את ההתקוממות; הוא מציין שהסמכות העבאסית הושבה לזמן קצר אחרי התקופה הטולונית (868-905). נבילה חסן מוחמד (1969) מתארכת את התקוממות הקרמטים בסוריה לשנת 290 להג'רה (902-903), בימי הטולוני הארון בן ח'ומארויה, שצבאו לא הצליח לסלקם; ליין-פול (1901) כותב שהם צרו על דמשק. גיב (HoC I) כותב שהתנועה כולה, מבצרה ועד אנטיוכיה, שככה רק ב-907, שנה אחרי תאריך הסיום של הרשומה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8345,6 +8420,21 @@
         {
           "ref": "daftary-iranica-fatimids",
           "quote": "In 360/971, the Carmatians of Bahrain, aided by the Buyids and the Hamdanids, defeated a Fatimid army in Syria and seized Damascus."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 88",
+          "quote": "Nevertheless, the Fatimid troops entered Damascus at the end of 969"
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 88",
+          "quote": "only to be faced by a coalition of Qarmatians, Ikhshidid troops, and tribesmen, who drove them out of Syria and pursued them into Egypt (971)."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 88",
+          "quote": "It was only after three more years of fighting that the independent Turkish commander at Damascus, Aftigin, and his Qarmatian allies were defeated by the Fatimid caliph al-'Aziz"
         }
       ],
       "notes": {
@@ -9160,7 +9250,8 @@
       "wikidata": "Q677982",
       "start": {
         "year": 1153,
-        "precision": "year"
+        "month": 1,
+        "precision": "month"
       },
       "location": {
         "place": "ashkelon",
@@ -9218,9 +9309,65 @@
         {
           "ref": "britannica-ashkelon",
           "quote": "Captured by the Crusaders after a 50-year struggle (1153), it became one of their principal ports and strongholds."
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 540",
+          "quote": "when he was engaged before Ascalon (January 1153)"
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 538",
+          "quote": "The city fell on August 22, 1153, and a considerable booty in the form of money, supplies, and war material was collected."
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 538",
+          "quote": "Thus it was that a half century after the First Crusade the conquest of the Palestinian sea coast was finally completed."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 116",
+          "quote": "The siege began before the Crusaders had intended."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 117",
+          "quote": "On the 19th of August, 1153, a three days' truce was proclaimed. The inhabitants left so speedily that, two days later, Ascalon was empty."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 518",
+          "quote": "Early in 1153 Nur-ad-Din determined to exert his authority once more at Damascus and ordered Abak to join him with the whole of his regular forces in order to relieve the pressure on Ascalon."
+        },
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "pp. 314-315 (A.H. 548)",
+          "quote": "Necessity and force of arms compelled [the men of Ascalon] to seek terms of surrender, which were granted to them"
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 116",
+          "quote": "At the beginning of January, 1153, they had started a limited raid whose purpose was to destroy the plantations still remaining in the neighbourhood of the city"
+        },
+        {
+          "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+          "locator": "p. 538",
+          "quote": "The city fell on August 22, 1153"
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 117",
+          "quote": "On the 19th of August, 1153, a three days' truce was proclaimed."
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "end": {
+        "year": 1153,
+        "month": 8,
+        "day": 22,
+        "precision": "day"
+      }
     },
     {
       "id": "battle-of-montgisard",
@@ -9433,9 +9580,9 @@
       "wikidata": "Q815161",
       "start": {
         "year": 1187,
-        "precision": "month",
         "month": 9,
-        "circa": true
+        "day": 20,
+        "precision": "day"
       },
       "end": {
         "year": 1187,
@@ -9499,6 +9646,41 @@
         {
           "ref": "britannica-battle-of-hattin",
           "quote": "It paved the way for the Muslim reconquest of the city of Jerusalem (October 1187)"
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 118",
+          "quote": "It was on Sunday, the 15th of the month of Rejeb in the year 583 (September 20, 1187 A.D.), that he took up his position to the west of the city."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 119",
+          "quote": "the Sultan was put in possession of Jerusalem on Friday, the 27th of Rejeb (October 2, 1187)"
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 616",
+          "quote": "Saladin arrived before Jerusalem, a city which had sacred associations for Moslems as well as for Christians, in September 1187."
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 616",
+          "quote": "when the attack began on the twentieth, the defenders resisted successfully for six days before it became clear that they could hold out no longer."
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 617",
+          "quote": "The Moslem occupation, which commenced on October 2 (a Friday, and therefore considered a good omen by the Moslems), was carried out with a minimum of confusion."
+        },
+        {
+          "ref": "gibb-1969-rise-of-saladin",
+          "locator": "p. 586",
+          "quote": "After a siege of less than a fortnight the city surrendered on October 2"
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 616",
+          "quote": "when the attack began on the twentieth"
         }
       ],
       "notes": {
@@ -9609,6 +9791,26 @@
         {
           "ref": "britannica-crusades-third-crusade",
           "quote": "The coast from Jaffa north remained in Christian hands, but Ascalon was to be restored to Saladin"
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 51",
+          "quote": "Towards the end of August, probably on the 27th, king Guy and his troops occupied a hill near Acre, while the Pisan squadron that had escorted him down the coast blockaded the port."
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 51",
+          "quote": "Hence contemporaries called this the beginning of the siege of Acre."
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 85",
+          "quote": "On September 2, a truce for three years was signed by the representatives of the king and the sultan. The Christians were to hold a narrow strip along the coast from Tyre to Jaffa."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 383",
+          "quote": "peace was to be made for three years, commencing from the date of the document, that is to say, from Wednesday the 22nd of"
         }
       ],
       "casualties": null
@@ -9824,9 +10026,9 @@
       "parent": "third-crusade",
       "start": {
         "year": 1192,
-        "precision": "month",
         "month": 7,
-        "circa": true
+        "day": 27,
+        "precision": "day"
       },
       "end": {
         "year": 1192,
@@ -9898,9 +10100,53 @@
         {
           "ref": "britannica-battle-of-jaffa",
           "quote": "in late July, Saladin attacked Jaffa (now part of Tel Aviv, Israel), taking the town but not the citadel"
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 83",
+          "quote": "On July 27 he pushed his unenthusiastic forces against Jaffa."
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 84",
+          "quote": "Word of the attack on Jaffa reached Richard at Acre on July 29."
+        },
+        {
+          "ref": "painter-1969-third-crusade",
+          "locator": "p. 84",
+          "quote": "After dark on August 4 the squadrons of Moslem horse moved against the camp."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 361",
+          "quote": "During the morning of Tuesday, the 15th of Rejeb, the Sultan started on his march for Jaffa, and encamped there a little before noon the same day."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 375",
+          "quote": "he marched all through the night, and reached the vicinity of the camp early in the morning."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 376",
+          "quote": "where he came to a halt on Wednesday, the 23rd of Rejeb."
+        },
+        {
+          "ref": "baha-al-din-conder-1897-life-of-saladin",
+          "locator": "p. 361",
+          "quote": "During the morning of Tuesday, the 15th of Rejeb, the Sultan started on his march for Jaffa"
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "notes": {
+        "en": "Painter dates the start of Saladin's attack on Jaffa to 27 July 1192. Baha al-Din has the march on Jaffa begin on 'Tuesday 15 Rajab' 588, which corresponds to 27 or 28 July depending on when the month began.",
+        "ar": "يؤرخ بينتر بداية هجوم صلاح الدين على يافا بـ 27 تموز/يوليو 1192. ويجعل بهاء الدين بدء الزحف على يافا يوم «الثلاثاء 15 رجب» 588، وهو ما يوافق 27 أو 28 تموز/يوليو بحسب بداية الشهر.",
+        "he": "פיינטר מתארך את תחילת התקפתו של צלאח א-דין על יפו ל-27 ביולי 1192. בהא א-דין קובע את תחילת המסע אל יפו ל\"יום שלישי, 15 ברג'ב\" 588, המקביל ל-27 או ל-28 ביולי, לפי מועד תחילת החודש.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "khwarazmian-sack-of-jerusalem-1244",
@@ -9917,15 +10163,15 @@
       "wikidata": "Q3849563",
       "start": {
         "year": 1244,
-        "precision": "month",
         "month": 7,
-        "circa": true
+        "day": 11,
+        "precision": "day"
       },
       "end": {
         "year": 1244,
-        "precision": "month",
         "month": 8,
-        "circa": true
+        "day": 23,
+        "precision": "day"
       },
       "location": {
         "place": "jerusalem",
@@ -10009,12 +10255,42 @@
         {
           "ref": "iranica-ayyubids-humphreys-1987",
           "quote": "the Khwarazmian marauders who swept through Syria in 642-43/1244-46"
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 562",
+          "quote": "On July 11 the Khorezmians burst into the city. There was some fighting in the streets and a massacre of all the inmates of the Armenian convent of St. James. But the citadel held out."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 562",
+          "quote": "On August 23 the Tower of David was handed over to the Khorezmians"
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 562",
+          "quote": "So Jerusalem passed finally from the Franks."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 709",
+          "quote": "captured Jerusalem after a short siege (August 23), occupied Palestine, and joined the Egyptian troops at Gaza."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 562",
+          "quote": "On July 11 the Khorezmians burst into the city."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 709",
+          "quote": "captured Jerusalem after a short siege (August 23)"
         }
       ],
       "notes": {
-        "en": "Months approximate (summer 1244); the sources consulted give only the year. Jerusalem had been ceded to Frederick II by treaty in 1229.",
-        "ar": "الأشهر تقريبية (صيف 1244)؛ وتعطي المصادر المستشارة السنة فقط. وكانت القدس قد سُلّمت إلى فريدريك الثاني بمعاهدة عام 1229.",
-        "he": "החודשים מקורבים (קיץ 1244); המקורות שנבדקו נותנים רק את השנה. ירושלים נמסרה לפרידריך השני בהסכם ב-1229.",
+        "en": "Jerusalem had been ceded to Frederick II by treaty in 1229. Runciman (HoC II) dates the Khwarazmian entry into the city to 11 July 1244 and the surrender of the citadel to 23 August; Gibb (HoC II) gives 23 August for the capture.",
+        "ar": "كانت القدس قد سُلّمت إلى فريدريك الثاني بمعاهدة سنة 1229. ويؤرخ رنسيمان (HoC II) دخول الخوارزميين المدينة بـ 11 تموز/يوليو 1244 واستسلام القلعة بـ 23 آب/أغسطس؛ ويذكر جب (HoC II) 23 آب/أغسطس تاريخاً للاستيلاء عليها.",
+        "he": "ירושלים נמסרה לפרידריך השני בהסכם ב-1229. רנסימן (HoC II) מתארך את כניסת החוארזמים לעיר ל-11 ביולי 1244 ואת כניעת המצודה ל-23 באוגוסט; גיב (HoC II) נותן את 23 באוגוסט כתאריך הכיבוש.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10356,6 +10632,31 @@
         {
           "ref": "iranica-ilkhanids-amitai-2004",
           "quote": "defeating Kitbuqa on 3 September 1260 at ʿAyn Jālut in northern Palestine, thereby ending the short period of Mongol rule west of the Euphrates."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 745",
+          "quote": "Kutuz secured the Christians' neutrality, and was thereby able to surprise the Mongols in Galilee."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 745",
+          "quote": "the Mamluks defeated the Mongols in a pitched battle (September 1260)"
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 745",
+          "quote": "For the first time in history the Mongols had been indisputably beaten in a decisive encounter"
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 574",
+          "quote": "on September 3, 1260, when the Christian Kitbogha was defeated and slain by the Mamluks"
+        },
+        {
+          "ref": "cahen-1969-mongols-near-east",
+          "locator": "p. 718",
+          "quote": "the Mamluks crushed Kitbogha, and occupied almost all of Syria."
         }
       ],
       "casualties": null
@@ -10838,8 +11139,9 @@
       "parent": "baybars-campaigns-against-crusaders",
       "start": {
         "year": 1268,
-        "precision": "month",
-        "month": 5
+        "month": 5,
+        "day": 14,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -10897,6 +11199,26 @@
         {
           "ref": "britannica-baybars-i",
           "quote": "The most important town taken by Baybars was Antioch (May 1268)."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 577",
+          "quote": "The siege began on May 14."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 577",
+          "quote": "There was a general assault on May 18, and after a fierce struggle a breach was made in the walls on the slope of Mt. Silpius, through which the Moslems poured into the city."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 749",
+          "quote": "Early in 1268 he again went to Syria, where he took Jaffa, Belfort, and, after a strenuous siege, Antioch, chief city of the strongest crusading principality in those years."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 577",
+          "quote": "There was a general assault on May 18"
         }
       ],
       "notes": {
@@ -10908,7 +11230,13 @@
           "he": "machine-draft"
         }
       },
-      "casualties": null
+      "casualties": null,
+      "end": {
+        "year": 1268,
+        "month": 5,
+        "day": 18,
+        "precision": "day"
+      }
     },
     {
       "id": "fall-of-tripoli-1289",
@@ -10925,7 +11253,8 @@
       "wikidata": "Q5432166",
       "start": {
         "year": 1289,
-        "precision": "year"
+        "month": 3,
+        "precision": "month"
       },
       "location": {
         "coords": [
@@ -10986,6 +11315,21 @@
         {
           "ref": "britannica-crusades-final-loss",
           "quote": "Tripoli fell in 1289, and Acre, the last Crusader stronghold on the mainland, was besieged in 1291."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 592",
+          "quote": "in the last days of March 1289 Kalavun moved his whole army up to the city walls."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 592",
+          "quote": "When the sultan ordered a general assault that morning, April 26, 1289, there was no organized opposition."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 752",
+          "quote": "But he had to lay siege to it, storm it, and level it to the ground, before he could claim it as his own (1289)."
         }
       ],
       "notes": {
@@ -10997,7 +11341,13 @@
           "he": "machine-draft"
         }
       },
-      "casualties": null
+      "casualties": null,
+      "end": {
+        "year": 1289,
+        "month": 4,
+        "day": 26,
+        "precision": "day"
+      }
     },
     {
       "id": "siege-of-acre-1291",
@@ -11211,8 +11561,9 @@
       "parent": "ghazan-invasion-of-syria-1299-1300",
       "start": {
         "year": 1299,
-        "precision": "month",
-        "month": 12
+        "month": 12,
+        "day": 22,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -11266,6 +11617,31 @@
         {
           "ref": "iranica-ilkhanids-amitai-2004",
           "quote": "The one Mongol victory in the field in a major confrontation was at Wādā al-Ḵaznadār in central Syria in 1299."
+        },
+        {
+          "ref": "aigle-2007-ghazan-ibn-taymiyah",
+          "locator": "p. 93",
+          "quote": "some days after his victory at Wādī al-Khaznadār on 27 Rabīʿ I 699/22 December 1299."
+        },
+        {
+          "ref": "aigle-2007-ghazan-ibn-taymiyah",
+          "locator": "p. 90",
+          "quote": "The first took place in the winter of 699/1299–1300."
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "p. 295",
+          "quote": "Still advancing, but with sinking hearts, the Egyptians came in sight of the Mongols at Hims."
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "p. 296",
+          "quote": "Then Ghazan, stemming his fears, rallied his men to a second charge, which broke the centre, and the splendid cavalry of Egypt turned and fled."
+        },
+        {
+          "ref": "aigle-2007-ghazan-ibn-taymiyah",
+          "locator": "p. 93",
+          "quote": "victory at Wādī al-Khaznadār on 27 Rabīʿ I 699/22 December 1299."
         }
       ],
       "notes": {
@@ -11294,8 +11670,9 @@
       "wikidata": "Q2732255",
       "start": {
         "year": 1303,
-        "precision": "month",
-        "month": 4
+        "month": 4,
+        "day": 20,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -11348,6 +11725,26 @@
         {
           "ref": "iranica-ilkhanids-amitai-2004",
           "quote": "This force was defeated in April 1303 south of Damascus at Marj al-Ṣoffar."
+        },
+        {
+          "ref": "aigle-2007-ghazan-ibn-taymiyah",
+          "locator": "p. 90",
+          "quote": "Ghāzān Khān's third attempt to wrest Syria from the Mamluks began in spring 702/1303 and ended with the Mamluk victory at Marj al-Ṣuffār on 2 Ramaḍān 702/20 April 1303."
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "p. 298",
+          "quote": "They rode out to meet the Mongols, whom they found, 50,000 strong, at Shakhab on the plain of Marg-es-Suffar"
+        },
+        {
+          "ref": "lane-poole-1901-history-egypt-middle-ages",
+          "locator": "p. 298",
+          "quote": "At the end of the day the Egyptians were in possession of the field, and the Mongols had retired to a neighbouring hill."
+        },
+        {
+          "ref": "aigle-2007-ghazan-ibn-taymiyah",
+          "locator": "p. 90",
+          "quote": "the Mamluk victory at Marj al-Ṣuffār on 2 Ramaḍān 702/20 April 1303."
         }
       ],
       "casualties": null
@@ -11365,10 +11762,8 @@
       },
       "kind": "campaign",
       "start": {
-        "year": 1399,
-        "precision": "decade",
-        "circa": true,
-        "latest": 1405
+        "year": 1400,
+        "precision": "year"
       },
       "location": {
         "place": "damascus",
@@ -11430,18 +11825,54 @@
         {
           "ref": "britannica-palestine-to-1900",
           "quote": "Although Palestine was spared the pillage of his hordes, it could not escape its disastrous repercussions as the Mamluks moved through in a vain attempt to defend Damascus against the invader."
+        },
+        {
+          "ref": "jackson-2024-timur-mamluk-syria",
+          "locator": "p. 109",
+          "quote": "army in the autumn of 803/1400."
+        },
+        {
+          "ref": "jackson-2024-timur-mamluk-syria",
+          "locator": "p. 109",
+          "quote": "but Timur made no attempt to advance further, withdrawing across the Euphrates in Shaʿbān 803/March-April 1401."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 490",
+          "quote": "march to Syria at the close of 1400 to check the fearful Timur, who had swooped southward, sacked Aleppo, and seemed about to seize Damascus."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 491",
+          "quote": "never went beyond Damascus in Syria"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 490",
+          "quote": "march to Syria at the close of 1400 to check the fearful Timur"
+        },
+        {
+          "ref": "jackson-2024-timur-mamluk-syria",
+          "locator": "p. 109",
+          "quote": "withdrawing across the Euphrates in Shaʿbān 803/March-April 1401."
         }
       ],
       "notes": {
-        "en": "Context record. The source places the invasion in the reign of Sultan Faraj (1399-1412) and before Timur's death in 1405; the exact years are not stated in it.",
-        "ar": "سجل سياقي. يضع المصدر الغزو في عهد السلطان فرج (1399-1412) وقبل وفاة تيمور عام 1405؛ ولا يذكر السنوات الدقيقة.",
-        "he": "רשומת הקשר. המקור ממקם את הפלישה בימי הסולטאן פרג' (1399-1412) ולפני מות תימור ב-1405; השנים המדויקות אינן מצוינות בו.",
+        "en": "Context record. Timur entered Mamluk Syria in autumn 1400 and withdrew across the Euphrates in March-April 1401 (Jackson 2024); Ziada notes that he never went beyond Damascus.",
+        "ar": "سجل سياقي. دخل تيمور الشام المملوكية في خريف 1400 وانسحب عبر الفرات في آذار/مارس - نيسان/أبريل 1401 (جاكسون 2024)؛ ويذكر زيادة أنه لم يتجاوز دمشق قط.",
+        "he": "רשומת הקשר. טימור נכנס לסוריה הממלוכית בסתיו 1400 ונסוג אל מעבר לפרת במרץ-אפריל 1401 (ג'קסון 2024); זיאדה מציין שמעולם לא התקדם מעבר לדמשק.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
         }
       },
-      "casualties": null
+      "casualties": null,
+      "end": {
+        "year": 1401,
+        "month": 4,
+        "circa": true,
+        "precision": "month"
+      }
     },
     {
       "id": "ottoman-mamluk-war-1516-1517",
@@ -11529,6 +11960,31 @@
           "ref": "tdv-hadim-sinan-pasa",
           "locator": "article text",
           "quote": "Halep, Hama, Humus ve Şam ele geçirildi; böylece bütün Suriye zaptedilmiş oldu."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 511",
+          "quote": "he met the Mamluk army at the field of Marj Dabiq, north of Aleppo, in August 1516."
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 512",
+          "quote": "the Mamluk army was defeated first near Gaza, and then at Raidaniyah outside Cairo. The latter battle was fought in January 1517"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 512",
+          "quote": "was executed in April 1517. With his death the proud empire of the Mamluks came to an end."
+        },
+        {
+          "ref": "inalcik-1989-ottoman-turks-crusades-1451-1522",
+          "locator": "p. 353",
+          "quote": "By massive military campaigns he defeated the Safavids of Persia in 1514 and destroyed the Mamluk state in 1516-1517"
+        },
+        {
+          "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+          "locator": "p. 95",
+          "quote": "On that same day came the bad news that the army that had gone to Gaza had suffered defeat on Sunday, the 24th, of Dhu'l Ka'dah."
         }
       ],
       "notes": {
@@ -11637,12 +12093,37 @@
           "ref": "tdv-hadim-sinan-pasa",
           "locator": "article text",
           "quote": "Halep, Hama, Humus ve Şam ele geçirildi"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 511",
+          "quote": "he met the Mamluk army at the field of Marj Dabiq, north of Aleppo, in August 1516. The Mamluks were utterly defeated"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 511",
+          "quote": "After Marj Dabiq, Selim I's army advanced southward, and Syria passed quickly into the possession of the Ottomans"
+        },
+        {
+          "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+          "locator": "p. 95",
+          "quote": "defeat took place on Sunday, the 25th of Rejeb"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 511",
+          "quote": "The superior numbers and the artillery of the Turks, aided by the treachery of the commander of the left wing of the Mamluk army, were responsible for the rout."
+        },
+        {
+          "ref": "tdv-mercidabik-muharebesi",
+          "quote": "Bazı araştırmalarda Hayır Bey ile Canbirdi Gazâlî’nin hıyanet edip sultanın öldüğünü orduda ilân etmeleriyle Memlük kuvvetlerinin dağıldığı belirtilirse de bu doğru değildir.",
+          "locator": "article text (quote already cited in this record)"
         }
       ],
       "notes": {
-        "en": "Context record outside the map area. Emecen (TDV) rejects the claim found in some studies that the Mamluk defeat was caused by the treason of Khair Bey and Janbirdi al-Ghazali announcing the sultan's death. The death of Sultan Qansuh al-Ghawri in the battle is stated in TDV ('sultanın Mercidâbık Savaşı’nda ölmesi', search-result snippet) and is general knowledge.",
-        "ar": "سجل سياقي خارج منطقة الخريطة. يرفض إميجن (TDV) الادعاء الوارد في بعض الدراسات بأن هزيمة المماليك سببتها خيانة خاير بك وجان بردي الغزالي بإعلانهما موت السلطان. وموت السلطان قانصوه الغوري في المعركة مذكور في TDV (‘sultanın Mercidâbık Savaşı’nda ölmesi’، مقتطف من نتائج البحث) وهو معلومة عامة.",
-        "he": "רשומת הקשר מחוץ לאזור המפה. אמג'ן (TDV) דוחה את הטענה המופיעה בכמה מחקרים שתבוסת הממלוכים נגרמה מבגידתם של ח'איר בק וג'אנבירדי אל-ע'זאלי, שהכריזו על מות הסולטאן. מותו של הסולטאן קנסוה אל-ע'ורי בקרב נזכר ב-TDV (‘sultanın Mercidâbık Savaşı’nda ölmesi’, קטע מתוצאות חיפוש) והוא ידיעה כללית.",
+        "en": "Context record outside the map area. Emecen (TDV) rejects the claim found in some studies that the Mamluk defeat was caused by the treason of Khair Bey and Janbirdi al-Ghazali announcing the sultan's death. The death of Sultan Qansuh al-Ghawri in the battle is stated in TDV ('sultanın Mercidâbık Savaşı’nda ölmesi', search-result snippet) and is general knowledge. Ziada (an Egyptian historian, HoC III) attributes the rout partly to 'the treachery of the commander of the left wing of the Mamluk army', the view that Emecen (TDV) rejects; the disagreement is recorded rather than resolved. Ibn Iyas dates al-Ghuri's defeat to Sunday 25 Rajab [922], the same Hijri date as the TDV.",
+        "ar": "سجل سياقي خارج نطاق الخريطة. يرفض إمجن (TDV) الزعم الوارد في بعض الدراسات بأن هزيمة المماليك سببها خيانة خاير بك وجان بردي الغزالي بإعلانهما موت السلطان. ومقتل السلطان قانصوه الغوري في المعركة مذكور في TDV (‏'sultanın Mercidâbık Savaşı’nda ölmesi'‏، مقتطف من نتائج البحث) وهو من المعارف العامة. ويعزو زيادة (مؤرخ مصري، HoC III) الهزيمة جزئياً إلى «خيانة قائد الميسرة في الجيش المملوكي»، وهو الرأي الذي يرفضه إمجن (TDV)؛ ويُسجَّل الخلاف هنا دون حسمه. ويؤرخ ابن إياس هزيمة الغوري بيوم الأحد 25 رجب [922]، وهو التاريخ الهجري نفسه الوارد في TDV.",
+        "he": "רשומת הקשר מחוץ לתחום המפה. אמג'ן (TDV) דוחה את הטענה המופיעה במחקרים אחדים שתבוסת הממלוכים נגרמה מבגידתם של ח'איר ביי וג'אנבירדי אל-ע'זאלי, שהכריזו על מות הסולטאן. מותו של הסולטאן קנסוה אל-ע'ורי בקרב נזכר ב-TDV (‏'sultanın Mercidâbık Savaşı’nda ölmesi'‏, קטע מתוצאות חיפוש) והוא ידיעה כללית. זיאדה (היסטוריון מצרי, HoC III) תולה את המנוסה בחלקה ב\"בגידת מפקד האגף השמאלי של הצבא הממלוכי\", העמדה שאמג'ן (TDV) דוחה; המחלוקת מתועדת כאן ואינה מוכרעת. אבן איאס מתארך את תבוסת אל-ע'ורי ליום ראשון, 25 ברג'ב [922], אותו תאריך הג'רי כמו ב-TDV.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11739,12 +12220,37 @@
           "ref": "tdv-hadim-sinan-pasa",
           "locator": "article text",
           "quote": "Gazze’ye varan Sinan Paşa, Canbirdi Gazâlî kumandasındaki Memlük kuvvetleriyle 21 Aralık’ta şehrin güneybatısında"
+        },
+        {
+          "ref": "ziada-1975-mamluk-sultans-1291-1517",
+          "locator": "p. 512",
+          "quote": "the Mamluk army was defeated first near Gaza, and then at Raidaniyah outside Cairo."
+        },
+        {
+          "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+          "locator": "p. 95",
+          "quote": "the army that had gone to Gaza had suffered defeat on Sunday, the 24th, of Dhu'l Ka'dah."
+        },
+        {
+          "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+          "locator": "p. 96",
+          "quote": "The Ottoman troops were commanded by Sinan Pasha, who had Amirs and a large body of Turkish troops under him. The force with Jan Birdi was only a small one."
+        },
+        {
+          "ref": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
+          "locator": "p. 96",
+          "quote": "cut across Ibn 'Othman's force, and a fierce battle ensued at al-Sheri'at near Baisan."
+        },
+        {
+          "ref": "tdv-hadim-sinan-pasa",
+          "quote": "Sinan Paşa, Canbirdi Gazâlî kumandasındaki Memlük kuvvetleriyle 21 Aralık’ta şehrin güneybatısında Hanyûnus mevkiinde karşılaştı.",
+          "locator": "article text (quote already cited in this record)"
         }
       ],
       "notes": {
-        "en": "Date per the TDV İslâm Ansiklopedisi (21 December 1516); it was not cross-checked against a second source. Date per the TDV encyclopaedia (21 Dec 1516); some older accounts date a battle near Khan Yunis to late October 1516 - not verified here.",
-        "ar": "التاريخ بحسب موسوعة TDV İslâm Ansiklopedisi (21 كانون الأول/ديسمبر 1516)؛ ولم يُقارن بمصدر ثانٍ. التاريخ بحسب موسوعة TDV (21 كانون الأول/ديسمبر 1516)؛ وتؤرخ بعض الروايات الأقدم معركة قرب خان يونس بأواخر تشرين الأول/أكتوبر 1516 - ولم يُتحقق من ذلك هنا.",
-        "he": "התאריך לפי TDV İslâm Ansiklopedisi (21 בדצמבר 1516); הוא לא נבדק מול מקור שני. התאריך לפי האנציקלופדיה TDV (21 בדצמבר 1516); כמה תיאורים ישנים יותר מתארכים קרב ליד ח'אן יונס לסוף אוקטובר 1516 - לא אומת כאן.",
+        "en": "The date, 21 December 1516, is given by the TDV İslâm Ansiklopedisi and agrees with the contemporary Cairo chronicler Ibn Iyas, who dates the defeat of Janbirdi al-Ghazali by Sinan Pasha to Sunday 24 Dhu'l-Qa'da [922]. Some older accounts date a battle near Khan Yunis to late October 1516 (not verified here). The location is uncertain: Ibn Iyas (Salmon's 1921 English translation) places the battle 'at al-Sheri'at near Baisan', and Ziada (HoC III) says only 'near Gaza'; the Khan Yunis location rests on the TDV articles.",
+        "ar": "التاريخ، 21 كانون الأول/ديسمبر 1516، تذكره موسوعة TDV الإسلامية ويتفق مع المؤرخ القاهري المعاصر ابن إياس، الذي يؤرخ هزيمة جان بردي الغزالي على يد سنان باشا بيوم الأحد 24 ذي القعدة [922]. وتؤرخ بعض الروايات الأقدم معركة قرب خان يونس بأواخر تشرين الأول/أكتوبر 1516 (لم يُتحقق من ذلك هنا). أما الموقع فغير مؤكد: فابن إياس (في ترجمة سالمون الإنجليزية، 1921) يضع المعركة «في الشريعة قرب بيسان»، ولا يقول زيادة (HoC III) إلا «قرب غزة»؛ ويستند موقع خان يونس إلى مقالات TDV.",
+        "he": "התאריך, 21 בדצמבר 1516, ניתן באנציקלופדיה האסלאמית TDV ומתיישב עם הכרוניקן הקהירי בן הזמן אבן איאס, המתארך את תבוסת ג'אנבירדי אל-ע'זאלי בידי סנאן פאשה ליום ראשון, 24 בד'ו אל-קעדה [922]. כמה תיאורים ישנים יותר מתארכים קרב ליד ח'אן יונס לסוף אוקטובר 1516 (לא נבדק כאן). המיקום אינו ודאי: אבן איאס (בתרגום האנגלי של סלמון, 1921) ממקם את הקרב \"באל-שריעה ליד ביסאן\", וזיאדה (HoC III) אומר רק \"ליד עזה\"; המיקום בח'אן יונס נשען על ערכי TDV.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

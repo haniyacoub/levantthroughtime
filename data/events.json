@@ -2,68 +2,6 @@
   "$schema": "../schema/events.schema.json",
   "events": [
     {
-      "id": "natufian-settlement-jericho",
-      "name": {
-        "en": "Natufian (Epipaleolithic) occupation at Jericho",
-        "ar": "استيطان نطوفي (العصر الحجري الأوسط المتأخر) في أريحا",
-        "he": "יישוב נאטופי (אפיפלאוליתי) ביריחו",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
-      },
-      "kind": "foundation",
-      "date": {
-        "year": -9000,
-        "circa": true,
-        "precision": "millennium"
-      },
-      "place": "tell-es-sultan",
-      "coords": [
-        35.4446,
-        31.8717
-      ],
-      "coords_source": "wikidata:Q2402267",
-      "description": {
-        "en": "Epipaleolithic (Natufian) hunter-gatherers visited and then settled at the spring of Jericho, one of the earliest settlement sites in the region.",
-        "ar": "ارتاد صيادو وجامعو الثمار من العصر فوق الحجري (النطوفيون) نبع أريحا ثم استقروا عنده، وهو من أقدم مواقع الاستيطان في المنطقة.",
-        "he": "ציידים־לקטים מהתקופה האפיפלאוליתית (הנאטופים) ביקרו במעיין יריחו ואחר כך התיישבו בו, והוא אחד מאתרי היישוב הקדומים ביותר באזור.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
-      },
-      "importance": 2,
-      "basis": "archaeological",
-      "confidence": "estimated",
-      "sources": [
-        {
-          "ref": "britannica-jericho",
-          "locator": "Early settlement: The Stone Age",
-          "quote": "Traces have been found of visits of Epipaleolithic hunter-gatherers, carbon-dated to about 9000 bce"
-        },
-        {
-          "ref": "britannica-natufian-culture",
-          "locator": "first paragraph",
-          "quote": "Natufian culture, Mesolithic culture of Palestine and southern Syria dating from about 9000 bc"
-        },
-        {
-          "ref": "britannica-palestine-history",
-          "locator": "The Stone Age and the Copper Age",
-          "quote": "The Mesolithic Period (Middle Stone Age) is best represented by a culture called Natufian, known from excavations at ʿAin Mallāha and Jericho."
-        }
-      ],
-      "notes": {
-        "en": "Dates are Britannica's round figures ('about 9000'); the Jericho article was written by the excavator Kathleen Kenyon and reflects older radiocarbon dating. Calibrated chronologies in recent specialist literature may differ and were not converted here; no cal BP figure was taken from a source seen for this record.",
-        "ar": "التواريخ أرقام بريتانيكا المقرَّبة (‘about 9000’)؛ كتب مقالة أريحا المنقِّبة كاثلين كينيون وهي تعكس تأريخًا قديمًا بالكربون المشع. وقد تختلف التسلسلات المعايرة في الأدبيات المتخصصة الحديثة ولم تُحوَّل هنا؛ ولم يؤخذ أي رقم cal BP من مصدر اطُّلع عليه لهذا السجل.",
-        "he": "התאריכים הם המספרים העגולים של בריטניקה (‘about 9000’); המאמר על יריחו נכתב בידי החופרת קתלין קניון ומשקף תיארוך פחמן 14 ישן. כרונולוגיות מכוילות בספרות המומחים העדכנית עשויות להיות שונות ולא הומרו כאן; שום נתון cal BP לא נלקח ממקור שנבדק לרשומה זו.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
-      }
-    },
-    {
       "id": "jericho-neolithic-wall-and-tower",
       "name": {
         "en": "Neolithic walled settlement and stone tower at Jericho (Tell es-Sultan)",

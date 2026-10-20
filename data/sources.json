@@ -215,7 +215,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/handbksyria): the chapter 'Turkish Administration' (administrative divisions, with footnotes on the Beirut, Damascus and Jerusalem units), the population chapter and the passage on milling and the Haifa branch of the Hejaz Railway. Prepared by the Geographical Section of the Naval Intelligence Division, British Admiralty, from wartime intelligence; page numbers as printed in the scan."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/handbksyria): the chapter 'Turkish Administration' (administrative divisions, with footnotes on the Beirut, Damascus and Jerusalem units), the population chapter and the passage on milling and the Haifa branch of the Hejaz Railway. Prepared by the Geographical Section of the Naval Intelligence Division, British Admiralty, from wartime intelligence; page numbers as printed in the scan. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: p. 470 (the inhabited places of the southern coastal strip: Khan Yunus, Beni Sel'a, 'Abesan and Deir el-Balah). British wartime intelligence handbook (government), dated."
       },
       "kind": "government",
       "institution_country": "GB"
@@ -272,6 +272,30 @@
         "note": "Not opened (archive.org copies are lending-only); its view that only the coastal branch should be called the 'Sea Road' was seen as reported in bao-via-maris. Year as given there (revised English edition 1979)."
       },
       "kind": "academic"
+    },
+    {
+      "id": "aigle-2007-ghazan-ibn-taymiyah",
+      "type": "article",
+      "authors": [
+        "Aigle, Denise"
+      ],
+      "title": "The Mongol Invasions of Bilad al-Sham by Ghazan Khan and Ibn Taymiyah's Three \"Anti-Mongol\" Fatwas",
+      "container": "Mamluk Studies Review",
+      "publisher": "Middle East Documentation Center, University of Chicago",
+      "year": 2007,
+      "volume": 11,
+      "issue": 2,
+      "pages": "89-120",
+      "doi": "10.6082/M1JW8C1S",
+      "url": "https://doi.org/10.6082/M1JW8C1S",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article (CC BY 4.0) downloaded as PDF from Knowledge@UChicago (record 40t54-ycn63) and converted to text. Read the introduction on the Ilkhanid invasions of Syria (p. 90: Ghazan's three campaigns; the Mamluk victory at Marj al-Suffar, 20 April 1303) and p. 93 (Ghazan's victory at Wadi al-Khaznadar, 22 December 1299). Printed page = PDF page + 88. Author: French historian (CNRS / EPHE)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "akarli-1993-long-peace",
@@ -806,7 +830,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier (_late_work/late_dl/amitai_gaza/ask28.txt): p. 8 (PDF p. 10) on Jerusalem and the province of Damascus."
+        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: p. 8 (PDF p. 10) on Jerusalem and the province of Damascus."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -906,7 +930,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint. | Re-read in Milestone 8: Re-checked in this pass against the McGill copy OCR text downloaded earlier (research/m8c_dl/ia/antonius.txt): p. 279 (the three OETA zones)."
+        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint. | Re-read in Milestone 8: Re-checked in this pass against the McGill copy OCR text downloaded earlier: p. 279 (the three OETA zones)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1439,11 +1463,10 @@
       "title": "The Jews of Palestine: A Political History from the Bar Kokhba War to the Arab Conquest",
       "publisher": "Schocken Books",
       "year": 1976,
-      "url": "https://archive.org/details/jewsofpalestinep0000aviy",
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw consecutive text snippets via the Internet Archive full-text search of this lending copy (passages on the population after the Bar Kokhba war and in the section 'The Christians Become the Majority in Palestine'); page numbers not visible."
+        "note": "Saw consecutive text snippets via the Internet Archive full-text search of this lending copy (passages on the population after the Bar Kokhba war and in the section 'The Christians Become the Majority in Palestine'); page numbers not visible. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -1631,7 +1654,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description. | Re-read in Milestone 8: Re-checked in this pass against the copy of the page downloaded on 19 Oct 2026 (research/conf_dl/A-awm-sinai.txt): dates of the canal attack (3 Feb 1915), Magdhaba, Rafa and the last Ottoman garrisons (Feb 1917)."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description. | Re-read in Milestone 8: Re-checked in this pass against the copy of the page downloaded on 19 Oct 2026: dates of the canal attack (3 Feb 1915), Magdhaba, Rafa and the last Ottoman garrisons (Feb 1917)."
       },
       "kind": "government",
       "institution_country": "AU"
@@ -1669,7 +1692,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier (mig_dl/bachi.txt)."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -1728,7 +1751,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of chapters CLXX-CLXXI (pp. 381-386) on the peace of 1192. Primary source: memoir by Saladin's qadi and eyewitness of the negotiations, in a 19th-century English translation."
+        "note": "Downloaded and read the Internet Archive OCR text of chapters CLXX-CLXXI (pp. 381-386) on the peace of 1192. Primary source: memoir by Saladin's qadi and eyewitness of the negotiations, in a 19th-century English translation. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 118-119 (Saladin before Jerusalem from Sunday 15 Rajab 583 / 20 September 1187; the city handed over on Friday 27 Rajab / 2 October 1187), pp. 361, 375-376 (march on Jaffa on Tuesday 15 Rajab [588]; the night march and attack on Richard's camp; halt at Yazur on Wednesday 23 Rajab) and p. 383 (truce from Wednesday 22 Sha'ban 588 / 2 September 1192). 19th-century English translation of Saladin's secretary's memoir."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -1768,7 +1791,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti."
+        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier (Google scan bub_gb_pN8TAAAAIAAJ): pp. 216-219 on Caesarea (seven-year siege; conquest in Shawwal of the year 19; taken by storm by Mu'awiyah). Hijri dates as given in the text."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1790,7 +1813,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 613-619 (Hattin and Saladin's conquest of the kingdom, 1187-1190)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 613-619 (Hattin and Saladin's conquest of the kingdom, 1187-1190). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. I): pp. 616-617 (Saladin before Jerusalem in September 1187, the attack from the 20th, the capitulation and the occupation from 2 October)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1812,7 +1835,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the rift between Melisend and Baldwin III (pp. 534-535), the capture of Ascalon in 1153 (pp. 536-538) and the end of the Fatimid caliphate (p. 560)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the rift between Melisend and Baldwin III (pp. 534-535), the capture of Ascalon in 1153 (pp. 536-538) and the end of the Fatimid caliphate (p. 560). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. I): pp. 537-538 (army before Ascalon in January 1153; the city fell on 22 August 1153) and p. 540 (the king engaged before Ascalon, January 1153)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1896,7 +1919,7 @@
         "checked_on": "2026-10-19",
         "note": "Read the report (11 Nov 2018), including its background paragraph on the Sidna 'Ali shrine."
       },
-      "kind": "government",
+      "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-19"
     },
@@ -2333,11 +2356,10 @@
       "title": "The Crusaders in the Holy Land",
       "publisher": "Israel Universities Press / Macmillan",
       "year": 1970,
-      "url": "https://archive.org/details/benvenisti-the-crusaders-in-the-holy-land",
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan."
+        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan. | Re-read in Milestone 8 (group F) from the Internet Archive full text downloaded earlier: pp. 116-117 (siege of Ascalon from the beginning of January 1153; three-day truce proclaimed 19 August 1153). Page numbers printed at the foot of each page. The Internet Archive copy (item 'benvenisti-the-crusaders-in-the-holy-land') is a user upload of an in-copyright 1970 book and is probably not authorised. Read in a third-party copy of uncertain licensing status, which this project does not link."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -2657,11 +2679,10 @@
       "title": "Jerusalem in the Time of the Crusades: Society, Landscape and Art in the Holy City under Frankish Rule",
       "publisher": "Routledge",
       "year": 2001,
-      "url": "https://archive.org/details/JerusalemInTheTimeOfTheCrusadesAdrianJBoas",
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the relevant text and endnotes (ch. 1 n. 32) in an Internet Archive full-text copy."
+        "note": "Read the relevant text and endnotes (ch. 1 n. 32) in an Internet Archive full-text copy. Read in a third-party copy of uncertain licensing status, which this project does not link."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -5160,7 +5181,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the article text in an Internet Archive Wayback Machine capture (20260918021155) because britannica.com blocks direct download (saved as research/mid_dl/antipas.txt); quotes are from the article text, not the AI-generated summary boxes. (Capture downloaded by an earlier project agent; I re-read it.)"
+        "note": "Read the article text in an Internet Archive Wayback Machine capture (20260918021155) because britannica.com blocks direct download; quotes are from the article text, not the AI-generated summary boxes. (Capture downloaded by an earlier project agent; I re-read it.)"
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7944,7 +7965,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot (saved earlier in this research project as conf_dl/A_wb/A-brit-syria-ottoman). Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot. Quotes are from the article body, not the AI-generated summary boxes."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -8163,7 +8184,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the page (Wayback capture saved earlier in this project, research/conf_dl/A_wb); it consists of linked excerpts from other Britannica articles ('Ibrahim Pasha', 'Ottoman Empire: Move toward centralization')."
+        "note": "Read the page; it consists of linked excerpts from other Britannica articles ('Ibrahim Pasha', 'Ottoman Empire: Move toward centralization')."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -8759,7 +8780,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the general account of the Haram (p. 83) and catalogue entry no. 63 \"Al-Ashrafiyya\" (pp. 589-605). The Internet Archive copy is a user upload of a copyrighted book (ISBN 0 905035 33 X). Read in a third-party copy of uncertain licensing status, which this project does not link. | Re-read in Milestone 8: Read in this pass pp. 59-60 of the chapter 'Jerusalem under the Mamluks' (written by D. S. Richards, as stated in the preface) on the administrative status of Jerusalem (Gaza; Damascus; the independent governorate of 777/1375-76). As already noted, the Internet Archive copy (research/m8b_dl/ia/burgoyne1987.txt) is an unauthorised user upload of a copyrighted book (ISBN 0 905035 33 X); under the project rule the entry's URL should point to a library catalogue record instead."
+        "note": "Downloaded and read the Internet Archive OCR text of the general account of the Haram (p. 83) and catalogue entry no. 63 \"Al-Ashrafiyya\" (pp. 589-605). The Internet Archive copy is a user upload of a copyrighted book (ISBN 0 905035 33 X). Read in a third-party copy of uncertain licensing status, which this project does not link. | Re-read in Milestone 8: Read in this pass pp. 59-60 of the chapter 'Jerusalem under the Mamluks' (written by D. S. Richards, as stated in the preface) on the administrative status of Jerusalem (Gaza; Damascus; the independent governorate of 777/1375-76). As already noted, the Internet Archive copy is an unauthorised user upload of a copyrighted book (ISBN 0 905035 33 X); under the project rule the entry's URL should point to a library catalogue record instead."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -8817,7 +8838,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 717-720 (Hulagu, Baghdad 1258, the Mongol invasion of Syria and 'Ain Jalut, the Il-khanid state) and p. 723 (Abu-Sa'id)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 717-720 (Hulagu, Baghdad 1258, the Mongol invasion of Syria and 'Ain Jalut, the Il-khanid state) and p. 723 (Abu-Sa'id). | Re-read in Milestone 8 (group F) from the OCR text of History of the Crusades vol. II: p. 718 (the Mamluks crush Kitbogha in September 1260 and occupy almost all of Syria). Author: French historian of the medieval Near East."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -9021,7 +9042,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read chapters 12-14 (Bar Kokhba revolt; Loeb translation by E. Cary). Book 69 survives in the Byzantine epitome of Xiphilinus. | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 69 and read chs. 12-14."
+        "note": "Downloaded the page and read chapters 12-14 (Bar Kokhba revolt; Loeb translation by E. Cary). Book 69 survives in the Byzantine epitome of Xiphilinus. | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 69 and read chs. 12-14. | Re-read in Milestone 8 (group F) from the LacusCurtius page saved in an earlier pass: 69.14.1-2 (destruction of villages and fortresses; 'nearly the whole of Judaea was made desolate')."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -9351,7 +9372,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the Excel table (published 11.11.2025). Columns: 2024, 2023, 2022, 2000-2021, 1990-1999, 1980-1989, 1972-1979, 1961-1971, 1952-1960, 15.5.1948-1951. | Re-read in Milestone 8: Re-checked in this pass against the xlsx downloaded by an earlier step (mig_dl/cbs/st02_37.xlsx, text dump st02_37.txt): rows Ethiopia and USSR (former) by period of immigration."
+        "note": "Downloaded and read the Excel table (published 11.11.2025). Columns: 2024, 2023, 2022, 2000-2021, 1990-1999, 1980-1989, 1972-1979, 1961-1971, 1952-1960, 15.5.1948-1951. | Re-read in Milestone 8: Re-checked in this pass against the xlsx downloaded by an earlier step: rows Ethiopia and USSR (former) by period of immigration."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -9571,6 +9592,27 @@
       "institution_country": "US"
     },
     {
+      "id": "cohen-2007-ha-zefat-al-watta",
+      "type": "article",
+      "authors": [
+        "Cohen, Michael"
+      ],
+      "title": "Zefat (al-Watta)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 119,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2007,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=501",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the whole report (18 Mar 2007): trial excavation in the former Arab quarter al-Watta below the Safed fortress; Mamluk to Mandate occupation sequence."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "cohen-2008-army-of-shadows",
       "type": "book",
       "authors": [
@@ -9616,11 +9658,10 @@
       "title": "Population and Revenue in the Towns of Palestine in the Sixteenth Century",
       "publisher": "Princeton University Press",
       "year": 1978,
-      "url": "https://archive.org/details/populationrevenu0000unse",
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw text snippets via Internet Archive full-text search (methods section on the tahrir registers: coefficient per household). The book estimates town populations only; no country-wide total was seen."
+        "note": "Saw text snippets via Internet Archive full-text search (methods section on the tahrir registers: coefficient per household). The book estimates town populations only; no country-wide total was seen. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9708,6 +9749,75 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "conder-kitchener-1881-swp-memoirs-1",
+      "type": "book",
+      "authors": [
+        "Conder, C. R.",
+        "Kitchener, H. H.",
+        "Palmer, E. H. (ed.)",
+        "Besant, Walter (ed.)"
+      ],
+      "title": "The Survey of Western Palestine: Memoirs of the Topography, Orography, Hydrography, and Archaeology, vol. I: Sheets I-VI, Galilee",
+      "publisher": "Committee of the Palestine Exploration Fund, London",
+      "year": 1881,
+      "volume": "I",
+      "url": "https://archive.org/details/surveyofwesternp01conduoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entry for Safed (p. 199). A 19th-century scholarly gazetteer compiled from the Palestine Exploration Fund's field survey of 1871-1877; its descriptions date from the 1870s and its biblical identifications are of their time. Page numbers from the printed running heads."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "conder-kitchener-1882-swp-memoirs-2",
+      "type": "book",
+      "authors": [
+        "Conder, C. R.",
+        "Kitchener, H. H.",
+        "Palmer, E. H. (ed.)",
+        "Besant, Walter (ed.)"
+      ],
+      "title": "The Survey of Western Palestine: Memoirs of the Topography, Orography, Hydrography, and Archaeology, vol. II: Sheets VII-XVI, Samaria",
+      "publisher": "Committee of the Palestine Exploration Fund, London",
+      "year": 1882,
+      "volume": "II",
+      "url": "https://archive.org/details/surveyofwesternp02conduoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Tanturah (p. 3), Tul Keram (pp. 161-162), Kalkilieh (p. 165), Ramleh (p. 253) and Mejdel (pp. 410-411). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. The OCR garbles some names (e.g. 'Till Keram' for Tul Keram), so quotes avoid the garbled words."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "conder-kitchener-1883-swp-memoirs-3",
+      "type": "book",
+      "authors": [
+        "Conder, C. R.",
+        "Kitchener, H. H.",
+        "Palmer, E. H. (ed.)",
+        "Besant, Walter (ed.)"
+      ],
+      "title": "The Survey of Western Palestine: Memoirs of the Topography, Orography, Hydrography, and Archaeology, vol. III: Sheets XVII-XXVI, Judaea",
+      "publisher": "Committee of the Palestine Exploration Fund, London",
+      "year": 1883,
+      "volume": "III",
+      "url": "https://archive.org/details/surveyofwesternp03conduoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Bireh (p. 8), Ram Allah (p. 13), Beit Nuba (p. 14), Lifta (p. 18), Deir Yesin (p. 21), Deir el Belah (p. 234; archaeology p. 247), Hulhul (p. 305) and es Semua (p. 403). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. Some names are garbled in the OCR, so quotes avoid them."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "crowell-2007-edom",
       "type": "article",
       "authors": [
@@ -9786,6 +9896,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "dagan-barda-2010-ha-lifta-survey",
+      "type": "article",
+      "authors": [
+        "Dagan, Yehuda",
+        "Barda, Leticia"
+      ],
+      "title": "Jerusalem, Lifta, Survey (Final Report)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 122,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2010,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=1619",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the whole report (26 Dec 2010): survey of the abandoned village of Lifta in January-February 2008, describing its setting, the spring and the village buildings."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "dailyalert-2016-netanyahu-unesco",
       "type": "web",
       "title": "Netanyahu: UNESCO Decision on Temple Mount Like Saying Egypt Has No Connection to the Pyramids",
@@ -9801,6 +9933,27 @@
       "kind": "ngo",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "dalali-amos-2013-ha-zefat",
+      "type": "article",
+      "authors": [
+        "Dalali-Amos, Edna"
+      ],
+      "title": "Zefat (Final Report; Jabotinsky Street)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 125,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2013,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=5392",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the report (15 Dec 2013), including its background on the Crusader and Mamluk fortress of Safed and the periods represented on its slopes."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "daniel-rops-1962-daily-life",
@@ -9876,7 +10029,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the essay text in a copy downloaded earlier in this project (research/persp_dl/davies-2002-minimalism-anti-semitism.txt), incl. the remark on the Tel Dan stela."
+        "note": "Read the essay text in a copy downloaded earlier in this project, incl. the remark on the Tel Dan stela."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -10000,7 +10153,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project (research/persp_dl/dever-2008-nova-interview.txt): Merneptah stele, United Monarchy, Josiah."
+        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project: Merneptah stele, United Monarchy, Josiah."
       },
       "kind": "press",
       "institution_country": "US"
@@ -10320,7 +10473,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the 1922 Hutchinson edition (https://archive.org/details/cu31924028514564), ch. IV ('In Command of the Fourth Army') and ch. VIII. Memoir of Ahmed Cemal (Djemal) Pasha himself: a self-justifying primary source. | Re-read in Milestone 8: Read in this pass pp. 144, 148-149 and 171 in the Internet Archive OCR text downloaded earlier (research/m8c_dl/ia/djemal1922.txt): Ottoman posts at El-Arish and Qal'at al-Nakhl on his arrival (Dec 1914) and the evacuation of El-Arish in December 1916. A memoir by the Ottoman commander (Ahmed Djemal Pasha), English translation 1922."
+        "note": "Downloaded and read the Internet Archive OCR text of the 1922 Hutchinson edition (https://archive.org/details/cu31924028514564), ch. IV ('In Command of the Fourth Army') and ch. VIII. Memoir of Ahmed Cemal (Djemal) Pasha himself: a self-justifying primary source. | Re-read in Milestone 8: Read in this pass pp. 144, 148-149 and 171 in the Internet Archive OCR text downloaded earlier: Ottoman posts at El-Arish and Qal'at al-Nakhl on his arrival (Dec 1914) and the evacuation of El-Arish in December 1916. A memoir by the Ottoman commander (Ahmed Djemal Pasha), English translation 1922."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -10336,12 +10489,11 @@
       "publisher": "American University of Beirut",
       "year": 1974,
       "pages": "443-455",
-      "url": "https://archive.org/details/michaeldolstr.ibnalwardiontheplague1974",
       "accessed": "2026-10-19",
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the whole article (introduction and translation). Contains the eyewitness account of Ibn al-Wardi (d. Aleppo, 18 March 1349)."
+        "note": "Downloaded and read the Internet Archive OCR text of the whole article (introduction and translation). Contains the eyewitness account of Ibn al-Wardi (d. Aleppo, 18 March 1349). Read in a third-party copy of uncertain licensing status, which this project does not link."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -10650,7 +10802,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com (copy saved as research/m8g_dl/amharic/ej_beta_israel.txt): immigration section and the passages on Amharic and Tigrinya."
+        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11468,7 +11620,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Saladin's succession, al-'Adil, al-Kamil, the 1229 treaty from the Muslim side, Jerusalem 1239-1244). | Re-read in Milestone 8: Re-read in this pass (Wisconsin History of the Crusades vol. II, OCR text downloaded earlier, research/m8b_dl/gibb_aiyubids.txt): p. 713 on the peace of March/April 1253 (with n. 34 citing adh-Dhahabi on Nablus) and the 1256 settlement."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Saladin's succession, al-'Adil, al-Kamil, the 1229 treaty from the Muslim side, Jerusalem 1239-1244). | Re-read in Milestone 8: Re-read in this pass (Wisconsin History of the Crusades vol. II, OCR text downloaded earlier): p. 713 on the peace of March/April 1253 (with n. 34 citing adh-Dhahabi on Nablus) and the 1256 settlement. | Re-read in Milestone 8 (group F) from the OCR text of History of the Crusades vol. II: p. 709 (the Khorezmians invited for as-Salih Aiyub; Jerusalem captured after a short siege, 23 August 1244)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11490,7 +11642,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter (Umayyads and Abbasids, the Tulunid and Ikhshidid principalities, the Fatimid struggle for Syria to 1098)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter (Umayyads and Abbasids, the Tulunid and Ikhshidid principalities, the Fatimid struggle for Syria to 1098). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. I): p. 82 (the Abbasid line replaces the Umayyads), p. 84 (the Qarmatian risings, reduced only in 907) and p. 88 (the Fatimid entry into Damascus in 969, the Qarmatian counter-attack of 971 and 974, and the defeat of Aftigin and the Qarmatians three years after 975)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11511,7 +11663,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1; the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers from the printed running heads. Read the whole chapter (ch. XVI): succession at Aleppo (1146), relations with the Burid regime of Damascus, the taking of Damascus (25 April 1154), Baalbek (1155), Banyas (1164), Egypt (1169) and his death (15 May 1174)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1; the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers from the printed running heads. Read the whole chapter (ch. XVI): succession at Aleppo (1146), relations with the Burid regime of Damascus, the taking of Damascus (25 April 1154), Baalbek (1155), Banyas (1164), Egypt (1169) and his death (15 May 1174). | Re-read in Milestone 8 (group F) from the copy downloaded earlier: p. 518 (Nur-ad-Din's attempt to relieve the pressure on Ascalon early in 1153; Ascalon falls to the crusading armies)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -11534,7 +11686,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the end of the Fatimid caliphate (1171), Saladin's occupation of Damascus (1174) and the campaigns of 1187-1189. | Re-read in Milestone 8: Re-checked in this pass against the OCR text of vol. I (research/m8b_dl/hoc/hoc1.txt): p. 567, Saladin's occupation of Damascus on 28 October 1174."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the end of the Fatimid caliphate (1171), Saladin's occupation of Damascus (1174) and the campaigns of 1187-1189. | Re-read in Milestone 8: Re-checked in this pass against the OCR text of vol. I: p. 567, Saladin's occupation of Damascus on 28 October 1174. | Re-read in Milestone 8 (group F) from the OCR text of History of the Crusades vol. I: p. 586 (siege of less than a fortnight; surrender on 2 October 1187)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11579,6 +11731,28 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "goffman-1982-maktu-safed",
+      "type": "article",
+      "authors": [
+        "Goffman, Daniel S."
+      ],
+      "title": "The Maktu' System and the Jewish Community of Sixteenth-Century Safed: A Study of Two Documents from the Ottoman Archives",
+      "container": "Osmanlı Araştırmaları / The Journal of Ottoman Studies",
+      "publisher": "Türkiye Diyanet Vakfı İslam Araştırmaları Merkezi (İSAM), Istanbul",
+      "year": 1982,
+      "volume": 3,
+      "pages": "81-90",
+      "url": "https://dergipark.org.tr/tr/pub/oa/article/131330",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF downloaded from DergiPark (Turkish academic journal platform) and converted to text; the scan's OCR has many errors, so only clean passages are quoted. Read the whole article, especially pp. 85-87 (growth of Safed's Jewish community between the 1525-26 and 1555-56 Ottoman tax registers; Sephardic immigrants and the textile industry; the fixed-sum (maktu') tax encouraging immigration). Page range approximate (pp. 81-87 read, followed by document translations). Author: US historian of the Ottoman Empire (student of Halil İnalcık)."
+      },
+      "kind": "academic",
+      "institution_country": "TR"
     },
     {
       "id": "gold-2002-occupied-to-disputed",
@@ -11648,6 +11822,31 @@
       "kind": "academic",
       "institution_country": "FR",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "gopher-abbo-lev-yadun-2001-neolithic-revolution",
+      "type": "article",
+      "authors": [
+        "Gopher, Avi",
+        "Abbo, Shahal",
+        "Lev-Yadun, Simcha"
+      ],
+      "title": "The \"when\", the \"where\" and the \"why\" of the Neolithic revolution in the Levant",
+      "container": "Documenta Praehistorica",
+      "publisher": "University of Ljubljana",
+      "year": 2001,
+      "volume": 28,
+      "pages": "49-62",
+      "doi": "10.4312/dp.28.3",
+      "url": "https://doi.org/10.4312/dp.28.3",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF downloaded from the journal site (journals.uni-lj.si) and converted to text. Read the whole article, in particular the site map caption (p. 50: Jericho, Netiv Hagdud and Gilgal I) and the review of the 'where' question (p. 54, reporting Jones et al.'s dating of early cultivation in the Jordan valley). Printed page = PDF page + 48. Authors: Tel Aviv University, Hebrew University and University of Haifa (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "SI"
     },
     {
       "id": "gorenberg-2006-nyt-tragedy-foretold",
@@ -11861,6 +12060,51 @@
       },
       "kind": "academic",
       "institution_country": "NL"
+    },
+    {
+      "id": "griffin-2021-at-home-in-exile",
+      "type": "book",
+      "authors": [
+        "Griffin, Helga M."
+      ],
+      "title": "At Home in Exile: A Memoir",
+      "publisher": "ANU Press, Canberra",
+      "year": 2021,
+      "doi": "10.22459/AHE.2021",
+      "url": "https://press-files.anu.edu.au/downloads/press/n7874/pdf/book.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access book (ANU Press) downloaded as PDF and converted to text. Read chapter 8 'Das Lager' (pp. 66-70: arrival at Tatura camp in late November 1941; the Templer internees from Palestine who had come on the Queen Elizabeth some months earlier). A memoir by a child internee deported from Iran (primary testimony published by a university press), not a study of the Templers; printed page = PDF page - 18."
+      },
+      "kind": "academic",
+      "institution_country": "AU"
+    },
+    {
+      "id": "grosman-belfer-cohen-2022-hayonim-natufian",
+      "type": "article",
+      "authors": [
+        "Grosman, Leore",
+        "Belfer-Cohen, Anna"
+      ],
+      "title": "Insights into Natufian Social Identity: A Case Study from the Graveyard of Hayonim Cave",
+      "container": "Cambridge Archaeological Journal",
+      "publisher": "Cambridge University Press",
+      "year": 2023,
+      "volume": 33,
+      "issue": 2,
+      "pages": "247-264",
+      "doi": "10.1017/S0959774322000282",
+      "url": "https://doi.org/10.1017/S0959774322000282",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article (published online 2022) downloaded as PDF from Cambridge Core and converted to text. Read the abstract, introduction and the section on the Natufian occupation of Hayonim Cave (p. 248: excavations 1969-79 and 1992-2000; calibrated ranges of the Early and Late Natufian). Authors: Hebrew University of Jerusalem (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "grossman-2011-rural-arab-demography",
@@ -12082,6 +12326,31 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "haklay-gopher-2015-eynan-shelter-131",
+      "type": "article",
+      "authors": [
+        "Haklay, Gil",
+        "Gopher, Avi"
+      ],
+      "title": "A New Look at Shelter 131/51 in the Natufian Site of Eynan (Ain-Mallaha), Israel",
+      "container": "PLOS ONE",
+      "publisher": "Public Library of Science",
+      "year": 2015,
+      "volume": 10,
+      "issue": 7,
+      "pages": "e0130121",
+      "doi": "10.1371/journal.pone.0130121",
+      "url": "https://doi.org/10.1371/journal.pone.0130121",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article (CC BY); downloaded the full-text XML from journals.plos.org and read the introduction and the section 'The site of Eynan' (location by the Eynan spring in the Hula Valley; Natufian phases spanning c. 15,000-12,000 cal BP). Authors: Tel Aviv University (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "hamas-2006-haniyeh-government-program",
@@ -12454,12 +12723,11 @@
       "title": "History of the Arabs from the Earliest Times to the Present",
       "publisher": "Macmillan & Co.",
       "year": 1940,
-      "url": "https://archive.org/details/in.ernet.dli.2015.460620",
       "accessed": "2026-10-19",
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (Digital Library of India scan catalogued as \"2nd ed., 1940\"; the printing seen describes Hitti as professor emeritus and cites works of 1949-1950, so it is a later reprint of the revised edition and page numbers may differ from the 1940 edition). Read the conquest of Syria (ch. XI-XII), the Umayyad and Abbasid caliphs, and the Tulunids and Ikhshidids. Hitti (1886-1978) was a Lebanese-born historian at Princeton."
+        "note": "Downloaded and read the Internet Archive OCR text (Digital Library of India scan catalogued as \"2nd ed., 1940\"; the printing seen describes Hitti as professor emeritus and cites works of 1949-1950, so it is a later reprint of the revised edition and page numbers may differ from the 1940 edition). Read the conquest of Syria (ch. XI-XII), the Umayyad and Abbasid caliphs, and the Tulunids and Ikhshidids. Hitti (1886-1978) was a Lebanese-born historian at Princeton. | Re-read in Milestone 8 (group F) from the copy downloaded earlier: p. 153 (Jerusalem held out till 638 and Caesarea till October 640) and p. 284 (the Abbasid revolt broke out on 9 June 747). This Digital Library of India scan of an in-copyright book is probably not an authorised upload; page numbers are those of the printing scanned (a reprint of the revised edition). Read in a third-party copy of uncertain licensing status, which this project does not link."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -12718,6 +12986,25 @@
       "institution_country": "IL"
     },
     {
+      "id": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+      "type": "book",
+      "authors": [
+        "Ibn al-Qalanisi",
+        "Gibb, H. A. R. (translator)"
+      ],
+      "title": "The Damascus Chronicle of the Crusades, extracted and translated from the Chronicle of Ibn al-Qalanisi",
+      "publisher": "Luzac & Co., London",
+      "year": 1932,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the Internet Archive OCR text (scan from the University of Illinois Urbana-Champaign library; the item shows no rights statement, so its copyright status for this 1932 London translation could not be confirmed). Read the year A.H. 548 (29 March 1153 to 17 March 1154), pp. 314-315: the Frankish blockade of Ascalon, the Egyptian fleet, the assault and the surrender on terms. Primary source: Damascene official and chronicler (d. 1160), contemporary with the events. Read in a third-party copy of uncertain licensing status, which this project does not link."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "ibn-iyas-salmon-1921-ottoman-conquest-egypt",
       "type": "book",
       "authors": [
@@ -12732,7 +13019,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of pp. 95-96 (the defeat of the Mamluk army near Gaza, Dhu'l-Qa'da 922 / December 1516). Primary source: Cairo chronicler and eyewitness, in a 1921 English translation."
+        "note": "Downloaded and read the Internet Archive OCR text of pp. 95-96 (the defeat of the Mamluk army near Gaza, Dhu'l-Qa'da 922 / December 1516). Primary source: Cairo chronicler and eyewitness, in a 1921 English translation. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 95-96 (news in Cairo of the defeat of the army sent to Gaza on Sunday 24 Dhu'l-Qa'da [922]; al-Ghuri's earlier defeat on Sunday 25 Rajab; the battle between Janbirdi al-Ghazali and Sinan Pasha placed 'at al-Sheri'at near Baisan' in this translation). Primary source: Cairo chronicler and eyewitness, in a 1921 English translation (abridged; the translator marks omissions)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -13034,7 +13321,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 353 (Selim I). The author is a Turkish historian (then University of Chicago). His companion chapter on 1329-1451 (pp. 222-275) is missing from this scan and was not seen."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 353 (Selim I). The author is a Turkish historian (then University of Chicago). His companion chapter on 1329-1451 (pp. 222-275) is missing from this scan and was not seen. | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. VI): p. 353 (Selim I destroyed the Mamluk state in 1516-1517 and annexed Syria and Egypt). Turkish historian."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -13123,7 +13410,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260916124220/https://www.iranicaonline.org/articles/ayyubids/ (live site returned HTTP 403). Read the full article (published 15 Dec 1987). | Re-read in Milestone 8: Re-checked in this pass against the Wayback copy downloaded earlier (research/conf_dl/ir_ayyubids.txt): Nur al-Din's reign dates and the end of Zangid power at Aleppo (579/1183)."
+        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260916124220/https://www.iranicaonline.org/articles/ayyubids/ (live site returned HTTP 403). Read the full article (published 15 Dec 1987). | Re-read in Milestone 8: Re-checked in this pass against the Wayback copy downloaded earlier: Nur al-Din's reign dates and the end of Zangid power at Aleppo (579/1183)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -13143,7 +13430,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the passages on Khosrow II’s war with Heraclius and the peace with Kavad II in an Internet Archive Wayback Machine capture (20261002032038) downloaded by an earlier project agent (research/mid_dl/ir_byz.txt); I re-read it."
+        "note": "Read the passages on Khosrow II’s war with Heraclius and the peace with Kavad II in an Internet Archive Wayback Machine capture (20261002032038) downloaded by an earlier project agent; I re-read it."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -13632,6 +13919,29 @@
       },
       "kind": "government",
       "institution_country": "IL"
+    },
+    {
+      "id": "jackson-2024-timur-mamluk-syria",
+      "type": "article",
+      "authors": [
+        "Jackson, Peter"
+      ],
+      "title": "Some Reflections on Timur's Invasion of Mamluk Syria",
+      "container": "Mamluk Studies Review",
+      "publisher": "Middle East Documentation Center, University of Chicago",
+      "year": 2024,
+      "volume": 27,
+      "pages": "109-124",
+      "doi": "10.6082/ztnm-b146",
+      "url": "https://doi.org/10.6082/ztnm-b146",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article (CC BY 4.0) downloaded as PDF from Knowledge@UChicago (record ad5tg-2p720) and converted to text. Read p. 109 (Timur entered the Mamluk dominions in autumn 803/1400 and withdrew across the Euphrates in Sha'ban 803/March-April 1401) and the source survey on pp. 109-110. Author: British historian (Keele University)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "jacobson-2001-bar",
@@ -14478,6 +14788,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "khalaily-2016-ha-enot-eynan",
+      "type": "article",
+      "authors": [
+        "Khalaily, Hamudi"
+      ],
+      "title": "'Enot 'Eynan (Final Report)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 128,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2016,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=24927",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the whole report (10 Mar 2016): 2013 excavation at the Natufian site of 'Eynan ('Ain Mallaha), with a background paragraph on the site's discovery in 1954, the French excavations and its calibrated date range."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "khalidi-1988-plan-dalet",
       "type": "article",
       "authors": [
@@ -14815,11 +15146,10 @@
       "title": "Exile and Restoration Revisited: Essays on the Babylonian and Persian Periods in Memory of Peter R. Ackroyd",
       "publisher": "T & T Clark",
       "year": 2009,
-      "url": "https://archive.org/details/exilerestoration0000unse_z5j5",
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw a text snippet via Internet Archive full-text search: '...accords with Lipschits' figure of approximately 30,000 inhabitants for Yehud (Lipschits 2005: 271)'. Chapter author not identified from the snippet."
+        "note": "Saw a text snippet via Internet Archive full-text search: '...accords with Lipschits' figure of approximately 30,000 inhabitants for Yehud (Lipschits 2005: 271)'. Chapter author not identified from the snippet. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -14960,7 +15290,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of ch. III \"Tulun and Ikhshid, 868-969\" (pp. 59-91) and ch. XI \"The Circassian Mamluks, 1382-1517\" (list of sultans, p. 324; Qaytbay, pp. 342-350). A work of 1901 (dated, but based on the Arabic chronicles); used only for dates."
+        "note": "Downloaded and read the Internet Archive OCR text of ch. III \"Tulun and Ikhshid, 868-969\" (pp. 59-91) and ch. XI \"The Circassian Mamluks, 1382-1517\" (list of sultans, p. 324; Qaytbay, pp. 342-350). A work of 1901 (dated, but based on the Arabic chronicles); used only for dates. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 295-298 (Ghazan's invasion of 1299-1300: the battle near Hims at Wady-el-Khazindar and the occupation of Damascus; the Mongol defeat at Shakhab on the plain of Marg-es-Suffar, 1303). A 1901 work, dated but drawn from the Arabic chronicles."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -15286,7 +15616,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier (research/m8c_dl/ia/luke1922.txt). The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem)."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier. The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem)."
       },
       "kind": "government",
       "institution_country": "GB"
@@ -15409,6 +15739,27 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "mamalya-2019-ha-migdal-ashqelon",
+      "type": "article",
+      "authors": [
+        "Mamalya, Haim"
+      ],
+      "title": "Ashqelon, Migdal Ashqelon (Final Report)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 131,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2019,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=25513",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the whole report (20 Jan 2019): trial excavation of 2017 in the northern part of the former Arab village of el-Majdal, with a summary of earlier excavations at the Great Mosque of el-Majdal. Peer-reviewed excavation report journal of the Israel Antiquities Authority (an existing Hadashot entry, barkan-dayan-2018-sidna-ali, is classed 'government')."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "mandell-2025-thetorah-abdi-heba",
@@ -16002,7 +16353,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-19",
-        "note": "Read only the chapter title and abstract on Oxford Academic. The site blocks direct download, so the page was read with a fetch tool that returned short verbatim fragments of the abstract (kept in research/vill_dl/oup_majdal_fragments.txt). The chapter text is paywalled and was not read; the abstract covers 1948 only, and the 1950 transfer is supported here only by the chapter title (which the page spells \"Remainng\")."
+        "note": "Read only the chapter title and abstract on Oxford Academic. The site blocks direct download, so the page was read with a fetch tool that returned short verbatim fragments of the abstract. The chapter text is paywalled and was not read; the abstract covers 1948 only, and the 1950 transfer is supported here only by the chapter title (which the page spells \"Remainng\")."
       },
       "kind": "academic",
       "institution_country": "IL"
@@ -16087,6 +16438,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "muhlen-schulte-2019-atlas-of-incarceration",
+      "type": "article",
+      "authors": [
+        "Muhlen-Schulte, Minna"
+      ],
+      "title": "'In Defence of Liberty'?: An Atlas of Incarceration",
+      "container": "Public History Review",
+      "publisher": "UTS ePress, University of Technology Sydney",
+      "year": 2019,
+      "volume": 26,
+      "pages": "65-78",
+      "url": "https://epress.lib.uts.edu.au/journals/index.php/phrj/article/view/6823",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article downloaded as PDF and converted to text. Read the whole article (Second World War internment camps around Tatura, Victoria; the internee population, including Temple Society members from Palestine)."
+      },
+      "kind": "academic",
+      "institution_country": "AU"
+    },
+    {
       "id": "muhtadi-naili-2018-end-of-egyptian-rule",
       "type": "chapter",
       "authors": [
@@ -16156,6 +16529,24 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "nabila-1969-abbasid-lectures",
+      "type": "book",
+      "authors": [
+        "Nabila Hasan Muhammad (نبيلة حسن محمد)"
+      ],
+      "title": "محاضرات في تاريخ الدولة العباسية (Lectures on the History of the Abbasid State)",
+      "publisher": "Maktab Kraydiyyah Ikhwan (مكتب كريديَّة إخوان)",
+      "year": 1969,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read four proofread pages of the Arabic Wikisource transcription of a scan of this university lecture book (OCLC 4770787306): printed pp. 37 (battle of the Zab, 11 Jumada II 132 / 26 January 750), 132 (the revolt of al-Mubarqa' al-Yamani at Ramla in 227 AH and its suppression under al-Wathiq) and 165 (the Qarmatians in Syria in 290 AH under Harun ibn Khumarawayh). Quotes taken from the page wikitext with wiki markup removed. Wikisource does not state the licence basis for this 1969 book, so whether the copy is authorised could not be confirmed. Arab (Egyptian-published scholarship tradition) perspective; author's institution not stated on the pages read. Read in a third-party copy of uncertain licensing status, which this project does not link."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "nad-faq-camp-david",
@@ -17217,7 +17608,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 83-85 (negotiations of 1192 and the truce of 2 September 1192)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read pp. 83-85 (negotiations of 1192 and the truce of 2 September 1192). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. II): p. 51 (Guy's camp before Acre, end of August 1189), pp. 83-84 (Saladin's attack on Jaffa from 27 July 1192, Richard's relief, the night attack of 4-5 August) and p. 85 (truce of 2 September 1192)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -17233,7 +17624,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the OCR text of the full PDF from UNISPAL; ch. III, para. 44 (Lord Plumer's tenure). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UNISPAL PDF (Cmd. 5479) and read the OCR text of ch. I paras. 25-29 (Jewish colonies, Rothschild, first Zionist Congress), ch. II paras. 24-28 (Feisal, 1918-1920) and ch. VI paras. 12-14 (the Occupied Enemy Territory Administration, 1918-1920)."
+        "note": "Read the OCR text of the full PDF from UNISPAL; ch. III, para. 44 (Lord Plumer's tenure). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UNISPAL PDF (Cmd. 5479) and read the OCR text of ch. I paras. 25-29 (Jewish colonies, Rothschild, first Zionist Congress), ch. II paras. 24-28 (Feisal, 1918-1920) and ch. VI paras. 12-14 (the Occupied Enemy Territory Administration, 1918-1920). | Re-read in Milestone 8 (group F) from the OCR text of the UNISPAL PDF saved in an earlier pass: ch. III, p. 67 (the attacks of 23-29 August 1929 on the old-established Jewish communities at Hebron and Safad)."
       },
       "kind": "government",
       "institution_country": "GB",
@@ -17658,7 +18049,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read a saved copy of the article text (the operation date and narrative of 9 April 1948). Palestinian academic institution; URL is the canonical link recorded in the saved page."
+        "note": "Read a saved copy of the article text (the operation date and narrative of 9 April 1948). Palestinian academic institution; URL is the canonical link recorded in the saved page. | Re-read in Milestone 8 (group F) from the copy saved in an earlier pass: the photograph caption and the paragraph on the village in 1948 (area, residents, houses)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18079,7 +18470,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version. | Re-read in Milestone 8 (group F) from the copy saved in an earlier pass: section 'Village Before 1948' (the village stood on a small hill near the ruins of Dor)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18127,7 +18518,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version."
+        "note": "Downloaded and read the whole place page (19 Oct 2026), sections \"Occupation and depopulation\", \"Israeli Settlements on Village Lands\" and \"The Village Today\". The page does not name an author; its text is the same as the All That Remains entry (Khalidi, ed., 1992) that Zochrot reproduces with attribution, in a fuller version. | Re-read in Milestone 8 (group F) from the copy saved in an earlier pass: section 'Village Before 1948' (setting of the village; 1596 Ottoman tax register)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18242,7 +18633,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the PalQuest document page reproducing the Shaw Commission's summary of conclusions (live page, 18 Oct 2026). The title wording ('al-Buraq / Western Wall Disturbances') is PalQuest's."
+        "note": "Read the PalQuest document page reproducing the Shaw Commission's summary of conclusions (live page, 18 Oct 2026). The title wording ('al-Buraq / Western Wall Disturbances') is PalQuest's. | Re-read in Milestone 8: Re-downloaded in M8c (group F) the PalQuest page https://palquest.org/en/node/21720 (summary of conclusions of the Shaw Commission report, published by the Institute for Palestine Studies) and read the conclusions on the nature of the August 1929 disturbances, including Hebron."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18975,6 +19366,44 @@
       "institution_country": "US"
     },
     {
+      "id": "posen-library-bio-israel-shklov",
+      "type": "web",
+      "authors": [
+        "Posen Library editors"
+      ],
+      "title": "Israel ben Samuel of Shklov (creator biography)",
+      "container": "The Posen Library of Jewish Culture and Civilization",
+      "publisher": "Posen Foundation / posenlibrary.com",
+      "url": "https://www.posenlibrary.com/author/israel-ben-samuel-shklov",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open creator-biography page and read the whole biography (migration of the Vilna Gaon's disciples to Palestine in 1808-1809; leader of the community in Safed). Editorial biography in a scholarly anthology."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "posen-library-bio-menachem-mendel-vitebsk",
+      "type": "web",
+      "authors": [
+        "Posen Library editors"
+      ],
+      "title": "Menachem Mendel of Vitebsk (creator biography)",
+      "container": "The Posen Library of Jewish Culture and Civilization",
+      "publisher": "Posen Foundation / posenlibrary.com",
+      "url": "https://www.posenlibrary.com/author/menachem-mendel-vitebsk",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open creator-biography page (www.posenlibrary.com/node/2005) and read the whole biography. Editorial biography in a scholarly anthology (the print edition is published by Yale University Press); the primary-source excerpt behind it is restricted and was not read. Same institution and classification as the existing entry posen-library-patriarchate."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "posen-library-patriarchate",
       "type": "web",
       "authors": [
@@ -19295,6 +19724,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+      "type": "article",
+      "authors": [
+        "Raviv, Dvir",
+        "Ben David, Chaim"
+      ],
+      "title": "Cassius Dio's figures for the demographic consequences of the Bar Kokhba War: Exaggeration or reliable account?",
+      "container": "Journal of Roman Archaeology",
+      "publisher": "Cambridge University Press",
+      "year": 2021,
+      "volume": 34,
+      "pages": "585-607",
+      "doi": "10.1017/S1047759421000271",
+      "url": "https://doi.org/10.1017/S1047759421000271",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article downloaded as PDF from Cambridge Core and converted to text. Read the abstract, the sections on Judea, Peraea and Galilee (pp. 589-595: the almost total destruction of Jewish settlement in Judea at the end of the war; Galilee largely unaffected, with settlement peaking 136-250 CE) and the conclusions. Printed page = PDF page + 584 (volume and page range from the PDF header: Journal of Roman Archaeology 34 (2021), 585-607). Authors: Bar-Ilan University and Kinneret Academic College (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "reagan-1982-sinai",
       "type": "document",
       "title": "Message to the Congress Transmitting the Final Report of the United States Sinai Support Mission (May 26, 1982)",
@@ -19584,7 +20037,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here. | Re-read in Milestone 8: EXISTING ID. The live page (palestine-studies.org) now returns a bot check, so re-read the full text saved by an earlier research step on 18 Oct 2026 (research/conf_dl/A-jq-peasants-jerusalem.txt): opening paragraph and the 1834 narrative."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here. | Re-read in Milestone 8: EXISTING ID. The live page (palestine-studies.org) now returns a bot check, so re-read the full text saved by an earlier research step on 18 Oct 2026: opening paragraph and the 1834 narrative."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -19655,7 +20108,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 575 (Baybars' campaign of 1265) and pp. 595-598 (the fall of Acre and of the last Frankish places, 1291)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 575 (Baybars' campaign of 1265) and pp. 595-598 (the fall of Acre and of the last Frankish places, 1291). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. II): pp. 561-562 (the Khorezmians in Jerusalem, 11 July - 23 August 1244), p. 574 ('Ain Jalut, 3 September 1260), p. 577 (siege and storming of Antioch, 14-18 May 1268) and p. 592 (siege and fall of Tripoli, March - 26 April 1289)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -19675,7 +20128,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/syrienalswirtsch00ruppuoft): the chapter on Jewish colonisation (founding of Petah Tikva and Rishon LeZion; colony table) and the railway chapter (table 'Die bestehenden syrischen Eisenbahnlinien' with opening years; Jaffa-Jerusalem concession). German, 2nd ed. 1920 (first ed. 1917). Arthur Ruppin headed the Zionist Organization's Palestine Office; dated work. OCR renders '161' as 'i6i'."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/syrienalswirtsch00ruppuoft): the chapter on Jewish colonisation (founding of Petah Tikva and Rishon LeZion; colony table) and the railway chapter (table 'Die bestehenden syrischen Eisenbahnlinien' with opening years; Jaffa-Jerusalem concession). German, 2nd ed. 1920 (first ed. 1917). Arthur Ruppin headed the Zionist Organization's Palestine Office; dated work. OCR renders '161' as 'i6i'. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 106-107 (founding of Petach-Tikwah in 1878 and of Rischon le Zion in 1882). German text; the author was head of the Zionist Organization's Palestine Office."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -19781,7 +20234,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of Studies in Judaism, Second Series (https://archive.org/details/cu31924029096944), the whole essay (pp. 202-285). Early 20th-century scholarship. Its passage on printing in Safed reads, in the OCR, 'about the year 1653 by two German Jews' with Alsheikh's commentary on Daniel as the first book; the printed date could not be checked against a page image, so it is not used here."
+        "note": "Downloaded and read the Internet Archive OCR text of Studies in Judaism, Second Series (https://archive.org/details/cu31924029096944), the whole essay (pp. 202-285). Early 20th-century scholarship. Its passage on printing in Safed reads, in the OCR, 'about the year 1653 by two German Jews' with Alsheikh's commentary on Daniel as the first book; the printed date could not be checked against a page image, so it is not used here. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 206-207 (Safed's Jewish population becomes important from the last decade of the 15th century; natives, exiles from Spain and immigrants from the Barbary States)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -20291,7 +20744,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR texts of vol. I (https://archive.org/details/historyofzionism01soko) and vol. II (https://archive.org/details/india.history.resource.106104): the appendix on Zionist institutions (first Congress, Basle Programme, Ahuzat Bait) and appendix LXXVIII, a table of Jewish colonies with founding years taken 'mostly from the Report of the Jewish Colonisation Association for 1910'. Nahum Sokolow was a leading Zionist official; the work is dated (1919) and written from a Zionist standpoint. The OCR of the table is noisy (e.g. '2gth' for 29th)."
+        "note": "Downloaded and read the Internet Archive OCR texts of vol. I (https://archive.org/details/historyofzionism01soko) and vol. II (https://archive.org/details/india.history.resource.106104): the appendix on Zionist institutions (first Congress, Basle Programme, Ahuzat Bait) and appendix LXXVIII, a table of Jewish colonies with founding years taken 'mostly from the Report of the Jewish Colonisation Association for 1910'. Nahum Sokolow was a leading Zionist official; the work is dated (1919) and written from a Zionist standpoint. The OCR of the table is noisy (e.g. '2gth' for 29th). | Re-read in Milestone 8 (group F) from the Internet Archive OCR text of vol. II downloaded earlier: appendix, p. 386 (the Ahuzat Bait company 'founded Tel-Aviv')."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -20554,7 +21007,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence. | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier (research/m8c_dl/taba.txt): paras. 64-66 (Sinai in the First World War)."
+        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence. | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: paras. 64-66 (Sinai in the First World War)."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -20694,7 +21147,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 2 (1989), pp. 265-267. (Copy downloaded earlier in this project, research/conf_dl/A-tdv-akka.)"
+        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 2 (1989), pp. 265-267."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -20732,7 +21185,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Kanal Harekâtı'. Author not recorded from the page. | Re-read in Milestone 8: Re-read in this pass (online entry by Ercüment Kuran, TDV İslâm Ansiklopedisi vol. 6, 1992, pp. 196-200), section 'Kanal Harekâtı'; copy saved as research/m8g_dl/tdv_birinci-dunya-savasi.txt."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Kanal Harekâtı'. Author not recorded from the page. | Re-read in Milestone 8: Re-read in this pass (online entry by Ercüment Kuran, TDV İslâm Ansiklopedisi vol. 6, 1992, pp. 196-200), section 'Kanal Harekâtı'"
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -20814,7 +21267,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 7 (1993), pp. 516-518. (Copy downloaded earlier in this project, research/conf_dl/A-tdv-cezzar.)"
+        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 7 (1993), pp. 516-518."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -21087,7 +21540,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 43 (2013), pp. 171-174. (Copy downloaded earlier in this project, research/conf_dl/A-tdv-yafa.)"
+        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 43 (2013), pp. 171-174."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -21131,7 +21584,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 44 (2013), pp. 90-91. (Copy downloaded earlier in this project, research/conf_dl/A-tdv-zahir.)"
+        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 44 (2013), pp. 90-91."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -21177,7 +21630,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut). | Re-read in Milestone 8: Re-checked in this pass against the UC Press E-Books HTML text downloaded earlier (research/m8c_dl/uc/heydemann.txt), section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut). | Re-read in Milestone 8: Re-checked in this pass against the UC Press E-Books HTML text downloaded earlier, section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -21301,6 +21754,27 @@
       "institution_country": "IL"
     },
     {
+      "id": "toueg-2011-ha-ramla",
+      "type": "article",
+      "authors": [
+        "Toueg, Ron"
+      ],
+      "title": "Ramla (Final Report; permit A-5938)",
+      "container": "Hadashot Arkheologiyot - Excavations and Surveys in Israel",
+      "volume": 123,
+      "publisher": "Israel Antiquities Authority",
+      "year": 2011,
+      "url": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=1693",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the whole report (13 June 2011): salvage excavation near the Ramla municipality, with a background paragraph on twenty years of excavations in Ramla and its Umayyad-to-Fatimid prosperity."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "tribune-india-2004-11-12-fattouh",
       "type": "article",
       "title": "Top legislator named interim President",
@@ -21364,11 +21838,10 @@
       "publisher": "Eisenbrauns",
       "year": 1996,
       "pages": "269-283",
-      "url": "https://archive.org/details/retrievingpastes0000unse",
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw text snippets via Internet Archive full-text search (summary of Avi-Yonah's and Broshi's estimates). Title as in the running heads; page range from Bar (2004) citing pp. 269-71 and a running head on p. 283."
+        "note": "Saw text snippets via Internet Archive full-text search (summary of Avi-Yonah's and Broshi's estimates). Title as in the running heads; page range from Bar (2004) citing pp. 269-71 and a running head on p. 283. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -22632,7 +23105,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the property description in an Internet Archive Wayback snapshot (20260109105110); the live site blocked automated requests."
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20260109105110); the live site blocked automated requests. | Re-read in Milestone 8 (group F) from the copy of the World Heritage List page saved in an earlier pass: the description says the tell contains deposits of human activity dating back to about 10,500 BC."
       },
       "kind": "un",
       "institution_country": "FR"
@@ -23605,6 +24078,30 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "weinstein-1984-radiocarbon-southern-levant",
+      "type": "article",
+      "authors": [
+        "Weinstein, James M."
+      ],
+      "title": "Radiocarbon Dating in the Southern Levant",
+      "container": "Radiocarbon",
+      "publisher": "Cambridge University Press (for the University of Arizona)",
+      "year": 1984,
+      "volume": 26,
+      "issue": 3,
+      "pages": "297-366",
+      "doi": "10.1017/S0033822200006731",
+      "url": "https://doi.org/10.1017/S0033822200006731",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF downloaded from Cambridge Core and converted to text (the PDF's text layer has minor OCR errors, e.g. 'Be' for 'BC'). Read the Epipalaeolithic/Natufian discussion (p. 303, including the Jericho Natufian samples P-376 and BM-1407), the Chalcolithic discussion (p. 306, the Nahal Mishmar Cave 1 dates), the PPNA paragraph (Jericho and Netiv Hagdud) and the site list of Fig. 1. Dates in this paper are uncalibrated radiocarbon years. Printed page = PDF page + 296. Author: Cornell University (US)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "wh-bop-ratification-2026-01-22",
       "type": "web",
       "title": "President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans (22 January 2026)",
@@ -23858,7 +24355,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt) and editor of al-Maqrizi's al-Suluk; the chapter rests mainly on Arabic chronicles. | Re-read in Milestone 8: Re-checked in this pass against the Internet Archive OCR text of the Wisconsin History of the Crusades vol. II downloaded earlier (research/m8b_dl/ziada2.txt): pp. 742-743, 745, 747, 750, 752."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt) and editor of al-Maqrizi's al-Suluk; the chapter rests mainly on Arabic chronicles. | Re-read in Milestone 8: Re-checked in this pass against the Internet Archive OCR text of the Wisconsin History of the Crusades vol. II downloaded earlier: pp. 742-743, 745, 747, 750, 752. | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. II): p. 745 (the Mamluk victory over the Mongols in Galilee, September 1260), p. 749 (Baybars' campaign of 1268: Jaffa, Belfort, Antioch) and p. 752 (Kalavun's siege, storming and levelling of Tripoli, 1289). The author was an Egyptian historian (University of Cairo)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23880,7 +24377,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt); he is marked as deceased in the volume's contents."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt); he is marked as deceased in the volume's contents. | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. III): pp. 490-491 (Timur in Syria, 1400-1401; he never went beyond Damascus) and pp. 511-512 (Selim I: Marj Dabiq, August 1516; defeats near Gaza and at Raidaniyah, January 1517; Tumanbey executed April 1517). The chapter does not cover Ghazan's campaigns of 1299-1303."
       },
       "kind": "academic",
       "institution_country": "US",

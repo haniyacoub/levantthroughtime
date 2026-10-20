@@ -232,3 +232,42 @@ Map changes:
 Not applied: eight further territory proposals (among them Burid Damascus and Zengid reach east of the Jordan) need sources the round did not reach. Humphreys was read in an unauthorised upload; it is cited but not linked.
 
 Gaps: no Burid Damascus record covers 1098–1154. The extent of the Karak and Jerusalem provinces (Ma'an, Aqaba, Hebron, Ramla) is not verified, and al-Bakhit's study of Mamluk Karak was not seen. The British canal zone and the 1916 front lines in Sinai are not drawn. Nothing yet covers August 1920 – April 1921 in Transjordan. There is no Kingdom of Hejaz record to carry the annexation of Ma'an and Aqaba. Russian among pre-1914 Jewish immigrants, Amharic speaker numbers and Domari's endangerment status are unsourced.
+
+### Scholarly sources for pre-1948 conflicts, migrations and places (group F)
+
+48 of 49 records that rested only on reference works now cite further sources: 187 quotes, 23 new works. Among them:
+- **Crusades and Mamluks:** further chapters of the Wisconsin *History of the Crusades*; Baha al-Din and Ibn al-Qalanisi in translation; Ibn Iyas; Aigle (2007) and Jackson (2024) in *Mamluk Studies Review*.
+- **Early Islamic period:** an Arabic survey by Nabila Hasan Muhammad (1969).
+- **Prehistory:** Weinstein (1984) and Grosman and Belfer-Cohen (2022) on Natufian chronology.
+- **Places:** the *Survey of Western Palestine* memoirs (1881–83), seven *Hadashot Arkheologiyot* excavation reports, the PalQuest village pages, Ruppin (1920) and Sokolow (1919).
+
+Corrections applied:
+- **Day dates:**
+  - Ascalon: siege from January 1153, fall on 22 August 1153.
+  - Jerusalem: siege from 20 September 1187.
+  - Jaffa: attack from 27 July 1192.
+  - Khwarazmian capture of Jerusalem: 11 July – 23 August 1244.
+  - Antioch: 14–18 May 1268.
+  - Tripoli: March – 26 April 1289.
+  - Wadi al-Khaznadar: 22 December 1299.
+  - Marj al-Saffar: 20 April 1303.
+- **Timur's invasion of Syria:** now autumn 1400 – c. April 1401, replacing a vague 1399–1405.
+- **Hasidic immigration:** now 1777, possibly 1778. The Posen Library and the Encyclopaedia Judaica differ.
+- **Notes added:**
+  - Battle of Khan Yunis: Ibn Iyas confirms the date (Sunday 24 Dhu'l-Qa'da 922 ≈ 21 December 1516), but places the battle near Baysan, so the location is now marked uncertain.
+  - Marj Dabiq: Ziada's account of treachery on the Mamluk left wing is recorded beside Emecen's rejection of it.
+  - Also: Hijri dates for the revolt of Abu Harb and the Qarmatian rising; the Survey's identification of as-Samu' with Eshtemoa.
+- **Natufian Jericho, removed as an event:** "about 9000 BCE" (Britannica) is an uncalibrated radiocarbon date. In calendar years the Jericho Natufian falls about 13,000–10,500 BC (Weinstein; Grosman and Belfer-Cohen; UNESCO), which is before the 10,000 BCE start of this timeline. The event was removed, and the dating and sources are kept in the founding note of Tell es-Sultan.
+
+Copies not linked:
+- Benvenisti (1970), Hitti's *History of the Arabs*, Boas (2001) and Dols (1974) were read in user uploads of in-copyright works.
+- Ibn al-Qalanisi (1932) and Nabila Hasan Muhammad (1969) were read in copies whose licensing could not be confirmed.
+- Four works were seen in the Internet Archive's lending library: Avi-Yonah (1976), Cohen and Lewis (1978), Knoppers and Grabbe (2009) and Tsafrir (1996).
+
+All ten are still cited but no longer linked. Verification notes no longer contain the research team's working file paths.
+
+Gaps:
+- Eilat has no open scholarly source.
+- The 1936 evacuation of Hebron's Jewish community still rests on the Encyclopaedia Judaica.
+- Seven West Bank towns rest on the 19th-century Survey as their only non-reference source: Tulkarm, Qalqilya, Ramallah, al-Bireh, Halhul, as-Samu' and Bayt Nuba. Khan Yunis rests on a 1920 British handbook.
+- These sites refused automated download: Sefaria, *Jerusalem Quarterly*, *'Atiqot*, OpenEdition, MDPI, Project MUSE and the SOAS repository.

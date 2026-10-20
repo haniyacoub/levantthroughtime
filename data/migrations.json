@@ -971,6 +971,31 @@
           "ref": "ej-bar-kokhba",
           "locator": "aftermath of the fall of Bethar",
           "quote": "The subjugation was associated with massacres and religious persecution, the sale of Jews into slavery, and uprooting of the people from the soil. The Jewish center of gravity now moved northward, chiefly to Galilee."
+        },
+        {
+          "ref": "cassius-dio-69-cary",
+          "locator": "69.14.2",
+          "quote": "Thus nearly the whole of Judaea was made desolate"
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 591",
+          "quote": "The excavations conducted in the Land of Judea point to the almost total destruction of Jewish settlement there"
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 594",
+          "quote": "Nonetheless, Jewish settlement in the Galilee as a whole was not affected during and after the Bar Kokhba Revolt."
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 595",
+          "quote": "it was in the period from 136 to 250 CE that settlement in the area peaked."
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 595",
+          "quote": "This archaeological evidence fits well with what we know from rabbinic texts about the flourishing of houses of study in the Galilee"
         }
       ],
       "notes": {
@@ -1309,6 +1334,26 @@
           "ref": "ej-safed",
           "locator": "history, Ottoman period",
           "quote": "Approximately 1,900 families of taxpayers lived in the town (716 of them Jewish)"
+        },
+        {
+          "ref": "schechter-1908-safed-sixteenth-century",
+          "locator": "p. 206",
+          "quote": "It is, however, not until the last decade of the fifteenth century that Safed begins to be especially noted for the importance of its Jewish population."
+        },
+        {
+          "ref": "schechter-1908-safed-sixteenth-century",
+          "locator": "p. 207",
+          "quote": "consisting of natives, of exiles from Spain, and of immigrants from the Barbary States, into one great community."
+        },
+        {
+          "ref": "goffman-1982-maktu-safed",
+          "locator": "p. 86",
+          "quote": "Consequently, the immigrants, much as they did in Salonika, used expertise acquired in Iberia to establish a thriving textile industry in Safed"
+        },
+        {
+          "ref": "goffman-1982-maktu-safed",
+          "locator": "p. 87",
+          "quote": "Thus, the existing Jewish community had good reason to welcome immigrants."
         }
       ],
       "notes": {
@@ -1365,8 +1410,9 @@
         "place": "safed"
       },
       "start": {
-        "year": 1778,
-        "precision": "year"
+        "year": 1777,
+        "precision": "year",
+        "latest": 1778
       },
       "end": {
         "year": 1810,
@@ -1384,12 +1430,37 @@
           "ref": "ej-safed",
           "locator": "history, 18th-19th centuries",
           "quote": "The disciples of Elijah, the Gaon of Vilna, who were opponents of the [Hasidim], came in 1810"
+        },
+        {
+          "ref": "posen-library-bio-menachem-mendel-vitebsk",
+          "locator": "creator biography",
+          "quote": "In 1777, with Abraham as his deputy, he led a group of three hundred followers (many of them Hasidim) to Palestine; they first settled in Safed but relocated to Tiberias a few years later."
+        },
+        {
+          "ref": "posen-library-bio-israel-shklov",
+          "locator": "creator biography",
+          "quote": "In 1808–1809, he and some other of the Gaon’s disciples organized a small migration of Misnagdim to Palestine."
+        },
+        {
+          "ref": "posen-library-bio-israel-shklov",
+          "locator": "creator biography",
+          "quote": "For many years, he served as leader of his community in Safed."
+        },
+        {
+          "ref": "posen-library-bio-menachem-mendel-vitebsk",
+          "locator": "creator biography",
+          "quote": "In 1777, with Abraham as his deputy, he led a group of three hundred followers (many of them Hasidim) to Palestine"
+        },
+        {
+          "ref": "ej-safed",
+          "locator": "history, 18th-19th centuries (quote already in the record)",
+          "quote": "In 1778 over 300 ... disciples of R. Israel b. Eliezer Ba'al Shem Tov, settled in Safed; they were led by R. Menahem Mendel of Vitebsk."
         }
       ],
       "notes": {
-        "en": "The \"300\" applies to the 1778 Hasidic group only. EJ adds that warfare and epidemics in 1812-14 caused an exodus of Jews from Safed, mainly to Jerusalem.",
-        "ar": "يخص الرقم \"300\" المجموعة الحسيدية لعام 1778 وحدها. ويضيف EJ أن الحروب والأوبئة في 1812–14 تسببت في نزوح اليهود من صفد، معظمهم إلى القدس.",
-        "he": "המספר \"300\" חל על הקבוצה החסידית של 1778 בלבד. EJ מוסיף שמלחמות ומגפות ב-1812–14 גרמו ליציאת יהודים מצפת, בעיקר לירושלים.",
+        "en": "The \"300\" applies to the Hasidic group of 1777/78 only. EJ adds that warfare and epidemics in 1812-14 caused an exodus of Jews from Safed, mainly to Jerusalem. The Posen Library dates the migration of the Vilna Gaon's disciples (Perushim) to 1808-1809, slightly earlier than the Encyclopaedia Judaica's 1810, and says the Hasidic group later moved from Safed to Tiberias. Sources differ on the year of the Hasidic group's arrival: the Posen Library has Menachem Mendel of Vitebsk lead about three hundred followers to Palestine in 1777; the Encyclopaedia Judaica has them settle in Safed in 1778.",
+        "ar": "رقم «300» يخص الجماعة الحسيدية التي وصلت في 1777/1778 وحدها. وتضيف الموسوعة اليهودية (EJ) أن الحروب والأوبئة في 1812-1814 تسببت في نزوح اليهود من صفد، إلى القدس أساساً. وتؤرخ مكتبة بوزن هجرة تلاميذ غاؤون فيلنا (البروشيم) بـ 1808-1809، أي قبل تاريخ الموسوعة اليهودية (1810) بقليل، وتذكر أن الجماعة الحسيدية انتقلت لاحقاً من صفد إلى طبريا. وتختلف المصادر في سنة وصول الجماعة الحسيدية: فبحسب مكتبة بوزن قاد مناحيم مندل من فيتبسك نحو ثلاثمئة من أتباعه إلى فلسطين سنة 1777؛ وبحسب الموسوعة اليهودية استقروا في صفد سنة 1778.",
+        "he": "המספר \"300\" מתייחס רק לקבוצה החסידית של 1777/78. EJ מוסיפה שמלחמות ומגפות ב-1812-1814 גרמו ליציאת יהודים מצפת, בעיקר לירושלים. ספריית פוזן מתארכת את עליית תלמידי הגאון מווילנה (הפרושים) ל-1808-1809, מעט לפני 1810 של האנציקלופדיה יודאיקה, וכותבת שהקבוצה החסידית עברה מאוחר יותר מצפת לטבריה. המקורות חלוקים בשנת הגעתה של הקבוצה החסידית: לפי ספריית פוזן הוביל מנחם מנדל מוויטבסק כשלוש מאות מחסידיו לארץ ישראל ב-1777; לפי האנציקלופדיה יודאיקה הם התיישבו בצפת ב-1778.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -1981,6 +2052,26 @@
           "ref": "anu-krockenberger-obituary",
           "locator": "para. 2",
           "quote": "In 1941, with hundreds of other Templers, Krockenbergers were transported on the Queen Elizabeth to Australia and interned in camps outside Tatura in northern Victoria."
+        },
+        {
+          "ref": "griffin-2021-at-home-in-exile",
+          "locator": "ch. 8 'Das Lager', p. 68",
+          "quote": "I think most of their members and the overall camp leader were drawn from the dominant majority of prisoners who had been brought to the camp from Palestine."
+        },
+        {
+          "ref": "griffin-2021-at-home-in-exile",
+          "locator": "ch. 8 'Das Lager', p. 68",
+          "quote": "That they had come on the enormous ocean liner Queen Elizabeth says something about their numbers."
+        },
+        {
+          "ref": "griffin-2021-at-home-in-exile",
+          "locator": "ch. 8 'Das Lager', p. 68",
+          "quote": "Most of them had been interned in Palestine from where they had arrived some months before us."
+        },
+        {
+          "ref": "muhlen-schulte-2019-atlas-of-incarceration",
+          "locator": "p. 68",
+          "quote": "Temple Society members – a German religious community in Palestine captured by the British"
         }
       ],
       "notes": {
@@ -2817,6 +2908,16 @@
           "ref": "ej-hebron",
           "locator": "Encyclopaedia Judaica entry, 20th century",
           "quote": "On the night of April 23, 1936, the British authorities evacuated the Jewish inhabitants of Hebron."
+        },
+        {
+          "ref": "palestine-royal-commission-1937",
+          "locator": "ch. III, p. 67",
+          "quote": "The most violent were directed not against the new settlements but against the old-established Jewish communities in the Arab hill-country at Hebron and Safad."
+        },
+        {
+          "ref": "palquest-shaw-report-1929",
+          "locator": "summary of conclusions, para. 3",
+          "quote": "A general massacre of the Jewish community at Hebron was narrowly averted."
         }
       ],
       "notes": {
