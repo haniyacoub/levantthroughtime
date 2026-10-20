@@ -8344,6 +8344,21 @@
         {
           "ref": "pleiades",
           "locator": "places/432223402"
+        },
+        {
+          "ref": "tau-tel-beth-shemesh-project",
+          "locator": "project page, introduction",
+          "quote": "The 7-acre mound is located near the modern town of Beth-Shemesh, some 20 km west of Jerusalem, and overlooks the Sorek Valley."
+        },
+        {
+          "ref": "tau-tel-beth-shemesh-project",
+          "locator": "project page, introduction",
+          "quote": "Identification of the mound with biblical Beth-Shemesh is based on its geographical description in the Bible, on Byzantine sources and on the name of the nearby Arab village 'Ain Shems"
+        },
+        {
+          "ref": "conder-kitchener-1883-swp-memoirs-3",
+          "locator": "p. 60 (Sheet XVII, archaeology)",
+          "quote": "Heaps of stones and ruined walls of modern appearance, the remains of a former village on a low Tell."
         }
       ],
       "notes": {
@@ -19646,6 +19661,16 @@
         {
           "ref": "pleiades",
           "locator": "places/553543527"
+        },
+        {
+          "ref": "ngsba-shiqmim",
+          "locator": "excavation page",
+          "quote": "The largest Chalcolithic village in the Nahal Beersheva valley (9.5 hectares or 24 acres)"
+        },
+        {
+          "ref": "ngsba-shiqmim",
+          "locator": "excavation page",
+          "quote": "From 1979 to 1984, the Israel Department of Antiquities and Museums, together with the Negev Museum carried out excavations at the site."
         }
       ],
       "notes": {
@@ -21353,6 +21378,21 @@
         {
           "ref": "unccp-1949-holy-places",
           "locator": "nos. 64, 86"
+        },
+        {
+          "ref": "britannica-mount-of-olives",
+          "locator": "paragraph on churches and shrines",
+          "quote": "A joint mosque and Christian chapel exists over the spot where many Christians and Muslims believe Jesus ascended."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 211 ('Ali of Herat, 1173)",
+          "quote": "The Church of the Ascension (on the Mount of Olives) is referred to by 'Ali of Herat in 1173"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 211 (Ibn Batutah, 1355)",
+          "quote": "on a hill that rises to a certain height (known as the Mount of Olives), there is a building whence they say Jesus"
         }
       ],
       "notes": {
@@ -22772,6 +22812,24 @@
                 "quote": "There are here the tombs of Zakariyyah and of Yahya, the son of Zakariyyah (John the Baptist), and of many other prophets and holy men."
               }
             ]
+          },
+          "christian": {
+            "significance": {
+              "en": "Venerated in medieval Christian tradition as the burial place of John the Baptist; a Crusader church (dated by the Survey to c. 1150-1180) was built over the traditional tomb.",
+              "ar": "موضع تبجيل في التقليد المسيحي في العصور الوسطى بوصفه مكان دفن يوحنا المعمدان؛ وقد بُنيت كنيسة صليبية (يؤرّخها المسح إلى نحو 1150-1180) فوق القبر التقليدي.",
+              "he": "מקום נערץ במסורת הנוצרית של ימי הביניים כמקום קבורתו של יוחנן המטביל; כנסייה צלבנית (שהסקר מתארך לבערך 1150-1180) נבנתה מעל הקבר המסורתי.",
+              "translation_status": {
+                "ar": "machine-draft",
+                "he": "machine-draft"
+              }
+            },
+            "sources": [
+              {
+                "ref": "conder-kitchener-1882-swp-memoirs-2",
+                "locator": "p. 212 (Sheet XI, archaeology)",
+                "quote": "The Church, a fine Crusading structure, over the traditional place of burial of St. John Baptist"
+              }
+            ]
           }
         }
       },
@@ -22780,12 +22838,22 @@
         {
           "ref": "le-strange-1890",
           "locator": "p. 523"
+        },
+        {
+          "ref": "conder-kitchener-1882-swp-memoirs-2",
+          "locator": "p. 220 (Sheet XI, Section C, traditions)",
+          "quote": "'place of St. John,' venerated by the Moslems in the Church of St. John Baptist at Samaria."
+        },
+        {
+          "ref": "conder-kitchener-1882-swp-memoirs-2",
+          "locator": "p. 212 (Sheet XI, archaeology)",
+          "quote": "The Church, a fine Crusading structure, over the traditional place of burial of St. John Baptist"
         }
       ],
       "notes": {
-        "en": "The Christian tradition of John the Baptist's burial at Sebaste (with a Crusader-era cathedral) is not covered by a source opened for this file; UNESCO's tentative-list entry for Sebastia could not be retrieved (Cloudflare block).",
-        "ar": "التقليد المسيحي بدفن يوحنا المعمدان في سبسطية (مع كاتدرائية من العهد الصليبي) لا يغطيه مصدر مفتوح لهذا الملف؛ وتعذّر الحصول على مدخل سبسطية في القائمة التمهيدية لليونسكو (حجب Cloudflare).",
-        "he": "המסורת הנוצרית על קבורת יוחנן המטביל בסבסטי (עם קתדרלה מהתקופה הצלבנית) אינה מכוסה במקור שנפתח לקובץ זה; רשומת סבסטיה ברשימה המקדימה של אונסק״ו לא ניתן היה להשיג (חסימת Cloudflare).",
+        "en": "The Survey of Western Palestine (1882) describes the ruined Crusader church built over the traditional burial place of John the Baptist and the Muslim shrine (Mukam) of Nabi Yahya venerated inside it. UNESCO's tentative-list entry for Sebastia could not be retrieved (Cloudflare block).",
+        "ar": "يصف مسح فلسطين الغربية (1882) الكنيسة الصليبية المهدمة المبنية فوق مكان الدفن التقليدي ليوحنا المعمدان، والمقام الإسلامي (المقام) للنبي يحيى المبجَّل في داخلها. ولم يمكن الحصول على مدخل اليونسكو في القائمة التمهيدية الخاص بسبسطية (حجب Cloudflare).",
+        "he": "הסקר של פלשתינה המערבית (1882) מתאר את הכנסייה הצלבנית ההרוסה שנבנתה מעל מקום הקבורה המסורתי של יוחנן המטביל, ואת המקאם המוסלמי (מקאם) של נבי יחיא הנערץ בתוכה. הערך של אונסק״ו ברשימה המקדימה על סבסטייה לא ניתן היה לאחזור (חסימת Cloudflare).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -23243,6 +23311,21 @@
         {
           "ref": "unccp-1949-holy-places",
           "locator": "nos. 7, 81"
+        },
+        {
+          "ref": "conder-kitchener-1883-swp-memoirs-3",
+          "locator": "p. 28 (Sheet XVII, El 'Aziriyeh)",
+          "quote": "The tomb of Lazarus has been shown in Bethany since the fourth century, when a church stood over it."
+        },
+        {
+          "ref": "conder-kitchener-1883-swp-memoirs-3",
+          "locator": "p. 28 (Sheet XVII, El 'Aziriyeh)",
+          "quote": "This vault is sacred to Christians and Moslems alike. A mosque with a white dome is built over it."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 405 (Yaqut, s.v. Al 'Azariyyah)",
+          "quote": "A village near Jerusalem. There is here the tomb of Al 'Azar (Lazarus)"
         }
       ],
       "notes": {
@@ -23442,6 +23525,26 @@
         {
           "ref": "unccp-1949-holy-places",
           "locator": "nos. 22, 87, 94"
+        },
+        {
+          "ref": "custodia-st-francis-ad-coenaculum",
+          "locator": "section on the history of the Cenacle",
+          "quote": "In 1333, the Franciscans were able to acquire the place, as a gift from the rulers of Naples"
+        },
+        {
+          "ref": "custodia-st-francis-ad-coenaculum",
+          "locator": "section on the history of the Cenacle",
+          "quote": "the monastery was inhabited until 1552, after the friars were chased out by the Ottomans, who transformed the Cenacle into a mosque."
+        },
+        {
+          "ref": "custodia-st-francis-ad-coenaculum",
+          "locator": "section on the history of the Cenacle",
+          "quote": "the Cenacle (medieval) was the only chapel left with the commemorative Tomb of David located below it."
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 212 (Idrisi, 1154)",
+          "quote": "Church of Sion, which is a beautiful church, and fortified. In it is the guest-chamber wherein the Lord Messiah ate with the disciples"
         }
       ],
       "notes": {
@@ -23902,6 +24005,21 @@
       "sources": [
         {
           "ref": "unesco-whc-1446"
+        },
+        {
+          "ref": "baptism-site-commission-discovery",
+          "locator": "section \"Finding Churches built in the memory of the baptism of Jesus\"",
+          "quote": "In total, the remains of five different churches, built at separate times, were found."
+        },
+        {
+          "ref": "baptism-site-commission-discovery",
+          "locator": "same section",
+          "quote": "John came in the spirit and strength of Elijah, who ascended to Heaven east of the Jordan opposite Jericho."
+        },
+        {
+          "ref": "baptism-site-commission-discovery",
+          "locator": "section \"A Chance Meeting\"",
+          "quote": "the remains of a large monastery which was identified as a 5th century monastery"
         }
       ],
       "notes": {
@@ -24302,6 +24420,21 @@
         {
           "ref": "unccp-1949-holy-places",
           "locator": "nos. 17-19"
+        },
+        {
+          "ref": "custodia-tabgha",
+          "locator": "section \"Tabgha\"",
+          "quote": "located three Gospel memories in Tabgha: the multiplication of the loaves, the appearance of the risen Jesus to the Apostles, and the Beatitudes."
+        },
+        {
+          "ref": "custodia-tabgha",
+          "locator": "section \"Tabgha\"",
+          "quote": "On the plain, between the springs, is the Church of the Multiplication of the Loaves (unearthed in 1932 by Benedictine E. Mader), with its ancient mosaics"
+        },
+        {
+          "ref": "custodia-tabgha",
+          "locator": "section \"Tabgha\"",
+          "quote": "Next door is the Chapel of the Primacy of Peter, which commemorates the appearance of the risen Jesus to the apostles and the confirmation of Peter's primacy."
         }
       ],
       "notes": {
@@ -24982,6 +25115,16 @@
       "sources": [
         {
           "ref": "ovadiah-pierri-elijahs-cave"
+        },
+        {
+          "ref": "conder-kitchener-1881-swp-memoirs-1",
+          "locator": "p. 285 (Sheet V, topography, Haifa; the grotto of el Khudr, the Place of Elijah, introduced on p. 284)",
+          "quote": "'School of the Prophets.' The site was bought in 1631 by Fra Prospero"
+        },
+        {
+          "ref": "conder-kitchener-1881-swp-memoirs-1",
+          "locator": "p. 285 (Sheet V, topography, Haifa)",
+          "quote": "In 1635 a massacre of the monks occurred, and the place was seized by the Moslems."
         }
       ],
       "notes": {

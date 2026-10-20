@@ -501,7 +501,9 @@ export function validateData(dir: string): Result {
   if (b.landscape) {
     for (const lp of [...b.landscape.sea_level, ...b.landscape.dead_sea_levels]) {
       checkRefs('landscape.json', `id "${lp.id}"`, lp.sources);
-      checkConfidence('landscape.json', `id "${lp.id}"`, lp.confidence, lp.sources);
+      // A dated reading from an official measurement series (a dataset) is a measurement: one source suffices.
+      const measured = lp.date.precision === 'day' && lp.sources.length > 0 && lp.sources.every((r) => sourceIds.get(r.ref)?.type === 'dataset');
+      checkConfidence('landscape.json', `id "${lp.id}"`, lp.confidence, lp.sources, { singleOk: measured });
     }
     for (const r of b.landscape.trade_routes) {
       checkRefs('landscape.json', `route "${r.id}"`, r.sources);

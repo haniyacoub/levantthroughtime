@@ -492,3 +492,34 @@ Gaps: these still rest on one source:
 - Abdullah's start day of 11 April 1921 (the Jordanian royal site).
 - The 25 May 2000 withdrawal day from south Lebanon (UN documents; the Israeli foreign ministry page was blocked).
 - The c. 630 BCE end of the Assyrian province of Magiddu, which no source dates.
+
+### Second sources for single-source claims: migrations, places, languages, landscape (round I3)
+
+28 of 33 single-source "documented" claims now have an independent second source (76 quotes, 24 new works):
+- **Places:** the *Survey of Western Palestine*; Le Strange; the Franciscan Custody; Jordan's Baptism Site Commission; Tel Aviv University's Beth-Shemesh project; the Nelson Glueck School (Shiqmim).
+- **Migrations:**
+  - Encyclopaedia Judaica and the *Encyclopedia of the Modern Middle East and North Africa* (Morocco, Tunisia, Syria).
+  - Beinin (Egypt).
+  - UNRWA and a JTA report (the 1967 returns).
+  - Tolts (post-Soviet immigration).
+  - The Temple Society (the Templers).
+  - Human Rights Watch, which also quotes the Israeli reply (the northern West Bank camps).
+- **Languages:** the open-access *Languages from the World of the Bible* (Gzella, Gianto); the Palestine Order in Council 1922; the Palestinian Basic Law.
+- **Dead Sea levels:** the USGS (1978) and a University of Jordan study (2026).
+
+Changes:
+- **Migration figures:**
+  - Moroccan Jewish immigration: the range now runs from 235,000 to the CBS figure of 254,715.
+  - Tunisian Jewish immigration: up to 54,000.
+  - Egyptian Jews: Beinin's estimate that one-third to one-half of the community went to Israel is added.
+- **Northern West Bank camps (2025):** displacement from 21 January 2025, 32,000–40,000 people, with the Israeli position noted.
+- **Ugaritic:** dated c. 1300 – c. 1190 BCE, following the tablets and Ugarit's destruction, instead of Britannica's 1450–1200 "golden age".
+- **Arabic as the official language of the Palestinian Authority:** from the Basic Law of 2002, not 2003.
+- **Sebastia:** now lists the Christian tradition (John the Baptist's burial place, with the Crusader church over the tomb).
+- **Dead Sea levels:** 1900 and 1932 are now ranges (−392 to −389 m; −390.5 to −389 m), because independent series differ by a few metres.
+
+Not downgraded: the Dead Sea readings for 1990–2026 are dated measurements from the Israel Water Authority's official series. A dated reading from an official measurement dataset now counts as documented on its own, as place names already did; the validator was changed accordingly.
+
+Gaps:
+- The 2024 counts of asylum seekers and foreign workers rest on one official table; the Population Authority, UNHCR and OECD sites blocked automated access.
+- Some second sources for migration figures draw on the same Israeli statistics, so they are separate compilations rather than separate counts.

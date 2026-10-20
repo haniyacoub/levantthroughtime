@@ -498,6 +498,16 @@
           "ref": "dean-2019-israel-rsl-3000-years",
           "locator": "abstract, p. 125",
           "quote": "before returning to present levels at a rate of 0.4 mm/a"
+        },
+        {
+          "ref": "galili-2019-tel-hreiz",
+          "locator": "p. 2",
+          "quote": "From 7000 to 4000 BP, MSL rose an additional 8m (from -8m to the present level)"
+        },
+        {
+          "ref": "galili-2019-tel-hreiz",
+          "locator": "p. 2",
+          "quote": "From ca. 4000 BP onwards, MSL was relatively stable, with minor changes of less than the local tidal range (±0.30m)."
         }
       ],
       "notes": "Relative sea level in metres relative to present mean sea level (negative = below). Reference level (today's mean sea level, 0 m by definition). Galili et al. 2019 (p. 12) cite current estimates of 21st-century global sea-level rise of 1.7-3.1 mm per year."
@@ -947,8 +957,8 @@
         "precision": "year"
       },
       "level_m": {
-        "low": null,
-        "high": null,
+        "low": -392,
+        "high": -389,
         "best": -392
       },
       "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
@@ -958,9 +968,24 @@
           "ref": "israel-water-authority-dead-sea-level",
           "locator": "dataset description (Hebrew)",
           "quote": "מדידות רשמיות של מפלסי ים המלח קיימות משנת 1900, אז עמד המפלס על רום של 392- מ'"
+        },
+        {
+          "ref": "farhan-2026-dead-sea-remote-sensing",
+          "locator": "p. 2 (Introduction)",
+          "quote": "until 1953, the water level of the Dead Sea oscillated around a historical high of approximately 392 m below sea level"
+        },
+        {
+          "ref": "usgs-1978-dead-sea-level",
+          "locator": "p. 18 (text to Figure 3)",
+          "quote": "Maximum elevation occurred in 1896 at about -388.6 m."
+        },
+        {
+          "ref": "usgs-1978-dead-sea-level",
+          "locator": "p. 18",
+          "quote": "Relatively stable water levels existed for various lengths of time during the period, notably from 1835-85, 1905-29, and 1937-55."
         }
       ],
-      "notes": "Metres relative to mean sea level (negative = below). Dataset description: 'Official measurements of Dead Sea levels exist from 1900, when the level stood at -392 m' (translation)."
+      "notes": "Metres relative to mean sea level (negative = below). Dataset description: 'Official measurements of Dead Sea levels exist from 1900, when the level stood at -392 m' (translation). The sources differ by a few metres (possibly different datums): the University of Jordan study (Farhan et al. 2026) gives about -392 m before 1953, while Klein's reconstruction as graphed by the USGS (1978, Fig. 3) shows about -389 to -390 m around 1900, after a maximum of -388.6 m in 1896; hence the range."
     },
     {
       "id": "ds-1932",
@@ -969,8 +994,8 @@
         "precision": "year"
       },
       "level_m": {
-        "low": null,
-        "high": null,
+        "low": -390.5,
+        "high": -389,
         "best": -389
       },
       "location": "Dead Sea (Lake Lisan before ~14,000 years ago)",
@@ -980,9 +1005,19 @@
           "ref": "kempe-2008-dead-sea-terraces",
           "locator": "abstract",
           "quote": "the Dead Sea has declined from -389 m in 1932 to -399 m in 1979 with an average of 0.2 m/a"
+        },
+        {
+          "ref": "usgs-1978-dead-sea-level",
+          "locator": "p. 18",
+          "quote": "Since 1929, the level of the Sea has declined fairly steadily except for two periods of relative stability."
+        },
+        {
+          "ref": "farhan-2026-dead-sea-remote-sensing",
+          "locator": "p. 2 (Introduction)",
+          "quote": "until 1953, the water level of the Dead Sea oscillated around a historical high of approximately 392 m below sea level"
         }
       ],
-      "notes": "Metres relative to mean sea level (negative = below). No dated value for the 1960s was found in an accessible source; Enzel et al. 2003 describe an artificial drop since the 1960s."
+      "notes": "Metres relative to mean sea level (negative = below). No dated value for the 1960s was found in an accessible source; Enzel et al. 2003 describe an artificial drop since the 1960s. Two independent annual series, read from their graphs, put 1932 slightly below -389 m: about -390.2 m (Klein's data in USGS 1978, Fig. 3) and about -390.5 m (Jordanian Ministry of Water and Irrigation series in Farhan et al. 2026, Fig. 11); hence the range."
     },
     {
       "id": "ds-1976",

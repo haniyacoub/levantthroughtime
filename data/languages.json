@@ -280,6 +280,21 @@
             {
               "ref": "britannica-phoenician-language",
               "quote": "The earliest Phoenician inscription probably dates from the 11th century bce . The latest inscription from Phoenicia proper is from the 1st century bce , when the language was already being superseded by Aramaic ."
+            },
+            {
+              "ref": "gzella-2012-phoenician",
+              "locator": "p. 55",
+              "quote": "As a language of local prestige, Phoenician remained in use on the mainland during the Achaemenid and Hellenistic ages beside Aramaic and Greek, presumably until the first century bce."
+            },
+            {
+              "ref": "gzella-2012-phoenician",
+              "locator": "p. 56",
+              "quote": "Eight tenth-century inscriptions from Byblos (KAI 1–8) mark the beginning of the textual record."
+            },
+            {
+              "ref": "gzella-2012-phoenician",
+              "locator": "p. 56",
+              "quote": "Some traditional personal names on arrowheads, assembled and discussed by Hess (2007), survive from an even earlier period but say very little about the language itself."
             }
           ]
         }
@@ -317,12 +332,12 @@
       "periods": [
         {
           "start": {
-            "year": -1450,
+            "year": -1300,
             "circa": true,
             "precision": "century"
           },
           "end": {
-            "year": -1200,
+            "year": -1190,
             "circa": true,
             "precision": "decade"
           },
@@ -347,6 +362,21 @@
               "ref": "britannica-ugarit",
               "locator": "The golden age of Ugarit",
               "quote": "Soon after 1200 bce Ugarit came to an end."
+            },
+            {
+              "ref": "gianto-2012-ugaritic",
+              "locator": "p. 28",
+              "quote": "Tablets dating from the end of the Bronze Age (around 1300–1190 bce) inscribed in this language were discovered immediately after the discovery of the site in 1929"
+            },
+            {
+              "ref": "kaniewski-2011-sea-peoples",
+              "locator": "Results and Discussion",
+              "quote": "The sun eclipse depicted on the cuneiform tablet KTU 1.78 was dated to the 21 January 1192 BC"
+            },
+            {
+              "ref": "kaniewski-2011-sea-peoples",
+              "locator": "Results and Discussion",
+              "quote": "The date of 1192–1190 BC for the Sea People invasions in the northern Levant, and the end of the ancient Eastern Mediterranean world fits the radiocarbon, historical, archaeological and astronomical data."
             }
           ]
         }
@@ -357,9 +387,9 @@
         }
       ],
       "notes": {
-        "en": "Ugarit's best-documented period is about 1450-1200 BCE (Britannica). Its alphabetic cuneiform texts are a key comparative source for Canaanite languages and literature.",
-        "ar": "أفضل فترات أوغاريت توثيقًا نحو 1450-1200 ق.م. (بريتانيكا). وتشكل نصوصها المسمارية الأبجدية مصدرًا مقارنًا أساسيًا للغات الكنعانية وآدابها.",
-        "he": "התקופה המתועדת ביותר של אוגרית היא בערך 1450-1200 לפנה״ס (בריטניקה). טקסטי היתדות האלפביתיים שלה הם מקור השוואתי מרכזי לשפות ולספרות הכנעניות.",
+        "en": "Ugarit's best-documented period is about 1450-1200 BCE (Britannica). Its alphabetic cuneiform texts are a key comparative source for Canaanite languages and literature. The Ugaritic tablets themselves date to about 1300-1190 BCE (Gianto 2012), and Ugarit was destroyed in about 1192-1190 BCE (Kaniewski et al. 2011); the dates of the period shown here follow these two sources.",
+        "ar": "أفضل فترات أوغاريت توثيقًا هي نحو 1450-1200 ق.م. (بريتانيكا). وتُعدّ نصوصها المسمارية الأبجدية مصدرًا مقارنًا رئيسيًا للغات الكنعانية وآدابها. أما الألواح الأوغاريتية نفسها فتعود إلى نحو 1300-1190 ق.م. (جيانتو 2012)، ودُمّرت أوغاريت نحو 1192-1190 ق.م. (كانيفسكي وآخرون 2011)؛ وتتبع تواريخ الفترة المعروضة هنا هذين المصدرين.",
+        "he": "התקופה המתועדת ביותר של אוגרית היא בערך 1450-1200 לפנה״ס (בריטניקה). הטקסטים שלה בכתב היתדות האלפבתי הם מקור השוואתי מרכזי לשפות הכנעניות ולספרותן. לוחות אוגרית עצמם מתוארכים לבערך 1300-1190 לפנה״ס (ג'יאנטו 2012), ואוגרית נחרבה בערך ב-1192-1190 לפנה״ס (קניבסקי ואחרים 2011); תאריכי התקופה המוצגת כאן הולכים אחר שני מקורות אלה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -611,6 +641,16 @@
               "ref": "avalon-palestine-mandate-1922",
               "locator": "Art. 22",
               "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
+            },
+            {
+              "ref": "palestine-order-in-council-1922",
+              "locator": "Art. 82 (Official languages)",
+              "quote": "All Ordinances, official notices and official forms of the Government and all official notices of local authorities and municipalities in areas to be prescribed by order of the High Commissioner, shall be published in English, Arabic and Hebrew."
+            },
+            {
+              "ref": "palestine-order-in-council-1922",
+              "locator": "Art. 82 (Official languages)",
+              "quote": "The three languages may be used in debates and discussions in the Legislative Council, and, subject to any regulations to be made from time to time, in the Government offices and the Law Courts."
             }
           ]
         },
@@ -1396,6 +1436,16 @@
               "ref": "avalon-palestine-mandate-1922",
               "locator": "Art. 22",
               "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
+            },
+            {
+              "ref": "palestine-order-in-council-1922",
+              "locator": "Art. 82 (Official languages)",
+              "quote": "All Ordinances, official notices and official forms of the Government and all official notices of local authorities and municipalities in areas to be prescribed by order of the High Commissioner, shall be published in English, Arabic and Hebrew."
+            },
+            {
+              "ref": "palestine-order-in-council-1922",
+              "locator": "Art. 82 (Official languages)",
+              "quote": "The three languages may be used in debates and discussions in the Legislative Council, and, subject to any regulations to be made from time to time, in the Government offices and the Law Courts."
             }
           ]
         },
@@ -1477,14 +1527,14 @@
         },
         {
           "start": {
-            "year": 2003,
+            "year": 2002,
             "precision": "year"
           },
           "role": "administrative",
           "speakers": {
-            "en": "Palestinian Authority (official language under the Amended Basic Law)",
-            "ar": "السلطة الفلسطينية (اللغة الرسمية بموجب القانون الأساسي المعدّل)",
-            "he": "הרשות הפלסטינית (השפה הרשמית לפי החוק היסודי המתוקן)",
+            "en": "Palestinian Authority (official language under the Basic Law of 2002, amended in 2003 and 2005)",
+            "ar": "السلطة الفلسطينية (لغة رسمية بموجب القانون الأساسي لعام 2002، المعدّل في عامي 2003 و2005)",
+            "he": "הרשות הפלסטינית (שפה רשמית לפי החוק הבסיסי משנת 2002, כפי שתוקן ב-2003 וב-2005)",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1496,6 +1546,21 @@
               "ref": "pa-basic-law-2003",
               "locator": "Art. 4",
               "quote": "Arabic shall be the official language."
+            },
+            {
+              "ref": "constitute-project-palestine-2005",
+              "locator": "Art. 4(3)",
+              "quote": "Arabic shall be the official language."
+            },
+            {
+              "ref": "miftah-pa-basic-law-2002",
+              "locator": "Art. 4(3)",
+              "quote": "3. Arabic shall be the official language."
+            },
+            {
+              "ref": "miftah-pa-basic-law-2002",
+              "locator": "closing line",
+              "quote": "Ratified in Ramallah on May 29, 2002"
             }
           ]
         }

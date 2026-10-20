@@ -2058,6 +2058,25 @@
       "institution_country": "IL"
     },
     {
+      "id": "baptism-site-commission-discovery",
+      "type": "web",
+      "authors": [
+        "Baptism Site Commission (Jordan)"
+      ],
+      "title": "The Discovery",
+      "container": "Baptism Site of Jesus Christ (official website)",
+      "publisher": "The Baptism Site Commission, Hashemite Kingdom of Jordan",
+      "url": "https://baptismsite.com/history/the-discovery/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page (history of the site, the excavations after the 1994 treaty, and the pilgrim accounts it cites). The Commission manages the site, so this is the custodian's own account."
+      },
+      "kind": "government",
+      "institution_country": "JO",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "barkan-dayan-2018-sidna-ali",
       "type": "article",
       "authors": [
@@ -2412,7 +2431,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the Introduction section 'Alternatives to Neo-lachrymosity' (1952 coup) and searched the book for all Faruq passages. Joel Beinin is a US historian (Stanford)."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the Introduction section 'Alternatives to Neo-lachrymosity' (1952 coup) and searched the book for all Faruq passages. Joel Beinin is a US historian (Stanford). | Re-read in Milestone 8: Re-read in Milestone 8 round I in the UC Press E-Books Collection edition: chapter 3 'Citizens, Dhimmis, and Subversives', sections on the 1948 war and the Suez/Sinai War, and notes 30 and 81-83 on emigration figures. Beinin says his figures are approximations based on Laskier and other sources and that the Israeli 1961 census gives somewhat lower numbers than the Jewish Agency."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -6567,7 +6586,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read via Internet Archive snapshot 20260106014714 of the britannica.com page (direct access returned HTTP 403)."
+        "note": "Read via Internet Archive snapshot 20260106014714 of the britannica.com page (direct access returned HTTP 403). | Re-read in Milestone 8: Re-read in Milestone 8 round I: the paragraph on churches and shrines on the mount (Internet Archive snapshot copy downloaded earlier)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -10065,7 +10084,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entry for Safed (p. 199). A 19th-century scholarly gazetteer compiled from the Palestine Exploration Fund's field survey of 1871-1877; its descriptions date from the 1870s and its biblical identifications are of their time. Page numbers from the printed running heads."
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entry for Safed (p. 199). A 19th-century scholarly gazetteer compiled from the Palestine Exploration Fund's field survey of 1871-1877; its descriptions date from the 1870s and its biblical identifications are of their time. Page numbers from the printed running heads. | Re-read in Milestone 8: Re-read in Milestone 8 round I (Internet Archive OCR of the University of Toronto scan, public domain): Sheet V topography, entry for Haifa and el Khudr (pp. 284-285)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -10088,7 +10107,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Tanturah (p. 3), Tul Keram (pp. 161-162), Kalkilieh (p. 165), Ramleh (p. 253) and Mejdel (pp. 410-411). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. The OCR garbles some names (e.g. 'Till Keram' for Tul Keram), so quotes avoid the garbled words."
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Tanturah (p. 3), Tul Keram (pp. 161-162), Kalkilieh (p. 165), Ramleh (p. 253) and Mejdel (pp. 410-411). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. The OCR garbles some names (e.g. 'Till Keram' for Tul Keram), so quotes avoid the garbled words. | Re-read in Milestone 8: Re-read in Milestone 8 round I (Internet Archive OCR of the University of Toronto scan, public domain): Sheet XI topography, Sebustieh (p. 160, read only); archaeology, Sebustieh church (p. 212); Section C, traditions (p. 220)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -10111,10 +10130,30 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Bireh (p. 8), Ram Allah (p. 13), Beit Nuba (p. 14), Lifta (p. 18), Deir Yesin (p. 21), Deir el Belah (p. 234; archaeology p. 247), Hulhul (p. 305) and es Semua (p. 403). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. Some names are garbled in the OCR, so quotes avoid them."
+        "note": "Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read the topography entries for Bireh (p. 8), Ram Allah (p. 13), Beit Nuba (p. 14), Lifta (p. 18), Deir Yesin (p. 21), Deir el Belah (p. 234; archaeology p. 247), Hulhul (p. 305) and es Semua (p. 403). A 19th-century scholarly gazetteer based on the 1870s field survey; descriptions and identifications are dated. Some names are garbled in the OCR, so quotes avoid them. | Re-read in Milestone 8: Re-read in Milestone 8 round I (Internet Archive OCR of the University of Toronto scan, public domain): Sheet XVII topography, El 'Aziriyeh/Bethany (pp. 27-28); biblical sites, Beth Shemesh (p. 35); archaeology, 'Ain Shems (p. 60)."
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "constitute-project-palestine-2005",
+      "type": "document",
+      "authors": [
+        "Comparative Constitutions Project"
+      ],
+      "title": "Palestine's Constitution of 2003 with Amendments through 2005 (Amended Basic Law)",
+      "container": "Constitute Project",
+      "publisher": "Comparative Constitutions Project (University of Texas at Austin)",
+      "year": 2003,
+      "url": "https://www.constituteproject.org/constitution/Palestine_2005",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read Articles 1-8 in the site's HTML text service and in its PDF (generated 27 Apr 2022)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "crowell-2007-edom",
@@ -10270,6 +10309,44 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "custodia-st-francis-ad-coenaculum",
+      "type": "web",
+      "authors": [
+        "Custody of the Holy Land"
+      ],
+      "title": "St. Francis Ad Coenaculum",
+      "container": "Custodia Terrae Sanctae website",
+      "publisher": "Custody of the Holy Land (Franciscan)",
+      "url": "https://www.custodia.org/en/sanctuaries/st-francis-ad-coenaculum/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page, including the section on the history of the Cenacle. The Custody is the Franciscan body that held the Cenacle until 1552, so this is the account of an interested party."
+      },
+      "kind": "religious-institution",
+      "institution_country": "VA",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "custodia-tabgha",
+      "type": "web",
+      "authors": [
+        "Custody of the Holy Land"
+      ],
+      "title": "Tabgha",
+      "container": "Custodia Terrae Sanctae website",
+      "publisher": "Custody of the Holy Land (Franciscan)",
+      "url": "https://www.custodia.org/en/sanctuaries/tabgha/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page (Christian tradition, Egeria's description, site plan legend). The Custody holds the Primacy of Peter chapel; the Church of the Multiplication belongs to the Benedictines."
+      },
+      "kind": "religious-institution",
+      "institution_country": "VA",
+      "accessed": "2026-10-20"
     },
     {
       "id": "daftary-iranica-fatimids",
@@ -11163,6 +11240,50 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "ej-2007-morocco",
+      "type": "chapter",
+      "authors": [
+        "Corcos, David",
+        "Cohen, Hayyim J.",
+        "Laskier, Michael M."
+      ],
+      "title": "Morocco",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/morocco",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (Encyclopaedia Judaica, 2nd ed., 2007, reproduced under licence from Macmillan Reference USA / Gale). Used the sections on the period after 1948, signed Hayyim J. Cohen / Michael M. Laskier (2nd ed.). Its emigration figures come mainly from Jewish Agency records (departures from Morocco), not from the Israeli register by country of birth."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "ej-2007-syria",
+      "type": "chapter",
+      "authors": [
+        "Tavor, Oded",
+        "Ma'oz, Moshe",
+        "Carr, Judy Feld"
+      ],
+      "title": "Syria",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/syria",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (Encyclopaedia Judaica, 2nd ed., 2007, reproduced under licence from Macmillan Reference USA / Gale). Used the sections 'The Jewish Community in Independent Syria' (signed Oded Tavor / Moshe Ma'oz) and 'Developments since the 1970s' (signed Judy Feld Carr / Moshe Ma'oz). The Encyclopedia.com page also carries unrelated encyclopedia articles on Syria, which were not used."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "ej-2007-talmud-jerusalem",
       "type": "chapter",
       "authors": [
@@ -11182,6 +11303,26 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "ej-2007-tunis-tunisia",
+      "type": "chapter",
+      "authors": [
+        "Saadoun, Haim"
+      ],
+      "title": "Tunis, Tunisia",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/tunis-tunisia",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (Encyclopaedia Judaica, 2nd ed., 2007, reproduced under licence from Macmillan Reference USA / Gale). Used the sections on the period after World War II and since the Six-Day War (signed Haim Saadoun, 2nd ed.). Its 1972-79 figure (2,148) is identical to the CBS table, so its later figures are probably CBS-based."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "ej-bar-kokhba",
@@ -11384,6 +11525,54 @@
       "institution_country": "GB"
     },
     {
+      "id": "emmena-2004-jews-middle-east",
+      "type": "chapter",
+      "authors": [
+        "Stillman, Norman A.",
+        "Goldberg, Harvey E."
+      ],
+      "editors": [
+        "Mattar, Philip"
+      ],
+      "title": "Jews in the Middle East",
+      "container": "Encyclopedia of the Modern Middle East and North Africa, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2004,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/jews-middle-east",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry (by Norman Stillman, updated by Harvey E. Goldberg)."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "emmena-2004-refugees-jewish",
+      "type": "chapter",
+      "authors": [
+        "Laskier, Michael M.",
+        "Medzini, Meron"
+      ],
+      "editors": [
+        "Mattar, Philip"
+      ],
+      "title": "Refugees: Jewish",
+      "container": "Encyclopedia of the Modern Middle East and North Africa, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2004,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/refugees-jewish",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry (by Michael M. Laskier, updated by Meron Medzini). Its bibliography lists Sicron (1957), Laskier (1994) and the Statistical Abstract of Israel, so its figures are partly based on Israeli statistics. The entry frames the departures as flight of refugees; the record notes that departure circumstances are debated."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "encyc-shlaim-all-palestine-government",
       "type": "web",
       "authors": [
@@ -11549,6 +11738,36 @@
       },
       "kind": "press",
       "institution_country": "IL"
+    },
+    {
+      "id": "farhan-2026-dead-sea-remote-sensing",
+      "type": "article",
+      "authors": [
+        "Farhan, Ibrahim",
+        "Mahafdah, Mohd S.",
+        "Sathiamurthy, Edlic",
+        "Chemura, Abel",
+        "Al-Bakri, Jawad",
+        "Al Kuisi, Mustafa",
+        "Salameh, Lina A.",
+        "Albahrat, Fesail"
+      ],
+      "title": "Multi-Decadal Assessment of the Surface Area and Water Levels of the Dead Sea Using Remote Sensing Data",
+      "container": "Water",
+      "publisher": "MDPI",
+      "year": 2026,
+      "volume": 18,
+      "pages": "1537",
+      "doi": "10.3390/w18131537",
+      "url": "https://doi.org/10.3390/w18131537",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access PDF (CC BY): introduction (p. 2), study area (p. 4) and Figure 11 (p. 18), which plots annual Dead Sea levels 1926-2022 from Jordan's Ministry of Water and Irrigation. Lead authors at the University of Jordan; an independent (Jordanian) series from the Israeli Water Authority data. Figure values were read from the graph only roughly (about +/- 1 m)."
+      },
+      "kind": "academic",
+      "institution_country": "CH",
+      "accessed": "2026-10-20"
     },
     {
       "id": "feldman-1990-name-palestine",
@@ -11973,7 +12192,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the open-access PDF; sea-level summary on p. 2 and discussion p. 11-12. Its Table 1 gives calibrated ages, so 'BP' here is read as calibrated."
+        "note": "Read the open-access PDF; sea-level summary on p. 2 and discussion p. 11-12. Its Table 1 gives calibrated ages, so 'BP' here is read as calibrated. | Re-read in Milestone 8: Re-read in Milestone 8 round I: the sea-level summary on p. 2 (open-access PDF downloaded earlier)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -12162,6 +12381,31 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "gianto-2012-ugaritic",
+      "type": "chapter",
+      "authors": [
+        "Gianto, Agustinus"
+      ],
+      "editors": [
+        "Gzella, Holger"
+      ],
+      "title": "Ugaritic",
+      "container": "Languages from the World of the Bible",
+      "publisher": "De Gruyter, Boston/Berlin",
+      "year": 2012,
+      "pages": "28-54",
+      "isbn": "978-1-934078-63-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction and history (p. 28) and the section on the script (p. 29)."
+      },
+      "kind": "academic",
+      "institution_country": "DE",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "gibb-1969-aiyubids",
       "type": "chapter",
       "authors": [
@@ -12289,6 +12533,26 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "globes-2026-08-23-foreign-workers",
+      "type": "article",
+      "authors": [
+        "Nisani, Yuval"
+      ],
+      "title": "Is Israel prepared for 330,000 foreign workers?",
+      "container": "Globes (English edition)",
+      "publisher": "Globes",
+      "year": 2026,
+      "url": "https://en.globes.co.il/en/article-1001553096",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (23 August 2026). It reports Population and Immigration Authority figures, a different government body from the CBS."
+      },
+      "kind": "press",
+      "institution_country": "IL",
+      "accessed": "2026-10-20"
     },
     {
       "id": "goffman-1982-maktu-safed",
@@ -12808,6 +13072,31 @@
       },
       "kind": "press",
       "institution_country": "AE"
+    },
+    {
+      "id": "gzella-2012-phoenician",
+      "type": "chapter",
+      "authors": [
+        "Gzella, Holger"
+      ],
+      "editors": [
+        "Gzella, Holger"
+      ],
+      "title": "Phoenician",
+      "container": "Languages from the World of the Bible",
+      "publisher": "De Gruyter, Boston/Berlin",
+      "year": 2012,
+      "pages": "55-75",
+      "isbn": "978-1-934078-63-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction (pp. 55-56). English edition of a German volume first published in 2009 (WBG)."
+      },
+      "kind": "academic",
+      "institution_country": "DE",
+      "accessed": "2026-10-20"
     },
     {
       "id": "haaretz-2010-02-22-un-heritage-sites",
@@ -13438,6 +13727,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "hotline-refugees-asylum-seekers-page",
+      "type": "web",
+      "authors": [
+        "Hotline for Refugees and Migrants"
+      ],
+      "title": "Refugees and Asylum Seekers",
+      "container": "Hotline for Refugees and Migrants website",
+      "publisher": "Hotline for Refugees and Migrants (Tel Aviv)",
+      "url": "https://hotline.org.il/en/refugees-and-asylum-seekers-en/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page. It is undated (it mentions data 'as of July 2016'), so its figures describe the mid-2010s rather than 2024. An Israeli human-rights NGO; it rejects the official term 'infiltrators'."
+      },
+      "kind": "ngo",
+      "institution_country": "IL",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "howard-johnston-iranica-khosrow-ii",
       "type": "web",
       "authors": [
@@ -13473,6 +13781,26 @@
       },
       "kind": "ngo",
       "institution_country": "US"
+    },
+    {
+      "id": "hrw-2025-11-20-west-bank-camps",
+      "type": "web",
+      "authors": [
+        "Human Rights Watch"
+      ],
+      "title": "West Bank: Israel Emptying Refugee Camps a Crime Against Humanity",
+      "container": "Human Rights Watch news release (summary of the report \"All My Dreams Have Been Erased\")",
+      "publisher": "Human Rights Watch",
+      "year": 2025,
+      "url": "https://www.hrw.org/news/2025/11/20/west-bank-israel-emptying-refugee-camps-a-crime-against-humanity",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full news release of 20 November 2025, which summarises the 105-page report and quotes the Israeli authorities' written reply. HRW's legal characterisations are its own and are not used here; only the dates, the figure and the Israeli position are."
+      },
+      "kind": "ngo",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "hrw-2026-10-10",
@@ -15217,6 +15545,26 @@
       "institution_country": "US"
     },
     {
+      "id": "jta-1967-09-19-repatriation-talks",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Israeli, Jordanian Representatives to Talk Today on Further Repatriation of Arabs",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1967,
+      "url": "https://www.jta.org/archive/israeli-jordanian-representatives-to-talk-today-on-further-repatriation-of-arabs",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the short report in JTA's online archive transcription (dated 19 September 1967); the scanned bulletin was not checked."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "jta-1973-05-25-katzir-takes-oath",
       "type": "article",
       "authors": [
@@ -15589,7 +15937,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Open-access article (Europe PMC, PMC3110627); downloaded the full-text XML and read the introduction and discussion of the date of Ramesses III's Year 8."
+        "note": "Open-access article (Europe PMC, PMC3110627); downloaded the full-text XML and read the introduction and discussion of the date of Ramesses III's Year 8. | Re-read in Milestone 8: Re-read in Milestone 8 round I in the Europe PMC full-text XML: Results and Discussion, on the radiocarbon date of the destruction layer and the eclipse recorded on the Ugaritic tablet KTU 1.78."
       },
       "kind": "academic",
       "institution_country": "FR"
@@ -16373,7 +16721,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the Internet Archive OCR text, pp. 24-26 (the five junds and their Byzantine antecedents) and pp. 39-40 (al-Muqaddasi's list of districts, 985 CE). A 19th-century work: its translations of the Arab geographers remain useful but its historical dating is dated. | Re-read in Milestone 8: EXISTING ID - entry not changed here. Re-downloaded and read the chronological table (pp. xix-xx) and the Ramlah article. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: pp. 24-27 (the junds instituted under 'Umar, their continuity under the Umayyads, their Byzantine antecedents, and the tenth-century list of Istakhri and Ibn Hawqal). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: pp. 40-41 (al-Dimashqi, writing c. 1300, on the nine 'kingdoms' (mamlakat) of Syria, incl. those of Ghazzah and Safad)."
+        "note": "Read the Internet Archive OCR text, pp. 24-26 (the five junds and their Byzantine antecedents) and pp. 39-40 (al-Muqaddasi's list of districts, 985 CE). A 19th-century work: its translations of the Arab geographers remain useful but its historical dating is dated. | Re-read in Milestone 8: EXISTING ID - entry not changed here. Re-downloaded and read the chronological table (pp. xix-xx) and the Ramlah article. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: pp. 24-27 (the junds instituted under 'Umar, their continuity under the Umayyads, their Byzantine antecedents, and the tenth-century list of Istakhri and Ibn Hawqal). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: pp. 40-41 (al-Dimashqi, writing c. 1300, on the nine 'kingdoms' (mamlakat) of Syria, incl. those of Ghazzah and Safad). | Re-read in Milestone 8: Re-read in Milestone 8 round I in the Internet Archive OCR text: Jerusalem chapter on the churches (pp. 211-212: Idrisi, 'Ali of Herat and Ibn Batutah on the Church of the Ascension, the Tomb of Lazarus and the Church of Sion) and the gazetteer entry Al 'Azariyyah (p. 405)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -17328,6 +17676,26 @@
       "accessed": "2026-10-20"
     },
     {
+      "id": "miftah-pa-basic-law-2002",
+      "type": "document",
+      "authors": [
+        "Palestinian Legislative Council"
+      ],
+      "title": "The Basic Law (ratified 29 May 2002)",
+      "container": "MIFTAH website",
+      "publisher": "MIFTAH - The Palestinian Initiative for the Promotion of Global Dialogue and Democracy",
+      "year": 2002,
+      "url": "http://www.miftah.org/Display.cfm?DocId=790&CategoryId=7",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the English text of the Basic Law as passed in third reading (2 October 1997), Chapter One, Articles 1-8, and the closing line giving ratification in Ramallah on 29 May 2002. The same text is reproduced on palestinianbasiclaw.org as the '2002 Basic Law (previous)'."
+      },
+      "kind": "ngo",
+      "institution_country": "PS",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "migdal-2000-israel-1967-war",
       "type": "chapter",
       "authors": [
@@ -17925,6 +18293,22 @@
       },
       "kind": "academic",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ngsba-shiqmim",
+      "type": "web",
+      "title": "Shiqmim (excavation page)",
+      "container": "The Nelson Glueck School of Biblical Archaeology website",
+      "publisher": "Nelson Glueck School of Biblical Archaeology, Hebrew Union College-Jewish Institute of Religion (Jerusalem)",
+      "url": "https://ngsba.org/excavations/shiqmim/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole page (undated), including its bibliography of the Levy and Alon excavation reports."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "nicholson-1969-growth-latin-states",
@@ -18983,6 +19367,26 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "palestine-order-in-council-1922",
+      "type": "document",
+      "authors": [
+        "Privy Council of the United Kingdom"
+      ],
+      "title": "The Palestine Order in Council, 1922 (10 August 1922)",
+      "container": "UNISPAL (United Nations Information System on the Question of Palestine)",
+      "publisher": "United Nations (online reproduction)",
+      "year": 1922,
+      "url": "https://www.un.org/unispal/document/auto-insert-196295/",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the UNISPAL transcription of the Order (with the accompanying Royal Instructions), Part VIII, Art. 82 'Official languages'; checked the same wording in the Institute for Palestine Studies' transcription (palquest.org). The Order was made at Buckingham Palace on 10 August 1922."
+      },
+      "kind": "government",
+      "institution_country": "GB",
+      "accessed": "2026-10-20"
     },
     {
       "id": "palestine-royal-commission-1937",
@@ -22810,6 +23214,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "tau-tel-beth-shemesh-project",
+      "type": "web",
+      "authors": [
+        "Bunimovitz, Shlomo",
+        "Lederman, Zvi"
+      ],
+      "title": "Beth-Shemesh: A Biblical Border City between Judah and Philistia (Tel Beth-Shemesh excavation project page)",
+      "container": "Tel Aviv University, Faculty of Humanities website",
+      "publisher": "Tel Aviv University, Institute of Archaeology",
+      "url": "https://en-humanities.tau.ac.il/beth-shemesh",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole project page (undated; describes the 1990-2000 seasons of the renewed excavations directed by Bunimovitz and Lederman). Authorship inferred from the page, which presents their project."
+      },
+      "kind": "academic",
+      "institution_country": "IL",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "tcherikover-1963-jews-greeks-hebrew",
       "type": "book",
       "authors": [
@@ -23663,6 +24087,25 @@
       "institution_country": "US"
     },
     {
+      "id": "tempelgesellschaft-footprints",
+      "type": "web",
+      "authors": [
+        "Tempelgesellschaft (Temple Society)"
+      ],
+      "title": "Footprints of the Templers",
+      "container": "Tempelgesellschaft website, History section",
+      "publisher": "Tempelgesellschaft in Deutschland (Temple Society)",
+      "url": "https://www.tempelgesellschaft.de/posts/footprints-of-the-templers-601.php",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole English page (last changed 03.10.2026 per the page footer). It is the Temple Society's own history of its settlements and quotes the Israeli historian Alex Carmel; an interested but independent account relative to Schölch."
+      },
+      "kind": "religious-institution",
+      "institution_country": "DE",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "thompson-2000-colonial-welfare-state",
       "type": "chapter",
       "authors": [
@@ -23779,6 +24222,26 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "tolts-2019-half-century-fsu-emigration",
+      "type": "report",
+      "authors": [
+        "Tolts, Mark"
+      ],
+      "title": "A Half Century of Jewish Emigration from the Former Soviet Union: Demographic Aspects",
+      "container": "Paper presented at the Project for Russian and Eurasian Jewry, Davis Center for Russian and Eurasian Studies, Harvard University, 20 November 2019",
+      "publisher": "Davis Center for Russian and Eurasian Studies, Harvard University",
+      "year": 2019,
+      "url": "https://daviscenter.fas.harvard.edu/sites/default/files/files/2021-04/Tolts%20M.%20A%20Half%20Century%20of%20Jewish%20Emigration%20from%20the%20Former%20Soviet%20Union%20-%20Harvard4%20_0.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the PDF hosted by the Davis Center (author: Hebrew University of Jerusalem): section 1 and Table 1 (annual emigration to Israel, the USA and Germany, 1970-2018). Tolts uses Israel CBS publications and unpublished CBS data for Israel, so his Israeli figures are not independent of the CBS registration, but the compilation and the comparison with other destinations are his own."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "toueg-2011-ha-ramla",
@@ -25090,6 +25553,26 @@
       "institution_country": "UN"
     },
     {
+      "id": "un-unrwa-1968-a7213",
+      "type": "report",
+      "authors": [
+        "Commissioner-General of UNRWA"
+      ],
+      "title": "Report of the Commissioner-General of the United Nations Relief and Works Agency for Palestine Refugees in the Near East, 1 July 1967 - 30 June 1968 (A/7213)",
+      "container": "General Assembly Official Records, Twenty-third Session, Supplement No. 13",
+      "publisher": "United Nations",
+      "year": 1968,
+      "url": "https://documents.un.org/api/symbol/access?s=A/7213(SUPP)&l=en&t=pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the scanned report from UN ODS and read the Introduction, paras. 10-11, on displaced persons in east Jordan and returns to the West Bank. The OCR garbles some words, so quotes avoid them."
+      },
+      "kind": "un",
+      "institution_country": "UN",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "unccp-1949-holy-places",
       "type": "document",
       "authors": [
@@ -26017,6 +26500,25 @@
       "kind": "government",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "usgs-1978-dead-sea-level",
+      "type": "report",
+      "authors": [
+        "Sauer, Stanley P."
+      ],
+      "title": "Recent and Projected Changes in Dead Sea Level and Effects on Mineral Production from the Sea (Open-File Report 78-176)",
+      "publisher": "U.S. Geological Survey, prepared in cooperation with the U.S. Agency for International Development",
+      "year": 1978,
+      "url": "https://pubs.usgs.gov/of/1978/0176/report.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the scanned report (public domain, USGS): section 'Historical Sea Levels' (pp. 16-18) and Figure 3, 'Average annual elevation of the Dead Sea, 1800-1977' (p. 17), which is based on Klein (1965) up to 1964, then on Israel Hydrological Service and Arab Potash Company readings. Values for single years were read from the graph and are approximate (about +/- 0.3 m)."
+      },
+      "kind": "government",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "van-berchem-1922-cia-jerusalem-ville",

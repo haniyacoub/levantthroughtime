@@ -1979,12 +1979,37 @@
           "ref": "scholch-1993",
           "locator": "p. 150",
           "quote": "In 1869 the Templars founded their first settlement at Haifa"
+        },
+        {
+          "ref": "tempelgesellschaft-footprints",
+          "locator": "introduction",
+          "quote": "Following the call of their faith, they began moving to the Holy Land in 1868."
+        },
+        {
+          "ref": "tempelgesellschaft-footprints",
+          "locator": "section \"The work of the Templers\"",
+          "quote": "the first four Templer settlements emerged in Haifa, in Jaffa, in Sarona near Jaffa and in Jerusalem."
+        },
+        {
+          "ref": "tempelgesellschaft-footprints",
+          "locator": "section \"Haifa\"",
+          "quote": "The Haifa Templer settlement was the oldest and largest settlement. The first Templers arrived here"
+        },
+        {
+          "ref": "tempelgesellschaft-footprints",
+          "locator": "section \"Betlehem and Waldheim\"",
+          "quote": "the settlement of Waldheim was founded in 1907"
+        },
+        {
+          "ref": "tempelgesellschaft-footprints",
+          "locator": "section \"The work of the Templers\"",
+          "quote": "Even though the Tem­ple Society in Palestine remained a small communi­ty of less than 1500 people"
         }
       ],
       "notes": {
-        "en": "The 2,200 figure is the maximum Templer population, not the number of arrivals. The end date marks the last new settlements (1902-1907); for the wartime internment and deportation see \"templer-deportation-1941\". The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category.",
-        "ar": "رقم 2,200 هو أقصى عدد لسكان التمبلر، لا عدد الوافدين. يشير تاريخ النهاية إلى آخر المستوطنات الجديدة (1902–1907)؛ وللاطلاع على الاعتقال والترحيل في زمن الحرب انظر \"templer-deportation-1941\". صنّفت جولة البحث هذه الحركة \"استعمارًا\"؛ وهي مسجلة هنا \"استيطانًا\"، وهي فئة المشروع المحايدة.",
-        "he": "המספר 2,200 הוא אוכלוסיית הטמפלרים המרבית, ולא מספר המגיעים. תאריך הסיום מציין את ההתיישבויות החדשות האחרונות (1902–1907); על המעצר וההגליה בזמן המלחמה ראו \"templer-deportation-1941\". שלב המחקר סיווג תנועה זו כ\"קולוניזציה\"; כאן היא נרשמת כ\"התיישבות\", הקטגוריה הניטרלית של הפרויקט.",
+        "en": "The 2,200 figure is the maximum Templer population, not the number of arrivals. The end date marks the last new settlements (1902-1907); for the wartime internment and deportation see \"templer-deportation-1941\". The research pass classed this movement as 'colonization'; it is recorded here as 'settlement', the project's neutral category. The Temple Society's own history describes its community in Palestine as fewer than 1,500 people, below Schölch's maximum of 2,200; the sources may count differently (for example members only), so the 2,200 is kept as an upper bound.",
+        "ar": "رقم 2,200 هو أقصى عدد لسكان الهيكليين، وليس عدد الواصلين. ويشير تاريخ النهاية إلى آخر المستوطنات الجديدة (1902-1907)؛ وللاطلاع على الاعتقال والترحيل في زمن الحرب انظر \"templer-deportation-1941\". صنّفت مرحلة البحث هذه الحركة على أنها 'استعمار'؛ لكنها مسجلة هنا على أنها 'استيطان'، وهي الفئة المحايدة للمشروع. ويصف تاريخ جمعية الهيكل نفسها مجتمعها في فلسطين بأنه أقل من 1,500 شخص، أي دون الحد الأقصى الذي ذكره شولخ (2,200)؛ وقد تختلف المصادر في طريقة العدّ (مثلًا الأعضاء فقط)، ولذلك يُبقى على الرقم 2,200 بوصفه حدًّا أعلى.",
+        "he": "הנתון 2,200 הוא האוכלוסייה המרבית של הטמפלרים, ולא מספר העולים. תאריך הסיום מציין את היישובים החדשים האחרונים (1902-1907); על המעצר והגירוש בזמן המלחמה ראו \"templer-deportation-1941\". שלב המחקר סיווג את התנועה הזו כ'קולוניזציה'; כאן היא מתועדת כ'התיישבות', הקטגוריה הנייטרלית של הפרויקט. ההיסטוריה של אגודת המקדש עצמה מתארת את הקהילה שלה בפלשתינה כפחות מ-1,500 איש, מתחת למקסימום של שולך (2,200); ייתכן שהמקורות סופרים באופן שונה (למשל חברים בלבד), ולכן המספר 2,200 נשמר כגבול עליון.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -4112,6 +4137,31 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "row Morocco (country of birth): 15.5.1948-1951 28,263; 1952-1960 95,945; 1961-1971 130,507; 1972-1979 7,780; 1980-1989 3,809"
+        },
+        {
+          "ref": "ej-2007-morocco",
+          "locator": "section on the period after 1948 (Cohen / Laskier)",
+          "quote": "While between 1948 and 1953 about 30,000 Jews went to Israel, emigration figures in 1954–55 rose to 37,000 and in 1956, on the eve of Moroccan independence, to 36,301."
+        },
+        {
+          "ref": "ej-2007-morocco",
+          "locator": "same section",
+          "quote": "between November 1961 and spring 1964 more than 90,000 Jews left for Israel by chartered planes and ships from Casablanca and Tangier via France and Italy."
+        },
+        {
+          "ref": "ej-2007-morocco",
+          "locator": "same section",
+          "quote": "Of those who had emigrated a considerable number, mainly the wealthy and more highly educated, settled in France and Canada."
+        },
+        {
+          "ref": "emmena-2004-jews-middle-east",
+          "locator": "section on the post-war period",
+          "quote": "Major migrations from Morocco and Tunisia arrived in the mid-1950s and early 1960s."
+        },
+        {
+          "ref": "emmena-2004-refugees-jewish",
+          "locator": "paragraph on French North Africa",
+          "quote": "Between 1948 and 1971, some 235,000 out of 400,000 Moroccan Jews emigrated to Israel. The rest went to France and other countries."
         }
       ],
       "notes": {
@@ -4124,7 +4174,7 @@
         }
       },
       "numbers": {
-        "low": 254715,
+        "low": 235000,
         "high": 254715,
         "best": 254715
       }
@@ -4201,12 +4251,32 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "row Egypt, Sudan (country of birth): 15.5.1948-1951 16,024; 1952-1960 17,521; 1961-1971 2,963"
+        },
+        {
+          "ref": "beinin-1998-dispersion-egyptian-jewry",
+          "locator": "ch. 3, section on the 1948 war",
+          "quote": "According to the Jewish Agency, 16,514 Jews left Egypt for Israel between 1948 and 1951."
+        },
+        {
+          "ref": "beinin-1998-dispersion-egyptian-jewry",
+          "locator": "ch. 3, end of section on the Suez/Sinai War",
+          "quote": "By the end of the mass emigration, between one-third and one-half of the Egyptian Jewish community had relocated in Israel."
+        },
+        {
+          "ref": "beinin-1998-dispersion-egyptian-jewry",
+          "locator": "ch. 3, same paragraph",
+          "quote": "Brazil, France, the United States, Argentina, England, and Canada were the most popular destinations after Israel."
+        },
+        {
+          "ref": "emmena-2004-refugees-jewish",
+          "locator": "paragraph on Egypt",
+          "quote": "16,000 fled to Israel between 1948 and 1951; 17,500 settled in Israel between 1952 and 1956; and the majority came after the 1956 Arab – Israel War."
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1971 (computed). CBS combines Egypt and Sudan. Many Egyptian Jews emigrated to Europe and the Americas rather than Israel (not quantified in the consulted sources). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
-        "ar": "\"best\" = مجموع 1948–1971 (محسوب). يجمع CBS مصر والسودان. هاجر كثير من يهود مصر إلى أوروبا والأمريكتين بدل إسرائيل (غير مقدَّر بالأرقام في المصادر التي رُجع إليها). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
-        "he": "\"best\" = סכום 1948–1971 (מחושב). CBS מאחד את מצרים וסודאן. יהודים מצרים רבים היגרו לאירופה ולאמריקות במקום לישראל (לא מכומת במקורות שנבדקו). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "en": "best = sum 1948-1971 (computed). CBS combines Egypt and Sudan. Many Egyptian Jews emigrated to Europe and the Americas rather than Israel; Beinin estimates that between one-third and one-half of the community settled in Israel, with Brazil, France, the United States, Argentina, England and Canada the main other destinations. CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
+        "ar": "best = مجموع 1948-1971 (محسوب). تجمع الهيئة المركزية للإحصاء (CBS) بين مصر والسودان. هاجر كثير من يهود مصر إلى أوروبا والأمريكتين بدلًا من إسرائيل؛ ويقدّر بينين أن ما بين الثلث والنصف من الجالية استقروا في إسرائيل، وكانت البرازيل وفرنسا والولايات المتحدة والأرجنتين وإنجلترا وكندا أبرز الوجهات الأخرى. تحصي الهيئة المركزية للإحصاء المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948-1951 و1952-1960 و1961-1971 و1972-1979 و1980-1989 و1990-1999. ظروف المغادرة موضع خلاف؛ انظر 'jewish-emigration-arab-muslim-countries'.",
+        "he": "best = סכום 1948-1971 (מחושב). הלמ״ס (CBS) מאחדת את מצרים וסודאן. יהודים רבים ממצרים היגרו לאירופה ולאמריקות ולא לישראל; בינין מעריך שבין שליש לחצי מהקהילה השתקעו בישראל, ויעדים עיקריים אחרים היו ברזיל, צרפת, ארצות הברית, ארגנטינה, אנגליה וקנדה. הלמ״ס סופרת עולים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. נסיבות העזיבה שנויות במחלוקת; ראו 'jewish-emigration-arab-muslim-countries'.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -4277,12 +4347,22 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "row Syria (country of birth): 15.5.1948-1951 2,678; 1952-1960 1,870; 1961-1971 2,138; 1972-1979 842; 1980-1989 995; 1990-1999 1,646"
+        },
+        {
+          "ref": "ej-2007-syria",
+          "locator": "section 'The Jewish Community in Independent Syria' (Tavor / Ma'oz)",
+          "quote": "Jews made many efforts to leave Syria, and between 1948 and 1961 about 5,000 Syrian Jews reached Israel"
+        },
+        {
+          "ref": "ej-2007-syria",
+          "locator": "section 'Developments since the 1970s' (Carr / Ma'oz)",
+          "quote": "By 1994, 3,565 Syrian Jews had immigrated to the U.S. The rest went to Israel, including the chief rabbi of Damascus."
         }
       ],
       "notes": {
-        "en": "best = sum 1948-1999 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'.",
-        "ar": "\"best\" = مجموع 1948–1999 (محسوب). يحصي CBS المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948–1951 و1952–1960 و1961–1971 و1972–1979 و1980–1989 و1990–1999. ظروف المغادرة محل خلاف؛ انظر \"jewish-emigration-arab-muslim-countries\".",
-        "he": "\"best\" = סכום 1948–1999 (מחושב). CBS סופר מהגרים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948–1951, 1952–1960, 1961–1971, 1972–1979, 1980–1989, 1990–1999. נסיבות העזיבה שנויות במחלוקת; ראו \"jewish-emigration-arab-muslim-countries\".",
+        "en": "best = sum 1948-1999 (computed). CBS counts immigrants by country of birth (Table 2.37); periods are 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. Departure circumstances are debated; see 'jewish-emigration-arab-muslim-countries'. When Syria let Jews travel in 1992, most of those who left went to the United States (3,565 by 1994, according to the Encyclopaedia Judaica); the rest went to Israel.",
+        "ar": "best = مجموع 1948-1999 (محسوب). تحصي الهيئة المركزية للإحصاء (CBS) المهاجرين بحسب بلد الميلاد (الجدول 2.37)؛ والفترات هي 15.5.1948-1951 و1952-1960 و1961-1971 و1972-1979 و1980-1989 و1990-1999. ظروف المغادرة موضع خلاف؛ انظر 'jewish-emigration-arab-muslim-countries'. وعندما سمحت سوريا لليهود بالسفر عام 1992، توجّه معظم من غادروا إلى الولايات المتحدة (3,565 بحلول عام 1994، بحسب Encyclopaedia Judaica)؛ وذهب الباقون إلى إسرائيل.",
+        "he": "best = סכום 1948-1999 (מחושב). הלמ״ס (CBS) סופרת עולים לפי ארץ לידה (לוח 2.37); התקופות הן 15.5.1948-1951, 1952-1960, 1961-1971, 1972-1979, 1980-1989, 1990-1999. נסיבות העזיבה שנויות במחלוקת; ראו 'jewish-emigration-arab-muslim-countries'. כאשר סוריה התירה ליהודים לנסוע ב-1992, רוב אלה שעזבו הלכו לארצות הברית (3,565 עד 1994, לפי Encyclopaedia Judaica); השאר הלכו לישראל.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -4366,6 +4446,16 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "row Iran (country of birth): 15.5.1948-1951 21,910; 1952-1960 15,699; 1961-1971 19,502; 1972-1979 9,550; 1980-1989 8,487; 1990-1999 3,627"
+        },
+        {
+          "ref": "emmena-2004-jews-middle-east",
+          "locator": "section on the post-war period (to 1967)",
+          "quote": "During this period, half of Turkey's 80,000 Jews and about one third of Iran's 100,000 Jews departed for Israel, but others, including nearly half of Maghribi Jewry, went to France and elsewhere."
+        },
+        {
+          "ref": "emmena-2004-jews-middle-east",
+          "locator": "next paragraph",
+          "quote": "Iranian Jewry functioned actively until the revolution of 1979 that established the Islamic republic. Jews then immigrated to Israel, Europe, and the United States"
         }
       ],
       "notes": {
@@ -4549,6 +4639,26 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "row Tunisia (country of birth): 15.5.1948-1951 13,293; 1952-1960 23,569; 1961-1971 11,566; 1972-1979 2,148"
+        },
+        {
+          "ref": "ej-2007-tunis-tunisia",
+          "locator": "section on the period after World War II (Saadoun)",
+          "quote": "The second stage began with the creation of the State of Israel with more than 4,000 immigrants in 1951, and 2,500 in 1952."
+        },
+        {
+          "ref": "ej-2007-tunis-tunisia",
+          "locator": "same section",
+          "quote": "More than 6,000 Jews immigrated to Israel in 1955 and 6,500 in 1956."
+        },
+        {
+          "ref": "ej-2007-tunis-tunisia",
+          "locator": "section 'Since the Six-Day War'",
+          "quote": "Most of the Jews who left Tunisia after the Six-Day War immigrated to France"
+        },
+        {
+          "ref": "emmena-2004-refugees-jewish",
+          "locator": "paragraph on French North Africa",
+          "quote": "20,000 immigrated into Israel between 1948 and 1971. During the same period, some 54,000 Tunisian Jews fled to Israel."
         }
       ],
       "notes": {
@@ -4562,7 +4672,7 @@
       },
       "numbers": {
         "low": 48428,
-        "high": 48428,
+        "high": 54000,
         "best": 48428
       }
     },
@@ -4919,12 +5029,27 @@
           "ref": "un-sg-1967-s8158",
           "locator": "para. 190",
           "quote": "On 9 September, the total number of those who had returned was given by Jordanian sources as 14,150 persons and by Israel sources as 14,056."
+        },
+        {
+          "ref": "un-unrwa-1968-a7213",
+          "locator": "Introduction, para. 11",
+          "quote": "slightly more than 14,000 persons returned to the West Bank. Since then, some others have been able to return on grounds of special hardship or family reunion."
+        },
+        {
+          "ref": "un-unrwa-1968-a7213",
+          "locator": "Introduction, para. 11",
+          "quote": "For the period September 1967 to 30 June 1968, the total figure is given as 2,000 by Jordan and as 3,000 by Israel."
+        },
+        {
+          "ref": "jta-1967-09-19-repatriation-talks",
+          "locator": "report of 19 September 1967",
+          "quote": "Israel had previously approved the return of 6,500 refugees and their crossing of the Jordan was to have begun last Sunday."
         }
       ],
       "notes": {
-        "en": "Israel approved 4,763 applications covering 16,266 persons in 13-28 August 1967 (para. 190). Israel later said only 60 per cent of those authorised actually crossed; Jordan disputed the procedure (paras. 191-192).",
-        "ar": "وافقت إسرائيل على 4,763 طلبًا تشمل 16,266 شخصًا في 13–28 آب/أغسطس 1967 (الفقرة 190). وقالت إسرائيل لاحقًا إن 60 في المئة فقط ممن أُذن لهم عبروا فعلًا؛ ونازع الأردن في الإجراء (الفقرتان 191–192).",
-        "he": "ישראל אישרה 4,763 בקשות הכוללות 16,266 איש בין 13 ל-28 באוגוסט 1967 (פסקה 190). ישראל אמרה מאוחר יותר שרק 60 אחוזים מהמורשים אכן חצו; ירדן חלקה על ההליך (פסקאות 191–192).",
+        "en": "Israel approved 4,763 applications covering 16,266 persons in 13-28 August 1967 (para. 190). Israel later said only 60 per cent of those authorised actually crossed; Jordan disputed the procedure (paras. 191-192). UNRWA's next annual report confirms that slightly more than 14,000 people returned under the July-August 1967 arrangements, and records further returns on hardship or family-reunion grounds between September 1967 and June 1968 (2,000 according to Jordan, 3,000 according to Israel). A JTA report of 19 September 1967 says Israel had approved a further 6,500 returns, whose crossing Jordan asked to postpone.",
+        "ar": "وافقت إسرائيل على 4,763 طلبًا شملت 16,266 شخصًا في 13-28 آب/أغسطس 1967 (الفقرة 190). وقالت إسرائيل لاحقًا إن 60 في المئة فقط ممن أُذن لهم عبروا فعلًا؛ واعترضت الأردن على الإجراء (الفقرات 191-192). ويؤكد التقرير السنوي التالي للأونروا (UNRWA) أن أكثر قليلًا من 14,000 شخص عادوا بموجب ترتيبات تموز/يوليو-آب/أغسطس 1967، ويسجّل عمليات عودة أخرى لأسباب إنسانية أو للم الشمل العائلي بين أيلول/سبتمبر 1967 وحزيران/يونيو 1968 (2,000 بحسب الأردن، و3,000 بحسب إسرائيل). ويذكر تقرير لوكالة JTA بتاريخ 19 أيلول/سبتمبر 1967 أن إسرائيل وافقت على 6,500 حالة عودة أخرى، طلب الأردن تأجيل عبورها.",
+        "he": "ישראל אישרה 4,763 בקשות שכללו 16,266 איש ב-13-28 באוגוסט 1967 (סעיף 190). ישראל אמרה מאוחר יותר שרק 60 אחוז מאלה שאושרו חצו בפועל; ירדן חלקה על ההליך (סעיפים 191-192). הדוח השנתי הבא של אונרוו (UNRWA) מאשר שקצת יותר מ-14,000 איש חזרו לפי הסדרי יולי-אוגוסט 1967, ומתעד חזרות נוספות מטעמי מצוקה או איחוד משפחות בין ספטמבר 1967 ליוני 1968 (2,000 לפי ירדן, 3,000 לפי ישראל). דיווח של JTA מ-19 בספטמבר 1967 אומר שישראל אישרה עוד 6,500 חזרות, שירדן ביקשה לדחות את חציית הגבול שלהן.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5625,6 +5750,16 @@
         {
           "ref": "cbs-sai-2025-t2-37",
           "locator": "rows USSR (former), European republics and Asian republics (country of birth): 1990-1999 771,213 + 50,693; 2000-2021 287,707 + 29,018"
+        },
+        {
+          "ref": "tolts-2019-half-century-fsu-emigration",
+          "locator": "p. 3",
+          "quote": "Almost 1.1 million of these emigrated to Israel, while the rest went mostly to the United States and Germany."
+        },
+        {
+          "ref": "tolts-2019-half-century-fsu-emigration",
+          "locator": "p. 3",
+          "quote": "when about 400,000 Soviet Jews and their relatives left the USSR. Of these, 333,000 (83%) went to Israel."
         }
       ],
       "notes": {
@@ -6158,12 +6293,22 @@
         {
           "ref": "cbs-sai-2025-t2-42",
           "locator": "2024, column Foreign workers: total 155,955; India 35,561; Thailand 32,725; China 21,852; Philippines 18,123; Uzbekistan 13,703; Moldova 12,675; Sri Lanka 11,178"
+        },
+        {
+          "ref": "globes-2026-08-23-foreign-workers",
+          "locator": "article of 23 August 2026",
+          "quote": "Israel now has 250,000 legal and illegal foreign workers, the highest number ever, according to Israel Population and Immigration Authority figures, with more to come."
+        },
+        {
+          "ref": "globes-2026-08-23-foreign-workers",
+          "locator": "same article",
+          "quote": "Population and Immigration Authority figures show that 26.5% of all current legal and illegal foreign workers are from Thailand, 21.7% from India, 11.8% from China"
         }
       ],
       "notes": {
-        "en": "Stock of foreign residents with foreign-worker status at 2024 (CBS, from the Population Register). Total foreign residents were 260,396.",
-        "ar": "رصيد المقيمين الأجانب بصفة عامل أجنبي في 2024 (CBS، من سجل السكان). كان مجموع المقيمين الأجانب 260,396.",
-        "he": "מלאי התושבים הזרים בסטטוס עובד זר ב-2024 (CBS, מרשם האוכלוסין). סך התושבים הזרים היה 260,396.",
+        "en": "Stock of foreign residents with foreign-worker status at 2024 (CBS, from the Population Register). Total foreign residents were 260,396. By August 2026, Population and Immigration Authority figures reported by Globes put legal and illegal foreign workers at about 250,000, mainly from Thailand, India, China, Sri Lanka and the Philippines.",
+        "ar": "عدد المقيمين الأجانب بصفة عامل أجنبي في عام 2024 (الهيئة المركزية للإحصاء CBS، من سجل السكان). بلغ مجموع المقيمين الأجانب 260,396. وبحلول آب/أغسطس 2026، قدّرت أرقام سلطة السكان والهجرة التي نشرتها Globes العمال الأجانب القانونيين وغير القانونيين بنحو 250,000، معظمهم من تايلاند والهند والصين وسريلانكا والفلبين.",
+        "he": "מצבת תושבים זרים בעלי מעמד של עובד זר נכון ל-2024 (הלמ״ס, ממרשם האוכלוסין). סך התושבים הזרים היה 260,396. עד אוגוסט 2026, נתוני רשות האוכלוסין וההגירה כפי שדווחו ב-Globes מעמידים את העובדים הזרים החוקיים והבלתי חוקיים על כ-250,000, בעיקר מתאילנד, הודו, סין, סרי לנקה והפיליפינים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6244,6 +6389,16 @@
         {
           "ref": "cbs-sai-2025-t2-42",
           "locator": "2024, column 'Illegal border crossers and their children': total 26,680; Eritrea 22,043; Sudan 2,145"
+        },
+        {
+          "ref": "hotline-refugees-asylum-seekers-page",
+          "locator": "page text",
+          "quote": "Israel is home to around 30,000 asylum-seekers who arrived in Israel from Africa through Sinai."
+        },
+        {
+          "ref": "hotline-refugees-asylum-seekers-page",
+          "locator": "page text",
+          "quote": "92% of asylum-seekers in Israel hail from Eritrea (73%) and Sudan (19%)."
         }
       ],
       "notes": {
@@ -6491,7 +6646,8 @@
       "start": {
         "year": 2025,
         "month": 1,
-        "precision": "month"
+        "day": 21,
+        "precision": "day"
       },
       "direction": "within",
       "confidence": "documented",
@@ -6505,19 +6661,34 @@
           "ref": "ocha-flash-appeal-2026",
           "locator": "West Bank context",
           "quote": "particularly in the northern West Bank refugee camps (Jenin, Tulkarm, Nur Shams). Since January 2025, these operations have caused mass casualties, widespread destruction of civilian infrastructure, and large-scale displacement."
+        },
+        {
+          "ref": "hrw-2025-11-20-west-bank-camps",
+          "locator": "news release, para. on the report",
+          "quote": "an Israeli military operation across Jenin, Tulkarem, and Nur Shams refugee camps that began on January 21, 2025"
+        },
+        {
+          "ref": "hrw-2025-11-20-west-bank-camps",
+          "locator": "news release, opening",
+          "quote": "The 32,000 people reportedly removed have not been permitted to return to their homes"
+        },
+        {
+          "ref": "hrw-2025-11-20-west-bank-camps",
+          "locator": "news release (Israeli reply quoted)",
+          "quote": "in light of the security threats posed by these camps and the growing presence of terrorist elements within them."
         }
       ],
       "notes": {
-        "en": "Figure as of December 2025 (OCHA). Tulkarm and Nur Shams camps are also affected (Jenin shown as origin). Israel describes the operations as counter-terrorism operations; the consulted source is the UN appeal.",
-        "ar": "الرقم حتى كانون الأول/ديسمبر 2025 (OCHA). مخيما طولكرم ونور شمس متأثران أيضًا (جنين معروضة نقطةَ انطلاق). تصف إسرائيل العمليات بأنها عمليات لمكافحة الإرهاب؛ والمصدر الذي رُجع إليه هو نداء الأمم المتحدة.",
-        "he": "הנתון נכון לדצמבר 2025 (OCHA). גם מחנות טול כרם ונור שמס מושפעים (ג'נין מוצגת כמוצא). ישראל מתארת את המבצעים כמבצעי סיכול טרור; המקור שנבדק הוא הקריאה לסיוע של האו״ם.",
+        "en": "Figure as of December 2025 (OCHA). Tulkarm and Nur Shams camps are also affected (Jenin shown as origin). Israel describes the operations as counter-terrorism operations; the consulted source is the UN appeal. Human Rights Watch (November 2025) counts about 32,000 people displaced from the three camps and not allowed to return. In a letter to HRW, Israeli officials said the operation ('Iron Wall') was launched 'in light of the security threats posed by these camps and the growing presence of terrorist elements within them.'",
+        "ar": "الرقم حتى كانون الأول/ديسمبر 2025 (أوتشا OCHA). كما تأثرت مخيمات طولكرم ونور شمس (ظهر جنين بوصفه مكان المنشأ). تصف إسرائيل العمليات بأنها عمليات لمكافحة الإرهاب؛ والمصدر الذي جرت الاستعانة به هو النداء الأممي. تحصي هيومن رايتس ووتش (تشرين الثاني/نوفمبر 2025) نحو 32,000 شخص نزحوا من المخيمات الثلاثة ولم يُسمح لهم بالعودة. وفي رسالة إلى هيومن رايتس ووتش، قال مسؤولون إسرائيليون إن العملية ('السور الحديدي') أُطلقت 'في ضوء التهديدات الأمنية التي تشكلها هذه المخيمات والوجود المتزايد للعناصر الإرهابية داخلها'.",
+        "he": "הנתון נכון לדצמבר 2025 (אוצ״ה OCHA). גם המחנות טול כרם ונור שמס מושפעים (ג'נין מוצג כמקור). ישראל מתארת את הפעולות כפעולות נגד טרור; המקור שנבדק הוא הקריאה של האו״ם. ארגון Human Rights Watch (נובמבר 2025) סופר כ-32,000 איש שנעקרו משלושת המחנות ולא הורשו לחזור. במכתב ל-HRW אמרו גורמים ישראליים שהמבצע ('חומת ברזל') נפתח 'לאור האיומים הביטחוניים שמציבים המחנות הללו והנוכחות הגוברת של גורמי טרור בתוכם'.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
         }
       },
       "numbers": {
-        "low": 40000,
+        "low": 32000,
         "high": 40000,
         "best": 40000
       }
