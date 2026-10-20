@@ -4686,12 +4686,32 @@
           "ref": "boas-2001-jerusalem-crusades",
           "locator": "'Chronological summary', entry 1048",
           "quote": "The Byzantine Emperor Constantine Monomachus rebuilds the Church of the Holy Sepulchre"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 204 (OCR normalised)",
+          "quote": "The King of Rum here mentioned is, according to one account, the Emperor Constantine Monomachus, who, about the year 1048, had the church rebuilt under the superintendence of the Patriarch Nicephorus."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 2 (Casim Avcı), Fatimid period",
+          "quote": "Hâkim, 400 (1009) yılında Kıyâme (Kamâme) Kilisesi’ni yağmalatıp yıkılmasını emretti. Kilise ancak kırk yıl sonra yeniden ibadete açılabildi."
+        },
+        {
+          "ref": "catholic-encyclopedia-1910-holy-sepulchre",
+          "locator": "section on the history of the buildings",
+          "quote": "These buildings were destroyed by the Mohammedans in 1010. Smaller churches were erected in 1048"
+        },
+        {
+          "ref": "le-strange-1890",
+          "locator": "p. 204 (OCR normalised)",
+          "quote": "Other accounts state that the restoration took place under the Emperor Michael IV., the Paphlagonian"
         }
       ],
       "notes": {
-        "en": "Date as given in Boas's chronological summary (the duration of the works is not given there).",
-        "ar": "التاريخ كما ورد في الملخص الزمني لبواس (ولا تُعطى فيه مدة الأعمال).",
-        "he": "התאריך כפי שניתן בסיכום הכרונולוגי של בואס (משך העבודות אינו ניתן שם).",
+        "en": "Date as given in Boas's chronological summary (the duration of the works is not given there). Le Strange (1890), citing Mujir ad-Din, says the church was rebuilt in the reign of the Fatimid caliph al-Mustansir by \"the King of Rum\", identified in one account as Constantine Monomachus about 1048 and in others as Michael IV. TDV İslâm Ansiklopedisi: \"In 400 (1009) al-Hakim ordered the Church of the Resurrection (Qiyama/Qumama) to be plundered and demolished. The church could be reopened for worship only forty years later.\" The Catholic Encyclopedia (1910) dates the destruction to 1010 and the new, smaller churches to 1048.",
+        "ar": "التاريخ كما ورد في الملخص الزمني لبواس (ولا تُذكر فيه مدة الأعمال). يقول لو سترانج (1890)، نقلًا عن مجير الدين، إن الكنيسة أُعيد بناؤها في عهد الخليفة الفاطمي المستنصر على يد “ملك الروم”، الذي عُرِّف في رواية واحدة بأنه قسطنطين مونوماخوس نحو سنة 1048، وفي روايات أخرى بأنه ميخائيل الرابع. ويقول TDV İslâm Ansiklopedisi: “في سنة 400 (1009) أمر الحاكم بنهب كنيسة القيامة (القيامة/القمامة) وهدمها. ولم يمكن إعادة فتح الكنيسة للعبادة إلا بعد أربعين سنة.” وتؤرخ الموسوعة الكاثوليكية (1910) التدمير بسنة 1010 والكنائس الجديدة الأصغر بسنة 1048.",
+        "he": "התאריך כפי שניתן בסיכום הכרונולוגי של בואס (משך העבודות אינו מצוין שם). לה סטריינג' (1890), בציטוטו את מוג'יר א-דין, אומר שהכנסייה נבנתה מחדש בימי החליף הפאטמי אל-מוסתנצר על ידי “מלך רום”, שזוהה בתיאור אחד כקונסטנטינוס מונומאכוס בערך ב-1048 ובאחרים כמיכאל הרביעי. TDV İslâm Ansiklopedisi: “בשנת 400 (1009) הורה אל-חאכם לבזוז ולהרוס את כנסיית הקבר (קיאמה/קומאמה). הכנסייה יכלה להיפתח מחדש לתפילה רק ארבעים שנה לאחר מכן.” האנציקלופדיה הקתולית (1910) מתארכת את ההרס ל-1010 ואת הכנסיות החדשות הקטנות יותר ל-1048.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8215,7 +8235,8 @@
       "date": {
         "year": 1942,
         "month": 5,
-        "precision": "month"
+        "day": 11,
+        "precision": "day"
       },
       "coords": [
         -74.0061,
@@ -8243,12 +8264,27 @@
           "ref": "un-dpr-origins-part1",
           "locator": "Part I, quoted resolution",
           "quote": "The Conference affirms its unalterable rejection of the White Paper of May 1939 and denies its moral or legal validity."
+        },
+        {
+          "ref": "jta-1942-05-12-biltmore-declaration",
+          "locator": "Daily News Bulletin 12 May 1942, p. 1 (dispatch datelined New York, May 11)",
+          "quote": "A declaration demanding the establishment of Palestine as a Jewish Commonwealth and free Jewish immigration into the country under the sole control of the Jewish Agency was adopted here today"
+        },
+        {
+          "ref": "jta-1942-05-12-biltmore-declaration",
+          "locator": "same dispatch",
+          "quote": "It reaffirms the Jewish rejection of the White Paper issued by the British Government in May 1939"
+        },
+        {
+          "ref": "jta-1942-05-12-biltmore-declaration",
+          "locator": "Daily News Bulletin 12 May 1942, p. 1 (dispatch datelined New York, May 11)",
+          "quote": "adopted here today at the closing session of the three-day Extraordinary Zionist Conference which was held in the Biltmore Hotel here in lieu of the World Zionist Congress."
         }
       ],
       "notes": {
-        "en": "Named after the Biltmore Hotel in New York. Single source (UN committee study, which frames it as a programme for \"a Jewish State in Palestine through unlimited immigration\"); exact days not verified.",
-        "ar": "سُمي على اسم فندق بيلتمور في نيويورك. مصدر واحد (دراسة لجنة الأمم المتحدة التي تصفه برنامجًا لـ ‘a Jewish State in Palestine through unlimited immigration’)؛ ولم تُتحقق الأيام الدقيقة.",
-        "he": "נקרא על שם מלון ביילטמור בניו יורק. מקור יחיד (מחקר ועדת האו״ם, המציג אותו כתוכנית ל-‘a Jewish State in Palestine through unlimited immigration’); הימים המדויקים לא אומתו.",
+        "en": "Named after the Biltmore Hotel in New York, where the Extraordinary Zionist Conference met on 9-11 May 1942 in place of the wartime World Zionist Congress (JTA). The UN committee study frames it as a programme for \"a Jewish State in Palestine through unlimited immigration\"; the declaration itself, as reported by JTA, called for a \"Jewish Commonwealth\" and Jewish Agency control of immigration.",
+        "ar": "سُمّي على اسم فندق بلتمور في نيويورك، حيث انعقد المؤتمر الصهيوني الاستثنائي في 9-11 أيار/مايو 1942 بدلًا من المؤتمر الصهيوني العالمي في زمن الحرب (JTA). وتصفه دراسة لجنة الأمم المتحدة بأنه برنامج من أجل “دولة يهودية في فلسطين عن طريق الهجرة غير المحدودة”؛ أما الإعلان نفسه، كما أوردته JTA، فدعا إلى “كومنولث يهودي” وإلى سيطرة الوكالة اليهودية على الهجرة.",
+        "he": "נקראה על שם מלון בילטמור בניו יורק, שבו התכנסה הוועידה הציונית יוצאת הדופן ב-9-11 במאי 1942 במקום הקונגרס הציוני העולמי בימי המלחמה (JTA). מחקר ועדת האו״ם מציג אותה כתוכנית ל“מדינה יהודית בפלשתינה באמצעות עלייה בלתי מוגבלת”; ההצהרה עצמה, כפי שדווחה על ידי JTA, קראה ל“קהילייה יהודית” (Jewish Commonwealth) ולשליטת הסוכנות היהודית בעלייה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9103,12 +9139,27 @@
           "ref": "un-a-res-273-iii",
           "locator": "preamble (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
           "quote": "Recalling its resolutions of 29 November 1947 and 11 December 1948 and taking note of the declarations and explanations made by the representative of the Government of Israel"
+        },
+        {
+          "ref": "frus-1949-v06-d647",
+          "locator": "editorial note, pp. 995-996",
+          "quote": "The General Assembly, on May 11, considered the proposal to admit Israel to membership in the United Nations."
+        },
+        {
+          "ref": "frus-1949-v06-d647",
+          "locator": "same note",
+          "quote": "The President of the Assembly thereupon declared that Israel had been admitted to the United Nations."
+        },
+        {
+          "ref": "frus-1949-v06-d647",
+          "locator": "same note",
+          "quote": "disillusioned acquiescence in an accomplished fact"
         }
       ],
       "notes": {
-        "en": "Resolution 273 (III). The preambular reference to resolutions 181 and 194 is often cited in later debates over Israel’s obligations; that debate is not summarised here. Venue: UN General Assembly, New York area (coordinates of New York City, approximate).",
-        "ar": "القرار 273 (III). كثيرًا ما يُستشهد بالإشارة التمهيدية إلى القرارين 181 و194 في نقاشات لاحقة حول التزامات إسرائيل؛ ولا يُلخص هذا النقاش هنا. المكان: الجمعية العامة للأمم المتحدة، منطقة نيويورك (إحداثيات مدينة نيويورك، تقريبية).",
-        "he": "החלטה 273 (III). ההפניה בהקדמה להחלטות 181 ו-194 מצוטטת לעיתים קרובות בוויכוחים מאוחרים על חובות ישראל; ויכוח זה אינו מסוכם כאן. המקום: העצרת הכללית של האו״ם, אזור ניו יורק (קואורדינטות העיר ניו יורק, מקורבות).",
+        "en": "Resolution 273 (III). The preambular reference to resolutions 181 and 194 is often cited in later debates over Israel’s obligations; that debate is not summarised here. Venue: UN General Assembly, New York area (coordinates of New York City, approximate). FRUS (US Office of the Historian) records the vote of 11 May 1949 and an Egyptian reaction the next day of \"disillusioned acquiescence in an accomplished fact\".",
+        "ar": "القرار 273 (III). كثيرًا ما يُستشهد بالإشارة الواردة في ديباجة القرار إلى القرارين 181 و194 في نقاشات لاحقة حول التزامات إسرائيل؛ ولا يُلخَّص ذلك النقاش هنا. المكان: الجمعية العامة للأمم المتحدة، منطقة نيويورك (إحداثيات مدينة نيويورك، تقريبية). تسجل FRUS (مكتب المؤرخ في وزارة الخارجية الأمريكية) التصويت في 11 أيار/مايو 1949 وردّ فعل مصريًا في اليوم التالي هو “disillusioned acquiescence in an accomplished fact” (“قبول خائب الأمل بأمر واقع”).",
+        "he": "החלטה 273 (III). ההפניה בפרומבולה להחלטות 181 ו-194 מצוטטת לעתים קרובות בדיונים מאוחרים יותר על חובותיה של ישראל; דיון זה אינו מסוכם כאן. מקום: העצרת הכללית של האו״ם, אזור ניו יורק (קואורדינטות העיר ניו יורק, משוערות). FRUS (לשכת ההיסטוריון של ארה״ב) מתעדת את ההצבעה מ-11 במאי 1949 ותגובה מצרית למחרת של “disillusioned acquiescence in an accomplished fact” (“השלמה מאוכזבת עם עובדה מוגמרת”).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9160,12 +9211,37 @@
           "ref": "un-dpr-origins-part2",
           "locator": "same section",
           "quote": "The Commission was able to arrange a conference in Lausanne in April 1949, consisting of separate talks with the two sides"
+        },
+        {
+          "ref": "frus-1949-v06-d649",
+          "locator": "p. 998",
+          "quote": "On May 12 PCC Israeli Arab delegations separately signed protocol with map attached."
+        },
+        {
+          "ref": "frus-1949-v06-d649",
+          "locator": "p. 998 (text of the protocol)",
+          "quote": "has proposed to Israeli delegation and Arab States delegation that working document attached hereto be taken as basis for talks with Commission."
+        },
+        {
+          "ref": "frus-1949-v06-d649",
+          "locator": "p. 998",
+          "quote": "Map consists of Palestine outline on which [19]47 partition lines for Jewish State, Arab State international area of Jerusalem are indicated."
+        },
+        {
+          "ref": "frus-1949-v06-d681",
+          "locator": "telegram of 23 May 1949",
+          "quote": "On May 21 Arab delegates informed PCC re May 12 protocol as follows"
+        },
+        {
+          "ref": "frus-1949-v06-d649",
+          "locator": "p. 999",
+          "quote": "Israeli delegation signed with reservations"
         }
       ],
       "notes": {
-        "en": "Single source (UN committee study). The Commission’s later conference in Paris (1951) was also inconclusive.",
-        "ar": "مصدر واحد (دراسة لجنة الأمم المتحدة). وكان مؤتمر اللجنة اللاحق في باريس (1951) غير حاسم أيضًا.",
-        "he": "מקור יחיד (מחקר ועדת האו״ם). גם הוועידה המאוחרת של הוועדה בפריז (1951) לא הייתה מכרעת.",
+        "en": "Sources: the UN committee study and the contemporary report of the US member of the Commission, Mark Ethridge (FRUS 1949, vol. VI), which gives the protocol's text, says the attached map showed the 1947 partition lines (without being labelled \"plan of partition\") and records that Israel signed with reservations. The Commission's later conference in Paris (1951) was also inconclusive.",
+        "ar": "المصادر: دراسة لجنة الأمم المتحدة والتقرير المعاصر لعضو اللجنة الأمريكي مارك إثريدج (FRUS 1949، المجلد VI)، الذي يورد نص البروتوكول، ويقول إن الخريطة المرفقة بيّنت خطوط تقسيم 1947 (دون أن توصف بأنها “خطة التقسيم”)، ويسجل أن إسرائيل وقّعت مع تحفظات. كما كان مؤتمر اللجنة اللاحق في باريس (1951) غير حاسم.",
+        "he": "מקורות: מחקר ועדת האו״ם והדוח העכשווי של חבר הוועדה האמריקאי מארק אתרידג' (FRUS 1949, כרך VI), המביא את נוסח הפרוטוקול, אומר שהמפה המצורפת הראתה את קווי החלוקה של 1947 (מבלי שתוגדר “תוכנית החלוקה”) ומתעד שישראל חתמה עם הסתייגויות. גם הוועידה המאוחרת יותר של הוועדה בפריז (1951) לא הכריעה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9657,12 +9733,27 @@
           "ref": "avalon-khartoum",
           "locator": "resolution 3",
           "quote": "no peace with Israel, no recognition of Israel, no negotiations with it, and insistence on the rights of the Palestinian people in their own country."
+        },
+        {
+          "ref": "aljazeera-encyclopedia-khartoum-1967",
+          "locator": "entry text",
+          "quote": "انعقدت القمة العربية الرابعة في العاصمة السودانية الخرطوم ما بين 29 أغسطس/آب و1 سبتمبر/أيلول 1967"
+        },
+        {
+          "ref": "aljazeera-encyclopedia-khartoum-1967",
+          "locator": "entry text",
+          "quote": "إعلان اللاءات الثلاث: \"لا صلح ولا تفاوض ولا اعتراف بإسرائيل\""
+        },
+        {
+          "ref": "jta-1967-09-05-eshkol-khartoum",
+          "locator": "Daily News Bulletin 5 September 1967",
+          "quote": "He expressed Israel’s sorrow over the meeting’s decision not to recognize Israel or to negotiate with Israel"
         }
       ],
       "notes": {
-        "en": "Single primary source (Avalon text). Interpretations of the \"three noes\" differ in the literature (not summarised here).",
-        "ar": "مصدر أولي واحد (نص Avalon). تختلف تفسيرات «اللاءات الثلاث» في الأدبيات (لا تُلخص هنا).",
-        "he": "מקור ראשוני יחיד (נוסח Avalon). הפרשנויות של ״שלושת הלאווים״ שונות בספרות (אינן מסוכמות כאן).",
+        "en": "Sources: the resolution text (Avalon), Al Jazeera's Arabic encyclopedia (\"The fourth Arab summit was held in the Sudanese capital Khartoum between 29 August and 1 September 1967\"; \"the declaration of the three noes: no peace, no negotiation and no recognition of Israel\") and a contemporary JTA report of the Israeli cabinet's reaction (Prime Minister Eshkol called the summit \"irresponsible\"). Interpretations of the \"three noes\" differ in the literature (not summarised here).",
+        "ar": "المصادر: نص القرار (Avalon)، وموسوعة الجزيرة العربية (“عُقدت القمة العربية الرابعة في العاصمة السودانية الخرطوم بين 29 آب/أغسطس و1 أيلول/سبتمبر 1967”؛ “إعلان اللاءات الثلاث: لا صلح ولا تفاوض ولا اعتراف بإسرائيل”)، وتقرير معاصر لـ JTA عن ردّ فعل مجلس الوزراء الإسرائيلي (وصف رئيس الوزراء إشكول القمة بأنها “غير مسؤولة”). وتختلف تفسيرات “اللاءات الثلاث” في الأدبيات (لا تُلخَّص هنا).",
+        "he": "מקורות: נוסח ההחלטה (Avalon), האנציקלופדיה הערבית של אל-ג'זירה (“הפסגה הערבית הרביעית התקיימה בבירת סודאן חרטום בין 29 באוגוסט ל-1 בספטמבר 1967”; “הכרזת שלושת הלאווים: לא לשלום, לא למשא ומתן ולא להכרה בישראל”) ודיווח עכשווי של JTA על תגובת ממשלת ישראל (ראש הממשלה אשכול כינה את הפסגה “חסרת אחריות”). פרשנויות ל“שלושת הלאווים” שונות בספרות (לא מסוכמות כאן).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9791,6 +9882,16 @@
           "ref": "un-s-res-338-1973",
           "locator": "adoption note (PDF/OCR text; quote normalised for OCR, hyphenation and ligature errors)",
           "quote": "Adopted at the 1747th meeting by 14 votes to none"
+        },
+        {
+          "ref": "jta-1998-09-20-yom-kippur-war-timeline",
+          "locator": "timeline entry for 22 October 1973",
+          "quote": "The United Nations adopts Security Council Resolution 338, which calls for an immediate cease-fire, the implementation of Security Resolution 242"
+        },
+        {
+          "ref": "jta-1998-09-20-yom-kippur-war-timeline",
+          "locator": "timeline entry for 23 October 1973",
+          "quote": "Fighting continues despite the cease-fire."
         }
       ],
       "notes": {
@@ -9917,12 +10018,27 @@
           "ref": "un-dpr-origins-part2",
           "locator": "Part II, quoting the Israeli reply (A/PV.2283)",
           "quote": "concerned primarily not with the realization of the rights of the Palestinians, but with the annulment of the rights of the Jewish people."
+        },
+        {
+          "ref": "jta-1974-11-14-palestine-debate-tekoah",
+          "locator": "Daily News Bulletin 14 Nov 1974, p. 1 (dispatch datelined United Nations, Nov. 13)",
+          "quote": "The first speaker today was Yasir Arafat, head of the PLO, who spoke for more than an hour"
+        },
+        {
+          "ref": "jta-1974-11-14-palestine-debate-tekoah",
+          "locator": "same dispatch",
+          "quote": "He said he had come to the UN “bearing an olive branch and a freedom fighter’s gun. Do not let the olive branch fall from my hand.”"
+        },
+        {
+          "ref": "jta-1974-11-14-palestine-debate-tekoah",
+          "locator": "same dispatch",
+          "quote": "that Israel would not recognize the Palestine Liberation Organization"
         }
       ],
       "notes": {
-        "en": "Speech record: A/PV.2282 (not opened directly; quoted via the UN study). In October 1974 the General Assembly had invited the PLO to participate in the plenary debate on the question of Palestine (resolution 3210 (XXIX), 105 votes to 4, per the UN study).",
-        "ar": "سجل الخطاب: A/PV.2282 (لم يُفتح مباشرة؛ مقتبس عبر دراسة الأمم المتحدة). وفي تشرين الأول/أكتوبر 1974 دعت الجمعية العامة منظمة التحرير إلى المشاركة في المناقشة العامة حول مسألة فلسطين (القرار 3210 (XXIX)، 105 أصوات مقابل 4، بحسب دراسة الأمم المتحدة).",
-        "he": "רשומת הנאום: A/PV.2282 (לא נפתחה ישירות; מצוטטת דרך מחקר האו״ם). באוקטובר 1974 הזמינה העצרת הכללית את אש״ף להשתתף בדיון במליאה בשאלת פלשתינה (החלטה 3210 (XXIX), 105 קולות מול 4, לפי מחקר האו״ם).",
+        "en": "Speech record: A/PV.2282 (not opened directly; quoted via the UN study). In October 1974 the General Assembly had invited the PLO to participate in the plenary debate on the question of Palestine (resolution 3210 (XXIX), 105 votes to 4, per the UN study). A contemporary JTA dispatch dated 13 November 1974 confirms the day, the \"olive branch\" passage and the reply of Israel's ambassador Yosef Tekoah, and reports that the Israeli delegation boycotted the opening session.",
+        "ar": "سجل الخطاب: A/PV.2282 (لم يُطلع عليه مباشرة؛ مقتبس عبر دراسة الأمم المتحدة). في تشرين الأول/أكتوبر 1974 دعت الجمعية العامة منظمة التحرير الفلسطينية إلى المشاركة في المناقشة العامة بشأن قضية فلسطين (القرار 3210 (XXIX)، بأغلبية 105 أصوات مقابل 4، بحسب دراسة الأمم المتحدة). وتؤكد برقية معاصرة لـ JTA مؤرخة 13 تشرين الثاني/نوفمبر 1974 اليوم، ومقطع “غصن الزيتون”، وردّ سفير إسرائيل يوسف تكوع، وتفيد بأن الوفد الإسرائيلي قاطع الجلسة الافتتاحية.",
+        "he": "רשומת הנאום: A/PV.2282 (לא נפתח ישירות; מצוטט באמצעות מחקר האו״ם). באוקטובר 1974 הזמינה העצרת הכללית את אש״ף להשתתף בדיון המליאה בשאלת פלסטין (החלטה 3210 (XXIX), 105 קולות מול 4, לפי מחקר האו״ם). משלוח עכשווי של JTA מ-13 בנובמבר 1974 מאשר את היום, את קטע “ענף הזית” ואת תשובת שגריר ישראל יוסף תקוע, ומדווח שהמשלחת הישראלית החרימה את המושב הפותח.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10105,12 +10221,22 @@
           "ref": "palquest-bashir-land-day",
           "locator": "essay",
           "quote": "Despite these repressive measures, the strike was total in most Arab towns and villages."
+        },
+        {
+          "ref": "jta-1988-03-31-land-day-observed",
+          "locator": "report of 31 March 1988, background paragraph",
+          "quote": "Land Day marks the 12th anniversary of Palestinian protests against the expropriation of Arab-owned lands in Galilee by the IDF."
+        },
+        {
+          "ref": "jta-1999-02-12-sakhnin-water-project",
+          "locator": "article text",
+          "quote": "On March 30, 1976, Sakhnin was one of the sites for protests against government plans to expropriate Arab-owned land in the Galilee."
         }
       ],
       "notes": {
-        "en": "Recorded here as a political event (strike and protest), not as a conflict; casualty figures are intentionally omitted (see palquest for names of those killed). Only a Palestinian-perspective source (palquest, Bashir) was opened; an Israeli official or press account was not found within this research session, so the Israeli government’s framing of the land measures is not documented here.",
-        "ar": "مسجل هنا حدثًا سياسيًا (إضراب واحتجاج) لا نزاعًا؛ وأرقام الضحايا محذوفة عمدًا (انظر palquest لأسماء القتلى). لم يُفتح إلا مصدر من منظور فلسطيني (palquest، بشير)؛ ولم يُعثر خلال جلسة البحث هذه على رواية رسمية أو صحفية إسرائيلية، لذا فتأطير الحكومة الإسرائيلية لإجراءات الأراضي غير موثق هنا.",
-        "he": "רשום כאן כאירוע מדיני (שביתה והפגנה) ולא כסכסוך; נתוני נפגעים הושמטו בכוונה (ראו palquest לשמות ההרוגים). נפתח רק מקור מנקודת מבט פלסטינית (palquest, בשיר); תיאור ישראלי רשמי או עיתונאי לא נמצא במהלך מושב מחקר זה, ולכן ההצגה של ממשלת ישראל את צעדי הקרקע אינה מתועדת כאן.",
+        "en": "Recorded here as a political event (strike and protest), not as a conflict; casualty figures are intentionally omitted (see palquest for names of those killed). Sources: palquest (Bashir, Palestinian) and two later JTA reports (1988, 1999) that independently give the date and the land-expropriation background. A contemporary (1976) Israeli official account was not found, so the Israeli government’s framing of the land measures is not documented here.",
+        "ar": "سُجّل هنا بوصفه حدثًا سياسيًا (إضراب واحتجاج) وليس نزاعًا؛ وحُذفت أعداد الضحايا عمدًا (انظر palquest لأسماء القتلى). المصادر: palquest (بشير، فلسطيني) وتقريران لاحقان لـ JTA (1988، 1999) يذكران بصورة مستقلة التاريخ وخلفية مصادرة الأراضي. لم يُعثر على رواية رسمية إسرائيلية معاصرة (1976)، لذا فإن تأطير الحكومة الإسرائيلية لإجراءات الأراضي غير موثق هنا.",
+        "he": "נרשם כאן כאירוע פוליטי (שביתה והפגנה), לא כסכסוך; נתוני נפגעים הושמטו במכוון (לשמות ההרוגים ראו palquest). מקורות: palquest (בשיר, פלסטיני) ושני דיווחים מאוחרים של JTA (1988, 1999) הנותנים באופן עצמאי את התאריך ואת רקע הפקעת הקרקעות. תיאור רשמי ישראלי עכשווי (1976) לא נמצא, ולכן מסגור הממשלה הישראלית לצעדי הקרקע אינו מתועד כאן.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10621,6 +10747,16 @@
           "ref": "kinghussein-1988-disengagement",
           "locator": "speech",
           "quote": "we respect the wish of the PLO, the sole and legitimate representative of the Palestinian people, to secede from us as an independent Palestinian state."
+        },
+        {
+          "ref": "csm-1988-08-01-hussein-west-bank",
+          "locator": "article of 1 August 1988",
+          "quote": "The King officially announced the measures in a speech yesterday, which went to great measures to defer that role to the PLO."
+        },
+        {
+          "ref": "csm-1988-08-01-hussein-west-bank",
+          "locator": "same article",
+          "quote": "Hussein said he was cutting legal and administrative ties."
         }
       ],
       "notes": {
@@ -10748,6 +10884,21 @@
           "ref": "un-dpr-origins-part4",
           "locator": "same section",
           "quote": "welcomed by the majority of delegations attending the General Assembly session in Geneva"
+        },
+        {
+          "ref": "un-a-res-43-177-unispal",
+          "locator": "operative para. 3",
+          "quote": "Decides that, effective as of 15 December 1988, the designation \"Palestine\" should be used in place of the designation \"Palestine Liberation Organization\" in the United Nations system"
+        },
+        {
+          "ref": "un-a-res-43-177-unispal",
+          "locator": "recorded vote",
+          "quote": "RECORDED VOTE ON RESOLUTION 43/177: 104-2-36"
+        },
+        {
+          "ref": "un-a-res-43-177-unispal",
+          "locator": "recorded vote",
+          "quote": "Against : Israel, United States."
         }
       ],
       "notes": {
@@ -11251,6 +11402,16 @@
           "ref": "un-a-49-300",
           "locator": "annex, section B, para. 3",
           "quote": "Israel respects the present special role of the Hashemite Kingdom of Jordan in Muslim holy shrines in Jerusalem."
+        },
+        {
+          "ref": "jta-1994-07-27-israelis-hopeful-jordan-accord",
+          "locator": "Daily News Bulletin 27 July 1994",
+          "quote": "Israelis didn’t miss a beat on Monday as Prime Minister Yitzhak Rabin and Jordan’s King Hussein signed a declaration of non-belligerency."
+        },
+        {
+          "ref": "jta-1994-07-27-israelis-hopeful-jordan-accord",
+          "locator": "same report",
+          "quote": "At 5 p.m. Israel time, when the proceedings in Washington were broadcast live"
         }
       ],
       "notes": {
@@ -11302,12 +11463,37 @@
           "ref": "un-a-50-73",
           "locator": "cover letter, p. 1",
           "quote": "signed by the two States at the Arava/Araba crossing-point on 26 October 1994, and witnessed by the United States of America and the Russian Federation"
+        },
+        {
+          "ref": "jta-1994-10-27-israel-jordan-sign-treaty",
+          "locator": "Daily News Bulletin 27 October 1994",
+          "quote": "Beneath a burning midday desert sun, on a hastily constructed plaza that had only weeks ago been a minefield, Israel and Jordan made peace Wednesday."
+        },
+        {
+          "ref": "jta-1994-10-27-israel-jordan-sign-treaty",
+          "locator": "same report",
+          "quote": "The site, in the Arava desert straddling the Israeli-Jordanian border"
+        },
+        {
+          "ref": "jta-1994-10-27-israel-jordan-sign-treaty",
+          "locator": "same report",
+          "quote": "The treaty, which was also initialed by Israeli Foreign Minister Shimon Peres, U.S. Secretary of State Warren Christopher and Russian Foreign Minister Andrei Kozyrev"
+        },
+        {
+          "ref": "jta-2001-11-21-timeline-arab-israeli-peace",
+          "locator": "timeline",
+          "quote": "culminating in the signing of a peace treaty on Oct. 26, 1994."
+        },
+        {
+          "ref": "jta-1994-10-27-israel-jordan-sign-treaty",
+          "locator": "same report",
+          "quote": "Israeli Prime Minister Yitzhak Rabin and Jordanian Prime Minister Abdul Salam al-Majali signed a peace treaty in the presence of some 5,000 spectators, with President Clinton acting as witness."
         }
       ],
       "notes": {
-        "en": "The cover letter was jointly signed by the permanent representatives of Israel, Jordan, the Russian Federation and the United States. The crossing is called Arava (Hebrew) / Wadi Araba (Arabic); coordinates are those of the Wadi Araba/Yitzhak Rabin border crossing.",
-        "ar": "وقّع الرسالة المرافقة مشتركين المندوبون الدائمون لإسرائيل والأردن والاتحاد الروسي والولايات المتحدة. يسمى المعبر عربا (بالعبرية) / وادي عربة (بالعربية)؛ والإحداثيات إحداثيات معبر وادي عربة/يتسحاق رابين.",
-        "he": "מכתב הלוואי נחתם במשותף בידי הנציגים הקבועים של ישראל, ירדן, הפדרציה הרוסית וארצות הברית. המעבר נקרא ערבה (בעברית) / וואדי עראבה (בערבית); הקואורדינטות הן של מעבר ערבה/יצחק רבין.",
+        "en": "The cover letter was jointly signed by the permanent representatives of Israel, Jordan, the Russian Federation and the United States. The crossing is called Arava (Hebrew) / Wadi Araba (Arabic); coordinates are those of the Wadi Araba/Yitzhak Rabin border crossing. JTA reports that the treaty was signed by Prime Ministers Yitzhak Rabin and Abdul Salam al-Majali in the presence of King Hussein, with President Clinton as witness, and initialled by the US and Russian foreign ministers.",
+        "ar": "وُقّعت الرسالة المرفقة بصورة مشتركة من المندوبين الدائمين لإسرائيل والأردن والاتحاد الروسي والولايات المتحدة. يُسمّى المعبر عربة (بالعبرية) / وادي عربة (بالعربية)؛ والإحداثيات هي إحداثيات معبر وادي عربة/يتسحاق رابين الحدودي. وتفيد JTA بأن المعاهدة وقّعها رئيسا الوزراء يتسحاق رابين وعبد السلام المجالي بحضور الملك حسين، مع الرئيس كلينتون شاهدًا، وأن وزيري خارجية الولايات المتحدة وروسيا وضعا عليها الأحرف الأولى.",
+        "he": "מכתב הלוואי נחתם במשותף על ידי הנציגים הקבועים של ישראל, ירדן, הפדרציה הרוסית וארצות הברית. המעבר נקרא ערבה (בעברית) / ואדי עראבה (בערבית); הקואורדינטות הן של מעבר הגבול ערבה/ואדי עראבה–יצחק רבין. JTA מדווח שההסכם נחתם על ידי ראשי הממשלה יצחק רבין ועבד אל-סלאם אל-מג'אלי בנוכחות המלך חוסיין, כשהנשיא קלינטון עד, ושהוא מוסמך בראשי תיבות על ידי שרי החוץ של ארצות הברית ורוסיה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11655,6 +11841,16 @@
           "ref": "un-dpr-origins-part5",
           "locator": "ch. III.G",
           "quote": "On 4 September 1999, Prime Minister Barak of Israel and Palestinian Authority President Arafat ended more than eight months of stalemate in the peace process by signing the Sharm el-Sheikh Memorandum"
+        },
+        {
+          "ref": "jta-2001-11-21-timeline-arab-israeli-peace",
+          "locator": "timeline",
+          "quote": "On Sept. 4, 1999, Barak and Arafat signed the Sharm el-Sheik Memorandum, restating the sides’ commitment to implement all agreements reached since September 1993."
+        },
+        {
+          "ref": "jta-2001-11-21-timeline-arab-israeli-peace",
+          "locator": "timeline",
+          "quote": "The agreement formed a kind of bridge between the completion of the interim period and the start of final-status negotiations on Sept. 13, 1999."
         }
       ],
       "notes": {
@@ -11875,12 +12071,42 @@
           "ref": "un-a-56-1026",
           "locator": "resolution 14/221, para. 3 (b)",
           "quote": "Establish normal relations with Israel in the context of this comprehensive peace"
+        },
+        {
+          "ref": "rferl-2002-03-28-beirut-summit",
+          "locator": "report datelined Prague, 28 March 2002",
+          "quote": "The Arab League today restored order to what mostly had been a chaotic two-day summit in Beirut by unanimously endorsing a Saudi proposal for restarting the Mideast peace process."
+        },
+        {
+          "ref": "rferl-2002-03-28-beirut-summit",
+          "locator": "same report",
+          "quote": "Abdullah, the de facto leader of Saudi Arabia, has proposed exchanging Israeli withdrawals from all Arab land captured in 1967 for Arab recognition of the Jewish state and the restoration of normal and peaceful relations."
+        },
+        {
+          "ref": "arabnews-2002-03-28-saudi-proposal",
+          "locator": "report datelined Beirut, 28 March 2002",
+          "quote": "the crown prince repeated his offer of full normalization of relations between the Arab world and the Jewish state for the return of all occupied Arab land"
+        },
+        {
+          "ref": "jta-2007-03-12-saudi-plan",
+          "locator": "article text",
+          "quote": "First approved by the Arab League in Beirut in 2002"
+        },
+        {
+          "ref": "jta-2007-03-12-saudi-plan",
+          "locator": "article text",
+          "quote": "Israel is demanding that the plan provide for a refugee return only to a future Palestinian state, not to Israel"
+        },
+        {
+          "ref": "arabnews-2002-03-28-saudi-proposal",
+          "locator": "report datelined Beirut, 28 March 2002",
+          "quote": "it ended on a positive note when the peace plan submitted by Crown Prince Abdullah was unanimously approved."
         }
       ],
       "notes": {
-        "en": "Presented by Crown Prince Abdullah of Saudi Arabia. The initiative also calls for \"a just and agreed solution\" to the refugee problem under UNGA resolution 194 (III). The PLO Negotiations Affairs Department later cited its conditions as the agreed Arab basis for any normalisation (see the Abraham Accords record). An Israeli government response is not covered by the sources opened here.",
-        "ar": "قدمها ولي عهد السعودية الأمير عبد الله. وتدعو المبادرة أيضًا إلى «a just and agreed solution» لمشكلة اللاجئين بموجب قرار الجمعية العامة 194 (III). وقد استشهدت دائرة شؤون المفاوضات في منظمة التحرير لاحقًا بشروطها بوصفها الأساس العربي المتفق عليه لأي تطبيع (انظر سجل اتفاقيات أبراهام). ولا تغطي المصادر المفتوحة هنا رد الحكومة الإسرائيلية.",
-        "he": "הוצגה בידי יורש העצר הסעודי הנסיך עבדאללה. היוזמה קוראת גם ל-«a just and agreed solution» לבעיית הפליטים לפי החלטת העצרת הכללית 194 (III). מחלקת ענייני המשא ומתן של אש״ף ציטטה מאוחר יותר את תנאיה כבסיס הערבי המוסכם לכל נורמליזציה (ראו רשומת הסכמי אברהם). תגובת ממשלת ישראל אינה מכוסה במקורות שנפתחו כאן.",
+        "en": "Presented by Crown Prince Abdullah of Saudi Arabia. The initiative also calls for \"a just and agreed solution\" to the refugee problem under UNGA resolution 194 (III). Arab News (Saudi) reports that the plan was unanimously approved at the end of the summit's first day (27 March); RFE/RL reports the summit's unanimous endorsement on 28 March. The PLO Negotiations Affairs Department later cited its conditions as the agreed Arab basis for any normalisation (see the Abraham Accords record). Israeli position: according to JTA (2007), Israel objected to the plan's ambiguity on a Palestinian \"right of return\" and demanded that any refugee return be only to a future Palestinian state; an official Israeli statement of March 2002 was not opened.",
+        "ar": "قدّمها ولي العهد السعودي الأمير عبد الله. وتدعو المبادرة أيضًا إلى “حل عادل ومتفق عليه” لمشكلة اللاجئين وفق قرار الجمعية العامة 194 (III). وتفيد Arab News (السعودية) بأن الخطة أُقرّت بالإجماع في نهاية اليوم الأول من القمة (27 آذار/مارس)؛ وتفيد RFE/RL بإجماع القمة على تأييدها في 28 آذار/مارس. وقد استشهدت دائرة شؤون المفاوضات في منظمة التحرير الفلسطينية لاحقًا بشروطها بوصفها الأساس العربي المتفق عليه لأي تطبيع (انظر سجل اتفاقات أبراهام). الموقف الإسرائيلي: بحسب JTA (2007)، اعترضت إسرائيل على غموض الخطة بشأن “حق العودة” الفلسطيني وطالبت بأن تقتصر أي عودة للاجئين على دولة فلسطينية مستقبلية؛ ولم يُطلع على بيان إسرائيلي رسمي صادر في آذار/مارس 2002.",
+        "he": "הוצגה על ידי יורש העצר הסעודי עבדאללה. היוזמה קוראת גם ל“פתרון צודק ומוסכם” לבעיית הפליטים לפי החלטת העצרת הכללית 194 (III). Arab News (סעודי) מדווח שהתוכנית אושרה פה אחד בסוף היום הראשון של הפסגה (27 במרץ); RFE/RL מדווח על תמיכה פה אחד של הפסגה ב-28 במרץ. מחלקת המשא ומתן של אש״ף ציטטה בהמשך את תנאיה כבסיס הערבי המוסכם לכל נורמליזציה (ראו רשומת הסכמי אברהם). עמדת ישראל: לפי JTA (2007), ישראל התנגדה לעמימות התוכנית בעניין “זכות השיבה” הפלסטינית ודרשה שכל שיבה של פליטים תהיה רק למדינה פלסטינית עתידית; הצהרה רשמית ישראלית ממרץ 2002 לא נפתחה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -12165,12 +12391,32 @@
           "ref": "cec-ps-presidential-election-2005",
           "locator": "page summary (Arabic)",
           "quote": "جرت انتخابات رئاسية في 9 كانون ثاني 2005، عقب وفاة الرئيس ياسر عرفات وتنافس فيها سبعة مرشحين، وفاز مرشح حركة فتح محمود عباس (أبو مازن) بنسبة 62% من الأصوات"
+        },
+        {
+          "ref": "eu-eom-2005-west-bank-gaza-presidential-final-report",
+          "locator": "executive summary, para. 1",
+          "quote": "The 9 January 2005 election for the president of the Palestinian Authority represented a genuine effort to conduct a regular electoral process."
+        },
+        {
+          "ref": "eu-eom-2005-west-bank-gaza-presidential-final-report",
+          "locator": "section on candidates and results",
+          "quote": "The official results from the CEC showed that Abbas secured some 62.5% of the vote, whilst Barghouti got 19.5%."
+        },
+        {
+          "ref": "eu-eom-2005-west-bank-gaza-presidential-final-report",
+          "locator": "same section",
+          "quote": "The final candidates (in ballot paper order) confirmed in the race were:"
+        },
+        {
+          "ref": "eu-eom-2005-west-bank-gaza-presidential-final-report",
+          "locator": "executive summary, para. 9",
+          "quote": "There was wide misuse of public resources in favour of Mahmoud Abbas"
         }
       ],
       "notes": {
-        "en": "Arabic quote translation: \"Presidential elections were held on 9 January 2005, after the death of President Yasser Arafat; seven candidates competed and the Fatah candidate Mahmoud Abbas (Abu Mazen) won 62% of the votes.\" No further presidential election had been held by October 2026 (see the 2026 election-decree record).",
-        "ar": "النصوص العربية الأصلية لهذه الاقتباسات معروضة في مصادر هذا السجل. ولم تُجرَ انتخابات رئاسية أخرى حتى تشرين الأول/أكتوبر 2026 (انظر سجل مرسوم انتخابات 2026).",
-        "he": "תרגום הציטוט בערבית: «Presidential elections were held on 9 January 2005, after the death of President Yasser Arafat; seven candidates competed and the Fatah candidate Mahmoud Abbas (Abu Mazen) won 62% of the votes.» עד אוקטובר 2026 לא נערכו בחירות נשיאותיות נוספות (ראו רשומת צו הבחירות של 2026).",
+        "en": "Arabic quote translation: \"Presidential elections were held on 9 January 2005, after the death of President Yasser Arafat; seven candidates competed and the Fatah candidate Mahmoud Abbas (Abu Mazen) won 62% of the votes.\" No further presidential election had been held by October 2026 (see the 2026 election-decree record). The EU Election Observation Mission lists seven candidates, gives the CEC result as about 62.5% for Abbas and 19.5% for Mustafa Barghouti, and judged the election \"a genuine effort to conduct a regular electoral process\" while noting difficult conditions under occupation and misuse of public resources in Abbas's favour. Hamas boycotted the election.",
+        "ar": "ترجمة الاقتباس العربي: “جرت الانتخابات الرئاسية في 9 كانون الثاني/يناير 2005، بعد وفاة الرئيس ياسر عرفات؛ وتنافس سبعة مرشحين وفاز مرشح فتح محمود عباس (أبو مازن) بنسبة 62% من الأصوات.” ولم تُجرَ أي انتخابات رئاسية أخرى حتى تشرين الأول/أكتوبر 2026 (انظر سجل مرسوم انتخابات 2026). وتورد بعثة الاتحاد الأوروبي لمراقبة الانتخابات سبعة مرشحين، وتعطي نتيجة لجنة الانتخابات المركزية بنحو 62.5% لعباس و19.5% لمصطفى البرغوثي، وقيّمت الانتخابات بأنها “جهد حقيقي لإجراء عملية انتخابية منتظمة”، مع الإشارة إلى الظروف الصعبة في ظل الاحتلال وإساءة استخدام الموارد العامة لمصلحة عباس. وقاطعت حماس الانتخابات.",
+        "he": "תרגום הציטוט הערבי: “הבחירות לנשיאות נערכו ב-9 בינואר 2005, לאחר מות הנשיא יאסר ערפאת; שבעה מועמדים התמודדו ומועמד הפתח מחמוד עבאס (אבו מאזן) זכה ב-62% מהקולות.” עד אוקטובר 2026 לא נערכו בחירות נוספות לנשיאות (ראו רשומת צו הבחירות של 2026). משלחת התצפית של האיחוד האירופי לבחירות מונה שבעה מועמדים, מציגה את תוצאת ועדת הבחירות המרכזית בכ-62.5% לעבאס ו-19.5% למוסטפא ברגותי, ושפטה את הבחירות כ“מאמץ אמיתי לקיים הליך בחירות סדיר”, תוך ציון התנאים הקשים תחת כיבוש ושימוש לרעה במשאבי ציבור לטובת עבאס. חמאס החרים את הבחירות.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13238,12 +13484,27 @@
           "ref": "icj-pr-2024-6",
           "locator": "measure 1",
           "quote": "By fifteen votes to two, The State of Israel shall... in relation to Palestinians in Gaza, take all measures within its power to prevent the commission of all acts within the scope of Article II"
+        },
+        {
+          "ref": "aljazeera-2024-01-26-world-reacts-icj",
+          "locator": "report of 26 January 2024",
+          "quote": "The top United Nations court in The Hague on Friday did not order a ceasefire in Gaza but told Israel to take measures to prevent and punish direct incitement of genocide in the besieged enclave."
+        },
+        {
+          "ref": "aljazeera-2024-01-26-world-reacts-icj",
+          "locator": "same report",
+          "quote": "Israel has also been ordered to allow humanitarian aid into Gaza and has been asked to report back to the court within a month"
+        },
+        {
+          "ref": "aljazeera-2024-01-26-world-reacts-icj",
+          "locator": "same report, reactions: Israel",
+          "quote": "Prime Minister Benjamin Netanyahu slammed the ruling as “outrageous”."
         }
       ],
       "notes": {
-        "en": "The order concerns provisional measures requested by South Africa pending the Court's decision in the case; South Africa asked the Court to protect the rights of Palestinians under the Genocide Convention. Judge Sebutinde and Israel's judge ad hoc Barak voted against the first measure. Israel's arguments in the proceedings are not quoted in the sources opened here.",
-        "ar": "يتعلق الأمر بتدابير مؤقتة طلبتها جنوب أفريقيا ريثما تبت المحكمة في القضية؛ وطلبت جنوب أفريقيا من المحكمة حماية حقوق الفلسطينيين بموجب اتفاقية منع الإبادة الجماعية. وصوّتت القاضية سيبوتيندي والقاضي الخاص الإسرائيلي باراك ضد التدبير الأول. ولا تُقتبس حجج إسرائيل في الإجراءات في المصادر المفتوحة هنا.",
-        "he": "הצו עוסק באמצעים זמניים שדרשה דרום אפריקה עד להכרעת בית הדין בתיק; דרום אפריקה ביקשה מבית הדין להגן על זכויות הפלסטינים לפי אמנת רצח העם. השופטת סבוטינדה והשופט אד הוק הישראלי ברק הצביעו נגד האמצעי הראשון. טיעוני ישראל בהליכים אינם מצוטטים במקורות שנפתחו כאן.",
+        "en": "The order concerns provisional measures requested by South Africa pending the Court's decision in the case; South Africa asked the Court to protect the rights of Palestinians under the Genocide Convention. Judge Sebutinde and Israel's judge ad hoc Barak voted against the first measure. The Court did not order a ceasefire (Al Jazeera). Israel's arguments in the proceedings are not quoted in the sources opened here; Prime Minister Netanyahu called the ruling \"outrageous\" and said Israel was fighting a \"just war\" (Al Jazeera).",
+        "ar": "يتعلق الأمر بتدابير مؤقتة طلبتها جنوب أفريقيا ريثما تفصل المحكمة في القضية؛ وطلبت جنوب أفريقيا من المحكمة حماية حقوق الفلسطينيين بموجب اتفاقية منع الإبادة الجماعية. وصوّتت القاضية سيبوتيندي والقاضي الخاص الذي عيّنته إسرائيل، باراك، ضد التدبير الأول. ولم تأمر المحكمة بوقف لإطلاق النار (الجزيرة). ولم تُقتبس حجج إسرائيل في الإجراءات في المصادر التي جرى الاطلاع عليها هنا؛ ووصف رئيس الوزراء نتنياهو القرار بأنه “شائن”، وقال إن إسرائيل تخوض “حربًا عادلة” (الجزيرة).",
+        "he": "הצו עוסק באמצעים זמניים שדרשה דרום אפריקה עד להכרעת בית המשפט בתיק; דרום אפריקה ביקשה מבית המשפט להגן על זכויות הפלסטינים לפי אמנת האו״ם למניעת רצח עם. השופטת סבוטינדה והשופט האד הוק של ישראל, ברק, הצביעו נגד האמצעי הראשון. בית המשפט לא הורה על הפסקת אש (אל-ג'זירה). טענות ישראל בהליכים אינן מצוטטות במקורות שנפתחו כאן; ראש הממשלה נתניהו כינה את פסק הדין “מקומם” ואמר שישראל נלחמת ב“מלחמת צדק” (אל-ג'זירה).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13350,12 +13611,27 @@
           "ref": "unga-res-es-10-24",
           "locator": "para. 2",
           "quote": "and do so no later than 12 months from the adoption of the present resolution"
+        },
+        {
+          "ref": "malaymail-afp-2024-09-19-unga-occupation-vote",
+          "locator": "AFP report datelined United Nations, 19 September 2024",
+          "quote": "UN member states voted yesterday to formally demand an end to the Israeli occupation of the Palestinian territories within 12 months"
+        },
+        {
+          "ref": "malaymail-afp-2024-09-19-unga-occupation-vote",
+          "locator": "same report",
+          "quote": "It calls for a withdrawal “no later than 12 months” from the resolution’s adoption."
+        },
+        {
+          "ref": "malaymail-afp-2024-09-19-unga-occupation-vote",
+          "locator": "same report",
+          "quote": "“This is what cynical international politics looks like,” foreign ministry spokesman Oren Marmorstein said on X."
         }
       ],
       "notes": {
-        "en": "For Israel's position on the underlying advisory opinion see the Netanyahu statement in the 2024 advisory-opinion record. The 12-month deadline fell in September 2025.",
-        "ar": "لموقف إسرائيل من الرأي الاستشاري الأساسي انظر بيان نتنياهو في سجل الرأي الاستشاري لعام 2024. وانتهى الموعد النهائي البالغ 12 شهرًا في أيلول/سبتمبر 2025.",
-        "he": "לעמדת ישראל בנוגע לחוות הדעת המייעצת שבבסיס ראו את הצהרת נתניהו ברשומת חוות הדעת המייעצת של 2024. המועד האחרון בן 12 החודשים חל בספטמבר 2025.",
+        "en": "For Israel's position on the underlying advisory opinion see the Netanyahu statement in the 2024 advisory-opinion record. The 12-month deadline fell in September 2025. Israel's foreign ministry rejected the resolution, its spokesman calling it \"cynical international politics\" (AFP). The resolution is non-binding.",
+        "ar": "لموقف إسرائيل من الرأي الاستشاري الذي يستند إليه القرار، انظر تصريح نتنياهو في سجل الرأي الاستشاري لعام 2024. وانقضت المهلة البالغة 12 شهرًا في أيلول/سبتمبر 2025. ورفضت وزارة الخارجية الإسرائيلية القرار، ووصف المتحدث باسمها إياه بأنه “سياسة دولية ساخرة” (AFP). والقرار غير ملزم.",
+        "he": "לעמדת ישראל בעניין חוות הדעת המייעצת שביסוד ההחלטה ראו את הצהרת נתניהו ברשומת חוות הדעת המייעצת של 2024. מועד היעד של 12 החודשים חל בספטמבר 2025. משרד החוץ הישראלי דחה את ההחלטה, ודוברו כינה אותה “פוליטיקה בינלאומית צינית” (AFP). ההחלטה אינה מחייבת.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13479,12 +13755,27 @@
           "ref": "icc-pr-2024-11-21",
           "locator": "decisions on requests by Israel",
           "quote": "Israel challenged the Court’s jurisdiction over the Situation in the State of Palestine in general, and over Israeli nationals more specifically"
+        },
+        {
+          "ref": "cbc-2024-11-21-icc-warrants",
+          "locator": "report of 21 November 2024",
+          "quote": "The International Criminal Court (ICC) on Thursday issued arrest warrants for Israel's Prime Minister Benjamin Netanyahu and former defence minister Yoav Gallant for alleged crimes against humanity and war crimes"
+        },
+        {
+          "ref": "cbc-2024-11-21-icc-warrants",
+          "locator": "same report",
+          "quote": "Netanyahu's office called the ruling \"antisemitic,\" in a statement, adding that Israel \"categorically rejects the absurd and false lies\" of the ICC."
+        },
+        {
+          "ref": "cbc-2024-11-21-icc-warrants",
+          "locator": "same report",
+          "quote": "An arrest warrant was also issued for Hamas official Mohammed Diab Ibrahim Al-Masri, also known as Mohammed Deif"
         }
       ],
       "notes": {
-        "en": "Israel contests the Court's jurisdiction; the Chamber held that Israel's acceptance is not required because the Court can rely on Palestine's territorial jurisdiction. Israeli government reaction statements were not retrieved for this record.",
-        "ar": "تطعن إسرائيل في اختصاص المحكمة؛ ورأت الدائرة أن قبول إسرائيل غير مطلوب لأن المحكمة يمكنها الاعتماد على الاختصاص الإقليمي لفلسطين. ولم تُستخرج بيانات ردود الفعل الحكومية الإسرائيلية لهذا السجل.",
-        "he": "ישראל חולקת על סמכות בית הדין; המותב קבע שהסכמת ישראל אינה נדרשת משום שבית הדין יכול להסתמך על הסמכות הטריטוריאלית של פלסטין. הצהרות תגובה של ממשלת ישראל לא אותרו לרשומה זו.",
+        "en": "Israel contests the Court's jurisdiction; the Chamber held that Israel's acceptance is not required because the Court can rely on Palestine's territorial jurisdiction. Netanyahu's office called the ruling \"antisemitic\" and said Israel \"categorically rejects the absurd and false lies\" of the ICC (CBC News). A warrant was also issued for the Hamas military commander Mohammed Deif.",
+        "ar": "تعترض إسرائيل على اختصاص المحكمة؛ وقضت الدائرة بأن قبول إسرائيل غير مطلوب لأن المحكمة تستطيع الاعتماد على الولاية الإقليمية لفلسطين. ووصف مكتب نتنياهو القرار بأنه “معادٍ للسامية” وقال إن إسرائيل “ترفض رفضًا قاطعًا الأكاذيب السخيفة والزائفة” الصادرة عن المحكمة الجنائية الدولية (CBC News). كما صدرت مذكرة توقيف بحق القائد العسكري لحماس محمد الضيف.",
+        "he": "ישראל חולקת על סמכות בית הדין; ההרכב קבע שאין צורך בהסכמת ישראל משום שבית הדין יכול להסתמך על הסמכות הטריטוריאלית של פלסטין. לשכת נתניהו כינתה את ההחלטה “אנטישמית” ואמרה שישראל “דוחה מכל וכל את השקרים האבסורדיים והכוזבים” של בית הדין הפלילי הבינלאומי (CBC News). צו מעצר הוצא גם נגד המפקד הצבאי של חמאס מוחמד דף.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13586,12 +13877,22 @@
           "ref": "nad-vp-hussein-al-sheikh",
           "locator": "biography",
           "quote": "In April 2025, he was appointment as Vice President of the State of Palestine and as Vice Chairman of the Executive Committee of the Palestine Liberation Organization, after the convention of the Central Council"
+        },
+        {
+          "ref": "aljazeera-2025-04-26-plo-deputy",
+          "locator": "report of 26 April 2025",
+          "quote": "Hussein al-Sheikh was named “deputy [vice president] of the PLO leadership,” Wasel Abu Yousef, a member of the PLO’s Executive Committee, said on Saturday."
+        },
+        {
+          "ref": "aljazeera-2025-04-26-plo-deputy",
+          "locator": "same report",
+          "quote": "Abbas, 89, created the vice presidency position during the 32nd session of the Palestinian Central Council in Ramallah earlier this week."
         }
       ],
       "notes": {
-        "en": "Quote reproduces the source's wording (\"was appointment\"). The same page says he was elected Vice Chairman of Fatah in June 2026 and heads the PLO Negotiations Affairs Department. Exact day of appointment not given (month precision).",
-        "ar": "يعيد الاقتباس صياغة المصدر («was appointment»). وتقول الصفحة نفسها إنه انتُخب نائبًا لرئيس حركة فتح في حزيران/يونيو 2026 ويرأس دائرة شؤون المفاوضات في منظمة التحرير. لم يُذكر يوم التعيين الدقيق (دقة الشهر).",
-        "he": "הציטוט משחזר את הניסוח של המקור («was appointment»). אותו דף אומר שנבחר לסגן יושב ראש תנועת פתח ביוני 2026 ועומד בראש מחלקת ענייני המשא ומתן של אש״ף. יום המינוי המדויק אינו ניתן (דיוק של חודש).",
+        "en": "Quote reproduces the source's wording (\"was appointment\"). The same page says he was elected Vice Chairman of Fatah in June 2026 and heads the PLO Negotiations Affairs Department. Al Jazeera reports that the post was created at the 32nd session of the PLO Central Council in Ramallah earlier in the week and that the appointment was announced on Saturday 26 April 2025; the record keeps month precision because it covers both steps.",
+        "ar": "يعيد الاقتباس صياغة المصدر الحرفية (“was appointment”). وتقول الصفحة نفسها إنه انتُخب نائبًا لرئيس حركة فتح في حزيران/يونيو 2026 وإنه يرأس دائرة شؤون المفاوضات في منظمة التحرير الفلسطينية. وتفيد الجزيرة بأن المنصب أُنشئ في الدورة 32 للمجلس المركزي لمنظمة التحرير الفلسطينية في رام الله في وقت سابق من الأسبوع، وأن التعيين أُعلن يوم السبت 26 نيسان/أبريل 2025؛ ويكتفي السجل بدقة الشهر لأنه يغطي الخطوتين معًا.",
+        "he": "הציטוט משחזר את הניסוח של המקור (“was appointment”). אותו עמוד אומר שנבחר לסגן יושב ראש הפתח ביוני 2026 ושהוא עומד בראש מחלקת המשא ומתן של אש״ף. אל-ג'זירה מדווח שהתפקיד הוקם במושב ה-32 של המועצה המרכזית של אש״ף ברמאללה מוקדם יותר באותו שבוע, ושהמינוי הוכרז בשבת 26 באפריל 2025; הרשומה שומרת על דיוק ברמת החודש משום שהיא מכסה את שני השלבים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13637,12 +13938,22 @@
           "ref": "unsc-res-2790-2025",
           "locator": "para. 1",
           "quote": "Decides to extend for a final time the mandate of UNIFIL... until 31 December 2026 and to start an orderly and safe drawdown and withdrawal from 31 December 2026 and within one year"
+        },
+        {
+          "ref": "aljazeera-2025-08-28-unifil-vote",
+          "locator": "report of 28 August 2025",
+          "quote": "The United Nations Security Council has voted to extend the UN peacekeeping mission in southern Lebanon until the end of 2026 but to then terminate the mission in an “orderly and safe drawdown and withdrawal” over the following year."
+        },
+        {
+          "ref": "medialine-2025-08-29-unifil-mandate",
+          "locator": "report of 29 August 2025",
+          "quote": "The United Nations Security Council voted unanimously Thursday to extend the mandate of the UN Interim Force in Lebanon (UNIFIL) until December 31, 2026"
         }
       ],
       "notes": {
-        "en": "UNIFIL has been deployed in southern Lebanon since 1978. The resolution reaffirms resolution 1701 (2006) and the Blue Line.",
-        "ar": "تنتشر اليونيفيل في جنوب لبنان منذ 1978. ويؤكد القرار من جديد القرار 1701 (2006) والخط الأزرق.",
-        "he": "אונדי״פ פרוסה בדרום לבנון מאז 1978. ההחלטה מאשרת מחדש את החלטה 1701 (2006) ואת הקו הכחול.",
+        "en": "UNIFIL has been deployed in southern Lebanon since 1978. The resolution reaffirms resolution 1701 (2006) and the Blue Line. Adopted unanimously (Al Jazeera; The Media Line).",
+        "ar": "تنتشر اليونيفيل في جنوب لبنان منذ عام 1978. ويؤكد القرار من جديد القرار 1701 (2006) والخط الأزرق. اعتُمد بالإجماع (الجزيرة؛ The Media Line).",
+        "he": "יוניפי״ל פרוסה בדרום לבנון מאז 1978. ההחלטה מאשרת מחדש את החלטה 1701 (2006) ואת הקו הכחול. התקבלה פה אחד (אל-ג'זירה; The Media Line).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -14107,6 +14418,16 @@
           "ref": "ocha-hsu-357",
           "locator": "key highlights",
           "quote": "Rafah Crossing reopened for limited movement of people for the first time in nearly 11 months"
+        },
+        {
+          "ref": "npr-ap-2026-02-02-rafah-reopens",
+          "locator": "AP report datelined Cairo, 2 February 2026",
+          "quote": "Gaza's Rafah border crossing with Egypt reopened on Monday for limited traffic, a key step as the Israeli-Hamas ceasefire moves ahead, according to Egyptian and Israeli security officials."
+        },
+        {
+          "ref": "npr-ap-2026-02-02-rafah-reopens",
+          "locator": "same report",
+          "quote": "Few people will be allowed to travel in either direction, and no goods will be allowed to enter."
         }
       ],
       "notes": {
@@ -14174,12 +14495,27 @@
           "ref": "npr-2026-02-16-land-registration",
           "locator": "Palestinian position",
           "quote": "\"a grave escalation and a flagrant violation of international law,\" which amounts to \"de facto annexation.\""
+        },
+        {
+          "ref": "unispal-2026-02-16-sg-land-registration",
+          "locator": "statement of 16 February 2026",
+          "quote": "The Secretary-General condemns the Israeli Government’s 15 February decision to resume land registration procedures in Area C of the occupied West Bank, following a cabinet decision in May 2025."
+        },
+        {
+          "ref": "peacenow-2026-land-registration-decision",
+          "locator": "analysis page",
+          "quote": "The government approved today the allocation of NIS 244.1 million over the coming years to establish a mechanism for land registration and settlement procedures in Area C of the West Bank."
+        },
+        {
+          "ref": "peacenow-2026-land-registration-decision",
+          "locator": "same page",
+          "quote": "The government decision sets a target of completing settlement procedures for 15% of the unregistered land in Area C within five years."
         }
       ],
       "notes": {
-        "en": "Israel's Foreign Ministry said the PA had itself been advancing land registration in Area C in breach of agreements; Justice Minister Yariv Levin said the decision expressed the government's commitment to \"strengthening its grip on all its parts\". The PA presidency and Jordan condemned it; Peace Now called it a likely \"mega land grab\". (All per AP/NPR, 16 Feb 2026; decision taken Sunday 15 Feb 2026.)",
-        "ar": "قالت وزارة الخارجية الإسرائيلية إن السلطة الفلسطينية نفسها كانت تدفع بتسجيل الأراضي في المنطقة ج بما يخالف الاتفاقات؛ وقال وزير العدل ياريف لفين إن القرار يعبر عن التزام الحكومة بـ «strengthening its grip on all its parts». وأدانته رئاسة السلطة الفلسطينية والأردن؛ ووصفته حركة السلام الآن بأنه على الأرجح «mega land grab». (كله بحسب AP/NPR، 16 شباط/فبراير 2026؛ والقرار اتخذ يوم الأحد 15 شباط/فبراير 2026.)",
-        "he": "משרד החוץ הישראלי אמר שהרשות הפלסטינית עצמה קידמה רישום קרקעות בשטח C בניגוד להסכמים; שר המשפטים יריב לוין אמר שההחלטה מבטאת את מחויבות הממשלה ל-«strengthening its grip on all its parts». נשיאות הרשות הפלסטינית וירדן גינו אותה; שלום עכשיו כינתה אותה סביר שהיא «mega land grab». (הכול לפי AP/NPR, 16 בפברואר 2026; ההחלטה התקבלה ביום ראשון 15 בפברואר 2026.)",
+        "en": "Israel's Foreign Ministry said the PA had itself been advancing land registration in Area C in breach of agreements; Justice Minister Yariv Levin said the decision expressed the government's commitment to \"strengthening its grip on all its parts\". The PA presidency and Jordan condemned it; Peace Now called it a likely \"mega land grab\". (All per AP/NPR, 16 Feb 2026; decision taken Sunday 15 Feb 2026.) The UN Secretary-General condemned the 15 February decision on 16 February 2026. Peace Now (Israeli NGO) summarises the decision: a land-title settlement administration under Israel's Ministry of Justice, a budget of NIS 244.1 million and a target of settling 15% of the unregistered land in Area C within five years.",
+        "ar": "قالت وزارة الخارجية الإسرائيلية إن السلطة الفلسطينية نفسها كانت تدفع قدمًا بتسجيل الأراضي في المنطقة ج بما يخالف الاتفاقات؛ وقال وزير العدل ياريف ليفين إن القرار يعبّر عن التزام الحكومة بـ“تعزيز قبضتها على جميع أجزائها”. وأدانته رئاسة السلطة الفلسطينية والأردن؛ ووصفته حركة السلام الآن بأنه على الأرجح “استيلاء ضخم على الأراضي”. (كل ذلك بحسب AP/NPR، 16 شباط/فبراير 2026؛ واتُّخذ القرار يوم الأحد 15 شباط/فبراير 2026.) وأدان الأمين العام للأمم المتحدة قرار 15 شباط/فبراير في 16 شباط/فبراير 2026. وتلخص حركة السلام الآن (منظمة غير حكومية إسرائيلية) القرار: إدارة لتسوية حقوق الملكية في الأراضي تابعة لوزارة العدل الإسرائيلية، وميزانية قدرها 244.1 مليون شيكل جديد، وهدف تسوية 15% من الأراضي غير المسجلة في المنطقة ج خلال خمس سنوات.",
+        "he": "משרד החוץ הישראלי אמר שהרשות הפלסטינית עצמה קידמה רישום קרקעות בשטח C בניגוד להסכמים; שר המשפטים יריב לוין אמר שההחלטה מבטאת את מחויבות הממשלה “לחזק את אחיזתה בכל חלקיה”. נשיאות הרשות הפלסטינית וירדן גינו אותה; שלום עכשיו כינתה אותה “הפקעת קרקעות ענקית” סבירה (“mega land grab”). (הכול לפי AP/NPR, 16 בפברואר 2026; ההחלטה התקבלה ביום ראשון 15 בפברואר 2026.) מזכ״ל האו״ם גינה את ההחלטה מ-15 בפברואר ב-16 בפברואר 2026. שלום עכשיו (ארגון לא ממשלתי ישראלי) מסכמת את ההחלטה: מינהל להסדרת זכויות במקרקעין במשרד המשפטים של ישראל, תקציב של 244.1 מיליון ש״ח ויעד להסדיר 15% מהקרקע הלא רשומה בשטח C בתוך חמש שנים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -14292,6 +14628,21 @@
           "ref": "cec-ps-local-elections-2026",
           "locator": "page summary (Arabic)",
           "quote": "وبلغت نسبة المشاركة في الانتخابات 56% في الضفة الغربية و23% في دير البلح"
+        },
+        {
+          "ref": "npr-ap-2026-04-27-palestinian-local-elections",
+          "locator": "AP report datelined Jerusalem, 27 April 2026 (photo caption)",
+          "quote": "in Al-Ubaidiya, West Bank, Saturday, April 25, 2026."
+        },
+        {
+          "ref": "npr-ap-2026-04-27-palestinian-local-elections",
+          "locator": "same report",
+          "quote": "Turnout there was 23%, but officials cited challenges including large-scale displacement and outdated civil registry records."
+        },
+        {
+          "ref": "npr-ap-2026-04-27-palestinian-local-elections",
+          "locator": "same report",
+          "quote": "Turnout in the West Bank elections was 56%, or over a half-million people"
         }
       ],
       "notes": {

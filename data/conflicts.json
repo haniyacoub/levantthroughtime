@@ -2315,12 +2315,22 @@
           "ref": "rinap3-sennacherib",
           "locator": "Sennacherib 023, iii 5b",
           "quote": "I surrounded, conquered, (and) plundered the cities Eltekeh (and) Tamnâ."
+        },
+        {
+          "ref": "honor-1926-sennacherib-invasion",
+          "locator": "ch. I, p. 14",
+          "quote": "The two armies met at Eltekeh. The Assyrians were victorious, the city of Eltekeh and the city of Timnath, which was nearby, were captured"
+        },
+        {
+          "ref": "honor-1926-sennacherib-invasion",
+          "locator": "ch. I, pp. 16-17 (summarising earlier scholarship)",
+          "quote": "that the victory at Eltekeh was a very costly one"
         }
       ],
       "notes": {
-        "en": "Known only from Sennacherib's inscriptions. Coordinates are those Wikidata gives for the presumed site and are uncertain.",
-        "ar": "معروفة فقط من نقوش سنحاريب. الإحداثيات هي ما تعطيه ويكي بيانات للموقع المفترض، وهي غير مؤكدة.",
-        "he": "ידועה רק מכתובות סנחריב. הקואורדינטות הן אלה שוויקינתונים נותן לאתר המשוער, והן אינן ודאיות.",
+        "en": "Known only from Sennacherib's inscriptions (textual evidence; no archaeological evidence for the battle was consulted, and the site is uncertain). Modern scholarship (e.g. Honor 1926) accepts the battle and the capture of Eltekeh and Timnah but has debated how decisive the Assyrian victory was. Coordinates are those Wikidata gives for the presumed site and are uncertain.",
+        "ar": "معروفة فقط من نقوش سنحاريب (دليل نصي؛ لم يُرجع إلى أي دليل أثري على المعركة، وموقعها غير مؤكد). تقبل الدراسات الحديثة (مثل Honor 1926) وقوع المعركة والاستيلاء على إلتقة وتمنة، لكنها ناقشت مدى حسم الانتصار الآشوري. الإحداثيات هي التي يوردها ويكيداتا للموقع المفترض، وهي غير مؤكدة.",
+        "he": "ידועה רק מכתובותיו של סנחריב (עדות טקסטואלית; לא נבדקה עדות ארכיאולוגית לקרב, ומיקומו אינו ודאי). המחקר המודרני (למשל Honor 1926) מקבל את קיום הקרב ואת כיבוש אלתקה ותמנה, אך דן במידת הכרעתו של הניצחון האשורי. הקואורדינטות הן אלה שוויקינתונים מציג לאתר המשוער, והן אינן ודאיות.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6694,12 +6704,32 @@
           "ref": "procopius-buildings",
           "locator": "V.7.5 (editorial note 26 dates Zeno 474-491)",
           "quote": "the Samaritans suddenly banded together and fell upon the Christians in Neapolis"
+        },
+        {
+          "ref": "montgomery-1907-samaritans",
+          "locator": "ch. VI, p. 110",
+          "quote": "The great conflict that was brewing between the empire and the Samaritans first came to a head under the emperor Zeno (474-491)."
+        },
+        {
+          "ref": "montgomery-1907-samaritans",
+          "locator": "ch. VI, p. 110",
+          "quote": "While the Christians of Neapolis were celebrating Whitsun, the Samaritans attacked them"
+        },
+        {
+          "ref": "montgomery-1907-samaritans",
+          "locator": "ch. VI, p. 111",
+          "quote": "The latter were expelled from Gerizim, and on its summit a church was built in honor of the Virgin, the first Christian sanctuary on that site."
+        },
+        {
+          "ref": "montgomery-1907-samaritans",
+          "locator": "ch. VI, p. 110, n. 101 (OCR normalised)",
+          "quote": "Chronicon Paschale, to year 484; Procopius, De aedificiis, v, 7"
         }
       ],
       "notes": {
-        "en": "Procopius gives only the reign (Zeno, 474-491 per the LacusCurtius note).",
-        "ar": "يذكر بروكوبيوس العهد فقط (زينون، 474-491 بحسب ملاحظة LacusCurtius).",
-        "he": "פרוקופיוס מציין רק את תקופת השלטון (זנון, 474-491 לפי הערת LacusCurtius).",
+        "en": "Procopius gives only the reign (Zeno, 474-491 per the LacusCurtius note). Montgomery (1907) dates the rising to 484 following the Chronicon Paschale, notes that Procopius's account is dated differently, and connects it with the revolt of the Samaritan leader Justa (Justasa) at Caesarea; the church Zeno built on Mount Gerizim was dedicated to the Virgin (Theotokos). The exact year therefore remains uncertain; the record keeps the reign as its range. The archaeological remains of the church were not consulted.",
+        "ar": "يذكر بروكوبيوس عهد الإمبراطور فقط (زينون، 474-491 بحسب ملاحظة LacusCurtius). يؤرخ مونتغمري (1907) الثورة بسنة 484 اعتمادًا على Chronicon Paschale، ويلاحظ أن رواية بروكوبيوس مؤرخة بشكل مختلف، ويربطها بثورة الزعيم السامري جوستا (جوستاسا) في قيسارية؛ وقد كُرِّست الكنيسة التي بناها زينون على جبل جرزيم للعذراء (والدة الإله). لذلك تبقى السنة الدقيقة غير مؤكدة؛ ويُبقي السجل العهد كله مدىً زمنيًا له. لم يُرجع إلى البقايا الأثرية للكنيسة.",
+        "he": "פרוקופיוס מציין רק את תקופת השלטון (זנון, 474-491 לפי הערת LacusCurtius). מונטגומרי (1907) מתארך את המרד ל-484 בעקבות Chronicon Paschale, מציין שתיאורו של פרוקופיוס מתוארך אחרת, ומקשר אותו למרד מנהיג השומרונים ג'וסטה (ג'וסטסה) בקיסריה; הכנסייה שבנה זנון על הר גריזים הוקדשה לבתולה (תיאוטוקוס). לכן השנה המדויקת נותרת בלתי ודאית; הרשומה משאירה את תקופת השלטון כטווח התאריכים שלה. שרידי הכנסייה הארכיאולוגיים לא נבדקו.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8631,12 +8661,27 @@
           "ref": "matveev-2010",
           "locator": "p. 77",
           "quote": "since its rebellion against Atsiz in 1077."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 2 (Casim Avcı), Seljuk-Turkmen period",
+          "quote": "Kudüs’teki Arap asıllı kumandanlar ve idareciler Atsız’ın nâiblerine karşı isyan edip şehirde tekrar Fâtımî halifesi adına hutbe okutmaya başladılar (469/1077)."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "same section",
+          "quote": "bir günlük kuşatmadan sonra şehri ele geçirip isyancıları şiddetle cezalandırdı"
+        },
+        {
+          "ref": "tdv-atsiz-b-uvak",
+          "locator": "article text",
+          "quote": "Ancak Atsız daha sonra yeniden bir ordu teçhiz ederek başta Kudüs olmak üzere itaatten çıkan bütün şehir ve kaleleri tekrar hâkimiyeti altına aldı."
         }
       ],
       "notes": {
-        "en": "Matveev argues the episode should be read in the context of the citizens' revolt rather than as indiscriminate \"Turkish vandalism\"; he reports that Christian and Jewish communities not involved in the rebellion were not affected.",
-        "ar": "يرى ماتفيف أنه ينبغي قراءة الواقعة في سياق ثورة المواطنين لا بوصفها «تخريبًا تركيًا» عشوائيًا؛ ويذكر أن الجماعات المسيحية واليهودية التي لم تشارك في التمرد لم تتضرر.",
-        "he": "מטווייב טוען שיש לקרוא את האירוע בהקשר של מרד התושבים ולא כ״ונדליזם טורקי״ חסר הבחנה; הוא מדווח שהקהילות הנוצריות והיהודיות שלא היו מעורבות במרד לא נפגעו.",
+        "en": "Matveev argues the episode should be read in the context of the citizens' revolt rather than as indiscriminate \"Turkish vandalism\"; he reports that Christian and Jewish communities not involved in the rebellion were not affected. TDV İslâm Ansiklopedisi (Turkish) independently dates the revolt to 469/1077, after Atsiz's defeat before Cairo: \"the commanders and officials of Arab origin in Jerusalem rebelled against Atsiz's deputies and again had the Friday sermon read in the name of the Fatimid caliph\"; Atsiz \"took the city after a one-day siege and punished the rebels severely\" (Kudüs, section by Casim Avcı; see also Ali Sevim, \"Atsız b. Uvak\").",
+        "ar": "يرى ماتفييف أنه ينبغي قراءة الحادثة في سياق ثورة السكان لا بوصفها “تخريبًا تركيًا” عشوائيًا؛ ويذكر أن الطوائف المسيحية واليهودية التي لم تشارك في التمرد لم تتأثر. ويؤرخ TDV İslâm Ansiklopedisi (بالتركية) الثورة، بصورة مستقلة، بسنة 469 هـ/1077 م، بعد هزيمة أتسز أمام القاهرة: “ثار القادة والموظفون من أصل عربي في القدس على نواب أتسز وأعادوا قراءة الخطبة يوم الجمعة باسم الخليفة الفاطمي”؛ وأن أتسز “استولى على المدينة بعد حصار دام يومًا واحدًا وعاقب الثوار عقابًا شديدًا” (Kudüs، القسم بقلم Casim Avcı؛ انظر أيضًا Ali Sevim، “Atsız b. Uvak”).",
+        "he": "מטבייב טוען שיש לקרוא את האירוע בהקשר של מרד התושבים ולא כ“ונדליזם טורקי” חסר הבחנה; הוא מדווח שהקהילות הנוצריות והיהודיות שלא היו מעורבות במרד לא נפגעו. TDV İslâm Ansiklopedisi (בטורקית) מתארך באופן עצמאי את המרד ל-469 להיג'רה/1077, לאחר תבוסתו של אטסיז לפני קהיר: “המפקדים והפקידים ממוצא ערבי בירושלים מרדו בנציבי אטסיז והקריאו שוב את דרשת יום השישי בשם החליף הפאטמי”; אטסיז “כבש את העיר לאחר מצור של יום אחד והעניש את המורדים קשות” (Kudüs, פרק מאת Casim Avcı; ראו גם Ali Sevim, “Atsız b. Uvak”).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9019,12 +9064,37 @@
         {
           "ref": "benvenisti-1970-crusaders-holy-land",
           "quote": "the Crusaders succeeded in driving the Egyptians out of Ramla at the end of May."
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 98 (OCR normalised)",
+          "quote": "That this determined the military objective of the Egyptians seems to be clear from the strategy, such as it was, of their campaigns in 1101, 1102, 1103, and 1105."
+        },
+        {
+          "ref": "cate-1969-crusade-of-1101",
+          "locator": "p. 364",
+          "quote": "Baldwin, relying on faulty intelligence, underestimated the strength of the Egyptians as they marched from Ascalon toward Ramla."
+        },
+        {
+          "ref": "cate-1969-crusade-of-1101",
+          "locator": "p. 365",
+          "quote": "Those who survived the first onslaught fled, some to Jaffa, Baldwin and others to Ramla. This was on May 17."
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 388",
+          "quote": "As a result of a disastrous defeat administered to king Baldwin near Ramla by the Egyptians in the spring of 1102"
+        },
+        {
+          "ref": "fink-1969-foundation-latin-states",
+          "locator": "p. 386",
+          "quote": "sent it to the plain of Ramla. Here Baldwin met and defeated it, August 27"
         }
       ],
       "notes": {
-        "en": "A further battle near Ramla in 1105 is not covered by the sources consulted.",
-        "ar": "معركة أخرى قرب الرملة عام 1105 لا تغطيها المصادر المستشارة.",
-        "he": "קרב נוסף ליד רמלה ב-1105 אינו מכוסה במקורות שנבדקו.",
+        "en": "Gibb (History of the Crusades) lists Egyptian campaigns in 1101, 1102, 1103 and 1105; Cate dates the Frankish defeat near Ramla to 17 May 1102. A further battle in the plain of Ramla, won by Baldwin I on 27 August 1105, is outside this record (Fink). The exact day of the 1101 battle was not verified.",
+        "ar": "يورد غيب (History of the Crusades) حملات مصرية في أعوام 1101 و1102 و1103 و1105؛ ويؤرخ كيت هزيمة الفرنجة قرب الرملة بتاريخ 17 أيار/مايو 1102. أما معركة أخرى في سهل الرملة انتصر فيها بلدوين الأول في 27 آب/أغسطس 1105 فهي خارج هذا السجل (Fink). لم يُتحقق من اليوم الدقيق لمعركة 1101.",
+        "he": "גיב (History of the Crusades) מונה מסעות מצריים בשנים 1101, 1102, 1103 ו-1105; קייט מתארך את תבוסת הפרנקים ליד רמלה ל-17 במאי 1102. קרב נוסף במישור רמלה, שבו ניצח בולדווין הראשון ב-27 באוגוסט 1105, נמצא מחוץ לרשומה זו (Fink). היום המדויק של קרב 1101 לא אומת.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9404,7 +9474,9 @@
       "wikidata": "Q847287",
       "start": {
         "year": 1177,
-        "precision": "year"
+        "month": 11,
+        "day": 25,
+        "precision": "day"
       },
       "location": {
         "place": "gezer",
@@ -9459,9 +9531,30 @@
         {
           "ref": "benvenisti-1970-crusaders-holy-land",
           "quote": "Saladin attacked the Kingdom of Jerusalem, but was heavily defeated at the battle of Gezer (Montgisart—1177)."
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 595",
+          "quote": "A remarkable victory of the royal army under king Baldwin IV at Mont Gisard temporarily restored Latin morale. Saladin was badly worsted (November 25, 1177)."
+        },
+        {
+          "ref": "gibb-1969-rise-of-saladin",
+          "locator": "p. 571",
+          "quote": "Baldwin IV’s well-timed surprise attack on the regiment of guards at Mont Gisard on November 25 threw the whole force into confusion"
+        },
+        {
+          "ref": "baldwin-1969-decline-fall-jerusalem",
+          "locator": "p. 595",
+          "quote": "Saladin was badly worsted (November 25, 1177)."
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "end": {
+        "year": 1177,
+        "month": 11,
+        "day": 25,
+        "precision": "day"
+      }
     },
     {
       "id": "battle-of-hattin",
@@ -10333,8 +10426,9 @@
       "wikidata": "Q578201",
       "start": {
         "year": 1244,
-        "precision": "month",
-        "month": 10
+        "month": 10,
+        "day": 17,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -10391,12 +10485,32 @@
         {
           "ref": "benvenisti-1970-crusaders-holy-land",
           "quote": "Severe fighting between the Crusaders and the Moslems took place around Gaza in the years 1239 and 1244, ending in the defeat of the Crusaders."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 563",
+          "quote": "The armies made contact at the village of Harbiyah (La Forbie), a few miles northeast of Gaza, on October 17."
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 709 (OCR normalised)",
+          "quote": "Al-Mansur of Homs again took the lead in organizing a coalition of Syrian Moslems and Franks against them"
+        },
+        {
+          "ref": "gibb-1969-aiyubids",
+          "locator": "p. 709 (OCR normalised)",
+          "quote": "the Khorezmians then surrounded the Franks"
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 563",
+          "quote": "The Egyptian army was commanded by a young mamluk emir, Rukn-ad-Din Baybars."
         }
       ],
       "notes": {
-        "en": "Benvenisti describes the outcome as a defeat of the Crusaders by the Egyptians; the composition of the two coalitions (including Khwarazmian troops and Syrian Ayyubid allies of the Franks) was not verified in the sources consulted.",
-        "ar": "يصف بنفنستي النتيجة بأنها هزيمة للصليبيين على يد المصريين؛ ولم يُتحقق في المصادر المستشارة من تركيبة التحالفين (ومنها القوات الخوارزمية والحلفاء الأيوبيون السوريون للفرنجة).",
-        "he": "בנבנישתי מתאר את התוצאה כתבוסה של הצלבנים בידי המצרים; הרכב שתי הקואליציות (כולל חיילים חוארזמיים ובעלי ברית איובים סורים של הפרנקים) לא אומת במקורות שנבדקו.",
+        "en": "Coalitions (Gibb, Runciman): the Egyptian army of the Ayyubid sultan as-Salih Ayyub, commanded by the emir Rukn ad-Din Baybars (not the later sultan, per Gibb), with Khwarazmian cavalry; against the Franks allied with the Syrian Ayyubid princes of Homs and Damascus and an-Nasir of Kerak. Benvenisti describes the outcome as a defeat of the Crusaders by the Egyptians.",
+        "ar": "التحالفات (غيب، رنسيمان): الجيش المصري للسلطان الأيوبي الصالح أيوب، بقيادة الأمير ركن الدين بيبرس (وليس السلطان اللاحق، بحسب غيب)، مع فرسان خوارزميين؛ في مواجهة الفرنجة المتحالفين مع الأمراء الأيوبيين في سوريا، صاحبي حمص ودمشق، ومع الناصر صاحب الكرك. ويصف بنفنستي النتيجة بأنها هزيمة للصليبيين على يد المصريين.",
+        "he": "הקואליציות (גיב, רנסימן): הצבא המצרי של הסולטאן האיובי א-צאלח איוב, בפיקוד האמיר רוכן א-דין בייברס (לא הסולטאן המאוחר, לפי גיב), עם פרשים חוואריזמיים; מול הפרנקים בבריתם עם הנסיכים האיוביים של סוריה בחומס ובדמשק ועם א-נאצר מכרך. בנבנישתי מתאר את התוצאה כתבוסה של הצלבנים לידי המצרים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10854,9 +10968,28 @@
         {
           "ref": "benvenisti-1970-crusaders-holy-land",
           "quote": "After conquering Caesarea in 1265, the Mamluks began a systematic destruction of the region of the maritime plain."
+        },
+        {
+          "ref": "runciman-1969-crusader-states-1243-1291",
+          "locator": "p. 575",
+          "quote": "The town fell to him on February 27 and the citadel a week later."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 748",
+          "quote": "He began by capturing the ports of Caesarea, Haifa, and Arsuf, razing their fortifications to the ground"
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "notes": {
+        "en": "Runciman dates the fall of the town to 27 February 1265 and of the citadel about a week later, which agrees with Benvenisti's \"March, 1265\" for the end.",
+        "ar": "يؤرخ رنسيمان سقوط البلدة بتاريخ 27 شباط/فبراير 1265 وسقوط القلعة بعد نحو أسبوع، وهو ما يتفق مع عبارة بنفنستي “March, 1265” لنهاية المعركة.",
+        "he": "רנסימן מתארך את נפילת העיירה ל-27 בפברואר 1265 ואת נפילת המצודה כשבוע לאחר מכן, בהתאם ל-“March, 1265” של בנבנישתי לסיום.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "mamluk-siege-of-arsuf-1265",
@@ -13125,9 +13258,9 @@
         }
       ],
       "outcome": {
-        "en": "French forces under Kléber fought an Ottoman force near Mount Tabor; the French held the field (general knowledge; the chronology records only the combat).",
-        "ar": "قاتلت القوات الفرنسية بقيادة كليبر قوة عثمانية قرب جبل الطور؛ وبقي الميدان بيد الفرنسيين (معلومة عامة؛ ولا يسجل التسلسل الزمني سوى القتال).",
-        "he": "הכוחות הצרפתיים בפיקודו של קלבר נלחמו בכוח עות'מאני ליד הר תבור; הצרפתים נשארו בשדה הקרב (ידע כללי; ציר הזמן מתעד רק את הלחימה).",
+        "en": "French forces under Kléber, relieved by Bonaparte, defeated an Ottoman force marching to the relief of Acre in the plain below Mount Tabor; the Ottoman force retreated in disorder towards the Jordan and Damascus.",
+        "ar": "هزمت القوات الفرنسية بقيادة كليبر، بعد أن أنجدها بونابرت، قوة عثمانية كانت تسير لإغاثة عكا في السهل الواقع أسفل جبل طابور؛ وتراجعت القوة العثمانية في فوضى نحو الأردن ودمشق.",
+        "he": "כוחות צרפתיים בפיקודו של קלבר, שבונפרטה בא לעזרתם, הביסו כוח עות'מאני שצעד להקלת המצור על עכו במישור שמתחת להר תבור; הכוח העות'מאני נסוג בבהלה לעבר הירדן ודמשק.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -13139,12 +13272,42 @@
           "ref": "napoleon-org-egyptian-campaign-timeline",
           "locator": "chronology 1799",
           "quote": "16 April : Combat of Mont-Thabor (Kléber) ."
+        },
+        {
+          "ref": "berthier-1800-relation-campagnes-egypte-syrie",
+          "locator": "p. c. 93 (27 Germinal an VII; OCR normalised)",
+          "quote": "Le 27, au point du jour, il marche sur Fouli"
+        },
+        {
+          "ref": "berthier-1800-relation-campagnes-egypte-syrie",
+          "locator": "p. c. 95 (OCR normalised)",
+          "quote": "Enfin il cherche un refuge derrière le mont Thabor"
+        },
+        {
+          "ref": "berthier-1800-relation-campagnes-egypte-syrie",
+          "locator": "p. 97 (OCR normalised)",
+          "quote": "la prise de tous les magasins de l'ennemi, de son camp, et sa fuite en désordre vers Damas"
+        },
+        {
+          "ref": "rose-1913-life-of-napoleon-i",
+          "locator": "vol. I, p. 190",
+          "quote": "a large Turkish and Mameluke force destined for the relief of Acre and the invasion of Egypt"
+        },
+        {
+          "ref": "rose-1913-life-of-napoleon-i",
+          "locator": "vol. I, p. 190",
+          "quote": "the decisive battle was fought in the Plain of Esdraelon, not far from the base of Mount Tabor."
+        },
+        {
+          "ref": "rose-1913-life-of-napoleon-i",
+          "locator": "vol. I, p. 190",
+          "quote": "At the close of this memorable day (April 15th)"
         }
       ],
       "notes": {
-        "en": "That the Ottoman force was a relief army from Damascus is general knowledge not stated in the opened chronology.",
-        "ar": "أن القوة العثمانية كانت جيش إغاثة من دمشق معلومة عامة غير مذكورة في التسلسل الزمني المفتوح.",
-        "he": "העובדה שהכוח העות'מאני היה צבא סיוע מדמשק היא ידיעה כללית שאינה מצוינת בכרונולוגיה שנפתחה.",
+        "en": "Date: the Fondation Napoléon chronology gives 16 April 1799, and Berthier's Relation (an VIII) places the battle on 27 Germinal an VII, the same day; Rose (Life of Napoleon I, 1901/1913) gives \"April 15th\". Rose describes the Ottoman force as destined for the relief of Acre; Berthier reports its flight towards Damascus. Berthier's quote translations: \"On the 27th, at daybreak, he marches on Fouli\"; \"Finally it seeks refuge behind Mount Tabor\"; \"the capture of all the enemy's stores, of its camp, and its flight in disorder towards Damascus\". Only French and British accounts were opened; an Ottoman account was not found.",
+        "ar": "التاريخ: يعطي التسلسل الزمني لمؤسسة نابليون 16 نيسان/أبريل 1799، ويضع Relation (an VIII) لبرتيه المعركة في 27 جرمينال من السنة السابعة (27 Germinal an VII)، أي اليوم نفسه؛ ويعطي روز (Life of Napoleon I، 1901/1913) “April 15th”. ويصف روز القوة العثمانية بأنها كانت متجهة لإغاثة عكا؛ ويذكر برتيه فرارها نحو دمشق. ترجمة اقتباسات برتيه: “في السابع والعشرين، عند الفجر، يزحف على الفولة”؛ “وأخيرًا يلتمس ملجأ خلف جبل طابور”؛ “والاستيلاء على كل مؤن العدو ومعسكره، وفراره في فوضى نحو دمشق”. لم يُطلع إلا على روايات فرنسية وبريطانية؛ ولم تُوجد رواية عثمانية.",
+        "he": "תאריך: כרונולוגיית Fondation Napoléon מציינת 16 באפריל 1799, וה-Relation (an VIII) של ברתייה מציב את הקרב ב-27 ז'רמינל שנה VII (27 Germinal an VII), היינו באותו יום; רוז (Life of Napoleon I, 1901/1913) מציין “April 15th”. רוז מתאר את הכוח העות'מאני כמיועד להקלת המצור על עכו; ברתייה מדווח על בריחתו לעבר דמשק. תרגום ציטוטי ברתייה: “ב-27, עם עלות השחר, הוא צועד על פולה”; “לבסוף הוא מחפש מקלט מאחורי הר תבור”; “לכידת כל אספקת האויב, מחנהו, ובריחתו בבהלה לעבר דמשק”. נפתחו רק תיאורים צרפתיים ובריטיים; תיאור עות'מאני לא נמצא.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -14387,12 +14550,27 @@
           "ref": "awm-battle-of-romani",
           "locator": "description",
           "quote": "The battle of Romani, fought between 3 and 5 August 1916, finally put a"
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XI, p. 185",
+          "quote": "The night of the 3rd August was mild and still."
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XI, p. 185",
+          "quote": "it was almost midnight when a post reported a large body of men to its front."
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XI, p. 199",
+          "quote": "Romani was a considerable British victory. The enemy completely failed in his object"
         }
       ],
       "notes": {
-        "en": "AWM's record dates are 4-5 August while its description gives 3-5 August 1916. Quote truncated at the page's own sentence break in the downloaded text.",
-        "ar": "تواريخ سجل AWM هي 4-5 آب/أغسطس بينما يعطي وصفه 3-5 آب/أغسطس 1916. الاقتباس مقطوع عند فاصل الجملة في الصفحة نفسها في النص المنزَّل.",
-        "he": "תאריכי הרשומה של AWM הם 4-5 באוגוסט, ואילו התיאור שלה נותן 3-5 באוגוסט 1916. הציטוט קוצר בהפסקת המשפט של הדף עצמו בטקסט שהורד.",
+        "en": "Dates: the British official history describes the Ottoman-German force reaching the Australian outpost line near midnight on 3 August, the main attack on 4 August and the pursuit from 5 August (continued to Bir el Abd on 12 August). AWM's record dates are 4-5 August while its description gives 3-5 August 1916.",
+        "ar": "التواريخ: يصف التاريخ الرسمي البريطاني وصول القوة العثمانية-الألمانية إلى خط المواقع الأمامية الأسترالية قرابة منتصف ليل 3 آب/أغسطس، والهجوم الرئيسي في 4 آب/أغسطس والمطاردة اعتبارًا من 5 آب/أغسطس (واستمرت حتى بئر العبد في 12 آب/أغسطس). تؤرخ سجلات AWM الحدث بين 4 و5 آب/أغسطس بينما يعطي وصفها 3-5 آب/أغسطس 1916.",
+        "he": "תאריכים: ההיסטוריה הבריטית הרשמית מתארת את הכוח העות'מאני-גרמני מגיע לקו המוצבים האוסטרלי סמוך לחצות ב-3 באוגוסט, את ההתקפה העיקרית ב-4 באוגוסט ואת המרדף מ-5 באוגוסט (שנמשך עד ביר אל-עבד ב-12 באוגוסט). תאריכי הרשומה של AWM הם 4-5 באוגוסט בעוד שתיאורה מציין 3-5 באוגוסט 1916.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -14572,6 +14750,21 @@
           "ref": "awm-battles-of-gaza",
           "locator": "description",
           "quote": "After three days of fighting the attack was called off, having not gained any significant ground."
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XVIII, p. 332",
+          "quote": "The first phase was fixed for the 17th April."
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XVIII, p. 346 (situation at nightfall on 19 April)",
+          "quote": "As the afternoon drew on it was apparent that there was no prospect of success on any portion of the front."
+        },
+        {
+          "ref": "macmunn-falls-1928-military-operations-egypt-palestine-1",
+          "locator": "ch. XVIII, p. 347",
+          "quote": "he decided that a fresh assault would only result in further heavy losses, without hope of success."
         }
       ],
       "casualties": null
@@ -14661,9 +14854,38 @@
           "ref": "awm-battles-of-gaza",
           "locator": "description",
           "quote": "This undermined the security of Gaza, which fell to the British on 7 November 1917 after little resistance from Turkish forces."
+        },
+        {
+          "ref": "tdv-birinci-dunya-savasi",
+          "locator": "section on the Palestine front",
+          "quote": "General Allenby kumandasındaki İngiliz ordusu Alman Mareşali Falkenhayn’ın başında bulunduğu yıldırım orduları grubuna karşı 31 Ekim 1917’de bir taarruz başlatmış"
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. IV, p. 75 (7 November)",
+          "quote": "Patrols entered Gaza and found not a living soul in its streets."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "p. 158, n. 2 (OCR normalised)",
+          "quote": "According to the Report of the Battles Nomenclature Committee, the Third Battle of Gaza continued until the 7th November."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. IV, p. 64",
+          "quote": "The land bombardment had begun on the 27th October, the naval on the 29th."
         }
       ],
-      "casualties": null
+      "casualties": null,
+      "notes": {
+        "en": "The British land bombardment of the Gaza defences began on 27 October 1917 (naval bombardment from 29 October); the main offensive opened with the attack on Beersheba on 31 October (Falls, official history; TDV İslâm Ansiklopedisi, Turkish quote: \"the British army under General Allenby launched an offensive on 31 October 1917 against the Yildirim army group headed by the German Marshal Falkenhayn\").",
+        "ar": "بدأ القصف البري البريطاني لتحصينات غزة في 27 تشرين الأول/أكتوبر 1917 (والقصف البحري من 29 تشرين الأول/أكتوبر)؛ وبدأ الهجوم الرئيسي بالهجوم على بئر السبع في 31 تشرين الأول/أكتوبر (Falls، التاريخ الرسمي؛ TDV İslâm Ansiklopedisi، اقتباس بالتركية: “شن الجيش البريطاني بقيادة الجنرال أللنبي هجومًا في 31 تشرين الأول/أكتوبر 1917 على مجموعة جيوش يلدريم بقيادة المارشال الألماني فالكنهاين”).",
+        "he": "ההפגזה הבריטית היבשתית של ביצורי עזה החלה ב-27 באוקטובר 1917 (הפגזה ימית מ-29 באוקטובר); המתקפה הראשית נפתחה בהתקפה על באר שבע ב-31 באוקטובר (Falls, ההיסטוריה הרשמית; TDV İslâm Ansiklopedisi, ציטוט בטורקית: “הצבא הבריטי בפיקוד הגנרל אלנבי פתח במתקפה ב-31 באוקטובר 1917 נגד קבוצת הצבאות ילדירים בראשות המרשל הגרמני פלקנהיין”).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "battle-of-beersheba-1917",
@@ -14760,6 +14982,26 @@
           "ref": "awm-beersheba",
           "locator": "article text",
           "quote": "The capture of Beersheba would break the Gaza—Beersheba lin"
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "list of maps, Map 5",
+          "quote": "Capture of Beersheba, 31st October 1917."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. III, p. 59 (31 October; charge of the 4th Light Horse Brigade)",
+          "quote": "Two squadrons of the 12th A.L.H. swept straight on into Beersheba"
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. V, p. 82 (the Turkish point of view)",
+          "quote": "Beersheba had fallen unexpectedly soon"
+        },
+        {
+          "ref": "tdv-birinci-dunya-savasi",
+          "locator": "section on the Palestine front",
+          "quote": "31 Ekim 1917’de bir taarruz başlatmış"
         }
       ],
       "casualties": null
@@ -14856,12 +15098,37 @@
           "ref": "awm-jerusalem-honour",
           "locator": "description",
           "quote": "Awarded for participation in the operations to capture and occupy Jerusalem between 7 and 9 December 1917, and its subsequent defence between 26 and 30 December 1917 ."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "p. 218, n. 1 (OCR normalised)",
+          "quote": "The Report of the “Battles Nomenclature Committee” fixes the Battle of Nabi Samweil as lasting from the 17th to the 24th November."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. XI, p. 252",
+          "quote": "The surrender of Jerusalem on the 9th December was one of the most dramatic incidents of the war."
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "ch. XII, p. 279 (the Turkish attack)",
+          "quote": "shortly after 1.30 a.m. on the 27th December"
+        },
+        {
+          "ref": "falls-1930-military-operations-egypt-palestine-2-part-1",
+          "locator": "list of maps, Map 13",
+          "quote": "Defence of Jerusalem, 27th-30th December 1917."
+        },
+        {
+          "ref": "tdv-birinci-dunya-savasi",
+          "locator": "section on the Palestine front",
+          "quote": "9 Aralık’ta Kudüs’e girmişti"
         }
       ],
       "notes": {
-        "en": "Fighting in the Judean hills began in November 1917 (start approximate); the city surrendered on 9 December and Allenby entered on 11 December (polities layer: OETA). Wikidata Hebrew label: כיבוש ירושלים בידי הבריטים ('the capture of Jerusalem by the British').",
-        "ar": "بدأ القتال في تلال يهودا في تشرين الثاني/نوفمبر 1917 (البداية تقريبية)؛ واستسلمت المدينة في 9 كانون الأول/ديسمبر ودخلها اللنبي في 11 كانون الأول/ديسمبر (طبقة الكيانات السياسية: OETA). تسمية ويكي بيانات بالعبرية: כיבוש ירושלים בידי הבריטים (‘الاستيلاء البريطاني على القدس’).",
-        "he": "הלחימה בהרי יהודה החלה בנובמבר 1917 (ההתחלה מקורבת); העיר נכנעה ב-9 בדצמבר ואלנבי נכנס אליה ב-11 בדצמבר (שכבת הישויות המדיניות: OETA). תווית ויקינתונים בעברית: כיבוש ירושלים בידי הבריטים (‘the capture of Jerusalem by the British’).",
+        "en": "Fighting in the Judean hills began in November 1917 (start approximate); the city surrendered on 9 December and Allenby entered on 11 December (polities layer: OETA). Wikidata Hebrew label: כיבוש ירושלים בידי הבריטים ('the capture of Jerusalem by the British'). The British official history (Falls) follows the Battles Nomenclature Committee: Battle of Nabi Samweil 17-24 November, Capture of Jerusalem 7-9 December; it dates the Ottoman counter-attack north of the city from 1.30 a.m. on 27 December (the AWM battle honour gives 26-30 December). TDV İslâm Ansiklopedisi (Turkish) gives the British entry into Jerusalem as 9 December (\"9 Aralık'ta Kudüs'e girmişti\").",
+        "ar": "بدأ القتال في جبال يهودا في تشرين الثاني/نوفمبر 1917 (البداية تقريبية)؛ واستسلمت المدينة في 9 كانون الأول/ديسمبر ودخلها أللنبي في 11 كانون الأول/ديسمبر (طبقة الكيانات السياسية: OETA). تسمية ويكيداتا بالعبرية: כיבוש ירושלים בידי הבריטים (“الاستيلاء البريطاني على القدس”). يتبع التاريخ الرسمي البريطاني (Falls) لجنة تسمية المعارك: معركة النبي صموئيل 17-24 تشرين الثاني/نوفمبر، والاستيلاء على القدس 7-9 كانون الأول/ديسمبر؛ ويؤرخ الهجوم العثماني المضاد شمال المدينة اعتبارًا من الساعة 1:30 صباحًا يوم 27 كانون الأول/ديسمبر (ويعطي وسام المعركة لدى AWM الفترة 26-30 كانون الأول/ديسمبر). ويعطي TDV İslâm Ansiklopedisi (بالتركية) دخول البريطانيين إلى القدس في 9 كانون الأول/ديسمبر (“9 Aralık'ta Kudüs'e girmişti”).",
+        "he": "הלחימה בהרי יהודה החלה בנובמבר 1917 (ההתחלה משוערת); העיר נכנעה ב-9 בדצמבר ואלנבי נכנס אליה ב-11 בדצמבר (שכבת הישויות הפוליטיות: OETA). תווית ויקינתונים בעברית: כיבוש ירושלים בידי הבריטים (‘the capture of Jerusalem by the British’). ההיסטוריה הבריטית הרשמית (Falls) הולכת לפי ועדת המינוח של הקרבות: קרב נבי סמואל 17-24 בנובמבר, כיבוש ירושלים 7-9 בדצמבר; היא מתארכת את המתקפה הנגדית העות'מאנית מצפון לעיר מהשעה 1:30 לפנות בוקר ב-27 בדצמבר (אות הקרב של AWM מציין 26-30 בדצמבר). TDV İslâm Ansiklopedisi (בטורקית) מציין את כניסת הבריטים לירושלים ב-9 בדצמבר (“9 Aralık'ta Kudüs'e girmişti”).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -15092,12 +15359,22 @@
           "ref": "awm-megiddo-honour",
           "locator": "description",
           "quote": "Awarded for participation in the first phase of the final Allied offensive in Palestine."
+        },
+        {
+          "ref": "liman-von-sanders-1927-five-years-in-turkey",
+          "locator": "p. 275",
+          "quote": "At 3.30 in the morning of September 19th began a tremendous drum fire against the whole front of the right wing of the Eighth Army from the coast to the mountains."
+        },
+        {
+          "ref": "liman-von-sanders-1927-five-years-in-turkey",
+          "locator": "p. 275",
+          "quote": "the front of the right flank group in the coast sector had been broken through"
         }
       ],
       "notes": {
-        "en": "The outcome's 'destroyed the Ottoman armies ... opening the way to Damascus' is general history; the opened AWM record supports the dates and its being the first phase of the final offensive.",
-        "ar": "عبارة النتيجة ‘destroyed the Ottoman armies ... opening the way to Damascus’ تاريخ عام؛ ويؤيد سجل AWM المفتوح التواريخ وكون المعركة المرحلة الأولى من الهجوم الأخير.",
-        "he": "הניסוח בתוצאה ‘destroyed the Ottoman armies ... opening the way to Damascus’ הוא היסטוריה כללית; רשומת AWM שנפתחה תומכת בתאריכים ובכך שזה היה השלב הראשון של המתקפה האחרונה.",
+        "en": "The outcome's 'destroyed the Ottoman armies ... opening the way to Damascus' is general history; the opened AWM record supports the dates and its being the first phase of the final offensive. The memoir of Liman von Sanders, commander of the Ottoman Yildirim Army Group, confirms the opening bombardment at 3.30 a.m. on 19 September 1918 and the breakthrough on the coastal sector that morning.",
+        "ar": "عبارة النتيجة “دمرت الجيوش العثمانية ... وفتحت الطريق إلى دمشق” هي تاريخ عام؛ ويدعم سجل AWM الذي جرى الاطلاع عليه التواريخ وكون المعركة المرحلة الأولى من الهجوم الأخير. وتؤكد مذكرات ليمان فون ساندرس، قائد مجموعة جيوش يلدريم العثمانية، القصف الافتتاحي في الساعة 3:30 صباحًا يوم 19 أيلول/سبتمبر 1918 والاختراق في القطاع الساحلي في صباح ذلك اليوم.",
+        "he": "הניסוח בתוצאה ‘destroyed the Ottoman armies ... opening the way to Damascus’ הוא היסטוריה כללית; רשומת AWM שנפתחה תומכת בתאריכים ובכך שהיה השלב הראשון של המתקפה הסופית. זיכרונותיו של לימן פון זנדרס, מפקד קבוצת הצבאות העות'מאנית ילדירים, מאשרים את ההפגזה הפותחת בשעה 3:30 לפנות בוקר ב-19 בספטמבר 1918 ואת הפריצה במגזר החוף באותו בוקר.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -15660,12 +15937,22 @@
           "ref": "un-dpr-origins-part1",
           "locator": "section VI (quoting the Haycraft Commission)",
           "quote": "The fundamental cause of the Jaffa riots and the subsequent acts of violence was a feeling among the Arabs of discontent with, and hostility to, the Jews"
+        },
+        {
+          "ref": "jta-1931-05-01-tenth-anniversary-1921",
+          "locator": "Daily News Bulletin 1 May 1931",
+          "quote": "the Palestine pogrom which raged all through the first week of May 1921"
+        },
+        {
+          "ref": "jta-1931-05-01-tenth-anniversary-1921",
+          "locator": "same report (summarising the Haycraft Commission)",
+          "quote": "The immediate cause of the Jaffa riots on May 1st; it went on, was an unauthorised demonstration of the Palestine Communists."
         }
       ],
       "notes": {
-        "en": "End date 7 May from the Wikidata item (Q1575603); the source gives 'May 1921'. The Churchill White Paper link in the outcome is general context given in the same UN study ('The “Churchill Memorandum” reaffirmed the “national home” policy'). Hebrew Wikidata label: מאורעות תרפ\"א ('the events of 1921').",
-        "ar": "تاريخ النهاية 7 أيار/مايو من عنصر ويكي بيانات (Q1575603)؛ ويعطي المصدر ‘أيار/مايو 1921’. وارتباط الكتاب الأبيض لتشرشل بالنتيجة سياق عام ورد في الدراسة نفسها للأمم المتحدة (‘The “Churchill Memorandum” reaffirmed the “national home” policy’). تسمية ويكي بيانات بالعبرية: מאורעות תרפ\"א (‘أحداث 1921’).",
-        "he": "תאריך הסיום 7 במאי מפריט ויקינתונים (Q1575603); המקור נותן ‘May 1921’. הקישור של ספר הלבן של צ'רצ'יל לתוצאה הוא הקשר כללי שניתן באותו מחקר של האו״ם (‘The “Churchill Memorandum” reaffirmed the “national home” policy’). תווית ויקינתונים בעברית: מאורעות תרפ\"א.",
+        "en": "End date 7 May from the Wikidata item (Q1575603); the UN study gives 'May 1921', and JTA's tenth-anniversary report (1931), summarising the Haycraft Commission, says the violence 'raged all through the first week of May 1921' and began with an unauthorised Communist demonstration on 1 May. The Churchill White Paper link in the outcome is general context given in the same UN study ('The “Churchill Memorandum” reaffirmed the “national home” policy'). Hebrew Wikidata label: מאורעות תרפ\"א ('the events of 1921').",
+        "ar": "تاريخ الانتهاء 7 أيار/مايو مأخوذ من عنصر ويكيداتا (Q1575603)؛ وتعطي دراسة الأمم المتحدة “May 1921”، ويقول تقرير JTA في الذكرى العاشرة (1931)، الذي يلخص لجنة هايكرافت، إن العنف “raged all through the first week of May 1921” وبدأ بمظاهرة شيوعية غير مرخصة في 1 أيار/مايو. أما الربط بالكتاب الأبيض لتشرشل في النتيجة فهو سياق عام ترد الإشارة إليه في دراسة الأمم المتحدة نفسها (“The “Churchill Memorandum” reaffirmed the “national home” policy”). تسمية ويكيداتا بالعبرية: מאורעות תרפ״א (“أحداث 1921”).",
+        "he": "תאריך הסיום 7 במאי לקוח מפריט ויקינתונים (Q1575603); מחקר האו״ם מציין ‘May 1921’, ודוח ה-JTA לציון עשור (1931), המסכם את ועדת הייקרפט, אומר שהאלימות ‘raged all through the first week of May 1921’ והחלה בהפגנה קומוניסטית בלתי מורשית ב-1 במאי. הקישור לספר הלבן של צ'רצ'יל בתוצאה הוא הקשר כללי הנתון באותו מחקר של האו״ם (‘The “Churchill Memorandum” reaffirmed the “national home” policy’). תווית ויקינתונים בעברית: מאורעות תרפ״א (‘אירועי 1921’).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -18545,12 +18832,27 @@
           "ref": "palquest-dawayima",
           "locator": "text",
           "quote": "The assault was carried out by the 89th commando battalion, which was part of the Israeli army’s 8th Armored Brigade, under the command of Yitzhak Sadeh"
+        },
+        {
+          "ref": "forensic-architecture-2025-tur-al-zagh",
+          "locator": "investigation title and abstract (site feed)",
+          "quote": "a major massacre carried out by Israeli forces on 29 Oct 1948 in the village of al-Dawayima"
+        },
+        {
+          "ref": "zochrot-al-dawayima",
+          "locator": "village record (structured fields)",
+          "quote": "Occupation date: 29/10/1948"
+        },
+        {
+          "ref": "zochrot-al-dawayima",
+          "locator": "village record (structured fields)",
+          "quote": "Occupying unit: 8th brigade"
         }
       ],
       "notes": {
-        "en": "Only a Palestinian source (PalQuest) was opened for this record; it describes the event as 'A Most Brutal Massacre Long Kept Under Wraps'. Hebrew Wikidata label: פרשת דווימה ('the Dawayima affair'). No casualty figures given (they are disputed). An Israeli or independent source should be added in review.",
-        "ar": "لم يُفتح لهذا السجل إلا مصدر فلسطيني (PalQuest)؛ وهو يصف الحدث بأنه ‘A Most Brutal Massacre Long Kept Under Wraps’. تسمية ويكي بيانات بالعبرية: פרשת דווימה (‘قضية الدوايمة’). لا تُعطى أرقام للضحايا (فهي محل خلاف). ينبغي إضافة مصدر إسرائيلي أو مستقل في المراجعة.",
-        "he": "לרשומה זו נפתח רק מקור פלסטיני (PalQuest); הוא מתאר את האירוע כ-‘A Most Brutal Massacre Long Kept Under Wraps’. תווית ויקינתונים בעברית: פרשת דווימה. אין מספרי נפגעים (הם שנויים במחלוקת). יש להוסיף בביקורת מקור ישראלי או עצמאי.",
+        "en": "Sources: PalQuest (Palestinian; it describes the event as 'A Most Brutal Massacre Long Kept Under Wraps'), Forensic Architecture (UK research agency, 2025; investigation with the Palestine Land Society) and Zochrot's village record (Israeli NGO; occupation date 29 October 1948, occupying unit 8th Brigade). Hebrew Wikidata label: פרשת דווימה ('the Dawayima affair'). No casualty figures given (they are disputed). The 89th Battalion's role rests on PalQuest alone; an Israeli archival or official account was not opened.",
+        "ar": "المصادر: PalQuest (فلسطيني؛ يصف الحدث بأنه “A Most Brutal Massacre Long Kept Under Wraps”)، وForensic Architecture (وكالة أبحاث بريطانية، 2025؛ تحقيق بالتعاون مع جمعية الأراضي الفلسطينية Palestine Land Society)، وسجل القرية لدى زوخروت (منظمة غير حكومية إسرائيلية؛ تاريخ الاحتلال 29 تشرين الأول/أكتوبر 1948، والوحدة المحتلة اللواء الثامن). تسمية ويكيداتا بالعبرية: פרשת דווימה (“قضية الدوايمة”). لم تُذكر أعداد الضحايا (فهي محل خلاف). ويستند دور الكتيبة 89 إلى PalQuest وحده؛ ولم يُطلع على رواية إسرائيلية أرشيفية أو رسمية.",
+        "he": "מקורות: PalQuest (פלסטיני; מתאר את האירוע כ-‘A Most Brutal Massacre Long Kept Under Wraps’), Forensic Architecture (גוף מחקר בריטי, 2025; חקירה יחד עם Palestine Land Society) ורשומת הכפר של זוכרות (ארגון לא ממשלתי ישראלי; תאריך הכיבוש 29 באוקטובר 1948, היחידה הכובשת חטיבה 8). תווית ויקינתונים בעברית: פרשת דווימה (‘פרשת דווימה’). לא ניתנים נתוני נפגעים (הם שנויים במחלוקת). תפקידו של גדוד 89 מבוסס על PalQuest בלבד; תיאור ארכיוני או רשמי ישראלי לא נפתח.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -19534,12 +19836,27 @@
           "ref": "un-s-res-228-1966",
           "locator": "para. 2",
           "quote": "Censures Israel for this large-scale military action in violation of the United Nations Charter and of the General Armistice Agreement"
+        },
+        {
+          "ref": "jta-1966-11-14-samu-reprisal",
+          "locator": "Daily News Bulletin 14 Nov 1966, p. 1 (dispatch datelined Jerusalem, Nov. 13)",
+          "quote": "Israel’s army staged a reprisal raid into Jordan in broad daylight this morning."
+        },
+        {
+          "ref": "jta-1966-11-14-samu-reprisal",
+          "locator": "same dispatch, Israeli army statement",
+          "quote": "Israeli forces which consisted of half-tracks and armor crossed the border shortly after 6 a.m. and rapidly neared the Village of Samua."
+        },
+        {
+          "ref": "jta-1966-11-14-samu-reprisal",
+          "locator": "same dispatch, Israeli army statement",
+          "quote": "When the Jordanians based at the Rudjum Fadoa police station opened fire with Loretta guns against the Israeli forces, Israeli armor returned the fire, silencing them."
         }
       ],
       "notes": {
-        "en": "Israel's code name ('Operation Shredder') was not verified in an opened source. Clashes with the Jordanian army are general knowledge not stated in the resolution text; side B is listed because the raid was on Jordanian-ruled territory and Jordan brought the complaint. Wikidata labels: Arabic معركة السموع ('battle of al-Samu'), Hebrew פעולת סמוע ('the Samu operation').",
-        "ar": "اسم إسرائيل الرمزي (‘Operation Shredder’) لم يُتحقق منه في مصدر مفتوح. الاشتباكات مع الجيش الأردني معلومة عامة غير مذكورة في نص القرار؛ والطرف ب مدرج لأن الغارة وقعت على أرض خاضعة لحكم أردني ولأن الأردن قدّم الشكوى. تسميات ويكي بيانات: بالعربية معركة السموع، وبالعبرية פעולת סמוע (‘عملية السموع’).",
-        "he": "שם הקוד הישראלי (‘Operation Shredder’) לא אומת במקור שנפתח. עימותים עם הצבא הירדני הם ידיעה כללית שאינה נאמרת בנוסח ההחלטה; צד ב' רשום משום שהפשיטה הייתה על שטח בשלטון ירדני וירדן הגישה את התלונה. תוויות ויקינתונים: בערבית معركة السموع (‘הקרב באל-סמוע’), בעברית פעולת סמוע.",
+        "en": "Israel's code name ('Operation Shredder') was not verified in an opened source. A contemporary JTA report (relaying Israeli cabinet and army statements) presents the raid as a reprisal for a mine attack on an Israeli patrol in the Hebron hills two days earlier and describes exchanges of fire with Jordanian forces at a police post and with Jordanian aircraft; Jordan is side B for those clashes and because it brought the complaint to the Security Council. Wikidata labels: Arabic معركة السموع ('battle of al-Samu'), Hebrew פעולת סמוע ('the Samu operation').",
+        "ar": "لم يُتحقق من الاسم الرمزي الإسرائيلي (“Operation Shredder”) في مصدر جرى الاطلاع عليه. ويعرض تقرير معاصر لـ JTA (ينقل بيانات مجلس الوزراء والجيش الإسرائيليين) الغارة بوصفها ردًا على هجوم بلغم على دورية إسرائيلية في جبال الخليل قبل يومين، ويصف تبادل إطلاق النار مع القوات الأردنية عند مخفر شرطة ومع طائرات أردنية؛ والأردن هو الطرف ب في تلك الاشتباكات ولأنه قدّم الشكوى إلى مجلس الأمن. تسميات ويكيداتا: بالعربية معركة السموع، وبالعبرية פעולת סמוע (“عملية السموع”).",
+        "he": "שם הקוד הישראלי (‘Operation Shredder’) לא אומת במקור שנפתח. דיווח עכשווי של JTA (המשדר הצהרות של הקבינט והצבא הישראליים) מציג את הפשיטה כתגמול על פיצוץ מוקש בסיור ישראלי בהרי חברון יומיים קודם לכן, ומתאר חילופי אש עם כוחות ירדניים בתחנת משטרה ועם מטוסים ירדניים; ירדן היא צד ב' בעימותים אלה ומשום שהגישה את התלונה למועצת הביטחון. תוויות ויקינתונים: בערבית معركة السموع (‘קרב א-סמוע’), בעברית פעולת סמוע.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -19841,12 +20158,22 @@
           "ref": "israel-mfa-arab-israeli-wars",
           "locator": "same section",
           "quote": "agreed with the USSR to put an end to the war under the \"cease-fire stand-still\""
+        },
+        {
+          "ref": "masrawy-2013-egypt-israel-timeline",
+          "locator": "timeline entry 8 March 1968",
+          "quote": "بدء حرب الاستنزاف والتي استمرت حتى عام 1970."
+        },
+        {
+          "ref": "masrawy-2013-egypt-israel-timeline",
+          "locator": "timeline entry 8 August 1970",
+          "quote": "إعلان وقف إطلاق النيران، نتيجة لمبادرة روجرز."
         }
       ],
       "notes": {
-        "en": "Dating varies: the Israel MFA dates it 1968-70; Egypt formally announced it in March 1969, and Wikidata gives starts of July 1967 / March 1969 and an end of 7 August 1970 (ceasefire). The month of the ceasefire (August 1970) is from Wikidata, not from an opened source. An Arab/Egyptian source was not opened for this record. Wikidata labels ar حرب الاستنزاف, he מלחמת ההתשה both mean 'War of Attrition'.",
-        "ar": "يختلف التأريخ: تؤرخها وزارة الخارجية الإسرائيلية بـ 1968-70؛ وأعلنتها مصر رسميًا في آذار/مارس 1969، ويعطي ويكي بيانات بدايتين هما تموز/يوليو 1967 وآذار/مارس 1969 ونهاية في 7 آب/أغسطس 1970 (وقف إطلاق النار). وشهر وقف إطلاق النار (آب/أغسطس 1970) من ويكي بيانات وليس من مصدر مفتوح. ولم يُفتح مصدر عربي/مصري لهذا السجل. تسميتا ويكي بيانات ar حرب الاستنزاف وhe מלחמת ההתשה تعنيان كلتاهما ‘War of Attrition’.",
-        "he": "התארוך משתנה: משרד החוץ הישראלי מתארך אותה ל-1968-70; מצרים הכריזה עליה רשמית במרץ 1969, וויקינתונים נותן התחלות של יולי 1967 / מרץ 1969 וסיום ב-7 באוגוסט 1970 (הפסקת אש). חודש הפסקת האש (אוגוסט 1970) הוא מויקינתונים ולא ממקור שנפתח. לא נפתח מקור ערבי/מצרי לרשומה זו. תוויות ויקינתונים ar حرب الاستنزاف ו-he מלחמת ההתשה פירושן שתיהן ‘War of Attrition’.",
+        "en": "Dating varies: the Israel MFA dates it 1968-70; Egypt formally announced it in March 1969, and Wikidata gives starts of July 1967 / March 1969 and an end of 7 August 1970 (ceasefire). An Egyptian press chronology (Masrawy, 2013) gives 8 March 1968 for the start (\"start of the War of Attrition, which lasted until 1970\") and 8 August 1970 for the ceasefire (\"declaration of the ceasefire as a result of the Rogers initiative\"); Wikidata gives 7 August. Wikidata labels ar حرب الاستنزاف, he מלחמת ההתשה both mean 'War of Attrition'.",
+        "ar": "يختلف التأريخ: تؤرخها وزارة الخارجية الإسرائيلية بين 1968 و1970؛ وأعلنتها مصر رسميًا في آذار/مارس 1969، ويعطي ويكيداتا بدايتين هما تموز/يوليو 1967 وآذار/مارس 1969 ونهاية في 7 آب/أغسطس 1970 (وقف إطلاق النار). ويعطي تسلسل زمني صحفي مصري (مصراوي، 2013) 8 آذار/مارس 1968 للبداية (“بداية حرب الاستنزاف التي استمرت حتى عام 1970”) و8 آب/أغسطس 1970 لوقف إطلاق النار (“إعلان وقف إطلاق النار نتيجة لمبادرة روجرز”)؛ ويعطي ويكيداتا 7 آب/أغسطس. تسميتا ويكيداتا بالعربية حرب الاستنزاف وبالعبرية מלחמת ההתשה تعنيان كلتاهما “War of Attrition”.",
+        "he": "התארוך משתנה: משרד החוץ הישראלי מתארך אותה ל-1968-70; מצרים הכריזה עליה רשמית במרץ 1969, וויקינתונים מציין תחילות ביולי 1967 / מרץ 1969 וסיום ב-7 באוגוסט 1970 (הפסקת אש). כרונולוגיה בעיתונות המצרית (Masrawy, 2013) מציינת 8 במרץ 1968 כהתחלה (“תחילת מלחמת ההתשה שנמשכה עד 1970”) ו-8 באוגוסט 1970 כהפסקת האש (“הכרזת הפסקת האש כתוצאה מיוזמת רוג'רס”); ויקינתונים מציין 7 באוגוסט. תוויות ויקינתונים בערבית حرب الاستنزاف ובעברית מלחמת ההתשה פירושן שתיהן ‘War of Attrition’.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -19954,12 +20281,27 @@
           "ref": "palquest-karama-1968",
           "locator": "highlight text",
           "quote": "Although the Israeli army succeeding in destroying the fedayeen base at al-Karama, it suffered relatively heavy losses in the process"
+        },
+        {
+          "ref": "jta-1968-03-22-karameh-operation",
+          "locator": "Daily News Bulletin 22 Mar 1968, p. 1 (dispatch datelined Tel Aviv, Mar. 21)",
+          "quote": "Israeli forces crossed into Jordan at two points, beginning at 3 o’clock this morning, local time."
+        },
+        {
+          "ref": "jta-1968-03-22-karameh-operation",
+          "locator": "same dispatch",
+          "quote": "Carameh village in the central sector, the main staging base for El Fatah raids, and its adjacent refugee camp were seized by paratroops landed from helicopters"
+        },
+        {
+          "ref": "jta-1968-03-22-karameh-operation",
+          "locator": "same dispatch",
+          "quote": "Observers here predicted that Jordan would hail the pre-arranged Israeli withdrawal as a “victory.”"
         }
       ],
       "notes": {
-        "en": "Only a Palestinian source (PalQuest) was opened; the outcome is assessed differently - Jordan and the Palestinian organisations celebrate it as a victory, while Israeli accounts stress that the raid destroyed the base (not verified in an opened Israeli source). Wikidata labels: Arabic معركة الكرامة ('battle of al-Karama'), Hebrew פעולת כראמה ('the Karameh operation').",
-        "ar": "لم يُفتح إلا مصدر فلسطيني (PalQuest)؛ وتُقيَّم النتيجة بصور مختلفة - يحتفل الأردن والمنظمات الفلسطينية بها نصرًا، بينما تبرز الروايات الإسرائيلية أن الغارة دمرت القاعدة (لم يُتحقق من ذلك في مصدر إسرائيلي مفتوح). تسميتا ويكي بيانات: بالعربية معركة الكرامة، وبالعبرية פעולת כראמה (‘عملية الكرامة’).",
-        "he": "נפתח רק מקור פלסטיני (PalQuest); התוצאה מוערכת באופן שונה - ירדן והארגונים הפלסטיניים חוגגים אותה כניצחון, ואילו התיאורים הישראליים מדגישים שהפשיטה השמידה את הבסיס (לא אומת במקור ישראלי שנפתח). תוויות ויקינתונים: בערבית معركة الكرامة (‘קרב אל-כראמה’), בעברית פעולת כראמה.",
+        "en": "Sources: PalQuest (Palestinian) and a contemporary JTA report relaying Israeli military statements. The outcome is assessed differently: Jordan and the Palestinian organisations celebrate it as a victory, while the Israeli account stresses that the operation destroyed the Fatah bases and that the withdrawal was pre-arranged (JTA, 21 March 1968). Wikidata labels: Arabic معركة الكرامة ('battle of al-Karama'), Hebrew פעולת כראמה ('the Karameh operation').",
+        "ar": "المصادر: PalQuest (فلسطيني) وتقرير معاصر لـ JTA ينقل بيانات عسكرية إسرائيلية. تُقيَّم النتيجة بصورة مختلفة: يحتفي بها الأردن والمنظمات الفلسطينية بوصفها انتصارًا، بينما تشدد الرواية الإسرائيلية على أن العملية دمرت قواعد فتح وأن الانسحاب كان مرتبًا مسبقًا (JTA، 21 آذار/مارس 1968). تسميتا ويكيداتا: بالعربية معركة الكرامة، وبالعبرية פעולת כראמה (“عملية الكرامة”).",
+        "he": "מקורות: PalQuest (פלסטיני) ודיווח עכשווי של JTA המשמר הצהרות צבאיות ישראליות. התוצאה מוערכת באופן שונה: ירדן והארגונים הפלסטיניים חוגגים אותה כניצחון, ואילו התיאור הישראלי מדגיש שהמבצע הרס את בסיסי הפתח ושהנסיגה הייתה מתוכננת מראש (JTA, 21 במרץ 1968). תוויות ויקינתונים: בערבית معركة الكرامة (‘קרב אל-כראמה’), בעברית פעולת כראמה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -21642,12 +21984,27 @@
           "ref": "israel-mfa-arab-israeli-wars",
           "locator": "same section",
           "quote": "For Israel, this war was characterized as the War of the Civilian Rear"
+        },
+        {
+          "ref": "jta-1992-01-17-gulf-war-remembered",
+          "locator": "Daily News Bulletin 17 January 1992",
+          "quote": "The war began on Jan. 17, 1991, when the United States led a 28-nation coalition into battle to oust the Iraqi invaders from Kuwait. Only hours later, the first Iraqi Scud missiles crashed into Tel Aviv and Haifa."
+        },
+        {
+          "ref": "jta-1992-01-17-gulf-war-remembered",
+          "locator": "same report",
+          "quote": "Israel was the only non-belligerent target of Iraqi missile attacks."
+        },
+        {
+          "ref": "jta-1992-01-17-gulf-war-remembered",
+          "locator": "same report",
+          "quote": "whether Israel should have retaliated against Iraq regardless of the wishes of the United States"
         }
       ],
       "notes": {
-        "en": "Context record. Exact dates of the first and last missile attacks (January and February 1991) were not given in the opened source; months are approximate. Coordinates: Tel Aviv (Wikidata Q33935).",
-        "ar": "سجل سياقي. لم تُذكر في المصدر المفتوح التواريخ الدقيقة لأول هجوم صاروخي وآخره (كانون الثاني/يناير وشباط/فبراير 1991)؛ والأشهر تقريبية. الإحداثيات: تل أبيب (ويكي بيانات Q33935).",
-        "he": "רשומת הקשר. התאריכים המדויקים של מתקפות הטילים הראשונה והאחרונה (ינואר ופברואר 1991) לא נמסרו במקור שנפתח; החודשים מקורבים. קואורדינטות: תל אביב (ויקינתונים Q33935).",
+        "en": "Context record. JTA (January 1992) says the first Iraqi Scuds struck Tel Aviv and Haifa hours after the US-led coalition went to war on 17 January 1991, and that missiles fell on Israel during the six weeks of fighting; the date of the last attack (February 1991) was not verified, so the end month remains approximate. Coordinates: Tel Aviv (Wikidata Q33935).",
+        "ar": "سجل سياقي. يقول JTA (كانون الثاني/يناير 1992) إن أولى صواريخ سكود العراقية ضربت تل أبيب وحيفا بعد ساعات من دخول التحالف بقيادة الولايات المتحدة الحرب في 17 كانون الثاني/يناير 1991، وإن الصواريخ سقطت على إسرائيل طوال ستة أسابيع من القتال؛ ولم يُتحقق من تاريخ آخر هجوم (شباط/فبراير 1991)، لذا يبقى شهر النهاية تقريبيًا. الإحداثيات: تل أبيب (ويكيداتا Q33935).",
+        "he": "רשומת הקשר. JTA (ינואר 1992) אומר שטילי הסקאד העיראקיים הראשונים פגעו בתל אביב ובחיפה שעות לאחר שהקואליציה בהובלת ארה״ב יצאה למלחמה ב-17 בינואר 1991, ושטילים נפלו על ישראל במהלך ששת שבועות הלחימה; מועד ההתקפה האחרונה (פברואר 1991) לא אומת, ולכן חודש הסיום נותר משוער. קואורדינטות: תל אביב (ויקינתונים Q33935).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -21967,12 +22324,27 @@
           "ref": "palquest-october-2000-events",
           "locator": "section 'Or Commission Report'",
           "quote": "the Or Commission issued its report in late October 2003. The commission acknowledged that there was no justification for killings during the protests"
+        },
+        {
+          "ref": "jta-2003-09-02-arabs-react-orr-report",
+          "locator": "article of 2 September 2003",
+          "quote": "Three years ago, on Oct. 2, 2000, Arab protestors from Sakhnin and Arabeh in the north all the way to the Negev in the south clashed with Israeli police at demonstrations in support of the new Palestinian intifada."
+        },
+        {
+          "ref": "jta-2003-09-02-arabs-react-orr-report",
+          "locator": "same article",
+          "quote": "Ron had ordered the use of snipers and live fire \"without justification,\" the report found."
+        },
+        {
+          "ref": "jta-2003-09-02-arabs-react-orr-report",
+          "locator": "same article",
+          "quote": "had incited their populace against the state with inflammatory speeches that encouraged violence."
         }
       ],
       "notes": {
-        "en": "Only a Palestinian source (PalQuest) was opened; it also reports the Or Commission's finding that Arab leaders had incited confrontation. Arabic usage 'Habbat October' (Wikidata Arabic label هبة أكتوبر); Hebrew 'the October 2000 events' (אירועי אוקטובר 2000). Coordinates: Nazareth (approximate, not from Wikidata).",
-        "ar": "لم يُفتح إلا مصدر فلسطيني (PalQuest)؛ وهو يورد أيضًا استنتاج لجنة أور بأن قادة عربًا حرّضوا على المواجهة. الاستخدام العربي ‘هبّة أكتوبر’ (تسمية ويكي بيانات بالعربية هبة أكتوبر)؛ وبالعبرية ‘أحداث تشرين الأول/أكتوبر 2000’ (אירועי אוקטובר 2000). الإحداثيات: الناصرة (تقريبية، ليست من ويكي بيانات).",
-        "he": "נפתח רק מקור פלסטיני (PalQuest); הוא מדווח גם על מסקנת ועדת אור שמנהיגים ערבים הסיתו להתנגשות. השימוש הערבי ‘Habbat October’ (תווית ויקינתונים בערבית هبة أكتوبر ‘מהומת אוקטובר’); בעברית ‘אירועי אוקטובר 2000’. קואורדינטות: נצרת (מקורבות, לא מויקינתונים).",
+        "en": "Sources: PalQuest (Palestinian) and a JTA report on the Or Commission (2003). Per JTA, the commission found that the police northern commander had ordered snipers and live fire \"without justification\", that many police officers were prejudiced against Arab citizens, and that some Arab leaders had incited their communities. Arabic usage 'Habbat October' (Wikidata Arabic label هبة أكتوبر); Hebrew 'the October 2000 events' (אירועי אוקטובר 2000). Coordinates: Nazareth (approximate, not from Wikidata).",
+        "ar": "المصادر: PalQuest (فلسطيني) وتقرير JTA عن لجنة أور (2003). بحسب JTA، وجدت اللجنة أن قائد الشرطة في المنطقة الشمالية أمر بنشر القناصة وإطلاق النار الحي “بلا مبرر”، وأن كثيرًا من ضباط الشرطة كانت لديهم أحكام مسبقة ضد المواطنين العرب، وأن بعض القادة العرب حرّضوا مجتمعاتهم. الاستخدام العربي “هبة أكتوبر” (تسمية ويكيداتا بالعربية هبة أكتوبر)؛ وبالعبرية “أحداث تشرين الأول/أكتوبر 2000” (אירועי אוקטובר 2000). الإحداثيات: الناصرة (تقريبية، ليست من ويكيداتا).",
+        "he": "מקורות: PalQuest (פלסטיני) ודיווח של JTA על ועדת אור (2003). לפי JTA, הוועדה מצאה שמפקד המשטרה בצפון הורה על צלפים ועל אש חיה “ללא הצדקה”, ששוטרים רבים היו בעלי דעות קדומות כלפי אזרחים ערבים, ושחלק מהמנהיגים הערבים הסיתו את קהילותיהם. השימוש הערבי ‘הבת אוקטובר’ (תווית ויקינתונים בערבית هبة أكتوبر); בעברית ‘אירועי אוקטובר 2000’. קואורדינטות: נצרת (משוערות, לא מוויקינתונים).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -22086,6 +22458,11 @@
           "ref": "un-a-es-10-186",
           "locator": "summary",
           "quote": "Operation Defensive Shield was characterized by extensive curfews on civilian populations and restrictions"
+        },
+        {
+          "ref": "jta-2003-07-01-intifada-timeline",
+          "locator": "timeline, entry for 29 March 2002",
+          "quote": "March 29, 2002 — Israel launches Operation Defensive Shield, a massive invasion of the West Bank to rout out terrorist networks."
         }
       ],
       "notes": {
@@ -23350,12 +23727,32 @@
           "ref": "palquest-gaza-war-2021",
           "locator": "text",
           "quote": "the unity intifada in which Palestinian citizens of Israel and Palestinians in the territories occupied in 1967 rose in protest in May 2021"
+        },
+        {
+          "ref": "jta-2021-05-10-jerusalem-tumult",
+          "locator": "report of 10 May 2021",
+          "quote": "Israel’s parliament was evacuated and crowded streets in Jerusalem were sent into tumult as air raid sirens sounded ahead of a rocket barrage from Gaza"
+        },
+        {
+          "ref": "jta-2021-05-10-jerusalem-tumult",
+          "locator": "same report",
+          "quote": "The rockets came as Israeli police have repeatedly fought with Palestinians on Jerusalem’s Temple Mount, which Muslims revere as the Noble Sanctuary and which is the site of the Al-Aqsa mosque."
+        },
+        {
+          "ref": "unispal-2021-05-21-ceasefire-briefing",
+          "locator": "noon briefing, 21 May 2021",
+          "quote": "Last night, the Secretary-General welcomed the ceasefire that took place in Gaza and Israel, after 11 days of deadly hostilities."
+        },
+        {
+          "ref": "unispal-2021-05-21-ceasefire-briefing",
+          "locator": "same briefing",
+          "quote": "Mr. Guterres commended Egypt and Qatar for the efforts carried out, in close coordination with the UN, to help restore calm in Gaza and Israel."
         }
       ],
       "notes": {
-        "en": "Only a Palestinian-institution source (PalQuest) was opened for this record; it gives both sides' operation names. Background: clashes at al-Aqsa during Ramadan and threatened evictions in Sheikh Jarrah. Hebrew name 'Shomer ha-Homot'. Wikidata Hebrew label המהומות בישראל (2021) ('the 2021 riots in Israel').",
-        "ar": "لم يُفتح لهذا السجل إلا مصدر من مؤسسة فلسطينية (PalQuest)؛ وهو يورد اسمي العملية عند الطرفين. الخلفية: اشتباكات في الأقصى خلال رمضان وتهديدات بالإخلاء في الشيخ جراح. الاسم العبري ‘Shomer ha-Homot’ (‘حارس الأسوار’). تسمية ويكي بيانات بالعبرية המהומות בישראל (2021) (‘أعمال الشغب في إسرائيل 2021’).",
-        "he": "לרשומה זו נפתח רק מקור ממוסד פלסטיני (PalQuest); הוא מביא את שמות המבצע של שני הצדדים. רקע: עימותים באל-אקצא ברמדאן ואיומי פינוי בשייח' ג'ראח. השם העברי ׳שומר החומות׳ (Shomer ha-Homot). תווית ויקינתונים בעברית המהומות בישראל (2021).",
+        "en": "Sources: PalQuest (Palestinian institution; gives both sides' operation names), a JTA report of 10 May 2021 on the first rocket barrage at Jerusalem, and the UN Secretary-General's spokesperson on the ceasefire and the Egyptian and Qatari mediation. Background: clashes at al-Aqsa during Ramadan and threatened evictions in Sheikh Jarrah. Hebrew name 'Shomer ha-Homot'. Wikidata Hebrew label המהומות בישראל (2021) ('the 2021 riots in Israel').",
+        "ar": "المصادر: PalQuest (مؤسسة فلسطينية؛ يورد اسمي عملية الطرفين)، وتقرير JTA بتاريخ 10 أيار/مايو 2021 عن أول رشقة صاروخية على القدس، والمتحدث باسم الأمين العام للأمم المتحدة بشأن وقف إطلاق النار والوساطة المصرية والقطرية. الخلفية: اشتباكات في الأقصى خلال شهر رمضان وتهديدات بإخلاء منازل في الشيخ جراح. الاسم العبري “شومر هحومات” (Shomer ha-Homot). تسمية ويكيداتا بالعبرية המהומות בישראל (2021) (“أعمال الشغب في إسرائيل 2021”).",
+        "he": "מקורות: PalQuest (מוסד פלסטיני; מציין את שמות המבצע של שני הצדדים), דיווח של JTA מ-10 במאי 2021 על מטח הרקטות הראשון לעבר ירושלים, והדובר של מזכ״ל האו״ם על הפסקת האש והתיווך המצרי והקטארי. רקע: עימותים באל-אקצא במהלך הרמדאן ואיומי פינוי בשייח' ג'ראח. השם העברי ‘שומר החומות’. תווית ויקינתונים בעברית המהומות בישראל (2021) (‘המהומות בישראל 2021’).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

@@ -523,3 +523,41 @@ Not downgraded: the Dead Sea readings for 1990–2026 are dated measurements fro
 Gaps:
 - The 2024 counts of asylum seekers and foreign workers rest on one official table; the Population Authority, UNHCR and OECD sites blocked automated access.
 - Some second sources for migration figures draw on the same Israeli statistics, so they are separate compilations rather than separate counts.
+
+### Second sources for single-source claims: events and conflicts (round I1)
+
+All 46 events and conflicts marked "documented" on a single source now have an independent second source: 146 quotes, 49 new works. No rating had to be lowered.
+- **Crusader period:** the Wisconsin *History of the Crusades*, including Cate on the Crusade of 1101.
+- **Holy Sepulchre (1048) and Atsiz:** TDV, Le Strange and the *Catholic Encyclopedia*.
+- **Mount Tabor (1799):** Berthier's *Relation* and J. H. Rose.
+- **Ancient events:** Honor and Montgomery (Eltekeh; the Samaritan revolt).
+- **First World War:** the British official histories and Liman von Sanders, the German general who commanded the Ottoman army group.
+- **Modern events:**
+  - Twenty contemporary JTA reports and FRUS 1949.
+  - The EU election observers' 2005 report.
+  - UN statements, Peace Now and Zochrot.
+  - Arab and international press: Al Jazeera, Arab News, Masrawy, RFE/RL, CBC, NPR/AP.
+
+**Balancing sides:**
+- Records that had only a Palestinian source gained Israeli or Western ones: Land Day, Karameh, October 2000, May 2021, al-Dawayima.
+- Records that had only Western or Israeli sources gained Arab ones: the Khartoum summit, the War of Attrition, the Arab Peace Initiative.
+- Israel's reactions are now quoted for the ICJ order, the ICC warrants and General Assembly resolution ES-10/24.
+
+Changes:
+- **Day dates:**
+  - Montgisard: 25 November 1177.
+  - La Forbie: 17 October 1244. The note now names the forces on each side.
+  - The Biltmore Program: 11 May 1942.
+- **Mount Tabor (1799):** the outcome is now sourced instead of "general knowledge". The sources differ by a day (15 or 16 April).
+- **Holy Sepulchre:** notes record that one account names Michael IV instead of Constantine IX, and that the destruction is dated 1009 or 1010.
+- **Other dates added to notes:** Romani (night of 3/4 August 1916), the Third Battle of Gaza, the War of Attrition (Egyptian dates 8 March 1968 – 8 August 1970), the PLO vice-presidency (26 April 2025), and the Samaritan revolt (484, Montgomery).
+- **Notes rewritten:** notes that called a record "single-source" or "Palestinian source only" now name the sources.
+- **A JTA article from May 2021 is cited but not linked:** its web address contains a casualty figure.
+
+Gaps:
+- No Israeli archival account of al-Dawayima was opened. The 89th Battalion's role rests on PalQuest alone.
+- No Israeli government source for May 2021: the official sites blocked automated access.
+- No Ottoman account of Mount Tabor was found.
+- The day of the 1101 battle of Ramla is not verified.
+- The end date of Operation Defensive Shield still rests on Wikidata.
+- The second source for resolution 43/177 is the UN's own text.
