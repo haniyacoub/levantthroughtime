@@ -102,7 +102,8 @@
       "step": { "unit": "year", "size": 5 },
       "fine_steps": [
         { "start": { "year": 1185 }, "end": { "year": 1193 }, "unit": "year", "size": 1 },
-        { "start": { "year": 1228 }, "end": { "year": 1245 }, "unit": "year", "size": 1 }
+        { "start": { "year": 1228 }, "end": { "year": 1245 }, "unit": "year", "size": 1 },
+        { "start": { "year": 1250 }, "end": { "year": 1260 }, "unit": "year", "size": 1 }
       ]
     },
     {

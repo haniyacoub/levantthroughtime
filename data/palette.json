@@ -111,6 +111,10 @@
     "lebanon": {
       "color": "#99DDFF",
       "rationale": "Light cyan (Tol \"light\"): avoids the red, white and green of the Lebanese flag."
+    },
+    "mamluk-sultanate": {
+      "color": "#EE8866",
+      "rationale": "Light orange: the automatic choice (rose) was too close to the Ayyubid sultanate's wine colour where the two shared a border in 1250-1260, and teal was too close to the green of the Mamluk provinces."
     }
   }
 }
