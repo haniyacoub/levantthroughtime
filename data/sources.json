@@ -482,6 +482,42 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "alhaq-2011-gisha-rejoinder",
+      "type": "report",
+      "authors": [
+        "Al-Haq"
+      ],
+      "title": "Al-Haq's Rejoinder to Gisha's 'Scale of Control' Report: Israel's Continued Responsibility as the Occupying Power in the Gaza Strip",
+      "publisher": "Al-Haq (Ramallah)",
+      "year": 2011,
+      "url": "https://www.alhaq.org/cached_uploads/download/alhaq_files/images/stories/PDF/Gisha-Rejoinder.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full 5-page PDF, linked from Al-Haq's advocacy page dated 12 December 2011 (https://www.alhaq.org/advocacy/6946.html). Al-Haq is a Palestinian human-rights organisation."
+      },
+      "kind": "ngo",
+      "institution_country": "PS"
+    },
+    {
+      "id": "aljazeera-2004-06-01-iraq-jews-compensation",
+      "type": "web",
+      "title": "Israel wants Iraq to pay compensation",
+      "container": "Al Jazeera (English)",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2004,
+      "url": "https://www.aljazeera.com/news/2004/6/1/israel-wants-iraq-to-pay-compensation",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (1 June 2004, no byline; live page)."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
       "id": "aljazeera-2023-10-07-al-aqsa-flood",
       "type": "web",
       "title": "Israel retaliation kills ... Palestinians after Hamas operation [live report, 7 Oct 2023]",
@@ -1003,6 +1039,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "annahar-2017-04-17-qana",
+      "type": "web",
+      "authors": [
+        "Abu Shaqra, Salwa"
+      ],
+      "title": "مجزرة قانا... 10 دقائق هزَّت لبنان لا الضمير العالمي (The Qana massacre: ten minutes that shook Lebanon but not the world's conscience)",
+      "container": "An-Nahar",
+      "publisher": "An-Nahar (Beirut)",
+      "year": 2017,
+      "url": "https://www.annahar.com/article/571022-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%82%D8%A7%D9%86%D8%A7-10-%D8%AF%D9%82%D8%A7%D8%A6%D9%82-%D9%87%D8%B2%D8%AA-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%84%D8%A7-%D8%A7%D9%84%D8%B6%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (Arabic, 17 April 2017, live page), including the interview with MP Abdel Majid Saleh, head of the committee commemorating the martyrs of Qana and the South. The '10' in the title refers to minutes, not to victims. The article gives a death toll, which is not used here."
+      },
+      "kind": "press",
+      "institution_country": "LB"
+    },
+    {
       "id": "antiochus-strategos-conybeare-1910",
       "type": "article",
       "authors": [
@@ -1282,6 +1338,26 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "ashrawi-2012-09-06-huffpost-refugee",
+      "type": "web",
+      "authors": [
+        "Ashrawi, Hanan"
+      ],
+      "title": "Israel's Cynical Definition of 'Refugee'",
+      "container": "The Huffington Post (blog)",
+      "publisher": "The Huffington Post",
+      "year": 2012,
+      "url": "http://www.huffingtonpost.com/hanan-ashrawi/israels-cynical-definitio_b_1861279.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full post (6 September 2012; byline 'Member, Palestinian Parliament') via Internet Archive snapshot 20120909025559; the live HuffPost site refused automated access. It restates in English her Arabic-language article of the previous week, which was not found. Institution country is that of the author (a member of the PLO Executive Committee at the time); the post was published on a US site."
+      },
+      "kind": "press",
+      "institution_country": "PS"
     },
     {
       "id": "aub-libraries-lebanon-fifty-years-war",
@@ -11566,6 +11642,28 @@
       "institution_country": "GB"
     },
     {
+      "id": "elron-2019-yesodot-planning-body",
+      "type": "article",
+      "authors": [
+        "Elron, Ze'ev"
+      ],
+      "title": "גוף התכנון במטכ\"ל עד ל־1973 (The General Staff planning body up to 1973)",
+      "container": "Yesodot: The Journal of the IDF's History Department",
+      "publisher": "IDF History Department; Ministry of Defense Publishing House",
+      "volume": 1,
+      "year": 2019,
+      "pages": "288-325",
+      "url": "https://m.www.idf.il/media/mwalsvli/yesodot-1-a-8.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the abstract and the opening sections (pp. 288-294) on the Haganah's planning department and Plan D (Hebrew), in the article PDF on the IDF website; checked the journal's title, editors (Yigal Eyal, Eli Michelson), publisher and edition (vol. 1, 2019; 2nd edition 2022) in the PDF of the full issue on the same site. The PDF text layer reorders numerals in right-to-left lines, so the quotes avoid numbers; the date 10 March 1948 is read from the printed page."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "emmena-2004-jews-middle-east",
       "type": "chapter",
       "authors": [
@@ -12740,7 +12838,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article."
+        "note": "Read the full article. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the full article, section 'After Oslo, Can the Territories be Classified as \"Occupied\"?'."
       },
       "kind": "ngo",
       "institution_country": "IL",
@@ -14702,6 +14800,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "israel-gov-2000-12-28-mitchell-first-statement",
+      "type": "document",
+      "authors": [
+        "Government of Israel"
+      ],
+      "title": "Sharm el-Sheikh Fact-Finding Committee - First Statement of the Government of Israel (28 December 2000)",
+      "container": "Israel Ministry of Foreign Affairs website (MFA archive, 2000)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 2000,
+      "url": "http://www.mfa.gov.il/MFA/MFA-Archive/2000/Pages/Sharm%20el-Sheikh%20Fact-Finding%20Committee%20-%20First%20Sta.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read via Internet Archive snapshot 20150726034857: the introduction, the summary of Israel's position, the sections on the failure of Camp David and on the immediate causes of the violence, and the section on preparations for conflict; the long annexes were skimmed only."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-gov-2001-05-15-mitchell-comments",
+      "type": "document",
+      "authors": [
+        "Government of Israel"
+      ],
+      "title": "Israel's Comments on the Mitchell Committee Report (15 May 2001)",
+      "container": "Israel Ministry of Foreign Affairs website (MFA archive, 2001)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 2001,
+      "url": "http://www.mfa.gov.il/MFA/MFA-Archive/2001/Pages/Israel-s%20Comments%20on%20the%20Mitchell%20Committee%20Report.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full comments (dated 15 May 2001) via Internet Archive snapshot 20160419110933."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-hcj-2008-al-bassiouni",
       "type": "document",
       "authors": [
@@ -14742,6 +14880,46 @@
       ]
     },
     {
+      "id": "israel-mfa-1996-04-22-peres-knesset-grapes-of-wrath",
+      "type": "document",
+      "authors": [
+        "Peres, Shimon"
+      ],
+      "title": "Statement to the Knesset by Prime Minister Peres on Operation \"Grapes of Wrath\", 22 April 1996",
+      "container": "Israel's Foreign Relations: Selected Documents, Volume 15: 1995-1996, document 144 (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 1996,
+      "url": "http://www.mfa.gov.il/MFA/ForeignPolicy/MFADocuments/Yearbook10/Pages/Statement%20to%20the%20Knesset%20by%20Prime%20Minister%20Peres%20o.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full statement and the editor's introduction via Internet Archive snapshot 20151026162419 (the live gov.il site blocks automated access)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-mfa-2002-04-14-peres-jenin",
+      "type": "document",
+      "authors": [
+        "Israel Ministry of Foreign Affairs (Foreign Minister's Bureau)"
+      ],
+      "title": "FM Peres on the Fighting in Jenin (14 April 2002)",
+      "container": "Israel Ministry of Foreign Affairs, Press Room 2002",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 2002,
+      "url": "http://mfa.gov.il/MFA/PressRoom/2002/Pages/FM%20Peres%20on%20the%20Fighting%20in%20Jenin%20-%2014-Apr-2002.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full press release via Internet Archive snapshot 20151210132626. It also gives Israeli military losses, which are not used here."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-mfa-2015-gaza-conflict-report",
       "type": "document",
       "title": "The 2014 Gaza Conflict (7 July - 26 August 2014): Factual and Legal Aspects",
@@ -14772,6 +14950,26 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the full page via Internet Archive snapshot 20140106201413 (downloaded by an earlier research step and read here): sections on the War of Independence, Sinai Campaign, Six-Day War, War of Attrition, Yom Kippur War, Operation Litani, Operation Peace for Galilee and the Gulf War. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the page via Internet Archive snapshot 20140106201413 and read the sections on 1956, 1967 and 1973 and on the disengagement agreements. | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the copy downloaded earlier in this project (Internet Archive snapshot of the MFA page): the sections 'The Sinai Campaign of 1956', 'The Six-Day War' and 'Operation Peace for Galilee (1982)'."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-mfa-ben-gurion-knesset-1955-11-02",
+      "type": "document",
+      "authors": [
+        "Ben-Gurion, David"
+      ],
+      "title": "Statement to the Knesset by Prime Minister Ben-Gurion, 2 November 1955 (excerpts)",
+      "container": "Israel's Foreign Relations: Selected Documents, Volumes 1-2: 1947-1974, ch. V 'The Failure of the Armistice', doc. 22 (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 1955,
+      "url": "http://www.mfa.gov.il/MFA/ForeignPolicy/MFADocuments/Yearbook1/Pages/22%20Statement%20to%20the%20Knesset%20by%20Prime%20Minister%20Ben-.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full excerpted statement via Internet Archive Wayback Machine snapshot 20151028134750 (mfa.gov.il/gov.il block automated requests). The editors' headnote says Ben-Gurion was presenting his new cabinet after the general elections."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -14836,7 +15034,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20160625181358: Byzantine, Arab, Crusader, Mamluk and early Ottoman sections."
+        "note": "Read via Internet Archive capture 20160625181358: Byzantine, Arab, Crusader, Mamluk and early Ottoman sections. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J1) via Internet Archive snapshot 20151206063235 of the MFA page: the British Mandate section on Arab opposition and the violence of 1920, 1921, 1929 and 1936-39 (incl. the Hebron Massacre of 1929)."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -14857,6 +15055,25 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-mfa-ifr-1947-1974-arab-refugees-intro",
+      "type": "document",
+      "authors": [
+        "Israel Ministry of Foreign Affairs"
+      ],
+      "title": "VI. The Arab Refugees: Introduction",
+      "container": "Israel's Foreign Relations: Selected Documents, Volumes 1-2: 1947-1974 (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "url": "http://www.mfa.gov.il/mfa/foreignpolicy/mfadocuments/yearbook1/pages/vi-%20the%20arab%20refugees-%20introduction.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full introduction via Internet Archive snapshot 20131227015045 (later snapshots are bot-check pages). It is the editors' introduction to the section, written from the Israeli government's standpoint; the page gives no author or date beyond the volume title (1947-1974)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "israel-mfa-presidents-of-israel",
@@ -14946,6 +15163,106 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "israel-pmo-2024-02-18-declaratory-decision",
+      "type": "web",
+      "authors": [
+        "Prime Minister's Office, State of Israel"
+      ],
+      "title": "Prime Minister's Office Announcement: Government declaratory decision regarding Israel's opposition to international diktats (18 February 2024)",
+      "container": "Israel Prime Minister's Office press release (text as mirrored by GlobalSecurity.org)",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "year": 2024,
+      "url": "https://www.globalsecurity.org/military/library/news/2024/02/mil-240218-israel-pm03.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "gov.il returns HTTP 403 to automated requests; read the complete text of the PMO announcement (dated 18.02.2024, 37th Government) as reproduced on GlobalSecurity.org, incl. the two-article text of the decision."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-pmo-2024-02-19-netanyahu-statement",
+      "type": "web",
+      "authors": [
+        "Netanyahu, Benjamin"
+      ],
+      "title": "Statement by PM Netanyahu (19 February 2024)",
+      "container": "Israel Prime Minister's Office press release (text as mirrored by GlobalSecurity.org)",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "year": 2024,
+      "url": "https://www.globalsecurity.org/military/library/news/2024/02/mil-240219-israel-pm03.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "gov.il returns HTTP 403 to automated requests; read the complete statement (dated 19.02.2024) as reproduced on GlobalSecurity.org."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-pmo-2024-12-08-golan-statement",
+      "type": "web",
+      "authors": [
+        "Netanyahu, Benjamin"
+      ],
+      "title": "PM Netanyahu's Statement from the Golan Heights (8 December 2024)",
+      "container": "Israel Prime Minister's Office press release (text as mirrored by GlobalSecurity.org)",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "year": 2024,
+      "url": "https://www.globalsecurity.org/wmd/library/news/syria/2024/syria-241208-israel-pm01.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "gov.il returns HTTP 403 to automated requests; read the complete statement (dated 08.12.2024) as reproduced on GlobalSecurity.org."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-pmo-2024-12-17-hermon",
+      "type": "web",
+      "authors": [
+        "Prime Minister's Office, State of Israel"
+      ],
+      "title": "PM Netanyahu on the Summit of Mt. Hermon: \"We will stay in this important place until another arrangement is found that ensures Israel's security\" (17 December 2024)",
+      "container": "Israel Prime Minister's Office press release (text as mirrored by GlobalSecurity.org)",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "year": 2024,
+      "url": "https://www.globalsecurity.org/wmd/library/news/syria/2024/syria-241217-israel-pm01.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "gov.il returns HTTP 403 to automated requests; read the complete release (dated 17.12.2024) as reproduced on GlobalSecurity.org."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-pmo-2025-11-19-buffer-zone-visit",
+      "type": "web",
+      "authors": [
+        "Prime Minister's Office, State of Israel"
+      ],
+      "title": "PM Netanyahu Visits Buffer Zone in Syria (19 November 2025)",
+      "container": "Israel Prime Minister's Office press release (text as mirrored by GlobalSecurity.org)",
+      "publisher": "Prime Minister's Office, State of Israel",
+      "year": 2025,
+      "url": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-251119-israel-pm01.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "gov.il returns HTTP 403 to automated requests; read the complete release (dated 19.11.2025) as reproduced on GlobalSecurity.org."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-pmo-refugee-issue",
       "type": "web",
       "title": "Background Papers: The Refugee Issue",
@@ -14972,7 +15289,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the Hebrew introduction (7 June 1967 proclamation; Military Order 947 of 1981). Quotes in Hebrew; English glosses are mine. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the State Comptroller .docx and read the Hebrew introduction (proclamation of 7.6.67; Order No. 947 of 1981)."
+        "note": "Read the Hebrew introduction (7 June 1967 proclamation; Military Order 947 of 1981). Quotes in Hebrew; English glosses are mine. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the State Comptroller .docx and read the Hebrew introduction (proclamation of 7.6.67; Order No. 947 of 1981). | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the Hebrew introduction (the military commander as 'substitute for the sovereign', legislative power kept by him in the areas under Israeli control, and the Civil Administration's role in Area C)."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -15015,6 +15332,44 @@
       "institution_country": "US"
     },
     {
+      "id": "israel-un-s-2023-742",
+      "type": "document",
+      "authors": [
+        "Erdan, Gilad (Permanent Representative of Israel to the United Nations)"
+      ],
+      "title": "Identical letters dated 7 October 2023 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council (S/2023/742)",
+      "publisher": "United Nations Security Council (letter of the Government of Israel)",
+      "year": 2023,
+      "url": "https://documents.un.org/api/symbol/access?s=S/2023/742&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full two-page letter (UN PDF, live, distributed 9 October 2023)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israel-un-s-2024-887",
+      "type": "document",
+      "authors": [
+        "Danon, Danny (Permanent Representative of Israel to the United Nations)"
+      ],
+      "title": "Identical letters dated 9 December 2024 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council (S/2024/887)",
+      "publisher": "United Nations Security Council (letter of the Government of Israel)",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=S/2024/887&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full one-page letter (UN PDF, live)."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-water-authority-dead-sea-level",
       "type": "dataset",
       "authors": [
@@ -15032,6 +15387,93 @@
         "note": "Downloaded all 694 records (resource 823479b4-4771-43d8-9189-6a2a1dcaaf10) through the CKAN datastore API on 2026-10-19; first record 01/10/1976 (-398.95 m), last record 04/10/2026 (-441.5 m). Also read the Hebrew dataset description (official measurements since 1900; level -392 m in 1900)."
       },
       "kind": "government",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israelhayom-2026-03-16-ground-operation",
+      "type": "web",
+      "title": "IDF launches ground operation in southern Lebanon",
+      "container": "Israel Hayom (English edition)",
+      "publisher": "Israel Hayom",
+      "year": 2026,
+      "url": "https://www.israelhayom.com/2026/03/16/idf-ground-operation-southern-lebanon-hezbollah-division-91/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "israelhayom.com returned HTTP 403 (Access Denied) to direct requests; read the full article (published 16 March 2026) via Internet Archive Wayback Machine snapshot 20260419043821."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
+      "id": "itic-2006-03-01-haniyeh-portrait",
+      "type": "report",
+      "authors": [
+        "Intelligence and Terrorism Information Center at the Center for Special Studies"
+      ],
+      "title": "Ismail Haniyeh: Portrait of the Hamas candidate for Palestinian prime minister",
+      "publisher": "Meir Amit Intelligence and Terrorism Information Center",
+      "year": 2006,
+      "url": "https://www.terrorism-info.org.il/en/18901/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full 6-page PDF bulletin dated 1 March 2006 (web page dated 28 February 2006). The bulletin states it is based on an article by Jonathan D. Halevi (Jerusalem Center for Public Affairs). Israeli research centre close to the defence establishment."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "itic-2007-06-18-hamas-takeover",
+      "type": "report",
+      "authors": [
+        "Intelligence and Terrorism Information Center at the Israel Intelligence Heritage & Commemoration Center"
+      ],
+      "title": "After Hamas took over the Gaza Strip, Abu Mazen dissolved the Palestinian national unity government and established an emergency Fatah-affiliated government",
+      "publisher": "Meir Amit Intelligence and Terrorism Information Center",
+      "year": 2007,
+      "url": "https://www.terrorism-info.org.il/en/18604/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the web text (posted 17 June 2007) and the 15-page PDF bulletin dated 18 June 2007 (updated 17 June), paras. 1-16 and the appendix heading."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "itic-2018-05-10-return-march-peak",
+      "type": "document",
+      "title": "Events of the \"Great Return March\" are expected to reach their peak on May 14 and 15, 2018, with mass penetration into Israel, accompanied by violence and terrorism (10 May 2018)",
+      "publisher": "Meir Amit Intelligence and Terrorism Information Center (ITIC)",
+      "year": 2018,
+      "url": "https://www.terrorism-info.org.il/app/uploads/2018/05/E_123_18.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the overview and the first pages of the PDF (report 123-18, dated 10 May 2018), on the ITIC website. The report also discusses expected casualties, which are not used here."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
+    },
+    {
+      "id": "itic-2023-09-10-possible-renewal-return-marches",
+      "type": "web",
+      "title": "Possible Renewal of the Return Marches (10 September 2023)",
+      "publisher": "Meir Amit Intelligence and Terrorism Information Center (the site now styles itself 'The Amit Terrorism and Intelligence Research Institute')",
+      "year": 2023,
+      "url": "https://www.terrorism-info.org.il/en/possible-renewal-of-the-return-marches/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full web version (published 10 September 2023), incl. its background paragraph on the origins and organisers of the 2018-2019 marches."
+      },
+      "kind": "ngo",
       "institution_country": "IL"
     },
     {
@@ -15123,6 +15565,23 @@
       },
       "kind": "press",
       "institution_country": "GB"
+    },
+    {
+      "id": "jcpa-2002-05-02-what-really-happened-in-jenin",
+      "type": "web",
+      "title": "What Really Happened in Jenin?",
+      "container": "Jerusalem Issue Briefs, vol. 1, no. 22 (2 May 2002)",
+      "publisher": "Jerusalem Center for Public Affairs (now the Jerusalem Center for Security and Foreign Affairs)",
+      "year": 2002,
+      "url": "https://jcfa.org/article/what-really-happened-in-jenin/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full issue brief on the live site (no personal byline; credited to 'The Jerusalem Center'). It gives casualty and destruction figures, which are not used here."
+      },
+      "kind": "ngo",
+      "institution_country": "IL"
     },
     {
       "id": "jeremias-1969-jerusalem-time-of-jesus",
@@ -15429,6 +15888,26 @@
       "institution_country": "US"
     },
     {
+      "id": "jpost-2009-01-09-abbas-term",
+      "type": "web",
+      "authors": [
+        "Abu Toameh, Khaled"
+      ],
+      "title": "Hamas: Abbas no longer heads PA",
+      "container": "The Jerusalem Post",
+      "publisher": "The Jerusalem Post",
+      "year": 2009,
+      "url": "https://www.jpost.com/Middle-East/Hamas-Abbas-no-longer-heads-PA-128520",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (dated 9 January 2009) from the article body embedded in the page."
+      },
+      "kind": "press",
+      "institution_country": "IL"
+    },
+    {
       "id": "jpost-2026-05-23-mladenov-roadmap",
       "type": "web",
       "title": "Board of Peace director-general Mladenov publishes roadmap for implementing Trump's Gaza plan",
@@ -15489,7 +15968,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article (11 Aug 2026)."
+        "note": "Read the full article (11 Aug 2026). | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the full article (11 Aug 2026), incl. the paragraphs on the Yellow Line and PM Netanyahu's position."
       },
       "kind": "press",
       "institution_country": "IL",
@@ -16337,6 +16816,26 @@
       "institution_country": "US"
     },
     {
+      "id": "kahan-commission-1983-report",
+      "type": "document",
+      "authors": [
+        "Commission of Inquiry into the Events at the Refugee Camps in Beirut (Kahan, Yitzhak, chair; Barak, Aharon; Efrat, Yona)"
+      ],
+      "title": "Report of the Commission of Inquiry into the events at the refugee camps in Beirut, 8 February 1983",
+      "container": "Israel's Foreign Relations: Selected Documents, Volume 8: 1982-1984, document 104 (Israel Ministry of Foreign Affairs website)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "year": 1983,
+      "url": "http://www.mfa.gov.il/mfa/foreignpolicy/mfadocuments/yearbook6/pages/104%20report%20of%20the%20commission%20of%20inquiry%20into%20the%20e.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English text on the MFA site via Internet Archive snapshot 20140107071931 (the live gov.il site blocks automated access): the editor's summary, the account of the Cabinet meeting of 19 September 1982, the chapters 'The Direct Responsibility', 'The Indirect Responsibility', 'Personal Responsibility' and 'Recommendations', and the members' names at the head and foot of the report."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "kaniewski-2011-sea-peoples",
       "type": "article",
       "authors": [
@@ -16709,7 +17208,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the PDF (Internet Archive snapshot 20251004140016): the new introduction summarising the 1959 article's findings."
+        "note": "Read the PDF (Internet Archive snapshot 20251004140016): the new introduction summarising the 1959 article's findings. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J1) in the PDF via Internet Archive snapshot 20251004140016 (the live palestine-studies.org file returned 403): the 2008 introduction (p. 30, summary of the 1959 article's findings) and the section 'Haifa and the myth of the Arab evacuation orders' (p. 39)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -17137,6 +17636,23 @@
       "institution_country": "GB"
     },
     {
+      "id": "lbci-2026-04-18-yellow-line",
+      "type": "web",
+      "title": "Israeli army says established 'Yellow Line' in Lebanon, as in Gaza",
+      "container": "LBCI News (English)",
+      "publisher": "Lebanese Broadcasting Corporation International",
+      "year": 2026,
+      "url": "https://www.lbcgroup.tv/news/lebanon-news/925998/israeli-army-says-established-yellow-line-in-lebanon-as-in-gaza/en",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full AFP-based report (published 18 April 2026) quoting the Israeli military's statement."
+      },
+      "kind": "press",
+      "institution_country": "LB"
+    },
+    {
       "id": "le-strange-1890",
       "type": "book",
       "authors": [
@@ -17484,6 +18000,24 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read ch. 1 ('The Emergence of Zionism', 'The \"Conquest of Labor\"', 'Economic Separatism and Working-Class Formation'), the King David Hotel passage in ch. 7 ('The PLL: Confusion, Drift, and Defeat') and ch. 9 ('The Descent into Madness'). Zachary Lockman is a US historian (New York University)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "lorch-1961-edge-of-the-sword",
+      "type": "book",
+      "authors": [
+        "Lorch, Netanel"
+      ],
+      "title": "The Edge of the Sword: Israel's War of Independence, 1947-1949",
+      "publisher": "Putnam, New York",
+      "year": 1961,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not opened: the only online copies found are Internet Archive lending-library copies, which are not used or linked. Read as quoted in the UN study 'The Origins and Evolution of the Palestine Problem, Part II' (un-dpr-origins-part2, text at footnote 66, citing p. 87), which introduces Lorch as 'an Israeli official'. Lorch's own MFA article (israel-mfa-arab-israeli-wars) describes him as founder of the IDF Historical Division and former Secretary-General of the Knesset. Publisher country is the US; the author's account is Israeli."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18576,6 +19110,43 @@
       "institution_country": "LB"
     },
     {
+      "id": "nad-2025-12-17-aggression-november-2025",
+      "type": "web",
+      "title": "Israel's Aggression Against Occupied Palestine: November 2025",
+      "container": "PLO Negotiations Affairs Department (nad.ps), media briefs",
+      "publisher": "PLO Negotiations Affairs Department",
+      "year": 2025,
+      "url": "https://www.nad.ps/en/media-room/media-briefs/israel%E2%80%99s-aggression-against-occupied-palestine-november-2025",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the brief's summary on the web page (posted 17 December 2025), incl. the paragraph on the Gaza Strip and the 'Yellow Line', and pp. 1-3 of the linked 6-page PDF report, whose overview has the same text; pp. 4-6 were not read. Official Palestinian position."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "nad-2026-03-04-february-2026-decisions",
+      "type": "report",
+      "authors": [
+        "PLO Negotiations Affairs Department, Negotiations and Support Unit"
+      ],
+      "title": "The Decisions Made by the Occupying Power, Israel, in February 2026 Consolidating Permanent Israeli Control over Occupied Palestine",
+      "container": "NAD media briefs (nad.ps)",
+      "publisher": "State of Palestine, PLO Negotiations Affairs Department",
+      "year": 2026,
+      "url": "https://www.nad.ps/sites/default/files/030426_latestisdecisions_eng_final.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full 13-page PDF brief dated 4 March 2026 (linked from the NAD media-brief page, which notes that the terminology guide was updated in April 2026): context (pp. 1-2), sections I-V on the security-cabinet decisions of 8 February and the government decision of 15 February 2026 (pp. 2-5), and the terminology guide (pp. 12-13). Official Palestinian position."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
       "id": "nad-faq-camp-david",
       "type": "web",
       "title": "Camp David Peace Proposal of July 2000 (FAQs)",
@@ -18720,6 +19291,40 @@
       "institution_country": "PS"
     },
     {
+      "id": "naharnet-2025-02-19-aoun-waltz",
+      "type": "web",
+      "title": "Aoun discusses Israeli withdrawal with US national security adviser",
+      "container": "Naharnet",
+      "publisher": "Naharnet (Beirut)",
+      "year": 2025,
+      "url": "https://www.naharnet.com/stories/en/311097-aoun-discusses-israeli-withdrawal-with-us-national-security-adviser",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (Naharnet Newsdesk, 19 February 2025), which reports a statement of the Lebanese Presidency."
+      },
+      "kind": "press",
+      "institution_country": "LB"
+    },
+    {
+      "id": "naharnet-2026-05-25-aoun-withdrawal",
+      "type": "web",
+      "title": "Aoun says Israeli withdrawal a 'non-negotiable' demand",
+      "container": "Naharnet",
+      "publisher": "Naharnet (Beirut)",
+      "year": 2026,
+      "url": "https://www.naharnet.com/stories/en/320325-aoun-says-israeli-withdrawal-a-non-negotiable-demand",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (Naharnet Newsdesk, 25 May 2026), which quotes President Aoun's Liberation Day statement; reader comments below the article were ignored."
+      },
+      "kind": "press",
+      "institution_country": "LB"
+    },
+    {
       "id": "napier-1842-war-in-syria",
       "type": "book",
       "authors": [
@@ -18841,6 +19446,23 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "nna-2025-02-18-joint-statement",
+      "type": "web",
+      "title": "Aoun, Berri, and Salam affirm unified Lebanese stance, Call for full Israeli withdrawal",
+      "container": "National News Agency (NNA), English service",
+      "publisher": "National News Agency, Lebanese Ministry of Information",
+      "year": 2025,
+      "url": "https://nna-leb.gov.lb/en/news/141765/aoun-berri-and-salam-affirm-unified-lebanese-stanc",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (published 18 February 2025) of the joint statement of the President, the Speaker and the Prime Minister; the web page renders its text in the browser, so the text was read from the site's own content feed for the same article (id 141765)."
+      },
+      "kind": "government",
+      "institution_country": "LB"
     },
     {
       "id": "nobel-arafat-facts",
@@ -20472,7 +21094,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the entry \"Israel's Gaza Redeployment, 2005\". | Re-read in Milestone 8: Re-downloaded in Milestone 8 round I (group I2) and re-read the passage on the evacuation of settlers (17-22 August 2005) and the completion of the military withdrawal ('by 21 September')."
+        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the entry \"Israel's Gaza Redeployment, 2005\". | Re-read in Milestone 8: Re-downloaded in Milestone 8 round I (group I2) and re-read the passage on the evacuation of settlers (17-22 August 2005) and the completion of the military withdrawal ('by 21 September'). | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the full entry, incl. the paragraph on the completion of the withdrawal in September 2005."
       },
       "kind": "academic",
       "institution_country": "PS",
@@ -20572,7 +21194,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full highlight (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the full highlight (by Maher Charif) incl. its date box \"5 June 1967 - 10 June 1967\"."
+        "note": "Read the full highlight (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the full highlight (by Maher Charif) incl. its date box \"5 June 1967 - 10 June 1967\". | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the live highlight (by Maher Charif): opening section on al-naksa and the passage on Israeli military rule over the rest of historic Palestine."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -20689,7 +21311,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"X. Oslo Process: Towards Failure (1993-2000)\"."
+        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"X. Oslo Process: Towards Failure (1993-2000)\". | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the full period overview, incl. the passages on the first Palestinian self-rule, the Oslo II division into Areas A, B and C, the September 1999 redeployment percentages and Israel's 'overall control'."
       },
       "kind": "academic",
       "institution_country": "PS",
@@ -20706,7 +21328,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full period overview (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"IV. The Palestine War and the Nakba, 1947-1950\" (live page). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the copy of the period overview saved earlier in this project (the paragraph on the All-Palestine Government). Institute for Palestine Studies."
+        "note": "Read the full period overview (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"IV. The Palestine War and the Nakba, 1947-1950\" (live page). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the copy of the period overview saved earlier in this project (the paragraph on the All-Palestine Government). Institute for Palestine Studies. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J1) on the live page (20 Oct 2026): the paragraphs on the partition vote, the outbreak of Arab-Jewish fighting, the forces on each side and the Zionist offensive up to May 1948."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -21479,7 +22101,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the overview and summary."
+        "note": "Read the overview and summary. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J2) the full 'Our Position: Borders' page, incl. the paragraphs on the June 1967 war and on the 1967 border."
       },
       "kind": "government",
       "institution_country": "PS",
@@ -22741,6 +23363,23 @@
       "institution_country": "SY"
     },
     {
+      "id": "sana-2026-06-26-olabi-undof",
+      "type": "web",
+      "title": "Olabi urges Israeli withdrawal; Damascus committed to 1974 Disengagement Agreement",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA (Syrian Ministry of Information)",
+      "year": 2026,
+      "url": "https://sana.sy/en/international/2325568/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (dateline United Nations, 26 June 2026; page metadata 25 June 2026, 23:46 Damascus time) of Syria's Permanent Representative Ibrahim Olabi's statement to the Security Council. SANA's paraphrase, not a verbatim transcript of the speech."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
       "id": "sana-2026-09-26-transition",
       "type": "web",
       "title": "New Syria charts transition toward institutions, rule of law",
@@ -22753,6 +23392,57 @@
         "level": "full-text",
         "checked_on": "2026-10-20",
         "note": "Read the full article (published 26 September 2026)."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
+      "id": "sana-2026-10-09-1974-reaffirmation",
+      "type": "web",
+      "title": "Syria welcomes unanimous Security Council reaffirmation of 1974 agreement",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2026,
+      "url": "https://sana.sy/en/politics/2349289/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (Damascus, 9 October 2026) on the Foreign Ministry's statement welcoming the Security Council press statement of Thursday 8 October 2026."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
+      "id": "sana-2026-10-09-sufa-53",
+      "type": "web",
+      "title": "What is Israel's \"Sufa 53\" line in the disengagement zone southwestern Syria?",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2026,
+      "url": "https://sana.sy/en/syria/2349169/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full explanatory report (Damascus, 9 October 2026), incl. the Syrian government's condemnation and three Syrian experts' comments."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
+      "id": "sana-2026-10-11-olabi",
+      "type": "web",
+      "title": "Olabi: Security Council reaffirms 1974 agreement amid Israeli incursions",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2026,
+      "url": "https://sana.sy/en/politics/2349565/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (New York, 11 October 2026) of Ambassador Olabi's remarks to Al Jazeera."
       },
       "kind": "government",
       "institution_country": "SY"
@@ -27868,6 +28558,23 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "ynet-2026-07-09-aoun-katz",
+      "type": "web",
+      "title": "Aoun ties further Israel-Lebanon talks to withdrawal as US readies pilot phase",
+      "container": "Ynetnews",
+      "publisher": "Yedioth Ahronoth Group (Ynet)",
+      "year": 2026,
+      "url": "https://www.ynetnews.com/article/s1wyws6mfx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (published 9 July 2026), incl. Defence Minister Katz's remarks at the Air Force graduation ceremony and President Aoun's interview with Asharq Al-Awsat as quoted by Ynet."
+      },
+      "kind": "press",
+      "institution_country": "IL"
     },
     {
       "id": "young-2004-jets-jerusalem-fall",

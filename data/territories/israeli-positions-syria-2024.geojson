@@ -35,12 +35,32 @@
           {
             "ref": "un-press-sc15951",
             "note": "UN Security Council record of the debate, with members describing the presence as a violation of the 1974 disengagement agreement."
+          },
+          {
+            "ref": "israel-pmo-2024-12-17-hermon",
+            "locator": "release text",
+            "quote": "Prime Minister Benjamin Netanyahu, today, on the summit of Mt. Hermon, held an assessment together with Defense Minister Israel Katz"
+          },
+          {
+            "ref": "israel-pmo-2024-12-17-hermon",
+            "locator": "Netanyahu's remarks",
+            "quote": "We are holding this assessment in order to decide on the deployment of the IDF in this important place until another arrangement is found that ensures Israel's security."
+          },
+          {
+            "ref": "sana-2026-10-09-sufa-53",
+            "locator": "report text",
+            "quote": "Excavation work began in the buffer zone inside Syrian territory, extending from the outskirts of Hadar toward Jubbata al-Khashab and Hamidiyah, through Qahhtaniyah, Ruwayhinah, Bir Ajam and Bariqa, and reaching al-Asha and the southern sector."
+          },
+          {
+            "ref": "sana-2026-10-09-sufa-53",
+            "locator": "report text",
+            "quote": "Work accelerated and expanded after Dec. 8, 2024, alongside Israeli incursions hundreds of metres into the disengagement zone along some routes."
           }
         ],
         "notes": {
-          "en": "No polygon; extent not quantified in opened sources. Modelling note: drawn as the UN area of separation only; the positions on the Syrian side of Mount Hermon are not mapped.",
-          "ar": "لا مضلع؛ الامتداد غير محدد كميًا في المصادر المفتوحة. ملاحظة النمذجة: مرسومة كمنطقة فصل الأمم المتحدة فقط؛ ولم تُرسم المواقع على الجانب السوري من جبل الشيخ.",
-          "he": "ללא מצולע; ההיקף לא הוערך כמותית במקורות שנפתחו. הערת מידול: מצוירת כאזור ההפרדה של האו\"ם בלבד; העמדות בצד הסורי של החרמון אינן ממופות.",
+          "en": "No polygon; extent not quantified in opened sources. Modelling note: drawn as the UN area of separation only; the positions on the Syrian side of Mount Hermon are not mapped. Extent in the sides' sources: the Israeli PMO places the IDF on 'the summit of Mt. Hermon' (17 Dec 2024), where Netanyahu said it would stay 'until another arrangement is found that ensures Israel's security'. Syria's SANA (9 Oct 2026) describes Israeli works (the 'Sufa 53' line) inside the disengagement zone from the outskirts of Hadar south to al-Asha, and incursions 'hundreds of metres into the disengagement zone along some routes' after 8 Dec 2024; neither source gives a boundary that could be drawn.",
+          "ar": "لا يوجد مضلع؛ ولم يُحدَّد المدى كميًّا في المصادر المفتوحة. ملاحظة نمذجة: رُسمت بوصفها منطقة الفصل التابعة للأمم المتحدة فقط؛ ولم تُرسم المواقع على الجانب السوري من جبل الشيخ. المدى في مصادر الأطراف: يضع مكتب رئيس الوزراء الإسرائيلي جيش الدفاع الإسرائيلي على «قمة جبل الشيخ» (17 كانون الأول/ديسمبر 2024)، حيث قال نتنياهو إنه سيبقى «إلى أن يُوجد ترتيب آخر يضمن أمن إسرائيل». وتصف وكالة سانا السورية (9 تشرين الأول/أكتوبر 2026) أعمالًا إسرائيلية (خط «Sufa 53») داخل منطقة فض الاشتباك من أطراف حضر جنوبًا إلى العشّة، وتوغلات «لمئات الأمتار داخل منطقة فض الاشتباك على طول بعض المسارات» بعد 8 كانون الأول/ديسمبر 2024؛ ولا يقدّم أيٌّ من المصدرين حدًّا يمكن رسمه.",
+          "he": "אין מצולע; ההיקף לא כומת במקורות שנפתחו. הערת מידול: משורטט כאזור ההפרדה של האו״ם בלבד; העמדות בצד הסורי של החרמון אינן ממופות. ההיקף במקורות הצדדים: משרד ראש הממשלה הישראלי ממקם את צה״ל על “פסגת החרמון” (17 בדצמבר 2024), שם אמר נתניהו שיישאר “עד שיימצא הסדר אחר שיבטיח את ביטחון ישראל”. SANA הסורית (9 באוקטובר 2026) מתארת עבודות ישראליות (קו “Sufa 53”) בתוך אזור ההפרדה מפאתי חדר דרומה עד אל-עשה, וחדירות “של מאות מטרים לתוך אזור ההפרדה לאורך חלק מהצירים” לאחר 8 בדצמבר 2024; אף אחד מהמקורות אינו נותן גבול שניתן לשרטטו.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

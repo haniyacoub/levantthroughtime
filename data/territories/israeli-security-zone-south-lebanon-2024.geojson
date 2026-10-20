@@ -93,12 +93,32 @@
           {
             "ref": "national-2026-09-22-unifil",
             "quote": "Israeli forces are now operating from nearly 30 military positions across south Lebanon, including eight fortified bases"
+          },
+          {
+            "ref": "israelhayom-2026-03-16-ground-operation",
+            "locator": "article text",
+            "quote": "The IDF Spokesperson announced Monday that forces from Division 91 had launched a targeted ground operation against key targets in southern Lebanon in recent days."
+          },
+          {
+            "ref": "israelhayom-2026-03-16-ground-operation",
+            "locator": "article text",
+            "quote": "The operation is aimed at expanding the security zone, destroying Hezbollah's terror infrastructure, and eliminating operatives active in the area"
+          },
+          {
+            "ref": "ynet-2026-07-09-aoun-katz",
+            "locator": "Katz's remarks",
+            "quote": "We will remain in the security zone in southern Lebanon for as long as necessary to ensure the security of our residents in the north"
+          },
+          {
+            "ref": "lbci-2026-04-18-yellow-line",
+            "locator": "article text",
+            "quote": "The Israeli military said Saturday it had established a \"Yellow Line\" demarcation in South Lebanon, similar to the one separating its forces from territory still held by Hamas in Gaza"
           }
         ],
         "notes": {
-          "en": "No polygon. The ground offensive began in March 2026 (day not verified in an opened source).",
-          "ar": "لا مضلع. بدأ الهجوم البري في آذار/مارس 2026 (لم يُتحقق من اليوم في مصدر مفتوح).",
-          "he": "ללא מצולע. המתקפה הקרקעית החלה במרץ 2026 (היום לא אומת במקור שנפתח).",
+          "en": "No polygon. The ground offensive began in March 2026. Israeli sources: the IDF Spokesperson announced on Monday 16 March 2026 that Division 91 had launched a targeted ground operation 'in recent days', aimed at 'expanding the security zone' (Israel Hayom), so the ground offensive began on or shortly before 16 March. On Saturday 18 April 2026, after a ceasefire took effect, the IDF first referred to a 'Yellow Line' in South Lebanon (LBCI, AFP). On 9 July 2026 Defence Minister Katz said Israel would 'remain in the security zone in southern Lebanon for as long as necessary to ensure the security of our residents in the north' (Ynet).",
+          "ar": "لا يوجد مضلع. بدأ الهجوم البري في آذار/مارس 2026. المصادر الإسرائيلية: أعلن المتحدث باسم جيش الدفاع الإسرائيلي يوم الاثنين 16 آذار/مارس 2026 أن الفرقة 91 شنّت عملية برية موجّهة «في الأيام الأخيرة»، تهدف إلى «توسيع المنطقة الأمنية» (إسرائيل اليوم)، فبدأ الهجوم البري في 16 آذار/مارس أو قبله بقليل. وفي يوم السبت 18 نيسان/أبريل 2026، بعد سريان وقف لإطلاق النار، أشار جيش الدفاع الإسرائيلي لأول مرة إلى «خط أصفر» في جنوب لبنان (LBCI، AFP). وفي 9 تموز/يوليو 2026 قال وزير الدفاع كاتس إن إسرائيل ستبقى «في المنطقة الأمنية في جنوب لبنان ما دام ذلك ضروريًّا لضمان أمن سكاننا في الشمال» (Ynet).",
+          "he": "אין מצולע. המתקפה הקרקעית החלה במרץ 2026. מקורות ישראליים: דובר צה״ל הודיע ביום שני 16 במרץ 2026 שאוגדה 91 יצאה למבצע קרקעי ממוקד “בימים האחרונים”, שמטרתו “הרחבת אזור הביטחון” (ישראל היום), כך שהמתקפה הקרקעית החלה ב-16 במרץ או זמן קצר לפניו. ביום שבת 18 באפריל 2026, לאחר שנכנסה לתוקף הפסקת אש, התייחס צה״ל לראשונה ל“קו צהוב” בדרום לבנון (LBCI, AFP). ב-9 ביולי 2026 אמר שר הביטחון כ״ץ שישראל “תישאר באזור הביטחון בדרום לבנון כל עוד יידרש כדי להבטיח את ביטחון תושבינו בצפון” (Ynet).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

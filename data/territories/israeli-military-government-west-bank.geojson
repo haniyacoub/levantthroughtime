@@ -109,12 +109,37 @@
           {
             "ref": "britannica-oslo-accords",
             "quote": "divided the West Bank and the Gaza Strip into areas A (Palestinian civil and security control), B (Palestinian civil control and joint Israeli-Palestinian security control), and C (Israeli civil and security control)"
+          },
+          {
+            "ref": "israel-state-comptroller-2020-civadmin",
+            "locator": "introduction",
+            "quote": "סמכות החקיקה באזור נשמרה בידיו, בשטחים הנתונים לשליטת ישראל"
+          },
+          {
+            "ref": "israel-state-comptroller-2020-civadmin",
+            "locator": "introduction (organisation order of the Civil Administration)",
+            "quote": "להוות זרוע ביצועית לסמכויות התשתית, התכנון והבניה בשטח C לרבות הטיפול בישובים הישראליים"
+          },
+          {
+            "ref": "gold-2002-occupied-to-disputed",
+            "locator": "section 'After Oslo, Can the Territories be Classified as \"Occupied\"?'",
+            "quote": "Since that time, 98 percent of the Palestinian population in the West Bank and Gaza Strip has come under Palestinian jurisdiction."
+          },
+          {
+            "ref": "palquest-oslo-process-towards-failure",
+            "locator": "section on the Wye River and Sharm el-Sheikh redeployments",
+            "quote": "the Palestinians ended up controlling only 17 percent of the West Bank as Area A and 25 percent as Area B, leaving under direct Israeli control 58 percent of the land"
+          },
+          {
+            "ref": "nad-2026-03-04-february-2026-decisions",
+            "locator": "Terminology Guide, p. 13",
+            "quote": "Area “C” is the remaining part of the West Bank, where Israel retained responsibility for “security” and land administration until it withdrew according to an agreed-upon schedule."
           }
         ],
         "notes": {
-          "en": "Exact Area A/B/C polygons are deliberately not drawn here (to be handled in a later, detailed pass).",
-          "ar": "لم تُرسم عن قصد مضلعات المنطقتين أ/ب/ج الدقيقة هنا (لتعالج في جولة لاحقة مفصلة).",
-          "he": "מצולעי שטחי A/B/C המדויקים אינם מצוירים כאן במכוון (יטופלו בסבב מפורט מאוחר יותר).",
+          "en": "Exact Area A/B/C polygons are deliberately not drawn here (to be handled in a later, detailed pass). Sides' sources: the Israeli State Comptroller (2020) states that legislative power remained with the military commander 'in the areas under Israel's control' and cites the Civil Administration's organisation order, which makes it the executive arm for infrastructure, planning and building powers in Area C, including the Israeli settlements; Dore Gold (JCPA, 2002) notes that 98% of the Palestinian population came under Palestinian jurisdiction. PalQuest (IPS) says that after the Sharm el-Sheikh Memorandum of 4 Sept 1999 the Palestinians ended up controlling 17% of the West Bank as Area A and 25% as Area B, with 58% under direct Israeli control; the PLO's NAD (2026) defines Area C as the part where Israel 'retained responsibility for \"security\" and land administration' pending further withdrawals that were never implemented.",
+          "ar": "لم تُرسم هنا عمدًا المضلعات الدقيقة للمناطق أ/ب/ج (لتُعالَج في مرحلة لاحقة مفصّلة). مصادر الأطراف: يذكر مراقب الدولة الإسرائيلي (2020) أن السلطة التشريعية ظلت بيد القائد العسكري «في المناطق الخاضعة لسيطرة إسرائيل»، ويستشهد بأمر تنظيم الإدارة المدنية الذي يجعلها الذراع التنفيذية لصلاحيات البنية التحتية والتخطيط والبناء في المنطقة ج، بما فيها المستوطنات الإسرائيلية؛ ويشير دوري غولد (JCPA، 2002) إلى أن 98% من السكان الفلسطينيين أصبحوا تحت الولاية الفلسطينية. وتقول PalQuest (IPS) إنه بعد مذكرة شرم الشيخ في 4 أيلول/سبتمبر 1999 انتهى الأمر بأن يسيطر الفلسطينيون على 17% من الضفة الغربية بوصفها المنطقة أ وعلى 25% بوصفها المنطقة ب، فيما بقي 58% تحت السيطرة الإسرائيلية المباشرة؛ وتعرّف NAD التابعة لمنظمة التحرير (2026) المنطقة ج بأنها الجزء الذي «احتفظت فيه إسرائيل بالمسؤولية عن ‘الأمن’ وإدارة الأراضي» ريثما تتم انسحابات أخرى لم تُنفَّذ قط.",
+          "he": "מצולעי אזורים A/B/C המדויקים אינם משורטטים כאן במכוון (יטופלו בשלב מפורט מאוחר יותר). מקורות הצדדים: מבקר המדינה הישראלי (2020) קובע שהסמכות המחוקקת נותרה בידי המפקד הצבאי “באזורים הנתונים לשליטת ישראל” ומפנה לצו ארגון המנהל האזרחי, המעמיד אותו כזרוע ביצועית לסמכויות תשתית, תכנון ובנייה באזור C, ובכלל זה ההתנחלויות הישראליות; דורי גולד (JCPA, 2002) מציין ש-98% מהאוכלוסייה הפלסטינית הועברו לשיפוט פלסטיני. PalQuest (IPS) אומרת שלאחר מזכר שארם א-שייח' מ-4 בספטמבר 1999 הפלסטינים שלטו בסופו של דבר ב-17% מהגדה המערבית כאזור A וב-25% כאזור B, כש-58% תחת שליטה ישראלית ישירה; ה-NAD של אש״ף (2026) מגדיר את אזור C כחלק שבו ישראל “שמרה על האחריות ל‘ביטחון’ ולניהול הקרקע” עד לנסיגות נוספות שמעולם לא יושמו.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

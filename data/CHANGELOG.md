@@ -587,3 +587,37 @@ The nine contested population estimates from 1880 to 1966 had cited demographers
 DellaPergola's paper is now coded by its author's institution (Hebrew University), like other sources.
 
 Gaps: an Institute for Palestine Studies article on West Bank and Gaza population, and Janet Abu-Lughod's 1971 chapter, could not be opened. No open Israeli study discusses the 1881–93 Ottoman census itself.
+
+### The missing side for contested modern records (rounds J1 and J2)
+
+A check found 39 of the 55 contested records from 1880 onwards citing sources from only one side (or neither). After rounds J1–J3, each now also cites the side that was missing. New notes set out each position with attribution; no dates or figures were changed. 115 source references, 39 new works.
+- **Israeli sources added:**
+  - The Kahan Commission report (for Sabra and Shatila; it replaces a note that said the report could not be opened).
+  - Foreign Ministry documents: Peres on Qana (1996) and on Jenin (2002), the 1947–74 documents volume on the refugees, the ministry's history page on 1929.
+  - Israel's statements to the Mitchell Committee.
+  - Israel's letters to the UN Security Council: 7 October 2023; the Golan, December 2024.
+  - Prime Minister's Office statements on Palestinian statehood (2024) and on the Golan buffer zone (2024–25).
+  - Ben-Gurion's 1955 Knesset statement on Nasser.
+  - The IDF History Department's journal (Plan Dalet).
+  - JCPA and the Meir Amit Intelligence and Terrorism Information Center.
+  - Israeli press: Ynet, Israel Hayom, the Jerusalem Post.
+- **Palestinian sources added:**
+  - The PLO Negotiations Affairs Department: borders; the February 2026 West Bank decisions; Gaza after November 2025.
+  - Al-Haq on Gaza.
+  - PalQuest and Walid Khalidi on 1947–48.
+  - Hanan Ashrawi on the term "Jewish refugees".
+- **Lebanese, Syrian and other Arab sources added:**
+  - Lebanon: the joint statement of President Aoun, Speaker Berri and Prime Minister Salam (18 February 2025) calling any continued Israeli presence an occupation; An-Nahar on Qana.
+  - Syria: SANA on the Golan buffer zone and the 1974 agreement.
+  - Al Jazeera on the departure of Iraq's Jews.
+
+**Points recorded side by side:**
+- Israel's official refugee figures ("some 500,000" for 1947–49; "some 250,000" for 1967).
+- Israel's UN letter of December 2024 saying it remains committed to the 1974 framework, beside the earlier report that Israel called the agreement void.
+- Haniyeh's 2006 commission dated 21 February (ITIC) or 22 February (PalQuest).
+- The share of Area C (58% after 1999, per PalQuest; over 60% today, per OCHA).
+
+Gaps:
+- No Israeli government statement on the 2018–19 Great March of Return could be opened (gov.il blocks automated access); the Israeli side comes from ITIC.
+- Lorch's history of the 1948 war was seen only as quoted.
+- No Palestinian institutional paper on "Jewish refugees from Arab countries" was found.
