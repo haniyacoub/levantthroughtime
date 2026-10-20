@@ -344,7 +344,9 @@ export function validateData(dir: string): Result {
           }
         }
         const list2 = slices.get(owner) ?? [];
-        list2.push({ s: startT(p.start), e: p.end ? endT(p.end) : Infinity, id: p.id });
+        // A slice may hand over to the next within the same month or year (its end and the next start share that period);
+        // only a next slice that starts before the period in which this one ends counts as an overlap.
+        list2.push({ s: startT(p.start), e: p.end ? startT(p.end) : Infinity, id: p.id });
         slices.set(owner, list2);
       }
     }

@@ -344,7 +344,9 @@
         "polity": "fatimid-caliphate",
         "start": {
           "year": 1153,
-          "precision": "year"
+          "month": 8,
+          "day": 22,
+          "precision": "day"
         },
         "end": {
           "year": 1171,

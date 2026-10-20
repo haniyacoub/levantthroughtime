@@ -272,7 +272,9 @@
           "ammon",
           "damascus",
           "lebanon-mountains",
-          "phoenician-coast"
+          "phoenician-coast",
+          "syria",
+          "lebanon"
         ],
         "partial_units": [
           "carmel-sharon",
@@ -318,12 +320,33 @@
             "ref": "kayali-1997-arabs-and-young-turks",
             "locator": "ch. 7, section 'The End of the Empire and Turkish-Arab Relations'",
             "quote": "With the occupation of Damascus and the rest of Syria by the Anglo-Arab forces in October 1918 and the Ottoman surrender at the Mudros cease-fire at the end of that month"
+          },
+          {
+            "ref": "un-dpr-origins-part1",
+            "locator": "Part I, ch. on the Mandate",
+            "quote": "Although formally still part of the Ottoman Empire, Palestine was under British military occupation since December 1917."
+          },
+          {
+            "ref": "anzac-memorial-megiddo",
+            "quote": "The battle of Megiddo occurred in Palestine between 19 and 25 September 1918."
+          },
+          {
+            "ref": "britannica-palestine-ww1",
+            "quote": "The remaining area was occupied by the British by October 1918."
+          },
+          {
+            "ref": "britannica-jordan-transjordan",
+            "quote": "by October 1918 Amman and Damascus were in Allied hands"
+          },
+          {
+            "ref": "britannica-faisal-i",
+            "quote": "An Arab military force occupied Damascus in September 1918"
           }
         ],
         "notes": {
-          "en": "The front line of Dec 1917 - Sept 1918 is not mapped precisely.",
-          "ar": "لم يُرسم خط الجبهة من كانون الأول/ديسمبر 1917 إلى أيلول/سبتمبر 1918 بدقة.",
-          "he": "קו החזית מדצמבר 1917 עד ספטמבר 1918 אינו ממופה בדיוק.",
+          "en": "The front line of Dec 1917 - Sept 1918 is not mapped precisely. Britannica's Faisal I biography places the Arab occupation of Damascus in September 1918, its Jordan article says 'by October 1918'; the end month is given as October 1918 (Armistice of Mudros, 30 Oct 1918).",
+          "ar": "لم يُرسم خط الجبهة من كانون الأول/ديسمبر 1917 إلى أيلول/سبتمبر 1918 بدقة. تضع سيرة فيصل الأول في بريتانيكا الاحتلال العربي لدمشق في أيلول/سبتمبر 1918، وتقول مقالتها عن الأردن 'by October 1918'؛ وشهر النهاية معطى بأنه تشرين الأول/أكتوبر 1918 (هدنة مودروس، 30 تشرين الأول/أكتوبر 1918).",
+          "he": "קו החזית מדצמבר 1917 עד ספטמבר 1918 אינו ממופה בדיוק. הביוגרפיה של פייסל הראשון בבריטניקה ממקמת את הכיבוש הערבי של דמשק בספטמבר 1918, והמאמר שלה על ירדן אומר 'by October 1918'; חודש הסיום ניתן כאוקטובר 1918 (שביתת הנשק של מודרוס, 30 באוקטובר 1918).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -391,78 +414,6 @@
           }
         },
         "id": "ottoman-empire-4",
-        "geometry_method": "units"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "polity": "ottoman-empire",
-        "start": {
-          "year": 1917,
-          "month": 12,
-          "precision": "month"
-        },
-        "end": {
-          "year": 1918,
-          "month": 10,
-          "precision": "month"
-        },
-        "units": [
-          "golan-heights",
-          "syria",
-          "lebanon"
-        ],
-        "partial_units": [
-          "israel-1949",
-          "west-bank",
-          "transjordan"
-        ],
-        "boundary_certainty": "approximate",
-        "description": {
-          "en": "After the fall of Jerusalem (Dec 1917) the Ottomans held northern Palestine (Galilee, Samaria) and most of Transjordan, the Golan, Syria and Lebanon until the Allied offensive of September 1918; by October 1918 the region was in Allied/Arab hands.",
-          "ar": "بعد سقوط القدس (كانون الأول/ديسمبر 1917) احتفظ العثمانيون بشمال فلسطين (الجليل والسامرة) ومعظم شرق الأردن والجولان وسوريا ولبنان حتى هجوم الحلفاء في أيلول/سبتمبر 1918؛ وبحلول تشرين الأول/أكتوبر 1918 كانت المنطقة بيد الحلفاء/العرب.",
-          "he": "לאחר נפילת ירושלים (דצמבר 1917) החזיקו העות׳מאנים בצפון פלשתינה (הגליל ושומרון), ברוב עבר הירדן, בגולן, בסוריה ובלבנון עד מתקפת בעלות הברית בספטמבר 1918; עד אוקטובר 1918 היה האזור בידי בעלות הברית / הערבים.",
-          "translation_status": {
-            "ar": "machine-draft",
-            "he": "machine-draft"
-          }
-        },
-        "confidence": "documented",
-        "sources": [
-          {
-            "ref": "un-dpr-origins-part1",
-            "locator": "Part I, ch. on the Mandate",
-            "quote": "Although formally still part of the Ottoman Empire, Palestine was under British military occupation since December 1917."
-          },
-          {
-            "ref": "anzac-memorial-megiddo",
-            "quote": "The battle of Megiddo occurred in Palestine between 19 and 25 September 1918."
-          },
-          {
-            "ref": "britannica-palestine-ww1",
-            "quote": "The remaining area was occupied by the British by October 1918."
-          },
-          {
-            "ref": "britannica-jordan-transjordan",
-            "quote": "by October 1918 Amman and Damascus were in Allied hands"
-          },
-          {
-            "ref": "britannica-faisal-i",
-            "quote": "An Arab military force occupied Damascus in September 1918"
-          }
-        ],
-        "notes": {
-          "en": "Britannica's Faisal I biography places the Arab occupation of Damascus in September 1918, its Jordan article says 'by October 1918'; the end month is given as October 1918 (Armistice of Mudros, 30 Oct 1918).",
-          "ar": "تضع سيرة فيصل الأول في بريتانيكا الاحتلال العربي لدمشق في أيلول/سبتمبر 1918، وتقول مقالتها عن الأردن 'by October 1918'؛ وشهر النهاية معطى بأنه تشرين الأول/أكتوبر 1918 (هدنة مودروس، 30 تشرين الأول/أكتوبر 1918).",
-          "he": "הביוגרפיה של פייסל הראשון בבריטניקה ממקמת את הכיבוש הערבי של דמשק בספטמבר 1918, והמאמר שלה על ירדן אומר 'by October 1918'; חודש הסיום ניתן כאוקטובר 1918 (שביתת הנשק של מודרוס, 30 באוקטובר 1918).",
-          "translation_status": {
-            "ar": "machine-draft",
-            "he": "machine-draft"
-          }
-        },
-        "id": "ottoman-empire-5",
         "geometry_method": "units"
       }
     },
