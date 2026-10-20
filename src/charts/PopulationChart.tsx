@@ -302,6 +302,11 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
           ))}
         </ul>
       )}
+      {chartMode !== 'total' && (
+        <p className="fine" data-testid="chart-groups-note">
+          {compPoints.length ? tr('chart.groupsFrom', { date: formatDate(compPoints[0]!.p.date, lang) }) : tr('chart.groupsNone')} {tr('chart.groupsWhy')}
+        </p>
+      )}
       {chartMode === 'total' && (
         <ul className="chart-legend">
           <li>

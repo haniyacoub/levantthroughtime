@@ -232,6 +232,7 @@ export function YearPanel({ data }: { data: AppData }) {
                     </div>
                   );
                 })}
+                {!comp && figs.length > 0 && <p className="fine">{tr('panel.noComposition')}</p>}
                 {comp?.composition?.[0] && (
                   <div className="composition">
                     <p className="pop-meta">
