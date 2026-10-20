@@ -12,9 +12,9 @@ on:
       project:
         description: Cloudflare Pages project name (becomes <name>.pages.dev)
         type: string
-        default: southern-levant-through-time
+        default: levantthroughtime
       production:
-        description: Publish to the main address (untick for a private preview address)
+        description: Publish to the main address (untick for a separate preview address)
         type: boolean
         default: true
 

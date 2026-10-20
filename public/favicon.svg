@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Southern Levant Through Time</title>
+  <!-- Three layers, like the strata of an excavated mound. Earth tones, no flag colours. -->
+  <rect width="64" height="64" rx="12" fill="#f4efe3"/>
+  <path d="M8 24 C20 18 30 22 40 19 S56 17 56 17 V29 C46 31 36 27 26 30 S12 32 8 31 Z" fill="#c8b273"/>
+  <path d="M8 34 C18 32 28 36 38 33 S52 30 56 31 V42 C46 44 36 40 26 43 S12 45 8 44 Z" fill="#a0864e"/>
+  <path d="M8 47 C18 45 30 49 40 46 S52 44 56 45 V52 C56 54 54 56 52 56 H12 C10 56 8 54 8 52 Z" fill="#6e5a35"/>
+</svg>

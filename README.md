@@ -142,12 +142,20 @@ The site is a set of static files, hosted free on Cloudflare Pages, with the cod
 ### Publishing (first time and every update)
 
 8. In the GitHub repository open **Actions → Deploy to Cloudflare Pages → Run workflow**.
-   - **Project name** becomes the address: the default gives `https://southern-levant-through-time.pages.dev`. Choose your own name the first time and keep it after that.
+   - **Project name**: keep the default, `levantthroughtime`. The site first appears at `https://levantthroughtime.pages.dev`, and at `https://levantthroughtime.com` once step 9 is done. Use the same name every time.
    - Untick **Publish to the main address** to get a separate preview address first.
 
    Press **Run workflow**. In about five minutes the workflow has checked the data, built the site and uploaded it. The address is printed at the end of the workflow log.
 
-9. **Optional: your own domain.** In Cloudflare open **Workers & Pages → your project → Custom domains → Set up a custom domain**. Cloudflare can also sell you the domain at cost (**Domain Registration**).
+9. **Connect levantthroughtime.com (once).**
+   - **If you bought the domain at Cloudflare:** open **Workers & Pages → levantthroughtime → Custom domains → Set up a custom domain**, type `levantthroughtime.com`, and press **Activate domain**. Cloudflare adds the DNS record itself. Repeat with `www.levantthroughtime.com`.
+   - **If you bought it elsewhere (GoDaddy, Namecheap and so on):**
+     1. In Cloudflare open **Add a domain**, type `levantthroughtime.com` and choose the **Free** plan. Cloudflare shows two nameservers (names like `ada.ns.cloudflare.com`).
+     2. In your registrar's control panel, replace the domain's nameservers with those two.
+     3. Wait until Cloudflare emails that the domain is active. This usually takes minutes, sometimes up to a day.
+     4. Then do the steps for a domain bought at Cloudflare, above.
+   - **Send www to the main address:** in Cloudflare open the domain → **Rules → Redirect Rules → Create rule → template "Redirect from WWW to root"**, and deploy it.
+   - **Secure connection:** Cloudflare sets up the HTTPS certificate itself, which takes a few minutes the first time.
 
 10. **Optional: turn on the "Suggest a correction" links.** Add this line to `data/config.json`, then commit, push and publish again:
    `"corrections_url": "https://github.com/<your-user>/<repo-name>/issues/new"`
