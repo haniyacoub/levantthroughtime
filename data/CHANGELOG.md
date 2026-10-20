@@ -570,3 +570,20 @@ A population figure or refugee count whose sources are all official publications
 - 17 more works now carry an ISBN or a library catalogue link, found by matching title, author, year and publisher in Open Library. The catalogue links point to HathiTrust records, never to a copy of the work. For chapters, the ISBN or record is that of the containing volume. Four candidate ISBNs were rejected because they belong to later reprints of books first published before ISBNs existed: Baron 1952, Daniel-Rops 1962, Joseph 1960 and Runciman 1954.
 - Arabic and Hebrew drafts: recurring scholars' names are now spelled one way throughout (47 texts). Examples: H. A. R. Gibb جب in Arabic, which some drafts had written غيب ("unseen"); Le Strange; Avi-Yonah; Finkelstein. "Britannica" left in Latin letters is now in Arabic or Hebrew script. The translation brief now lists these forms.
 - Lebanon's map colour changed from light cyan to pear (still avoiding the colours of its flag). In the legend the light cyan was hard to tell apart from Jordan's cyan.
+
+### The missing side for contested population estimates (round J3)
+
+The nine contested population estimates from 1880 to 1966 had cited demographers from only one side. Each now also cites the other side, with a note setting the figures side by side; no figures were changed.
+- **Israeli demographers** for the Ottoman-period estimates (1881–1914) and Gaza in 1958:
+  - Bachi (1977): his c. 1890 figure built partly on the 1880 estimate; his 1914 estimate based on the official Ottoman total of 689,275; his Jewish figure of 94,000 against Barron's 84,660.
+  - DellaPergola (2001).
+  - Grossman, as reviewed by Meir.
+- **Palestinian and Arab scholars** for 1880, 1919 and Gaza in 1966:
+  - Yousef Kamel Ibrahim (Al-Aqsa University, 2009), who calls the 19th-century estimates contradictory, and gives 694,000 for 1918, from Musa Samha.
+  - Hagopian and Zahlan (*Journal of Palestine Studies*, 1974).
+  - Courbage on PalQuest.
+  - A 2022 study for the Palestinian NGO Network that sets the Egyptian 1966 figure beside the Israeli 1967 count.
+
+DellaPergola's paper is now coded by its author's institution (Hebrew University), like other sources.
+
+Gaps: an Institute for Palestine Studies article on West Bank and Gaza population, and Janet Abu-Lughod's 1971 chapter, could not be opened. No open Israeli study discusses the 1881–93 Ottoman census itself.

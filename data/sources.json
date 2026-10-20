@@ -1903,7 +1903,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there. | Re-read in Milestone 8: Re-read (round J) in the CICRED PDF text saved in an earlier pass: sections 4.1-4.2 and Table 4.1 (pp. 31-32), section 4.6 (p. 36), Appendix 4 sections A.2-A.3 and C (pp. 367-370, the estimates for c. 1880-1890 and the official Turkish 1914 estimate) and Appendix 8.1 (p. 412, the Egyptian statistical unit's Gaza estimates)."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -8938,6 +8938,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bsaiso-2022-pngo-gaza-population-growth",
+      "type": "report",
+      "authors": [
+        "Bsaiso, Ma'mun (مأمون بسيسو)"
+      ],
+      "title": "دراسة: العلاقة بين النمو السكاني في قطاع غزة والتحديات للقطاعات المختلفة والحلول الممكنة (Study: the relationship between population growth in the Gaza Strip, the challenges for the various sectors, and possible solutions)",
+      "publisher": "Palestinian NGOs Network (PNGO), Gaza",
+      "year": 2022,
+      "url": "https://pngoportal.org/uploads/documents/2022/12/YXUqA.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the 18-page PDF on the PNGO portal (created December 2022), esp. section 2.1 and Table 2 'Population of the Gaza Strip 1950-1987' (p. 3); its footnote 2 gives as sources M. A. Khlousi, 'Economic development in the Gaza Strip 1948-1966' (Cairo, 1967) and an Institute for Palestine Studies article (palestine-studies.org/ar/node/35212), which could not be opened. Table text checked against the text layer (whitespace-insensitive, as the right-to-left extraction splits numbers from words) and a rendered page image."
+      },
+      "kind": "ngo",
+      "institution_country": "PS",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "btselem-settlements",
       "type": "web",
       "title": "Settlements",
@@ -10589,10 +10608,10 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the conference paper PDF, incl. Table 2 (p. 5) 'Population in Palestine west of Jordan River, by religion groups, 1st century-2000'."
+        "note": "Read the conference paper PDF, incl. Table 2 (p. 5) 'Population in Palestine west of Jordan River, by religion groups, 1st century-2000'. | Re-read in Milestone 8: Re-read (round J) p. 1 (author: The A. Harman Institute of Contemporary Jewry, The Hebrew University of Jerusalem, i.e. an Israeli scholar; the entry's FR code reflects the IUSSP), p. 4 ('Population trends in the past') and Table 2 (p. 5), whose source until 1975 is Bachi (1977). Institution country is that of the author (Hebrew University of Jerusalem); the paper was presented at the IUSSP conference."
       },
       "kind": "academic",
-      "institution_country": "FR",
+      "institution_country": "IL",
       "accessed": "2026-10-18"
     },
     {
@@ -13285,7 +13304,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read pp. 1-9 of the PDF (Institute for Palestine Studies copy via Internet Archive capture 20240806), section on Mandate-period growth."
+        "note": "Read pp. 1-9 of the PDF (Institute for Palestine Studies copy via Internet Archive capture 20240806), section on Mandate-period growth. | Re-read in Milestone 8: Re-read (round J) section 1 'The period prior to 1918' (pp. 34-36) in the Institute for Palestine Studies PDF (Internet Archive capture of 6 August 2024) saved in an earlier pass."
       },
       "kind": "academic",
       "institution_country": "PS",
@@ -14089,6 +14108,30 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "ibrahim-2009-population-palestine-demographic-conflict",
+      "type": "article",
+      "authors": [
+        "Ibrahim, Yousef Kamel (يوسف كامل إبراهيم)"
+      ],
+      "title": "السكان في فلسطين قبل النكبة وبعدها: مئة عام من الصراع الديموغرافي (1907-2007) (Population in Palestine before and after the Nakba: a hundred years of demographic conflict, 1907-2007)",
+      "container": "Kufa Journal of Arts (مجلة آداب الكوفة)",
+      "publisher": "University of Kufa, Faculty of Arts",
+      "year": 2009,
+      "volume": 1,
+      "issue": 2,
+      "pages": "47-90",
+      "doi": "10.36317/kaj/2009/v1.i2.6261",
+      "url": "https://journal.uokufa.edu.iq/index.php/kufa_arts/article/view/6261",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access PDF (CC BY 4.0) from the journal site: pp. 47-53 (population before 1948, Tables 1 and 3), pp. 63-65 (Table 8 and text on the West Bank and Gaza Strip 1950-1997) and the notes (pp. 81-83). Author: Associate Professor, Faculty of Arts and Humanities, Al-Aqsa University (Gaza); the journal is published by the University of Kufa (Iraq), so the country code is that of the author's institution. The PDF's text layer encodes some Arabic letters with substitute glyphs; quotes were checked against the text layer after mapping those glyphs back, and against rendered page images. Year and pages from the journal record (DOI)."
+      },
+      "kind": "academic",
+      "institution_country": "PS",
+      "accessed": "2026-10-20"
     },
     {
       "id": "icarus-exile-myth-unearthed",
@@ -18009,7 +18052,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full review (PDF)."
+        "note": "Read the full review (PDF). | Re-read in Milestone 8: Re-read (round J) the review in Geography Research Forum vol. 31 (2011), pp. 96-99 (BGU journal site PDF), esp. p. 97 on Grossman's chapters 4-5 (Ottoman sources for the last three decades of the 19th century)."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -20321,7 +20364,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read (round J) the entry by Youssef Courbage, incl. the data behind its interactive Table 2 'Population in Palestine by Religious Community, 1914-1947' (credited to McCarthy 1990; 1918: Moslems 618,528, Christians 70,429, Jews 58,728, 'Palestinians' 688,957)."
       },
       "kind": "academic",
       "institution_country": "PS",

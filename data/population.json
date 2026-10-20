@@ -5528,12 +5528,32 @@
         {
           "ref": "bachi-1977",
           "locator": "Appendix 4.A.2(a), p. 368"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "p. 48",
+          "quote": "فارتفع عدد سكان فلسطين من 306 ألاف نسمة في العام 1839 إلى 411 ألف نسمة في العام 1860، وإلى نحو 553 ألف نسمة في العام 1890"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "pp. 48-49",
+          "quote": "وكانت التقديرات السكانية في ذلك الوقت متضاربة لا يمكن الاعتماد عليها بأي حال من الأحوال في الكشف عن أحوال السكان"
+        },
+        {
+          "ref": "hagopian-zahlan-1974-palestines-arab-population",
+          "locator": "p. 34 (citing J. Abu-Lughod 1971, p. 140)",
+          "quote": "the total population numbered around 500,000 people"
+        },
+        {
+          "ref": "hagopian-zahlan-1974-palestines-arab-population",
+          "locator": "p. 34",
+          "quote": "Of these, more than 80 per cent were Muslims, 10 per cent Christian (Arab) and 5-7 per cent Jewish"
         }
       ],
       "notes": {
-        "en": "Used by Bachi as one of two inputs for his c.1890 estimate. The groups listed are those the source gives separately; the remainder (e.g. “others” or “not classified by religion”) is not shown, so the composition is marked partial.",
-        "ar": "استخدمه باكي أحد مدخلين لتقديره لعام 1890 تقريبًا. المجموعات المذكورة هي التي يوردها المصدر منفصلة؛ أما الباقي (مثل \"أخرى\" أو \"غير مصنَّفين حسب الدين\") فلا يظهر، ولذلك وُسمت التركيبة بأنها جزئية.",
-        "he": "בכי השתמש בו כאחד משני נתוני הקלט לאומדנו לשנת 1890 בקירוב. הקבוצות שמופיעות הן אלה שהמקור מציג בנפרד; השאר (למשל \"אחרים\" או \"לא מסווגים לפי דת\") אינו מוצג, ולכן ההרכב מסומן כחלקי.",
+        "en": "Used by Bachi as one of two inputs for his c.1890 estimate. The groups listed are those the source gives separately; the remainder (e.g. “others” or “not classified by religion”) is not shown, so the composition is marked partial. Palestinian and Arab demographic studies give somewhat higher totals for this period. Yousef Kamel Ibrahim (Al-Aqsa University, Gaza; 2009) puts the population at 411,000 in 1860 and about 553,000 in 1890, and describes the estimates of the time as contradictory and unreliable. Hagopian and Zahlan (Journal of Palestine Studies, 1974), following Janet Abu-Lughod, put the population at around 500,000 in the middle of the nineteenth century, more than 80% Muslim, 10% Christian and 5-7% Jewish - shares close to those of this 1880 estimate.",
+        "ar": "استخدمه باكي كأحد مُدخلَين لتقديره لنحو عام 1890. المجموعات المذكورة هي التي يوردها المصدر منفصلةً؛ أما الباقي (مثل «آخرين» أو «غير مصنّفين حسب الدين») فلم يُعرض، ولذلك وُسم التركيب بأنه جزئي. تعطي الدراسات الديموغرافية الفلسطينية والعربية أرقامًا إجمالية أعلى نوعًا ما لهذه الفترة. فيقدّر يوسف كامل إبراهيم (جامعة الأقصى، غزة؛ 2009) عدد السكان بـ 411,000 في عام 1860 ونحو 553,000 في عام 1890، ويصف تقديرات ذلك الزمن بأنها متناقضة وغير موثوقة. أما هاغوبيان وزحلان (Journal of Palestine Studies، 1974)، اللذان يتبعان جانيت أبو لغد، فيقدّران عدد السكان بنحو 500,000 في منتصف القرن التاسع عشر، أكثر من 80% منهم مسلمون و10% مسيحيون و5-7% يهود، وهي نسب قريبة من نسب تقدير عام 1880 هذا.",
+        "he": "שימש את בכי כאחד משני נתוני המוצא להערכתו לסביבות 1890. הקבוצות המנויות הן אלה שהמקור מפרט בנפרד; יתר האוכלוסייה (למשל ״אחרים״ או ״לא מסווגים לפי דת״) אינו מוצג, ולכן ההרכב מסומן כחלקי. מחקרים דמוגרפיים פלסטיניים וערביים נותנים סכומים גבוהים במקצת לתקופה זו. יוסף כמאל איברהים (אוניברסיטת אל-אקצא, עזה; 2009) מעריך את האוכלוסייה ב-411,000 בשנת 1860 וב-553,000 לערך בשנת 1890, ומתאר את ההערכות של אותם ימים כסותרות ובלתי מהימנות. הגופיאן וזחלאן (Journal of Palestine Studies, 1974), בעקבות ג'נט אבו-לוגוד, מעריכים את האוכלוסייה בכ-500,000 באמצע המאה התשע-עשרה, יותר מ-80% מוסלמים, 10% נוצרים ו-5-7% יהודים - שיעורים קרובים לאלה של הערכת 1880 זו.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5597,12 +5617,32 @@
           "ref": "scholch-1993",
           "locator": "Table 15, p. 40; p. 42",
           "note": "Alternative estimate for c. 1882: about 470,000 (record ottoman-palestine-c1882-scholch)."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, A.2 'The period around 1890', p. 367; Table 4.1, p. 32 (total around 1890: 532,060)",
+          "quote": "This estimate was obtained for the rural Non-Jewish population by interpolating between the results of the following two independent evaluations"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 4.2, p. 31",
+          "quote": "Acceleration of growth may have been particularly strong between 1870 and 1890."
+        },
+        {
+          "ref": "dellapergola-2001",
+          "locator": "p. 4",
+          "quote": "the total population of Palestine repeatedly doubled, from 275,000 in 1800 to over half a million in 1890"
+        },
+        {
+          "ref": "meir-2011-review-grossman",
+          "locator": "p. 97",
+          "quote": "Grossman finds that the image of an empty land is a far cry from reality, as many regions were already quite populated by Arabs."
         }
       ],
       "notes": {
-        "en": "McCarthy's projections from Ottoman registration data, corrected for undercounting of women and children; Ottoman citizens only (foreign nationals excluded). McCarthy notes the figures are 'just as approximate as figures rounded to the thousands'.",
-        "ar": "إسقاطات مكارثي من بيانات التسجيل العثمانية، مصحَّحة لنقص عدّ النساء والأطفال؛ المواطنون العثمانيون فقط (الأجانب مستثنون). ويلاحظ مكارثي أن الأرقام \"just as approximate as figures rounded to the thousands\".",
-        "he": "הקרנות של מקארתי מנתוני הרישום העות'מאניים, מתוקנות לתת-ספירה של נשים וילדים; אזרחים עות'מאנים בלבד (זרים אינם נכללים). מקארתי מציין שהנתונים \"just as approximate as figures rounded to the thousands\".",
+        "en": "McCarthy's projections from Ottoman registration data, corrected for undercounting of women and children; Ottoman citizens only (foreign nationals excluded). McCarthy notes the figures are 'just as approximate as figures rounded to the thousands'. Israeli demographers, working from other Ottoman lists and estimates, reached figures of the same order. Roberto Bachi (1977) built his estimate of about 532,000 for around 1890 partly by interpolating between an 1880 estimate of 450,000 (quoted by H. Z. Hirschberg) and his own estimate of 600,000 for 1895, and suggested that growth was particularly strong between 1870 and 1890; Sergio DellaPergola (Hebrew University, 2001) follows Bachi (over half a million in 1890). David Grossman's study of Ottoman sources (2011), as summarised by Avinoam Meir (Ben-Gurion University), concludes that many regions were already quite populated by Arabs before the first Jewish colonies of the 1880s.",
+        "ar": "إسقاطات مكارثي المبنية على بيانات التسجيل العثماني، مصحَّحة لتعويض النقص في تسجيل النساء والأطفال؛ وهي تشمل المواطنين العثمانيين فقط (باستثناء الأجانب). يلاحظ مكارثي أن الأرقام 'تقريبية تمامًا كالأرقام المقرَّبة إلى الآلاف'. وقد توصّل ديموغرافيون إسرائيليون، بالاعتماد على قوائم وتقديرات عثمانية أخرى، إلى أرقام من المرتبة نفسها. بنى روبرتو باكي (1977) تقديره البالغ نحو 532,000 لنحو عام 1890 جزئيًا بالاستيفاء بين تقدير لعام 1880 قدره 450,000 (نقله ه. ز. هيرشبرغ) وتقديره الخاص لعام 1895 وهو 600,000، واقترح أن النمو كان قويًا بوجه خاص بين 1870 و1890؛ ويتبع سيرجيو ديلابيرغولا (الجامعة العبرية، 2001) باكي (أكثر من نصف مليون في عام 1890). ويخلص ديفيد غروسمان في دراسته للمصادر العثمانية (2011)، كما لخّصها أفينوعام مئير (جامعة بن غوريون)، إلى أن مناطق كثيرة كانت مأهولة بالعرب إلى حد كبير قبل المستعمرات اليهودية الأولى في ثمانينيات القرن التاسع عشر.",
+        "he": "הקרנות של מקארתי מנתוני הרישום העות'מאני, מתוקנות בגין חסר ברישום נשים וילדים; אזרחים עות'מאנים בלבד (זרים אינם נכללים). מקארתי מציין שהמספרים 'מקורבים בדיוק כמו מספרים מעוגלים לאלפים'. דמוגרפים ישראלים, שעבדו מרשימות והערכות עות'מאניות אחרות, הגיעו למספרים מאותו סדר גודל. רוברטו בכי (1977) בנה את הערכתו, כ-532,000 לסביבות 1890, בין היתר באינטרפולציה בין הערכה משנת 1880 בסך 450,000 (שציטט ח. ז. הירשברג) לבין הערכתו שלו לשנת 1895, 600,000, והציע שהגידול היה חזק במיוחד בין 1870 ל-1890; סרג'יו דלה פרגולה (האוניברסיטה העברית, 2001) הולך בעקבות בכי (למעלה מחצי מיליון ב-1890). דוד גרוסמן במחקרו על מקורות עות'מאניים (2011), כפי שסוכם בידי אבינועם מאיר (אוניברסיטת בן-גוריון), מסיק שאזורים רבים היו כבר מיושבים בצפיפות ניכרת בידי ערבים לפני המושבות היהודיות הראשונות של שנות ה-80 של המאה ה-19.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5635,12 +5675,32 @@
           "ref": "mccarthy-1990",
           "locator": "Table 1.4D, p. 10",
           "note": "Alternative estimate for 1881/82: 462,465 Ottoman citizens (record ottoman-palestine-1881-mccarthy)."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 4.1, p. 31",
+          "quote": "for the last decades of the period under survey, some official evaluations and lists of households or of adults by localities are available"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, A.2(a), p. 368; Table 4.1, p. 32 (total around 1890: 532,060)",
+          "quote": "This estimate was obtained for the rural Non-Jewish population by interpolating between the results of the following two independent evaluations"
+        },
+        {
+          "ref": "dellapergola-2001",
+          "locator": "Table 2, p. 5 (columns: Jews, Christians, Muslims, total, thousands)",
+          "quote": "1890 43 57 432 532"
+        },
+        {
+          "ref": "meir-2011-review-grossman",
+          "locator": "p. 97",
+          "quote": "Grossman finds that the image of an empty land is a far cry from reality, as many regions were already quite populated by Arabs."
         }
       ],
       "notes": {
-        "en": "Table 15 gives 460-470,000 (Jerusalem 230,000 from German consular data; Nablus/Balqa' 120-130,000; Acre 110,000).",
-        "ar": "يعطي الجدول 15 460-470,000 (القدس 230,000 من بيانات القنصلية الألمانية؛ نابلس/البلقاء 120-130,000؛ عكا 110,000).",
-        "he": "טבלה 15 נותנת 460-470,000 (ירושלים 230,000 מנתוני הקונסוליה הגרמנית; שכם/בלקא 120-130,000; עכו 110,000).",
+        "en": "Table 15 gives 460-470,000 (Jerusalem 230,000 from German consular data; Nablus/Balqa' 120-130,000; Acre 110,000). Israeli demographer Roberto Bachi (1977) based his figures for this period on official evaluations and Ottoman lists of households or adult men by locality; he took an 1880 estimate of 450,000 (quoted by H. Z. Hirschberg) as one input and estimated about 532,000 for around 1890, a series that Sergio DellaPergola (Hebrew University, 2001) also uses. David Grossman's study of Ottoman sources (2011), as summarised by Avinoam Meir, finds many regions already quite populated by Arabs at the start of the 1880s.",
+        "ar": "يعطي الجدول 15 الرقم 460-470,000 (القدس 230,000 من بيانات قنصلية ألمانية؛ نابلس/البلقاء 120-130,000؛ عكا 110,000). أسّس الديموغرافي الإسرائيلي روبرتو باكي (1977) أرقامه لهذه الفترة على تقييمات رسمية وقوائم عثمانية للأسر أو للرجال البالغين بحسب الموقع؛ وأخذ تقديرًا لعام 1880 قدره 450,000 (نقله ه. ز. هيرشبرغ) كأحد المُدخلات، وقدّر نحو 532,000 لنحو عام 1890، وهي سلسلة يستخدمها أيضًا سيرجيو ديلابيرغولا (الجامعة العبرية، 2001). وتجد دراسة ديفيد غروسمان للمصادر العثمانية (2011)، كما لخّصها أفينوعام مئير، أن مناطق كثيرة كانت مأهولة بالعرب إلى حد كبير مع مطلع ثمانينيات القرن التاسع عشر.",
+        "he": "לוח 15 נותן 460-470,000 (ירושלים 230,000 לפי נתונים קונסולריים גרמניים; שכם/בלקא 120-130,000; עכו 110,000). הדמוגרף הישראלי רוברטו בכי (1977) ביסס את מספריו לתקופה זו על הערכות רשמיות ועל רשימות עות'מאניות של משקי בית או של גברים בוגרים לפי יישוב; הוא לקח הערכה משנת 1880 בסך 450,000 (שציטט ח. ז. הירשברג) כאחד מנתוני המוצא, והעריך כ-532,000 לסביבות 1890, סדרה שבה משתמש גם סרג'יו דלה פרגולה (האוניברסיטה העברית, 2001). מחקרו של דוד גרוסמן על מקורות עות'מאניים (2011), כפי שסוכם בידי אבינועם מאיר, מוצא אזורים רבים שכבר היו מיושבים בצפיפות ניכרת בידי ערבים בתחילת שנות ה-80 של המאה ה-19.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5673,12 +5733,27 @@
           "ref": "karpat-1978",
           "locator": "pp. 262, 271",
           "quote": "Total Akka Sanjak ... 75882; Total Belka Sanjak ... 115314; Total Kudus Special District ... 234770"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 4.1, p. 31",
+          "quote": "for the last decades of the period under survey, some official evaluations and lists of households or of adults by localities are available"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "section 4.2, p. 31; Table 4.1, p. 32 (total around 1890: 532,060)",
+          "quote": "Acceleration of growth may have been particularly strong between 1870 and 1890."
+        },
+        {
+          "ref": "meir-2011-review-grossman",
+          "locator": "p. 97",
+          "quote": "assesses the possible data sources available for an alternative portrayal of the demographic picture in the second half of the 19th century to confirm its reliability, particularly the Ottoman 1871/2 census of the Syrian District"
         }
       ],
       "notes": {
-        "en": "Total 425,966 is Schölch's sum of Karpat's three district totals, which I verified in Karpat's tables: Kudüs (Jerusalem) special district 234,770; Belka (Nablus) sanjak 115,314; Akka (Acre) sanjak 75,882. Karpat's tables break these down by sex and religious community (incl. a 'foreign citizens' column). Contested: Schölch calls the Acre results 'nonsense' (e.g. only 193 Jews counted in Safad), and McCarthy treats such registers as undercounts requiring correction (his corrected 1881-82 figure is 462,465).",
-        "ar": "المجموع 425,966 هو مجموع شولش لمجاميع كاربات الثلاثة للمناطق، وقد تحققتُ منه في جداول كاربات: متصرفية القدس (قدس) 234,770؛ سنجق البلقاء (نابلس) 115,314؛ سنجق عكا 75,882. وتفصّل جداول كاربات هذه حسب الجنس والطائفة الدينية (بما في ذلك عمود \"foreign citizens\"). متنازَع عليه: يصف شولش نتائج عكا بأنها \"nonsense\" (مثلًا لم يُحصَ في صفد سوى 193 يهوديًا)، ويعامل مكارثي هذه السجلات على أنها ناقصة العدّ وتتطلب تصحيحًا (رقمه المصحَّح لعام 1881-82 هو 462,465).",
-        "he": "הסכום 425,966 הוא הסכום ששלש חישב משלושת סכומי המחוזות של קרפט, שאימתתי בטבלאות של קרפט: מחוז מיוחד קודס (ירושלים) 234,770; סנג'ק בלקא (שכם) 115,314; סנג'ק עכו 75,882. טבלאות קרפט מפרטות אותם לפי מין ועדה דתית (כולל עמודת \"foreign citizens\"). שנוי במחלוקת: שלש מכנה את תוצאות עכו \"nonsense\" (למשל נספרו רק 193 יהודים בצפת), ומקארתי רואה ברישומים כאלה תת-ספירה הדורשת תיקון (הנתון המתוקן שלו ל-1881-82 הוא 462,465).",
+        "en": "Total 425,966 is Schölch's sum of Karpat's three district totals, which I verified in Karpat's tables: Kudüs (Jerusalem) special district 234,770; Belka (Nablus) sanjak 115,314; Akka (Acre) sanjak 75,882. Karpat's tables break these down by sex and religious community (incl. a 'foreign citizens' column). Contested: Schölch calls the Acre results 'nonsense' (e.g. only 193 Jews counted in Safad), and McCarthy treats such registers as undercounts requiring correction (his corrected 1881-82 figure is 462,465). Israeli scholars have not used this census total directly: Roberto Bachi (1977) built his estimate of about 532,000 for around 1890 from other official evaluations and Ottoman lists of households or adult men by locality, while David Grossman (2011, as summarised by Avinoam Meir) relies on the earlier Ottoman census of 1871/72 for the Syrian province, whose reliability he assesses.",
+        "ar": "المجموع 425,966 هو حاصل جمع شولش للمجاميع الثلاثة لألوية كاربات، وقد تحققتُ منه في جداول كاربات: لواء Kudüs (القدس) الخاص 234,770؛ سنجق Belka (نابلس) 115,314؛ سنجق Akka (عكا) 75,882. تفصّل جداول كاربات هذه الأرقام بحسب الجنس والطائفة الدينية (بما في ذلك عمود 'المواطنون الأجانب'). موضع خلاف: يصف شولش نتائج عكا بأنها 'هراء' (مثلًا لم يُحصَ في صفد سوى 193 يهوديًا)، ويعامل مكارثي هذه السجلات على أنها تنقص العدد وتحتاج إلى تصحيح (رقمه المصحَّح لعام 1881-82 هو 462,465). لم يستخدم الباحثون الإسرائيليون هذا المجموع التعدادي مباشرة: فقد بنى روبرتو باكي (1977) تقديره البالغ نحو 532,000 لنحو عام 1890 من تقييمات رسمية أخرى وقوائم عثمانية للأسر أو للرجال البالغين بحسب الموقع، بينما يعتمد ديفيد غروسمان (2011، كما لخّصه أفينوعام مئير) على التعداد العثماني الأسبق لعام 1871/72 لولاية سوريا، ويقيّم موثوقيته.",
+        "he": "הסך 425,966 הוא סכום של שולך משלושת סכומי המחוזות של קרפט, שאימתתי בלוחות של קרפט: מחוז מיוחד Kudüs (ירושלים) 234,770; סנג'ק Belka (שכם) 115,314; סנג'ק Akka (עכו) 75,882. הלוחות של קרפט מפרטים נתונים אלה לפי מין ועדה דתית (כולל עמודת 'אזרחים זרים'). שנוי במחלוקת: שולך מכנה את תוצאות עכו 'שטויות' (למשל רק 193 יהודים נספרו בצפת), ומקארתי רואה ברישומים כאלה ספירת חסר הטעונה תיקון (הנתון המתוקן שלו ל-1881-82 הוא 462,465). חוקרים ישראלים לא השתמשו בסך המפקד הזה ישירות: רוברטו בכי (1977) בנה את הערכתו, כ-532,000 לסביבות 1890, מהערכות רשמיות אחרות ומרשימות עות'מאניות של משקי בית או של גברים בוגרים לפי יישוב, ואילו דוד גרוסמן (2011, כפי שסוכם בידי אבינועם מאיר) נשען על המפקד העות'מאני המוקדם יותר של 1871/72 בפרובינציה הסורית, ובוחן את מהימנותו.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -5939,12 +6014,27 @@
         {
           "ref": "scholch-1993",
           "locator": "Table 15, p. 40, column '1914' (note e: Zamir, Ottoman statistics)"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, A.3 '1914 and 1919', p. 368",
+          "quote": "The estimate for 1914 is based on the official Turkish total population estimate of 689,275, 70,000 of whom were Christians"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table 4.1, p. 32 (column heading)",
+          "quote": "Around 1914 (Total: official estimate)"
+        },
+        {
+          "ref": "dellapergola-2001",
+          "locator": "Table 2, p. 5 (columns: Jews, Christians, Muslims, total, thousands)",
+          "quote": "1914 94 70 525 689"
         }
       ],
       "notes": {
-        "en": "Uncorrected Ottoman register totals: Jerusalem 328,168; Nablus 154,563; Acre 133,877. McCarthy considers Ottoman registers to undercount women and children (his corrected 1914-15 figure is 722,143) and not to include foreign nationals.",
-        "ar": "مجاميع السجل العثماني غير المصحَّحة: القدس 328,168؛ نابلس 154,563؛ عكا 133,877. ويرى مكارثي أن السجلات العثمانية تنقص عدّ النساء والأطفال (رقمه المصحَّح لعام 1914-15 هو 722,143) ولا تشمل الأجانب.",
-        "he": "סכומי הרישום העות'מאני הלא מתוקנים: ירושלים 328,168; שכם 154,563; עכו 133,877. מקארתי סבור שהרישומים העות'מאניים סופרים בחסר נשים וילדים (הנתון המתוקן שלו ל-1914-15 הוא 722,143) ואינם כוללים זרים.",
+        "en": "Uncorrected Ottoman register totals: Jerusalem 328,168; Nablus 154,563; Acre 133,877. McCarthy considers Ottoman registers to undercount women and children (his corrected 1914-15 figure is 722,143) and not to include foreign nationals. Israeli demographers did not use these register totals: Roberto Bachi (1977) based his 1914 figure on the official Turkish estimate of 689,275 (record ottoman-palestine-1914-barron), and Sergio DellaPergola (Hebrew University, 2001) likewise gives 689,000 for 1914.",
+        "ar": "مجاميع السجلات العثمانية غير المصحَّحة: القدس 328,168؛ نابلس 154,563؛ عكا 133,877. يرى مكارثي أن السجلات العثمانية تنقص عدد النساء والأطفال (رقمه المصحَّح لعام 1914-15 هو 722,143) وأنها لا تشمل الأجانب. لم يستخدم الديموغرافيون الإسرائيليون مجاميع السجلات هذه: فقد بنى روبرتو باكي (1977) رقمه لعام 1914 على التقدير التركي الرسمي البالغ 689,275 (السجل ottoman-palestine-1914-barron)، وكذلك يورد سيرجيو ديلابيرغولا (الجامعة العبرية، 2001) الرقم 689,000 لعام 1914.",
+        "he": "סכומי רישום עות'מאניים לא מתוקנים: ירושלים 328,168; שכם 154,563; עכו 133,877. מקארתי סבור שהרישומים העות'מאניים מחסירים נשים וילדים (הנתון המתוקן שלו ל-1914-15 הוא 722,143) ושאינם כוללים זרים. דמוגרפים ישראלים לא השתמשו בסכומי הרישום האלה: רוברטו בכי (1977) ביסס את נתון 1914 שלו על ההערכה הטורקית הרשמית, 689,275 (הרשומה ottoman-palestine-1914-barron), וגם סרג'יו דלה פרגולה (האוניברסיטה העברית, 2001) נותן 689,000 לשנת 1914.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6008,12 +6098,32 @@
         {
           "ref": "scholch-1993",
           "locator": "Table 15, p. 40 and p. 40 text"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, A.3 '1914 and 1919', p. 368",
+          "quote": "The estimate for 1914 is based on the official Turkish total population estimate of 689,275, 70,000 of whom were Christians"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, p. 368, note 6",
+          "quote": "this estimate is actually to be referred to March 1915"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 4, C, p. 370",
+          "quote": "our pre-war estimate for the Jewish population (94,000) may perhaps be too high as it is considerably higher than (a) that for 1914 (84,600) quoted in the preface to the Report of the 1922 census"
+        },
+        {
+          "ref": "dellapergola-2001",
+          "locator": "Table 2, p. 5 (columns: Jews, Christians, Muslims, total, thousands)",
+          "quote": "1914 94 70 525 689"
         }
       ],
       "notes": {
-        "en": "Barron says the religious split is not reliably known; the Jewish figure (84,660) comes 'from other sources' (Ruppin, Syrien als Wirtschaftsgebiet, 1916) and the Christian figure is 'the pre-war estimate of the Christian population was 70,000'. Barron also reports that the Ottoman authorities in 1914 placed the tribal population of Beersheba at 55,000. Disagreement: McCarthy argues these 'Ottoman' figures were copied from Ruppin, who in his view inflated some kazas (esp. Jerusalem and Jaffa), and that the official 1330 Nüfus gives 616,608; Schölch, by contrast, treats Ruppin's 1915 data (634,275 without the Beersheba qada', plus 55,000 Bedouin = 'the oft-cited 689,000') as 'relatively reliable' comparison figures. Bachi (Appendix 4) also cites this total as 'the official Turkish total population estimate of 689,275'. The groups listed are those the source gives separately; the remainder (e.g. “others” or “not classified by religion”) is not shown, so the composition is marked partial.",
-        "ar": "يقول بارون إن التقسيم الديني غير معروف بشكل موثوق؛ فرقم اليهود (84,660) يأتي \"from other sources\" (روبين، Syrien als Wirtschaftsgebiet، 1916) ورقم المسيحيين هو \"the pre-war estimate of the Christian population was 70,000\". ويذكر بارون أيضًا أن السلطات العثمانية قدّرت عام 1914 سكان القبائل في بئر السبع بـ55,000. خلاف: يرى مكارثي أن هذه الأرقام \"العثمانية\" نُسخت عن روبين الذي ضخّم برأيه بعض الأقضية (خصوصًا القدس ويافا)، وأن النفوس الرسمي لسنة 1330 يعطي 616,608؛ بينما يعدّ شولش بيانات روبين لعام 1915 (634,275 من دون قضاء بئر السبع، إضافة إلى 55,000 بدوي = \"the oft-cited 689,000\") أرقام مقارنة \"relatively reliable\". ويستشهد باكي (الملحق 4) أيضًا بهذا المجموع بوصفه \"the official Turkish total population estimate of 689,275\". المجموعات المذكورة هي التي يوردها المصدر منفصلة؛ أما الباقي (مثل \"أخرى\" أو \"غير مصنَّفين حسب الدين\") فلا يظهر، ولذلك وُسمت التركيبة بأنها جزئية.",
-        "he": "בארון אומר שהחלוקה הדתית אינה ידועה באופן מהימן; נתון היהודים (84,660) מגיע \"from other sources\" (רופין, Syrien als Wirtschaftsgebiet, 1916) ונתון הנוצרים הוא \"the pre-war estimate of the Christian population was 70,000\". בארון מדווח גם שהשלטונות העות'מאניים ב-1914 העמידו את אוכלוסיית השבטים בבאר שבע על 55,000. מחלוקת: מקארתי טוען שהנתונים ה\"עות'מאניים\" האלה הועתקו מרופין, שלדעתו ניפח כמה קזאות (בעיקר ירושלים ויפו), ושהנופוס הרשמי של 1330 נותן 616,608; שלש, לעומת זאת, רואה בנתוני רופין מ-1915 (634,275 ללא קאדא באר שבע, בתוספת 55,000 בדואים = \"the oft-cited 689,000\") נתוני השוואה \"relatively reliable\". בכי (נספח 4) מצטט גם הוא את הסכום הזה כ-\"the official Turkish total population estimate of 689,275\". הקבוצות שמופיעות הן אלה שהמקור מציג בנפרד; השאר (למשל \"אחרים\" או \"לא מסווגים לפי דת\") אינו מוצג, ולכן ההרכב מסומן כחלקי.",
+        "en": "Barron says the religious split is not reliably known; the Jewish figure (84,660) comes 'from other sources' (Ruppin, Syrien als Wirtschaftsgebiet, 1916) and the Christian figure is 'the pre-war estimate of the Christian population was 70,000'. Barron also reports that the Ottoman authorities in 1914 placed the tribal population of Beersheba at 55,000. Disagreement: McCarthy argues these 'Ottoman' figures were copied from Ruppin, who in his view inflated some kazas (esp. Jerusalem and Jaffa), and that the official 1330 Nüfus gives 616,608; Schölch, by contrast, treats Ruppin's 1915 data (634,275 without the Beersheba qada', plus 55,000 Bedouin = 'the oft-cited 689,000') as 'relatively reliable' comparison figures. Bachi (Appendix 4) also cites this total as 'the official Turkish total population estimate of 689,275'. The groups listed are those the source gives separately; the remainder (e.g. “others” or “not classified by religion”) is not shown, so the composition is marked partial. Israeli demographers adopt this total: Roberto Bachi (1977) bases his 1914 estimate on it (noting, after Ruppin, that it refers to March 1915) but puts the Jewish population higher, at 94,000, while noting that this may be too high compared with the figure in Barron's preface; Sergio DellaPergola (Hebrew University, 2001) gives 689,000 for 1914 (94,000 Jews, 70,000 Christians, 525,000 Muslims).",
+        "ar": "يقول بارون إن التوزيع الديني غير معروف على نحو موثوق؛ فرقم اليهود (84,660) جاء 'من مصادر أخرى' (روبين، Syrien als Wirtschaftsgebiet، 1916) ورقم المسيحيين هو 'تقدير عدد المسيحيين قبل الحرب كان 70,000'. ويورد بارون أيضًا أن السلطات العثمانية قدّرت عام 1914 عدد السكان البدو في بئر السبع بـ 55,000. خلاف: يرى مكارثي أن هذه الأرقام 'العثمانية' نُسخت عن روبين، الذي يرى أنه ضخّم بعض الأقضية (خصوصًا القدس ويافا)، وأن 'النفوس' الرسمي لعام 1330 يعطي 616,608؛ أما شولش، في المقابل، فيعدّ بيانات روبين لعام 1915 (634,275 دون قضاء بئر السبع، يضاف إليها 55,000 بدوي = 'الرقم 689,000 الكثير التداول') أرقام مقارنة 'موثوقة نسبيًا'. ويورد باكي (الملحق 4) هذا المجموع أيضًا بوصفه 'التقدير التركي الرسمي لمجموع السكان وهو 689,275'. المجموعات المذكورة هي التي يوردها المصدر منفصلةً؛ أما الباقي (مثل «آخرين» أو «غير مصنّفين حسب الدين») فلم يُعرض، ولذلك وُسم التركيب بأنه جزئي. يعتمد الديموغرافيون الإسرائيليون هذا المجموع: فروبرتو باكي (1977) يبني عليه تقديره لعام 1914 (مشيرًا، تبعًا لروبين، إلى أنه يعود إلى آذار/مارس 1915) لكنه يرفع عدد اليهود إلى 94,000، مع الإشارة إلى أن هذا قد يكون مرتفعًا قياسًا إلى الرقم الوارد في مقدمة بارون؛ ويورد سيرجيو ديلابيرغولا (الجامعة العبرية، 2001) الرقم 689,000 لعام 1914 (94,000 يهودي و70,000 مسيحي و525,000 مسلم).",
+        "he": "בארון אומר שהחלוקה הדתית אינה ידועה באופן מהימן; נתון היהודים (84,660) בא 'ממקורות אחרים' (רופין, Syrien als Wirtschaftsgebiet, 1916) ונתון הנוצרים הוא 'ההערכה לפני המלחמה של האוכלוסייה הנוצרית הייתה 70,000'. בארון מדווח גם שהשלטונות העות'מאניים הציבו ב-1914 את האוכלוסייה השבטית של באר שבע על 55,000. מחלוקת: מקארתי טוען שהנתונים ה'עות'מאניים' האלה הועתקו מרופין, שלדעתו ניפח כמה קאזות (בעיקר ירושלים ויפו), ושמפקד האוכלוסין הרשמי (Nüfus) של 1330 נותן 616,608; שולך, לעומת זאת, רואה בנתוני רופין מ-1915 (634,275 ללא קאזא באר שבע, ועוד 55,000 בדואים = 'הנתון הנפוץ 689,000') נתוני השוואה 'מהימנים יחסית'. גם בכי (נספח 4) מצטט סך זה כ'הערכה הטורקית הרשמית של כלל האוכלוסייה, 689,275'. הקבוצות המנויות הן אלה שהמקור מפרט בנפרד; יתר האוכלוסייה (למשל ״אחרים״ או ״לא מסווגים לפי דת״) אינו מוצג, ולכן ההרכב מסומן כחלקי. דמוגרפים ישראלים מאמצים סך זה: רוברטו בכי (1977) מבסס עליו את הערכתו ל-1914 (ומציין, בעקבות רופין, שהיא מתייחסת למרץ 1915) אך מציב את האוכלוסייה היהודית גבוה יותר, ב-94,000, תוך שהוא מציין שייתכן שזה גבוה מדי בהשוואה לנתון בהקדמה של בארון; סרג'יו דלה פרגולה (האוניברסיטה העברית, 2001) נותן 689,000 ל-1914 (94,000 יהודים, 70,000 נוצרים, 525,000 מוסלמים).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -6189,12 +6299,27 @@
           "ref": "bachi-1977",
           "locator": "section 4.6, p. 36",
           "quote": "British estimate for March 1919 which presumably understates the number of Moslems and possibly somewhat overstates the number of Jews"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "Table 3, p. 52 (columns: year, total, Arabs number/%/growth, Jews number/%/growth; the Arab figure is printed 6440000, evidently for 644,000; table source: Musa Samha)",
+          "quote": "1918 694000 6440000 92.8 0.4 50000 7.2"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "p. 52",
+          "quote": "حيث شهدت فترة الحرب العالمية الأولى هجرة يهودية مضادة إلى خارج البلاد"
+        },
+        {
+          "ref": "palquest-demography-i",
+          "locator": "text before Table 3; Table 2 (chart data credited to McCarthy 1990): 1918 Moslems 618,528, Christians 70,429, Jews 58,728",
+          "quote": "While the war had a major impact on the demography of Palestinian Jews, this loss was much less than that suffered by other Muslim or Christian Palestinians."
         }
       ],
       "notes": {
-        "en": "Total 'incl. others'. Bachi also gives his own estimate of 56,000 Jews at the end of 1918 (from Jewish censuses of 1916-18).",
-        "ar": "المجموع \"incl. others\". ويعطي باكي أيضًا تقديره الخاص بـ56,000 يهودي في نهاية 1918 (من الإحصاءات اليهودية 1916-18).",
-        "he": "הסכום הכולל \"incl. others\". בכי נותן גם את אומדנו שלו, 56,000 יהודים בסוף 1918 (ממפקדים יהודיים של 1916-18).",
+        "en": "Total 'incl. others'. Bachi also gives his own estimate of 56,000 Jews at the end of 1918 (from Jewish censuses of 1916-18). Palestinian and Arab demographic work gives more Arabs and fewer Jews for the end of the war than this British estimate: Yousef Kamel Ibrahim (Al-Aqsa University, 2009), from a study by Musa Samha, gives about 694,000 for 1918, of whom about 644,000 Arabs (92.8%) and 50,000 Jews (7.2%), and attributes the Jewish decline to wartime emigration; the Institute for Palestine Studies' PalQuest entry by demographer Youssef Courbage uses McCarthy's 1918 figures (618,528 Muslims, 70,429 Christians, 58,728 Jews) and holds that Muslim and Christian wartime losses were larger than Jewish ones.",
+        "ar": "المجموع 'بما في ذلك آخرون'. يورد باكي أيضًا تقديره الخاص البالغ 56,000 يهودي في نهاية عام 1918 (من إحصاءات يهودية للأعوام 1916-18). يعطي العمل الديموغرافي الفلسطيني والعربي عددًا أكبر من العرب وأقل من اليهود في نهاية الحرب مقارنةً بهذا التقدير البريطاني: فيعطي يوسف كامل إبراهيم (جامعة الأقصى، 2009)، استنادًا إلى دراسة لموسى سمحة، نحو 694,000 لعام 1918، منهم نحو 644,000 عربي (92.8%) و50,000 يهودي (7.2%)، ويعزو تراجع اليهود إلى الهجرة في زمن الحرب؛ أما مدخل PalQuest لدى مؤسسة الدراسات الفلسطينية، بقلم الديموغرافي يوسف كوربيج، فيستخدم أرقام مكارثي لعام 1918 (618,528 مسلمًا و70,429 مسيحيًا و58,728 يهوديًا) ويرى أن خسائر المسلمين والمسيحيين في زمن الحرب كانت أكبر من خسائر اليهود.",
+        "he": "הסך 'כולל אחרים'. בכי נותן גם הערכה משלו של 56,000 יהודים בסוף 1918 (ממפקדים יהודיים של 1916-18). עבודה דמוגרפית פלסטינית וערבית נותנת יותר ערבים ופחות יהודים לסוף המלחמה מאשר ההערכה הבריטית הזו: יוסף כמאל איברהים (אוניברסיטת אל-אקצא, 2009), על סמך מחקר של מוסא סמחה, נותן כ-694,000 ל-1918, מהם כ-644,000 ערבים (92.8%) ו-50,000 יהודים (7.2%), ומייחס את הירידה בקרב היהודים להגירה בזמן המלחמה; הערך של מכון הלימודים הפלסטיניים ב-PalQuest מאת הדמוגרף יוסף קורבז'ה משתמש בנתוני מקארתי ל-1918 (618,528 מוסלמים, 70,429 נוצרים, 58,728 יהודים) וסבור שהאבדות של המוסלמים והנוצרים בזמן המלחמה היו גדולות מאלה של היהודים.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -7577,12 +7702,17 @@
           "ref": "ennab-1994",
           "locator": "attachment Table 1.6",
           "quote": "Total 357 526 454 900"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Appendix 8.1(2), p. 412",
+          "quote": "No census was carried out after 1931. The statistical unit instituted by the Egyptian Government used to estimate the population by adding the registered natural increase to the initial population evaluation."
         }
       ],
       "notes": {
-        "en": "Egyptian administration figure. Bachi (Appendix 8.1) states that the Egyptian statistical unit's estimates (initial count plus registered natural increase) were inflated by gross under-reporting of deaths.",
-        "ar": "رقم الإدارة المصرية. يذكر باكي (الملحق 8.1) أن تقديرات الوحدة الإحصائية المصرية (العدّ الأولي مضافًا إليه الزيادة الطبيعية المسجلة) كانت مضخَّمة بسبب نقص فادح في الإبلاغ عن الوفيات.",
-        "he": "נתון של המנהל המצרי. בכי (נספח 8.1) קובע שאומדני היחידה הסטטיסטית המצרית (ספירה ראשונית בתוספת גידול טבעי רשום) נופחו בשל תת-דיווח חמור של פטירות.",
+        "en": "Egyptian administration figure. Bachi (Appendix 8.1) states that the Egyptian statistical unit's estimates (initial count plus registered natural increase) were inflated by gross under-reporting of deaths. Bachi (Israeli demographer, 1977) notes that no census had been taken in Gaza since 1931 and that the Egyptian statistical unit built its series by adding registered natural increase to an initial evaluation; he tests the series against the 1967 census (record gaza-1966-egypt-estimate).",
+        "ar": "رقم الإدارة المصرية. يذكر باكي (الملحق 8.1) أن تقديرات الوحدة الإحصائية المصرية (العدّ الأولي مضافًا إليه الزيادة الطبيعية المسجَّلة) كانت متضخمة بسبب النقص الفادح في الإبلاغ عن الوفيات. ويلاحظ باكي (الديموغرافي الإسرائيلي، 1977) أنه لم يُجرَ أي تعداد في غزة منذ عام 1931، وأن الوحدة الإحصائية المصرية بنت سلسلتها بإضافة الزيادة الطبيعية المسجَّلة إلى تقييم أولي؛ وهو يختبر السلسلة بمقارنتها بتعداد عام 1967 (السجل gaza-1966-egypt-estimate).",
+        "he": "נתון המינהל המצרי. בכי (נספח 8.1) קובע שההערכות של היחידה הסטטיסטית המצרית (ספירה ראשונית בתוספת הריבוי הטבעי הרשום) היו מנופחות עקב תת-דיווח חמור על פטירות. בכי (דמוגרף ישראלי, 1977) מציין שלא נערך בעזה מפקד אוכלוסין מאז 1931 ושהיחידה הסטטיסטית המצרית בנתה את הסדרה שלה בהוספת הריבוי הטבעי הרשום להערכה ראשונית; הוא בוחן את הסדרה אל מול מפקד 1967 (הרשומה gaza-1966-egypt-estimate).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -7818,12 +7948,27 @@
         {
           "ref": "ennab-1994",
           "locator": "attachment Table 1.6 (1966: 454 900, from M.A. Khlousi 1967 via A. Dahlan 1987)"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "p. 65",
+          "quote": "وفي العام 1966 ارتفع معدل النمو إلى 4.1% ليصل عدد سكان القطاع إلى 455 ألف نسمة في العام نفسه"
+        },
+        {
+          "ref": "ibrahim-2009-population-palestine-demographic-conflict",
+          "locator": "p. 65",
+          "quote": "تعرض قطاع غزة لنكسة سكانية تمثلت بهجرة عدد كبير من سكانه قدر بأكثر من 60 ألف نسمة"
+        },
+        {
+          "ref": "bsaiso-2022-pngo-gaza-population-growth",
+          "locator": "Table 2, p. 3 (columns: year, statistical body, population)",
+          "quote": "1966 الإِدارة المصرية 454,960 1967 الإحصاء الإسرائيلي 354,000"
         }
       ],
       "notes": {
-        "en": "Bachi compares 454,960 (1966 estimate) with 356,261 (1967 census) and concludes the former was grossly inflated, since emigration due to the 1967 war 'was very limited'. Ennab prints 454,900 for 1966. Ennab (1994, Table 2.1 note a/) instead uses his own estimate of 442,100 for Gaza on 30 May 1967 (pre-war) against 352.3 thousand at 30 June 1967 (post-war, CBS-based), i.e. he assumes a large wartime decline; hence marked contested.",
-        "ar": "يقارن باكي 454,960 (تقدير 1966) بـ356,261 (تعداد 1967) ويستنتج أن الأول كان مضخَّمًا بشدة، لأن الهجرة بسبب حرب 1967 \"was very limited\". ويطبع عنّاب 454,900 لعام 1966. أما عنّاب (1994، الجدول 2.1 ملاحظة a/) فيستخدم بدلًا من ذلك تقديره الخاص 442,100 لغزة في 30 أيار/مايو 1967 (قبل الحرب) مقابل 352.3 ألفًا في 30 حزيران/يونيو 1967 (بعد الحرب، مبني على CBS)، أي أنه يفترض انخفاضًا كبيرًا في زمن الحرب؛ ولذلك وُسم بأنه متنازَع عليه.",
-        "he": "בכי משווה 454,960 (אומדן 1966) ל-356,261 (מפקד 1967) ומסיק שהראשון נופח מאוד, שכן ההגירה בשל מלחמת 1967 \"was very limited\". ענאב מדפיס 454,900 ל-1966. ענאב (1994, טבלה 2.1 הערה a/) משתמש לעומת זאת באומדן משלו, 442,100 לעזה ב-30 במאי 1967 (לפני המלחמה) לעומת 352.3 אלף ב-30 ביוני 1967 (אחרי המלחמה, מבוסס CBS), כלומר הוא מניח ירידה גדולה בזמן המלחמה; לכן סומן כשנוי במחלוקת.",
+        "en": "Bachi compares 454,960 (1966 estimate) with 356,261 (1967 census) and concludes the former was grossly inflated, since emigration due to the 1967 war 'was very limited'. Ennab prints 454,900 for 1966. Ennab (1994, Table 2.1 note a/) instead uses his own estimate of 442,100 for Gaza on 30 May 1967 (pre-war) against 352.3 thousand at 30 June 1967 (post-war, CBS-based), i.e. he assumes a large wartime decline; hence marked contested. Palestinian sources treat the 1966 figure as a real level: Yousef Kamel Ibrahim (Al-Aqsa University, Gaza; 2009) gives about 455,000 for 1966 and describes the drop that followed as a demographic setback caused by the emigration of more than 60,000 people in a single year, continuing in 1968 (Ennab also assumes a large wartime decline); a 2022 study for the Palestinian NGOs Network (PNGO) lists 454,960 (Egyptian administration, 1966) next to 354,000 (Israeli statistics, 1967) without comment.",
+        "ar": "يقارن باكي بين 454,960 (تقدير 1966) و356,261 (تعداد 1967) ويستنتج أن الأول كان متضخمًا بشدة، لأن الهجرة بسبب حرب 1967 'كانت محدودة جدًا'. يطبع عنّاب 454,900 لعام 1966. ويستخدم عنّاب (1994، الجدول 2.1 الملاحظة a/) بدلًا من ذلك تقديره الخاص البالغ 442,100 لغزة في 30 أيار/مايو 1967 (قبل الحرب) مقابل 352.3 ألفًا في 30 حزيران/يونيو 1967 (بعد الحرب، استنادًا إلى الدائرة المركزية للإحصاء)، أي أنه يفترض تراجعًا كبيرًا في زمن الحرب؛ ولذلك وُسم الرقم بأنه موضع خلاف. وتتعامل المصادر الفلسطينية مع رقم 1966 على أنه مستوى حقيقي: فيعطي يوسف كامل إبراهيم (جامعة الأقصى، غزة؛ 2009) نحو 455,000 لعام 1966 ويصف الانخفاض الذي تلاه بأنه نكسة ديموغرافية سببها هجرة أكثر من 60,000 شخص في سنة واحدة، واستمرت في عام 1968 (ويفترض عنّاب أيضًا تراجعًا كبيرًا في زمن الحرب)؛ وتورد دراسة أُعدّت عام 2022 لشبكة المنظمات الأهلية الفلسطينية (PNGO) الرقم 454,960 (الإدارة المصرية، 1966) بجوار 354,000 (الإحصاءات الإسرائيلية، 1967) دون تعليق.",
+        "he": "בכי משווה בין 454,960 (הערכת 1966) ל-356,261 (מפקד 1967) ומסיק שהראשון היה מנופח מאוד, שכן ההגירה בעקבות מלחמת 1967 'הייתה מוגבלת מאוד'. ענאב מדפיס 454,900 ל-1966. ענאב (1994, לוח 2.1 הערה a/) משתמש במקום זאת בהערכה משלו, 442,100 לעזה ב-30 במאי 1967 (לפני המלחמה), לעומת 352.3 אלף ב-30 ביוני 1967 (אחרי המלחמה, על בסיס הלמ״ס), כלומר הוא מניח ירידה גדולה בזמן המלחמה; ולכן הנתון מסומן כשנוי במחלוקת. מקורות פלסטיניים רואים בנתון 1966 רמה אמיתית: יוסף כמאל איברהים (אוניברסיטת אל-אקצא, עזה; 2009) נותן כ-455,000 ל-1966 ומתאר את הירידה שבאה אחריו כנסיגה דמוגרפית שנגרמה מהגירתם של יותר מ-60,000 איש בשנה אחת, והמשיכה ב-1968 (גם ענאב מניח ירידה גדולה בזמן המלחמה); מחקר משנת 2022 עבור רשת הארגונים הלא-ממשלתיים הפלסטיניים (PNGO) מפרט 454,960 (המינהל המצרי, 1966) לצד 354,000 (הסטטיסטיקה הישראלית, 1967) ללא הערה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
