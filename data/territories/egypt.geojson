@@ -143,12 +143,32 @@
             "ref": "sis-egypt-modern-history",
             "locator": "section \"ثورة 23 يوليو\" (Arabic)",
             "quote": "وأدركت إسرائيل الدور القيادي لمصر فى العالم العربي فقامت فى 5 يونيو 1967 م بهجوم غادر على مصر وسوريا والأردن واحتلت سيناء والجولان والضفة الغربية للأردن."
+          },
+          {
+            "ref": "egypt-law-255-1955-gaza-basic-law",
+            "locator": "promulgating law, Art. 1 (Arabic)",
+            "quote": "يسري القانون الأساسي المرافق على المنطقة الواقعة تحت رقابة القوات المصرية بفلسطين التي يطلق عليها اسم \"قطاع غزة \""
+          },
+          {
+            "ref": "egypt-law-255-1955-gaza-basic-law",
+            "locator": "annexed Basic Law, chapter on the Administrative Governor-General (Arabic)",
+            "quote": "يعين الحاكم الإداري العام بقرار من مجلس الوزراء ويكون تابعاً لوزير الحربية"
+          },
+          {
+            "ref": "gaza-constitutional-order-1962",
+            "locator": "Art. 1 (Arabic)",
+            "quote": "قطاع غزة جزء لا يتجزأ من أرض فلسطين وشعبها جزء من الأمة العربية"
+          },
+          {
+            "ref": "gaza-constitutional-order-1962",
+            "locator": "Art. 20 (Arabic)",
+            "quote": "يصدق الحاكم العام على القوانين ويصدرها باسم الشعب الفلسطيني"
           }
         ],
         "notes": {
-          "en": "Gaza is included as an Egyptian-administered (not sovereign) territory; in 1948 Egyptian forces also held a larger area of southern Palestine before the autumn 1948 fighting (Britannica).",
-          "ar": "غزة مدرجة بوصفها أرضًا تديرها مصر (لا ذات سيادة)؛ وفي 1948 سيطرت القوات المصرية أيضًا على منطقة أوسع من جنوب فلسطين قبل قتال خريف 1948 (بريتانيكا).",
-          "he": "עזה נכללת כשטח בניהול מצרי (לא ריבוני); ב-1948 החזיקו כוחות מצריים גם בשטח גדול יותר של דרום פלשתינה לפני הלחימה בסתיו 1948 (בריטניקה).",
+          "en": "Gaza is included as an Egyptian-administered (not sovereign) territory; in 1948 Egyptian forces also held a larger area of southern Palestine before the autumn 1948 fighting (Britannica). Legal status (primary texts): Egypt governed the Strip under its own basic laws as 'the area under the supervision of the Egyptian forces in Palestine, known as the Gaza Strip' (Law No. 255 of 1955, Art. 1), through an Administrative Governor-General appointed by the Egyptian Council of Ministers and answerable to the Minister of War. The 1962 Constitutional Declaration (Art. 1) calls the Strip 'an indivisible part of the land of Palestine' and has its laws issued 'in the name of the Palestinian people' (Art. 20). This supports the description: administered, not annexed.",
+          "ar": "تُدرج غزة إقليماً تديره مصر (لا تملك السيادة عليه)؛ وفي 1948 سيطرت القوات المصرية أيضاً على مساحة أكبر من جنوب فلسطين قبل معارك خريف 1948 (بريتانيكا). الوضع القانوني (نصوص أصلية): حكمت مصر القطاع بموجب قوانين أساسية خاصة به بوصفه «المنطقة الخاضعة لرقابة القوات المصرية بفلسطين المعروفة بقطاع غزة» (القانون رقم 255 لسنة 1955، المادة 1)، من خلال حاكم إداري عام يعيّنه مجلس الوزراء المصري ويتبع وزير الحربية. ويصف الإعلان الدستوري لسنة 1962 (المادة 1) القطاع بأنه «جزء لا يتجزأ من أرض فلسطين»، وتصدر قوانينه «باسم الشعب الفلسطيني» (المادة 20). وهذا يؤيد الوصف: إدارة لا ضم.",
+          "he": "עזה נכללת כשטח בניהול מצרי (לא בריבונות מצרית); ב-1948 החזיקו הכוחות המצריים גם בשטח גדול יותר בדרום ארץ ישראל/פלסטין לפני הקרבות של סתיו 1948 (בריטניקה). מעמד משפטי (טקסטים ראשוניים): מצרים שלטה ברצועה לפי חוקי יסוד משלה כ\"השטח שבפיקוח הכוחות המצריים בפלסטין, הידוע כרצועת עזה\" (חוק מס' 255 משנת 1955, סעיף 1), באמצעות מושל כללי מנהלי שמינתה מועצת השרים המצרית והיה כפוף לשר המלחמה. ההכרזה החוקתית משנת 1962 (סעיף 1) מגדירה את הרצועה \"חלק בלתי נפרד מאדמת פלסטין\" וקובעת שחוקיה יוצאים \"בשם העם הפלסטיני\" (סעיף 20). הדבר תומך בתיאור: ניהול, לא סיפוח.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

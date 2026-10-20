@@ -10392,12 +10392,27 @@
         "year": 1949,
         "precision": "year"
       },
-      "founded_note": "Modern Israeli town founded 1949, incorporated 1959 (Britannica); west of ancient Elath/Aila (see aqaba).",
+      "founded_note": "Modern Israeli town on the site called Umm Rashrash (Umm al-Rashrash), a British Mandate police post on the Gulf of Aqaba. Israeli forces reached it in March 1949 at the end of the 1948 war (Operation Uvda): 10 March per Britannica and a contemporary UN observer report quoted by JTA, 13 March per Encyclopaedia Judaica. A first civilian camp was set up in December 1949, the settlement became a local council in December 1952, and it received city status in March 1959 (EJ; Britannica: 'founded in 1949 and incorporated in 1959'). Arab writers describe Umm al-Rashrash as a Palestinian locality destroyed after its capture, on whose site Eilat was built (Arabi21); EJ calls the site 'a wasteland'. West of ancient Elath/Aila (see aqaba).",
       "founded_sources": [
         {
           "ref": "britannica-elat",
           "locator": "modern city",
           "quote": "Modern Elat, founded in 1949 and incorporated in 1959"
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "A first step in establishing a civilian settlement was made in December 1949 when members of Ha-Kibbutz"
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "it was occupied by Israel forces on March 13, 1949, in the bloodless \"Operation Uvdah \" (\"Established Fact\")"
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "Eilat was given city status in March 1959"
         }
       ],
       "names": [
@@ -10481,6 +10496,41 @@
           "ref": "britannica-elat",
           "locator": "history",
           "quote": "reached Israel’s Red Sea coast at the site of Elat on March 10, 1949"
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "The site, a wasteland bearing the Arabic name Umm Rashrash, was included in the future Jewish state in the un partition plan of 1947."
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "it was occupied by Israel forces on March 13, 1949, in the bloodless \"Operation Uvdah \" (\"Established Fact\")"
+        },
+        {
+          "ref": "jta-1949-03-15-um-reshresh",
+          "locator": "bulletin of 15 March 1949, section on U.N. observers in the Negev",
+          "quote": "This U.N. official’s report, obtained from an Arab Legion source, states that Israeli I forces occupied Um Reshresh–located on the Aqaba Gulf within the borders of Palestine–on March 10."
+        },
+        {
+          "ref": "jta-1949-03-15-um-reshresh",
+          "locator": "same report",
+          "quote": "the fact that Um Reshresh is in Israeli hands has officially been verified in Israeli circles here."
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "By December 1952 Eilat received local council status."
+        },
+        {
+          "ref": "ej-elath",
+          "locator": "section \"Modern Eilat\"",
+          "quote": "Eilat was given city status in March 1959"
+        },
+        {
+          "ref": "arabi21-2024-umm-al-rashrash",
+          "locator": "lead (Arabic)",
+          "quote": "دمرت أم الرشراش العربية بالكامل عقب احتلالها وعلى أنقاضها أسس المحتلون مدينة وميناء إيلات عام 1949"
         }
       ]
     },

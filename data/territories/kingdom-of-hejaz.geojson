@@ -1,0 +1,97 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kingdom-of-hejaz-1",
+        "polity": "kingdom-of-hejaz",
+        "start": {
+          "year": 1918,
+          "month": 10,
+          "circa": true,
+          "precision": "month",
+          "latest": 1919
+        },
+        "end": {
+          "year": 1925,
+          "month": 5,
+          "circa": true,
+          "precision": "month"
+        },
+        "units": [
+          "aqaba-hisma"
+        ],
+        "partial_units": [
+          "edom"
+        ],
+        "extent_type": "control",
+        "boundary_certainty": "schematic",
+        "geometry_method": "units",
+        "description": {
+          "en": "Ma'an and Aqaba (the Ma'an and Aqaba districts north of the Hijaz proper), held by the Hashemite Kingdom of the Hijaz; only the part inside the map area is drawn.",
+          "ar": "معان والعقبة (قضاءا معان والعقبة شمال الحجاز)، في يد المملكة الحجازية الهاشمية؛ لا يُرسم إلا الجزء الواقع داخل نطاق الخريطة.",
+          "he": "מעאן ועקבה (מחוזות מעאן ועקבה שמצפון לחג'אז), בידי הממלכה ההאשמית של חג'אז; משורטט רק החלק שבתחום המפה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+          },
+          {
+            "ref": "kinghussein-transjordan-history",
+            "locator": "paragraph on the three districts of Transjordan",
+            "quote": "regions of Ma’an and Tabuk were incorporated into the Kingdom of the Hijaz, ancestral home of the Hashemites"
+          },
+          {
+            "ref": "kinghussein-transjordan-history",
+            "locator": "paragraph on the 1923 recognition",
+            "quote": "In May 1925, the Aqaba and Ma’an districts of the Hijaz became part of Transjordan."
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. vi, p. 342",
+            "quote": "while they had acquiesced in the status of the Ma‘an and ‘Aqabah districts remaining indeterminate pending a final delimitation of the frontier"
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. vi, p. 342 n.",
+            "quote": "protested against the annexation of Aqabah and Ma‘an to Transjordan in a letter, dated Nicosia, 7th August,"
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. v, p. 300 n.",
+            "quote": "He lay off ‘Aqabah, without establishing himself on shore, until June 1925, when the British Government insisted upon his taking up his residence elsewhere"
+          },
+          {
+            "ref": "al-shraah-momani-2014-aqaba-maan",
+            "locator": "English abstract (repository record)",
+            "quote": "what several administrative developments occurred in Aqaba and Ma'an until they were attached to the Emirate of Transjordan in 1925"
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XV, p. 336",
+            "quote": "he had sailed away a few days after his abdication and taken refuge in ‘Aqaba until the following June"
+          }
+        ],
+        "notes": {
+          "en": "Start: Tell (2000) places King Husayn's annexation of Ma'an and Aqaba to the Hijaz at the start of Faisal's Damascus government (October 1918); Aqaba had been the Arab army's base since July 1917. End: the King Hussein website gives May 1925 for the transfer to Transjordan (matching emirate-of-transjordan-1/-2); Toynbee describes Britain asserting Transjordanian authority at Aqaba in June 1925, when Husayn was made to leave the port, and Al-Shraah & Al-Momani (2014) date the formal annexation to Transjordan to June 1925 (their Arabic text could only be read in part), so the end may move to June. Britain never formally recognised Aqaba as Hijazi and regarded the districts' status as indeterminate (Amery, 6 July 1925, in Toynbee). The claim did not die with the kingdom: Husayn protested the annexation from Cyprus (August 1925), and the Hijaz Congress convened by Ibn Saud resolved on 5 July 1926 that Aqaba and Ma'an were integral parts of the Hijaz (Toynbee, p. 313). Units: Aqaba lies in aqaba-hisma, Ma'an in the eastern edge of edom (hence partial). The emirate-of-transjordan slices use the modern 'transjordan' unit; reviewers may prefer to express this slice the same way for consistency.",
+          "ar": "البداية: يضع تل (2000) ضم الملك حسين معانَ والعقبة إلى الحجاز في بداية حكومة فيصل في دمشق (تشرين الأول/أكتوبر 1918)؛ وكانت العقبة قاعدة الجيش العربي منذ تموز/يوليو 1917. النهاية: يذكر موقع الملك حسين أيار/مايو 1925 تاريخاً لنقلهما إلى شرق الأردن (بما يوافق emirate-of-transjordan-1/-2)؛ ويصف توينبي بسط بريطانيا سلطة شرق الأردن على العقبة في حزيران/يونيو 1925، حين أُجبر حسين على مغادرة الميناء، ويؤرخ الشرعة والمومني (2014) الضم الرسمي إلى شرق الأردن بحزيران/يونيو 1925 (لم يُقرأ نصهما العربي إلا جزئياً)، لذا قد تنتقل النهاية إلى حزيران/يونيو. ولم تعترف بريطانيا رسمياً قط بأن العقبة حجازية، وعدّت وضع القضاءين غير محسوم (إيمري، 6 تموز/يوليو 1925، لدى توينبي). ولم تنتهِ المطالبة بانتهاء المملكة: فقد احتج حسين على الضم من قبرص (آب/أغسطس 1925)، وقرر المؤتمر الحجازي الذي دعا إليه ابن سعود في 5 تموز/يوليو 1926 أن العقبة ومعان جزءان لا يتجزآن من الحجاز (توينبي، ص 313). الوحدات: تقع العقبة في aqaba-hisma، ومعان على الطرف الشرقي من edom (ومن ثم جزئية). وتستخدم شرائح emirate-of-transjordan الوحدة الحديثة 'transjordan'؛ وقد يفضّل المراجعون التعبير عن هذه الشريحة بالطريقة نفسها للاتساق.",
+          "he": "התחלה: טל (2000) ממקם את סיפוח מעאן ועקבה לחג'אז בידי המלך חוסיין בתחילת ממשלת פייסל בדמשק (אוקטובר 1918); עקבה הייתה בסיס הצבא הערבי מיולי 1917. סיום: אתר המלך חוסיין נותן את מאי 1925 להעברה לעבר הירדן (בהתאמה ל-emirate-of-transjordan-1/-2); טוינבי מתאר את החלת סמכות עבר הירדן בעקבה בידי בריטניה ביוני 1925, כשחוסיין נאלץ לעזוב את הנמל, ואל-שרעה ואל-מומני (2014) מתארכים את הסיפוח הרשמי לעבר הירדן ליוני 1925 (את הטקסט הערבי שלהם ניתן היה לקרוא רק בחלקו), ולכן ייתכן שהסיום יוזז ליוני. בריטניה מעולם לא הכירה רשמית בעקבה כחג'אזית וראתה את מעמד שני המחוזות כבלתי מוכרע (אמרי, 6 ביולי 1925, אצל טוינבי). התביעה לא פקעה עם הממלכה: חוסיין מחה על הסיפוח מקפריסין (אוגוסט 1925), וקונגרס חג'אז שכינס אבן סעוד החליט ב-5 ביולי 1926 שעקבה ומעאן הן חלק בלתי נפרד מחג'אז (טוינבי, עמ' 313). יחידות: עקבה נמצאת ב-aqaba-hisma, ומעאן בקצה המזרחי של edom (ולכן חלקית). פרוסות emirate-of-transjordan משתמשות ביחידה המודרנית 'transjordan'; ייתכן שהבודקים יעדיפו לבטא גם פרוסה זו באותו אופן לשם עקביות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
+      }
+    }
+  ]
+}

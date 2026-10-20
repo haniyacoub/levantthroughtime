@@ -2865,9 +2865,9 @@
       },
       "destination": {
         "label": {
-          "en": "Elsewhere in Mandatory Palestine (not specified in source)",
-          "ar": "أماكن أخرى في فلسطين الانتدابية (غير محددة في المصدر)",
-          "he": "מקומות אחרים בפלשתינה המנדטורית (לא צוין במקור)",
+          "en": "Jerusalem (1936 evacuation; destination of the 1929 flight not specified)",
+          "ar": "القدس (إخلاء 1936؛ وجهة النزوح في 1929 غير محددة)",
+          "he": "ירושלים (פינוי 1936; יעד העזיבה ב-1929 לא צוין)",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -2918,12 +2918,17 @@
           "ref": "palquest-shaw-report-1929",
           "locator": "summary of conclusions, para. 3",
           "quote": "A general massacre of the Jewish community at Hebron was narrowly averted."
+        },
+        {
+          "ref": "jta-1936-04-23-hebron-evacuation-decision",
+          "locator": "bulletin of 23 April 1936, dispatch datelined Jerusalem, April 22, section 'Hebron Jews to Be Evacuated at Government Cost'",
+          "quote": "The Government decided today to transfer the Jews of Hebron to Jerusalem at Government expense."
         }
       ],
       "notes": {
-        "en": "Casualty figures are deliberately not recorded. EJ adds that only one Jewish inhabitant remained in Hebron until 1947. 35 families returned in 1931 before the 1936 evacuation.",
-        "ar": "لا تُسجَّل أرقام الضحايا عمدًا. ويضيف EJ أنه لم يبقَ سوى يهودي واحد في الخليل حتى 1947. وعادت 35 أسرة عام 1931 قبل إخلاء 1936.",
-        "he": "נתוני נפגעים אינם מתועדים במכוון. EJ מוסיף שרק תושב יהודי אחד נשאר בחברון עד 1947. 35 משפחות חזרו ב-1931 לפני פינוי 1936.",
+        "en": "Casualty figures are deliberately not recorded. EJ adds that only one Jewish inhabitant remained in Hebron until 1947. 35 families returned in 1931 before the 1936 evacuation. The Mandate government decided on 22 April 1936, at the start of the Arab general strike, to move the Jews of Hebron to Jerusalem at government expense (JTA dispatch of that date); EJ dates the evacuation itself to the night of 23 April 1936.",
+        "ar": "لا تُسجَّل أرقام الضحايا عمداً. ويضيف EJ أنه لم يبقَ سوى يهودي واحد في الخليل حتى 1947. وعادت 35 أسرة عام 1931 قبل إخلاء 1936. وقررت حكومة الانتداب في 22 نيسان/أبريل 1936، في بداية الإضراب العربي العام، نقل يهود الخليل إلى القدس على نفقة الحكومة (برقية JTA بذلك التاريخ)؛ ويؤرخ EJ الإخلاء نفسه بليلة 23 نيسان/أبريل 1936.",
+        "he": "נתוני נפגעים אינם מתועדים במכוון. EJ מוסיף שרק תושב יהודי אחד נשאר בחברון עד 1947. 35 משפחות חזרו ב-1931 לפני פינוי 1936. ממשלת המנדט החליטה ב-22 באפריל 1936, בתחילת השביתה הכללית הערבית, להעביר את יהודי חברון לירושלים על חשבון הממשלה (מברק JTA מאותו יום); EJ מתארך את הפינוי עצמו ללילה של 23 באפריל 1936.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

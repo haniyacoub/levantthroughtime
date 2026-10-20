@@ -20313,12 +20313,14 @@
       "start": {
         "year": 1975,
         "month": 4,
-        "circa": true,
-        "precision": "month"
+        "day": 13,
+        "precision": "day"
       },
       "end": {
         "year": 1990,
-        "precision": "year"
+        "month": 10,
+        "day": 13,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -20440,12 +20442,47 @@
           "ref": "picard-2000-civil-war-lebanon",
           "locator": "section on the early postwar period",
           "quote": "One-tenth of the country remained under Israeli occupation in the south. The remaining 90 percent was under tight Syrian control following the signing of the Treaty of Brotherhood, Cooperation, and Coordination in May 1991."
+        },
+        {
+          "ref": "loc-country-study-lebanon-1987",
+          "locator": "section \"The Civil War\", first paragraph",
+          "quote": "The spark that ignited the war occurred in Beirut on April 13, 1975,"
+        },
+        {
+          "ref": "aub-libraries-lebanon-fifty-years-war",
+          "locator": "introduction (English)",
+          "quote": "The spark that ignited the war occurred on April 13, 1975, with the Ain El-Remmaneh incident"
+        },
+        {
+          "ref": "aljazeera-encyclopedia-lebanese-civil-war",
+          "locator": "section on the outbreak (Arabic)",
+          "quote": "اندلعت الشرارة الحقيقية للحرب يوم 13 أبريل/نيسان 1975"
+        },
+        {
+          "ref": "gulfnews-lebanese-civil-war-timeline",
+          "locator": "timeline entry \"April 13, 1975\"",
+          "quote": "which sparks citywide clashes marking the beginning of the civil war"
+        },
+        {
+          "ref": "gulfnews-lebanese-civil-war-timeline",
+          "locator": "timeline entry \"October 13, 1990\"",
+          "quote": "This marks the end of the Lebanese Civil war"
+        },
+        {
+          "ref": "monthly-magazine-2013-october-13-1990",
+          "locator": "section before \"Military Operation\"",
+          "quote": "the Syrian Command had scheduled an attack against Baabda Palace and the areas that Aoun controlled on Saturday, 13th of October, at 6:00 am"
+        },
+        {
+          "ref": "aub-libraries-lebanon-fifty-years-war",
+          "locator": "introduction (English)",
+          "quote": "The war formally ended in 1990 after Lebanese parliamentarians, with Saudi mediation, reached the Taif Agreement in 1989."
         }
       ],
       "notes": {
-        "en": "Context record: it shaped the Israel-PLO and Israel-Hezbollah conflicts in southern Lebanon. Start: Wikidata gives 13 April 1975 (the Ain el-Remmaneh bus attack); end 13 Oct 1990. The Ta'if accords of October 1989 and the postwar Syrian hegemony (Treaty of Brotherhood, May 1991) are described by Picard (2000), with one-tenth of the country still under Israeli occupation in the south.",
-        "ar": "سجل سياقي: شكّلت الحرب الأهلية اللبنانية الصراعين بين إسرائيل ومنظمة التحرير الفلسطينية وبين إسرائيل وحزب الله في جنوب لبنان. البداية: تعطي Wikidata تاريخ 13 نيسان/أبريل 1975 (هجوم الحافلة في عين الرمانة)؛ النهاية 13 تشرين الأول/أكتوبر 1990. يصف بيكار (Picard، 2000) اتفاق الطائف في تشرين الأول/أكتوبر 1989 والهيمنة السورية بعد الحرب (معاهدة الأخوّة، أيار/مايو 1991)، مع بقاء عُشر البلاد في الجنوب تحت الاحتلال الإسرائيلي.",
-        "he": "רשומת הקשר: היא עיצבה את הסכסוכים בין ישראל לאש״ף ובין ישראל לחזבאללה בדרום לבנון. התחלה: Wikidata מציין 13 באפריל 1975 (התקיפה על האוטובוס בעין א-רומאנה); סיום 13 באוקטובר 1990. הסכם טאיף מאוקטובר 1989 וההגמוניה הסורית שלאחר המלחמה (אמנת האחווה, מאי 1991) מתוארים אצל פיקאר (Picard, 2000), כאשר עשירית מהמדינה בדרום עדיין נתונה לכיבוש ישראלי.",
+        "en": "Context record: it shaped the Israel-PLO and Israel-Hezbollah conflicts in southern Lebanon. Start: 13 April 1975, the Ain el-Remmaneh incident in Beirut (Library of Congress country study; AUB; Al Jazeera; Gulf News). End: 13 October 1990, the Syrian-Lebanese offensive on Baabda that ended Michel Aoun's resistance (The Monthly), which Gulf News's timeline treats as the end of the war; AUB says the war formally ended in 1990 after the Ta'if Agreement of 1989. The Ta'if accords of October 1989 and the postwar Syrian hegemony (Treaty of Brotherhood, May 1991) are described by Picard (2000), with one-tenth of the country still under Israeli occupation in the south.",
+        "ar": "سجل سياقي: أثّرت في الصراع بين إسرائيل ومنظمة التحرير وبين إسرائيل وحزب الله في جنوب لبنان. البداية: 13 نيسان/أبريل 1975، حادثة عين الرمانة في بيروت (دراسة مكتبة الكونغرس القُطرية؛ الجامعة الأمريكية في بيروت؛ الجزيرة؛ غلف نيوز). النهاية: 13 تشرين الأول/أكتوبر 1990، الهجوم السوري-اللبناني على بعبدا الذي أنهى مقاومة ميشال عون (The Monthly)، وهو ما يعدّه الجدول الزمني لغلف نيوز نهاية الحرب؛ وتذكر الجامعة الأمريكية في بيروت أن الحرب انتهت رسمياً سنة 1990 بعد اتفاق الطائف سنة 1989. ويصف بيكار (2000) اتفاقات الطائف في تشرين الأول/أكتوبر 1989 والهيمنة السورية بعد الحرب (معاهدة الأخوّة، أيار/مايو 1991)، مع بقاء عُشر البلاد تحت الاحتلال الإسرائيلي في الجنوب.",
+        "he": "רשומת הקשר: השפיעה על הסכסוך בין ישראל לאש\"ף ובין ישראל לחזבאללה בדרום לבנון. התחלה: 13 באפריל 1975, התקרית בעין א-רמאנה בביירות (מחקר המדינה של ספריית הקונגרס; האוניברסיטה האמריקנית בביירות; אל-ג'זירה; גלף ניוז). סיום: 13 באוקטובר 1990, המתקפה הסורית-לבנונית על בעבדא שסיימה את התנגדותו של מישל עון (The Monthly), שבציר הזמן של גלף ניוז נחשבת לסוף המלחמה; האוניברסיטה האמריקנית בביירות כותבת שהמלחמה הסתיימה רשמית ב-1990 אחרי הסכם טאיף מ-1989. פיקאר (2000) מתאר את הסכמי טאיף מאוקטובר 1989 ואת ההגמוניה הסורית שאחרי המלחמה (הסכם האחווה, מאי 1991), כשעשירית מהמדינה עדיין תחת כיבוש ישראלי בדרום.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

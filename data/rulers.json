@@ -7935,7 +7935,8 @@
       "start": {
         "year": 1949,
         "month": 2,
-        "precision": "month"
+        "day": 17,
+        "precision": "day"
       },
       "end": {
         "year": 1952,
@@ -7959,6 +7960,16 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Chaim Weizmann (1949-1952), Zionist leader, prominent scientist"
+        },
+        {
+          "ref": "jta-1949-02-18-weizmann-sworn-in",
+          "locator": "Daily News Bulletin 18 Feb 1949, p. 1 (dispatch datelined Jerusalem, Feb. 17)",
+          "quote": "Dr. Chaim Weizmann was today sworn in as the first president of the state of Israel."
+        },
+        {
+          "ref": "jta-1949-02-18-weizmann-sworn-in",
+          "locator": "same dispatch",
+          "quote": "Dr. Weizmann’s election took place in the early hours this morning."
         }
       ],
       "notes": {
@@ -8055,7 +8066,9 @@
       },
       "start": {
         "year": 1952,
-        "precision": "year"
+        "month": 12,
+        "day": 10,
+        "precision": "day"
       },
       "end": {
         "year": 1963,
@@ -8079,12 +8092,17 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Yitzhak Ben-Zvi (1952-1963), head of the Jewish Agency, historian"
+        },
+        {
+          "ref": "jta-1952-12-11-ben-zvi-takes-oath",
+          "locator": "Daily News Bulletin 11 Dec 1952, p. 1 (dispatch datelined Jerusalem, Dec. 10)",
+          "quote": "Itzhak Ben Zvi, Israel’s second President, took his oath of office today in a ceremony in Parliament"
         }
       ],
       "notes": {
-        "en": "Second president (late 1952 until his death in office on 23 Apr 1963). The exact day of his inauguration in December 1952 was not found in the sources consulted.",
-        "ar": "الرئيس الثاني (من أواخر 1952 حتى وفاته في منصبه في 23 نيسان/أبريل 1963). ولم يُعثر على اليوم الدقيق لتنصيبه في كانون الأول/ديسمبر 1952 في المصادر التي رُوجعت.",
-        "he": "הנשיא השני (מסוף 1952 עד מותו בתפקיד ב-23 באפריל 1963). היום המדויק של השבעתו בדצמבר 1952 לא נמצא במקורות שנבדקו.",
+        "en": "Second president. Elected by the Knesset on 8 Dec 1952 and sworn in on 10 Dec 1952 (JTA); died in office on 23 Apr 1963.",
+        "ar": "الرئيس الثاني. انتخبه الكنيست في 8 كانون الأول/ديسمبر 1952 وأدى اليمين في 10 كانون الأول/ديسمبر 1952 (JTA)؛ وتوفي في منصبه في 23 نيسان/أبريل 1963.",
+        "he": "הנשיא השני. נבחר בכנסת ב-8 בדצמבר 1952 והושבע ב-10 בדצמבר 1952 (JTA); נפטר בתפקידו ב-23 באפריל 1963.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8568,11 +8586,15 @@
       },
       "start": {
         "year": 1963,
-        "precision": "year"
+        "month": 5,
+        "day": 22,
+        "precision": "day"
       },
       "end": {
         "year": 1973,
-        "precision": "year"
+        "month": 5,
+        "day": 24,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -8590,12 +8612,32 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Zalman Shazar (1963-1973), politician, scholar, historian, author, poet"
+        },
+        {
+          "ref": "jta-1963-05-22-shazar-elected",
+          "locator": "Daily News Bulletin 22 May 1963, p. 1 (dispatch datelined Jerusalem, May 21)",
+          "quote": "was elected Israel’s third President by the Parliament today by a vote of 67 to 33"
+        },
+        {
+          "ref": "jta-1963-05-23-shazar-inaugurated",
+          "locator": "Daily News Bulletin 23 May 1963, p. 1 (dispatch datelined Jerusalem, May 22)",
+          "quote": "Shneour Zalman Shazar was inaugurated today as Israel’s third President"
+        },
+        {
+          "ref": "jta-1973-05-25-katzir-takes-oath",
+          "locator": "same dispatch",
+          "quote": "Israel’s outgoing President, Zalman Shazar, escorted his successor into the Knesset chamber"
+        },
+        {
+          "ref": "jta-1973-05-25-katzir-takes-oath",
+          "locator": "Daily News Bulletin 25 May 1973, p. 1 (dispatch datelined Jerusalem, May 24)",
+          "quote": "Prof Ephraim Katzir took the oath of office at a festive Knesset ceremony here this evening to become Israel’s fourth President."
         }
       ],
       "notes": {
-        "en": "Third president (two terms). Day-exact dates not found in the sources consulted.",
-        "ar": "الرئيس الثالث (ولايتان). لم تُعثر التواريخ الدقيقة باليوم في المصادر التي رُوجعت.",
-        "he": "הנשיא השלישי (שתי כהונות). תאריכים ברמת היום לא נמצאו במקורות שנבדקו.",
+        "en": "Third president (two terms). Elected by the Knesset on 21 May 1963 and sworn in on 22 May 1963; served until his successor, Ephraim Katzir, was sworn in on 24 May 1973 (JTA).",
+        "ar": "الرئيس الثالث (ولايتان). انتخبه الكنيست في 21 أيار/مايو 1963 وأدى اليمين في 22 أيار/مايو 1963؛ وبقي في منصبه حتى أدى خلفه إفرايم كاتسير اليمين في 24 أيار/مايو 1973 (JTA).",
+        "he": "הנשיא השלישי (שתי כהונות). נבחר בכנסת ב-21 במאי 1963 והושבע ב-22 במאי 1963; כיהן עד שיורשו, אפרים קציר, הושבע ב-24 במאי 1973 (JTA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8889,7 +8931,9 @@
       },
       "start": {
         "year": 1971,
-        "precision": "year"
+        "month": 3,
+        "day": 12,
+        "precision": "day"
       },
       "end": {
         "year": 2000,
@@ -8923,12 +8967,27 @@
           "ref": "npr-2000-07-17-bashar-presidency",
           "locator": "programme summary, 17 July 2000",
           "quote": "to take over the post held by his late father Hafez for 30 years"
+        },
+        {
+          "ref": "loc-country-study-syria-1987",
+          "locator": "section \"The Assad Era\"",
+          "quote": "In March 1971 the Baath Party held its regional congress and elected the 21-member Regional Command headed by Assad. That same month, by a national referendum, Assad was elected president"
+        },
+        {
+          "ref": "aljazeera-encyclopedia-hafez-assad",
+          "locator": "section on the 1970 coup (Arabic)",
+          "quote": "وفي 12 مارس/آذار 1971 أصبح رئيسا للجمهورية السورية"
+        },
+        {
+          "ref": "jta-2000-06-12-assad-timeline",
+          "locator": "appended timeline, entry \"March 12, 1971\"",
+          "quote": "Parliament elects Assad president."
         }
       ],
       "notes": {
-        "en": "Seized power in November 1970 and became president in 1971; as defence minister he had overseen the loss of the Golan Heights in 1967 (Britannica). Died in office on 10 Jun 2000.",
-        "ar": "استولى على السلطة في تشرين الثاني/نوفمبر 1970 وأصبح رئيسًا عام 1971؛ وبصفته وزير دفاع أشرف على خسارة هضبة الجولان عام 1967 (بريتانيكا). توفي في منصبه في 10 حزيران/يونيو 2000.",
-        "he": "תפס את השלטון בנובמבר 1970 והפך לנשיא ב-1971; כשר ביטחון פיקח על אובדן רמת הגולן ב-1967 (בריטניקה). מת בתפקידו ב-10 ביוני 2000.",
+        "en": "Seized power in November 1970 and became president on 12 March 1971 (Al Jazeera; JTA timeline); as defence minister he had overseen the loss of the Golan Heights in 1967 (Britannica). The Library of Congress country study describes his election that month as a national referendum, while JTA's timeline says parliament elected him; no contemporary Syrian record was opened. Died in office on 10 Jun 2000.",
+        "ar": "استولى على السلطة في تشرين الثاني/نوفمبر 1970 وأصبح رئيساً في 12 آذار/مارس 1971 (الجزيرة؛ الجدول الزمني لـ JTA)؛ وبصفته وزيراً للدفاع أشرف على خسارة مرتفعات الجولان سنة 1967 (بريتانيكا). وتصف دراسة مكتبة الكونغرس القُطرية انتخابه في ذلك الشهر بأنه استفتاء شعبي، بينما يقول الجدول الزمني لـ JTA إن البرلمان انتخبه؛ ولم يُطَّلع على سجل سوري معاصر. وتوفي في منصبه في 10 حزيران/يونيو 2000.",
+        "he": "תפס את השלטון בנובמבר 1970 ונעשה נשיא ב-12 במרץ 1971 (אל-ג'זירה; ציר הזמן של JTA); כשר ההגנה פיקח על אובדן רמת הגולן ב-1967 (בריטניקה). מחקר המדינה של ספריית הקונגרס מתאר את בחירתו באותו חודש כמשאל עם, ואילו ציר הזמן של JTA אומר שהפרלמנט בחר בו; לא נבדק תיעוד סורי בן הזמן. נפטר בתפקידו ב-10 ביוני 2000.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8958,11 +9017,15 @@
       },
       "start": {
         "year": 1973,
-        "precision": "year"
+        "month": 5,
+        "day": 24,
+        "precision": "day"
       },
       "end": {
         "year": 1978,
-        "precision": "year"
+        "month": 5,
+        "day": 29,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -8980,6 +9043,21 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Ephraim Katzir (1973-1978), renowned biochemist"
+        },
+        {
+          "ref": "jta-1973-05-25-katzir-takes-oath",
+          "locator": "Daily News Bulletin 25 May 1973, p. 1 (dispatch datelined Jerusalem, May 24)",
+          "quote": "Prof Ephraim Katzir took the oath of office at a festive Knesset ceremony here this evening to become Israel’s fourth President."
+        },
+        {
+          "ref": "jta-1978-05-30-navon-inaugural-address",
+          "locator": "same dispatch",
+          "quote": "Outgoing President Ephraim Katzir, who declined to seek re-election after his term of office expired earlier this month, also addressed the Knesset."
+        },
+        {
+          "ref": "jta-1978-05-30-navon-inaugural-address",
+          "locator": "Daily News Bulletin 30 May 1978, p. 3 (dispatch datelined Jerusalem, May 29)",
+          "quote": "took the oath of office at sundown in conformity with Jewish custom."
         }
       ],
       "notes": {
@@ -9137,11 +9215,15 @@
       },
       "start": {
         "year": 1978,
-        "precision": "year"
+        "month": 5,
+        "day": 29,
+        "precision": "day"
       },
       "end": {
         "year": 1983,
-        "precision": "year"
+        "month": 5,
+        "day": 5,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -9159,6 +9241,21 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Yitzhak Navon (1978-1983), politician, educator, author"
+        },
+        {
+          "ref": "jta-1978-05-30-navon-inaugural-address",
+          "locator": "Daily News Bulletin 30 May 1978, p. 3 (dispatch datelined Jerusalem, May 29)",
+          "quote": "took the oath of office at sundown in conformity with Jewish custom."
+        },
+        {
+          "ref": "jta-1983-05-09-herzog-inaugurated",
+          "locator": "same report",
+          "quote": "Outgoing President Yitzhak Navon sounded the same theme in his farewell address."
+        },
+        {
+          "ref": "jta-1983-05-09-herzog-inaugurated",
+          "locator": "Daily News Bulletin Monday 9 May 1983",
+          "quote": "Chaim Herzog was inaugurated as Israel’s sixth President in colorful ceremonies at the Knesset last Thursday evening."
         }
       ],
       "notes": {
@@ -9265,11 +9362,15 @@
       },
       "start": {
         "year": 1983,
-        "precision": "year"
+        "month": 5,
+        "day": 5,
+        "precision": "day"
       },
       "end": {
         "year": 1993,
-        "precision": "year"
+        "month": 5,
+        "day": 13,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -9287,6 +9388,26 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Chaim Herzog (1983-1993), attorney, general, diplomat, author"
+        },
+        {
+          "ref": "jta-1983-05-09-herzog-inaugurated",
+          "locator": "Daily News Bulletin Monday 9 May 1983",
+          "quote": "Chaim Herzog was inaugurated as Israel’s sixth President in colorful ceremonies at the Knesset last Thursday evening."
+        },
+        {
+          "ref": "jta-1983-05-09-herzog-inaugurated",
+          "locator": "same report",
+          "quote": "Herzog began his Presidential term Friday"
+        },
+        {
+          "ref": "jta-1993-05-14-weizman-installed",
+          "locator": "same dispatch",
+          "quote": "following a farewell speech by Herzog, who held the presidency for 10 years, Weizman, 68, took the oath of office"
+        },
+        {
+          "ref": "jta-1993-05-14-weizman-installed",
+          "locator": "Daily News Bulletin 14 May 1993, p. 1 (dispatch datelined Jerusalem, May 13)",
+          "quote": "Israel spared little in its lavish inauguration Thursday of the seventh president of Israel, Ezer Weizman"
         }
       ],
       "notes": {
@@ -9631,11 +9752,16 @@
       },
       "start": {
         "year": 1993,
-        "precision": "year"
+        "month": 5,
+        "day": 13,
+        "precision": "day"
       },
       "end": {
         "year": 2000,
-        "precision": "year"
+        "month": 7,
+        "day": 12,
+        "circa": true,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -9653,6 +9779,21 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Ezer Weizman (1993-2000), air force general, politician, businessman"
+        },
+        {
+          "ref": "jta-1993-05-14-weizman-installed",
+          "locator": "Daily News Bulletin 14 May 1993, p. 1 (dispatch datelined Jerusalem, May 13)",
+          "quote": "Israel spared little in its lavish inauguration Thursday of the seventh president of Israel, Ezer Weizman"
+        },
+        {
+          "ref": "jta-2000-07-11-weizman-resigns",
+          "locator": "report datelined Jerusalem, July 11 [2000]",
+          "quote": "His resignation letter was delivered Monday to the speaker of the Knesset, Avraham Burg, who will fill the largely ceremonial post until legislators vote for a new president on July 31."
+        },
+        {
+          "ref": "israel-basic-law-president-constitute",
+          "locator": "Basic Law: The President of the State, s. 19",
+          "quote": "The place of the President of the State shall become vacant forty-eight hours after the letter of resignation reaches the Chairman of the Knesset."
         }
       ],
       "notes": {
@@ -10046,11 +10187,15 @@
       },
       "start": {
         "year": 2000,
-        "precision": "year"
+        "month": 8,
+        "day": 1,
+        "precision": "day"
       },
       "end": {
         "year": 2007,
-        "precision": "year"
+        "month": 7,
+        "day": 1,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10068,6 +10213,26 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Moshe Katsav (2000-2007), social leader, politician"
+        },
+        {
+          "ref": "jta-2000-08-01-katsav-elected",
+          "locator": "report datelined Jerusalem, July 31 [2000]",
+          "quote": "On Monday, legislators elected Likud Party lawmaker Moshe Katsav president"
+        },
+        {
+          "ref": "jta-2000-08-01-katsav-elected",
+          "locator": "same report",
+          "quote": "President-elect Katsav was to be sworn in at a ceremony Tuesday evening."
+        },
+        {
+          "ref": "jta-2000-08-06-katsav-sworn-last-week",
+          "locator": "report datelined Jerusalem, Aug. 6 [2000]",
+          "quote": "when he was sworn in last week as Israel’s eighth president"
+        },
+        {
+          "ref": "jta-2007-07-01-katsav-resignation",
+          "locator": "news brief of Sunday 1 July 2007",
+          "quote": "whose early resignation – another condition of the plea bargain – was to come into effect Sunday."
         }
       ],
       "notes": {
@@ -10730,11 +10895,15 @@
       },
       "start": {
         "year": 2007,
-        "precision": "year"
+        "month": 7,
+        "day": 15,
+        "precision": "day"
       },
       "end": {
         "year": 2014,
-        "precision": "year"
+        "month": 7,
+        "day": 24,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10752,6 +10921,26 @@
           "ref": "israel-mfa-presidents-of-israel",
           "locator": "list of presidents",
           "quote": "Shimon Peres (2007-2014), statesman, public servant and parliamentarian"
+        },
+        {
+          "ref": "jta-2007-07-15-peres-sworn-in",
+          "locator": "news brief of Sunday 15 July 2007",
+          "quote": "Shimon Peres was sworn in as Israel’s ninth president."
+        },
+        {
+          "ref": "jta-2007-07-15-peres-sworn-in",
+          "locator": "same brief",
+          "quote": "Before Sunday evening’s inauguration, held at the Knesset"
+        },
+        {
+          "ref": "jta-2014-07-24-rivlin-inaugurated",
+          "locator": "report of Thursday 24 July 2014",
+          "quote": "Israeli President Shimon Peres officially exited Israeli politics for the first time in six decades as his successor, Reuven Rivlin, was sworn in."
+        },
+        {
+          "ref": "jta-2014-07-24-rivlin-inaugurated",
+          "locator": "same report",
+          "quote": "The inauguration ceremony for Rivlin at the Knesset on Thursday evening was low key"
         }
       ],
       "notes": {
@@ -11358,7 +11547,9 @@
       },
       "start": {
         "year": 2014,
-        "precision": "year"
+        "month": 7,
+        "day": 24,
+        "precision": "day"
       },
       "end": {
         "year": 2021,
@@ -11387,12 +11578,22 @@
           "ref": "ap-2021-07-07-herzog-sworn-in",
           "locator": "report dated 07/07/2021",
           "quote": "succeeded Reuven Rivlin as Israel's 11th president and is to hold office for a single seven-year term"
+        },
+        {
+          "ref": "jta-2014-07-24-rivlin-inaugurated",
+          "locator": "report of Thursday 24 July 2014",
+          "quote": "Israeli President Shimon Peres officially exited Israeli politics for the first time in six decades as his successor, Reuven Rivlin, was sworn in."
+        },
+        {
+          "ref": "jta-2014-07-24-rivlin-inaugurated",
+          "locator": "same report",
+          "quote": "The inauguration ceremony for Rivlin at the Knesset on Thursday evening was low key"
         }
       ],
       "notes": {
-        "en": "Tenth president. Years from the Israeli foreign ministry's list of presidents; the end is the swearing-in of his successor, Isaac Herzog, on 7 July 2021 (AP). The day he took office in 2014 was not verified.",
-        "ar": "الرئيس العاشر. السنوات من قائمة وزارة الخارجية الإسرائيلية للرؤساء؛ والنهاية هي أداء خلفه، إسحاق هرتسوغ، اليمين في 7 تموز/يوليو 2021 (AP). لم يُتحقق من اليوم الذي تسلّم فيه منصبه عام 2014.",
-        "he": "הנשיא העשירי. השנים לקוחות מרשימת הנשיאים של משרד החוץ הישראלי; הסיום הוא השבעת יורשו, יצחק הרצוג, ב-7 ביולי 2021 (AP). היום שבו נכנס לתפקידו ב-2014 לא אומת.",
+        "en": "Tenth president. Sworn in on 24 July 2014, succeeding Shimon Peres (JTA); his term ended with the swearing-in of his successor, Isaac Herzog, on 7 July 2021 (AP).",
+        "ar": "الرئيس العاشر. أدى اليمين في 24 تموز/يوليو 2014 خلفاً لشمعون بيرس (JTA)؛ وانتهت ولايته بأداء خلفه يتسحاق هرتسوغ اليمين في 7 تموز/يوليو 2021 (AP).",
+        "he": "הנשיא העשירי. הושבע ב-24 ביולי 2014, אחרי שמעון פרס (JTA); כהונתו הסתיימה בהשבעת יורשו, יצחק הרצוג, ב-7 ביולי 2021 (AP).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

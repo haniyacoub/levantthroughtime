@@ -338,6 +338,29 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "al-shraah-momani-2014-aqaba-maan",
+      "type": "article",
+      "authors": [
+        "Al-Shraah, Ibrahim",
+        "Al-Momani, Nidal"
+      ],
+      "title": "التطورات الإدارية والسياسية في قضائي العقبة ومعان بين عامي (1917 - 1925): دراسة وثائقية (The Administrative and Political Developments in Aqaba and Ma'an Districts between 1917-1925: Documentary Study)",
+      "container": "An-Najah University Journal for Research - B (Humanities)",
+      "publisher": "An-Najah National University",
+      "year": 2014,
+      "volume": 28,
+      "issue": 2,
+      "url": "http://hdl.handle.net/20.500.11888/2249",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the English and Arabic abstracts on the An-Najah repository record and downloaded the open-access PDF; the PDF's Arabic text layer extracts with dropped letters, so the body (sections on 1918 and on the June 1925 annexation to Transjordan) could only be read in part and is not quoted. Authors: University of Jordan and King Faisal University (Saudi Arabia)."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
+    },
+    {
       "id": "alaqad-2025-review-masalha",
       "type": "article",
       "authors": [
@@ -729,6 +752,39 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "aljazeera-encyclopedia-hafez-assad",
+      "type": "web",
+      "title": "حافظ الأسد",
+      "container": "Al Jazeera Encyclopedia (الموسوعة)",
+      "publisher": "Al Jazeera Media Network",
+      "url": "https://www.aljazeera.net/encyclopedia/2014/10/20/%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full Arabic encyclopedia entry (page dated 20 Oct 2014, live page)."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
+      "id": "aljazeera-encyclopedia-lebanese-civil-war",
+      "type": "web",
+      "title": "الحرب الأهلية اللبنانية.. صراع استمر 15 عاما وأرسى نظاما سياسيا جديدا",
+      "container": "Al Jazeera Encyclopedia (الموسوعة)",
+      "publisher": "Al Jazeera Media Network",
+      "year": 2015,
+      "url": "https://www.aljazeera.net/encyclopedia/2015/5/17/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full Arabic entry (dated 17 May 2015). It gives the 13 April 1975 start; for the end it describes the ouster of Michel Aoun from Baabda in 1990 without a day."
+      },
+      "kind": "press",
+      "institution_country": "QA"
+    },
+    {
       "id": "allison-tancred-ebsco",
       "type": "web",
       "authors": [
@@ -932,7 +988,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint. | Re-read in Milestone 8: Re-checked in this pass against the McGill copy OCR text downloaded earlier: p. 279 (the three OETA zones)."
+        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint. | Re-read in Milestone 8: Re-checked in this pass against the McGill copy OCR text downloaded earlier: p. 279 (the three OETA zones). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text of the McGill copy and re-read ch. XI ('Immediate Effects'), section 7 (p. 212: proclamation of Husain as 'King of the Arab Countries' and Allied recognition as King of the Hejaz, 3 January 1917) and ch. XV ('The Peninsula after the War', pp. 335-336: Husain's abdication, the surrender of Jedda in December 1925, Husain's stay at 'Aqaba until June 1925). Note: the OCR renders the day of the proclamation as 'and of November' (= 2nd)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1080,6 +1136,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "arabi21-2024-umm-al-rashrash",
+      "type": "web",
+      "authors": [
+        "سعادة، علي (Saada, Ali)"
+      ],
+      "title": "\"أم الرشراش\".. منفذ فلسطين على البحر الأحمر",
+      "container": "Arabi21 (عربي21), series فلسطين الأرض والهوية",
+      "publisher": "Arabi21",
+      "year": 2024,
+      "url": "https://arabi21.com/story/1638038/%D8%A3%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D8%B1%D8%A7%D8%B4-%D9%85%D9%86%D9%81%D8%B0-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full Arabic feature (4 Nov 2024). A popular press piece giving the Palestinian/Arab narrative of Umm al-Rashrash; it is not scholarship and some of its historical claims are not sourced."
+      },
+      "kind": "press",
+      "institution_country": "GB"
+    },
+    {
       "id": "arij-2012-an-nabi-musa",
       "type": "document",
       "authors": [
@@ -1138,6 +1214,26 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "aub-libraries-lebanon-fifty-years-war",
+      "type": "web",
+      "authors": [
+        "American University of Beirut, University Libraries"
+      ],
+      "title": "LEBANON: Fifty Years of War Memory and Testimony - Introduction",
+      "container": "AUB Libraries Online Exhibits",
+      "publisher": "American University of Beirut",
+      "year": 2025,
+      "url": "https://online-exhibit.aub.edu.lb/exhibits/show/civil-war-50th-anniversary",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the bilingual (English/Arabic) introduction page of the exhibit. Year of the exhibit inferred from its title (50th anniversary of 1975)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "avalon-aaci-report-1946",
@@ -10889,6 +10985,26 @@
       "institution_country": "US"
     },
     {
+      "id": "egypt-law-255-1955-gaza-basic-law",
+      "type": "document",
+      "authors": [
+        "Egypt, Council of Ministers"
+      ],
+      "title": "قانون بإصدار القانون الأساسي للمنطقة الواقعة تحت رقابة القوات المصرية بفلسطين رقم 255 لسنة 1955 (Law No. 255 of 1955 promulgating the Basic Law for the Area under the Supervision of the Egyptian Forces in Palestine)",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Documents",
+      "publisher": "Government of Egypt (text reproduced by the Institute for Palestine Studies)",
+      "year": 1955,
+      "url": "https://palquest.org/en/node/21899",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the promulgating law (Articles 1-3, issued in Cairo 11 May 1955) and the opening chapters of the annexed Basic Law (Articles 1-30, including the provisions on the Administrative Governor-General), Arabic text on PalQuest."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
       "id": "egyptian-streets-2026-04-19-sinai-liberation-day",
       "type": "article",
       "title": "Egypt Declares 25 April Public Holiday for Sinai Liberation Day",
@@ -11005,6 +11121,28 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-elath",
+      "type": "chapter",
+      "authors": [
+        "Avi-Yonah, Michael",
+        "Noam, Izhak",
+        "Gilboa, Shaked"
+      ],
+      "title": "Elath",
+      "container": "Encyclopaedia Judaica (2nd ed., 2007), on Encyclopedia.com",
+      "publisher": "Macmillan Reference USA / Encyclopedia.com",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/elath",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry: the ancient section (M. Avi-Yonah) and the section \"Modern Eilat\" (I. Noam / S. Gilboa, 2nd ed.)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11785,6 +11923,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "gaza-constitutional-order-1962",
+      "type": "document",
+      "authors": [
+        "United Arab Republic, President of the Republic"
+      ],
+      "title": "إعلان بالنظام الدستوري لقطاع غزة لسنة 1962 (Declaration of the Constitutional Order of the Gaza Strip, Cairo, 5 March 1962)",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest), Documents",
+      "publisher": "Government of the United Arab Republic (Egypt) (text reproduced by the Institute for Palestine Studies)",
+      "year": 1962,
+      "url": "https://www.palquest.org/ar/node/21790",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the preamble and Articles 1-38 of the Arabic text on PalQuest (with the 1962 and 1965 amendments the page records)."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
       "id": "gaza-governor-1959",
       "type": "document",
       "authors": [
@@ -12469,6 +12627,26 @@
       },
       "kind": "academic",
       "institution_country": "DE"
+    },
+    {
+      "id": "gulfnews-lebanese-civil-war-timeline",
+      "type": "web",
+      "authors": [
+        "Gulf News Archives (staff report)"
+      ],
+      "title": "Lebanese Civil War: Timeline",
+      "container": "Gulf News",
+      "publisher": "Al Nisr Publishing",
+      "year": 2018,
+      "url": "https://gulfnews.com/world/mena/lebanese-civil-war-1.1077068",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full timeline (last updated 15 Sep 2018). Its 13 Oct 1990 entry conflates the fall of Aoun with his later exile in Paris; only the statement that the date marks the end of the war is used."
+      },
+      "kind": "press",
+      "institution_country": "AE"
     },
     {
       "id": "haaretz-2010-02-22-un-heritage-sites",
@@ -13878,6 +14056,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "israel-basic-law-president-constitute",
+      "type": "document",
+      "authors": [
+        "State of Israel"
+      ],
+      "title": "Basic Law: The President of the State (English translation, in Israel's Constitution of 1958 with Amendments through 2013)",
+      "container": "Constitute Project",
+      "publisher": "Constitute Project (English translation of the Basic Laws of Israel)",
+      "year": 2013,
+      "url": "https://www.constituteproject.org/constitution/Israel_2013?lang=en",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read sections 3, 10 and 19 of Basic Law: The President of the State in the Constitute Project English text (consolidated to 2013). The Knesset site, which hosts the official English translation, refused automated access from this location."
+      },
+      "kind": "government",
+      "institution_country": "IL"
+    },
+    {
       "id": "israel-goi-2000-submission-mitchell",
       "type": "document",
       "authors": [
@@ -14738,6 +14936,346 @@
       "institution_country": "US"
     },
     {
+      "id": "jta-1936-04-23-hebron-evacuation-decision",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Report from Jerusalem of 22 April 1936 on the Arab general strike and disturbances, with the section 'Hebron Jews to Be Evacuated at Government Cost'",
+      "container": "JTA Latest Cable Dispatches (Daily News Bulletin), vol. 1, no. 213",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1936,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the report in JTA's online archive transcription and the scanned bulletin of Thursday 23 April 1936 (p. 1 summary and dispatch datelined 'JERUSALEM, April 22. (JTA)'). The archive page is not linked and its headline is not reproduced because both carry casualty figures; the link is to the bulletin scan."
+      },
+      "kind": "press",
+      "institution_country": "US",
+      "url": "http://pdfs.jta.org/1936/1936-04-23_213.pdf"
+    },
+    {
+      "id": "jta-1949-02-18-weizmann-sworn-in",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Dr. Weizmann Sworn in As Israel's First President; Thousands Line Streets of Jerusalem",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1949,
+      "url": "https://www.jta.org/archive/r-wrizmann-shorn-in-as-israels-first-president-thousands-line-streets-of-jerusalem",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Friday 18 February 1949, p. 1; dispatch datelined \"JERUSALEM, Feb. 17. (JTA)\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1949-03-15-um-reshresh",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Bunche Denies He Said Israelis Broke Cease-fire; Aqaba Situation Still Muddled",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1949,
+      "url": "https://www.jta.org/archive/bunche-denies-he-said-israelis-broke-cease-fire-aqaba-situation-still-muddled",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (JTA archive transcription, bulletin dated 15 March 1949). The transcription has OCR slips (e.g. 'Israeli I forces'); the original bulletin scan was not checked."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1952-12-11-ben-zvi-takes-oath",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "President Ben Zvi Takes Oath; Soviet Bloc Boycotts Ceremony",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1952,
+      "url": "https://www.jta.org/archive/president-ben-zvi-takes-oath-soviet-bloc-boycotts-ceremony",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Thursday 11 December 1952, p. 1; dispatch datelined \"JERUSALEM, Dec. 10 (JTA)\"). Also read the report of 9 December 1952 announcing his election and that the inauguration would be held in Parliament on Wednesday."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1963-05-22-shazar-elected",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Shazar Elected As President of Israel; Roll Call Vote is 67 to 33",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1963,
+      "url": "https://www.jta.org/archive/shazar-elected-as-president-of-israel-roll-call-vote-is-67-to-33",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Wednesday 22 May 1963, p. 1; dispatch datelined \"JERUSALEM, May 21. (JTA)\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1963-05-23-shazar-inaugurated",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Shazar Inaugurated As Israel's President in Impressive Ceremony",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1963,
+      "url": "https://www.jta.org/archive/shazar-inaugurated-as-israels-president-in-impressive-ceremony",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Thursday 23 May 1963, p. 1; dispatch datelined \"JERUSALEM, May 22. (JTA)\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1973-05-25-katzir-takes-oath",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Israel's Fourth President Katzir Takes Oath of Office",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1973,
+      "url": "https://www.jta.org/archive/israels-fourth-president-katzir-takes-oath-of-office",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Friday 25 May 1973, p. 1; dispatch datelined \"JERUSALEM, May 24 (JTA)\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1978-05-30-navon-inaugural-address",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Navon, in Inaugural Address, Urges Sadat to Resume Peace Negotiations",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1978,
+      "url": "https://www.jta.org/archive/navon-in-inaugural-address-urges-sadat-to-resume-peace-negotiations",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Tuesday 30 May 1978, p. 3, by David Landau and Gil Sedan; dispatch datelined \"JERUSALEM, May 29 (JTA)\"; page 1 of the same bulletin carries a boxed note that Navon was inaugurated \"at sundown today\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1983-05-09-herzog-inaugurated",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Herzog Inaugurated As Israel' Sixth President",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1983,
+      "url": "https://www.jta.org/archive/herzog-inaugurated-as-israel-sixth-president",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Monday 9 May 1983; the report says the ceremony was held \"last Thursday evening\", i.e. Thursday 5 May 1983)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-1993-05-14-weizman-installed",
+      "type": "article",
+      "authors": [
+        "Jewish Telegraphic Agency"
+      ],
+      "title": "Israel Installs Seventh President with Pageantry and Hopes for Peace",
+      "container": "JTA Daily News Bulletin",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 1993,
+      "url": "https://www.jta.org/archive/israel-installs-seventh-president-with-pageantry-and-hopes-for-peace",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report in JTA's online archive transcription and checked the dispatch dateline in the scanned Daily News Bulletin PDF linked from it (bulletin of Friday 14 May 1993, p. 1, by Cynthia Mann; dispatch datelined \"JERUSALEM, May 13 (JTA)\")."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2000-06-12-assad-timeline",
+      "type": "web",
+      "authors": [
+        "JTA"
+      ],
+      "title": "Peace talks die with Assad until son gets grip",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2000,
+      "url": "https://www.jta.org/2000/06/12/lifestyle/peace-talks-die-with-assad-until-son-gets-grip",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report including the appended timeline of Hafez al-Assad's career."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2000-07-11-weizman-resigns",
+      "type": "web",
+      "authors": [
+        "Wiener, Julie"
+      ],
+      "title": "Weizman's public life ends under a cloud",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2000,
+      "url": "https://www.jta.org/2000/07/11/lifestyle/weizmans-public-life-ends-under-a-cloud",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (datelined Jerusalem, 11 July 2000)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2000-08-01-katsav-elected",
+      "type": "web",
+      "authors": [
+        "Segal, Naomi"
+      ],
+      "title": "Knesset slaps Barak with presidential choice",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2000,
+      "url": "https://www.jta.org/2000/08/01/lifestyle/knesset-slaps-barak-with-presidential-choice",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (datelined Jerusalem, July 31 [2000], published 1 August 2000)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2000-08-06-katsav-sworn-last-week",
+      "type": "web",
+      "authors": [
+        "Segal, Naomi"
+      ],
+      "title": "Holocaust victims reincarnated 'sinners'?",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2000,
+      "url": "https://www.jta.org/archive/holocaust-victims-reincarnated-sinners",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report (datelined Jerusalem, Aug. 6 [2000]); used only for its statement on when Katsav was sworn in."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2007-07-01-katsav-resignation",
+      "type": "web",
+      "authors": [
+        "JTA"
+      ],
+      "title": "Rally against Katsav plea",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2007,
+      "url": "https://www.jta.org/2007/07/01/default/rally-against-katsav-plea",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full news brief dated Sunday 1 July 2007."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2007-07-15-peres-sworn-in",
+      "type": "web",
+      "authors": [
+        "JTA"
+      ],
+      "title": "Peres sworn in as Israel's president",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2007,
+      "url": "https://www.jta.org/2007/07/15/default/peres-sworn-in-as-israels-president",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full news brief dated Sunday 15 July 2007."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "jta-2014-07-24-rivlin-inaugurated",
+      "type": "web",
+      "authors": [
+        "JTA"
+      ],
+      "title": "Peres finishes six-decade political career as Rivlin inaugurated president",
+      "container": "Jewish Telegraphic Agency",
+      "publisher": "Jewish Telegraphic Agency",
+      "year": 2014,
+      "url": "https://www.jta.org/2014/07/24/politics/peres-finishes-six-decade-political-career-as-reuven-rivlin-inaugurated-president",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full report dated Thursday 24 July 2014 (datelined Jerusalem)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "jta-2015-netanyahu-status-quo",
       "type": "web",
       "authors": [
@@ -15351,7 +15889,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full page (1920-1946)."
+        "note": "Read the full page (1920-1946). | Re-read in Milestone 8: Re-fetched and re-read the full page (Ma'an and Tabuk incorporated into the Kingdom of the Hijaz; Aqaba and Ma'an districts part of Transjordan from May 1925; loss of the Hijaz in 1925)."
       },
       "kind": "government",
       "institution_country": "JO",
@@ -15890,6 +16428,46 @@
       },
       "kind": "reference",
       "institution_country": "NL"
+    },
+    {
+      "id": "loc-country-study-lebanon-1987",
+      "type": "book",
+      "editors": [
+        "Collelo, Thomas"
+      ],
+      "title": "Lebanon: A Country Study (section \"The Civil War\")",
+      "publisher": "Federal Research Division, Library of Congress",
+      "place": "Washington, D.C.",
+      "year": 1987,
+      "url": "http://countrystudies.us/lebanon/27.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the section \"The Civil War\" in the countrystudies.us reproduction of this public-domain US government text (loc.gov refuses automated requests). Written in 1987, so it cannot speak to the 1990 end."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-country-study-syria-1987",
+      "type": "book",
+      "editors": [
+        "Collelo, Thomas"
+      ],
+      "title": "Syria: A Country Study (section \"The Assad Era\")",
+      "publisher": "Federal Research Division, Library of Congress",
+      "place": "Washington, D.C.",
+      "year": 1987,
+      "url": "https://countrystudies.us/syria/18.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the section \"The Assad Era\" in the countrystudies.us reproduction of this public-domain US government text (loc.gov returned HTTP 403 to automated requests)."
+      },
+      "kind": "government",
+      "institution_country": "US"
     },
     {
       "id": "lockman-1996-comrades-and-enemies",
@@ -16649,6 +17227,23 @@
       },
       "kind": "government",
       "institution_country": "US"
+    },
+    {
+      "id": "monthly-magazine-2013-october-13-1990",
+      "type": "web",
+      "title": "October - October 13, 1990: Syria Completes its Hegemony over Lebanon",
+      "container": "The Monthly",
+      "publisher": "Information International (Beirut)",
+      "year": 2013,
+      "url": "https://monthlymagazine.com/en/article/1088/october--october-13-1990--syria-completes-its-hegemony-over-lebanon",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (dated 1 Oct 2013 on the page). It narrates the 13 October 1990 offensive on Baabda; it does not itself call the date the end of the civil war."
+      },
+      "kind": "press",
+      "institution_country": "LB"
     },
     {
       "id": "morris-1987-birth",
@@ -22282,7 +22877,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut). | Re-read in Milestone 8: Re-checked in this pass against the UC Press E-Books HTML text downloaded earlier, section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut). | Re-read in Milestone 8: Re-checked in this pass against the UC Press E-Books HTML text downloaded earlier, section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. | Re-read in Milestone 8: Re-downloaded the UC Press E-Books 'entire text' view of the volume and re-read the section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order' (annexation of Ma'an and Aqaba to the Hijaz)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -22425,6 +23020,26 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "toynbee-1927-survey-1925-islamic-world",
+      "type": "book",
+      "authors": [
+        "Toynbee, Arnold J."
+      ],
+      "title": "Survey of International Affairs, 1925. Vol. I: The Islamic World since the Peace Settlement",
+      "publisher": "Oxford University Press (Humphrey Milford) for the British Institute of International Affairs",
+      "place": "London",
+      "year": 1927,
+      "url": "https://archive.org/details/in.ernet.dli.2015.15366",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Internet Archive OCR text of the Digital Library of India scan (public-domain 1927 publication): Part III, sect. v, pp. 299-300 n. (Husayn at 'Aqabah until June 1925), pp. 307-308 (end of the Hashimite Kingdom of the Hijaz: Medina 5 Dec., Jiddah entered 19 Dec. 1925), p. 313 (Hijaz Congress resolution of 5 July 1926 claiming 'Aqabah and Ma'an for the Hijaz) and pp. 341-343 (the Ma'an and 'Aqabah question, 1922-1925; Amery's statements of 24 June and 6 July 1925; Hadda Agreement)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "tribune-india-2004-11-12-fattouh",

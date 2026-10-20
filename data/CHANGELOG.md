@@ -362,3 +362,24 @@ What reading the originals changed:
 - **Links:** the public-domain scans are now linked.
 
 Not resolved (still marked "seen quoted"): Broshi's Jerusalem series (1975), Avi-Yonah (1947, 1966, 1973), Albright (1960), Baron's book (1972), Carter, Lipschits, Geva, Weinberg, the Late Bronze Age estimates (Finkelstein, Bunimovitz, Broshi and Gophna), Byatt, McCown, Poliak, and several popular works. These are in copyright with no open copy. The open surveys that report these figures (Finkelstein 2018, Lipschits 2009, Kennedy 2013) are kept as the way they were seen. They are not cited as if the originals had been checked.
+
+### Modern gaps closed (round H4)
+
+- **Israeli presidents:** every term now starts and ends on the day of the swearing-in, using contemporary Jewish Telegraphic Agency reports from 1949 to 2014 (dates checked against the dispatch datelines) and the Basic Law: The President of the State.
+  - Weizmann from 17 February 1949; Ben-Zvi from 10 December 1952; Shazar 22 May 1963 – 24 May 1973; Katzir to 29 May 1978; Navon to 5 May 1983; Chaim Herzog to 13 May 1993; Weizman to about 12 July 2000; Katsav 1 August 2000 – 1 July 2007; Peres 15 July 2007 – 24 July 2014; Rivlin from 24 July 2014.
+  - Weizman's last day is worked out from his resignation letter and the Basic Law's 48-hour rule. It is marked approximate.
+- **Hafez al-Assad:** president from 12 March 1971. The sources differ on whether he was chosen by referendum or by parliament, and the note says so.
+- **Lebanese Civil War:** 13 April 1975 – 13 October 1990. The end date is a convention; the note gives the alternatives (the Ta'if Agreement of 1989; disarmament in 1991).
+- **Egyptian administration of Gaza (1948–67):** now supported by the Egyptian legal texts themselves. Law 255 of 1955 calls the Strip "the area under the supervision of the Egyptian forces in Palestine"; the 1962 Constitutional Declaration calls it "an indivisible part of the land of Palestine". It was administered, not annexed.
+- **Eilat:** a founding note with the sequence army arrival (March 1949), civilian camp (December 1949), local council (1952) and city (1959). Sources differ on the arrival day (10 or 13 March), and the Arab name Umm al-Rashrash is recorded.
+- **Hebron, 1936:** a second source (a JTA dispatch) shows the Mandate government decided on 22 April 1936 to move the Jews of Hebron to Jerusalem.
+- **New polity, the Kingdom of the Hejaz (1916–1925):**
+  - **Territory:** Aqaba and Ma'an, which it held from 1918/19 until their transfer to Transjordan in 1925. Sources differ between May and June 1925 for the transfer.
+  - **Notes:** Britain's non-recognition of the Hijazi claim, and the Hijaz Congress's renewed claim of 1926.
+  - **Start date:** 2 November 1916, marked approximate, because the day depends on reading a garbled scan of Antonius.
+- **Importer fix:** a source note that said a page "is not linked" had wrongly triggered the rule for unauthorised copies. That rule now matches only explicit wording such as "third-party copy" or "user upload".
+
+Gaps:
+- The Knesset, President's Office and Israel State Archives sites refused automated access.
+- No contemporary Syrian record for 1971 was opened.
+- Several open studies sit behind anti-bot filters: Golan 2024 on Gaza; the Ifpo atlas of Jordan.

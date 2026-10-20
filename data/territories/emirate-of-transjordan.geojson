@@ -85,10 +85,34 @@
           {
             "ref": "kinghussein-transjordan-history",
             "quote": "In May 1925, the Aqaba and Ma'an districts of the Hijaz became part of Transjordan."
+          },
+          {
+            "ref": "kinghussein-transjordan-history",
+            "locator": "paragraph on the 1923 recognition",
+            "quote": "In May 1925, the Aqaba and Ma’an districts of the Hijaz became part of Transjordan."
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. vi, p. 342",
+            "quote": "while they had acquiesced in the status of the Ma‘an and ‘Aqabah districts remaining indeterminate pending a final delimitation of the frontier"
+          },
+          {
+            "ref": "toynbee-1927-survey-1925-islamic-world",
+            "locator": "Part III, sect. v, p. 300 n.",
+            "quote": "He lay off ‘Aqabah, without establishing himself on shore, until June 1925, when the British Government insisted upon his taking up his residence elsewhere"
           }
         ],
         "id": "emirate-of-transjordan-2",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Transfer date: May 1925 per the King Hussein website; Toynbee (1927) describes the British announcement of 24 June 1925 that the Transjordanian government was asserting its authority at Aqaba, after ex-King Husayn was made to leave the port in June 1925, and Al-Shraah & Al-Momani (2014) put the formal annexation in June 1925. Britain treated the districts' status as indeterminate pending frontier delimitation (Amery, 6 July 1925, in Toynbee).",
+          "ar": "تاريخ النقل: أيار/مايو 1925 بحسب موقع الملك حسين؛ ويصف توينبي (1927) الإعلان البريطاني في 24 حزيران/يونيو 1925 أن حكومة شرق الأردن تبسط سلطتها على العقبة، بعد أن أُجبر الملك السابق حسين على مغادرة الميناء في حزيران/يونيو 1925، ويضع الشرعة والمومني (2014) الضم الرسمي في حزيران/يونيو 1925. وعدّت بريطانيا وضع القضاءين غير محسوم إلى حين ترسيم الحدود (إيمري، 6 تموز/يوليو 1925، لدى توينبي).",
+          "he": "מועד ההעברה: מאי 1925 לפי אתר המלך חוסיין; טוינבי (1927) מתאר את ההודעה הבריטית מ-24 ביוני 1925 שממשלת עבר הירדן מחילה את סמכותה על עקבה, אחרי שהמלך לשעבר חוסיין נאלץ לעזוב את הנמל ביוני 1925, ואל-שרעה ואל-מומני (2014) מציבים את הסיפוח הרשמי ביוני 1925. בריטניה ראתה את מעמד שני המחוזות כבלתי מוכרע עד לתיחום הגבול (אמרי, 6 ביולי 1925, אצל טוינבי).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     }
   ]

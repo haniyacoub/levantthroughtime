@@ -11492,6 +11492,69 @@
           }
         }
       ]
+    },
+    {
+      "id": "kingdom-of-hejaz",
+      "name": {
+        "en": "Kingdom of the Hejaz",
+        "ar": "المملكة الحجازية الهاشمية",
+        "he": "ממלכת חג'אז",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "kingdom",
+      "start": {
+        "year": 1916,
+        "month": 11,
+        "day": 2,
+        "precision": "day",
+        "circa": true
+      },
+      "end": {
+        "year": 1925,
+        "month": 12,
+        "day": 19,
+        "precision": "day"
+      },
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XI, section 7, p. 212 (OCR reads \"On the and of November\", i.e. 2nd)",
+          "quote": "it was announced that the Sharif Husain had been proclaimed King."
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XI, section 7, p. 212",
+          "quote": "whereby the Sharif was recognised as King of the Hejaz, and formal notification of this was addressed to him on the 3rd of January 1917"
+        },
+        {
+          "ref": "antonius-1939-arab-awakening",
+          "locator": "ch. XV, p. 335",
+          "quote": "preferred to wait for the inevitable surrender. This took place in December 1925."
+        },
+        {
+          "ref": "toynbee-1927-survey-1925-islamic-world",
+          "locator": "Part III, sect. v, p. 307",
+          "quote": "the Wahhabis entered the city peacefully on the 19th"
+        },
+        {
+          "ref": "kinghussein-transjordan-history",
+          "locator": "paragraph on the Hashemites in Iraq and the Hijaz",
+          "quote": "King Ali bin al-Hussein, the eldest brother of Abdullah and Faisal, lost the throne of the Kingdom of the Hijaz to Abdel Aziz bin Saud of Najd."
+        }
+      ],
+      "notes": {
+        "en": "The Hashemite kingdom of Sharif Husayn ibn Ali in the Hijaz (Mecca, Medina, Jeddah), most of which lies outside the map area. Husayn was proclaimed 'King of the Arab Countries' on 2 November 1916 (Antonius; the OCR of the day is 'and', read as '2nd'); the Allies recognised him only as King of the Hejaz, notified on 3 January 1917. After the Saudi conquest of Mecca (October 1924) Husayn abdicated in favour of his son Ali; Ali withdrew and the Wahhabi forces entered Jeddah on 19 December 1925 (Toynbee), ending the kingdom; Ibn Saud was proclaimed King of the Hejaz on 8 January 1926 (Antonius). Within the map area it held Ma'an and Aqaba from the end of the First World War until 1925 (see its territory slice).",
+        "ar": "المملكة الهاشمية للشريف حسين بن علي في الحجاز (مكة والمدينة وجدة)، ويقع معظمها خارج نطاق الخريطة. أُعلن حسين «ملك البلاد العربية» في 2 تشرين الثاني/نوفمبر 1916، واعترف به الحلفاء ملكاً على الحجاز فقط في 3 كانون الثاني/يناير 1917. وبعد الفتح السعودي لمكة (تشرين الأول/أكتوبر 1924) تنازل حسين لابنه علي، ثم انسحب علي ودخلت القوات الوهابية جدة في 19 كانون الأول/ديسمبر 1925، فانتهت المملكة. وضمن نطاق الخريطة سيطرت على معان والعقبة من نهاية الحرب العالمية الأولى حتى 1925.",
+        "he": "הממלכה ההאשמית של השריף חוסיין בן עלי בחג'אז (מכה, מדינה, ג'דה), שרובה מחוץ לתחום המפה. חוסיין הוכרז \"מלך הארצות הערביות\" ב-2 בנובמבר 1916, ובעלות הברית הכירו בו רק כמלך חג'אז (3 בינואר 1917). לאחר הכיבוש הסעודי של מכה (אוקטובר 1924) ויתר חוסיין על הכס לטובת בנו עלי; עלי נסוג והכוחות הווהאבים נכנסו לג'דה ב-19 בדצמבר 1925, וכך הסתיימה הממלכה. בתחום המפה החזיקה במעאן ובעקבה מסוף מלחמת העולם הראשונה עד 1925.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     }
   ]
 }
