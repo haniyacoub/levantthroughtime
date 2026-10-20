@@ -157,8 +157,8 @@ The site is a set of static files, hosted free on Cloudflare Pages, with the cod
    - **Send www to the main address:** in Cloudflare open the domain → **Rules → Redirect Rules → Create rule → template "Redirect from WWW to root"**, and deploy it.
    - **Secure connection:** Cloudflare sets up the HTTPS certificate itself, which takes a few minutes the first time.
 
-10. **Optional: turn on the "Suggest a correction" links.** Add this line to `data/config.json`, then commit, push and publish again:
-   `"corrections_url": "https://github.com/<your-user>/<repo-name>/issues/new"`
+10. **The "Suggest a correction" links** open a pre-filled issue in the GitHub repository; they are set in `data/config.json`:
+   `"corrections_url": "https://github.com/haniyacoub/levantthroughtime/issues/new"`
 
 11. **Optional: keep search engines away while the content awaits review.** See the note at the top of `public/_headers`.
 

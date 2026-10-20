@@ -32,6 +32,7 @@
   "prehistoric_until": -3000,
   "undated_names_from": 1800,
   "composition_tolerance_pct": 2,
+  "corrections_url": "https://github.com/haniyacoub/levantthroughtime/issues/new",
   "map": {
     "bounds": [
       [
