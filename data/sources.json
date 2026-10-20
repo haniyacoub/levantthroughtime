@@ -371,13 +371,14 @@
       "volume": 5,
       "pages": "20-25",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Bachi 1977 cites it (with Albright 1960) as the basis of Albright's figures in Table A1 and (p. 25) for Table A3 no. 19."
+        "note": "Not accessed; Bachi 1977 cites it (with Albright 1960) as the basis of Albright's figures in Table A1 and (p. 25) for Table A3 no. 19. | Re-read in Milestone 8: Read the article (JPOS 5, 1925, pp. 17-54) in the Internet Archive OCR text of the Graduate Theological Union scan of the volume (https://archive.org/details/journal-of-the-palestine-oriental-society_1925_5; public domain, linkable): pp. 17-27 in full and the rest searched for population statements. All its population figures are on pp. 23-25 and in n. 15 on p. 25: David's census 600,000 for all Israel (whole population, incl. 100,000-120,000 in the Transjordanian tribes), about 130,000 for the three southern tribes, 750,000 for Western Palestine; Amarna Age about half a million; about a million two centuries after David; Judah about 250,000 in 701; about a million and a half at the opening of the Christian era, not counting half a million in Transjordan. The article has no figures for Solomon, 586 BCE or the Persian province, which Bachi's Table A1 also lists under Albright: those must come from Albright 1960 (not seen). The article runs pp. 17-54 (the entry's '20-25' is Bachi's locator)."
       },
       "kind": "academic",
       "institution_country": "IL",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/journal-of-the-palestine-oriental-society_1925_5"
     },
     {
       "id": "albright-1960-biblical-period",
@@ -1731,7 +1732,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -1996,7 +1997,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 8) and Broshi 1979, p. 6."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 8) and Broshi 1979, p. 6. | Re-read in Milestone 8: The 1971 print was not seen. Baron's article as reprinted in the 2007 second edition was read on Encyclopedia.com (new entry baron-ej-2007-population); its figures match those Bachi and Broshi 1979 quote from the 1971 edition."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -2016,11 +2017,31 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; first published in Hebrew 1933. Cited by Bachi 1977 (App. 2A n. 3) with Baron 1971 as the basis of Baron's figures in Tables A1 and A5."
+        "note": "Not accessed; first published in Hebrew 1933. Cited by Bachi 1977 (App. 2A n. 3) with Baron 1971 as the basis of Baron's figures in Tables A1 and A5. | Re-read in Milestone 8: Not accessed (Rutgers University Press, 1972; in copyright; no open copy found). Baron's own table of its figures (1000, 733/701 and 586 BCE) is reproduced in his Encyclopaedia Judaica article 'Population', read in the 2007 edition (baron-ej-2007-population)."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "baron-ej-2007-population",
+      "type": "chapter",
+      "authors": [
+        "Baron, Salo W."
+      ],
+      "title": "Population",
+      "container": "Encyclopaedia Judaica, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/population",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read on Encyclopedia.com the sections 'Methodological Uncertainties', 'Ancient Israel' (with Table 1, 'Ancient Population') and 'Second Commonwealth' of the entry 'Population', signed [Salo W. Baron]. Baron says his Table 1 'guesstimates' were made 'more than 40 years ago' (his 1933 essay, reprinted as Baron 1972); the first-century figure (2,350,000-2,500,000 Jews in Palestine) matches what Bachi quotes from the 1971 first edition. The 2007 text adds a pointer to later bibliography."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "barron-1923",
@@ -2291,13 +2312,14 @@
       "year": 1886,
       "pages": "242-249",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 14: 'This figure includes Transjordan territories') and Broshi 1979, p. 6."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 14: 'This figure includes Transjordan territories') and Broshi 1979, p. 6. | Re-read in Milestone 8: Read ch. VI ('Der hellenische Osten'), pp. 242-248 on Syria and Palestine, in the Internet Archive OCR of a Google scan (https://archive.org/details/bub_gb_rIQfAAAAMAAJ; Leipzig: Duncker & Humblot, 1886). Beloch's Palestine is 29,600 sq km including the whole East-Jordan land (Batanaea, Auranitis, Peraea) but excluding Idumaea (p. 243); he concludes (p. 248) that its population under Nero could hardly have reached 2 million. Also checked pp. 428-430, which Broshi 1979 cites for Beloch's Palestine figure: in this edition they deal with northern Italy."
       },
       "kind": "academic",
       "institution_country": "DE",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/bub_gb_rIQfAAAAMAAJ"
     },
     {
       "id": "ben-arieh-1973-jewish-population-jerusalem",
@@ -9817,13 +9839,14 @@
       "container": "A Dictionary of the Bible (ed. J. Hastings)",
       "pages": "646",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 1, date not given) and Broshi 1979, p. 6."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 1, date not given) and Broshi 1979, p. 6. | Re-read in Milestone 8: Read the article 'Palestine' (vol. III, Kir-Pleiades, pp. 640-657, signed C. R. Conder) in the Internet Archive OCR text of the University of Toronto scan (https://archive.org/details/dictionbibjames03hast; New York: Scribner / Edinburgh: T. & T. Clark, 1902 printing of the volume first issued in 1900): the population paragraph on p. 646 (running onto p. 647), plus the opening and close of the article. Conder gives no first-century estimate: he puts the present population of Western Palestine at not more than about 600,000, says the country 'fully cultivated would support ten times that number', and that Palestine was not incapable of holding 6,500,000 (citing 2 Sam 24:9, David's census). The entry's title could be given as 'Palestine'."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/dictionbibjames03hast"
     },
     {
       "id": "conder-kitchener-1881-swp-memoirs-1",
@@ -10269,13 +10292,14 @@
       "year": 1930,
       "pages": "115",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 20)."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 20). | Re-read in Milestone 8: Read pp. 114-116 (the numbers of Jews in Palestine and the Diaspora) in the Internet Archive OCR of the Princeton scan (https://archive.org/details/preparingwayforp00derw; New York: Macmillan, 1930; public domain in the US since 2026). p. 115: about one million Jews in Palestine plus perhaps half a million non-Jews; Derwacter also reports Harnack's 500,000."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/preparingwayforp00derw"
     },
     {
       "id": "dever-1997-middle-bronze-settlement",
@@ -12205,13 +12229,14 @@
       "year": 1926,
       "pages": "83",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 16; table gives 1925, note gives London 1926)."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 16; table gives 1925, note gives London 1926). | Re-read in Milestone 8: Read the population discussion (pp. 82-85) in the Internet Archive scan of the Claremont School of Theology copy (https://archive.org/details/economicbackgrou0000gran; London: Oxford University Press / H. Milford, 1926; public domain in the US), checked against the page image for the footnote fractions. Grant's text gives 'between two and three millions' for the first century; his n. 3 adds 'It might be safer to say 1½–2½ millions', the range Bachi records."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/economicbackgrou0000gran"
     },
     {
       "id": "grant-m-1971-herod-the-great",
@@ -12745,6 +12770,48 @@
       "institution_country": "NL"
     },
     {
+      "id": "harnack-1906-mission-ausbreitung",
+      "type": "book",
+      "authors": [
+        "Harnack, Adolf"
+      ],
+      "title": "Die Mission und Ausbreitung des Christentums in den ersten drei Jahrhunderten, vol. I",
+      "edition": "2nd",
+      "publisher": "J. C. Hinrichs",
+      "place": "Leipzig",
+      "year": 1906,
+      "url": "https://archive.org/details/diemissionundaus01harnuoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read book I, ch. 1 ('Das Judentum, seine Verbreitung und Entschränkung'), pp. 5-8, in the Internet Archive OCR of the University of Toronto scan (public domain): about 700,000 Jews in Palestine (p. 7) within an estimated 4-4½ million Jews in the Roman Empire. This is the page Juster (1914, I p. 210 n. 2) cites for Harnack's 700,000."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "harnack-1924-mission-ausbreitung",
+      "type": "book",
+      "authors": [
+        "Harnack, Adolf von"
+      ],
+      "title": "Die Mission und Ausbreitung des Christentums in den ersten drei Jahrhunderten, vol. I: Die Mission in Wort und Tat",
+      "edition": "4th",
+      "publisher": "J. C. Hinrichs",
+      "place": "Leipzig",
+      "year": 1924,
+      "url": "https://archive.org/details/diemissionundaus01harn",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read book I, ch. 1 ('Das Judentum, seine Verbreitung und Entschränkung'), pp. 10-13, in the Internet Archive OCR of the University of Illinois scan (public domain): in this edition Harnack reckons about 500,000 Jews in Palestine (pp. 12-13), still within 4-4½ million in the Empire. Derwacter (1930, p. 115) cites this figure from vol. I p. 12."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "harnack-mission-ausbreitung",
       "type": "book",
       "authors": [
@@ -12756,7 +12823,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Bachi 1977 (Table A3 no. 22) dates the estimate 1915 but cites the 1924 edition, pp. 3-7; Broshi 1979 cites the 1915 edition."
+        "note": "Not accessed; Bachi 1977 (Table A3 no. 22) dates the estimate 1915 but cites the 1924 edition, pp. 3-7; Broshi 1979 cites the 1915 edition. | Re-read in Milestone 8: The 1915 (3rd) edition was not found online. Read instead the 2nd (1906) and 4th (1924) editions, entered separately as harnack-1906-mission-ausbreitung and harnack-1924-mission-ausbreitung: Harnack's figure for the Jews of Palestine is about 700,000 in 1906 (vol. I, p. 7) and about 500,000 in 1924 (vol. I, pp. 12-13). Bachi dates the estimate 1915 but cites the 1924 edition."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -14720,13 +14787,14 @@
       "year": 1914,
       "pages": "209f.",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 2) and Broshi 1979, p. 6."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 2) and Broshi 1979, p. 6. | Re-read in Milestone 8: Read vol. I (Paris: Paul Geuthner, 1914), Introduction section V (the Diaspora and the numerical importance of the Jews), pp. 209-211 with notes, in the Internet Archive OCR of the University of Illinois scan (https://archive.org/details/lesjuifsdanslemp01just_0; a University of Toronto scan also exists). The Palestine figure is in p. 210 n. 2: Jews in all Palestine 'bien dans les 5 000 000', reasoned from Josephus's Passover crowd and Galilee town figures; Juster rejects Harnack's 700,000 and Meyer's figure. He gives no figure for the total population."
       },
       "kind": "academic",
       "institution_country": "FR",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/lesjuifsdanslemp01just_0"
     },
     {
       "id": "jvl-presidents-of-israel",
@@ -15869,9 +15937,9 @@
       "year": 1944,
       "pages": "47",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Bachi 1977 (Table A3 nos. 3, 7, 12) quotes Lowdermilk's own figure and figures he attributes to B. Mazar and N. Glueck. Lowdermilk was a soil conservationist, not a historian."
+        "note": "Not accessed; Bachi 1977 (Table A3 nos. 3, 7, 12) quotes Lowdermilk's own figure and figures he attributes to B. Mazar and N. Glueck. Lowdermilk was a soil conservationist, not a historian. | Re-read in Milestone 8: Read ch. IV ('Palestine in Ancient Times'), pp. 47-48, in a copy of the London edition (Victor Gollancz, 1944) uploaded to the Internet Archive by the Digital Library of India, checked against the page image. Read in a third-party copy of uncertain licensing status; not linked. p. 47 reports Avi-Yonah's 'five million' as a minimum (citing a 1939 magazine article), 'Dr. Maisler' (B. Mazar) 'in excess of four million', Salo Baron 2,500,000-3,000,000 and Nelson Glueck about 2,500,000 (from a letter of 16 December 1941); p. 48 gives Lowdermilk's own three million for Palestine and Trans-Jordan together."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -16426,13 +16494,14 @@
       "publisher": "Fischer",
       "year": 1910,
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 15; dated 1910 in the table, edition 1909-11 in the note)."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 15; dated 1910 in the table, edition 1909-11 in the note). | Re-read in Milestone 8: Read the Syria-Palestine passage (pp. 904-905) of Eduard Meyer, 'Die Bevölkerung des Altertums', in Handwörterbuch der Staatswissenschaften, 3rd ed., vol. 2 (Jena: Gustav Fischer, 1909), in the Internet Archive OCR of the University of Toronto scan (https://archive.org/details/handwrterbuchd02jena), checked against the page image (the OCR garbles '1½'). The same sentence is in the 2nd ed., vol. 2 (1899), p. 681 (https://archive.org/details/handwrterbuchder02jena). Meyer puts Palestine before the Roman war at 'rund 1½ Millionen' and says Beloch's figure is somewhat too high; Bachi's Table A3 gives Meyer 2,000,000. Vol. 2 of the 3rd edition is dated 1909 (the entry has 1910)."
       },
       "kind": "academic",
       "institution_country": "DE",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/handwrterbuchd02jena"
     },
     {
       "id": "midilli-2022-kudus-niyabet",
@@ -21283,13 +21352,14 @@
       "title": "(article in) Encyclopaedia Biblica",
       "pages": "col. 3520",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 10, date not given)."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 10, date not given). | Re-read in Milestone 8: Read section 21 'Population' of the article 'Palestine' (sections 1-14a and 16-21 signed 'A. S.', i.e. the late Albert Socin of Leipzig, per the volume's list of contributors) in Encyclopaedia Biblica vol. III (L to P), 1902, col. 3550, in the Internet Archive OCR of the University of Toronto scan (https://archive.org/details/encyclopaediabib03cheyuoft; Toronto: Morang edition, copyright 1902 Macmillan), checked against the page image because the OCR garbles the fraction 2½ (also compared with the Emory University scan). Bachi's column number 3520 is wrong; F. C. Grant (1926, p. 82 n. 2) also cites col. 3550."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://archive.org/details/encyclopaediabib03cheyuoft"
     },
     {
       "id": "socrates-ecclesiastical-history",

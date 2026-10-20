@@ -383,6 +383,11 @@
           "ref": "albright-1960-biblical-period",
           "locator": "Bachi App. 2A n. 1 cites both Albright works for Table A1",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "Probably the total population of Western Palestine in the Amarna Age was not far from half a million"
         }
       ],
       "notes": {
@@ -512,12 +517,22 @@
           "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 24",
+          "quote": "It should go without saying that the restored number of 600,000 for the total of David's census includes the entire population, men, women and children."
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 24",
+          "quote": "If we subtract the total of 100,000—120,000 belonging to the transjordanic tribes of Reuben, Gad and half Manasseh from the total"
         }
       ],
       "notes": {
-        "en": "Only the Israelite population of the two kingdoms is estimated (no total). Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "يُقدَّر فقط السكان الإسرائيليون للمملكتين (دون مجموع). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
-        "he": "רק האוכלוסייה הישראלית של שתי הממלכות נאמדת (ללא סך כולל). אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
+        "en": "Only the Israelite population of the two kingdoms is estimated (no total). Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high. Albright 1925 (p. 24) reads the census figures in Numbers 1 and 26 as a garbled record of David's census and takes the restored 600,000 as the whole population, men, women and children; the 600,000 includes 100,000-120,000 for the Transjordanian tribes of Reuben, Gad and half Manasseh.",
+        "ar": "يُقدَّر فقط عدد السكان الإسرائيليين في المملكتين (دون مجموع كلي). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعدّه باكي؛ يُعرض منفصلًا عن التقديرات الأثرية. يشير باكي إلى أن «هناك أيضًا مؤلفين ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد» وإلى أن باحثين آخرين يرون أن أرقام القرنين التاسع والثامن ق.م. مرتفعة جدًا. يقرأ أولبرايت 1925 (ص 24) أرقام التعداد في سفري العدد 1 و26 على أنها سجل مشوَّه لتعداد داود، ويعدّ الرقم المستعاد 600,000 مجموع السكان كلهم، رجالًا ونساءً وأطفالًا؛ ويشمل الـ600,000 ما بين 100,000 و120,000 لقبائل شرق الأردن: رأوبين وجاد ونصف منسّى.",
+        "he": "מוערך רק מספר האוכלוסייה הישראלית של שתי הממלכות (ללא סך הכול). אומדן המבוסס על המסורת הטקסטואלית (בסיס: estimate-textual), שנערך על ידי בכי; יוצג בנפרד מהאומדנים הארכאולוגיים. בכי מציין ש“יש גם מחברים השוללים כל אמינות ממספרי המקרא של מפקד זה”, ושחוקרים אחרים סבורים שהמספרים של המאות ה-9–8 לפנה״ס גבוהים מדי. אולברייט 1925 (עמ' 24) קורא את מספרי המפקד בספר במדבר 1 ו-26 כרישום משובש של מפקד דוד, ורואה במספר המשוחזר 600,000 את כלל האוכלוסייה, גברים, נשים וילדים; ה-600,000 כוללים 100,000–120,000 לשבטי עבר הירדן: ראובן, גד וחצי מנשה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -566,11 +581,26 @@
           "ref": "baron-1971-ej-population",
           "locator": "Table A1, p. 356",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel', Table 1 'Ancient Population'",
+          "quote": "the present writer ventured to propose the highly tentative Table 1, Ancient Population for the approximate population of ancient Israel and Judah between 1000 and 586 b.c.e."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 (columns 1000, 733/701, 586)",
+          "quote": "Total Israelite and Judean population 1,800,000 1,100,000–1,350,000 150,000"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel'",
+          "quote": "which is possible, if at all, only if Joab counted the population, including the subject peoples, of the entire Davidic empire"
         }
       ],
       "notes": {
         "en": "Baron explains the high figure by the census including wide areas conquered by David beyond Judah and Israel (Bachi App. 2A). Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "يفسر بارون الرقم المرتفع بأن التعداد شمل مناطق واسعة غزاها داود خارج يهودا وإسرائيل (باخي، الملحق 2أ). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "يفسر بارون الرقم المرتفع بأن التعداد شمل مناطق واسعة غزاها داود خارج يهودا وإسرائيل (باكي، الملحق 2أ). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "ברון מסביר את הנתון הגבוה בכך שהמפקד כלל אזורים נרחבים שכבש דוד מעבר ליהודה ולישראל (בכי, נספח 2A). אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -621,11 +651,16 @@
           "note": "Alternative estimate for the same period: group figures only (record baron-david-judah).",
           "locator": "Table A1, p. 356, row 4",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 23",
+          "quote": "the three tribes of Judah (Judah, Simeon and Benjamin) have together 128,000—129,000, or 130,000 in round numbers."
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -676,11 +711,21 @@
           "note": "Alternative estimate for the same period: group figures only (record albright-david-judah).",
           "locator": "Table A1, p. 356, row 2",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel', Table 1 'Ancient Population'",
+          "quote": "the present writer ventured to propose the highly tentative Table 1, Ancient Population for the approximate population of ancient Israel and Judah between 1000 and 586 b.c.e."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 (columns 1000, 733/701, 586)",
+          "quote": "1000 733/701 586 Judah 450,000 300,000–350,000 150,000"
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -717,12 +762,22 @@
           "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25",
+          "quote": "giving us a total of 750,000—just what the population is today."
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "pp. 24-25",
+          "quote": "we obtain a remainder of about 500,000 for cisjordanic Israel. To this we must add about 200,000 for the southern part of the coastal plain, including Philistia"
         }
       ],
       "notes": {
-        "en": "Total over an area roughly corresponding to Mandate Palestine. Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "المساحة الإجمالية لمنطقة تقابل تقريبًا فلسطين الانتدابية. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
-        "he": "סך הכול על שטח המקביל בקירוב לפלשתינה המנדטורית. אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
+        "en": "Total over an area roughly corresponding to Mandate Palestine. Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high. Albright 1925 (pp. 24-25) builds the 750,000 from about 500,000 for cisjordanic Israel (600,000 less the Transjordanian tribes), about 200,000 for the southern coastal plain including Philistia and about 50,000 for southern Phoenicia.",
+        "ar": "المجموع على مساحة تقابل تقريبًا فلسطين الانتدابية. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعدّه باكي؛ يُعرض منفصلًا عن التقديرات الأثرية. يشير باكي إلى أن «هناك أيضًا مؤلفين ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد» وإلى أن باحثين آخرين يرون أن أرقام القرنين التاسع والثامن ق.م. مرتفعة جدًا. يبني أولبرايت 1925 (ص 24-25) الرقم 750,000 من نحو 500,000 لإسرائيل غربي الأردن (600,000 ناقص قبائل شرق الأردن)، ونحو 200,000 للسهل الساحلي الجنوبي بما فيه فلشت، ونحو 50,000 لفينيقيا الجنوبية.",
+        "he": "הסך הכול על שטח התואם בקירוב את ארץ ישראל המנדטורית. אומדן המבוסס על המסורת הטקסטואלית (בסיס: estimate-textual), שנערך על ידי בכי; יוצג בנפרד מהאומדנים הארכאולוגיים. בכי מציין ש“יש גם מחברים השוללים כל אמינות ממספרי המקרא של מפקד זה”, ושחוקרים אחרים סבורים שהמספרים של המאות ה-9–8 לפנה״ס גבוהים מדי. אולברייט 1925 (עמ' 24–25) בונה את 750,000 מכ-500,000 לישראל שמערב לירדן (600,000 פחות שבטי עבר הירדן), כ-200,000 למישור החוף הדרומי כולל פלשת, וכ-50,000 לפניקיה הדרומית.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -763,7 +818,7 @@
       ],
       "notes": {
         "en": "Total over an area roughly corresponding to Mandate Palestine. Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "المساحة الإجمالية لمنطقة تقابل تقريبًا فلسطين الانتدابية. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "المساحة الإجمالية لمنطقة تقابل تقريبًا فلسطين الانتدابية. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "סך הכול על שטח המקביל בקירוב לפלשתינה המנדטורית. אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -803,7 +858,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356, row 5",
           "quote": "Solomon (965-928) Albright 750,000 (at least)",
           "via": "bachi-1977"
@@ -813,11 +868,16 @@
           "note": "Alternative estimate for the same period: group figures only (record baron-david-israel-judah).",
           "locator": "Table A1, p. 356, row 4",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
       ],
       "notes": {
         "en": "'At least' 750,000. Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "\"At least\" 750,000 [750,000 على الأقل]. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "\"At least\" 750,000 [750,000 على الأقل]. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "\"At least\" 750,000 [לפחות 750,000]. אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -852,7 +912,7 @@
       ],
       "notes": {
         "en": "One of a series of Broshi's estimates reproduced by Bachi; Broshi later restated his method (Broshi 1977, 1978). Other estimates for the same date are recorded separately where Bachi lists them.",
-        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باخي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باخي.",
+        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باكي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باكي.",
         "he": "אחד מסדרת אומדני ברושי שבכי העתיק; ברושי ניסח מאוחר יותר מחדש את שיטתו (ברושי 1977, 1978). אומדנים אחרים לאותו תאריך נרשמים בנפרד כאשר בכי מציין אותם.",
         "translation_status": {
           "ar": "machine-draft",
@@ -887,7 +947,7 @@
       ],
       "notes": {
         "en": "One of a series of Broshi's estimates reproduced by Bachi; Broshi later restated his method (Broshi 1977, 1978). Other estimates for the same date are recorded separately where Bachi lists them.",
-        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باخي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باخي.",
+        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باكي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باكي.",
         "he": "אחד מסדרת אומדני ברושי שבכי העתיק; ברושי ניסח מאוחר יותר מחדש את שיטתו (ברושי 1977, 1978). אומדנים אחרים לאותו תאריך נרשמים בנפרד כאשר בכי מציין אותם.",
         "translation_status": {
           "ar": "machine-draft",
@@ -923,7 +983,7 @@
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -960,11 +1020,16 @@
           "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "in the time of David we may reckon on a fifty percent increase, while the population of the country two centuries later may have been about a million."
         }
       ],
       "notes": {
         "en": "Total over an area roughly corresponding to Mandate Palestine. Compare Broshi & Finkelstein's archaeological c. 400,000 (record broshi-finkelstein-1992-8th-century). Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "المساحة الإجمالية لمنطقة تقابل تقريبًا فلسطين الانتدابية. قارن بالأثري عند بروشي وفنكلشتاين نحو 400,000 (السجل broshi-finkelstein-1992-8th-century). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "المساحة الإجمالية لمنطقة تقابل تقريبًا فلسطين الانتدابية. قارن بالأثري عند بروشي وفنكلشتاين نحو 400,000 (السجل broshi-finkelstein-1992-8th-century). تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "סך הכול על שטח המקביל בקירוב לפלשתינה המנדטורית. השוו לאומדן הארכאולוגי של ברושי ופינקלשטיין, כ-400,000 (רשומה broshi-finkelstein-1992-8th-century). אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1083,11 +1148,21 @@
           "locator": "Table A1, p. 356, row 8",
           "quote": "Before Assyrian destruction of Israel (733-701) Baron 1,100,000-1,350,000",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel', Table 1 'Ancient Population'",
+          "quote": "the present writer ventured to propose the highly tentative Table 1, Ancient Population for the approximate population of ancient Israel and Judah between 1000 and 586 b.c.e."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 (columns 1000, 733/701, 586)",
+          "quote": "Total Israelite and Judean population 1,800,000 1,100,000–1,350,000 150,000"
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1129,7 +1204,7 @@
       ],
       "notes": {
         "en": "Bachi says the non-Broshi figures in Table A5 come from works quoted in Broshi's paper or in Appendix 2.",
-        "ar": "يقول باخي إن الأرقام غير العائدة لبروشي في الجدول A5 مأخوذة من أعمال مقتبسة في ورقة بروشي أو في الملحق 2.",
+        "ar": "يقول باكي إن الأرقام غير العائدة لبروشي في الجدول A5 مأخوذة من أعمال مقتبسة في ورقة بروشي أو في الملحق 2.",
         "he": "בכי אומר שהנתונים שאינם של ברושי בלוח A5 לקוחים מעבודות המצוטטות במאמרו של ברושי או בנספח 2.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1179,11 +1254,21 @@
           "note": "Alternative estimate for the same period: group figures only (record albright-701-judah).",
           "locator": "Table A1, p. 356, row 6",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel', Table 1 'Ancient Population'",
+          "quote": "the present writer ventured to propose the highly tentative Table 1, Ancient Population for the approximate population of ancient Israel and Judah between 1000 and 586 b.c.e."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 (columns 1000, 733/701, 586)",
+          "quote": "1000 733/701 586 Judah 450,000 300,000–350,000 150,000"
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1274,11 +1359,16 @@
           "note": "Alternative estimate for the same period: group figures only (record baron-733-701-judah).",
           "locator": "Table A1, p. 356, row 8",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "the total population of Judah may have been about 250,000, or nearly twice what it was in David's time."
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1319,7 +1409,7 @@
       ],
       "notes": {
         "en": "One of a series of Broshi's estimates reproduced by Bachi; Broshi later restated his method (Broshi 1977, 1978). Other estimates for the same date are recorded separately where Bachi lists them.",
-        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باخي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باخي.",
+        "ar": "إحدى سلسلة تقديرات بروشي التي أعاد باكي نشرها؛ وأعاد بروشي لاحقًا صياغة منهجه (بروشي 1977، 1978). وتُسجَّل تقديرات أخرى للتاريخ نفسه منفصلةً حيث يوردها باكي.",
         "he": "אחד מסדרת אומדני ברושי שבכי העתיק; ברושי ניסח מאוחר יותר מחדש את שיטתו (ברושי 1977, 1978). אומדנים אחרים לאותו תאריך נרשמים בנפרד כאשר בכי מציין אותם.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1431,15 +1521,30 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "note": "Alternative estimate for the same period: group figures only (record albright-586-judah).",
           "locator": "Table A1, p. 356, row 10",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Ancient Israel', Table 1 'Ancient Population'",
+          "quote": "the present writer ventured to propose the highly tentative Table 1, Ancient Population for the approximate population of ancient Israel and Judah between 1000 and 586 b.c.e."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 (columns 1000, 733/701, 586)",
+          "quote": "1000 733/701 586 Judah 450,000 300,000–350,000 150,000"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
       ],
       "notes": {
         "en": "Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1478,7 +1583,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356, row 10",
           "quote": "Albright less than 125,000",
           "via": "bachi-1977"
@@ -1488,11 +1593,16 @@
           "note": "Alternative estimate for the same period: group figures only (record baron-586-judah).",
           "locator": "Table A1, p. 356, row 9",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
       ],
       "notes": {
         "en": "'Less than 125,000'. Textual-tradition-based estimate (basis: estimate-textual), compiled by Bachi; to be shown separately from archaeological estimates. Bachi notes 'there are also authors who deny any credibility to Biblical figures of this census' and that other scholars find the 9th-8th century figures too high.",
-        "ar": "\"Less than 125,000\" [أقل من 125,000]. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باخي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باخي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
+        "ar": "\"Less than 125,000\" [أقل من 125,000]. تقدير قائم على التقليد النصي (الأساس: estimate-textual)، أعده باكي؛ ويُعرض منفصلًا عن التقديرات الأثرية. ويلاحظ باكي أنه \"there are also authors who deny any credibility to Biblical figures of this census\" [وثمة أيضًا كتّاب ينكرون أي مصداقية للأرقام التوراتية لهذا التعداد] وأن باحثين آخرين يرون أرقام القرنين التاسع والثامن مرتفعة جدًا.",
         "he": "\"Less than 125,000\" [פחות מ-125,000]. אומדן מבוסס מסורת טקסטואלית (בסיס: estimate-textual), שנערך בידי בכי; יש להציגו בנפרד מאומדנים ארכאולוגיים. בכי מציין ש-\"there are also authors who deny any credibility to Biblical figures of this census\" [יש גם כותבים השוללים כל אמינות מהנתונים המקראיים של מפקד זה] וכי חוקרים אחרים מוצאים את נתוני המאות ה-9–8 גבוהים מדי.",
         "translation_status": {
           "ar": "machine-draft",
@@ -1741,7 +1851,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356, row 11",
           "quote": "522 Albright ... Jewish population of the small Yehud province 20,000",
           "via": "bachi-1977"
@@ -1751,6 +1861,11 @@
           "note": "Alternative estimate for the same period: 20,000 (record carter-1999-yehud).",
           "locator": "pp. 195-205 (as cited by Finkelstein 2018, pp. 4, 57)",
           "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
       ],
       "notes": {
@@ -1914,7 +2029,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "locator": "Table A1, p. 356, row 12",
           "quote": "End of 5th century Albright 50,000",
           "via": "bachi-1977"
@@ -1924,6 +2039,11 @@
           "note": "Alternative estimate for the same period: group figures only (record baron-yehud-end-5th-century).",
           "locator": "Table A1, p. 356, row 13",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
       ]
     },
@@ -1964,12 +2084,36 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "albright-1925-administrative-divisions",
+          "ref": "albright-1960-biblical-period",
           "note": "Alternative estimate for the same period: group figures only (record albright-yehud-end-5th-century).",
           "locator": "Table A1, p. 356, row 12",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Second Commonwealth'",
+          "quote": "Even adding to these figures a number of survivors from the pre-Exilic period, the population of the Commonwealth could not have amounted to much more than 60,000–70,000."
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Second Commonwealth'",
+          "quote": "During the restoration period the recovery of Palestine's Jewish population was very slow."
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "The writer hopes to discuss the probable population of Palestine at various"
         }
-      ]
+      ],
+      "notes": {
+        "en": "Baron ties the 60,000-70,000 to the restoration period: the returning exiles listed in Ezra 2:64-65 plus survivors of the pre-exilic population, adding that the population 'in time' grew considerably. Bachi places the figure at the end of the 5th century.",
+        "ar": "يربط بارون الرقم 60,000-70,000 بفترة الاستعادة: العائدون من السبي المذكورون في عزرا 2: 64-65 إضافةً إلى الناجين من سكان ما قبل السبي، مضيفًا أن عدد السكان «مع الوقت» ازداد كثيرًا. ويضع باكي هذا الرقم في نهاية القرن الخامس.",
+        "he": "ברון קושר את 60,000–70,000 לתקופת השיבה: השבים מהגולה הרשומים בעזרא ב' 64–65 בצירוף שרידי האוכלוסייה שלפני הגלות, ומוסיף שהאוכלוסייה “עם הזמן” גדלה במידה ניכרת. בכי ממקם את המספר בסוף המאה ה-5.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     },
     {
       "id": "broshi-jerusalem-persian-period",
@@ -2235,48 +2379,6 @@
       }
     },
     {
-      "id": "conder-first-century",
-      "area": "palestine-first-century-varied",
-      "date": {
-        "year": 1,
-        "precision": "century",
-        "circa": true,
-        "latest": 66
-      },
-      "date_note": "First century CE, before the Roman-Judean wars (before 66 CE).",
-      "total": {
-        "low": 6000000,
-        "high": 6000000,
-        "best": 6000000
-      },
-      "basis": "estimate-other",
-      "method": "Not stated in Bachi's compilation.",
-      "confidence": "contested",
-      "sources": [
-        {
-          "ref": "conder-hastings-bible-dictionary",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "quote": "Condor C.R. .... 6,000,000",
-          "via": "bachi-1977"
-        },
-        {
-          "ref": "juster-1914-juifs-empire-romain",
-          "note": "Alternative estimate for the same period: at least 5,000,000 (record juster-1914-first-century).",
-          "locator": "Table A3, p. 358, no. 2 (footnote 2)",
-          "via": "bachi-1977"
-        }
-      ],
-      "notes": {
-        "en": "Date of estimate not given by Bachi. Broshi 1979 (p. 6) also cites Conder's 6,000,000 as the top of Byatt's range. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تاريخ التقدير غير مذكور عند باكي. ويذكر بروشي 1979 (ص 6) أيضًا رقم كوندر البالغ 6,000,000 بوصفه أعلى مدى بيات. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "תאריך האומדן אינו מצוין אצל בכי. ברושי 1979 (עמ' 6) מצטט גם את 6,000,000 של קונדר כקצה העליון של טווח ביאט. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
-      }
-    },
-    {
       "id": "juster-1914-first-century",
       "area": "palestine-first-century-varied",
       "date": {
@@ -2286,10 +2388,7 @@
         "latest": 66
       },
       "date_note": "First century CE, before the Roman-Judean wars (before 66 CE).",
-      "total": {
-        "low": 5000000,
-        "high": null
-      },
+      "total": null,
       "composition": [
         {
           "axis": "religion",
@@ -2303,10 +2402,11 @@
               },
               "notes": "Source’s label: “of which: Jewish population”."
             }
-          ]
+          ],
+          "partial": true
         }
       ],
-      "basis": "estimate-other",
+      "basis": "estimate-textual",
       "method": "Not stated in Bachi's compilation.",
       "confidence": "contested",
       "sources": [
@@ -2317,16 +2417,31 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "juster-1914-juifs-empire-romain",
+          "locator": "vol. I, p. 210 n. 2",
+          "quote": "dans toute la Palestine les Juifs étaient bien dans les 5 000 000"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A3, p. 358, no. 2",
+          "quote": "over 5,000,000",
+          "note": "Bachi gives over 5,000,000 as the total and 5,000,000 as the Jewish population."
+        },
+        {
+          "ref": "juster-1914-juifs-empire-romain",
+          "locator": "vol. I, p. 210 n. 2",
+          "quote": "D'après Josèphe, il y avait à Jérusalem, pendant la fête de Pâques, 3 000 000 de Juifs ... il faut au moins mettre 2 500 000 de Palestine"
+        },
+        {
+          "ref": "juster-1914-juifs-empire-romain",
+          "locator": "vol. I, p. 210 n. 2",
+          "quote": "à 700 000, est inadmissible; de même celle de E. Meyer, loc. cit. 687."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1914 in Bachi's table. Total 'over 5,000,000', of which Jews 5,000,000. Broshi 1979 cites Juster's 'more than 5,000,000 Jews'. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1914 في جدول باكي. المجموع \"over 5,000,000\"، منهم اليهود 5,000,000. يستشهد بروشي 1979 بقول جوستر \"more than 5,000,000 Jews\". هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1914 בטבלה של בכי. סך הכול \"over 5,000,000\", מהם יהודים 5,000,000. ברושי 1979 מצטט את יוסטר \"more than 5,000,000 Jews\". זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1914 in Bachi's table. Bachi's table lists a total of 'over 5,000,000', of which Jews 5,000,000. Broshi 1979 cites Juster's 'more than 5,000,000 Jews'. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Juster (I p. 210 n. 2) derives about 5,000,000 Jews in Palestine from Josephus's Passover crowd and Galilee figures and explicitly rejects Harnack's 700,000 and Eduard Meyer's lower figure as 'inadmissible'. He gives no total population.",
+        "ar": "تقدير مؤرَّخ بسنة 1914 في جدول باكي. يورد جدول باكي مجموعًا «يزيد على 5,000,000»، منهم اليهود 5,000,000. يستشهد بروشي 1979 بقول جوستر «أكثر من 5,000,000 يهودي». واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يستخرج جوستر (ج 1 ص 210 هـ 2) نحو 5,000,000 يهودي في فلسطين من حشود الفصح التي يذكرها يوسيفوس ومن أرقام الجليل، ويرفض صراحةً رقم هارناك 700,000 ورقم إدوارد ماير الأدنى باعتبارهما «غير مقبولين». ولا يعطي مجموعًا لعدد السكان.",
+        "he": "אומדן המתוארך ל-1914 בלוח של בכי. הלוח של בכי מציג סך הכול של “למעלה מ-5,000,000”, מתוכם יהודים 5,000,000. ברושי 1979 מצטט את יוסטר: “יותר מ-5,000,000 יהודים”. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. יוסטר (כרך א' עמ' 210 הערה 2) גוזר כ-5,000,000 יהודים בפלשתינה מהמון עולי הרגל לפסח אצל יוספוס ומהמספרים לגבי הגליל, ודוחה במפורש את 700,000 של הרנק ואת המספר הנמוך יותר של אדוארד מאייר כ“בלתי קבילים”. הוא אינו נותן סך אוכלוסייה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2358,16 +2473,26 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47 (London: Gollancz edition)",
+          "quote": "states that latest archaeological investigations indicate that the population of Palestine was in excess of four million."
+        },
+        {
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47",
+          "quote": "Dr. Maisler, another"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1944 in Bachi's table. Estimate of B. Mazar as reported by Lowdermilk (1944, p. 47), which Bachi cites; Mazar's own publication not identified. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1944 في جدول باكي. تقدير ب. مازار كما أورده لاودرميلك (1944، ص 47)، وهو ما يستشهد به باكي؛ ولم يُحدَّد منشور مازار نفسه. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1944 בטבלה של בכי. אומדן של ב. מזר כפי שדווח אצל לאודרמילק (1944, עמ' 47), שבכי מצטט; הפרסום של מזר עצמו לא אותר. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1944 in Bachi's table. Estimate of B. Mazar as reported by Lowdermilk (1944, p. 47), which Bachi cites; Mazar's own publication not identified. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Lowdermilk (1944, p. 47) names the scholar as 'Dr. Maisler' (Benjamin Mazar's earlier surname) and gives no reference for the statement.",
+        "ar": "تقدير مؤرَّخ بسنة 1944 في جدول باكي. هو تقدير ب. مازار كما أورده لاودرميلك (1944، ص 47)، وقد استشهد به باكي؛ ولم يُحدَّد منشور مازار نفسه. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يسمّي لاودرميلك (1944، ص 47) الباحث «الدكتور ميزلر» (اسم بنيامين مازار السابق) ولا يذكر مرجعًا لهذا القول.",
+        "he": "אומדן המתוארך ל-1944 בלוח של בכי. אומדן של ב' מזר כפי שדווח אצל לאודרמילק (1944, עמ' 47), שבכי מצטט; הפרסום של מזר עצמו לא אותר. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. לאודרמילק (1944, עמ' 47) מכנה את החוקר “ד״ר מייזלר” (שמו הקודם של בנימין מזר) ואינו מציין מקור לדבריו.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2417,10 +2542,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -2472,10 +2597,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -2526,10 +2651,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -2568,16 +2693,26 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 48 (London: Gollancz edition)",
+          "quote": "a figure of three million inhabitants for Palestine and Trans-Jordan at the beginning of the Christian era would be acceptable to the most conservative sociologists and archaeologists."
+        },
+        {
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 48",
+          "quote": "This would indicate a population of 2,500,000 for the present Mandate area, and at least one million for Trans-Jordan."
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1944 in Bachi's table. Lowdermilk was a soil conservationist writing on land capacity, not a historian. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1944 في جدول باكي. كان لاودرميلك خبيرًا في صون التربة يكتب عن قدرة الأرض على الاستيعاب، وليس مؤرخًا. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1944 בטבלה של בכי. לאודרמילק היה מומחה לשימור קרקע שכתב על יכולת הנשיאה של הקרקע, ולא היסטוריון. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1944 in Bachi's table. Lowdermilk was a soil conservationist writing on land capacity, not a historian. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Lowdermilk's three million (1944, pp. 47-48) covers Palestine and Trans-Jordan together. He reaches it from a density of about 250 per square mile (taken from F. C. Grant), giving 2,500,000 for the Mandate area and at least one million for Trans-Jordan, and then rounds down 'to err on the side of conservatism'.",
+        "ar": "تقدير مؤرَّخ بسنة 1944 في جدول باكي. كان لاودرميلك خبيرًا في صون التربة يكتب عن قدرة الأرض على الاستيعاب، وليس مؤرخًا. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. أما الثلاثة ملايين عند لاودرميلك (1944، ص 47-48) فتشمل فلسطين وشرق الأردن معًا. وهو يصل إليها من كثافة نحو 250 للميل المربع (مأخوذة من ف. ك. غرانت)، فتعطي 2,500,000 لمنطقة الانتداب ومليونًا على الأقل لشرق الأردن، ثم يقرّبها إلى الأدنى «تحاشيًا للمبالغة وميلًا إلى التحفظ».",
+        "he": "אומדן המתוארך ל-1944 בלוח של בכי. לאודרמילק היה מומחה לשימור קרקע שכתב על כושר הנשיאה של הארץ, ולא היסטוריון. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. שלושת המיליונים של לאודרמילק (1944, עמ' 47–48) כוללים את ארץ ישראל ועבר הירדן יחד. הוא מגיע אליהם מצפיפות של כ-250 למייל רבוע (נלקחה מ-פ' ק' גרנט), המניבה 2,500,000 לשטח המנדט ולפחות מיליון לעבר הירדן, ולאחר מכן מעגל כלפי מטה “כדי לשגות לצד השמרנות”.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2628,10 +2763,9 @@
           "via": "broshi-1979-western-palestine-roman-byzantine"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "baron-ej-2007-population",
+          "locator": "section 'Second Commonwealth'",
+          "quote": "shortly before the fall of Jerusalem the world Jewish population exceeded 8,000,000, of whom probably not more than 2,350,000–2,500,000 lived in Palestine."
         }
       ],
       "notes": {
@@ -2684,16 +2818,21 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47 (London: Gollancz edition)",
+          "quote": "Professor Salo Baron of Columbia University estimates Palestine's population at the time of Christ as between 2,500,000 and 3,000,000 but he admits that his estimate is conservative.",
+          "note": "Independent report of Baron's total figure; Baron's 1952 book itself was not seen."
+        },
+        {
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47",
+          "quote": "Professor Salo Baron of Columbia University estimates"
         }
       ],
       "notes": {
-        "en": "Estimate dated 1952 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1952 في جدول باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1952 בטבלה של בכי. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1952 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Lowdermilk (1944, p. 47) already reports Baron's 2,500,000-3,000,000 for Palestine at the time of Christ, so the figure predates the 1952 second edition of Baron's Social and Religious History.",
+        "ar": "تقدير مؤرَّخ بسنة 1952 في جدول باكي. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يورد لاودرميلك (1944، ص 47) أصلًا رقم بارون 2,500,000-3,000,000 لفلسطين في زمن المسيح، فالرقم أسبق من الطبعة الثانية (1952) من كتاب بارون «Social and Religious History».",
+        "he": "אומדן המתוארך ל-1952 בלוח של בכי. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. לאודרמילק (1944, עמ' 47) כבר מדווח על 2,500,000–3,000,000 של ברון לפלשתינה בימי ישו, ולכן המספר קדם למהדורה השנייה (1952) של ספרו של ברון Social and Religious History.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2725,16 +2864,31 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "socin-encyclopaedia-biblica",
+          "locator": "vol. III, art. 'Palestine', § 21, col. 3550",
+          "quote": "The number 2½ to 3 millions may indeed be taken as a maximum; the population can hardly ever have been more than four times its present strength, which is estimated at 650,000 souls."
+        },
+        {
+          "ref": "socin-encyclopaedia-biblica",
+          "locator": "§ 21, col. 3550",
+          "quote": "There are no trustworthy estimates of the number of inhabitants in the country at any period of its history."
+        },
+        {
+          "ref": "socin-encyclopaedia-biblica",
+          "locator": "§ 21, col. 3550",
+          "quote": "Thus, in the most flourishing period, about 250 to 300 inhabitants would go to the square mile"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Date of estimate not given by Bachi. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تاريخ التقدير غير مذكور عند باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "תאריך האומדן אינו מצוין אצל בכי. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Date of estimate not given by Bachi. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Socin (Encyclopaedia Biblica vol. III, 1902, col. 3550, not col. 3520 as in Bachi) gives 2½-3 million as a maximum for the country's 'most flourishing period', derived from the census figures in Numbers (about 2½ million) and from four times the present 650,000; he does not date it to the first century and opens by saying there are 'no trustworthy estimates' for any period.",
+        "ar": "لم يذكر باكي تاريخ التقدير. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يعطي سوسين (Encyclopaedia Biblica، المجلد الثالث، 1902، العمود 3550، وليس العمود 3520 كما عند باكي) 2½-3 ملايين حدًّا أقصى لـ«أزهى فترات» البلد، مشتقًّا من أرقام التعداد في سفر العدد (نحو 2½ مليون) ومن أربعة أضعاف الرقم الحالي 650,000؛ ولا يؤرخه بالقرن الأول، ويفتتح كلامه بالقول إنه لا توجد «تقديرات جديرة بالثقة» لأي فترة.",
+        "he": "תאריך האומדן אינו נתון אצל בכי. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. סוצין (Encyclopaedia Biblica, כרך III, 1902, עמודה 3550, ולא עמודה 3520 כפי שאצל בכי) נותן 2½–3 מיליון כמקסימום ל“תקופת השגשוג הגדולה ביותר” של הארץ, הנגזר ממספרי המפקד בספר במדבר (כ-2½ מיליון) וכפול ארבע של 650,000 הנוכחיים; הוא אינו מתארך אותו למאה הראשונה, ופותח באמירה שאין “אומדנים מהימנים” לאף תקופה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2773,10 +2927,10 @@
           "via": "broshi-1979-western-palestine-roman-byzantine"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -2815,16 +2969,26 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47 (London: Gollancz edition)",
+          "quote": "Dr. Nelson Glueck, guided by his own archaeological discoveries, estimates the population of Palestine during that era at about 2,500,000, which he also considers a conservative figure."
+        },
+        {
+          "ref": "lowdermilk-1944-palestine-land-of-promise",
+          "locator": "p. 47 n. 2",
+          "quote": "Letter to the American Economic Committee for Palestine"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1944 in Bachi's table. Estimate of N. Glueck as reported by Lowdermilk (1944, p. 47), which Bachi cites. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1944 في جدول باكي. تقدير ن. غلوك كما أورده لاودرميلك (1944، ص 47)، وهو ما يستشهد به باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1944 בטבלה של בכי. אומדן של נ. גליק כפי שדווח אצל לאודרמילק (1944, עמ' 47), שבכי מצטט. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1944 in Bachi's table. Estimate of N. Glueck as reported by Lowdermilk (1944, p. 47), which Bachi cites. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. According to Lowdermilk's footnote (1944, p. 47), Glueck gave this figure in a letter to the American Economic Committee for Palestine dated 16 December 1941; Glueck called it conservative.",
+        "ar": "تقدير مؤرَّخ بسنة 1944 في جدول باكي. هو تقدير ن. غلوك كما أورده لاودرميلك (1944، ص 47)، وقد استشهد به باكي. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. وبحسب حاشية لاودرميلك (1944، ص 47)، أعطى غلوك هذا الرقم في رسالة إلى اللجنة الاقتصادية الأمريكية من أجل فلسطين مؤرخة في 16 كانون الأول/ديسمبر 1941؛ ووصفه غلوك بأنه متحفظ.",
+        "he": "אומדן המתוארך ל-1944 בלוח של בכי. אומדן של נ' גלוק כפי שדווח אצל לאודרמילק (1944, עמ' 47), שבכי מצטט. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. לפי הערת השוליים של לאודרמילק (1944, עמ' 47), גלוק מסר מספר זה במכתב לוועדה הכלכלית האמריקנית לפלשתינה מ-16 בדצמבר 1941; גלוק כינה אותו שמרני.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2857,10 +3021,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -2884,9 +3048,8 @@
       },
       "date_note": "First century CE, before the Roman-Judean wars (before 66 CE).",
       "total": {
-        "low": 2000000,
-        "high": 2000000,
-        "best": 2000000
+        "low": null,
+        "high": 2000000
       },
       "basis": "estimate-other",
       "method": "Not stated in Bachi's compilation.",
@@ -2899,16 +3062,31 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "beloch-1886-bevoelkerung",
+          "locator": "p. 248",
+          "quote": "Die Bevölkerung von Palaestina unter Nero kann demnach 2 Millionen kaum erreicht haben."
+        },
+        {
+          "ref": "beloch-1886-bevoelkerung",
+          "locator": "p. 243",
+          "quote": "Palaestina in den auf Bl. III desselben Atlas angegebenen Grenzen, also einschliesslich Batanaea und Auranitis, aber ausschliesslich Idumaea"
+        },
+        {
+          "ref": "beloch-1886-bevoelkerung",
+          "locator": "p. 248",
+          "quote": "Wenn wir die so für Palaestina gefundene Volksdichtigkeit von 67 auf 1 qkm auf ganz Syrien anwenden"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1886 in Bachi's table. Bachi n. 14: 'This figure includes Transjordan territories.' Broshi 1979 instead says the c. 2,500,000 of Baron and Avi-Yonah 'more or less coincides with Beloch's classical estimation (1886: 429-30)' - the two secondary sources disagree on Beloch's figure. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1886 في جدول باكي. باكي، هـ 14: \"This figure includes Transjordan territories.\" أما بروشي 1979 فيقول بدلًا من ذلك إن الرقم التقريبي 2,500,000 لبارون وأفي يونا \"more or less coincides with Beloch's classical estimation (1886: 429-30)\" - فالمصدران الثانويان يختلفان في رقم بيلوخ. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1886 בטבלה של בכי. בכי, הערה 14: \"This figure includes Transjordan territories.\" ברושי 1979 אומר לעומת זאת שה-2,500,000 בקירוב של ברון ואבי-יונה \"more or less coincides with Beloch's classical estimation (1886: 429-30)\" - שני המקורות המשניים חלוקים לגבי הנתון של בלוך. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1886 in Bachi's table. Bachi n. 14: 'This figure includes Transjordan territories.' Broshi 1979 instead says the c. 2,500,000 of Baron and Avi-Yonah 'more or less coincides with Beloch's classical estimation (1886: 429-30)' - the two secondary sources disagree on Beloch's figure. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Beloch (1886, pp. 243-248) defines Palestine as 29,600 sq km including the whole East-Jordan land (Batanaea, Auranitis, Peraea) but not Idumaea, and puts its population under Nero (54-68 CE) at hardly 2 million, about 67 per sq km. The pages Broshi 1979 cites for Beloch (429-430) concern northern Italy in this edition, so Broshi's reading of Beloch as about 2,500,000 is not supported.",
+        "ar": "تقدير مؤرَّخ بسنة 1886 في جدول باكي. ملاحظة باكي 14: «يشمل هذا الرقم أراضي شرق الأردن». أما بروشي 1979 فيقول بدلًا من ذلك إن نحو 2,500,000 عند بارون وأفي يونه «يتطابق إلى حد ما مع تقدير بيلوخ الكلاسيكي (1886: 429-30)» - فالمصدران الثانويان يختلفان في رقم بيلوخ. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يحدد بيلوخ (1886، ص 243-248) فلسطين بمساحة 29,600 كم² تشمل كامل بلاد شرق الأردن (باتانيا وأورانيتس وبيرايا) دون أدومية، ويضع عدد سكانها في عهد نيرون (54-68 م) بما لا يكاد يبلغ مليونين، أي نحو 67 للكيلومتر المربع. أما الصفحات التي يستشهد بها بروشي 1979 لبيلوخ (429-430) فتتعلق في هذه الطبعة بشمال إيطاليا، ولذلك فإن قراءة بروشي لبيلوخ بنحو 2,500,000 غير مدعومة.",
+        "he": "אומדן המתוארך ל-1886 בלוח של בכי. הערה 14 של בכי: “מספר זה כולל שטחי עבר הירדן.” ברושי 1979 אומר לעומת זאת שהמספר כ-2,500,000 של ברון ושל אבי-יונה “חופף פחות או יותר את האומדן הקלאסי של בלוך (1886: 429–30)” - שני המקורות המשניים חלוקים לגבי מספרו של בלוך. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. בלוך (1886, עמ' 243–248) מגדיר את פלשתינה כ-29,600 קמ״ר הכוללים את כל ארץ עבר הירדן (בטנאה, אורניטיס, פראה) אך לא אדומיאה, וקובע את אוכלוסייתה בימי נירון (54–68 לספירה) בקושי 2 מיליון, כ-67 לקמ״ר. העמודים שברושי 1979 מציין אצל בלוך (429–430) עוסקים במהדורה זו בצפון איטליה, ולכן קריאתו של ברושי את בלוך כ-2,500,000 אינה נתמכת.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2926,9 +3104,9 @@
       },
       "date_note": "First century CE, before the Roman-Judean wars (before 66 CE).",
       "total": {
-        "low": 2000000,
-        "high": 2000000,
-        "best": 2000000
+        "low": 1500000,
+        "high": 1500000,
+        "best": 1500000
       },
       "basis": "estimate-other",
       "method": "Not stated in Bachi's compilation.",
@@ -2941,16 +3119,31 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "meyer-1909-bevoelkerung",
+          "locator": "vol. 2 (3rd ed., 1909), p. 904",
+          "quote": "Man wird sie vor dem Ausbruch des römischen Krieges auf rund 1½ Millionen ansetzen können (Beloch schätzt sie etwas zu hoch)."
+        },
+        {
+          "ref": "meyer-1909-bevoelkerung",
+          "locator": "p. 904",
+          "quote": "Man wird sie vor dem Ausbruch des römischen Krieges auf rund 1½ Millionen ansetzen können"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A3, p. 358, no. 15",
+          "quote": "Meyer E.K.",
+          "note": "Bachi lists 2,000,000, dated 1910."
+        },
+        {
+          "ref": "meyer-1909-bevoelkerung",
+          "locator": "p. 904",
+          "quote": "In hellenistischer und römischer Zeit hatte Palästina einen beträchtlich größeren Umfang als vorher"
         }
       ],
       "notes": {
-        "en": "Estimate dated 1910 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1910 في جدول باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1910 בטבלה של בכי. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1910 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Eduard Meyer ('Die Bevölkerung des Altertums', Handwörterbuch der Staatswissenschaften, 2nd ed. 1899 and 3rd ed. 1909) puts Palestine before the outbreak of the Roman war at about 1½ million (rund 1½ Millionen), explicitly below Beloch's estimate; he notes that Palestine was larger in Hellenistic and Roman times than before, and that Josephus's data are not very reliable.",
+        "ar": "تقدير مؤرَّخ بسنة 1910 في جدول باكي. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يقدّر إدوارد ماير («Die Bevölkerung des Altertums»، Handwörterbuch der Staatswissenschaften، الطبعة الثانية 1899 والثالثة 1909) عدد سكان فلسطين قبل اندلاع الحرب الرومانية بنحو مليون ونصف («rund 1½ Millionen»)، أي أدنى صراحةً من تقدير بيلوخ؛ ويلاحظ أن فلسطين كانت في العصرين الهلنستي والروماني أكبر مما كانت قبلهما، وأن معطيات يوسيفوس ليست موثوقة جدًا.",
+        "he": "אומדן המתוארך ל-1910 בלוח של בכי. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. אדוארד מאייר (“Die Bevölkerung des Altertums”, Handwörterbuch der Staatswissenschaften, מהדורה 2 1899 ומהדורה 3 1909) מעריך את פלשתינה לפני פרוץ המלחמה הרומית בכ-1½ מיליון (“rund 1½ Millionen”), במפורש מתחת לאומדן של בלוך; הוא מציין שפלשתינה הייתה גדולה יותר בתקופה ההלניסטית והרומית מאשר קודם לכן, ושנתוני יוספוס אינם אמינים במיוחד.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2982,16 +3175,31 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "grant-fc-1926-economic-background",
+          "locator": "p. 83 and n. 3",
+          "quote": "It may not be unjust to assume, therefore, that in the first century the population of Palestine numbered between two and three millions."
+        },
+        {
+          "ref": "grant-fc-1926-economic-background",
+          "locator": "p. 83 n. 3",
+          "quote": "It might be safer to say 1½–2½ millions"
+        },
+        {
+          "ref": "grant-fc-1926-economic-background",
+          "locator": "pp. 82-83",
+          "quote": "they must be greatly exaggerated —and Josephus still more so"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1925 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1925 في جدول باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1925 בטבלה של בכי. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1925 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. F. C. Grant (1926, p. 83) gives 'between two and three millions' in his text and adds in n. 3 that 'it might be safer to say 1½–2½ millions', the range recorded here. He bases it on Socin's ceiling and on modern Palestine's 650,000, and rejects Josephus's figures as 'greatly exaggerated'.",
+        "ar": "تقدير مؤرَّخ بسنة 1925 في جدول باكي. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. يعطي ف. ك. غرانت (1926، ص 83) «بين مليونين وثلاثة ملايين» في متنه، ويضيف في الحاشية 3 أنه «قد يكون أسلم القول 1½-2½ مليون»، وهو النطاق المسجَّل هنا. ويبني ذلك على سقف سوسين وعلى 650,000 لفلسطين الحديثة، ويرفض أرقام يوسيفوس بوصفها «مبالغًا فيها كثيرًا».",
+        "he": "אומדן המתוארך ל-1925 בלוח של בכי. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. פ' ק' גרנט (1926, עמ' 83) נותן בגוף הטקסט “בין שני מיליון לשלושה”, ומוסיף בהערה 3 ש“אולי בטוח יותר לומר 1½–2½ מיליון”, הטווח הרשום כאן. הוא מבסס זאת על תקרת סוצין ועל 650,000 של פלשתינה המודרנית, ודוחה את מספרי יוספוס כ“מוגזמים מאוד”.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -3041,10 +3249,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3095,10 +3303,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3137,16 +3345,26 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "the population may have been about a million and a half, not including half a million residents of Eastern Palestine (Transjordan)."
+        },
+        {
+          "ref": "albright-1925-administrative-divisions",
+          "locator": "p. 25 n. 15",
+          "quote": "At the opening of the Christian era, when Palestine reached the acme of commercial, industrial and agricultural development"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
-        "en": "Estimate dated 1925 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1925 في جدول باكي. هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1925 בטבלה של בכי. זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1925 in Bachi's table. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Albright's 1,500,000 is for Western Palestine 'at the opening of the Christian era' and excludes about half a million in Transjordan (Albright 1925, p. 25 n. 15).",
+        "ar": "تقدير مؤرَّخ بسنة 1925 في جدول باكي. واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. إن 1,500,000 عند أولبرايت هو لفلسطين الغربية «في مطلع العصر المسيحي»، ويستثني نحو نصف مليون في شرق الأردن (أولبرايت 1925، ص 25 هـ 15).",
+        "he": "אומדן המתוארך ל-1925 בלוח של בכי. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. 1,500,000 של אולברייט הם לארץ ישראל המערבית “בפתיחת העידן הנוצרי” ואינם כוללים כחצי מיליון בעבר הירדן (אולברייט 1925, עמ' 25 הערה 15).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -3196,10 +3414,20 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "derwacter-1930-preparing-the-way",
+          "locator": "p. 115",
+          "quote": "A fair estimate of the Jewish population of Palestine, considering geographical, archeological and historical data, will be about one million"
+        },
+        {
+          "ref": "derwacter-1930-preparing-the-way",
+          "locator": "p. 115",
+          "quote": "in addition there were in Palestine perhaps a half-million non-Jews"
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3251,10 +3479,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3306,16 +3534,37 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "harnack-1906-mission-ausbreitung",
+          "locator": "vol. I (2nd ed., 1906), p. 7",
+          "quote": "rechnet man auf Palästina etwa 700000 Juden"
+        },
+        {
+          "ref": "harnack-1924-mission-ausbreitung",
+          "locator": "vol. I (4th ed., 1924), pp. 12-13",
+          "quote": "rechnet man auf Palästina etwa 500 000 Juden"
+        },
+        {
+          "ref": "juster-1914-juifs-empire-romain",
+          "locator": "vol. I, p. 210 n. 2",
+          "quote": "L'évaluation de Harnack ... à 700 000, est inadmissible",
+          "note": "Juster cites the 2nd edition, vol. I p. 7."
+        },
+        {
+          "ref": "derwacter-1930-preparing-the-way",
+          "locator": "p. 115",
+          "quote": "Harnack conservatively estimates the Jewish population of Palestine at 500,000 on the basis of the figures of Baedeker for modern Palestine",
+          "note": "Derwacter cites the 4th edition, vol. I p. 12."
+        },
+        {
+          "ref": "harnack-1924-mission-ausbreitung",
+          "locator": "pp. 12-13",
+          "quote": "heute leben dort etwa 600(650)000 Menschen; s. Bädekers Palästina, 1900"
         }
       ],
       "notes": {
-        "en": "Estimate dated 1915 in Bachi's table. Only a Jewish population figure is listed. Broshi 1979 says Harnack worked by analogy with the population 'at the beginning of the present century'. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million.",
-        "ar": "تقدير مؤرَّخ بعام 1915 في جدول باكي. لم يُدرج سوى رقم عدد السكان اليهود. يقول بروشي 1979 إن هارناك عمل بالقياس على عدد السكان \"at the beginning of the present century\". هو واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، \"to a considerable extent\" من بيات 1973). باكي: 17 من أصل 24 تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ وتختلف الأطر الجغرافية بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون.",
-        "he": "אומדן שתאריכו 1915 בטבלה של בכי. רשום רק נתון על האוכלוסייה היהודית. ברושי 1979 אומר שהרנק פעל באנלוגיה לאוכלוסייה \"at the beginning of the present century\". זהו אחד מ-24 אומדנים למאה הראשונה שאסף בכי (טבלה A3, \"to a considerable extent\" מתוך ביאט 1973). בכי: 17 מתוך ה-24 נעים בין 1.5 ל-3.5 מיליון, והחציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין המחברים. ברושי 1979 דוחה אומדנים כאלה וטוען שהאוכלוסייה לא עלתה לעולם על כ-1 מיליון (רשומה broshi-1979-roman-byzantine-maximum); גם שוורץ 2006 מציין כ-1 מיליון.",
+        "en": "Estimate dated 1915 in Bachi's table. Only a Jewish population figure is listed. Broshi 1979 says Harnack worked by analogy with the population 'at the beginning of the present century'. One of 24 first-century estimates compiled by Bachi (Table A3, 'to a considerable extent' from Byatt 1973). Bachi: 17 of the 24 fall between 1.5 and 3.5 million, median about 2.5 million; geographic frames differ between authors. Broshi 1979 rejects such figures and argues the population never exceeded c. 1 million (record broshi-1979-roman-byzantine-maximum); Schwartz 2006 also gives about 1 million. Harnack's figure changed between editions: about 700,000 Jews in Palestine in the 2nd edition (1906, vol. I p. 7, the figure Juster rejected in 1914) and about 500,000 in the 4th edition (1924, vol. I pp. 12-13, cited by Derwacter 1930). Both are reckoned by comparison with the present population of Palestine (600,000-650,000, from Baedeker 1900). Bachi dates the 700,000 to 1915 (3rd edition, not seen) but cites the 1924 edition.",
+        "ar": "تقدير مؤرَّخ بسنة 1915 في جدول باكي. لا يُدرج سوى رقم لعدد السكان اليهود. يقول بروشي 1979 إن هارناك اعتمد القياس على عدد السكان «في مطلع القرن الحالي». واحد من 24 تقديرًا للقرن الأول جمعها باكي (الجدول A3، «إلى حد كبير» من بيات 1973). باكي: 17 من التقديرات الأربعة والعشرين تقع بين 1.5 و3.5 مليون، والوسيط نحو 2.5 مليون؛ والأطر الجغرافية تختلف بين المؤلفين. يرفض بروشي 1979 هذه الأرقام ويرى أن عدد السكان لم يتجاوز قط نحو مليون (السجل broshi-1979-roman-byzantine-maximum)؛ ويذكر شفارتس 2006 أيضًا نحو مليون. تغيّر رقم هارناك بين الطبعات: نحو 700,000 يهودي في فلسطين في الطبعة الثانية (1906، ج 1 ص 7، وهو الرقم الذي رفضه جوستر عام 1914) ونحو 500,000 في الطبعة الرابعة (1924، ج 1 ص 12-13، استشهد بها ديرواكتر 1930). وكلاهما محسوب بالمقارنة مع عدد سكان فلسطين الحالي (600,000-650,000، عن بيديكر 1900). ويؤرخ باكي الرقم 700,000 بسنة 1915 (الطبعة الثالثة، لم تُطَّلع) لكنه يستشهد بطبعة 1924.",
+        "he": "אומדן המתוארך ל-1915 בלוח של בכי. מופיע רק מספר האוכלוסייה היהודית. ברושי 1979 אומר שהרנק פעל באנלוגיה לאוכלוסייה “בתחילת המאה הנוכחית”. אחד מ-24 אומדנים למאה הראשונה שאסף בכי (לוח A3, “במידה רבה” מתוך ביאט 1973). בכי: 17 מתוך 24 נופלים בין 1.5 ל-3.5 מיליון, החציון כ-2.5 מיליון; המסגרות הגאוגרפיות שונות בין החוקרים. ברושי 1979 דוחה מספרים כאלה וטוען שהאוכלוסייה לא עלתה מעולם על כ-1 מיליון (הרשומה broshi-1979-roman-byzantine-maximum); שוורץ 2006 מציין אף הוא כ-1 מיליון. מספרו של הרנק השתנה בין המהדורות: כ-700,000 יהודים בפלשתינה במהדורה השנייה (1906, כרך א' עמ' 7, המספר שיוסטר דחה ב-1914) וכ-500,000 במהדורה הרביעית (1924, כרך א' עמ' 12–13, מצוטטת אצל דרווקטר 1930). שניהם מחושבים בהשוואה לאוכלוסייה הנוכחית של פלשתינה (600,000–650,000, מתוך בדקר 1900). בכי מתארך את ה-700,000 ל-1915 (מהדורה שלישית, לא נראתה) אך מצטט את מהדורת 1924.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -3360,10 +3609,10 @@
           "via": "bachi-1977"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3422,10 +3671,10 @@
           "via": "broshi-1979-western-palestine-roman-byzantine"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {
@@ -3464,10 +3713,10 @@
           "via": "broshi-1979-western-palestine-roman-byzantine"
         },
         {
-          "ref": "conder-hastings-bible-dictionary",
-          "note": "Alternative estimate for the same period: 6,000,000 (record conder-first-century).",
-          "locator": "Table A3, p. 358, no. 1 (footnote 1)",
-          "via": "bachi-1977"
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7 (Conclusion)",
+          "quote": "the population of Palestine in antiquity did not exceed a million persons ... this was more or less the size of the population in the peak period-the late Byzantine period, around A.D. 600.",
+          "note": "Alternative estimate for the same period: at most about 1,000,000 (record broshi-1979-roman-byzantine-maximum)."
         }
       ],
       "notes": {

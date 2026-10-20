@@ -329,3 +329,36 @@ Gaps:
 - Three territory slices ended after, or less precisely than, their polity: Alexander's empire, the late Ptolemaic kingdom and Agrippa II's kingdom. Their end dates now match the polity records.
 - The check for overlapping territory slices no longer counts a handover within the same month or year: when a slice ends in, say, April 1253 and the next starts that month, the map already shows the newer one. 69 warnings of this kind are gone. The two overlaps that remain are deliberate: the Mamluk hold on southern Palestine in 1253–56 and the Ottoman hold on Sinai in 1914–17 are drawn as separate slices beside the main ones.
 - Two first-pass Ottoman slices for December 1917 – October 1918 covered the same area with the same dates, so both were drawn. They are now one slice, keeping both sets of sources and notes. The Fatimid slice after the loss of Ascalon now starts on 22 August 1153, the day Ascalon fell.
+
+### Population estimates checked against the originals (round H3)
+
+Many ancient population figures had been seen only as quoted in Bachi's 1977 survey. The originals that are public domain have now been read in library scans:
+- Albright (1925, *Journal of the Palestine Oriental Society*)
+- Conder (Hastings' *Dictionary of the Bible*, 1900)
+- Socin (*Encyclopaedia Biblica*, 1902)
+- Juster (1914)
+- Beloch (1886)
+- Eduard Meyer (1909)
+- Harnack (2nd and 4th editions)
+- F. C. Grant (1926)
+- Derwacter (1930)
+- Lowdermilk (1944), in a copy that is not linked
+- Baron's own Encyclopaedia Judaica article
+
+26 records now quote the original directly.
+
+What reading the originals changed:
+- **Eduard Meyer:** about 1,500,000 ("rund 1½ Millionen"), not 2,000,000. He says Beloch's figure is somewhat too high.
+- **Beloch:** "hardly 2 million", for an area that includes Transjordan, so the figure is now an upper bound. The pages Broshi (1979) cites for Beloch are about northern Italy.
+- **Juster:** gives only a Jewish figure (about 5,000,000, derived from Josephus). The "over 5,000,000" total was Bachi's inference and has been removed.
+- **Conder:** made no estimate for the first century. Bachi's "6,000,000" is Conder's statement that the fully cultivated land could support ten times the 600,000 people of his own day. The record was removed. The other first-century estimates had listed it as their opposing position; they now cite Broshi (1979), who argues the population never exceeded about 1 million.
+- **Albright:** his 1925 article has no figures for Solomon, 586 BCE or Persian Yehud, so those records now cite his 1960 chapter, still as quoted by Bachi.
+- **Context added in notes:**
+  - Albright's 600,000 includes the Transjordanian tribes.
+  - Grant's text gives 2–3 million; his footnote's "safer" range is 1½–2½ million.
+  - Lowdermilk's 3 million covers Palestine and Transjordan together.
+  - Harnack gives 700,000 in the 1906 edition but 500,000 in the 1924 edition.
+  - Socin's figure is an undated ceiling for the country's "most flourishing period".
+- **Links:** the public-domain scans are now linked.
+
+Not resolved (still marked "seen quoted"): Broshi's Jerusalem series (1975), Avi-Yonah (1947, 1966, 1973), Albright (1960), Baron's book (1972), Carter, Lipschits, Geva, Weinberg, the Late Bronze Age estimates (Finkelstein, Bunimovitz, Broshi and Gophna), Byatt, McCown, Poliak, and several popular works. These are in copyright with no open copy. The open surveys that report these figures (Finkelstein 2018, Lipschits 2009, Kennedy 2013) are kept as the way they were seen. They are not cited as if the originals had been checked.
