@@ -11,10 +11,16 @@ import { SourceButton } from '../panels/Sources';
 import { useStore } from '../state/store';
 import type { EraScale } from '../time/eraScale';
 import { formatDate } from '../time/format';
+import { fromT } from '../time/years';
 
-const H = 120;
-const PAD_TOP = 8;
-const PAD_BOTTOM = 14;
+/** Chart height: tall enough to tell figures apart (phones get a little less). */
+const H_WIDE = 230;
+const H_PHONE = 190;
+const PAD_TOP = 10;
+const PAD_BOTTOM = 18;
+/** In "this period" view, room for the year axis at the bottom and the value labels at the side. */
+const AXIS_H = 18;
+const GUTTER = 40;
 /** Points further apart than this (years) are not joined by lines or areas, so long gaps (e.g. across the 1947–49 war) are not drawn as smooth change. */
 const MAX_GAP = 15;
 
@@ -22,15 +28,17 @@ type Axis = 'religion' | 'ethnicity' | 'population-group';
 /** Synthetic layer: the part of the total that the source does not break down by group. */
 const REST = '_rest';
 
-function useWidth(ref: React.RefObject<HTMLElement | null>): number {
-  const [w, setW] = useState(800);
+/** Width of the element, re-measured whenever it appears (the chart starts hidden on small screens). */
+function useWidth(ref: React.RefObject<HTMLElement | null>, visible: boolean): number {
+  const [w, setW] = useState(() => (typeof window === 'undefined' ? 800 : Math.min(800, window.innerWidth - 32)));
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
+    setW(el.clientWidth);
     const ro = new ResizeObserver(([e]) => e && setW(e.contentRect.width));
     ro.observe(el);
     return () => ro.disconnect();
-  }, [ref]);
+  }, [ref, visible]);
   return w;
 }
 
@@ -40,10 +48,14 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
   // Stacked areas on a log axis misrepresent the parts, so only the total view can be logarithmic.
   const chartLog = logSetting && chartMode === 'total';
   const wrap = useRef<HTMLDivElement>(null);
-  const W = useWidth(wrap);
+  const W = useWidth(wrap, chartOpen);
   const rtl = isRtl(lang);
   const [hover, setHover] = useState<PopulationPoint | null>(null);
   const [showTable, setShowTable] = useState(false);
+  // "all": aligned with the timeline above; "period": the current era and its neighbours, spread out on a year axis.
+  const [zoom, setZoom] = useState<'all' | 'period'>(() => (typeof window !== 'undefined' && window.innerWidth < 760 ? 'period' : 'all'));
+  const H = W < 600 ? H_PHONE : H_WIDE;
+  const plotBottom = zoom === 'period' ? H - AXIS_H : H;
   const areaNames = useMemo(() => new Map(data.areas.map((a) => [a.id, a.name])), [data]);
   const groupNames = useMemo(() => new Map(data.groups.map((g) => [`${g.axis}:${g.id}`, g.name])), [data]);
 
@@ -62,10 +74,24 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
     [data, areas],
   );
 
+  // The window shown in "this period" view: the era of the selected date and the eras on either side.
+  const win = useMemo(() => {
+    const segs = scale.segments;
+    const i = scale.segmentIndexAt(t);
+    const a = segs[Math.max(0, i - 1)]!;
+    const b = segs[Math.min(segs.length - 1, i + 1)]!;
+    return { t0: a.t0, t1: b.t1 };
+  }, [scale, t]);
   const xOf = (tt: number) => {
+    if (zoom === 'period') {
+      const f = (tt - win.t0) / Math.max(1e-9, win.t1 - win.t0);
+      const x = GUTTER + f * (W - GUTTER - 6);
+      return rtl ? W - x : x;
+    }
     const p = scale.tToPos(tt);
     return (rtl ? 1 - p : p) * W;
   };
+  const inView = (tt: number) => zoom === 'all' || (tt >= win.t0 - 1e-9 && tt <= win.t1 + 1e-9);
 
   // Composition: which axis has most data in this series.
   const axis: Axis = useMemo(() => {
@@ -107,6 +133,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
     let lo = Infinity;
     let hi = 0;
     for (const p of points) {
+      if (!inView(pointT(p))) continue;
       for (const v of [p.total!.low, p.total!.high, p.total!.best]) if (v != null) {
         lo = Math.min(lo, v);
         hi = Math.max(hi, v);
@@ -114,12 +141,13 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
     }
     if (!Number.isFinite(lo)) return [1, 10] as [number, number];
     return chartLog ? ([Math.max(1, lo / 1.5), hi * 1.5] as [number, number]) : ([0, hi * 1.08] as [number, number]);
-  }, [points, chartLog, chartMode]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [points, chartLog, chartMode, zoom, win]);
 
   const y = useMemo(() => {
-    const range: [number, number] = [H - PAD_BOTTOM, PAD_TOP];
+    const range: [number, number] = [plotBottom - PAD_BOTTOM, PAD_TOP];
     return chartLog ? scaleLog().domain(yDomain).range(range).clamp(true) : scaleLinear().domain(yDomain).range(range).clamp(true);
-  }, [yDomain, chartLog, chartMode]);
+  }, [yDomain, chartLog, chartMode, plotBottom]);
 
   // Lines join consecutive documented censuses / official counts only, within MAX_GAP years.
   const linePaths = useMemo(() => {
@@ -141,7 +169,7 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
     const ln = d3line<{ x: number; y: number }>().x((d) => d.x).y((d) => d.y);
     return segs.map((s) => ln(s) ?? '');
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [points, y, W, rtl, scale]);
+  }, [points, y, W, rtl, scale, zoom, win]);
 
   const stacks = useMemo(() => {
     if (chartMode === 'total') return [];
@@ -181,9 +209,11 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
     }
     return out;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [compPoints, groupOrder, chartMode, y, W, rtl, scale, chartLog, yDomain]);
+  }, [compPoints, groupOrder, chartMode, y, W, rtl, scale, chartLog, yDomain, zoom, win]);
 
   const ticks = chartMode === 'share' ? [0, 25, 50, 75, 100] : chartLog ? (y as ReturnType<typeof scaleLog>).ticks(4).filter((v) => /^[125]/.test(String(v))) : (y as ReturnType<typeof scaleLinear>).ticks(4);
+
+  const yearTicks = zoom === 'period' ? scaleLinear().domain([win.t0, win.t1]).ticks(W < 600 ? 4 : 7) : [];
 
   if (!chartOpen) {
     return (
@@ -221,6 +251,13 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
         <label className="chk">
           <input type="checkbox" checked={chartLog} disabled={chartMode !== 'total'} onChange={(e) => setChart({ chartLog: e.target.checked })} /> {tr('chart.log')}
         </label>
+        <div className="seg" role="group" aria-label={tr('chart.zoom')}>
+          {(['all', 'period'] as const).map((z) => (
+            <button key={z} type="button" aria-pressed={zoom === z} onClick={() => setZoom(z)} data-testid={`chart-zoom-${z}`}>
+              {tr(`chart.zoom_${z}`)}
+            </button>
+          ))}
+        </div>
         <button type="button" className="link-btn" onClick={() => setShowTable(!showTable)}>
           {showTable ? tr('chart.hideTable') : tr('chart.table')}
         </button>
@@ -240,12 +277,25 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
             </defs>
             {ticks.map((v) => (
               <g key={v} className="tick">
-                <line x1={0} x2={W} y1={y(v)} y2={y(v)} />
-                <text x={rtl ? W - 2 : 2} y={y(v) - 2} textAnchor={rtl ? 'end' : 'start'}>
+                <line x1={zoom === 'period' && !rtl ? GUTTER : 0} x2={zoom === 'period' && rtl ? W - GUTTER : W} y1={y(v)} y2={y(v)} />
+                <text x={zoom === 'period' ? (rtl ? W - GUTTER + 4 : GUTTER - 4) : rtl ? W - 2 : 2} y={zoom === 'period' ? y(v) + 4 : y(v) - 2} textAnchor={zoom === 'period' ? (rtl ? 'start' : 'end') : rtl ? 'end' : 'start'}>
                   {chartMode === 'share' ? `${v}%` : formatCompact(v, lang)}
                 </text>
               </g>
             ))}
+            {zoom === 'period' &&
+              yearTicks.map((yt) => (
+                <g key={yt} className="tick year-tick">
+                  <line x1={xOf(yt)} x2={xOf(yt)} y1={PAD_TOP} y2={plotBottom} />
+                  <text x={xOf(yt)} y={H - 4} textAnchor="middle">
+                    {formatDate({ year: fromT(yt).year, precision: 'year' }, lang)}
+                  </text>
+                </g>
+              ))}
+            <clipPath id="pop-plot">
+              <rect x={zoom === 'period' && !rtl ? GUTTER : 0} y={0} width={zoom === 'period' ? W - GUTTER : W} height={plotBottom} />
+            </clipPath>
+            <g clipPath="url(#pop-plot)">
             {stacks.map((s, i) => (
               <path key={`${s.group}-${i}`} d={s.d} fill={s.group === REST ? 'url(#hatch-pop)' : data.groupColors[`${axis}:${s.group}`] ?? '#bbb'} opacity={s.group === REST ? 0.45 : 0.75} />
             ))}
@@ -253,11 +303,12 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
               linePaths.map((d, i) => <path key={i} d={d} className="pop-line" />)}
             {chartMode === 'total' &&
               points.map((p) => {
+                if (!inView(pointT(p))) return null;
                 const x = xOf(pointT(p));
                 const tot = p.total!;
                 const v = plotValue(tot);
                 if (!v) return null;
-                const yLo = tot.low !== null ? y(tot.low) : H - PAD_BOTTOM;
+                const yLo = tot.low !== null ? y(tot.low) : plotBottom - PAD_BOTTOM;
                 const yHi = tot.high !== null ? y(tot.high) : PAD_TOP;
                 const cy = y(v.value);
                 const hollow = v.isMidpoint || p.confidence !== 'documented';
@@ -270,15 +321,16 @@ export function PopulationChart({ data, scale }: { data: AppData; scale: EraScal
                   >
                     {yLo - yHi > 1 && <line x1={x} x2={x} y1={yLo} y2={yHi} className="range" strokeDasharray={p.confidence === 'documented' ? undefined : '3 2'} />}
                     {p.confidence === 'contested' ? (
-                      <rect x={x - 4} y={cy - 4} width={8} height={8} transform={`rotate(45 ${x} ${cy})`} fill="url(#hatch-pop)" stroke="#333" />
+                      <rect x={x - 5} y={cy - 5} width={10} height={10} transform={`rotate(45 ${x} ${cy})`} fill="url(#hatch-pop)" stroke="#333" />
                     ) : (
-                      <circle cx={x} cy={cy} r={3.5} fill={hollow ? '#fff' : '#3b5b78'} stroke="#3b5b78" strokeWidth={1.4} />
+                      <circle cx={x} cy={cy} r={4.5} fill={hollow ? '#fff' : '#3b5b78'} stroke="#3b5b78" strokeWidth={1.6} />
                     )}
                     <circle cx={x} cy={cy} r={9} fill="transparent" />
                   </g>
                 );
               })}
-            <line className="chart-cursor" x1={cursorX} x2={cursorX} y1={0} y2={H} />
+            </g>
+            <line className="chart-cursor" x1={cursorX} x2={cursorX} y1={0} y2={plotBottom} />
           </svg>
         )}
         {hover && (

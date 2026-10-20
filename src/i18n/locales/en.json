@@ -151,7 +151,10 @@
     "rest": "not broken down by the source",
     "groupsFrom": "For this area, a breakdown by group is available from {{date}}; earlier figures are totals only.",
     "groupsNone": "No source gives a breakdown by group for this area.",
-    "groupsWhy": "Early estimates mostly come from archaeological surveys, which measure settlements, not people's religion or origin. Breakdowns appear only where a source gives one: for example Roman-period estimates of the Jewish population, Ottoman tax registers, the Mandate censuses and modern statistics."
+    "groupsWhy": "Early estimates mostly come from archaeological surveys, which measure settlements, not people's religion or origin. Breakdowns appear only where a source gives one: for example Roman-period estimates of the Jewish population, Ottoman tax registers, the Mandate censuses and modern statistics.",
+    "zoom": "Zoom",
+    "zoom_all": "Whole timeline",
+    "zoom_period": "This period"
   },
   "bands": {
     "label": "Who held the land (ruler bands)",
