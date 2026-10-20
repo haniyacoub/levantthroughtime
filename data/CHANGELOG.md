@@ -681,7 +681,7 @@ Gaps:
 
 ## 2026-10-20 — Milestone 9: peoples through time
 
-A new **Peoples** page follows the peoples and communities of the land: when the sources first and last name each one, what it continued as, merged into, assimilated into or converted to, and where it went. There are 45 peoples, from the Amorites and Canaanites to the Palestinian refugees and Israeli Jews, and 85 links between them. Each link is a sourced statement with its date, its confidence, and the kind of evidence it rests on: documents, archaeology, textual tradition (e.g. the Bible), language, or ancient and modern DNA. Where scholars disagree, the link is marked contested and each position is given with its own source.
+A new **Peoples** page follows the peoples and communities of the land: when the sources first and last name each one, what it continued as, merged into, assimilated into or converted to, and where it went. There are 45 peoples, from the Amorites and Canaanites to the Palestinian refugees and Israeli Jews, and 86 links between them. Each link is a sourced statement with its date, its confidence, and the kind of evidence it rests on: documents, archaeology, textual tradition (e.g. the Bible), language, or ancient and modern DNA. Where scholars disagree, the link is marked contested and each position is given with its own source.
 
 Examples of contested links:
 - Israelite origins.
