@@ -14,7 +14,9 @@
         },
         "end": {
           "year": -323,
-          "precision": "year"
+          "month": 6,
+          "day": 13,
+          "precision": "day"
         },
         "units": [
           "phoenician-coast",

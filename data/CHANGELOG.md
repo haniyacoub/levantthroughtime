@@ -321,3 +321,9 @@ Gaps:
 - There is no peer-reviewed study of the 2023–25 zones of control.
 - The exact start and end days of the Lebanese Civil War are still unsourced.
 - Most new sources for this period are official and UN documents rather than scholarship.
+
+## 2026-10-20 — Bibliography and consistency fixes
+
+- 34 sources that had no URL, DOI or ISBN now carry one. Each was found by exact title, year and author (and, for books, publisher) in Crossref or Open Library. Examples: Byatt 1973 and McCown 1947 (DOIs); Humphreys 1977, Khalidi 1992 and 2006, Morris 1987 and 2008, Pappé 2006, Karsh 2010 and Oren 2002 (ISBNs). Books from before about 1970, and works whose edition could not be matched exactly, are still cited by their full details only.
+- Two works appeared twice in the bibliography under different ids: Morris 1987 and Peters 1984. Each pair was merged and the references updated.
+- Three territory slices ended after, or less precisely than, their polity: Alexander's empire, the late Ptolemaic kingdom and Agrippa II's kingdom. Their end dates now match the polity records.

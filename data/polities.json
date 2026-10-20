@@ -4720,7 +4720,8 @@
       "end": {
         "year": 93,
         "circa": true,
-        "precision": "year"
+        "precision": "year",
+        "latest": 100
       },
       "confidence": "estimated",
       "basis": "documentary",

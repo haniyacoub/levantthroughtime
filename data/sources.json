@@ -74,7 +74,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "1860648568"
     },
     {
       "id": "abu-manneh-1999-sanjak-jerusalem",
@@ -2756,7 +2757,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0415230004"
     },
     {
       "id": "boase-1977-military-architecture",
@@ -2958,7 +2960,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-19"
+      "accessed": "2026-10-19",
+      "isbn": "0415549019"
     },
     {
       "id": "britannica-12-day-war",
@@ -8889,7 +8892,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "doi": "10.1179/peq.1973.105.1.51"
     },
     {
       "id": "cahen-1969-mongols-near-east",
@@ -8994,7 +8998,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781841270128"
     },
     {
       "id": "cassius-dio-48-cary",
@@ -9698,7 +9703,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780520259898"
     },
     {
       "id": "cohen-2015-year-zero",
@@ -9735,7 +9741,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "069109375X"
     },
     {
       "id": "cojs-nea-church",
@@ -10306,7 +10313,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0802809758"
     },
     {
       "id": "dever-2008-nova-interview",
@@ -11409,7 +11417,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781589832770"
     },
     {
       "id": "finkelstein-silberman-2001-bible-unearthed",
@@ -11428,7 +11437,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780684869124"
     },
     {
       "id": "fleming-1915-history-of-tyre",
@@ -11785,7 +11795,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781902210674"
     },
     {
       "id": "geva-2007-estimating-jerusalem",
@@ -12181,7 +12192,8 @@
       },
       "kind": "academic",
       "institution_country": "IL",
-      "accessed": "2026-10-19"
+      "accessed": "2026-10-19",
+      "isbn": "9780292722729"
     },
     {
       "id": "grant-fc-1926-economic-background",
@@ -12217,7 +12229,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0297003933"
     },
     {
       "id": "grayson-1975-chronicles",
@@ -12972,7 +12985,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0195097157"
     },
     {
       "id": "honigmann-1950-juvenal",
@@ -13104,7 +13118,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0873952634"
     },
     {
       "id": "humphreys-waddington-1983-crucifixion",
@@ -14266,7 +14281,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0334007623"
     },
     {
       "id": "jerusalemstory-covenant-of-umar",
@@ -14872,7 +14888,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780300169454"
     },
     {
       "id": "karsh-2023-oslo-disaster",
@@ -15088,7 +15105,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-19"
+      "accessed": "2026-10-19",
+      "isbn": "0887282245"
     },
     {
       "id": "khalidi-2006-all-that-remains",
@@ -15106,7 +15124,8 @@
         "note": "Not consulted; listed in the bibliography of the PalQuest entry \"The Nakba\". Cited only to identify works associated with the position."
       },
       "kind": "academic",
-      "institution_country": "US"
+      "institution_country": "US",
+      "isbn": "9780887283062"
     },
     {
       "id": "khalidi-2008-fall-of-haifa",
@@ -15287,7 +15306,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780802849601"
     },
     {
       "id": "kjv-1-maccabees",
@@ -15409,7 +15429,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780567122568"
     },
     {
       "id": "koprulu-osmanli-devletinin-kurulusu",
@@ -16092,7 +16113,8 @@
         "note": "Not consulted; listed in the bibliography of the PalQuest entry \"The Nakba\". Cited only to identify works associated with the position."
       },
       "kind": "academic",
-      "institution_country": "US"
+      "institution_country": "US",
+      "isbn": "0887282350"
     },
     {
       "id": "masalha-2018-palestine",
@@ -16291,7 +16313,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "doi": "10.2307/3262683"
     },
     {
       "id": "meir-2011-review-grossman",
@@ -16571,28 +16594,11 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not opened; Morris's conclusion read as quoted in shlaim-1995-debate-about-1948. The PalQuest Lydda page also cites Morris for the 12 July expulsion decision."
-      },
-      "kind": "academic",
-      "institution_country": "GB"
-    },
-    {
-      "id": "morris-1987-birth-refugee-problem",
-      "type": "book",
-      "authors": [
-        "Morris, Benny"
-      ],
-      "title": "The Birth of the Palestinian Refugee Problem, 1947-1949",
-      "publisher": "Cambridge University Press",
-      "year": 1987,
-      "verification": {
-        "level": "cited-via",
-        "checked_on": "2026-10-18",
-        "note": "Book not opened; its conclusion read as quoted by Avi Shlaim (shlaim-1995-debate-about-1948) and summarised by Rex Brynen (brynen-1998-refugees-peace-process). A revised edition appeared in 2004."
+        "note": "Not opened; Morris's conclusion read as quoted in shlaim-1995-debate-about-1948. The PalQuest Lydda page also cites Morris for the 12 July expulsion decision. | Book not opened; its conclusion read as quoted by Avi Shlaim (shlaim-1995-debate-about-1948) and summarised by Rex Brynen (brynen-1998-refugees-peace-process). A revised edition appeared in 2004."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "isbn": "0521330289"
     },
     {
       "id": "morris-1990-majdal",
@@ -16691,7 +16697,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780300126969"
     },
     {
       "id": "muhlen-schulte-2019-atlas-of-incarceration",
@@ -17909,7 +17916,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780195151749"
     },
     {
       "id": "osm-data-2026",
@@ -19122,7 +19130,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781851684670"
     },
     {
       "id": "passia-chronology-1994-1995",
@@ -19285,7 +19294,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781107007024"
     },
     {
       "id": "peel-1937-summary",
@@ -19320,28 +19330,11 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not consulted; its thesis is summarised (and criticised) in McCarthy 1990, p. 40 n. 20 and p. 41 n. 13, and in Porath 1986."
-      },
-      "kind": "press",
-      "institution_country": "US"
-    },
-    {
-      "id": "peters-1984-from-time-immemorial",
-      "type": "book",
-      "authors": [
-        "Peters, Joan"
-      ],
-      "title": "From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine",
-      "publisher": "Harper & Row",
-      "year": 1984,
-      "verification": {
-        "level": "cited-via",
-        "checked_on": "2026-10-18",
-        "note": "Book not opened; its thesis read as summarised in reviews by Yehoshua Porath (NYRB 1986), Martin Kramer (New Leader 1984) and John C. Campbell (Foreign Affairs 1984)."
+        "note": "Not consulted; its thesis is summarised (and criticised) in McCarthy 1990, p. 40 n. 20 and p. 41 n. 13, and in Porath 1986. | Book not opened; its thesis read as summarised in reviews by Yehoshua Porath (NYRB 1986), Martin Kramer (New Leader 1984) and John C. Campbell (Foreign Affairs 1984)."
       },
       "kind": "press",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "isbn": "0060152656"
     },
     {
       "id": "pfeiffer-1949-new-testament-times",
@@ -19851,7 +19844,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0198225369"
     },
     {
       "id": "prawer-1985-franks",
@@ -20827,7 +20821,8 @@
       },
       "kind": "press",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0671710532"
     },
     {
       "id": "schiffman-1991",
@@ -25133,7 +25128,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "185075395X"
     },
     {
       "id": "weinstein-1984-radiocarbon-southern-levant",
@@ -25207,7 +25203,8 @@
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780415107587"
     },
     {
       "id": "wikidata",

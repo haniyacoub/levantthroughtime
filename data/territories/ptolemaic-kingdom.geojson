@@ -194,7 +194,9 @@
         },
         "end": {
           "year": -30,
-          "precision": "year"
+          "month": 8,
+          "day": 12,
+          "precision": "day"
         },
         "units": [
           "sinai-north",
