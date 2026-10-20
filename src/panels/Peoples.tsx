@@ -853,6 +853,9 @@ function LineageTree({
   return <>{branch(root)}</>;
 }
 
+/** The short name before any explanation: "Moabite religion: national god Kemosh (Chemosh)" → "Moabite religion". */
+const brief = (text: string) => text.split(/[:;(،؛]/)[0]!.trim() || text;
+
 /** The real images first; an AI impression only after them, and always labelled. */
 const orderImages = (images: PeopleImage[] = []) => [...images].sort((a, b) => Number(a.kind === 'ai-impression') - Number(b.kind === 'ai-impression'));
 
@@ -900,7 +903,7 @@ function PeopleCards({
                     <span className={`codex-pic${img ? '' : ' empty'}`}>
                       {img ? (
                         <>
-                          <img src={`/${img.file}`} alt="" loading="lazy" />
+                          <img src={`/${img.file.replace(/\.\w+$/, '-thumb.jpg')}`} alt="" loading="lazy" />
                           {img.kind === 'ai-impression' && <span className="ai-flag">{tr('peoples.img.aiShort')}</span>}
                         </>
                       ) : (
@@ -922,8 +925,8 @@ function PeopleCards({
                       </span>
                       <span className="codex-kind">
                         {tr(`peoples.kind.${p.kind}`)}
-                        {religion ? ` · ${loc(religion.label, lang)}` : ''}
-                        {language ? ` · ${loc(langById.get(language.language)?.name, lang)}` : ''}
+                        {religion ? ` · ${brief(loc(religion.label, lang))}` : ''}
+                        {language ? ` · ${brief(loc(langById.get(language.language)?.name, lang))}` : ''}
                       </span>
                       <span className="codex-summary">{firstSentence}</span>
                     </span>

@@ -1322,6 +1322,46 @@
               "quote": "an important Christian literary and liturgical language from the 3rd through the 7th century"
             }
           ]
+        },
+        {
+          "start": {
+            "year": 600,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Syriac Orthodox (Jacobite) clergy and faithful of St Mark's Monastery in Jerusalem and of Bethlehem, whose monastery bears Syriac inscriptions; and Maronites, whose church keeps a Syriac liturgy and who were found in Palestine by the 13th century",
+            "ar": "رجال الدين من السريان الأرثوذكس (اليعاقبة) وأتباعهم في دير القديس مرقس في القدس وفي بيت لحم، التي يحمل ديرها نقوشًا سريانية؛ والموارنة، الذين تحتفظ كنيستهم بليتورجيا سريانية والذين وُجدوا في فلسطين بحلول القرن الـ13",
+            "he": "אנשי הכמורה והמאמינים של הסורים האורתודוקסים (היעקובים) במנזר מרקוס הקדוש בירושלים ובבית לחם, שבמנזרה כתובות בסורית; והמרונים, שכנסייתם שומרת על ליטורגיה סורית ושנמצאו בפלשתינה עד המאה ה-13",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "pp. 44-45",
+              "quote": "We first hear of a Jacobite Bishop of Jerusalem at the end of the sixth century (Severus)"
+            },
+            {
+              "ref": "ferrand-openjerusalem-syriac-diaspora",
+              "locator": "on the sources",
+              "quote": "the studies published by Andrew Palmer about the Syriac inscriptions of Saint Mark’s Monastery"
+            },
+            {
+              "ref": "britannica-maronite-church",
+              "locator": "main text",
+              "quote": "The church retains the ancient West Syrian liturgy, often delivered in Syriac"
+            },
+            {
+              "ref": "hitti-1985-impact-crusades-moslem-lands",
+              "locator": "p. 53",
+              "quote": "James of Vitry (d. 1240) found them established in Lebanon and Palestine"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1463,6 +1503,41 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "From the Arab conquest to 1900",
               "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1517,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "administrative",
+          "speakers": {
+            "en": "The Greek-speaking higher clergy (Brotherhood of the Holy Sepulchre) who govern the Greek Orthodox Patriarchate of Jerusalem; its lay flock in Palestine and Jordan was almost wholly Arabic-speaking",
+            "ar": "رجال الدين الكبار الناطقون باليونانية (أخوية القبر المقدس) الذين يديرون بطريركية الروم الأرثوذكس في القدس؛ أما أتباعها من العلمانيين في فلسطين والأردن فكانوا ناطقين بالعربية في معظمهم الساحق",
+            "he": "הכמורה הבכירה דוברת היוונית (אחוות הקבר הקדוש) המנהלת את הפטריארכיה היוונית-אורתודוקסית של ירושלים; עדרה החילוני בפלשתינה ובירדן דיבר כמעט כולו ערבית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "dalachanis-tselikas-2018-greek-orthodox-brotherhood",
+              "locator": "p. 121",
+              "quote": "However, the choice of the bishops and the patriarch has been customarily made among the Greek-speaking members of the brotherhood"
+            },
+            {
+              "ref": "dermatossian-2011-armenians-palestine",
+              "locator": "p. 29",
+              "quote": "they sought to free their church from the domination of the ethnically (and linguistically) Greek higher clergy"
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "p. 41",
+              "quote": "whose flock consists of 40,000 to 80,000 Orthodox, almost wholly Arabic-speaking"
             }
           ]
         }
@@ -2387,6 +2462,65 @@
             {
               "ref": "britannica-armenian-apostolic-church",
               "quote": "There are also two patriarchates, at Constantinople (now Istanbul, Turkey) and Jerusalem , respectively."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1833,
+            "precision": "year"
+          },
+          "role": "literary",
+          "speakers": {
+            "en": "The St James Armenian printing house of the Armenian Patriarchate of Jerusalem, which published books in modern Armenian, Classical Armenian (Grabar) and Armenian-lettered Turkish",
+            "ar": "مطبعة القديس يعقوب الأرمنية التابعة للبطريركية الأرمنية في القدس، التي نشرت كتبًا بالأرمنية الحديثة والأرمنية الكلاسيكية (غرابار) والتركية المكتوبة بالحروف الأرمنية",
+            "he": "בית הדפוס הארמני של סנט ג'יימס בפטריארכיה הארמנית של ירושלים, שהוציא לאור ספרים בארמנית מודרנית, בארמנית קלאסית (גרבר) ובטורקית באותיות ארמניות",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "khachatryan-2018-armenian-printing-house",
+              "locator": "p. 366",
+              "quote": "Established in 1833, in the Armenian Patriarchate of Jerusalem, it quickly became a wellspring of religious, scientific, and educational literature in the Middle East."
+            },
+            {
+              "ref": "khachatryan-2018-armenian-printing-house",
+              "locator": "p. 379",
+              "quote": "The languages of the books published in the SJAPH were Armenian, Grabar (old Armenian), and Armenian-lettered Turkish"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1900,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Armenians of Jerusalem and Palestine: the long-settled families spoke Armenian beside Arabic, their first language; the refugees who arrived after 1915 and became the majority spoke Armenian and Turkish",
+            "ar": "أرمن القدس وفلسطين: كانت العائلات المستقرة منذ زمن طويل تتكلم الأرمنية إلى جانب العربية، وهي لغتها الأولى؛ أما اللاجئون الذين وصلوا بعد 1915 وأصبحوا الأغلبية فكانوا يتكلمون الأرمنية والتركية",
+            "he": "ארמנים בירושלים ובפלשתינה: המשפחות שישבו בה זמן רב דיברו ארמנית לצד ערבית, שהייתה שפת האם שלהן; הפליטים שהגיעו אחרי 1915 והפכו לרוב דיברו ארמנית וטורקית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "dermatossian-2011-armenians-palestine",
+              "locator": "p. 26",
+              "quote": "Their first language was Arabic, though they also spoke Armenian and frequently European languages as well."
+            },
+            {
+              "ref": "dermatossian-2011-armenians-palestine",
+              "locator": "p. 31",
+              "quote": "who knew no Arabic, spoke only Turkish and Armenian, and had different ways and traditions."
             }
           ]
         }
@@ -3822,6 +3956,514 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      }
+    },
+    {
+      "id": "georgian",
+      "name": {
+        "en": "Georgian (Old Georgian)",
+        "ar": "الجورجية (الجورجية القديمة)",
+        "he": "גאורגית (גאורגית עתיקה)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Kartvelian (South Caucasian)",
+      "scripts": [
+        "Geor"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 430,
+            "circa": true,
+            "precision": "decade"
+          },
+          "end": {
+            "year": 1850,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Georgian monks and pilgrims in the monasteries of Jerusalem and the Judean desert; Georgian mosaic inscriptions of the 5th or 6th century survive at the Georgian monastery of St Theodore near Bethlehem (Bir el-Qutt)",
+            "ar": "الرهبان والحجاج الجورجيون في أديرة القدس وبرية يهودا؛ وتبقى نقوش فسيفساء جورجية من القرن الخامس أو السادس في الدير الجورجي للقديس ثيودوروس قرب بيت لحم (بير القط)",
+            "he": "נזירים ועולי רגל גאורגים במנזרי ירושלים ובמדבר יהודה; כתובות פסיפס גאורגיות מהמאה החמישית או השישית שרדו במנזר הגאורגי של סנט תיאודור ליד בית לחם (ביר אל-קוט)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "ecg-050-bir-el-qutt-inscription",
+              "locator": "circumstances of discovery",
+              "quote": "Italian archeologist Virgilio Corbo discovered the ruins of the Georgian monastery named after St. Theodore near Bethlehem in the Judaean Desert, Palestine in 1952-1953 years."
+            },
+            {
+              "ref": "ecg-050-bir-el-qutt-inscription",
+              "locator": "commentary",
+              "quote": "suggested that Peter the Iberian had built the St. Theodore Monastery in the 30s of the V century and embellished it with the Georgian inscriptions"
+            },
+            {
+              "ref": "ecg-050-bir-el-qutt-inscription",
+              "locator": "commentary",
+              "quote": "He dated this inscription to the VI century according to the paleographic data."
+            },
+            {
+              "ref": "britannica-georgian-language",
+              "locator": "main text",
+              "quote": "Old Georgian was used for religious purposes until the beginning of the 19th century."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-georgian-language",
+          "locator": "main text",
+          "quote": "The Georgian literary tradition, in the form of inscriptions, dates back to the 5th century."
+        }
+      ],
+      "notes": {
+        "en": "The period rests on the Bir el-Qutt inscriptions near Bethlehem (dated to the 430s by Giorgi Tsereteli, to the sixth century by Mikheil Tarkhnishvili) and on the Georgian monastic presence in Jerusalem (see the people record georgians-of-jerusalem); the end date is approximate, following the transfer of the Monastery of the Cross to the Greek Orthodox Patriarchate in the nineteenth century. Georgian use in Jerusalem itself (for example manuscripts copied at the Monastery of the Cross) was not documented in the sources read.",
+        "ar": "تستند هذه الفترة إلى نقوش بير القط قرب بيت لحم (التي أرّخها جيورجي تسيريتيلي إلى الثلاثينيات من القرن الخامس (عقد 430)، وأرّخها ميخايل تارخنيشفيلي إلى القرن السادس) وإلى الوجود الرهباني الجورجي في القدس (انظر سجل الشعوب georgians-of-jerusalem)؛ وتاريخ النهاية تقريبي، تبعًا لانتقال دير الصليب إلى بطريركية الروم الأرثوذكس في القرن التاسع عشر. أما استخدام الجورجية في القدس نفسها (مثل المخطوطات المنسوخة في دير الصليب) فلم يُوثَّق في المصادر التي قُرئت.",
+        "he": "התקופה נשענת על כתובות ביר אל-קוט ליד בית לחם (שתוארכו לשנות ה-430 על ידי גיאורגי צרטלי, ולמאה השישית על ידי מיכאיל טרכנישווילי) ועל הנוכחות המנזרית הגאורגית בירושלים (ראו רשומת העמים georgians-of-jerusalem); תאריך הסיום משוער, בעקבות העברת מנזר המצלבה לפטריארכיה היוונית-אורתודוקסית במאה התשע עשרה. השימוש בגאורגית בירושלים עצמה (למשל כתבי יד שהועתקו במנזר המצלבה) לא תועד במקורות שנקראו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Georgian belongs to the Kartvelian (South Caucasian) family, which is unrelated to the Semitic and Indo-European languages in the data; its ancestor is not in the data.",
+          "ar": "تنتمي الجورجية إلى الأسرة الكرتفيلية (القوقازية الجنوبية)، وهي لا ترتبط باللغات السامية والهندو أوروبية الواردة في البيانات؛ وسلفها غير وارد في البيانات.",
+          "he": "הגאורגית שייכת למשפחה הקרטבלית (דרום-קווקזית), שאינה קשורה לשפות השמיות וההודו-אירופיות שבנתונים; אבותיה אינם בנתונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "sources": [
+          {
+            "ref": "britannica-georgian-language",
+            "locator": "main text",
+            "quote": "These, together with the related Mingrelian (Megrelian), Laz (Chan), and Svan languages, make up the Kartvelian, or South Caucasian, language family."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coptic",
+      "name": {
+        "en": "Coptic",
+        "ar": "القبطية",
+        "he": "קופטית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Afro-Asiatic (Egyptian)",
+      "scripts": [
+        "Copt"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 200,
+            "circa": true,
+            "precision": "century"
+          },
+          "end": {
+            "year": 1400,
+            "circa": true,
+            "precision": "century"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "The people of Egypt, beside the map area, in the last stage of the Egyptian language; the latest Coptic texts date from the 14th century, after Arabic had replaced it in speech",
+            "ar": "أهل مصر، إلى جانب منطقة الخريطة، في المرحلة الأخيرة من اللغة المصرية؛ وتعود أحدث النصوص القبطية إلى القرن الـ14، بعد أن حلّت العربية محلها في الكلام",
+            "he": "תושבי מצרים, לצד אזור המפה, בשלב האחרון של השפה המצרית; הטקסטים הקופטיים האחרונים מתוארכים למאה ה-14, אחרי שהערבית החליפה אותה בדיבור",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "britannica-coptic-language",
+              "locator": "main text",
+              "quote": "Coptic language, an Afro-Asiatic language that was spoken in Egypt from about the 2nd century ce and that represents the final stage of the ancient Egyptian language."
+            },
+            {
+              "ref": "britannica-coptic-language",
+              "locator": "main text",
+              "quote": "The latest Coptic texts date from the 14th century."
+            },
+            {
+              "ref": "britannica-coptic-orthodox-church",
+              "locator": "main text",
+              "quote": "After the Arab conquest of Egypt in the 7th century, the Copts ceased speaking Greek"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1150,
+            "circa": true,
+            "precision": "century",
+            "latest": 1236
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Coptic Orthodox clergy and pilgrims in Jerusalem (archbishopric from the 13th century) and Jaffa: the church's service books are in Coptic (Bohairic) with Arabic in parallel",
+            "ar": "رجال الدين الأقباط الأرثوذكس وحجاجهم في القدس (مطرانية منذ القرن الـ13) ويافا: كتب الخدمة في الكنيسة بالقبطية (البحيرية) مع العربية بالتوازي",
+            "he": "אנשי כמורה ועולי רגל קופטים אורתודוקסים בירושלים (ארכיבישופות מהמאה ה-13) וביפו: ספרי התפילה של הכנסייה בקופטית (בוהאירית) עם ערבית במקביל",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-coptic-orthodox-church",
+              "locator": "main text",
+              "quote": "are written in Coptic (the Bohairic dialect of Alexandria), with the Arabic text in parallel columns."
+            },
+            {
+              "ref": "britannica-coptic-orthodox-church",
+              "locator": "main text",
+              "quote": "There are Coptic Orthodox churches in Jerusalem and in other areas of the Holy Land, built in the 19th and 20th centuries"
+            },
+            {
+              "ref": "prawer-1985-minorities",
+              "locator": "p. 79",
+              "quote": "after Cyril in 1236 appointed a Copt named Basil as archbishop of Jerusalem, even though Jerusalem depended on Antioch."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-coptic-language",
+          "locator": "main text",
+          "quote": "Bohairic has been used for religious purposes since the 11th century by all Coptic Christians."
+        }
+      ],
+      "notes": {
+        "en": "The first period lies in Egypt, next to the map area; its end is approximate (the date of the latest texts, not of the last speakers). The liturgical period in Jerusalem is estimated: the sources describe the Coptic Orthodox Church as a whole, and no source of the Coptic Patriarchate in Jerusalem was read.",
+        "ar": "تقع الفترة الأولى في مصر، بجوار منطقة الخريطة؛ ونهايتها تقريبية (تاريخ أحدث النصوص، لا تاريخ آخر المتكلمين). أما الفترة الطقسية في القدس فهي تقديرية: فالمصادر تصف الكنيسة القبطية الأرثوذكسية ككل، ولم يُقرأ أي مصدر من البطريركية القبطية في القدس.",
+        "he": "התקופה הראשונה היא במצרים, בסמוך לאזור המפה; סיומה משוער (תאריך הטקסטים האחרונים, לא של הדוברים האחרונים). התקופה הליטורגית בירושלים היא הערכה: המקורות מתארים את הכנסייה הקופטית האורתודוקסית בכללותה, ולא נקרא מקור של הפטריארכיה הקופטית בירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [
+          "egyptian"
+        ],
+        "note": {
+          "en": "Coptic is the last stage of the ancient Egyptian language, written in Greek letters with seven extra letters taken from demotic.",
+          "ar": "القبطية هي المرحلة الأخيرة من اللغة المصرية القديمة، وتُكتب بالحروف اليونانية مع سبعة حروف إضافية مأخوذة من الديموطيقية.",
+          "he": "הקופטית היא השלב האחרון של השפה המצרית העתיקה, הכתובה באותיות יווניות עם שבע אותיות נוספות שנלקחו מהדמוטית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "sources": [
+          {
+            "ref": "britannica-coptic-language",
+            "locator": "main text",
+            "quote": "Coptic language, an Afro-Asiatic language that was spoken in Egypt from about the 2nd century ce and that represents the final stage of the ancient Egyptian language."
+          },
+          {
+            "ref": "britannica-coptic-language",
+            "locator": "main text",
+            "quote": "Coptic was written in the Greek alphabet, supplemented by seven letters borrowed from demotic writing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "geez",
+      "name": {
+        "en": "Ge’ez (Classical Ethiopic)",
+        "ar": "الجعزية (الإثيوبية الكلاسيكية)",
+        "he": "געז (אתיופית קלאסית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Afro-Asiatic (Semitic, Ethiopian)",
+      "scripts": [
+        "Ethi"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1165,
+            "circa": true,
+            "precision": "decade",
+            "latest": 1300
+          },
+          "role": "liturgical",
+          "speakers": {
+            "en": "Ethiopian Orthodox monks, nuns and pilgrims in Jerusalem (Deir al-Sultan on the roof of the Holy Sepulchre, later also the Ethiopian compound): the church's liturgy and scriptures are in Ge'ez, and the monastery has a Ge'ez name",
+            "ar": "الرهبان والراهبات والحجاج الأحباش الأرثوذكس في القدس (دير السلطان على سطح كنيسة القيامة، ولاحقًا المجمّع الإثيوبي أيضًا): قداس الكنيسة وكتبها المقدسة بالجعزية، وللدير اسم جعزي",
+            "he": "נזירים, נזירות ועולי רגל אתיופים אורתודוקסים בירושלים (דיר א-סולטאן על גג הקבר הקדוש, ובהמשך גם הקומפלקס האתיופי): הליטורגיה והכתבים של הכנסייה בגעז, ולמנזר שם בגעז",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "britannica-ethiopian-orthodox-tewahedo-church",
+              "locator": "main text",
+              "quote": "The liturgy and scriptures are typically in Geʿez, though both have been translated into Amharic, the principal modern language of Ethiopia."
+            },
+            {
+              "ref": "britannica-geez-language",
+              "locator": "main text",
+              "quote": "Although the language ceased to be spoken popularly sometime between 900 and 1200, it continues as a liturgical language"
+            },
+            {
+              "ref": "bezie-2013-ethiopian-community-deir-es-sultan",
+              "locator": "p. 54",
+              "quote": "In Ge’ez, the monastery is known as “däbrä Séltan” a name which has an equivalent meaning with Arabic."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-geez-language",
+          "locator": "main text",
+          "quote": "Geʿez language, liturgical language of the Ethiopian church."
+        }
+      ],
+      "notes": {
+        "en": "No longer spoken in daily life since about 900-1200 (Britannica); kept as the language of worship. The start follows the people record ethiopian-orthodox-community-jerusalem (an Ethiopian chapel reported in 1165; the community attested at least from the 13th century). The sources read describe the church's practice as a whole, not services in Jerusalem specifically; hence estimated.",
+        "ar": "لم تعد تُحكى في الحياة اليومية منذ نحو 900-1200 (بريتانيكا)؛ وبقيت لغة العبادة. وتتبع البداية سجل الشعوب ethiopian-orthodox-community-jerusalem (كنيسة إثيوبية ذُكرت في 1165؛ والجماعة موثقة منذ القرن الـ13 على الأقل). وتصف المصادر التي قُرئت ممارسة الكنيسة ككل، لا الخدمات في القدس تحديدًا؛ ولذلك فالتاريخ تقديري.",
+        "he": "אינה מדוברת עוד בחיי היומיום מאז בערך 900-1200 (בריטניקה); נשמרה כשפת התפילה. ההתחלה נשענת על רשומת העמים ethiopian-orthodox-community-jerusalem (קפלה אתיופית שדווחה ב-1165; הקהילה מעוגנת לפחות מהמאה ה-13). המקורות שנקראו מתארים את מנהג הכנסייה בכללותו, לא תפילות בירושלים דווקא; ולפיכך זו הערכה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Ge'ez is a South Semitic language of Ethiopia; it is the ancestor of Tigrinya and Tigre and belongs to the same group as Amharic, but the sources read do not derive Amharic from it. Its own ancestor is not in the data.",
+          "ar": "الجعزية لغة سامية جنوبية في إثيوبيا؛ وهي سلف التغرينية والتغرة وتنتمي إلى المجموعة نفسها التي تنتمي إليها الأمهرية، لكن المصادر التي قُرئت لا تشتق الأمهرية منها. وسلفها هي غير وارد في البيانات.",
+          "he": "געז היא שפה שמית דרומית של אתיופיה; היא אבי-אבותיהן של התיגרינית והתיגרית ושייכת לאותה קבוצה כמו האמהרית, אך המקורות שנקראו אינם גוזרים ממנה את האמהרית. אבותיה שלה אינם בנתונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "sources": [
+          {
+            "ref": "britannica-geez-language",
+            "locator": "main text",
+            "quote": "Geʿez is a Semitic language of the Southern Peripheral group, to which also belong the South Arabic dialects and Amharic, one of the principal languages of Ethiopia."
+          },
+          {
+            "ref": "britannica-geez-language",
+            "locator": "main text",
+            "quote": "Extinct as a vernacular language, Geʿez is the ancestor of the modern Tigrinya and Tigré languages of Eritrea and Ethiopia."
+          }
+        ]
+      }
+    },
+    {
+      "id": "kurdish",
+      "name": {
+        "en": "Kurdish",
+        "ar": "الكردية",
+        "he": "כורדית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Indo-European (Iranian, West)",
+      "scripts": [
+        "Arab",
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1187,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Kurdish families in Palestine, chiefly in Gaza, descended from soldiers and settlers of the Ayyubid, Mamluk and Ottoman periods: a 2022 press report says they speak Kurdish and Arabic today, while a historian suggests that the Mamluk-era Kurds near Gaza were Arabised",
+            "ar": "عائلات كردية في فلسطين، وخاصة في غزة، منحدرة من جنود ومستوطنين من العهود الأيوبي والمملوكي والعثماني: يقول تقرير صحفي من 2022 إنهم يتكلمون الكردية والعربية اليوم، بينما يرى أحد المؤرخين أن الأكراد في العهد المملوكي قرب غزة قد تعرّبوا",
+            "he": "משפחות כורדיות בפלשתינה, בעיקר בעזה, שירדו מחיילים ומתיישבים מהתקופות האיובית, הממלוכית והעות'מאנית: דיווח עיתונאי מ-2022 אומר שהן מדברות כיום כורדית וערבית, ואילו היסטוריון סבור שהכורדים בני התקופה הממלוכית ליד עזה התערבו",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "almonitor-2022-kurdish-families-gaza",
+              "locator": "opening paragraphs",
+              "quote": "Today, Kurdish families in Gaza speak both Kurdish and Arabic and have become part of the Palestinian social fabric"
+            },
+            {
+              "ref": "amitai-2017-gaza-mamluks",
+              "locator": "p. 9",
+              "quote": "Probably the same thing happened to the Kurds who also took up residence in this area, maybe some even before the end of the Ayyubid period."
+            },
+            {
+              "ref": "van-cleve-1969-fifth-crusade",
+              "locator": "p. 408",
+              "quote": "emir of Nablus, a Kurd who wielded great influence among the Kurdish troops, which constituted a considerable part of the army."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-kurdish-language",
+          "locator": "main text",
+          "quote": "Kurdish language, a West Iranian language, one of the Indo-Iranian languages, chiefly spoken in Kurdistan."
+        }
+      ],
+      "notes": {
+        "en": "Contested and thinly sourced: no source read documents Kurdish speech in Palestine before the present day, and the only present-day statement is a press report seen in excerpt. The start marks the arrival of Kurdish troops with Saladin's armies, not attested speech.",
+        "ar": "موضع خلاف وشحيح المصادر: لا يوثق أي مصدر قُرئ الكلام بالكردية في فلسطين قبل الوقت الحاضر، والتصريح الوحيد المتعلق بالوقت الحاضر هو تقرير صحفي اطُّلع عليه في مقتطف. وتشير البداية إلى وصول القوات الكردية مع جيوش صلاح الدين، لا إلى كلام موثق.",
+        "he": "שנוי במחלוקת ומעוגן במקורות דלים: אף מקור שנקרא אינו מתעד דיבור בכורדית בפלשתינה לפני ימינו, והטענה היחידה על ימינו היא דיווח עיתונאי שנראה בקטע. ההתחלה מסמנת את בואם של חיילים כורדים עם צבאותיו של צלאח א-דין, לא דיבור מעוגן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "Kurdish is a West Iranian language of the Indo-Iranian branch of Indo-European; its ancestor is not in the data.",
+          "ar": "الكردية لغة إيرانية غربية من الفرع الهندي الإيراني للهندو أوروبية؛ وسلفها غير وارد في البيانات.",
+          "he": "הכורדית היא שפה איראנית מערבית מהענף ההודו-איראני של ההודו-אירופית; אבותיה אינם בנתונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "sources": [
+          {
+            "ref": "britannica-kurdish-language",
+            "locator": "main text",
+            "quote": "Kurdish language, a West Iranian language, one of the Indo-Iranian languages, chiefly spoken in Kurdistan."
+          }
+        ]
+      }
+    },
+    {
+      "id": "german",
+      "name": {
+        "en": "German",
+        "ar": "الألمانية",
+        "he": "גרמנית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Indo-European (Germanic, West)",
+      "scripts": [
+        "Latn"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1868,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1948,
+            "precision": "year"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "German Templer colonists in Haifa, Jaffa, Sarona, Jerusalem and later Wilhelma, Bethlehem of Galilee and Waldheim (about 1,500 people in 1938), and the German Protestant community of Jerusalem",
+            "ar": "المستوطنون التمبلريون الألمان في حيفا ويافا وسارونا والقدس، ثم لاحقًا في فيلهلما وبيت لحم الجليل وفالدهايم (نحو 1,500 شخص في 1938)، والجالية البروتستانتية الألمانية في القدس",
+            "he": "מתיישבים טמפלרים גרמנים בחיפה, ביפו, בשרונה, בירושלים ובהמשך בוילהלמה, בבית לחם הגלילית ובולדהיים (כ-1,500 איש ב-1938), והקהילה הפרוטסטנטית הגרמנית בירושלים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "ej-2007-templers",
+              "locator": "opening section (Brawer)",
+              "quote": "In the summer of 1938 there were 1,500 Germans of Templer origin living in the country"
+            },
+            {
+              "ref": "ej-2007-templers",
+              "locator": "section on the Nazi party (Ussishkin)",
+              "quote": "By mid-1938 all full-time German teachers in Palestine were enrolled in the Lehrebund (German teachers' organization)"
+            },
+            {
+              "ref": "baedeker-1912-palestine-and-syria",
+              "locator": "p. 24",
+              "quote": "German Templars (pp.10 and 70) number about 400, chiefly tradesmen and workmen, the German Evangelical community about 200."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "britannica-german-language",
+          "locator": "main text",
+          "quote": "German belongs to the West Germanic group of the Indo-European language family, along with English, Frisian, and Dutch (Netherlandic or Flemish)."
+        }
+      ],
+      "notes": {
+        "en": "Estimated: the sources describe German settlers with German schools and teachers but none read states their language outright. The end marks the departure of the last Templers in 1948. German was also among the languages of the papers kept by the Ethiopian community in Jerusalem (Ancel 2018), but that reflects correspondence, not a German-speaking population.",
+        "ar": "تقديري: تصف المصادر مستوطنين ألمانًا لهم مدارس ومعلمون ألمان، لكن لا يذكر أي مصدر قُرئ لغتهم صراحة. وتشير النهاية إلى مغادرة آخر التمبلريين في 1948. وكانت الألمانية أيضًا من بين لغات الأوراق التي احتفظت بها الجماعة الإثيوبية في القدس (أنسيل 2018)، لكن ذلك يعكس مراسلات لا سكانًا ناطقين بالألمانية.",
+        "he": "הערכה: המקורות מתארים מתיישבים גרמנים עם בתי ספר ומורים גרמנים, אך אף מקור שנקרא אינו קובע במפורש את שפתם. הסיום מסמן את עזיבת הטמפלרים האחרונים ב-1948. גרמנית הייתה גם בין שפות המסמכים ששמרה הקהילה האתיופית בירושלים (אנסל 2018), אך הדבר משקף התכתבות, לא אוכלוסייה דוברת גרמנית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "lineage": {
+        "descends_from": [],
+        "note": {
+          "en": "German is a West Germanic language of the Indo-European family, like English; its ancestor is not in the data.",
+          "ar": "الألمانية لغة جرمانية غربية من الأسرة الهندو أوروبية، مثل الإنجليزية؛ وسلفها غير وارد في البيانات.",
+          "he": "הגרמנית היא שפה גרמנית מערבית ממשפחת ההודו-אירופית, כמו האנגלית; אבותיה אינם בנתונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "sources": [
+          {
+            "ref": "britannica-german-language",
+            "locator": "main text",
+            "quote": "German belongs to the West Germanic group of the Indo-European language family, along with English, Frisian, and Dutch (Netherlandic or Flemish)."
+          }
+        ]
       }
     }
   ]

@@ -780,3 +780,31 @@ Communities of clergy and pilgrims from abroad have no links: the sources do not
 **Translations (same round):** 307 new or changed texts in `peoples.json` and `languages.json` were drafted in Arabic and Hebrew, giving 614 machine drafts, marked as such.
 - A second pass wrote scholars' names in Arabic and Hebrew script, as elsewhere on the site, and removed leftover Hebrew vowel points.
 - Titles of works, outlets, acronyms and quoted source passages stay in their original language.
+
+## 2026-10-20 — Milestone 9, round c: pictures of the peoples (cards view)
+
+**59 real images now cover 50 of the 61 peoples.** They are 27 photographs from before 1946 (mostly the Library of Congress Matson collection), 18 depictions made at the time, 12 objects and 2 maps.
+- **Licences:** 36 public domain, 7 CC0, and the rest CC BY or CC BY-SA. There are no NC, ND or all-rights-reserved images.
+- **Licence check:** the importer re-checked every licence against the Wikimedia Commons API rather than trusting the research draft. It saved a web-sized copy and a card-size copy in `public/peoples/`.
+- **What each image carries:**
+  - a plain caption;
+  - a note on who made the image and how that shapes it (for example, Egyptian royal art shows foreigners as defeated captives);
+  - the source that identifies who is shown;
+  - a confidence level: 46 documented, 9 estimated, 4 contested. The contested identifications are the Beni Hasan "Aamu" as Amorites, the Rekhmire tribute bearers as Canaanites, the Black Obelisk figure (Jehu or his envoy) and the Ammonite statue (a god or a deified king).
+- **Excluded:** images showing the dead or injured (some Assyrian reliefs, battle scenes, a funeral photograph). The Beta Israel engravings were also left out, because their author wrote about the community with contempt.
+
+**Edits to the images** (each one noted in the credit):
+- 11 Library of Congress stereographs were cropped to one photograph of each pair.
+- A 2010 photograph of the Kababir mosque was cropped to remove a date stamp.
+- The Nabataean camel figurine carries the Metropolitan Museum's own dating ("ca. 1st century BCE–1st century CE") in words, since a single year would be falsely precise.
+
+**No usable image** for 11 peoples: Samarians, Ghassanids, Egyptian settlers, Musta'arabim, Beta Israel, Karaites, the Arab citizens of Israel, the Palestinian diaspora, Afro-Palestinians, Kurds and Turkmen. Their cards show a placeholder.
+
+**AI impressions:** sourced briefs (scene, dress, objects, and an "avoid" list) were written for 18 ancient peoples. No AI image has been added yet. The validator only accepts AI images for groups that no longer exist as such, and requires them to be labelled and tied to the real images they draw on. `tools/research/gen_ai_impressions.py` builds the prompts.
+
+**Religions and languages of the 16 communities added in round b:** 17 religion entries and 25 language entries. Kurdish for today's Kurdish families in Gaza is contested; Sunni Islam for the medieval Kurds is estimated.
+- **New languages:** Georgian, Coptic (descended from Egyptian), Ge'ez, Kurdish and German.
+- **Extra sourced periods** for Syriac (liturgical), Greek (the Patriarchate's clergy) and Armenian (printing from 1833).
+- **Gaps:** no source found for the language of the Afro-Palestinians or the Maghrebi community; Persian for the Bahá'ís; a Turkic language for the Turkmen.
+
+All new texts have Arabic and Hebrew machine drafts. The About page states the picture rules.

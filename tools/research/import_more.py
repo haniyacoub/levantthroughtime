@@ -888,9 +888,8 @@ def import_m9p1(): import_m9('p1')
 def import_m9p2(): import_m9('p2')
 def import_m9p3(): import_m9('p3')
 
-def import_m9q1():
-    """Round M9b-Q1: religions and languages of each people, language descent, new languages and extra language periods."""
-    name = 'q1'
+def import_m9q1(name='q1'):
+    """Round M9b-Q1 (and Q4): religions and languages of each people, language descent, new languages and extra language periods."""
     d = load(os.path.join(RES, f'm9-{name}.json'))
     write(os.path.join(RES, f'm8-m9{name}-sources.json'), {'sources': d.get('sources', []), 'patches': []})
     apply_m8(f'm9{name}-sources')
@@ -931,6 +930,7 @@ def import_m9q1():
     print(f"m9-{name}: attributes for {n} peoples, {len(d.get('language_lineage', []))} lineages, {len(d.get('new_languages', []))} new languages")
 
 def import_m9q2(): apply_m8('m9q2')
+def import_m9q4(): import_m9q1('q4')
 def import_m9q3(): import_m9('q3')
 
 UA = {'User-Agent': 'LevantThroughTime/1.0 (https://levantthroughtime.com; educational history map)'}
@@ -994,6 +994,8 @@ def import_m9img():
         dest = os.path.join(out_dir, f'{iid}.jpg')
         conv = subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '78', '-Z', '900', raw, '--out', dest], capture_output=True, text=True)
         if conv.returncode != 0 or not os.path.exists(dest): rejected.append((iid, 'conversion failed')); continue
+        # A small copy for the cards, so the gallery does not load 60 full-size pictures.
+        subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '70', '-Z', '440', dest, '--out', dest.replace('.jpg', '-thumb.jpg')], capture_output=True)
         obj = im.get('object') or {}
         record = clean({
             'id': iid, 'file': f'peoples/{iid}.jpg', 'kind': im.get('kind', 'depiction'),

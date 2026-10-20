@@ -620,6 +620,8 @@ export function validateData(dir: string): Result {
         const w = `${where} › images[${i}]`;
         checkRefs('peoples.json', w, im.sources);
         if (!existsSync(join(dir, '..', 'public', im.file))) err('peoples.json', w, `Image file public/${im.file} is missing`);
+        const thumb = im.file.replace(/\.\w+$/, '-thumb.jpg');
+        if (!existsSync(join(dir, '..', 'public', thumb))) err('peoples.json', w, `Card-size copy public/${thumb} is missing`);
         if (im.kind === 'ai-impression') {
           // AI illustrations: never for groups that exist today, and always tied to the real evidence they draw on.
           if (!p.attested.end) err('peoples.json', w, 'AI impressions are only allowed for peoples that no longer exist as such');

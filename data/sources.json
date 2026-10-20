@@ -2,6 +2,26 @@
   "$schema": "../schema/sources.schema.json",
   "sources": [
     {
+      "id": "a-davey-2010-apadana-photo-description",
+      "type": "document",
+      "authors": [
+        "Davey, A."
+      ],
+      "title": "Arabian Tribute-Bearer on the Apadana Staircase 4 (photograph description)",
+      "container": "Wikimedia Commons (from Flickr)",
+      "publisher": "Wikimedia Commons",
+      "year": 2010,
+      "url": "https://commons.wikimedia.org/wiki/File:Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_(4685919183).jpg",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the photographer's description, which quotes Wilber 1969."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "abc-au-2026-07-06-yellow-line",
       "type": "web",
       "authors": [
@@ -579,7 +599,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole article (22 December 2023), the community's own account based on the official history Tarikh-e-Ahmadiyyat."
+        "note": "Read the whole article (22 December 2023), the community's own account based on the official history Tarikh-e-Ahmadiyyat. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole article, including the passage on the Kababir printing press."
       },
       "kind": "religious-institution",
       "institution_country": "GB"
@@ -1008,7 +1028,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the opening paragraphs shown before the paywall (15 March 2013); the rest was not seen. Author is an Israeli journalist."
+        "note": "Read the opening paragraphs shown before the paywall (15 March 2013); the rest was not seen. Author is an Israeli journalist. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the opening paragraphs shown before the paywall."
       },
       "kind": "press",
       "institution_country": "US"
@@ -1028,7 +1048,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the opening paragraphs shown before the paywall (2 January 2022); the rest of the article was not seen. Author is a Gaza-based journalist."
+        "note": "Read the opening paragraphs shown before the paywall (2 January 2022); the rest of the article was not seen. Author is a Gaza-based journalist. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the opening paragraphs shown before the paywall; the rest of the article was not seen."
       },
       "kind": "press",
       "institution_country": "US"
@@ -1179,11 +1199,30 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: p. 8 (PDF p. 10) on Jerusalem and the province of Damascus. | Re-read in Milestone 8: Re-read the working paper's section on Gaza and its region (p. 9 of the paper) on Turcoman and Kurdish nomads under the Mamluks."
+        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: p. 8 (PDF p. 10) on Jerusalem and the province of Damascus. | Re-read in Milestone 8: Re-read the working paper's section on Gaza and its region (p. 9 of the paper) on Turcoman and Kurdish nomads under the Mamluks. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) p. 9 on the Turcoman and Kurdish nomads near Gaza and their Arabisation."
       },
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "ammap-muenster-ammonite-sculptures",
+      "type": "document",
+      "authors": [
+        "Schmidt, Katharina (project lead)"
+      ],
+      "title": "Ammonite Sculptures (AMMAP project page)",
+      "container": "AMMAP: The Sculptures of Ammon, University of Münster",
+      "publisher": "Universität Münster",
+      "url": "https://www.uni-muenster.de/Ammap/en/about/ammonite-sculptures/index.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole project page on the Iron Age stone statues of Ammon (research project of the University of Münster)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "ammianus-14-rolfe",
@@ -1199,7 +1238,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (late 4th century CE). Downloaded and read 14.8.11-13 (Palestine made a province by Pompey; Arabia made a province by Trajan)."
+        "note": "Primary source (late 4th century CE). Downloaded and read 14.8.11-13 (Palestine made a province by Pompey; Arabia made a province by Trajan). | Re-read in Milestone 8: Re-read in M9c Ammianus 14.4.1-4 (the Saracens) on LacusCurtius."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -1247,7 +1286,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 3, opening pages (pp. 50-51)."
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 3, opening pages (pp. 50-51). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 52-53 on the community's archives and the languages of its documents."
       },
       "kind": "academic",
       "institution_country": "FR"
@@ -2413,7 +2452,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the Internet Archive OCR text of the Google scan of the Princeton University copy (public domain) and read Route 26 on Caesarea (p. 237) and Route 31 from Nazareth to Tiberias (p. 251). A contemporary travel handbook: a documentary witness for conditions around 1910, not a scholarly study."
+        "note": "Downloaded the Internet Archive OCR text of the Google scan of the Princeton University copy (public domain) and read Route 26 on Caesarea (p. 237) and Route 31 from Nazareth to Tiberias (p. 251). A contemporary travel handbook: a documentary witness for conditions around 1910, not a scholarly study. | Re-read in Milestone 8: Re-read in M9c the introduction on dress (Druses), Route 26 (Caesarea), Route 31 (Kafr Sabt) and the route to Jerash. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 10 (the Temple Society at Jaffa), 24 (population of Jerusalem by community) and 66 (the Moghrebins)."
       },
       "kind": "reference",
       "institution_country": "DE"
@@ -2932,6 +2971,66 @@
       "institution_country": "US"
     },
     {
+      "id": "bas-1988-qitmit-cover-caption",
+      "type": "document",
+      "authors": [
+        "Biblical Archaeology Society"
+      ],
+      "title": "On the cover: the Horvat Qitmit figurine (cover caption, image record bsba14020c100)",
+      "container": "Biblical Archaeology Review 14:2",
+      "publisher": "Biblical Archaeology Society",
+      "year": 1988,
+      "url": "https://library.biblicalarchaeology.org/?p=105503",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the cover caption on the BAS Library page."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "bas-2016-qitmit-goddess-caption",
+      "type": "document",
+      "authors": [
+        "Biblical Archaeology Society"
+      ],
+      "title": "\"Edomite goddess\": caption to a photograph of the Qitmit goddess head (image record bsba420603900)",
+      "container": "Biblical Archaeology Review 42:6 (BAS Library image record)",
+      "publisher": "Biblical Archaeology Society",
+      "year": 2016,
+      "url": "https://library.biblicalarchaeology.org/?p=121190",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the image caption on the BAS Library page; issue inferred from the image code."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "bas-2022-shasu-tile-caption",
+      "type": "document",
+      "authors": [
+        "Biblical Archaeology Society"
+      ],
+      "title": "\"Desert dweller\": caption to a photograph of the Shasu captive tile from Medinet Habu (image record bsba480302008)",
+      "container": "Biblical Archaeology Review (BAS Library image record)",
+      "publisher": "Biblical Archaeology Society",
+      "year": 2022,
+      "url": "https://library.biblicalarchaeology.org/images/bsba480302008ljpg/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the image caption on the BAS Library page; the volume (BAR 48:3) is inferred from the library's image code, the article itself was not opened. A popular archaeology magazine, used only for the identification of the tile."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "baytar-2024-debbane",
       "type": "chapter",
       "authors": [
@@ -2989,6 +3088,26 @@
       "kind": "press",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "beck-1988-head-of-a-goddess",
+      "type": "article",
+      "authors": [
+        "Beck, Pirhiya"
+      ],
+      "title": "Head of a Goddess (sidebar to I. Beit-Arieh, \"New Light on the Edomites\")",
+      "container": "Biblical Archaeology Review 14:2, p. 31",
+      "publisher": "Biblical Archaeology Society",
+      "year": 1988,
+      "url": "https://library.biblicalarchaeology.org/sidebar/head-of-a-goddess/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole sidebar by the art historian Pirhiya Beck on the BAS Library site."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "begin-1951-the-revolt",
@@ -3312,7 +3431,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole article in the PDF published on the journal's own site (11 pp.): introduction, the medieval and Ottoman sections and the conclusion. Author at Bahir Dar University, Ethiopia; the journal belongs to an association of the Ethiopian Orthodox Tewahedo Church."
+        "note": "Read the whole article in the PDF published on the journal's own site (11 pp.): introduction, the medieval and Ottoman sections and the conclusion. Author at Bahir Dar University, Ethiopia; the journal belongs to an association of the Ethiopian Orthodox Tewahedo Church. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) p. 54 (the Arabic and Ge'ez names of the monastery)."
       },
       "kind": "academic",
       "institution_country": "ET"
@@ -3910,7 +4029,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full review, including the paragraphs on Roman use of Arab tribal confederations (Tanukh, Salih) and Justinian's appointment of the Jafnid al-Harith."
+        "note": "Read the full review, including the paragraphs on Roman use of Arab tribal confederations (Tanukh, Salih) and Justinian's appointment of the Jafnid al-Harith. | Re-read in Milestone 8: Re-read in M9c the paragraph on the Namara epitaph."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -3934,6 +4053,24 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bnf-fr-9084-fol-169",
+      "type": "document",
+      "authors": [
+        "Bibliothèque nationale de France, Département des manuscrits"
+      ],
+      "title": "Guillaume de Tyr, Histoire d'Outremer (Estoire d'Eracles), MS français 9084, fol. 169: coronation of Fulk",
+      "container": "Mandragore (BnF iconographic database)",
+      "publisher": "Bibliothèque nationale de France",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Only the shelfmark and caption as given on the Wikimedia Commons file page (which links to the BnF Mandragore viewer) were seen; BnF sites refused automated access. Whether the manuscript was made in Acre or in France is debated."
+      },
+      "kind": "reference",
+      "institution_country": "FR"
     },
     {
       "id": "boas-2001-jerusalem-crusades",
@@ -4112,7 +4249,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Annals of Thutmose III on the first campaign (Megiddo). Dated scholarship (1906): the translation stands, but Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 the introduction to the biography of Ahmose son of Ebana (p. 5, §5). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text and re-read the introduction to the biography of Ahmose son of Ebana (p. 5, § 5)."
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Annals of Thutmose III on the first campaign (Megiddo). Dated scholarship (1906): the translation stands, but Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 the introduction to the biography of Ahmose son of Ebana (p. 5, §5). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text and re-read the introduction to the biography of Ahmose son of Ebana (p. 5, § 5). | Re-read in Milestone 8: Re-read in M9c §§760-761 (tomb of Rekhmire, reception of foreign tribute)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -4131,7 +4268,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Kadesh records of Ramses II and the Israel Stela of Merneptah. Dated scholarship (1906): Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 Breasted's commentary on the Israel Stela (§§603-605, pp. 257-258) and the letter of a frontier official, Papyrus Anastasi VI (§§636-638, pp. 272-273). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text and re-read Papyrus Anastasi VI (§§ 636-638, pp. 272-273)."
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Kadesh records of Ramses II and the Israel Stela of Merneptah. Dated scholarship (1906): Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 Breasted's commentary on the Israel Stela (§§603-605, pp. 257-258) and the letter of a frontier official, Papyrus Anastasi VI (§§636-638, pp. 272-273). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text and re-read Papyrus Anastasi VI (§§ 636-638, pp. 272-273). | Re-read in Milestone 8: Re-read in M9c Breasted's introduction to the Israel Stela (§§603-604)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -4794,7 +4931,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260809110121. Quotes are from the article body, not the AI-generated summary boxes."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260809110121. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the article body on the Armenian alphabet and scriptures (copy saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -4896,7 +5033,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260919004407/https://www.britannica.com/topic/Ayyubid-dynasty (live site returned HTTP 403). Read the full article."
+        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260919004407/https://www.britannica.com/topic/Ayyubid-dynasty (live site returned HTTP 403). Read the full article. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole article body via Internet Archive snapshot 20261015180524."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -4932,7 +5069,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read via Internet Archive snapshot 20260109061925 of the britannica.com page (direct access returned HTTP 403). | Re-read in Milestone 8: Re-read the article text via the same Internet Archive snapshot (20260109061925): sections on Baha'u'llah's exile and the community's institutions in Haifa and Acre."
+        "note": "Read via Internet Archive snapshot 20260109061925 of the britannica.com page (direct access returned HTTP 403). | Re-read in Milestone 8: Re-read the article text via the same Internet Archive snapshot (20260109061925): sections on Baha'u'llah's exile and the community's institutions in Haifa and Acre. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the opening of the article body and the section \"Practices\" (Internet Archive snapshot 20260109061925, saved earlier in this project)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -5488,6 +5625,44 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-coptic-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Coptic language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Coptic-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261012175246. Quotes are from the article body, not the AI-generated summary boxes. Read the whole short article."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-coptic-orthodox-church",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Coptic Orthodox Church of Alexandria",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Coptic-Orthodox-Church-of-Alexandria",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260917083955. Quotes are from the article body, not the AI-generated summary boxes. Read the whole article body."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-crimean-war",
       "type": "web",
       "authors": [
@@ -5902,6 +6077,25 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-ethiopian-orthodox-tewahedo-church",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Ethiopian Orthodox Tewahedo Church",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Ethiopian-Orthodox-Tewahedo-Church",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260928235715. Quotes are from the article body, not the AI-generated summary boxes. Read the whole article body."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-ezer-weizman",
       "type": "web",
       "title": "Ezer Weizman",
@@ -6100,6 +6294,82 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-geez-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Geʿez language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Geez-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20261015233913. Quotes are from the article body, not the AI-generated summary boxes. Read the whole short article."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-georgian-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Georgian language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Georgian-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260702112517. Quotes are from the article body, not the AI-generated summary boxes. Read the whole short article."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-georgian-orthodox-church",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Georgian Orthodox church",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Georgian-Orthodox-church",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260309020411. Quotes are from the article body, not the AI-generated summary boxes. Read the whole short article."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "britannica-german-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "German language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/German-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260926083009. Quotes are from the article body, not the AI-generated summary boxes. Read the opening section of the article (general characteristics)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-gezer",
@@ -7143,6 +7413,25 @@
       "institution_country": "US"
     },
     {
+      "id": "britannica-kurdish-language",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Kurdish language",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Kurdish-language",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260709145947. Quotes are from the article body, not the AI-generated summary boxes. Read the whole short article."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "britannica-lachish",
       "type": "web",
       "title": "Lachish",
@@ -7402,6 +7691,25 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "britannica-maronite-church",
+      "type": "web",
+      "authors": [
+        "Encyclopaedia Britannica editors"
+      ],
+      "title": "Maronite church",
+      "container": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica, Inc.",
+      "url": "https://www.britannica.com/topic/Maronite-church",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260930220937. Quotes are from the article body, not the AI-generated summary boxes. Read the whole article body."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "britannica-masada",
@@ -9238,7 +9546,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260518235012. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive snapshot 20260518235012)."
+        "note": "britannica.com refuses automated requests; read the article text via Internet Archive snapshot 20260518235012. Quotes are from the article body, not the AI-generated summary boxes. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the article body (Internet Archive snapshot 20260518235012). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the article body (Internet Archive snapshot 20260518235012), on the division of Syriac-speaking Christians."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -10964,6 +11272,25 @@
       "institution_country": "GB"
     },
     {
+      "id": "cia-1988-palestinian-refugee-camps-map",
+      "type": "map",
+      "authors": [
+        "United States Central Intelligence Agency"
+      ],
+      "title": "Palestinian refugee camps",
+      "publisher": "Central Intelligence Agency",
+      "year": 1988,
+      "url": "https://www.loc.gov/item/2006458564/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Read the Library of Congress catalogue description as reproduced on the Wikimedia Commons file page; the map itself was viewed."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
       "id": "cie-timeline-gort-1944",
       "type": "web",
       "title": "Field Marshal Viscount Gort is Appointed as High Commissioner of Palestine (timeline entry, November 1, 1944)",
@@ -11153,6 +11480,27 @@
       "institution_country": "US"
     },
     {
+      "id": "cole-1988-iranica-bahaism-faith",
+      "type": "chapter",
+      "authors": [
+        "Cole, Juan R. I."
+      ],
+      "title": "Bahaism i. The Faith",
+      "container": "Encyclopaedia Iranica, vol. III, fasc. 4",
+      "pages": "438-446",
+      "publisher": "Encyclopaedia Iranica Foundation",
+      "year": 1988,
+      "url": "https://www.iranicaonline.org/articles/bahaism-i",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "iranicaonline.org blocks automated requests; read the whole article via the Internet Archive snapshot 20260910055032 of the article page (published 15 December 1988, last updated 19 October 2016): sections \"History\", \"Doctrines\" and \"Laws and ethics\". Cole is an American historian of the modern Middle East."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "colligan-1995-ewc-karaites",
       "type": "chapter",
       "authors": [
@@ -11171,6 +11519,26 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "commons-madaba-map-photo-description",
+      "type": "document",
+      "authors": [
+        "Park, Yong Woo"
+      ],
+      "title": "Madaba Mosaic Map depicting Jerusalem and the Dead Sea, Church of St George (photograph description)",
+      "container": "Wikimedia Commons",
+      "publisher": "Wikimedia Commons",
+      "year": 2006,
+      "url": "https://commons.wikimedia.org/wiki/File:Madaba_Mosaic_Map_depicting_Jerusalem_and_the_Dead_Sea_Church_of_St_George.jpg",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the photographer's description only; not a scholarly source."
+      },
+      "kind": "reference",
+      "institution_country": "KR"
     },
     {
       "id": "conder-hastings-bible-dictionary",
@@ -11652,7 +12020,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 6, introductory section on the patriarchate and the Brotherhood of the Holy Sepulchre (pp. 118-121; PDF pages 144-147)."
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 6, introductory section on the patriarchate and the Brotherhood of the Holy Sepulchre (pp. 118-121; PDF pages 144-147). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 120-121 on the Brotherhood of the Holy Sepulchre and its Greek-speaking hierarchy."
       },
       "kind": "academic",
       "institution_country": "GR"
@@ -11821,7 +12189,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole article (pp. 24-44) in the copy deposited by the author's university in DigitalCommons@University of Nebraska-Lincoln ('Used by permission' of the publisher, per the footer); DOI as printed on the article (jps.2011.XLI.1.24) with the University of California Press prefix. The repository's PDF link is behind a bot check, so the file was retrieved through the Internet Archive's capture of that same repository URL (May 2024). Author at the University of Nebraska-Lincoln; the journal is published by the Institute for Palestine Studies."
+        "note": "Read the whole article (pp. 24-44) in the copy deposited by the author's university in DigitalCommons@University of Nebraska-Lincoln ('Used by permission' of the publisher, per the footer); DOI as printed on the article (jps.2011.XLI.1.24) with the University of California Press prefix. The repository's PDF link is behind a bot check, so the file was retrieved through the Internet Archive's capture of that same repository URL (May 2024). Author at the University of Nebraska-Lincoln; the journal is published by the Institute for Palestine Studies. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 25-26, 29, 31 and 34 on the community's churches (Gregorian and Catholic) and languages (copy saved earlier in this project)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -12364,6 +12732,25 @@
       "institution_country": "DE"
     },
     {
+      "id": "ecg-050-bir-el-qutt-inscription",
+      "type": "web",
+      "authors": [
+        "Epigraphic Corpus of Georgia"
+      ],
+      "title": "ECG050: Palestine inscription II (Georgian mosaic inscription from the monastery of St Theodore near Bethlehem)",
+      "container": "Epigraphic Corpus of Georgia (ECG), digital EpiDoc edition of the inscriptions of Georgia and the Caucasus",
+      "publisher": "Ilia State University, Tbilisi",
+      "url": "https://epigraphy.iliauni.edu.ge/inscriptions/ECG050.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole bilingual (Georgian/English) record: physical description, find circumstances, Georgian text, English translation and commentary. The edition is credited to Giorgi Tsereteli; the record dates the inscription to the 5th century, while its commentary reports Mikheil Tarkhnishvili's 6th-century dating. The mosaic, found by Virgilio Corbo in 1952-53 at Bir el-Qutt, is kept in the Studium Biblicum Franciscanum Museum, Jerusalem."
+      },
+      "kind": "academic",
+      "institution_country": "GE"
+    },
+    {
       "id": "eck-1999-jrs",
       "type": "article",
       "authors": [
@@ -12421,7 +12808,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the free PDF released by the Institute for the Study of Ancient Cultures (ISAC), Chicago, and read plates 27-28, 29-46 (Northern War of Year 8) with the translators' notes. Dated scholarship (1936)."
+        "note": "Downloaded the free PDF released by the Institute for the Study of Ancient Cultures (ISAC), Chicago, and read plates 27-28, 29-46 (Northern War of Year 8) with the translators' notes. Dated scholarship (1936). | Re-read in Milestone 8: Re-read in M9c the descriptions and captions of Plates 42-44 (Sea Peoples captives, Peleset and Thekker) with note 19 to Plate 43."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -12496,7 +12883,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com (history section signed Bustanay Oded). Its view that settled life in Transjordan ended in the mid-6th century rests on Nelson Glueck's surveys of the 1930s. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on the god Milcom and the Ammonite language."
+        "note": "Read the full entry on Encyclopedia.com (history section signed Bustanay Oded). Its view that settled life in Transjordan ended in the mid-6th century rests on Nelson Glueck's surveys of the 1930s. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on the god Milcom and the Ammonite language. | Re-read in Milestone 8: Re-read in M9c the sections on economy, administration and the caravan trade."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12538,7 +12925,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the History section on Tiglath-Pileser I's fourth year. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening definition and the passages on language and religion."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the History section on Tiglath-Pileser I's fourth year. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the opening definition and the passages on language and religion. | Re-read in Milestone 8: Re-read in M9c the paragraph on Aramean religion (Sam'al)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12648,6 +13035,26 @@
       "institution_country": "US"
     },
     {
+      "id": "ej-2007-hammurapi",
+      "type": "document",
+      "authors": [
+        "Shaffer, Aaron"
+      ],
+      "title": "Hammurapi",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hammurapi",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ej-2007-hebrew-language",
       "type": "chapter",
       "authors": [
@@ -12670,6 +13077,27 @@
         "level": "excerpt",
         "checked_on": "2026-10-20",
         "note": "Read on Encyclopedia.com the sections 'Pre-biblical' (Chaim Brovender: nature of the evidence and sources) and 'Modern Period' (Eli Eytan: periodisation; Uzzi Ornan: 'Period of Revival (1881-1918)' and 'The End of the Revival Period'). The long middle sections were not read."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-herod-i",
+      "type": "document",
+      "authors": [
+        "Bayer, Bathja",
+        "Applebaum, Shimon"
+      ],
+      "title": "Herod I",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/herod-i",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the opening and the paragraphs on his policies and sources on Encyclopedia.com."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12708,7 +13136,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the opening paragraph (expulsion by Ahmose and siege of Sharuhen). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Hyksos personal names and religion."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read the opening paragraph (expulsion by Ahmose and siege of Sharuhen). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Hyksos personal names and religion. | Re-read in Milestone 8: Re-read in M9c the paragraphs on the name Hyksos and on the sources (scarabs, monuments)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12733,6 +13161,26 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "ej-2007-jehu",
+      "type": "document",
+      "authors": [
+        "Oded, Bustanay"
+      ],
+      "title": "Jehu",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jehu",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com, including the section on foreign affairs and the Black Obelisk."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "ej-2007-karaites",
@@ -12768,7 +13216,68 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the silver bowl from the temple of Han-Ilat."
+        "note": "Read the full entry on Encyclopedia.com. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the silver bowl from the temple of Han-Ilat. | Re-read in Milestone 8: Re-read in M9c the paragraph on the Kedarite way of life."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-lachish",
+      "type": "document",
+      "authors": [
+        "Gibson, Shimon"
+      ],
+      "title": "Lachish",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/lachish",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry (2nd-edition text by Shimon Gibson) on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-mareshah",
+      "type": "document",
+      "authors": [
+        "Avi-Yonah, Michael",
+        "Finkielsztejn, Gerald"
+      ],
+      "title": "Mareshah",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/mareshah",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-mesha-stele",
+      "type": "document",
+      "authors": [
+        "Oded, Bustanay"
+      ],
+      "title": "Mesha Stele",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/mesha-stele",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12790,7 +13299,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com; the history section used here is signed Bustanay Oded. | Re-read in Milestone 8: Re-read the history section on the 6th century BCE. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Moabite religion and language."
+        "note": "Read the full entry on Encyclopedia.com; the history section used here is signed Bustanay Oded. | Re-read in Milestone 8: Re-read the history section on the 6th century BCE. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Moabite religion and language. | Re-read in Milestone 8: Re-read in M9c the paragraph on economy and dwellings."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12818,6 +13327,26 @@
       "accessed": "2026-10-20"
     },
     {
+      "id": "ej-2007-nabateans",
+      "type": "document",
+      "authors": [
+        "Joukowsky, Martha Sharp"
+      ],
+      "title": "Nabateans",
+      "container": "Encyclopaedia Judaica, 2nd ed., ed. M. Berenbaum and F. Skolnik",
+      "publisher": "Macmillan Reference USA / Gale",
+      "year": 2007,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/nabateans",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry (2nd-edition text by M. S. Joukowsky) on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ej-2007-philistines",
       "type": "chapter",
       "authors": [
@@ -12834,7 +13363,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com (history section signed Jonas C. Greenfield / S. David Sperling, 2nd ed.). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Philistine language, script, names and religion."
+        "note": "Read the full entry on Encyclopedia.com (history section signed Jonas C. Greenfield / S. David Sperling, 2nd ed.). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passages on Philistine language, script, names and religion. | Re-read in Milestone 8: Re-read in M9c the paragraphs on Medinet Habu, on Philistine pottery and on the Tjeker at Dor."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12899,6 +13428,28 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "ej-2007-templers",
+      "type": "chapter",
+      "authors": [
+        "Brawer, Abraham J.",
+        "Ussishkin, Ann"
+      ],
+      "title": "Templers",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/templers",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com: the history of the sect (signed Abraham J. Brawer), the section \"German National Socialist Party in Palestine\" (signed Ann Ussishkin) and the unsigned \"Further Information\". The online text renders \"Erez Israel\" with a broken character."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "ej-2007-tunis-tunisia",
@@ -13320,7 +13871,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 4, section 'The Neighborhood and the awqaf of Maghariba' (pp. 81-83)."
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 4, section 'The Neighborhood and the awqaf of Maghariba' (pp. 81-83). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 81-83 on the neighbourhood and its endowments."
       },
       "kind": "academic",
       "institution_country": "TR"
@@ -13612,7 +14163,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole summary page of the author's dissertation (École Normale Supérieure de Lyon), based on the baptismal register of St Mark's Monastery, 1831-1948. The dissertation itself was not read. No date is shown on the page."
+        "note": "Read the whole summary page of the author's dissertation (École Normale Supérieure de Lyon), based on the baptismal register of St Mark's Monastery, 1831-1948. The dissertation itself was not read. No date is shown on the page. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole page, including the description of the baptismal register and its languages."
       },
       "kind": "academic",
       "institution_country": "FR"
@@ -14337,7 +14888,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 5, opening and the section on the Russian Ecclesiastical Mission."
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 5, opening and the section on the Russian Ecclesiastical Mission. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 100, 102, 108-109 and 113 (Russian pilgrimage, the mission, Porfirii's notes on the Greek Orthodox Patriarchate, the request for a Slavonic liturgy, the patriarchal printing house)."
       },
       "kind": "academic",
       "institution_country": "RU"
@@ -15701,7 +16252,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text of vol. 1 (eBook #2707), book 2 ch. 157 (Psammetichus at Azotos/Ashdod) and book 3 chs. 19 and 91 (Phoenicians and Persia; the fifth tribute district). | Re-read in Milestone 8: Re-read in M9 book 1 ch. 1, book 2 ch. 104, book 3 chs. 5 and 88, and book 7 ch. 89 in the Project Gutenberg text."
+        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text of vol. 1 (eBook #2707), book 2 ch. 157 (Psammetichus at Azotos/Ashdod) and book 3 chs. 19 and 91 (Phoenicians and Persia; the fifth tribute district). | Re-read in Milestone 8: Re-read in M9 book 1 ch. 1, book 2 ch. 104, book 3 chs. 5 and 88, and book 7 ch. 89 in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in M9c book 7, ch. 69 (dress and arms of the Arabians in Xerxes' army) and ch. 86, and book 3, ch. 97."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -15762,7 +16313,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full article (24 pp.). The journal's own PDF URL returned HTTP 403, so the text was read in a copy of the same PDF posted at https://ros-vos.net/uploads/rus-lit.pdf (its running heads read 'Eras Edition 12, Issue 1, December 2010'); Eras is an open-access journal, but whether that copy is authorised was not established. Pages from the PDF's 'Page n' heads. | Re-read in Milestone 8: Re-read p. 2 on the Imperial Orthodox Palestine Society."
+        "note": "Read the full article (24 pp.). The journal's own PDF URL returned HTTP 403, so the text was read in a copy of the same PDF posted at https://ros-vos.net/uploads/rus-lit.pdf (its running heads read 'Eras Edition 12, Issue 1, December 2010'); Eras is an open-access journal, but whether that copy is authorised was not established. Pages from the PDF's 'Page n' heads. | Re-read in Milestone 8: Re-read p. 2 on the Imperial Orthodox Palestine Society. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 2-4 on Russian pilgrims and the Imperial Orthodox Palestine Society's schools."
       },
       "kind": "academic",
       "institution_country": "AU",
@@ -15806,7 +16357,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the Internet Archive full-text (OCR) of the University of Wisconsin Digital Collections scan of HoC vol. V (item setton-wisconsin-history-of-the-crusades-vol-5; the open-access copy is at the UW link), saved earlier in this research project; page numbers from the printed running heads. Read pp. 49-50 (the Christian communities of Syria, Lebanon and Palestine at the dawn of the crusades). Philip K. Hitti (1886-1978), Lebanese-born historian of the Arabs at Princeton University; the chapter was published posthumously."
+        "note": "Read the Internet Archive full-text (OCR) of the University of Wisconsin Digital Collections scan of HoC vol. V (item setton-wisconsin-history-of-the-crusades-vol-5; the open-access copy is at the UW link), saved earlier in this research project; page numbers from the printed running heads. Read pp. 49-50 (the Christian communities of Syria, Lebanon and Palestine at the dawn of the crusades). Philip K. Hitti (1886-1978), Lebanese-born historian of the Arabs at Princeton University; the chapter was published posthumously. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 53-54 on the Maronites, their union with Rome and their Syriac liturgy."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -16566,6 +17117,27 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "iranica-apadana",
+      "type": "document",
+      "authors": [
+        "Schmitt, R.",
+        "Stronach, D."
+      ],
+      "title": "Apadana",
+      "container": "Encyclopaedia Iranica, vol. II, fasc. 2, pp. 145-148",
+      "publisher": "Encyclopaedia Iranica Foundation",
+      "year": 1986,
+      "url": "https://www.iranicaonline.org/articles/apadana",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole entry in the Internet Archive Wayback Machine copy of 8 December 2024 (the live site refused automated access)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "iranica-arsacids-ii-schippmann",
       "type": "web",
       "authors": [
@@ -16726,6 +17298,26 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "irishtimes-2023-afro-palestinians",
+      "type": "web",
+      "authors": [
+        "McCarthy, Hannah"
+      ],
+      "title": "Jerusalem’s Afro-Palestinian community ‘left to fight our own battles’",
+      "container": "The Irish Times",
+      "publisher": "The Irish Times",
+      "year": 2023,
+      "url": "https://www.irishtimes.com/world/middle-east/2023/09/23/jerusalems-afro-palestinian-left-to-fight-our-own-battles/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole article (23 September 2023), based on interviews with members of the community, including Mousa Qous, head of the African community centre."
+      },
+      "kind": "press",
+      "institution_country": "IE"
     },
     {
       "id": "isa-samuel-exhibition",
@@ -17758,7 +18350,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole article (13 February 2018), which quotes the Kababir community leader Muhammad Sharif Odeh."
+        "note": "Read the whole article (13 February 2018), which quotes the Kababir community leader Muhammad Sharif Odeh. | Re-read in Milestone 8: Re-read in M9c the paragraph on Kababir and its mosque. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole article."
       },
       "kind": "press",
       "institution_country": "US"
@@ -18879,6 +19471,27 @@
       "institution_country": "IL"
     },
     {
+      "id": "kamrin-2009-aamu-of-shu",
+      "type": "article",
+      "authors": [
+        "Kamrin, Janice"
+      ],
+      "title": "The Aamu of Shu in the Tomb of Khnumhotep II at Beni Hassan",
+      "container": "Journal of Ancient Egyptian Interconnections 1:3, pp. 22-36",
+      "publisher": "University of Arizona Libraries",
+      "year": 2009,
+      "url": "https://journals.librarypublishing.arizona.edu/jaei/article/id/892/",
+      "doi": "10.2458/azu_jaei_v01i3_kamrin",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article; downloaded the PDF from the journal site and read the whole paper (description of the scene, identification of the Aamu, function). The journal page dates the issue 2010, the PDF header 2009."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "kaniewski-2011-sea-peoples",
       "type": "article",
       "authors": [
@@ -19172,7 +19785,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 18, opening section."
+        "note": "Read in the complete open-access PDF of the volume (Brill, 2018; open access) deposited in HAL, as downloaded earlier in this project: chapter 18, opening section. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 366 and 379-380 on the founding of the printing house and the languages of its books."
       },
       "kind": "academic",
       "institution_country": "AM"
@@ -19786,6 +20399,25 @@
       "institution_country": "GB"
     },
     {
+      "id": "layard-1853-discoveries-nineveh-babylon",
+      "type": "book",
+      "authors": [
+        "Layard, Austen Henry"
+      ],
+      "title": "Discoveries in the Ruins of Nineveh and Babylon",
+      "publisher": "John Murray, London",
+      "year": 1853,
+      "url": "https://archive.org/details/discoveriesinrui00laya",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Public-domain book; read chapter VI on the Lachish reliefs of Sennacherib's palace (description of the captives and the epigraph) in the Internet Archive OCR text. An early excavator's description, used only for what is carved on the relief."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "lbci-2026-04-18-yellow-line",
       "type": "web",
       "title": "Israeli army says established 'Yellow Line' in Lebanon, as in Gaza",
@@ -20177,6 +20809,538 @@
       "institution_country": "US"
     },
     {
+      "id": "loc-matpc-00975",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Bethlehem and surroundings. Christmas day at Bethlehem",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004001065/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Bethlehem and surroundings. Christmas day at Bethlehem LOC matpc.00975.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-01221",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Costumes, characters, etc. Gipsy [i.e., gypsy] encampment",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004001313/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Costumes, characters, etc. Gipsy (i.e., gypsy) encampment LOC matpc.01221.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-01241",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Costumes, characters, etc. Samaritan high priest and ancient scroll",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004001332/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Costumes, characters, etc. Samaritan high priest and ancient scroll LOC matpc.01241.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-01268",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Costumes, characters, etc. Coptic monks",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004001360/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Costumes, characters, etc. Coptic monks LOC matpc.01268.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-01851",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "The Samaritan Passover on Mt. Gerizim. Praying with faces toward Gerizim.",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004001938/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:The Samaritan Passover on Mt. Gerizim. Praying with faces toward Gerizim. LOC matpc.01851.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-02977",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Abyssinian monks",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004002314/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Abyssinian monks LOC matpc.02977.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-04363",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "The Greek patriarch.",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004003301/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:The Greek patriarch. LOC matpc.04363.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-04802",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Jews at Wailing Wall",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004005904/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Jews at Wailing Wall LOC matpc.04802.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-04927",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Armenian Convent, Jerusalem",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004006029/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Armenian Convent, Jerusalem LOC matpc.04927.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-05276",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Bedouin wedding series. Bedouin woman weaving tent of goats' hair",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004003905/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Bedouin wedding series. Bedouin woman weaving tent of goats' hair LOC matpc.05276.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-05577",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Along the sea coast. German colony at Haifa",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004005471/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Along the sea coast. German colony at Haifa LOC matpc.05577.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-05898",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "The Temple area. Jerusalem. The Dome of the Rock and the western Temple wall.",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004005788/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:The Temple area. Jerusalem. The Dome of the Rock and the western Temple wall. LOC matpc.05898 (cropped around Mughrabi Quarter).jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-05944",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Haifa & environs. Haifa. The new section. (Showing the Tomb of Abbas Effendi)",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004005831/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Haifa & environs. Haifa. The new section. (Showing the Tomb of Abbas Effendi) LOC matpc.05944.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-05952",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Trans-Jordan. Jerash. Circassian village.",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004005846/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Trans-Jordan. Jerash. Circassian village. LOC matpc.05952.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-06267",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Maronite bishop",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004006344/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Maronite bishop LOC matpc.06267.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-06315",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Group of Yemenite Jews",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2004006392/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Group of Yemenite Jews LOC matpc.06315.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-10637",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Druze",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2005002504/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Druze LOC matpc.10637.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-12406",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Allenby Street [Tel Aviv]",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2005008570/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Allenby Street (Tel Aviv) LOC matpc.12406.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-15029",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Ramallah woman",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2007010263/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Ramallah woman LOC matpc.15029.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-15361",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Northern views. Caesarea. El-Kaisarieh. Showing the village and bay",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010000859/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Northern views. Caesarea. El-Kaisarieh. Showing the village and bay LOC matpc.15361.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-16916",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Russian pilgrims",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010002412/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Russian pilgrims LOC matpc.16916.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-18437",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Convent of the Cross from the west",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010003926/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Convent of the Cross from the west LOC matpc.18437.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-18693",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Christian Arab girls wearing head-dress symbolic of Arab nationalism",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010004182/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Christian Arab girls wearing head-dress symbolic of Arab nationalism LOC matpc.18693.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-19050",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Askenazim [i.e., Ashkenazi] Jew teaching his son",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010004539/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Askenazim (i.e., Ashkenazi) Jew teaching his son LOC matpc.19050.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-19625",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Mr. Ussischkin [i.e., Ussishkin] with Vienese [?] Scroll & other ancient scrolls awaiting the arrival of Rabbi Ben Zion Meir Hai Uziel, for his enthronement as Chief Rabbi of the Separdic [i.e., Sephardic] Community",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010005114/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Mr. Ussischkin (i.e., Ussishkin) with Vienese (?) Scroll & other ancient scrolls awaiting the arrival of Rabbi Ben Zion Meir Hai Uziel, for his enthronement as Chief Rabbi of the Separdic LOC matpc.19625.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-19626",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Rabbi Uziel prays for the first time at the Wailing Wall, after his enthronement, June 27, 1939",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010005115/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Rabbi Uziel prays for the first time at the Wailing Wall, after his enthronement, June 27, 1939 LOC matpc.19626.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-21990",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Various types, etc. Jacobite pilgrims from Chaldea",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010007472/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Various types, etc. Jacobite pilgrims from Chaldea LOC matpc.21990.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "loc-matpc-22272",
+      "type": "document",
+      "authors": [
+        "Library of Congress, Prints and Photographs Division"
+      ],
+      "title": "Air views. Kafr Sabt. North of Mt. Tabor",
+      "container": "G. Eric and Edith Matson Photograph Collection (American Colony Photo Department negatives)",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/pictures/item/mpc2010007876/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the catalogue title, date and rights statement as reproduced from the Library of Congress record on the Wikimedia Commons file page (File:Air views. Kafr Sabt. North of Mt. Tabor LOC matpc.22272.jpg); the loc.gov page itself refused automated access. The title is the American Colony photographers' own caption."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "lockman-1996-comrades-and-enemies",
       "type": "book",
       "authors": [
@@ -20213,6 +21377,25 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "louvre-ao-5066-mesha",
+      "type": "document",
+      "authors": [
+        "Musée du Louvre, Département des Antiquités orientales"
+      ],
+      "title": "Stèle de Mesha (AO 5066)",
+      "container": "Collections du Louvre",
+      "publisher": "Musée du Louvre",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010120339",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full catalogue record (JSON export of the Louvre collections page): inventory numbers, date, inscription notes, location."
+      },
+      "kind": "reference",
+      "institution_country": "FR"
     },
     {
       "id": "louvre-ao-5066-mesha-stele",
@@ -20265,7 +21448,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier. The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: § 17 'Trans-jordania', pp. 227-228 (Transjordan in the sphere of the Arab administration of Damascus; the 1921 arrangement with the Emir Abdallah under the High Commissioner). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: p. 1 (boundaries), p. 27 (San Remo; the Military Administration 1917-1920), p. 30 (end of the Occupied Enemy Territory Administration on 30 June 1920 and the civil administration from 1 July 1920) and pp. 227-228 (Trans-jordania: its inclusion in the Mandate area, the Hejaz to the south, Abdullah's arrival and the arrangement of March 1921). | Re-read in Milestone 8: Re-read Part II, § 4 'Circassians, Bosnians and Magharbeh' (pp. 35-36) in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read the Internet Archive OCR text: p. 33 (population by religion), p. 37 (Muslim pilgrims' convents), pp. 40-41 (Orthodox Patriarchate), pp. 43-45 (Uniate churches, Armenian Patriarchate, Jacobites, Copts and Abyssinians), pp. 58-59 (the Baha'is), p. 71 (Mamluk hostels) and p. 98 (Monastery of the Cross)."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier. The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text downloaded earlier: § 17 'Trans-jordania', pp. 227-228 (Transjordan in the sphere of the Arab administration of Damascus; the 1921 arrangement with the Emir Abdallah under the High Commissioner). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the Internet Archive OCR text downloaded earlier in this project: p. 1 (boundaries), p. 27 (San Remo; the Military Administration 1917-1920), p. 30 (end of the Occupied Enemy Territory Administration on 30 June 1920 and the civil administration from 1 July 1920) and pp. 227-228 (Trans-jordania: its inclusion in the Mandate area, the Hejaz to the south, Abdullah's arrival and the arrangement of March 1921). | Re-read in Milestone 8: Re-read Part II, § 4 'Circassians, Bosnians and Magharbeh' (pp. 35-36) in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read the Internet Archive OCR text: p. 33 (population by religion), p. 37 (Muslim pilgrims' convents), pp. 40-41 (Orthodox Patriarchate), pp. 43-45 (Uniate churches, Armenian Patriarchate, Jacobites, Copts and Abyssinians), pp. 58-59 (the Baha'is), p. 71 (Mamluk hostels) and p. 98 (Monastery of the Cross). | Re-read in Milestone 8: Re-read in M9c Part I (history: Samaritans; list of the rulers of the Latin Kingdom). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 33 (population by religion), 41 (Orthodox Patriarchate), 44-45 (Armenian, Jacobite, Coptic and Abyssinian churches), 59 (Baha'is) and 98 (Monastery of the Cross)."
       },
       "kind": "government",
       "institution_country": "GB"
@@ -20364,7 +21547,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read on Persée in the page-by-page text view of pp. 277-332 (the PDF download was refused to automated requests). Used pp. 290 (the Namara epitaph), 297-298 (Provincia Arabia; the term 'Saracen'), 302 (the 'Nabataean' of a Palmyrene inscription of AD 132) and 311 (the Nabataean script used to write Arabic). Author at the University of Oxford. | Re-read in Milestone 8: Re-read p. 311 (Nabataean script and Arabic). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 307-310 on the language(s) of ancient 'Arabs' and the definition of Old Arabic."
+        "note": "Read on Persée in the page-by-page text view of pp. 277-332 (the PDF download was refused to automated requests). Used pp. 290 (the Namara epitaph), 297-298 (Provincia Arabia; the term 'Saracen'), 302 (the 'Nabataean' of a Palmyrene inscription of AD 132) and 311 (the Nabataean script used to write Arabic). Author at the University of Oxford. | Re-read in Milestone 8: Re-read p. 311 (Nabataean script and Arabic). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 307-310 on the language(s) of ancient 'Arabs' and the definition of Old Arabic. | Re-read in Milestone 8: Re-read in M9c p. 290 (the Namarah epitaph) in the Persée text."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -20542,7 +21725,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read the article (translations of EA 252-254, 271, 280, 289). | Re-read in Milestone 8: Re-read in M9 the section on the 'Apiru in the Canaanite letters."
+        "note": "Downloaded the page and read the article (translations of EA 252-254, 271, 280, 289). | Re-read in Milestone 8: Re-read in M9 the section on the 'Apiru in the Canaanite letters. | Re-read in Milestone 8: Re-read in M9c the section on Lab'ayu and the 'Apiru."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -20678,7 +21861,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the author's offprint PDF (58 pp.) from the downloads folder of the Manchester Romani Project site as mirrored at kratylos.org: introduction (pp. 1-3) and section 2 'Ethnographic background' (pp. 4-6). | Re-read in Milestone 8: Re-read pp. 1-6: introduction and section 2 'Ethnographic background'. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the introduction (p. 1) and section 4.2 on nominal inflection (p. 16)."
+        "note": "Read the author's offprint PDF (58 pp.) from the downloads folder of the Manchester Romani Project site as mirrored at kratylos.org: introduction (pp. 1-3) and section 2 'Ethnographic background' (pp. 4-6). | Re-read in Milestone 8: Re-read pp. 1-6: introduction and section 2 'Ethnographic background'. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the introduction (p. 1) and section 4.2 on nominal inflection (p. 16). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 1-6 (introduction and ethnographic background, including religion and language shift)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -20946,6 +22129,86 @@
       "institution_country": "IL"
     },
     {
+      "id": "met-30-4-83-rekhmire-syrians",
+      "type": "document",
+      "authors": [
+        "The Metropolitan Museum of Art"
+      ],
+      "title": "Syrians Bringing Vessels and Weapons, Tomb of Rekhmire (facsimile by Nina de Garis Davies)",
+      "container": "The Met Collection (Open Access API)",
+      "publisher": "The Metropolitan Museum of Art",
+      "year": 2026,
+      "url": "https://www.metmuseum.org/art/collection/search/544618",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Title, date, artist, medium and public-domain status. Read the museum's catalogue data through the Met Collection API (object 544618); the web page itself refused automated access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "met-30-8-457-khayan-scarab",
+      "type": "document",
+      "authors": [
+        "The Metropolitan Museum of Art"
+      ],
+      "title": "Scarab with the Name of the Hyksos King Khayan",
+      "container": "The Met Collection (Open Access API)",
+      "publisher": "The Metropolitan Museum of Art",
+      "year": 2026,
+      "url": "https://www.metmuseum.org/art/collection/search/544426",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Title, date, dynasty, medium and public-domain status. Read the museum's catalogue data through the Met Collection API (object 544426); the web page itself refused automated access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "met-31-67-2-nabataean-camel-riders",
+      "type": "document",
+      "authors": [
+        "The Metropolitan Museum of Art"
+      ],
+      "title": "Camel and riders (Nabataean silver figurine)",
+      "container": "The Met Collection (Open Access API)",
+      "publisher": "The Metropolitan Museum of Art",
+      "year": 2026,
+      "url": "https://www.metmuseum.org/art/collection/search/322592",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Title, culture, date, medium and public-domain status. Read the museum's catalogue data through the Met Collection API (object 322592); the web page itself refused automated access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "met-33-8-17-aamu-facsimile",
+      "type": "document",
+      "authors": [
+        "The Metropolitan Museum of Art"
+      ],
+      "title": "Leaders of the Aamu of Shu (facsimile by Norman de Garis Davies of a painting in the tomb of Khnumhotep II)",
+      "container": "The Met Collection (Open Access API)",
+      "publisher": "The Metropolitan Museum of Art",
+      "year": 2026,
+      "url": "https://www.metmuseum.org/art/collection/search/544548",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "catalogue-only",
+        "checked_on": "2026-10-20",
+        "note": "Title, date, artist, medium and public-domain status. Read the museum's catalogue data through the Met Collection API (object 544548); the web page itself refused automated access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "meyer-1909-bevoelkerung",
       "type": "chapter",
       "authors": [
@@ -20980,7 +22243,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole English article (17 September 2014). Mida is an Israeli right-of-centre site that openly supports the campaign it reports on."
+        "note": "Read the whole English article (17 September 2014). Mida is an Israeli right-of-centre site that openly supports the campaign it reports on. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole article, including the section \"Refusing to Yield\" on Aramaic in schools."
       },
       "kind": "press",
       "institution_country": "IL"
@@ -21753,6 +23016,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "nce-2003-byblos",
+      "type": "document",
+      "authors": [
+        "North, R."
+      ],
+      "title": "Byblos",
+      "container": "New Catholic Encyclopedia, 2nd ed.",
+      "publisher": "Thomson Gale",
+      "year": 2003,
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/byblos",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (signed r. north)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "nce-2003-canaan-canaanites",
       "type": "chapter",
       "authors": [
@@ -21768,7 +23051,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry on Encyclopedia.com. Written by Mitchell Dahood for the first edition (1967); some views (e.g. an Israelite conquest of the hill country) are older positions that later archaeology has challenged. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the Canaanite language (Biblical Hebrew as a Canaanite dialect)."
+        "note": "Read the full entry on Encyclopedia.com. Written by Mitchell Dahood for the first edition (1967); some views (e.g. an Israelite conquest of the hill country) are older positions that later archaeology has challenged. | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) the passage on the Canaanite language (Biblical Hebrew as a Canaanite dialect). | Re-read in Milestone 8: Re-read in M9c the paragraph on the etymology of Canaan and Phoenicia (murex and purple dye)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -21846,6 +23129,26 @@
       },
       "kind": "academic",
       "institution_country": "IL"
+    },
+    {
+      "id": "neuenkirchen-2022-standing-caliph",
+      "type": "document",
+      "authors": [
+        "Neuenkirchen, Paul"
+      ],
+      "title": "The \"Standing Caliph\" Copper Coinage",
+      "container": "Coproduced Religions (source commentary)",
+      "publisher": "Coproduced Religions research project",
+      "year": 2022,
+      "url": "https://coproduced-religions.org/pdf/sources/0eb61e96-f46b-4640-b802-ee11e88685f9",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the whole two-page commentary (PDF from the project site)."
+      },
+      "kind": "academic",
+      "institution_country": "CH"
     },
     {
       "id": "neuville-1948",
@@ -22776,7 +24079,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the edition and translation, and the text introduction on the RIA 5 'Texts 87-99' page (eighteenth year, 841 BC)."
+        "note": "Read the edition and translation, and the text introduction on the RIA 5 'Texts 87-99' page (eighteenth year, 841 BC). | Re-read in Milestone 8: Re-read in M9c the ORACC translation of the epigraph over the Jehu panel (riao/ria5, Q004693)."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -24508,6 +25811,26 @@
       "isbn": "0060152656"
     },
     {
+      "id": "peters-thiersch-1905-painted-tombs-marissa",
+      "type": "book",
+      "authors": [
+        "Peters, John P.",
+        "Thiersch, Hermann"
+      ],
+      "title": "Painted Tombs in the Necropolis of Marissa (Marêshah)",
+      "publisher": "Palestine Exploration Fund, London",
+      "year": 1905,
+      "url": "https://archive.org/details/paintedtombsinne00pete",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Public-domain excavation report; read the introduction (history of Marissa and the personal names) and the description of the paintings in the Internet Archive OCR text."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "peterson-2003-jerusalem-gypsy-community",
       "type": "article",
       "authors": [
@@ -25161,7 +26484,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century). | Re-read in Milestone 8: Re-read the opening of the chapter (HoC vol. V, p. 59) in the University of Wisconsin open-access scan. | Re-read in Milestone 8: Re-read in the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) pp. 59-60 (lists of communities), 66-68 (Melkites, Jacobites, Armenians), 77-79 (Jacobites, Copts, Ethiopians), 85-89 (Armenians and Georgians in Jerusalem) and 91 (Maronites). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 62 (Arabic among the Muslims of the crusader states) and 66 (the 'Syrians' or Melkites) in the University of Wisconsin Digital Collections copy saved earlier in this project."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century). | Re-read in Milestone 8: Re-read the opening of the chapter (HoC vol. V, p. 59) in the University of Wisconsin open-access scan. | Re-read in Milestone 8: Re-read in the Internet Archive full text of Setton vol. V (setton-wisconsin-history-of-the-crusades-vol-5) pp. 59-60 (lists of communities), 66-68 (Melkites, Jacobites, Armenians), 77-79 (Jacobites, Copts, Ethiopians), 85-89 (Armenians and Georgians in Jerusalem) and 91 (Maronites). | Re-read in Milestone 8: Re-read in Milestone 9 (Q1) pp. 62 (Arabic among the Muslims of the crusader states) and 66 (the 'Syrians' or Melkites) in the University of Wisconsin Digital Collections copy saved earlier in this project. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 66 (Orthodox Georgians and the non-Chalcedonian churches), 79 (Coptic archbishop of Jerusalem) and 85 (Armenians and Georgians)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -25914,6 +27237,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "rogers-1912-cuneiform-parallels",
+      "type": "book",
+      "authors": [
+        "Rogers, Robert William"
+      ],
+      "title": "Cuneiform Parallels to the Old Testament",
+      "publisher": "Eaton & Mains, New York",
+      "year": 1912,
+      "url": "https://archive.org/details/cuneiformparalle00rogeuoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Public-domain book (University of Toronto copy on the Internet Archive); read the translations of the letters of Abdi-Khiba (Abdi-Heba) of Jerusalem, pp. 268-280, using the OCR text. An old translation, cited only for the content of the letter."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "rood-2006-peasants-jerusalem",
       "type": "article",
       "authors": [
@@ -26615,7 +27957,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole article (9 pp.) in the journal's own open-access PDF, retrieved through the Internet Archive's capture of that URL (November 2019) because the publisher's site blocks automated requests. Largely based on interviews with members of the Jedda family of the African Quarter."
+        "note": "Read the whole article (9 pp.) in the journal's own open-access PDF, retrieved through the Internet Archive's capture of that URL (November 2019) because the publisher's site blocks automated requests. Largely based on interviews with members of the Jedda family of the African Quarter. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) pp. 43-48."
       },
       "kind": "academic",
       "institution_country": "PS"
@@ -26780,7 +28122,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole essay (dated 20 April 2022) on the author's website. Shindler is emeritus professor at SOAS, University of London; the essay is a commentary drawing on Heidemarie Wawrzyn's book Nazis in the Holy Land 1933-1948."
+        "note": "Read the whole essay (dated 20 April 2022) on the author's website. Shindler is emeritus professor at SOAS, University of London; the essay is a commentary drawing on Heidemarie Wawrzyn's book Nazis in the Holy Land 1933-1948. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the whole essay."
       },
       "kind": "press",
       "institution_country": "GB"
@@ -27009,6 +28351,46 @@
       "institution_country": "NL",
       "accessed": "2026-10-18",
       "isbn": "9789004064034"
+    },
+    {
+      "id": "smb-va-2817-barrakib",
+      "type": "document",
+      "authors": [
+        "Wartke, Ralf-Bernhard"
+      ],
+      "title": "König Barrakib und sein Schreiber (VA 02817)",
+      "container": "museum-digital: Staatliche Museen zu Berlin, Vorderasiatisches Museum",
+      "publisher": "Staatliche Museen zu Berlin",
+      "url": "https://smb.museum-digital.de/object/141817",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full museum record (German description by R.-B. Wartke, date, material, find context)."
+      },
+      "kind": "reference",
+      "institution_country": "DE"
+    },
+    {
+      "id": "smith-1915-atlas-mark-antony",
+      "type": "map",
+      "authors": [
+        "Smith, George Adam",
+        "Bartholomew, J. G."
+      ],
+      "title": "Palestine under Mark Antony, c. 40-31 B.C.",
+      "container": "Atlas of the Historical Geography of the Holy Land",
+      "publisher": "Hodder and Stoughton, London",
+      "year": 1915,
+      "url": "https://commons.wikimedia.org/wiki/File:Palestine_under_Mark_Antony_(Smith,_1915).jpg",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Viewed the public-domain map and read the transcription of its notes on the Commons file page."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "socin-encyclopaedia-biblica",
@@ -27328,7 +28710,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Primary source (early 1st century CE); the site states the translation is in the public domain. Downloaded and read 16.2.10, 16.2.18-20 and 16.2.46 (page 16B: Chalcis and Ptolemy son of Mennaeus, Zenodorus, Herod and his sons) and 16.4.21-24 (page 16D, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16D*.html: the Nabataeans as subjects of Rome). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius: 16.2.2 (Judaeans, Idumaeans, Gazaeans, Azotians), 16.2.10 and 16.2.18 (Ituraeans), 16.2.34 (Idumaeans and the mixed population of Judaea) on page 16B, and 16.4.21 (Nabataeans, Petra) on page 16D."
+        "note": "Primary source (early 1st century CE); the site states the translation is in the public domain. Downloaded and read 16.2.10, 16.2.18-20 and 16.2.46 (page 16B: Chalcis and Ptolemy son of Mennaeus, Zenodorus, Herod and his sons) and 16.4.21-24 (page 16D, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16D*.html: the Nabataeans as subjects of Rome). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius: 16.2.2 (Judaeans, Idumaeans, Gazaeans, Azotians), 16.2.10 and 16.2.18 (Ituraeans), 16.2.34 (Idumaeans and the mixed population of Judaea) on page 16B, and 16.4.21 (Nabataeans, Petra) on page 16D. | Re-read in Milestone 8: Re-read in M9c Strabo 16.4.26 (Nabataean customs, houses, dress) on LacusCurtius."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -28552,7 +29934,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the whole English page (last changed 03.10.2026 per the page footer). It is the Temple Society's own history of its settlements and quotes the Israeli historian Alex Carmel; an interested but independent account relative to Schölch. | Re-read in Milestone 8: Re-read the whole page, including the sections on internment, deportation to Australia (1941) and departure (1948)."
+        "note": "Read the whole English page (last changed 03.10.2026 per the page footer). It is the Temple Society's own history of its settlements and quotes the Israeli historian Alex Carmel; an interested but independent account relative to Schölch. | Re-read in Milestone 8: Re-read the whole page, including the sections on internment, deportation to Australia (1941) and departure (1948). | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the introduction on the Templers' origins in Protestant Pietism; also read the 16-page PDF booklet of the same title linked from the page (printed 2009)."
       },
       "kind": "religious-institution",
       "institution_country": "DE",
@@ -31072,7 +32454,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the Internet Archive full text of Setton vol. II, p. 408 (the 1218-1219 conspiracy against al-Kamil). The University of Wisconsin publishes the series in its free digital collections; the Internet Archive copy is the one used for other chapters already in this project."
+        "note": "Read the Internet Archive full text of Setton vol. II, p. 408 (the 1218-1219 conspiracy against al-Kamil). The University of Wisconsin publishes the series in its free digital collections; the Internet Archive copy is the one used for other chapters already in this project. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) p. 408 on the Kurdish troops of the Ayyubid army."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -31168,7 +32550,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-20",
-        "note": "Read the written summary of the video report (14 July 2023); the video itself was not watched."
+        "note": "Read the written summary of the video report (14 July 2023); the video itself was not watched. | Re-read in Milestone 8: Re-read in Milestone 9 (Q4) the written summary of the video report."
       },
       "kind": "press",
       "institution_country": "US"
@@ -31642,6 +33024,25 @@
       "accessed": "2026-10-20"
     },
     {
+      "id": "walters-54-2335-balawat-fragments",
+      "type": "document",
+      "authors": [
+        "Walters Art Museum"
+      ],
+      "title": "Fragments of Bands from a Gate (Assyrian, reign of Shalmaneser III), accession 54.2335",
+      "container": "Walters Art Museum collection description",
+      "publisher": "Walters Art Museum, Baltimore",
+      "url": "https://art.thewalters.org/detail/10050/fragment-of-band-from-a-gate/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the museum's object description as contributed by the Walters Art Museum to Wikimedia Commons with the image (File:Assyrian - Fragments of Bands from a Gate - Walters 542335 - View A.jpg); the Walters site refused automated access."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "wcpd-1998-wye",
       "type": "document",
       "title": "The Wye River Memorandum, October 23, 1998 (Weekly Compilation of Presidential Documents, 2 November 1998, p. 2104ff.)",
@@ -31820,6 +33221,24 @@
       "institution_country": "US"
     },
     {
+      "id": "wilber-1969-persepolis",
+      "type": "book",
+      "authors": [
+        "Wilber, Donald N."
+      ],
+      "title": "Persepolis: The Archaeology of Parsa, Seat of the Persian Kings",
+      "publisher": "Thomas Y. Crowell",
+      "year": 1969,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not opened; quoted on the description page of the Wikimedia Commons photograph by A. Davey (2010)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "williams-review-kitchen",
       "type": "article",
       "authors": [
@@ -31986,6 +33405,26 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the author's own PDF of the published article (tables 1-4, a modification of Thiele's chronology). Represents the harmonising chronology of the biblical reign data (evangelical scholarship); used alongside Finkelstein's archaeology-based dates."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "yurco-1990-bar-merenptah-reliefs",
+      "type": "document",
+      "authors": [
+        "Yurco, Frank J."
+      ],
+      "title": "3,200-Year-Old Picture of Israelites Found in Egypt (caption to the Shasu prisoners in scene 7 of the Merenptah reliefs, image record bsba160503502)",
+      "container": "Biblical Archaeology Review 16:5",
+      "publisher": "Biblical Archaeology Society",
+      "year": 1990,
+      "url": "https://library.biblicalarchaeology.org/images/bsba160503502ljpg",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read only the image caption on the BAS Library page (article not opened); the author and issue are taken from the library record."
       },
       "kind": "academic",
       "institution_country": "US"
