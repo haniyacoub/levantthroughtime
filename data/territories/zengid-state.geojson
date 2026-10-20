@@ -26,7 +26,7 @@
         "boundary_certainty": "schematic",
         "description": {
           "en": "Footholds on the northern edge of the map area taken from Damascus: Banyas at the foot of Mount Hermon and 'Ainjar in the Beqaa (c. 1137/38), and Baalbek from 1139 (Gibb).",
-          "ar": "مواطئ قدم على الطرف الشمالي لمنطقة الخريطة أُخذت من دمشق: بانياس عند سفح جبل الشيخ وعنجر في البقاع (نحو 1137/1138)، وبعلبك منذ 1139 (غيب).",
+          "ar": "مواطئ قدم على الطرف الشمالي لمنطقة الخريطة أُخذت من دمشق: بانياس عند سفح جبل الشيخ وعنجر في البقاع (نحو 1137/1138)، وبعلبك منذ 1139 (جب).",
           "he": "אחיזות בשוליה הצפוניים של המפה שנלקחו מדמשק: באניאס למרגלות החרמון ועינג'ר בבקאע (בערך 1137/1138), ובעלבכ מ-1139 (גיב).",
           "translation_status": {
             "ar": "machine-draft",
@@ -53,7 +53,7 @@
         ],
         "notes": {
           "en": "The month of the capture of Banyas and 'Ainjar (late 1137 or early 1138) is not established. In 1140 Banyas was surrendered to Unur of Damascus after a month's siege and handed to the Franks (Gibb).",
-          "ar": "لم يُحدَّد شهر الاستيلاء على بانياس وعنجر (أواخر 1137 أو أوائل 1138). وفي 1140 سُلّمت بانياس لأُنُر صاحب دمشق بعد حصار دام شهرًا ثم أُعطيت للفرنجة (غيب).",
+          "ar": "لم يُحدَّد شهر الاستيلاء على بانياس وعنجر (أواخر 1137 أو أوائل 1138). وفي 1140 سُلّمت بانياس لأُنُر صاحب دمشق بعد حصار دام شهرًا ثم أُعطيت للفرنجة (جب).",
           "he": "חודש כיבוש באניאס ועינג'ר (סוף 1137 או ראשית 1138) לא נקבע. ב-1140 נמסרה באניאס לאונור מדמשק אחרי מצור של חודש והועברה לפרנקים (גיב).",
           "translation_status": {
             "ar": "machine-draft",
@@ -87,7 +87,7 @@
         "boundary_certainty": "schematic",
         "description": {
           "en": "Baalbek and the Beqaa, held for Zengi by his governor Najm al-Din Ayyub until Zengi's death (Gibb).",
-          "ar": "بعلبك والبقاع، تحت حكم واليه نجم الدين أيوب حتى وفاة زنكي (غيب).",
+          "ar": "بعلبك والبقاع، تحت حكم واليه نجم الدين أيوب حتى وفاة زنكي (جب).",
           "he": "בעלבכ והבקאע, שהוחזקו עבור זנגי בידי מושלו נג'ם א-דין איוב עד מות זנגי (גיב).",
           "translation_status": {
             "ar": "machine-draft",
@@ -153,7 +153,7 @@
         "boundary_certainty": "schematic",
         "description": {
           "en": "Damascus with the Ghuta and the Hauran after Nur al-Din entered the city on 25 April 1154; Baalbek from June 1155 and Banyas from 18 October 1164 (Gibb).",
-          "ar": "دمشق مع الغوطة وحوران بعد دخول نور الدين المدينة في 25 نيسان/أبريل 1154؛ وبعلبك منذ حزيران/يونيو 1155 وبانياس منذ 18 تشرين الأول/أكتوبر 1164 (غيب).",
+          "ar": "دمشق مع الغوطة وحوران بعد دخول نور الدين المدينة في 25 نيسان/أبريل 1154؛ وبعلبك منذ حزيران/يونيو 1155 وبانياس منذ 18 تشرين الأول/أكتوبر 1164 (جب).",
           "he": "דמשק עם הע'וטה והחוראן אחרי שנור א-דין נכנס לעיר ב-25 באפריל 1154; בעלבכ מיוני 1155 ובאניאס מ-18 באוקטובר 1164 (גיב).",
           "translation_status": {
             "ar": "machine-draft",
@@ -206,7 +206,7 @@
         ],
         "notes": {
           "en": "Golan is partial because Banyas stayed Frankish until 1164 and the districts south-east of Lake Tiberias were contested; Lebanon-mountains is partial for Baalbek and the Beqaa. The units match the Ayyubid slice that follows (ayyubid-sultanate-2). After Nur al-Din's death (15 May 1174) Damascus was held for his son al-Salih Isma'il until Saladin entered it on 28 October 1174. Egypt, ruled in Nur al-Din's name by Saladin from 1169, is left to the Fatimid and Ayyubid slices. The Burid rulers of Damascus recognised Nur al-Din's suzerainty from 1150-51 (Gibb), which is not drawn as Zengid territory.",
-          "ar": "الجولان جزئي لأن بانياس بقيت فرنجية حتى 1164 ولأن المناطق الواقعة جنوب شرق بحيرة طبرية كانت متنازعًا عليها؛ وجبل لبنان جزئي لبعلبك والبقاع. وتطابق الوحدات الشريحة الأيوبية التالية (ayyubid-sultanate-2). وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174. أما مصر، التي حكمها صلاح الدين باسم نور الدين منذ 1169، فتُترك للشريحتين الفاطمية والأيوبية. واعترف الحكام البوريون لدمشق بسيادة نور الدين منذ 1150-1151 (غيب)، ولا يُرسم ذلك أرضًا زنكية.",
+          "ar": "الجولان جزئي لأن بانياس بقيت فرنجية حتى 1164 ولأن المناطق الواقعة جنوب شرق بحيرة طبرية كانت متنازعًا عليها؛ وجبل لبنان جزئي لبعلبك والبقاع. وتطابق الوحدات الشريحة الأيوبية التالية (ayyubid-sultanate-2). وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174. أما مصر، التي حكمها صلاح الدين باسم نور الدين منذ 1169، فتُترك للشريحتين الفاطمية والأيوبية. واعترف الحكام البوريون لدمشق بسيادة نور الدين منذ 1150-1151 (جب)، ولا يُرسم ذلك أرضًا زنكية.",
           "he": "הגולן חלקי משום שבאניאס נשארה פרנקית עד 1164 והאזורים שמדרום-מזרח לכנרת היו שנויים במחלוקת; הר הלבנון חלקי בשל בעלבכ והבקאע. היחידות תואמות את הפרוסה האיובית שאחריה (ayyubid-sultanate-2). אחרי מות נור א-דין (15 במאי 1174) הוחזקה דמשק בשם בנו א-סאלח איסמאעיל עד שצלאח א-דין נכנס אליה ב-28 באוקטובר 1174. מצרים, שנשלטה בשם נור א-דין בידי צלאח א-דין מ-1169, נשארת לפרוסות הפאטמית והאיובית. השליטים הבורים של דמשק הכירו בריבונות נור א-דין מ-1150-1151 (גיב), ואין הדבר משורטט כשטח זנגי.",
           "translation_status": {
             "ar": "machine-draft",
