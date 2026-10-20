@@ -2695,14 +2695,14 @@
           "quote": "at the great Battle of Carchemish (a Syrian city on the middle Euphrates River) in 605 the Neo-Babylonian crown prince, Nebuchadrezzar, soundly defeated Necho’s troops and forced their withdrawal from Syria and Palestine."
         },
         {
-          "ref": "livius-abc5",
+          "ref": "livius-abc5-jerusalem-chronicle",
           "locator": "ABC 5, obv. 1-4",
           "quote": "he marched to Karchemiš which is on the bank of the Euphrates, and crossed the river to go against the Egyptian army which lay in Karchemiš."
         },
         {
           "ref": "grayson-1975-chronicles",
           "locator": "ABC 5, obv. 1-8",
-          "via": "livius-abc5"
+          "via": "livius-abc5-jerusalem-chronicle"
         }
       ],
       "notes": {
@@ -2792,14 +2792,14 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "livius-abc5",
+          "ref": "livius-abc5-jerusalem-chronicle",
           "locator": "ABC 5, obv. 18-20",
           "quote": "He marched to the city of Aškelon and captured it in the month of Kislîmu."
         },
         {
           "ref": "grayson-1975-chronicles",
           "locator": "ABC 5, obv. 18-20",
-          "via": "livius-abc5"
+          "via": "livius-abc5-jerusalem-chronicle"
         },
         {
           "ref": "britannica-nebuchadnezzar-ii",
@@ -2896,14 +2896,14 @@
           "quote": "He attacked Judah a year later and captured Jerusalem on March 16, 597, deporting King Jehoiachin to Babylon."
         },
         {
-          "ref": "livius-abc5",
+          "ref": "livius-abc5-jerusalem-chronicle",
           "locator": "ABC 5, rev. 11´-13´",
           "quote": "besieged the city of Judah and on the second day of the month of Addaru"
         },
         {
           "ref": "grayson-1975-chronicles",
           "locator": "ABC 5, rev. 11´-13´",
-          "via": "livius-abc5"
+          "via": "livius-abc5-jerusalem-chronicle"
         }
       ],
       "notes": {
@@ -6592,7 +6592,7 @@
           "quote": "Under Marcian (450–457) and again under the Byzantine emperor Justinian I (527–565), the Samaritans revolted."
         },
         {
-          "ref": "procopius-buildings",
+          "ref": "procopius-buildings-5-dewing",
           "locator": "V.7.5",
           "quote": "the Samaritans suddenly banded together and fell upon the Christians in Neapolis in the church while they were celebrating the festival called the Pentecost"
         }
@@ -6696,12 +6696,12 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "procopius-buildings",
+          "ref": "procopius-buildings-5-dewing",
           "locator": "V.7.5-7",
           "quote": "He drove out the Samaritans from Mt. Garizin and straightway handed it over to the Christians"
         },
         {
-          "ref": "procopius-buildings",
+          "ref": "procopius-buildings-5-dewing",
           "locator": "V.7.5 (editorial note 26 dates Zeno 474-491)",
           "quote": "the Samaritans suddenly banded together and fell upon the Christians in Neapolis"
         },
@@ -7284,12 +7284,12 @@
           "quote": "Khālid remained the effective leader of the forces facing the Byzantine armies in Syria and Palestine."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. I, p. 165",
           "quote": "The tying of these banners took place on Thursday the first of Safar, year 13"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, Jerusalem, p. 213",
           "quote": "The conquest of Jerusalem took place in the year 17."
         },
@@ -7388,17 +7388,17 @@
           "quote": "The first battle took place at Wadi Al-Arabah, south of the Dead Sea. The Byzantine defenders were defeated and retreated toward Gaza but were overtaken and almost annihilated."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. I, pp. 167-168 (Dathin)",
           "quote": "Here the battle raged furiously, but at last Allah gave victory to his friends and defeat to his enemies whom he dispersed."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. I, p. 168 (al-Arabah)",
           "quote": "which lay in Palestine, he directed against them abu-Umamah"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. I, p. 168",
           "quote": "All this took place before the arrival of Khalid ibn-al-Walid in Syria."
         }
@@ -7476,12 +7476,12 @@
           "quote": "In 635 ce the Arabs took Gaza, and it became a Muslim city."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, Palestine chapter, p. 213",
           "quote": "effected the conquest of Ghazzah, then Sabastiyah"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "p. 213",
           "quote": "The first conflict between Moslems and Greeks took place in the caliphate of abu-Bakr in the province of Palestine"
         }
@@ -7571,12 +7571,12 @@
           "quote": "the combined forces won a bloody victory on July 30, 634, at a place in southern Palestine that the sources call Ajnādayn. All of Palestine then lay open to the invaders."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. IV, p. 175",
           "quote": "This battle of Ajnadin took place on Monday twelve days before the end of Jumada I, year 13."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. IV, p. 175",
           "quote": "Some, however, say two days after the beginning of Jumada II, and others two days before its end."
         }
@@ -7671,12 +7671,12 @@
           "quote": "Routing the Byzantine armies, he surrounded Damascus, which surrendered on Sept. 4, 635, and pushed northward."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. VIII, p. 189",
           "quote": "According to al-Wakidi, the conquest of Damascus was effected in Rajab, year 14,"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. VIII, p. 189",
           "quote": "but the date which Khalid's statement of capitulation bears was Rabi' II, year 15."
         }
@@ -7782,7 +7782,7 @@
           "quote": "attacked and destroyed the remaining Byzantine forces along the ravines of the Yarmūk valley (Aug. 20, 636)."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, ch. X, p. 210",
           "quote": "The battle of al-Yarmuk took place in Rajab, year 15."
         }
@@ -7881,12 +7881,12 @@
           "quote": "declared it a sacred place of prayer, and erected there the first structure called Al-Aqsa Mosque."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, Jerusalem, p. 213",
           "quote": "The conquest of Jerusalem took place in the year 17."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Part II, Jerusalem, p. 214",
           "quote": "whose people asked him to make terms with them, which he did in the year 17, with the stipulation that"
         }
@@ -9581,7 +9581,7 @@
           "used_by": "academic",
           "sources": [
             {
-              "ref": "britannica-palestine-to-1900",
+              "ref": "britannica-palestine-crusades-ottoman",
               "quote": "the decisive Battle of Ḥaṭṭīn (Ḥiṭṭīn)."
             }
           ]
@@ -9648,7 +9648,7 @@
           "quote": "Battle of Ḥaṭṭīn, (July 4, 1187), battle in northern Palestine that marked the defeat and annihilation of the Christian Crusader armies of Guy de Lusignan, king of Jerusalem"
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "On July 4, 1187, six days after the capture of Tiberias, he dealt the Crusaders a crushing blow at the decisive Battle of Ḥaṭṭīn (Ḥiṭṭīn)."
         },
         {
@@ -10342,7 +10342,7 @@
           "quote": "in 1244 an alliance of Jerusalem and Damascus failed to prevent the capture and sack of Jerusalem by Khwārezmians with Egyptian aid."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "In 1244, however, the Ayyubid sultan al-Ṣāliḥ Ayyūb definitively restored Jerusalem to Islam."
         },
         {
@@ -10865,7 +10865,7 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "in the years 1263 to 1271 he carried out annual raids against the harassed Franks."
         },
         {
@@ -11557,7 +11557,7 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "the last of the Crusaders were driven out of Acre (May 18, 1291)."
         },
         {
@@ -11956,7 +11956,7 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "Although Palestine was spared the pillage of his hordes, it could not escape its disastrous repercussions as the Mamluks moved through in a vain attempt to defend Damascus against the invader."
         },
         {
@@ -12081,7 +12081,7 @@
           "quote": "thus bringing Syria, Egypt, and Palestine under Ottoman rule."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "Palestine began its four centuries under Ottoman domination."
         },
         {
@@ -12197,7 +12197,7 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "quote": "The climax came three decades later on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq."
         },
         {
@@ -22043,7 +22043,7 @@
           "used_by": "palestinian",
           "sources": [
             {
-              "ref": "mitchell-report-2001",
+              "ref": "mitchell-2001-sharm-el-sheikh-report",
               "locator": "section 'What happened?'",
               "quote": "Thus began what has become known as the \"Al-Aqsa Intifada\""
             },
@@ -22161,27 +22161,27 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "mitchell-report-2001",
+          "ref": "mitchell-2001-sharm-el-sheikh-report",
           "locator": "section 'What happened?'",
           "quote": "Thus began what has become known as the \"Al-Aqsa Intifada\" (Al-Aqsa being a mosque at the Haram al-Sharif/Temple Mount)."
         },
         {
-          "ref": "mitchell-report-2001",
+          "ref": "mitchell-2001-sharm-el-sheikh-report",
           "locator": "same section",
           "quote": "In this view, Palestinian violence was planned by the PA leadership, and was aimed at \"provoking and incurring Palestinian casualties as a means of regaining the diplomatic initiative.\""
         },
         {
-          "ref": "mitchell-report-2001",
+          "ref": "mitchell-2001-sharm-el-sheikh-report",
           "locator": "same section",
           "quote": "The Palestine Liberation Organization (PLO) denies the allegation that the intifada was planned."
         },
         {
-          "ref": "mitchell-report-2001",
+          "ref": "mitchell-2001-sharm-el-sheikh-report",
           "locator": "section 'Why did it happen?'",
           "quote": "The Sharon visit did not cause the \"Al-Aqsa Intifada.\" But it was poorly timed and the provocative effect should have been foreseen"
         },
         {
-          "ref": "mitchell-report-2001",
+          "ref": "mitchell-2001-sharm-el-sheikh-report",
           "locator": "same section",
           "quote": "we have no basis on which to conclude that there was a deliberate plan by the PA to initiate a campaign of violence at the first opportunity"
         },

@@ -7027,7 +7027,7 @@
           "quote": "Jewish forces then took control of Tiberias (April 18), Haifa (April 21–22), Safed (May 10), and Jaffa (May 13)"
         },
         {
-          "ref": "britannica-safed"
+          "ref": "britannica-zefat"
         },
         {
           "ref": "conder-kitchener-1881-swp-memoirs-1",
@@ -7073,7 +7073,7 @@
             },
             "sources": [
               {
-                "ref": "britannica-safed",
+                "ref": "britannica-zefat",
                 "quote": "Safed achieved renown in the 16th century as the principal centre of the Kabbala"
               },
               {
@@ -14978,7 +14978,7 @@
       "founded_note": "Herod built the city of Antipatris on the site of ancient Aphek, c. 20 BCE (Britannica).",
       "founded_sources": [
         {
-          "ref": "britannica-petah-tikva",
+          "ref": "britannica-petah-tiqwa",
           "locator": "environs",
           "quote": "Later Herod the Great , king of Judaea , built the city of Antipatris on the site (c. 20 bce )."
         }
@@ -14997,7 +14997,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "britannica-petah-tikva",
+              "ref": "britannica-petah-tiqwa",
               "locator": "environs",
               "quote": "the tell (mound) of Aphek , an ancient Canaanite city, mentioned in Egyptian texts as early as the 18th century bce"
             }
@@ -15544,7 +15544,7 @@
       "founded_note": "Founded in 1882 by immigrants of the First Aliyah (Britannica); city status 1950.",
       "founded_sources": [
         {
-          "ref": "britannica-rishon-lezion",
+          "ref": "britannica-rishon-leziyyon",
           "locator": "history",
           "quote": "Rishon LeZion was founded in 1882 by Russian-Jewish immigrants of the First Aliyah."
         }
@@ -15656,7 +15656,7 @@
       "founded_note": "First village of the modern Jewish settlement of Palestine, founded 1878 (Britannica).",
       "founded_sources": [
         {
-          "ref": "britannica-petah-tikva",
+          "ref": "britannica-petah-tiqwa",
           "locator": "history",
           "quote": "Petah Tikva was the first village (founded in 1878) in the modern Jewish settlement of Palestine"
         }
@@ -15687,7 +15687,7 @@
               "locator": "Q190828 label (he)"
             },
             {
-              "ref": "britannica-petah-tikva",
+              "ref": "britannica-petah-tiqwa",
               "locator": "name",
               "quote": "the city takes its name (meaning “Door of Hope”) from the biblical allusion in Hosea 2:15"
             }
@@ -15705,7 +15705,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "britannica-petah-tikva",
+              "ref": "britannica-petah-tiqwa",
               "locator": "history",
               "quote": "is known as Em ha-Moshavot (Hebrew: “Mother of the Moshavs ”)"
             }
@@ -20308,7 +20308,7 @@
             "quote": "in the status-quo arrangements of 1967, it was clear that Jews had the right to visit the site, but not to pray there."
           },
           {
-            "ref": "israel-jordan-peace-treaty-1994",
+            "ref": "israel-jordan-1994-peace-treaty",
             "locator": "Art. 9(2)",
             "quote": "Israel respects the present special role of the Hashemite Kingdom of Jordan in Muslim Holy shrines in Jerusalem.",
             "via": "kassim-2023-jordan-role"

@@ -77,7 +77,7 @@
           },
           "sources": [
             {
-              "ref": "israel-1948-declaration-of-establishment",
+              "ref": "avalon-israel-declaration",
               "locator": "opening paragraph",
               "quote": "was the birthplace of the Jewish people. Here their spiritual, religious and political identity was shaped."
             },
@@ -614,7 +614,7 @@
           },
           "sources": [
             {
-              "ref": "israel-1948-declaration-of-establishment",
+              "ref": "avalon-israel-declaration",
               "locator": "opening paragraphs",
               "quote": "After being forcibly exiled from their land, the people remained faithful to it throughout their Dispersion"
             },
@@ -766,7 +766,7 @@
               "quote": "retained a fairly large Jewish population"
             },
             {
-              "ref": "britannica-palestine-roman",
+              "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "section on the Second Jewish Revolt",
               "quote": "they survived in Galilee, which, like Samaria, appears to have held aloof from the revolt. Tiberias in Galilee became the seat of the Jewish patriarchs."
             },
@@ -1117,7 +1117,7 @@
               "quote": "such as that Jewish settlement attracted rather than displaced Arabs"
             },
             {
-              "ref": "gottheil-2003-smoking-gun",
+              "ref": "gottheil-2003-meq",
               "locator": "sections \"Disparities and Migration\" and on the 1922-1931 censuses",
               "quote": "This 1922-31 Arab migration into the Jewish sub-districts represented 11.8 percent of the total 1931 Arab population residing in those sub-districts"
             }
@@ -1153,10 +1153,10 @@
               "ref": "bachi-1974-population-of-israel",
               "locator": "pp. 34-35 and 51, as quoted by Gottheil 2003",
               "quote": "in the present state of knowledge, we have been unable to even guess the size of total immigration",
-              "via": "gottheil-2003-smoking-gun"
+              "via": "gottheil-2003-meq"
             },
             {
-              "ref": "gottheil-2003-smoking-gun",
+              "ref": "gottheil-2003-meq",
               "locator": "quotations of Bachi",
               "quote": "stronger decrease in mortality of the non-Jewish population in the neighborhood of Jewish areas and internal migration toward the more developed zones"
             },
@@ -1247,7 +1247,7 @@
               "quote": "The critical issue here, however, is not the existence of Arab immigration and in-migration"
             },
             {
-              "ref": "gottheil-2003-smoking-gun",
+              "ref": "gottheil-2003-meq",
               "locator": "section on McCarthy",
               "quote": "ignoring completely the linkages between regional economic disparities and migratory impulses"
             }
@@ -1334,7 +1334,7 @@
               "quote": "Most of the injuries among the Arabs were caused by the rifles of the British policemen."
             },
             {
-              "ref": "palquest-great-rebellion-1936-1939",
+              "ref": "palquest-great-rebellion",
               "locator": "introduction",
               "quote": "from the 1929 al-Buraq Uprising"
             }
@@ -1492,7 +1492,7 @@
               "quote": "The Committee continued to run the Revolt and the general strike which was unprecedented"
             },
             {
-              "ref": "palquest-great-rebellion-1936-1939",
+              "ref": "palquest-great-rebellion",
               "locator": "section on the first phase",
               "quote": "Palestinians were subjected to house searches, night raids, beatings, imprisonment, torture, and deportation."
             },
@@ -1618,7 +1618,7 @@
           },
           "sources": [
             {
-              "ref": "israel-1948-declaration-of-establishment",
+              "ref": "avalon-israel-declaration",
               "locator": "paras on the UN resolution and on cooperation",
               "quote": "This recognition by the United Nations of the right of the Jewish people to establish their State is irrevocable."
             },
@@ -3365,7 +3365,7 @@
       "about": [
         "israeli-law-applied-to-east-jerusalem-1967",
         "jerusalem-law-1980",
-        "israel-jordan-peace-treaty-1994",
+        "israel-jordan-1994-peace-treaty",
         "us-recognition-of-jerusalem-2017"
       ],
       "accounts": [

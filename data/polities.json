@@ -852,7 +852,7 @@
               "quote": "the conquest and destruction of Ashkelon so early in Nebuchadnezzar’s reign can be explained with his desire to eliminate the Egyptian garrison stationed in the city"
             },
             {
-              "ref": "livius-abc5",
+              "ref": "livius-abc5-jerusalem-chronicle",
               "locator": "obv. 18 (604 BCE)",
               "quote": "He marched to the city of Aškelon and captured it in the month of Kislîmu.",
               "note": "Basis: Babylonian chronicle (cuneiform)."
@@ -1380,7 +1380,7 @@
               "quote": "In 609, Judah, which had been a decades-long Assyrian client, became a vassal of the Egyptian pharaoh Necho II"
             },
             {
-              "ref": "livius-abc5",
+              "ref": "livius-abc5-jerusalem-chronicle",
               "locator": "obv. 4 (605 BCE, Carchemish)",
               "quote": "They fought with each other and the Egyptian army withdrew before him.",
               "note": "Basis: Babylonian chronicle (cuneiform)."
@@ -1444,7 +1444,7 @@
               "quote": "this reverse was followed by the defection of certain vassal states, Judah among them."
             },
             {
-              "ref": "livius-abc5",
+              "ref": "livius-abc5-jerusalem-chronicle",
               "locator": "obv. 15-17 (604 BCE)",
               "quote": "All the kings of the Hatti-land came before him and he received their heavy tribute.",
               "note": "Basis: Babylonian chronicle (cuneiform)."
@@ -1461,7 +1461,7 @@
               "quote": "Some Levantine rulers, including Jehoiakim of Judah (despite the fact that he had been installed as king by Necho), affirmed allegiance to Nebuchadnezzar soon after he had ascended the throne (604)."
             },
             {
-              "ref": "livius-abc5",
+              "ref": "livius-abc5-jerusalem-chronicle",
               "locator": "rev. 12'-13' (597 BCE)",
               "quote": "He appointed there a king of his own choice",
               "note": "Basis: Babylonian chronicle (cuneiform)."
@@ -2006,7 +2006,7 @@
               "quote": "it was ruled in turn by Assyria, Babylonia, Persia, Alexander the Great"
             },
             {
-              "ref": "livius-abc5",
+              "ref": "livius-abc5-jerusalem-chronicle",
               "locator": "obv. 15-17 (604 BCE)",
               "quote": "All the kings of the Hatti-land came before him and he received their heavy tribute.",
               "note": "Basis: Babylonian chronicle (cuneiform)."
@@ -6251,7 +6251,7 @@
               "quote": "Given May 27, 536."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 173",
               "quote": "Thus the Moslems conquered all the region of Hauran [Auranitis] and subdued it.",
               "note": "Follows the capitulation of Busra (Bostra), the capital of the province of Arabia."
@@ -6552,17 +6552,17 @@
               "note": "The text places this in 'the 17th year after the capture of Jerusalem', i.e. 630/631."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 168",
               "quote": "hearing that a large host of Greeks were gathered in al-'Arabah, which lay in Palestine"
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 92",
               "quote": "When in the year 9 the Prophet marched to Tabuk in Syria for the invasion of those of the Greeks"
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 92",
               "quote": "During his stay at Tabuk, there came to him Yuhanna ibn-Ru'bah, the chief of Ailah, and made terms"
             }
@@ -6737,7 +6737,7 @@
               "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 217",
               "quote": "the city having been under siege for seven years. Its conquest took place in Shauwal, year 19.",
               "note": "Shawwal AH 19 = September-October 640."
@@ -6894,12 +6894,12 @@
               "note": "The text places this in 'the 17th year after the capture of Jerusalem', i.e. 630/631."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 179",
               "quote": "Thus did he take possession of Baisan, [Bethshean, Scythopolis] Susiyah, Afik, Jarash, Bait-Ras, Kadas, and al-Jaulan, and subdue the district of the Jordan and all its land."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 210",
               "quote": "The battle of al-Yarmuk took place in Rajab, year 15.",
               "note": "Rajab AH 15 = August 636."
@@ -7103,12 +7103,12 @@
           "quote": "12 Receb 15 (20 Ağustos 636) tarihinde cereyan eden savaşta Bizans ordusu ağır bir yenilgiye uğradı"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Palestine chapter, p. 217 (Caesarea)",
           "quote": "Its conquest took place in Shauwal, year 19."
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Palestine chapter, p. 214 (Jerusalem)",
           "quote": "The conquest of Jerusalem took place in the year 17."
         },
@@ -7118,7 +7118,7 @@
           "quote": "Halife Ömer 17 (638) yılında bizzat gelerek şehri Patrik Sophronios’tan teslim aldı"
         },
         {
-          "ref": "hitti-1916-baladhuri",
+          "ref": "baladhuri-hitti-1916-origins-islamic-state",
           "locator": "Palestine chapter, p. 219 (date of the conquest of Caesarea)",
           "quote": "Of the two views, the latter is the tenable one. According to still other reports, the city was reduced in the early part of the year 20."
         }
@@ -7204,7 +7204,7 @@
               "quote": "After the surrender of Jerusalem, ʿUmar divided Palestine into two administrative districts (jund)"
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 167",
               "quote": "abu-Bakr assigned 'Amr to Palestine, Shurahbil to the Jordan, and Yazid to Damascus",
               "note": "Al-Waqidi's report as quoted by al-Baladhuri: the provinces already served as command areas in 634, before 'Umar's settlement of the junds."
@@ -7736,13 +7736,13 @@
               "quote": "they were Jordan (Al-Urdun) and Palestine (Filasṭīn)"
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 167",
               "quote": "abu-Bakr assigned 'Amr to Palestine, Shurahbil to the Jordan, and Yazid to Damascus",
               "note": "Al-Waqidi's report as quoted by al-Baladhuri: the provinces already served as command areas in 634, before 'Umar's settlement of the junds."
             },
             {
-              "ref": "hitti-1916-baladhuri",
+              "ref": "baladhuri-hitti-1916-origins-islamic-state",
               "locator": "p. 178",
               "quote": "Shurahbil conquered all the province of the Jordan [al-Urdunn] by force, with the exception of Tiberias, whose inhabitants came to terms"
             },
@@ -8980,12 +8980,12 @@
           "quote": "his brother Baldwin was summoned back to Jerusalem, where he assumed the title of king (November 11, 1100)."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'The Crusades'",
           "quote": "A year after the capture of Jerusalem by the Crusaders, the Latin kingdom of Jerusalem was established (Christmas Day, 1100)."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'The Crusades'",
           "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
         },
@@ -9890,7 +9890,7 @@
           "quote": "When the Mongol cataclysm of 658/1260 destroyed the Syrian Ayyubid kingdom of al-Nāṣer, the Mamluk regime was able to occupy his former dominions."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'The Crusades'",
           "quote": "during whose reign the last of the Crusaders were driven out of Acre (May 18, 1291)."
         },
@@ -10190,7 +10190,7 @@
       "basis": "documentary",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'The Crusades' (Mamluk paragraph)",
           "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
         },
@@ -10231,7 +10231,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "britannica-palestine-to-1900",
+              "ref": "britannica-palestine-crusades-ottoman",
               "locator": "section 'The Crusades' (Mamluk paragraph)",
               "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
             },
@@ -10315,7 +10315,7 @@
           "quote": "Selim defeated the Mamluk armies at the battles of Marj Dābiq (north of Aleppo; August 24, 1516) and Raydāniyyah (near Cairo; January 22, 1517), thus bringing Syria, Egypt, and Palestine under Ottoman rule."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'The Crusades' (end)",
           "quote": "on August 24, 1516, when the Ottoman sultan Selim I routed the Mamluk armies at the Battle of Marj Dābiq. Palestine began its four centuries under Ottoman domination."
         },
@@ -10407,7 +10407,7 @@
           "quote": "Throughout the Ottoman period and until the early decades of the nineteenth century Jerusalem was regarded as an ordinary sanjak. On the whole, it was part of the province of Sham (Damascus) and subject to its governor."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "Under the Ottoman Turks, Palestine continued to be linked administratively to Damascus until 1830, when it was placed under Sidon, then under Acre, then once again under Damascus until 1887–88"
         },
@@ -10710,7 +10710,7 @@
       "basis": "documentary",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "Ẓāhir al-ʿUmar (c. 1737–75) dominated the political life of northern Palestine for nearly 40 years."
         },
@@ -10863,7 +10863,7 @@
           "quote": "Until his death in 1804, he remained the most powerful magnate in the area."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "Aḥmad al-Jazzār, the Ottoman governor of Acre, had control of most of Palestine, and in 1799, with English and Ottoman help, he successfully defended Acre against Napoleon I."
         },
@@ -10946,7 +10946,7 @@
       "basis": "documentary",
       "sources": [
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "In 1831 his armies occupied Palestine, and for nine years he and his son Ibrahim gave it a centralizing and modernizing administration."
         },
@@ -11212,7 +11212,7 @@
           "quote": "Jerusalem kept its status as an “independent” sanjaq from 1874 until the outbreak of World War I."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "Palestine was divided into the districts of Nablus and Acre, both of which were linked with the province of Beirut and the autonomous district of Jerusalem, which dealt directly with Istanbul."
         },
@@ -11307,7 +11307,7 @@
           "quote": "The latter included (in addition to the Sanjaqs of Tripoli and Lattakieh) the Sanjaqs of Beirut, Acre and Nablus."
         },
         {
-          "ref": "britannica-palestine-to-1900",
+          "ref": "britannica-palestine-crusades-ottoman",
           "locator": "section 'Ottoman rule'",
           "quote": "Palestine was divided into the districts of Nablus and Acre, both of which were linked with the province of Beirut and the autonomous district of Jerusalem, which dealt directly with Istanbul."
         },

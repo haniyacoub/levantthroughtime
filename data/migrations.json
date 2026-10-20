@@ -162,7 +162,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "II Kings 15:29",
           "quote": "King Tiglath-pileser of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor—Gilead, Galilee, the entire region of Naphtali; and he deported the inhabitants to Assyria."
         },
@@ -244,7 +244,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "II Kings 17:6",
           "quote": "He deported the Israelites to Assyria and settled them in Halah, at the [River] Habor, at the River Gozan, and in the towns of Media."
         },
@@ -354,7 +354,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "II Kings 17:24",
           "quote": "The king of Assyria brought [people] from Babylon, Cuthah, Avva, Hamath, and Sepharvaim, and he settled them in the towns of Samaria in place of the Israelites"
         },
@@ -502,17 +502,17 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "II Kings 24:14",
           "quote": "He exiled all of Jerusalem: all the commanders and all the warriors—ten thousand exiles—as well as all the artisans and smiths"
         },
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Jeremiah 52:28-30",
           "quote": "This is the number of those whom Nebuchadrezzar exiled in the seventh year: 3,023 Judeans. ... The total amounted to 4,600 persons."
         },
         {
-          "ref": "britannica-jewish-diaspora",
+          "ref": "britannica-diaspora-judaism",
           "locator": "section \"The Babylonian Exile\"",
           "quote": "After the Babylonians conquered the kingdom of Judah, part of the Jewish population was deported into slavery."
         },
@@ -603,7 +603,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Jeremiah 43:5-7",
           "quote": "Johanan son of Kareah and all the army officers took the entire remnant of Judah ... and they went to Egypt. ... They arrived at Tahpanhes"
         }
@@ -674,12 +674,12 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Ezra 1:1-3",
           "quote": "In the first year of King Cyrus of Persia ... May your God be with those of you among this people who wish to go up to Jerusalem"
         },
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Ezra 2:64-65; Nehemiah 7:66-67",
           "quote": "The sum of the entire community was 42,360, not counting their male and female servants, those being 7,337"
         },
@@ -872,12 +872,12 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "britannica-jewish-diaspora",
+          "ref": "britannica-diaspora-judaism",
           "locator": "opening definition",
           "quote": "the aggregate of Jews or Jewish communities scattered \"in exile\" outside Palestine or present-day Israel, particularly after the Siege of Jerusalem by the Roman Empire in 70 ce"
         },
         {
-          "ref": "britannica-jewish-diaspora",
+          "ref": "britannica-diaspora-judaism",
           "locator": "section on the early diaspora",
           "quote": "Diaspora Jews far outnumbered the Jews in Palestine even before the destruction of Jerusalem and the Second Temple in 70 ce."
         },
@@ -4744,7 +4744,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 159(a)",
           "quote": "About 200,000 persons (of whom about 93,000 were refugees registered with UNRWA) who had moved from the West Bank to the East Bank in Jordan"
         },
@@ -4759,17 +4759,17 @@
           "quote": "The result of the registration showed a total of 177,165 refugees but did not include a large number who were not registered. The number registered is estimated to be 70 per cent of the total"
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 48",
           "quote": "the Special Representative received no specific reports indicating that persons had been physically forced to cross to the East Bank."
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 49",
           "quote": "newly displaced persons consistently informed the Special Representative that they had left the West Bank under pressure and that they had suffered many atrocities."
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 50",
           "quote": "The truth seems to lie somewhere between an Israel statement that \"no encouragement\" was given to the population to flee, and the allegations about the use of brutal force and intimidation made by refugees."
         }
@@ -4841,12 +4841,12 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 159(b)",
           "quote": "About 110,000 persons according to Syrian sources and not more than 85,000 according to Israel sources (of whom about 17,000 were UNRWA-registered refugees) who had moved from the south-western corner of Syria"
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 14",
           "quote": "this entire population had left the area, except for some 6,000 Druses living in agricultural villages and for some 250 other civilians living mainly in the town of Kuneitra."
         }
@@ -4943,7 +4943,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 159(c)",
           "quote": "About 35,000 persons (of whom 3,000 were UNRWA-registered refugees in the Gaza strip) who had moved across the Suez Canal from the Gaza strip or Sinai."
         }
@@ -5021,12 +5021,12 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 190",
           "quote": "it had transmitted through the ICRC about 40,000 applications, involving some 170,000 persons."
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 190",
           "quote": "On 9 September, the total number of those who had returned was given by Jordanian sources as 14,150 persons and by Israel sources as 14,056."
         },
@@ -5566,12 +5566,12 @@
       "confidence": "documented",
       "sources": [
         {
-          "ref": "egypt-israel-treaty-1979",
+          "ref": "avalon-egypt-israel-treaty",
           "locator": "Article I",
           "quote": "Israel will withdraw all its armed forces and civilians from the Sinai behind the international boundary between Egypt and mandated Palestine"
         },
         {
-          "ref": "egypt-israel-treaty-1979",
+          "ref": "avalon-egypt-israel-treaty",
           "locator": "Annex I, Article I",
           "quote": "Israel will complete withdrawal of all its armed forces and civilians from the Sinai not later than three years from the date of exchange of instruments of ratification of this Treaty."
         },

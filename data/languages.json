@@ -484,7 +484,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "iaa-lldss-introduction",
+              "ref": "iaa-leon-levy-dss-introduction",
               "quote": "While Hebrew is the most frequently used language in the Scrolls, about 15 % were written in Aramaic and several in Greek."
             },
             {
@@ -638,7 +638,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "avalon-palestine-mandate-1922",
+              "ref": "avalon-palestine-mandate",
               "locator": "Art. 22",
               "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
             },
@@ -1433,7 +1433,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "avalon-palestine-mandate-1922",
+              "ref": "avalon-palestine-mandate",
               "locator": "Art. 22",
               "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
             },
@@ -2081,7 +2081,7 @@
           "confidence": "documented",
           "sources": [
             {
-              "ref": "avalon-palestine-mandate-1922",
+              "ref": "avalon-palestine-mandate",
               "locator": "Art. 22",
               "quote": "English, Arabic and Hebrew shall be the official languages of Palestine."
             },
@@ -2095,7 +2095,7 @@
       ],
       "sources": [
         {
-          "ref": "avalon-palestine-mandate-1922"
+          "ref": "avalon-palestine-mandate"
         }
       ],
       "notes": {

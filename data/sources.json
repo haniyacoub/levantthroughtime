@@ -1440,7 +1440,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the preamble and Article I."
+        "note": "Read the preamble and Article I. | Also recorded as a separate entry: Read the treaty text, Article I and Annex I Article I. | Re-read in Milestone 8: EXISTING ID. Re-read the Avalon text, Article I and Annex I Article I and Appendix Article II (phased withdrawal)."
       },
       "kind": "government",
       "institution_country": "US"
@@ -1474,7 +1474,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full English text."
+        "note": "Read the full English text. | Also recorded as a separate entry: Read the full text (Avalon Project); also compared with the Israel MFA text via Internet Archive capture 20160510."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -1525,30 +1525,13 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the preamble, articles 1-28 and the closing formula. | Re-read in Milestone 8: Re-downloaded in Milestone 8 (group H2) and re-read Article 25 (territories east of the Jordan). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the copy downloaded earlier in this project: Article 25 (territories east of the Jordan)."
+        "note": "Read the preamble, articles 1-28 and the closing formula. | Re-read in Milestone 8: Re-downloaded in Milestone 8 (group H2) and re-read Article 25 (territories east of the Jordan). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the copy downloaded earlier in this project: Article 25 (territories east of the Jordan). | Also recorded as a separate entry: Read the full text of the Mandate, incl. Art. 22."
       },
       "kind": "government",
-      "institution_country": "US"
-    },
-    {
-      "id": "avalon-palestine-mandate-1922",
-      "type": "document",
+      "institution_country": "US",
       "authors": [
         "League of Nations"
-      ],
-      "title": "The Palestine Mandate (24 July 1922)",
-      "container": "The Avalon Project, Yale Law School",
-      "publisher": "Lillian Goldman Law Library, Yale Law School",
-      "year": 1922,
-      "url": "https://avalon.law.yale.edu/20th_century/palmanda.asp",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the full text of the Mandate, incl. Art. 22."
-      },
-      "kind": "academic",
-      "institution_country": "US"
+      ]
     },
     {
       "id": "avalon-res-181",
@@ -1562,10 +1545,13 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the plan text and the recorded vote list."
+        "note": "Read the plan text and the recorded vote list. | Also recorded as a separate entry: Downloaded the HTML; Part II \"Boundaries\" (A. The Arab State, B. The Jewish State) and Part III B \"Boundaries of the City\" were read and quoted vertex by vertex."
       },
       "kind": "un",
-      "institution_country": "US"
+      "institution_country": "US",
+      "authors": [
+        "United Nations General Assembly"
+      ]
     },
     {
       "id": "avalon-sykes-picot",
@@ -2015,7 +2001,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier (Google scan bub_gb_pN8TAAAAIAAJ): pp. 216-219 on Caesarea (seven-year siege; conquest in Shawwal of the year 19; taken by storm by Mu'awiyah). Hijri dates as given in the text."
+        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier (Google scan bub_gb_pN8TAAAAIAAJ): pp. 216-219 on Caesarea (seven-year siege; conquest in Shawwal of the year 19; taken by storm by Mu'awiyah). Hijri dates as given in the text. | Also recorded as a separate entry: Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (originsofislamic00balarich) and read Part II, chs. I-X and the Palestine chapter (pp. 165-220): Dathin, al-Arabah, Ajnadayn, Damascus, al-Yarmuk, Gaza, Jerusalem. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text of the scan 'originsofislamic00balarich': p. 92 (Tabuk, Ailah and Adhruh make terms, AH 9), pp. 167-168 (Abu Bakr assigns commanders to Palestine, the Jordan and Damascus; al-'Arabah), p. 173 (Busra and the Hauran), pp. 178-179 (the province of the Jordan), p. 210 (al-Yarmuk, Rajab 15) and p. 217 (Caesarea, Shawwal 19). Hijri dates as given in the text."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -2259,30 +2245,11 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Viewed scan page images on Wikimedia Commons: report pp. 1-4 (census night, total 757,182, 1920/1921 estimates, 1914 'record', Bedouin estimate) and Table I 'Population of Palestine by religions'. Publisher was the Government of Palestine (British Mandate administration); country code GB used for the mandatory power."
+        "note": "Viewed scan page images on Wikimedia Commons: report pp. 1-4 (census night, total 757,182, 1920/1921 estimates, 1914 'record', Bedouin estimate) and Table I 'Population of Palestine by religions'. Publisher was the Government of Palestine (British Mandate administration); country code GB used for the mandatory power. | Also recorded as a separate entry: Downloaded the scan (hosted by B. McKay, ANU) and read the title page and report paragraph 7 (OCR text, quotes normalised for OCR errors)."
       },
       "kind": "government",
       "institution_country": "GB",
       "accessed": "2026-10-18"
-    },
-    {
-      "id": "barron-1923-census",
-      "type": "census",
-      "authors": [
-        "Barron, J. B."
-      ],
-      "title": "Palestine: Report and General Abstracts of the Census of 1922, taken on the 23rd of October, 1922",
-      "publisher": "Government of Palestine",
-      "year": 1923,
-      "url": "https://users.cecs.anu.edu.au/~bdm/yabber/census/PalestineCensus1922.pdf",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Downloaded the scan (hosted by B. McKay, ANU) and read the title page and report paragraph 7 (OCR text, quotes normalised for OCR errors)."
-      },
-      "kind": "government",
-      "institution_country": "GB"
     },
     {
       "id": "barron-judaism-rome-cil-xvi-87",
@@ -4769,7 +4736,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403)."
+        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403). | Also recorded as a separate entry: Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -5933,22 +5900,6 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the article text in an Internet Archive Wayback Machine capture (20261011212932) because britannica.com blocks direct download (saved as er/dl/classical/b_jesus.txt); quotes are from the article text, not the AI-generated summary boxes. Read the introduction and the \"Summary of Jesus’ life\" section."
-      },
-      "kind": "reference",
-      "institution_country": "US"
-    },
-    {
-      "id": "britannica-jewish-diaspora",
-      "type": "web",
-      "title": "Jewish Diaspora",
-      "container": "Encyclopaedia Britannica",
-      "publisher": "Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/topic/Diaspora-Judaism",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7118,10 +7069,14 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Ottoman rule'."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Ottoman rule'. | Also recorded as a separate entry: Read via Internet Archive Wayback snapshot http://web.archive.org/web/20261007104857/https://www.britannica.com/place/Palestine/The-Crusades (live site returned HTTP 403). Read the full sections 'The Crusades' and 'Ottoman rule'; the section is signed Nabih Amin Faris and Rashid Ismail Khalidi (page metadata names William Charles Brice as lead author of the whole 'Palestine' article)."
       },
       "kind": "reference",
-      "institution_country": "US"
+      "institution_country": "US",
+      "authors": [
+        "Faris, Nabih Amin",
+        "Khalidi, Rashid Ismail"
+      ]
     },
     {
       "id": "britannica-palestine-first-intifada",
@@ -7252,22 +7207,6 @@
       "institution_country": "US"
     },
     {
-      "id": "britannica-palestine-roman",
-      "type": "web",
-      "title": "Palestine: Roman Palestine",
-      "container": "Encyclopaedia Britannica (online)",
-      "publisher": "Encyclopaedia Britannica, Inc.",
-      "url": "https://www.britannica.com/place/Palestine/Roman-Palestine",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath."
-      },
-      "kind": "reference",
-      "institution_country": "US",
-      "accessed": "2026-10-18"
-    },
-    {
       "id": "britannica-palestine-roman-to-fatimid",
       "type": "web",
       "authors": [
@@ -7281,7 +7220,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture."
+        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture. | Also recorded as a separate entry: Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -7314,26 +7253,6 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read via an Internet Archive Wayback Machine capture (20261010080757) of the Britannica page because britannica.com returned a bot challenge; read the \"History of the term\" section in full."
-      },
-      "kind": "reference",
-      "institution_country": "US",
-      "accessed": "2026-10-18"
-    },
-    {
-      "id": "britannica-palestine-to-1900",
-      "type": "web",
-      "authors": [
-        "Faris, Nabih Amin",
-        "Khalidi, Rashid Ismail"
-      ],
-      "title": "Palestine: From the Arab conquest to 1900 (sections 'The Crusades' and 'Ottoman rule')",
-      "container": "Encyclopaedia Britannica (online)",
-      "publisher": "Encyclopaedia Britannica, Inc.",
-      "url": "https://www.britannica.com/place/Palestine/The-Crusades",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20261007104857/https://www.britannica.com/place/Palestine/The-Crusades (live site returned HTTP 403). Read the full sections 'The Crusades' and 'Ottoman rule'; the section is signed Nabih Amin Faris and Rashid Ismail Khalidi (page metadata names William Charles Brice as lead author of the whole 'Palestine' article)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -7408,25 +7327,6 @@
       "institution_country": "US"
     },
     {
-      "id": "britannica-petah-tikva",
-      "type": "web",
-      "authors": [
-        "Britannica Editors"
-      ],
-      "title": "Petah Tikva",
-      "container": "Encyclopaedia Britannica (online)",
-      "publisher": "Encyclopaedia Britannica, Inc.",
-      "url": "https://www.britannica.com/place/Petah-Tiqwa",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251102103916."
-      },
-      "kind": "reference",
-      "institution_country": "US"
-    },
-    {
       "id": "britannica-petah-tiqwa",
       "type": "web",
       "authors": [
@@ -7440,7 +7340,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article via Internet Archive Wayback capture 20251102103916."
+        "note": "Read the full article via Internet Archive Wayback capture 20251102103916. | Also recorded as a separate entry: Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20251102103916."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7707,25 +7607,6 @@
       "institution_country": "US"
     },
     {
-      "id": "britannica-rishon-lezion",
-      "type": "web",
-      "authors": [
-        "Britannica Editors"
-      ],
-      "title": "Rishon LeZion",
-      "container": "Encyclopaedia Britannica (online)",
-      "publisher": "Encyclopaedia Britannica, Inc.",
-      "url": "https://www.britannica.com/place/Rishon-LeZiyyon",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20250918222005."
-      },
-      "kind": "reference",
-      "institution_country": "US"
-    },
-    {
       "id": "britannica-rishon-leziyyon",
       "type": "web",
       "authors": [
@@ -7739,7 +7620,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article via Internet Archive Wayback capture 20250318060104."
+        "note": "Read the full article via Internet Archive Wayback capture 20250318060104. | Also recorded as a separate entry: Read the article text in an Internet Archive Wayback snapshot (live site blocks automated requests). Snapshot 20250918222005."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -7759,26 +7640,6 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-18"
-    },
-    {
-      "id": "britannica-safed",
-      "type": "web",
-      "authors": [
-        "Britannica Editors"
-      ],
-      "title": "Ẕefat (Safed)",
-      "container": "Encyclopaedia Britannica",
-      "publisher": "Encyclopaedia Britannica, Inc.",
-      "year": 2025,
-      "url": "https://www.britannica.com/place/Zefat",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read via Internet Archive snapshot 20251220144415 of the britannica.com page (direct access returned HTTP 403)."
-      },
-      "kind": "reference",
-      "institution_country": "US",
-      "accessed": "2026-10-19"
     },
     {
       "id": "britannica-saladin",
@@ -8857,11 +8718,12 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260630060113/https://www.britannica.com/place/Zefat (live site returned HTTP 403). Read the history paragraph."
+        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260630060113/https://www.britannica.com/place/Zefat (live site returned HTTP 403). Read the history paragraph. | Also recorded as a separate entry: Read via Internet Archive snapshot 20251220144415 of the britannica.com page (direct access returned HTTP 403)."
       },
       "kind": "reference",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "year": 2025
     },
     {
       "id": "britannica-zerubbabel",
@@ -9459,7 +9321,7 @@
       "title": "Roman History, Books 68-69",
       "container": "LacusCurtius",
       "publisher": "Loeb Classical Library (1925), online at LacusCurtius, University of Chicago",
-      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html",
       "accessed": "2026-10-18",
       "verification": {
         "level": "full-text",
@@ -11317,23 +11179,6 @@
       "institution_country": "US"
     },
     {
-      "id": "egypt-israel-treaty-1979",
-      "type": "document",
-      "title": "Treaty of Peace between the Arab Republic of Egypt and the State of Israel (26 March 1979), with Annex I",
-      "container": "The Avalon Project",
-      "publisher": "Lillian Goldman Law Library, Yale Law School",
-      "year": 1979,
-      "url": "https://avalon.law.yale.edu/20th_century/isregypt.asp",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the treaty text, Article I and Annex I Article I. | Re-read in Milestone 8: EXISTING ID. Re-read the Avalon text, Article I and Annex I Article I and Appendix Article II (phased withdrawal)."
-      },
-      "kind": "government",
-      "institution_country": "US"
-    },
-    {
       "id": "egypt-law-255-1955-gaza-basic-law",
       "type": "document",
       "authors": [
@@ -13033,32 +12878,10 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article. Published by the Middle East Forum, a US think tank with a stated political orientation; used here to state the author's own position."
+        "note": "Read the full article. Published by the Middle East Forum, a US think tank with a stated political orientation; used here to state the author's own position. | Also recorded as a separate entry: Read the full article (Winter 2003), including its quotations of Roberto Bachi and its critique of Justin McCarthy."
       },
       "kind": "ngo",
       "institution_country": "US"
-    },
-    {
-      "id": "gottheil-2003-smoking-gun",
-      "type": "article",
-      "authors": [
-        "Gottheil, Fred M."
-      ],
-      "title": "The Smoking Gun: Arab Immigration into Palestine, 1922-1931",
-      "container": "Middle East Quarterly",
-      "volume": 10,
-      "issue": 1,
-      "year": 2003,
-      "publisher": "Middle East Forum",
-      "url": "https://www.meforum.org/522/the-smoking-gun-arab-immigration-into-palestine",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the full article (Winter 2003), including its quotations of Roberto Bachi and its critique of Justin McCarthy."
-      },
-      "kind": "ngo",
-      "institution_country": "US",
-      "accessed": "2026-10-18"
     },
     {
       "id": "grabar-kedar-2009",
@@ -13904,27 +13727,6 @@
       "accessed": "2026-10-18"
     },
     {
-      "id": "hitti-1916-baladhuri",
-      "type": "book",
-      "authors": [
-        "al-Baladhuri, Ahmad ibn Yahya",
-        "Hitti, Philip Khuri (translator)"
-      ],
-      "title": "The Origins of the Islamic State, being a translation from the Arabic of the Kitab Futuh al-Buldan, vol. I",
-      "container": "Studies in History, Economics and Public Law, vol. 68",
-      "publisher": "Columbia University (Longmans, Green & Co., agents)",
-      "year": 1916,
-      "url": "https://archive.org/details/originsofislamic00balarich",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (originsofislamic00balarich) and read Part II, chs. I-X and the Palestine chapter (pp. 165-220): Dathin, al-Arabah, Ajnadayn, Damascus, al-Yarmuk, Gaza, Jerusalem. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text of the scan 'originsofislamic00balarich': p. 92 (Tabuk, Ailah and Adhruh make terms, AH 9), pp. 167-168 (Abu Bakr assigns commanders to Palestine, the Jordan and Damascus; al-'Arabah), p. 173 (Busra and the Hauran), pp. 178-179 (the province of the Jordan), p. 210 (al-Yarmuk, Rajab 15) and p. 217 (Caesarea, Shawwal 19). Hijri dates as given in the text."
-      },
-      "kind": "academic",
-      "institution_country": "US",
-      "accessed": "2026-10-19"
-    },
-    {
       "id": "hitti-history-of-the-arabs",
       "type": "book",
       "authors": [
@@ -14210,30 +14012,14 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full introduction page."
+        "note": "Read the full introduction page. | Also recorded as a separate entry: Read the page text (copy saved earlier in this research project as er/dl/classical/lldss_intro)."
       },
       "kind": "government",
-      "institution_country": "IL"
-    },
-    {
-      "id": "iaa-lldss-introduction",
-      "type": "web",
+      "institution_country": "IL",
       "authors": [
         "Israel Antiquities Authority"
       ],
-      "title": "Introduction (Learn About the Scrolls)",
-      "container": "The Leon Levy Dead Sea Scrolls Digital Library",
-      "publisher": "Israel Antiquities Authority",
-      "year": 2026,
-      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the page text (copy saved earlier in this research project as er/dl/classical/lldss_intro)."
-      },
-      "kind": "government",
-      "institution_country": "IL"
+      "year": 2026
     },
     {
       "id": "iaa-lldss-languages-scripts",
@@ -14825,23 +14611,6 @@
       "year": 2020
     },
     {
-      "id": "israel-1948-declaration-of-establishment",
-      "type": "document",
-      "title": "Declaration of the Establishment of the State of Israel (14 May 1948)",
-      "container": "The Avalon Project",
-      "publisher": "Yale Law School, Lillian Goldman Law Library",
-      "year": 1948,
-      "url": "https://avalon.law.yale.edu/20th_century/israel.asp",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the full text (Avalon Project); also compared with the Israel MFA text via Internet Archive capture 20160510."
-      },
-      "kind": "government",
-      "institution_country": "IL",
-      "accessed": "2026-10-18"
-    },
-    {
       "id": "israel-basic-law-president-constitute",
       "type": "document",
       "authors": [
@@ -14908,30 +14677,15 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read Articles 6-15, including Article 9 (Places of Historical and Religious Significance and Interfaith Relations)."
+        "note": "Read Articles 6-15, including Article 9 (Places of Historical and Religious Significance and Interfaith Relations). | Also recorded as a separate entry: Treaty text not opened directly; Article 9(2) seen quoted in Kassim 2023 (in full) and Baker 2022 (partly). Both quotations agree."
       },
       "kind": "government",
       "institution_country": "JO",
-      "accessed": "2026-10-18"
-    },
-    {
-      "id": "israel-jordan-peace-treaty-1994",
-      "type": "document",
+      "accessed": "2026-10-18",
       "authors": [
         "State of Israel",
         "Hashemite Kingdom of Jordan"
-      ],
-      "title": "Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan (Wadi Araba), 26 October 1994, Article 9",
-      "publisher": "Governments of Israel and Jordan (registered with the UN Secretariat)",
-      "year": 1994,
-      "verification": {
-        "level": "cited-via",
-        "checked_on": "2026-10-19",
-        "note": "Treaty text not opened directly; Article 9(2) seen quoted in Kassim 2023 (in full) and Baker 2022 (partly). Both quotations agree."
-      },
-      "kind": "government",
-      "institution_country": "IL",
-      "accessed": "2026-10-19"
+      ]
     },
     {
       "id": "israel-mfa-2015-gaza-conflict-report",
@@ -15698,28 +15452,11 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26."
+        "note": "Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26. | Also recorded as a separate entry: Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67."
       },
       "kind": "religious-institution",
       "institution_country": "US",
       "accessed": "2026-10-18"
-    },
-    {
-      "id": "jps-tanakh-2023",
-      "type": "book",
-      "title": "The JPS Tanakh: Gender-Sensitive Edition",
-      "container": "Sefaria (online library)",
-      "publisher": "Jewish Publication Society",
-      "year": 2023,
-      "url": "https://www.sefaria.org/",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67."
-      },
-      "kind": "religious-institution",
-      "institution_country": "US"
     },
     {
       "id": "jta-1931-05-01-tenth-anniversary-1921",
@@ -17502,25 +17239,6 @@
       "institution_country": "NL"
     },
     {
-      "id": "livius-abc5",
-      "type": "web",
-      "authors": [
-        "Lendering, Jona"
-      ],
-      "title": "Chronicle Concerning the Early Years of Nebuchadnezzar II (ABC 5)",
-      "container": "Livius.org",
-      "publisher": "Livius.org",
-      "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes. | Re-read in Milestone 8: Re-read in round H: the Livius translation of ABC 5, obverse 1-20 (605-604 BCE: Carchemish, tribute of Ḫatti, Ashkelon) and reverse 1'-25' (601-594 BCE, incl. the capture of Jerusalem in 597)."
-      },
-      "kind": "reference",
-      "institution_country": "NL"
-    },
-    {
       "id": "livius-abc5-jerusalem-chronicle",
       "type": "document",
       "authors": [
@@ -17535,7 +17253,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the introduction and translation (adapted from Grayson 1975 and Glassner 2004), reverse lines 11'-13'."
+        "note": "Read the introduction and translation (adapted from Grayson 1975 and Glassner 2004), reverse lines 11'-13'. | Also recorded as a separate entry: Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes. | Re-read in Milestone 8: Re-read in round H: the Livius translation of ABC 5, obverse 1-20 (605-604 BCE: Carchemish, tribute of Ḫatti, Ashkelon) and reverse 1'-25' (601-594 BCE, incl. the capture of Jerusalem in 597)."
       },
       "kind": "reference",
       "institution_country": "NL"
@@ -18529,27 +18247,11 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full report, including its summaries of the submissions of the Government of Israel and the PLO."
+        "note": "Read the full report, including its summaries of the submissions of the Government of Israel and the PLO. | Also recorded as a separate entry: Read the Avalon Project text (downloaded by an earlier research step and read here): sections on what happened and why, incl. the positions of the Government of Israel (GOI) and the PLO."
       },
       "kind": "government",
       "institution_country": "US",
       "accessed": "2026-10-18"
-    },
-    {
-      "id": "mitchell-report-2001",
-      "type": "document",
-      "title": "Sharm el-Sheikh Fact-Finding Committee Report (the Mitchell Report), 30 April 2001",
-      "publisher": "Sharm el-Sheikh Fact-Finding Committee (chaired by George J. Mitchell); text hosted by Yale Law School, Avalon Project",
-      "year": 2001,
-      "url": "https://avalon.law.yale.edu/21st_century/mitchell_plan.asp",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the Avalon Project text (downloaded by an earlier research step and read here): sections on what happened and why, incl. the positions of the Government of Israel (GOI) and the PLO."
-      },
-      "kind": "government",
-      "institution_country": "US"
     },
     {
       "id": "montgomery-1907-samaritans",
@@ -18640,7 +18342,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the interview text available on the NYRB site."
+        "note": "Read the interview text available on the NYRB site. | Also recorded as a separate entry: Read the interview text (Benny Morris interviewing former Israeli PM Ehud Barak)."
       },
       "kind": "press",
       "institution_country": "US",
@@ -19361,25 +19063,6 @@
       "authors": [
         "Malley, Robert",
         "Agha, Hussein"
-      ]
-    },
-    {
-      "id": "nyrb-morris-barak-2002",
-      "type": "article",
-      "title": "Camp David and After: An Exchange (1. An Interview with Ehud Barak)",
-      "container": "The New York Review of Books, 13 June 2002",
-      "year": 2002,
-      "url": "https://www.nybooks.com/articles/2002/06/13/camp-david-and-after-an-exchange-1-an-interview-wi/",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Read the interview text (Benny Morris interviewing former Israeli PM Ehud Barak)."
-      },
-      "kind": "press",
-      "institution_country": "US",
-      "authors": [
-        "Morris, Benny"
       ]
     },
     {
@@ -20814,26 +20497,13 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full highlight (live page, 18 Oct 2026)."
+        "note": "Read the full highlight (live page, 18 Oct 2026). | Also recorded as a separate entry: Read the full entry. | Also recorded as a separate entry: Read the highlight essay (author Alex Winder); passage on the formation of the Arab Higher Committee."
       },
       "kind": "academic",
-      "institution_country": "LB"
-    },
-    {
-      "id": "palquest-great-rebellion-1936-1939",
-      "type": "web",
-      "title": "Great Palestinian Rebellion, 1936-1939: A Popular Uprising Facing a Ruthless Repression",
-      "container": "Interactive Encyclopedia of the Palestine Question",
-      "publisher": "Institute for Palestine Studies / Palestinian Museum",
-      "url": "https://www.palquest.org/en/highlight/158/great-palestinian-rebellion-1936-1939",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the full entry."
-      },
-      "kind": "academic",
-      "institution_country": "PS",
-      "accessed": "2026-10-18"
+      "institution_country": "LB",
+      "authors": [
+        "Winder, Alex"
+      ]
     },
     {
       "id": "palquest-june-1967-war",
@@ -21209,11 +20879,14 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Also recorded as a separate entry: Read the highlight essay (author Alex Winder)."
       },
       "kind": "academic",
       "institution_country": "PS",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "authors": [
+        "Winder, Alex"
+      ]
     },
     {
       "id": "palquest-winder-balfour",
@@ -21244,44 +20917,6 @@
       "container": "Interactive Encyclopedia of the Palestine Question (palquest)",
       "publisher": "Institute for Palestine Studies and the Palestinian Museum",
       "url": "https://www.palquest.org/en/highlight/167/camp-david-accords-1978-1979",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the highlight essay (author Alex Winder)."
-      },
-      "kind": "academic",
-      "institution_country": "PS"
-    },
-    {
-      "id": "palquest-winder-great-rebellion",
-      "type": "web",
-      "authors": [
-        "Winder, Alex"
-      ],
-      "title": "The Great Palestinian Rebellion, 1936-1939",
-      "container": "Interactive Encyclopedia of the Palestine Question (palquest)",
-      "publisher": "Institute for Palestine Studies and the Palestinian Museum",
-      "url": "https://www.palquest.org/en/highlight/158/great-palestinian-rebellion-1936-1939",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the highlight essay (author Alex Winder); passage on the formation of the Arab Higher Committee."
-      },
-      "kind": "academic",
-      "institution_country": "PS"
-    },
-    {
-      "id": "palquest-winder-partition",
-      "type": "web",
-      "authors": [
-        "Winder, Alex"
-      ],
-      "title": "UN Partition Plan, 29 November 1947",
-      "container": "Interactive Encyclopedia of the Palestine Question (palquest)",
-      "publisher": "Institute for Palestine Studies and the Palestinian Museum",
-      "url": "https://www.palquest.org/en/highlight/159/un-partition-plan-29-november-1947",
       "accessed": "2026-10-18",
       "verification": {
         "level": "full-text",
@@ -22324,26 +21959,6 @@
       "institution_country": "PS"
     },
     {
-      "id": "procopius-buildings",
-      "type": "book",
-      "authors": [
-        "Procopius of Caesarea",
-        "Dewing, H. B. (translator)"
-      ],
-      "title": "Buildings (De Aedificiis), Book V",
-      "container": "LacusCurtius",
-      "publisher": "Loeb Classical Library (1940), online at LacusCurtius, University of Chicago",
-      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Buildings/5*.html",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Primary source (6th century); read V.7 on the Samaritans of Neapolis/Mount Gerizim, with the site's editorial footnotes."
-      },
-      "kind": "academic",
-      "institution_country": "US"
-    },
-    {
       "id": "procopius-buildings-5-dewing",
       "type": "document",
       "authors": [
@@ -22358,7 +21973,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read chapter 6 (the Nea church in Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the LacusCurtius page (Loeb 1940 translation) saved earlier: Book V, ch. 8, §1 (the province formerly called Arabia, now 'Third Palestine')."
+        "note": "Downloaded the page and read chapter 6 (the Nea church in Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the LacusCurtius page (Loeb 1940 translation) saved earlier: Book V, ch. 8, §1 (the province formerly called Arabia, now 'Third Palestine'). | Also recorded as a separate entry: Primary source (6th century); read V.7 on the Samaritans of Neapolis/Mount Gerizim, with the site's editorial footnotes."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -26101,7 +25716,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the OCR text of the PDF, paragraphs 51 and 58-64 ('Villages in the Latrun area') and 72. Report of the Special Representative (Gussing) dated 2 October 1967; it records both the Israeli officials' statements and the displaced villagers' accounts."
+        "note": "Read the OCR text of the PDF, paragraphs 51 and 58-64 ('Villages in the Latrun area') and 72. Report of the Special Representative (Gussing) dated 2 October 1967; it records both the Israeli officials' statements and the displaced villagers' accounts. | Also recorded as a separate entry: Read the full scanned report (UN ODS): paras. 14, 40-50, 159, 190 and Annex II (Jordanian aide-memoire)."
       },
       "kind": "un",
       "institution_country": "US"
@@ -26348,22 +25963,6 @@
       },
       "kind": "un",
       "institution_country": "UN"
-    },
-    {
-      "id": "un-sg-1967-s8158",
-      "type": "document",
-      "title": "Report of the Secretary-General under General Assembly resolution 2252 (ES-V) and Security Council resolution 237 (1967) (S/8158; A/6797)",
-      "publisher": "United Nations",
-      "year": 1967,
-      "url": "https://documents.un.org/api/symbol/access?s=A/6797&l=en&t=pdf",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Read the full scanned report (UN ODS): paras. 14, 40-50, 159, 190 and Annex II (Jordanian aide-memoire)."
-      },
-      "kind": "un",
-      "institution_country": "US"
     },
     {
       "id": "un-sg-2011-palmer-report",
@@ -26701,27 +26300,11 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the property description in an Internet Archive Wayback snapshot (20260109105110); the live site blocked automated requests. | Re-read in Milestone 8 (group F) from the copy of the World Heritage List page saved in an earlier pass: the description says the tell contains deposits of human activity dating back to about 10,500 BC."
+        "note": "Read the property description in an Internet Archive Wayback snapshot (20260109105110); the live site blocked automated requests. | Re-read in Milestone 8 (group F) from the copy of the World Heritage List page saved in an earlier pass: the description says the tell contains deposits of human activity dating back to about 10,500 BC. | Also recorded as a separate entry: Downloaded the World Heritage List page and read the brief synthesis and criteria (iii)-(iv)."
       },
       "kind": "un",
-      "institution_country": "FR"
-    },
-    {
-      "id": "unesco-whc-1687-tell-es-sultan",
-      "type": "web",
-      "title": "Ancient Jericho/Tell es-Sultan (World Heritage List no. 1687)",
-      "container": "UNESCO World Heritage Centre",
-      "publisher": "UNESCO",
-      "year": 2023,
-      "url": "https://whc.unesco.org/en/list/1687/",
-      "accessed": "2026-10-18",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-18",
-        "note": "Downloaded the World Heritage List page and read the brief synthesis and criteria (iii)-(iv)."
-      },
-      "kind": "un",
-      "institution_country": "FR"
+      "institution_country": "FR",
+      "year": 2023
     },
     {
       "id": "unesco-whc-326-petra",
@@ -26778,26 +26361,6 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-18"
-    },
-    {
-      "id": "unga-res-181-ii-1947",
-      "type": "document",
-      "authors": [
-        "United Nations General Assembly"
-      ],
-      "title": "Resolution 181 (II). Future government of Palestine (29 November 1947)",
-      "container": "The Avalon Project",
-      "publisher": "Lillian Goldman Law Library, Yale Law School",
-      "year": 1947,
-      "url": "https://avalon.law.yale.edu/20th_century/res181.asp",
-      "accessed": "2026-10-19",
-      "verification": {
-        "level": "full-text",
-        "checked_on": "2026-10-19",
-        "note": "Downloaded the HTML; Part II \"Boundaries\" (A. The Arab State, B. The Jewish State) and Part III B \"Boundaries of the City\" were read and quoted vertex by vertex."
-      },
-      "kind": "un",
-      "institution_country": "US"
     },
     {
       "id": "unga-res-67-19",

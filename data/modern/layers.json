@@ -86,7 +86,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "unga-res-181-ii-1947",
+          "ref": "avalon-res-181",
           "locator": "Part II A-B; Part III B",
           "quote": "The City of Jerusalem shall include the present municipality of Jerusalem plus the surrounding villages and towns, the most eastern of which shall be Abu Dis"
         },
@@ -235,6 +235,16 @@
         {
           "ref": "osm-data-2026",
           "locator": "relation 7304999"
+        },
+        {
+          "ref": "avalon-armistice-jordan-israel",
+          "locator": "Art. V(1)",
+          "quote": "The Armistice Demarcation Lines for all sectors other than the sector now held by Iraqi forces shall be as delineated on the maps in annex I"
+        },
+        {
+          "ref": "avalon-armistice-jordan-israel",
+          "locator": "Art. IV(2)",
+          "quote": "The basic purpose of the Armistice Demarcation Lines is to delineate the lines beyond which the armed forces of the respective Parties shall not move."
         }
       ],
       "notes": {

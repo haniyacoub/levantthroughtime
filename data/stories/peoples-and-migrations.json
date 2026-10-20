@@ -104,7 +104,7 @@
       },
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "II Kings 15:29",
           "quote": "King Tiglath-pileser of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor—Gilead, Galilee, the entire region of Naphtali; and he deported the inhabitants to Assyria."
         },
@@ -162,7 +162,7 @@
       },
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Jeremiah 52:28-30",
           "quote": "This is the number of those whom Nebuchadrezzar exiled in the seventh year: 3,023 Judeans. ... The total amounted to 4,600 persons."
         },
@@ -211,7 +211,7 @@
       },
       "sources": [
         {
-          "ref": "jps-tanakh-2023",
+          "ref": "jps-2023-tanakh",
           "locator": "Ezra 2:64-65; Nehemiah 7:66-67",
           "quote": "The sum of the entire community was 42,360, not counting their male and female servants, those being 7,337"
         },
@@ -274,7 +274,7 @@
           "quote": "Josephus claims that 1.1 million people died in the siege of Jerusalem alone, and 97,000 were enslaved (Bell. 6.420-1). These figures, especially the former, are clearly impossible."
         },
         {
-          "ref": "britannica-jewish-diaspora",
+          "ref": "britannica-diaspora-judaism",
           "locator": "section on the early diaspora",
           "quote": "Diaspora Jews far outnumbered the Jews in Palestine even before the destruction of Jerusalem and the Second Temple in 70 ce."
         },
@@ -762,17 +762,17 @@
       },
       "sources": [
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 159(a)",
           "quote": "About 200,000 persons (of whom about 93,000 were refugees registered with UNRWA) who had moved from the West Bank to the East Bank in Jordan"
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 159(b)",
           "quote": "About 110,000 persons according to Syrian sources and not more than 85,000 according to Israel sources (of whom about 17,000 were UNRWA-registered refugees) who had moved from the south-western corner of Syria"
         },
         {
-          "ref": "un-sg-1967-s8158",
+          "ref": "un-s-8158-1967",
           "locator": "para. 50",
           "quote": "The truth seems to lie somewhere between an Israel statement that \"no encouragement\" was given to the population to flee, and the allegations about the use of brutal force and intimidation made by refugees."
         }
