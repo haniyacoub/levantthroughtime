@@ -270,6 +270,7 @@ export interface LanguageRecord {
   scripts?: string[];
   periods: { start: HistDate; end?: HistDate; role: string; speakers?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
   notes?: LocalizedText;
+  lineage?: { descends_from: string[]; note?: LocalizedText; sources: SourceRef[] };
 }
 
 export interface LevelPoint {
@@ -323,6 +324,8 @@ export interface People {
   confidence: Confidence;
   sources: SourceRef[];
   notes?: LocalizedText;
+  religions?: { label: LocalizedText; group?: string; start?: HistDate; end?: HistDate | null; confidence: Confidence; sources: SourceRef[] }[];
+  languages?: { language: string; start?: HistDate; end?: HistDate | null; note?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
 }
 
 export type PeopleLinkType = 'continued-as' | 'merged-into' | 'assimilated-into' | 'contributed-to' | 'migrated-to' | 'split-into' | 'converted-to';

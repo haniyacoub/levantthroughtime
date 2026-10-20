@@ -141,6 +141,22 @@ test('the peoples page opens and a people can be chosen', async ({ page }) => {
   }
 });
 
+test('the peoples page searches, recolours and traces descendants', async ({ page }) => {
+  await page.goto('/#/peoples');
+  await page.getByTestId('peoples-search').fill('Israelites');
+  await page.getByTestId('peoples-search').press('Enter');
+  await expect(page.getByTestId('people-israelites')).toBeVisible();
+  await expect(page).toHaveURL(/#\/peoples\/israelites$/);
+  // The lineage tree reaches groups that exist today.
+  await expect(page.locator('.lineage-today .chip').first()).toBeVisible();
+  await page.getByTestId('peoples-colour-religion').click();
+  await expect(page.getByTestId('peoples-colour-religion')).toHaveAttribute('aria-pressed', 'true');
+  // An unknown id in the address is ignored rather than breaking the page.
+  await page.goto('/#/peoples/no-such-people');
+  await expect(page.getByTestId('peoples-page')).toBeVisible();
+  await expect(page.locator('.people-detail')).toHaveCount(0);
+});
+
 test('pages have no serious accessibility violations', async ({ page }) => {
   for (const q of ['#/bibliography', '#/about', '#/peoples', '?y=1948-05&cmp=1949-08']) {
     await page.goto(`/${q}`);

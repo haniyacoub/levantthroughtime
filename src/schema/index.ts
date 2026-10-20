@@ -631,6 +631,10 @@ export const LanguageRecord = z.strictObject({
     .min(1),
   sources: z.array(SourceRef).optional(),
   notes: Localized.optional(),
+  /** The language(s) this one developed from (e.g. Hebrew from the Canaanite of the Bronze Age), with sources. */
+  lineage: z
+    .strictObject({ descends_from: z.array(Id).min(1), note: Localized.optional(), sources: z.array(SourceRef).min(1) })
+    .optional(),
 });
 export const LanguagesFile = z.strictObject({ $schema: SchemaRef, languages: z.array(LanguageRecord) });
 
@@ -717,6 +721,33 @@ export const People = z.strictObject({
   confidence: Confidence,
   sources: z.array(SourceRef).min(1),
   notes: Localized.optional(),
+  /** Religions the sources attribute to this people, with periods where known. */
+  religions: z
+    .array(
+      z.strictObject({
+        label: Localized,
+        /** A religion-axis group id from groups.json, when one fits (jews, christians, muslims…). */
+        group: Id.optional(),
+        start: HistDate.optional(),
+        end: HistDate.nullable().optional(),
+        confidence: Confidence,
+        sources: z.array(SourceRef).min(1),
+      }),
+    )
+    .optional(),
+  /** Languages the sources attribute to this people (ids from languages.json), with periods where known. */
+  languages: z
+    .array(
+      z.strictObject({
+        language: Id,
+        start: HistDate.optional(),
+        end: HistDate.nullable().optional(),
+        note: Localized.optional(),
+        confidence: Confidence,
+        sources: z.array(SourceRef).min(1),
+      }),
+    )
+    .optional(),
 });
 
 /** What a people became: continued as, merged into, migrated to… Each link is a sourced statement, not a verdict. */

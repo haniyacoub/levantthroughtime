@@ -574,6 +574,18 @@ export function validateData(dir: string): Result {
       if (!kinds.has(need) && !p.accounts.some((a) => a.perspective.includes(need))) warn('perspectives.json', `id "${p.id}"`, `No ${need} account`);
     }
   }
+  // Language descent: every parent language exists, and a language does not descend from itself.
+  {
+    const langIds = new Set((b.languages?.languages ?? []).map((x) => x.id));
+    for (const l of b.languages?.languages ?? []) {
+      if (!l.lineage) continue;
+      for (const parent of l.lineage.descends_from) {
+        if (!langIds.has(parent)) err('languages.json', `id "${l.id}" › lineage`, `Unknown parent language "${parent}"`);
+        if (parent === l.id) err('languages.json', `id "${l.id}" › lineage`, 'A language cannot descend from itself');
+      }
+      checkRefs('languages.json', `id "${l.id}" › lineage`, l.lineage.sources);
+    }
+  }
   // Peoples through time: every link joins known peoples, every "related" id exists, and the usual sourcing rules apply.
   {
     const peopleIds = new Set((b.peoples?.peoples ?? []).map((x) => x.id));
@@ -592,6 +604,16 @@ export function validateData(dir: string): Result {
       checkConfidence('peoples.json', where, p.confidence, p.sources);
       checkDates('peoples.json', where, p.attested.start, p.attested.end ?? undefined);
       for (const u of p.units ?? []) if (!unitIds.has(u)) err('peoples.json', where, `Unknown geographic unit "${u}"`);
+      for (const [i, r] of (p.religions ?? []).entries()) {
+        const w = `${where} › religions[${i}]`;
+        if (r.group && !groupIds.has(`religion:${r.group}`)) err('peoples.json', w, `Unknown religion group "${r.group}"`);
+        checkRefs('peoples.json', w, r.sources);
+      }
+      for (const [i, l] of (p.languages ?? []).entries()) {
+        const w = `${where} › languages[${i}]`;
+        if (!known.languages!.has(l.language)) err('peoples.json', w, `Unknown language "${l.language}"`);
+        checkRefs('peoples.json', w, l.sources);
+      }
       for (const [kind, ids] of Object.entries(p.related ?? {})) {
         for (const id of ids ?? []) if (!known[kind]?.has(id)) err('peoples.json', where, `Unknown ${({ polities: 'polity', cultures: 'culture', languages: 'language', migrations: 'migration', groups: 'group' } as Record<string, string>)[kind] ?? kind} "${id}" in related.${kind}`);
       }

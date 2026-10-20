@@ -413,6 +413,412 @@
               "en"
             ],
             "additionalProperties": false
+          },
+          "religions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "group": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "start": {
+                  "type": "object",
+                  "properties": {
+                    "year": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "month": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 12
+                    },
+                    "day": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 31
+                    },
+                    "circa": {
+                      "type": "boolean"
+                    },
+                    "precision": {
+                      "type": "string",
+                      "enum": [
+                        "day",
+                        "month",
+                        "season",
+                        "year",
+                        "decade",
+                        "century",
+                        "millennium"
+                      ]
+                    },
+                    "latest": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "calendar_note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "year",
+                    "precision"
+                  ],
+                  "additionalProperties": false
+                },
+                "end": {
+                  "anyOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "year": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "month": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 12
+                        },
+                        "day": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 31
+                        },
+                        "circa": {
+                          "type": "boolean"
+                        },
+                        "precision": {
+                          "type": "string",
+                          "enum": [
+                            "day",
+                            "month",
+                            "season",
+                            "year",
+                            "decade",
+                            "century",
+                            "millennium"
+                          ]
+                        },
+                        "latest": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "calendar_note": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "year",
+                        "precision"
+                      ],
+                      "additionalProperties": false
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "documented",
+                    "estimated",
+                    "contested",
+                    "unknown"
+                  ]
+                },
+                "sources": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ref": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      },
+                      "via": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "ref"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "label",
+                "confidence",
+                "sources"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "languages": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "language": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "start": {
+                  "type": "object",
+                  "properties": {
+                    "year": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "month": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 12
+                    },
+                    "day": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 31
+                    },
+                    "circa": {
+                      "type": "boolean"
+                    },
+                    "precision": {
+                      "type": "string",
+                      "enum": [
+                        "day",
+                        "month",
+                        "season",
+                        "year",
+                        "decade",
+                        "century",
+                        "millennium"
+                      ]
+                    },
+                    "latest": {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    "calendar_note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "year",
+                    "precision"
+                  ],
+                  "additionalProperties": false
+                },
+                "end": {
+                  "anyOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "year": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "month": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 12
+                        },
+                        "day": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 31
+                        },
+                        "circa": {
+                          "type": "boolean"
+                        },
+                        "precision": {
+                          "type": "string",
+                          "enum": [
+                            "day",
+                            "month",
+                            "season",
+                            "year",
+                            "decade",
+                            "century",
+                            "millennium"
+                          ]
+                        },
+                        "latest": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "calendar_note": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "year",
+                        "precision"
+                      ],
+                      "additionalProperties": false
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "note": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "documented",
+                    "estimated",
+                    "contested",
+                    "unknown"
+                  ]
+                },
+                "sources": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ref": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      },
+                      "via": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "ref"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "language",
+                "confidence",
+                "sources"
+              ],
+              "additionalProperties": false
+            }
           }
         },
         "required": [

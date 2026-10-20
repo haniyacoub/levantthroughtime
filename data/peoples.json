@@ -359,8 +359,8 @@
       "id": "apiru",
       "name": {
         "en": "'Apiru (Habiru)",
-        "ar": "العبيرو (الخابيرو) 'Apiru (Habiru)",
-        "he": "העפירו (חבירו) 'Apiru (Habiru)",
+        "ar": "العبيرو (الخابيرو)",
+        "he": "העפירו (חבירו)",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -2036,7 +2036,7 @@
       "id": "idumeans",
       "name": {
         "en": "Idumeans",
-        "ar": "الأدوميون (Idumeans)",
+        "ar": "الإدوميون (أهل إدوميا)",
         "he": "האדומים (אידומאים)",
         "translation_status": {
           "ar": "machine-draft",

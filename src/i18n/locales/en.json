@@ -392,7 +392,7 @@
     "legend": "Kinds of link",
     "diagramLabel": "Diagram of the peoples of the land through time and the links between them",
     "listLabel": "All peoples",
-    "select": "Choose a people in the diagram or the list to see what the sources say.",
+    "select": "Choose a people in the diagram or the list below it to see what the sources say.",
     "today": "today",
     "attested": "named in the sources",
     "homeland": "Where they lived",
@@ -422,6 +422,30 @@
       "religious-community": "religious community",
       "tribal-confederation": "tribal confederation",
       "community": "community"
-    }
+    },
+    "howTo": "How to read this diagram",
+    "howBars": "Each row is one people or community. Its bar runs from the first to the last time the sources name it; a bar reaching the right edge means the group exists today. Time runs left to right (right to left in Arabic and Hebrew), with recent periods given a little more room.",
+    "howLinks": "Lines and arrows show what the sources say a group became: it continued as, merged into, was assimilated into, contributed to, converted to or migrated to another group or place. The line style shows which; see the key above the diagram.",
+    "howContested": "A dashed red outline or a faded line means scholars disagree; open the group to see each position and its sources.",
+    "howEvidence": "Every statement says what kind of evidence it rests on: documents and inscriptions, archaeology, textual tradition (such as the Bible), language, or DNA. Textual tradition is kept apart from archaeology.",
+    "howClick": "Click a row, a line or a name in the list to open the details: religions, languages and the language they lead to today, descendants today and ancestors, each with its sources.",
+    "search": "Find a people",
+    "colourBy": "Colour by",
+    "colour": {
+      "kind": "Kind of group",
+      "religion": "Religion",
+      "language": "Language family"
+    },
+    "notRecorded": "not recorded",
+    "religions": "Religions",
+    "languages": "Languages",
+    "langFrom": "Descends from",
+    "langToday": "Leads to (languages spoken today)",
+    "lineage": "Ancestors and descendants",
+    "lineageNote": "Traced along the sourced links in the diagram, taking the shortest chain to each group and preferring links the sources agree on. It follows what the sources say about groups, not family trees: \"contributed to\" means part of a group's ancestry, and anyone may also have other ancestry.",
+    "ancestors": "Where it comes from",
+    "descendantsToday": "Groups that exist today in these chains",
+    "close": "Close",
+    "descendants": "What it led to"
   }
 }
