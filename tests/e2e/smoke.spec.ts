@@ -129,8 +129,21 @@ test('the about and perspectives pages open', async ({ page }) => {
   await expect(page.getByTestId('perspectives-page')).toBeVisible();
 });
 
+test('the peoples page opens and a people can be chosen', async ({ page }) => {
+  await open(page);
+  await page.getByTestId('nav-peoples').click();
+  await expect(page.getByTestId('peoples-page')).toBeVisible();
+  await expect(page).toHaveURL(/#\/peoples/);
+  const first = page.locator('.peoples-list .chip').first();
+  if (await first.count()) {
+    await first.click();
+    await expect(page.locator('.people-detail')).toBeVisible();
+    await expect(page).toHaveURL(/#\/peoples\/[a-z0-9-]+/);
+  }
+});
+
 test('pages have no serious accessibility violations', async ({ page }) => {
-  for (const q of ['#/bibliography', '#/about', '?y=1948-05&cmp=1949-08']) {
+  for (const q of ['#/bibliography', '#/about', '#/peoples', '?y=1948-05&cmp=1949-08']) {
     await page.goto(`/${q}`);
     await page.waitForTimeout(1500);
     const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa']).analyze();
