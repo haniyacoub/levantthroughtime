@@ -83,6 +83,13 @@ def add_sources(lst):
         norm = lambda t: re.sub(r'[^a-z0-9]', '', (t or '').lower())[:60]
         if same and norm(sources[same].get('title')) != norm(s.get('title')):
             same = None  # same URL but a different work (e.g. two chapters of one digitised volume)
+        auth = lambda x: {re.sub(r'[^a-z]', '', a.lower().split(',')[0]) for a in x.get('authors') or []}
+        if same and auth(s) and auth(sources[same]) and not (auth(s) & auth(sources[same])):
+            same = None  # same page, different signed entry (e.g. two encyclopedia articles on one page)
+        if same and s.get('container') and sources[same].get('container') and norm(s['container'])[:30] != norm(sources[same]['container'])[:30]:
+            same = None  # same page, a different reference work
+        if same and s.get('year') and sources[same].get('year') and s['year'] != sources[same]['year'] and auth(s) != auth(sources[same]):
+            same = None  # same page, a different work and year (e.g. EJ 2007 and Encyclopedia of World Cultures 1995)
         if same and same != sid:
             alias[sid] = same
             if RANK[s['verification']['level']] > RANK[sources[same]['verification']['level']]:
@@ -654,7 +661,7 @@ def apply_m8(name):
         return None
     added = changed = missing = 0
     log = []
-    for pt in d['patches']:
+    for pt in d.get('patches', []):
         rec = find(pt['file'], pt['id'])
         if rec is not None and pt.get('subpath'):
             # e.g. "relations[8]", "periods[2]", "destroyed[0]", "holy_site.traditions.jewish"
@@ -680,7 +687,36 @@ def apply_m8(name):
             if (pt['id'], field) in HOLD:
                 log.append(f"  held back (single source): {pt['file']} {pt['id']} {field}"); continue
             to = ch['to']
-            if field in ('notes', 'description'):
+            mode = ch.get('mode')
+            if mode == 'delete-sentence':
+                cur = (rec.get(field) or {}).get('en', '') if isinstance(rec.get(field), dict) else (rec.get(field) or '')
+                frm = ch.get('from') or ''
+                if not frm or frm not in cur:
+                    log.append(f"  sentence to delete not found, skipped: {pt['id']} {field}"); continue
+                text = re.sub(r'\s{2,}', ' ', cur.replace(frm, '')).strip()
+                if text: rec[field] = {'en': text}
+                else: rec.pop(field, None)
+                changed += 1; log.append(f"  deleted sentence {pt['id']} {field}"); continue
+            if mode in ('replace-ref', 'replace-quote'):
+                frm = ch.get('from') or {}
+                cits = rec.get('sources') or []
+                i = next((k for k, c in enumerate(cits) if c.get('ref') == frm.get('ref') and (c.get('quote') or '') == (frm.get('quote') or '')), None)
+                if i is None:
+                    log.append(f"  citation to replace not found, skipped: {pt['id']} {frm.get('ref')}"); continue
+                new_cits = [tidy_quote(r) for r in refs(to if isinstance(to, list) else [to])]
+                rec['sources'] = cits[:i] + new_cits + cits[i + 1:]
+                changed += 1; log.append(f"  {mode} {pt['id']} {frm.get('ref')} -> {[c['ref'] for c in new_cits]}"); continue
+            if mode == 'remove-item':
+                lst = rec.get(field) or []
+                if ch.get('from') not in lst:
+                    log.append(f"  item to remove not found, skipped: {pt['id']} {field}"); continue
+                lst.remove(ch['from'])
+                if lst: rec[field] = lst
+                else: rec.pop(field, None)
+                changed += 1; log.append(f"  removed item {pt['id']} {field}"); continue
+            if mode == 'set' and ch.get('from') is not None and rec.get(field) != ch['from']:
+                log.append(f"  current value differs, skipped: {pt['id']} {field}"); continue
+            if field in ('notes', 'description', 'contested_note', 'summary') or mode in ('append', 'replace-sentence'):
                 text = to['en'] if isinstance(to, dict) else to
                 cur = (rec.get(field) or {}).get('en', '') if isinstance(rec.get(field), dict) else (rec.get(field) or '')
                 mode = ch.get('mode')
@@ -690,7 +726,7 @@ def apply_m8(name):
                     frm = ch.get('from') or ''
                     if frm and frm in cur: text = cur.replace(frm, text)
                     else:
-                        log.append(f"  sentence to replace not found, appended instead: {pt['id']}"); text = (cur + ' ' + text).strip()
+                        log.append(f"  sentence to replace not found, skipped: {pt['id']} {field}"); continue
                 rec[field] = {'en': text}          # older Arabic/Hebrew drafts no longer match; retranslated later
             elif re.fullmatch(r'sources\[(\d+)\]\.ref', ch['field']):
                 i = int(re.search(r'\d+', ch['field']).group())
@@ -805,6 +841,176 @@ def import_m8i1(): import_m8h('i1')
 def import_m8i2(): import_m8h('i2')
 def import_m8i3(): import_m8h('i3')
 def import_m8i3ls(): import_m8h('i3ls')
+def import_m8j1(): import_m8h('j1')
+def import_m8j2(): import_m8h('j2')
+def import_m8j3(): import_m8h('j3')
+def import_m8k1(): import_m8h('k1')
+def import_m8k2(): import_m8h('k2')
+def import_m9(name):
+    """Milestone 9: peoples, the links between them, and perspectives topics, into data/peoples.json and data/perspectives.json."""
+    d = load(os.path.join(RES, f'm9-{name}.json'))
+    # Sources (stubs, new entries, unlinking of unauthorised copies) go through the shared Milestone 8 path.
+    write(os.path.join(RES, f'm8-m9{name}-sources.json'), {'sources': d.get('sources', []), 'patches': []})
+    apply_m8(f'm9{name}-sources')
+    path = os.path.join(DATA, 'peoples.json')
+    doc = load(path) if os.path.exists(path) else {'$schema': '../schema/peoples.schema.json', 'peoples': [], 'links': []}
+    have = {x['id'] for x in doc['peoples']}
+    for x in d.get('peoples', []):
+        if x['id'] in have: print('  people exists, skipped:', x['id']); continue
+        q = dict(x)
+        for k in ('name', 'homeland', 'summary', 'notes'): q[k] = lz(q.get(k))
+        q['sources'] = [tidy_quote(r) for r in refs(q.get('sources'))]
+        q['related'] = clean({k: v for k, v in (q.get('related') or {}).items() if v})
+        doc['peoples'].append(clean(q)); have.add(x['id'])
+    lhave = {x['id'] for x in doc['links']}
+    for x in d.get('links', []):
+        if x['id'] in lhave: print('  link exists, skipped:', x['id']); continue
+        q = dict(x)
+        for k in ('summary', 'notes'): q[k] = lz(q.get(k))
+        dest = q.get('destination')
+        if dest:
+            q['destination'] = clean({'label': lz({k: v for k, v in dest.items() if k in ('en', 'ar', 'he')} if 'label' not in dest else dest['label']), 'coords': dest.get('coords')})
+        if not q.get('to'): q.pop('to', None)
+        q['sources'] = [tidy_quote(r) for r in refs(q.get('sources'))]
+        doc['links'].append(clean(q)); lhave.add(x['id'])
+    write(path, doc)
+    if d.get('perspectives'):
+        pp = os.path.join(DATA, 'perspectives.json'); P = load(pp); ph = {x['id'] for x in P['perspectives']}
+        for x in d['perspectives']:
+            if x['id'] in ph: print('  perspective exists, skipped:', x['id']); continue
+            q = dict(x); q['title'] = lz(q['title']); q['notes'] = lz(q.get('notes'))
+            q['accounts'] = [clean({**a, 'label': lz(a['label']), 'summary': lz(a['summary']), 'sources': refs(a['sources'])}) for a in x['accounts']]
+            P['perspectives'].append(clean(q))
+        write(pp, P)
+    print(f"m9-{name}: {len(d.get('peoples', []))} peoples, {len(d.get('links', []))} links, {len(d.get('perspectives', []))} perspectives")
+
+def import_m9p1(): import_m9('p1')
+def import_m9p2(): import_m9('p2')
+def import_m9p3(): import_m9('p3')
+
+def import_m9q1():
+    """Round M9b-Q1: religions and languages of each people, language descent, new languages and extra language periods."""
+    name = 'q1'
+    d = load(os.path.join(RES, f'm9-{name}.json'))
+    write(os.path.join(RES, f'm8-m9{name}-sources.json'), {'sources': d.get('sources', []), 'patches': []})
+    apply_m8(f'm9{name}-sources')
+    lp = os.path.join(DATA, 'languages.json'); L = load(lp); langs = {x['id']: x for x in L['languages']}
+    def period(pr):
+        return clean({**pr, 'speakers': lz(pr.get('speakers')), 'sources': [tidy_quote(r) for r in refs(pr.get('sources'))]})
+    for x in d.get('new_languages', []):
+        if x['id'] in langs: print('  language exists, skipped:', x['id']); continue
+        q = dict(x); q['name'] = lz(q['name']); q['notes'] = lz(q.get('notes'))
+        q['periods'] = [period(pr) for pr in q.get('periods', [])]
+        if q.get('sources'): q['sources'] = [tidy_quote(r) for r in refs(q['sources'])]
+        q.pop('lineage', None)
+        L['languages'].append(clean(q)); langs[q['id']] = L['languages'][-1]; print('  new language', q['id'])
+    for x in d.get('language_patches', []):
+        rec = langs.get(x['language'])
+        if not rec: print('  language patch, not found:', x['language']); continue
+        for pr in x.get('add_periods', []):
+            rec['periods'].append(period(pr)); print('  period added to', x['language'])
+    for x in d.get('language_lineage', []):
+        rec = langs.get(x['language'])
+        bad = [i for i in x['descends_from'] if i not in langs or i == x['language']]
+        if not rec or bad: print('  lineage skipped:', x['language'], bad); continue
+        rec['lineage'] = {'descends_from': x['descends_from'], **clean({'note': lz(x.get('note')), 'sources': [tidy_quote(r) for r in refs(x['sources'])]})}
+    write(lp, L)
+    pp = os.path.join(DATA, 'peoples.json'); P = load(pp); peoples = {x['id']: x for x in P['peoples']}
+    n = 0
+    for x in d.get('people_attributes', []):
+        rec = peoples.get(x['people'])
+        if not rec: print('  people not found:', x['people']); continue
+        rel = [clean({**r, 'label': lz(r['label']), 'note': lz(r.get('note')), 'sources': [tidy_quote(q) for q in refs(r['sources'])]}) for r in x.get('religions') or [] if r.get('sources')]
+        lan = [clean({**r, 'note': lz(r.get('note')), 'sources': [tidy_quote(q) for q in refs(r['sources'])]}) for r in x.get('languages') or [] if r.get('sources')]
+        unknown = [r['language'] for r in lan if r['language'] not in langs]
+        if unknown: print('  unknown languages for', x['people'], unknown); lan = [r for r in lan if r['language'] in langs]
+        if rel: rec['religions'] = rel
+        if lan: rec['languages'] = lan
+        n += 1
+    write(pp, P)
+    print(f"m9-{name}: attributes for {n} peoples, {len(d.get('language_lineage', []))} lineages, {len(d.get('new_languages', []))} new languages")
+
+def import_m9q2(): apply_m8('m9q2')
+def import_m9q3(): import_m9('q3')
+
+UA = {'User-Agent': 'LevantThroughTime/1.0 (https://levantthroughtime.com; educational history map)'}
+OPEN_LICENCE = re.compile(r'^(public domain|pd\b|cc0|cc[ -]by(-sa)?[ -]\d\.\d|no known restrictions)', re.I)
+
+def http_json(url):
+    import urllib.request
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+        return json.load(r)
+
+def strip_html(t):
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', t or '')).strip()
+
+def import_m9img():
+    """Real images for the peoples: licence re-checked against Wikimedia Commons, image downloaded into its own folder,
+    converted to a web-sized JPEG in public/peoples/, and recorded with caption, credit, licence and identification sources."""
+    import subprocess, urllib.parse, urllib.request
+    d = load(os.path.join(RES, 'm9-img.json'))
+    write(os.path.join(RES, 'm8-m9img-sources.json'), {'sources': d.get('sources', []), 'patches': []})
+    apply_m8('m9img-sources')
+    pp = os.path.join(DATA, 'peoples.json'); P = load(pp); peoples = {x['id']: x for x in P['peoples']}
+    out_dir = os.path.join(DATA, '..', 'public', 'peoples'); os.makedirs(out_dir, exist_ok=True)
+    dl_root = os.path.join(RES, 'downloads-img'); os.makedirs(dl_root, exist_ok=True)
+    added, rejected = 0, []
+    for im in d.get('images', []):
+        pid = im.get('people'); rec = peoples.get(pid)
+        iid = f"{pid}-{im.get('rank', 1)}"
+        if not rec: rejected.append((iid, 'unknown people')); continue
+        if any(x['id'] == iid for x in rec.get('images', [])): print('  image exists, skipped:', iid); continue
+        lic, lic_url, credit, url = im.get('license', ''), im.get('license_url'), im.get('credit', ''), im.get('image_url')
+        if im.get('commons_file'):
+            title = im['commons_file'] if im['commons_file'].startswith('File:') else 'File:' + im['commons_file']
+            q = 'https://commons.wikimedia.org/w/api.php?' + urllib.parse.urlencode({'action': 'query', 'prop': 'imageinfo', 'iiprop': 'url|extmetadata', 'iiurlwidth': 900, 'format': 'json', 'titles': title})
+            try:
+                pages = http_json(q)['query']['pages']
+            except Exception as e:
+                rejected.append((iid, f'Commons API failed: {e}')); continue
+            info = next(iter(pages.values())).get('imageinfo')
+            if not info: rejected.append((iid, 'not found on Commons')); continue
+            info = info[0]; md = info.get('extmetadata', {})
+            lic = strip_html(md.get('LicenseShortName', {}).get('value')) or lic
+            lic_url = md.get('LicenseUrl', {}).get('value') or lic_url
+            artist = strip_html(md.get('Artist', {}).get('value'))
+            credit = f"{artist}, via Wikimedia Commons" if artist else (credit or 'Wikimedia Commons')
+            url = info.get('thumburl') or info.get('url')
+            im['page_url'] = info.get('descriptionurl') or im.get('page_url')
+        if re.match(r'^pd\b', lic or '', re.I): lic = 'Public domain'
+        lic = re.sub(r'^cc[ -]by', 'CC BY', lic or '', flags=re.I)
+        if not OPEN_LICENCE.search(lic or ''): rejected.append((iid, f'licence not open: {lic}')); continue
+        if not url: rejected.append((iid, 'no image URL')); continue
+        folder = os.path.join(dl_root, iid); os.makedirs(folder, exist_ok=True)
+        raw = os.path.join(folder, 'original')
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r, open(raw, 'wb') as f:
+                f.write(r.read())
+        except Exception as e:
+            rejected.append((iid, f'download failed: {e}')); continue
+        kind = subprocess.run(['file', '-b', '--mime-type', raw], capture_output=True, text=True).stdout.strip()
+        if kind not in ('image/jpeg', 'image/png', 'image/tiff', 'image/webp', 'image/gif'):
+            rejected.append((iid, f'not an image: {kind}')); continue
+        dest = os.path.join(out_dir, f'{iid}.jpg')
+        conv = subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '78', '-Z', '900', raw, '--out', dest], capture_output=True, text=True)
+        if conv.returncode != 0 or not os.path.exists(dest): rejected.append((iid, 'conversion failed')); continue
+        obj = im.get('object') or {}
+        record = clean({
+            'id': iid, 'file': f'peoples/{iid}.jpg', 'kind': im.get('kind', 'depiction'),
+            'caption': lz(im.get('caption')), 'perspective': lz(im.get('perspective')),
+            'object': clean({'what': lz(obj.get('what')), 'date': obj.get('date'), 'made_by': lz(obj.get('made_by')), 'where_now': obj.get('where_now')}) if obj.get('what') else None,
+            'license': lic, 'license_url': lic_url if lic_url and lic_url.startswith('http') else None,
+            'credit': credit[:300], 'page_url': im.get('page_url'),
+            'confidence': im.get('confidence', 'estimated'),
+            'sources': [tidy_quote(r) for r in refs(im.get('identification_sources'))],
+        })
+        if not record.get('sources'): rejected.append((iid, 'no identification source')); os.remove(dest); continue
+        rec.setdefault('images', []).append(record); added += 1
+    for x in P['peoples']:
+        if x.get('images'): x['images'].sort(key=lambda r: r['id'])
+    write(pp, P)
+    print(f'm9-img: {added} images added; {len(rejected)} rejected')
+    for r in rejected: print('  rejected', *r)
 
 def import_m8e(): apply_m8('e')
 def import_m8f(): apply_m8('f')
