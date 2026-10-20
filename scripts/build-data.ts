@@ -167,8 +167,12 @@ function assignColours(): Record<string, string> {
   for (const [id, pin] of Object.entries(palette.pinned)) colour[id] = pin.color;
   for (const o of owners) {
     if (colour[o]) continue;
+    // Prefer a colour no other owner on the map at the same time uses (so legend swatches differ);
+    // fall back to one that differs from owners that overlap in space or are linked to this one.
+    const A = info.get(o)!;
+    const sameTime = owners.filter((x) => x !== o && colour[x] && info.get(x)!.t0 < A.t1 && A.t0 < info.get(x)!.t1).map((x) => colour[x]!);
     const used = owners.filter((x) => x !== o && colour[x] && conflicts(o, x)).map((x) => colour[x]!);
-    const free = palette.cycle.find((c) => !used.includes(c));
+    const free = palette.cycle.find((c) => !sameTime.includes(c)) ?? palette.cycle.find((c) => !used.includes(c));
     colour[o] = free ?? palette.cycle.reduce((best, c) => (used.filter((u) => u === c).length < used.filter((u) => u === best).length ? c : best), palette.cycle[0]!);
   }
   // Polities or cultures with no shape still get a colour for bands and legends.

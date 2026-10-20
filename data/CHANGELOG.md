@@ -383,3 +383,44 @@ Gaps:
 - The Knesset, President's Office and Israel State Archives sites refused automated access.
 - No contemporary Syrian record for 1971 was opened.
 - Several open studies sit behind anti-bot filters: Golan 2024 on Gaza; the Ifpo atlas of Jordan.
+
+### Relations between states, 640 CE onwards (round H2)
+
+All 42 relations from 640 CE on that rested only on reference works now cite primary or scholarly sources: 181 quotes, 10 new works. Examples of what "relation" means here: Jund Filastin as part of each caliphate in turn; the Crusader baronies as vassals of the Kingdom of Jerusalem; the Ottoman provinces; the Mandate and the All-Palestine Government.
+- **Early Islamic and Byzantine:** al-Baladhuri, Antiochus Strategos, Procopius and Justinian's Novels; Le Strange; Gibb; Lane-Poole (Tulunid and Ikhshidid mints at Ramla and Tiberias).
+- **Crusader states:** Fink, Baldwin and Richard in the Wisconsin *History of the Crusades*; Prawer; Boase.
+- **Ottoman period:** Doumani; the 1920 *Handbook of Syria*.
+- **Modern period:** FRUS (1922); Antonius; Tell; the Mandate text; UN documents; Shlaim.
+- **Turkish scholarship:** seven new TDV İslâm Ansiklopedisi entries.
+
+Corrections:
+- **Crusader states:**
+  - Principality of Galilee: ends 5 July 1187.
+  - County of Jaffa and Ascalon: starts 22 August 1153. A note adds that it was in the royal domain from 1163 to 1176/77.
+  - Lordship of Oultrejordain: as a fief from c. 1118 (latest 1128, Roman of Le Puy) to c. May 1189.
+  - Lordship of Sidon: from December 1110.
+- **Other date corrections:**
+  - Palaestina Salutaris: Byzantine rule until c. 616.
+  - Mamluk Damascus: until September 1516.
+  - Zahir al-Umar's rule: ends 23 August 1775.
+  - Egypt as a British protectorate: from 18 December 1914.
+- **Rated documented:** the Tulunid emirate's and OETA East's relations, now supported by primary or scholarly sources.
+- **Notes added:**
+  - Ibn Ra'iq's hold on northern Syria (940–942).
+  - Acre staying Fatimid until 1074.
+  - A short-lived first Eyalet of Sidon after 1613.
+  - Zahir al-Umar's status as a tax-farmer.
+
+New polity, the Burid atabegate of Damascus (1104–1154):
+- **Dates:** from Duqaq's death to Nur al-Din's entry.
+- **Relations:** nominally under the Seljuks (estimated); a vassal of Nur al-Din from May 1150 (documented: his name in the Friday sermon and on the coins).
+- **Territory:** three slices, leaving out Baalbek while Zengi held it (1139–1146).
+- **Sources:** Ibn al-Qalanisi (cited, not linked), Gibb, Cahen and TDV.
+
+Map colours: a polity now gets, where possible, a colour no other polity on the map at the same time uses. Before, only touching neighbours had to differ, so the legend could show two identical swatches, for example the Kingdom of Jerusalem and the Seljuks. Pairs of polities sharing a colour at the same time fell from 200 to 74; the rest occur where more than twelve polities overlap. 25 polities changed colour. Pinned colours are unchanged.
+
+Gaps:
+- The Sasanian occupation of Palaestina Secunda and Tertia rests on Iranica and Antiochus alone.
+- The start of the junds (c. 638) is unresolved: al-Baladhuri, Le Strange and TDV differ.
+- Egypt's 1922 independence rests on Britannica alone.
+- No Arabic or Egyptian source was read for the All-Palestine Government.

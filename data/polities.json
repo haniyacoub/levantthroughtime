@@ -4859,6 +4859,27 @@
               "ref": "britannica-byzantine-empire",
               "locator": "introduction",
               "quote": "the eastern half of the Roman Empire"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 102 (De moderatore Arabiae, 27 May 536), preface",
+              "quote": "And we have also directed our attention to Arabia, and as we inquired into the reason why the public treasury (fisc) should be in want, though the country is fertile"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 102, c. 2",
+              "quote": "that the Bostreni and the others are not given to tumult or sedition"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 102, closing date",
+              "quote": "Given May 27, 536."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 173",
+              "quote": "Thus the Moslems conquered all the region of Hauran [Auranitis] and subdued it.",
+              "note": "Follows the capitulation of Busra (Bostra), the capital of the province of Arabia."
             }
           ]
         }
@@ -5045,7 +5066,8 @@
             "precision": "year"
           },
           "end": {
-            "year": 614,
+            "year": 616,
+            "circa": true,
             "precision": "year"
           },
           "confidence": "documented",
@@ -5054,6 +5076,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "A dux of Palestine commanded the garrison of all three provinces."
+            },
+            {
+              "ref": "procopius-buildings-5-dewing",
+              "locator": "Book V, ch. 8, § 1",
+              "quote": "In what was formerly called Arabia and is now known as \"Third Palestine,\" a barren land extends for a great distance"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103 (De proconsule Palaestinae, 1 July 536), preface",
+              "quote": "Formerly all of Palestine was combined, then was divided into three parts and not even the proconsulship remained"
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section 'Roman war, phase II (615-26)'",
+              "quote": "Palestine replaced Asia Minor as the target in 616, direct rule being established over the whole region, including its desert frontage"
             }
           ]
         },
@@ -5075,6 +5112,16 @@
               "ref": "howard-johnston-iranica-khosrow-ii",
               "locator": "campaigns of 616",
               "quote": "direct rule being established over the whole region, including its desert frontage, with little or no fighting"
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section on Khosrow's deposition and the peace negotiations",
+              "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 503",
+              "quote": "And they reached Palestine and its borders, and they arrived at Caesarea, which is the metropolis. But there they begged for a truce, and bowed their necks in submission."
             }
           ]
         },
@@ -5097,8 +5144,43 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "In 628 the Byzantine emperor Heraclius recovered Palestine"
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section on Khosrow's deposition and the peace negotiations",
+              "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 516",
+              "quote": "when he had entered Jerusalem, he on the 21st of the month of March re-established in its own place the glorious and precious tree of the Cross",
+              "note": "The text places this in 'the 17th year after the capture of Jerusalem', i.e. 630/631."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 168",
+              "quote": "hearing that a large host of Greeks were gathered in al-'Arabah, which lay in Palestine"
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 92",
+              "quote": "When in the year 9 the Prophet marched to Tabuk in Syria for the invasion of those of the Greeks"
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 92",
+              "quote": "During his stay at Tabuk, there came to him Yuhanna ibn-Ru'bah, the chief of Ailah, and made terms"
             }
-          ]
+          ],
+          "notes": {
+            "en": "In the south of the province, Ayla (Aqaba) and Adhruh had already made terms with the Prophet Muhammad during the Tabuk expedition of AH 9 (630) (al-Baladhuri), so Byzantine control there was incomplete before the conquests of the 630s.",
+            "ar": "في جنوب الولاية كانت أيلة (العقبة) وأذرح قد صالحتا النبي محمدًا خلال غزوة تبوك سنة 9 هـ (630) (البلاذري)، فلم تكن السيطرة البيزنطية هناك تامة قبل فتوح الثلاثينيات من القرن السابع.",
+            "he": "בדרום הפרובינציה כבר כרתו איילה (עקבה) ואד'רח הסכם עם הנביא מוחמד במסע תבוכ בשנת 9 להג'רה (630) (אל-בלאד'ורי), כך שהשליטה הביזנטית שם לא הייתה שלמה עוד לפני הכיבושים של שנות ה-630.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -5169,6 +5251,26 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "from 535 onward"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103, preface",
+              "quote": "And the metropolis Caesarea has come into our mind, the principle city of the first Palestine"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103 (De proconsule Palaestinae, 1 July 536), preface",
+              "quote": "Formerly all of Palestine was combined, then was divided into three parts and not even the proconsulship remained"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103, closing date",
+              "quote": "Given July 1, 536."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 26",
+              "quote": "Palaestina Prima, with Caesarea for its capital, comprising Judaea and Samaria, became the Arab Jund of Filastin, with Ramlah for capital."
             }
           ]
         },
@@ -5190,6 +5292,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "His troops captured Jerusalem (614), destroyed churches, and carried off the True Cross."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 503",
+              "quote": "And they reached Palestine and its borders, and they arrived at Caesarea, which is the metropolis. But there they begged for a truce, and bowed their necks in submission."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 506",
+              "quote": "The beginning of the struggle of the Persians with the Christians of Jerusalem was on the 15th April, in the second indiction, in the fourth year of the Emperor Heraclius."
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section 'Roman war, phase II (615-26)'",
+              "quote": "the fragments of the True Cross, which had been taken from Jerusalem in 614"
             }
           ]
         },
@@ -5212,6 +5329,23 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "Only Jerusalem and Caesarea held out, the former until 638, when it surrendered to the Muslims, and the latter until October 640."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 516",
+              "quote": "when he had entered Jerusalem, he on the 21st of the month of March re-established in its own place the glorious and precious tree of the Cross",
+              "note": "The text places this in 'the 17th year after the capture of Jerusalem', i.e. 630/631."
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section on Khosrow's deposition and the peace negotiations",
+              "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 217",
+              "quote": "the city having been under siege for seven years. Its conquest took place in Shauwal, year 19.",
+              "note": "Shawwal AH 19 = September-October 640."
             }
           ]
         }
@@ -5284,6 +5418,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "A dux of Palestine commanded the garrison of all three provinces."
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103, c. 2",
+              "quote": "if anything of that sort happens in the second Palestine, to enter it also and quell the disturbance"
+            },
+            {
+              "ref": "blume-justinian-novels",
+              "locator": "Novel 103 (De proconsule Palaestinae, 1 July 536), preface",
+              "quote": "Formerly all of Palestine was combined, then was divided into three parts and not even the proconsulship remained"
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 26",
+              "quote": "Palaestina Secunda, with Scythopolis (Beth Shean, Baisan) for its capital, comprising the two Galilees and the western part of Peraea, became the Jund of Al Urdunn"
             }
           ]
         },
@@ -5305,6 +5454,21 @@
               "ref": "howard-johnston-iranica-khosrow-ii",
               "locator": "campaigns of 613–614",
               "quote": "occupied Syria and northern Palestine, intervened in Jerusalem to stop a pogrom (614)"
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section on the campaigns of 612-615",
+              "quote": "they defeated a field army commanded by Heraclius in person in 613, occupied Syria and northern Palestine, intervened in Jerusalem to stop a pogrom (614)"
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 503",
+              "quote": "And they reached Palestine and its borders, and they arrived at Caesarea, which is the metropolis. But there they begged for a truce, and bowed their necks in submission."
+            },
+            {
+              "ref": "howard-johnston-iranica-khosrow-ii",
+              "locator": "section on Khosrow's deposition and the peace negotiations",
+              "quote": "All Ḵosrow’s wartime gains had to be relinquished before a final peace treaty was eventually signed in 630."
             }
           ]
         },
@@ -5327,6 +5491,23 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "The decisive battle that delivered Palestine to the Muslims took place on August 20, 636."
+            },
+            {
+              "ref": "antiochus-strategos-conybeare-1910",
+              "locator": "p. 516",
+              "quote": "when he had entered Jerusalem, he on the 21st of the month of March re-established in its own place the glorious and precious tree of the Cross",
+              "note": "The text places this in 'the 17th year after the capture of Jerusalem', i.e. 630/631."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 179",
+              "quote": "Thus did he take possession of Baisan, [Bethshean, Scythopolis] Susiyah, Afik, Jarash, Bait-Ras, Kadas, and al-Jaulan, and subdue the district of the Jordan and all its land."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 210",
+              "quote": "The battle of al-Yarmuk took place in Rajab, year 15.",
+              "note": "Rajab AH 15 = August 636."
             }
           ]
         }
@@ -5626,6 +5807,28 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "After the surrender of Jerusalem, ʿUmar divided Palestine into two administrative districts (jund)"
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 167",
+              "quote": "abu-Bakr assigned 'Amr to Palestine, Shurahbil to the Jordan, and Yazid to Damascus",
+              "note": "Al-Waqidi's report as quoted by al-Baladhuri: the provinces already served as command areas in 634, before 'Umar's settlement of the junds."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 24",
+              "quote": "Syria was divided into provinces, each of which was termed a Jund.",
+              "note": "Le Strange attributes the division to the caliph 'Umar."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, para. 1",
+              "quote": "Muâviye’nin Askalân’ı (Aşkelon = Ashqelon) ele geçirmesiyle Filistin’in fethi tamamlandı ve burası Cündü Filistin adıyla askerî bir bölge haline getirildi"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "a civil war, which ended with the constitution of a new caliphate at Damascus (661), hereditary in the house of the Meccan clan of Umaiyah"
             }
           ]
         },
@@ -5646,6 +5849,26 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "Each jund was administered by an emir assisted by a financial officer."
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "a civil war, which ended with the constitution of a new caliphate at Damascus (661), hereditary in the house of the Meccan clan of Umaiyah"
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 25",
+              "quote": "Syria, thus divided into five Junds, so remained during all the days of the Damascene Khalifate of the Omayyads."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Umayyad paragraph",
+              "quote": "Süleyman halife olunca Remle’yi Filistin’in merkezi yaptı."
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "The Umaiyad caliphate succumbed in 750 to a general revolt of the Yaman faction"
             }
           ]
         },
@@ -5666,6 +5889,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Abbasid rule",
               "quote": "Along with Syria, Palestine became subject to Abbasid authority, based in Baghdad"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "The Umaiyad caliphate succumbed in 750 to a general revolt of the Yaman faction"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 82",
+              "quote": "replaced by a third line of caliphs, descended from the prophet’s uncle al-‘Abbas, who built themselves a new capital at Baghdad."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Abbâsîler devrinde Filistin, merkezi yine Remle olmak üzere Suriye ile birlikte bir eyalet haline getirildi."
             }
           ]
         },
@@ -5686,6 +5924,31 @@
               "ref": "britannica-tulunid-dynasty",
               "locator": "article",
               "quote": "Aḥmad maintained his position by occupying Syria (878)"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 66",
+              "quote": "marched in April, 878, to Damascus and received the immediate homage of the officials and inhabitants."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 2",
+              "quote": "Suriye seferi sonunda Fırat’ın batısındaki bütün vilâyetlere hâkim oldu"
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 3",
+              "quote": "273 yılının Receb ayında (Aralık 886) iki taraf arasında Tolunoğulları’nın Mısır’daki hükümranlığının tanınması, ayrıca Suriye, Filistin, Sugūr, Anadolu ve İrmîniye bölgeleriyle el-Cezîre’nin otuz yıl süreyle onların idaresine verilmesi"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 75, footnote",
+              "quote": "Harun's coins are struck at Misr, a.h. 283 — 92 ; Damascus, 284, 288; Aleppo, 285, and Palestine, 285, 290, 291."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Bölge daha sonra Tolunoğulları (868-905), tekrar Abbâsîler ve sonra İhşîdîler’in (935-969) nüfuzu altına girdi"
             }
           ]
         },
@@ -5706,6 +5969,28 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Abbasid rule",
               "quote": "After Abbasid authority was briefly restored, Palestine came under Ikhshīdid rule (935–969)."
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 76",
+              "quote": "The caliph's general, Mohammad b. Suleyman, pursued, and after a brief resistance Sheyban surrendered on terms",
+              "note": "The text dates the entry of the caliph's army into al-Qata'i' to 10 January 905."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 6 (January 905)",
+              "quote": "Böylece Mısır yeniden Abbâsî hâkimiyetine girdi."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Bölge daha sonra Tolunoğulları (868-905), tekrar Abbâsîler ve sonra İhşîdîler’in (935-969) nüfuzu altına girdi"
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 2",
+              "quote": "Halife Muktedir-Billâh 316’da (928) Remle, 319’da (931) Dımaşk valiliğine tayin etti.",
+              "note": "Muhammad ibn Tughj was appointed governor of Ramla and then Damascus by the Abbasid caliph."
             }
           ]
         },
@@ -5726,6 +6011,31 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Abbasid rule",
               "quote": "Palestine came under Ikhshīdid rule (935–969)"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 81",
+              "quote": "In this desperate state of affairs the Ikhshid took over the government of Egypt in August, 935."
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 2",
+              "quote": "Böylece Mısır’da İhşîdîler döneminin temelleri atılmış oldu (Ramazan 323 / Ağustos 935)."
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 4 (940)",
+              "quote": "Buna göre Remle dahil olmak üzere Mısır İhşîdîler’e, Suriye ise İbn Râiḳ’e ait olacak"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 77 (sources for the Ikhshidids)",
+              "quote": "Minted at Misr (Fustat), Filestin (Ramla), Damascus, Hims, Tiberias."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Bölge daha sonra Tolunoğulları (868-905), tekrar Abbâsîler ve sonra İhşîdîler’in (935-969) nüfuzu altına girdi"
             }
           ]
         },
@@ -5747,6 +6057,32 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The Fatimid dynasty",
               "quote": "in less than a decade were able to establish a precarious control over Palestine"
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Fâtımîler Mısır’a hâkim olduktan kısa bir süre sonra Filistin’i zaptettiler (969)"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 88",
+              "quote": "Nevertheless, the Fatimid troops entered Damascus at the end of 969 and for five months besieged the Greeks in their newly-recaptured stronghold of Antioch"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 88",
+              "quote": "only to be faced by a coalition of Qarmatians, Ikhshidid troops, and tribesmen, who drove them out of Syria and pursued them into Egypt (971)."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 27",
+              "quote": "are Jund Filastin, and Jund al Urdunn, Jund Dimashk, Jund Hims, and Jund Kinnasrin.",
+              "note": "'The provinces of Syria', as listed by Istakhri and Ibn Hawqal in the tenth century, in Le Strange's translation."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Seljuk paragraph",
+              "quote": "Atsız b. Uvak Kudüs’ü zaptedip Abbâsî Halifesi Kāim-Biemrillâh ve Selçuklu Sultanı Alparslan adına hutbe okuttu."
             }
           ],
           "notes": {
@@ -5931,6 +6267,27 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "they were Jordan (Al-Urdun) and Palestine (Filasṭīn)"
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 167",
+              "quote": "abu-Bakr assigned 'Amr to Palestine, Shurahbil to the Jordan, and Yazid to Damascus",
+              "note": "Al-Waqidi's report as quoted by al-Baladhuri: the provinces already served as command areas in 634, before 'Umar's settlement of the junds."
+            },
+            {
+              "ref": "hitti-1916-baladhuri",
+              "locator": "p. 178",
+              "quote": "Shurahbil conquered all the province of the Jordan [al-Urdunn] by force, with the exception of Tiberias, whose inhabitants came to terms"
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 26",
+              "quote": "Palaestina Secunda, with Scythopolis (Beth Shean, Baisan) for its capital, comprising the two Galilees and the western part of Peraea, became the Jund of Al Urdunn"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "a civil war, which ended with the constitution of a new caliphate at Damascus (661), hereditary in the house of the Meccan clan of Umaiyah"
             }
           ]
         },
@@ -5951,6 +6308,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The rise of Islam",
               "quote": "Palestine formed, with Syria, one of the main provinces of the empire"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "a civil war, which ended with the constitution of a new caliphate at Damascus (661), hereditary in the house of the Meccan clan of Umaiyah"
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 25",
+              "quote": "Syria, thus divided into five Junds, so remained during all the days of the Damascene Khalifate of the Omayyads."
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "The Umaiyad caliphate succumbed in 750 to a general revolt of the Yaman faction"
             }
           ]
         },
@@ -5971,6 +6343,21 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Abbasid rule",
               "quote": "Along with Syria, Palestine became subject to Abbasid authority"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 81",
+              "quote": "The Umaiyad caliphate succumbed in 750 to a general revolt of the Yaman faction"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 82",
+              "quote": "replaced by a third line of caliphs, descended from the prophet’s uncle al-‘Abbas, who built themselves a new capital at Baghdad."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Abbâsîler devrinde Filistin, merkezi yine Remle olmak üzere Suriye ile birlikte bir eyalet haline getirildi."
             }
           ]
         },
@@ -5991,6 +6378,21 @@
               "ref": "britannica-tulunid-dynasty",
               "locator": "article",
               "quote": "Aḥmad maintained his position by occupying Syria (878)"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 66",
+              "quote": "marched in April, 878, to Damascus and received the immediate homage of the officials and inhabitants."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 2",
+              "quote": "Suriye seferi sonunda Fırat’ın batısındaki bütün vilâyetlere hâkim oldu"
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 3",
+              "quote": "273 yılının Receb ayında (Aralık 886) iki taraf arasında Tolunoğulları’nın Mısır’daki hükümranlığının tanınması, ayrıca Suriye, Filistin, Sugūr, Anadolu ve İrmîniye bölgeleriyle el-Cezîre’nin otuz yıl süreyle onların idaresine verilmesi"
             }
           ]
         },
@@ -6011,6 +6413,22 @@
               "ref": "britannica-tulunid-dynasty",
               "locator": "article",
               "quote": "the state finally reverted to the ʿAbbāsids in 905"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 76",
+              "quote": "The caliph's general, Mohammad b. Suleyman, pursued, and after a brief resistance Sheyban surrendered on terms",
+              "note": "The text dates the entry of the caliph's army into al-Qata'i' to 10 January 905."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 6 (January 905)",
+              "quote": "Böylece Mısır yeniden Abbâsî hâkimiyetine girdi."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Bölge daha sonra Tolunoğulları (868-905), tekrar Abbâsîler ve sonra İhşîdîler’in (935-969) nüfuzu altına girdi"
             }
           ]
         },
@@ -6031,8 +6449,52 @@
               "ref": "britannica-ikhshidid-dynasty",
               "locator": "article",
               "quote": "ruled Egypt and Syria from 935 to 969"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 81",
+              "quote": "In this desperate state of affairs the Ikhshid took over the government of Egypt in August, 935."
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 77 (sources for the Ikhshidids)",
+              "quote": "Minted at Misr (Fustat), Filestin (Ramla), Damascus, Hims, Tiberias."
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 86",
+              "quote": "Egypt had again become the seat of a factually independent Turkish dynasty, founded by an officer of the former Tulunid forces, Muhammad ibn-Tughj, surnamed al-Ikhshid, whose government embraced also Damascus and the Hejaz."
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 83",
+              "quote": "peace was made on the terms that Ibn-Raik retained Syria north of Ramla"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "pp. 83-84",
+              "quote": "After Ibn-Raik's death, two years later, the Ikhshid recovered Syria and re-entered Damascus without striking a blow."
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 4 (940)",
+              "quote": "Buna göre Remle dahil olmak üzere Mısır İhşîdîler’e, Suriye ise İbn Râiḳ’e ait olacak"
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 5",
+              "quote": "Muhammed b. Tuğç, İbn Râiḳ’in ölümünden sonra Dımaşk üzerine yürüyüp bütün Suriye’yi ele geçirdi."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Interrupted in the north: after fighting in 940 the Ikhshid left Syria north of Ramla to Ibn Ra'iq, a former Abbasid commander-in-chief (amir al-umara), and recovered it only after Ibn Ra'iq's death about two years later (Lane-Poole; TDV).",
+            "ar": "انقطعت في الشمال: بعد قتال عام 940 ترك الإخشيد الشام شمالي الرملة لابن رائق، أمير الأمراء العباسي السابق، ولم يستعده إلا بعد وفاة ابن رائق بنحو سنتين (لين-بول؛ TDV).",
+            "he": "נקטע בצפון: אחרי קרבות ב-940 הותיר האח'שיד את סוריה שמצפון לרמלה לאבן ראא'ק, לשעבר המפקד העליון (אמיר אל-אומרא) העבאסי, והשיב אותה רק אחרי מותו של אבן ראא'ק כעבור כשנתיים (ליין-פול; TDV).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "part-of",
@@ -6052,8 +6514,43 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "The Fatimid dynasty",
               "quote": "establish a precarious control over Palestine"
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Abbasid paragraph",
+              "quote": "Fâtımîler Mısır’a hâkim olduktan kısa bir süre sonra Filistin’i zaptettiler (969)"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 88",
+              "quote": "Nevertheless, the Fatimid troops entered Damascus at the end of 969 and for five months besieged the Greeks in their newly-recaptured stronghold of Antioch"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 88",
+              "quote": "only to be faced by a coalition of Qarmatians, Ikhshidid troops, and tribesmen, who drove them out of Syria and pursued them into Egypt (971)."
+            },
+            {
+              "ref": "le-strange-1890",
+              "locator": "p. 27",
+              "quote": "are Jund Filastin, and Jund al Urdunn, Jund Dimashk, Jund Hims, and Jund Kinnasrin.",
+              "note": "'The provinces of Syria', as listed by Istakhri and Ibn Hawqal in the tenth century, in Le Strange's translation."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, Seljuk paragraph",
+              "quote": "Atsız’ın emîrlerinden Şöklü de 1074’te Akkâ’yı alıp buradaki Fâtımî hâkimiyetine son verdi."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Acre, in this district, remained under a Fatimid governor until Atsiz's commander Shöklü took it in 1074 (TDV).",
+            "ar": "بقيت عكا، الواقعة في هذا الجند، تحت والٍ فاطمي حتى استولى عليها شُكلي، أحد أمراء أتسز، عام 1074 (TDV).",
+            "he": "עכו, שבמחוז זה, נותרה תחת מושל פאטמי עד שמפקדו של אתסז, שוכלי, כבש אותה ב-1074 (TDV).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "part-of",
@@ -6313,12 +6810,37 @@
             "year": 905,
             "precision": "year"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "britannica-tulunid-dynasty",
               "locator": "article",
               "quote": "Insufficient payment of tribute brought caliphal troops against him in 877"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 84",
+              "quote": "obtained the leverage by which he not only built up a factually independent power there, though officially he remained deputy-governor to the end of his life"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 84",
+              "quote": "they did not thereby renounce their allegiance to the caliph; on the contrary, they formally petitioned for a diploma of investiture and duly received it"
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 67, footnote",
+              "quote": "He never omitted the caliph's name, but he did not add (as governors of other provinces did) the name of the regent el-Muwaffak."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "para. 2",
+              "quote": "bu tarihten itibaren (877) ismen halifeye bağlı müstakil bir hükümdar gibi hareket etmeye başladı."
+            },
+            {
+              "ref": "tdv-tolunogullari",
+              "locator": "concluding assessment",
+              "quote": "Tolunoğulları müstakil bir devlet olmakla birlikte Abbâsîler’e bağlılıklarını şeklen sürdürdüler"
             }
           ],
           "notes": {
@@ -6415,6 +6937,26 @@
               "ref": "britannica-ikhshidid-dynasty",
               "locator": "article",
               "quote": "two years later obtained the title ikhshīd (Persian: “prince, ruler”) from the ʿAbbāsid caliph ar-Rāḍī"
+            },
+            {
+              "ref": "gibb-1969-caliphate-arab-states",
+              "locator": "p. 86",
+              "quote": "Egypt had again become the seat of a factually independent Turkish dynasty, founded by an officer of the former Tulunid forces, Muhammad ibn-Tughj, surnamed al-Ikhshid, whose government embraced also Damascus and the Hejaz."
+            },
+            {
+              "ref": "lane-poole-1901-history-egypt-middle-ages",
+              "locator": "p. 81, footnote",
+              "quote": "He was allowed to use the ancestral title by special permission of the caliph four years after his arrival in Egypt."
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 2",
+              "quote": "Böylece Mısır’da İhşîdîler döneminin temelleri atılmış oldu (Ramazan 323 / Ağustos 935)."
+            },
+            {
+              "ref": "tdv-ihsidiler",
+              "locator": "para. 3",
+              "quote": "Mısır ve Suriye camilerinde hutbelerde adı halifenin adıyla birlikte anılmaya başlandı."
             }
           ]
         }
@@ -7045,7 +7587,8 @@
           "end": {
             "year": 1187,
             "month": 7,
-            "precision": "month"
+            "day": 5,
+            "precision": "day"
           },
           "confidence": "documented",
           "sources": [
@@ -7053,6 +7596,38 @@
               "ref": "britannica-kingdom-of-jerusalem",
               "locator": "paragraph 2",
               "quote": "included four great baronies: the county of Jaffa and Ascalon, the lordship of Krak or Montréal, the principality of Galilee, and the lordship of Sidon."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 376",
+              "quote": "The greatest territorial vassal was Tancred.",
+              "note": "Of Godfrey of Bouillon, in 1099-1100."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 377",
+              "quote": "Within a year Tancred controlled Nablus, Tiberias, Baisan, and Haifa. His domain served as a march over against Damascus."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 385",
+              "quote": "Tiberias, given to Hugh of Falkenberg when Tancred left for Antioch in 1101",
+              "note": "First item in Fink's list of 'the great land fiefs' under Baldwin I (p. 384)."
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 197",
+              "quote": "First he availed himself of Tancred’s departure to bind the principality of Galilee more closely to the crown."
+            },
+            {
+              "ref": "prawer-1985-franks",
+              "locator": "p. 133, n. 29",
+              "quote": "He tried to create an independent principality of Galilee with Tiberias as its capital and Haifa as its main port. This conquest was incorporated into the kingdom under Baldwin I."
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 615",
+              "quote": "Saladin delayed only a day to secure the capitulation of Tiberias (July 5) before marching toward Acre."
             }
           ]
         }
@@ -7150,7 +7725,9 @@
           "overlord": "kingdom-of-jerusalem",
           "start": {
             "year": 1153,
-            "precision": "year"
+            "month": 8,
+            "day": 22,
+            "precision": "day"
           },
           "end": {
             "year": 1187,
@@ -7162,8 +7739,49 @@
               "ref": "britannica-kingdom-of-jerusalem",
               "locator": "paragraph 2",
               "quote": "included four great baronies: the county of Jaffa and Ascalon, the lordship of Krak or Montréal, the principality of Galilee, and the lordship of Sidon."
+            },
+            {
+              "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+              "locator": "p. 538",
+              "quote": "The city fell on August 22, 1153"
+            },
+            {
+              "ref": "baldwin-1969-latin-states-baldwin-iii-amalric",
+              "locator": "p. 538",
+              "quote": "The government of Ascalon was entrusted to Amalric, count of Jaffa, the king’s brother."
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 205",
+              "quote": "There were important lands, some of which carried the title of county (Jaffa) or principality (Galilee)"
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 217",
+              "quote": "In 1151 it formed the appanage of the future king Amalric, who joined it to the royal domain in 1163. In 1177 it was assigned to the future queen Sibyl."
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 593",
+              "quote": "he was married to Sibyl with the county of Jaffa and Ascalon as dowry",
+              "note": "William Longsword of Montferrat, on his arrival in October 1176."
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 615",
+              "quote": "all the major ports south of Tripoli, with the exception of Tyre, were in Moslem hands. These included Beirut, Jaffa, Ascalon, and Sidon",
+              "note": "Before the siege of Jerusalem began in September 1187."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Not continuous: Amalric, count of Jaffa from 1151 and lord of Ascalon from 1153, joined the county to the royal domain when he became king in 1163; it was granted again as the dowry of Sibyl on her marriage to William of Montferrat (October 1176), and Richard dates its assignment to her to 1177.",
+            "ar": "ليست متصلة: ضمّ أمالريك، كونت يافا منذ 1151 وحاكم عسقلان منذ 1153، الكونتية إلى الأملاك الملكية حين صار ملكًا عام 1163؛ ثم مُنحت من جديد مهرًا لسيبيل عند زواجها من وليم مونفرات (تشرين الأول/أكتوبر 1176)، ويؤرخ ريشار إسنادها إليها بعام 1177.",
+            "he": "לא רציף: אמלריך, רוזן יפו מ-1151 ושליט אשקלון מ-1153, צירף את הרוזנות לנחלת הכתר כשהיה למלך ב-1163; היא ניתנה שוב כנדוניה לסיבילה בנישואיה לויליאם ממונפרט (אוקטובר 1176), ורישאר מתארך את הקצאתה לה ל-1177.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -7264,9 +7882,9 @@
         }
       ],
       "notes": {
-        "en": "Britannica calls it 'the lordship of Krak or Montréal'. Frankish rule in southern Transjordan dates from the building of Montréal (Shawbak) by Baldwin I in autumn 1115 (Fink; Boase); Kerak was founded in 1142 by Pagan the Butler (Boase), not in 1132. When Transjordan became a separate fief was not verified (Fink: no record that Baldwin I granted Montréal as a fief); in 1161 Baldwin III invested Philip of Milly, lord of Nablus, with Transjordan (Prawer; Benvenisti). Kerak capitulated in November 1188 and Montréal in April-May 1189; by then only Tyre and Belfort were left of the kingdom (Baldwin).",
-        "ar": "تسميها بريتانيكا «سيادة الكرك أو مونريال». ويعود الحكم الفرنجي في جنوب شرق الأردن إلى بناء مونريال (الشوبك) على يد بلدوين الأول في خريف 1115 (فينك؛ بواز)؛ وأُسست الكرك سنة 1142 على يد باغان الساقي (بواز)، لا سنة 1132. ولم يُتحقق من الوقت الذي صار فيه شرق الأردن إقطاعاً منفصلاً (فينك: لا سجل لمنح بلدوين الأول مونريال إقطاعاً)؛ وفي سنة 1161 منح بلدوين الثالث فيليب دو ميي، سيد نابلس، شرق الأردن (براور؛ بنفنستي). واستسلمت الكرك في تشرين الثاني/نوفمبر 1188 ومونريال في نيسان/أبريل-أيار/مايو 1189؛ ولم يبقَ من المملكة حينئذ سوى صور وقلعة الشقيف (بلدوين).",
-        "he": "בריטניקה מכנה אותה \"אדנות קרק או מונטריאל\". השלטון הפרנקי בעבר הירדן הדרומי מתחיל בבניית מונטריאל (שובכ) בידי בלדווין הראשון בסתיו 1115 (פינק; בואז); כרכ נוסדה ב־1142 בידי פגאן המשקה (בואז), ולא ב־1132. מתי הפך עבר הירדן לפאודום נפרד לא אומת (פינק: אין תיעוד לכך שבלדווין הראשון העניק את מונטריאל כפאודום); ב־1161 העניק בלדווין השלישי את עבר הירדן לפיליפ ממיי, אדון שכם (פראוור; בנבנישתי). כרכ נכנעה בנובמבר 1188 ומונטריאל באפריל–מאי 1189; עד אז נותרו מן הממלכה רק צור ובופור (בלדווין).",
+        "en": "Britannica calls it 'the lordship of Krak or Montréal'. Frankish rule in southern Transjordan dates from the building of Montréal (Shawbak) by Baldwin I in autumn 1115 (Fink; Boase); Kerak was founded in 1142 by Pagan the Butler (Boase), not in 1132. Fink finds no record that Baldwin I granted Montréal as a fief; the first known baron, Roman of Le Puy, lost the fief to Baldwin II before 1128 (Richard); in 1161 Baldwin III invested Philip of Milly, lord of Nablus, with Transjordan (Prawer; Benvenisti). Kerak capitulated in November 1188 and Montréal in April-May 1189; by then only Tyre and Belfort were left of the kingdom (Baldwin).",
+        "ar": "تسميها بريتانيكا «سيادة الكرك أو مونتريال». ويعود الحكم الفرنجي في جنوب شرق الأردن إلى بناء مونتريال (الشوبك) على يد بلدوين الأول في خريف 1115 (فينك؛ بواز)؛ وقد بنى باغان الساقي قلعة الكرك سنة 1142 (بواز)، لا سنة 1132. ولا يجد فينك أي سجل يفيد بأن بلدوين الأول منح مونتريال إقطاعاً؛ وأول بارون معروف، رومان من لو بوي، فقد الإقطاع لصالح بلدوين الثاني قبل 1128 (ريشار)؛ وفي 1161 منح بلدوين الثالث فيليب من ميي، سيد نابلس، شرق الأردن إقطاعاً (براور؛ بنفنستي). واستسلمت الكرك في تشرين الثاني/نوفمبر 1188 ومونتريال في نيسان/أبريل - أيار/مايو 1189؛ ولم يبقَ من المملكة حينها إلا صور وقلعة الشقيف (بلدوين).",
+        "he": "בריטניקה קוראת לה \"אדנות קראק או מונרֵאל\". השלטון הפרנקי בדרום עבר הירדן מתחיל בבניית מונרֵאל (שובכ) בידי בלדווין הראשון בסתיו 1115 (פינק; בואז); כרכ נוסדה ב-1142 בידי פגאן המשקה (בואז), לא ב-1132. פינק אינו מוצא תיעוד לכך שבלדווין הראשון העניק את מונרֵאל כפיאוד; הברון הראשון הידוע, רומן מלה פוי, איבד את הפיאוד לבלדווין השני לפני 1128 (רישאר); ב-1161 העניק בלדווין השלישי את עבר הירדן לפיליפ ממיי, אדון שכם (פראוור; בנבנישתי). כרכ נכנעה בנובמבר 1188 ומונרֵאל באפריל-מאי 1189; עד אז נותרו מהממלכה רק צור ובלפור (בולדווין).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -7277,14 +7895,16 @@
           "type": "vassal",
           "overlord": "kingdom-of-jerusalem",
           "start": {
-            "year": 1132,
+            "year": 1118,
             "circa": true,
-            "precision": "year"
+            "precision": "year",
+            "latest": 1128
           },
           "end": {
-            "year": 1188,
-            "precision": "year",
-            "latest": 1189
+            "year": 1189,
+            "month": 5,
+            "circa": true,
+            "precision": "month"
           },
           "confidence": "documented",
           "sources": [
@@ -7297,8 +7917,57 @@
               "ref": "britannica-crusades",
               "locator": "section 'The Crusader states to 1187'",
               "quote": "Reginald of Châtillon, lord of Kerak and Montréal, broke the truce with the Muslims by attacking a caravan."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 385",
+              "quote": "There is no record that Baldwin granted out Montréal (ash-Shaubak) as a fief when it was established in 1115."
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 214",
+              "quote": "Roman of Le Puy, lord of Transjordan, rebelled against Baldwin II, who had confiscated his barony before 1128"
+            },
+            {
+              "ref": "boase-1977-military-architecture",
+              "locator": "p. 149",
+              "quote": "Krak de Montréal (ash-Shaubak) built by Baldwin I in 1115"
+            },
+            {
+              "ref": "boase-1977-military-architecture",
+              "locator": "p. 149",
+              "quote": "Kerak, founded in 1142 by Pagan le Bouteiller and enlarged by his immediate successors."
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 217",
+              "quote": "In 1161 Philip of Milly ceded to the king the fief of Maron in exchange for the fief of Transjordan, which had just reverted to the king"
+            },
+            {
+              "ref": "prawer-1985-minorities",
+              "locator": "p. 115, n. 222",
+              "quote": "When Baldwin III invested Philip of Milly, lord of Nablus, in 1161 with Transjordan"
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 619",
+              "quote": "hunger finally forced the heroic garrison of Kerak to capitulate."
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 619",
+              "quote": "(November 1188). Shortly afterward (April-May 1189), Krak de Montréal and a few other smaller places surrendered"
             }
-          ]
+          ],
+          "notes": {
+            "en": "Montréal (1115) seems to have stayed in the royal domain under Baldwin I (Fink). The first known baron, Roman of Le Puy, lost the fief to Baldwin II before 1128 (Richard), and Kerak was founded in 1142 by Pagan the Butler (Boase). In 1161 the fief, which had just reverted to the crown, was granted to Philip of Milly, lord of Nablus, in exchange for the fief of Maron (Richard; Prawer).",
+            "ar": "يبدو أن الشوبك (مونتريال، 1115) بقي ضمن الأملاك الملكية في عهد بلدوين الأول (فينك). وفقد أول بارون معروف، رومان دو بوي، الإقطاع لصالح بلدوين الثاني قبل 1128 (ريشار)، وأسس باغان الساقي الكرك عام 1142 (بواز). وفي 1161 مُنح الإقطاع، الذي كان قد عاد لتوّه إلى التاج، لفيليب دو ميلي سيد نابلس مقابل إقطاع مارون (ريشار؛ براور).",
+            "he": "נראה שמונטריאל (שובכ, 1115) נותרה בנחלת הכתר בימי בולדווין הראשון (פינק). הברון הראשון הידוע, רומן מלה-פוי, איבד את הלן לבולדווין השני לפני 1128 (רישאר), וכרכ נוסדה ב-1142 בידי פגאן המשקה (בואז). ב-1161 ניתן הלן, שזה עתה חזר לכתר, לפיליפ ממילי, אדון שכם, תמורת הלן של מארון (רישאר; פראוור).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -7364,9 +8033,9 @@
         }
       ],
       "notes": {
-        "en": "Sidon had been taken by 1112 (Britannica); exact year of capture not verified here. It fell to Saladin in 1187. A 13th-century Frankish lordship of Sidon is not covered in this first pass.",
-        "ar": "كانت صيدا قد أُخذت بحلول 1112 (بريتانيكا)؛ والسنة الدقيقة للاستيلاء لم تُتحقق هنا. سقطت في يد صلاح الدين عام 1187. أما سيادة فرنجية لصيدا في القرن الثالث عشر فغير مغطاة في هذه الجولة الأولى.",
-        "he": "צידון נכבשה עד 1112 (בריטניקה); שנת הכיבוש המדויקת לא אומתה כאן. נפלה לצלאח א-דין ב-1187. אדנות פרנקית של צידון במאה ה-13 אינה מכוסה בסבב ראשון זה.",
+        "en": "Baldwin I took Sidon in December 1110 with a fleet of Norwegian crusaders and gave it to Eustace Garnier (Fink); Britannica says only 'by 1112'. It fell to Saladin in 1187. A 13th-century Frankish lordship of Sidon is not covered in this first pass.",
+        "ar": "استولى بلدوين الأول على صيدا في كانون الأول/ديسمبر 1110 بمساعدة أسطول من الصليبيين النرويجيين ومنحها ليوستاس غارنييه (فينك)؛ ولا تقول بريتانيكا إلا «بحلول 1112». وسقطت بيد صلاح الدين سنة 1187. ولا تغطي هذه المرحلة الأولى سيادة صيدا الفرنجية في القرن الثالث عشر.",
+        "he": "בלדווין הראשון כבש את צידון בדצמבר 1110 בעזרת צי של צלבנים נורווגים ונתן אותה לאוסטס גרנייה (פינק); בריטניקה אומרת רק \"עד 1112\". היא נפלה לצלאח א-דין ב-1187. אדנות צידון הפרנקית של המאה ה-13 אינה מכוסה במעבר ראשון זה.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -7377,9 +8046,9 @@
           "type": "vassal",
           "overlord": "kingdom-of-jerusalem",
           "start": {
-            "year": 1112,
-            "circa": true,
-            "precision": "year"
+            "year": 1110,
+            "month": 12,
+            "precision": "month"
           },
           "end": {
             "year": 1187,
@@ -7391,6 +8060,27 @@
               "ref": "britannica-kingdom-of-jerusalem",
               "locator": "paragraph 2",
               "quote": "included four great baronies: the county of Jaffa and Ascalon, the lordship of Krak or Montréal, the principality of Galilee, and the lordship of Sidon."
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 386",
+              "quote": "He secured Sidon at last, in December of that year, with the aid of a fleet of Norwegian crusaders"
+            },
+            {
+              "ref": "fink-1969-foundation-latin-states",
+              "locator": "p. 385",
+              "quote": "Caesarea and Sidon, given after capture to Eustace Garnier."
+            },
+            {
+              "ref": "richard-1985-political-ecclesiastical-organization",
+              "locator": "p. 205",
+              "quote": "that the barons designated Eustace Garnier, lord of Sidon (1123)."
+            },
+            {
+              "ref": "baldwin-1969-decline-fall-jerusalem",
+              "locator": "p. 615",
+              "quote": "all the major ports south of Tripoli, with the exception of Tyre, were in Moslem hands. These included Beirut, Jaffa, Ascalon, and Sidon",
+              "note": "Before the siege of Jerusalem began in September 1187."
             }
           ]
         }
@@ -7949,7 +8639,8 @@
           },
           "end": {
             "year": 1516,
-            "precision": "year"
+            "month": 9,
+            "precision": "month"
           },
           "confidence": "documented",
           "sources": [
@@ -7957,6 +8648,41 @@
               "ref": "britannica-palestine-to-1900",
               "locator": "section 'The Crusades' (Mamluk paragraph)",
               "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
+            },
+            {
+              "ref": "runciman-1969-crusader-states-1243-1291",
+              "locator": "p. 574",
+              "quote": "The decisive battle of ‘Ain Jalut, on September 3, 1260, when the Christian Kitbogha was defeated and slain by the Mamluks"
+            },
+            {
+              "ref": "runciman-1969-crusader-states-1243-1291",
+              "locator": "p. 574",
+              "quote": "The whole Syrian hinterland passed into Egyptian hands"
+            },
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 745",
+              "quote": "He then restored, where possible, all the Aiyubid princes and other officials to their former places as governors under his command. In this way he extended the suzerainty of the Mamluk sultanate over Syria and Palestine"
+            },
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 746",
+              "quote": "the governor of Damascus, ‘Alam-ad-Din, whom Kutuz had reinstated in the Syrian capital"
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Islamic period, paragraph from the Turkmen emirate to the Mamluks",
+              "quote": "Memlükler zamanında yeni bir idarî teşkilâtlanmaya gidildi ve Filistin Gazze, Lüd, Kakun, Kudüs, Halîl ve Nablus olmak üzere Dımaşk’a bağlı altı bölgeye ayrıldı."
+            },
+            {
+              "ref": "ziada-1975-mamluk-sultans-1291-1517",
+              "locator": "p. 511",
+              "quote": "After Marj Dabiq, Selim I’s army advanced southward, and Syria passed quickly into the possession of the Ottomans"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), para. 1",
+              "quote": "24 Ağustos 1516’da Osmanlılar’ın galibiyetiyle sonuçlanan Mercidâbık Savaşı’nın en önemli sonuçlarından biri, Eylül 1516’da Şam merkezli Suriye bölgesinin Osmanlı hâkimiyeti altına alınması oldu."
             }
           ]
         }
@@ -8171,6 +8897,26 @@
               "ref": "abu-manneh-palquest-ottoman-reorganization",
               "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
               "quote": "A year after enacting the law, the Sublime Porte decided to join the Province of Damascus to that of Saida to form a large province, which was called the Province of Syria"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Egyptian period paragraph",
+              "quote": "Şubat 1841 itibariyle Suriye ve Filistin tekrar Osmanlı yönetimine girdi."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "Kuzeyde Halep, merkezde Şam ve güneyde Kudüs’ten başlayarak eski Trablusşam eyaletini de içine alan Sayda vilâyetleri oluşturuldu. Yeni Sayda vilâyetinin merkezi Akkâ’dan Beyrut’a geçti."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "Buna göre 1864 Vilâyât Nizamnâmesi bir yıl içerisinde tatbik edilerek Trablusşam, Sayda ve Şam vilâyetleri Suriye vilâyeti adı altında birleştirildi."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Ottoman period, para. 2",
+              "quote": "Osmanlı döneminde Arz-ı Filistin denilen bölge idarî bakımdan Şam eyaletine bağlı Kudüs, Gazze, Nablus ve Safed sancaklarına ayrıldı."
             }
           ]
         }
@@ -8264,8 +9010,32 @@
               "ref": "abu-manneh-palquest-ottoman-reorganization",
               "locator": "section 'The Administrative Division'",
               "quote": "the three Sanjaqs of Jerusalem, Jaffa-Gaza, and Nablus were part of the Province of Damascus (Sham), while Acre was the seat of the Province of Saida."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), para. 3",
+              "quote": "1022’de (1613) Ma‘noğlu Fahreddin’in İtalya’ya kaçışının ertesi yılı kurulan Sayda eyaleti kısa süre sonra ilga edildi ve Abaza Hasan Paşa isyanının bastırılmasının ardından 1660’ta tekrar kuruldu."
+            },
+            {
+              "ref": "tdv-sayda",
+              "locator": "part 1, Ottoman paragraph",
+              "quote": "Osmanlı Devleti bu bölgeyi daha iyi kontrol edebilmek amacıyla Sayda, Safed ve Beyrut sancaklarını Şam’dan ayırarak Sayda eyaleti adıyla yeni bir beylerbeyilik teşkil etti."
+            },
+            {
+              "ref": "doumani-1995-rediscovering-palestine",
+              "locator": "ch. 1, section 'The Rise of Acre'",
+              "quote": "the de facto capital of the province of Sidon, which was created in the 1660s"
             }
-          ]
+          ],
+          "notes": {
+            "en": "A first Eyalet of Sidon, formed from the Sidon, Safed and Beirut sanjaks after Fakhr al-Din Ma'n's flight to Italy in 1613, was soon abolished; the province was re-established in 1660 (TDV).",
+            "ar": "أُنشئت إيالة صيدا أول مرة من سناجق صيدا وصفد وبيروت بعد فرار فخر الدين المعني إلى إيطاليا عام 1613، ثم أُلغيت بعد قليل؛ وأُعيد إنشاؤها عام 1660 (TDV).",
+            "he": "אייאלט צידון הראשון, שהוקם מסנג'קי צידון, צפת וביירות אחרי בריחת פח'ר א-דין אל-מעני לאיטליה ב-1613, בוטל זמן קצר לאחר מכן; הפרובינציה הוקמה מחדש ב-1660 (TDV).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "province",
@@ -8287,6 +9057,26 @@
               "ref": "abu-manneh-palquest-ottoman-reorganization",
               "locator": "section 'Administrative Reorganization in the Aftermath of Egyptian Withdrawal'",
               "quote": "the seat of the Province of Saida was transferred from Acre to Beirut (though the province continued to carry the name of Saida)."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Egyptian period paragraph",
+              "quote": "Şubat 1841 itibariyle Suriye ve Filistin tekrar Osmanlı yönetimine girdi."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "Kuzeyde Halep, merkezde Şam ve güneyde Kudüs’ten başlayarak eski Trablusşam eyaletini de içine alan Sayda vilâyetleri oluşturuldu. Yeni Sayda vilâyetinin merkezi Akkâ’dan Beyrut’a geçti."
+            },
+            {
+              "ref": "tdv-sayda",
+              "locator": "part 1, nineteenth-century paragraph",
+              "quote": "Osmanlı Devleti, 1865 Vilâyet Nizamnâmesi’nin ardından Sayda vilâyetini lağvederek Suriye vilâyetiyle birleştirdi."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "Buna göre 1864 Vilâyât Nizamnâmesi bir yıl içerisinde tatbik edilerek Trablusşam, Sayda ve Şam vilâyetleri Suriye vilâyeti adı altında birleştirildi."
             }
           ]
         }
@@ -8372,7 +9162,9 @@
           },
           "end": {
             "year": 1775,
-            "precision": "year"
+            "month": 8,
+            "day": 23,
+            "precision": "day"
           },
           "confidence": "documented",
           "sources": [
@@ -8385,12 +9177,42 @@
               "ref": "strickert-2023-zahir",
               "locator": "Significance",
               "quote": "Eventually, Zāhir al-ՙUmar controlled most of Sidon, although he was never recognized by Ottoman authorities as its governor."
+            },
+            {
+              "ref": "doumani-1995-rediscovering-palestine",
+              "locator": "ch. 1, section 'The Rise of Acre'",
+              "quote": "Zahir al-Umar began his career as a minor tax collector and, over a forty-five-year period (1730–1775), emerged as the most powerful leader in Palestine."
+            },
+            {
+              "ref": "doumani-1995-rediscovering-palestine",
+              "locator": "ch. 1, section 'The Rise of Acre'",
+              "quote": "these sieges were meant as painful reminders to Nablus’s population and its leaders that Acre, not the Ottoman government, was the source of political authority."
+            },
+            {
+              "ref": "tdv-zahir-el-omer",
+              "locator": "para. 2",
+              "quote": "Hakkındaki ilk Osmanlı belgelerinde Sayda mukātaalarının mültezimi olarak gösterilir."
+            },
+            {
+              "ref": "tdv-zahir-el-omer",
+              "locator": "para. 2",
+              "quote": "Bu kayıtlar, onun Akkâ ve civarındaki nüfuzunun Osmanlı hükümeti tarafından kabul edildiğini gösterir."
+            },
+            {
+              "ref": "tdv-zahir-el-omer",
+              "locator": "para. 2 (1765)",
+              "quote": "Böylece Osmanlı hükümetiyle olan ilişkileri tamamen bozuldu."
+            },
+            {
+              "ref": "tdv-zahir-el-omer",
+              "locator": "final historical paragraph",
+              "quote": "Kalede çıkan karışıklıklar sırasında Zâhir el-Ömer kaçmak istedi, fakat bir mağribî askerin kurşunuyla vuruldu ve başı kesilerek İstanbul’a yollandı (23 Ağustos 1775)."
             }
           ],
           "notes": {
-            "en": "De facto autonomous; formally a tax-farmer and (by 1768) titled shaykh/amir under the sultan, within the Eyalet of Sidon.",
-            "ar": "مستقل فعليًا؛ رسميًا ملتزم (ضامن ضرائب) و(بحلول 1768) يحمل لقب شيخ/أمير تحت السلطان، ضمن إيالة صيدا.",
-            "he": "אוטונומי דה פקטו; פורמלית חוכר מסים ו(עד 1768) בעל תואר שיח'/אמיר תחת הסולטאן, בתוך אייאלט צידון.",
+            "en": "De facto autonomous; formally a tax-farmer and (by 1768) titled shaykh/amir under the sultan, within the Eyalet of Sidon. The first Ottoman documents call him tax-farmer (multazim) of the Sidon tax districts, and in 1764 of Acre, which shows that the government accepted his position (TDV). Relations broke down from 1765; in 1770-1774 he allied with Ali Bey of Egypt and the Russian fleet, and sought a pardon in 1774-1775 (TDV). Doumani dates his rise to 1730-1775.",
+            "ar": "مستقل فعليًا؛ رسميًا ملتزم (ضامن ضرائب) و(بحلول 1768) يحمل لقب شيخ/أمير تحت السلطان، ضمن إيالة صيدا. تصفه الوثائق العثمانية الأولى بأنه ملتزم مقاطعات صيدا، وفي 1764 ملتزم عكا، مما يدل على قبول الحكومة بمكانته (TDV). وساءت العلاقات منذ 1765؛ وفي 1770-1774 تحالف مع علي بك في مصر ومع الأسطول الروسي، ثم طلب العفو في 1774-1775 (TDV). ويؤرخ دوماني صعوده بالفترة 1730-1775.",
+            "he": "אוטונומי דה פקטו; פורמלית חוכר מסים ו(עד 1768) בעל תואר שיח'/אמיר תחת הסולטאן, בתוך אייאלט צידון. המסמכים העות'מאניים הראשונים מתארים אותו כחוכר המסים (מולתזם) של מחוזות המס של צידון, וב-1764 של עכו, מה שמראה שהממשלה קיבלה את מעמדו (TDV). היחסים התערערו מ-1765; ב-1770-1774 התחבר לעלי ביי ממצרים ולצי הרוסי, וב-1774-1775 ביקש חנינה (TDV). דומאני מתארך את עלייתו ל-1730-1775.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -8705,6 +9527,31 @@
               "ref": "abu-manneh-palquest-ottoman-reorganization",
               "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
               "quote": "A year after enacting the law, the Sublime Porte decided to join the Province of Damascus to that of Saida to form a large province, which was called the Province of Syria"
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "Buna göre 1864 Vilâyât Nizamnâmesi bir yıl içerisinde tatbik edilerek Trablusşam, Sayda ve Şam vilâyetleri Suriye vilâyeti adı altında birleştirildi."
+            },
+            {
+              "ref": "admiralty-1920-handbook-of-syria",
+              "locator": "p. 238",
+              "quote": "Under this system Syria was at first divided into two vilayets, Aleppo and Suriya (Syria), and one detached sanjaq, the province of Lebanon."
+            },
+            {
+              "ref": "admiralty-1920-handbook-of-syria",
+              "locator": "p. 9",
+              "quote": "Under the Ottoman Government Suriya (Syria) was the official name of the vilayet of Damascus"
+            },
+            {
+              "ref": "tdv-sayda",
+              "locator": "part 1, nineteenth-century paragraph",
+              "quote": "Osmanlı Devleti, 1865 Vilâyet Nizamnâmesi’nin ardından Sayda vilâyetini lağvederek Suriye vilâyetiyle birleştirdi."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "1888’de Lazkiye, Trablusşam, Akkâ ve Nablus sancaklarından oluşan Beyrut vilâyetinin kurulmasıyla Suriye vilâyeti kısmen küçüldü ve bu durumu Osmanlı Devleti’nin 1918’de bölgeden çekilmesine kadar sürdü."
             }
           ]
         }
@@ -8916,6 +9763,27 @@
               "ref": "abu-manneh-palquest-ottoman-reorganization",
               "locator": "section 'Administrative Reorganization after the Enactment of the 1864 Vilayet Law'",
               "quote": "Another change was made in March 1888 when the Porte decided to separate the Province of Syria into two provinces: a reduced Province of Syria and a new Province of Beirut."
+            },
+            {
+              "ref": "tdv-suriye",
+              "locator": "part 3 (Osmanlı Dönemi), Tanzimat paragraph",
+              "quote": "1888’de Lazkiye, Trablusşam, Akkâ ve Nablus sancaklarından oluşan Beyrut vilâyetinin kurulmasıyla Suriye vilâyeti kısmen küçüldü ve bu durumu Osmanlı Devleti’nin 1918’de bölgeden çekilmesine kadar sürdü."
+            },
+            {
+              "ref": "admiralty-1920-handbook-of-syria",
+              "locator": "p. 238",
+              "quote": "The corresponding western half, still excluding Lebanon and also the sanjaq of Jerusalem, was called the vilayet of Beirut.",
+              "note": "Dated by the handbook to the division of 1887-8."
+            },
+            {
+              "ref": "tdv-sayda",
+              "locator": "part 1, nineteenth-century paragraph",
+              "quote": "1888’de gerçekleştirilen yeni bir idarî düzenleme ile Beyrut vilâyeti teşkil edildi."
+            },
+            {
+              "ref": "tdv-filistin",
+              "locator": "Ottoman period, para. 2",
+              "quote": "bir yıl sonra da Beyrut vilâyeti oluşturulunca Nablus ve Akkâ bu vilâyetin sınırları içine alındı."
             }
           ]
         }
@@ -9234,18 +10102,53 @@
             "month": 3,
             "precision": "month"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "britannica-syria-ottoman-rule-restored",
               "locator": "World War I",
               "quote": "It took part, under Allenby's general command, in the Syrian campaign helping to capture Damascus."
+            },
+            {
+              "ref": "antonius-1939-arab-awakening",
+              "locator": "p. 278",
+              "quote": "Administrations deriving their immediate authority from the British commander-in-chief had been set up throughout the area"
+            },
+            {
+              "ref": "antonius-1939-arab-awakening",
+              "locator": "p. 279",
+              "quote": "the second, known as O.E.T.A. East, comprised the interior of Syria from ‘Aqaba to Aleppo and was Arab"
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "§ 17, p. 227",
+              "quote": "Trans-jordania was included within the sphere of the Arab administration of Damascus, then under the Emir Feisal, now King of 'Iraq."
+            },
+            {
+              "ref": "tell-2000-guns-gold-and-grain",
+              "locator": "section 'War’s Aftermath: Faisal’s Rule and the Resurgence of the Local Order'",
+              "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+            },
+            {
+              "ref": "tell-2000-guns-gold-and-grain",
+              "locator": "section 'War’s Aftermath: Faisal’s Rule and the Resurgence of the Local Order'",
+              "quote": "Allied forces occupied much of Syria as part of three Occupied Enemy Territory Administrations (OETAs)."
+            },
+            {
+              "ref": "antonius-1939-arab-awakening",
+              "locator": "p. 304",
+              "quote": "On the 8th of March, the General Syrian Congress sat in Damascus and passed a resolution proclaiming the independence of Syria (including Palestine and the Lebanon) as a sovereign state"
+            },
+            {
+              "ref": "tell-2000-guns-gold-and-grain",
+              "locator": "section 'War’s Aftermath: Faisal’s Rule and the Resurgence of the Local Order'",
+              "quote": "Proclaimed king by the Syrian Congress in March 1920"
             }
           ],
           "notes": {
-            "en": "Characterisation as 'autonomous under' the British-led Allied command is an interpretation of 'Allenby installed an Arab military administration'; marked estimated.",
-            "ar": "توصيفها بأنها \"autonomous under\" [ذاتية الحكم تحت] قيادة الحلفاء بقيادة بريطانيا تأويل لعبارة \"Allenby installed an Arab military administration\" [أقام اللنبي إدارة عسكرية عربية]؛ وهي موسومة بأنها تقديرية.",
-            "he": "האפיון כ-\"autonomous under\" [אוטונומית תחת] פיקוד בעלות הברית בהובלת בריטניה הוא פרשנות של \"Allenby installed an Arab military administration\" [אלנבי הקים מינהל צבאי ערבי]; מסומן כמשוער.",
+            "en": "Antonius describes the three OETA administrations of 1918-1920 as deriving their immediate authority from the British commander-in-chief, OETA East being the Arab-administered zone of the Syrian interior from Aqaba to Aleppo. Faisal was proclaimed king by the General Syrian Congress on 8 March 1920 (Antonius; Tell).",
+            "ar": "يصف أنطونيوس إدارات أراضي العدو المحتلة الثلاث في 1918-1920 بأنها تستمد سلطتها المباشرة من القائد العام البريطاني، وكانت الإدارة الشرقية هي المنطقة التي تديرها الإدارة العربية في داخل سوريا من العقبة إلى حلب. ونادى المؤتمر السوري العام بفيصل ملكًا في 8 آذار/مارس 1920 (أنطونيوس؛ تل).",
+            "he": "אנטוניוס מתאר את שלושת מינהלי שטח האויב הכבוש של 1918-1920 כשואבים את סמכותם הישירה מהמפקד העליון הבריטי, כשמינהל המזרח היה האזור המנוהל בידי הערבים בפנים סוריה מעקבה ועד חלב. הקונגרס הסורי הכללי הכריז על פייסל כמלך ב-8 במרץ 1920 (אנטוניוס; טל).",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -9488,6 +10391,41 @@
             {
               "ref": "britannica-jordan-transjordan",
               "quote": "The mandate, confirmed by the League of Nations in July 1922, gave the British virtually a free hand in administering the territory."
+            },
+            {
+              "ref": "kinghussein-transjordan-history",
+              "locator": "page 'The Making of Transjordan'",
+              "quote": "the emir established the first centralized governmental system in what is now modern Jordan on April 11, 1921."
+            },
+            {
+              "ref": "luke-keith-roach-1922-handbook-of-palestine",
+              "locator": "§ 17, p. 228",
+              "quote": "the Emir 'Abdallah undertook temporarily to assume the administration of Trans-jordania, under the general direction of the High Commissioner for Palestine as representing the Mandatory Power."
+            },
+            {
+              "ref": "avalon-palestine-mandate",
+              "locator": "Art. 25",
+              "quote": "In the territories lying between the Jordan and the eastern boundary of Palestine as ultimately determined, the Mandatory shall be entitled, with the consent of the Council of the League of Nations, to postpone or withhold application"
+            },
+            {
+              "ref": "un-dpr-origins-part1",
+              "locator": "section 'The working of the Mandates System'",
+              "quote": "Palestine and Transjordan (as it was then called) were included in the same Mandate but treated as distinct territories."
+            },
+            {
+              "ref": "kinghussein-transjordan-history",
+              "locator": "page 'The Making of Transjordan'",
+              "quote": "On March 22, 1946, Abdullah negotiated a new Anglo-Transjordanian treaty, ending the British mandate and gaining full independence for Transjordan."
+            },
+            {
+              "ref": "un-dpr-origins-part1",
+              "locator": "section 'The working of the Mandates System'",
+              "quote": "This separate administration continued until the territory attained independence as the Kingdom of Jordan on 22 March 1946."
+            },
+            {
+              "ref": "kinghussein-transjordan-history",
+              "locator": "page 'The Making of Transjordan'",
+              "quote": "on May 25, 1946, the Transjordanian parliament proclaimed Abdullah king"
             }
           ],
           "notes": {
@@ -9780,7 +10718,8 @@
           "start": {
             "year": 1914,
             "month": 12,
-            "precision": "month"
+            "day": 18,
+            "precision": "day"
           },
           "end": {
             "year": 1922,
@@ -9793,6 +10732,26 @@
             {
               "ref": "britannica-egypt-ww1-independence",
               "quote": "in December proclaimed a protectorate over Egypt, deposed ʿAbbās, and appointed his uncle, Ḥusayn Kāmil, with the title of sultan."
+            },
+            {
+              "ref": "frus-1922-v02-d94",
+              "locator": "p. 103",
+              "quote": "His Majesty’s Government terminated the suzerainty of Turkey over Egypt, took the country under their protection and declared it to be a British Protectorate."
+            },
+            {
+              "ref": "frus-1922-v02-d94",
+              "locator": "p. 103",
+              "quote": "to terminate the Protectorate declared over Egypt on December 18th, 1914, and to recognise her as an Independent Sovereign State."
+            },
+            {
+              "ref": "vitalis-1995-when-capitalists-collide",
+              "locator": "ch. 1, section 'Oligarchic Democracy'",
+              "quote": "In 1914, the British state had finally formalized its thirty-year occupation of the Ottoman province by declaring Egypt a protectorate."
+            },
+            {
+              "ref": "vitalis-1995-when-capitalists-collide",
+              "locator": "ch. 1, section 'Oligarchic Democracy'",
+              "quote": "paved the way for the formal grant of independence to Egypt in 1922."
             }
           ],
           "notes": {
@@ -9961,6 +10920,32 @@
             {
               "ref": "britannica-palestine-1948-67",
               "quote": "In 1948 Amin al-Husseini declared a Government of All Palestine in the Gaza Strip. However, because it was totally dependent on Egypt, it was short-lived."
+            },
+            {
+              "ref": "shlaim-1990-apg",
+              "locator": "p. 43",
+              "quote": "Even in the small enclave around the town of Gaza its writ ran only by the grace of the Egyptian authorities."
+            },
+            {
+              "ref": "shlaim-1990-apg",
+              "locator": "p. 43",
+              "quote": "Taking advantage of the new government's dependence on them for funds and protection, the Egyptian paymasters manipulated it"
+            },
+            {
+              "ref": "palquest-palestine-war-1947-1950",
+              "locator": "overview, paragraph on the end of the war",
+              "quote": "Although the Arab League endorsed the formation of the AHC-P-led All-Palestine Government in Egyptian-controlled Gaza on 20 September 1948, this body never exercised any real power, even in Gaza."
+            },
+            {
+              "ref": "shlaim-1990-apg",
+              "locator": "p. 42",
+              "quote": "On 22 September a communique was issued in the name of the AHC about the formation of the All-Palestine Government.",
+              "note": "Shlaim (p. 41) dates the Arab League's formal announcement of the decision to 20 September 1948."
+            },
+            {
+              "ref": "shlaim-1990-apg",
+              "locator": "p. 50",
+              "quote": "The All-Palestine Government continued to exist in name only, issuing the occasional statement from its headquarters in Cairo, until President Nasir finally closed its offices in 1959."
             }
           ]
         }
@@ -10283,6 +11268,26 @@
             {
               "ref": "britannica-sinai",
               "quote": "The peninsula was occupied by Israeli forces during the Six-Day War of June 1967"
+            },
+            {
+              "ref": "un-s-res-242-1967",
+              "locator": "operative para. 1 (i)",
+              "quote": "Withdrawal of Israel armed forces from territories occupied in the recent conflict"
+            },
+            {
+              "ref": "taba-arbitration-award-1988",
+              "locator": "para. 1 (p. 7), quoting Article I of the 1979 Treaty of Peace",
+              "quote": "Israel will withdraw all its armed forces and civilians from the Sinai behind the international boundary"
+            },
+            {
+              "ref": "taba-arbitration-award-1988",
+              "locator": "para. 2 (pp. 7-8)",
+              "quote": "25 April 1982, the date established pursuant to Annex I to the Treaty of Peace for the final Israeli withdrawal behind the international boundary."
+            },
+            {
+              "ref": "reagan-1982-sinai",
+              "locator": "message of 26 May 1982",
+              "quote": "which ended on April 25, 1982, when Israel completed its withdrawal from the Sinai and Egyptian sovereignty was reestablished in accordance with the 1979 Peace Treaty."
             }
           ]
         }
@@ -11053,9 +12058,9 @@
         }
       ],
       "notes": {
-        "en": "Founded when the Seljuk sultan made Imad al-Din Zengi atabeg (regent) of Mosul in 1127; Zengi added Aleppo in 1128. He attacked Damascus, then ruled by the Burid atabegs, in 1135 and 1139-40 without taking it, but held Banyas (c. 1137/38-1140) and Baalbek (1139-1146) on its edges. His son Nur al-Din, ruler of Aleppo from 1146, had his suzerainty formally recognised by the Burid ruler of Damascus in 1150-51 and took the city on 25 April 1154, uniting Muslim Syria. From 1169 Egypt was governed in his name by Shirkuh and then Saladin. After Nur al-Din died (15 May 1174), Damascus was held for his young son al-Salih Isma'il until Saladin occupied it on 28 October 1174; that date ends this record, which covers the Zengid state as it bore on the map area. Zengid princes kept Aleppo until 1183 (Iranica) and the main branch ruled Mosul until 1233 (TDV); these later principalities are not modelled. TDV (Ogun Bezer) says Zengi had made the Damascus atabegate subject to him, while Gibb describes Damascus resisting him; the map follows Gibb and shows no Zengid control of Damascus before 1154. Damascus under its Burid rulers (before 1154) has no record in the project yet.",
-        "ar": "تأسست عندما عيّن السلطان السلجوقي عماد الدين زنكي أتابكًا (وصيًّا) على الموصل عام 1127، وأضاف زنكي حلب عام 1128. هاجم دمشق، التي كان يحكمها الأتابكة البوريون، عامَي 1135 و1139-1140 دون أن يأخذها، لكنه احتفظ ببانياس (نحو 1137/1138-1140) وبعلبك (1139-1146) على أطرافها. وحصل ابنه نور الدين، حاكم حلب منذ 1146، على اعتراف رسمي بسيادته من الحاكم البوري لدمشق في 1150-1151، ثم دخل المدينة في 25 نيسان/أبريل 1154 فوحّد الشام الإسلامية. ومنذ 1169 حُكمت مصر باسمه على يد شيركوه ثم صلاح الدين. وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصغير الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174؛ وبهذا التاريخ ينتهي هذا السجل الذي يغطي الدولة الزنكية من حيث صلتها بمنطقة الخريطة. وبقي أمراء زنكيون في حلب حتى 1183 (إيرانيكا) وحكم الفرع الرئيسي الموصل حتى 1233 (TDV)؛ ولم تُمثَّل هذه الإمارات اللاحقة. وتقول موسوعة TDV (أوغون بيزر) إن زنكي أخضع أتابكية دمشق، بينما يصف غيب مقاومة دمشق له؛ وتتبع الخريطة غيب فلا تُظهر سيطرة زنكية على دمشق قبل 1154. ولا يوجد في المشروع بعد سجل لدمشق في عهد حكامها البوريين (قبل 1154).",
-        "he": "נוסדה כאשר הסולטאן הסלג'וקי מינה את עימאד א-דין זנגי לאטאבג (עוצר) של מוסול ב-1127; זנגי הוסיף את חלב ב-1128. הוא תקף את דמשק, שנשלטה אז בידי האטאבגים הבורים, ב-1135 וב-1139-1140 בלי לכבוש אותה, אך החזיק בבאניאס (בערך 1137/1138-1140) ובבעלבכ (1139-1146) בשוליה. בנו נור א-דין, שליט חלב מ-1146, זכה להכרה רשמית בריבונותו מצד השליט הבורי של דמשק ב-1150-1151 ונכנס לעיר ב-25 באפריל 1154, ובכך איחד את סוריה המוסלמית. מ-1169 נשלטה מצרים בשמו בידי שירכוה ואחר כך צלאח א-דין. לאחר מות נור א-דין (15 במאי 1174) הוחזקה דמשק בשם בנו הצעיר א-סאלח איסמאעיל עד שצלאח א-דין נכנס אליה ב-28 באוקטובר 1174; בתאריך זה מסתיימת רשומה זו, המכסה את המדינה הזנגית כפי שנגעה לאזור המפה. נסיכים זנגים שלטו בחלב עד 1183 (איראניקה) והענף הראשי שלט במוסול עד 1233 (TDV); נסיכויות מאוחרות אלה אינן ממודלות. TDV (אוגון בזר) כותבת שזנגי הכפיף את אטאבגות דמשק, ואילו גיב מתאר את התנגדות דמשק לו; המפה הולכת אחר גיב ואינה מציגה שליטה זנגית בדמשק לפני 1154. לדמשק בימי שליטיה הבורים (לפני 1154) אין עדיין רשומה בפרויקט.",
+        "en": "Founded when the Seljuk sultan made Imad al-Din Zengi atabeg (regent) of Mosul in 1127; Zengi added Aleppo in 1128. He attacked Damascus, then ruled by the Burid atabegs, in 1135 and 1139-40 without taking it, but held Banyas (c. 1137/38-1140) and Baalbek (1139-1146) on its edges. His son Nur al-Din, ruler of Aleppo from 1146, had his suzerainty formally recognised by the Burid ruler of Damascus in 1150-51 and took the city on 25 April 1154, uniting Muslim Syria. From 1169 Egypt was governed in his name by Shirkuh and then Saladin. After Nur al-Din died (15 May 1174), Damascus was held for his young son al-Salih Isma'il until Saladin occupied it on 28 October 1174; that date ends this record, which covers the Zengid state as it bore on the map area. Zengid princes kept Aleppo until 1183 (Iranica) and the main branch ruled Mosul until 1233 (TDV); these later principalities are not modelled. TDV (Ogun Bezer) says Zengi had made the Damascus atabegate subject to him, while Gibb describes Damascus resisting him; the map follows Gibb and shows no Zengid control of Damascus before 1154. Damascus under its Burid rulers (1104-1154) is recorded as burid-damascus.",
+        "ar": "تأسست عندما عيّن السلطان السلجوقي عماد الدين زنكي أتابكًا (وصيًّا) على الموصل عام 1127، وأضاف زنكي حلب عام 1128. هاجم دمشق، التي كان يحكمها الأتابكة البوريون، عامَي 1135 و1139-1140 دون أن يأخذها، لكنه احتفظ ببانياس (نحو 1137/1138-1140) وبعلبك (1139-1146) على أطرافها. وحصل ابنه نور الدين، حاكم حلب منذ 1146، على اعتراف رسمي بسيادته من الحاكم البوري لدمشق في 1150-1151، ثم دخل المدينة في 25 نيسان/أبريل 1154 فوحّد الشام الإسلامية. ومنذ 1169 حُكمت مصر باسمه على يد شيركوه ثم صلاح الدين. وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصغير الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174؛ وبهذا التاريخ ينتهي هذا السجل الذي يغطي الدولة الزنكية من حيث صلتها بمنطقة الخريطة. وبقي أمراء زنكيون في حلب حتى 1183 (إيرانيكا) وحكم الفرع الرئيسي الموصل حتى 1233 (TDV)؛ ولم تُمثَّل هذه الإمارات اللاحقة. وتقول موسوعة TDV (أوغون بيزر) إن زنكي أخضع أتابكية دمشق، بينما يصف غيب مقاومة دمشق له؛ وتتبع الخريطة غيب فلا تُظهر سيطرة زنكية على دمشق قبل 1154. ودمشق في عهد حكامها البوريين (1104-1154) مسجلة في السجل burid-damascus.",
+        "he": "נוסדה כאשר הסולטאן הסלג'וקי מינה את עימאד א-דין זנגי לאטאבג (עוצר) של מוסול ב-1127; זנגי הוסיף את חלב ב-1128. הוא תקף את דמשק, שנשלטה אז בידי האטאבגים הבורים, ב-1135 וב-1139-1140 בלי לכבוש אותה, אך החזיק בבאניאס (בערך 1137/1138-1140) ובבעלבכ (1139-1146) בשוליה. בנו נור א-דין, שליט חלב מ-1146, זכה להכרה רשמית בריבונותו מצד השליט הבורי של דמשק ב-1150-1151 ונכנס לעיר ב-25 באפריל 1154, ובכך איחד את סוריה המוסלמית. מ-1169 נשלטה מצרים בשמו בידי שירכוה ואחר כך צלאח א-דין. לאחר מות נור א-דין (15 במאי 1174) הוחזקה דמשק בשם בנו הצעיר א-סאלח איסמאעיל עד שצלאח א-דין נכנס אליה ב-28 באוקטובר 1174; בתאריך זה מסתיימת רשומה זו, המכסה את המדינה הזנגית כפי שנגעה לאזור המפה. נסיכים זנגים שלטו בחלב עד 1183 (איראניקה) והענף הראשי שלט במוסול עד 1233 (TDV); נסיכויות מאוחרות אלה אינן ממודלות. TDV (אוגון בזר) כותבת שזנגי הכפיף את אטאבגות דמשק, ואילו גיב מתאר את התנגדות דמשק לו; המפה הולכת אחר גיב ואינה מציגה שליטה זנגית בדמשק לפני 1154. דמשק בימי שליטיה הבורים (1104-1154) מתועדת ברשומה burid-damascus.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11555,6 +12560,256 @@
           "he": "machine-draft"
         }
       }
+    },
+    {
+      "id": "burid-damascus",
+      "name": {
+        "en": "Burid atabegate of Damascus (Tughtigin and his successors)",
+        "ar": "أتابكية دمشق البورية (طغتكين وخلفاؤه)",
+        "he": "האטאבגות הבורית של דמשק (טוגתכין ויורשיו)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "other",
+      "start": {
+        "year": 1104,
+        "month": 6,
+        "day": 8,
+        "precision": "day"
+      },
+      "end": {
+        "year": 1154,
+        "month": 4,
+        "day": 25,
+        "precision": "day"
+      },
+      "confidence": "documented",
+      "basis": "documentary",
+      "sources": [
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "A.H. 497, p. 62",
+          "quote": "he passed away to the mercy of God on 12th Ramadan of this year (8th June, 1104)."
+        },
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "A.H. 497, p. 62",
+          "quote": "he nominated the amir Zahir al-Din [Tughtagin] Atabek to the governorship of Damascus after his death and the tutorship of his young son Tutush"
+        },
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "A.H. 497-498, p. 65",
+          "quote": "After their departure Zahir al-Din’s position was securely established and he assumed sole control of affairs and governed on his own authority.",
+          "note": "After Irtash (Bektash), installed as king in September 1104, left Damascus in Safar 498 (October-November 1104)."
+        },
+        {
+          "ref": "cahen-1969-turkish-invasion-selchukids",
+          "locator": "p. 172",
+          "quote": "The death of the latter in 1104 marked the end of the dynasty in that city, for his son and relatives were set aside by his erstwhile close collaborator and atabeg, Tughtigin."
+        },
+        {
+          "ref": "tdv-tugtegin",
+          "locator": "para. 1",
+          "quote": "Melik Dukak ölünce (497/1104) vasiyeti gereği oğlu Tutuş melik ilân edildi."
+        },
+        {
+          "ref": "tdv-tugtegin",
+          "locator": "para. 1",
+          "quote": "Yeniden Melik Tutuş adına hutbe okutan Tuğtegin onun da ölümüyle kendi adına bir siyasî birlik kurmayı başardı (498/1104)."
+        },
+        {
+          "ref": "tdv-tugteginliler",
+          "locator": "entry heading",
+          "quote": "Dımaşk merkez olmak üzere bu yöredeki bazı şehirlerde hüküm süren bir Türk-İslâm hânedanı (1104-1154)."
+        },
+        {
+          "ref": "tdv-tugteginliler",
+          "locator": "para. 1",
+          "quote": "Hânedanın adı Arapça kaynaklarda Bûriyye şeklinde yer almadığı halde ilk defa 1893’te yayımlanan The Mohammadan Dynasties adlı eserinde (s. 161) Stanley Lane-Poole"
+        },
+        {
+          "ref": "gibb-1969-caliphate-arab-states",
+          "locator": "p. 98",
+          "quote": "al-Afdal acquiesced in the occupation of Tyre by Tughtigin in 1112"
+        },
+        {
+          "ref": "tdv-tugtegin",
+          "locator": "para. 5 (1123-1124)",
+          "quote": "Haçlılar’ın Sûr’u kuşatacağını öğrenen Fâtımî Halifesi Âmir-Biahkâmillâh şehrin valilik menşurunu Tuğtegin’e gönderip"
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 459",
+          "quote": "A formal alliance was negotiated with the kingdom of Jerusalem against the common enemy"
+        },
+        {
+          "ref": "tdv-tugteginliler",
+          "locator": "para. 5 (1140s)",
+          "quote": "Abak, adını hutbede okutmak suretiyle Zengî’nin hâkimiyetini kabul etmeye mecbur kaldı."
+        },
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "A.H. 549, p. 318",
+          "quote": "On Sunday, 10th Safar (25th April), by virtue of the predestined decree"
+        },
+        {
+          "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+          "locator": "A.H. 549, p. 320",
+          "quote": "Thereafter, Nur al-Din himself and his domestic officers entered the city"
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 519",
+          "quote": "forced an entrance on April 25 “to the joy of the people, troops, and militiamen”"
+        },
+        {
+          "ref": "tdv-tugteginliler",
+          "locator": "para. 7 (1154)",
+          "quote": "Nûreddin Mahmud Safer 549’da (Nisan 1154) şehri kendi topraklarına kattı."
+        },
+        {
+          "ref": "tdv-tugteginliler",
+          "locator": "para. 7",
+          "quote": "Nûreddin Mahmud’un Dımaşk’ı ele geçirmesi ve atabegliğe bağlı diğer şehirlerin teslim olmasıyla Tuğteginliler hânedanı tarihe karıştı."
+        }
+      ],
+      "notes": {
+        "en": "Atabegate (a regency that became a dynasty) at Damascus, founded by Zahir al-Din Tughtigin, atabeg of the Seljuk king Duqaq. When Duqaq died on 8 June 1104 he named Tughtigin governor of Damascus and guardian of his young son; after Duqaq's brother Irtash, installed in September 1104, fled the city in late 1104, Tughtigin ruled on his own authority (Ibn al-Qalanisi; Cahen; TDV). The name 'Burid', after his son Taj al-Muluk Buri (1128-1132), was coined by modern historians; Turkish scholarship calls the dynasty the Tughteginids (TDV). Later rulers: Shams al-Muluk Isma'il (1132-1135), Shihab al-Din Mahmud (1135-1139), Jamal al-Din Muhammad (1139-1140) and Mujir al-Din Abaq (1140-1154), with Mu'in al-Din Unur holding real power until his death in 1149. Tughtigin also held Tyre for the Fatimids at times between 1112 and 1124 (not mapped). Damascus resisted Zengi in 1135 and 1139-1140, allying with the kingdom of Jerusalem in 1140 (Gibb). TDV says Abaq was nevertheless obliged to have Zengi's name read in the Friday sermon; Gibb does not report this, and the map follows Gibb, as in the zengid-state record. In May 1150 Damascus accepted Nur al-Din's suzerainty and in 1151 Abaq was recognised as his lieutenant; Nur al-Din entered the city on 25 April 1154, ending the dynasty.",
+        "ar": "أتابكية (وصاية تحولت إلى أسرة حاكمة) في دمشق أسسها ظهير الدين طغتكين، أتابك الملك السلجوقي دقاق. وعندما توفي دقاق في 8 حزيران/يونيو 1104 عيّن طغتكين واليًا على دمشق ووصيًّا على ابنه الصغير؛ وبعد أن فرّ أخو دقاق، إرتاش، الذي نُصّب في أيلول/سبتمبر 1104، من المدينة أواخر 1104، حكم طغتكين بسلطته الخاصة (ابن القلانسي؛ كاهن؛ TDV). واسم \"البوريون\"، نسبة إلى ابنه تاج الملوك بوري (1128-1132)، من وضع المؤرخين المحدثين؛ ويسمي الباحثون الأتراك الأسرة \"الطغتكينيين\" (TDV). والحكام اللاحقون: شمس الملوك إسماعيل (1132-1135)، وشهاب الدين محمود (1135-1139)، وجمال الدين محمد (1139-1140)، ومجير الدين آبق (1140-1154)، وكانت السلطة الفعلية بيد معين الدين أُنُر حتى وفاته عام 1149. واحتفظ طغتكين أيضًا بصور للفاطميين في فترات بين 1112 و1124 (لم تُرسم على الخريطة). وقاومت دمشق زنكي عامي 1135 و1139-1140، وتحالفت مع مملكة القدس عام 1140 (غيب). وتذكر TDV أن آبق اضطر مع ذلك إلى ذكر اسم زنكي في خطبة الجمعة؛ ولا يذكر غيب ذلك، والخريطة تتبع غيب كما في سجل الدولة الزنكية. وفي أيار/مايو 1150 قبلت دمشق سيادة نور الدين، وفي 1151 اعتُرف بآبق نائبًا له؛ ودخل نور الدين المدينة في 25 نيسان/أبريل 1154 فانتهت الأسرة.",
+        "he": "אטאבגות (עוצרות שהפכה לשושלת) בדמשק, שייסד זאהיר א-דין טוגתכין, האטאבג של המלך הסלג'וקי דוקאק. כשדוקאק מת ב-8 ביוני 1104 מינה את טוגתכין למושל דמשק ולאפוטרופוס של בנו הצעיר; אחרי שאחיו של דוקאק, אירתאש, שהומלך בספטמבר 1104, ברח מהעיר בסוף 1104, משל טוגתכין בסמכותו שלו (אבן אל-קלאנסי; קאאן; TDV). השם 'בורים', על שם בנו תאג' אל-מולוכ בורי (1128-1132), נטבע בידי היסטוריונים מודרניים; המחקר הטורקי קורא לשושלת 'הטוגתכינים' (TDV). השליטים הבאים: שמס אל-מולוכ אסמאעיל (1132-1135), שהאב א-דין מחמוד (1135-1139), ג'מאל א-דין מוחמד (1139-1140) ומוג'יר א-דין אבק (1140-1154), כשהכוח הממשי היה בידי מועין א-דין אונור עד מותו ב-1149. טוגתכין החזיק גם בצור עבור הפאטמים בתקופות שבין 1112 ל-1124 (לא ממופה). דמשק עמדה בפני זנגי ב-1135 וב-1139-1140, והתחברה לממלכת ירושלים ב-1140 (גיב). TDV כותבת שאבק נאלץ בכל זאת להזכיר את שם זנגי בדרשת יום השישי; גיב אינו מזכיר זאת, והמפה הולכת אחר גיב, כמו ברשומת המדינה הזנגית. במאי 1150 קיבלה דמשק את ריבונות נור א-דין וב-1151 הוכר אבק כסגנו; נור א-דין נכנס לעיר ב-25 באפריל 1154, וכך באה השושלת אל קצה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "relations": [
+        {
+          "type": "autonomous-under",
+          "overlord": "seljuk-empire",
+          "start": {
+            "year": 1104,
+            "month": 6,
+            "day": 8,
+            "precision": "day"
+          },
+          "end": {
+            "year": 1150,
+            "month": 5,
+            "day": 12,
+            "precision": "day"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "Introduction (Gibb), p. 24",
+              "quote": "Yet this did not imply, as might be expected, a definite breach with their suzerains, the Great Saljuqs."
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "Introduction (Gibb), p. 24",
+              "quote": "they continued to maintain a strictly correct attitude of subordination to the Sultans"
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "Introduction (Gibb), p. 25",
+              "quote": "Tughtagin’s elimination, therefore, of the Saljuqid “kings” of Damascus after the death of Duqaq was wholly in accordance with the practice of the time."
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 509, p. 153",
+              "quote": "received from the Sultan a diploma investing him with the military and financial government of Syria",
+              "note": "Tughtigin set out for Baghdad on 9 April 1116 and was back in Damascus on 25 July 1116."
+            },
+            {
+              "ref": "tdv-tugtegin",
+              "locator": "para. 4 (1116)",
+              "quote": "Bu ziyaret sırasında affedildi ve Tapar’dan Suriye valiliğine tayin edildiğine dair bir menşur aldı"
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 545, p. 299",
+              "quote": "they promised to recognise his suzerainty, and to insert his name in the allocution from the pulpit at Damascus after those of the Caliph and the Sultan"
+            }
+          ],
+          "notes": {
+            "en": "Nominal: the atabegs of Damascus kept a formally correct subordination to the Great Seljuk sultans (Gibb, introduction to Ibn al-Qalanisi), and in 1116 Sultan Muhammad Tapar granted Tughtigin a diploma for the military and financial government of Syria (Ibn al-Qalanisi; TDV). The sultan was still named in the Friday sermon after the caliph in 1150; the relation is ended when Nur al-Din's suzerainty was added (12 May 1150).",
+            "ar": "اسمية: حافظ أتابكة دمشق على تبعية شكلية صحيحة لسلاطين السلاجقة العظام (غيب، مقدمة ابن القلانسي)، وفي 1116 منح السلطان محمد طبر طغتكين منشورًا بالولاية العسكرية والمالية على الشام (ابن القلانسي؛ TDV). وكان اسم السلطان لا يزال يُذكر في خطبة الجمعة بعد الخليفة عام 1150؛ وتنتهي العلاقة بإضافة سيادة نور الدين (12 أيار/مايو 1150).",
+            "he": "נומינלית: האטאבגים של דמשק שמרו על כפיפות פורמלית תקינה לסולטאנים הסלג'וקים הגדולים (גיב, מבוא לאבן אל-קלאנסי), וב-1116 העניק הסולטאן מוחמד טאפאר לטוגתכין כתב מינוי לשלטון הצבאי והכספי בסוריה (אבן אל-קלאנסי; TDV). שם הסולטאן עדיין נזכר בדרשת יום השישי אחרי הח'ליף ב-1150; היחס מסתיים כשנוספה ריבונות נור א-דין (12 במאי 1150).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        },
+        {
+          "type": "vassal",
+          "overlord": "zengid-state",
+          "start": {
+            "year": 1150,
+            "month": 5,
+            "day": 12,
+            "precision": "day"
+          },
+          "end": {
+            "year": 1154,
+            "month": 4,
+            "day": 25,
+            "precision": "day"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 545, p. 299",
+              "quote": "they promised to recognise his suzerainty, and to insert his name in the allocution from the pulpit at Damascus after those of the Caliph and the Sultan"
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 545, p. 300",
+              "quote": "His name was read from the pulpit of Damascus on Friday 12th Muharram (12th May)."
+            },
+            {
+              "ref": "gibb-1969-career-of-nur-ad-din",
+              "locator": "p. 517",
+              "quote": "in the face of Nur-ad-Din’s threats he agreed to recognize Nur-ad-Din’s suzerainty",
+              "note": "The prefect of Damascus, in the spring of 1150."
+            },
+            {
+              "ref": "tdv-tugteginliler",
+              "locator": "para. 7 (1150)",
+              "quote": "Böylece Abak’ın atabegliği Nûreddin Mahmud’un tâbiiyetine girmiş oluyordu.",
+              "note": "After the agreement reached when Nur al-Din besieged Damascus in Dhu'l-Hijja 544 (April 1150)."
+            },
+            {
+              "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+              "locator": "A.H. 546, p. 310",
+              "quote": "After Mujir al-Din had promised allegiance to him and to act loyally as his lieutenant in Damascus"
+            },
+            {
+              "ref": "gibb-1969-career-of-nur-ad-din",
+              "locator": "p. 518",
+              "quote": "The agreement was duly ratified in October by a ceremonial visit of the prince Abak to Aleppo, when he was formally recognized as Nur-ad-Din’s lieutenant in Damascus"
+            },
+            {
+              "ref": "tdv-tugteginliler",
+              "locator": "para. 7 (1151)",
+              "quote": "Abak’ı onun nâibi konumuna düşüren bir antlaşma yapıldı (10 Rebîülâhir 546 / 27 Temmuz 1151)."
+            }
+          ],
+          "notes": {
+            "en": "Mujir al-Din Abaq accepted Nur al-Din's suzerainty, with his name in the Friday sermon and on the coinage, read in Damascus from 12 May 1150 (Ibn al-Qalanisi; TDV dates the agreement to April 1150), and was formally recognised as his lieutenant in 1151 (agreement of July, ratified at Aleppo in October). Damascus kept its own army and its truce with Jerusalem until Nur al-Din took the city on 25 April 1154.",
+            "ar": "قبل مجير الدين آبق سيادة نور الدين، فذُكر اسمه في خطبة الجمعة وعلى السكة، وقُرئ في دمشق منذ 12 أيار/مايو 1150 (ابن القلانسي؛ وتؤرخ TDV الاتفاق بنيسان/أبريل 1150)، واعتُرف به رسميًا نائبًا له عام 1151 (اتفاق تموز/يوليو، صُدّق في حلب في تشرين الأول/أكتوبر). واحتفظت دمشق بجيشها وبهدنتها مع القدس حتى استولى نور الدين على المدينة في 25 نيسان/أبريل 1154.",
+            "he": "מוג'יר א-דין אבק קיבל את ריבונות נור א-דין, ששמו נזכר בדרשת יום השישי ועל המטבעות, ונקרא בדמשק מ-12 במאי 1150 (אבן אל-קלאנסי; TDV מתארכת את ההסכם לאפריל 1150), והוכר רשמית כסגנו ב-1151 (הסכם מיולי, שאושרר בחלב באוקטובר). דמשק שמרה על צבאה ועל שביתת הנשק שלה עם ירושלים עד שנור א-דין כבש את העיר ב-25 באפריל 1154.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        }
+      ]
     }
   ]
 }

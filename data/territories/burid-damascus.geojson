@@ -1,0 +1,260 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "burid-damascus",
+        "start": {
+          "year": 1104,
+          "month": 6,
+          "day": 8,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1139,
+          "month": 9,
+          "circa": true,
+          "precision": "month"
+        },
+        "units": [
+          "damascus",
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and the Ghuta with the Hauran; the Golan frontier, contested with the Franks of Tiberias; and Baalbek with part of the Beqaa, until Zengi took Baalbek in 1139.",
+          "ar": "دمشق والغوطة مع حوران؛ وتخوم الجولان المتنازع عليها مع فرنجة طبرية؛ وبعلبك مع جزء من البقاع، حتى استولى زنكي على بعلبك عام 1139.",
+          "he": "דמשק והע'וטה עם החוראן; ספר הגולן, השנוי במחלוקת עם הפרנקים של טבריה; ובעלבכ עם חלק מהבקאע, עד שזנגי כבש את בעלבכ ב-1139.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+            "locator": "A.H. 497, p. 62",
+            "quote": "he passed away to the mercy of God on 12th Ramadan of this year (8th June, 1104)."
+          },
+          {
+            "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+            "locator": "A.H. 497-498, p. 65",
+            "quote": "After their departure Zahir al-Din’s position was securely established and he assumed sole control of affairs and governed on his own authority.",
+            "note": "After Irtash (Bektash), installed as king in September 1104, left Damascus in Safar 498 (October-November 1104)."
+          },
+          {
+            "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+            "locator": "A.H. 498, p. 64",
+            "quote": "Aytakin al-Halabi, lord of Bosra, also fled thither in pursuance of an agreement made between them"
+          },
+          {
+            "ref": "tdv-tugtegin",
+            "locator": "para. 2 (1105)",
+            "quote": "Emîr Sabar, dönüş yolunda Melik Ertaş’a yardım eden Busrâ şehrini zaptetti."
+          },
+          {
+            "ref": "tdv-tugtegin",
+            "locator": "para. 6 (1126)",
+            "quote": "520’de (1126) Bâtınîler’le iş birliği yaparak Haçlılar’a karşı bir üs şeklinde kullanmaları için Banyas Kalesi’ni onlara verdi."
+          },
+          {
+            "ref": "tdv-tugteginliler",
+            "locator": "para. 2 (1132)",
+            "quote": "Yerine geçen oğlu Şemsülmülûk İsmâil’in ilk işi Bâtınîler’in Haçlılar’a terkettiği Banyas şehrini geri almak oldu (Safer 527 / Aralık 1132)."
+          },
+          {
+            "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+            "locator": "A.H. 533, p. 254",
+            "quote": "This was followed by news of his descent upon Ba‘albek on Thursday, 20th Dhu’l-Hijja, with a numerous army and vast host.",
+            "note": "Zengi; 20 Dhu'l-Hijja 533 fell in August 1139. The town and then its tower surrendered on terms (p. 255); by Muharram 534 (from 29 August 1139) Zengi was refortifying it (p. 256)."
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 459",
+            "quote": "Baalbek was besieged and captured, and its garrison crucified notwithstanding his oath of security."
+          },
+          {
+            "ref": "tdv-tugteginliler",
+            "locator": "para. 4 (1139)",
+            "quote": "Zengî hemen Dımaşk Atabegliği topraklarına girdi ve şiddetli bir muhasara neticesinde Ba‘lebek’i zaptetti (534/1139)."
+          }
+        ],
+        "notes": {
+          "en": "Bosra was held by Aytakin al-Halabi, an ally of the fugitive Irtash, until Tughtigin's officer took it in 1105 (Ibn al-Qalanisi; TDV). Banyas was given to the Assassins in 1126, passed to the Franks, was recovered in December 1132 and was taken by Zengi in 1137/38 (TDV; zengid-state). Tyre (1112-1124) and Homs and Hama, outside the map, are not mapped.",
+          "ar": "كانت بصرى بيد أيتكين الحلبي، حليف إرتاش الفار، حتى أخذها أحد قادة طغتكين عام 1105 (ابن القلانسي؛ TDV). وأُعطيت بانياس للحشاشين عام 1126، ثم انتقلت إلى الفرنجة، واستُعيدت في كانون الأول/ديسمبر 1132، وأخذها زنكي عام 1137/1138 (TDV؛ سجل الدولة الزنكية). ولم تُرسم صور (1112-1124) ولا حمص وحماة الواقعتان خارج الخريطة.",
+          "he": "בוצרא הוחזקה בידי איתכין אל-חלבי, בעל בריתו של אירתאש הנמלט, עד שקצין של טוגתכין כבש אותה ב-1105 (אבן אל-קלאנסי; TDV). באניאס ניתנה לאסאסינים ב-1126, עברה לפרנקים, הושבה בדצמבר 1132 ונכבשה בידי זנגי ב-1137/1138 (TDV; רשומת המדינה הזנגית). צור (1112-1124) וחמץ וחמאה, שמחוץ למפה, אינן ממופות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "burid-damascus-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "burid-damascus",
+        "start": {
+          "year": 1139,
+          "month": 9,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1146,
+          "month": 9,
+          "circa": true,
+          "precision": "month"
+        },
+        "units": [
+          "damascus",
+          "bashan"
+        ],
+        "partial_units": [
+          "golan"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus and the Ghuta with the Hauran and the contested Golan frontier, after the loss of Baalbek to Zengi (1139).",
+          "ar": "دمشق والغوطة مع حوران وتخوم الجولان المتنازع عليها، بعد خسارة بعلبك لصالح زنكي (1139).",
+          "he": "דמשק והע'וטה עם החוראן וספר הגולן השנוי במחלוקת, לאחר אובדן בעלבכ לזנגי (1139).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 459",
+            "quote": "Baalbek was besieged and captured, and its garrison crucified notwithstanding his oath of security."
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 459",
+            "quote": "A formal alliance was negotiated with the kingdom of Jerusalem against the common enemy"
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 460",
+            "quote": "the governor, at the end of a month, surrendered to Unur on terms. Unur delivered the castle up to Fulk"
+          },
+          {
+            "ref": "tdv-tugteginliler",
+            "locator": "para. 4 (1139)",
+            "quote": "Zengî hemen Dımaşk Atabegliği topraklarına girdi ve şiddetli bir muhasara neticesinde Ba‘lebek’i zaptetti (534/1139)."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 513",
+            "quote": "Unur at Damascus had lost no time in compelling Zengi’s governor, Najm-ad-Din Aiyub, to surrender Baalbek"
+          }
+        ],
+        "notes": {
+          "en": "Allied with the kingdom of Jerusalem from 1140, Damascus took Banyas from Zengi's governor in 1140 and handed it to the Franks (Gibb; zengid-state).",
+          "ar": "تحالفت دمشق مع مملكة القدس منذ 1140، وانتزعت بانياس من والي زنكي عام 1140 وسلّمتها للفرنجة (غيب؛ سجل الدولة الزنكية).",
+          "he": "בברית עם ממלכת ירושלים מ-1140, נטלה דמשק את באניאס ממושלו של זנגי ב-1140 ומסרה אותה לפרנקים (גיב; רשומת המדינה הזנגית).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "burid-damascus-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "burid-damascus",
+        "start": {
+          "year": 1146,
+          "month": 9,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1154,
+          "month": 4,
+          "day": 25,
+          "precision": "day"
+        },
+        "units": [
+          "damascus",
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus with the Hauran, the Golan frontier and, again, Baalbek and part of the Beqaa, recovered by Unur after Zengi's death (1146), until Nur al-Din entered Damascus on 25 April 1154.",
+          "ar": "دمشق مع حوران وتخوم الجولان، ومن جديد بعلبك وجزء من البقاع اللذان استعادهما أُنُر بعد وفاة زنكي (1146)، حتى دخل نور الدين دمشق في 25 نيسان/أبريل 1154.",
+          "he": "דמשק עם החוראן, ספר הגולן ושוב בעלבכ וחלק מהבקאע, שאונור השיב לאחר מות זנגי (1146), עד שנור א-דין נכנס לדמשק ב-25 באפריל 1154.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 513",
+            "quote": "Unur at Damascus had lost no time in compelling Zengi’s governor, Najm-ad-Din Aiyub, to surrender Baalbek"
+          },
+          {
+            "ref": "tdv-tugteginliler",
+            "locator": "para. 5",
+            "quote": "Üner daha sonra İmâdüddin Zengî’nin öldürülmesinden yararlanıp Ba‘lebek’i geri aldı (541/1146)."
+          },
+          {
+            "ref": "tdv-tugteginliler",
+            "locator": "para. 5",
+            "quote": "Busrâ ve Sarhad atabegliğin topraklarına katıldı (Muharrem 542 / Haziran 1147)."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 518",
+            "quote": "Abak strengthened himself by restoring his control over the Hauran, which had been shaken by the Turkomans."
+          },
+          {
+            "ref": "ibn-al-qalanisi-gibb-1932-damascus-chronicle",
+            "locator": "A.H. 549, p. 318",
+            "quote": "On Sunday, 10th Safar (25th April), by virtue of the predestined decree"
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 519",
+            "quote": "forced an entrance on April 25 “to the joy of the people, troops, and militiamen”"
+          }
+        ],
+        "notes": {
+          "en": "The governor of Bosra and Salkhad rebelled in 1147 and both places were restored to Damascus in June 1147 (TDV); in 1151-1152 Turkoman raids shook control of the Hauran until Abaq restored it (Gibb). Baalbek held out against Nur al-Din until June 1155 (Gibb; see zengid-state).",
+          "ar": "تمرد والي بصرى وصرخد عام 1147 وأُعيد الموضعان إلى دمشق في حزيران/يونيو 1147 (TDV)؛ وفي 1151-1152 زعزعت غارات التركمان السيطرة على حوران حتى أعادها آبق (غيب). وصمدت بعلبك أمام نور الدين حتى حزيران/يونيو 1155 (غيب؛ انظر سجل الدولة الزنكية).",
+          "he": "מושל בוצרא וצלח'ד מרד ב-1147 ושני המקומות הוחזרו לדמשק ביוני 1147 (TDV); ב-1151-1152 ערערו פשיטות טורכמנים את השליטה בחוראן עד שאבק השיב אותה (גיב). בעלבכ החזיקה מעמד מול נור א-דין עד יוני 1155 (גיב; ראו רשומת המדינה הזנגית).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "burid-damascus-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}
