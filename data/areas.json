@@ -948,10 +948,22 @@
     {
       "id": "acre-city",
       "name": {
-        "en": "Acre (city)"
+        "en": "Acre (city)",
+        "ar": "عكا (المدينة)",
+        "he": "עכו (העיר)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "definition": {
-        "en": "The walled town of Acre ('Akko / 'Akka). Extent varies by author and period: Benvenisti 1970 counts a built-up area of about 600 dunams including the quarter of Montmusard; Russell 1985 uses about 45 hectares within the walls about 1200."
+        "en": "The walled town of Acre ('Akko / 'Akka). Extent varies by author and period: Benvenisti 1970 counts a built-up area of about 600 dunams including the quarter of Montmusard; Russell 1985 uses about 45 hectares within the walls about 1200.",
+        "ar": "مدينة عكا المسوّرة ('عكّو / عكّا'). يختلف نطاقها باختلاف المؤلف والفترة: يحسب بنفنستي 1970 مساحة مبنية تبلغ نحو 600 دونم تشمل حي مونموزار؛ ويستخدم راسل 1985 نحو 45 هكتارًا داخل الأسوار نحو سنة 1200.",
+        "he": "העיר המוקפת חומה עכו ('עַכּוֹ / עַכָּא'). ההיקף משתנה לפי המחבר והתקופה: בנבנישתי 1970 מונה שטח בנוי של כ-600 דונם הכולל את שכונת מונמוסאר; ראסל 1985 משתמש בכ-45 הקטר בתוך החומות בערך בשנת 1200.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "sources": [
         {
@@ -961,6 +973,221 @@
         {
           "ref": "russell-1985-population-crusader-states",
           "locator": "Table 2, p. 306"
+        }
+      ]
+    },
+    {
+      "id": "kingdom-of-israel-inland-west",
+      "name": {
+        "en": "Kingdom of Israel west of the Jordan, inland regions (Broshi & Finkelstein)",
+        "ar": "مملكة إسرائيل غربي الأردن، المناطق الداخلية (بروشي وفنكلشتاين)",
+        "he": "ממלכת ישראל ממערב לירדן, האזורים הפנימיים (ברושי ופינקלשטיין)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Squitieri 2024, reporting Broshi & Finkelstein 1992 (table 1): 'the Galilee (Upper and Lower), the Hula Valley, the Jordan Valley, the Jezreel Valley and the Samaria area (excluding the coast)'. Excludes the coastal plain and Transjordan.",
+        "ar": "سكيتيري 2024، ناقلًا عن بروشي وفنكلشتاين 1992 (الجدول 1): «الجليل (الأعلى والأسفل)، وسهل الحولة، وغور الأردن، ومرج ابن عامر، ومنطقة السامرة (باستثناء الساحل)». ويستثني السهل الساحلي وشرقي الأردن.",
+        "he": "סקוויטיירי 2024, המדווח על ברושי ופינקלשטיין 1992 (טבלה 1): “הגליל (העליון והתחתון), עמק החולה, בקעת הירדן, עמק יזרעאל ואזור שומרון (למעט החוף)”. אינו כולל את מישור החוף ואת עבר הירדן.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "squitieri-2024-assyrian-conquest-ruralization",
+          "locator": "p. 243"
+        }
+      ]
+    },
+    {
+      "id": "philistia",
+      "name": {
+        "en": "Philistia (the Philistine cities of the southern coastal plain)",
+        "ar": "فلستيا (مدن الفلسطينيين القدماء في السهل الساحلي الجنوبي)",
+        "he": "פלשת (ערי הפלשתים במישור החוף הדרומי)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "The Philistine cities ('Philisterstädte') for which Broshi & Finkelstein 1992 (p. 54) give a combined figure, as reported by Siquans 2004 (p. 95 n. 12). Whether their rural territories are included is not stated in the passage seen.",
+        "ar": "مدن الفلسطينيين القدماء ('Philisterstädte') التي يقدّم بروشي وفنكلشتاين 1992 (ص 54) رقمًا إجماليًا لها، كما أوردها سيكوانس 2004 (ص 95، هامش 12). ولم يُذكر في المقطع الذي اطُّلع عليه إن كانت أراضيها الريفية مشمولة.",
+        "he": "ערי הפלשתים ('Philisterstädte') שברושי ופינקלשטיין 1992 (עמ׳ 54) נותנים עבורן נתון כולל, כפי שדווח אצל זיקוואנס 2004 (עמ׳ 95, הערה 12). לא נאמר בקטע שנבדק אם שטחיהן הכפריים נכללים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "siquans-2004-archaeologie-israelitische-gesellschaft",
+          "locator": "p. 95 n. 12"
+        }
+      ]
+    },
+    {
+      "id": "judea-and-three-toparchies",
+      "name": {
+        "en": "Judea with the three toparchies (140s BCE)",
+        "ar": "يهودا مع التوباركيات الثلاث (أربعينيات القرن الثاني ق.م.)",
+        "he": "יהודה עם שלוש הטופרכיות (שנות ה-140 לפנה״ס)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Finkelstein 2018 (2010): 'the traditional territory of Judea, including the three toparchies' (Lod, Ephraim/Apheraema and Ramathaim, 1 Macc 11:34), handed over to Judea in the days of Jonathan; i.e. Judea of the 160s BCE (area judea-hasmonean) plus the three toparchies to its north.",
+        "ar": "فنكلشتاين 2018 (2010): «الأراضي التقليدية ليهودا، بما فيها التوباركيات الثلاث» (اللد، وأفرايم/أفيرما، ورامتايم، 1 مكابيين 11:34)، التي سُلِّمت ليهودا في أيام يوناتان؛ أي يهودا في ستينيات القرن الثاني ق.م. (المنطقة judea-hasmonean) مضافًا إليها التوباركيات الثلاث إلى الشمال منها.",
+        "he": "פינקלשטיין 2018 (2010): “השטח המסורתי של יהודה, כולל שלוש הטופרכיות” (לוד, אפרים/אפרמה ורמתיים, מקבים א׳ 11:34), שנמסרו ליהודה בימי יונתן; כלומר יהודה של שנות ה-160 לפנה״ס (האזור judea-hasmonean) בתוספת שלוש הטופרכיות שמצפון לה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 65"
+        }
+      ]
+    },
+    {
+      "id": "judea-hasmonean-expanded",
+      "name": {
+        "en": "Judea after the expansion of the 140s BCE (Simeon)",
+        "ar": "يهودا بعد التوسع في أربعينيات القرن الثاني ق.م. (شمعون)",
+        "he": "יהודה לאחר ההתרחבות בשנות ה-140 לפנה״ס (שמעון)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Finkelstein 2018 (2010): 'Judea now stretched from Beth-zur in the south to Nahal Shiloh in the north; and from the Judean desert and the Peraea in the east to beyond Ekron and Gezer in the west and to Joppa in the northwest.'",
+        "ar": "فنكلشتاين 2018 (2010): «امتدت يهودا الآن من بيت صور في الجنوب إلى وادي شيلو في الشمال؛ ومن صحراء يهودا وبيريا في الشرق إلى ما وراء عقرون وجازر في الغرب وإلى يافا في الشمال الغربي».",
+        "he": "פינקלשטיין 2018 (2010): “יהודה השתרעה כעת מבית צור בדרום עד נחל שילה בצפון; ומן מדבר יהודה והפרעיה במזרח עד מעבר לעקרון ולגזר במערב ועד יפו בצפון-מערב”.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 65"
+        }
+      ]
+    },
+    {
+      "id": "three-toparchies-highlands",
+      "name": {
+        "en": "Highland parts of the three toparchies north of Judea",
+        "ar": "الأجزاء الجبلية من التوباركيات الثلاث شمالي يهودا",
+        "he": "החלקים ההרריים של שלוש הטופרכיות מצפון ליהודה",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Finkelstein 2018 (2010), p. 64 n. 70: 'the highlands areas of the three toparchies' north of Judea (Lod, Ephraim/Apheraema, Ramathaim; 1 Macc 11:34), excluding the lowland toparchy of Lod 'in the plain'.",
+        "ar": "فنكلشتاين 2018 (2010)، ص 64 هامش 70: «المناطق الجبلية من التوباركيات الثلاث» شمالي يهودا (اللد، وأفرايم/أفيرما، ورامتايم؛ 1 مكابيين 11:34)، باستثناء توباركية اللد السهلية «في السهل».",
+        "he": "פינקלשטיין 2018 (2010), עמ׳ 64 הערה 70: “אזורי ההר של שלוש הטופרכיות” שמצפון ליהודה (לוד, אפרים/אפרמה, רמתיים; מקבים א׳ 11:34), למעט הטופרכיה של לוד “במישור”.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 64 n. 70; p. 65"
+        }
+      ]
+    },
+    {
+      "id": "judea-samaria-roman",
+      "name": {
+        "en": "Judea and Samaria (Roman period, Applebaum)",
+        "ar": "يهودا والسامرة (العصر الروماني، أبلباوم)",
+        "he": "יהודה ושומרון (התקופה הרומית, אפלבאום)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Applebaum 1976 as summarised by Raviv & Ben David 2021: 'Judea and Samaria' (his calculation of agricultural capacity also covered the Jordan Valley). Boundaries not given in the summary seen.",
+        "ar": "أبلباوم 1976 كما لخّصه رفيف وبن ديفيد 2021: «يهودا والسامرة» (شمل حسابه للطاقة الزراعية أيضًا غور الأردن). الحدود غير مذكورة في الملخص الذي اطُّلع عليه.",
+        "he": "אפלבאום 1976 כפי שסוכם אצל רביב ובן דוד 2021: ”יהודה ושומרון“ (חישובו של כושר הייצור החקלאי כלל גם את בקעת הירדן). הגבולות אינם מצוינים בסיכום שנבדק.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 588"
+        }
+      ]
+    },
+    {
+      "id": "land-of-judea-roman",
+      "name": {
+        "en": "Land of Judea (Roman period)",
+        "ar": "أرض يهودا (العصر الروماني)",
+        "he": "ארץ יהודה (התקופה הרומית)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Raviv & Ben David 2021: the area of Jewish settlement in the Land of Judea, about 6,500-7,000 sq. km, a continuous belt 'from the Carmel in the north to the Negev in the south, but excluding central and northern Samaria'; it includes Judea proper, the coastal plain, the Sharon, southern and western Samaria, Idumea and the northern Negev. Kloner's 'Judea' (1987) is narrower: it excludes what he called 'Samaria', the area north of Jerusalem.",
+        "ar": "رفيف وبن ديفيد 2021: منطقة الاستيطان اليهودي في أرض يهودا، نحو 6,500-7,000 كم²، وهي حزام متصل «من الكرمل في الشمال إلى النقب في الجنوب، باستثناء وسط السامرة وشمالها»؛ وتشمل يهودا نفسها، والسهل الساحلي، والشارون، وجنوب السامرة وغربها، وأدومية، وشمال النقب. أما «يهودا» عند كلونر (1987) فأضيق: فهي تستثني ما سمّاه «السامرة»، أي المنطقة الواقعة شمالي القدس.",
+        "he": "רביב ובן דוד 2021: אזור ההתיישבות היהודית בארץ יהודה, כ-6,500-7,000 קמ״ר, רצועה רציפה “מהכרמל בצפון ועד הנגב בדרום, אך ללא מרכז שומרון וצפונה”; היא כוללת את יהודה עצמה, מישור החוף, השרון, דרום שומרון ומערבה, אדום (אידומיאה) והנגב הצפוני. ”יהודה“ של קלונר (1987) צרה יותר: היא אינה כוללת את מה שכינה ”שומרון“, האזור שמצפון לירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "pp. 589-590 n. 16, 596"
+        }
+      ]
+    },
+    {
+      "id": "land-of-israel-syria-to-egypt",
+      "name": {
+        "en": "Biblical Land of Israel, broadly defined (southern Syria to northern Egypt)",
+        "ar": "أرض إسرائيل التوراتية بمعناها الواسع (من جنوبي سوريا إلى شمالي مصر)",
+        "he": "ארץ ישראל המקראית, בהגדרה רחבה (מדרום סוריה ועד צפון מצרים)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "definition": {
+        "en": "Tsedaka 2004: 'the biblical Land of Israel (from southern Syria to northern Egypt)'. Much larger than western Palestine.",
+        "ar": "صدقة 2004: «أرض إسرائيل التوراتية (من جنوبي سوريا إلى شمالي مصر)». أكبر بكثير من فلسطين الغربية.",
+        "he": "צדקה 2004: “ארץ ישראל המקראית (מדרום סוריה ועד צפון מצרים)”. גדולה בהרבה מפלשתינה המערבית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "sources": [
+        {
+          "ref": "tsedaka-2004-samaritans-emmena"
         }
       ]
     }

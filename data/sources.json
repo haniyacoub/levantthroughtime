@@ -1263,6 +1263,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "applebaum-1976-prolegomena-second-revolt",
+      "type": "book",
+      "authors": [
+        "Applebaum, Shimon"
+      ],
+      "title": "Prolegomena to the Study of the Second Jewish Revolt (132-135 A.D.)",
+      "container": "BAR Supplementary Series 7",
+      "publisher": "British Archaeological Reports",
+      "place": "Oxford",
+      "year": 1976,
+      "pages": "34-35",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not accessed; estimate as summarised by Raviv & Ben David 2021, p. 588 (citing pp. 34-35); bibliographic data from their reference list."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "arabi21-2024-umm-al-rashrash",
       "type": "web",
       "authors": [
@@ -2247,6 +2268,28 @@
       "kind": "government",
       "institution_country": "JO",
       "accessed": "2026-10-20"
+    },
+    {
+      "id": "bar-2005-roman-legislation-settlement",
+      "type": "article",
+      "authors": [
+        "Bar, Doron"
+      ],
+      "title": "Roman Legislation as Reflected in the Settlement History of Late Antique Palestine",
+      "container": "Scripta Classica Israelica",
+      "publisher": "Israel Society for the Promotion of Classical Studies",
+      "year": 2005,
+      "volume": 24,
+      "pages": "195-206",
+      "url": "https://scriptaclassica.org/index.php/sci/article/download/3475/2995",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF from the journal's archive read in full; the population estimate is on p. 196 (n. 9 refers to Bar's 2004 Journal of Historical Geography article; n. 10 cites Broshi 1979 'for a minimal estimation'). OpenAlex misdates the item 2020; the PDF reads 'Scripta Classica Israelica vol. XXIV 2005 pp. 195-206'."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "barkan-dayan-2018-sidna-ali",
@@ -9001,7 +9044,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw the article's published abstract via OpenAlex. Full text (JSTOR) not accessed, so the regional breakdown in the article was not seen."
+        "note": "Saw the article's published abstract via OpenAlex. Full text (JSTOR) not accessed, so the regional breakdown in the article was not seen. | Re-read in Milestone 8: Full text still not accessed (JSTOR; the Academia.edu copies are third-party uploads behind a bot check and were not used). Its regional figures were seen as reported by Siquans 2004 (p. 95 and n. 12, citing p. 54), Squitieri 2024 (p. 243, citing table 1) and Röthlin & Le Roux 2013 (p. 4 n. 11, citing p. 54). The abstract seen earlier remains the only direct text."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -12156,7 +12199,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open PDF read. Ch. 1 reprints 'Jerusalem in the Persian (and Early Hellenistic) Period and the Wall of Nehemiah', JSOT 32 (2008): 501-20; ch. 3 (pp. 51-65) reprints 'The Territorial Extent and Demography of Yehud/Judea in the Persian and Early Hellenistic Periods', Revue Biblique 117 (2010): 39-54 (reprint list on p. viii). Figures quoted from the reprint. | Re-read in Milestone 8: Re-downloaded the SBL open-access PDF and read ch. 4, \"Nehemiah's Adversaries\", pp. 71-80 (Tobiah the Ammonite)."
+        "note": "Open PDF read. Ch. 1 reprints 'Jerusalem in the Persian (and Early Hellenistic) Period and the Wall of Nehemiah', JSOT 32 (2008): 501-20; ch. 3 (pp. 51-65) reprints 'The Territorial Extent and Demography of Yehud/Judea in the Persian and Early Hellenistic Periods', Revue Biblique 117 (2010): 39-54 (reprint list on p. viii). Figures quoted from the reprint. | Re-read in Milestone 8: Re-downloaded the SBL open-access PDF and read ch. 4, \"Nehemiah's Adversaries\", pp. 71-80 (Tobiah the Ammonite). | Re-read in Milestone 8: Re-downloaded the SBL open-access PDF and read ch. 1, pp. 4-6 and 13 (with nn. 22, 57-58: Lipschits's, Carter's and Weinberg's Jerusalem figures) and p. 19 n. 97; ch. 3, pp. 58-59 and 63-66 (incl. n. 70 on p. 64: the highlands of the three toparchies; pp. 65-66: Judea with the three toparchies and Judea under Simeon); ch. 7, pp. 137-138 (Judea after the Hasmonean expansion)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -12710,6 +12753,27 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "geva-2014-jerusalem-population-minimalist",
+      "type": "article",
+      "authors": [
+        "Geva, Hillel"
+      ],
+      "title": "Jerusalem's Population in Antiquity: A Minimalist View",
+      "container": "Tel Aviv",
+      "year": 2014,
+      "volume": 41,
+      "pages": "131-160",
+      "doi": "10.1179/0334435514Z.00000000041",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not accessed (paywalled); figures as summarised by Shanks 2016. Bibliographic data checked in Crossref; also cited by Finkelstein 2018, p. 138 n. 43."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "gianto-2012-ugaritic",
@@ -17528,6 +17592,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "kloner-1987-hiding-complexes-bar-kokhba",
+      "type": "chapter",
+      "authors": [
+        "Kloner, Amos"
+      ],
+      "title": "The hiding complexes and the Bar Kokhba War",
+      "container": "The Hiding Complexes in the Judean Shephelah (ed. A. Kloner and Y. Tepper)",
+      "publisher": "Hakibbutz Hameuchad and Israel Exploration Society",
+      "place": "Tel Aviv",
+      "year": 1987,
+      "pages": "373-380",
+      "accessed": "2026-10-20",
+      "notes": "In Hebrew.",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not accessed (Hebrew); estimate as reported by Raviv & Ben David 2021, p. 589 and n. 16 (citing p. 380); bibliographic data from their reference list."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "knesset-basic-law-jerusalem",
       "type": "document",
       "title": "Basic Law: Jerusalem, Capital of Israel (unofficial translation, incl. Amendment no. 1)",
@@ -17846,12 +17932,33 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Yehud figure quoted (p. 271) in Knoppers & Grabbe 2009; Finkelstein 2018 groups Lipschits's and Carter's Yehud estimates as 20,000-30,000. The often-quoted exact total 30,125 was not seen in any source I could open."
+        "note": "Not accessed; Yehud figure quoted (p. 271) in Knoppers & Grabbe 2009; Finkelstein 2018 groups Lipschits's and Carter's Yehud estimates as 20,000-30,000. The often-quoted exact total 30,125 was not seen in any source I could open. | Re-read in Milestone 8: Still not accessed directly. Its figures were now seen as summarised or quoted in the open-access JHS forum on the book (vanderhooft-2007-conversation-lipschits: Albertz p. 6, citing the table on p. 269; Eskenazi pp. 12-13, quoting p. 372; Knoppers p. 20) and in Finkelstein 2018, p. 13 n. 57 (Jerusalem, p. 271)."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18",
       "isbn": "9781575065533"
+    },
+    {
+      "id": "lipschits-2006-achaemenid-imperial-policy",
+      "type": "chapter",
+      "authors": [
+        "Lipschits, Oded"
+      ],
+      "title": "Achaemenid Imperial Policy, Settlement Processes in Palestine, and the Status of Jerusalem in the Middle of the Fifth Century B.C.E.",
+      "container": "Judah and the Judeans in the Persian Period (ed. O. Lipschits and M. Oeming)",
+      "publisher": "Eisenbrauns",
+      "place": "Winona Lake, IN",
+      "year": 2006,
+      "pages": "19-52",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not accessed; the figure is reported by Finkelstein 2018, p. 6 and n. 22 (citing p. 32). Page range as given in Lipschits's own references in JHS 7 (2007), pp. 41 and 45."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "lipschits-2009-persian-period-finds-jerusalem",
@@ -22846,6 +22953,26 @@
       "institution_country": "US"
     },
     {
+      "id": "pummer-2005-samaritans-encyclopedia-religion",
+      "type": "chapter",
+      "authors": [
+        "Pummer, Reinhard"
+      ],
+      "title": "Samaritans",
+      "container": "Encyclopedia of Religion, 2nd ed. (ed. Lindsay Jones)",
+      "publisher": "Macmillan Reference USA (Gale)",
+      "year": 2005,
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/samaritans-0",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the entry as reproduced on Encyclopedia.com, signed 'Reinhard Pummer (2005)', Encyclopedia of Religion: the introduction and the history section through the Byzantine and Islamic periods."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "qna-2024-03-31-mustafa-government",
       "type": "article",
       "title": "New Palestinian Government Sworn In",
@@ -22937,7 +23064,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Open-access article downloaded as PDF from Cambridge Core and converted to text. Read the abstract, the sections on Judea, Peraea and Galilee (pp. 589-595: the almost total destruction of Jewish settlement in Judea at the end of the war; Galilee largely unaffected, with settlement peaking 136-250 CE) and the conclusions. Printed page = PDF page + 584 (volume and page range from the PDF header: Journal of Roman Archaeology 34 (2021), 585-607). Authors: Bar-Ilan University and Kinneret Academic College (Israel)."
+        "note": "Open-access article downloaded as PDF from Cambridge Core and converted to text. Read the abstract, the sections on Judea, Peraea and Galilee (pp. 589-595: the almost total destruction of Jewish settlement in Judea at the end of the war; Galilee largely unaffected, with settlement peaking 136-250 CE) and the conclusions. Printed page = PDF page + 584 (volume and page range from the PDF header: Journal of Roman Archaeology 34 (2021), 585-607). Authors: Bar-Ilan University and Kinneret Academic College (Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF (CC BY) from Cambridge Core and read p. 585 n. 3 (range of estimates for Roman Palestine), pp. 588-589 with n. 16 (Applebaum's and Kloner's estimates), pp. 590 and 596 (extent of the Land of Judea) and p. 602 (the authors' own estimate for the Land of Judea)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -23295,6 +23422,31 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "rothlin-le-roux-2013-hezekiah-assyrian-tribute",
+      "type": "article",
+      "authors": [
+        "Röthlin, Gail A.",
+        "Le Roux, Magdel"
+      ],
+      "title": "Hezekiah and the Assyrian tribute",
+      "container": "Verbum et Ecclesia",
+      "publisher": "AOSIS",
+      "year": 2013,
+      "volume": 34,
+      "issue": 2,
+      "pages": "Art. #809, 8 pp.",
+      "doi": "10.4102/ve.v34i2.809",
+      "url": "https://verbumetecclesia.org.za/index.php/ve/article/download/809/1561",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF read in full; the population figures are on p. 4 (main text and n. 11)."
+      },
+      "kind": "academic",
+      "institution_country": "ZA"
     },
     {
       "id": "routledge-avneri-claim-of-dispossession",
@@ -23935,6 +24087,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "shanks-2016-ancient-jerusalem",
+      "type": "article",
+      "authors": [
+        "Shanks, Hershel"
+      ],
+      "title": "Ancient Jerusalem: The Village, the Town, the City",
+      "container": "Biblical Archaeology Review (May/June 2016); republished in Bible History Daily",
+      "publisher": "Biblical Archaeology Society",
+      "year": 2016,
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/ancient-jerusalem/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Bible History Daily republication (first republished 9 May 2016; page dated 25 April 2024), a period-by-period summary of Geva 2014."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "shany-2006-faraway-so-close",
       "type": "article",
       "authors": [
@@ -24077,6 +24249,28 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "siquans-2004-archaeologie-israelitische-gesellschaft",
+      "type": "article",
+      "authors": [
+        "Siquans, Agnethe"
+      ],
+      "title": "Archäologie und die israelitische Gesellschaft der Königszeit: Ein Forschungsüberblick",
+      "container": "Protokolle zur Bibel",
+      "year": 2004,
+      "volume": 13,
+      "issue": 2,
+      "pages": "93-106",
+      "url": "https://www.protokollezurbibel.at/index.php/pzb/article/download/2294/1878",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF from the journal's own site (whole issue file) read for this article, pp. 93-106; the population figures are on p. 95 and in n. 12 on the same page, which cites Broshi & Finkelstein 1992, p. 54. OpenAlex dates the online deposit 2016; the article itself is in vol. 13, no. 2 (2004)."
+      },
+      "kind": "academic",
+      "institution_country": "AT"
     },
     {
       "id": "sis-egypt-modern-history",
@@ -24227,6 +24421,31 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "squitieri-2024-assyrian-conquest-ruralization",
+      "type": "article",
+      "authors": [
+        "Squitieri, Andrea"
+      ],
+      "title": "Assyrian conquest and ruralization: unveiling territorial dynamics in the provinces of Magiddû and Samerina",
+      "container": "Levant",
+      "publisher": "Taylor & Francis for the Council for British Research in the Levant",
+      "year": 2024,
+      "volume": 56,
+      "issue": 2,
+      "pages": "239-258",
+      "doi": "10.1080/00758914.2024.2351677",
+      "url": "https://epub.ub.uni-muenchen.de/116754/",
+      "license": "CC BY-NC-ND 4.0",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access publisher PDF deposited in LMU Munich's open-access repository, read in full; section 'Settlement pattern in the Kingdom of Israel on the eve of the Assyrian conquest' (p. 243) reports the regional figure from Broshi & Finkelstein 1992, table 1."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "stager-master-schloen-2011-ashkelon-3-page",
@@ -25777,6 +25996,27 @@
       "institution_country": "US",
       "accessed": "2026-10-18",
       "isbn": "9781575060125"
+    },
+    {
+      "id": "tsedaka-2004-samaritans-emmena",
+      "type": "chapter",
+      "authors": [
+        "Tsedaka, Benyamim"
+      ],
+      "title": "Samaritans",
+      "container": "Encyclopedia of the Modern Middle East and North Africa, 2nd ed. (ed. Philip Mattar)",
+      "publisher": "Macmillan Reference USA (Gale)",
+      "year": 2004,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/samaritans",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the entry as reproduced on Encyclopedia.com (Gale), signed 'benyamim tsedaka' and attributed there to the Encyclopedia of the Modern Middle East and North Africa (year of that work's 2nd edition; the page gives no date). The same page reproduces an unsigned entry 'Samaritans' from another Gale reference work."
+      },
+      "kind": "reference",
+      "institution_country": "US",
+      "notes": "The author is a Samaritan scholar writing on his own community's history."
     },
     {
       "id": "tucci-2022-review-koch-colonial-encounters",
@@ -27983,6 +28223,36 @@
       "institution_country": "US"
     },
     {
+      "id": "vanderhooft-2007-conversation-lipschits",
+      "type": "article",
+      "editors": [
+        "Vanderhooft, David S."
+      ],
+      "authors": [
+        "Albertz, Rainer",
+        "Cohn Eskenazi, Tamara",
+        "Knoppers, Gary N.",
+        "Master, Daniel M.",
+        "Williamson, H. G. M.",
+        "Lipschits, Oded"
+      ],
+      "title": "In Conversation with Oded Lipschits, The Fall and Rise of Jerusalem (Winona Lake, Ind.: Eisenbrauns, 2005)",
+      "container": "Journal of Hebrew Scriptures",
+      "year": 2007,
+      "volume": 7,
+      "issue": "article 2",
+      "doi": "10.5508/jhs.2007.v7.a2",
+      "url": "https://jhsonline.org/index.php/jhs/article/download/5656/4709",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access PDF (49 pp.) read: Albertz's response (p. 6), Eskenazi's reflections (pp. 12-13, quoting Lipschits p. 372), Knoppers's reflections (p. 20) and Lipschits's reply (pp. 40-49, no new figures). Volume 7 is the 2007 volume; Crossref registers the DOI in 2009. Reviews from an SBL panel of November 2005."
+      },
+      "kind": "academic",
+      "institution_country": "CA"
+    },
+    {
       "id": "vieugue-et-al-2016-yarmukian",
       "type": "article",
       "authors": [
@@ -28528,7 +28798,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; figures quoted by Finkelstein 2018, pp. 13 n. 58 and 57 n. 34 (citing pp. 43, 132)."
+        "note": "Not accessed; figures quoted by Finkelstein 2018, pp. 13 n. 58 and 57 n. 34 (citing pp. 43, 132). | Re-read in Milestone 8: Not accessed; Jerusalem figure seen in Finkelstein 2018, p. 13 n. 58 (citing p. 43)."
       },
       "kind": "academic",
       "institution_country": "GB",

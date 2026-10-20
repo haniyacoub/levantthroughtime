@@ -292,7 +292,13 @@
       "axis": "religion",
       "parent": "christians",
       "name": {
-        "en": "Greek Orthodox Christians"
+        "en": "Greek Orthodox Christians",
+        "ar": "المسيحيون الأرثوذكس الروم",
+        "he": "נוצרים יוונים-אורתודוקסים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       },
       "notes": "Christians of the Chalcedonian (Melkite, \"Rum\") church of the Patriarchate of Jerusalem; a sub-group of \"christians\". Added for Hitti 1985, who gives a share for this group alone."
     }

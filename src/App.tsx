@@ -133,9 +133,11 @@ export default function App() {
               {tr('nav.backToMap')}
             </button>
           )}
-          <button type="button" className="link-btn" aria-current={view === 'peoples' ? 'page' : undefined} onClick={() => setView('peoples')} data-testid="nav-peoples">
-            {tr('nav.peoples')}
-          </button>
+          {data.peoples.length > 0 && (
+            <button type="button" className="link-btn" aria-current={view === 'peoples' ? 'page' : undefined} onClick={() => setView('peoples')} data-testid="nav-peoples">
+              {tr('nav.peoples')}
+            </button>
+          )}
           <button type="button" className="link-btn" aria-current={view === 'perspectives' ? 'page' : undefined} onClick={() => setView('perspectives')} data-testid="nav-perspectives">
             {tr('nav.perspectives')}
           </button>

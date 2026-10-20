@@ -1066,12 +1066,24 @@
           "note": "Alternative estimate for the same period: 1,000,000 (record albright-8th-century-total).",
           "locator": "Table A1, p. 356, row 6",
           "via": "bachi-1977"
+        },
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "p. 54 (as cited by Siquans 2004, p. 95 and n. 12)",
+          "quote": "Magen Broshi und Israel Finkelstein nehmen für die Eisenzeit II eine Bevölkerung von 350.000 für Israel (Fläche: 11.500 km²) und 110.000 für Juda (Fläche: 5000 km²) an.",
+          "via": "siquans-2004-archaeologie-israelitische-gesellschaft"
+        },
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "table 1 (as cited by Squitieri 2024, p. 243)",
+          "quote": "sustaining an estimated population of 205,500 inhabitants",
+          "via": "squitieri-2024-assyrian-conquest-ruralization"
         }
       ],
       "notes": {
-        "en": "Area described as 'the entire country'; the regional breakdown (e.g. for Judah) was not seen. Finkelstein 2013 (citing this article) gives 350,000 for Israel 'on both sides of the Jordan' and says Israel was three times Judah's population; how this squares with the 400,000 total depends on area definitions not verified here. Much lower than the textual-based estimates of Albright (1,000,000) and Avi-Yonah (1,300,000).",
-        "ar": "المنطقة موصوفة بأنها \"the entire country\"؛ ولم يُطّلع على التوزيع الإقليمي (مثلًا ليهودا). ويعطي فنكلشتاين 2013 (مستشهدًا بهذا المقال) 350,000 لإسرائيل \"on both sides of the Jordan\" ويقول إن سكان إسرائيل كانوا ثلاثة أضعاف سكان يهودا؛ وكيف يتسق ذلك مع المجموع 400,000 يتوقف على تعريفات المناطق التي لم تُتحقق هنا. أدنى بكثير من التقديرات النصية لأولبرايت (1,000,000) وأفي يونا (1,300,000).",
-        "he": "האזור מתואר כ-\"the entire country\"; הפילוח האזורי (למשל ליהודה) לא נראה. פינקלשטיין 2013 (המצטט מאמר זה) נותן 350,000 לישראל \"on both sides of the Jordan\" ואומר שישראל מנתה פי שלושה מאוכלוסיית יהודה; כיצד הדבר מתיישב עם הסך 400,000 תלוי בהגדרות אזור שלא אומתו כאן. נמוך בהרבה מהאומדנים המבוססי הטקסט של אולברייט (1,000,000) ואבי יונה (1,300,000).",
+        "en": "Area described as 'the entire country'; the regional breakdown (e.g. for Judah) was not seen. Finkelstein 2013 (citing this article) gives 350,000 for Israel 'on both sides of the Jordan' and says Israel was three times Judah's population; how this squares with the 400,000 total depends on area definitions not verified here. Much lower than the textual-based estimates of Albright (1,000,000) and Avi-Yonah (1,300,000). Regional figures from the article, now seen second-hand: Israel 350,000 (11,500 sq. km) and Judah 110,000 (5,000 sq. km), Philistine cities 50,000 (Siquans 2004, citing p. 54), and 205,500 for the inland regions of the northern kingdom west of the Jordan (Squitieri 2024, citing table 1); see records broshi-finkelstein-1992-judah, broshi-finkelstein-1992-israel-inland and broshi-finkelstein-1992-philistia. Finkelstein (2013) places Israel's 350,000 'on both sides of the Jordan River', so that figure is not a part of the 400,000 for the country west of the Jordan.",
+        "ar": "وُصفت المنطقة بأنها «البلاد كلها»؛ ولم يُطَّلع على التوزيع الإقليمي (مثلًا ليهوذا). يعطي فنكلشتاين 2013 (مستشهدًا بهذا المقال) 350,000 لإسرائيل «على جانبي الأردن» ويقول إن عدد سكان إسرائيل كان ثلاثة أضعاف عدد سكان يهوذا؛ أما كيف يتفق ذلك مع المجموع البالغ 400,000 فيتوقف على تعريفات للمنطقة لم يُتحقق منها هنا. وهو أقل بكثير من التقديرات المبنية على النصوص عند أولبرايت (1,000,000) وأفي يونا (1,300,000). الأرقام الإقليمية من المقال، وقد اطُّلع عليها الآن من مصدر ثانوي: إسرائيل 350,000 (11,500 كم²) ويهوذا 110,000 (5,000 كم²)، ومدن الفلسطينيين القدماء 50,000 (سيكوانس 2004، نقلًا عن ص 54)، و205,500 للمناطق الداخلية للمملكة الشمالية غربي الأردن (سكيتيري 2024، نقلًا عن الجدول 1)؛ انظر السجلات broshi-finkelstein-1992-judah وbroshi-finkelstein-1992-israel-inland وbroshi-finkelstein-1992-philistia. ويضع فنكلشتاين (2013) الرقم 350,000 لإسرائيل «على جانبي نهر الأردن»، ولذلك فهذا الرقم ليس جزءًا من 400,000 للبلاد غربي الأردن.",
+        "he": "האזור מתואר כ“כל הארץ”; הפירוט האזורי (למשל ליהודה) לא נבדק. פינקלשטיין 2013 (המצטט מאמר זה) נותן 350,000 לישראל “משני עברי הירדן” ואומר שאוכלוסיית ישראל הייתה גדולה פי שלושה מזו של יהודה; כיצד הדבר מתיישב עם הסך הכול של 400,000 תלוי בהגדרות אזור שלא נבדקו כאן. נמוך בהרבה מההערכות המבוססות על טקסטים של אולברייט (1,000,000) ואבי-יונה (1,300,000). נתונים אזוריים מן המאמר, שנבדקו כעת ממקור שני: ישראל 350,000 (11,500 קמ״ר) ויהודה 110,000 (5,000 קמ״ר), ערי הפלשתים 50,000 (זיקוואנס 2004, בציטוט עמ׳ 54), ו-205,500 לאזורים הפנימיים של הממלכה הצפונית ממערב לירדן (סקוויטיירי 2024, בציטוט טבלה 1); ראו את הרשומות broshi-finkelstein-1992-judah, broshi-finkelstein-1992-israel-inland ו-broshi-finkelstein-1992-philistia. פינקלשטיין (2013) מציב את 350,000 של ישראל “משני עברי נהר הירדן”, ולכן נתון זה אינו חלק מה-400,000 לארץ ממערב לירדן.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -1100,6 +1112,13 @@
           "ref": "finkelstein-2013-forgotten-kingdom",
           "locator": "pp. 109-110",
           "quote": "The population of Israel on both sides of the Jordan River in its peak prosperity in the middle of the eighth century can accordingly be estimated at 350,000"
+        },
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "p. 54 (as cited by Siquans 2004, p. 95 and n. 12)",
+          "quote": "Magen Broshi und Israel Finkelstein nehmen für die Eisenzeit II eine Bevölkerung von 350.000 für Israel (Fläche: 11.500 km²) und 110.000 für Juda (Fläche: 5000 km²) an.",
+          "via": "siquans-2004-archaeologie-israelitische-gesellschaft",
+          "note": "The underlying Broshi & Finkelstein estimate; Siquans gives Israel's area as 11,500 sq. km."
         }
       ],
       "notes": {
@@ -1734,10 +1753,9 @@
       "id": "lipschits-2005-yehud",
       "area": "yehud",
       "date": {
-        "year": -539,
-        "precision": "century",
-        "circa": true,
-        "latest": -332
+        "year": -450,
+        "precision": "decade",
+        "circa": true
       },
       "date_note": "Persian period (539-332 BCE).",
       "total": {
@@ -1766,6 +1784,12 @@
           "note": "Alternative estimate for the same period: 20,000 (record carter-1999-yehud).",
           "locator": "pp. 195-205 (as cited by Finkelstein 2018, pp. 4, 57)",
           "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "p. 372 (as quoted by Eskenazi, JHS 7, pp. 12-13)",
+          "quote": "the population of the province of Judah in the middle of the fifth century B.C.E. may be estimated at approximately 30,000 people (Lipschits, 372)",
+          "via": "vanderhooft-2007-conversation-lipschits"
         }
       ],
       "notes": {
@@ -1953,6 +1977,13 @@
           "note": "Alternative estimate for the same period: 1,250–1,500 (record carter-1999-jerusalem-persian).",
           "locator": "p. 288 (as cited by Finkelstein 2018, pp. 4, 58)",
           "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "Persian period (as summarised by Shanks 2016)",
+          "quote": "Jerusalem continued to be confined to the spur known as the City of David with an estimated population of about a thousand people on 40 acres.",
+          "via": "shanks-2016-ancient-jerusalem",
+          "note": "Geva repeats the c. 1,000 in his 2014 English study."
         }
       ]
     },
@@ -4206,7 +4237,13 @@
         }
       ],
       "notes": {
-        "en": "Benvenisti says the number doubled when villagers took refuge in the city before the 1099 siege, and (p. 39) that the 'normal population prior to its capture had numbered 20,000'. Prawer gave up to 30,000 (record prawer-1980-jerusalem-before-1099). For comparison, the Persian traveller Nasir-i Khusraw wrote in 1047 that there were 'twenty thousand men' in the city (record nasir-i-khusraw-1047-jerusalem)."
+        "en": "Benvenisti says the number doubled when villagers took refuge in the city before the 1099 siege, and (p. 39) that the 'normal population prior to its capture had numbered 20,000'. Prawer gave up to 30,000 (record prawer-1980-jerusalem-before-1099). For comparison, the Persian traveller Nasir-i Khusraw wrote in 1047 that there were 'twenty thousand men' in the city (record nasir-i-khusraw-1047-jerusalem).",
+        "ar": "يقول بنفنستي إن العدد تضاعف حين لجأ القرويون إلى المدينة قبل حصار 1099، وإن (ص 39) «عدد السكان المعتاد قبل الاستيلاء عليها بلغ 20,000». وأعطى برافر ما يصل إلى 30,000 (السجل prawer-1980-jerusalem-before-1099). وللمقارنة، كتب الرحالة الفارسي ناصر خسرو سنة 1047 أن في المدينة «عشرين ألف رجل» (السجل nasir-i-khusraw-1047-jerusalem).",
+        "he": "בנבנישתי אומר שהמספר הוכפל כשכפריים מצאו מקלט בעיר לפני המצור של 1099, ו(עמ׳ 39) ש“האוכלוסייה הרגילה לפני כיבושה מנתה 20,000”. פראוור נתן עד 30,000 (הרשומה prawer-1980-jerusalem-before-1099). לשם השוואה, הנוסע הפרסי נאסר ח'וסרו כתב ב-1047 שבעיר היו “עשרים אלף איש” (הרשומה nasir-i-khusraw-1047-jerusalem).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -4352,7 +4389,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi credits the 30,000 to 'Prawer and others'; Boas 2001 also says 'It has been estimated that Jerusalem eventually had around 30,000 residents'. Bachi lists J.C. Russell's 10,000 for 1200 (after Saladin's reconquest; work not specified). Russell's 10,000 is in Russell 1985 (A History of the Crusades, vol. V, Table 2: 80 hectares within the walls at 125 persons per hectare, taken from his Mediaeval Regions and Their Cities, 1972) and is now a separate record (russell-1985-jerusalem-c1200). Russell dates it about 1200 but also applies it to the time of the First Crusade."
+        "en": "Bachi credits the 30,000 to 'Prawer and others'; Boas 2001 also says 'It has been estimated that Jerusalem eventually had around 30,000 residents'. Bachi lists J.C. Russell's 10,000 for 1200 (after Saladin's reconquest; work not specified). Russell's 10,000 is in Russell 1985 (A History of the Crusades, vol. V, Table 2: 80 hectares within the walls at 125 persons per hectare, taken from his Mediaeval Regions and Their Cities, 1972) and is now a separate record (russell-1985-jerusalem-c1200). Russell dates it about 1200 but also applies it to the time of the First Crusade.",
+        "ar": "ينسب باكي الرقم 30,000 إلى «برافر وآخرين»؛ ويقول بواس 2001 أيضًا «قُدّر أن عدد سكان القدس بلغ في النهاية نحو 30,000 نسمة». ويورد باكي رقم ج. ك. راسل البالغ 10,000 لسنة 1200 (بعد استعادة صلاح الدين المدينة؛ ولم يُحدَّد العمل). ورقم راسل 10,000 وارد في راسل 1985 (A History of the Crusades، المجلد الخامس، الجدول 2: 80 هكتارًا داخل الأسوار بمعدل 125 شخصًا للهكتار، مأخوذ من كتابه Mediaeval Regions and Their Cities، 1972) وهو الآن سجل مستقل (russell-1985-jerusalem-c1200). ويؤرخه راسل بنحو 1200 لكنه يطبّقه أيضًا على زمن الحملة الصليبية الأولى.",
+        "he": "בכי מייחס את 30,000 ל“פראוור ואחרים”; בואס 2001 אומר גם “הוערך כי בירושלים היו בסופו של דבר כ-30,000 תושבים”. בכי מציין את 10,000 של ג'. ק. ראסל ל-1200 (לאחר כיבושו מחדש של צלאח א-דין; היצירה לא צוינה). 10,000 של ראסל מופיע אצל ראסל 1985 (A History of the Crusades, כרך V, טבלה 2: 80 הקטר בתוך החומות ב-125 נפש להקטר, שנלקחו מספרו Mediaeval Regions and Their Cities, 1972) והוא כעת רשומה נפרדת (russell-1985-jerusalem-c1200). ראסל מתארך אותו לבערך 1200 אך מחיל אותו גם על תקופת מסע הצלב הראשון.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11068,7 +11111,13 @@
         }
       ],
       "notes": {
-        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University). Arar adds that many of those taxed as Jews may have been pilgrims and visitors. Compare the Persian traveller Nasir-i Khusraw, who found about 20,000 men in the city in 1047 (record nasir-i-khusraw-1047-jerusalem)."
+        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University). Arar adds that many of those taxed as Jews may have been pilgrims and visitors. Compare the Persian traveller Nasir-i Khusraw, who found about 20,000 men in the city in 1047 (record nasir-i-khusraw-1047-jerusalem).",
+        "ar": "تقدير مؤرخ فلسطيني (رسالة ماجستير، جامعة بير زيت). ويضيف عرار أن كثيرًا ممن فُرضت عليهم الضريبة بوصفهم يهودًا ربما كانوا حجاجًا وزوارًا. قارن بالرحالة الفارسي ناصر خسرو الذي وجد نحو 20,000 رجل في المدينة سنة 1047 (السجل nasir-i-khusraw-1047-jerusalem).",
+        "he": "הערכה של היסטוריון פלסטיני (עבודת מוסמך, אוניברסיטת ביר זית). ערער מוסיף שרבים מאלה ששילמו מס כיהודים אולי היו עולי רגל ומבקרים. השוו לנוסע הפרסי נאסר ח'וסרו, שמצא בעיר כ-20,000 איש ב-1047 (הרשומה nasir-i-khusraw-1047-jerusalem).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11101,7 +11150,13 @@
         }
       ],
       "notes": {
-        "en": "Primary-source figure (Persian traveller, Fatimid period). The text does not say whether 'men' means adult men or inhabitants in general, so it is recorded as a lower bound (at least 20,000 people). Benvenisti (1970) gives about 20,000 and Prawer up to 30,000 for the city just before 1099 (records benvenisti-1970-jerusalem-before-1099, prawer-1980-jerusalem-before-1099)."
+        "en": "Primary-source figure (Persian traveller, Fatimid period). The text does not say whether 'men' means adult men or inhabitants in general, so it is recorded as a lower bound (at least 20,000 people). Benvenisti (1970) gives about 20,000 and Prawer up to 30,000 for the city just before 1099 (records benvenisti-1970-jerusalem-before-1099, prawer-1980-jerusalem-before-1099).",
+        "ar": "رقم من مصدر أولي (رحالة فارسي، العصر الفاطمي). لا يذكر النص هل تعني «رجال» الرجال البالغين أم السكان عمومًا، ولذلك سُجّل بوصفه حدًّا أدنى (20,000 شخص على الأقل). ويعطي بنفنستي (1970) نحو 20,000 ويعطي برافر ما يصل إلى 30,000 للمدينة قبل 1099 مباشرة (السجلان benvenisti-1970-jerusalem-before-1099 وprawer-1980-jerusalem-before-1099).",
+        "he": "נתון ממקור ראשוני (נוסע פרסי, התקופה הפאטימית). הטקסט אינו אומר אם “אנשים” פירושו גברים בוגרים או תושבים בכלל, ולכן הוא נרשם כגבול תחתון (לפחות 20,000 נפש). בנבנישתי (1970) נותן כ-20,000 ופראוור עד 30,000 לעיר רגע לפני 1099 (הרשומות benvenisti-1970-jerusalem-before-1099, prawer-1980-jerusalem-before-1099).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11165,7 +11220,13 @@
         }
       ],
       "notes": {
-        "en": "Contested. Hitti (Lebanese-born, Princeton) holds that Christians were still a majority in Syria, Lebanon and Palestine when the crusades began, with the Greek Orthodox alone about half of the population of Palestine. Bachi (Israeli demographer) suggests a Muslim majority from about the 9th century; Benvenisti (Israeli) conjectures 75-80% Muslims among the local population of the Crusader period; Arar (Palestinian), following Muhsin Yusuf (Birzeit), says most Christians had converted before the Crusades and were a small minority on their eve. No total is given, so confidence is set to \"unknown\" (the total is unknown); the share itself is disputed."
+        "en": "Contested. Hitti (Lebanese-born, Princeton) holds that Christians were still a majority in Syria, Lebanon and Palestine when the crusades began, with the Greek Orthodox alone about half of the population of Palestine. Bachi (Israeli demographer) suggests a Muslim majority from about the 9th century; Benvenisti (Israeli) conjectures 75-80% Muslims among the local population of the Crusader period; Arar (Palestinian), following Muhsin Yusuf (Birzeit), says most Christians had converted before the Crusades and were a small minority on their eve. No total is given, so confidence is set to \"unknown\" (the total is unknown); the share itself is disputed.",
+        "ar": "موضع خلاف. يرى حتي (لبناني المولد، برنستون) أن المسيحيين كانوا لا يزالون الأغلبية في سوريا ولبنان وفلسطين عند بدء الحملات الصليبية، وأن الروم الأرثوذكس وحدهم كانوا نحو نصف سكان فلسطين. ويرى باكي (ديموغرافي إسرائيلي) أغلبية مسلمة منذ نحو القرن التاسع؛ ويفترض بنفنستي (إسرائيلي) أن المسلمين شكّلوا 75-80% من السكان المحليين في العصر الصليبي؛ ويقول عرار (فلسطيني)، تبعًا لمحسن يوسف (بير زيت)، إن معظم المسيحيين كانوا قد اعتنقوا الإسلام قبل الحملات الصليبية وكانوا أقلية صغيرة عشيتها. لا يُذكر مجموع، ولذلك حُدّدت درجة الثقة «غير معروفة» (المجموع غير معروف)؛ أما النسبة نفسها فمتنازع عليها.",
+        "he": "שנוי במחלוקת. היטי (יליד לבנון, פרינסטון) סובר שהנוצרים עדיין היו הרוב בסוריה, בלבנון ובפלשתינה כשהחלו מסעות הצלב, כשהיוונים-האורתודוקסים לבדם היו כמחצית מאוכלוסיית פלשתינה. בכי (דמוגרף ישראלי) מציע רוב מוסלמי מאז בערך המאה ה-9; בנבנישתי (ישראלי) משער 75-80% מוסלמים בקרב האוכלוסייה המקומית בתקופה הצלבנית; ערער (פלסטיני), בעקבות מוחסן יוסוף (ביר זית), אומר שרוב הנוצרים התאסלמו לפני מסעות הצלב והיו מיעוט קטן ערב פרוץ המסעות. לא ניתן סך הכול, ולכן רמת הביטחון נקבעה כ“לא ידוע” (הסך הכול אינו ידוע); השיעור עצמו שנוי במחלוקת.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11218,7 +11279,13 @@
         }
       ],
       "notes": {
-        "en": "A Palestinian historian's reading of Benjamin of Tudela (Arar cites Thomas Wright's Early Travels in Palestine). Benjamin's figures are disputed in detail (e.g. Jerusalem: 200 or four; record benjamin-of-tudela-jerusalem-jews-c1170), and Arar appears to include the Samaritans he lists at Nablus. Arar states elsewhere (p. 65) that Jews never exceeded about 2% of the population before the Crusades and in the Ayyubid and Mamluk periods."
+        "en": "A Palestinian historian's reading of Benjamin of Tudela (Arar cites Thomas Wright's Early Travels in Palestine). Benjamin's figures are disputed in detail (e.g. Jerusalem: 200 or four; record benjamin-of-tudela-jerusalem-jews-c1170), and Arar appears to include the Samaritans he lists at Nablus. Arar states elsewhere (p. 65) that Jews never exceeded about 2% of the population before the Crusades and in the Ayyubid and Mamluk periods.",
+        "ar": "قراءة مؤرخ فلسطيني لبنيامين التطيلي (يستشهد عرار بكتاب توماس رايت Early Travels in Palestine). أرقام بنيامين موضع خلاف في تفاصيلها (مثلًا القدس: 200 أو أربعة؛ السجل benjamin-of-tudela-jerusalem-jews-c1170)، ويبدو أن عرار يدرج السامريين الذين يذكرهم بنيامين في نابلس. ويقول عرار في موضع آخر (ص 65) إن اليهود لم يتجاوزوا قط نحو 2% من السكان قبل الحملات الصليبية وفي العهدين الأيوبي والمملوكي.",
+        "he": "קריאה של היסטוריון פלסטיני בבנימין מטודלה (ערער מצטט את Early Travels in Palestine של תומאס רייט). נתוניו של בנימין שנויים במחלוקת בפרטיהם (למשל ירושלים: 200 או ארבעה; הרשומה benjamin-of-tudela-jerusalem-jews-c1170), ונראה שערער כולל את השומרונים שהוא מונה בשכם. ערער קובע במקום אחר (עמ׳ 65) שהיהודים לא עלו מעולם על כ-2% מהאוכלוסייה לפני מסעות הצלב ובתקופות האיובית והממלוכית.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11275,7 +11342,13 @@
         }
       ],
       "notes": {
-        "en": "Primary-source figure for the Jewish community of Frankish Jerusalem. Benjamin also describes the city as full of 'Jacobites, Syrians, Greeks, Georgians and Franks'; Muslims and Jews had been barred from residing in the city after 1099. Adler notes that the 'four' reading agrees with Petahiah of Regensburg, who found one Jew there some years later."
+        "en": "Primary-source figure for the Jewish community of Frankish Jerusalem. Benjamin also describes the city as full of 'Jacobites, Syrians, Greeks, Georgians and Franks'; Muslims and Jews had been barred from residing in the city after 1099. Adler notes that the 'four' reading agrees with Petahiah of Regensburg, who found one Jew there some years later.",
+        "ar": "رقم من مصدر أولي للجماعة اليهودية في القدس الفرنجية. ويصف بنيامين المدينة أيضًا بأنها ممتلئة بـ«اليعاقبة والسريان واليونانيين والجورجيين والفرنجة»؛ وكان المسلمون واليهود قد مُنعوا من الإقامة في المدينة بعد 1099. ويلاحظ أدلر أن قراءة «أربعة» تتفق مع بتاحيا الريغنسبورغي الذي وجد فيها يهوديًا واحدًا بعد ذلك ببضع سنوات.",
+        "he": "נתון ממקור ראשוני על הקהילה היהודית בירושלים הפרנקית. בנימין מתאר את העיר גם כמלאה “יעקוביטים, סורים, יוונים, גאורגים ופרנקים”; מוסלמים ויהודים נאסרו במגורים בעיר לאחר 1099. אדלר מציין שהנוסח “ארבעה” מתיישב עם פתחיה מרגנסבורג, שמצא שם יהודי אחד כמה שנים מאוחר יותר.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11319,7 +11392,13 @@
         }
       ],
       "notes": {
-        "en": "Russell (American historical demographer) takes the figure from his Mediaeval Regions and Their Cities (1972, pp. 201-205). It is a third of the 30,000 that Benvenisti, Prawer and Boas give for Crusader Jerusalem; the difference comes mostly from the assumed density: 125 persons per hectare (Russell) against 42 persons per dunam, i.e. 420 per hectare (Benvenisti)."
+        "en": "Russell (American historical demographer) takes the figure from his Mediaeval Regions and Their Cities (1972, pp. 201-205). It is a third of the 30,000 that Benvenisti, Prawer and Boas give for Crusader Jerusalem; the difference comes mostly from the assumed density: 125 persons per hectare (Russell) against 42 persons per dunam, i.e. 420 per hectare (Benvenisti).",
+        "ar": "يأخذ راسل (مؤرخ ديموغرافي أمريكي) الرقم من كتابه Mediaeval Regions and Their Cities (1972، ص 201-205). وهو ثلث الرقم 30,000 الذي يعطيه بنفنستي وبرافر وبواس للقدس الصليبية؛ ويعود الفرق في معظمه إلى الكثافة المفترضة: 125 شخصًا للهكتار (راسل) مقابل 42 شخصًا للدونم، أي 420 للهكتار (بنفنستي).",
+        "he": "ראסל (דמוגרף היסטורי אמריקאי) לוקח את הנתון מספרו Mediaeval Regions and Their Cities (1972, עמ׳ 201-205). הוא שליש מ-30,000 שבנבנישתי, פראוור ובואס נותנים לירושלים הצלבנית; ההבדל נובע בעיקר מן הצפיפות המונחת: 125 נפש להקטר (ראסל) לעומת 42 נפש לדונם, כלומר 420 להקטר (בנבנישתי).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11358,7 +11437,13 @@
         }
       ],
       "notes": {
-        "en": "Russell adds that Hebron 'was about the size of Acre'. Benvenisti's much higher figure rests on a built-up area of 600 dunams including the Montmusard quarter and a density of 50 persons per dunam (record benvenisti-1970-acre-crusader)."
+        "en": "Russell adds that Hebron 'was about the size of Acre'. Benvenisti's much higher figure rests on a built-up area of 600 dunams including the Montmusard quarter and a density of 50 persons per dunam (record benvenisti-1970-acre-crusader).",
+        "ar": "يضيف راسل أن الخليل «كانت بحجم عكا تقريبًا». ويقوم رقم بنفنستي الأعلى بكثير على مساحة مبنية تبلغ 600 دونم تشمل حي مونموزار وكثافة 50 شخصًا للدونم (السجل benvenisti-1970-acre-crusader).",
+        "he": "ראסל מוסיף שחברון “הייתה בערך בגודל עכו”. הנתון הגבוה בהרבה של בנבנישתי נשען על שטח בנוי של 600 דונם הכולל את שכונת מונמוסאר ועל צפיפות של 50 נפש לדונם (הרשומה benvenisti-1970-acre-crusader).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11403,7 +11488,13 @@
         }
       ],
       "notes": {
-        "en": "Benvenisti's table of town populations (p. 26) also lists 200 'Jews and Samaritans' in Acre (Benjamin of Tudela's figure). He calls the figures for Jerusalem, Acre and Tyre the only ones that can be relied upon to a certain extent."
+        "en": "Benvenisti's table of town populations (p. 26) also lists 200 'Jews and Samaritans' in Acre (Benjamin of Tudela's figure). He calls the figures for Jerusalem, Acre and Tyre the only ones that can be relied upon to a certain extent.",
+        "ar": "يدرج جدول بنفنستي لسكان المدن (ص 26) أيضًا 200 من «اليهود والسامريين» في عكا (رقم بنيامين التطيلي). ويصف الأرقام المتعلقة بالقدس وعكا وصور بأنها الوحيدة التي يمكن الاعتماد عليها إلى حد ما.",
+        "he": "טבלת אוכלוסיות הערים של בנבנישתי (עמ׳ 26) מונה גם 200 “יהודים ושומרונים” בעכו (נתונו של בנימין מטודלה). הוא מכנה את הנתונים על ירושלים, עכו וצור היחידים שאפשר לסמוך עליהם במידה מסוימת.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11477,7 +11568,13 @@
         }
       ],
       "notes": {
-        "en": "Primary-source figure (Rabbi Moses ben Nahman, who came from Aragon). In Schechter's translation the figure follows directly on the remark that Jerusalem is the most desolate part of the land; Bachi reads it as the population of the city and calls it the lowest point Jerusalem reached. Nahmanides links the absence of Jews to the arrival of the Mongols ('Tartars'). Contrast Arar's 40,000 for the years after 1260."
+        "en": "Primary-source figure (Rabbi Moses ben Nahman, who came from Aragon). In Schechter's translation the figure follows directly on the remark that Jerusalem is the most desolate part of the land; Bachi reads it as the population of the city and calls it the lowest point Jerusalem reached. Nahmanides links the absence of Jews to the arrival of the Mongols ('Tartars'). Contrast Arar's 40,000 for the years after 1260.",
+        "ar": "رقم من مصدر أولي (الحاخام موسى بن نحمان، الذي جاء من أراغون). في ترجمة شختر يأتي الرقم مباشرة بعد الملاحظة بأن القدس أكثر أجزاء البلاد خرابًا؛ ويقرأه باكي بوصفه عدد سكان المدينة ويسميه أدنى نقطة بلغتها القدس. ويربط نحمانيدس غياب اليهود بوصول المغول («التتار»). قارن برقم عرار البالغ 40,000 للسنوات التي تلت 1260.",
+        "he": "נתון ממקור ראשוני (רבי משה בן נחמן, שבא מאראגון). בתרגום שכטר הנתון בא מיד אחרי ההערה שירושלים היא החלק החרב ביותר בארץ; בכי קורא אותו כאוכלוסיית העיר וקורא לו הנקודה הנמוכה ביותר שהגיעה אליה ירושלים. הרמב״ן קושר את היעדר היהודים לבוא המונגולים (“הטטרים”). השוו ל-40,000 של ערער לשנים שאחרי 1260.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11518,7 +11615,13 @@
         }
       ],
       "notes": {
-        "en": "A Palestinian historian's figure: Arar links growth to Mamluk patronage and to Muslim immigration from the east, North Africa and Andalusia after 1260. It is far above every other estimate for the period (Nahmanides 1267: about 2,000; Mamluk period generally: about 10,000)."
+        "en": "A Palestinian historian's figure: Arar links growth to Mamluk patronage and to Muslim immigration from the east, North Africa and Andalusia after 1260. It is far above every other estimate for the period (Nahmanides 1267: about 2,000; Mamluk period generally: about 10,000).",
+        "ar": "رقم مؤرخ فلسطيني: يربط عرار النمو برعاية المماليك وبالهجرة الإسلامية من الشرق وشمال أفريقيا والأندلس بعد 1260. وهو أعلى بكثير من كل التقديرات الأخرى لهذه الفترة (نحمانيدس 1267: نحو 2,000؛ العصر المملوكي عمومًا: نحو 10,000).",
+        "he": "נתון של היסטוריון פלסטיני: ערער קושר את הגידול לחסות הממלוכים ולהגירה מוסלמית מהמזרח, מצפון אפריקה ומאל-אנדלוס לאחר 1260. הוא גבוה בהרבה מכל ההערכות האחרות לתקופה (הרמב״ן 1267: כ-2,000; התקופה הממלוכית בכלל: כ-10,000).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11560,7 +11663,13 @@
         }
       ],
       "notes": {
-        "en": "Huda Lutfi (Egyptian historian) based her study on the Mamluk-period documents preserved in the Haram al-Sharif. TDV adds that the population fell sharply in the 15th century because of economic troubles, revolts and famine."
+        "en": "Huda Lutfi (Egyptian historian) based her study on the Mamluk-period documents preserved in the Haram al-Sharif. TDV adds that the population fell sharply in the 15th century because of economic troubles, revolts and famine.",
+        "ar": "بنت هدى لطفي (مؤرخة مصرية) دراستها على وثائق العصر المملوكي المحفوظة في الحرم الشريف. ويضيف TDV أن عدد السكان انخفض انخفاضًا حادًا في القرن الخامس عشر بسبب الأزمات الاقتصادية والثورات والمجاعة.",
+        "he": "הודא לוטפי (היסטוריונית מצרית) בססה את מחקרה על מסמכים מהתקופה הממלוכית ששמורים באל-חרם א-שריף. TDV מוסיף שהאוכלוסייה ירדה בחדות במאה ה-15 בגלל קשיים כלכליים, מרידות ורעב.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11590,7 +11699,13 @@
         }
       ],
       "notes": {
-        "en": "Turkish reference work (TDV İslâm Ansiklopedisi). The same paragraph reports Huda Lutfi's higher figure of about 20,000 for the 14th century (record lutfi-1985-jerusalem-14th-century) and says the city was mostly Muslim, followed by Christians and Jews."
+        "en": "Turkish reference work (TDV İslâm Ansiklopedisi). The same paragraph reports Huda Lutfi's higher figure of about 20,000 for the 14th century (record lutfi-1985-jerusalem-14th-century) and says the city was mostly Muslim, followed by Christians and Jews.",
+        "ar": "مرجع تركي (TDV İslâm Ansiklopedisi). وتورد الفقرة نفسها رقم هدى لطفي الأعلى البالغ نحو 20,000 للقرن الرابع عشر (السجل lutfi-1985-jerusalem-14th-century) وتقول إن المدينة كانت في معظمها مسلمة، يليهم المسيحيون ثم اليهود.",
+        "he": "ספר עיון טורקי (TDV İslâm Ansiklopedisi). אותה פסקה מדווחת על הנתון הגבוה יותר של הודא לוטפי, כ-20,000 למאה ה-14 (הרשומה lutfi-1985-jerusalem-14th-century), ואומרת שהעיר הייתה ברובה מוסלמית, ואחריהם נוצרים ויהודים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11650,7 +11765,13 @@
         }
       ],
       "notes": {
-        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University, 2004). He gives Christians as more than 10% of Jerusalem's population in the Mamluk period (p. 44). No total is given, so confidence is set to \"unknown\" (the total is unknown); the shares are the author's own judgement. Marked partial because the groups need not add up to 100% (Samaritans and others are not counted)."
+        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University, 2004). He gives Christians as more than 10% of Jerusalem's population in the Mamluk period (p. 44). No total is given, so confidence is set to \"unknown\" (the total is unknown); the shares are the author's own judgement. Marked partial because the groups need not add up to 100% (Samaritans and others are not counted).",
+        "ar": "تقدير مؤرخ فلسطيني (رسالة ماجستير، جامعة بير زيت، 2004). يذكر أن المسيحيين شكّلوا أكثر من 10% من سكان القدس في العصر المملوكي (ص 44). لا يُذكر مجموع، ولذلك حُدّدت درجة الثقة «غير معروفة» (المجموع غير معروف)؛ والنسب هي حكم المؤلف نفسه. وُسم بأنه جزئي لأن المجموعات لا يلزم أن يبلغ مجموعها 100% (السامريون وغيرهم غير محسوبين).",
+        "he": "הערכה של היסטוריון פלסטיני (עבודת מוסמך, אוניברסיטת ביר זית, 2004). הוא קובע שהנוצרים היו יותר מ-10% מאוכלוסיית ירושלים בתקופה הממלוכית (עמ׳ 44). לא ניתן סך הכול, ולכן רמת הביטחון נקבעה כ“לא ידוע” (הסך הכול אינו ידוע); השיעורים הם שיקול דעתו של המחבר. סומן כחלקי משום שהקבוצות אינן חייבות להסתכם ב-100% (השומרונים ואחרים אינם נספרים).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11705,7 +11826,13 @@
         }
       ],
       "notes": {
-        "en": "Bachi gives the Jewish population as '100-150 families' (not recorded as a count because it is in households). Contemporary Jewish travellers counted households: Meshullam of Volterra (1481) 10,000 Muslim and about 250 Jewish householders; Obadiah of Bertinoro (1488) about 4,000 families in all, about 70 of them Jewish. Felix Fabri (1483) gives more than 500 Jews and more than 1,000 Christians (record fabri-1483-jerusalem). These household figures are not converted into persons here."
+        "en": "Bachi gives the Jewish population as '100-150 families' (not recorded as a count because it is in households). Contemporary Jewish travellers counted households: Meshullam of Volterra (1481) 10,000 Muslim and about 250 Jewish householders; Obadiah of Bertinoro (1488) about 4,000 families in all, about 70 of them Jewish. Felix Fabri (1483) gives more than 500 Jews and more than 1,000 Christians (record fabri-1483-jerusalem). These household figures are not converted into persons here.",
+        "ar": "يعطي باكي عدد اليهود بـ«100-150 أسرة» (لم يُسجَّل كعدد لأنه بالأسر). وقد عدّ الرحالة اليهود المعاصرون الأسر: مشولام الفولتيري (1481) 10,000 من المسلمين ونحو 250 ربّ أسرة يهوديًا؛ وعوباديا البرتينوري (1488) نحو 4,000 أسرة في المجموع، نحو 70 منها يهودية. ويعطي فيليكس فابري (1483) أكثر من 500 يهودي وأكثر من 1,000 مسيحي (السجل fabri-1483-jerusalem). ولم تُحوَّل أرقام الأسر هذه إلى أشخاص هنا.",
+        "he": "בכי נותן את האוכלוסייה היהודית כ“100-150 משפחות” (לא נרשם כמספר נפשות כי הוא במשקי בית). נוסעים יהודים בני התקופה ספרו משקי בית: משולם מוולטרה (1481) 10,000 מוסלמים וכ-250 ראשי משפחה יהודים; עובדיה מברטנורא (1488) כ-4,000 משפחות בסך הכול, כ-70 מהן יהודיות. פליקס פאברי (1483) נותן יותר מ-500 יהודים ויותר מ-1,000 נוצרים (הרשומה fabri-1483-jerusalem). נתוני משקי הבית הללו אינם מומרים כאן לנפשות.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     },
     {
@@ -11752,7 +11879,914 @@
         }
       ],
       "notes": {
-        "en": "Primary-source figure (German Dominican pilgrim). Fabri gives no total and no number for Muslims; he notes that a great part of the city lay in ruins without inhabitants. Bachi uses Fabri and others for a total of about 10,000 (record bachi-1977-jerusalem-1483)."
+        "en": "Primary-source figure (German Dominican pilgrim). Fabri gives no total and no number for Muslims; he notes that a great part of the city lay in ruins without inhabitants. Bachi uses Fabri and others for a total of about 10,000 (record bachi-1977-jerusalem-1483).",
+        "ar": "رقم من مصدر أولي (حاج دومينيكاني ألماني). لا يعطي فابري مجموعًا ولا عددًا للمسلمين؛ ويلاحظ أن جزءًا كبيرًا من المدينة كان خرابًا بلا سكان. ويستخدم باكي فابري وآخرين لمجموع يبلغ نحو 10,000 (السجل bachi-1977-jerusalem-1483).",
+        "he": "נתון ממקור ראשוני (עולה רגל דומיניקני גרמני). פאברי אינו נותן סך הכול ואינו נותן מספר למוסלמים; הוא מציין שחלק גדול מהעיר היה חרב וללא תושבים. בכי משתמש בפאברי ובאחרים לסך של כ-10,000 (הרשומה bachi-1977-jerusalem-1483).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "broshi-finkelstein-1992-judah",
+      "area": "judah",
+      "date": {
+        "year": -800,
+        "precision": "century",
+        "circa": true,
+        "latest": -701
+      },
+      "date_note": "Eighth century BCE (Iron Age II), the period of the parent estimate (record broshi-finkelstein-1992-8th-century).",
+      "total": {
+        "low": 110000,
+        "high": 110000,
+        "best": 110000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Regional survey data: number and size of Iron II sites, total built-up area, multiplied by a density coefficient (persons per built-up hectare); regional figure from the article's table (coefficient not seen).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "p. 54 (as cited by Siquans 2004, p. 95 and n. 12)",
+          "quote": "Magen Broshi und Israel Finkelstein nehmen für die Eisenzeit II eine Bevölkerung von 350.000 für Israel (Fläche: 11.500 km²) und 110.000 für Juda (Fläche: 5000 km²) an.",
+          "via": "siquans-2004-archaeologie-israelitische-gesellschaft"
+        },
+        {
+          "ref": "baron-ej-2007-population",
+          "locator": "Table 1 ('Ancient Population')",
+          "note": "Alternative (textual) estimate for 733/701 BCE: Judah 300,000-350,000 (record baron-733-701-judah)."
+        }
+      ],
+      "notes": {
+        "en": "Siquans gives Judah's area as 5,000 sq. km (Israel's as 11,500). Röthlin & Le Roux (2013, p. 4) work with 'a population estimated at about 111 500' for Judah in Hezekiah's time without naming a source in that passage. Finkelstein (2013, p. 110) says Israel's 350,000 was 'three times larger than the population of Judah of that time'. Far below the textual estimates of Albright (250,000 in 701 BCE) and Baron (300,000-350,000 in 733-701 BCE).",
+        "ar": "يعطي سيكوانس مساحة يهوذا 5,000 كم² (ومساحة إسرائيل 11,500). ويعتمد رولين ولو رو (2013، ص 4) «عدد سكان يقدَّر بنحو 111 500» ليهوذا في زمن حزقيا دون ذكر مصدر في ذلك المقطع. ويقول فنكلشتاين (2013، ص 110) إن عدد سكان إسرائيل البالغ 350,000 كان «أكبر بثلاث مرات من عدد سكان يهوذا في ذلك الوقت». وهو أقل بكثير من التقديرات المبنية على النصوص عند أولبرايت (250,000 سنة 701 ق.م.) وبارون (300,000-350,000 في 733-701 ق.م.).",
+        "he": "זיקוואנס נותן את שטחה של יהודה כ-5,000 קמ״ר (ושל ישראל 11,500). רתלין ולה רו (2013, עמ׳ 4) עובדים עם “אוכלוסייה המוערכת בכ-111 500” ליהודה בימי חזקיהו ללא ציון מקור בקטע זה. פינקלשטיין (2013, עמ׳ 110) אומר שה-350,000 של ישראל היו “גדולים פי שלושה מאוכלוסיית יהודה באותה עת”. נמוך בהרבה מההערכות המבוססות על טקסטים של אולברייט (250,000 ב-701 לפנה״ס) וברון (300,000-350,000 ב-733-701 לפנה״ס).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "broshi-finkelstein-1992-israel-inland",
+      "area": "kingdom-of-israel-inland-west",
+      "date": {
+        "year": -800,
+        "precision": "century",
+        "circa": true,
+        "latest": -701
+      },
+      "date_note": "Eighth century BCE (Iron Age II), the period of the parent estimate (record broshi-finkelstein-1992-8th-century).",
+      "total": {
+        "low": 205500,
+        "high": 205500,
+        "best": 205500
+      },
+      "basis": "estimate-archaeological",
+      "method": "Survey data for 636 Iron II sites in the inland regions of the northern kingdom west of the Jordan, total built-up area multiplied by a density coefficient (table 1 of the article).",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "table 1 (as cited by Squitieri 2024, p. 243)",
+          "quote": "regions such as the Galilee (Upper and Lower), the Hula Valley, the Jordan Valley, the Jezreel Valley and the Samaria area (excluding the coast) harboured a total of 636 sites, sustaining an estimated population of 205,500 inhabitants",
+          "via": "squitieri-2024-assyrian-conquest-ruralization"
+        },
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "p. 54 (as cited by Röthlin & Le Roux 2013, p. 4 n. 11)",
+          "quote": "The population of the Northern Kingdom was approximately 209 750 in the late 8th century BCE (Broshi & Finkelstein 1992:54).",
+          "via": "rothlin-le-roux-2013-hezekiah-assyrian-tribute",
+          "note": "A slightly different figure for 'the Northern Kingdom' attributed to the same article; the difference from Squitieri's 205,500 (table 1) was not resolved."
+        }
+      ],
+      "notes": {
+        "en": "Excludes the coastal plain and Transjordan. Broshi & Finkelstein's figure for Israel as a whole is 350,000 (Siquans 2004; Finkelstein 2013: 'on both sides of the Jordan River'; record finkelstein-2013-israel-8th-century). Squitieri notes that the article needs updating in the light of recent finds and has methodological and chronological limitations, but uses it as the baseline for the 8th century, the 'zenith of settlement and population' in the kingdom.",
+        "ar": "يستثني السهل الساحلي وشرقي الأردن. رقم بروشي وفنكلشتاين لإسرائيل ككل هو 350,000 (سيكوانس 2004؛ فنكلشتاين 2013: «على جانبي نهر الأردن»؛ السجل finkelstein-2013-israel-8th-century). ويلاحظ سكيتيري أن المقال يحتاج إلى تحديث في ضوء الاكتشافات الحديثة وله حدود منهجية وزمنية، لكنه يستخدمه خط أساس للقرن الثامن، «ذروة الاستيطان والسكان» في المملكة.",
+        "he": "אינו כולל את מישור החוף ואת עבר הירדן. הנתון של ברושי ופינקלשטיין לישראל כולה הוא 350,000 (זיקוואנס 2004; פינקלשטיין 2013: “משני עברי נהר הירדן”; הרשומה finkelstein-2013-israel-8th-century). סקוויטיירי מציין שהמאמר זקוק לעדכון לאור ממצאים חדשים ויש לו מגבלות מתודולוגיות וכרונולוגיות, אך משתמש בו כבסיס למאה ה-8, “שיא ההתיישבות והאוכלוסייה” בממלכה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "broshi-finkelstein-1992-philistia",
+      "area": "philistia",
+      "date": {
+        "year": -800,
+        "precision": "century",
+        "circa": true,
+        "latest": -701
+      },
+      "date_note": "Eighth century BCE (Iron Age II), the period of the parent estimate (record broshi-finkelstein-1992-8th-century).",
+      "total": {
+        "low": 50000,
+        "high": 50000,
+        "best": 50000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Regional survey data: number and size of Iron II sites, total built-up area, multiplied by a density coefficient (persons per built-up hectare); regional figure from the article's table (coefficient not seen).",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "broshi-finkelstein-1992-iron-ii",
+          "locator": "p. 54 (as cited by Siquans 2004, p. 95 n. 12)",
+          "quote": "für die Philisterstädte wird die Bevölkerung auf insgesamt 50.000 Einwohner geschätzt",
+          "via": "siquans-2004-archaeologie-israelitische-gesellschaft"
+        }
+      ],
+      "notes": {
+        "en": "Siquans's wording ('for the Philistine cities the population is estimated at a total of 50,000') does not say whether the cities' rural territories are included. Part of Broshi & Finkelstein's c. 400,000 for the whole country (record broshi-finkelstein-1992-8th-century).",
+        "ar": "لا تبيّن صياغة سيكوانس («يُقدَّر عدد السكان في مدن الفلسطينيين القدماء بمجموع 50,000») هل الأراضي الريفية للمدن مشمولة. وهي جزء من نحو 400,000 لدى بروشي وفنكلشتاين للبلاد كلها (السجل broshi-finkelstein-1992-8th-century).",
+        "he": "הניסוח של זיקוואנס (“לגבי ערי הפלשתים האוכלוסייה מוערכת בסך 50,000”) אינו אומר אם השטחים הכפריים של הערים נכללים. חלק מ-400,000 בערך של ברושי ופינקלשטיין לכל הארץ (הרשומה broshi-finkelstein-1992-8th-century).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "lipschits-2005-judah-late-iron",
+      "area": "judah",
+      "date": {
+        "year": -650,
+        "precision": "century",
+        "circa": true,
+        "latest": -586
+      },
+      "date_note": "End of the Iron Age (7th century to 586 BCE): 'the late Judaean kingdom'.",
+      "total": {
+        "low": 110000,
+        "high": 110000,
+        "best": 110000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Survey and excavation data for each region of Judah (settled area multiplied by a density coefficient), tabulated by region and compared with the Babylonian period (table on p. 269).",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "table p. 269 (as summarised by Albertz, JHS 7, p. 6)",
+          "quote": "Lipschits reckons with a total loss of 60% and estimates the population of Babylonian Judah at about 40,000 inhabitants, compared with some 110,000 in the late Judaean kingdom (see table p. 269).",
+          "via": "vanderhooft-2007-conversation-lipschits"
+        },
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "as summarised by Knoppers, JHS 7, p. 20",
+          "quote": "the kingdom of Judah suffered a decline of approximately 60% in settled area and a precipitous decrease in population from about 110,000 down to approximately 40,000",
+          "via": "vanderhooft-2007-conversation-lipschits"
+        }
+      ],
+      "notes": {
+        "en": "End-of-Iron-Age Judah including Benjamin, Jerusalem and its environs, the Judean hills, the Shephelah and the Negev. Close to Broshi & Finkelstein's 110,000 for 8th-century Judah (record broshi-finkelstein-1992-judah) and below Baron's 150,000 for 586 BCE (record baron-586-judah).",
+        "ar": "يهوذا في نهاية العصر الحديدي، بما فيها بنيامين والقدس وضواحيها وجبال يهودا والشفيلا والنقب. قريب من رقم بروشي وفنكلشتاين البالغ 110,000 ليهوذا في القرن الثامن (السجل broshi-finkelstein-1992-judah) وأقل من رقم بارون البالغ 150,000 لسنة 586 ق.م. (السجل baron-586-judah).",
+        "he": "יהודה בסוף תקופת הברזל, כולל בנימין, ירושלים וסביבתה, הרי יהודה, השפלה והנגב. קרוב ל-110,000 של ברושי ופינקלשטיין ליהודה של המאה ה-8 (הרשומה broshi-finkelstein-1992-judah) ונמוך מ-150,000 של ברון ל-586 לפנה״ס (הרשומה baron-586-judah).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "lipschits-2005-judah-babylonian",
+      "area": "judah",
+      "date": {
+        "year": -586,
+        "precision": "decade",
+        "circa": true,
+        "latest": -539
+      },
+      "date_note": "Babylonian period (586-539 BCE), after the destruction of Jerusalem.",
+      "total": {
+        "low": 40000,
+        "high": 40000,
+        "best": 40000
+      },
+      "basis": "estimate-archaeological",
+      "method": "The same regional survey data for the sixth century BCE, compared with the late Iron Age: an overall loss of about 60% of settled area and population.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "pp. 269, 372 (as summarised by Eskenazi, JHS 7, p. 13)",
+          "quote": "The estimated number for the province immediately after the destruction of Jerusalem that Lipschits suggests is about 40,000.",
+          "via": "vanderhooft-2007-conversation-lipschits"
+        },
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "table p. 269 (as summarised by Albertz, JHS 7, p. 6)",
+          "quote": "Compared with the Judean settlements of the 7th century, there were dramatic population losses in Jerusalem and its environs (nearly 90%), large losses in the Southern Judean hills, the Shephelah, and the Negev (about 75%)",
+          "via": "vanderhooft-2007-conversation-lipschits"
+        }
+      ],
+      "notes": {
+        "en": "Albertz adds that Benjamin's population halved while the northern Judean hills saw 'very little reduction', and that his own, more theoretical calculations (Israel in Exile, pp. 81-90) are 'not too different'. The comparison is made region by region over the territory of the late kingdom; Albertz notes that the new administrative centre was in Benjamin. Lipschits's c. 30,000 for the mid-fifth century is record lipschits-2005-yehud.",
+        "ar": "يضيف ألبرتس أن عدد سكان بنيامين انخفض إلى النصف بينما شهدت جبال يهودا الشمالية «انخفاضًا ضئيلًا جدًا»، وأن حساباته هو، الأكثر نظرية (Israel in Exile، ص 81-90)، «لا تختلف كثيرًا». والمقارنة تتم منطقةً منطقةً على أرض المملكة المتأخرة؛ ويلاحظ ألبرتس أن المركز الإداري الجديد كان في بنيامين. أما رقم ليبشيتس البالغ نحو 30,000 لمنتصف القرن الخامس فهو السجل lipschits-2005-yehud.",
+        "he": "אלברץ מוסיף שאוכלוסיית בנימין פחתה בחצי בעוד שבהרי יהודה הצפוניים הייתה “ירידה מועטה מאוד”, וכי חישוביו שלו, התיאורטיים יותר (Israel in Exile, עמ׳ 81-90), “אינם שונים בהרבה”. ההשוואה נעשית אזור אחר אזור על שטח הממלכה המאוחרת; אלברץ מציין שהמרכז המנהלי החדש היה בבנימין. כ-30,000 של ליפשיץ למחצית המאה ה-5 הוא הרשומה lipschits-2005-yehud.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "finkelstein-2010-three-toparchies-highlands",
+      "area": "three-toparchies-highlands",
+      "date": {
+        "year": -169,
+        "precision": "decade",
+        "circa": true,
+        "latest": -160
+      },
+      "date_note": "Hellenistic period; estimate made for the time of the Maccabean revolt (160s BCE).",
+      "total": {
+        "low": 15000,
+        "high": 15000,
+        "best": 15000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Built-up area of Hellenistic sites in Finkelstein's own survey of the highlands (Finkelstein, Lederman and Bunimovitz, Highlands of Many Cultures) multiplied by a density coefficient, as for his Judea estimate.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 64 n. 70 (reprint of Revue Biblique 117, 2010)",
+          "quote": "My estimate for the population of the highlands areas of the three toparchies (according to my own survey—Finkelstein, Lederman, and Bunimovitz, Highlands of Many Cultures, is circa 15,000."
+        }
+      ],
+      "notes": {
+        "en": "Finkelstein adds that one should add the population of the toparchy of Lod in the plain ('probably a few thousand') and that 'not all the population in these toparchies was Jewish'. The toparchies were handed over to Judea in the 140s BCE (record finkelstein-2010-judea-three-toparchies-140s).",
+        "ar": "يضيف فنكلشتاين أنه ينبغي إضافة سكان توباركية اللد في السهل («على الأرجح بضعة آلاف») وأن «ليس كل السكان في هذه التوباركيات كانوا يهودًا». وقد سُلّمت التوباركيات ليهودا في أربعينيات القرن الثاني ق.م. (السجل finkelstein-2010-judea-three-toparchies-140s).",
+        "he": "פינקלשטיין מוסיף שיש להוסיף את אוכלוסיית הטופרכיה של לוד במישור (“כנראה כמה אלפים”) ושה“לא כל האוכלוסייה בטופרכיות אלה הייתה יהודית”. הטופרכיות נמסרו ליהודה בשנות ה-140 לפנה״ס (הרשומה finkelstein-2010-judea-three-toparchies-140s).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "finkelstein-2010-judea-three-toparchies-140s",
+      "area": "judea-and-three-toparchies",
+      "date": {
+        "year": -145,
+        "precision": "decade",
+        "circa": true,
+        "latest": -140
+      },
+      "date_note": "The 140s BCE, after the three toparchies were handed over to Judea in the days of Jonathan (1 Macc 11:34).",
+      "total": {
+        "low": null,
+        "high": 60000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Sum of his archaeological estimates (built-up area multiplied by a density coefficient) for Judea in the 160s BCE and for the three toparchies.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 65",
+          "quote": "The population of the traditional territory of Judea, including the three toparchies, can be estimated at almost 60,000 (see above)."
+        }
+      ],
+      "notes": {
+        "en": "'Almost 60,000' is recorded as an upper bound. Finkelstein's c. 42,000 for Judea in the 160s BCE is record finkelstein-2010-judea-160s-bce.",
+        "ar": "سُجّل «ما يقرب من 60,000» بوصفه حدًّا أعلى. ورقم فنكلشتاين البالغ نحو 42,000 ليهودا في ستينيات القرن الثاني ق.م. هو السجل finkelstein-2010-judea-160s-bce.",
+        "he": "“כמעט 60,000” נרשם כגבול עליון. כ-42,000 של פינקלשטיין ליהודה בשנות ה-160 לפנה״ס הוא הרשומה finkelstein-2010-judea-160s-bce.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "finkelstein-2010-judea-simeon",
+      "area": "judea-hasmonean-expanded",
+      "date": {
+        "year": -142,
+        "precision": "decade",
+        "circa": true,
+        "latest": -135
+      },
+      "date_note": "The 140s BCE, 'in the days of Simeon' (142-135 BCE).",
+      "total": {
+        "low": 100000,
+        "high": null
+      },
+      "basis": "estimate-archaeological",
+      "method": "His c. 60,000 for Judea and the three toparchies plus the built-up area of the newly added regions (e.g. about 100 built-up hectares in the western Shephelah for the mid-second century BCE, from Dagan's survey), the area of Joppa and the Peraea.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 3, p. 66",
+          "quote": "the area of Joppa and the Peraea, which may bring the total number of people in Judea in the days of Simeon to over 100,000"
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 7, pp. 137-138",
+          "quote": "The population of Persian-period Yehud was limited (circa 12,000 souls), while after the territorial expansion of the Hasmoneans... the inhabitants of Judea can be estimated at up to 100,000 individuals",
+          "note": "A later restatement ('up to 100,000') that cites the 2010 study (n. 42)."
+        }
+      ],
+      "notes": {
+        "en": "Finkelstein: 'The population ruled from Jerusalem was similar now to that of the kingdom of Judah in the seventh century BCE.' Ch. 3 (2010) says 'over 100,000'; ch. 7 restates the figure as 'up to 100,000', citing ch. 3. Other scholars' estimates were higher (e.g. Horsley 2002: 100,000-200,000 already for the early Hasmonean period, record horsley-2002-judea-early-hasmonean).",
+        "ar": "فنكلشتاين: «كان عدد السكان الخاضعين لحكم القدس الآن مماثلًا لعدد سكان مملكة يهوذا في القرن السابع ق.م.» يقول الفصل 3 (2010) «أكثر من 100,000»؛ ويعيد الفصل 7 صياغة الرقم بـ«ما يصل إلى 100,000» استنادًا إلى الفصل 3. وكانت تقديرات باحثين آخرين أعلى (مثلًا هورسلي 2002: 100,000-200,000 منذ العصر الحشموني المبكر، السجل horsley-2002-judea-early-hasmonean).",
+        "he": "פינקלשטיין: “האוכלוסייה ששלטה בה ירושלים הייתה כעת דומה לזו של ממלכת יהודה במאה ה-7 לפנה״ס.” פרק 3 (2010) אומר “למעלה מ-100,000”; פרק 7 מנסח מחדש את הנתון כ“עד 100,000”, בהסתמך על פרק 3. הערכותיהם של חוקרים אחרים היו גבוהות יותר (למשל הורסלי 2002: 100,000-200,000 כבר לתקופה החשמונאית המוקדמת, הרשומה horsley-2002-judea-early-hasmonean).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "applebaum-1976-judea-samaria",
+      "area": "judea-samaria-roman",
+      "date": {
+        "year": 70,
+        "precision": "decade",
+        "circa": true,
+        "latest": 132
+      },
+      "date_note": "Roman period; calculated for a study of the Bar Kokhba revolt (132-135 CE), so dated here to the decades before the revolt.",
+      "total": {
+        "low": 552427,
+        "high": 552427,
+        "best": 552427
+      },
+      "basis": "estimate-other",
+      "method": "Agricultural capacity of Judea, Samaria and the Jordan Valley, combining the number of Roman-period survey sites (found or expected), an estimate of the rural population of the Byzantine-era uplands and figures for modern Arab villages (as summarised by Raviv & Ben David).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "applebaum-1976-prolegomena-second-revolt",
+          "locator": "pp. 34-35 (as cited by Raviv & Ben David 2021, p. 588)",
+          "quote": "This yielded a population of 552,427 persons for Judea and Samaria during the Roman period.",
+          "via": "raviv-ben-david-2021-cassius-dio-bar-kokhba"
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 588",
+          "quote": "M. Mor disputed Applebaum's estimate, on two main grounds.",
+          "note": "Mor argued that not every Roman-period survey site was a Jewish settlement at the time of the revolt or took part in it."
+        }
+      ],
+      "notes": {
+        "en": "The spuriously exact figure is Applebaum's own. Raviv & Ben David list among his unknowns the total number of Roman-period sites 'that had been uncovered or could be expected to be found in future surveys'. He used the figure to argue that Cassius Dio's account of the Bar Kokhba revolt was plausible.",
+        "ar": "الرقم الدقيق دقة زائفة هو رقم أبلباوم نفسه. ويدرج رفيف وبن ديفيد ضمن مجاهيله العدد الإجمالي لمواقع العصر الروماني «التي كُشف عنها أو يُتوقع العثور عليها في مسوحات مستقبلية». وقد استخدم الرقم ليجادل بأن رواية كاسيوس ديو عن ثورة بار كوخبا كانت معقولة.",
+        "he": "הנתון המדויק למראית עין הוא של אפלבאום עצמו. רביב ובן דוד מונים בין הלא-נודעים שלו את המספר הכולל של אתרי התקופה הרומית “שנחשפו או שניתן לצפות למצוא בסקרים עתידיים”. הוא השתמש בנתון כדי לטעון שתיאורו של קסיוס דיו את מרד בר כוכבא היה סביר.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "kloner-1987-judea-bar-kokhba",
+      "area": "land-of-judea-roman",
+      "date": {
+        "year": 132,
+        "precision": "decade",
+        "circa": true
+      },
+      "date_note": "At the time of the Bar Kokhba revolt (132-135 CE).",
+      "total": {
+        "low": 700000,
+        "high": 900000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Based on the number of settlements known from early surveys (more than 400 late Second Temple-period sites in the Judean foothills; more than a thousand settlements in Judea); the population per settlement assumed is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "kloner-1987-hiding-complexes-bar-kokhba",
+          "locator": "p. 380 (as cited by Raviv & Ben David 2021, p. 589)",
+          "quote": "In his estimation, there were more than a thousand settlements in Judea (without “Samaria”) at the time of the Bar Kokhba Revolt, with a population of between 700,000 and 900,000.",
+          "via": "raviv-ben-david-2021-cassius-dio-bar-kokhba"
+        },
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 602",
+          "note": "Lower estimate for the Land of Judea: 500,000-650,000 (record raviv-ben-david-2021-land-of-judea)."
+        }
+      ],
+      "notes": {
+        "en": "Kloner's Judea excludes what he called 'Samaria', i.e. the area north of Jerusalem; Raviv & Ben David point out that much of the region between Jerusalem and Nablus belonged to Judea at the time (n. 16).",
+        "ar": "تستثني «يهودا» عند كلونر ما سمّاه «السامرة»، أي المنطقة شمالي القدس؛ ويشير رفيف وبن ديفيد إلى أن جزءًا كبيرًا من المنطقة بين القدس ونابلس كان يتبع يهودا في ذلك الوقت (هامش 16).",
+        "he": "”יהודה“ של קלונר אינה כוללת את מה שכינה ”שומרון“, כלומר האזור שמצפון לירושלים; רביב ובן דוד מציינים שחלק גדול מהאזור שבין ירושלים לשכם השתייך אז ליהודה (הערה 16).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "raviv-ben-david-2021-land-of-judea",
+      "area": "land-of-judea-roman",
+      "date": {
+        "year": 132,
+        "precision": "decade",
+        "circa": true
+      },
+      "date_note": "Middle Roman period (70-136 CE), on the eve of the Bar Kokhba revolt.",
+      "total": {
+        "low": 500000,
+        "high": 650000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Extrapolated from the total settled area documented for the Middle Roman period in southern Samaria (New Southern Samaria Survey) to the Land of Judea (6,500-7,000 sq. km of Jewish settlement).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "locator": "p. 602",
+          "quote": "Working from the total settled area in the Middle Roman period that was documented in southern Samaria, we can offer a rough estimate of 500,000–650,000 for the population of the Land of Judea."
+        },
+        {
+          "ref": "kloner-1987-hiding-complexes-bar-kokhba",
+          "locator": "p. 380 (as cited by Raviv & Ben David 2021, p. 589)",
+          "via": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
+          "note": "Higher estimate: 700,000-900,000 (record kloner-1987-judea-bar-kokhba)."
+        }
+      ],
+      "notes": {
+        "en": "The authors call it a rough estimate, given 'the great uncertainty about the size of settlements and the population density'; they also estimate 1,020-1,320 settled sites in the Land of Judea. Their Land of Judea excludes central and northern Samaria and the Jewish areas of the Galilee and Peraea. They note that estimates for the whole of Roman Palestine range from one to three million (p. 585 n. 3).",
+        "ar": "يصفه المؤلفان بأنه تقدير تقريبي، نظرًا إلى «الغموض الكبير بشأن حجم المستوطنات والكثافة السكانية»؛ ويقدّران أيضًا وجود 1,020-1,320 موقعًا مأهولًا في أرض يهودا. وأرض يهودا عندهما تستثني وسط السامرة وشمالها والمناطق اليهودية في الجليل وبيريا. ويشيران إلى أن التقديرات لفلسطين الرومانية كلها تتراوح بين مليون وثلاثة ملايين (ص 585 هامش 3).",
+        "he": "המחברים מכנים זאת הערכה גסה, נוכח “אי-הוודאות הגדולה לגבי גודל היישובים וצפיפות האוכלוסייה”; הם מעריכים גם 1,020-1,320 אתרים מיושבים בארץ יהודה. ארץ יהודה שלהם אינה כוללת את מרכז שומרון וצפונה ואת האזורים היהודיים בגליל ובפרעיה. הם מציינים שההערכות לכל פלשתינה הרומית נעות בין מיליון לשלושה מיליון (עמ׳ 585 הערה 3).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "bar-2005-late-antique-palestine",
+      "area": "palestine-area-undefined",
+      "date": {
+        "year": 400,
+        "precision": "century",
+        "circa": true
+      },
+      "date_note": "Late Antiquity; the context is the Byzantine-period expansion of settlement into frontier zones (4th-6th centuries CE).",
+      "total": {
+        "low": 2000000,
+        "high": 2000000,
+        "best": 2000000
+      },
+      "basis": "estimate-other",
+      "method": "Stated in passing as an estimate; Bar refers to his 2004 study of population and settlement growth in Late Antique Palestine (Journal of Historical Geography 30). The method is not described in this article.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "bar-2005-roman-legislation-settlement",
+          "locator": "p. 196",
+          "quote": "The main impetus for Palestine’s inhabitants to move to these secondary regions was the significant increase in the number of inhabitants in their former locale,... which reached an estimated two million"
+        },
+        {
+          "ref": "bar-2005-roman-legislation-settlement",
+          "locator": "p. 196 n. 10",
+          "quote": "See M. Broshi, ‘The Population of Western Palestine’, BASOR 236, 1979, 1-10 for a minimal estimation of Palestine’s population."
+        },
+        {
+          "ref": "broshi-1979-western-palestine-roman-byzantine",
+          "locator": "p. 7",
+          "note": "Broshi argues the population never exceeded about one million (record broshi-1979-roman-byzantine-maximum)."
+        }
+      ],
+      "notes": {
+        "en": "Higher than Broshi's maximum of about one million for the late Byzantine peak (record broshi-1979-roman-byzantine-maximum) and lower than Avi-Yonah's 3,250,000 for western Palestine c. 500 CE (record avi-yonah-byzantine-c500). Bar does not define the territory in this article.",
+        "ar": "أعلى من حد بروشي الأقصى البالغ نحو مليون لذروة أواخر العصر البيزنطي (السجل broshi-1979-roman-byzantine-maximum) وأقل من رقم أفي يونا البالغ 3,250,000 لفلسطين الغربية نحو سنة 500 م (السجل avi-yonah-byzantine-c500). ولا يحدد بار المنطقة في هذا المقال.",
+        "he": "גבוה מהמקסימום של ברושי, כמיליון, לשיא סוף התקופה הביזנטית (הרשומה broshi-1979-roman-byzantine-maximum) ונמוך מ-3,250,000 של אבי-יונה לפלשתינה המערבית בערך בשנת 500 לספירה (הרשומה avi-yonah-byzantine-c500). בר אינו מגדיר את השטח במאמר זה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "tsedaka-2004-samaritans-4th-5th-century",
+      "area": "land-of-israel-syria-to-egypt",
+      "date": {
+        "year": 301,
+        "precision": "century",
+        "circa": true,
+        "latest": 500
+      },
+      "date_note": "'In the fourth and fifth centuries c.e.'",
+      "composition": [
+        {
+          "axis": "religion",
+          "groups": [
+            {
+              "group": "samaritans",
+              "count": {
+                "low": 1200000,
+                "high": 1200000,
+                "best": 1200000
+              },
+              "notes": "Source's label: 'about 1,200,000 persons'."
+            }
+          ],
+          "partial": true
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "No method or source is given in the entry.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "tsedaka-2004-samaritans-emmena",
+          "quote": "In the fourth and fifth centuries c.e., the Samaritans numbered about 1,200,000 persons dwelling in many cities and villages in the biblical Land of Israel (from southern Syria to northern Egypt)."
+        },
+        {
+          "ref": "pummer-2005-samaritans-encyclopedia-religion",
+          "quote": "Their numbers have varied from tens or even hundreds of thousands in the early period to barely over one hundred in the nineteenth century.",
+          "note": "A scholarly reference work that gives a much lower order of magnitude for antiquity."
+        }
+      ],
+      "notes": {
+        "en": "A figure from a Samaritan scholar of his own community, given without method. It exceeds the total population most archaeologists allow for the whole of western Palestine at its Byzantine peak (Broshi 1979: about one million, record broshi-1979-roman-byzantine-maximum), though Tsedaka's territory reaches from southern Syria to northern Egypt. Pummer (2005) gives 'tens or even hundreds of thousands in the early period'; another Gale entry on the same Encyclopedia.com page says that 'At about the time of Jesus, the Samaritans numbered several hundred thousand'.",
+        "ar": "رقم من باحث سامري عن طائفته، دون ذكر منهج. وهو يتجاوز مجموع السكان الذي يسمح به معظم علماء الآثار لفلسطين الغربية كلها في ذروتها البيزنطية (بروشي 1979: نحو مليون، السجل broshi-1979-roman-byzantine-maximum)، وإن كانت أرض صدقة تمتد من جنوبي سوريا إلى شمالي مصر. ويعطي بومر (2005) «عشرات الآلاف أو حتى مئات الآلاف في الفترة المبكرة»؛ ويقول مدخل آخر من Gale في صفحة Encyclopedia.com نفسها إنه «في نحو زمن يسوع بلغ عدد السامريين عدة مئات الآلاف».",
+        "he": "נתון של חוקר שומרוני על עדתו שלו, ללא ציון שיטה. הוא עולה על האוכלוסייה הכוללת שרוב הארכאולוגים מאפשרים לכל פלשתינה המערבית בשיאה הביזנטי (ברושי 1979: כמיליון, הרשומה broshi-1979-roman-byzantine-maximum), אם כי שטחו של צדקה משתרע מדרום סוריה ועד צפון מצרים. פומר (2005) נותן “עשרות אלפים ואף מאות אלפים בתקופה המוקדמת”; ערך נוסף של Gale באותו עמוד של Encyclopedia.com אומר ש“בערך בימי ישו מנו השומרונים כמה מאות אלפים”.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "total": null
+    },
+    {
+      "id": "geva-2014-jerusalem-10th-century",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -1000,
+        "precision": "century",
+        "circa": true,
+        "latest": -750
+      },
+      "date_note": "United Monarchy and after: from c. 1000 BCE 'down to about the eighth century B.C.E.'",
+      "total": {
+        "low": 2000,
+        "high": 2000,
+        "best": 2000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city in each period ('archaeological findings, rather than vague textual sources'); the density coefficient is not given in the summary seen.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "Geva estimates the population of the city at this time at about 2,000.",
+          "via": "shanks-2016-ancient-jerusalem"
+        }
+      ],
+      "notes": {
+        "en": "Shanks: other scholars had estimated 2,000, 2,500 or 4,500-5,000 for this period. Broshi's figure for c. 965 BCE is also 2,000 (record broshi-jerusalem-c965-bce).",
+        "ar": "شانكس: قدّر باحثون آخرون 2,000 أو 2,500 أو 4,500-5,000 لهذه الفترة. ورقم بروشي لنحو 965 ق.م. هو أيضًا 2,000 (السجل broshi-jerusalem-c965-bce).",
+        "he": "שנקס: חוקרים אחרים העריכו 2,000, 2,500 או 4,500-5,000 לתקופה זו. הנתון של ברושי לבערך 965 לפנה״ס הוא אף הוא 2,000 (הרשומה broshi-jerusalem-c965-bce).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "geva-2014-jerusalem-late-8th-century",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -710,
+        "precision": "decade",
+        "circa": true,
+        "latest": -701
+      },
+      "date_note": "End of the 8th century BCE, the city's First Temple-period peak.",
+      "total": {
+        "low": 8000,
+        "high": 8000,
+        "best": 8000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city, after the Western Hill was added in the mid-8th century BCE; the density coefficient is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "At its height, the population of Jerusalem at the end of the eighth century B.C.E., according to Geva, was 8,000.",
+          "via": "shanks-2016-ancient-jerusalem"
+        },
+        {
+          "ref": "albright-1960-biblical-period",
+          "locator": "Table A5, p. 372 (Bachi does not say which of Albright's works)",
+          "via": "bachi-1977",
+          "note": "Alternative (textual) estimate for 701 BCE: 50,000 (record albright-jerusalem-701-bce)."
+        }
+      ],
+      "notes": {
+        "en": "Geva's minimalist figure contrasts with textual estimates such as Albright's 50,000 (701 BCE) and Baron's 30,000 (733-701 BCE; record baron-jerusalem-733-701-bce).",
+        "ar": "يتناقض رقم جيفا الأدنى مع تقديرات مبنية على النصوص مثل 50,000 عند أولبرايت (701 ق.م.) و30,000 عند بارون (733-701 ق.م.؛ السجل baron-jerusalem-733-701-bce).",
+        "he": "הנתון המינימליסטי של גבע עומד בניגוד להערכות מבוססות טקסט כגון 50,000 של אולברייט (701 לפנה״ס) ו-30,000 של ברון (733-701 לפנה״ס; הרשומה baron-jerusalem-733-701-bce).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "geva-2014-jerusalem-701-586-bce",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -701,
+        "precision": "century",
+        "circa": true,
+        "latest": -586
+      },
+      "date_note": "From 701 BCE to the Babylonian destruction in 586 BCE.",
+      "total": {
+        "low": 6000,
+        "high": 6000,
+        "best": 6000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city; the density coefficient is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "Ancient Jerusalem’s population declined to about 6,000, and so it remained until the Babylonians destroyed the city in 586 B.C.E.",
+          "via": "shanks-2016-ancient-jerusalem"
+        },
+        {
+          "ref": "broshi-1975-population-ancienne-jerusalem",
+          "locator": "Table A5, p. 372",
+          "via": "bachi-1977",
+          "note": "Alternative estimate for 609 BCE: 20,000 (record broshi-jerusalem-609-bce)."
+        }
+      ],
+      "notes": {
+        "en": "Geva links the decline to Sennacherib's campaign of 701 BCE. Broshi (20,000) and Baron (20,000) for 609 BCE, and Albright (10,000-15,000), are recorded separately.",
+        "ar": "يربط جيفا الانخفاض بحملة سنحاريب سنة 701 ق.م. أما بروشي (20,000) وبارون (20,000) لسنة 609 ق.م.، وأولبرايت (10,000-15,000)، فمسجَّلة بصورة منفصلة.",
+        "he": "גבע קושר את הירידה למסעו של סנחריב ב-701 לפנה״ס. ברושי (20,000) וברון (20,000) ל-609 לפנה״ס, ואולברייט (10,000-15,000), נרשמים בנפרד.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "geva-2014-jerusalem-hasmonean",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -150,
+        "precision": "century",
+        "circa": true,
+        "latest": -50
+      },
+      "date_note": "Late Hellenistic (Hasmonean) period, 150-50 BCE.",
+      "total": {
+        "low": 8000,
+        "high": 8000,
+        "best": 8000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city; the density coefficient is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "It was not until the late Hellenistic (Hasmonean) period (150–50 B.C.E.) that Jerusalem flourished again, just as it had at the time before the Babylonian destruction. Geva’s population estimate: 8,000.",
+          "via": "shanks-2016-ancient-jerusalem"
+        },
+        {
+          "ref": "broshi-1975-population-ancienne-jerusalem",
+          "locator": "Table A5, p. 372",
+          "via": "bachi-1977",
+          "note": "Alternative estimate for 76 BCE: 32,000 (record broshi-jerusalem-76-bce)."
+        }
+      ],
+      "notes": {
+        "en": "Broshi's figure for 76 BCE is 32,000 (record broshi-jerusalem-76-bce).",
+        "ar": "رقم بروشي لسنة 76 ق.م. هو 32,000 (السجل broshi-jerusalem-76-bce).",
+        "he": "הנתון של ברושי ל-76 לפנה״ס הוא 32,000 (הרשומה broshi-jerusalem-76-bce).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "geva-2014-jerusalem-70-ce",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 70,
+        "precision": "decade",
+        "circa": true
+      },
+      "date_note": "Herodian (Early Roman) period, at the time of the Roman destruction in 70 CE.",
+      "total": {
+        "low": 20000,
+        "high": 20000,
+        "best": 20000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city; the density coefficient is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "Geva, always the population minimalist, estimates the number at 20,000.",
+          "via": "shanks-2016-ancient-jerusalem"
+        },
+        {
+          "ref": "broshi-1975-population-ancienne-jerusalem",
+          "locator": "Table A5, p. 372",
+          "via": "bachi-1977",
+          "note": "Alternative estimate for 66 CE: 82,500 (record broshi-jerusalem-66-ce)."
+        }
+      ],
+      "notes": {
+        "en": "Shanks reports that other estimates for the city at the time of the Roman destruction range from 25,000-75,000 to nearly a quarter of a million (e.g. records broshi-jerusalem-66-ce, jeremias-jerusalem-66-ce, byatt-jerusalem-66-ce).",
+        "ar": "يورد شانكس أن تقديرات أخرى لسكان المدينة وقت التدمير الروماني تتراوح بين 25,000-75,000 ونحو ربع مليون (مثلًا السجلات broshi-jerusalem-66-ce وjeremias-jerusalem-66-ce وbyatt-jerusalem-66-ce).",
+        "he": "שנקס מדווח שהערכות אחרות לעיר בעת החורבן הרומי נעות בין 25,000-75,000 לכמעט רבע מיליון (למשל הרשומות broshi-jerusalem-66-ce, jeremias-jerusalem-66-ce, byatt-jerusalem-66-ce).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "geva-2014-jerusalem-byzantine",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 324,
+        "precision": "century",
+        "circa": true,
+        "latest": 638
+      },
+      "date_note": "Byzantine period (4th-7th centuries CE).",
+      "total": {
+        "low": 15000,
+        "high": 15000,
+        "best": 15000
+      },
+      "basis": "estimate-archaeological",
+      "method": "From the archaeologically attested extent of the city; the density coefficient is not given in the summary seen.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "geva-2014-jerusalem-population-minimalist",
+          "locator": "as summarised by Shanks 2016",
+          "quote": "Estimates of the city’s population are as high as 100,000 and then go down gradually to 70,000 to 60,000 to 50,000 to 25,000. Geva’s estimate: 15,000.",
+          "via": "shanks-2016-ancient-jerusalem"
+        },
+        {
+          "ref": "broshi-1975-population-ancienne-jerusalem",
+          "locator": "Table A5, p. 372",
+          "via": "bachi-1977",
+          "note": "Alternative estimate for 565 CE: 53,250 (record broshi-jerusalem-565-ce)."
+        }
+      ],
+      "notes": {
+        "en": "Jerusalem was then a mainly Christian city. Shanks also reports Geva's 7,000 for the 10th-11th centuries (Islamic period), outside this group's period.",
+        "ar": "كانت القدس آنذاك مدينة مسيحية في معظمها. ويورد شانكس أيضًا رقم جيفا البالغ 7,000 للقرنين العاشر والحادي عشر (العصر الإسلامي)، وهو خارج فترة هذه المجموعة.",
+        "he": "ירושלים הייתה אז עיר נוצרית ברובה. שנקס מדווח גם על 7,000 של גבע למאות ה-10-11 (התקופה האסלאמית), מחוץ לתקופה של קבוצה זו.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "lipschits-2005-jerusalem-persian-peak",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -445,
+        "precision": "century",
+        "circa": true,
+        "latest": -332
+      },
+      "date_note": "Persian period, at the city's peak after it became the capital of Yehud in the mid-fifth century BCE.",
+      "total": {
+        "low": null,
+        "high": 3000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Settled area of the city multiplied by a density coefficient; Finkelstein notes that estimates of this size imply a settlement of 75-150 dunams.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "as summarised by Knoppers, JHS 7, p. 20",
+          "quote": "Even at its peak during the Persian period, Jerusalem did not exceed 3,000 people.",
+          "via": "vanderhooft-2007-conversation-lipschits"
+        },
+        {
+          "ref": "lipschits-2005-fall-and-rise",
+          "locator": "p. 271 (as cited by Finkelstein 2018, p. 13 n. 57)",
+          "quote": "previous, even minimal estimates of 1,250, 1,500, or 3,000 inhabitants",
+          "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 1, p. 13",
+          "note": "Finkelstein argues for only a few hundred inhabitants (record finkelstein-2008-jerusalem-persian)."
+        }
+      ],
+      "notes": {
+        "en": "An upper bound ('did not exceed'). Lipschits later gave lower figures: c. 1,500 in 2006 (record lipschits-2006-jerusalem-persian) and 1,000-1,250 in 2009 (record lipschits-2009-jerusalem-persian).",
+        "ar": "حد أعلى («لم يتجاوز»). وقدّم ليبشيتس لاحقًا أرقامًا أدنى: نحو 1,500 سنة 2006 (السجل lipschits-2006-jerusalem-persian) و1,000-1,250 سنة 2009 (السجل lipschits-2009-jerusalem-persian).",
+        "he": "גבול עליון (“לא עלה על”). ליפשיץ נתן מאוחר יותר נתונים נמוכים יותר: כ-1,500 ב-2006 (הרשומה lipschits-2006-jerusalem-persian) ו-1,000-1,250 ב-2009 (הרשומה lipschits-2009-jerusalem-persian).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "lipschits-2006-jerusalem-persian",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -445,
+        "precision": "century",
+        "circa": true,
+        "latest": -332
+      },
+      "date_note": "Persian period, after Jerusalem became the capital of Yehud in the mid-fifth century BCE.",
+      "total": {
+        "low": 1500,
+        "high": 1500,
+        "best": 1500
+      },
+      "basis": "estimate-archaeological",
+      "method": "Settled area of about 60 dunams multiplied by a density coefficient.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "lipschits-2006-achaemenid-imperial-policy",
+          "locator": "p. 32 (as cited by Finkelstein 2018, p. 6 and n. 22)",
+          "quote": "Lipschits described Jerusalem as a “city” of 60 dunams, with a population of circa 1,500 inhabitants.",
+          "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 1, p. 13",
+          "quote": "previous, even minimal estimates of 1,250, 1,500, or 3,000 inhabitants,... estimates which call for a large settlement of 75–150 dunams—more than the entire area of the City of David"
+        }
+      ],
+      "notes": {
+        "en": "Finkelstein, who puts the Persian-period town at a few hundred people (record finkelstein-2008-jerusalem-persian), counts this among estimates that are too high. Lipschits's 2005 and 2009 figures are recorded separately (records lipschits-2005-jerusalem-persian-peak, lipschits-2009-jerusalem-persian).",
+        "ar": "فنكلشتاين، الذي يقدّر سكان البلدة في العصر الفارسي ببضع مئات (السجل finkelstein-2008-jerusalem-persian)، يعدّ هذا الرقم من التقديرات المرتفعة جدًا. أما أرقام ليبشيتس لسنتي 2005 و2009 فمسجَّلة بصورة منفصلة (السجلان lipschits-2005-jerusalem-persian-peak وlipschits-2009-jerusalem-persian).",
+        "he": "פינקלשטיין, המעריך את העיירה בתקופה הפרסית בכמה מאות נפש (הרשומה finkelstein-2008-jerusalem-persian), מונה זאת בין ההערכות הגבוהות מדי. נתוניו של ליפשיץ מ-2005 ומ-2009 נרשמים בנפרד (הרשומות lipschits-2005-jerusalem-persian-peak, lipschits-2009-jerusalem-persian).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "weinberg-1992-jerusalem-nehemiah",
+      "area": "jerusalem-city",
+      "date": {
+        "year": -445,
+        "precision": "decade",
+        "circa": true
+      },
+      "date_note": "Time of Nehemiah (mid-fifth century BCE).",
+      "total": {
+        "low": 15000,
+        "high": 15000,
+        "best": 15000
+      },
+      "basis": "estimate-textual",
+      "method": "Interpretation of the biblical text of Ezra-Nehemiah.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "weinberg-1992-citizen-temple-community",
+          "locator": "p. 43 (as cited by Finkelstein 2018, p. 13 n. 58)",
+          "quote": "Weinberg’s estimate, based on his interpretation of the biblical text, of 15,000 people in Jerusalem and 150,000 in Yehud in the time of Nehemiah",
+          "via": "finkelstein-2018-hasmonean-realities"
+        },
+        {
+          "ref": "finkelstein-2018-hasmonean-realities",
+          "locator": "ch. 1, p. 13",
+          "note": "Finkelstein argues for only a few hundred inhabitants (record finkelstein-2008-jerusalem-persian)."
+        }
+      ],
+      "notes": {
+        "en": "In another study ('Jerusalem in the Persian Period', p. 316) Weinberg derived 12,000-15,000 inhabitants from a biblical count of 3,044 men (as cited by Finkelstein 2018, p. 19 n. 97). His 150,000 for Yehud is record weinberg-1992-yehud-nehemiah. Archaeologists' estimates for the city in this period range from a few hundred to about 3,000.",
+        "ar": "في دراسة أخرى («Jerusalem in the Persian Period»، ص 316) استنتج واينبرغ 12,000-15,000 نسمة من عدّ توراتي لـ3,044 رجلًا (كما أورده فنكلشتاين 2018، ص 19 هامش 97). ورقمه 150,000 ليهود هو السجل weinberg-1992-yehud-nehemiah. وتتراوح تقديرات علماء الآثار للمدينة في هذه الفترة من بضع مئات إلى نحو 3,000.",
+        "he": "במחקר אחר (“Jerusalem in the Persian Period”, עמ׳ 316) הסיק ויינברג 12,000-15,000 תושבים ממניין מקראי של 3,044 גברים (כפי שצוטט אצל פינקלשטיין 2018, עמ׳ 19 הערה 97). הנתון שלו, 150,000 ליהוד, הוא הרשומה weinberg-1992-yehud-nehemiah. הערכות הארכאולוגים לעיר בתקופה זו נעות מכמה מאות ועד כ-3,000.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
       }
     }
   ]

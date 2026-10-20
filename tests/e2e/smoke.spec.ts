@@ -130,8 +130,7 @@ test('the about and perspectives pages open', async ({ page }) => {
 });
 
 test('the peoples page opens and a people can be chosen', async ({ page }) => {
-  await open(page);
-  await page.getByTestId('nav-peoples').click();
+  await page.goto('/#/peoples');
   await expect(page.getByTestId('peoples-page')).toBeVisible();
   await expect(page).toHaveURL(/#\/peoples/);
   const first = page.locator('.peoples-list .chip').first();

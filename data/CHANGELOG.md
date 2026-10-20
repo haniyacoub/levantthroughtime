@@ -650,3 +650,31 @@ Gaps:
 - No open source gives country-wide figures for the early Islamic period, or numbers for the pace of conversion to Islam. The scholarly debate is summarised in the notes.
 - Prawer's and Kedar's Crusader totals, and the Mamluk studies by Ashtor, Drory and Little, could not be opened.
 - City figures for Gaza, Hebron, Ascalon, Tiberias, Jaffa and Caesarea (Russell, Benvenisti) are not yet added.
+
+### Population estimates for the Iron Age to 640 CE (round K1)
+
+Twenty-two published estimates, each recorded as given, with no interpolation:
+- **Iron Age by region:** Judah about 110,000; the inland regions of the northern kingdom west of the Jordan about 205,500; the Philistine cities about 50,000. These figures are Broshi and Finkelstein's (1992), seen as reported by Siquans and others; the article itself is still unread. Lipschits gives about 110,000 for late Iron Age Judah. Geva gives Jerusalem about 2,000 in the 10th century, 8,000 in the late 8th century, and 6,000 between 701 and 586 BCE.
+- **Babylonian and Persian periods:** Judah about 40,000 (Lipschits). Jerusalem at most 3,000 or about 1,500 (Lipschits) against about 15,000 (Weinberg).
+- **Hellenistic and Hasmonean:**
+  - The three toparchies (highland parts) about 15,000, Judea with the toparchies "almost 60,000", and Judea under Simeon "over 100,000" (Finkelstein 2018).
+  - Jerusalem about 8,000 (Geva).
+- **Roman:**
+  - Judea and Samaria 552,427 (Applebaum).
+  - Judea 700,000–900,000 (Kloner).
+  - The Land of Judea 500,000–650,000 (Raviv and Ben David 2021).
+  - Jerusalem in 70 CE about 20,000 (Geva).
+- **Byzantine:**
+  - Palestine about 2 million (Bar 2005).
+  - Jerusalem about 15,000 (Geva).
+  - The Samaritan writer Tsedaka's 1.2 million Samaritans, recorded as contested against Pummer's "tens or even hundreds of thousands".
+- **Corrections:**
+  - Lipschits's Yehud figure is now dated to the mid-5th century BCE, as he states (p. 372), instead of spanning the whole Persian period.
+  - The 8th-century record now gives Broshi and Finkelstein's regional breakdown.
+
+Eight new areas define the territories these scholars counted, from Philistia to "the Land of Israel from Syria to Egypt".
+
+Gaps:
+- No published estimate by an Arab or Palestinian scholar was found for these periods.
+- No open numerical breakdown by religion exists for the Byzantine period: Tsafrir, Dauphin, Di Segni and Avi-Yonah could not be opened.
+- The figures for Gilead, Ammon, Moab and Edom from Broshi and Finkelstein are still missing.
