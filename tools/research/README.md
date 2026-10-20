@@ -6,7 +6,7 @@ them to correct data: edit the files in `/data` directly (see `data/README.md`).
 
 | File | What it did |
 |---|---|
-| `BRIEF.md`, `BRIEF2.md`, `BRIEF_events_rulers.md`, `BRIEF_M8.md`, `BRIEF_M8b.md`, `BRIEF_M8c.md`, `BRIEF_M8g.md` | The written instructions every research pass followed: cite only what was opened, honest verification levels, no Wikipedia citations, balanced sources, no casualty figures. |
+| `BRIEF.md`, `BRIEF2.md`, `BRIEF_events_rulers.md`, `BRIEF_M8.md`, `BRIEF_M8b.md`, `BRIEF_M8c.md`, `BRIEF_M8g.md`, `BRIEF_M8h.md` | The written instructions every research pass followed: cite only what was opened, honest verification levels, no Wikipedia citations, balanced sources, no casualty figures. |
 | `import_research.py` | Imported the first wave (polities, territories, population) into `/data`. |
 | `import_more.py` | Imported the second wave (places, holy sites, languages, landscape, migrations, conflicts, events, rulers, perspectives, modern layers) and applied the Milestone 8 patch files. Every decision it takes (e.g. renaming a category, aligning a date, not linking an unauthorised copy) is also written up in `data/CHANGELOG.md`. |
 | `scrub_notes.py` | Removed the research team's working file paths (e.g. where a downloaded copy was saved) from source verification notes; run after each import. |

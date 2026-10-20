@@ -605,10 +605,13 @@ def import_perspectives():
     print('perspectives', len(out), '| accounts', sum(len(p['accounts']) for p in out))
 
 # Proposed corrections not applied until a second source confirms them.
+RANK = {'catalogue-only': 0, 'cited-via': 1, 'excerpt': 2, 'full-text': 3}
 HOLD = {('mamluk-sultanate-1', 'end'), ('ayyubid-sultanate-4', 'start'),
         # Group F: the calibrated Natufian date lies before the timeline's start (moved to the place's founding note by hand);
         # the 1777/1778 Hasidic start is recorded as a range by hand.
-        ('natufian-settlement-jericho', 'date'), ('natufian-settlement-jericho', 'notes'), ('hasidic-perushim-immigration', 'start')}
+        ('natufian-settlement-jericho', 'date'), ('natufian-settlement-jericho', 'notes'), ('hasidic-perushim-immigration', 'start'),
+        # Round H1: 'earliest' is not a date field in the schema (recorded in notes instead); a new Sidon relation is inserted by hand.
+        ('tyre', 'start'), ('sidon', 'start'), ('sidon', 'relations')}
 
 def apply_m8(name):
     """Apply a Milestone 8 patch file: extra sources for existing records and reviewed corrections."""
@@ -618,12 +621,14 @@ def apply_m8(name):
         if st['id'] in sources:
             v = sources[st['id']]['verification']
             v['note'] = (v.get('note', '') + ' | Re-read in Milestone 8: ' + (st.get('verification') or {}).get('note', '')).strip()
+            lv = (st.get('verification') or {}).get('level')
+            if lv and RANK.get(lv, -1) > RANK.get(v.get('level'), -1): v['level'] = lv
     fresh = [x for x in d['sources'] if not x.get('existing')]
     for x in fresh:
         # A user upload of a copyrighted book on a public archive is not an authorised copy: read, cited, never linked.
         note = (x.get('verification') or {}).get('note', '')
-        if ('user upload' in note.lower() or 'unauthori' in note.lower()) and x.get('url'):
-            x['url'] = ''
+        if re.search(r'user upload|unauthori|not authori|uncertain licensing|lending library|third-party copy', note, re.I) and x.get('url'):
+            x.pop('url', None)
             x['verification']['note'] = note + ' Read in a third-party copy of uncertain licensing status, which this project does not link.'
     add_sources(fresh)
     cache = {}
@@ -647,6 +652,9 @@ def apply_m8(name):
     log = []
     for pt in d['patches']:
         rec = find(pt['file'], pt['id'])
+        if rec is not None and pt.get('relation') is not None:
+            rels = rec.get('relations') or []
+            rec = rels[pt['relation']] if 0 <= pt['relation'] < len(rels) else None
         if rec is None: missing += 1; log.append(f"  not found: {pt['file']} {pt['id']}"); continue
         new = refs(pt.get('add_sources'))
         changes = ([pt['proposed_change']] if pt.get('proposed_change') else []) + (pt.get('more_proposed_changes') or [])
@@ -672,6 +680,20 @@ def apply_m8(name):
                     else:
                         log.append(f"  sentence to replace not found, appended instead: {pt['id']}"); text = (cur + ' ' + text).strip()
                 rec[field] = {'en': text}          # older Arabic/Hebrew drafts no longer match; retranslated later
+            elif re.fullmatch(r'sources\[(\d+)\]\.ref', ch['field']):
+                i = int(re.search(r'\d+', ch['field']).group())
+                cit = (rec.get('sources') or [])[i] if i < len(rec.get('sources') or []) else None
+                if not cit or cit['ref'] != ch.get('from'):
+                    log.append(f"  citation not as expected, skipped: {pt['id']} {ch['field']}"); continue
+                cit['ref'] = to
+            elif '.' in ch['field'] and not ch['field'].startswith('sources['):
+                # Nested field, e.g. destination.label.en: set it; a changed English text drops its old drafts.
+                *path, last = ch['field'].split('.')
+                node = rec
+                for k in path: node = node.setdefault(k, {})
+                if last == 'en' and isinstance(node, dict):
+                    for l in ('ar', 'he', 'translation_status'): node.pop(l, None)
+                node[last] = to
             elif field == 'date' and isinstance(to, dict) and 'date' in to:
                 rec['date'] = to['date']
                 if to.get('end'): rec['end'] = to['end']
@@ -735,6 +757,38 @@ def import_m8g():
     print('new polities:', ', '.join(added) or '-', '| new territory files/features:', sum(len(t['features']) for t in d.get('new_territories', [])),
           '| new rulers:', len(d.get('new_rulers', [])), '| new languages:', len(d.get('new_languages', [])),
           '| proposed slices for review:', len(d.get('proposed_territories', [])))
+
+def import_m8h(name):
+    """Round H: patches (incl. relation patches), then new records given as {"file", "record"}."""
+    d = load(os.path.join(RES, f'm8-{name}.json'))
+    apply_m8(name)
+    for nr in d.get('new_records', []):
+        f, rec = nr['file'], nr['record']
+        if f.endswith('.geojson'):
+            path = os.path.join(DATA, 'territories', f)
+            doc = load(path) if os.path.exists(path) else {'$schema': '../../schema/territory.schema.json', 'type': 'FeatureCollection', 'features': []}
+            pr = dict(rec.get('properties', rec))
+            if pr.get('id') in {x['properties'].get('id') for x in doc['features']}: print('  exists, skipped:', pr.get('id')); continue
+            pr['description'] = lz(pr.get('description')); pr['notes'] = lz(pr.get('notes'))
+            pr['sources'] = [tidy_quote(r) for r in refs(pr.get('sources'))]
+            doc['features'].append({'type': 'Feature', 'geometry': None, 'properties': clean(pr)})
+            write(path, doc); print('  new territory slice', pr.get('id'))
+        else:
+            path = os.path.join(DATA, f); doc = load(path)
+            coll = next(v for k, v in doc.items() if isinstance(v, list))
+            if rec['id'] in {x['id'] for x in coll}: print('  exists, skipped:', rec['id']); continue
+            q = dict(rec)
+            for k in ('name', 'notes', 'office', 'description'):
+                if k in q: q[k] = lz(q[k])
+            q['sources'] = [tidy_quote(r) for r in refs(q.get('sources'))]
+            if 'relations' in q:
+                q['relations'] = [clean({**r, 'sources': refs(r.get('sources')), 'notes': lz(r.get('notes'))}) for r in q['relations'] or []]
+            coll.append(clean(q)); write(path, doc); print('  new record', f, rec['id'])
+
+def import_m8h1(): import_m8h('h1')
+def import_m8h2(): import_m8h('h2')
+def import_m8h3(): import_m8h('h3')
+def import_m8h4(): import_m8h('h4')
 
 def import_m8e(): apply_m8('e')
 def import_m8f(): apply_m8('f')
