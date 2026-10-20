@@ -3594,6 +3594,222 @@
           "he": "machine-draft"
         }
       }
+    },
+    {
+      "id": "indigenous-people-of-the-land",
+      "title": {
+        "en": "Who are the indigenous people of the land?"
+      },
+      "about": [
+        "arab-tribal-settlement-early-islam",
+        "roman-era-jewish-diaspora",
+        "arab-immigration-late-ottoman-mandate",
+        "palestinian-refugees-1947-1949"
+      ],
+      "accounts": [
+        {
+          "perspective": "palestinian",
+          "label": {
+            "en": "Palestinian national view and Palestinian scholarship"
+          },
+          "summary": {
+            "en": "The PLO's 1968 National Charter calls Palestine the homeland of the Arab Palestinian people and defines Palestinians as the Arabs who normally lived there until 1947, together with their descendants [1]. The 1988 Declaration of Independence describes an organic, indissoluble and unbroken relationship between the Palestinian Arab people, its land and its history [2]. The historian Nur Masalha, as his reviewer Mohammed Al Aqad summarises him, argues that Palestinians are neither a modern invention nor a recent population but heirs of a civilisation with Canaanite, Philistine, Arab, Islamic and Christian roots [3][4]. Palestinian scholars commonly describe the country's Muslim and Christian Arabs as its indigenous population facing Jewish immigration, as in Muhammad Muslih's encyclopedia account and Mazen Masri's study of Palestinian citizenship in Israel [5][6]. The legal scholar Ahmad Amara notes that Israel rejected a UN rapporteur's treatment of the Negev Bedouin as an indigenous people [7]."
+          },
+          "sources": [
+            {
+              "ref": "plo-1968-palestinian-national-charter",
+              "locator": "Articles 1 and 5",
+              "quote": "Palestine is the homeland of the Arab Palestinian people"
+            },
+            {
+              "ref": "pnc-declaration-1988",
+              "locator": "Annex III (Declaration of Independence), opening paragraph",
+              "quote": "an organic, indissoluble and unbroken relationship among people, land and history"
+            },
+            {
+              "ref": "masalha-2018-palestine",
+              "locator": "as summarised in Al Aqad's review",
+              "via": "alaqad-2025-review-masalha"
+            },
+            {
+              "ref": "alaqad-2025-review-masalha",
+              "locator": "review, concluding assessment",
+              "quote": "Palestinians are not a modern invention nor a recent population"
+            },
+            {
+              "ref": "hovsepian-2008-iess-palestinians",
+              "locator": "first stage, 1876-1917",
+              "quote": "This ushered in the first phase of a protracted struggle between indigenous Palestinians and Jewish immigrants."
+            },
+            {
+              "ref": "masri-palquest-palestinian-citizenship-israel",
+              "locator": "section on citizenship policy",
+              "quote": "rendered the idea of citizenship empty and meaningless insofar as the indigenous Palestinians were concerned"
+            },
+            {
+              "ref": "amara-palquest-al-araqib",
+              "locator": "section on the UN Special Rapporteur",
+              "quote": "It rejected their classification as an indigenous people, denied their longstanding presence in the country"
+            }
+          ]
+        },
+        {
+          "perspective": "israeli",
+          "label": {
+            "en": "Israeli official view and Israeli scholarship"
+          },
+          "summary": {
+            "en": "Israel's Declaration of Independence calls the Land of Israel the birthplace of the Jewish people, where its spiritual, religious and political identity was shaped [1]. The 2018 Basic Law defines the Land of Israel as the historic national home of the Jewish people [2], and Prime Minister Benjamin Netanyahu has said that the Jewish people cannot be occupiers in their own historical homeland [3]. Israel's foreign ministry stresses continuity, describing an early Ottoman Jewish community that included descendants of Jews who had always lived in the land [4]. The Israeli scholars Seth Frantzman, Havatzelet Yahel and Ruth Kark argue that the Negev Bedouin, whom they see as recent arrivals, do not fit the accepted meaning of indigenous, and that on looser criteria Jews would have the stronger claim [5][6]."
+          },
+          "sources": [
+            {
+              "ref": "avalon-israel-declaration",
+              "locator": "opening paragraph",
+              "quote": "was the birthplace of the Jewish people. Here their spiritual, religious and political identity was shaped."
+            },
+            {
+              "ref": "knesset-basic-law-nation-state-2018-adalah-translation",
+              "locator": "section 1A",
+              "quote": "The Land of Israel is the historic national home of the Jewish people, in which the State of Israel was established."
+            },
+            {
+              "ref": "algemeiner-2024-07-19-netanyahu",
+              "locator": "statement quoted in the article",
+              "quote": "The Jewish people are not occupiers in their own land, including in our eternal capital Jerusalem nor in Judea and Samaria, our historical homeland"
+            },
+            {
+              "ref": "israel-mfa-history-foreign-domination",
+              "locator": "section 'Ottoman Rule'",
+              "quote": "The community was comprised of descendants of Jews who had always lived in the Land, as well as immigrants from North Africa and Europe."
+            },
+            {
+              "ref": "frantzman-yahel-kark-2012-meq-negev-bedouin",
+              "locator": "conclusions",
+              "quote": "Although there is no official definition of indigeneity in international law, Negev Bedouin cannot be regarded as an indigenous people in the commonly accepted sense."
+            },
+            {
+              "ref": "frantzman-yahel-kark-2012-meq-negev-bedouin",
+              "locator": "conclusions",
+              "quote": "surely Jews can also raise a claim to be the indigenous people in Israel, a land which they called home thousands of years before the Negev Bedouin."
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Scholarship: law and history"
+          },
+          "summary": {
+            "en": "International law has no agreed definition: the UN Permanent Forum on Indigenous Issues stresses self-identification and lists criteria such as historical continuity with pre-colonial or pre-settler societies [1]. Historians of the medieval period describe gradual change rather than replacement of the population after the Islamic conquest, Nimrod Luz calling the Islamization of the region a slow process and Ronnie Ellenblum explaining much of it by the settling of nomads [2][3]. Beshara Doumani shows Palestinian village clans rooted in the same villages for generations in the Ottoman period, while David Grossman traces Egyptian, Algerian, Bosnian and Circassian settlers who joined the rural population in the nineteenth century [4][5]. Zachary Foster traces the Arabic name 'Palestinian' to the early Islamic period and documents its modern revival as a self-designation before 1914 [6][7]. Historical sources also record small but continuing Jewish communities in the land, such as the Arabic-speaking 'native' Jews whom Spanish exiles met in sixteenth-century Safed [8]. The Israeli historian Shlomo Sand argues that Palestinians are more likely than most Jews to descend from the ancient Judeans, a challenge to the Israeli national account that the historian Israel Bartal rejects [9][10]."
+          },
+          "sources": [
+            {
+              "ref": "unpfii-2006-who-are-indigenous-peoples",
+              "locator": "p. 1, list of criteria",
+              "quote": "Historical continuity with pre-colonial and/or pre-settler societies"
+            },
+            {
+              "ref": "luz-2002-islamization-mamluk-jerusalem",
+              "locator": "p. 133",
+              "quote": "One may thus conclude that the Islamization of Syria was a slow process."
+            },
+            {
+              "ref": "ellenblum-1998",
+              "locator": "publisher's abstract",
+              "quote": "The division of the country between Christian and Muslim populations is explained by the far-reaching social process of nomadisation and sedentarisation which began with the Muslim conquest in the seventh century"
+            },
+            {
+              "ref": "doumani-1995-rediscovering-palestine",
+              "locator": "ch. 1, section on villages and clans",
+              "quote": "Because each village was usually home for the same clans for generations, Palestinian peasants—like their counterparts in Syria, Lebanon, and communities all over the rim of the Mediterranean Basin—developed a strong sense of local identification, which still survives."
+            },
+            {
+              "ref": "magnes-grossman-rural-arab-demography",
+              "locator": "book description",
+              "quote": "Grossman traces little-known Muslim ethnic groups who settled in Palestine's rural areas, primarily Egyptians, but also Algerians, Bosnians, and Circassians."
+            },
+            {
+              "ref": "foster-palquest-origins-term-palestinians",
+              "locator": "opening",
+              "quote": "The term “Palestinian,” and its plural, ‘the Palestinians,” were in use in the early Islamic period to refer to the people of Palestine."
+            },
+            {
+              "ref": "foster-palquest-origins-term-palestinians",
+              "locator": "section on 1908-1914",
+              "quote": "By 1914, the Arabs of Palestine were calling themselves Palestinians."
+            },
+            {
+              "ref": "schechter-1908-safed-sixteenth-century",
+              "locator": "p. 230",
+              "quote": "The natives, or, as they were called, the Moriscos, were probably still engaged in peddling, as their ancestors had been."
+            },
+            {
+              "ref": "ilani-2008-shattering-national-mythology",
+              "locator": "interview, Sand's answer",
+              "quote": "But the chances that the Palestinians are descendants of the ancient Judaic people are much greater than the chances that you or I are its descendents."
+            },
+            {
+              "ref": "bartal-2008-inventing-an-invention",
+              "locator": "review",
+              "quote": "These claims are baseless"
+            }
+          ]
+        },
+        {
+          "perspective": "academic",
+          "label": {
+            "en": "Genetic studies"
+          },
+          "summary": {
+            "en": "Agranat-Tamir and colleagues (2020) found that present-day Arabic-speaking and Jewish populations are both compatible with having more than half Middle Eastern-related ancestry, and caution that this does not mean direct descent from the Bronze Age people they sampled [1][2]. Y-chromosome studies by Almut Nebel and colleagues found a large common pool of Arab and Jewish paternal lineages, suggesting relatively recent common ancestry, as well as lineages in Palestinian Arabs and Bedouin that may come from Arabian migrations of the last two millennia [3][4]. A study led from the Lebanese American University found that conversion to Islam brought admixture with distant Muslim populations, so that Palestinians, Jordanians and Syrians cluster with other Muslim groups, while Christians and Druze became genetically isolated [5][6]. Genome-wide studies of Jewish communities trace most of them to the Levant with varying admixture from host populations, while Ethiopian and Indian Jews cluster with their neighbours [7][8]."
+          },
+          "sources": [
+            {
+              "ref": "agranat-tamir-2020-bronze-age-levant",
+              "locator": "Discussion",
+              "quote": "We found that both Arabic-speaking and Jewish populations are compatible with having more than 50% Middle Eastern-related ancestry."
+            },
+            {
+              "ref": "agranat-tamir-2020-bronze-age-levant",
+              "locator": "Discussion",
+              "quote": "This does not mean that any these present-day groups bear direct ancestry from people who lived in the Middle to Late Bronze Age Levant or in Chalcolithic Zagros"
+            },
+            {
+              "ref": "nebel-2000-y-haplotypes-israeli-palestinian-arabs",
+              "locator": "abstract",
+              "quote": "Single-step microsatellite networks of Arab and Jewish haplotypes revealed a common pool for a large portion of Y chromosomes, suggesting a relatively recent common ancestry."
+            },
+            {
+              "ref": "nebel-2001-y-chromosome-pool-jews",
+              "locator": "abstract",
+              "quote": "These chromosomes might have been introduced through migrations from the Arabian Peninsula during the last two millennia."
+            },
+            {
+              "ref": "haber-2013-levant-structuring-by-culture",
+              "locator": "author summary",
+              "quote": "conversion of the region's populations to Islam appears to have introduced major rearrangements in populations' relations through admixture with culturally similar but geographically remote populations"
+            },
+            {
+              "ref": "haber-2013-levant-structuring-by-culture",
+              "locator": "author summary",
+              "quote": "Conversely, other populations, like Christians and Druze, became genetically isolated in the new cultural environment."
+            },
+            {
+              "ref": "ostrer-skorecki-2012-population-genetics-jewish-people",
+              "locator": "abstract",
+              "quote": "This pattern is consistent with a major, but variable component of shared Near East ancestry, together with variable degrees of admixture and introgression from the corresponding host Diaspora populations."
+            },
+            {
+              "ref": "behar-2010-genome-wide-structure-jewish-people",
+              "locator": "abstract",
+              "quote": "In contrast, Ethiopian Jews (Beta Israel) and Indian Jews (Bene Israel and Cochini) cluster with neighbouring autochthonous populations in Ethiopia and western India, respectively"
+            }
+          ]
+        }
+      ],
+      "notes": {
+        "en": "All accounts agree that both Jews and Palestinian Arabs have deep historical ties to the land; they differ on whose ties make a people 'indigenous', and some scholars doubt that the term fits a conflict in which both peoples claim ancestral roots. The genetic studies describe shared ancestry and later admixture; they do not decide identity, belonging or rights, and their authors say so. Druze, Samaritans, Bedouin and Christian Arabs also appear in this debate. Not read: Israeli academic defences of Jewish indigeneity in journals such as Israel Studies (closed access), Tawfiq Canaan's 'nativist' ethnography (Tamari 2004; download blocked), and any Palestinian-authored genome-wide study."
+      }
     }
   ]
 }

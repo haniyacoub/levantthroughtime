@@ -117,6 +117,29 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "abuhatab-abbas-2022-shechem",
+      "type": "article",
+      "authors": [
+        "Abu Hatab, Amina",
+        "Abbas, Ali Hamza"
+      ],
+      "title": "المدينة الكنعانية شكيم وتل بلاطة قبل بناء نابلس والأهمية الاستراتيجية (The Canaanite city of Shechem and Tell Balata before the building of Nablus, and its strategic importance)",
+      "container": "Journal of Basic Education College Research (University of Mosul), vol. 18, issue 4.1 (special conference issue)",
+      "pages": "226-239",
+      "year": 2022,
+      "publisher": "College of Basic Education, University of Mosul",
+      "doi": "10.33899/berj.2023.177091",
+      "url": "https://berj.mosuljournals.com/article_177091.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article in Arabic (listed in DOAJ). The journal host did not resolve, so the PDF and landing page were read in Wayback Machine snapshots of 31 Mar 2023. Authors: Palestinian Ministry of Education and Higher Education; University of Mosul (Iraq). Page range read from the PDF (first page numbered 226; 14 pages)."
+      },
+      "kind": "academic",
+      "institution_country": "IQ"
+    },
+    {
       "id": "adalah-2018-jnsl-two-pager",
       "type": "document",
       "authors": [
@@ -279,6 +302,46 @@
       "institution_country": "SA"
     },
     {
+      "id": "agranat-tamir-2020-bronze-age-levant",
+      "type": "article",
+      "authors": [
+        "Agranat-Tamir, Lily",
+        "Waldman, Shamam",
+        "Martin, Mario A. S.",
+        "Gokhman, David",
+        "Mishol, Nadav",
+        "Eshel, Tzilla",
+        "Cheronet, Olivia",
+        "Rohland, Nadin",
+        "Mallick, Swapan",
+        "Yahalom-Mack, Naama",
+        "Erel, Yigal",
+        "Yakir, Benjamin",
+        "Pinhasi, Ron",
+        "Carmi, Shai",
+        "Finkelstein, Israel",
+        "Carmel, Liran",
+        "Reich, David"
+      ],
+      "title": "The Genomic History of the Bronze Age Southern Levant",
+      "container": "Cell",
+      "publisher": "Cell Press (Elsevier)",
+      "year": 2020,
+      "volume": 181,
+      "issue": 5,
+      "pages": "1146-1157.e11",
+      "doi": "10.1016/j.cell.2020.04.024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10212583/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the author manuscript deposited in PubMed Central (PMC10212583, NIH public-access copy): Summary, Highlights, Introduction, Results on homogeneity and on present-day populations, and Discussion. The author list here is abridged (34 authors; lead institutions Hebrew University of Jerusalem, Tel Aviv University, Harvard Medical School)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "aharoni-1978-land-of-the-bible",
       "type": "book",
       "authors": [
@@ -396,7 +459,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full review (PDF), chapter-by-chapter summary."
+        "note": "Read the full review (PDF), chapter-by-chapter summary. | Re-read in Milestone 8: Re-read in M9 the summary of chapter 1 and the closing assessment (pp. 1-2, 6). | Re-read in Milestone 8: Re-read the review PDF, chapter summaries and conclusion."
       },
       "kind": "academic",
       "institution_country": "MY",
@@ -495,7 +558,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article (19 July 2024) quoting PM Netanyahu's statement on X."
+        "note": "Read the full article (19 July 2024) quoting PM Netanyahu's statement on X. | Re-read in Milestone 8: Re-read the article quoting Netanyahu's statement of 19 July 2024."
       },
       "kind": "press",
       "institution_country": "US",
@@ -911,6 +974,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "alsalameen-2018-umm-al-jimal",
+      "type": "article",
+      "authors": [
+        "al-Salameen, Zeyad",
+        "Hazza, Muaffaq"
+      ],
+      "title": "New Nabataean Inscriptions from Umm al-Jimāl",
+      "container": "Arabian Epigraphic Notes 4, pp. 87-106",
+      "publisher": "Leiden Center for the Study of Ancient Arabia",
+      "year": 2018,
+      "url": "https://hdl.handle.net/1887/66290",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Open access (Leiden University repository). Read the abstract on the repository page and checked the opening of the PDF; the epigraphic commentary was not read. Authors at al-Hussein Bin Talal University and the Department of Antiquities of Jordan (the repository lists Hazza as editor; the PDF lists both names)."
+      },
+      "kind": "academic",
+      "institution_country": "JO"
+    },
+    {
       "id": "alsaud-alqobbaj-2019-josephs-tomb",
       "type": "article",
       "authors": [
@@ -933,6 +1017,46 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "alstola-2020-judeans-in-babylonia",
+      "type": "book",
+      "authors": [
+        "Alstola, Tero"
+      ],
+      "title": "Judeans in Babylonia: A Study of Deportees in the Sixth and Fifth Centuries BCE",
+      "container": "Culture and History of the Ancient Near East 109",
+      "publisher": "Brill",
+      "year": 2020,
+      "doi": "10.1163/9789004365421",
+      "url": "http://hdl.handle.net/10138/311881",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access book (CC BY-NC 4.0). Downloaded the copy in Helda, the University of Helsinki repository, and read the Introduction (pp. 1-50, esp. pp. 6, 23-24, 29, 45, 50) and Chapter 8, Conclusions (pp. 251-252)."
+      },
+      "kind": "academic",
+      "institution_country": "FI"
+    },
+    {
+      "id": "amara-palquest-al-araqib",
+      "type": "web",
+      "authors": [
+        "Amara, Ahmad"
+      ],
+      "title": "The Village of al-Araqib",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/highlight/14372/village-al-araqib",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry (no casualty figures used)."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "amir-2024-gaza-intellectual-centre",
@@ -1421,6 +1545,37 @@
       "institution_country": "PS"
     },
     {
+      "id": "atzmon-2010-abrahams-children",
+      "type": "article",
+      "authors": [
+        "Atzmon, Gil",
+        "Hao, Li",
+        "Pe'er, Itsik",
+        "Velez, Christopher",
+        "Pearlman, Alexander",
+        "Palamara, Pier Francesco",
+        "Morrow, Bernice",
+        "Friedman, Eitan",
+        "Oddoux, Carole",
+        "Burns, Edward",
+        "Ostrer, Harry"
+      ],
+      "title": "Abraham's Children in the Genome Era: Major Jewish Diaspora Populations Comprise Distinct Genetic Clusters with Shared Middle Eastern Ancestry",
+      "container": "American Journal of Human Genetics 86 (6): 850-859",
+      "publisher": "Cell Press (Elsevier)",
+      "year": 2010,
+      "doi": "10.1016/j.ajhg.2010.04.015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032072/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the full abstract (PubMed Central record PMC3032072); the body text was not available in the PMC XML."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "aub-libraries-lebanon-fifty-years-war",
       "type": "web",
       "authors": [
@@ -1611,7 +1766,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full English text. | Also recorded as a separate entry: Read the full text (Avalon Project); also compared with the Israel MFA text via Internet Archive capture 20160510."
+        "note": "Read the full English text. | Also recorded as a separate entry: Read the full text (Avalon Project); also compared with the Israel MFA text via Internet Archive capture 20160510. | Re-read in Milestone 8: Re-read the opening paragraphs (Avalon Project)."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -1854,7 +2009,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Read the publisher's description as reproduced on a bookseller page; DOI confirmed via Crossref."
+        "note": "Read the publisher's description as reproduced on a bookseller page; DOI confirmed via Crossref. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the publisher's description on the Oxford University Press product page, via Internet Archive capture 20230510023930 (the bookseller page given as url refused automated requests). The book itself was not read."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -2140,7 +2295,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier (Google scan bub_gb_pN8TAAAAIAAJ): pp. 216-219 on Caesarea (seven-year siege; conquest in Shawwal of the year 19; taken by storm by Mu'awiyah). Hijri dates as given in the text. | Also recorded as a separate entry: Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (originsofislamic00balarich) and read Part II, chs. I-X and the Palestine chapter (pp. 165-220): Dathin, al-Arabah, Ajnadayn, Damascus, al-Yarmuk, Gaza, Jerusalem. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text of the scan 'originsofislamic00balarich': p. 92 (Tabuk, Ailah and Adhruh make terms, AH 9), pp. 167-168 (Abu Bakr assigns commanders to Palestine, the Jordan and Damascus; al-'Arabah), p. 173 (Busra and the Hauran), pp. 178-179 (the province of the Jordan), p. 210 (al-Yarmuk, Rajab 15) and p. 217 (Caesarea, Shawwal 19). Hijri dates as given in the text."
+        "note": "Downloaded and read the Internet Archive OCR text of the sections on Ajnadayn (p. 175), al-Yarmuk (p. 210), Jerusalem (pp. 213-214) and Caesarea (pp. 216-219). Primary source: a 9th-century Arabic history in a scholarly 1916 translation by the Lebanese-American historian P. K. Hitti. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier (Google scan bub_gb_pN8TAAAAIAAJ): pp. 216-219 on Caesarea (seven-year siege; conquest in Shawwal of the year 19; taken by storm by Mu'awiyah). Hijri dates as given in the text. | Also recorded as a separate entry: Read the Internet Archive OCR text: Part II (Syria), ch. IV (Ajnadin), the Yarmuk chapter and the Palestine chapter (Jerusalem, Caesarea, Ascalon), pp. 173-220. Al-Baladhuri wrote in the 9th century; translation by the Lebanese-American historian P. K. Hitti (1916). Hijri years as given in the text. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (originsofislamic00balarich) and read Part II, chs. I-X and the Palestine chapter (pp. 165-220): Dathin, al-Arabah, Ajnadayn, Damascus, al-Yarmuk, Gaza, Jerusalem. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive OCR text of the scan 'originsofislamic00balarich': p. 92 (Tabuk, Ailah and Adhruh make terms, AH 9), pp. 167-168 (Abu Bakr assigns commanders to Palestine, the Jordan and Damascus; al-'Arabah), p. 173 (Busra and the Hauran), pp. 178-179 (the province of the Jordan), p. 210 (al-Yarmuk, Rajab 15) and p. 217 (Caesarea, Shawwal 19). Hijri dates as given in the text. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text: the story of Jabalah ibn al-Aiham (pp. 208-210) and ch. XIV, 'The Samaritans' (p. 244). The OCR is noisy; quotes were chosen from clean passages."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -2292,6 +2447,25 @@
       "institution_country": "IL"
     },
     {
+      "id": "bar-kochva-1996-pseudo-hecataeus",
+      "type": "book",
+      "authors": [
+        "Bar-Kochva, Bezalel"
+      ],
+      "title": "Pseudo Hecataeus, \"On the Jews\": Legitimizing the Jewish Diaspora",
+      "publisher": "University of California Press",
+      "year": 1996,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/pseudo-hecataeus-on-the-jews-legitimizing-the-jewish-diaspora.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Publicly available in the UC Press E-Books Collection (public access). Read ch. III.2 'Ptolemy I and the Jews' (pp. 71-80) and the passages on the Jewish community of Egypt in later chapters. Author at Tel Aviv University (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "barkan-dayan-2018-sidna-ali",
       "type": "article",
       "authors": [
@@ -2395,6 +2569,29 @@
       "institution_country": "US"
     },
     {
+      "id": "barrick-2007-review-killebrew",
+      "type": "article",
+      "authors": [
+        "Barrick, William D."
+      ],
+      "title": "Review of Ann E. Killebrew, Biblical Peoples and Ethnicity: An Archaeological Study of Egyptians, Canaanites, Philistines, and Early Israel 1300-1100 B.C.E.",
+      "container": "Journal of the Evangelical Theological Society",
+      "volume": 50,
+      "issue": 2,
+      "pages": "377-378",
+      "year": 2007,
+      "publisher": "Evangelical Theological Society",
+      "url": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_50_50-2_JETS_50-2_377-429_BookReviews.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the book-review section of JETS 50/2 from the society's own site and read Barrick's review (pp. 377-378). The reviewer writes from a conservative evangelical position and criticises some of Killebrew's conclusions."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "barron-1923",
       "type": "census",
       "authors": [
@@ -2446,7 +2643,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20090303150903."
+        "note": "Read via Internet Archive capture 20090303150903. | Re-read in Milestone 8: Re-read Bartal's review (Internet Archive capture)."
       },
       "kind": "press",
       "institution_country": "IL",
@@ -2612,6 +2809,70 @@
       },
       "kind": "academic",
       "institution_country": "GB"
+    },
+    {
+      "id": "behar-2010-genome-wide-structure-jewish-people",
+      "type": "article",
+      "authors": [
+        "Behar, Doron M.",
+        "Yunusbayev, Bayazit",
+        "Metspalu, Mait",
+        "Metspalu, Ene",
+        "Rosset, Saharon",
+        "Parik, Jüri",
+        "Rootsi, Siiri",
+        "Chaubey, Gyaneshwer",
+        "Kutuev, Ildus",
+        "Bonne-Tamir, Batsheva",
+        "Parfitt, Tudor",
+        "Hammer, Michael F.",
+        "Skorecki, Karl",
+        "Villems, Richard"
+      ],
+      "title": "The genome-wide structure of the Jewish people",
+      "container": "Nature 466: 238-242",
+      "publisher": "Nature Publishing Group",
+      "year": 2010,
+      "doi": "10.1038/nature09103",
+      "url": "https://doi.org/10.1038/nature09103",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the full abstract in the PubMed record (PMID 20531471); the article is not open access. Author list abridged (21 authors; lead institutions Rambam Health Care Campus, Haifa, and the Estonian Biocentre, Tartu)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "behar-2013-no-khazar-origin",
+      "type": "article",
+      "authors": [
+        "Behar, Doron M.",
+        "Metspalu, Mait",
+        "Baran, Yael",
+        "Kopelman, Naama M.",
+        "Yunusbayev, Bayazit",
+        "Gladstein, Ariella",
+        "Tzur, Shay",
+        "Halperin, Eran",
+        "Villems, Richard",
+        "Rosenberg, Noah A."
+      ],
+      "title": "No evidence from genome-wide data of a Khazar origin for the Ashkenazi Jews",
+      "container": "Human Biology 85 (6): 859-900",
+      "publisher": "Wayne State University Press",
+      "year": 2013,
+      "doi": "10.3378/027.085.0604",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25079123/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the full abstract in the PubMed record (PMID 25079123). Author list abridged (25 authors at institutions in Israel, Estonia, the USA, Russia, Armenia and elsewhere)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "beinin-1998-dispersion-egyptian-jewry",
@@ -2800,6 +3061,26 @@
       "institution_country": "FR"
     },
     {
+      "id": "beyer-2012-languages-transjordan",
+      "type": "chapter",
+      "authors": [
+        "Beyer, Klaus"
+      ],
+      "title": "The Languages of Transjordan",
+      "container": "H. Gzella (ed.), Languages from the World of the Bible, pp. 111-127",
+      "publisher": "De Gruyter",
+      "year": 2012,
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access volume (CC BY-NC-ND 3.0; OAPEN Library), read in the copy of the OAPEN PDF downloaded earlier in this project from the Wayback Machine; read sections 1-4 (pp. 111-112, 121-123)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "bibalex-nasser-historical-sketch",
       "type": "web",
       "title": "A historical sketch of President Gamal Abdel-Nasser",
@@ -2940,6 +3221,46 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "bmcr-cameron-2016-fisher-arabs-and-empires",
+      "type": "web",
+      "authors": [
+        "Cameron, Hamish"
+      ],
+      "title": "Review of Greg Fisher (ed.), Arabs and Empires before Islam (Oxford University Press, 2015)",
+      "container": "Bryn Mawr Classical Review 2016.08.27",
+      "publisher": "Bryn Mawr College",
+      "year": 2016,
+      "url": "https://bmcr.brynmawr.edu/2016/2016.08.27/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. The book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "bmcr-drijvers-2018-roman-jerusalem",
+      "type": "web",
+      "authors": [
+        "Drijvers, Jan Willem"
+      ],
+      "title": "Review of Guy D. Stiebel, Gideon Avni et al. (eds.), Roman Jerusalem: A New Old City (Journal of Roman Archaeology suppl. 105, 2017)",
+      "container": "Bryn Mawr Classical Review 2018.02.15",
+      "publisher": "Bryn Mawr College",
+      "year": 2018,
+      "url": "https://bmcr.brynmawr.edu/2018/2018.02.15/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review (University of Groningen); the editors' names are as shown in the review header. The volume itself (mostly by Israel Antiquities Authority archaeologists) was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "bmcr-farahani-2009-dignas-winter-rome-persia",
       "type": "web",
       "authors": [
@@ -2958,6 +3279,46 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "bmcr-gibson-2002-schwartz-imperialism",
+      "type": "web",
+      "authors": [
+        "Gibson, E. Leigh"
+      ],
+      "title": "Review of Seth Schwartz, Imperialism and Jewish Society, 200 B.C.E. to 640 C.E. (Princeton University Press, 2001)",
+      "container": "Bryn Mawr Classical Review 2002.09.36",
+      "publisher": "Bryn Mawr College",
+      "year": 2002,
+      "url": "https://bmcr.brynmawr.edu/2002/2002.09.36/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. Schwartz's book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "bmcr-gieseke-2023-hoffmann-salz-ituraeans",
+      "type": "web",
+      "authors": [
+        "Gieseke, Julian"
+      ],
+      "title": "Review of Julia Hoffmann-Salz, Im Land der räuberischen Nomaden? Die Eigenherrschaften der Ituraier und Emesener zwischen Seleukiden und Römern (Vandenhoeck & Ruprecht)",
+      "container": "Bryn Mawr Classical Review 2023.05.16",
+      "publisher": "Bryn Mawr College",
+      "year": 2023,
+      "url": "https://bmcr.brynmawr.edu/2023/2023.05.16/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. The book itself was not consulted. Reviewer at Universität Bielefeld."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "bmcr-girardin-2020-jacobson-agrippa-ii",
@@ -3000,6 +3361,46 @@
       "institution_country": "DE"
     },
     {
+      "id": "bmcr-holum-2010-shahid-basic-ii-2",
+      "type": "web",
+      "authors": [
+        "Holum, Kenneth G."
+      ],
+      "title": "Review of Irfan Shahîd, Byzantium and the Arabs in the Sixth Century, vol. II, part 2: Economic, Social, and Cultural History (Dumbarton Oaks, 2009)",
+      "container": "Bryn Mawr Classical Review 2010.09.18",
+      "publisher": "Bryn Mawr College",
+      "year": 2010,
+      "url": "https://bmcr.brynmawr.edu/2010/2010.09.18/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. Shahîd's volumes were not consulted; statements about them are the reviewer's summary. Irfan Shahîd (1926-2016) was a Nazareth-born Arab historian at Georgetown University and Dumbarton Oaks."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "bmcr-hutchinson-2015-ward-mirage-saracen",
+      "type": "web",
+      "authors": [
+        "Hutchinson, E. J."
+      ],
+      "title": "Review of Walter D. Ward, The Mirage of the Saracen: Christians and Nomads in the Sinai Peninsula in Late Antiquity (University of California Press)",
+      "container": "Bryn Mawr Classical Review 2015.08.17",
+      "publisher": "Bryn Mawr College",
+      "year": 2015,
+      "url": "https://bmcr.brynmawr.edu/2015/2015.08.17/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. The book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "bmcr-king-2026-zarghamee-achaemenids",
       "type": "web",
       "authors": [
@@ -3020,6 +3421,26 @@
       "institution_country": "CA"
     },
     {
+      "id": "bmcr-kraemer-2022-last-harland-group-survival",
+      "type": "web",
+      "authors": [
+        "Kraemer, Ross"
+      ],
+      "title": "Review of Richard Last and Philip A. Harland, Group Survival in the Ancient Mediterranean",
+      "container": "Bryn Mawr Classical Review 2022.09.04",
+      "publisher": "Bryn Mawr College",
+      "year": 2022,
+      "url": "https://bmcr.brynmawr.edu/2022/2022.09.04/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review (on the terms Judeans/Jews, Jesus-devotees/Christians and Samaritans). The book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "bmcr-lichtenberger-2024-johannsen",
       "type": "web",
       "authors": [
@@ -3038,6 +3459,27 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "bmcr-pollard-kraft-2005-goodman-jews-graeco-roman",
+      "type": "web",
+      "authors": [
+        "Pollard, Beth",
+        "Kraft, Robert A."
+      ],
+      "title": "Review of Martin Goodman (ed.), Jews in a Graeco-Roman World (Clarendon Press, 1998)",
+      "container": "Bryn Mawr Classical Review 2005.08.10",
+      "publisher": "Bryn Mawr College",
+      "year": 2005,
+      "url": "https://bmcr.brynmawr.edu/2005/2005.08.10/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review, written by members of a University of Pennsylvania seminar and edited by Beth Pollard and Robert A. Kraft; the sections used are those on S. Schwartz, 'The Hellenization of Jerusalem and Shechem' (by Kraft) and B. Isaac, 'Jews, Christians and others in Palestine: the evidence from Eusebius' (by Pollard). The book itself was not consulted."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "bmcr-prozorov-2004-kaegi-heraclius",
@@ -3080,6 +3522,26 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "bmcr-vanderhorst-2012-shaping-the-middle-east",
+      "type": "web",
+      "authors": [
+        "van der Horst, Pieter W."
+      ],
+      "title": "Review of Kenneth G. Holum and Hayim Lapin (eds.), Shaping the Middle East: Jews, Christians, and Muslims in an Age of Transition, 400-800 C.E.",
+      "container": "Bryn Mawr Classical Review 2012.05.40",
+      "publisher": "Bryn Mawr College",
+      "year": 2012,
+      "url": "https://bmcr.brynmawr.edu/2012/2012.05.40/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review; the paragraphs used summarise the chapters by G. Avni, M. Levy-Rubin, J. Patrich and D. Whitcomb. The book itself was not consulted. Reviewer at Utrecht."
+      },
+      "kind": "academic",
+      "institution_country": "NL"
+    },
+    {
       "id": "bmcr-vanhenten-2018-bernhardt",
       "type": "web",
       "authors": [
@@ -3120,6 +3582,26 @@
       "institution_country": "US"
     },
     {
+      "id": "bmcr-ward-2011-fisher-between-empires",
+      "type": "web",
+      "authors": [
+        "Ward, Walter D."
+      ],
+      "title": "Review of Greg Fisher, Between Empires: Arabs, Romans, and Sasanians in Late Antiquity (Oxford University Press, 2011)",
+      "container": "Bryn Mawr Classical Review 2011.12.30",
+      "publisher": "Bryn Mawr College",
+      "year": 2011,
+      "url": "https://bmcr.brynmawr.edu/2011/2011.12.30/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full review. Fisher's book itself was not consulted; statements about it are the reviewer's summary."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "bmcr-wheeler-2013-ellerbrock-parther",
       "type": "web",
       "authors": [
@@ -3153,7 +3635,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in round H: the full review. Myers's book itself was not consulted."
+        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in round H: the full review. Myers's book itself was not consulted. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the full review. Myers's book itself was not consulted; statements about it are the reviewer's summary."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -3336,7 +3818,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Annals of Thutmose III on the first campaign (Megiddo). Dated scholarship (1906): the translation stands, but Breasted's absolute dates are obsolete."
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Annals of Thutmose III on the first campaign (Megiddo). Dated scholarship (1906): the translation stands, but Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 the introduction to the biography of Ahmose son of Ebana (p. 5, §5)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -3355,7 +3837,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Kadesh records of Ramses II and the Israel Stela of Merneptah. Dated scholarship (1906): Breasted's absolute dates are obsolete."
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read the Kadesh records of Ramses II and the Israel Stela of Merneptah. Dated scholarship (1906): Breasted's absolute dates are obsolete. | Re-read in Milestone 8: Re-read in M9 Breasted's commentary on the Israel Stela (§§603-605, pp. 257-258) and the letter of a frontier official, Papyrus Anastasi VI (§§636-638, pp. 272-273)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -4920,7 +5402,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403). | Also recorded as a separate entry: Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access."
+        "note": "Read via Internet Archive capture 20250225154526 (britannica.com returns 403). | Also recorded as a separate entry: Read the full article via a Wayback Machine capture (2025) because britannica.com blocked direct access. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20250225154526: the paragraph on the size of the diaspora before 70 CE."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -4960,7 +5442,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read via Internet Archive snapshot 20260109033233 of the britannica.com page (direct access returned HTTP 403)."
+        "note": "Read via Internet Archive snapshot 20260109033233 of the britannica.com page (direct access returned HTTP 403). | Re-read in Milestone 8: Re-read the article body (Internet Archive snapshot), section on the Druze in Israel; summary boxes not used."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -7404,7 +7886,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture. | Also recorded as a separate entry: Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath."
+        "note": "Read via an Internet Archive Wayback Machine capture (20260927090653) of the Britannica page because britannica.com returned a bot challenge; read the whole page from 70 CE to 1099; the Roman/Byzantine part is signed by Arnold Hugh Martin Jones and Glenn Richard Bugh; the early-Islamic subsections on the same page carry no signature in the capture. | Also recorded as a separate entry: Read via Internet Archive capture 20260927090653: section on the revolts of 66-135 and their aftermath. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the text saved from Internet Archive capture 20260927090653: the sections on Hadrian's Aelia Capitolina, the Samaritan revolts and the change of the population's religion after the Arab conquest. | Re-read in Milestone 8: Re-read the section 'The rise of Islam' (Internet Archive capture)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -9098,6 +9580,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "bruneau-1982-israelites-delos",
+      "type": "article",
+      "authors": [
+        "Bruneau, Philippe",
+        "Bordreuil, Pierre"
+      ],
+      "title": "Les Israélites de Délos et la juiverie délienne",
+      "container": "Bulletin de correspondance hellénique 106 (1), pp. 465-504",
+      "publisher": "École française d'Athènes (via Persée)",
+      "year": 1982,
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1982_num_106_1_1925",
+      "doi": "10.3406/bch.1982.1925",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read on Persée in the page-by-page text view: pp. 465-480 (the two stelae of the 'Israelites of Delos' who contribute to Mount Gerizim; why they were Samaritans; the Samaritan diaspora) and pp. 503-504 (conclusions). Pages 481-502 (the synagogue and 'House II A') were not read."
+      },
+      "kind": "academic",
+      "institution_country": "FR"
+    },
+    {
       "id": "brynen-1998-refugees-peace-process",
       "type": "web",
       "authors": [
@@ -10372,6 +10876,57 @@
       "accessed": "2026-10-20"
     },
     {
+      "id": "costa-2013-ashkenazi-maternal-lineages",
+      "type": "article",
+      "authors": [
+        "Costa, Marta D.",
+        "Pereira, Joana B.",
+        "Pala, Maria",
+        "Fernandes, Verónica",
+        "Olivieri, Anna",
+        "Achilli, Alessandro",
+        "Perego, Ugo A.",
+        "Rychkov, Sergei",
+        "Torroni, Antonio",
+        "Soares, Pedro",
+        "Pereira, Luísa",
+        "Richards, Martin B."
+      ],
+      "title": "A substantial prehistoric European ancestry amongst Ashkenazi maternal lineages",
+      "container": "Nature Communications 4: 2543",
+      "publisher": "Nature Publishing Group",
+      "year": 2013,
+      "doi": "10.1038/ncomms3543",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3806353/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the abstract of the open-access article in PubMed Central (PMC3806353). Author list abridged; lead institution University of Huddersfield (UK)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
+      "id": "cowley-1923-aramaic-papyri",
+      "type": "book",
+      "authors": [
+        "Cowley, A. E."
+      ],
+      "title": "Aramaic Papyri of the Fifth Century B.C.",
+      "publisher": "Clarendon Press, Oxford",
+      "year": 1923,
+      "url": "https://archive.org/details/aramaicpapyrioff00ahikuoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Public-domain edition (1923). Read the Internet Archive OCR text of the University of Toronto scan: Introduction, pp. xv-xvi (who the writers of the papyri were; the 'Jewish force' as a Persian military settlement)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "crowell-2007-edom",
       "type": "article",
       "authors": [
@@ -10388,7 +10943,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the PDF copy on an Andrews University course page (text extracted): abstract (p. 75) and conclusion (p. 85). The DOI is taken from the University of Chicago Press URL seen in search results."
+        "note": "Read the PDF copy on an Andrews University course page (text extracted): abstract (p. 75) and conclusion (p. 85). The DOI is taken from the University of Chicago Press URL seen in search results. | Re-read in Milestone 8: Re-read in M9 the conclusion (p. 85)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -10698,7 +11253,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 2-page PDF in full. The catalogue title and year are not printed in the PDF (file metadata dated 2008), so they are omitted here."
+        "note": "Read the 2-page PDF in full. The catalogue title and year are not printed in the PDF (file metadata dated 2008), so they are omitted here. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): both pages of the PDF (Nabatean presence in the Hauran from the 3rd century BCE; inscriptions after the annexation of 106 CE). Author at Bar-Ilan University (Israel)."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -10868,7 +11423,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project: Merneptah stele, United Monarchy, Josiah."
+        "note": "Read the interview text (18 Nov 2008) in a copy downloaded earlier in this project: Merneptah stele, United Monarchy, Josiah. | Re-read in Milestone 8: Re-read in M9 the sections on the patriarchs and on the origins of Israel."
       },
       "kind": "press",
       "institution_country": "US"
@@ -10950,7 +11505,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read the LacusCurtius pages 19C (chs. 49-65: Antigonus enters Phoenicia and takes Joppa and Gaza, 315), 19E (chs. 73-101: battle of Gaza 312, Ptolemy's withdrawal 311, campaign against the Nabataeans) and 19F (ch. 105: peace of 311). Year equations are the translator's notes (Loeb). | Re-read in Milestone 8: Re-downloaded LacusCurtius page 19E and read chs. 77-86 (battle of Gaza) with the Loeb notes 22, 40-41."
+        "note": "Primary source. Downloaded and read the LacusCurtius pages 19C (chs. 49-65: Antigonus enters Phoenicia and takes Joppa and Gaza, 315), 19E (chs. 73-101: battle of Gaza 312, Ptolemy's withdrawal 311, campaign against the Nabataeans) and 19F (ch. 105: peace of 311). Year equations are the translator's notes (Loeb). | Re-read in Milestone 8: Re-downloaded LacusCurtius page 19E and read chs. 77-86 (battle of Gaza) with the Loeb notes 22, 40-41. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius page 19E: chs. 94-98 (Antigonus' expeditions against the Nabataeans in 312 BCE; the 'district' and 'satrapy' of Idumaea)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -11228,7 +11783,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection edition (no printed page numbers shown); read the Introduction and ch. 1 \"The Meanings of Autonomy\" (sections \"The 1657 Campaign\", \"The Rise of Acre\", \"Egyptian Rule, 1831-1840\"). Doumani is a Palestinian-American historian. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the open-access UC Press E-Books Collection edition and re-read ch. 1 ('The Rise of Acre', 'Egyptian Rule, 1831-1840', 'Ottoman Centralization and the Fall of Arraba') and ch. 4 ('Integration', 'Commoditization of Land') on the 1858 land law. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the open-access UC Press E-Books Collection edition downloaded earlier: ch. 1, section 'The Rise of Acre' (the province of Sidon created in the 1660s; Zahir al-Umar, 1730-1775)."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection edition (no printed page numbers shown); read the Introduction and ch. 1 \"The Meanings of Autonomy\" (sections \"The 1657 Campaign\", \"The Rise of Acre\", \"Egyptian Rule, 1831-1840\"). Doumani is a Palestinian-American historian. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the open-access UC Press E-Books Collection edition and re-read ch. 1 ('The Rise of Acre', 'Egyptian Rule, 1831-1840', 'Ottoman Centralization and the Fall of Arraba') and ch. 4 ('Integration', 'Commoditization of Land') on the 1858 land law. | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the open-access UC Press E-Books Collection edition downloaded earlier: ch. 1, section 'The Rise of Acre' (the province of Sidon created in the 1660s; Zahir al-Umar, 1730-1775). | Re-read in Milestone 8: Re-read the Introduction and chapter 1 of the open-access UC Press E-Books edition (passages on peasant clans and on bedouin in Jabal Nablus)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11423,6 +11978,173 @@
       "institution_country": "EG"
     },
     {
+      "id": "ej-2007-ammon",
+      "type": "chapter",
+      "authors": [
+        "Oded, Bustanay"
+      ],
+      "title": "Ammon, Ammonites",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ammon-ammonites",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (history section signed Bustanay Oded). Its view that settled life in Transjordan ended in the mid-6th century rests on Nelson Glueck's surveys of the 1930s."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-amorites",
+      "type": "chapter",
+      "authors": [
+        "Gottwald, Norman K."
+      ],
+      "title": "Amorites",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/amorites",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-aram-arameans",
+      "type": "chapter",
+      "authors": [
+        "Malamat, Abraham"
+      ],
+      "title": "Aram, Arameans",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/aram-arameans",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-ashkenaz",
+      "type": "chapter",
+      "authors": [
+        "Encyclopaedia Hebraica (credited)"
+      ],
+      "title": "Ashkenaz",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ashkenaz",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (credited to Encyclopaedia Hebraica)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-edom",
+      "type": "chapter",
+      "authors": [
+        "Avishur, Isaac",
+        "Herr, Moshe David",
+        "Ehrlich, Carl"
+      ],
+      "title": "Edom",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/edom",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com: the biblical-period sections (signed Isaac Avishur) and the Second Temple section."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-egypt",
+      "type": "chapter",
+      "title": "Egypt",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/egypt",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the Ottoman-period section of the entry on Encyclopedia.com (passage on the three Jewish communities of Cairo and Alexandria)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-exile-babylonian",
+      "type": "chapter",
+      "authors": [
+        "Porten, Bezalel"
+      ],
+      "title": "Exile, Babylonian",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/exile-babylonian",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (sections on the exile and the return)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-habiru",
+      "type": "chapter",
+      "authors": [
+        "Greenberg, Moshe"
+      ],
+      "title": "Habiru",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/habiru",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com. The site renders the initial H-with-breve as \"?\"; quotes avoid those words."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ej-2007-high-commissioner-palestine",
       "type": "chapter",
       "title": "High Commissioner for Palestine",
@@ -11435,6 +12157,28 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the full entry via Internet Archive snapshot 20260712034108 (direct request blocked); entry credits 'Source: Encyclopaedia Judaica. © 2007 The Gale Group'. Lists all seven High Commissioners with years."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-hyksos",
+      "type": "chapter",
+      "authors": [
+        "Schulman, Alan",
+        "Sperling, S. David"
+      ],
+      "title": "Hyksos",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hyksos",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11461,6 +12205,67 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "ej-2007-karaites",
+      "type": "chapter",
+      "title": "Karaites",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/karaites",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the sections on the emergence of the sect and on contemporary Karaite life in Israel on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-kedar",
+      "type": "chapter",
+      "authors": [
+        "Eph'al, Israel"
+      ],
+      "title": "Kedar",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kedar",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-moab",
+      "type": "chapter",
+      "authors": [
+        "Oded, Bustanay",
+        "Avi-Yonah, Michael"
+      ],
+      "title": "Moab",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/moab",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com; the history section used here is signed Bustanay Oded."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "ej-2007-morocco",
       "type": "chapter",
       "authors": [
@@ -11481,6 +12286,46 @@
       "kind": "reference",
       "institution_country": "US",
       "accessed": "2026-10-20"
+    },
+    {
+      "id": "ej-2007-philistines",
+      "type": "chapter",
+      "authors": [
+        "Greenfield, Jonas C.",
+        "Sperling, S. David"
+      ],
+      "title": "Philistines",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philistines",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com (history section signed Jonas C. Greenfield / S. David Sperling, 2nd ed.)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ej-2007-sephardim",
+      "type": "chapter",
+      "title": "Sephardim",
+      "container": "Encyclopaedia Judaica (2nd ed.)",
+      "publisher": "Macmillan Reference USA (online at Encyclopedia.com)",
+      "year": 2007,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sephardim",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the definition and history sections on Encyclopedia.com (the online page does not show the article's signatories)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "ej-2007-syria",
@@ -11585,7 +12430,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya."
+        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com: immigration section and the passages on Amharic and Tigrinya. | Re-read in Milestone 8: Re-read the definition and the sections on early history and on 1270-1632 on Encyclopedia.com."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11646,7 +12491,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry (history sections)."
+        "note": "Read the full entry (history sections). | Re-read in Milestone 8: Re-read the Mamluk and Ottoman sections on Encyclopedia.com."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11726,6 +12571,27 @@
       "institution_country": "NL"
     },
     {
+      "id": "elhaik-2013-missing-link-jewish-european-ancestry",
+      "type": "article",
+      "authors": [
+        "Elhaik, Eran"
+      ],
+      "title": "The Missing Link of Jewish European Ancestry: Contrasting the Rhineland and the Khazarian Hypotheses",
+      "container": "Genome Biology and Evolution 5 (1): 61-74",
+      "publisher": "Oxford University Press",
+      "year": 2013,
+      "doi": "10.1093/gbe/evs119",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3595026/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the abstract of the open-access article in PubMed Central (PMC3595026). Author at Johns Hopkins University."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "ellenblum-1998",
       "type": "book",
       "authors": [
@@ -11740,7 +12606,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Read the publisher's abstract (Crossref metadata record)."
+        "note": "Read the publisher's abstract (Crossref metadata record). | Re-read in Milestone 8: Re-read the publisher's abstract and the chapter 19 summary (Cambridge Core metadata)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -11785,7 +12651,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full entry (by Norman Stillman, updated by Harvey E. Goldberg)."
+        "note": "Read the full entry (by Norman Stillman, updated by Harvey E. Goldberg). | Re-read in Milestone 8: Re-read the sections on the Ottoman period and on emigration after 1948 (Encyclopedia.com)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -11942,6 +12808,26 @@
       "institution_country": "US"
     },
     {
+      "id": "eusebius-onomasticon-wolf",
+      "type": "document",
+      "authors": [
+        "Eusebius of Caesarea"
+      ],
+      "title": "Onomasticon (trans. C. Umhau Wolf, 1971)",
+      "container": "tertullian.org (Early Church Fathers, additional texts)",
+      "publisher": "tertullian.org (Roger Pearse)",
+      "year": 1971,
+      "url": "https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (early 4th century). Downloaded the translation page, which states that the text is in the public domain, and searched it for villages described as Jewish, Samaritan or Christian (entries Aneim, Thalcha, Thersila, Kariathaeim)."
+      },
+      "kind": "reference",
+      "institution_country": "GB"
+    },
+    {
       "id": "eusebius-vita-constantini-richardson",
       "type": "document",
       "authors": [
@@ -11957,6 +12843,22 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Downloaded and read Book III chapters 25-47 (this URL) and Book IV chapters 40-47 (https://www.newadvent.org/fathers/25024.htm)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "ewc-circassians",
+      "type": "chapter",
+      "title": "Circassians",
+      "container": "Encyclopedia of World Cultures (online at Encyclopedia.com)",
+      "publisher": "Gale",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/circassians",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the identification, demography and history sections of the Encyclopedia of World Cultures entry on Encyclopedia.com (author and volume year not shown on the page)."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -12118,7 +13020,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the open-access full text (Europe PMC, PMC6609216): abstract, introduction on the migration debate, results. | Re-read in Milestone 8: Re-read the Europe PMC full text (PMC6609216): introduction on the 12th-century cultural change at Ashkelon, Ashdod and Ekron."
+        "note": "Read the open-access full text (Europe PMC, PMC6609216): abstract, introduction on the migration debate, results. | Re-read in Milestone 8: Re-read the Europe PMC full text (PMC6609216): introduction on the 12th-century cultural change at Ashkelon, Ashdod and Ekron. | Re-read in Milestone 8: Re-read in M9 the Europe PMC full text (PMC6609216): abstract and discussion."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -12179,7 +13081,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132. | Re-read in Milestone 8: Re-read in round H: the open-access PDF from the UCA repository, Introduction p. 9 (the \"great united monarchy\" as a literary construct) and p. 56 (casemate sites in Ammon and Moab). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the open-access PDF text downloaded earlier in this project: ch. 7, p. 153 (Tiglath-pileser III annexes the Galilee and the northern valleys in 732 BCE)."
+        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132. | Re-read in Milestone 8: Re-read in round H: the open-access PDF from the UCA repository, Introduction p. 9 (the \"great united monarchy\" as a literary construct) and p. 56 (casemate sites in Ammon and Moab). | Re-read in Milestone 8: Re-read in Milestone 8 round I (group I2) from the open-access PDF text downloaded earlier in this project: ch. 7, p. 153 (Tiglath-pileser III annexes the Galilee and the northern valleys in 732 BCE). | Re-read in Milestone 8: Re-read in M9 pp. 38, 110, 153, 157-158 of the open-access PDF."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -12331,6 +13233,25 @@
       "institution_country": "GB"
     },
     {
+      "id": "foster-palquest-origins-term-palestinians",
+      "type": "web",
+      "authors": [
+        "Foster, Zachary J."
+      ],
+      "title": "The Origins of the Term \"Palestinians\"",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/highlight/41681/origins-term-palestinians",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry. Foster's own research (Princeton PhD 2017) on the term's use from the early Islamic period to the Mandate."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
       "id": "frantzman-2008-review-pappe",
       "type": "article",
       "authors": [
@@ -12369,6 +13290,28 @@
         "note": "Seen through a text-extraction tool. Dated 3 Apr 2025."
       },
       "kind": "press",
+      "institution_country": "US"
+    },
+    {
+      "id": "frantzman-yahel-kark-2012-meq-negev-bedouin",
+      "type": "article",
+      "authors": [
+        "Frantzman, Seth J.",
+        "Yahel, Havatzelet",
+        "Kark, Ruth"
+      ],
+      "title": "Are the Negev Bedouin an Indigenous People? Fabricating Palestinian History",
+      "container": "Middle East Quarterly 19 (3), Summer 2012",
+      "publisher": "Middle East Forum",
+      "year": 2012,
+      "url": "https://www.meforum.org/middle-east-quarterly/negev-bedouin-indigenous",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article. The authors were at the Hebrew University of Jerusalem (Yahel also an attorney in Israel's Ministry of Justice); the journal is published by a US think tank. A longer version appeared in Israel Studies 17 (1), 2012 (not read)."
+      },
+      "kind": "ngo",
       "institution_country": "US"
     },
     {
@@ -12540,6 +13483,26 @@
         "note": "Read the full document and footnote."
       },
       "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "furber-1969-kingdom-of-cyprus",
+      "type": "chapter",
+      "authors": [
+        "Furber, Elizabeth Chapin"
+      ],
+      "title": "The Kingdom of Cyprus, 1191-1291",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. II: The Later Crusades, 1189-1311, ed. Robert Lee Wolff and Harry W. Hazard (2nd ed.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-2",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Internet Archive full-text (OCR) of the University of Wisconsin Digital Collections open-access scan of vol. II; chapter XVII, pp. 608 and 629."
+      },
+      "kind": "academic",
       "institution_country": "US"
     },
     {
@@ -13317,7 +14280,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Book not opened; argument read in the Magnes Press description and in Avinoam Meir's review (Geography Research Forum)."
+        "note": "Book not opened; argument read in the Magnes Press description and in Avinoam Meir's review (Geography Research Forum). | Re-read in Milestone 8: Book not opened; argument read in the Magnes Press description."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -13466,7 +14429,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction (pp. 55-56). English edition of a German volume first published in 2009 (WBG)."
+        "note": "Read in the open-access edition (CC BY-NC-ND 3.0, De Gruyter 2012; OAPEN Library). The live OAPEN site returned a bot check, so the PDF was downloaded from the Internet Archive's Wayback Machine snapshot (11 Aug 2024) of the OAPEN file. Read the chapter's introduction (pp. 55-56). English edition of a German volume first published in 2009 (WBG). | Re-read in Milestone 8: Re-read in M9 the introduction of the chapter (pp. 55-56)."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -13531,6 +14494,79 @@
       "kind": "press",
       "institution_country": "IL",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "haber-2013-levant-structuring-by-culture",
+      "type": "article",
+      "authors": [
+        "Haber, Marc",
+        "Gauguier, Dominique",
+        "Youhanna, Sonia",
+        "Patterson, Nick",
+        "Moorjani, Priya",
+        "Botigué, Laura R.",
+        "Platt, Daniel E.",
+        "Matisoo-Smith, Elizabeth",
+        "Soria-Hernanz, David F.",
+        "Wells, R. Spencer",
+        "Bertranpetit, Jaume",
+        "Tyler-Smith, Chris",
+        "Comas, David",
+        "Zalloua, Pierre A."
+      ],
+      "title": "Genome-Wide Diversity in the Levant Reveals Recent Structuring by Culture",
+      "container": "PLoS Genetics 9 (2): e1003316",
+      "publisher": "Public Library of Science",
+      "year": 2013,
+      "doi": "10.1371/journal.pgen.1003316",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003316",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access article (CC BY) as deposited in PubMed Central (PMC3585000): abstract, author summary, results on population structure, ADMIXTURE components and the population tree. Led from the Lebanese American University (Pierre Zalloua) and Universitat Pompeu Fabra."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
+    },
+    {
+      "id": "haber-2017-canaanite-lebanese-genomes",
+      "type": "article",
+      "authors": [
+        "Haber, Marc",
+        "Doumet-Serhal, Claude",
+        "Scheib, Christiana",
+        "Xue, Yali",
+        "Danecek, Petr",
+        "Mezzavilla, Massimo",
+        "Youhanna, Sonia",
+        "Martiniano, Rui",
+        "Prado-Martinez, Javier",
+        "Szpak, Michał",
+        "Matisoo-Smith, Elizabeth",
+        "Schutkowski, Holger",
+        "Mikulski, Richard",
+        "Zalloua, Pierre",
+        "Kivisild, Toomas",
+        "Tyler-Smith, Chris"
+      ],
+      "title": "Continuity and Admixture in the Last Five Millennia of Levantine History from Ancient Canaanite and Present-Day Lebanese Genome Sequences",
+      "container": "American Journal of Human Genetics",
+      "publisher": "Cell Press (Elsevier)",
+      "year": 2017,
+      "volume": 101,
+      "issue": 2,
+      "pages": "274-282",
+      "doi": "10.1016/j.ajhg.2017.06.013",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5544389/fullTextXML",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article (CC BY 4.0); downloaded the Europe PMC full-text XML (PMC5544389) and read the summary and main text. Authors from the Wellcome Sanger Institute (UK), the Sidon excavation (Lebanon), the Lebanese American University and others."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "hagopian-zahlan-1974-palestines-arab-population",
@@ -13832,6 +14868,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "harvey-1990-asceticism-john-of-ephesus",
+      "type": "book",
+      "authors": [
+        "Harvey, Susan Ashbrook"
+      ],
+      "title": "Asceticism and Society in Crisis: John of Ephesus and The Lives of the Eastern Saints",
+      "publisher": "University of California Press",
+      "year": 1990,
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/asceticism-and-society-in-crisis-john-of-ephesus-and-the-lives-of-the-eastern-saints.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Publicly available in the UC Press E-Books Collection (public access). Read ch. V on the Monophysite ordinations of 542 (pp. 105-107), which quotes John of Ephesus."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "hdx-legacy-hrinfo-terms",
       "type": "web",
       "title": "Legacy HR Info licence (Terms and Conditions of Use)",
@@ -13911,7 +14966,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text of vol. 1 (eBook #2707), book 2 ch. 157 (Psammetichus at Azotos/Ashdod) and book 3 chs. 19 and 91 (Phoenicians and Persia; the fifth tribute district)."
+        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text of vol. 1 (eBook #2707), book 2 ch. 157 (Psammetichus at Azotos/Ashdod) and book 3 chs. 19 and 91 (Phoenicians and Persia; the fifth tribute district). | Re-read in Milestone 8: Re-read in M9 book 1 ch. 1, book 2 ch. 104, book 3 chs. 5 and 88, and book 7 ch. 89 in the Project Gutenberg text."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -14139,6 +15194,29 @@
       "kind": "ngo",
       "institution_country": "IL",
       "accessed": "2026-10-20"
+    },
+    {
+      "id": "hovsepian-2008-iess-palestinians",
+      "type": "chapter",
+      "authors": [
+        "Hovsepian, Mary"
+      ],
+      "editors": [
+        "Darity, William A., Jr."
+      ],
+      "title": "Palestinians",
+      "container": "International Encyclopedia of the Social Sciences, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA",
+      "year": 2008,
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/palestinians",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry by Mary Hovsepian on the Encyclopedia.com page that also carries Muslih's EMMENA entry."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "howard-johnston-iranica-khosrow-ii",
@@ -14675,7 +15753,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the interview with Shlomo Sand via Internet Archive capture 20100524074211."
+        "note": "Read the interview with Shlomo Sand via Internet Archive capture 20100524074211. | Re-read in Milestone 8: Re-read the interview with Shlomo Sand (Internet Archive capture), incl. the passage quoting Yitzhak Ben-Zvi (1929) on the origins of the peasants."
       },
       "kind": "press",
       "institution_country": "IL",
@@ -14869,7 +15947,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the article (last updated 24 Apr 2013) on the Jewish colony and temple of Yaho at Elephantine."
+        "note": "Downloaded and read the article (last updated 24 Apr 2013) on the Jewish colony and temple of Yaho at Elephantine. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) via Internet Archive capture 20231117024936 (iranicaonline.org refused automated requests): the paragraphs on the Jewish military colony, its temple of Yaho and the later Jewish settlement at Leontopolis."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -15203,7 +16281,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20160625181358: Byzantine, Arab, Crusader, Mamluk and early Ottoman sections. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J1) via Internet Archive snapshot 20151206063235 of the MFA page: the British Mandate section on Arab opposition and the violence of 1920, 1921, 1929 and 1936-39 (incl. the Hebron Massacre of 1929)."
+        "note": "Read via Internet Archive capture 20160625181358: Byzantine, Arab, Crusader, Mamluk and early Ottoman sections. | Re-read in Milestone 8: Re-read in Milestone 8 round J (group J1) via Internet Archive snapshot 20151206063235 of the MFA page: the British Mandate section on Arab opposition and the violence of 1920, 1921, 1929 and 1936-39 (incl. the Hebron Massacre of 1929). | Re-read in Milestone 8: Re-read the 'Arab Rule' and 'Ottoman Rule' sections (Internet Archive capture)."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -15239,7 +16317,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Read the full introduction via Internet Archive snapshot 20131227015045 (later snapshots are bot-check pages). It is the editors' introduction to the section, written from the Israeli government's standpoint; the page gives no author or date beyond the volume title (1947-1974)."
+        "note": "Read the full introduction via Internet Archive snapshot 20131227015045 (later snapshots are bot-check pages). It is the editors' introduction to the section, written from the Israeli government's standpoint; the page gives no author or date beyond the volume title (1947-1974). | Re-read in Milestone 8: Re-read the introduction (Internet Archive capture)."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -15573,6 +16651,22 @@
         "note": "israelhayom.com returned HTTP 403 (Access Denied) to direct requests; read the full article (published 16 March 2026) via Internet Archive Wayback Machine snapshot 20260419043821."
       },
       "kind": "press",
+      "institution_country": "IL"
+    },
+    {
+      "id": "israelite-samaritans-history",
+      "type": "web",
+      "title": "History: Israelite Samaritan history from ancient times to the present day",
+      "container": "The Israelite Samaritans (community website)",
+      "publisher": "Israelite Samaritan Information Institute",
+      "url": "https://www.israelite-samaritans.com/history/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (live, 20 Oct 2026). The community's own account of its history; undated."
+      },
+      "kind": "religious-institution",
       "institution_country": "IL"
     },
     {
@@ -15991,7 +17085,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (1st century CE) in Whiston's 1737 translation; read book 1, chs. 17-18 (Dius and Menander on Hiram) and 21 (Tyrian records on the Babylonian siege) in the Project Gutenberg text."
+        "note": "Primary source (1st century CE) in Whiston's 1737 translation; read book 1, chs. 17-18 (Dius and Menander on Hiram) and 21 (Tyrian records on the Babylonian siege) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in M9 book 1, chs. 14-16 (Manetho on the Hyksos) in the Project Gutenberg text (ebook 2849)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -16011,7 +17105,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2848): Antiquities 13.6.7; 14.2.3, 14.3.2, 14.4.4-5, 14.5.1, 14.13.3, 14.14.3-5, 14.16.4; 15.6.6-7, 15.7.3, 15.10.1-3; 17.10.9, 17.11.4, 17.13.2, 17.13.5; 18.1.1, 18.4.6, 18.6.10, 18.7.2; 19.5.1, 19.8.2, 19.9.1-2; 20.5.2, 20.7.1. The Gutenberg text prints footnote numbers inside sentences; quotes avoid them."
+        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2848): Antiquities 13.6.7; 14.2.3, 14.3.2, 14.4.4-5, 14.5.1, 14.13.3, 14.14.3-5, 14.16.4; 15.6.6-7, 15.7.3, 15.10.1-3; 17.10.9, 17.11.4, 17.13.2, 17.13.5; 18.1.1, 18.4.6, 18.6.10, 18.7.2; 19.5.1, 19.8.2, 19.9.1-2; 20.5.2, 20.7.1. The Gutenberg text prints footnote numbers inside sentences; quotes avoid them. | Re-read in Milestone 8: Re-read in M9 books 9.14.3, 10.9.7 and 11.5.8 in the Project Gutenberg text of Whiston (ebook 2848). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Project Gutenberg plain text of Whiston's translation (eBook #2848): Antiquities 9.14.3 (the 'Cutheans'/Samaritans), 11.8.6 (Samaritans at Shechem claim descent from Joseph), 12.1.1 (Ptolemy I's captives from Judea and Samaria; voluntary Jewish emigration to Egypt), 13.9.1 (John Hyrcanus takes Shechem and Gerizim and subdues the Idumeans), 13.11.3 (Aristobulus I and the Itureans), 13.15.4 (cities held by Alexander Jannaeus) and 14.4.4 (Pompey restores the cities). Whiston's section numbering; standard (Niese) paragraph numbers added in locators."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -16154,7 +17248,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26. | Also recorded as a separate entry: Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67."
+        "note": "Read the passages via the Sefaria API: Exodus 12:37-41, Deuteronomy 26:5-9, Joshua 11:23, 2 Samuel 8:1-15, 1 Kings 5:1-5 and 2 Chronicles 9:26. | Also recorded as a separate entry: Read the verses via the Sefaria texts API: II Kings 15:29, 17:6, 17:24, 24:14-16, 25:11-12; Jeremiah 43:5-7, 52:28-30; Ezra 1:1-5, 2:64-65; Nehemiah 7:66-67. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) through the Sefaria texts API (JPS 2023 gender-sensitive translation): II Kings 17:24-41."
       },
       "kind": "religious-institution",
       "institution_country": "US",
@@ -16951,7 +18045,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Downloaded the PDF from the Department of Antiquities of Jordan's publication archive (which lists it in SHAJ XV, 2025) and read pp. 421-426 (introduction, literary sources, biblical narratives), 436 (conclusions) and Table 3 (p. 438). Text extracted from the PDF; superscript ordinals rejoined in quotes. The author is a Jordanian archaeologist (Yarmouk University)."
+        "note": "Downloaded the PDF from the Department of Antiquities of Jordan's publication archive (which lists it in SHAJ XV, 2025) and read pp. 421-426 (introduction, literary sources, biblical narratives), 436 (conclusions) and Table 3 (p. 438). Text extracted from the PDF; superscript ordinals rejoined in quotes. The author is a Jordanian archaeologist (Yarmouk University). | Re-read in Milestone 8: Re-read in M9: conclusions, pp. 436-437."
       },
       "kind": "academic",
       "institution_country": "JO"
@@ -17270,7 +18364,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access thesis PDF read: ch. 1 (pp. 1-26, review of earlier estimates), p. 111, ch. 11 (pp. 579-580, conclusions). Kennedy's own estimates are far above all earlier ones. | Re-read in Milestone 8: Re-downloaded the UNISA thesis PDF (https://ir.unisa.ac.za/bitstream/10500/13257/1/thesis_kennedy_tm.pdf) and read the passage on garrison requests in the Amarna letters (pp. 72-73)."
+        "note": "Open-access thesis PDF read: ch. 1 (pp. 1-26, review of earlier estimates), p. 111, ch. 11 (pp. 579-580, conclusions). Kennedy's own estimates are far above all earlier ones. | Re-read in Milestone 8: Re-downloaded the UNISA thesis PDF (https://ir.unisa.ac.za/bitstream/10500/13257/1/thesis_kennedy_tm.pdf) and read the passage on garrison requests in the Amarna letters (pp. 72-73). | Re-read in Milestone 8: Re-read in M9 pp. 143-144 (nomadic groups in Late Bronze Age Canaan, n. 83)."
       },
       "kind": "academic",
       "institution_country": "ZA",
@@ -17425,6 +18519,25 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "killebrew-2005-biblical-peoples",
+      "type": "book",
+      "authors": [
+        "Killebrew, Ann E."
+      ],
+      "title": "Biblical Peoples and Ethnicity: An Archaeological Study of Egyptians, Canaanites, Philistines, and Early Israel 1300-1100 B.C.E.",
+      "container": "SBL Archaeology and Biblical Studies 9",
+      "publisher": "Society of Biblical Literature",
+      "year": 2005,
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Book not opened (no authorised open copy found). Its argument and one phrase (p. 184) were read as reported in W. D. Barrick's review (barrick-2007-review-killebrew)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "kinghussein-1988-disengagement",
       "type": "document",
       "title": "Address to the Nation, Amman, July 31, 1988 (disengagement from the West Bank)",
@@ -17552,7 +18665,23 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and searched the full plain text (https://www.gutenberg.org/cache/epub/124/pg124.txt). Years in 1 Maccabees are counted in the Seleucid era; conversions to BCE in the notes follow the conversions used by the Britannica articles cited alongside. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text (eBook #124), 1 Maccabees 10:1-22 and 13:36-42."
+        "note": "Downloaded and searched the full plain text (https://www.gutenberg.org/cache/epub/124/pg124.txt). Years in 1 Maccabees are counted in the Seleucid era; conversions to BCE in the notes follow the conversions used by the Britannica articles cited alongside. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text (eBook #124), 1 Maccabees 10:1-22 and 13:36-42. | Re-read in Milestone 8: Re-read in M9 1 Maccabees 5:6 in the Project Gutenberg text."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "kjv-acts-gutenberg",
+      "type": "document",
+      "title": "The King James Version of the Bible: Acts of the Apostles 11:26",
+      "container": "Project Gutenberg eBook #10",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/cache/epub/10/pg10.txt",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the plain text and read Acts 11:19-26. Religious text (late 1st century CE) in the 1611 translation; textual tradition."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -17645,7 +18774,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full text of the unofficial English translation posted by Adalah (the Knesset's own English PDF returned a bot-check page). Section 4 'Language'."
+        "note": "Read the full text of the unofficial English translation posted by Adalah (the Knesset's own English PDF returned a bot-check page). Section 4 'Language'. | Re-read in Milestone 8: Re-read section 1 of the unofficial English translation (Adalah PDF)."
       },
       "kind": "ngo",
       "institution_country": "IL"
@@ -17882,6 +19011,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "levin-2020-religion-of-idumea",
+      "type": "article",
+      "authors": [
+        "Levin, Yigal"
+      ],
+      "title": "The Religion of Idumea and Its Relationship to Early Judaism",
+      "container": "Religions 11 (10), article 487",
+      "publisher": "MDPI",
+      "year": 2020,
+      "url": "https://www.mdpi.com/2077-1444/11/10/487",
+      "doi": "10.3390/rel11100487",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access article. mdpi.com refused automated requests, so the full HTML article was read via Internet Archive capture 20241219204757: abstract, sections 1-7 and 11 ('From Southern Judah to Idumea to Southern Judea'), and notes 1 and 142. Author at Bar-Ilan University (Israel)."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "lewis-1952-notes-documents-turkish-archives",
       "type": "article",
       "authors": [
@@ -18036,7 +19186,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the introduction and translation (adapted from Grayson 1975 and Glassner 2004), reverse lines 11'-13'. | Also recorded as a separate entry: Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes. | Re-read in Milestone 8: Re-read in round H: the Livius translation of ABC 5, obverse 1-20 (605-604 BCE: Carchemish, tribute of Ḫatti, Ashkelon) and reverse 1'-25' (601-594 BCE, incl. the capture of Jerusalem in 597)."
+        "note": "Read the introduction and translation (adapted from Grayson 1975 and Glassner 2004), reverse lines 11'-13'. | Also recorded as a separate entry: Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes. | Re-read in Milestone 8: Re-read in round H: the Livius translation of ABC 5, obverse 1-20 (605-604 BCE: Carchemish, tribute of Ḫatti, Ashkelon) and reverse 1'-25' (601-594 BCE, incl. the capture of Jerusalem in 597). | Re-read in Milestone 8: Re-read in M9 obverse lines 15-20 (Ashkelon, 604 BCE) and reverse lines 10'-13' (Arabs; Judah, 597 BCE)."
       },
       "kind": "reference",
       "institution_country": "NL"
@@ -18312,6 +19462,27 @@
       "institution_country": "EG"
     },
     {
+      "id": "luz-2002-islamization-mamluk-jerusalem",
+      "type": "article",
+      "authors": [
+        "Luz, Nimrod"
+      ],
+      "title": "Aspects of Islamization of Space and Society in Mamluk Jerusalem and its Hinterland",
+      "container": "Mamluk Studies Review 6: 133-154",
+      "publisher": "Middle East Documentation Center, University of Chicago",
+      "year": 2002,
+      "doi": "10.6082/M1K935NX",
+      "url": "https://doi.org/10.6082/M1K935NX",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access (CC BY) PDF from the University of Chicago Knowledge repository; quotes from the introduction, pp. 133-135, which summarise Levtzion's, Vryonis's and Ellenblum's models of Islamization. The author is an Israeli geographer-historian."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
       "id": "lwj-2026-10-07-south-lebanon",
       "type": "web",
       "title": "IDF shifts southern Lebanon forces toward 'forward-defense' posture as troops prepare for winter",
@@ -18347,6 +19518,26 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "macdonald-2009-arabs-arabias-arabic",
+      "type": "article",
+      "authors": [
+        "Macdonald, Michael C. A."
+      ],
+      "title": "Arabs, Arabias and Arabic before Late Antiquity",
+      "container": "Topoi. Orient-Occident 16 (1), pp. 277-332",
+      "publisher": "Maison de l'Orient et de la Méditerranée (via Persée)",
+      "year": 2009,
+      "url": "https://www.persee.fr/doc/topoi_1161-9473_2009_num_16_1_2306",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read on Persée in the page-by-page text view of pp. 277-332 (the PDF download was refused to automated requests). Used pp. 290 (the Namara epitaph), 297-298 (Provincia Arabia; the term 'Saracen'), 302 (the 'Nabataean' of a Palmyrene inscription of AD 132) and 311 (the Nabataean script used to write Arabic). Author at the University of Oxford."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "macmunn-falls-1928-military-operations-egypt-palestine-1",
@@ -18403,7 +19594,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the book description."
+        "note": "Read the book description. | Re-read in Milestone 8: Re-read the Magnes Press book description."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -18521,7 +19712,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read the article (translations of EA 252-254, 271, 280, 289)."
+        "note": "Downloaded the page and read the article (translations of EA 252-254, 271, 280, 289). | Re-read in Milestone 8: Re-read in M9 the section on the 'Apiru in the Canaanite letters."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18579,7 +19770,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Book not opened; its arguments read in the publisher description and table of contents (bloomsbury-masalha-palestine) and in reviews by Mohammed Al Aqad (IJPS 2025) and Jonathan Schanzer (MEQ 2019)."
+        "note": "Book not opened; its arguments read in the publisher description and table of contents (bloomsbury-masalha-palestine) and in reviews by Mohammed Al Aqad (IJPS 2025) and Jonathan Schanzer (MEQ 2019). | Re-read in Milestone 8: Book not opened; its argument read in Al Aqad's 2025 review."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -18622,6 +19813,25 @@
       },
       "kind": "press",
       "institution_country": "EG"
+    },
+    {
+      "id": "masri-palquest-palestinian-citizenship-israel",
+      "type": "web",
+      "authors": [
+        "Masri, Mazen"
+      ],
+      "title": "Palestinian Citizenship in Israel",
+      "container": "Interactive Encyclopedia of the Palestine Question (PalQuest)",
+      "publisher": "Institute for Palestine Studies",
+      "url": "https://www.palquest.org/en/highlight/10585/palestinian-citizenship-israel",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry."
+      },
+      "kind": "academic",
+      "institution_country": "LB"
     },
     {
       "id": "matras-1999-domari-jerusalem",
@@ -19022,6 +20232,26 @@
       "institution_country": "NL"
     },
     {
+      "id": "millard-2012-alphabet",
+      "type": "chapter",
+      "authors": [
+        "Millard, Alan"
+      ],
+      "title": "The Alphabet",
+      "container": "H. Gzella (ed.), Languages from the World of the Bible, pp. 14-27",
+      "publisher": "De Gruyter",
+      "year": 2012,
+      "url": "https://library.oapen.org/handle/20.500.12657/31653",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access volume (CC BY-NC-ND 3.0; OAPEN Library), read in the copy of the OAPEN PDF downloaded earlier in this project from the Wayback Machine; read section 2.1 (p. 17)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "mills-1932",
       "type": "census",
       "authors": [
@@ -19090,7 +20320,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Public-domain book (1907). Downloaded and read the Internet Archive OCR text of the Cornell University Library scan; read ch. VI, pp. 110-112 (the Samaritans under Zeno), which draws on the Chronicon Paschale, Procopius and the Samaritan chronicles."
+        "note": "Public-domain book (1907). Downloaded and read the Internet Archive OCR text of the Cornell University Library scan; read ch. VI, pp. 110-112 (the Samaritans under Zeno), which draws on the Chronicon Paschale, Procopius and the Samaritan chronicles. | Re-read in Milestone 8: Re-read in M9 ch. III, pp. 50-53 (the fall of Samaria and its aftermath), in the Internet Archive OCR text. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text of the Cornell University Library scan: ch. IV, 'Their origin in the Persian period', pp. 59-62. Dated (1907) scholarship; its racial vocabulary is not reproduced here."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -19319,7 +20549,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw the abstract's opening sentence in a search-result snippet of the journal's issue page (the page itself returned HTTP 403); bibliographic data confirmed via Crossref."
+        "note": "Saw the abstract's opening sentence in a search-result snippet of the journal's issue page (the page itself returned HTTP 403); bibliographic data confirmed via Crossref. | Re-read in Milestone 8: Read the full abstract (publisher metadata as served by the OpenAlex API for DOI 10.1086/basor25067021); the article itself is not open access."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -19647,6 +20877,101 @@
       "kind": "press",
       "institution_country": "AE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "nce-2003-canaan-canaanites",
+      "type": "chapter",
+      "authors": [
+        "Dahood, M. J."
+      ],
+      "title": "Canaan and Canaanites",
+      "container": "New Catholic Encyclopedia (2nd ed.)",
+      "publisher": "Gale (online at Encyclopedia.com)",
+      "year": 2003,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/canaan-and-canaanites",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com. Written by Mitchell Dahood for the first edition (1967); some views (e.g. an Israelite conquest of the hill country) are older positions that later archaeology has challenged."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "nce-2003-phoenicians",
+      "type": "chapter",
+      "authors": [
+        "Di Lella, A. A."
+      ],
+      "title": "Phoenicians",
+      "container": "New Catholic Encyclopedia (2nd ed.)",
+      "publisher": "Gale (online at Encyclopedia.com)",
+      "year": 2003,
+      "edition": "2nd",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/phoenicians",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
+      "id": "nebel-2000-y-haplotypes-israeli-palestinian-arabs",
+      "type": "article",
+      "authors": [
+        "Nebel, Almut",
+        "Filon, Dvora",
+        "Weiss, Deborah A.",
+        "Weale, Michael",
+        "Faerman, Marina",
+        "Oppenheim, Ariella",
+        "Thomas, Mark G."
+      ],
+      "title": "High-resolution Y chromosome haplotypes of Israeli and Palestinian Arabs reveal geographic substructure and substantial overlap with haplotypes of Jews",
+      "container": "Human Genetics 107 (6): 630-641",
+      "publisher": "Springer",
+      "year": 2000,
+      "doi": "10.1007/s004390000426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11153918/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the full abstract in the PubMed record (PMID 11153918); the article itself is not open access. Authors at the Hebrew University-Hadassah Medical School and University College London."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
+    },
+    {
+      "id": "nebel-2001-y-chromosome-pool-jews",
+      "type": "article",
+      "authors": [
+        "Nebel, Almut",
+        "Filon, Dvora",
+        "Brinkmann, Bernd",
+        "Majumder, Partha P.",
+        "Faerman, Marina",
+        "Oppenheim, Ariella"
+      ],
+      "title": "The Y chromosome pool of Jews as part of the genetic landscape of the Middle East",
+      "container": "American Journal of Human Genetics 69 (5): 1095-1112",
+      "publisher": "Cell Press (Elsevier) for the American Society of Human Genetics",
+      "year": 2001,
+      "doi": "10.1086/324070",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1274378/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the full abstract in the PubMed record (PMID 11573163). The free PMC copy is a scanned PDF that could not be downloaded automatically, so the body of the article was not read."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "neuville-1948",
@@ -20235,6 +21560,41 @@
       "institution_country": "PS"
     },
     {
+      "id": "oefner-2013-samaritans-genetics",
+      "type": "article",
+      "authors": [
+        "Oefner, Peter J.",
+        "Hölzl, Georg",
+        "Shen, Peidong",
+        "Shpirer, Isaac",
+        "Gefel, Dov",
+        "Lavi, Tal",
+        "Wolf, Eilon",
+        "Cohen, Jonathan",
+        "Cinnioglu, Cengiz",
+        "Underhill, Peter A.",
+        "Rosenberg, Noah A.",
+        "Hochrein, Jochen",
+        "Granka, Julie M.",
+        "Hillel, Jossi",
+        "Feldman, Marcus W."
+      ],
+      "title": "Genetics and the history of the Samaritans: Y-chromosomal microsatellites and genetic affinity between Samaritans and Cohanim",
+      "container": "Human Biology 85 (6)",
+      "publisher": "Wayne State University Press",
+      "year": 2013,
+      "url": "https://digitalcommons.wayne.edu/humbiol_preprints/40",
+      "doi": "10.3378/027.085.0601",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access accepted preprint (dated 27 June 2013) as deposited in the University of Regensburg repository (https://epub.uni-regensburg.de/30518/): abstract, introduction and discussion. Page numbers of the printed article not checked. Authors at Stanford, Regensburg and Israeli institutions (Hebrew University, Assaf Harofeh and Barzilai medical centres)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "ohchr-2024-a-hrc-55-72",
       "type": "document",
       "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan (A/HRC/55/72)",
@@ -20482,7 +21842,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the online edition and translation (col. ii lines on the Qarqar coalition). | Re-read in Milestone 8: Re-read the Oracc English translation of the Kurkh Monolith (Q004607), col. ii 90-95 (the coalition of 853 BCE)."
+        "note": "Read the online edition and translation (col. ii lines on the Qarqar coalition). | Re-read in Milestone 8: Re-read the Oracc English translation of the Kurkh Monolith (Q004607), col. ii 90-95 (the coalition of 853 BCE). | Re-read in Milestone 8: Re-read in M9 the Oracc English translation (Q004607), col. ii 90-95 (Ahab the Israelite; Gindibu of the Arabs; Ba'sa of Bit-Ammon)."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -20584,7 +21944,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of the tribute list (rev. 7'-12'). | Re-read in Milestone 8: Re-read the Oracc English translation (Q003460), rev. 7-12 (list of tributary kings of the West). | Re-read in Milestone 8: Re-read in round H: Oracc English translation of Tiglath-pileser III 47 (Q003460), rev. 7'-12' (payment of the western kings, incl. Bīt-Ammon, Moab, Ashkelon, Judah, Edom and Gaza)."
+        "note": "Read the translation of the tribute list (rev. 7'-12'). | Re-read in Milestone 8: Re-read the Oracc English translation (Q003460), rev. 7-12 (list of tributary kings of the West). | Re-read in Milestone 8: Re-read in round H: Oracc English translation of Tiglath-pileser III 47 (Q003460), rev. 7'-12' (payment of the western kings, incl. Bīt-Ammon, Moab, Ashkelon, Judah, Edom and Gaza). | Re-read in Milestone 8: Re-read in M9 the Oracc English translation (Q003460), rev. 7'-12' (Jehoahaz of the land Judah, Qaus-malaka of Edom)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -20709,6 +22069,28 @@
       },
       "kind": "reference",
       "institution_country": "GB"
+    },
+    {
+      "id": "ostrer-skorecki-2012-population-genetics-jewish-people",
+      "type": "article",
+      "authors": [
+        "Ostrer, Harry",
+        "Skorecki, Karl"
+      ],
+      "title": "The population genetics of the Jewish people",
+      "container": "Human Genetics 132 (2): 119-127",
+      "publisher": "Springer",
+      "year": 2013,
+      "doi": "10.1007/s00439-012-1235-6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3543766/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access review (published online 2012) in PubMed Central (PMC3543766): abstract and sections on genome-wide studies and on Ashkenazi Y-chromosome lineages. Authors at Albert Einstein College of Medicine (New York) and Technion/Rambam (Haifa)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "ovadiah-pierri-elijahs-cave",
@@ -20938,7 +22320,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Yannis Arab."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -21077,7 +22459,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the full entry by Maher Charif, incl. the closing section on assimilation."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -21153,7 +22535,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: Re-read the opening paragraphs of the entry by Maher Charif (no casualty figures used)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -21961,7 +23343,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 3-page English brief published 31/12/2025."
+        "note": "Read the 3-page English brief published 31/12/2025. | Re-read in Milestone 8: Re-read page 1 of the English brief (31 Dec 2025)."
       },
       "kind": "government",
       "institution_country": "PS",
@@ -22023,6 +23405,134 @@
       "kind": "government",
       "institution_country": "PS",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "pe-anbat",
+      "type": "web",
+      "title": "الأنباط (The Nabataeans)",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B7/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20211025165415."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-arab-before-islam",
+      "type": "web",
+      "title": "العرب قبل الإسلام في فلسطين (Arabs before Islam in Palestine)",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221129222818."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-dajaima",
+      "type": "web",
+      "title": "الضجاعمة (قبيلة) (The Daja'ima (tribe))",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%B6%D8%AC%D8%A7%D8%B9%D9%85%D8%A9-%D9%82%D8%A8%D9%8A%D9%84%D8%A9/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221006020051."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-decapolis",
+      "type": "web",
+      "title": "المدن العشر (The Ten Cities (Decapolis))",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221006000409."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-ghasasina",
+      "type": "web",
+      "title": "الغساسنة (The Ghassanids)",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%BA%D8%B3%D8%A7%D8%B3%D9%86%D8%A9/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20230126072025."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-hellenistic-age",
+      "type": "web",
+      "title": "العصر الهلنستي (The Hellenistic age)",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D9%86%D8%B3%D8%AA%D9%8A/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20221002135200."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-samiriyun",
+      "type": "web",
+      "title": "السامريون (The Samaritans)",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%A7%D9%84%D8%B3%D8%A7%D9%85%D8%B1%D9%8A%D9%88%D9%86/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20201031124928."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
+    },
+    {
+      "id": "pe-tanukh",
+      "type": "web",
+      "title": "تنوخ (قبيلة) (Tanukh (tribe))",
+      "container": "al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition",
+      "publisher": "Palestinian Encyclopedia Board (Hay'at al-Mawsu'a al-Filastiniyya)",
+      "url": "https://www.palestinapedia.net/%D8%AA%D9%86%D9%88%D8%AE-%D9%82%D8%A8%D9%8A%D9%84%D8%A9/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Unsigned entry of al-Mawsu'a al-Filastiniyya (The Palestinian Encyclopedia), online edition at palestinapedia.net (Palestinian Encyclopedia Board). The live site returned an error (HTTP 521) on 2026-10-20, so the entry was read in full via an Internet Archive Wayback Machine capture. The online page gives no volume, edition or date. Capture used: 20220525233244."
+      },
+      "kind": "reference",
+      "institution_country": "PS"
     },
     {
       "id": "peacenow-2026-land-registration-decision",
@@ -22325,7 +23835,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full text, Articles 1-33."
+        "note": "Read the full text, Articles 1-33. | Re-read in Milestone 8: Re-read Articles 1-6 (Avalon Project)."
       },
       "kind": "government",
       "institution_country": "PS",
@@ -22451,7 +23961,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read Annex III (Declaration of Independence) in the scanned UN document; OCR text was noisy, quote checked against the scan text and normalised for OCR errors."
+        "note": "Read Annex III (Declaration of Independence) in the scanned UN document; OCR text was noisy, quote checked against the scan text and normalised for OCR errors. | Re-read in Milestone 8: Re-read Annex III (Declaration of Independence) in the scanned UN document A/43/827; the OCR text is noisy, so the quote was checked against the scan text with OCR errors normalised."
       },
       "kind": "un",
       "institution_country": "UN",
@@ -22694,7 +24204,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century)."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century). | Re-read in Milestone 8: Re-read the opening of the chapter (HoC vol. V, p. 59) in the University of Wisconsin open-access scan."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -22907,7 +24417,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read chapter 6 (the Nea church in Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the LacusCurtius page (Loeb 1940 translation) saved earlier: Book V, ch. 8, §1 (the province formerly called Arabia, now 'Third Palestine'). | Also recorded as a separate entry: Primary source (6th century); read V.7 on the Samaritans of Neapolis/Mount Gerizim, with the site's editorial footnotes."
+        "note": "Downloaded the page and read chapter 6 (the Nea church in Jerusalem). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the LacusCurtius page (Loeb 1940 translation) saved earlier: Book V, ch. 8, §1 (the province formerly called Arabia, now 'Third Palestine'). | Also recorded as a separate entry: Primary source (6th century); read V.7 on the Samaritans of Neapolis/Mount Gerizim, with the site's editorial footnotes. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius: Buildings V.7 (Zeno drives the Samaritans from Mount Gerizim and builds a church there; Justinian's fortification)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -22927,7 +24437,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source; read 11.24-29 on the Samaritan rising under Justinian."
+        "note": "Primary source; read 11.24-29 on the Samaritan rising under Justinian. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius (Dewing's Loeb translation): Anecdota 11.14-32 (Justinian's laws against heretics, Samaritans and pagans; the Samaritans of Caesarea take the name of Christians). The casualty figure in 11.29 is not used."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23046,6 +24556,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "radner-2018-lost-tribes",
+      "type": "chapter",
+      "authors": [
+        "Radner, Karen"
+      ],
+      "title": "The 'Lost Tribes of Israel' in the Context of the Resettlement Programme of the Assyrian Empire",
+      "container": "S. Hasegawa, C. Levin and K. Radner (eds.), The Last Days of the Kingdom of Israel (BZAW 511), pp. 101-123",
+      "publisher": "De Gruyter",
+      "year": 2019,
+      "isbn": "9783110566604",
+      "url": "https://epub.ub.uni-muenchen.de/58863/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the publisher's version deposited by the author in Open Access LMU (University of Munich) and read the whole chapter (pp. 101-123). The repository dates it November 2018; the printed volume carries 2019."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "raviv-ben-david-2021-cassius-dio-bar-kokhba",
       "type": "article",
       "authors": [
@@ -23064,7 +24595,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Open-access article downloaded as PDF from Cambridge Core and converted to text. Read the abstract, the sections on Judea, Peraea and Galilee (pp. 589-595: the almost total destruction of Jewish settlement in Judea at the end of the war; Galilee largely unaffected, with settlement peaking 136-250 CE) and the conclusions. Printed page = PDF page + 584 (volume and page range from the PDF header: Journal of Roman Archaeology 34 (2021), 585-607). Authors: Bar-Ilan University and Kinneret Academic College (Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF (CC BY) from Cambridge Core and read p. 585 n. 3 (range of estimates for Roman Palestine), pp. 588-589 with n. 16 (Applebaum's and Kloner's estimates), pp. 590 and 596 (extent of the Land of Judea) and p. 602 (the authors' own estimate for the Land of Judea)."
+        "note": "Open-access article downloaded as PDF from Cambridge Core and converted to text. Read the abstract, the sections on Judea, Peraea and Galilee (pp. 589-595: the almost total destruction of Jewish settlement in Judea at the end of the war; Galilee largely unaffected, with settlement peaking 136-250 CE) and the conclusions. Printed page = PDF page + 584 (volume and page range from the PDF header: Journal of Roman Archaeology 34 (2021), 585-607). Authors: Bar-Ilan University and Kinneret Academic College (Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF (CC BY) from Cambridge Core and read p. 585 n. 3 (range of estimates for Roman Palestine), pp. 588-589 with n. 16 (Applebaum's and Kloner's estimates), pp. 590 and 596 (extent of the Land of Judea) and p. 602 (the authors' own estimate for the Land of Judea). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the PDF text saved earlier in this project: p. 594 (Jewish settlement in Galilee after the Bar Kokhba revolt)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -23198,6 +24729,26 @@
       "institution_country": "GB"
     },
     {
+      "id": "reynolds-2014-monasticism-early-islamic-palestine",
+      "type": "thesis",
+      "authors": [
+        "Reynolds, Daniel"
+      ],
+      "title": "Monasticism and Christian pilgrimage in early Islamic Palestine c.614-c.950",
+      "container": "PhD thesis, University of Birmingham",
+      "publisher": "University of Birmingham",
+      "year": 2014,
+      "url": "https://etheses.bham.ac.uk/id/eprint/4988/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open-access (redacted) thesis PDF from the University of Birmingham eTheses repository and read the passages on conversion and Christian demography (thesis pp. 212-213, 218-219 and 311-312)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "rferl-2002-03-28-beirut-summit",
       "type": "article",
       "title": "Middle East: Arab Summit Endorses Saudi Peace Plan [report, Prague, 28 March 2002]",
@@ -23288,7 +24839,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the English translations of Tiglath-pileser III 21 (Q003434), 42 (Q003455), 44 (Q003457) and 49 (Q003462) online. | Re-read in Milestone 8: Re-read in round H: downloaded the Oracc English translations of Tiglath-pileser III 14 (Q003427, payment list of 738 BCE), 35 (Q003448, Iran stele, col. iii 1-23), 42 (Q003455, lines 1'-37') and 49 (Q003462, obv. and rev.)."
+        "note": "Read the English translations of Tiglath-pileser III 21 (Q003434), 42 (Q003455), 44 (Q003457) and 49 (Q003462) online. | Re-read in Milestone 8: Re-read in round H: downloaded the Oracc English translations of Tiglath-pileser III 14 (Q003427, payment list of 738 BCE), 35 (Q003448, Iran stele, col. iii 1-23), 42 (Q003455, lines 1'-37') and 49 (Q003462, obv. and rev.). | Re-read in Milestone 8: Re-read in M9 the Oracc English translation of Tiglath-pileser III 35 (Q003448), col. iii 1-5 (the land Qedar and the Arabs among tributaries, 738 BCE)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23308,7 +24859,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online. | Re-read in Milestone 8: Re-read the Oracc English translation of Sargon II 007 (Great Display Inscription, Q006488), lines 90-109 (Ashdod). | Re-read in Milestone 8: Re-read in round H: Oracc English translations of Sargon II 7 (Great Display Inscription, Q006488), lines 23b-27 (Samaria, Gaza) and 90-109 (Ashdod), and Sargon II 1 (Annals, Q006482), lines 10-18 and 248-262."
+        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online. | Re-read in Milestone 8: Re-read the Oracc English translation of Sargon II 007 (Great Display Inscription, Q006488), lines 90-109 (Ashdod). | Re-read in Milestone 8: Re-read in round H: Oracc English translations of Sargon II 7 (Great Display Inscription, Q006488), lines 23b-27 (Samaria, Gaza) and 90-109 (Ashdod), and Sargon II 1 (Annals, Q006482), lines 10-18 and 248-262. | Re-read in Milestone 8: Re-read in M9 the Oracc English translation of Sargon II 001 (Annals, Q006482), lines 120b-123a (Arab tribes resettled in Samaria)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23514,7 +25065,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 575 (Baybars' campaign of 1265) and pp. 595-598 (the fall of Acre and of the last Frankish places, 1291). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. II): pp. 561-562 (the Khorezmians in Jerusalem, 11 July - 23 August 1244), p. 574 ('Ain Jalut, 3 September 1260), p. 577 (siege and storming of Antioch, 14-18 May 1268) and p. 592 (siege and fall of Tripoli, March - 26 April 1289). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full-text (OCR) of the University of Wisconsin open-access scan of HoC vol. II, downloaded earlier in this project; page numbers from the printed running heads. Read p. 574 (the battle of 'Ain Jalut on 3 September 1260 and the passing of the Syrian hinterland into Egyptian hands). | Re-read in Milestone 8: Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of A History of the Crusades vol. II (2nd ed., 1969); page numbers from the printed running heads. Re-read pp. 562-564 (battle of Harbiyah/La Forbie, 17 October 1244) and p. 575 (Baybars' capture of Caesarea, 1265)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read p. 575 (Baybars' campaign of 1265) and pp. 595-598 (the fall of Acre and of the last Frankish places, 1291). | Re-read in Milestone 8 (group F) from the copy downloaded earlier (Internet Archive OCR of the University of Wisconsin open-access scan of HoC vol. II): pp. 561-562 (the Khorezmians in Jerusalem, 11 July - 23 August 1244), p. 574 ('Ain Jalut, 3 September 1260), p. 577 (siege and storming of Antioch, 14-18 May 1268) and p. 592 (siege and fall of Tripoli, March - 26 April 1289). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full-text (OCR) of the University of Wisconsin open-access scan of HoC vol. II, downloaded earlier in this project; page numbers from the printed running heads. Read p. 574 (the battle of 'Ain Jalut on 3 September 1260 and the passing of the Syrian hinterland into Egyptian hands). | Re-read in Milestone 8: Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of A History of the Crusades vol. II (2nd ed., 1969); page numbers from the printed running heads. Re-read pp. 562-564 (battle of Harbiyah/La Forbie, 17 October 1244) and p. 575 (Baybars' capture of Caesarea, 1265). | Re-read in Milestone 8: Re-read the account of the siege of Acre in 1291 (HoC vol. II, ch. XVI, pp. 595-598)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23781,7 +25332,7 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Book not opened; its arguments read in Ofri Ilani's Haaretz interview with the author and in Israel Bartal's Haaretz review."
+        "note": "Book not opened; its arguments read in Ofri Ilani's Haaretz interview with the author and in Israel Bartal's Haaretz review. | Re-read in Milestone 8: Book not opened; its arguments read in Ilani's Haaretz interview."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -23825,7 +25376,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of Studies in Judaism, Second Series (https://archive.org/details/cu31924029096944), the whole essay (pp. 202-285). Early 20th-century scholarship. Its passage on printing in Safed reads, in the OCR, 'about the year 1653 by two German Jews' with Alsheikh's commentary on Daniel as the first book; the printed date could not be checked against a page image, so it is not used here. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 206-207 (Safed's Jewish population becomes important from the last decade of the 15th century; natives, exiles from Spain and immigrants from the Barbary States)."
+        "note": "Downloaded and read the Internet Archive OCR text of Studies in Judaism, Second Series (https://archive.org/details/cu31924029096944), the whole essay (pp. 202-285). Early 20th-century scholarship. Its passage on printing in Safed reads, in the OCR, 'about the year 1653 by two German Jews' with Alsheikh's commentary on Daniel as the first book; the printed date could not be checked against a page image, so it is not used here. | Re-read in Milestone 8 (group F) from the Internet Archive OCR text downloaded earlier: pp. 206-207 (Safed's Jewish population becomes important from the last decade of the 15th century; natives, exiles from Spain and immigrants from the Barbary States). | Re-read in Milestone 8: Re-read pp. 207 and 230 in the Internet Archive OCR of the Cornell scan (public domain)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23965,7 +25516,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22 (p. 18, Pompey and the Decapolis) and § 23.I (pp. 62, 94-95: the Pompeian era and the duration of the Decapolis). Note that p. 95 dates the province of Arabia to 105 CE, Div. I vol. 2 p. 361 to 106."
+        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22 (p. 18, Pompey and the Decapolis) and § 23.I (pp. 62, 94-95: the Pompeian era and the duration of the Decapolis). Note that p. 95 dates the province of Arabia to 105 CE, Div. I vol. 2 p. 361 to 106. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22.II.1, 'Hellenism in the non-Jewish regions', pp. 11-12. Dated scholarship (1910 printing of an 1885 translation)."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -23987,7 +25538,7 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw the chapter's opening section ('a demography') in the publisher's preview/summary page; rest of chapter not read."
+        "note": "Saw the chapter's opening section ('a demography') in the publisher's preview/summary page; rest of chapter not read. | Re-read in Milestone 8: Re-read in Milestone 9 (group P2): the chapter's opening section ('a demography') as previously saved from the publisher's preview; the rest of the chapter was not read."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -24023,7 +25574,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10. | Re-read in Milestone 8: Read in round H through the Sefaria texts API (JPS 2023 gender-sensitive translation): 2 Samuel 8:1-14, 10:1-19, 12:26-31; 2 Kings 15:19-20, 15:29-30, 16:5-9, 17:1-6, 18:7-16, 23:29-35, 24:1-7, 24:17-20; Jeremiah 27:1-8, 46:2, 47:1-5."
+        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10. | Re-read in Milestone 8: Read in round H through the Sefaria texts API (JPS 2023 gender-sensitive translation): 2 Samuel 8:1-14, 10:1-19, 12:26-31; 2 Kings 15:19-20, 15:29-30, 16:5-9, 17:1-6, 18:7-16, 23:29-35, 24:1-7, 24:17-20; Jeremiah 27:1-8, 46:2, 47:1-5. | Re-read in Milestone 8: Read in M9 through the Sefaria texts API: Gen 10:15-19; Deut 26:5; Josh 10:40; Judg 1:27-33; 2 Kgs 16:6-9, 17:6, 17:24-29, 24:14-16, 25:11-12, 25:26; Jer 43:5-7, 44:1; Ezek 16:3; Amos 9:7; 1 Chr 5:26; Ezra 4:1-2, 4:9-10, 9:1; Neh 2:19, 13:23-24."
       },
       "kind": "religious-institution",
       "institution_country": "US"
@@ -24066,6 +25617,27 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "shahid-2009-ethnic-origin-edomites",
+      "type": "article",
+      "authors": [
+        "Shahid, Irfan"
+      ],
+      "title": "The Ethnic Origin of the Edomites",
+      "container": "Studies in the History and Archaeology of Jordan X",
+      "pages": "133-136",
+      "year": 2009,
+      "publisher": "Department of Antiquities of Jordan",
+      "url": "https://publication.doa.gov.jo/uploads/publications/25/SHAJ_10-133-136.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the PDF from the Department of Antiquities of Jordan's publication archive and read the whole article (paper given in 2007; the author was at the Department of Arabic and Islamic Studies, Georgetown University). He builds on Michael Avi-Yonah's view that the Edomites were an Arab people."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "shanks-1999-herzog-attack-unjustified",
@@ -24234,6 +25806,35 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "shlush-2008-druze-genetic-refugium",
+      "type": "article",
+      "authors": [
+        "Shlush, Liran I.",
+        "Behar, Doron M.",
+        "Yudkovsky, Guennady",
+        "Templeton, Alan",
+        "Hadid, Yarin",
+        "Basis, Fuad",
+        "Hammer, Michael",
+        "Itzkovitz, Shalev",
+        "Skorecki, Karl"
+      ],
+      "title": "The Druze: A Population Genetic Refugium of the Near East",
+      "container": "PLoS ONE 3 (5): e2105",
+      "publisher": "Public Library of Science",
+      "year": 2008,
+      "doi": "10.1371/journal.pone.0002105",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002105",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the open-access article in PubMed Central (PMC2324201): background, introduction, results on haplogroup X and the conclusions. Authors at the Technion and Rambam Health Care Campus (Haifa) and Washington University."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "simonschuster-bible-unearthed-page",
@@ -24423,6 +26024,25 @@
       "institution_country": "GB"
     },
     {
+      "id": "sozomen-hist-eccl-hartranft",
+      "type": "document",
+      "authors": [
+        "Sozomen"
+      ],
+      "title": "Ecclesiastical History, Books V-VII (trans. Chester D. Hartranft)",
+      "container": "Nicene and Post-Nicene Fathers, Second Series, vol. 2 (New Advent online edition)",
+      "publisher": "New Advent",
+      "url": "https://www.newadvent.org/fathers/26026.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (5th century). Downloaded and read book 5 ch. 3 (Constantia/Maiuma and Gaza, https://www.newadvent.org/fathers/26025.htm), book 6 ch. 38 (Mavia and the conversion of Saracens, this url) and book 7 ch. 15 (cities that remained pagan, https://www.newadvent.org/fathers/26027.htm)."
+      },
+      "kind": "reference",
+      "institution_country": "US"
+    },
+    {
       "id": "squitieri-2024-assyrian-conquest-ruralization",
       "type": "article",
       "authors": [
@@ -24495,7 +26115,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Open-access article; downloaded the HTML full text and read the abstract, introduction and discussion (dates of the 15th Dynasty; immigration versus invasion)."
+        "note": "Open-access article; downloaded the HTML full text and read the abstract, introduction and discussion (dates of the 15th Dynasty; immigration versus invasion). | Re-read in Milestone 8: Re-read in M9 the HTML full text saved earlier: abstract, introduction, discussion and conclusions."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -24663,7 +26283,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-20",
-        "note": "Primary source (early 1st century CE); the site states the translation is in the public domain. Downloaded and read 16.2.10, 16.2.18-20 and 16.2.46 (page 16B: Chalcis and Ptolemy son of Mennaeus, Zenodorus, Herod and his sons) and 16.4.21-24 (page 16D, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16D*.html: the Nabataeans as subjects of Rome)."
+        "note": "Primary source (early 1st century CE); the site states the translation is in the public domain. Downloaded and read 16.2.10, 16.2.18-20 and 16.2.46 (page 16B: Chalcis and Ptolemy son of Mennaeus, Zenodorus, Herod and his sons) and 16.4.21-24 (page 16D, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16D*.html: the Nabataeans as subjects of Rome). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius: 16.2.2 (Judaeans, Idumaeans, Gazaeans, Azotians), 16.2.10 and 16.2.18 (Ituraeans), 16.2.34 (Idumaeans and the mixed population of Judaea) on page 16B, and 16.4.21 (Nabataeans, Petra) on page 16D."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -24712,6 +26332,29 @@
       "kind": "academic",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "swayd-2005-eor-druze",
+      "type": "chapter",
+      "authors": [
+        "Swayd, Samy"
+      ],
+      "editors": [
+        "Jones, Lindsay"
+      ],
+      "title": "Druze",
+      "container": "Encyclopedia of Religion, 2nd edition (online at Encyclopedia.com)",
+      "publisher": "Macmillan Reference USA",
+      "year": 2005,
+      "url": "https://www.encyclopedia.com/philosophy-and-religion/islam/islam/druze",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full entry by Samy Swayd (a Druze scholar at San Diego State University) on Encyclopedia.com."
+      },
+      "kind": "reference",
+      "institution_country": "US"
     },
     {
       "id": "taba-arbitration-award-1988",
@@ -24765,7 +26408,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded the page and read chapter 44 (Loeb translation by J. Jackson as transcribed on LacusCurtius)."
+        "note": "Downloaded the page and read chapter 44 (Loeb translation by J. Jackson as transcribed on LacusCurtius). | Re-read in Milestone 8: Re-read in Milestone 9 (group P2) on LacusCurtius: Annals 15.44 (the name 'Christians' and its founder executed under Pontius Pilatus)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -24867,6 +26510,46 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "tdv-1991-aramiler",
+      "type": "chapter",
+      "authors": [
+        "Dinçol, Ali Muzaffer"
+      ],
+      "title": "ÂRÂMÎLER (Arameans)",
+      "container": "TDV İslâm Ansiklopedisi, vol. 3, pp. 268-270",
+      "publisher": "TDV İslâm Araştırmaları Merkezi",
+      "year": 1991,
+      "url": "https://islamansiklopedisi.org.tr/aramiler",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full online entry (Turkish); printed in vol. 3 (Istanbul 1991)."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-2020-ibraniler",
+      "type": "chapter",
+      "authors": [
+        "Gürkan, Salime Leyla"
+      ],
+      "title": "İBRÂNÎLER (Hebrews)",
+      "container": "TDV İslâm Ansiklopedisi, Ek-1 (2nd rev. printing), pp. 625-627",
+      "publisher": "TDV İslâm Araştırmaları Merkezi",
+      "year": 2020,
+      "url": "https://islamansiklopedisi.org.tr/ibraniler",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full online entry (Turkish), which surveys the meanings of \"Hebrew\" and the Habiru debate."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
     },
     {
       "id": "tdv-akka",
@@ -25033,6 +26716,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-cebele-b-eyhem",
+      "type": "web",
+      "authors": [
+        "Fayda, Mustafa"
+      ],
+      "title": "CEBELE b. EYHEM",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 1993,
+      "volume": 7,
+      "pages": "184-185",
+      "url": "https://islamansiklopedisi.org.tr/cebele-b-eyhem",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish) on Jabala ibn al-Ayham, the last Ghassanid ruler; printed in vol. 7 (Istanbul 1993), pp. 184-185, according to the site."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
       "id": "tdv-cemal-pasa",
       "type": "web",
       "authors": [
@@ -25116,6 +26821,28 @@
         "level": "full-text",
         "checked_on": "2026-10-20",
         "note": "Downloaded and read the online entry (Turkish), the history sections from the Islamic conquest to the end of Ottoman rule; printed in TDV İslâm Ansiklopedisi vol. 13 (Istanbul 1996), pp. 89-103, according to the site. Note: the entry gives the death of Zahir al-Umar as 1782, which conflicts with the usual date (1775)."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-gassaniler",
+      "type": "web",
+      "authors": [
+        "Ağırakça, Ahmet"
+      ],
+      "title": "GASSÂNÎLER",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 1996,
+      "volume": 13,
+      "pages": "397-398",
+      "url": "https://islamansiklopedisi.org.tr/gassaniler",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish); printed in vol. 13 (Istanbul 1996), pp. 397-398, according to the site. Presents the Arabic-Islamic tradition (Yemeni origin, Jafnid kings) alongside the Byzantine evidence."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -25417,6 +27144,28 @@
         "level": "full-text",
         "checked_on": "2026-10-20",
         "note": "Downloaded the online entry (Turkish) on islamansiklopedisi.org.tr on 2026-10-20 and read it in full. Printed in vol. 35 (Istanbul 2008), pp. 445-447, according to the site. Read the whole entry: Baybars' capture of Safed in 664/1266, Safed as the seat of one of the six Mamluk niyabas of Syria, the Ottoman takeover after Marj Dabiq (1516) and the later Ottoman sanjak."
+      },
+      "kind": "reference",
+      "institution_country": "TR"
+    },
+    {
+      "id": "tdv-samiriler",
+      "type": "web",
+      "authors": [
+        "Salihoğlu, Mahmut"
+      ],
+      "title": "SÂMİRÎLER",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2009,
+      "volume": 36,
+      "pages": "79-81",
+      "url": "https://islamansiklopedisi.org.tr/samiriler",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish); printed in vol. 36 (Istanbul 2009), pp. 79-81, according to the site. Sets out the Jewish and the Samaritan accounts of Samaritan origins side by side."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -25780,7 +27529,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive capture 20201207080847, including the \"guiding principles\" section."
+        "note": "Read via Internet Archive capture 20201207080847, including the \"guiding principles\" section. | Re-read in Milestone 8: Re-read in M9 the \"guiding principles\" (nos. 4 and 9)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -27813,6 +29562,26 @@
       "institution_country": "GB"
     },
     {
+      "id": "unpfii-2006-who-are-indigenous-peoples",
+      "type": "document",
+      "authors": [
+        "UN Permanent Forum on Indigenous Issues"
+      ],
+      "title": "Who are indigenous peoples? (Factsheet, 5th session)",
+      "container": "United Nations Permanent Forum on Indigenous Issues",
+      "publisher": "United Nations, Department of Economic and Social Affairs",
+      "year": 2006,
+      "url": "https://www.un.org/esa/socdev/unpfii/documents/5session_factsheet1.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the two-page factsheet."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "unrwa-1951-a1905",
       "type": "document",
       "title": "Assistance to Palestine Refugees: Report of the Director of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (A/1905)",
@@ -28686,6 +30455,37 @@
       "kind": "government",
       "institution_country": "GB",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "waldman-2022-erfurt-medieval-jews",
+      "type": "article",
+      "authors": [
+        "Waldman, Shamam",
+        "Backenroth, Daniel",
+        "Harney, Éadaoin",
+        "Flohr, Stefan",
+        "Neff, Nadia C.",
+        "Buckley, Gina M.",
+        "Fridman, Hila",
+        "Akbari, Ali",
+        "Rohland, Nadin",
+        "Reich, David",
+        "Carmi, Shai"
+      ],
+      "title": "Genome-wide data from medieval German Jews show that the Ashkenazi founder event pre-dated the 14th century",
+      "container": "Cell 185 (25): 4703-4716",
+      "publisher": "Cell Press (Elsevier)",
+      "year": 2022,
+      "doi": "10.1016/j.cell.2022.11.002",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9793425/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the summary, 'In brief' and highlights of the open-access article in PubMed Central (PMC9793425). Author list abridged; lead institution the Hebrew University of Jerusalem."
+      },
+      "kind": "academic",
+      "institution_country": "IL"
     },
     {
       "id": "walker-2004-mamluk-investment-transjordan",

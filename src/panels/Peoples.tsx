@@ -58,24 +58,34 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
   const p1 = scale.tToPos(asOfT);
   const W = 1000;
   const plotW = W - LABEL_W - 16;
-  const xOf = (tt: number) => {
-    const f = (scale.tToPos(Math.min(asOfT, Math.max(t0, tt))) - p0) / Math.max(1e-9, p1 - p0);
-    return rtl ? W - LABEL_W - f * plotW : LABEL_W + f * plotW;
+  // Mostly even years (so the Bronze Age is not squeezed), blended with the site's era scale (so the
+  // short modern periods stay visible).
+  const frac = (tt: number) => {
+    const c = Math.min(asOfT, Math.max(t0, tt));
+    const lin = (c - t0) / Math.max(1e-9, asOfT - t0);
+    const era = (scale.tToPos(c) - p0) / Math.max(1e-9, p1 - p0);
+    return 0.72 * lin + 0.28 * era;
   };
+  const xOf = (tt: number) => (rtl ? W - LABEL_W - frac(tt) * plotW : LABEL_W + frac(tt) * plotW);
   const yOf = (id: string) => TOP + (rowOf.get(id) ?? 0) * ROW + ROW / 2;
   const H = TOP + rows.length * ROW + 12;
 
+  // Era boundaries as vertical lines; names only where there is room for them.
   const eraTicks = useMemo(() => {
-    const segs = scale.segmentPositions();
-    return segs
-      .map((s, i) => ({ s, era: data.eras[i] }))
-      .filter(({ s }) => s.p1 > p0 && s.p0 < p1)
-      .map(({ s, era }) => ({ id: s.id, pos: Math.max(s.p0, p0), label: era ? loc(era.label, lang) : s.id }));
-  }, [scale, data, p0, p1, lang]);
-  const posX = (pos: number) => {
-    const f = (pos - p0) / Math.max(1e-9, p1 - p0);
-    return rtl ? W - LABEL_W - f * plotW : LABEL_W + f * plotW;
-  };
+    const out: { id: string; x: number; label: string | null }[] = [];
+    let lastLabelX = -Infinity;
+    scale.segments.forEach((seg, i) => {
+      if (seg.t1 <= t0 || seg.t0 >= asOfT) return;
+      const x = xOf(Math.max(seg.t0, t0));
+      const room = Math.abs(x - lastLabelX) > 92;
+      const era = data.eras[i];
+      out.push({ id: seg.id, x, label: room && era ? loc(era.label, lang) : null });
+      if (room) lastLabelX = x;
+    });
+    return out;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [scale, data, t0, asOfT, lang, rtl]);
+  const short = (text: string, n: number) => (text.length > n ? `${text.slice(0, n - 1).trimEnd()}…` : text);
 
   const sel = selected ? byId.get(selected) : undefined;
   const choose = (id: string) => {
@@ -126,10 +136,12 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
               </defs>
               {eraTicks.map((e) => (
                 <g key={e.id}>
-                  <line x1={posX(e.pos)} x2={posX(e.pos)} y1={TOP - 6} y2={H} stroke="#e4ded2" />
-                  <text x={posX(e.pos) + (rtl ? -3 : 3)} y={TOP - 12} fontSize="10" fill="#6b6457" textAnchor={rtl ? 'end' : 'start'}>
-                    {e.label}
-                  </text>
+                  <line x1={e.x} x2={e.x} y1={TOP - 6} y2={H} stroke="#e4ded2" />
+                  {e.label && (
+                    <text x={e.x + (rtl ? -3 : 3)} y={TOP - 12} fontSize="10" fill="#6b6457" textAnchor={rtl ? 'end' : 'start'}>
+                      {short(e.label, 16)}
+                    </text>
+                  )}
                 </g>
               ))}
               {rows.map((p) => {
@@ -153,7 +165,8 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                       <title>{`${loc(p.name, lang)} · ${formatDate(p.attested.start, lang)} – ${p.attested.end ? formatDate(p.attested.end, lang) : tr('peoples.today')}`}</title>
                     </rect>
                     <text x={rtl ? W - 6 : 6} y={y + 4} fontSize="12" textAnchor={rtl ? 'end' : 'start'} fontWeight={on ? 700 : 400} fill="#1d2a36">
-                      {loc(p.name, lang)}
+                      {short(loc(p.name, lang), 27)}
+                      <title>{loc(p.name, lang)}</title>
                     </text>
                   </g>
                 );
@@ -190,9 +203,11 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                     <path d={`M${x},${y1} L${x + dx},${y1 - 9}`} {...common}>
                       <title>{tip}</title>
                     </path>
-                    <text x={x + dx + (rtl ? -3 : 3)} y={y1 - 9} fontSize="10" fill={st.color} textAnchor={rtl ? 'end' : 'start'}>
-                      {loc(l.destination?.label, lang)}
-                    </text>
+                    {hot && (
+                      <text x={x + dx + (rtl ? -3 : 3)} y={y1 - 9} fontSize="10" fill={st.color} textAnchor={rtl ? 'end' : 'start'} className="dest-label">
+                        {short(loc(l.destination?.label, lang).split(/[(:;,]/)[0]!.trim(), 34)}
+                      </text>
+                    )}
                   </g>
                 );
               })}

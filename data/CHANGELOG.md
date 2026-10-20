@@ -678,3 +678,28 @@ Gaps:
 - No published estimate by an Arab or Palestinian scholar was found for these periods.
 - No open numerical breakdown by religion exists for the Byzantine period: Tsafrir, Dauphin, Di Segni and Avi-Yonah could not be opened.
 - The figures for Gilead, Ammon, Moab and Edom from Broshi and Finkelstein are still missing.
+
+## 2026-10-20 — Milestone 9: peoples through time
+
+A new **Peoples** page follows the peoples and communities of the land: when the sources first and last name each one, what it continued as, merged into, assimilated into or converted to, and where it went. There are 45 peoples, from the Amorites and Canaanites to the Palestinian refugees and Israeli Jews, and 85 links between them. Each link is a sourced statement with its date, its confidence, and the kind of evidence it rests on: documents, archaeology, textual tradition (e.g. the Bible), language, or ancient and modern DNA. Where scholars disagree, the link is marked contested and each position is given with its own source.
+
+Examples of contested links:
+- Israelite origins.
+- The fate of the Philistines and the Idumeans.
+- The pace of the population's conversion to Islam.
+- Whether part of the Jewish population converted and stayed.
+- Ashkenazi and Beta Israel origins.
+- The causes of the 1948 exodus.
+
+Editorial choices:
+- No people is labelled "indigenous" or "native" in the data, because both Palestinians and Jews describe themselves as the land's indigenous people.
+- That question is a new perspectives topic, "Who are the indigenous people of the land?". It sets side by side the Palestinian view (the PLO Charter and 1988 Declaration, Masalha, Muslih, Masri, Amara), the Israeli view (the Declaration of Independence, the 2018 Basic Law, government statements, Frantzman, Yahel and Kark), scholarship on law and history (the UN Permanent Forum, Luz, Ellenblum, Doumani, Grossman, Foster, and the Sand–Bartal debate), and genetic studies.
+- Genetic studies are quoted in their authors' words with their caveats. Agranat-Tamir et al. (2020): present-day Arabic-speaking and Jewish groups share Bronze Age Levantine ancestry, which "does not mean" direct descent from the sampled people. Ancestry does not decide identity or rights.
+
+Sources: 164 new works and re-read existing ones. They include Israeli, Palestinian, Lebanese, Jordanian and Turkish scholarship, ancient-DNA and genome-wide studies, primary texts, and the Samaritan community's own history.
+
+Gaps:
+- No Palestinian-authored genome-wide ancestry study in open access was found.
+- Several key books could be read only through reviews: Faust, Killebrew, Masalha, Levtzion, Avni, Shahîd.
+- Records are not yet drafted for the Kurds, Turkmen, Ghawarna, Dom, Afro-Palestinians, Hurrians and the other biblical "peoples of Canaan".
+- About twenty peoples and links marked documented still rest on a single source.
