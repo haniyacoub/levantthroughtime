@@ -905,7 +905,12 @@ function PeopleCards({
                         </>
                       ) : (
                         <span className="codex-initial" aria-hidden>
-                          {loc(p.name, lang).replace(/^['ʿ"(]+/, '').charAt(0)}
+                          {/* Skip quotes and the definite article (Hebrew ה-, Arabic ال) so cards do not all show the same letter. */}
+                          {loc(p.name, lang)
+                            .replace(/^['ʿ"(]+/, '')
+                            .replace(/^ה(?=[\u05D0-\u05EA]{2})/, '')
+                            .replace(/^ال(?=[\u0621-\u064A]{2})/, '')
+                            .charAt(0)}
                         </span>
                       )}
                     </span>

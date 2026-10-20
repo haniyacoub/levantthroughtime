@@ -776,3 +776,7 @@ Communities of clergy and pilgrims from abroad have no links: the sources do not
 - No Coptic Church source.
 - Ge'ez/Tigrinya, Judeo-Persian and Jewish Neo-Aramaic.
 - Not drafted: the Indian Hospice, Shi'i villagers, the African Hebrew Israelites of Dimona, the Alawites of Ghajar, the Church of the East and Franciscan clergy.
+
+**Translations (same round):** 307 new or changed texts in `peoples.json` and `languages.json` were drafted in Arabic and Hebrew, giving 614 machine drafts, marked as such.
+- A second pass wrote scholars' names in Arabic and Hebrew script, as elsewhere on the site, and removed leftover Hebrew vowel points.
+- Titles of works, outlets, acronyms and quoted source passages stay in their original language.

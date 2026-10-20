@@ -240,7 +240,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Late Bronze Age Canaanite is the oldest stage of the Canaanite branch of Northwest Semitic (beside Ugaritic and Aramaic); its ancestor is not in the data, and it was probably influenced by Amorite."
+          "en": "Late Bronze Age Canaanite is the oldest stage of the Canaanite branch of Northwest Semitic (beside Ugaritic and Aramaic); its ancestor is not in the data, and it was probably influenced by Amorite.",
+          "ar": "الكنعانية في العصر البرونزي المتأخر هي أقدم مراحل الفرع الكنعاني من السامية الشمالية الغربية (إلى جانب الأوغاريتية والآرامية)؛ وسلفها غير مدرج في البيانات، ومن المحتمل أنها تأثرت بالأمورية.",
+          "he": "הכנענית של תקופת הברונזה המאוחרת היא השלב הקדום ביותר של הענף הכנעני של השמית הצפון-מערבית (לצד האוגריתית והארמית); אבותיה אינם מופיעים בנתונים, וייתכן שהושפעה מהאמורית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -336,7 +342,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "Phoenician continues the Canaanite dialects of the Bronze Age coastal cities, whose earlier stage left traces in Akkadian texts; Punic was its North African offshoot."
+          "en": "Phoenician continues the Canaanite dialects of the Bronze Age coastal cities, whose earlier stage left traces in Akkadian texts; Punic was its North African offshoot.",
+          "ar": "الفينيقية امتداد للهجات الكنعانية في مدن الساحل في العصر البرونزي، التي تركت مرحلتها الأقدم آثارًا في النصوص الأكادية؛ والبونيقية فرعها في شمال أفريقيا.",
+          "he": "הפיניקית היא המשך של הניבים הכנעניים של ערי החוף בתקופת הברונזה, ששלבם הקדום יותר הותיר עקבות בטקסטים אכדיים; הפונית הייתה ענף שלה בצפון אפריקה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -436,7 +448,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Ugaritic is a separate, more archaic branch of Northwest Semitic and a close relative, not the ancestor, of Canaanite."
+          "en": "Ugaritic is a separate, more archaic branch of Northwest Semitic and a close relative, not the ancestor, of Canaanite.",
+          "ar": "الأوغاريتية فرع منفصل وأكثر قدمًا من السامية الشمالية الغربية، وهي قريبة من الكنعانية وليست سلفها.",
+          "he": "האוגריתית היא ענף נפרד וארכאי יותר של השמית הצפון-מערבית, וקרובת משפחה של הכנענית ולא אבותיה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -821,7 +839,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "Hebrew is a Canaanite language whose pre-biblical stage is glimpsed in the Amarna glosses; it continued as Biblical, Mishnaic, medieval and revived Modern Hebrew, which most linguists treat as the same language while Zuckermann calls it \"Israeli\", a hybrid shaped also by Yiddish and other European languages."
+          "en": "Hebrew is a Canaanite language whose pre-biblical stage is glimpsed in the Amarna glosses; it continued as Biblical, Mishnaic, medieval and revived Modern Hebrew, which most linguists treat as the same language while Zuckermann calls it \"Israeli\", a hybrid shaped also by Yiddish and other European languages.",
+          "ar": "العبرية لغة كنعانية تُلمح مرحلتها السابقة للتوراة في الغلوسات (الحواشي) الواردة في رسائل تل العمارنة؛ واستمرت في صورة العبرية التوراتية والمشنائية والوسيطة والعبرية الحديثة المحياة، التي يعدها معظم اللغويين اللغة نفسها بينما يسميها زوكرمان «الإسرائيلية»، وهي لغة هجينة تشكلت أيضًا بتأثير اليديشية ولغات أوروبية أخرى.",
+          "he": "העברית היא שפה כנענית ששלבה שלפני המקרא נחשף בגלוסות של אל-עמארנה; היא נמשכה כעברית מקראית, משנאית, ימי-ביניימית ועברית חדשה מתחייה, שרוב הבלשנים רואים בה אותה שפה, ואילו צוקרמן מכנה אותה „ישראלית”, שפה היברידית שעוצבה גם בידי היידיש ושפות אירופיות אחרות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -929,7 +953,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "Moabite is one of the Iron Age Canaanite languages east of the Jordan, grouped with Edomite and southern Hebrew as South Canaanite (Beyer)."
+          "en": "Moabite is one of the Iron Age Canaanite languages east of the Jordan, grouped with Edomite and southern Hebrew as South Canaanite (Beyer).",
+          "ar": "الموآبية إحدى اللغات الكنعانية في العصر الحديدي شرقي الأردن، وتُصنَّف مع الأدومية والعبرية الجنوبية ضمن الكنعانية الجنوبية (باير).",
+          "he": "המואבית היא אחת השפות הכנעניות של תקופת הברזל ממזרח לירדן, ומסווגת עם האדומית והעברית הדרומית ככנענית דרומית (באייר).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -1132,7 +1162,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Aramaic is a separate branch of Northwest Semitic beside Canaanite, with a continuous history from the 10th century BCE to the present."
+          "en": "Aramaic is a separate branch of Northwest Semitic beside Canaanite, with a continuous history from the 10th century BCE to the present.",
+          "ar": "الآرامية فرع منفصل من السامية الشمالية الغربية إلى جانب الكنعانية، ولها تاريخ متصل من القرن 10 ق.م. حتى اليوم.",
+          "he": "הארמית היא ענף נפרד של השמית הצפון-מערבית לצד הכנענית, בעלת היסטוריה רציפה מהמאה ה-10 לפנה״ס ועד היום.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -1220,7 +1256,13 @@
           "aramaic"
         ],
         "note": {
-          "en": "Nabataean Aramaic is one of the regional written forms of Aramaic that grew out of the Achaemenid chancery language."
+          "en": "Nabataean Aramaic is one of the regional written forms of Aramaic that grew out of the Achaemenid chancery language.",
+          "ar": "الآرامية النبطية إحدى الصور الكتابية الإقليمية للآرامية التي نشأت من لغة الديوان الأخمينية.",
+          "he": "הארמית הנבטית היא אחת הצורות הכתובות האזוריות של הארמית שצמחו משפת הקנצלריה האחמנית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -1301,7 +1343,13 @@
           "aramaic"
         ],
         "note": {
-          "en": "Syriac grew out of the Eastern Aramaic dialect of Edessa and became the literary and liturgical language of Syriac Christianity."
+          "en": "Syriac grew out of the Eastern Aramaic dialect of Edessa and became the literary and liturgical language of Syriac Christianity.",
+          "ar": "نشأت السريانية من اللهجة الآرامية الشرقية في الرها، وصارت لغة الأدب والطقوس للمسيحية السريانية.",
+          "he": "הסורית צמחה מהניב הארמי המזרחי של אדסה והפכה לשפת הספרות והליטורגיה של הנצרות הסורית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -1819,7 +1867,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Arabic is a Central Semitic language related to, but not descended from, Aramaic and Canaanite; its pre-Islamic stage (Old Arabic) was mostly spoken, while its script descends from the Nabataean Aramaic alphabet."
+          "en": "Arabic is a Central Semitic language related to, but not descended from, Aramaic and Canaanite; its pre-Islamic stage (Old Arabic) was mostly spoken, while its script descends from the Nabataean Aramaic alphabet.",
+          "ar": "العربية لغة سامية وسطى ترتبط بالآرامية والكنعانية ولكنها لا تنحدر منهما؛ وكانت مرحلتها قبل الإسلام (العربية القديمة) منطوقة في معظمها، بينما ينحدر خطها من الأبجدية الآرامية النبطية.",
+          "he": "הערבית היא שפה שמית מרכזית הקשורה לארמית ולכנענית אך אינה צאצאית שלהן; שלבה שלפני האיסלאם (ערבית עתיקה) היה מדובר ברובו, ואילו כתבה נובע מהאלפבית הארמי הנבטי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2103,7 +2157,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Yiddish is a Germanic language of the Ashkenazim written in Hebrew letters; its German ancestor dialects are not in the data, and Hebrew and Aramaic are a component of it rather than its ancestors."
+          "en": "Yiddish is a Germanic language of the Ashkenazim written in Hebrew letters; its German ancestor dialects are not in the data, and Hebrew and Aramaic are a component of it rather than its ancestors.",
+          "ar": "اليديشية لغة جرمانية لدى الأشكناز تُكتب بالحروف العبرية؛ ولهجاتها الألمانية السلفية غير مدرجة في البيانات، والعبرية والآرامية مكوّن فيها وليستا سلفين لها.",
+          "he": "היידיש היא שפה גרמאנית של האשכנזים הכתובה באותיות עבריות; ניביה הגרמניים הקדומים אינם מופיעים בנתונים, והעברית והארמית הן רכיב בה ולא אבותיה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2178,7 +2238,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Ladino (Judeo-Spanish) continues the Castilian Spanish of the Jews expelled from Spain, with Hebrew and other elements; its ancestor is not in the data."
+          "en": "Ladino (Judeo-Spanish) continues the Castilian Spanish of the Jews expelled from Spain, with Hebrew and other elements; its ancestor is not in the data.",
+          "ar": "اللادينو (اليهودية الإسبانية) امتداد للإسبانية القشتالية لدى اليهود المطرودين من إسبانيا، مع عناصر عبرية وغيرها؛ وسلفها غير مدرج في البيانات.",
+          "he": "לדינו (יהודית-ספרדית) היא המשך של הספרדית הקסטיליאנית של היהודים שגורשו מספרד, עם רכיבים עבריים ואחרים; אבותיה אינם מופיעים בנתונים.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2253,7 +2319,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Circassian (Adyghe and Kabardian) belongs to the Northwest Caucasian family and is unrelated to the Semitic languages of the region."
+          "en": "Circassian (Adyghe and Kabardian) belongs to the Northwest Caucasian family and is unrelated to the Semitic languages of the region.",
+          "ar": "الشركسية (الأديغية والقبردية) تنتمي إلى عائلة القوقاز الشمالية الغربية ولا صلة لها باللغات السامية في المنطقة.",
+          "he": "הצ'רקסית (אדיגית וקברדית) שייכת למשפחת הקווקזית הצפון-מערבית ואינה קשורה לשפות השמיות של האזור.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2464,7 +2536,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "The original language of the Philistines is unknown and left no descendants; the Philistines shifted to Canaanite, then Aramaic and Greek."
+          "en": "The original language of the Philistines is unknown and left no descendants; the Philistines shifted to Canaanite, then Aramaic and Greek.",
+          "ar": "اللغة الأصلية للفلستيين مجهولة ولم تترك أحفادًا؛ وقد تحول الفلستيون إلى الكنعانية ثم الآرامية واليونانية.",
+          "he": "השפה המקורית של הפלשתים אינה ידועה ולא הותירה צאצאים; הפלשתים עברו לכנענית, ואחר כך לארמית וליוונית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2830,7 +2908,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Domari is an Indic (New Indo-Aryan) language brought by the Dom; its ancestor is not in the data and its speakers are shifting to Arabic."
+          "en": "Domari is an Indic (New Indo-Aryan) language brought by the Dom; its ancestor is not in the data and its speakers are shifting to Arabic.",
+          "ar": "الدومرية لغة هندية (هندية-آرية حديثة) جلبها الدوم؛ وسلفها غير مدرج في البيانات، ومتحدثوها يتحولون إلى العربية.",
+          "he": "דומארית היא שפה הודית (הודו-ארית חדשה) שהביאו עמם הדום; אבותיה אינם מופיעים בנתונים ודובריה עוברים לערבית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -2919,7 +3003,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "The earliest-known stage of Northwest Semitic, attested only in names; whether it is the ancestor of Canaanite or Aramaic, or a side branch, is disputed."
+          "en": "The earliest-known stage of Northwest Semitic, attested only in names; whether it is the ancestor of Canaanite or Aramaic, or a side branch, is disputed.",
+          "ar": "أقدم مرحلة معروفة من السامية الشمالية الغربية، لا تُعرف إلا من الأسماء؛ وتُعدّ محل خلاف هل هي سلف الكنعانية أو الآرامية أم فرع جانبي.",
+          "he": "השלב הקדום ביותר הידוע של השמית הצפון-מערבית, המתועד רק בשמות; שנוי במחלוקת אם היא אב קדמון של הכנענית או הארמית, או ענף צדדי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3023,7 +3113,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "The Iron Age language of the Philistine city inscriptions is a Canaanite dialect adopted by the Philistines, not a descendant of their original language; it later gave way to Aramaic."
+          "en": "The Iron Age language of the Philistine city inscriptions is a Canaanite dialect adopted by the Philistines, not a descendant of their original language; it later gave way to Aramaic.",
+          "ar": "لغة نقوش المدن الفلستية في العصر الحديدي لهجة كنعانية تبناها الفلستيون، وليست منحدرة من لغتهم الأصلية؛ ثم حلّت محلها الآرامية.",
+          "he": "שפת הכתובות של ערי הפלשתים בתקופת הברזל היא ניב כנעני שאימצו הפלשתים, ולא צאצא של שפתם המקורית; בהמשך פינתה את מקומה לארמית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3104,7 +3200,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "Ammonite is an Iron Age Canaanite language, grouped by Beyer with the north Hebrew of Israel as Central Canaanite."
+          "en": "Ammonite is an Iron Age Canaanite language, grouped by Beyer with the north Hebrew of Israel as Central Canaanite.",
+          "ar": "العمونية لغة كنعانية من العصر الحديدي، صنّفها باير مع عبرية إسرائيل الشمالية ضمن الكنعانية الوسطى.",
+          "he": "העמונית היא שפה כנענית של תקופת הברזל, שבאייר מסווג אותה עם העברית הצפונית של ישראל ככנענית מרכזית.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3185,7 +3287,13 @@
           "canaanite-bronze-age"
         ],
         "note": {
-          "en": "Edomite is an Iron Age Canaanite language so close to southern Hebrew that its inscriptions differ mainly in letter shapes and the god Qos."
+          "en": "Edomite is an Iron Age Canaanite language so close to southern Hebrew that its inscriptions differ mainly in letter shapes and the god Qos.",
+          "ar": "الأدومية لغة كنعانية من العصر الحديدي قريبة جدًا من العبرية الجنوبية حتى إن نقوشها تختلف أساسًا في أشكال الحروف وفي الإله قوس.",
+          "he": "האדומית היא שפה כנענית של תקופת הברזל הקרובה כל כך לעברית הדרומית עד שכתובותיה נבדלות בעיקר בצורות האותיות ובאל קוס.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3267,7 +3375,13 @@
       "lineage": {
         "descends_from": [],
         "note": {
-          "en": "Ancient North Arabian is a cluster of dialects of the North Arabian tribes; Classical Arabic is usually seen as belonging to a sister branch rather than descending from it."
+          "en": "Ancient North Arabian is a cluster of dialects of the North Arabian tribes; Classical Arabic is usually seen as belonging to a sister branch rather than descending from it.",
+          "ar": "العربية الشمالية القديمة مجموعة من لهجات القبائل العربية الشمالية؛ ويُرى عادةً أن العربية الفصحى تنتمي إلى فرع شقيق لا أنها تنحدر منها.",
+          "he": "ערבית צפונית עתיקה היא אשכול של ניבי השבטים הערביים הצפוניים; הערבית הקלאסית נתפסת בדרך כלל כשייכת לענף אחות ולא כצאצאית שלה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3351,7 +3465,13 @@
           "arabic"
         ],
         "note": {
-          "en": "Judaeo-Arabic is the Arabic of Jews in the Islamic world, closer to spoken Arabic than Muslim literary Arabic and mostly written in Hebrew letters."
+          "en": "Judaeo-Arabic is the Arabic of Jews in the Islamic world, closer to spoken Arabic than Muslim literary Arabic and mostly written in Hebrew letters.",
+          "ar": "العربية اليهودية هي عربية اليهود في العالم الإسلامي، أقرب إلى العربية المحكية من العربية الأدبية الإسلامية، وتُكتب في معظمها بالحروف العبرية.",
+          "he": "ערבית-יהודית היא הערבית של היהודים בעולם האיסלאמי, קרובה יותר לערבית המדוברת מאשר הערבית הספרותית המוסלמית, וכתובה ברובה באותיות עבריות.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3445,7 +3565,13 @@
           "arabic"
         ],
         "note": {
-          "en": "Palestinian Arabic is the spoken Arabic of the Palestinians, part of South Levantine Arabic, with urban, rural and Bedouin varieties and loanwords from Syriac, Turkish, Persian, English and Modern Hebrew."
+          "en": "Palestinian Arabic is the spoken Arabic of the Palestinians, part of South Levantine Arabic, with urban, rural and Bedouin varieties and loanwords from Syriac, Turkish, Persian, English and Modern Hebrew.",
+          "ar": "العربية الفلسطينية هي العربية المحكية لدى الفلسطينيين، وهي جزء من العربية الشامية الجنوبية، ولها لهجات حضرية وريفية وبدوية وكلمات مستعارة من السريانية والتركية والفارسية والإنجليزية والعبرية الحديثة.",
+          "he": "ערבית פלסטינית היא הערבית המדוברת של הפלסטינים, חלק מהערבית הלבנטינית הדרומית, עם ניבים עירוניים, כפריים ובדואיים ומילים שאולות מסורית, מטורקית, מפרסית, מאנגלית ומעברית חדשה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
@@ -3541,7 +3667,13 @@
           "aramaic"
         ],
         "note": {
-          "en": "Modern Western Aramaic of Maaloula and two neighbouring Syrian villages is the last surviving descendant of the Western Aramaic dialects once spoken in Palestine and Syria (Jewish, Christian Palestinian, Samaritan)."
+          "en": "Modern Western Aramaic of Maaloula and two neighbouring Syrian villages is the last surviving descendant of the Western Aramaic dialects once spoken in Palestine and Syria (Jewish, Christian Palestinian, Samaritan).",
+          "ar": "الآرامية الغربية الحديثة في معلولا وقريتين سوريتين مجاورتين هي آخر سليل باقٍ للهجات الآرامية الغربية التي كانت متداولة في فلسطين وسوريا (اليهودية والمسيحية الفلسطينية والسامرية).",
+          "he": "הארמית המערבית החדשה של מעלולא ושני כפרים סוריים שכנים היא הצאצא האחרון ששרד של הניבים הארמיים המערביים שדוברו בעבר בפלשתינה ובסוריה (יהודי, נוצרי-פלשתינאי, שומרוני).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
         },
         "sources": [
           {
