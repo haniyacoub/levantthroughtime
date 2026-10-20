@@ -11671,6 +11671,163 @@
           "he": "machine-draft"
         }
       }
+    },
+    {
+      "id": "zengi",
+      "name": {
+        "en": "Imad al-Din Zengi",
+        "ar": "عماد الدين زنكي",
+        "he": "עימאד א-דין זנגי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "polity": "zengid-state",
+      "office": {
+        "en": "Atabeg of Mosul (from 1127) and Aleppo (from 1128)",
+        "ar": "أتابك الموصل (من 1127) وحلب (من 1128)",
+        "he": "אטאבג של מוסול (מ-1127) ושל חלב (מ-1128)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "start": {
+        "year": 1127,
+        "month": 9,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1146,
+        "month": 9,
+        "day": 14,
+        "precision": "day"
+      },
+      "basis": "documentary",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 454",
+          "quote": "Zengi took over Mosul in September 1127 without opposition"
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 454",
+          "quote": "the sultan granted the diploma for Mosul to Zengi, in the capacity of atabeg or regent for his son, the malik Alp Arslan."
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 454",
+          "quote": "Zengi himself marched into Syria and entered the city on June 18."
+        },
+        {
+          "ref": "tdv-zengiler",
+          "locator": "political history, para. 1",
+          "quote": "İmâdüddin Zengî’nin 521 (1127) yılında Musul valiliğine tayin edilmesiyle kurulan Musul Atabegliği"
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 462",
+          "quote": "Here, on the night of September 14, 1146, he was assassinated by one of his slaves."
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "para. 1",
+          "quote": "İmâdüddin Zengî, Ca‘ber Kalesi’ni kuşattığı sırada kölesi tarafından öldürülünce (5 Rebîülâhir 541 / 14 Eylül 1146) Nûreddin bazı emîrlerle Halep’e gelip şehre hâkim oldu."
+        }
+      ],
+      "notes": {
+        "en": "Appointed by the Seljuk sultan of Iraq as atabeg of Mosul; entered Aleppo on 18 June 1128 and took Edessa from the Franks in December 1144. Assassinated by one of his slaves while besieging Qal'at Ja'bar on the Euphrates (14 September 1146).",
+        "ar": "عيّنه سلطان السلاجقة في العراق أتابكًا على الموصل؛ ودخل حلب في 18 حزيران/يونيو 1128 وأخذ الرها من الفرنجة في كانون الأول/ديسمبر 1144. اغتاله أحد غلمانه وهو يحاصر قلعة جعبر على الفرات (14 أيلول/سبتمبر 1146).",
+        "he": "מונה בידי הסולטאן הסלג'וקי של עיראק לאטאבג של מוסול; נכנס לחלב ב-18 ביוני 1128 וכבש את אדסה מידי הפרנקים בדצמבר 1144. נרצח בידי אחד מעבדיו בעת שצר על קלעת ג'עבר שעל הפרת (14 בספטמבר 1146).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "nur-al-din",
+      "name": {
+        "en": "Nur al-Din Mahmud ibn Zengi",
+        "ar": "نور الدين محمود بن زنكي",
+        "he": "נור א-דין מחמוד בן זנגי",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "polity": "zengid-state",
+      "office": {
+        "en": "Zengid ruler of Aleppo (from 1146) and Damascus (from 1154)",
+        "ar": "الحاكم الزنكي لحلب (من 1146) ودمشق (من 1154)",
+        "he": "השליט הזנגי של חלב (מ-1146) ושל דמשק (מ-1154)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "start": {
+        "year": 1146,
+        "month": 9,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1174,
+        "month": 5,
+        "day": 15,
+        "precision": "day"
+      },
+      "basis": "documentary",
+      "confidence": "documented",
+      "sources": [
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 513",
+          "quote": "When Nur-ad-Din Mahmud succeeded his father Zengi at Aleppo in mid-September of 1146"
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "entry heading",
+          "quote": "Dımaşk ve Halep atabegi (1146-1174)."
+        },
+        {
+          "ref": "iranica-ayyubids-humphreys-1987",
+          "locator": "rise of the Ayyubids section",
+          "quote": "Nūr-al-dīn Maḥmūd (r. 541/1146-569/1174)"
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 519",
+          "quote": "forced an entrance on April 25 “to the joy of the people, troops, and militiamen”"
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 519",
+          "quote": "the title conferred on him by the caliph, apparently in this same year 1154, of al-malik al-‘adil “the just king”."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 527",
+          "quote": "died on May 15, 1174, leaving only a minor son as his heir."
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "final historical paragraph",
+          "quote": "Nûreddin, Mısır’a gitmek üzere hazırlık yaptığı sırada Dımaşk Kalesi’nde vefat etti (11 Şevval 569 / 15 Mayıs 1174)."
+        }
+      ],
+      "notes": {
+        "en": "TDV calls him atabeg of Damascus and Aleppo (1146-1174); the caliph gave him the title al-malik al-'adil, 'the just king', apparently in 1154 (Gibb). He died in the citadel of Damascus on 15 May 1174 (11 Shawwal 569).",
+        "ar": "تسميه موسوعة TDV أتابك دمشق وحلب (1146-1174)؛ ومنحه الخليفة لقب الملك العادل، على ما يبدو عام 1154 (غيب). توفي في قلعة دمشق في 15 أيار/مايو 1174 (11 شوال 569).",
+        "he": "TDV מכנה אותו אטאבג של דמשק וחלב (1146-1174); הח'ליף העניק לו את התואר אל-מלכ אל-עאדל, 'המלך הצודק', כנראה ב-1154 (גיב). מת במצודת דמשק ב-15 במאי 1174 (11 בשוואל 569).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     }
   ]
 }

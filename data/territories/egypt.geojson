@@ -50,14 +50,24 @@
             "ref": "taba-arbitration-award-1988",
             "locator": "para. 65",
             "quote": "In early 1915, Great Britain withdrew its forces towards the Suez Canal and Turkey occupied much of the Sinai, remaining there until El Arish was taken in December 1916."
+          },
+          {
+            "ref": "djemal-1922-memories-turkish-statesman",
+            "locator": "p. 148",
+            "quote": "The detachment of Beduin volunteers under the command of Major Muntaz Bey had seized El-Arish and fortified itself there."
+          },
+          {
+            "ref": "awm-sinai-campaign",
+            "locator": "page text",
+            "quote": "The last small garrisons of Turkish forces were defeated in February 1917, completing the Allied occupation of the Sinai peninsula"
           }
         ],
         "id": "egypt-1",
         "geometry_method": "units",
         "notes": {
-          "en": "Ottoman forces occupied much of Sinai from early 1915 until the British took El Arish in December 1916 (Taba award, para. 65); this wartime occupation is not modelled in this slice. Egyptian administration of Sinai dates from the 1841 hereditary grant to Muhammad Ali (Taba award, para. 20).",
-          "ar": "احتلت القوات العثمانية معظم سيناء من أوائل 1915 حتى استولى البريطانيون على العريش في كانون الأول/ديسمبر 1916 (قرار التحكيم في طابا، الفقرة 65)؛ ولا يُمثَّل هذا الاحتلال في زمن الحرب في هذه الشريحة. وتعود الإدارة المصرية لسيناء إلى منح الحكم الوراثي لمحمد علي سنة 1841 (قرار التحكيم في طابا، الفقرة 20).",
-          "he": "כוחות עות'מאניים כבשו את רוב סיני מראשית 1915 עד שהבריטים כבשו את אל־עריש בדצמבר 1916 (פסק הבוררות בעניין טאבה, סעיף 65); הכיבוש בזמן המלחמה אינו מתואר בפרוסה זו. המנהל המצרי בסיני מתחיל במענק הירושה למוחמד עלי ב־1841 (פסק הבוררות בעניין טאבה, סעיף 20).",
+          "en": "Ottoman forces held much of Sinai from late 1914/early 1915 until December 1916 - February 1917 (see ottoman-empire-6); during those years Egyptian (British-protected) control was limited to the canal zone and its approaches, so this slice could be split and shown as partial. Egyptian administration of Sinai dates from the 1841 hereditary grant to Muhammad Ali (Taba award, para. 20).",
+          "ar": "سيطرت القوات العثمانية على معظم سيناء من أواخر 1914/أوائل 1915 حتى كانون الأول/ديسمبر 1916 - شباط/فبراير 1917 (انظر ottoman-empire-6)؛ وفي تلك السنوات اقتصرت السيطرة المصرية (تحت الحماية البريطانية) على منطقة القناة ومداخلها، لذا يمكن تقسيم هذه الشريحة وإظهارها جزئية. وتعود الإدارة المصرية لسيناء إلى منح الحكم الوراثي لمحمد علي سنة 1841 (قرار تحكيم طابا، الفقرة 20).",
+          "he": "כוחות עות'מאניים החזיקו ברוב סיני מסוף 1914/תחילת 1915 עד דצמבר 1916 - פברואר 1917 (ראו ottoman-empire-6); בשנים אלה השליטה המצרית (תחת חסות בריטית) הוגבלה לאזור התעלה ולגישות אליה, ולכן אפשר לפצל פרוסה זו ולהציגה כחלקית. המינהל המצרי בסיני מתחיל במענק השלטון התורשתי למוחמד עלי ב-1841 (פסק הבוררות בטאבה, סעיף 20).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

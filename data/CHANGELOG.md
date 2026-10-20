@@ -213,3 +213,22 @@ All 68 remaining records from the Bronze Age to the Byzantine period that rested
 Corrections applied: the Neo-Assyrian Empire from 745 BCE (Tiglath-pileser III's accession; 746 was a revolt); the walled Early Bronze towns abandoned about 2500 BCE (Regev et al.), not 2300; Ammon's first slice ends in 582 BCE with the Babylonian conquest (Josephus), like Moab's; Jeroboam II's windows widened to cover Finkelstein's and Young's chronologies; Jerusalem made a patriarchate on 26 October 451. Notes added: the Hyksos rose from a population already in the Delta (strontium study); Esarhaddon's destruction of Sidon c. 677; Egypt's loss of its Asian territory by 600/599; the Tyrian records on Hiram; the epitaph of Uzziah; radiocarbon dates for Thutmose III and Merneptah; the Hasmonean civil war from 69 or 67 BCE; Avni's archaeology of 614; the year the True Cross was returned; al-Baladhuri's date for Gaza.
 
 Gaps: Egyptian absolute dates rest on a single open radiocarbon study; the start dates of Tyre, Sidon, Moab and Ammon and the 525 BCE end of the 26th Dynasty are still unsupported; no open modern Arab, Palestinian or Turkish study of the 634–640 conquest, and no modern Israeli or Palestinian study of the Jewish revolts, was found.
+
+### Missing polities and map changes (group G)
+
+A further research round filled gaps the earlier groups had only described in notes: 31 sources (14 new works, among them Humphreys' *From Saladin to the Mongols*, the Wisconsin *History of the Crusades* chapters by Gibb and Ziada, Midilli's 2022 study of the Jerusalem niyaba, Walker on Mamluk Transjordan, Matras on Domari).
+
+New records:
+- Polities: the Zengid state of Zengi and Nur al-Din (1127–1174, from 1154 including Damascus), the Mamluk province of Karak (1263 – c. 1516) and the Mamluk province of Jerusalem (from 777 AH / c. 1376). Each has territory slices; the Ayyubid sultanate is shown as a vassal of the Zengid state, 1171–1174.
+- Rulers: Zengi and Nur al-Din.
+- Languages: Russian, Amharic and Domari.
+
+Map changes:
+- The 1253 treaty, held back in group B, is now confirmed by Humphreys (1977) and Gibb (1969). From April 1253 to about 1256 the Mamluks held southern Palestine (new slice mamluk-sultanate-5); the Ayyubid slices were split at April 1253 and 1256 to match. The 1255/56 settlement gave al-Nasir Yusuf "all Palestine, as far south as al-'Arish"; this is shown as a partial northern Sinai coast for 1256–1260.
+- Damascus province split at 1376, when Jerusalem became a separate niyaba. Richards places Jerusalem and Hebron under Gaza for most of the Bahri period; that is noted, not drawn.
+- Faisal's administration in northern and central Transjordan (1918–1920) is now drawn as a partial unit for OETA East and the Arab Kingdom of Syria.
+- The wartime Ottoman hold on Sinai (December 1914 – January 1917) is now drawn as partial units on a new Ottoman slice.
+
+Not applied: eight further territory proposals (among them Burid Damascus and Zengid reach east of the Jordan) need sources the round did not reach. Humphreys was read in an unauthorised upload; it is cited but not linked.
+
+Gaps: no Burid Damascus record covers 1098–1154. The extent of the Karak and Jerusalem provinces (Ma'an, Aqaba, Hebron, Ramla) is not verified, and al-Bakhit's study of Mamluk Karak was not seen. The British canal zone and the 1916 front lines in Sinai are not drawn. Nothing yet covers August 1920 – April 1921 in Transjordan. There is no Kingdom of Hejaz record to carry the annexation of Ma'an and Aqaba. Russian among pre-1914 Jewish immigrants, Amharic speaker numbers and Domari's endangerment status are unsourced.

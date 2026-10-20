@@ -13,14 +13,18 @@
           "precision": "month"
         },
         "end": {
-          "year": 1516,
+          "year": 1376,
+          "circa": true,
           "precision": "year"
         },
         "units": [
           "damascus",
           "samaria",
           "judea",
-          "judean-desert"
+          "judean-desert",
+          "gilead",
+          "ammon",
+          "madaba-plain"
         ],
         "partial_units": [
           "jordan-valley"
@@ -46,18 +50,127 @@
             "ref": "britannica-palestine-to-1900",
             "locator": "section 'The Crusades' (Mamluk paragraph)",
             "quote": "Palestine formed a part of the district of Damascus, second only to Egypt in the Mamluk domains."
+          },
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 124",
+            "quote": "Jordan in Mamluk times was administratively divided between the southern section (safaqah) of the Province of Damascus (Mamlakat Dimashq) in the north and the Province of Kerak (Mamlakat Karak) in the south"
+          },
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 124",
+            "quote": "The northern half of the country consisted of five regions (‘amal)",
+            "note": "The five are the Balqa' (capital at Amman, Hisban or Salt), Jabal 'Awf (capital 'Ajlun), the Sawad (Bayt Ras and Fahl/Pella), the Upper Ghor and the Middle Ghor (n. 20, pp. 124-125)."
+          },
+          {
+            "ref": "burgoyne-1987-mamluk-jerusalem",
+            "locator": "p. 59 (ch. 'Jerusalem under the Mamluks', by D. S. Richards)",
+            "quote": "For most of the Bahrī period Jerusalem was dependent in terms of administrative organisation on the governor of Gaza."
+          },
+          {
+            "ref": "midilli-2022-kudus-niyabet",
+            "locator": "Sonuç (conclusion), p. 1322",
+            "quote": "önceleri Dımaşk’a bağlı vilâyetlerden biri olan şehrin 777 (1376) yılında yapılan düzenlemeyle Dımaşk nâibliğinden ayrı müstakil bir niyâbet haline geldiği tespit edilmiştir."
+          },
+          {
+            "ref": "burgoyne-1987-mamluk-jerusalem",
+            "locator": "p. 60 (D. S. Richards)",
+            "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+          },
+          {
+            "ref": "walker-2009-tribal-dimension-mamluk-jordan",
+            "locator": "p. 84",
+            "quote": "There was, of course, no “Jordan” in the Mamluk period—a province (Mamlakat Karak) and the southernmost district of another (Mamlakat Dimashq) comprised the territory of what is today’s Hashemite Kingdom."
           }
         ],
         "notes": {
-          "en": "Jerusalem was at times a separate unit; Mongol occupation 1299-1300.",
-          "ar": "كانت القدس أحيانًا وحدة منفصلة؛ احتلال مغولي 1299-1300.",
-          "he": "ירושלים הייתה לעתים יחידה נפרדת; כיבוש מונגולי 1299-1300.",
+          "en": "Jerusalem was a separate niyaba from 777/1376 (see mamluk-niyaba-jerusalem). For most of the Bahri period Richards places the districts of Jerusalem and Hebron under the governor of Gaza, itself under Damascus; this is not shown. Mongol occupation 1299-1300.",
+          "ar": "كانت القدس نيابة مستقلة منذ 777/1376 (انظر mamluk-niyaba-jerusalem). وفي معظم العصر البحري يضع ريتشاردز قضاءي القدس والخليل تحت نائب غزة، الذي كان بدوره تابعاً لدمشق؛ وهذا غير مبيّن على الخريطة. الاحتلال المغولي 1299-1300.",
+          "he": "ירושלים הייתה נייבה נפרדת מ-777/1376 (ראו mamluk-niyaba-jerusalem). ברוב התקופה הבחרית ריצ'רדס מציב את מחוזות ירושלים וחברון תחת מושל עזה, שהיה בעצמו כפוף לדמשק; הדבר אינו מוצג במפה. כיבוש מונגולי 1299-1300.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
           }
         },
         "id": "mamluk-niyaba-damascus-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-damascus",
+        "start": {
+          "year": 1376,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "units": [
+          "damascus",
+          "samaria",
+          "gilead",
+          "ammon",
+          "madaba-plain"
+        ],
+        "partial_units": [
+          "judea",
+          "judean-desert",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus with Samaria (Nablus) and the northern half of Transjordan (the Balqa, 'Ajlun and the Sawad) after Jerusalem became a separate niyaba in 777/1376.",
+          "ar": "دمشق مع السامرة (نابلس) والنصف الشمالي من شرق الأردن (البلقاء وعجلون والسواد) بعد أن صارت القدس نيابة منفصلة عام 777/1376.",
+          "he": "דמשק עם השומרון (שכם) והחצי הצפוני של עבר הירדן (הבלקאא, עג'לון והסוואד) אחרי שירושלים הפכה לנייבה נפרדת ב-777/1376.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "amitai-2017-gaza-mamluks",
+            "locator": "p. 8 (PDF p. 10)",
+            "quote": "Jerusalem and the area more-or-less covered by the West Bank today were usually part of the Province of Damascus, but independent at times."
+          },
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 124",
+            "quote": "Jordan in Mamluk times was administratively divided between the southern section (safaqah) of the Province of Damascus (Mamlakat Dimashq) in the north and the Province of Kerak (Mamlakat Karak) in the south"
+          },
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 124",
+            "quote": "The northern half of the country consisted of five regions (‘amal)",
+            "note": "The five are the Balqa' (capital at Amman, Hisban or Salt), Jabal 'Awf (capital 'Ajlun), the Sawad (Bayt Ras and Fahl/Pella), the Upper Ghor and the Middle Ghor (n. 20, pp. 124-125)."
+          },
+          {
+            "ref": "midilli-2022-kudus-niyabet",
+            "locator": "Sonuç (conclusion), p. 1322",
+            "quote": "önceleri Dımaşk’a bağlı vilâyetlerden biri olan şehrin 777 (1376) yılında yapılan düzenlemeyle Dımaşk nâibliğinden ayrı müstakil bir niyâbet haline geldiği tespit edilmiştir."
+          },
+          {
+            "ref": "burgoyne-1987-mamluk-jerusalem",
+            "locator": "p. 60 (D. S. Richards)",
+            "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+          }
+        ],
+        "notes": {
+          "en": "Judea and the Judean desert become partial because Jerusalem's district formed its own niyaba (mamluk-niyaba-jerusalem); whether Hebron stayed with Damascus is not verified. Richards places Jerusalem and Hebron under the governor of Gaza for most of the Bahri period, which the earlier slice does not show.",
+          "ar": "تصبح جبال القدس والخليل وبرية القدس جزئية لأن منطقة القدس شكّلت نيابة خاصة بها (mamluk-niyaba-jerusalem)؛ ولم يُتحقق مما إذا بقيت الخليل تابعة لدمشق. ويضع ريتشاردز القدس والخليل تحت نائب غزة في معظم العصر البحري، وهو ما لا تُظهره الشريحة السابقة.",
+          "he": "יהודה ומדבר יהודה הופכים לחלקיים משום שמחוז ירושלים היווה נייבה משלו (mamluk-niyaba-jerusalem); לא אומת אם חברון נשארה עם דמשק. ריצ'רדס מציב את ירושלים וחברון תחת מושל עזה ברוב התקופה הבחרית, דבר שהפרוסה הקודמת אינה מציגה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "mamluk-niyaba-damascus-2",
         "geometry_method": "units"
       }
     }

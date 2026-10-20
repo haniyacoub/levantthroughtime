@@ -806,7 +806,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4)."
+        "note": "Downloaded and read the PDF (30 pp., July 2017); provincial structure on printed p. 8 (PDF p. 10), abstract p. 2 (PDF p. 4). | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier (_late_work/late_dl/amitai_gaza/ask28.txt): p. 8 (PDF p. 10) on Jerusalem and the province of Damascus."
       },
       "kind": "academic",
       "institution_country": "DE",
@@ -906,7 +906,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint."
+        "note": "Downloaded and read the Internet Archive OCR text of the McGill University Library copy of the 1939 Lippincott (Philadelphia) printing (https://archive.org/details/McGillLibrary-rbsc_isl_arab-awakening_DS636A461939-16015): ch. IV (accession and deposition of Abdulhamid II), ch. V (the Kaiser's 1898 journey) and ch. XIV ('The Post-War Settlement': OETA, General Syrian Congress, French advance on Damascus). First published in 1938 (London); page numbers are those printed in this scan. George Antonius (1891-1942) was a Lebanese-born Arab historian who served in the Palestine Mandate administration; an influential but dated work written from an Arab nationalist standpoint. | Re-read in Milestone 8: Re-checked in this pass against the McGill copy OCR text downloaded earlier (research/m8c_dl/ia/antonius.txt): p. 279 (the three OETA zones)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -1631,7 +1631,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: dates and description. | Re-read in Milestone 8: Re-checked in this pass against the copy of the page downloaded on 19 Oct 2026 (research/conf_dl/A-awm-sinai.txt): dates of the canal attack (3 Feb 1915), Magdhaba, Rafa and the last Ottoman garrisons (Feb 1917)."
       },
       "kind": "government",
       "institution_country": "AU"
@@ -1669,7 +1669,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier (mig_dl/bachi.txt)."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -8759,7 +8759,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the general account of the Haram (p. 83) and catalogue entry no. 63 \"Al-Ashrafiyya\" (pp. 589-605). The Internet Archive copy is a user upload of a copyrighted book (ISBN 0 905035 33 X). Read in a third-party copy of uncertain licensing status, which this project does not link."
+        "note": "Downloaded and read the Internet Archive OCR text of the general account of the Haram (p. 83) and catalogue entry no. 63 \"Al-Ashrafiyya\" (pp. 589-605). The Internet Archive copy is a user upload of a copyrighted book (ISBN 0 905035 33 X). Read in a third-party copy of uncertain licensing status, which this project does not link. | Re-read in Milestone 8: Read in this pass pp. 59-60 of the chapter 'Jerusalem under the Mamluks' (written by D. S. Richards, as stated in the preface) on the administrative status of Jerusalem (Gaza; Damascus; the independent governorate of 777/1375-76). As already noted, the Internet Archive copy (research/m8b_dl/ia/burgoyne1987.txt) is an unauthorised user upload of a copyrighted book (ISBN 0 905035 33 X); under the project rule the entry's URL should point to a library catalogue record instead."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -9045,6 +9045,22 @@
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "cbs-2013-social-survey-languages",
+      "type": "document",
+      "title": "לקט נתונים מתוך הסקר החברתי 2011 בנושא שליטה בעברית ושימוש בשפות [Selected Data from the 2011 Social Survey on Mastery of the Hebrew Language and Usage of Languages] (media release 017/2013)",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "year": 2013,
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2013/017/19_13_017b.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Hebrew release (21 January 2013, 6 pp.) via Internet Archive snapshot http://web.archive.org/web/20211022185417/https://www.cbs.gov.il/he/mediarelease/DocLib/2013/017/19_13_017b.pdf (direct request failed). The PDF's text layer extracts Hebrew in scrambled order, so figures were read from the summary bullets and chart notes and are given in notes, not as quotes."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-20"
     },
     {
       "id": "cbs-census-1967-vol1",
@@ -9335,7 +9351,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and read the Excel table (published 11.11.2025). Columns: 2024, 2023, 2022, 2000-2021, 1990-1999, 1980-1989, 1972-1979, 1961-1971, 1952-1960, 15.5.1948-1951."
+        "note": "Downloaded and read the Excel table (published 11.11.2025). Columns: 2024, 2023, 2022, 2000-2021, 1990-1999, 1980-1989, 1972-1979, 1961-1971, 1952-1960, 15.5.1948-1951. | Re-read in Milestone 8: Re-checked in this pass against the xlsx downloaded by an earlier step (mig_dl/cbs/st02_37.xlsx, text dump st02_37.txt): rows Ethiopia and USSR (former) by period of immigration."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -10304,7 +10320,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the 1922 Hutchinson edition (https://archive.org/details/cu31924028514564), ch. IV ('In Command of the Fourth Army') and ch. VIII. Memoir of Ahmed Cemal (Djemal) Pasha himself: a self-justifying primary source."
+        "note": "Downloaded and read the Internet Archive OCR text of the 1922 Hutchinson edition (https://archive.org/details/cu31924028514564), ch. IV ('In Command of the Fourth Army') and ch. VIII. Memoir of Ahmed Cemal (Djemal) Pasha himself: a self-justifying primary source. | Re-read in Milestone 8: Read in this pass pp. 144, 148-149 and 171 in the Internet Archive OCR text downloaded earlier (research/m8c_dl/ia/djemal1922.txt): Ottoman posts at El-Arish and Qal'at al-Nakhl on his arrival (Dec 1914) and the evacuation of El-Arish in December 1916. A memoir by the Ottoman commander (Ahmed Djemal Pasha), English translation 1922."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -10634,7 +10650,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry (immigration section)."
+        "note": "Read the full entry (immigration section). | Re-read in Milestone 8: Re-read in this pass on Encyclopedia.com (copy saved as research/m8g_dl/amharic/ej_beta_israel.txt): immigration section and the passages on Amharic and Tigrinya."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -11452,7 +11468,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Saladin's succession, al-'Adil, al-Kamil, the 1229 treaty from the Muslim side, Jerusalem 1239-1244)."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the chapter (Saladin's succession, al-'Adil, al-Kamil, the 1229 treaty from the Muslim side, Jerusalem 1239-1244). | Re-read in Milestone 8: Re-read in this pass (Wisconsin History of the Crusades vol. II, OCR text downloaded earlier, research/m8b_dl/gibb_aiyubids.txt): p. 713 on the peace of March/April 1253 (with n. 34 citing adh-Dhahabi on Nablus) and the 1256 settlement."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11480,6 +11496,28 @@
       "institution_country": "US"
     },
     {
+      "id": "gibb-1969-career-of-nur-ad-din",
+      "type": "chapter",
+      "authors": [
+        "Gibb, Hamilton A. R."
+      ],
+      "title": "The Career of Nur-ad-Din",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "513-527",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1; the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers from the printed running heads. Read the whole chapter (ch. XVI): succession at Aleppo (1146), relations with the Burid regime of Damascus, the taking of Damascus (25 April 1154), Baalbek (1155), Banyas (1164), Egypt (1169) and his death (15 May 1174)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "gibb-1969-rise-of-saladin",
       "type": "chapter",
       "authors": [
@@ -11496,10 +11534,32 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the end of the Fatimid caliphate (1171), Saladin's occupation of Damascus (1174) and the campaigns of 1187-1189."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the passages on the end of the Fatimid caliphate (1171), Saladin's occupation of Damascus (1174) and the campaigns of 1187-1189. | Re-read in Milestone 8: Re-checked in this pass against the OCR text of vol. I (research/m8b_dl/hoc/hoc1.txt): p. 567, Saladin's occupation of Damascus on 28 October 1174."
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "gibb-1969-zengi-fall-of-edessa",
+      "type": "chapter",
+      "authors": [
+        "Gibb, Hamilton A. R."
+      ],
+      "title": "Zengi and the Fall of Edessa",
+      "container": "A History of the Crusades (K. M. Setton, gen. ed.), vol. I: The First Hundred Years, ed. Marshall W. Baldwin (2nd ed.; 1st ed. 1955, University of Pennsylvania Press)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1969,
+      "volume": "I",
+      "pages": "449-462",
+      "url": "https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (https://archive.org/details/setton-wisconsin-history-of-the-crusades-vol-1; the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers from the printed running heads. Read the whole chapter (ch. XIV): Zengi's appointment to Mosul (1127) and Aleppo (1128), his attacks on Damascus, Banyas, 'Ainjar and Baalbek, and his death (1146)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
     },
     {
       "id": "gibbons-1916-foundation-ottoman-empire",
@@ -12322,6 +12382,28 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "hine-2010-russian-literature-arabic-periodicals",
+      "type": "article",
+      "authors": [
+        "Hine, Alyn"
+      ],
+      "title": "The Influence of Russian Literature in Two Twentieth Century Arabic Periodicals",
+      "container": "Eras",
+      "publisher": "School of Philosophical, Historical and International Studies, Monash University",
+      "year": 2010,
+      "volume": 12,
+      "issue": 1,
+      "url": "https://www.monash.edu/__data/assets/pdf_file/0005/1672925/eras-journal-alyn-hine-.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (24 pp.). The journal's own PDF URL returned HTTP 403, so the text was read in a copy of the same PDF posted at https://ros-vos.net/uploads/rus-lit.pdf (its running heads read 'Eras Edition 12, Issue 1, December 2010'); Eras is an open-access journal, but whether that copy is authorised was not established. Pages from the PDF's 'Page n' heads."
+      },
+      "kind": "academic",
+      "institution_country": "AU",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "hirschberg-1971",
       "type": "chapter",
       "authors": [
@@ -12524,9 +12606,9 @@
       "year": 1977,
       "pages": "355",
       "verification": {
-        "level": "cited-via",
+        "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Quoted (p. 355) in Amitai 1987, n. 66, as seen on the Cambridge Core page; bibliographic data also listed in Iranica 'Ayyubids'. Not seen directly."
+        "note": "Quoted (p. 355) in Amitai 1987, n. 66, as seen on the Cambridge Core page; bibliographic data also listed in Iranica 'Ayyubids'. Not seen directly. | Re-read in Milestone 8: Upgrade from cited-via: read pp. 322-323 and 327 (the Ayyubid-Mamluk peace of Safar 651/April 1253 and the settlement of 1255/56) in an OCR text of the book. The copy read is an unauthorised user upload of this copyrighted SUNY Press book on the Internet Archive; it is deliberately not linked. A library catalogue record should be used as the URL if one is added."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -13041,7 +13123,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260916124220/https://www.iranicaonline.org/articles/ayyubids/ (live site returned HTTP 403). Read the full article (published 15 Dec 1987)."
+        "note": "Read via Internet Archive Wayback snapshot http://web.archive.org/web/20260916124220/https://www.iranicaonline.org/articles/ayyubids/ (live site returned HTTP 403). Read the full article (published 15 Dec 1987). | Re-read in Milestone 8: Re-checked in this pass against the Wayback copy downloaded earlier (research/conf_dl/ir_ayyubids.txt): Nur al-Din's reign dates and the end of Zangid power at Aleppo (579/1183)."
       },
       "kind": "reference",
       "institution_country": "US",
@@ -13407,6 +13489,22 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-moe-amharic-general-education",
+      "type": "document",
+      "title": "תכנית להשכלה כללית בתחום השפה האמהרית [General-education programme in the Amharic language]",
+      "container": "Ministry of Education, Pedagogical Secretariat, Languages Division, Supervision of Amharic Language Teaching",
+      "publisher": "Ministry of Education (Israel)",
+      "url": "https://meyda.education.gov.il/files/Mazkirut_Pedagogit/Amharit/amaharithaskala.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the 2-page Hebrew PDF via Internet Archive snapshot http://web.archive.org/web/20250410225600/https://meyda.education.gov.il/files/Mazkirut_Pedagogit/Amharit/amaharithaskala.pdf (the ministry's servers refused direct access from this location). Undated document."
+      },
+      "kind": "government",
+      "institution_country": "IL",
+      "accessed": "2026-10-20"
     },
     {
       "id": "israel-pmo-2015-temple-mount-statement",
@@ -15188,7 +15286,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan."
+        "note": "Downloaded and read the Internet Archive OCR text (https://archive.org/details/39020001828394-thehandbookofpa): Part I (geography; Ottoman administrative divisions; history of the British occupation and the Occupied Enemy Territory Administration), the railways and Jewish colonies sections. Published under the authority of the Government of Palestine (introduction by High Commissioner Herbert Samuel); the authors were Mandate officials. Page numbers are those printed in the scan. | Re-read in Milestone 8: Read in this pass § 17 'Trans-jordania' (pp. 227-228) in the Internet Archive OCR text downloaded earlier (research/m8c_dl/ia/luke1922.txt). The authors were officials of the Government of Palestine (H. C. Luke was Assistant Governor of Jerusalem)."
       },
       "kind": "government",
       "institution_country": "GB"
@@ -15427,6 +15525,65 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "matras-1999-domari-jerusalem",
+      "type": "article",
+      "authors": [
+        "Matras, Yaron"
+      ],
+      "title": "The State of Present-Day Domari in Jerusalem",
+      "container": "Mediterranean Language Review",
+      "year": 1999,
+      "volume": 11,
+      "pages": "1-58",
+      "url": "https://www.kratylos.org/~raphael/romani/downloads/2/Matras_Domari_MLR.pdf",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the author's offprint PDF (58 pp.) from the downloads folder of the Manchester Romani Project site as mirrored at kratylos.org: introduction (pp. 1-3) and section 2 'Ethnographic background' (pp. 4-6)."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "matras-2006-domari-ell",
+      "type": "chapter",
+      "authors": [
+        "Matras, Yaron"
+      ],
+      "title": "Domari",
+      "container": "Encyclopedia of Language and Linguistics, 2nd ed., ed. Keith Brown",
+      "publisher": "Elsevier",
+      "year": 2006,
+      "url": "https://www.kratylos.org/~raphael/romani/downloads/2/Matras_Domari_ELL2.pdf",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Read the author's pre-publication manuscript (4 pp., headed 'To appear in: Brown, Keith, ed. Encyclopedia of Languages and Linguistics. Oxford: Elsevier') from the Manchester Romani Project downloads mirrored at kratylos.org; the published version (year 2006 from general bibliographic knowledge, not checked) was not seen."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "matras-domari-case-study",
+      "type": "web",
+      "authors": [
+        "Matras, Yaron"
+      ],
+      "title": "Domari (case study)",
+      "container": "Language Contact Manchester (University of Manchester working group on language contact)",
+      "url": "https://www.kratylos.org/~raphael/languageContact/McrLC/casestudies/YM_Domari.html",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full web page (initials 'YM' = Yaron Matras in the page name), as mirrored at kratylos.org; undated."
+      },
+      "kind": "academic",
+      "institution_country": "GB",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "matveev-2010",
       "type": "article",
       "authors": [
@@ -15646,6 +15803,30 @@
       "kind": "academic",
       "institution_country": "DE",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "midilli-2022-kudus-niyabet",
+      "type": "article",
+      "authors": [
+        "Midilli, Muhammet Enes"
+      ],
+      "title": "Memlükler Döneminde Kudüs’te Niyâbetin ve Dört Kâdılkudâtlığın Kuruluşu [The Formation of Niyāba and Four Chief Judgeships in Mamluk Jerusalem]",
+      "container": "Tasavvur - Tekirdağ İlahiyat Dergisi",
+      "publisher": "Tekirdağ Namık Kemal Üniversitesi, İlahiyat Fakültesi",
+      "year": 2022,
+      "volume": 8,
+      "issue": 2,
+      "pages": "1301-1327",
+      "doi": "10.47424/tasavvur.1179262",
+      "url": "https://doi.org/10.47424/tasavvur.1179262",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the open-access (CC BY-NC) PDF from DergiPark (Turkish, with English abstract): section 1 on the date of the niyaba (pp. 1306-1314, incl. Table 1 of the sources' dates) and the conclusion (p. 1322). The author is at Istanbul University; the article reviews the Arabic sources and the views of Y. D. Ghawanima, H. Lutfi and D. P. Little."
+      },
+      "kind": "academic",
+      "institution_country": "TR",
+      "accessed": "2026-10-20"
     },
     {
       "id": "migdal-2000-israel-1967-war",
@@ -19151,7 +19332,7 @@
       "doi": "10.1017/S003382220004724X",
       "url": "https://www.cambridge.org/core/journals/radiocarbon/article/chronology-of-the-early-bronze-age-in-the-southern-levant-new-analysis-for-a-high-chronology/B447FACD103BFFE3E9E1C3EB40934AFF",
       "verification": {
-        "level": "excerpt",
+        "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Saw the abstract and bibliographic data on Cambridge Core. The full PDF was too large to fetch. | Re-read in Milestone 8: UPGRADE (was excerpt): downloaded the full 42-page PDF from Cambridge Core (Radiocarbon 54/3-4, pp. 525-566) and read the period definitions (pp. 525-528) and the EB III discussion (p. 560)."
       },
@@ -20373,7 +20554,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence."
+        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence. | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier (research/m8c_dl/taba.txt): paras. 64-66 (Sinai in the First World War)."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -20551,7 +20732,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Kanal Harekâtı'. Author not recorded from the page."
+        "note": "Downloaded by an earlier research step (live page, 18 Oct 2026) and read here: the section 'Kanal Harekâtı'. Author not recorded from the page. | Re-read in Milestone 8: Re-read in this pass (online entry by Ercüment Kuran, TDV İslâm Ansiklopedisi vol. 6, 1992, pp. 196-200), section 'Kanal Harekâtı'; copy saved as research/m8g_dl/tdv_birinci-dunya-savasi.txt."
       },
       "kind": "reference",
       "institution_country": "TR"
@@ -20762,6 +20943,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-kerek",
+      "type": "web",
+      "authors": [
+        "Bilge, Mustafa L."
+      ],
+      "title": "KEREK",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2022,
+      "volume": 25,
+      "pages": "278-279",
+      "url": "https://islamansiklopedisi.org.tr/kerek",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish). The site gives the print reference as vol. 25, pp. 278-279, 'printed in Ankara in 2022' (apparently a later printing; the first edition of vol. 25 is older, not checked)."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "tdv-kudus",
       "type": "web",
       "authors": [
@@ -20806,6 +21009,28 @@
       },
       "kind": "reference",
       "institution_country": "TR"
+    },
+    {
+      "id": "tdv-nureddin-zengi-mahmud",
+      "type": "web",
+      "authors": [
+        "Kök, Bahattin"
+      ],
+      "title": "NÛREDDİN ZENGÎ, Mahmud",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2007,
+      "volume": 33,
+      "pages": "259-262",
+      "url": "https://islamansiklopedisi.org.tr/nureddin-zengi-mahmud",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish); printed in TDV İslâm Ansiklopedisi vol. 33 (Istanbul 2007), pp. 259-262 according to the site."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-20"
     },
     {
       "id": "tdv-sasaniler",
@@ -20912,6 +21137,28 @@
       "institution_country": "TR"
     },
     {
+      "id": "tdv-zengiler",
+      "type": "web",
+      "authors": [
+        "Öğün Bezer, Gülay"
+      ],
+      "title": "ZENGÎLER",
+      "container": "TDV İslâm Ansiklopedisi",
+      "publisher": "Türkiye Diyanet Vakfı",
+      "year": 2013,
+      "volume": 44,
+      "pages": "268-272",
+      "url": "https://islamansiklopedisi.org.tr/zengiler",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the full online entry (Turkish), part 1 (political history, by Gülay Öğün Bezer); printed in TDV İslâm Ansiklopedisi vol. 44 (Istanbul 2013), pp. 268-272 according to the site."
+      },
+      "kind": "reference",
+      "institution_country": "TR",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "tell-2000-guns-gold-and-grain",
       "type": "chapter",
       "authors": [
@@ -20930,7 +21177,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut)."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the chapter sections 'Tribe and State in Transjordan Under the Ottomans' and 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'. Tariq Tell is a Jordanian historian (American University of Beirut). | Re-read in Milestone 8: Re-checked in this pass against the UC Press E-Books HTML text downloaded earlier (research/m8c_dl/uc/heydemann.txt), section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23241,6 +23488,54 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "walker-2004-mamluk-investment-transjordan",
+      "type": "article",
+      "authors": [
+        "Walker, Bethany J."
+      ],
+      "title": "Mamluk Investment in Transjordan: a \"Boom and Bust\" Economy",
+      "container": "Mamlūk Studies Review",
+      "publisher": "Middle East Documentation Center, University of Chicago",
+      "year": 2004,
+      "volume": 8,
+      "issue": 2,
+      "pages": "119-147",
+      "doi": "10.6082/M1222RX3",
+      "url": "https://doi.org/10.6082/M1222RX3",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the open-access (CC-BY) PDF from the University of Chicago Knowledge repository (record a4a9b-r3y41): introduction, n. 20 (pp. 124-125) on the provinces of Damascus and Kerak, and the section 'Southern Jordan - Kerak Plateau' (pp. 135-136)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
+      "id": "walker-2009-tribal-dimension-mamluk-jordan",
+      "type": "article",
+      "authors": [
+        "Walker, Bethany J."
+      ],
+      "title": "The Tribal Dimension in Mamluk-Jordanian Relations",
+      "container": "Mamlūk Studies Review",
+      "publisher": "Middle East Documentation Center, University of Chicago",
+      "year": 2009,
+      "volume": 13,
+      "issue": 1,
+      "pages": "83-105",
+      "doi": "10.6082/M1JQ0Z5V",
+      "url": "https://doi.org/10.6082/M1JQ0Z5V",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded and read the open-access (CC-BY) PDF from the University of Chicago Knowledge repository (record zqnpy-qyd48); introduction (p. 84). Page numbers inferred from the PDF page order (pp. 83-105)."
+      },
+      "kind": "academic",
+      "institution_country": "US",
+      "accessed": "2026-10-20"
+    },
+    {
       "id": "wcpd-1998-wye",
       "type": "document",
       "title": "The Wye River Memorandum, October 23, 1998 (Weekly Compilation of Presidential Documents, 2 November 1998, p. 2104ff.)",
@@ -23563,7 +23858,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt) and editor of al-Maqrizi's al-Suluk; the chapter rests mainly on Arabic chronicles."
+        "note": "Downloaded and read the Internet Archive full-text (OCR) file of the University of Wisconsin Digital Collections scan of this volume (the same open-access text is listed at https://search.library.wisc.edu/digital/ACIIU62AEG4C5T8F). Page numbers taken from the printed running heads. Read the whole chapter. The author was professor at the University of Cairo (Egypt) and editor of al-Maqrizi's al-Suluk; the chapter rests mainly on Arabic chronicles. | Re-read in Milestone 8: Re-checked in this pass against the Internet Archive OCR text of the Wisconsin History of the Crusades vol. II downloaded earlier (research/m8b_dl/ziada2.txt): pp. 742-743, 745, 747, 750, 752."
       },
       "kind": "academic",
       "institution_country": "US"

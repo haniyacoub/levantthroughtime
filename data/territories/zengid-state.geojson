@@ -1,0 +1,221 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "zengid-state",
+        "start": {
+          "year": 1137,
+          "circa": true,
+          "precision": "year",
+          "latest": 1138
+        },
+        "end": {
+          "year": 1140,
+          "month": 6,
+          "circa": true,
+          "precision": "month"
+        },
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Footholds on the northern edge of the map area taken from Damascus: Banyas at the foot of Mount Hermon and 'Ainjar in the Beqaa (c. 1137/38), and Baalbek from 1139 (Gibb).",
+          "ar": "مواطئ قدم على الطرف الشمالي لمنطقة الخريطة أُخذت من دمشق: بانياس عند سفح جبل الشيخ وعنجر في البقاع (نحو 1137/1138)، وبعلبك منذ 1139 (غيب).",
+          "he": "אחיזות בשוליה הצפוניים של המפה שנלקחו מדמשק: באניאס למרגלות החרמון ועינג'ר בבקאע (בערך 1137/1138), ובעלבכ מ-1139 (גיב).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 458",
+            "quote": "he led his forces back into Damascus territories, and captured ‘Ainjar and Banyas."
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 459",
+            "quote": "Baalbek was besieged and captured, and its garrison crucified notwithstanding his oath of security."
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 460",
+            "quote": "the governor, at the end of a month, surrendered to Unur on terms. Unur delivered the castle up to Fulk"
+          }
+        ],
+        "notes": {
+          "en": "The month of the capture of Banyas and 'Ainjar (late 1137 or early 1138) is not established. In 1140 Banyas was surrendered to Unur of Damascus after a month's siege and handed to the Franks (Gibb).",
+          "ar": "لم يُحدَّد شهر الاستيلاء على بانياس وعنجر (أواخر 1137 أو أوائل 1138). وفي 1140 سُلّمت بانياس لأُنُر صاحب دمشق بعد حصار دام شهرًا ثم أُعطيت للفرنجة (غيب).",
+          "he": "חודש כיבוש באניאס ועינג'ר (סוף 1137 או ראשית 1138) לא נקבע. ב-1140 נמסרה באניאס לאונור מדמשק אחרי מצור של חודש והועברה לפרנקים (גיב).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "zengid-state-1",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "zengid-state",
+        "start": {
+          "year": 1140,
+          "month": 6,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1146,
+          "month": 9,
+          "day": 14,
+          "precision": "day"
+        },
+        "partial_units": [
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Baalbek and the Beqaa, held for Zengi by his governor Najm al-Din Ayyub until Zengi's death (Gibb).",
+          "ar": "بعلبك والبقاع، تحت حكم واليه نجم الدين أيوب حتى وفاة زنكي (غيب).",
+          "he": "בעלבכ והבקאע, שהוחזקו עבור זנגי בידי מושלו נג'ם א-דין איוב עד מות זנגי (גיב).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 459",
+            "quote": "Baalbek was besieged and captured, and its garrison crucified notwithstanding his oath of security."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 513",
+            "quote": "Unur at Damascus had lost no time in compelling Zengi’s governor, Najm-ad-Din Aiyub, to surrender Baalbek"
+          },
+          {
+            "ref": "gibb-1969-zengi-fall-of-edessa",
+            "locator": "p. 462",
+            "quote": "Here, on the night of September 14, 1146, he was assassinated by one of his slaves."
+          }
+        ],
+        "notes": {
+          "en": "Baalbek was surrendered to Unur soon after Zengi's death in September 1146. Whether 'Ainjar remained Zengid in 1140-1146 is not verified.",
+          "ar": "سُلّمت بعلبك لأُنُر بعد وقت قصير من وفاة زنكي في أيلول/سبتمبر 1146. ولم يُتحقق مما إذا بقيت عنجر زنكية في 1140-1146.",
+          "he": "בעלבכ נמסרה לאונור זמן קצר אחרי מות זנגי בספטמבר 1146. לא אומת אם עינג'ר נשארה זנגית ב-1140-1146.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "zengid-state-2",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "zengid-state",
+        "start": {
+          "year": 1154,
+          "month": 4,
+          "day": 25,
+          "precision": "day"
+        },
+        "end": {
+          "year": 1174,
+          "month": 10,
+          "day": 28,
+          "precision": "day"
+        },
+        "units": [
+          "damascus",
+          "bashan"
+        ],
+        "partial_units": [
+          "golan",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Damascus with the Ghuta and the Hauran after Nur al-Din entered the city on 25 April 1154; Baalbek from June 1155 and Banyas from 18 October 1164 (Gibb).",
+          "ar": "دمشق مع الغوطة وحوران بعد دخول نور الدين المدينة في 25 نيسان/أبريل 1154؛ وبعلبك منذ حزيران/يونيو 1155 وبانياس منذ 18 تشرين الأول/أكتوبر 1164 (غيب).",
+          "he": "דמשק עם הע'וטה והחוראן אחרי שנור א-דין נכנס לעיר ב-25 באפריל 1154; בעלבכ מיוני 1155 ובאניאס מ-18 באוקטובר 1164 (גיב).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 519",
+            "quote": "forced an entrance on April 25 “to the joy of the people, troops, and militiamen”"
+          },
+          {
+            "ref": "tdv-zengiler",
+            "locator": "political history, para. 3",
+            "quote": "25 Nisan 1154’te Dımaşk’ı zapteden Nûreddin, Halep ve Dımaşk’ı kendi hâkimiyeti altında birleştirmek suretiyle bölgenin en güçlü hükümdarı oldu."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 518",
+            "quote": "Abak strengthened himself by restoring his control over the Hauran"
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 519",
+            "quote": "in June 1155, after concluding an armistice with the kingdom of Jerusalem for one year, Nur-ad-Din forced its surrender."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 524",
+            "quote": "The garrison, deprived of all hope of relief, surrendered the castle on October 18"
+          },
+          {
+            "ref": "tdv-nureddin-zengi-mahmud",
+            "locator": "Egyptian campaigns paragraph",
+            "quote": "543 (1148-49) yılından beri Haçlılar’ın elinde bulunan Banyas’ı da fethetti (Zilhicce 559 / Ekim-Kasım 1164).",
+            "note": "Dates the Frankish tenure of Banyas from 1148-49; Gibb has Banyas handed to the Franks in 1140."
+          },
+          {
+            "ref": "gibb-1969-career-of-nur-ad-din",
+            "locator": "p. 527",
+            "quote": "died on May 15, 1174, leaving only a minor son as his heir."
+          },
+          {
+            "ref": "gibb-1969-rise-of-saladin",
+            "locator": "p. 567",
+            "quote": "on an urgent appeal from the commandant at Damascus occupied it, almost without opposition, on October 28, 1174."
+          }
+        ],
+        "notes": {
+          "en": "Golan is partial because Banyas stayed Frankish until 1164 and the districts south-east of Lake Tiberias were contested; Lebanon-mountains is partial for Baalbek and the Beqaa. The units match the Ayyubid slice that follows (ayyubid-sultanate-2). After Nur al-Din's death (15 May 1174) Damascus was held for his son al-Salih Isma'il until Saladin entered it on 28 October 1174. Egypt, ruled in Nur al-Din's name by Saladin from 1169, is left to the Fatimid and Ayyubid slices. The Burid rulers of Damascus recognised Nur al-Din's suzerainty from 1150-51 (Gibb), which is not drawn as Zengid territory.",
+          "ar": "الجولان جزئي لأن بانياس بقيت فرنجية حتى 1164 ولأن المناطق الواقعة جنوب شرق بحيرة طبرية كانت متنازعًا عليها؛ وجبل لبنان جزئي لبعلبك والبقاع. وتطابق الوحدات الشريحة الأيوبية التالية (ayyubid-sultanate-2). وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174. أما مصر، التي حكمها صلاح الدين باسم نور الدين منذ 1169، فتُترك للشريحتين الفاطمية والأيوبية. واعترف الحكام البوريون لدمشق بسيادة نور الدين منذ 1150-1151 (غيب)، ولا يُرسم ذلك أرضًا زنكية.",
+          "he": "הגולן חלקי משום שבאניאס נשארה פרנקית עד 1164 והאזורים שמדרום-מזרח לכנרת היו שנויים במחלוקת; הר הלבנון חלקי בשל בעלבכ והבקאע. היחידות תואמות את הפרוסה האיובית שאחריה (ayyubid-sultanate-2). אחרי מות נור א-דין (15 במאי 1174) הוחזקה דמשק בשם בנו א-סאלח איסמאעיל עד שצלאח א-דין נכנס אליה ב-28 באוקטובר 1174. מצרים, שנשלטה בשם נור א-דין בידי צלאח א-דין מ-1169, נשארת לפרוסות הפאטמית והאיובית. השליטים הבורים של דמשק הכירו בריבונות נור א-דין מ-1150-1151 (גיב), ואין הדבר משורטט כשטח זנגי.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "zengid-state-3",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

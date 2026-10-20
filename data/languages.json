@@ -2102,6 +2102,359 @@
           "he": "machine-draft"
         }
       }
+    },
+    {
+      "id": "russian",
+      "name": {
+        "en": "Russian",
+        "ar": "الروسية",
+        "he": "רוסית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Indo-European (Slavic, East)",
+      "scripts": [
+        "Cyrl"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1882,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1914,
+            "precision": "year"
+          },
+          "role": "literary",
+          "speakers": {
+            "en": "Taught in the schools of the Imperial Orthodox Palestine Society (including the teachers' seminaries of Nazareth and Beit Jala) to Arab Orthodox pupils, some of whom became translators of Russian literature into Arabic (e.g. Khalil Baydas of Nazareth); also the language of Russian clergy and of the many Russian pilgrims",
+            "ar": "كانت تُدرَّس في مدارس الجمعية الإمبراطورية الأرثوذكسية الفلسطينية (ومنها دارا المعلمين في الناصرة وبيت جالا) لتلاميذ عرب أرثوذكس، صار بعضهم مترجمين للأدب الروسي إلى العربية (مثل خليل بيدس من الناصرة)؛ وكانت أيضًا لغة رجال الدين الروس والحجاج الروس الكثيرين",
+            "he": "נלמדה בבתי הספר של החברה הפלסטינית האורתודוקסית הקיסרית (ובהם סמינרי המורים בנצרת ובבית ג'אלה) לתלמידים ערבים אורתודוקסים, שחלקם נעשו מתרגמים של הספרות הרוסית לערבית (למשל ח'ליל בידס מנצרת); וכן שפתם של אנשי הדת הרוסים ושל הצליינים הרוסים הרבים",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "hine-2010-russian-literature-arabic-periodicals",
+              "locator": "p. 2",
+              "quote": "Russia's cultural and educational organization which was active in the Levant from 1882 to 1914"
+            },
+            {
+              "ref": "hine-2010-russian-literature-arabic-periodicals",
+              "locator": "p. 4",
+              "quote": "The IOPS schools placed the greatest emphasis upon promoting both Russian and Arabic literature to its pupils, instilling a love and fascination with the Russian language from the former"
+            },
+            {
+              "ref": "hine-2010-russian-literature-arabic-periodicals",
+              "locator": "p. 6",
+              "quote": "In these schools, Baydas learnt to speak and write Russian to an exceptional level."
+            },
+            {
+              "ref": "hine-2010-russian-literature-arabic-periodicals",
+              "locator": "p. 6",
+              "quote": "By 1898, at the age of twenty-three, Baydas had published his first Arabic translation of a Russian literary work"
+            },
+            {
+              "ref": "hine-2010-russian-literature-arabic-periodicals",
+              "locator": "p. 3",
+              "quote": "Pilgrims required basic assistance, such as accommodation, provisions and medical assistance, provided by speakers of their own language."
+            },
+            {
+              "ref": "bachi-1977",
+              "locator": "section 15.2, p. 286",
+              "quote": "Jews who immigrated to the Land of Israel in the last decades of the 19th century from Eastern Europe and constituted the majority of the Jewish population, used mainly Yiddish"
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1989,
+            "precision": "year"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Immigrants from the former Soviet Union and their families (about 820,000 immigrants born in the former USSR arrived in 1990-1999 alone); in 2011 Russian was the mother tongue of 15% of Israelis aged 20 and over, and 88% of those born in the former USSR spoke Russian at home",
+            "ar": "المهاجرون من الاتحاد السوفيتي السابق وعائلاتهم (نحو 820,000 مهاجر من مواليد الاتحاد السوفيتي السابق وصلوا في 1990-1999 وحدها)؛ وفي 2011 كانت الروسية اللغة الأم لـ15% من الإسرائيليين في سن 20 فما فوق، وكان 88% من مواليد الاتحاد السوفيتي السابق يتحدثون الروسية في البيت",
+            "he": "עולים מברית המועצות לשעבר ובני משפחותיהם (כ-820,000 עולים ילידי ברית המועצות לשעבר הגיעו ב-1990-1999 לבדן); ב-2011 הייתה רוסית שפת האם של 15% מבני 20 ומעלה בישראל, ו-88% מילידי ברית המועצות לשעבר דיברו רוסית בבית",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "cbs-2013-social-survey-languages",
+              "locator": "p. 1 (summary bullets) and p. 2 (chart 1)",
+              "note": "Mother tongue of the population aged 20 and over in 2011: Hebrew 49%, Arabic 18%, Russian 15%, Yiddish 2%, French 2%, English 2%; among Jews and 'others' 18% Russian. Among those born in the former USSR, 88% speak Russian at home and 48% only Russian; 57% of the employed use Russian at work."
+            },
+            {
+              "ref": "cbs-sai-2025-t2-37",
+              "locator": "rows 'USSR (former)', European and Asian republics, by country of birth",
+              "note": "Immigrants born in the former USSR: 1990-1999 771,213 (European republics) + 50,693 (Asian republics); 2000-2021 287,707 + 29,018; 1972-1979 137,134."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "hine-2010-russian-literature-arabic-periodicals",
+          "locator": "p. 2",
+          "quote": "Russia's cultural and educational organization which was active in the Levant from 1882 to 1914"
+        },
+        {
+          "ref": "cbs-2013-social-survey-languages",
+          "locator": "p. 1 (summary bullets) and p. 2 (chart 1)",
+          "note": "Mother tongue of the population aged 20 and over in 2011: Hebrew 49%, Arabic 18%, Russian 15%, Yiddish 2%, French 2%, English 2%; among Jews and 'others' 18% Russian. Among those born in the former USSR, 88% speak Russian at home and 48% only Russian; 57% of the employed use Russian at work."
+        }
+      ],
+      "notes": {
+        "en": "Most Jewish immigrants from the Russian Empire before 1914 used mainly Yiddish (Bachi); how far Russian was used among them (for instance in the Second Aliyah) was not verified, so no period is given for it. A smaller Soviet immigration came in the 1970s (137,134 USSR-born immigrants in 1972-1979, CBS); see the migrations soviet-immigration-1970s and post-soviet-immigration-1989-2000s. The figure of about 820,000 adds CBS's European and Asian republics rows for 1990-1999.",
+        "ar": "استخدم معظم المهاجرين اليهود من الإمبراطورية الروسية قبل 1914 اليديشية أساسًا (باكي)؛ ولم يُتحقق من مدى استخدام الروسية بينهم (مثلًا في الهجرة الثانية)، ولذلك لا تُعطى فترة لذلك. وجاءت هجرة سوفيتية أصغر في السبعينيات (137,134 مهاجرًا من مواليد الاتحاد السوفيتي في 1972-1979، دائرة الإحصاء المركزية)؛ انظر الهجرتين soviet-immigration-1970s وpost-soviet-immigration-1989-2000s. ورقم الـ820,000 تقريبًا هو مجموع صفَّي الجمهوريات الأوروبية والآسيوية في جدول دائرة الإحصاء لسنوات 1990-1999.",
+        "he": "רוב העולים היהודים מן האימפריה הרוסית לפני 1914 השתמשו בעיקר ביידיש (באקי); מידת השימוש ברוסית ביניהם (למשל בעלייה השנייה) לא אומתה, ולכן לא ניתנת לכך תקופה. עלייה סובייטית קטנה יותר הגיעה בשנות ה-70 (137,134 עולים ילידי ברית המועצות ב-1972-1979, הלמ\"ס); ראו את ההגירות soviet-immigration-1970s ו-post-soviet-immigration-1989-2000s. המספר כ-820,000 הוא סכום שורות הרפובליקות האירופיות והאסייתיות בלוח הלמ\"ס לשנים 1990-1999.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "amharic",
+      "name": {
+        "en": "Amharic",
+        "ar": "الأمهرية",
+        "he": "אמהרית",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Afro-Asiatic (Semitic, Ethiopian)",
+      "scripts": [
+        "Ethi"
+      ],
+      "periods": [
+        {
+          "start": {
+            "year": 1984,
+            "month": 11,
+            "precision": "month"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Ethiopian Jewish immigrants (Beta Israel, later also Falash Mura) and their families, arriving in large numbers from Operation Moses (November 1984) onwards: about 17,000 Ethiopia-born immigrants in the 1980s, 40,000 in the 1990s and 36,000 in 2000-2021; taught in Israeli schools as the mother tongue of pupils of Ethiopian origin",
+            "ar": "المهاجرون اليهود الإثيوبيون (بيتا إسرائيل، ولاحقًا أيضًا الفلاشمورا) وعائلاتهم، الذين وصلوا بأعداد كبيرة منذ عملية موسى (تشرين الثاني/نوفمبر 1984): نحو 17,000 مهاجر من مواليد إثيوبيا في الثمانينيات و40,000 في التسعينيات و36,000 في 2000-2021؛ وتُدرَّس في المدارس الإسرائيلية بوصفها اللغة الأم للتلاميذ من أصل إثيوبي",
+            "he": "עולים יהודים מאתיופיה (ביתא ישראל, ומאוחר יותר גם פלשמורה) ובני משפחותיהם, שהגיעו במספרים גדולים החל ממבצע משה (נובמבר 1984): כ-17,000 עולים ילידי אתיופיה בשנות ה-80, 40,000 בשנות ה-90 ו-36,000 ב-2000-2021; נלמדת בבתי ספר בישראל כשפת האם של תלמידים ממוצא אתיופי",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "ej-beta-israel",
+              "locator": "immigration section",
+              "quote": "During a period of less than two months starting in mid-November 1984, more than 6,500 Beta Israel were airlifted to Israel in what became known as \"Operation Moses.\""
+            },
+            {
+              "ref": "cbs-sai-2025-t2-37",
+              "locator": "row 'Ethiopia', by country of birth",
+              "note": "Immigrants born in Ethiopia: 1980-1989 16,965; 1990-1999 39,621; 2000-2021 36,109; 1972-1979 306."
+            },
+            {
+              "ref": "cbs-2013-social-survey-languages",
+              "locator": "p. 2 (notes to chart 1)",
+              "note": "Among Jews the 'other' mother tongues listed after Hebrew (61%), Russian (14%), Arabic (3%) and Yiddish (2.6%) are English, French, Spanish, Amharic, Romanian and further languages; no separate Amharic figure is given."
+            },
+            {
+              "ref": "israel-moe-amharic-general-education",
+              "locator": "p. 1, 'רציונל'",
+              "quote": "המערך הלימודי המוצע מזמין את התלמידים לחקור ולהשוות את המאפיינים הייחודיים של אמהרית, שפת אמם, וביחס לשפה עברית וכל שפה אחרת.",
+              "note": "Translation: 'The proposed course invites pupils to explore and compare the unique features of Amharic, their mother tongue, in relation to Hebrew and any other language.' Issued by the ministry's supervision of Amharic-language teaching."
+            },
+            {
+              "ref": "ej-beta-israel",
+              "locator": "history section",
+              "quote": "As time passed they acquired many of the characteristics of their Tigrean neighbors, most notably the language Tigrinya."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "ej-beta-israel",
+          "locator": "immigration section",
+          "quote": "During a period of less than two months starting in mid-November 1984, more than 6,500 Beta Israel were airlifted to Israel in what became known as \"Operation Moses.\""
+        },
+        {
+          "ref": "cbs-2013-social-survey-languages",
+          "locator": "p. 2 (notes to chart 1)",
+          "note": "Among Jews the 'other' mother tongues listed after Hebrew (61%), Russian (14%), Arabic (3%) and Yiddish (2.6%) are English, French, Spanish, Amharic, Romanian and further languages; no separate Amharic figure is given."
+        },
+        {
+          "ref": "ej-beta-israel",
+          "locator": "history section",
+          "quote": "the opening of the mission schools and the distribution of Amharic Bibles (and religious tracts) set in motion a mini-reformation among the Beta Israel."
+        }
+      ],
+      "notes": {
+        "en": "Beta Israel from Tigray, who began arriving in small numbers before 1984, had adopted Tigrinya (EJ), so not all Ethiopian immigrants are Amharic speakers; CBS's 2011 survey lists Amharic among mother tongues without a separate figure. Amharic was already a written language of the Beta Israel in Ethiopia through mission schools and Amharic Bibles (EJ). The older Ethiopian Christian community of Jerusalem is not covered by this record.",
+        "ar": "كان بيتا إسرائيل القادمون من تيغراي، الذين بدأوا يصلون بأعداد صغيرة قبل 1984، قد تبنّوا التغرينية (EJ)، فليس كل المهاجرين الإثيوبيين ناطقين بالأمهرية؛ ويذكر مسح دائرة الإحصاء المركزية لعام 2011 الأمهرية بين اللغات الأم دون رقم منفصل. وكانت الأمهرية لغة مكتوبة لدى بيتا إسرائيل في إثيوبيا عبر مدارس الإرساليات والأناجيل الأمهرية (EJ). ولا يغطي هذا السجل الجماعة المسيحية الإثيوبية الأقدم في القدس.",
+        "he": "ביתא ישראל מטיגראי, שהחלו להגיע במספרים קטנים לפני 1984, אימצו את הטיגרינית (EJ), כך שלא כל העולים מאתיופיה דוברי אמהרית; סקר הלמ\"ס 2011 מונה את האמהרית בין שפות האם בלי נתון נפרד. האמהרית כבר הייתה שפה כתובה של ביתא ישראל באתיופיה דרך בתי ספר של מיסיונרים ותנ\"כים באמהרית (EJ). רשומה זו אינה מכסה את הקהילה הנוצרית האתיופית הוותיקה בירושלים.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
+    },
+    {
+      "id": "domari",
+      "name": {
+        "en": "Domari (language of the Dom)",
+        "ar": "الدومرية (لغة الدوم)",
+        "he": "דומארית (שפת הדום)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "family": "Indo-European (Indo-Aryan)",
+      "periods": [
+        {
+          "start": {
+            "year": 1800,
+            "circa": true,
+            "precision": "century",
+            "latest": 1854
+          },
+          "end": {
+            "year": 1940,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "Itinerant Dom (called Nawar by Arabs) smiths, tinners and entertainers in Palestine, bilingual in Arabic: word lists were collected among nomadic Dom near Nablus (Seetzen, published 1854) and in Jerusalem (Macalister, 1909-1913)",
+            "ar": "الدوم المتنقلون (ويسميهم العرب النَّوَر) من الحدادين والسمكرية والفنانين في فلسطين، وهم ثنائيو اللغة مع العربية: جُمعت قوائم كلمات بين الدوم الرحّل قرب نابلس (زيتسن، نُشرت 1854) وفي القدس (ماكاليستر، 1909-1913)",
+            "he": "בני הדום הנודדים (שהערבים מכנים נַוַר), נפחים, פחחים ובדרנים בפלשתינה, דו-לשוניים עם ערבית: רשימות מילים נאספו בקרב דום נודדים ליד שכם (זצן, פורסם 1854) ובירושלים (מקאליסטר, 1909-1913)",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 2",
+              "quote": "Seetzen’s list of some 300 lexical items collected among nomadic Dom in the vicinity of Nablus was made available to scholars before its actual publication in a travel diary edited by Kruse (1854)"
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 2",
+              "quote": "Jerusalem Domari has been made known to the academic world by Macalister (1914), whose monograph, a reprint of a series of articles published in the Journal of the Gypsy Lore Society between 1909-1913"
+            },
+            {
+              "ref": "matras-2006-domari-ell",
+              "locator": "abstract",
+              "quote": "spoken in the Middle East by populations who refer to themselves as Dom or Qurbati, and are usually called by the Arabs Nawar."
+            }
+          ]
+        },
+        {
+          "start": {
+            "year": 1940,
+            "circa": true,
+            "precision": "decade"
+          },
+          "role": "vernacular",
+          "speakers": {
+            "en": "The Dom community settled in the north-east of Jerusalem's Old City (in waves from the 1940s to after 1967), where by the late 1990s only about 20% of adults, mostly over fifty, used Domari at home; also Dom in the West Bank and Gaza. Arabic has become the community's main language",
+            "ar": "جماعة الدوم التي استقرت في الطرف الشمالي الشرقي من البلدة القديمة في القدس (على موجات من الأربعينيات حتى ما بعد 1967)، حيث لم يكن يستخدم الدومرية في البيت بحلول أواخر التسعينيات إلا نحو 20% من البالغين، معظمهم فوق الخمسين؛ وكذلك الدوم في الضفة الغربية وغزة. وصارت العربية اللغة الرئيسية للجماعة",
+            "he": "קהילת הדום שהתיישבה בצפון-מזרח העיר העתיקה בירושלים (בגלים משנות ה-40 עד אחרי 1967), שבה עד סוף שנות ה-90 רק כ-20% מהמבוגרים, רובם מעל גיל חמישים, דיברו דומארית בבית; וכן דום בגדה המערבית ובעזה. הערבית נעשתה לשפתה העיקרית של הקהילה",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 1",
+              "quote": "Domari is an endangered Indic language spoken in a socially isolated and marginalised community of formerly itinerant metalworkers and entertainers in the Old City of Jerusalem."
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 5",
+              "quote": "The immediate ancestors of today’s community were tent-dwelling smiths and tinners who settled within the boundaries of the Old City walls in several waves beginning in the 1940s"
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 4",
+              "quote": "I estimate that only around 20% of adult Dom use Domari as the language of daily interaction in their homes; the great majority of them are over fifty years of age."
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 4",
+              "quote": "Arabic has now become the principal language of the Dom community."
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 1",
+              "quote": "Apart from Jerusalem and the West Bank, Domari-speaking communities are known to exist today in Gaza, Jordan, Lebanon, and Syria."
+            },
+            {
+              "ref": "matras-2006-domari-ell",
+              "locator": "'Definitions'",
+              "quote": "The only well-documented variety is that of Jerusalem, now spoken by only up to some 200 elderly persons."
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 4",
+              "quote": "Members of the community claim a total population of up to one thousand, a figure which is accepted by some observers."
+            },
+            {
+              "ref": "matras-1999-domari-jerusalem",
+              "locator": "p. 4",
+              "quote": "A sizeable community of expatriates lives in Amman, Jordan, having fled Jerusalem and the West Bank during the six-day war in June 1967."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "ref": "matras-1999-domari-jerusalem",
+          "locator": "p. 1",
+          "quote": "Domari is an endangered Indic language spoken in a socially isolated and marginalised community of formerly itinerant metalworkers and entertainers in the Old City of Jerusalem."
+        },
+        {
+          "ref": "matras-2006-domari-ell",
+          "locator": "'Definitions'",
+          "quote": "The only well-documented variety is that of Jerusalem, now spoken by only up to some 200 elderly persons."
+        },
+        {
+          "ref": "matras-domari-case-study",
+          "locator": "page text",
+          "quote": "Domari has always been strictly an oral language."
+        }
+      ],
+      "notes": {
+        "en": "An endangered Indo-Aryan language related to Romani; speakers call themselves Dom and dislike the Arabic name Nawar (Matras 1999). Domari has always been oral, so no script is given (Matras). Estimates of the Jerusalem community in the late 1990s range from about 600-700 people to the community's own figure of up to 1,000 (Matras 1999), with up to some 200 elderly speakers (Matras 2006). Many Jerusalem Dom moved to Amman in 1967. Dom presence in Palestine before the 19th-century word lists is likely but is not dated by these sources.",
+        "ar": "لغة هندية آرية مهددة بالانقراض قريبة من الرومانية؛ يسمي متحدثوها أنفسهم الدوم ولا يحبون الاسم العربي النَّوَر (ماتراس 1999). وظلت الدومرية لغة شفوية دائمًا، ولذلك لا يُعطى لها خط (ماتراس). وتتراوح تقديرات حجم جماعة القدس في أواخر التسعينيات بين نحو 600-700 شخص ورقم الجماعة نفسها البالغ حتى 1,000 (ماتراس 1999)، مع ما يصل إلى نحو 200 متحدث من كبار السن (ماتراس 2006). وانتقل كثير من دوم القدس إلى عمّان عام 1967. ومن المرجح وجود الدوم في فلسطين قبل قوائم الكلمات في القرن التاسع عشر، لكن هذه المصادر لا تؤرخه.",
+        "he": "שפה הודו-ארית בסכנת הכחדה הקרובה לרומאני; דובריה מכנים עצמם דום ואינם אוהבים את הכינוי הערבי נַוַר (מטראס 1999). הדומארית הייתה תמיד שפה בעל-פה, ולכן לא ניתן לה כתב (מטראס). ההערכות לגודל קהילת ירושלים בסוף שנות ה-90 נעות בין כ-600-700 נפש לבין הנתון של הקהילה עצמה, עד 1,000 (מטראס 1999), ועד כ-200 דוברים קשישים (מטראס 2006). רבים מדום ירושלים עברו לעמאן ב-1967. נוכחות הדום בארץ לפני רשימות המילים של המאה ה-19 סבירה, אך מקורות אלה אינם מתארכים אותה.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      }
     }
   ]
 }

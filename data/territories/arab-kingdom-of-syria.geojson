@@ -20,7 +20,8 @@
         },
         "partial_units": [
           "syria",
-          "golan-heights"
+          "golan-heights",
+          "transjordan"
         ],
         "boundary_certainty": "schematic",
         "description": {
@@ -57,12 +58,37 @@
             "ref": "akarli-1993-long-peace",
             "locator": "ch. 'The War Years and After, 1915-1920'",
             "quote": "The Syrian declaration of independence in Damascus, in the congress of 7 March 1920, recognized the right of the Lebanese to preserve their own form of administration"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Faisal’s reign in Damascus lasted twenty-two months (October 1918–July 1920) and was initiated by his father annexing Ma’an and Aqaba to the Hijaz."
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Although local shaykhs and “petty notables” from Ma‘an, ‘Ajlun, and al-Salt took part in Damascene politics, the unified Faisalite administration established in Amman wielded little effective power."
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "§ 17 'Trans-jordania', p. 227",
+            "quote": "When Palestine was occupied by the British military administration, Trans-jordania was included within the sphere of the Arab administration of Damascus, then under the Emir Feisal, now King of 'Iraq."
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "§ 17 'Trans-jordania', p. 228",
+            "quote": "the High Commissioner for Palestine proceeded, in August of that year, to al-Salt and announced to an assembly of notables and sheikhs that His Majesty’s Government favoured the establishment of a system of local self-government"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "the inhabitants were to form their own administrations in each of the Salt, Karak, and ‘Ajlun districts, subject to the advice of British political officers responsible to the high commissioner in Jerusalem."
           }
         ],
         "notes": {
-          "en": "Golan inclusion schematic, as for the preceding Arab administration.",
-          "ar": "إدراج الجولان تخطيطي، كما في الإدارة العربية السابقة.",
-          "he": "הכללת הגולן סכמטית, כמו במנהל הערבי הקודם.",
+          "en": "Golan inclusion schematic, as for the preceding Arab administration. Northern and central Transjordan were part of this administration (partial unit): Luke and Keith-Roach (1922), Tell (2000), Antonius; Ma'an and Aqaba were annexed to the Hijaz.",
+          "ar": "إدراج الجولان تخطيطي، كما في الإدارة العربية السابقة. وكان الجزءان الشمالي والأوسط من شرق الأردن جزءاً من هذه الإدارة (وحدة جزئية): لوك وكيث-روتش (1922)، وتل (2000)، وأنطونيوس؛ أما معان والعقبة فقد ضُمّتا إلى الحجاز.",
+          "he": "הכללת הגולן סכמטית, כמו בממשל הערבי הקודם. צפון עבר הירדן ומרכזו היו חלק מממשל זה (יחידה חלקית): לוק וקית'-רואץ' (1922), טל (2000), אנטוניוס; מעאן ועקבה סופחו לחג'אז.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

@@ -1,0 +1,79 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-karak",
+        "start": {
+          "year": 1263,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1516,
+          "circa": true,
+          "precision": "year",
+          "latest": 1517
+        },
+        "units": [
+          "moab",
+          "edom"
+        ],
+        "partial_units": [
+          "arabah"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Southern Transjordan: 'This province included Kerak, Shobak, and the Lower Ghôr' (Walker 2004).",
+          "ar": "جنوب شرق الأردن: 'This province included Kerak, Shobak, and the Lower Ghôr' [شملت هذه النيابة الكرك والشوبك والغور الأسفل] (ووكر 2004).",
+          "he": "דרום עבר הירדן: “This province included Kerak, Shobak, and the Lower Ghôr” [פרובינקיה זו כללה את כרכ, שובכ והע'ור התחתון] (ווקר 2004).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 125",
+            "quote": "This province included Kerak, Shobak, and the Lower Ghôr."
+          },
+          {
+            "ref": "walker-2004-mamluk-investment-transjordan",
+            "locator": "n. 20, p. 124",
+            "quote": "Jordan in Mamluk times was administratively divided between the southern section (safaqah) of the Province of Damascus (Mamlakat Dimashq) in the north and the Province of Kerak (Mamlakat Karak) in the south"
+          },
+          {
+            "ref": "walker-2009-tribal-dimension-mamluk-jordan",
+            "locator": "p. 84",
+            "quote": "There was, of course, no “Jordan” in the Mamluk period—a province (Mamlakat Karak) and the southernmost district of another (Mamlakat Dimashq) comprised the territory of what is today’s Hashemite Kingdom."
+          },
+          {
+            "ref": "walker-2009-tribal-dimension-mamluk-jordan",
+            "locator": "p. 84",
+            "quote": "Sultan Baybars initiated an ambitious defensive project that involved reinforcing the citadel walls and towers at former Ayyubid castles, such as Kerak and Shobak"
+          },
+          {
+            "ref": "tdv-kerek",
+            "locator": "history, para. 2",
+            "quote": "el-Melikü’n-Nâsır Dâvûd’un yarı bağımsız bir emirlik merkezi haline getirdiği Kerek, 1263’te I. Baybars tarafından Memlükler’e bağlanarak tahkim ve imar edildi."
+          }
+        ],
+        "notes": {
+          "en": "The Lower Ghor (the plain south and south-east of the Dead Sea) is shown by moab and a partial arabah. Whether Ma'an, Aqaba (Ayla) and the Hisma belonged to Kerak was not verified. The Balqa (Madaba plain, Amman), 'Ajlun and the Jordan valley north of the Dead Sea belonged to the province of Damascus (Walker).",
+          "ar": "يُمثَّل الغور الأسفل (السهل الواقع جنوب البحر الميت وجنوب شرقه) بوحدة مؤاب وبوادي عربة جزئيًا. ولم يُتحقق مما إذا كانت معان والعقبة (أيلة) والحسمى تابعة للكرك. أما البلقاء (سهل مأدبا وعمّان) وعجلون وغور الأردن شمال البحر الميت فكانت تابعة لنيابة دمشق (ووكر).",
+          "he": "הע'ור התחתון (המישור שמדרום ומדרום-מזרח לים המלח) מוצג באמצעות מואב וחלק מהערבה. לא אומת אם מעאן, עקבה (איילה) והחיסמה השתייכו לכרכ. הבלקאא (מישור מידבא, עמאן), עג'לון ובקעת הירדן שמצפון לים המלח השתייכו לפרובינקיית דמשק (ווקר).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "mamluk-niyaba-karak-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

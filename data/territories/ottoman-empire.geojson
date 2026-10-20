@@ -465,6 +465,137 @@
         "id": "ottoman-empire-5",
         "geometry_method": "units"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ottoman-empire",
+        "start": {
+          "year": 1914,
+          "month": 12,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1917,
+          "month": 1,
+          "precision": "month"
+        },
+        "units": [
+          "upper-galilee",
+          "lower-galilee",
+          "acre-plain",
+          "carmel-sharon",
+          "jezreel",
+          "samaria",
+          "judea",
+          "shephelah",
+          "philistia",
+          "judean-desert",
+          "jordan-valley",
+          "negev-north",
+          "phoenician-coast",
+          "golan",
+          "bashan",
+          "gilead",
+          "ammon",
+          "damascus",
+          "lebanon-mountains"
+        ],
+        "partial_units": [
+          "madaba-plain",
+          "moab",
+          "edom",
+          "negev-south",
+          "arabah",
+          "aqaba-hisma",
+          "badia",
+          "sinai-north",
+          "sinai"
+        ],
+        "extent_type": "control",
+        "boundary_certainty": "approximate",
+        "description": {
+          "en": "Ottoman occupation of much of the Sinai peninsula in the First World War: posts at El-Arish and Qal'at al-Nakhl from late 1914, the two attacks on the Suez Canal (February 1915; July-August 1916), and withdrawal after the defeats at Romani, Magdhaba and Rafa (August 1916 - January 1917).",
+          "ar": "الاحتلال العثماني لمعظم شبه جزيرة سيناء في الحرب العالمية الأولى: مواقع في العريش وقلعة النخل منذ أواخر 1914، والهجومان على قناة السويس (شباط/فبراير 1915؛ تموز/يوليو - آب/أغسطس 1916)، والانسحاب بعد الهزائم في رمانة والمغضبة ورفح (آب/أغسطس 1916 - كانون الثاني/يناير 1917).",
+          "he": "הכיבוש העות'מאני של רוב חצי האי סיני במלחמת העולם הראשונה: מוצבים באל-עריש ובקלעת א-נח'ל מסוף 1914, שתי ההתקפות על תעלת סואץ (פברואר 1915; יולי-אוגוסט 1916), והנסיגה אחרי התבוסות ברומאני, במגדבה וברפיח (אוגוסט 1916 - ינואר 1917).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "djemal-1922-memories-turkish-statesman",
+            "locator": "p. 144",
+            "quote": "the three years (December, 1914, to December, 1917) which I spent in Syria"
+          },
+          {
+            "ref": "djemal-1922-memories-turkish-statesman",
+            "locator": "p. 148",
+            "quote": "The detachment of Beduin volunteers under the command of Major Muntaz Bey had seized El-Arish and fortified itself there."
+          },
+          {
+            "ref": "djemal-1922-memories-turkish-statesman",
+            "locator": "p. 148",
+            "quote": "had occupied the Kalaat-ul-Nahl in the centre of the Sinai Desert."
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 65",
+            "quote": "In early 1915, Great Britain withdrew its forces towards the Suez Canal and Turkey occupied much of the Sinai, remaining there until El Arish was taken in December 1916."
+          },
+          {
+            "ref": "tdv-birinci-dunya-savasi",
+            "locator": "section 'Kanal Harekâtı'",
+            "quote": "Osmanlı Ordusu 14 Ocak 1915’ten itibaren gece yürüyüşleriyle Bi’rüssebi‘den Süveyş Kanalı’na doğru yöneldi."
+          },
+          {
+            "ref": "awm-sinai-campaign",
+            "locator": "page text",
+            "quote": "The Turkish forces launched their first attack on the Suez Canal, Britain's vital link to the East and Australia, on 3 February 1915"
+          },
+          {
+            "ref": "tdv-birinci-dunya-savasi",
+            "locator": "section 'Kanal Harekâtı'",
+            "quote": "Bahriye Nâzırı Cemal Paşa kumandasındaki Türk kuvvetleri 3 Şubat’ta kanalı geçmeye giriştiler; fakat başarısızlığa uğrayarak 15 Şubat’ta geldikleri yere döndüler."
+          },
+          {
+            "ref": "awm-sinai-campaign",
+            "locator": "page text",
+            "quote": "After this attack the British forces pushed their defences out 10 km east of the canal."
+          },
+          {
+            "ref": "djemal-1922-memories-turkish-statesman",
+            "locator": "p. 171",
+            "quote": "compelled it to withdraw to El Arish. Ultimately the force had to evacuate El Arish itself",
+            "note": "Djemal dates the evacuation to 'December i6th' [16th] 1916 in the OCR text; the British entered El Arish later that month."
+          },
+          {
+            "ref": "awm-sinai-campaign",
+            "locator": "page text",
+            "quote": "The defences around Magdhaba were captured on 23 December, and those at Rafa on 9 January 1917."
+          },
+          {
+            "ref": "awm-sinai-campaign",
+            "locator": "page text",
+            "quote": "The last small garrisons of Turkish forces were defeated in February 1917, completing the Allied occupation of the Sinai peninsula"
+          }
+        ],
+        "notes": {
+          "en": "Start: El-Arish and Qal'at al-Nakhl were already held by Ottoman volunteer detachments when Djemal Pasha reached Syria in December 1914 (Djemal); the Taba award dates the occupation of 'much of the Sinai' to early 1915, after Britain withdrew towards the canal. The main army that attacked the canal on 3 February 1915 returned to its base in mid-February (TDV), but Ottoman posts stayed in the peninsula. End: El-Arish was evacuated in December 1916 (Djemal; Taba), Magdhaba and Rafa fell on 23 December 1916 and 9 January 1917, and the last small garrisons were defeated in February 1917 (AWM). The British-held canal zone and the moving front of 1916 are not modelled; the egypt-1 slice (sinai-egypt, from December 1914) overlaps this one and could be made partial for these years.",
+          "ar": "البداية: كانت العريش وقلعة النخل في يد مفارز عثمانية من المتطوعين حين وصل جمال باشا إلى سوريا في كانون الأول/ديسمبر 1914 (جمال)؛ ويؤرخ حكم طابا احتلال 'معظم سيناء' بأوائل 1915 بعد انسحاب بريطانيا نحو القناة. وعاد الجيش الرئيسي الذي هاجم القناة في 3 شباط/فبراير 1915 إلى قاعدته في منتصف شباط (TDV)، لكن المواقع العثمانية بقيت في شبه الجزيرة. النهاية: أُخليت العريش في كانون الأول/ديسمبر 1916 (جمال؛ طابا)، وسقطت المغضبة ورفح في 23 كانون الأول/ديسمبر 1916 و9 كانون الثاني/يناير 1917، وهُزمت آخر الحاميات الصغيرة في شباط/فبراير 1917 (AWM). ولا تُمثَّل منطقة القناة التي احتفظت بها بريطانيا ولا تحركات الجبهة عام 1916؛ وتتداخل شريحة egypt-1 (sinai-egypt منذ كانون الأول/ديسمبر 1914) مع هذه الشريحة ويمكن جعلها جزئية لهذه السنوات.",
+          "he": "התחלה: אל-עריש וקלעת א-נח'ל כבר הוחזקו בידי יחידות מתנדבים עות'מאניות כשג'מאל פאשה הגיע לסוריה בדצמבר 1914 (ג'מאל); פסק הבוררות בטאבה מתארך את כיבוש 'רוב סיני' לראשית 1915, אחרי שבריטניה נסוגה לעבר התעלה. הצבא העיקרי שתקף את התעלה ב-3 בפברואר 1915 חזר לבסיסו באמצע פברואר (TDV), אך מוצבים עות'מאניים נשארו בחצי האי. סיום: אל-עריש פונתה בדצמבר 1916 (ג'מאל; טאבה), מגדבה ורפיח נפלו ב-23 בדצמבר 1916 וב-9 בינואר 1917, וחילות המצב הקטנים האחרונים הובסו בפברואר 1917 (AWM). אזור התעלה שבידי בריטניה והחזית הנעה של 1916 אינם ממודלים; הפרוסה egypt-1 (sinai-egypt, מדצמבר 1914) חופפת לזו ואפשר להפוך אותה לחלקית בשנים אלה.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "ottoman-empire-6",
+        "geometry_method": "units"
+      }
     }
   ]
 }

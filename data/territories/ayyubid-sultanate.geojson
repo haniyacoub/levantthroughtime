@@ -264,10 +264,10 @@
           "precision": "month"
         },
         "end": {
-          "year": 1260,
-          "month": 9,
-          "day": 3,
-          "precision": "day"
+          "year": 1253,
+          "month": 4,
+          "circa": true,
+          "precision": "month"
         },
         "units": [
           "judea",
@@ -328,6 +328,32 @@
             "ref": "cahen-1969-mongols-near-east",
             "locator": "p. 718",
             "quote": "In September of 1260, at 'Ain Jālūt, the Mamluks crushed Kitbogha, and occupied almost all of Syria."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "The Mamluks would retain all Egypt and in addition be ceded Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "finally, about the end of March 1253, an-Nasir conceded Jerusalem to Aybeg, and made peace."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "in early Safar 651/April 1253, a peace was finally signed."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "when Aybeg restored peace with an-Nasir in 1256 by surrendering Palestine to him"
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "the new settlement reflected this reality by restoring all Palestine, as far south as al-‘Arish, to al-Nasir.",
+            "note": "The settlement followed the flight of the 'Aziziyya regiment to Syria in mid-Ramadan 653/October 1255; no exact date is given."
           }
         ],
         "notes": {
@@ -340,6 +366,169 @@
           }
         },
         "id": "ayyubid-sultanate-4",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1253,
+          "month": 4,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1256,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "samaria",
+          "jezreel",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "gilead",
+          "ammon",
+          "golan",
+          "bashan",
+          "damascus"
+        ],
+        "partial_units": [
+          "jordan-valley",
+          "lower-galilee",
+          "upper-galilee",
+          "lebanon-mountains"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Syrian Ayyubid principalities after the peace of April 1253, which left southern Palestine to the Mamluks and kept Nablus and the north with al-Nasir Yusuf (Humphreys; Gibb).",
+          "ar": "الإمارات الأيوبية الشامية بعد صلح نيسان/أبريل 1253 الذي ترك جنوب فلسطين للمماليك وأبقى نابلس والشمال للناصر يوسف (همفريز؛ غيب).",
+          "he": "הנסיכויות האיוביות בסוריה אחרי השלום של אפריל 1253, שהשאיר את דרום פלשתינה לממלוכים ואת שכם והצפון בידי א-נאצר יוסף (האמפריז; גיב).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "The Mamluks would retain all Egypt and in addition be ceded Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "finally, about the end of March 1253, an-Nasir conceded Jerusalem to Aybeg, and made peace."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713, n. 34",
+            "quote": "Adh-Dhahabi (ad annum 650) states definitely that Nablus and its regions were to remain under an-Nasir"
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "when Aybeg restored peace with an-Nasir in 1256 by surrendering Palestine to him"
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "the new settlement reflected this reality by restoring all Palestine, as far south as al-‘Arish, to al-Nasir.",
+            "note": "The settlement followed the flight of the 'Aziziyya regiment to Syria in mid-Ramadan 653/October 1255; no exact date is given."
+          }
+        ],
+        "notes": {
+          "en": "Same units as ayyubid-sultanate-4 minus Judea, the Judean desert, the Shephelah, the northern Negev and the southern coast (see mamluk-sultanate-5); the Jordan valley becomes partial. Kerak, Moab and Edom remained under the Ayyubid prince al-Mughith.",
+          "ar": "الوحدات نفسها في ayyubid-sultanate-4 ناقص جبال القدس والخليل وبرية القدس والسفوح الغربية والنقب الشمالي والساحل الجنوبي (انظر mamluk-sultanate-5)؛ ويصبح غور الأردن جزئيًا. وبقيت الكرك ومؤاب وأدوم تحت الأمير الأيوبي المغيث.",
+          "he": "אותן יחידות כמו ב-ayyubid-sultanate-4 פחות יהודה, מדבר יהודה, השפלה, הנגב הצפוני וחוף הדרום (ראו mamluk-sultanate-5); בקעת הירדן הופכת לחלקית. כרכ, מואב ואדום נשארו בידי הנסיך האיובי אל-מע'ית'.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "ayyubid-sultanate-5",
+        "geometry_method": "units"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "ayyubid-sultanate",
+        "start": {
+          "year": 1256,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1260,
+          "month": 9,
+          "day": 3,
+          "precision": "day"
+        },
+        "units": [
+          "judea",
+          "samaria",
+          "shephelah",
+          "judean-desert",
+          "jordan-valley",
+          "jezreel",
+          "negev-north",
+          "moab",
+          "edom",
+          "madaba-plain",
+          "gilead",
+          "ammon",
+          "golan",
+          "bashan",
+          "damascus"
+        ],
+        "partial_units": [
+          "lower-galilee",
+          "upper-galilee",
+          "philistia",
+          "lebanon-mountains",
+          "sinai-north"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Syrian Ayyubid kingdom of al-Nasir Yusuf after the settlement of 1255/56 restored 'all Palestine, as far south as al-'Arish' to him (Humphreys), until the Mongol invasion of 1260.",
+          "ar": "المملكة الأيوبية الشامية للناصر يوسف بعد تسوية 1255/1256 التي أعادت إليه 'all Palestine, as far south as al-'Arish' [كل فلسطين جنوبًا حتى العريش] (همفريز)، حتى الغزو المغولي عام 1260.",
+          "he": "הממלכה האיובית הסורית של א-נאצר יוסף אחרי ההסדר של 1255/1256 שהחזיר לו את “all Palestine, as far south as al-'Arish” [כל פלשתינה עד אל-עריש דרומה] (האמפריז), עד הפלישה המונגולית ב-1260.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "the new settlement reflected this reality by restoring all Palestine, as far south as al-‘Arish, to al-Nasir.",
+            "note": "The settlement followed the flight of the 'Aziziyya regiment to Syria in mid-Ramadan 653/October 1255; no exact date is given."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "when Aybeg restored peace with an-Nasir in 1256 by surrendering Palestine to him"
+          }
+        ],
+        "notes": {
+          "en": "Same units as ayyubid-sultanate-4, with the northern Sinai coast added as partial because the settlement extended al-Nasir's Palestine to al-'Arish; how this was shared with the Mamluk Sinai slice (mamluk-sultanate-1) was not verified.",
+          "ar": "الوحدات نفسها في ayyubid-sultanate-4 مع إضافة ساحل سيناء الشمالي جزئيًا لأن التسوية مدّت فلسطين الناصر حتى العريش؛ ولم يُتحقق من كيفية تقاسم ذلك مع شريحة سيناء المملوكية (mamluk-sultanate-1).",
+          "he": "אותן יחידות כמו ב-ayyubid-sultanate-4, בתוספת חוף צפון סיני כחלקי משום שההסדר הרחיב את פלשתינה של א-נאצר עד אל-עריש; לא אומת כיצד חולק הדבר עם פרוסת סיני הממלוכית (mamluk-sultanate-1).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "ayyubid-sultanate-6",
         "geometry_method": "units"
       }
     }

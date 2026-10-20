@@ -19,7 +19,8 @@
         },
         "partial_units": [
           "syria",
-          "golan-heights"
+          "golan-heights",
+          "transjordan"
         ],
         "boundary_certainty": "schematic",
         "description": {
@@ -57,12 +58,27 @@
             "ref": "tell-2000-guns-gold-and-grain",
             "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
             "quote": "Although local shaykhs and “petty notables” from Ma‘an, ‘Ajlun, and al-Salt took part in Damascene politics, the unified Faisalite administration established in Amman wielded little effective power."
+          },
+          {
+            "ref": "luke-keith-roach-1922-handbook-of-palestine",
+            "locator": "§ 17 'Trans-jordania', p. 227",
+            "quote": "When Palestine was occupied by the British military administration, Trans-jordania was included within the sphere of the Arab administration of Damascus, then under the Emir Feisal, now King of 'Iraq."
+          },
+          {
+            "ref": "antonius-1939-arab-awakening",
+            "locator": "ch. XIV, section 2, p. 279",
+            "quote": "the second, known as O.E.T.A. East, comprised the interior of Syria from ‘Aqaba to Aleppo and was Arab"
+          },
+          {
+            "ref": "tell-2000-guns-gold-and-grain",
+            "locator": "section 'War's Aftermath: Faisal's Rule and the Resurgence of the Local Order'",
+            "quote": "Even before the withdrawal of the British from OETA East in December 1919, bedouin raiding resumed."
           }
         ],
         "notes": {
-          "en": "Northern and central Transjordan ('Ajlun, al-Salt, Amman) were part of Faisal's administration, though its hold there was weak: Antonius describes OETA East as running from Aqaba to Aleppo, with Arab garrisons in 'Amman under the September 1919 arrangement, and Tell describes the 'Faisalite administration established in Amman'; Ma'an and Aqaba were annexed to the Hijaz by King Hussein (Tell). These areas are not yet mapped in this slice.",
-          "ar": "كان شمال شرق الأردن ووسطه (عجلون والسلط وعمّان) جزءاً من إدارة فيصل، وإن كانت قبضتها هناك ضعيفة: يصف أنطونيوس منطقة الإدارة الشرقية بأنها تمتد من العقبة إلى حلب، مع حاميات عربية في عمّان بموجب ترتيب أيلول/سبتمبر 1919، ويصف تل «الإدارة الفيصلية التي أُقيمت في عمّان»؛ وضم الملك حسين معان والعقبة إلى الحجاز (تل). ولم تُرسم هذه المناطق بعد في هذه الشريحة.",
-          "he": "צפון עבר הירדן ומרכזו (עג'לון, א־סלט, עמאן) היו חלק מהמנהל של פייסל, אף שאחיזתו שם הייתה חלשה: אנטוניוס מתאר את מנהל השטח הכבוש המזרחי כמשתרע מעקבה ועד חלב, עם חילות מצב ערביים בעמאן לפי ההסדר מספטמבר 1919, וטל מתאר את \"המנהל הפייסלי שהוקם בעמאן\"; מען ועקבה סופחו לחג'אז בידי המלך חוסיין (טל). אזורים אלה עדיין אינם משורטטים בפרוסה זו.",
+          "en": "Northern and central Transjordan ('Ajlun, al-Salt, Amman) were part of Faisal's administration, though its hold there was weak, and are shown as a partial unit: Luke and Keith-Roach (1922) state that Trans-jordania lay within the sphere of the Arab administration of Damascus; Antonius describes OETA East as running from Aqaba to Aleppo, with Arab garrisons in 'Amman under the September 1919 arrangement; and Tell describes the 'Faisalite administration established in Amman'. Ma'an and Aqaba were annexed to the Hijaz by King Hussein (Tell).",
+          "ar": "كان الجزءان الشمالي والأوسط من شرق الأردن (عجلون والسلط وعمّان) جزءاً من إدارة فيصل، وإن كانت قبضتها هناك ضعيفة، ويظهران كوحدة جزئية: يذكر لوك وكيث-روتش (1922) أن شرق الأردن كان ضمن نطاق الإدارة العربية في دمشق؛ ويصف أنطونيوس منطقة الإدارة الشرقية بأنها تمتد من العقبة إلى حلب، مع حاميات عربية في عمّان بموجب ترتيب أيلول/سبتمبر 1919؛ ويصف تل «الإدارة الفيصلية التي أُقيمت في عمّان». وضم الملك حسين معان والعقبة إلى الحجاز (تل).",
+          "he": "צפון עבר הירדן ומרכזו (עג'לון, א־סלט, עמאן) היו חלק מהמנהל של פייסל, אף שאחיזתו שם הייתה חלשה, והם מוצגים כיחידה חלקית: לוק וקית'-רואץ' (1922) כותבים שעבר הירדן היה בתחום הממשל הערבי של דמשק; אנטוניוס מתאר את מנהל השטח הכבוש המזרחי כמשתרע מעקבה ועד חלב, עם חילות מצב ערביים בעמאן לפי ההסדר מספטמבר 1919; וטל מתאר את \"המנהל הפייסלי שהוקם בעמאן\". מען ועקבה סופחו לחג'אז בידי המלך חוסיין (טל).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

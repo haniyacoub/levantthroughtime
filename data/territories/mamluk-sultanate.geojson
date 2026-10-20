@@ -58,14 +58,35 @@
             "ref": "cahen-1969-mongols-near-east",
             "locator": "p. 718",
             "quote": "In September of 1260, at 'Ain Jālūt, the Mamluks crushed Kitbogha, and occupied almost all of Syria."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "in early Safar 651/April 1253, a peace was finally signed."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "The Mamluks would retain all Egypt and in addition be ceded Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "finally, about the end of March 1253, an-Nasir conceded Jerusalem to Aybeg, and made peace."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "the new settlement reflected this reality by restoring all Palestine, as far south as al-‘Arish, to al-Nasir.",
+            "note": "The settlement followed the flight of the 'Aziziyya regiment to Syria in mid-Ramadan 653/October 1255; no exact date is given."
           }
         ],
         "id": "mamluk-sultanate-1",
         "geometry_method": "units",
         "notes": {
-          "en": "Ziada (1969) says that under a treaty of April 1253 the Mamluk ruler Aybeg held Egypt and 'a slice of Palestine' to the Jordan, including Jerusalem and the coast. The map does not show this yet because it rests on one source; it should be checked against Humphreys (1977).",
-          "ar": "يقول زيادة (1969) إنه بموجب معاهدة نيسان/أبريل 1253 احتفظ الحاكم المملوكي أيبك بمصر و«شريحة من فلسطين» حتى نهر الأردن، بما فيها القدس والساحل. ولا تُظهر الخريطة ذلك بعد لأنه يستند إلى مصدر واحد؛ وينبغي التحقق منه مقابل همفريز (1977).",
-          "he": "זיאדה (1969) אומר שלפי הסכם מאפריל 1253 החזיק השליט הממלוכי איבכ במצרים וב\"רצועה של פלשתינה\" עד הירדן, כולל ירושלים והחוף. המפה עדיין אינה מציגה זאת משום שהדבר נשען על מקור אחד; יש לבדוק אותו מול האמפריז (1977).",
+          "en": "Egypt and Sinai. Ziada's 1253 treaty is confirmed by Humphreys (1977) and Gibb (1969): from April 1253 to about 1256 the Mamluks also held southern Palestine (see mamluk-sultanate-5). The settlement of 1255/56 gave al-Nasir Yusuf 'all Palestine, as far south as al-'Arish' (Humphreys), so the northern Sinai coast may have been partly Ayyubid in 1256-1260 (see ayyubid-sultanate-6).",
+          "ar": "مصر وسيناء. يؤكد همفريز (1977) وجب (1969) معاهدة سنة 1253 التي يذكرها زيادة: فمن نيسان/أبريل 1253 حتى نحو 1256 سيطر المماليك أيضاً على جنوب فلسطين (انظر mamluk-sultanate-5). وقد منحت تسوية 1255/56 الناصرَ يوسف «فلسطين كلها، جنوباً حتى العريش» (همفريز)، لذا ربما كان ساحل شمال سيناء أيوبياً جزئياً في 1256-1260 (انظر ayyubid-sultanate-6).",
+          "he": "מצרים וסיני. האמנה של 1253 שמביא זיאדה מאושרת אצל האמפריז (1977) וגיב (1969): מאפריל 1253 עד בערך 1256 החזיקו הממלוכים גם בדרום ארץ ישראל/פלסטין (ראו mamluk-sultanate-5). ההסדר של 1255/56 נתן לאל-נאצר יוסף \"את כל פלסטין, דרומה עד אל-עריש\" (האמפריז), ולכן ייתכן שחוף צפון סיני היה בחלקו איובי ב-1256-1260 (ראו ayyubid-sultanate-6).",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
@@ -379,6 +400,106 @@
             "he": "machine-draft"
           }
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-sultanate",
+        "start": {
+          "year": 1253,
+          "month": 4,
+          "circa": true,
+          "precision": "month"
+        },
+        "end": {
+          "year": 1256,
+          "circa": true,
+          "precision": "year"
+        },
+        "units": [
+          "sinai",
+          "sinai-north",
+          "judea",
+          "judean-desert",
+          "shephelah",
+          "negev-north"
+        ],
+        "partial_units": [
+          "philistia",
+          "jordan-valley"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Southern Palestine ceded to the Mamluks by the peace of April 1253: 'Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast' (Humphreys 1977).",
+          "ar": "جنوب فلسطين الذي تنازل عنه الأيوبيون للمماليك بصلح نيسان/أبريل 1253: 'Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast' [فلسطين حتى نابلس شمالًا (دون نابلس)، أي يهودا والجزء الإسلامي من الساحل] (همفريز 1977).",
+          "he": "דרום פלשתינה שנמסר לממלוכים בשלום של אפריל 1253: “Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast” [פלשתינה עד שכם צפונה (לא כולל), כלומר יהודה והחלק המוסלמי של החוף] (האמפריז 1977).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "in early Safar 651/April 1253, a peace was finally signed."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 322",
+            "quote": "The Mamluks would retain all Egypt and in addition be ceded Palestine as far north as (but not including) Nablus — i.e., Judaea and the Muslim portion of the coast."
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 323",
+            "quote": "in addition to the small territorial increment represented by southern Palestine"
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "finally, about the end of March 1253, an-Nasir conceded Jerusalem to Aybeg, and made peace."
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713, n. 34",
+            "quote": "Adh-Dhahabi (ad annum 650) states definitely that Nablus and its regions were to remain under an-Nasir"
+          },
+          {
+            "ref": "ziada-1969-mamluk-sultans-to-1293",
+            "locator": "p. 743",
+            "quote": "a treaty was concluded (April 1253) between Aybeg and an-Nasir, by which the former would hold Egypt and a slice of Palestine at the banks of the Jordan, including Jerusalem as well as the coastline"
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "an obscure amir named Kütük was made governor of Jerusalem"
+          },
+          {
+            "ref": "gibb-1969-aiyubids",
+            "locator": "p. 713",
+            "quote": "when Aybeg restored peace with an-Nasir in 1256 by surrendering Palestine to him"
+          },
+          {
+            "ref": "humphreys-1977-saladin-to-mongols",
+            "locator": "p. 327",
+            "quote": "the new settlement reflected this reality by restoring all Palestine, as far south as al-‘Arish, to al-Nasir.",
+            "note": "The settlement followed the flight of the 'Aziziyya regiment to Syria in mid-Ramadan 653/October 1255; no exact date is given."
+          }
+        ],
+        "notes": {
+          "en": "Three accounts agree that Jerusalem passed to Aybeg in spring 1253 (Ziada: April; Gibb: about the end of March; Humphreys: early Safar 651/April). Ziada's 'at the banks of the Jordan' is shown by a partial jordan-valley (the Jericho area); Nablus and Samaria stayed Ayyubid (Humphreys; adh-Dhahabi via Gibb). Philistia is partial because Jaffa was Frankish (Louis IX refortified it in 1252-53). The arrangement was reversed by a second caliphal mediation after October 1255, which gave al-Nasir 'all Palestine, as far south as al-'Arish' (Humphreys), dated 1256 by Gibb; he then appointed his own governor of Jerusalem. Sinai stays in mamluk-sultanate-1.",
+          "ar": "تتفق ثلاث روايات على أن القدس انتقلت إلى أيبك في ربيع 1253 (زيادة: نيسان/أبريل؛ غيب: نحو نهاية آذار/مارس؛ همفريز: أوائل صفر 651/نيسان). ويُمثَّل قول زيادة 'at the banks of the Jordan' [عند ضفاف الأردن] بغور الأردن جزئيًا (منطقة أريحا)؛ وبقيت نابلس والسامرة أيوبية (همفريز؛ الذهبي عبر غيب). والسهل الساحلي الجنوبي جزئي لأن يافا كانت فرنجية (أعاد لويس التاسع تحصينها في 1252-1253). وانعكس هذا الترتيب بوساطة خليفية ثانية بعد تشرين الأول/أكتوبر 1255 أعطت الناصر 'all Palestine, as far south as al-'Arish' [كل فلسطين جنوبًا حتى العريش] (همفريز)، ويؤرخها غيب بعام 1256؛ ثم عيّن الناصر واليًا له على القدس. وتبقى سيناء في mamluk-sultanate-1.",
+          "he": "שלושה תיאורים מסכימים שירושלים עברה לאייבכ באביב 1253 (זיאדה: אפריל; גיב: בערך סוף מרץ; האמפריז: ראשית צפר 651/אפריל). דברי זיאדה 'at the banks of the Jordan' [על גדות הירדן] מוצגים בבקעת הירדן החלקית (אזור יריחו); שכם והשומרון נשארו איוביים (האמפריז; א-ד'הבי דרך גיב). מישור החוף הדרומי חלקי משום שיפו הייתה פרנקית (לואי התשיעי ביצר אותה מחדש ב-1252-1253). ההסדר התהפך בתיווך ח'ליפי שני אחרי אוקטובר 1255, שנתן לא-נאצר 'all Palestine, as far south as al-'Arish' [את כל פלשתינה עד אל-עריש דרומה] (האמפריז), וגיב מתארך אותו ל-1256; לאחר מכן מינה א-נאצר מושל משלו לירושלים. סיני נשאר ב-mamluk-sultanate-1.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "mamluk-sultanate-5",
+        "geometry_method": "units"
       }
     }
   ]

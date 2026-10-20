@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schema/territory.schema.json",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "polity": "mamluk-niyaba-jerusalem",
+        "start": {
+          "year": 1376,
+          "circa": true,
+          "precision": "year"
+        },
+        "end": {
+          "year": 1516,
+          "precision": "year"
+        },
+        "partial_units": [
+          "judea",
+          "judean-desert"
+        ],
+        "boundary_certainty": "schematic",
+        "description": {
+          "en": "Jerusalem and its district in the Judean hills, a separate niyaba from 777/1376 (Midilli; Richards).",
+          "ar": "القدس ومنطقتها في جبال الخليل والقدس، نيابة منفصلة منذ 777/1376 (ميديلّي؛ ريتشاردز).",
+          "he": "ירושלים ומחוזה בהרי יהודה, נייבה נפרדת מ-777/1376 (מידילי; ריצ'רדס).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "confidence": "estimated",
+        "sources": [
+          {
+            "ref": "midilli-2022-kudus-niyabet",
+            "locator": "Sonuç (conclusion), p. 1322",
+            "quote": "önceleri Dımaşk’a bağlı vilâyetlerden biri olan şehrin 777 (1376) yılında yapılan düzenlemeyle Dımaşk nâibliğinden ayrı müstakil bir niyâbet haline geldiği tespit edilmiştir."
+          },
+          {
+            "ref": "burgoyne-1987-mamluk-jerusalem",
+            "locator": "p. 60 (D. S. Richards)",
+            "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+          },
+          {
+            "ref": "burgoyne-1987-mamluk-jerusalem",
+            "locator": "p. 60 (D. S. Richards)",
+            "quote": "a new man to unite Gaza, Jerusalem, Hebron and Ramla under his control, a return to the earliest pattern of administration."
+          }
+        ],
+        "notes": {
+          "en": "The extent of the niyaba was not established. Whether Hebron and its district belonged to it is not verified (Richards notes that Gaza, Jerusalem, Hebron and Ramla were united under one governor in 1495), and Ramla was attached to Jerusalem from 900/1494 (Richards); hence partial units only.",
+          "ar": "لم يُحدَّد امتداد النيابة. ولم يُتحقق مما إذا كانت الخليل ومنطقتها تابعة لها (يذكر ريتشاردز أن غزة والقدس والخليل والرملة جُمعت تحت نائب واحد عام 1495)، وأُلحقت الرملة بالقدس منذ 900/1494 (ريتشاردز)؛ ولذلك تُستخدم وحدات جزئية فقط.",
+          "he": "היקף הנייבה לא נקבע. לא אומת אם חברון ומחוזה השתייכו אליה (ריצ'רדס מציין שעזה, ירושלים, חברון ורמלה אוחדו תחת מושל אחד ב-1495), ורמלה צורפה לירושלים מ-900/1494 (ריצ'רדס); לכן יחידות חלקיות בלבד.",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        },
+        "id": "mamluk-niyaba-jerusalem-1",
+        "geometry_method": "units"
+      }
+    }
+  ]
+}

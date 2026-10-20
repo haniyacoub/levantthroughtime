@@ -7478,6 +7478,21 @@
           "ref": "cahen-1969-mongols-near-east",
           "locator": "p. 717",
           "quote": "in 1260 the Mongols invaded Syria, sacked Aleppo, frightened Damascus into subjection, and destroyed the Aiyūbid principalities of Syria and Palestine."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 526",
+          "quote": "he arranged with Saladin, now his lieutenant in Egypt, to join him in an attack on Kerak"
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "1172-1174 paragraph",
+          "quote": "Nûreddin’in öldüğü sıralarda Selâhaddin Mısır, Libya, Yemen ve Sudan’ın bir kısmını onun adına âdeta bağımsız bir hükümdar gibi idare ediyordu."
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "1171 paragraph",
+          "quote": "Birkaç gün sonra Âdıd-Lidînillâh’ın ölümüyle Fâtımî Devleti yıkıldı ve bütün Mısır Nûreddin Mahmud’un hâkimiyeti altına girmiş oldu."
         }
       ],
       "notes": {
@@ -7488,7 +7503,52 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
-      }
+      },
+      "relations": [
+        {
+          "type": "vassal",
+          "overlord": "zengid-state",
+          "start": {
+            "year": 1171,
+            "month": 9,
+            "circa": true,
+            "precision": "month"
+          },
+          "end": {
+            "year": 1174,
+            "month": 5,
+            "day": 15,
+            "precision": "day"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "gibb-1969-career-of-nur-ad-din",
+              "locator": "p. 526",
+              "quote": "he arranged with Saladin, now his lieutenant in Egypt, to join him in an attack on Kerak"
+            },
+            {
+              "ref": "tdv-nureddin-zengi-mahmud",
+              "locator": "1171 paragraph",
+              "quote": "Birkaç gün sonra Âdıd-Lidînillâh’ın ölümüyle Fâtımî Devleti yıkıldı ve bütün Mısır Nûreddin Mahmud’un hâkimiyeti altına girmiş oldu."
+            },
+            {
+              "ref": "tdv-nureddin-zengi-mahmud",
+              "locator": "1172-1174 paragraph",
+              "quote": "Nûreddin’in öldüğü sıralarda Selâhaddin Mısır, Libya, Yemen ve Sudan’ın bir kısmını onun adına âdeta bağımsız bir hükümdar gibi idare ediyordu."
+            }
+          ],
+          "notes": {
+            "en": "Saladin governed Egypt as Nur al-Din's lieutenant (Gibb) and in his name, though almost like an independent ruler (TDV), until Nur al-Din's death. Start given as the end of the Fatimid caliphate (September 1171), when the Ayyubid record begins.",
+            "ar": "حكم صلاح الدين مصر نائبًا عن نور الدين (غيب) وباسمه، وإن كان أشبه بحاكم مستقل (TDV)، حتى وفاة نور الدين. ويُعطى البدء بنهاية الخلافة الفاطمية (أيلول/سبتمبر 1171) حين يبدأ السجل الأيوبي.",
+            "he": "צלאח א-דין משל במצרים כסגנו של נור א-דין (גיב) ובשמו, אם כי כמעט כשליט עצמאי (TDV), עד מות נור א-דין. ההתחלה ניתנת כסוף הח'ליפות הפאטמית (ספטמבר 1171), כשרשומת האיובים מתחילה.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "ilkhanate",
@@ -10843,6 +10903,556 @@
             "en": "Quoted words are Algeria's delegate's reading of res. 2766 as reported by the UN; Israel frames the presence as temporary and defensive.",
             "ar": "الكلمات المقتبسة هي قراءة مندوب الجزائر للقرار 2766 كما نقلتها الأمم المتحدة؛ وتؤطر إسرائيل الوجود بأنه مؤقت ودفاعي.",
             "he": "המילים המצוטטות הן קריאת נציג אלג'יריה בהחלטה 2766 כפי שדווחה על ידי האו״ם; ישראל מסגרת את הנוכחות כזמנית והגנתית.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "zengid-state",
+      "name": {
+        "en": "Zengid state of Zengi and Nur al-Din (Mosul, Aleppo and, from 1154, Damascus)",
+        "ar": "الدولة الزنكية في عهد عماد الدين زنكي ونور الدين محمود (الموصل وحلب، ومن 1154 دمشق)",
+        "he": "המדינה הזנגית בימי זנגי ונור א-דין (מוסול, חלב ומ-1154 גם דמשק)",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "other",
+      "start": {
+        "year": 1127,
+        "month": 9,
+        "precision": "month"
+      },
+      "end": {
+        "year": 1174,
+        "month": 10,
+        "day": 28,
+        "precision": "day"
+      },
+      "confidence": "documented",
+      "basis": "documentary",
+      "sources": [
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 454",
+          "quote": "Zengi took over Mosul in September 1127 without opposition"
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 454",
+          "quote": "the sultan granted the diploma for Mosul to Zengi, in the capacity of atabeg or regent for his son, the malik Alp Arslan."
+        },
+        {
+          "ref": "tdv-zengiler",
+          "locator": "political history, para. 1",
+          "quote": "İmâdüddin Zengî’nin 521 (1127) yılında Musul valiliğine tayin edilmesiyle kurulan Musul Atabegliği"
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 519",
+          "quote": "forced an entrance on April 25 “to the joy of the people, troops, and militiamen”"
+        },
+        {
+          "ref": "tdv-zengiler",
+          "locator": "political history, para. 3",
+          "quote": "25 Nisan 1154’te Dımaşk’ı zapteden Nûreddin, Halep ve Dımaşk’ı kendi hâkimiyeti altında birleştirmek suretiyle bölgenin en güçlü hükümdarı oldu."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 519",
+          "quote": "With the unification of all Moslem Syria, as well as the former county of Edessa, under his rule"
+        },
+        {
+          "ref": "gibb-1969-zengi-fall-of-edessa",
+          "locator": "p. 459",
+          "quote": "he blockaded the city from December until the following May, without result."
+        },
+        {
+          "ref": "tdv-zengiler",
+          "locator": "political history, para. 1",
+          "quote": "İmâdüddin Zengî, Urfa Haçlı Kontluğu’na son verdiği gibi (539/1144) Dımaşk Atabegliği’ni de (Tuğteginliler) kendine tâbi kılmıştı.",
+          "note": "Says Zengi had made the Damascus atabegate (the Tughtiginids/Burids) subject to him; Gibb describes Damascus as resisting him."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 517",
+          "quote": "he agreed to recognize Nur-ad-Din’s suzerainty, though without admitting him into the city."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 518",
+          "quote": "he was formally recognized as Nur-ad-Din’s lieutenant in Damascus"
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 525",
+          "quote": "Its addition, in January 1169, to the list of provinces which acknowledged him as sultan or as suzerain seemed to be the apogee of Nur-ad-Din’s career."
+        },
+        {
+          "ref": "gibb-1969-career-of-nur-ad-din",
+          "locator": "p. 527",
+          "quote": "died on May 15, 1174, leaving only a minor son as his heir."
+        },
+        {
+          "ref": "tdv-nureddin-zengi-mahmud",
+          "locator": "final historical paragraph",
+          "quote": "Nûreddin, Mısır’a gitmek üzere hazırlık yaptığı sırada Dımaşk Kalesi’nde vefat etti (11 Şevval 569 / 15 Mayıs 1174)."
+        },
+        {
+          "ref": "gibb-1969-rise-of-saladin",
+          "locator": "p. 567",
+          "quote": "on an urgent appeal from the commandant at Damascus occupied it, almost without opposition, on October 28, 1174."
+        },
+        {
+          "ref": "iranica-ayyubids-humphreys-1987",
+          "locator": "rise of the Ayyubids section",
+          "quote": "In 579/1183 he occupied Aleppo (Ḥalab), the last center of Zangid power in Syria"
+        },
+        {
+          "ref": "tdv-zengiler",
+          "locator": "political history, final paragraphs",
+          "quote": "Böylece Zengîler hânedanının ana kolu tarihe karışmış oldu.",
+          "note": "Refers to the murder of the last Zengid atabeg of Mosul in Rabi' I 631 / December 1233."
+        }
+      ],
+      "notes": {
+        "en": "Founded when the Seljuk sultan made Imad al-Din Zengi atabeg (regent) of Mosul in 1127; Zengi added Aleppo in 1128. He attacked Damascus, then ruled by the Burid atabegs, in 1135 and 1139-40 without taking it, but held Banyas (c. 1137/38-1140) and Baalbek (1139-1146) on its edges. His son Nur al-Din, ruler of Aleppo from 1146, had his suzerainty formally recognised by the Burid ruler of Damascus in 1150-51 and took the city on 25 April 1154, uniting Muslim Syria. From 1169 Egypt was governed in his name by Shirkuh and then Saladin. After Nur al-Din died (15 May 1174), Damascus was held for his young son al-Salih Isma'il until Saladin occupied it on 28 October 1174; that date ends this record, which covers the Zengid state as it bore on the map area. Zengid princes kept Aleppo until 1183 (Iranica) and the main branch ruled Mosul until 1233 (TDV); these later principalities are not modelled. TDV (Ogun Bezer) says Zengi had made the Damascus atabegate subject to him, while Gibb describes Damascus resisting him; the map follows Gibb and shows no Zengid control of Damascus before 1154. Damascus under its Burid rulers (before 1154) has no record in the project yet.",
+        "ar": "تأسست عندما عيّن السلطان السلجوقي عماد الدين زنكي أتابكًا (وصيًّا) على الموصل عام 1127، وأضاف زنكي حلب عام 1128. هاجم دمشق، التي كان يحكمها الأتابكة البوريون، عامَي 1135 و1139-1140 دون أن يأخذها، لكنه احتفظ ببانياس (نحو 1137/1138-1140) وبعلبك (1139-1146) على أطرافها. وحصل ابنه نور الدين، حاكم حلب منذ 1146، على اعتراف رسمي بسيادته من الحاكم البوري لدمشق في 1150-1151، ثم دخل المدينة في 25 نيسان/أبريل 1154 فوحّد الشام الإسلامية. ومنذ 1169 حُكمت مصر باسمه على يد شيركوه ثم صلاح الدين. وبعد وفاة نور الدين (15 أيار/مايو 1174) بقيت دمشق لابنه الصغير الصالح إسماعيل حتى دخلها صلاح الدين في 28 تشرين الأول/أكتوبر 1174؛ وبهذا التاريخ ينتهي هذا السجل الذي يغطي الدولة الزنكية من حيث صلتها بمنطقة الخريطة. وبقي أمراء زنكيون في حلب حتى 1183 (إيرانيكا) وحكم الفرع الرئيسي الموصل حتى 1233 (TDV)؛ ولم تُمثَّل هذه الإمارات اللاحقة. وتقول موسوعة TDV (أوغون بيزر) إن زنكي أخضع أتابكية دمشق، بينما يصف غيب مقاومة دمشق له؛ وتتبع الخريطة غيب فلا تُظهر سيطرة زنكية على دمشق قبل 1154. ولا يوجد في المشروع بعد سجل لدمشق في عهد حكامها البوريين (قبل 1154).",
+        "he": "נוסדה כאשר הסולטאן הסלג'וקי מינה את עימאד א-דין זנגי לאטאבג (עוצר) של מוסול ב-1127; זנגי הוסיף את חלב ב-1128. הוא תקף את דמשק, שנשלטה אז בידי האטאבגים הבורים, ב-1135 וב-1139-1140 בלי לכבוש אותה, אך החזיק בבאניאס (בערך 1137/1138-1140) ובבעלבכ (1139-1146) בשוליה. בנו נור א-דין, שליט חלב מ-1146, זכה להכרה רשמית בריבונותו מצד השליט הבורי של דמשק ב-1150-1151 ונכנס לעיר ב-25 באפריל 1154, ובכך איחד את סוריה המוסלמית. מ-1169 נשלטה מצרים בשמו בידי שירכוה ואחר כך צלאח א-דין. לאחר מות נור א-דין (15 במאי 1174) הוחזקה דמשק בשם בנו הצעיר א-סאלח איסמאעיל עד שצלאח א-דין נכנס אליה ב-28 באוקטובר 1174; בתאריך זה מסתיימת רשומה זו, המכסה את המדינה הזנגית כפי שנגעה לאזור המפה. נסיכים זנגים שלטו בחלב עד 1183 (איראניקה) והענף הראשי שלט במוסול עד 1233 (TDV); נסיכויות מאוחרות אלה אינן ממודלות. TDV (אוגון בזר) כותבת שזנגי הכפיף את אטאבגות דמשק, ואילו גיב מתאר את התנגדות דמשק לו; המפה הולכת אחר גיב ואינה מציגה שליטה זנגית בדמשק לפני 1154. לדמשק בימי שליטיה הבורים (לפני 1154) אין עדיין רשומה בפרויקט.",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "relations": [
+        {
+          "type": "autonomous-under",
+          "overlord": "seljuk-empire",
+          "start": {
+            "year": 1127,
+            "month": 9,
+            "precision": "month"
+          },
+          "end": {
+            "year": 1146,
+            "month": 9,
+            "day": 14,
+            "precision": "day"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "gibb-1969-zengi-fall-of-edessa",
+              "locator": "p. 454",
+              "quote": "the sultan granted the diploma for Mosul to Zengi, in the capacity of atabeg or regent for his son, the malik Alp Arslan."
+            },
+            {
+              "ref": "gibb-1969-zengi-fall-of-edessa",
+              "locator": "p. 454",
+              "quote": "only on the intercession of the caliph did he consent to grant him the diploma for Aleppo also."
+            },
+            {
+              "ref": "gibb-1969-zengi-fall-of-edessa",
+              "locator": "p. 460",
+              "quote": "Zengi, in extreme alarm, made his submission, and the sultan, for reasons not specified, found it advisable to reach a reconciliation with him."
+            },
+            {
+              "ref": "tdv-zengiler",
+              "locator": "political history, para. 4",
+              "quote": "Bu hususu Halife Muktefî-Liemrillâh ve Irak Selçuklu Sultanı Mes‘ûd b. Muhammed Tapar da kabul etti.",
+              "note": "The 1149 division (Syria to Nur al-Din, the Jazira to his brother Mawdud) was accepted by the caliph and the Seljuk sultan of Iraq."
+            }
+          ],
+          "notes": {
+            "en": "Zengi held Mosul as atabeg under a diploma from the Seljuk sultan of Iraq and submitted to Sultan Mas'ud in the early 1140s (Gibb). Recognition of the Seljuk sultan continued formally under his sons (TDV) but is not modelled after 1146.",
+            "ar": "حكم زنكي الموصل أتابكًا بتقليد من سلطان السلاجقة في العراق، وخضع للسلطان مسعود في أوائل الأربعينيات من القرن الثاني عشر (غيب). واستمر الاعتراف بالسلطان السلجوقي شكليًا في عهد أبنائه (TDV) لكنه لا يُمثَّل بعد 1146.",
+            "he": "זנגי החזיק במוסול כאטאבג מכוח כתב מינוי מן הסולטאן הסלג'וקי של עיראק, ונכנע לסולטאן מסעוד בראשית שנות ה-1140 (גיב). ההכרה בסולטאן הסלג'וקי נמשכה באופן פורמלי בימי בניו (TDV) אך אינה ממודלת אחרי 1146.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        },
+        {
+          "type": "autonomous-under",
+          "overlord": "abbasid-caliphate",
+          "start": {
+            "year": 1146,
+            "month": 9,
+            "precision": "month"
+          },
+          "end": {
+            "year": 1174,
+            "month": 5,
+            "day": 15,
+            "precision": "day"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "gibb-1969-career-of-nur-ad-din",
+              "locator": "p. 519",
+              "quote": "the title conferred on him by the caliph, apparently in this same year 1154, of al-malik al-‘adil “the just king”."
+            },
+            {
+              "ref": "gibb-1969-career-of-nur-ad-din",
+              "locator": "p. 526",
+              "quote": "having received the caliph’s diploma for the city and its dependencies"
+            },
+            {
+              "ref": "tdv-nureddin-zengi-mahmud",
+              "locator": "1171 paragraph",
+              "quote": "Fâtımî Devleti’nin yıkılması üzerine Abbâsî Halifesi Müstazî-Biemrillâh, Nûreddin’e saltanat alâmetleriyle bir temliknâme gönderdi."
+            }
+          ],
+          "notes": {
+            "en": "Nominal: Nur al-Din's legitimacy rested on titles and diplomas from the Abbasid caliph, whose name he had restored in the Friday sermon in Egypt in 1171 (TDV).",
+            "ar": "اسمية: استندت شرعية نور الدين إلى ألقاب وتقاليد من الخليفة العباسي، الذي أعاد ذكر اسمه في خطبة الجمعة في مصر عام 1171 (TDV).",
+            "he": "נומינלית: הלגיטימיות של נור א-דין נשענה על תארים וכתבי מינוי מן הח'ליף העבאסי, ששמו הוחזר בדרשת יום השישי במצרים ב-1171 (TDV).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mamluk-niyaba-karak",
+      "name": {
+        "en": "Mamluk province (niyaba/mamlaka) of Karak",
+        "ar": "نيابة/مملكة الكرك المملوكية",
+        "he": "הנייבה/הממלכה הממלוכית של אל-כרכ",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "province",
+      "start": {
+        "year": 1263,
+        "precision": "year"
+      },
+      "end": {
+        "year": 1516,
+        "circa": true,
+        "precision": "year",
+        "latest": 1517
+      },
+      "confidence": "estimated",
+      "basis": "documentary",
+      "sources": [
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 745",
+          "quote": "In this way he extended the suzerainty of the Mamluk sultanate over Syria and Palestine, except for the small principality of Kerak."
+        },
+        {
+          "ref": "ziada-1969-mamluk-sultans-to-1293",
+          "locator": "p. 747",
+          "quote": "Eventually Baybars had him entrapped, and sent him a prisoner to the citadel of Cairo, where he was executed on a charge of treasonable correspondence with the Mongols (April 1263)."
+        },
+        {
+          "ref": "tdv-kerek",
+          "locator": "history, para. 2",
+          "quote": "el-Melikü’n-Nâsır Dâvûd’un yarı bağımsız bir emirlik merkezi haline getirdiği Kerek, 1263’te I. Baybars tarafından Memlükler’e bağlanarak tahkim ve imar edildi."
+        },
+        {
+          "ref": "tdv-kerek",
+          "locator": "history, para. 3",
+          "quote": "Memlükler devrinde Kerek’e büyük önem verildi ve burası nâiblik merkezi yapıldı."
+        },
+        {
+          "ref": "midilli-2022-kudus-niyabet",
+          "locator": "p. 1306",
+          "quote": "Daha önce müstakil melikler tarafından yönetilen Şam bölgesinde Dımaşk, Halep, Trablus, Hama, Kerek ve Safed şehirlerinde altı niyâbet kurulmuştur."
+        },
+        {
+          "ref": "walker-2004-mamluk-investment-transjordan",
+          "locator": "n. 20, p. 124",
+          "quote": "Jordan in Mamluk times was administratively divided between the southern section (safaqah) of the Province of Damascus (Mamlakat Dimashq) in the north and the Province of Kerak (Mamlakat Karak) in the south"
+        },
+        {
+          "ref": "walker-2009-tribal-dimension-mamluk-jordan",
+          "locator": "p. 84",
+          "quote": "There was, of course, no “Jordan” in the Mamluk period—a province (Mamlakat Karak) and the southernmost district of another (Mamlakat Dimashq) comprised the territory of what is today’s Hashemite Kingdom."
+        },
+        {
+          "ref": "tdv-kerek",
+          "locator": "history, para. 5",
+          "quote": "1517 yılında bölge Osmanlı Devleti’nin hâkimiyetine girdi."
+        },
+        {
+          "ref": "walker-2004-mamluk-investment-transjordan",
+          "locator": "p. 135",
+          "quote": "province (Mamlakat Karak), a favored place of exile for deposed sultans",
+          "note": "End of the sentence beginning 'Southern Jordan was dominated by Kerak Castle, which was the capital of its own' (p. 135; the PDF text layer places the page's footnotes in between); it continues on p. 136 'and the nursery of sons of sultans during the Mamluk period.'"
+        }
+      ],
+      "notes": {
+        "en": "Kerak was the last Ayyubid principality in the south (under al-Mughith 'Umar) and passed to Baybars in 1263, after al-Mughith was lured into captivity and executed (Ziada; TDV). It then became the seat of one of the six Mamluk provinces of Syria (TDV; Midilli). Walker calls it the 'Province of Kerak (Mamlakat Karak)', covering Kerak, Shobak and the Lower Ghor, while northern Jordan belonged to the province of Damascus. Kerak was a place of exile and refuge: the deposed sultan Berke Khan was given it as an independent principality in 1279 and Baybars' son Khidr held it until he submitted to Qalawun (c. 1286) (Ziada); al-Nasir Muhammad grew up and lived in exile there, and his son al-Nasir Ahmad tried to rule the sultanate from Kerak in 1342-1344 (TDV; Walker). TDV dates the Ottoman takeover to 1517; the end date follows the other Mamluk provinces (1516).",
+        "ar": "كانت الكرك آخر إمارة أيوبية في الجنوب (في عهد المغيث عمر)، وانتقلت إلى بيبرس عام 1263 بعد أن استُدرج المغيث إلى الأسر وأُعدم (زيادة؛ TDV). ثم صارت مقر إحدى النيابات المملوكية الست في الشام (TDV؛ ميديلّي). ويسميها ووكر 'مملكة الكرك' وتشمل الكرك والشوبك والغور الأسفل، بينما كان شمال الأردن تابعًا لنيابة دمشق. وكانت الكرك منفى وملجأ: إذ أُعطيت للسلطان المخلوع بركة خان إمارةً مستقلة عام 1279، واحتفظ بها خضر بن بيبرس حتى خضع لقلاوون (نحو 1286) (زيادة)؛ ونشأ فيها الناصر محمد وعاش منفيًا، وحاول ابنه الناصر أحمد حكم السلطنة من الكرك في 1342-1344 (TDV؛ ووكر). وتؤرخ TDV الاستيلاء العثماني بعام 1517؛ ويتبع تاريخ النهاية النيابات المملوكية الأخرى (1516).",
+        "he": "אל-כרכ הייתה הנסיכות האיובית האחרונה בדרום (בימי אל-מע'ית' עומר) ועברה לבייברס ב-1263, לאחר שאל-מע'ית' פותה לשבי והוצא להורג (זיאדה; TDV). לאחר מכן הפכה למושב אחת משש הפרובינקיות הממלוכיות בסוריה (TDV; מידילי). ווקר מכנה אותה 'פרובינקיית כרכ (ממלכת אל-כרכ)', הכוללת את כרכ, שובכ והע'ור התחתון, ואילו צפון ירדן השתייך לפרובינקיית דמשק. כרכ שימשה מקום גלות ומקלט: הסולטאן המודח בַּרַכָּה ח'אן קיבל אותה כנסיכות עצמאית ב-1279, ובן בייברס ח'דר החזיק בה עד שנכנע לקלאוון (בערך 1286) (זיאדה); א-נאצר מחמד גדל וחי בה בגלות, ובנו א-נאצר אחמד ניסה לשלוט בסולטנות מכרכ ב-1342-1344 (TDV; ווקר). TDV מתארכת את ההשתלטות העות'מאנית ל-1517; תאריך הסיום הולך אחר שאר הפרובינקיות הממלוכיות (1516).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "relations": [
+        {
+          "type": "province",
+          "overlord": "mamluk-sultanate",
+          "start": {
+            "year": 1263,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1279,
+            "month": 8,
+            "precision": "month"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 747",
+              "quote": "Eventually Baybars had him entrapped, and sent him a prisoner to the citadel of Cairo, where he was executed on a charge of treasonable correspondence with the Mongols (April 1263)."
+            },
+            {
+              "ref": "tdv-kerek",
+              "locator": "history, para. 2",
+              "quote": "el-Melikü’n-Nâsır Dâvûd’un yarı bağımsız bir emirlik merkezi haline getirdiği Kerek, 1263’te I. Baybars tarafından Memlükler’e bağlanarak tahkim ve imar edildi."
+            },
+            {
+              "ref": "tdv-kerek",
+              "locator": "history, para. 3",
+              "quote": "Memlükler devrinde Kerek’e büyük önem verildi ve burası nâiblik merkezi yapıldı."
+            }
+          ]
+        },
+        {
+          "type": "autonomous-under",
+          "overlord": "mamluk-sultanate",
+          "start": {
+            "year": 1279,
+            "month": 8,
+            "precision": "month"
+          },
+          "end": {
+            "year": 1286,
+            "circa": true,
+            "precision": "year"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 750",
+              "quote": "was given the province of Kerak in Transjordan as an independent principality."
+            },
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 750",
+              "quote": "Khidr was given Krak de Montréal (ash-Shaubak) near Kerak, to rule after the fashion of his eldest brother."
+            },
+            {
+              "ref": "ziada-1969-mamluk-sultans-to-1293",
+              "locator": "p. 752",
+              "quote": "Kalavun also harassed Khidr, prince of Kerak, until he too yielded and came to Cairo."
+            },
+            {
+              "ref": "walker-2004-mamluk-investment-transjordan",
+              "locator": "p. 121",
+              "quote": "served as the governor (nā’ib) of Kerak from 1286 to 1291."
+            }
+          ],
+          "notes": {
+            "en": "Appanage of Baybars' sons Berke Khan (d. 1280) and Khidr until Qalawun forced Khidr to submit; Walker names Baybars al-Dawadar as governor (na'ib) of Kerak from 1286. The month of Khidr's submission was not established.",
+            "ar": "إقطاع لابنَي بيبرس بركة خان (ت. 1280) وخضر حتى أجبر قلاوون خضرًا على الخضوع؛ ويذكر ووكر أن بيبرس الدوادار كان نائب الكرك منذ 1286. ولم يُحدَّد شهر خضوع خضر.",
+            "he": "אחוזה של בני בייברס, בַּרַכָּה ח'אן (מת 1280) וח'דר, עד שקלאוון אילץ את ח'דר להיכנע; ווקר מציין את בייברס אל-דוואדאר כמושל (נאיב) של כרכ מ-1286. חודש כניעתו של ח'דר לא נקבע.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        },
+        {
+          "type": "province",
+          "overlord": "mamluk-sultanate",
+          "start": {
+            "year": 1286,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1516,
+            "circa": true,
+            "precision": "year",
+            "latest": 1517
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "walker-2004-mamluk-investment-transjordan",
+              "locator": "p. 121",
+              "quote": "served as the governor (nā’ib) of Kerak from 1286 to 1291."
+            },
+            {
+              "ref": "walker-2004-mamluk-investment-transjordan",
+              "locator": "n. 20, p. 124",
+              "quote": "Jordan in Mamluk times was administratively divided between the southern section (safaqah) of the Province of Damascus (Mamlakat Dimashq) in the north and the Province of Kerak (Mamlakat Karak) in the south"
+            },
+            {
+              "ref": "midilli-2022-kudus-niyabet",
+              "locator": "p. 1306",
+              "quote": "Daha önce müstakil melikler tarafından yönetilen Şam bölgesinde Dımaşk, Halep, Trablus, Hama, Kerek ve Safed şehirlerinde altı niyâbet kurulmuştur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mamluk-niyaba-jerusalem",
+      "name": {
+        "en": "Mamluk province (niyaba) of Jerusalem",
+        "ar": "نيابة القدس المملوكية",
+        "he": "הנייבה הממלוכית של ירושלים",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "kind": "province",
+      "start": {
+        "year": 1376,
+        "circa": true,
+        "precision": "year",
+        "calendar_note": "777 AH (1375-76). Ibn Iyas (as quoted by Midilli 2022, n. 23) places the appointment of the first na'ib, Timraz, in Dhu l-Hijja 777, i.e. about April-May 1376."
+      },
+      "end": {
+        "year": 1516,
+        "precision": "year"
+      },
+      "confidence": "estimated",
+      "basis": "documentary",
+      "sources": [
+        {
+          "ref": "midilli-2022-kudus-niyabet",
+          "locator": "Sonuç (conclusion), p. 1322",
+          "quote": "önceleri Dımaşk’a bağlı vilâyetlerden biri olan şehrin 777 (1376) yılında yapılan düzenlemeyle Dımaşk nâibliğinden ayrı müstakil bir niyâbet haline geldiği tespit edilmiştir."
+        },
+        {
+          "ref": "midilli-2022-kudus-niyabet",
+          "locator": "p. 1307",
+          "quote": "Kalkaşendî, Kudüs’ün önceleri küçük bir vilâyetken 777 (1376) yılında niyâbet haline geldiğini, şehir nâibinin tablhâne emîrlerinden seçildiğini belirtmiştir."
+        },
+        {
+          "ref": "midilli-2022-kudus-niyabet",
+          "locator": "p. 1312",
+          "quote": "Kudüs’ün 777 (1376) yılından sonra niyâbet statüsünde olduğu konusunda ittifak olmakla birlikte"
+        },
+        {
+          "ref": "burgoyne-1987-mamluk-jerusalem",
+          "locator": "p. 60 (D. S. Richards)",
+          "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+        },
+        {
+          "ref": "amitai-2017-gaza-mamluks",
+          "locator": "p. 8 (PDF p. 10)",
+          "quote": "Jerusalem and the area more-or-less covered by the West Bank today were usually part of the Province of Damascus, but independent at times."
+        },
+        {
+          "ref": "burgoyne-1987-mamluk-jerusalem",
+          "locator": "p. 59 (ch. 'Jerusalem under the Mamluks', by D. S. Richards)",
+          "quote": "For most of the Bahrī period Jerusalem was dependent in terms of administrative organisation on the governor of Gaza."
+        },
+        {
+          "ref": "burgoyne-1987-mamluk-jerusalem",
+          "locator": "p. 60 (D. S. Richards)",
+          "quote": "Yet Frescobaldi in late 1384 was at Gaza and he claimed that the governor of Jerusalem was at that time subject to Gaza."
+        }
+      ],
+      "notes": {
+        "en": "Before the change Jerusalem was a minor district (wilaya), subordinate to Damascus or, for most of the Bahri period, to the governor of Gaza (Burgoyne/Richards). The chancery writers Ibn Nazir al-Jaysh and al-Qalqashandi, and Ibn Hajar, al-Malati and Ibn Iyas, date its elevation to a niyaba to 777/1376 under al-Ashraf Sha'ban; other sources and modern authors give 1309, 1313, 1365, 1393 or after 1413 (all reviewed by Midilli 2022, who argues for 1376). Richards describes the new governorate as 'still subject to the overriding authority of Damascus', and Mujir al-Din says its governors were appointed from Damascus until about 800/1397-98; Midilli sees it as attached directly to Cairo from 1376. The Florentine pilgrim Frescobaldi (1384) thought it subject to Gaza. Ramla was added to Jerusalem in 900/1494, and in 901/1495 Gaza, Jerusalem, Hebron and Ramla were put under one governor (Richards).",
+        "ar": "قبل التغيير كانت القدس ولاية صغيرة تابعة لدمشق أو، في معظم العصر البحري، لنائب غزة (بورغوين/ريتشاردز). ويؤرخ كتّاب ديوان الإنشاء ابن ناظر الجيش والقلقشندي، وكذلك ابن حجر والملطي وابن إياس، ترقيتها إلى نيابة بعام 777/1376 في عهد الأشرف شعبان؛ وتذكر مصادر أخرى وباحثون محدثون 1309 أو 1313 أو 1365 أو 1393 أو ما بعد 1413 (راجعها جميعًا ميديلّي 2022 الذي يرجّح 1376). ويصف ريتشاردز الولاية الجديدة بأنها 'still subject to the overriding authority of Damascus' [ظلت خاضعة للسلطة العليا لدمشق]، ويقول مجير الدين إن نوابها كانوا يُعيَّنون من دمشق حتى نحو 800/1397-1398؛ بينما يراها ميديلّي مرتبطة بالقاهرة مباشرة منذ 1376. وظن الحاج الفلورنسي فريسكوبالدي (1384) أنها تابعة لغزة. وأُضيفت الرملة إلى القدس عام 900/1494، وفي 901/1495 جُمعت غزة والقدس والخليل والرملة تحت نائب واحد (ريتشاردز).",
+        "he": "לפני השינוי הייתה ירושלים מחוז קטן (וילאיה), כפוף לדמשק או, ברוב התקופה הבחרית, למושל עזה (בורגוין/ריצ'רדס). כותבי לשכת המכתבים אבן נאט'ר אל-ג'יש ואל-קלקשנדי, וכן אבן חג'ר, אל-מלטי ואבן איאס, מתארכים את העלאתה לנייבה ל-777/1376 בימי אל-אשרף שעבאן; מקורות אחרים וחוקרים מודרניים נותנים 1309, 1313, 1365, 1393 או אחרי 1413 (כולם נסקרים אצל מידילי 2022, הטוען ל-1376). ריצ'רדס מתאר את המושלות החדשה כ'still subject to the overriding authority of Damascus' [עדיין כפופה לסמכות העליונה של דמשק], ומוג'יר א-דין כותב שמושליה מונו מדמשק עד בערך 800/1397-1398; מידילי רואה אותה כקשורה ישירות לקהיר מ-1376. הצליין הפלורנטיני פרסקובלדי (1384) סבר שהיא כפופה לעזה. רמלה צורפה לירושלים ב-900/1494, וב-901/1495 אוחדו עזה, ירושלים, חברון ורמלה תחת מושל אחד (ריצ'רדס).",
+        "translation_status": {
+          "ar": "machine-draft",
+          "he": "machine-draft"
+        }
+      },
+      "relations": [
+        {
+          "type": "province",
+          "overlord": "mamluk-sultanate",
+          "start": {
+            "year": 1376,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1516,
+            "precision": "year"
+          },
+          "confidence": "documented",
+          "sources": [
+            {
+              "ref": "midilli-2022-kudus-niyabet",
+              "locator": "Sonuç (conclusion), p. 1322",
+              "quote": "önceleri Dımaşk’a bağlı vilâyetlerden biri olan şehrin 777 (1376) yılında yapılan düzenlemeyle Dımaşk nâibliğinden ayrı müstakil bir niyâbet haline geldiği tespit edilmiştir."
+            },
+            {
+              "ref": "midilli-2022-kudus-niyabet",
+              "locator": "English abstract, p. 1303",
+              "quote": "in the later eighth/fourteenth century, the city was turned into a separate niyāba, an administrative unit governed by the viceroy (nā’ib al-saltana) of the sultan, and attached directly to Cairo"
+            },
+            {
+              "ref": "burgoyne-1987-mamluk-jerusalem",
+              "locator": "p. 60 (D. S. Richards)",
+              "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+            }
+          ]
+        },
+        {
+          "type": "part-of",
+          "overlord": "mamluk-niyaba-damascus",
+          "start": {
+            "year": 1376,
+            "circa": true,
+            "precision": "year"
+          },
+          "end": {
+            "year": 1398,
+            "circa": true,
+            "precision": "year"
+          },
+          "confidence": "contested",
+          "sources": [
+            {
+              "ref": "burgoyne-1987-mamluk-jerusalem",
+              "locator": "p. 60 (D. S. Richards)",
+              "quote": "the year 777/1375-76 in the reign of al-Ashraf Sha‘ban was a crucial point, because it was then that the independent governorate of Jerusalem, still subject to the overriding authority of Damascus of course, was introduced."
+            },
+            {
+              "ref": "burgoyne-1987-mamluk-jerusalem",
+              "locator": "p. 60 (D. S. Richards, quoting Mujir al-Din)",
+              "quote": "This continued to be the case until about the year 800 [1397-98]. Then the responsibility for that reverted to the Sultan in Egypt"
+            },
+            {
+              "ref": "midilli-2022-kudus-niyabet",
+              "locator": "English abstract, p. 1303",
+              "quote": "in the later eighth/fourteenth century, the city was turned into a separate niyāba, an administrative unit governed by the viceroy (nā’ib al-saltana) of the sultan, and attached directly to Cairo"
+            }
+          ],
+          "notes": {
+            "en": "Richards (and Mujir al-Din as quoted by him) keep Jerusalem under the overriding authority of Damascus until about 1397-98; Midilli argues it was attached directly to Cairo from 1376.",
+            "ar": "يُبقي ريتشاردز (ومجير الدين كما يقتبسه) القدس تحت السلطة العليا لدمشق حتى نحو 1397-1398؛ بينما يرى ميديلّي أنها ارتبطت بالقاهرة مباشرة منذ 1376.",
+            "he": "ריצ'רדס (ומוג'יר א-דין כפי שהוא מצטט אותו) משאירים את ירושלים תחת סמכותה העליונה של דמשק עד בערך 1397-1398; מידילי טוען שהיא הוצמדה ישירות לקהיר מ-1376.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
