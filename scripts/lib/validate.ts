@@ -9,7 +9,7 @@ import { join, relative } from 'node:path';
 import type { z } from 'zod';
 import {
   AreasFile, Config, ConflictsFile, CultureZoneFile, CulturesFile, ErasFile, EventsFile, GroupsFile, LandscapeFile,
-  LanguagesFile, MigrationsFile, ModernLayersFile, Palette, PerspectivesFile, PlacesFile, PolitiesFile, PopulationFile, RulersFile,
+  LanguagesFile, MigrationsFile, ModernLayersFile, Palette, PeoplesFile, PerspectivesFile, PlacesFile, PolitiesFile, PopulationFile, RulersFile,
   SourcesFile, Story, UnitsFile, TerritoryFile,
   type HistDate, type Localized, type Range, type SourceRef,
 } from '../../src/schema/index';
@@ -47,6 +47,7 @@ export interface DataBundle {
   languages?: Inferred<typeof LanguagesFile>;
   landscape?: Inferred<typeof LandscapeFile>;
   perspectives?: Inferred<typeof PerspectivesFile>;
+  peoples?: Inferred<typeof PeoplesFile>;
   modern?: Inferred<typeof ModernLayersFile>;
   stories: { file: string; data: Inferred<typeof Story> }[];
 }
@@ -57,7 +58,7 @@ export interface Result {
   warnings: Issue[];
 }
 
-const COLLECTION_KEYS = ['segments', 'sources', 'polities', 'cultures', 'features', 'landmarks', 'units', 'areas', 'groups', 'population', 'places', 'events', 'rulers', 'conflicts', 'migrations', 'diaspora', 'languages', 'sea_level', 'dead_sea_levels', 'trade_routes', 'perspectives', 'steps'];
+const COLLECTION_KEYS = ['segments', 'sources', 'polities', 'cultures', 'features', 'landmarks', 'units', 'areas', 'groups', 'population', 'places', 'events', 'rulers', 'conflicts', 'migrations', 'diaspora', 'languages', 'sea_level', 'dead_sea_levels', 'trade_routes', 'perspectives', 'steps', 'peoples', 'links'];
 
 /** Turn a Zod path like ["polities", 3, "end", "year"] into "polities[3] (id: x) › end.year". */
 function describePath(path: PropertyKey[], raw: unknown): { where: string; field: string } {
@@ -137,6 +138,7 @@ export function loadData(dir: string, issues: Issue[]): DataBundle {
   b.languages = parseFile(dir, 'languages.json', LanguagesFile, issues, false);
   b.landscape = parseFile(dir, 'landscape.json', LandscapeFile, issues, false);
   b.perspectives = parseFile(dir, 'perspectives.json', PerspectivesFile, issues, false);
+  b.peoples = parseFile(dir, 'peoples.json', PeoplesFile, issues, false);
   b.modern = parseFile(dir, 'modern/layers.json', ModernLayersFile, issues, false);
   for (const f of listFiles(dir, 'stories', '.json', issues)) {
     const data = parseFile(dir, f, Story, issues);
@@ -568,6 +570,38 @@ export function validateData(dir: string): Result {
     const kinds = new Set(p.accounts.map((a) => a.perspective.split('-')[0]));
     for (const need of ['israeli', 'palestinian']) {
       if (!kinds.has(need) && !p.accounts.some((a) => a.perspective.includes(need))) warn('perspectives.json', `id "${p.id}"`, `No ${need} account`);
+    }
+  }
+  // Peoples through time: every link joins known peoples, every "related" id exists, and the usual sourcing rules apply.
+  {
+    const peopleIds = new Set((b.peoples?.peoples ?? []).map((x) => x.id));
+    checkIdsUnique(b.peoples?.peoples, 'peoples.json', 'people', issues);
+    checkIdsUnique(b.peoples?.links, 'peoples.json', 'link', issues);
+    const known: Record<string, Set<string>> = {
+      polities: new Set((b.polities?.polities ?? []).map((x) => x.id)),
+      cultures: new Set((b.cultures?.cultures ?? []).map((x) => x.id)),
+      languages: new Set((b.languages?.languages ?? []).map((x) => x.id)),
+      migrations: new Set((b.migrations?.migrations ?? []).map((x) => x.id)),
+      groups: new Set((b.groups?.groups ?? []).map((x) => x.id)),
+    };
+    for (const p of b.peoples?.peoples ?? []) {
+      const where = `people "${p.id}"`;
+      checkRefs('peoples.json', where, p.sources);
+      checkConfidence('peoples.json', where, p.confidence, p.sources);
+      checkDates('peoples.json', where, p.attested.start, p.attested.end ?? undefined);
+      for (const u of p.units ?? []) if (!unitIds.has(u)) err('peoples.json', where, `Unknown geographic unit "${u}"`);
+      for (const [kind, ids] of Object.entries(p.related ?? {})) {
+        for (const id of ids ?? []) if (!known[kind]?.has(id)) err('peoples.json', where, `Unknown ${({ polities: 'polity', cultures: 'culture', languages: 'language', migrations: 'migration', groups: 'group' } as Record<string, string>)[kind] ?? kind} "${id}" in related.${kind}`);
+      }
+    }
+    for (const l of b.peoples?.links ?? []) {
+      const where = `link "${l.id}"`;
+      if (!peopleIds.has(l.from)) err('peoples.json', where, `Unknown people "${l.from}" in "from"`);
+      if (l.to && !peopleIds.has(l.to)) err('peoples.json', where, `Unknown people "${l.to}" in "to"`);
+      if (l.to && l.to === l.from) err('peoples.json', where, 'A link cannot point to the same people');
+      checkRefs('peoples.json', where, l.sources);
+      checkConfidence('peoples.json', where, l.confidence, l.sources);
+      checkDates('peoples.json', where, l.start, l.end ?? undefined);
     }
   }
   for (const { file, data } of b.stories) {

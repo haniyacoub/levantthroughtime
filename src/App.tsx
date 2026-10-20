@@ -11,6 +11,7 @@ import { RulerBands } from './timeline/RulerBands';
 import { StoriesDialog, StoryCard } from './stories/StoryMode';
 import { mapRegistry } from './map/registry';
 // Perspectives cards are also used by the year panel, so the page is not split out.
+import { PeoplesPage } from './panels/Peoples';
 import { PerspectivesPage } from './panels/Perspectives';
 import { DEFAULT_LAYERS, LAYER_KEYS, type LayerKey } from './state/store';
 import { useStore, viewFromHash } from './state/store';
@@ -39,6 +40,8 @@ export default function App() {
   }, [setView]);
   useEffect(() => {
     const want = view === 'map' ? '' : `#/${view}`;
+    // The peoples page keeps the chosen people in the address (#/peoples/<id>).
+    if (view === 'peoples' && window.location.hash.startsWith('#/peoples/')) return;
     if (window.location.hash !== want) {
       window.history.replaceState(null, '', `${window.location.pathname}${window.location.search}${want}`);
     }
@@ -130,6 +133,9 @@ export default function App() {
               {tr('nav.backToMap')}
             </button>
           )}
+          <button type="button" className="link-btn" aria-current={view === 'peoples' ? 'page' : undefined} onClick={() => setView('peoples')} data-testid="nav-peoples">
+            {tr('nav.peoples')}
+          </button>
           <button type="button" className="link-btn" aria-current={view === 'perspectives' ? 'page' : undefined} onClick={() => setView('perspectives')} data-testid="nav-perspectives">
             {tr('nav.perspectives')}
           </button>
@@ -158,6 +164,8 @@ export default function App() {
         <Bibliography data={data} />
       ) : view === 'perspectives' ? (
         <PerspectivesPage data={data} />
+      ) : view === 'peoples' ? (
+        <PeoplesPage data={data} scale={scale} />
       ) : view === 'about' ? (
         <About data={data} />
       ) : (

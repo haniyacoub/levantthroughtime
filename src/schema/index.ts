@@ -686,6 +686,64 @@ export const Perspective = z.strictObject({
 });
 export const PerspectivesFile = z.strictObject({ $schema: SchemaRef, perspectives: z.array(Perspective) });
 
+// ---------------------------------------------------------------- peoples through time
+
+/** What a statement about a people rests on. Kept apart, as elsewhere: the Bible is not archaeology, and DNA is not identity. */
+export const EvidenceType = z.enum(['documentary', 'archaeological', 'textual-tradition', 'linguistic', 'genetic']);
+
+/** A people or community attested in or near the map area, as a distinct, named group in the sources. */
+export const People = z.strictObject({
+  id: Id,
+  name: Localized,
+  also_known_as: z.array(z.string()).optional(),
+  kind: z.enum(['people', 'religious-community', 'tribal-confederation', 'community']),
+  /** First and last attestation as a distinct group; no end = still exists. */
+  attested: z.strictObject({ start: HistDate, end: HistDate.nullable().optional() }),
+  homeland: Localized.optional(),
+  /** Geographic or modern unit ids (data/geo/units.json, modern units) where they lived. */
+  units: z.array(Id).optional(),
+  /** Records elsewhere in /data that concern this people. */
+  related: z
+    .strictObject({
+      polities: z.array(Id).optional(),
+      cultures: z.array(Id).optional(),
+      languages: z.array(Id).optional(),
+      migrations: z.array(Id).optional(),
+      groups: z.array(Id).optional(),
+    })
+    .optional(),
+  summary: Localized,
+  basis: z.array(EvidenceType).min(1),
+  confidence: Confidence,
+  sources: z.array(SourceRef).min(1),
+  notes: Localized.optional(),
+});
+
+/** What a people became: continued as, merged into, migrated to… Each link is a sourced statement, not a verdict. */
+/** Link ids name both ends and the kind of link, e.g. "idumeans--merged-into--judeans". */
+const LinkId = z.string().regex(/^[a-z0-9]+(-{1,2}[a-z0-9]+)*$/, 'Link ids are lowercase words joined by hyphens (a double hyphen may separate the parts)');
+
+export const PeopleLink = z
+  .strictObject({
+    id: LinkId,
+    from: Id,
+    /** The people it led to; or, for a destination outside the data (e.g. a diaspora), `destination`. */
+    to: Id.nullable().optional(),
+    destination: z.strictObject({ label: Localized, coords: z.tuple([z.number(), z.number()]).optional() }).optional(),
+    type: z.enum(['continued-as', 'merged-into', 'assimilated-into', 'contributed-to', 'migrated-to', 'split-into', 'converted-to']),
+    start: HistDate,
+    end: HistDate.nullable().optional(),
+    evidence: z.array(EvidenceType).min(1),
+    summary: Localized,
+    confidence: Confidence,
+    sources: z.array(SourceRef).min(1),
+    notes: Localized.optional(),
+  })
+  .superRefine((l, ctx) => {
+    if (!l.to && !l.destination) ctx.addIssue({ code: 'custom', path: ['to'], message: 'A link needs "to" (a people id) or a "destination"' });
+  });
+export const PeoplesFile = z.strictObject({ $schema: SchemaRef, peoples: z.array(People), links: z.array(PeopleLink) });
+
 export const StoryStep = z.strictObject({
   date: YearMonth,
   view: z.strictObject({ center: z.tuple([z.number(), z.number()]), zoom: z.number() }).optional(),

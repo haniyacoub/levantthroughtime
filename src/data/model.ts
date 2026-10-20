@@ -306,6 +306,43 @@ export interface Perspective {
   _t1?: number;
 }
 
+export type EvidenceType = 'documentary' | 'archaeological' | 'textual-tradition' | 'linguistic' | 'genetic';
+
+/** A people or community attested in or near the map area (data/peoples.json). */
+export interface People {
+  id: string;
+  name: LocalizedText;
+  also_known_as?: string[];
+  kind: 'people' | 'religious-community' | 'tribal-confederation' | 'community';
+  attested: { start: HistDate; end?: HistDate | null };
+  homeland?: LocalizedText;
+  units?: string[];
+  related?: { polities?: string[]; cultures?: string[]; languages?: string[]; migrations?: string[]; groups?: string[] };
+  summary: LocalizedText;
+  basis: EvidenceType[];
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
+export type PeopleLinkType = 'continued-as' | 'merged-into' | 'assimilated-into' | 'contributed-to' | 'migrated-to' | 'split-into' | 'converted-to';
+
+/** What a people became or where it went, as a sourced statement. */
+export interface PeopleLink {
+  id: string;
+  from: string;
+  to?: string | null;
+  destination?: { label: LocalizedText; coords?: [number, number] };
+  type: PeopleLinkType;
+  start: HistDate;
+  end?: HistDate | null;
+  evidence: EvidenceType[];
+  summary: LocalizedText;
+  confidence: Confidence;
+  sources: SourceRef[];
+  notes?: LocalizedText;
+}
+
 export interface Story {
   id: string;
   title: LocalizedText;
@@ -379,6 +416,8 @@ export interface AppData {
   languages: LanguageRecord[];
   landscape: { sea_level: LevelPoint[]; dead_sea_levels: LevelPoint[]; trade_routes: TradeRoute[] } | null;
   perspectives: Perspective[];
+  peoples: People[];
+  peopleLinks: PeopleLink[];
   stories: Story[];
   modernLayers?: ModernLayer[];
 }

@@ -1267,3 +1267,17 @@ blockquote {
   white-space: nowrap;
   unicode-bidi: isolate;
 }
+
+/* ---------------------------------------------------------------- peoples through time */
+.peoples-page { max-width: 1100px; }
+.peoples-scroll { overflow-x: auto; border: 1px solid var(--line, #e4ded2); border-radius: 6px; background: #fffdf8; margin: 0.5rem 0; }
+.peoples-diagram { min-width: 760px; display: block; }
+.peoples-diagram .people-row:hover rect { filter: brightness(0.93); }
+.peoples-legend { flex-wrap: wrap; }
+.peoples-list { display: flex; flex-wrap: wrap; gap: 0.3rem; margin: 0.6rem 0; }
+.peoples-list .chip { border: 1px solid #cfc6b4; background: #fff; border-radius: 999px; padding: 0.15rem 0.6rem; font: inherit; font-size: 0.85rem; cursor: pointer; }
+.peoples-list .chip[aria-pressed='true'] { background: #1d2a36; color: #fff; border-color: #1d2a36; }
+.people-detail { border-top: 1px solid #e4ded2; margin-top: 0.8rem; padding-top: 0.6rem; }
+.people-detail h2 { margin: 0.2rem 0; font-size: 1.25rem; }
+.people-link { margin: 0.5rem 0; }
+.people-link p { margin: 0.15rem 0; }

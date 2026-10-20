@@ -1,0 +1,5 @@
+{
+  "$schema": "../schema/peoples.schema.json",
+  "peoples": [],
+  "links": []
+}

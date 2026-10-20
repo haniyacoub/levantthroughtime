@@ -12,7 +12,7 @@ import { ROOT, writeJson } from './lib/io';
 import {
   AreasFile, Config, CultureZoneFile, CulturesFile, ErasFile, GroupsFile, Palette, PolitiesFile,
   PopulationFile, SourcesFile, TerritoryFile, UnitsFile, PlacesFile, EventsFile, RulersFile, ConflictsFile,
-  MigrationsFile, LanguagesFile, LandscapeFile, PerspectivesFile, Story, ModernLayersFile,
+  MigrationsFile, LanguagesFile, LandscapeFile, PerspectivesFile, PeoplesFile, Story, ModernLayersFile,
 } from '../src/schema/index';
 
 const files: Record<string, z.ZodType> = {
@@ -36,6 +36,7 @@ const files: Record<string, z.ZodType> = {
   languages: LanguagesFile,
   landscape: LandscapeFile,
   perspectives: PerspectivesFile,
+  peoples: PeoplesFile,
   story: Story,
   'modern-layers': ModernLayersFile,
 };

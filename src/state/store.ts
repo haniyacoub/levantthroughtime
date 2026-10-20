@@ -5,7 +5,7 @@ export const SPEEDS = [0.5, 1, 2, 4] as const;
 /** At 1× the whole timeline plays in five minutes. */
 export const FULL_PLAY_MS = 5 * 60 * 1000;
 
-export type View = 'map' | 'bibliography' | 'perspectives' | 'about';
+export type View = 'map' | 'bibliography' | 'perspectives' | 'peoples' | 'about';
 export const LAYER_KEYS = ['territories', 'places', 'holy', 'conflicts', 'migrations', 'landscape', 'routes', 'modern'] as const;
 export type LayerKey = (typeof LAYER_KEYS)[number];
 export const DEFAULT_LAYERS: LayerKey[] = ['territories', 'places', 'holy', 'conflicts', 'migrations', 'landscape', 'routes', 'modern'];
@@ -63,6 +63,7 @@ interface State {
 
 /** The page named in the address bar (#/bibliography etc.), read once at start-up. */
 export function viewFromHash(hash: string): View {
+  if (hash === '#/peoples' || hash.startsWith('#/peoples/')) return 'peoples';
   return hash === '#/bibliography' ? 'bibliography' : hash === '#/perspectives' ? 'perspectives' : hash === '#/about' ? 'about' : 'map';
 }
 

@@ -255,7 +255,7 @@ const countRefs = (o: unknown): void => {
   }
 };
 countRefs([b.polities, b.cultures, b.territories.map((t) => t.data), b.cultureZones.map((t) => t.data), b.population, b.areas,
-  b.places, b.events, b.rulers, b.conflicts, b.migrations, b.languages, b.landscape, b.perspectives, b.stories.map((s) => s.data)]);
+  b.places, b.events, b.rulers, b.conflicts, b.migrations, b.languages, b.landscape, b.perspectives, b.peoples, b.stories.map((s) => s.data)]);
 
 // ------------------------------------------------------------ app data
 
@@ -292,6 +292,8 @@ const appData: Record<string, any> & { conflicts: any[]; migrations: any[] } = {
   languages: b.languages?.languages ?? [],
   landscape: b.landscape ?? null,
   perspectives: b.perspectives?.perspectives ?? [],
+  peoples: b.peoples?.peoples ?? [],
+  peopleLinks: b.peoples?.links ?? [],
   stories: b.stories.map((s) => s.data),
   groupColors: Object.fromEntries((b.groups?.groups ?? []).map((g, i) => [`${g.axis}:${g.id}`, groupColour(g.axis, g.id, i)])),
 };

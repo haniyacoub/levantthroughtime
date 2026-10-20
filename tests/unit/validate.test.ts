@@ -190,3 +190,59 @@ describe('validator', () => {
     expect(errorsFor(dir).join('\n')).toMatch(/confidance/);
   });
 });
+
+describe('validator: peoples through time', () => {
+  const people = (id: string, extra: Record<string, unknown> = {}) => ({
+    id,
+    name: { en: id },
+    kind: 'people',
+    attested: { start: { year: -1200, precision: 'century' } },
+    summary: { en: 'A people.' },
+    basis: ['documentary'],
+    confidence: 'estimated',
+    sources: [{ ref: 'source-a' }],
+    ...extra,
+  });
+  const link = (extra: Record<string, unknown> = {}) => ({
+    id: 'a--merged-into--b',
+    from: 'a',
+    to: 'b',
+    type: 'merged-into',
+    start: { year: -700, precision: 'century' },
+    evidence: ['documentary'],
+    summary: { en: 'A merged into B.' },
+    confidence: 'estimated',
+    sources: [{ ref: 'source-a' }],
+    ...extra,
+  });
+
+  it('accepts peoples joined by a link', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a'), people('b')], links: [link()] });
+    expect(errorsFor(dir)).toEqual([]);
+  });
+
+  it('rejects a link to an unknown people', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a')], links: [link()] });
+    expect(errorsFor(dir).some((e) => e.includes('Unknown people "b"'))).toBe(true);
+  });
+
+  it('rejects a link with neither "to" nor a destination', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a'), people('b')], links: [link({ to: null })] });
+    expect(errorsFor(dir).some((e) => e.includes('"to"'))).toBe(true);
+  });
+
+  it('accepts a link to a destination outside the data', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a')], links: [link({ to: null, destination: { label: { en: 'Babylonia' } } })] });
+    expect(errorsFor(dir)).toEqual([]);
+  });
+
+  it('rejects an unknown related record', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a', { related: { polities: ['nowhere'] } })], links: [] });
+    expect(errorsFor(dir).some((e) => e.includes('Unknown polity "nowhere"'))).toBe(true);
+  });
+
+  it('requires two sources for a contested link', () => {
+    const dir = withFile('peoples.json', { peoples: [people('a'), people('b')], links: [link({ confidence: 'contested' })] });
+    expect(errorsFor(dir).length).toBeGreaterThan(0);
+  });
+});

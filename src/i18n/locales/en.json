@@ -77,7 +77,8 @@
     "about": "About & method",
     "backToMap": "Back to the map",
     "perspectives": "Perspectives",
-    "stories": "Stories"
+    "stories": "Stories",
+    "peoples": "Peoples"
   },
   "sources": {
     "button": "Sources",
@@ -375,5 +376,45 @@
     "title": "Modern map layers",
     "meta": "Publisher: {{publisher}} · Licence: {{license}} · As of {{asOf}}",
     "method": "How it was drawn"
+  },
+  "peoples": {
+    "title": "Peoples through time",
+    "intro": "Follow the peoples and communities of this land: when the sources first and last name them, what they continued as, merged into or converted to, and where they went. Each line is a sourced statement, marked with the kind of evidence behind it; where scholars disagree, each position is shown.",
+    "indigenousNote": "Who counts as the land's indigenous people is itself disputed, and is not decided here. The competing views are set out under",
+    "none": "The peoples data is being researched and will appear here.",
+    "legend": "Kinds of link",
+    "diagramLabel": "Diagram of the peoples of the land through time and the links between them",
+    "listLabel": "All peoples",
+    "select": "Choose a people in the diagram or the list to see what the sources say.",
+    "today": "today",
+    "attested": "named in the sources",
+    "homeland": "Where they lived",
+    "evidenceLabel": "Evidence",
+    "showOnMap": "Show the map in {{date}}",
+    "incoming": "Where it came from",
+    "outgoing": "What it became, where it went",
+    "related": "Elsewhere on this site",
+    "type": {
+      "continued-as": "continued as",
+      "merged-into": "merged into",
+      "assimilated-into": "assimilated into",
+      "contributed-to": "contributed to",
+      "migrated-to": "migrated to",
+      "split-into": "split into",
+      "converted-to": "converted to"
+    },
+    "evidence": {
+      "documentary": "documents and inscriptions",
+      "archaeological": "archaeology",
+      "textual-tradition": "textual tradition (e.g. the Bible)",
+      "linguistic": "language",
+      "genetic": "ancient or modern DNA"
+    },
+    "kind": {
+      "people": "people",
+      "religious-community": "religious community",
+      "tribal-confederation": "tribal confederation",
+      "community": "community"
+    }
   }
 }
