@@ -1618,11 +1618,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Bachi 1977 (Table A3 no. 11) cites 'M. Avi-Yona, The Holy Land, 1966, pp. 220-221'; full title as in other bibliographies. Method described by Broshi 1979, p. 6."
+        "note": "Not accessed; Bachi 1977 (Table A3 no. 11) cites 'M. Avi-Yona, The Holy Land, 1966, pp. 220-221'; full title as in other bibliographies. Method described by Broshi 1979, p. 6. The link is to a library catalogue record (HathiTrust), not to a copy of the work."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://catalog.hathitrust.org/Record/005143218"
     },
     {
       "id": "avi-yonah-1973-palaestina",
@@ -1944,7 +1945,8 @@
       },
       "kind": "academic",
       "institution_country": "BE",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9789042925694"
     },
     {
       "id": "baha-al-din-conder-1897-life-of-saladin",
@@ -2206,11 +2208,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; first published in Hebrew 1933. Cited by Bachi 1977 (App. 2A n. 3) with Baron 1971 as the basis of Baron's figures in Tables A1 and A5. | Re-read in Milestone 8: Not accessed (Rutgers University Press, 1972; in copyright; no open copy found). Baron's own table of its figures (1000, 733/701 and 586 BCE) is reproduced in his Encyclopaedia Judaica article 'Population', read in the 2007 edition (baron-ej-2007-population)."
+        "note": "Not accessed; first published in Hebrew 1933. Cited by Bachi 1977 (App. 2A n. 3) with Baron 1971 as the basis of Baron's figures in Tables A1 and A5. | Re-read in Milestone 8: Not accessed (Rutgers University Press, 1972; in copyright; no open copy found). Baron's own table of its figures (1000, 733/701 and 586 BCE) is reproduced in his Encyclopaedia Judaica article 'Population', read in the 2007 edition (baron-ej-2007-population). The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0813506743"
     },
     {
       "id": "baron-ej-2007-population",
@@ -2590,11 +2593,12 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan. | Re-read in Milestone 8 (group F) from the Internet Archive full text downloaded earlier: pp. 116-117 (siege of Ascalon from the beginning of January 1153; three-day truce proclaimed 19 August 1153). Page numbers printed at the foot of each page. The Internet Archive copy (item 'benvenisti-the-crusaders-in-the-holy-land') is a user upload of an in-copyright 1970 book and is probably not authorised. Read in a third-party copy of uncertain licensing status, which this project does not link."
+        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan. | Re-read in Milestone 8 (group F) from the Internet Archive full text downloaded earlier: pp. 116-117 (siege of Ascalon from the beginning of January 1153; three-day truce proclaimed 19 August 1153). Page numbers printed at the foot of each page. The Internet Archive copy (item 'benvenisti-the-crusaders-in-the-holy-land') is a user upload of an in-copyright 1970 book and is probably not authorised. Read in a third-party copy of uncertain licensing status, which this project does not link. The link is to a library catalogue record (HathiTrust), not to a copy of the work."
       },
       "kind": "academic",
       "institution_country": "IL",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://catalog.hathitrust.org/Record/000671710"
     },
     {
       "id": "berthier-1800-relation-campagnes-egypte-syrie",
@@ -8835,11 +8839,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Kennedy 2013, p. 1 and n. 3 (Kennedy cites the page as both '14' and '423')."
+        "note": "Not accessed; quoted by Kennedy 2013, p. 1 and n. 3 (Kennedy cites the page as both '14' and '423'). The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "IL",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9652210196"
     },
     {
       "id": "broshi-finkelstein-1992-iron-ii",
@@ -9973,7 +9978,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781611688122"
     },
     {
       "id": "cohen-lewis-1978-population-revenue",
@@ -10622,11 +10628,12 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the chapter text (Internet Archive full-text copy of the volume): MB chronology chart (p. 286) and discussion of Broshi & Gophna's figures."
+        "note": "Read the chapter text (Internet Archive full-text copy of the volume): MB chronology chart (p. 286) and discussion of Broshi & Gophna's figures. The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780924171468"
     },
     {
       "id": "dever-2003-early-israelites",
@@ -11002,10 +11009,11 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the Internet Archive OCR text of the whole article (introduction and translation). Contains the eyewitness account of Ibn al-Wardi (d. Aleppo, 18 March 1349). Read in a third-party copy of uncertain licensing status, which this project does not link."
+        "note": "Downloaded and read the Internet Archive OCR text of the whole article (introduction and translation). Contains the eyewitness account of Ibn al-Wardi (d. Aleppo, 18 March 1349). Read in a third-party copy of uncertain licensing status, which this project does not link. The link is to a library catalogue record (HathiTrust), not to a copy of the work, and it is the record of the volume containing the chapter."
       },
       "kind": "academic",
-      "institution_country": "LB"
+      "institution_country": "LB",
+      "url": "https://catalog.hathitrust.org/Record/001604002"
     },
     {
       "id": "doumani-1995-rediscovering-palestine",
@@ -12955,10 +12963,11 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Chronicle ABC 5 seen only in the adapted translation on Livius.org."
+        "note": "Chronicle ABC 5 seen only in the adapted translation on Livius.org. The link is to a library catalogue record (HathiTrust), not to a copy of the work."
       },
       "kind": "academic",
-      "institution_country": "US"
+      "institution_country": "US",
+      "url": "https://catalog.hathitrust.org/Record/000689332"
     },
     {
       "id": "gribetz-2018-arab-zionist-conversations",
@@ -13819,11 +13828,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Finkelstein 2018, p. 64 n. 68."
+        "note": "Not accessed; quoted by Finkelstein 2018, p. 64 n. 68. The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9780826460301"
     },
     {
       "id": "hotline-refugees-asylum-seekers-page",
@@ -14334,11 +14344,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Kennedy 2013, p. 22 (citing p. 305)."
+        "note": "Not accessed; quoted by Kennedy 2013, p. 22 (citing p. 305). The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "0718513886"
     },
     {
       "id": "ilani-2008-shattering-national-mythology",
@@ -17175,7 +17186,8 @@
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781575065533"
     },
     {
       "id": "lipschits-2009-persian-period-finds-jerusalem",
@@ -17461,11 +17473,12 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; Bachi 1977 (Table A3 nos. 3, 7, 12) quotes Lowdermilk's own figure and figures he attributes to B. Mazar and N. Glueck. Lowdermilk was a soil conservationist, not a historian. | Re-read in Milestone 8: Read ch. IV ('Palestine in Ancient Times'), pp. 47-48, in a copy of the London edition (Victor Gollancz, 1944) uploaded to the Internet Archive by the Digital Library of India, checked against the page image. Read in a third-party copy of uncertain licensing status; not linked. p. 47 reports Avi-Yonah's 'five million' as a minimum (citing a 1939 magazine article), 'Dr. Maisler' (B. Mazar) 'in excess of four million', Salo Baron 2,500,000-3,000,000 and Nelson Glueck about 2,500,000 (from a letter of 16 December 1941); p. 48 gives Lowdermilk's own three million for Palestine and Trans-Jordan together."
+        "note": "Not accessed; Bachi 1977 (Table A3 nos. 3, 7, 12) quotes Lowdermilk's own figure and figures he attributes to B. Mazar and N. Glueck. Lowdermilk was a soil conservationist, not a historian. | Re-read in Milestone 8: Read ch. IV ('Palestine in Ancient Times'), pp. 47-48, in a copy of the London edition (Victor Gollancz, 1944) uploaded to the Internet Archive by the Digital Library of India, checked against the page image. Read in a third-party copy of uncertain licensing status; not linked. p. 47 reports Avi-Yonah's 'five million' as a minimum (citing a 1939 magazine article), 'Dr. Maisler' (B. Mazar) 'in excess of four million', Salo Baron 2,500,000-3,000,000 and Nelson Glueck about 2,500,000 (from a letter of 16 December 1941); p. 48 gives Lowdermilk's own three million for Palestine and Trans-Jordan together. The link is to a library catalogue record (HathiTrust), not to a copy of the work."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://catalog.hathitrust.org/Record/001319851"
     },
     {
       "id": "luke-keith-roach-1922-handbook-of-palestine",
@@ -21200,11 +21213,12 @@
       "verification": {
         "level": "cited-via",
         "checked_on": "2026-10-18",
-        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 21)."
+        "note": "Not accessed; quoted by Bachi 1977 (Table A3 no. 21). The link is to a library catalogue record (HathiTrust), not to a copy of the work."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "url": "https://catalog.hathitrust.org/Record/006134793"
     },
     {
       "id": "picard-2000-civil-war-lebanon",
@@ -22175,11 +22189,12 @@
       "verification": {
         "level": "catalogue-only",
         "checked_on": "2026-10-19",
-        "note": "Existence confirmed from the bibliography of Reiter 2017 only; not opened."
+        "note": "Existence confirmed from the bibliography of Reiter 2017 only; not opened. The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "GB",
-      "accessed": "2026-10-19"
+      "accessed": "2026-10-19",
+      "isbn": "0415549019"
     },
     {
       "id": "reiter-2017-eroding-status-quo",
@@ -23227,7 +23242,8 @@
       },
       "kind": "academic",
       "institution_country": "NL",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9789004064034"
     },
     {
       "id": "socin-encyclopaedia-biblica",
@@ -24830,11 +24846,12 @@
       "verification": {
         "level": "excerpt",
         "checked_on": "2026-10-18",
-        "note": "Saw text snippets via Internet Archive full-text search (summary of Avi-Yonah's and Broshi's estimates). Title as in the running heads; page range from Bar (2004) citing pp. 269-71 and a running head on p. 283. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it."
+        "note": "Saw text snippets via Internet Archive full-text search (summary of Avi-Yonah's and Broshi's estimates). Title as in the running heads; page range from Bar (2004) citing pp. 269-71 and a running head on p. 283. Seen in the Internet Archive's lending library, whose authorisation is disputed; this project does not link it. The ISBN is that of the volume containing the chapter."
       },
       "kind": "academic",
       "institution_country": "US",
-      "accessed": "2026-10-18"
+      "accessed": "2026-10-18",
+      "isbn": "9781575060125"
     },
     {
       "id": "tucci-2022-review-koch-colonial-encounters",
