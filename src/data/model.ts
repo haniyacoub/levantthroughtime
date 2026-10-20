@@ -326,6 +326,25 @@ export interface People {
   notes?: LocalizedText;
   religions?: { label: LocalizedText; group?: string; start?: HistDate; end?: HistDate | null; confidence: Confidence; sources: SourceRef[] }[];
   languages?: { language: string; start?: HistDate; end?: HistDate | null; note?: LocalizedText; confidence: Confidence; sources: SourceRef[] }[];
+  images?: PeopleImage[];
+}
+
+/** A picture on a people's card: a real depiction, photograph or object, or a labelled AI impression. */
+export interface PeopleImage {
+  id: string;
+  /** Path under public/, e.g. "peoples/philistines-1.jpg". */
+  file: string;
+  kind: 'depiction' | 'photograph' | 'artefact' | 'map' | 'ai-impression';
+  caption: LocalizedText;
+  perspective?: LocalizedText;
+  object?: { what: LocalizedText; date?: HistDate; made_by?: LocalizedText; where_now?: string };
+  license: string;
+  license_url?: string;
+  credit: string;
+  page_url?: string;
+  based_on?: string[];
+  confidence: Confidence;
+  sources: SourceRef[];
 }
 
 export type PeopleLinkType = 'continued-as' | 'merged-into' | 'assimilated-into' | 'contributed-to' | 'migrated-to' | 'split-into' | 'converted-to';

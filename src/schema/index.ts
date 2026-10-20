@@ -696,6 +696,34 @@ export const PerspectivesFile = z.strictObject({ $schema: SchemaRef, perspective
 export const EvidenceType = z.enum(['documentary', 'archaeological', 'textual-tradition', 'linguistic', 'genetic']);
 
 /** A people or community attested in or near the map area, as a distinct, named group in the sources. */
+/**
+ * A picture of a people. Real images (made at the time, or a real object) carry the licence they are shared under and the
+ * source that identifies who is shown. An "ai-impression" is an illustration made for this site with an AI tool: it is
+ * always labelled as such, only allowed for peoples that no longer exist as such, and lists what it is based on.
+ */
+export const PeopleImage = z.strictObject({
+  id: Id,
+  /** File under public/, e.g. "peoples/philistines-1.jpg". */
+  file: z.string().regex(/^peoples\/[a-z0-9-]+\.(jpg|jpeg|png|webp)$/, 'Images live in public/peoples/ with a lowercase file name'),
+  kind: z.enum(['depiction', 'photograph', 'artefact', 'map', 'ai-impression']),
+  caption: Localized,
+  /** Who made the image and how that shapes it (e.g. Egyptian royal art shows foreigners in fixed types). */
+  perspective: Localized.optional(),
+  object: z
+    .strictObject({ what: Localized, date: HistDate.optional(), made_by: Localized.optional(), where_now: z.string().optional() })
+    .optional(),
+  license: z.string().min(2),
+  license_url: z.string().url().optional(),
+  credit: z.string().min(2),
+  /** Page that shows the original and its licence. */
+  page_url: z.string().url().optional(),
+  /** For AI impressions: the images (ids) this illustration draws on. */
+  based_on: z.array(Id).optional(),
+  confidence: Confidence,
+  /** Sources identifying who is shown (for AI impressions: the sources for the dress and setting drawn). */
+  sources: z.array(SourceRef).min(1),
+});
+
 export const People = z.strictObject({
   id: Id,
   name: Localized,
@@ -748,6 +776,8 @@ export const People = z.strictObject({
       }),
     )
     .optional(),
+  /** Pictures for the people's card: real depictions, photographs or objects, and clearly labelled AI impressions. */
+  images: z.array(PeopleImage).optional(),
 });
 
 /** What a people became: continued as, merged into, migrated to… Each link is a sourced statement, not a verdict. */

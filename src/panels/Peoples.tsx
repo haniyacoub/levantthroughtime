@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import type { AppData, LanguageRecord, People, PeopleLink } from '../data/model';
+import type { AppData, LanguageRecord, People, PeopleImage, PeopleLink } from '../data/model';
 import { isRtl } from '../i18n';
 import { loc } from '../i18n/localize';
 import { useStore } from '../state/store';
@@ -57,7 +57,7 @@ interface Segment {
   label: string;
 }
 
-function useWidth(ref: React.RefObject<HTMLElement | null>): number {
+function useWidth(ref: React.RefObject<HTMLElement | null>, remount: unknown): number {
   const [w, setW] = useState(1000);
   useEffect(() => {
     const el = ref.current;
@@ -66,9 +66,19 @@ function useWidth(ref: React.RefObject<HTMLElement | null>): number {
     const ro = new ResizeObserver(([e]) => e && setW(e.contentRect.width));
     ro.observe(el);
     return () => ro.disconnect();
-  }, [ref]);
+  }, [ref, remount]);
   return w;
 }
+
+type Mode = 'diagram' | 'cards';
+const MODE_KEY = 'peoples-view';
+const readMode = (): Mode => {
+  try {
+    return localStorage.getItem(MODE_KEY) === 'cards' ? 'cards' : 'diagram';
+  } catch {
+    return 'diagram';
+  }
+};
 
 /** Shortest paths along the links, forwards (descendants) or backwards (ancestors). */
 function trace(start: string, links: PeopleLink[], dir: 'down' | 'up'): Map<string, PeopleLink[]> {
@@ -103,8 +113,17 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
   });
   const [query, setQuery] = useState('');
   const [colourBy, setColourBy] = useState<ColourBy>('kind');
+  const [mode, setModeState] = useState<Mode>(readMode);
+  const setMode = (m: Mode) => {
+    setModeState(m);
+    try {
+      localStorage.setItem(MODE_KEY, m);
+    } catch {
+      /* private window: the choice is simply not remembered */
+    }
+  };
   const wrap = useRef<HTMLDivElement>(null);
-  const boxW = useWidth(wrap) - 2;
+  const boxW = useWidth(wrap, mode) - 2;
   // On phones the names sit just above each bar (no name column), so names and bars scroll together.
   const compact = boxW < 700;
   const W = compact ? Math.max(600, boxW) : Math.max(MIN_W, boxW);
@@ -230,6 +249,14 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
     </ul>
   );
 
+  const howToCards = (
+    <ul className="peoples-howto-list">
+      <li>{tr('peoples.cardsWhat')}</li>
+      <li>{tr('peoples.cardsPictures')}</li>
+      {data.peoples.some((p) => p.images?.some((im) => im.kind === 'ai-impression')) && <li>{tr('peoples.cardsAi')}</li>}
+    </ul>
+  );
+
   return (
     <main className="page peoples-page" aria-labelledby="peoples-title" data-testid="peoples-page">
       <button type="button" className="link-btn" onClick={() => setView('map')}>
@@ -248,10 +275,12 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
       ) : (
         <div className="peoples-layout">
           <div className="peoples-main">
-            <details className="peoples-howto narrow-only">
-              <summary>{tr('peoples.howTo')}</summary>
-              {howTo}
-            </details>
+            {mode === 'diagram' && (
+              <details className="peoples-howto narrow-only">
+                <summary>{tr('peoples.howTo')}</summary>
+                {howTo}
+              </details>
+            )}
             <div className="peoples-controls">
               <label>
                 <span className="visually-hidden">{tr('peoples.search')}</span>
@@ -263,6 +292,14 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                   data-testid="peoples-search"
                 />
               </label>
+              <div className="seg" role="group" aria-label={tr('peoples.viewLabel')}>
+                {(['diagram', 'cards'] as const).map((m) => (
+                  <button key={m} type="button" aria-pressed={mode === m} onClick={() => setMode(m)} data-testid={`peoples-mode-${m}`}>
+                    {tr(`peoples.mode.${m}`)}
+                  </button>
+                ))}
+              </div>
+              {mode === 'diagram' && (
               <div className="seg" role="group" aria-label={tr('peoples.colourBy')}>
                 <span className="seg-label">{tr('peoples.colourBy')}:</span>
                 {(['kind', 'religion', 'language'] as const).map((c) => (
@@ -271,7 +308,12 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                   </button>
                 ))}
               </div>
+              )}
             </div>
+            {mode === 'cards' ? (
+              <PeopleCards rows={rows.filter(matches)} data={data} scale={scale} selected={selected} choose={choose} langById={langById} />
+            ) : (
+            <>
             <ul className="chart-legend peoples-legend" aria-label={tr('peoples.colourBy')}>
               {legend.map((l) => (
                 <li key={l.label}>
@@ -426,6 +468,8 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
                 </button>
               ))}
             </nav>
+            </>
+            )}
           </div>
           <aside className="peoples-side" aria-live="polite" ref={side}>
             {sel ? (
@@ -439,8 +483,8 @@ export function PeoplesPage({ data, scale }: { data: AppData; scale: EraScale })
               <>
                 <p className="peoples-select">{tr('peoples.select')}</p>
                 <div className="wide-only">
-                  <h2 className="panel-sub">{tr('peoples.howTo')}</h2>
-                  {howTo}
+                  <h2 className="panel-sub">{tr(mode === 'cards' ? 'peoples.howToCards' : 'peoples.howTo')}</h2>
+                  {mode === 'cards' ? howToCards : howTo}
                 </div>
               </>
             )}
@@ -547,6 +591,7 @@ function PeopleDetail({
         {tr(`peoples.kind.${p.kind}`)} · {tr('peoples.attested')}: {formatDate(p.attested.start, lang)} – {p.attested.end ? formatDate(p.attested.end, lang) : tr('peoples.today')}{' '}
         <SourceButton refs={p.sources} title={title} compact />
       </p>
+      {(p.images?.length ?? 0) > 0 && <PeopleGallery p={p} />}
       <p>
         <LocText text={p.summary} lang={lang} />
       </p>
@@ -735,4 +780,139 @@ function LineageTree({
     );
   };
   return <>{branch(root)}</>;
+}
+
+/** The real images first; an AI impression only after them, and always labelled. */
+const orderImages = (images: PeopleImage[] = []) => [...images].sort((a, b) => Number(a.kind === 'ai-impression') - Number(b.kind === 'ai-impression'));
+
+/** The codex: one card per people, grouped by the period in which the sources first name it. */
+function PeopleCards({
+  rows,
+  data,
+  scale,
+  selected,
+  choose,
+  langById,
+}: {
+  rows: People[];
+  data: AppData;
+  scale: EraScale;
+  selected: string | null;
+  choose: (id: string | null) => void;
+  langById: Map<string, LanguageRecord>;
+}) {
+  const { t: tr } = useTranslation();
+  const { lang } = useStore();
+  const groups: { era: number; items: People[] }[] = [];
+  for (const p of rows) {
+    const era = scale.segmentIndexAt(startT(p.attested.start));
+    const last = groups[groups.length - 1];
+    if (last && last.era === era) last.items.push(p);
+    else groups.push({ era, items: [p] });
+  }
+  if (!rows.length) return <p className="empty">{tr('peoples.noMatch')}</p>;
+  return (
+    <div className="codex" data-testid="peoples-cards">
+      {groups.map((g) => (
+        <section key={`${g.era}-${g.items[0]!.id}`} className="codex-era">
+          <h2 className="codex-era-title">{loc(data.eras[g.era]?.label, lang)}</h2>
+          <ul className="codex-grid">
+            {g.items.map((p) => {
+              const img = orderImages(p.images)[0];
+              // First sentence: a full stop followed by a capital (or a Hebrew/Arabic letter), so "c. 1640" does not end it.
+              const firstSentence = (loc(p.summary, lang).match(/^.*?[.!?؟](?=\s+["'“A-Z\u0590-\u05FF\u0600-\u06FF]|$)/)?.[0] ?? loc(p.summary, lang)).trim();
+              const religion = p.religions?.[0];
+              const language = p.languages?.[0];
+              return (
+                <li key={p.id}>
+                  <button type="button" className="codex-card" aria-pressed={p.id === selected} onClick={() => choose(p.id)} data-testid={`card-${p.id}`}>
+                    <span className={`codex-pic${img ? '' : ' empty'}`}>
+                      {img ? (
+                        <>
+                          <img src={`/${img.file}`} alt="" loading="lazy" />
+                          {img.kind === 'ai-impression' && <span className="ai-flag">{tr('peoples.img.aiShort')}</span>}
+                        </>
+                      ) : (
+                        <span className="codex-initial" aria-hidden>
+                          {loc(p.name, lang).replace(/^['ʿ"(]+/, '').charAt(0)}
+                        </span>
+                      )}
+                    </span>
+                    <span className="codex-body">
+                      <span className="codex-name">{loc(p.name, lang)}</span>
+                      <span className="codex-dates">
+                        {formatDate(p.attested.start, lang)} – {p.attested.end ? formatDate(p.attested.end, lang) : tr('peoples.today')}
+                        {!p.attested.end && <span className="lt-today">{tr('peoples.existsToday')}</span>}
+                      </span>
+                      <span className="codex-kind">
+                        {tr(`peoples.kind.${p.kind}`)}
+                        {religion ? ` · ${loc(religion.label, lang)}` : ''}
+                        {language ? ` · ${loc(langById.get(language.language)?.name, lang)}` : ''}
+                      </span>
+                      <span className="codex-summary">{firstSentence}</span>
+                    </span>
+                  </button>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))}
+    </div>
+  );
+}
+
+/** Pictures of a people with honest captions: what it is, who made it and why, licence and credit, and what identifies it. */
+function PeopleGallery({ p }: { p: People }) {
+  const { t: tr } = useTranslation();
+  const { lang } = useStore();
+  const imgs = orderImages(p.images);
+  const byImageId = new Map(imgs.map((im) => [im.id, im]));
+  return (
+    <div className="people-gallery">
+      {imgs.map((im) => (
+        <figure key={im.id} className={`people-figure kind-${im.kind}`}>
+          {im.kind === 'ai-impression' && <p className="ai-banner">{tr('peoples.img.aiBanner')}</p>}
+          <a href={im.page_url ?? `/${im.file}`} target="_blank" rel="noopener noreferrer">
+            <img src={`/${im.file}`} alt={loc(im.caption, lang)} loading="lazy" />
+          </a>
+          <figcaption>
+            <span className="img-kind">{tr(`peoples.img.kind.${im.kind}`)}</span>
+            <span>
+              <LocText text={im.caption} lang={lang} /> <Badge confidence={im.confidence} />{' '}
+              <SourceButton refs={im.sources} title={loc(im.caption, lang)} compact />
+            </span>
+            {im.object && (
+              <span className="fine img-object">
+                {loc(im.object.what, lang)}
+                {im.object.date ? `, ${formatDate(im.object.date, lang)}` : ''}
+                {im.object.made_by ? ` · ${tr('peoples.img.madeBy')}: ${loc(im.object.made_by, lang)}` : ''}
+                {im.object.where_now ? ` · ${im.object.where_now}` : ''}
+              </span>
+            )}
+            {im.perspective && (
+              <span className="fine img-perspective">
+                <LocText text={im.perspective} lang={lang} />
+              </span>
+            )}
+            {im.based_on?.length ? (
+              <span className="fine">
+                {tr('peoples.img.basedOn')}: {im.based_on.map((id) => (byImageId.get(id) ? loc(byImageId.get(id)!.caption, lang) : id)).join('; ')}
+              </span>
+            ) : null}
+            <span className="fine img-credit">
+              {im.credit} ·{' '}
+              {im.license_url ? (
+                <a href={im.license_url} target="_blank" rel="noopener noreferrer">
+                  {im.license}
+                </a>
+              ) : (
+                im.license
+              )}
+            </span>
+          </figcaption>
+        </figure>
+      ))}
+    </div>
+  );
 }

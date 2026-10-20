@@ -446,6 +446,30 @@
     "ancestors": "Where it comes from",
     "descendantsToday": "Groups that exist today in these chains",
     "close": "Close",
-    "descendants": "What it led to"
+    "descendants": "What it led to",
+    "viewLabel": "View",
+    "mode": {
+      "diagram": "Diagram",
+      "cards": "Cards"
+    },
+    "noMatch": "No people matches this search.",
+    "existsToday": "exists today",
+    "img": {
+      "aiShort": "AI impression",
+      "aiBanner": "Artist's impression made with AI for this site. It is not a historical image: it draws on the real images and sources listed below, and details may be wrong.",
+      "madeBy": "made by",
+      "basedOn": "Based on",
+      "kind": {
+        "depiction": "Depiction from the time",
+        "photograph": "Historical photograph",
+        "artefact": "Object they made",
+        "map": "Map",
+        "ai-impression": "AI artist's impression"
+      }
+    },
+    "howToCards": "About the cards",
+    "cardsWhat": "Each card is one people or community, grouped by the period in which the sources first name it. Click a card for everything the sources say: religions, languages, where it came from and what it led to.",
+    "cardsPictures": "Pictures are real: art made at the time, an object the group made, or a photograph from before 1946. Each says who made it and why; ancient art shows peoples as its makers saw them, not as portraits.",
+    "cardsAi": "A few ancient peoples also have an artist's impression made with AI, always marked as such and based on the real images and sources. There are none for groups that exist today."
   }
 }

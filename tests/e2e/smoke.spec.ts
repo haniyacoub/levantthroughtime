@@ -157,6 +157,17 @@ test('the peoples page searches, recolours and traces descendants', async ({ pag
   await expect(page.locator('.people-detail')).toHaveCount(0);
 });
 
+test('the peoples cards open the same details', async ({ page }) => {
+  await page.goto('/#/peoples');
+  await page.getByTestId('peoples-mode-cards').click();
+  await expect(page.getByTestId('peoples-cards')).toBeVisible();
+  await page.getByTestId('card-canaanites').click();
+  await expect(page.getByTestId('people-canaanites')).toBeVisible();
+  await expect(page).toHaveURL(/#\/peoples\/canaanites$/);
+  await page.getByTestId('peoples-mode-diagram').click();
+  await expect(page.locator('.peoples-diagram')).toBeVisible();
+});
+
 test('pages have no serious accessibility violations', async ({ page }) => {
   for (const q of ['#/bibliography', '#/about', '#/peoples', '?y=1948-05&cmp=1949-08']) {
     await page.goto(`/${q}`);

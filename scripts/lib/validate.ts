@@ -598,6 +598,8 @@ export function validateData(dir: string): Result {
       migrations: new Set((b.migrations?.migrations ?? []).map((x) => x.id)),
       groups: new Set((b.groups?.groups ?? []).map((x) => x.id)),
     };
+    const allImageIds = new Set((b.peoples?.peoples ?? []).flatMap((x) => (x.images ?? []).map((im) => im.id)));
+    checkIdsUnique((b.peoples?.peoples ?? []).flatMap((x) => x.images ?? []), 'peoples.json', 'image', issues);
     for (const p of b.peoples?.peoples ?? []) {
       const where = `people "${p.id}"`;
       checkRefs('peoples.json', where, p.sources);
@@ -613,6 +615,19 @@ export function validateData(dir: string): Result {
         const w = `${where} › languages[${i}]`;
         if (!known.languages!.has(l.language)) err('peoples.json', w, `Unknown language "${l.language}"`);
         checkRefs('peoples.json', w, l.sources);
+      }
+      for (const [i, im] of (p.images ?? []).entries()) {
+        const w = `${where} › images[${i}]`;
+        checkRefs('peoples.json', w, im.sources);
+        if (!existsSync(join(dir, '..', 'public', im.file))) err('peoples.json', w, `Image file public/${im.file} is missing`);
+        if (im.kind === 'ai-impression') {
+          // AI illustrations: never for groups that exist today, and always tied to the real evidence they draw on.
+          if (!p.attested.end) err('peoples.json', w, 'AI impressions are only allowed for peoples that no longer exist as such');
+          if (!im.based_on?.length) err('peoples.json', w, 'An AI impression must list the images it is based on (based_on)');
+          for (const id of im.based_on ?? []) if (!allImageIds.has(id)) err('peoples.json', w, `Unknown image "${id}" in based_on`);
+        } else if (!/^(public domain|cc0|cc by(-sa)? \d\.\d|no known restrictions)/i.test(im.license)) {
+          err('peoples.json', w, `Licence "${im.license}" is not open enough (public domain, CC0, CC BY or CC BY-SA only)`);
+        }
       }
       for (const [kind, ids] of Object.entries(p.related ?? {})) {
         for (const id of ids ?? []) if (!known[kind]?.has(id)) err('peoples.json', where, `Unknown ${({ polities: 'polity', cultures: 'culture', languages: 'language', migrations: 'migration', groups: 'group' } as Record<string, string>)[kind] ?? kind} "${id}" in related.${kind}`);

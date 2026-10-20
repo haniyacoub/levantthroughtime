@@ -819,6 +819,337 @@
               ],
               "additionalProperties": false
             }
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                },
+                "file": {
+                  "type": "string",
+                  "pattern": "^peoples\\/[a-z0-9-]+\\.(jpg|jpeg|png|webp)$"
+                },
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "depiction",
+                    "photograph",
+                    "artefact",
+                    "map",
+                    "ai-impression"
+                  ]
+                },
+                "caption": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "perspective": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ar": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "he": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "translation_status": {
+                      "type": "object",
+                      "properties": {
+                        "ar": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        },
+                        "he": {
+                          "type": "string",
+                          "enum": [
+                            "original",
+                            "machine-draft",
+                            "reviewed"
+                          ]
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "object": {
+                  "type": "object",
+                  "properties": {
+                    "what": {
+                      "type": "object",
+                      "properties": {
+                        "en": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "ar": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "he": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "translation_status": {
+                          "type": "object",
+                          "properties": {
+                            "ar": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            },
+                            "he": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "en"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "date": {
+                      "type": "object",
+                      "properties": {
+                        "year": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "month": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 12
+                        },
+                        "day": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 31
+                        },
+                        "circa": {
+                          "type": "boolean"
+                        },
+                        "precision": {
+                          "type": "string",
+                          "enum": [
+                            "day",
+                            "month",
+                            "season",
+                            "year",
+                            "decade",
+                            "century",
+                            "millennium"
+                          ]
+                        },
+                        "latest": {
+                          "type": "integer",
+                          "minimum": -9007199254740991,
+                          "maximum": 9007199254740991
+                        },
+                        "calendar_note": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "year",
+                        "precision"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "made_by": {
+                      "type": "object",
+                      "properties": {
+                        "en": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "ar": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "he": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "translation_status": {
+                          "type": "object",
+                          "properties": {
+                            "ar": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            },
+                            "he": {
+                              "type": "string",
+                              "enum": [
+                                "original",
+                                "machine-draft",
+                                "reviewed"
+                              ]
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      },
+                      "required": [
+                        "en"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "where_now": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "what"
+                  ],
+                  "additionalProperties": false
+                },
+                "license": {
+                  "type": "string",
+                  "minLength": 2
+                },
+                "license_url": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "credit": {
+                  "type": "string",
+                  "minLength": 2
+                },
+                "page_url": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "based_on": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                  }
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "documented",
+                    "estimated",
+                    "contested",
+                    "unknown"
+                  ]
+                },
+                "sources": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ref": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      },
+                      "via": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "ref"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "id",
+                "file",
+                "kind",
+                "caption",
+                "license",
+                "credit",
+                "confidence",
+                "sources"
+              ],
+              "additionalProperties": false
+            }
           }
         },
         "required": [
