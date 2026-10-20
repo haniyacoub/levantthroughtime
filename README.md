@@ -103,29 +103,69 @@ npm run test:e2e           # opens the built site in a headless browser and clic
 npm run screenshots        # saves screenshots of key views to docs/screenshots/
 ```
 
-## 9. Publish the site
+## 9. Publish the site (GitHub + Cloudflare Pages)
 
-The site is a set of static files, so it can be hosted for free. Nothing has been published yet; these are the steps for when you're ready.
+The site is a set of static files, hosted free on Cloudflare Pages, with the code kept on GitHub. Nothing is published until you press the button in step 8, and every later update is published the same way.
 
-### GitHub Pages (recommended)
+### One-time setup
 
-1. Create an empty repository on <https://github.com> (public, so readers can file corrections).
-2. In this folder:
+1. **GitHub account.** Sign up at <https://github.com>. Then open **Settings → Emails**, tick **Keep my email addresses private**, and copy the private address it shows (it looks like `12345678+yourname@users.noreply.github.com`).
+
+2. **Keep your personal email out of the public history (do this before the first push).** Every saved version (commit) of this project records an author email, and a public repository shows it. In this folder run, with your private address from step 1:
+
+   ```bash
+   git config user.email "12345678+yourname@users.noreply.github.com"
+   git filter-branch -f --env-filter 'export GIT_AUTHOR_EMAIL="$(git config user.email)"; export GIT_COMMITTER_EMAIL="$(git config user.email)"' -- --all
+   ```
+
+   This rewrites only the local history, keeping every date and message. Do it only before anything has been pushed.
+
+3. **Create an empty repository** at <https://github.com/new>. Make it public, so readers can file corrections, and leave "Add a README" and "Add .gitignore" unticked. Then, in this folder:
 
    ```bash
    git remote add origin https://github.com/<your-user>/<repo-name>.git
    git push -u origin main
    ```
 
-3. On GitHub, open the repository → **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Every push now runs the checks in `.github/workflows/ci.yml`: validate the data, run the tests, build. Pushing does **not** publish anything.
-5. To publish: open the **Actions** tab → **CI** → **Run workflow**, choose the `main` branch, tick **Deploy to GitHub Pages**, and press the green button. When it finishes, the site is at `https://<your-user>.github.io/<repo-name>/`. Repeat this whenever you want the public site updated.
-6. Optional: to turn on the "Suggest a correction" links, add this line to `data/config.json`:
+   Every push runs the checks in `.github/workflows/ci.yml` (validate the data, run the tests, build). A push never publishes anything.
+
+4. **Cloudflare account.** Sign up at <https://dash.cloudflare.com/sign-up> (the free plan is enough).
+
+5. **Account ID.** In the Cloudflare dashboard open **Workers & Pages**. The **Account ID** is shown on the right; copy it.
+
+6. **API token.** In Cloudflare open **My Profile → API Tokens → Create Token → Create Custom Token**. Give it a name (for example "Publish history map"). Under **Permissions** choose **Account → Cloudflare Pages → Edit**, and under **Account Resources** choose your account. Then **Continue to summary → Create Token**, and copy the token. It is shown only once.
+
+7. **Give GitHub the two values.** In your GitHub repository open **Settings → Secrets and variables → Actions → New repository secret**, and add:
+   - `CLOUDFLARE_API_TOKEN`, with the token from step 6;
+   - `CLOUDFLARE_ACCOUNT_ID`, with the Account ID from step 5.
+
+### Publishing (first time and every update)
+
+8. In the GitHub repository open **Actions → Deploy to Cloudflare Pages → Run workflow**.
+   - **Project name** becomes the address: the default gives `https://southern-levant-through-time.pages.dev`. Choose your own name the first time and keep it after that.
+   - Untick **Publish to the main address** to get a separate preview address first.
+
+   Press **Run workflow**. In about five minutes the workflow has checked the data, built the site and uploaded it. The address is printed at the end of the workflow log.
+
+9. **Optional: your own domain.** In Cloudflare open **Workers & Pages → your project → Custom domains → Set up a custom domain**. Cloudflare can also sell you the domain at cost (**Domain Registration**).
+
+10. **Optional: turn on the "Suggest a correction" links.** Add this line to `data/config.json`, then commit, push and publish again:
    `"corrections_url": "https://github.com/<your-user>/<repo-name>/issues/new"`
 
-### Vercel (alternative)
+11. **Optional: keep search engines away while the content awaits review.** See the note at the top of `public/_headers`.
 
-Import the repository at <https://vercel.com/new>. Set the build command to `npm run build-basemap -- --tiles-only && npm run build` and the output directory to `dist`. No other settings are needed.
+### Alternative: let Cloudflare publish on every push
+
+Instead of steps 5–8 you can connect the repository in Cloudflare: **Workers & Pages → Create → Pages → Connect to Git**, choose the repository, and set:
+- Framework preset: **None**
+- Build command: `npm run build-basemap -- --tiles-only && npm run build`
+- Build output directory: `dist`
+
+The Node version is read from `.node-version`. With this set-up, every push to `main` publishes immediately, so the manual button is the safer default.
+
+### Before announcing the site
+
+The plan recommends review by at least three historians (Israeli, Palestinian and an outside academic) and by fluent Arabic and Hebrew readers. `data/REVIEW.md` is their checklist. The site already tells readers that the Arabic and Hebrew texts are machine drafts.
 
 ## 10. What's where
 

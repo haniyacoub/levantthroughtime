@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitest/config';
 import react from '@vitejs/plugin-react';
 
-// BASE_PATH lets the same build work at a domain root (Vercel) or under
-// /<repo-name>/ (GitHub Pages project sites). Set by the deploy workflow.
+// BASE_PATH lets the build work under a sub-path (e.g. a GitHub Pages project site at
+// /<repo-name>/). Cloudflare Pages serves the site at the root, so it is normally unset.
 export default defineConfig({
   base: process.env.BASE_PATH ?? '/',
   plugins: [react()],

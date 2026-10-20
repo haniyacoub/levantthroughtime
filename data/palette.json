@@ -109,8 +109,8 @@
       "rationale": "Pear (Tol \"light\"): avoids the red of the Ottoman flag."
     },
     "lebanon": {
-      "color": "#99DDFF",
-      "rationale": "Light cyan (Tol \"light\"): avoids the red, white and green of the Lebanese flag."
+      "color": "#BBCC33",
+      "rationale": "Pear (Tol \"light\"): avoids the red and white of the Lebanese flag (its cedar is a darker green), and is clearly distinct from Jordan's cyan, which the earlier light cyan was hard to tell apart from in the legend."
     },
     "mamluk-sultanate": {
       "color": "#EE8866",

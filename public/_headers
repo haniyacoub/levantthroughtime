@@ -1,0 +1,25 @@
+# Response headers for Cloudflare Pages (this file is copied into the built site).
+#
+# While the content is still awaiting expert review you may prefer that search engines
+# do not list the site. To do that, add this line, indented by two spaces, under "/*":
+#   X-Robots-Tag: noindex
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
+
+# Built code has a content hash in its file name, so it can be cached for a year.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Elevation tiles do not change.
+/tiles/*
+  Cache-Control: public, max-age=2592000
+
+# Data files keep the same name when the data changes, so browsers re-check them.
+/data/*
+  Cache-Control: public, max-age=300, must-revalidate

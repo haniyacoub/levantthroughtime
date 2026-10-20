@@ -1,0 +1,75 @@
+# Publishes the site to Cloudflare Pages. It never runs by itself: open the
+# repository's Actions tab → "Deploy to Cloudflare Pages" → "Run workflow".
+# It checks the data, runs the unit tests, builds the site and uploads it.
+#
+# One-time setup (see README §9): add two repository secrets,
+# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID.
+name: Deploy to Cloudflare Pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: Cloudflare Pages project name (becomes <name>.pages.dev)
+        type: string
+        default: southern-levant-through-time
+      production:
+        description: Publish to the main address (untick for a private preview address)
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-cloudflare
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Elevation tiles are not committed; download once and cache them.
+      - name: Cache elevation tiles
+        id: tiles
+        uses: actions/cache@v6
+        with:
+          path: public/tiles
+          key: terrain-${{ hashFiles('scripts/build-basemap.ts') }}
+
+      - name: Download elevation tiles
+        if: steps.tiles.outputs.cache-hit != 'true'
+        run: npm run build-basemap -- --tiles-only
+
+      - name: Validate data
+        run: npm run validate-data
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PROJECT: ${{ inputs.project }}
+          BRANCH: ${{ inputs.production && 'main' || 'preview' }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::error::Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets first (README §9)."
+            exit 1
+          fi
+          # Creates the Pages project on the first run; later runs reuse it.
+          npx --yes wrangler@4 pages project create "$PROJECT" --production-branch main || true
+          npx --yes wrangler@4 pages deploy dist --project-name "$PROJECT" --branch "$BRANCH" --commit-dirty=true
