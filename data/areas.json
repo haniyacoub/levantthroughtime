@@ -944,6 +944,25 @@
           "locator": "Chapter VI, Part II, Boundaries; Part III"
         }
       ]
+    },
+    {
+      "id": "acre-city",
+      "name": {
+        "en": "Acre (city)"
+      },
+      "definition": {
+        "en": "The walled town of Acre ('Akko / 'Akka). Extent varies by author and period: Benvenisti 1970 counts a built-up area of about 600 dunams including the quarter of Montmusard; Russell 1985 uses about 45 hectares within the walls about 1200."
+      },
+      "sources": [
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26"
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "Table 2, p. 306"
+        }
+      ]
     }
   ]
 }

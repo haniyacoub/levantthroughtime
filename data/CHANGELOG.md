@@ -621,3 +621,32 @@ Gaps:
 - No Israeli government statement on the 2018–19 Great March of Return could be opened (gov.il blocks automated access); the Israeli side comes from ITIC.
 - Lorch's history of the 1948 war was seen only as quoted.
 - No Palestinian institutional paper on "Jewish refugees from Arab countries" was found.
+
+### Population estimates for 640–1517 (round K2)
+
+The chart had only eight records for these nine centuries. Fifteen published estimates have been added, each as the scholar or eyewitness gives it, with no interpolation:
+- **Jerusalem:**
+  - About 24,000–25,000 in the 10th century (Arar 2004).
+  - At least 20,000 in 1047 (Nasir-i Khusraw's "twenty thousand men", recorded as a lower bound).
+  - 10,000 around 1200 (Russell).
+  - About 2,000 in 1267, of whom 300 Christians and two Jewish households (Nahmanides).
+  - 40,000 after 1260 (Arar) against about 20,000 in the 14th century (Lutfi, as quoted in TDV) and about 10,000 for the Mamluk period (Tomar, TDV).
+  - 10,000 with 1,000 Christians in 1483 (Bachi), and Felix Fabri's "more than five hundred Jews and more than a thousand Christians" (1483).
+- **Acre:** 5,625 around 1200 (Russell) against 30,000 in the Crusader period (Benvenisti), recorded as contested.
+- **Jews in the Crusader period:**
+  - 1,693–8,465 around 1163 (Arar's reading of Benjamin of Tudela).
+  - In Jerusalem around 1170, 200 or 4 depending on the manuscript of Benjamin of Tudela.
+- **Shares by religion, the earliest on the site before the Ottoman registers:**
+  - Hitti's statement that Greek Orthodox Christians were about half the population on the eve of the Crusades, recorded as contested with the scholars who dispute it.
+  - Arar's estimate for Mamluk Palestine: Muslims 70–80%, Christians 20–30%, Jews under 5%.
+
+New group: Greek Orthodox Christians, a sub-group of Christians. New area: the city of Acre.
+
+**Sources:** Shafiq Arar's Birzeit thesis on the population of Mamluk Palestine (2004); Hitti; Russell; Bachi; Benvenisti; Prawer; the TDV İslâm Ansiklopedisi; and public-domain translations of Nasir-i Khusraw, Benjamin of Tudela, Nahmanides, Felix Fabri, Meshullam of Volterra and Obadiah of Bertinoro.
+
+**Validator:** a record may now give shares by group without a total (as Arar's does). It is then an estimate, not "unknown".
+
+Gaps:
+- No open source gives country-wide figures for the early Islamic period, or numbers for the pace of conversion to Islam. The scholarly debate is summarised in the notes.
+- Prawer's and Kedar's Crusader totals, and the Mamluk studies by Ashtor, Drory and Little, could not be opened.
+- City figures for Gaza, Hebron, Ascalon, Tiberias, Jaffa and Caesarea (Russell, Benvenisti) are not yet added.

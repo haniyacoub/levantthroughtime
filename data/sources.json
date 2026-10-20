@@ -202,6 +202,26 @@
       "institution_country": "IL"
     },
     {
+      "id": "adler-1930-jewish-travellers",
+      "type": "book",
+      "editors": [
+        "Adler, Elkan Nathan"
+      ],
+      "title": "Jewish Travellers (The Broadway Travellers)",
+      "publisher": "George Routledge & Sons",
+      "place": "London",
+      "year": 1930,
+      "url": "https://archive.org/details/McGillLibrary-108936-464",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary sources in translation. Downloaded the Internet Archive OCR text of the McGill University Library scan (a library upload; published 1930, now public domain in the US) and read p. 189 (Meshullam of Volterra in Jerusalem, 29 July 1481) and pp. 233-234 (Obadiah of Bertinoro in Jerusalem, 13 Nisan 5248 = spring 1488)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "admiralty-1920-handbook-of-syria",
       "type": "book",
       "authors": [
@@ -1280,6 +1300,26 @@
       "institution_country": "SA"
     },
     {
+      "id": "arar-2004-population-palestine-mamluk",
+      "type": "thesis",
+      "authors": [
+        "Arar, Shafiq Awwad Abd al-Karim (عرار، شفيق عواد عبد الكريم)"
+      ],
+      "title": "سكان فلسطين في العهد المملوكي (The Population of Palestine in the Mamluk Period)",
+      "publisher": "Birzeit University (M.A. thesis, programme in Arab and Islamic History; supervisor Muhsin Yusuf)",
+      "place": "Birzeit",
+      "year": 2004,
+      "url": "http://hdl.handle.net/20.500.11889/1565",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Open-access thesis in Birzeit University's repository (FADA). The repository sits behind a bot check, so the PDF (thesis_29.pdf, 194 pp.) was downloaded from its Internet Archive Wayback capture of 23 May 2023 and its text layer extracted. Read the English abstract (pp. VI-VII), the Arabic summary, ch. 2 on Muslims, Christians and Jews (pp. 38-66) and the conclusion (p. 152). The PDF text layer drops the lam-alif ligature; Arabic quotes were checked after normalising this. Arar is a Palestinian historian; the thesis is in Arabic with an English abstract."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
+    },
+    {
       "id": "arij-2012-an-nabi-musa",
       "type": "document",
       "authors": [
@@ -1979,7 +2019,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there. | Re-read in Milestone 8: Re-read (round J) in the CICRED PDF text saved in an earlier pass: sections 4.1-4.2 and Table 4.1 (pp. 31-32), section 4.6 (p. 36), Appendix 4 sections A.2-A.3 and C (pp. 367-370, the estimates for c. 1880-1890 and the official Turkish 1914 estimate) and Appendix 8.1 (p. 412, the Egyptian statistical unit's Gaza estimates)."
+        "note": "Read the full PDF (text layer plus rendered page images): Table 1.1 (p. 5, rendered image), Table 4.1 (p. 32), section 4.6 (pp. 35-36), Appendix 4 (pp. 367-370), Appendix 8 (pp. 412-413). Title page carries 'World Population Year 1974'; the text cites works of 1976-77 and covers data to 31.12.1975, and DellaPergola (2001) cites it as Bachi 1977, hence year 1977. | Re-read in Milestone 8: Re-read in this pass section 15.2 (pp. 285-286) on the languages of Jewish immigrants before 1914 in the PDF text downloaded earlier. | Re-read in Milestone 8: Re-downloaded the CICRED PDF (Wayback copy) and re-read Appendix 2A-B (p. 355) and Tables A1-A3 with the notes to Table A3 (pp. 356-359), to locate the works cited there. | Re-read in Milestone 8: Re-read (round J) in the CICRED PDF text saved in an earlier pass: sections 4.1-4.2 and Table 4.1 (pp. 31-32), section 4.6 (p. 36), Appendix 4 sections A.2-A.3 and C (pp. 367-370, the estimates for c. 1880-1890 and the official Turkish 1914 estimate) and Appendix 8.1 (p. 412, the Egyptian statistical unit's Gaza estimates). | Re-read in Milestone 8: Re-read (round K, group K2) in the CICRED PDF saved earlier: ch. 3.1-3.3 (pp. 21-23, incl. p. 23 n. 3 on Jerusalem 'some 2,000'), p. 26 (religious composition after the Arab conquest), Appendix 3A (p. 362) and Appendix 5 with Table A5 (pp. 371-373). Table A5, part B (p. 373) is not in the PDF text layer: it was read from the rendered page image, so its rows are cited without quotes."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -2658,6 +2698,27 @@
       "institution_country": "NL"
     },
     {
+      "id": "benjamin-of-tudela-adler-1907-itinerary",
+      "type": "book",
+      "authors": [
+        "Benjamin of Tudela",
+        "Adler, Marcus Nathan (editor and translator)"
+      ],
+      "title": "The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary",
+      "publisher": "Henry Frowde (Oxford University Press)",
+      "place": "London",
+      "year": 1907,
+      "url": "https://www.gutenberg.org/ebooks/14981",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (Hebrew travel account, c. 1166-1171). Downloaded and read the Project Gutenberg e-text (#14981) of Adler's translation (from a Feldheim reprint of the 1907 edition): Adler's dating note (journey between 1166 and 1171), the Jerusalem passage on p. 35 and footnote 78 on the manuscript readings (200 vs. four Jews)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "benvenisti-1970-crusaders-holy-land",
       "type": "book",
       "authors": [
@@ -2669,7 +2730,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan. | Re-read in Milestone 8 (group F) from the Internet Archive full text downloaded earlier: pp. 116-117 (siege of Ascalon from the beginning of January 1153; three-day truce proclaimed 19 August 1153). Page numbers printed at the foot of each page. The Internet Archive copy (item 'benvenisti-the-crusaders-in-the-holy-land') is a user upload of an in-copyright 1970 book and is probably not authorised. Read in a third-party copy of uncertain licensing status, which this project does not link. The link is to a library catalogue record (HathiTrust), not to a copy of the work."
+        "note": "Read the 'Population' section (pp. 17-19), 'Populations of the towns' (pp. 26-27) and p. 35 in the Internet Archive full-text copy. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text and read pp. 115-117 (siege and surrender of Ascalon, 1153) and p. 161 (Hebron and the seigneurie of Transjordan, 1161). Page numbers are printed at the foot of each page in this scan. | Re-read in Milestone 8 (group F) from the Internet Archive full text downloaded earlier: pp. 116-117 (siege of Ascalon from the beginning of January 1153; three-day truce proclaimed 19 August 1153). Page numbers printed at the foot of each page. The Internet Archive copy (item 'benvenisti-the-crusaders-in-the-holy-land') is a user upload of an in-copyright 1970 book and is probably not authorised. Read in a third-party copy of uncertain licensing status, which this project does not link. The link is to a library catalogue record (HathiTrust), not to a copy of the work. | Re-read in Milestone 8: Re-read (round K, group K2) from the Internet Archive full text saved earlier: p. 18 (indigenous population, Muslim share conjectured at 75-80 per cent) and pp. 25-27 ('Populations of the towns' table: Jerusalem, Acre and Tyre c. 30,000 each). Same third-party copy of uncertain licensing status as before; not linked."
       },
       "kind": "academic",
       "institution_country": "IL",
@@ -11898,6 +11959,28 @@
       "institution_country": "IL"
     },
     {
+      "id": "fabri-stewart-1893-wanderings-vol-2-1",
+      "type": "book",
+      "authors": [
+        "Fabri, Felix",
+        "Stewart, Aubrey (translator)"
+      ],
+      "title": "The Book of the Wanderings of Brother Felix Fabri (circa 1480-1483 A.D.), vol. II, part I",
+      "container": "Library of the Palestine Pilgrims' Text Society, vol. IX",
+      "publisher": "Palestine Pilgrims' Text Society",
+      "place": "London",
+      "year": 1893,
+      "url": "https://archive.org/details/libraryofpalesti09paleuoft",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (Latin Evagatorium of a Dominican from Ulm; second pilgrimage 1483). Downloaded the Internet Archive OCR text of the University of Toronto scan (public domain) and read pp. 225-227 (description of the city of Jerusalem)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "falls-1930-military-operations-egypt-palestine-2-part-1",
       "type": "book",
       "authors": [
@@ -13851,6 +13934,28 @@
       "kind": "reference",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "hitti-1985-impact-crusades-moslem-lands",
+      "type": "chapter",
+      "authors": [
+        "Hitti, Philip K."
+      ],
+      "title": "The Impact of the Crusades on Moslem Lands",
+      "container": "A History of the Crusades, vol. V: The Impact of the Crusades on the Near East (K. M. Setton gen. ed.; N. P. Zacour and H. W. Hazard, eds.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1985,
+      "volume": "V",
+      "pages": "33-58",
+      "url": "https://search.library.wisc.edu/digital/AJBWKB3KXWEYAW87",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Internet Archive full-text (OCR) of the University of Wisconsin Digital Collections scan of HoC vol. V (item setton-wisconsin-history-of-the-crusades-vol-5; the open-access copy is at the UW link), saved earlier in this research project; page numbers from the printed running heads. Read pp. 49-50 (the Christian communities of Syria, Lebanon and Palestine at the dawn of the crusades). Philip K. Hitti (1886-1978), Lebanese-born historian of the Arabs at Princeton University; the chapter was published posthumously."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "hitti-history-of-the-arabs",
@@ -18079,6 +18184,27 @@
       "institution_country": "GB"
     },
     {
+      "id": "lutfi-1985-al-quds-al-mamlukiyya",
+      "type": "book",
+      "authors": [
+        "Lutfi, Huda"
+      ],
+      "title": "Al-Quds al-Mamlûkiyya: A History of Mamlûk Jerusalem Based on the Ḥaram Documents",
+      "container": "Islamkundliche Untersuchungen 113",
+      "publisher": "Klaus Schwarz Verlag",
+      "place": "Berlin",
+      "year": 1985,
+      "isbn": "392296849X",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "cited-via",
+        "checked_on": "2026-10-20",
+        "note": "Not opened; Lutfi's estimate (p. 225) is reported by the TDV İslâm Ansiklopedisi entry KUDÜS (Mamluk section by Cengiz Tomar). Bibliographic data (series, ISBN) from the Open Library edition record. Huda Lutfi is an Egyptian historian (American University in Cairo)."
+      },
+      "kind": "academic",
+      "institution_country": "EG"
+    },
+    {
       "id": "lwj-2026-10-07-south-lebanon",
       "type": "web",
       "title": "IDF shifts southern Lebanon forces toward 'forward-defense' posture as troops prepare for winter",
@@ -19375,6 +19501,28 @@
       },
       "kind": "academic",
       "institution_country": "FR"
+    },
+    {
+      "id": "nasir-i-khusraw-le-strange-1888-diary",
+      "type": "book",
+      "authors": [
+        "Nasir-i Khusraw",
+        "Le Strange, Guy (translator)"
+      ],
+      "title": "Diary of a Journey through Syria and Palestine",
+      "container": "Library of the Palestine Pilgrims' Text Society, vol. IV",
+      "publisher": "Palestine Pilgrims' Text Society",
+      "place": "London",
+      "year": 1888,
+      "url": "https://archive.org/details/39020013533750-diaryofajourney",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (Persian travelogue, Safarnama; Nasir-i Khusraw reached Jerusalem on 5 Ramadan 438 = 5 March 1047). Downloaded the Internet Archive OCR text of the copy contributed by George Washington University Libraries (a facsimile reprint of the 1888 public-domain edition) and read pp. 23-25 (arrival in Jerusalem, pilgrims, description of the city)."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "national-2026-09-22-unifil",
@@ -22439,7 +22587,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161)."
+        "note": "Read the extracted text of the University of Wisconsin Digital Collections copy (saved earlier in this research project); passages on the Armenians in Jerusalem, pp. 85-86. Chapter page range inferred from running heads (pp. 61-115 seen). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the Internet Archive full text of Setton vol. V and read p. 115 n. 222 (investiture of Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read in Milestone 8 (group H2) from the Internet Archive full text of HoC vol. V downloaded earlier: p. 115 n. 222 (Baldwin III invests Philip of Milly with Transjordan, 1161). | Re-read in Milestone 8: Re-read (round K, group K2) in the Internet Archive full text of HoC vol. V saved earlier: p. 61 (Muslims in the crusader states; the law barring Muslims and Jews from Jerusalem after 1099) and pp. 95-96 (Jewish communities in the twelfth century)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -23262,6 +23410,28 @@
       "institution_country": "DE"
     },
     {
+      "id": "russell-1985-population-crusader-states",
+      "type": "chapter",
+      "authors": [
+        "Russell, Josiah C."
+      ],
+      "title": "The Population of the Crusader States",
+      "container": "A History of the Crusades, vol. V: The Impact of the Crusades on the Near East (K. M. Setton gen. ed.; N. P. Zacour and H. W. Hazard, eds.)",
+      "publisher": "University of Wisconsin Press",
+      "year": 1985,
+      "volume": "V",
+      "pages": "295-314",
+      "url": "https://search.library.wisc.edu/digital/AJBWKB3KXWEYAW87",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Internet Archive full-text (OCR) of the University of Wisconsin Digital Collections scan of HoC vol. V (item setton-wisconsin-history-of-the-crusades-vol-5; the open-access copy is at the UW link), saved earlier in this research project; page numbers from the printed running heads. Read the whole chapter (pp. 295-314), esp. pp. 305-309: Table 2 (estimated size of the largest Syrian cities about A.D. 1200, from Russell, Mediaeval Regions and Their Cities, 1972, pp. 201-205) and Table 3 (Syria c. 1100). Russell (Texas A&I University) was an American historical demographer."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "said-1985-conspiracy-of-praise",
       "type": "article",
       "authors": [
@@ -23464,6 +23634,28 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "schechter-1896-nachmanides",
+      "type": "chapter",
+      "authors": [
+        "Schechter, Solomon"
+      ],
+      "title": "Nachmanides (with a translation of his letter from Jerusalem, 1267)",
+      "container": "Studies in Judaism [first series]",
+      "publisher": "Macmillan",
+      "place": "New York",
+      "year": 1896,
+      "pages": "108",
+      "url": "https://archive.org/details/cu31924029096894",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source in translation: Nahmanides' letter to his son, written in Jerusalem after his arrival on 9 Elul (1267), quoted in English in Schechter's essay. Downloaded the Internet Archive OCR text of the Cornell University Library scan (public domain) and read p. 108."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
     },
     {
       "id": "schechter-1908-safed-sixteenth-century",
@@ -24919,7 +25111,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 26 (2002), pp. 323-338. Multi-author entry: section 2 (conquest to the Crusades) by Casim Avcı, section 3 (Crusader period) by Işın Demirkent, section 4 (Mamluk period) by Cengiz Tomar, section 5 (Ottoman period and after) by Kâmil Cemîl el-Aselî. | Re-read in Milestone 8: Re-read the online entry (Turkish) in Milestone 8 round I: section 2 (Casim Avcı) on Atsız b. Uvak and the revolt of Jerusalem in 469/1077, and on al-Hakim's destruction of the Church of the Holy Sepulchre in 400/1009 and its reopening forty years later."
+        "note": "Read the full online entry (Turkish) on islamansiklopedisi.org.tr; printed in TDV İslâm Ansiklopedisi vol. 26 (2002), pp. 323-338. Multi-author entry: section 2 (conquest to the Crusades) by Casim Avcı, section 3 (Crusader period) by Işın Demirkent, section 4 (Mamluk period) by Cengiz Tomar, section 5 (Ottoman period and after) by Kâmil Cemîl el-Aselî. | Re-read in Milestone 8: Re-read the online entry (Turkish) in Milestone 8 round I: section 2 (Casim Avcı) on Atsız b. Uvak and the revolt of Jerusalem in 469/1077, and on al-Hakim's destruction of the Church of the Holy Sepulchre in 400/1009 and its reopening forty years later. | Re-read in Milestone 8: Re-downloaded the online entry on 2026-10-20 and read section 4 (Memlükler Dönemi, by Cengiz Tomar; https://islamansiklopedisi.org.tr/kudus#4-memlukler-donemi), the paragraph on the population of Mamluk Jerusalem (about 10,000 according to researchers; about 20,000 in the 14th century according to Huda Lutfi's al-Quds, p. 225)."
       },
       "kind": "reference",
       "institution_country": "TR"

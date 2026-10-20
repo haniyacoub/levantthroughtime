@@ -390,8 +390,10 @@ export function validateData(dir: string): Result {
     checkConfidence('population.json', where, p.confidence, p.sources, { singleOk: officialCount(p.sources) });
     checkDates('population.json', where, p.date);
     const groupCountsOnly = p.total === null && (p.composition ?? []).some((c) => c.groups.some((g) => g.count));
-    if (p.total === null && p.confidence !== 'unknown' && !groupCountsOnly) {
-      err('population.json', where, 'Total is null (unknown) but confidence is not "unknown"; if the source gives only a group figure, put it in "composition"');
+    // A source may give only shares (e.g. "Muslims 70-80%") without a total: that is still an estimate.
+    const sharesOnly = p.total === null && (p.composition ?? []).some((c) => c.groups.some((g) => g.share_pct));
+    if (p.total === null && p.confidence !== 'unknown' && !groupCountsOnly && !sharesOnly) {
+      err('population.json', where, 'Total is null (unknown) but confidence is not "unknown"; if the source gives only group figures or shares, put them in "composition"');
     }
     if (groupCountsOnly && (p.composition ?? []).some((c) => !c.partial)) {
       err('population.json', where, 'The total is unknown, so any composition can only be "partial": true');

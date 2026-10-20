@@ -4197,16 +4197,16 @@
           "note": "Alternative estimate for the same period: at most 30,000 (record prawer-1980-jerusalem-before-1099).",
           "locator": "p. 88 (as cited by Boas 2001, ch. 1 n. 32)",
           "via": "boas-2001-jerusalem-crusades"
+        },
+        {
+          "ref": "nasir-i-khusraw-le-strange-1888-diary",
+          "locator": "p. 24",
+          "quote": "Jerusalem is a very great city, and, at the time of my visit, there were in it twenty thousand men.",
+          "note": "Contemporary figure of 1047 (record nasir-i-khusraw-1047-jerusalem)."
         }
       ],
       "notes": {
-        "en": "Benvenisti says the number doubled when villagers took refuge in the city before the 1099 siege, and (p. 39) that the 'normal population prior to its capture had numbered 20,000'. Prawer gave up to 30,000 (record prawer-1980-jerusalem-before-1099).",
-        "ar": "يقول بنفنستي إن العدد تضاعف حين لجأ القرويون إلى المدينة قبل حصار 1099، وإن (ص 39) \"normal population prior to its capture had numbered 20,000\". وذكر براور حتى 30,000 (السجل prawer-1980-jerusalem-before-1099).",
-        "he": "בנבנישתי אומר שהמספר הוכפל כשכפריים מצאו מקלט בעיר לפני המצור של 1099, ו(עמ' 39) שה-\"normal population prior to its capture had numbered 20,000\". פראוור הביא עד 30,000 (רשומה prawer-1980-jerusalem-before-1099).",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Benvenisti says the number doubled when villagers took refuge in the city before the 1099 siege, and (p. 39) that the 'normal population prior to its capture had numbered 20,000'. Prawer gave up to 30,000 (record prawer-1980-jerusalem-before-1099). For comparison, the Persian traveller Nasir-i Khusraw wrote in 1047 that there were 'twenty thousand men' in the city (record nasir-i-khusraw-1047-jerusalem)."
       }
     },
     {
@@ -4338,16 +4338,21 @@
           "ref": "bachi-1977",
           "locator": "Table A5, p. 373",
           "quote": "12th century (Crusaders' period) 30,000 ... Prawer and others"
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "Table 2, p. 306",
+          "quote": "5 Jerusalem 80 10,000",
+          "note": "Alternative estimate about 1200: 10,000 (record russell-1985-jerusalem-c1200)."
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "p. 305",
+          "quote": "The estimated size of the ten largest cities, shown in table 2, is based on the area within their walls (at 125 people per hectare, except Tripoli)"
         }
       ],
       "notes": {
-        "en": "Bachi credits the 30,000 to 'Prawer and others'; Boas 2001 also says 'It has been estimated that Jerusalem eventually had around 30,000 residents'. Bachi lists J.C. Russell's 10,000 for 1200 (after Saladin's reconquest; work not specified).",
-        "ar": "ينسب باكي الرقم 30,000 إلى \"Prawer and others\"؛ ويقول بواس 2001 أيضًا \"It has been estimated that Jerusalem eventually had around 30,000 residents\". ويورد باكي رقم ج. س. راسل البالغ 10,000 لعام 1200 (بعد استعادة صلاح الدين؛ العمل غير محدد).",
-        "he": "בכי מייחס את 30,000 ל-\"Prawer and others\"; בואס 2001 אומר גם הוא \"It has been estimated that Jerusalem eventually had around 30,000 residents\". בכי מביא את 10,000 של ג'. ק. ראסל לשנת 1200 (לאחר כיבושו מחדש בידי צלאח א-דין; היצירה אינה מפורטת).",
-        "translation_status": {
-          "ar": "machine-draft",
-          "he": "machine-draft"
-        }
+        "en": "Bachi credits the 30,000 to 'Prawer and others'; Boas 2001 also says 'It has been estimated that Jerusalem eventually had around 30,000 residents'. Bachi lists J.C. Russell's 10,000 for 1200 (after Saladin's reconquest; work not specified). Russell's 10,000 is in Russell 1985 (A History of the Crusades, vol. V, Table 2: 80 hectares within the walls at 125 persons per hectare, taken from his Mediaeval Regions and Their Cities, 1972) and is now a separate record (russell-1985-jerusalem-c1200). Russell dates it about 1200 but also applies it to the time of the First Crusade."
       }
     },
     {
@@ -11013,6 +11018,741 @@
           "ar": "machine-draft",
           "he": "machine-draft"
         }
+      }
+    },
+    {
+      "id": "arar-2004-jerusalem-10th-century",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 901,
+        "latest": 1000,
+        "circa": true,
+        "precision": "century"
+      },
+      "date_note": "Tenth century CE (Abbasid, Ikhshidid and early Fatimid rule).",
+      "total": {
+        "low": 24000,
+        "high": 25000
+      },
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "jews",
+              "count": {
+                "low": null,
+                "high": 500
+              },
+              "notes": "'Did not exceed 500 persons, about 2%' of the city's population."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "Jews: a yearly tax of 100 dinars levied on the Jews of Jerusalem, read as at most 100 tax-paying families and multiplied by five persons per family; the city total (24,000-25,000) is given as an existing estimate without its basis.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "pp. 54-55",
+          "quote": "فاننا نستطيع أن نقدر أن عددهم في المدينة لم يتجاوز (500) شخص أي حوالي 2% من مجموع سكان المدينة",
+          "note": "Translation: 'we can estimate that their number in the city did not exceed 500 persons, i.e. about 2% of the city's total population'."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 55",
+          "quote": "حيث قدر عدد السكان في تلك الفترة بحوالي أربع وعشرين الى خمس وعشرون الف نسمة",
+          "note": "Translation: 'the population in that period was estimated at about twenty-four to twenty-five thousand persons'."
+        }
+      ],
+      "notes": {
+        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University). Arar adds that many of those taxed as Jews may have been pilgrims and visitors. Compare the Persian traveller Nasir-i Khusraw, who found about 20,000 men in the city in 1047 (record nasir-i-khusraw-1047-jerusalem)."
+      }
+    },
+    {
+      "id": "nasir-i-khusraw-1047-jerusalem",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1047,
+        "month": 3,
+        "precision": "month"
+      },
+      "date_note": "Nasir-i Khusraw arrived in Jerusalem on 5 Ramadan 438 AH (5 March 1047).",
+      "total": {
+        "low": 20000,
+        "high": null
+      },
+      "basis": "estimate-other",
+      "method": "A contemporary traveller's statement, not a count: 'there were in it twenty thousand men'.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "nasir-i-khusraw-le-strange-1888-diary",
+          "locator": "p. 24",
+          "quote": "Jerusalem is a very great city, and, at the time of my visit, there were in it twenty thousand men."
+        },
+        {
+          "ref": "nasir-i-khusraw-le-strange-1888-diary",
+          "locator": "p. 23",
+          "quote": "as many as twenty thousand people will be present at Jerusalem during the first days of the (pilgrimage) month",
+          "note": "Seasonal pilgrims, not residents; quoted to show that the two figures are separate statements."
+        }
+      ],
+      "notes": {
+        "en": "Primary-source figure (Persian traveller, Fatimid period). The text does not say whether 'men' means adult men or inhabitants in general, so it is recorded as a lower bound (at least 20,000 people). Benvenisti (1970) gives about 20,000 and Prawer up to 30,000 for the city just before 1099 (records benvenisti-1970-jerusalem-before-1099, prawer-1980-jerusalem-before-1099)."
+      }
+    },
+    {
+      "id": "hitti-1985-palestine-eve-of-crusades",
+      "area": "palestine-area-undefined",
+      "date": {
+        "year": 1095,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "'At the dawn of the crusades' (late 11th century).",
+      "total": null,
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "greek-orthodox",
+              "share_pct": {
+                "low": 50,
+                "high": 50,
+                "best": 50
+              },
+              "notes": "Source's words: 'the Greek Orthodox alone probably formed half the total population' (other Christians not counted)."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "Not stated; a general judgement in a survey chapter.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "hitti-1985-impact-crusades-moslem-lands",
+          "locator": "p. 50",
+          "quote": "In Palestine the Greek Orthodox alone probably formed half the total population."
+        },
+        {
+          "ref": "hitti-1985-impact-crusades-moslem-lands",
+          "locator": "p. 49",
+          "quote": "in Syria-Lebanon-Palestine the Christian minorities in total must have amounted to a majority at the dawn of the crusades, though not a united one."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "ch. 3.5, p. 26",
+          "quote": "the majority may have remained Christian until about the 9th century... Since then, until the 20th century, the majority was Moslem",
+          "note": "Opposing view: Muslim majority from about the 9th century."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 18",
+          "quote": "it may be conjectured that the proportion of Moslems among the local population reached 75-80 per cent.",
+          "note": "Opposing view for the 12th century (local, non-Frankish population)."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 43",
+          "quote": "كان سكان فلسطين النصارى عشية احتلال الفرنجة للبلاد اقلية صغيرة الا أنهم كانوا منتشرين في غالبية مناطق فلسطين",
+          "note": "Opposing view. Translation: 'on the eve of the Frankish occupation the Christian inhabitants of Palestine were a small minority, but they were spread over most parts of Palestine'."
+        }
+      ],
+      "notes": {
+        "en": "Contested. Hitti (Lebanese-born, Princeton) holds that Christians were still a majority in Syria, Lebanon and Palestine when the crusades began, with the Greek Orthodox alone about half of the population of Palestine. Bachi (Israeli demographer) suggests a Muslim majority from about the 9th century; Benvenisti (Israeli) conjectures 75-80% Muslims among the local population of the Crusader period; Arar (Palestinian), following Muhsin Yusuf (Birzeit), says most Christians had converted before the Crusades and were a small minority on their eve. No total is given, so confidence is set to \"unknown\" (the total is unknown); the share itself is disputed."
+      }
+    },
+    {
+      "id": "arar-2004-jews-c1163",
+      "area": "palestine-area-undefined",
+      "date": {
+        "year": 1163,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "Arar dates Benjamin of Tudela's visit to 559 AH / 1163; Adler dates the whole journey between 1166 and 1171.",
+      "total": null,
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "jews",
+              "count": {
+                "low": 1693,
+                "high": 8465
+              },
+              "notes": "1,693 is the sum of Benjamin of Tudela's community figures as listed by Arar; 8,465 is Arar's total if those figures count taxpayers (multiplied by five)."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-textual",
+      "method": "Sum of the Jewish numbers that Benjamin of Tudela gives for each town of the Crusader kingdom he visited (as listed by Arar: Ascalon 540, Acre 200, Latrun 300, Tiberias 50, Bethlehem 12, Alma 50, Bayt Jibrin 3, Caesarea 210, Jerusalem 200, Bayt Nuba 2, Ramla 3, Zir'in 1, Jish 20, Nablus 100, Lydda 1), then multiplied by five on the assumption that they were taxpayers.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 57",
+          "quote": "وبذلك يكون مجموع يهود فلسطين 1693 شخصا",
+          "note": "Translation: 'thus the total of the Jews of Palestine comes to 1,693 persons'."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 57",
+          "quote": "ويمكن أن يكون هؤلاء دافعي ضرائب وليس عددهم الإجمالي",
+          "note": "Translation: 'these may be taxpayers and not their total number'."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 57",
+          "quote": "ليصبح العدد الإجمالي للسكان اليهود في فلسطين حوالي 8465 شخص في تلك الفترة",
+          "note": "Translation: '...so that the total Jewish population of Palestine in that period becomes about 8,465 persons'."
+        }
+      ],
+      "notes": {
+        "en": "A Palestinian historian's reading of Benjamin of Tudela (Arar cites Thomas Wright's Early Travels in Palestine). Benjamin's figures are disputed in detail (e.g. Jerusalem: 200 or four; record benjamin-of-tudela-jerusalem-jews-c1170), and Arar appears to include the Samaritans he lists at Nablus. Arar states elsewhere (p. 65) that Jews never exceeded about 2% of the population before the Crusades and in the Ayyubid and Mamluk periods."
+      }
+    },
+    {
+      "id": "benjamin-of-tudela-jerusalem-jews-c1170",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1166,
+        "latest": 1171,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "Adler places Benjamin's journey between 1166 and 1171; Bachi dates the figure 1170.",
+      "total": null,
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "jews",
+              "count": {
+                "low": 4,
+                "high": 200
+              },
+              "notes": "Two manuscript readings, not a range: 'about 200' in Adler's text, 'four' in the Roman manuscript (followed by Bachi). Adler explains the Hebrew letters for 4 and 200 are easily confused."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "A Jewish traveller's report of the Jewish community he found (a count or estimate; manuscripts differ).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "benjamin-of-tudela-adler-1907-itinerary",
+          "locator": "p. 35",
+          "quote": "There are about 200 Jews who dwell under the Tower of David in one corner of the city"
+        },
+        {
+          "ref": "benjamin-of-tudela-adler-1907-itinerary",
+          "locator": "p. 35 n. 78",
+          "quote": "The reading of the Roman MS. that there were but four Jewish inhabitants at Jerusalem is in conformity with R. Pethachia"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A5, p. 373",
+          "note": "Table A5 (rendered page image): row '12th century (Crusaders' period)', Jewish column '4(1170)', source 'Prawer and others'."
+        },
+        {
+          "ref": "prawer-1985-minorities",
+          "locator": "p. 61",
+          "quote": "immediately after the conquest the crusaders promulgated a law barring Moslems and Jews from the holy city.",
+          "note": "Context for the small Jewish presence in Frankish Jerusalem."
+        }
+      ],
+      "notes": {
+        "en": "Primary-source figure for the Jewish community of Frankish Jerusalem. Benjamin also describes the city as full of 'Jacobites, Syrians, Greeks, Georgians and Franks'; Muslims and Jews had been barred from residing in the city after 1099. Adler notes that the 'four' reading agrees with Petahiah of Regensburg, who found one Jew there some years later."
+      }
+    },
+    {
+      "id": "russell-1985-jerusalem-c1200",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1200,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "'About A.D. 1200'; Russell also uses these city sizes for the cities held at the time of the First Crusade (p. 308).",
+      "total": {
+        "low": 10000,
+        "high": 10000,
+        "best": 10000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Area within the walls (80 hectares) multiplied by an assumed 125 persons per hectare.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "p. 305 and Table 2, p. 306",
+          "quote": "The estimated size of the ten largest cities, shown in table 2, is based on the area within their walls (at 125 people per hectare, except Tripoli)"
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "Table 2, p. 306",
+          "quote": "5 Jerusalem 80 10,000"
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A5, p. 373",
+          "note": "Table A5 (rendered page image) lists '1200 ... 10,000 ... J.C. Russell'."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26",
+          "quote": "the principal cities, namely Jerusalem, Acre and Tyre, in each of which some thirty thousand people dwelt.",
+          "note": "Alternative estimate for the Crusader period: about 30,000 (record benvenisti-1970-jerusalem-crusader)."
+        }
+      ],
+      "notes": {
+        "en": "Russell (American historical demographer) takes the figure from his Mediaeval Regions and Their Cities (1972, pp. 201-205). It is a third of the 30,000 that Benvenisti, Prawer and Boas give for Crusader Jerusalem; the difference comes mostly from the assumed density: 125 persons per hectare (Russell) against 42 persons per dunam, i.e. 420 per hectare (Benvenisti)."
+      }
+    },
+    {
+      "id": "russell-1985-acre-c1200",
+      "area": "acre-city",
+      "date": {
+        "year": 1200,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "'About A.D. 1200'.",
+      "total": {
+        "low": 5625,
+        "high": 5625,
+        "best": 5625
+      },
+      "basis": "estimate-archaeological",
+      "method": "Area within the walls (45 hectares) multiplied by an assumed 125 persons per hectare.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "Table 2, p. 306",
+          "quote": "10 Acre 45 5,625"
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "p. 305",
+          "quote": "The estimated size of the ten largest cities, shown in table 2, is based on the area within their walls (at 125 people per hectare, except Tripoli)"
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26",
+          "quote": "the principal cities, namely Jerusalem, Acre and Tyre, in each of which some thirty thousand people dwelt.",
+          "note": "Alternative estimate: about 30,000 (record benvenisti-1970-acre-crusader)."
+        }
+      ],
+      "notes": {
+        "en": "Russell adds that Hebron 'was about the size of Acre'. Benvenisti's much higher figure rests on a built-up area of 600 dunams including the Montmusard quarter and a density of 50 persons per dunam (record benvenisti-1970-acre-crusader)."
+      }
+    },
+    {
+      "id": "benvenisti-1970-acre-crusader",
+      "area": "acre-city",
+      "date": {
+        "year": 1104,
+        "latest": 1291,
+        "circa": true,
+        "precision": "century"
+      },
+      "date_note": "Crusader period (Frankish Acre 1104-1187 and 1191-1291). Benvenisti does not date the figure; he notes that 'Acre's period of prosperity ... came when Jerusalem lay deserted and in ruins', i.e. in the 13th century.",
+      "total": {
+        "low": 30000,
+        "high": 30000,
+        "best": 30000
+      },
+      "basis": "estimate-archaeological",
+      "method": "Built-up area including the Montmusard quarter (c. 600 dunams) and a density of 50 persons per dunam.",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26",
+          "quote": "the principal cities, namely Jerusalem, Acre and Tyre, in each of which some thirty thousand people dwelt."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 26",
+          "quote": "Acre's population density, therefore, was greater than that of Jerusalem, being 50 per dunam."
+        },
+        {
+          "ref": "benvenisti-1970-crusaders-holy-land",
+          "locator": "p. 27",
+          "quote": "Acre's period of prosperity, for instance, came when Jerusalem lay deserted and in ruins."
+        },
+        {
+          "ref": "russell-1985-population-crusader-states",
+          "locator": "Table 2, p. 306",
+          "quote": "10 Acre 45 5,625",
+          "note": "Alternative estimate about 1200: 5,625 (record russell-1985-acre-c1200)."
+        }
+      ],
+      "notes": {
+        "en": "Benvenisti's table of town populations (p. 26) also lists 200 'Jews and Samaritans' in Acre (Benjamin of Tudela's figure). He calls the figures for Jerusalem, Acre and Tyre the only ones that can be relied upon to a certain extent."
+      }
+    },
+    {
+      "id": "nahmanides-1267-jerusalem",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1267,
+        "precision": "year"
+      },
+      "date_note": "Letter written in Jerusalem after Nahmanides arrived on 9 Elul 5027 (late summer 1267).",
+      "total": {
+        "low": 2000,
+        "high": 2000,
+        "best": 2000
+      },
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "christians",
+              "count": {
+                "low": 300,
+                "high": 300,
+                "best": 300
+              },
+              "notes": "'About 300 Christians ... who escaped the sword of the Sultan'."
+            },
+            {
+              "group": "jews",
+              "count": {
+                "low": 2,
+                "high": 2,
+                "best": 2
+              },
+              "notes": "'There are no Jews' except 'two brothers, dyers by trade'."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "A contemporary visitor's statement in a letter to his son (not a count).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "schechter-1896-nachmanides",
+          "locator": "p. 108",
+          "quote": "It has about 2000 inhabitants, about 300 Christians live there who escaped the sword of the Sultan. There are no Jews."
+        },
+        {
+          "ref": "schechter-1896-nachmanides",
+          "locator": "p. 108",
+          "quote": "There are only two brothers, dyers by trade, who have to buy their ingredients from the government."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A5, p. 373",
+          "note": "Table A5 (rendered page image): row '1267': total 2,000; Jewish 2; Christian 300; source 'Nahmanides'."
+        },
+        {
+          "ref": "bachi-1977",
+          "locator": "ch. 3.3, p. 23 n. 3",
+          "quote": "During this period Jerusalem apparently reached its lowest population point (some 2,000; see Appendix 5A)."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 39",
+          "quote": "فقد وصل عدد سكان القدس في تلك الفترة الى 40000 نسمة، وهذا الرقم الكبير لم يصل اليه سكان القدس الا في بداية القرن العشرين",
+          "note": "Alternative estimate for the same years: 40,000 (record arar-2004-jerusalem-after-1260)."
+        }
+      ],
+      "notes": {
+        "en": "Primary-source figure (Rabbi Moses ben Nahman, who came from Aragon). In Schechter's translation the figure follows directly on the remark that Jerusalem is the most desolate part of the land; Bachi reads it as the population of the city and calls it the lowest point Jerusalem reached. Nahmanides links the absence of Jews to the arrival of the Mongols ('Tartars'). Contrast Arar's 40,000 for the years after 1260."
+      }
+    },
+    {
+      "id": "arar-2004-jerusalem-after-1260",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1260,
+        "circa": true,
+        "precision": "decade"
+      },
+      "date_note": "'In that period', after Sultan Baybars's visit to Jerusalem in 658 AH / 1260.",
+      "total": {
+        "low": 40000,
+        "high": 40000,
+        "best": 40000
+      },
+      "basis": "estimate-other",
+      "method": "Not stated in the thesis; Arar cites an essay by the Palestinian historian Nazmi al-Jubeh (al-Ju'ba, 1996).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "p. 39 (and n. 4, p. 68)",
+          "quote": "فقد وصل عدد سكان القدس في تلك الفترة الى 40000 نسمة، وهذا الرقم الكبير لم يصل اليه سكان القدس الا في بداية القرن العشرين",
+          "note": "Translation: 'the population of Jerusalem in that period reached 40,000, a large number that the population of Jerusalem did not reach again until the beginning of the twentieth century'."
+        },
+        {
+          "ref": "schechter-1896-nachmanides",
+          "locator": "p. 108",
+          "quote": "It has about 2000 inhabitants, about 300 Christians live there who escaped the sword of the Sultan. There are no Jews.",
+          "note": "Opposing contemporary testimony of 1267 (record nahmanides-1267-jerusalem)."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 4 (Memlükler Dönemi, by Cengiz Tomar)",
+          "quote": "Memlükler devrinde şehrin nüfusu hakkında kesin bilgi yoktur. Araştırmacılara göre şehrin nüfusu 10.000 civarındadır.",
+          "note": "Opposing view. Translation: 'There is no precise information on the city's population in the Mamluk period. According to researchers the city's population was about 10,000.'"
+        }
+      ],
+      "notes": {
+        "en": "A Palestinian historian's figure: Arar links growth to Mamluk patronage and to Muslim immigration from the east, North Africa and Andalusia after 1260. It is far above every other estimate for the period (Nahmanides 1267: about 2,000; Mamluk period generally: about 10,000)."
+      }
+    },
+    {
+      "id": "lutfi-1985-jerusalem-14th-century",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1301,
+        "latest": 1400,
+        "circa": true,
+        "precision": "century"
+      },
+      "date_note": "Fourteenth century.",
+      "total": {
+        "low": 20000,
+        "high": 20000,
+        "best": 20000
+      },
+      "basis": "estimate-other",
+      "method": "Based on the Mamluk-period documents found in the Haram al-Sharif and on the city's building activity (as summarised by TDV).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "lutfi-1985-al-quds-al-mamlukiyya",
+          "locator": "p. 225",
+          "via": "tdv-kudus",
+          "note": "Seen only as reported by the TDV İslâm Ansiklopedisi (entry KUDÜS, Mamluk section)."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 4 (Memlükler Dönemi, by Cengiz Tomar)",
+          "quote": "Hudâ Lutfî'ye göre ise XIV. yüzyılda nüfus 20.000 civarında olmalıdır",
+          "note": "Translation: 'according to Huda Lutfi, however, the population in the 14th century must have been about 20,000'."
+        },
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 4 (Memlükler Dönemi, by Cengiz Tomar)",
+          "quote": "Memlükler devrinde şehrin nüfusu hakkında kesin bilgi yoktur. Araştırmacılara göre şehrin nüfusu 10.000 civarındadır.",
+          "note": "Opposing view: about 10,000 (record tomar-2002-jerusalem-mamluk)."
+        }
+      ],
+      "notes": {
+        "en": "Huda Lutfi (Egyptian historian) based her study on the Mamluk-period documents preserved in the Haram al-Sharif. TDV adds that the population fell sharply in the 15th century because of economic troubles, revolts and famine."
+      }
+    },
+    {
+      "id": "tomar-2002-jerusalem-mamluk",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1260,
+        "latest": 1516,
+        "circa": true,
+        "precision": "century"
+      },
+      "date_note": "Mamluk period as a whole (1260-1516).",
+      "total": {
+        "low": 10000,
+        "high": 10000,
+        "best": 10000
+      },
+      "basis": "estimate-other",
+      "method": "A summary of 'researchers'' estimates in a reference work; no basis given.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "tdv-kudus",
+          "locator": "section 4 (Memlükler Dönemi, by Cengiz Tomar)",
+          "quote": "Memlükler devrinde şehrin nüfusu hakkında kesin bilgi yoktur. Araştırmacılara göre şehrin nüfusu 10.000 civarındadır.",
+          "note": "Translation: 'There is no precise information on the city's population in the Mamluk period. According to researchers the city's population was about 10,000.'"
+        }
+      ],
+      "notes": {
+        "en": "Turkish reference work (TDV İslâm Ansiklopedisi). The same paragraph reports Huda Lutfi's higher figure of about 20,000 for the 14th century (record lutfi-1985-jerusalem-14th-century) and says the city was mostly Muslim, followed by Christians and Jews."
+      }
+    },
+    {
+      "id": "arar-2004-mamluk-religious-shares",
+      "area": "palestine-area-undefined",
+      "date": {
+        "year": 1250,
+        "latest": 1516,
+        "circa": true,
+        "precision": "century"
+      },
+      "date_note": "Mamluk period (the thesis covers 1250-1516).",
+      "total": null,
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "muslims",
+              "share_pct": {
+                "low": 70,
+                "high": 80
+              }
+            },
+            {
+              "group": "christians",
+              "share_pct": {
+                "low": 20,
+                "high": 30
+              }
+            },
+            {
+              "group": "jews",
+              "share_pct": {
+                "low": null,
+                "high": 5
+              },
+              "notes": "'Less than 5%' (abstract and conclusion); 'did not exceed 2%' in the body of the thesis (p. 66)."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "Judgement from Mamluk-period narrative sources and from the early 16th-century Ottoman tax registers; the author stresses that exact shares cannot be fixed.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "Abstract, pp. VI-VII",
+          "quote": "The study found that the Muslims formed the great majority of the population. I estimate their percentage to be 70-80% of the total population, while the Christians made up 20-30%."
+        },
+        {
+          "ref": "arar-2004-population-palestine-mamluk",
+          "locator": "Abstract, p. VII",
+          "quote": "On the other hand the Jews made up less than 5% of the total population."
+        }
+      ],
+      "notes": {
+        "en": "A Palestinian historian's estimate (M.A. thesis, Birzeit University, 2004). He gives Christians as more than 10% of Jerusalem's population in the Mamluk period (p. 44). No total is given, so confidence is set to \"unknown\" (the total is unknown); the shares are the author's own judgement. Marked partial because the groups need not add up to 100% (Samaritans and others are not counted)."
+      }
+    },
+    {
+      "id": "bachi-1977-jerusalem-1483",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1483,
+        "circa": true,
+        "precision": "year"
+      },
+      "total": {
+        "low": 10000,
+        "high": 10000,
+        "best": 10000
+      },
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "christians",
+              "count": {
+                "low": 1000,
+                "high": 1000,
+                "best": 1000
+              }
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "Compiled by Bachi from 'Felix Fabri and others' (late 15th-century pilgrims' accounts).",
+      "confidence": "contested",
+      "sources": [
+        {
+          "ref": "bachi-1977",
+          "locator": "Table A5, p. 373",
+          "note": "Table A5 (rendered page image): row '1483': total 10,000; Jewish '100-150 families'; Christian 1,000; source 'Felix Fabri and others'."
+        },
+        {
+          "ref": "adler-1930-jewish-travellers",
+          "locator": "p. 189 (Meshullam of Volterra, July 1481)",
+          "quote": "there are ten thousand Moslem householders and about two hundred and fifty Jewish householders",
+          "note": "A much higher contemporary figure (households, not persons)."
+        },
+        {
+          "ref": "adler-1930-jewish-travellers",
+          "locator": "p. 234 (Obadiah of Bertinoro, 1488)",
+          "quote": "Its inhabitants, I am told, number about 4,000 families. As for Jews, about seventy families of the poorest class have remained",
+          "note": "Households, not persons."
+        }
+      ],
+      "notes": {
+        "en": "Bachi gives the Jewish population as '100-150 families' (not recorded as a count because it is in households). Contemporary Jewish travellers counted households: Meshullam of Volterra (1481) 10,000 Muslim and about 250 Jewish householders; Obadiah of Bertinoro (1488) about 4,000 families in all, about 70 of them Jewish. Felix Fabri (1483) gives more than 500 Jews and more than 1,000 Christians (record fabri-1483-jerusalem). These household figures are not converted into persons here."
+      }
+    },
+    {
+      "id": "fabri-1483-jerusalem",
+      "area": "jerusalem-city",
+      "date": {
+        "year": 1483,
+        "precision": "year"
+      },
+      "date_note": "Fabri's second pilgrimage (1483).",
+      "total": null,
+      "composition": [
+        {
+          "axis": "religion",
+          "partial": true,
+          "groups": [
+            {
+              "group": "jews",
+              "count": {
+                "low": 500,
+                "high": null
+              },
+              "notes": "'More than five hundred Jews'."
+            },
+            {
+              "group": "christians",
+              "count": {
+                "low": 1000,
+                "high": null
+              },
+              "notes": "'More than a thousand Christians, of every sect and country'."
+            }
+          ]
+        }
+      ],
+      "basis": "estimate-other",
+      "method": "A pilgrim's general statement (lower bounds), not a count.",
+      "confidence": "estimated",
+      "sources": [
+        {
+          "ref": "fabri-stewart-1893-wanderings-vol-2-1",
+          "locator": "p. 226",
+          "quote": "Indeed, there are more than five hundred Jews, and more than a thousand Christians, of every sect and country; but the fewest of all are they of the Latin rite."
+        }
+      ],
+      "notes": {
+        "en": "Primary-source figure (German Dominican pilgrim). Fabri gives no total and no number for Muslims; he notes that a great part of the city lay in ruins without inhabitants. Bachi uses Fabri and others for a total of about 10,000 (record bachi-1977-jerusalem-1483)."
       }
     }
   ]
