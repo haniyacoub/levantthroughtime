@@ -39,7 +39,7 @@
           },
           "sources": [
             {
-              "ref": "jps-2023-tanakh",
+              "ref": "sefaria-jps-tanakh",
               "locator": "Exodus 12:40; Deuteronomy 26:5-9; Joshua 11:23",
               "quote": "The length of time that the Israelites lived in Egypt was four hundred and thirty years;"
             },
@@ -335,7 +335,7 @@
           },
           "sources": [
             {
-              "ref": "jps-2023-tanakh",
+              "ref": "sefaria-jps-tanakh",
               "locator": "2 Samuel 8:1-6; 1 Kings 5:1-5; 2 Chronicles 9:26",
               "quote": "Solomon’s rule extended over all the kingdoms from the Euphrates to the land of the Philistines and the boundary of Egypt."
             }

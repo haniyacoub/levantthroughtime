@@ -162,7 +162,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "II Kings 15:29",
           "quote": "King Tiglath-pileser of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor—Gilead, Galilee, the entire region of Naphtali; and he deported the inhabitants to Assyria."
         },
@@ -244,7 +244,7 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "II Kings 17:6",
           "quote": "He deported the Israelites to Assyria and settled them in Halah, at the [River] Habor, at the River Gozan, and in the towns of Media."
         },
@@ -354,7 +354,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "II Kings 17:24",
           "quote": "The king of Assyria brought [people] from Babylon, Cuthah, Avva, Hamath, and Sepharvaim, and he settled them in the towns of Samaria in place of the Israelites"
         },
@@ -502,12 +502,12 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "II Kings 24:14",
           "quote": "He exiled all of Jerusalem: all the commanders and all the warriors—ten thousand exiles—as well as all the artisans and smiths"
         },
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "Jeremiah 52:28-30",
           "quote": "This is the number of those whom Nebuchadrezzar exiled in the seventh year: 3,023 Judeans. ... The total amounted to 4,600 persons."
         },
@@ -603,7 +603,7 @@
       "confidence": "estimated",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "Jeremiah 43:5-7",
           "quote": "Johanan son of Kareah and all the army officers took the entire remnant of Judah ... and they went to Egypt. ... They arrived at Tahpanhes"
         }
@@ -674,12 +674,12 @@
       "confidence": "contested",
       "sources": [
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "Ezra 1:1-3",
           "quote": "In the first year of King Cyrus of Persia ... May your God be with those of you among this people who wish to go up to Jerusalem"
         },
         {
-          "ref": "jps-2023-tanakh",
+          "ref": "sefaria-jps-tanakh",
           "locator": "Ezra 2:64-65; Nehemiah 7:66-67",
           "quote": "The sum of the entire community was 42,360, not counting their male and female servants, those being 7,337"
         },

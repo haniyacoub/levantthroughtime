@@ -703,3 +703,35 @@ Gaps:
 - Several key books could be read only through reviews: Faust, Killebrew, Masalha, Levtzion, Avni, Shahîd.
 - Records are not yet drafted for the Kurds, Turkmen, Ghawarna, Dom, Afro-Palestinians, Hurrians and the other biblical "peoples of Canaan".
 - About twenty peoples and links marked documented still rest on a single source.
+
+## 2026-10-20 — Milestone 9, round b: audit of the peoples data
+
+Every people and link in `peoples.json` (45 peoples, 86 links, 131 records) was re-checked against its own quoted sources. Each new quote (144) was checked by script against the text it comes from.
+
+**Result:** 108 confirmed (26 of them with a supporting quote added), 23 corrected, 21 clarified. All 16 items that rested on a single source now have an independent second source, so none had to be downgraded. Validator warnings fell from 73 to 57.
+
+**Corrections**
+- Seven references credited quotes to the wrong author. Encyclopedia.com prints several signed entries on one page: the quotes on the 1948 "consolidated community", on refugees "forcefully expelled ... while others fled out of fear", on al-Nakba and on the diaspora come from Muhammad Muslih's entry (updated by Philip Mattar), not Mary Hovsepian's. They now cite `muslih-2004-emmena-palestinians`. The importer was changed so that two signed entries on one page are no longer merged into one source.
+- Two quotes were cut short in a way that changed their meaning: Algerians expelled "to Syria" now reads "to Syria, Lebanon, Jordan, and the Gaza Strip"; Kafafi's conclusion no. 6 now has its subject.
+- The statistics-bureau quote on the diaspora did not say what the summary said. It was replaced with the bureau's own figures from the same page (8.82 million abroad; 5.56 million in the State of Palestine and 1.86 million in the 1948 territories). These three components add up to more than the bureau's stated world total of 15.49 million. No figure is shown on the site.
+- Statements stronger than their sources were softened and attributed:
+  - The idea that Christians remained the majority for centuries is now credited to Luz, alongside Hovsepian's contrasting view.
+  - People at "Canaanite" sites were "usually" genetically similar, with Sidon and Ashkelon as exceptions.
+  - Saragossi "probably did his best to blend" the communities.
+  - The Ghassanids declined at "the end of the sixth century", not "after 580".
+- Dates corrected:
+  - Arameans: 1113 BCE, not 1112.
+  - The Karaites' move to Israel ends c. 1970, not 1962 (a second exodus from Egypt after 1967).
+  - The Samaritans on Delos start c. 250 BCE, not c. 200 BCE.
+- Neutrality: the Musta'arabim record and two of its links no longer label the group "indigenous" or "native" in the site's own words, and "native Jews" was removed from its other names. The sources' own words stay in the quotes.
+
+**Editor decisions** (flags raised by the audit)
+- There were two links between the Edomites and the Idumeans of different types ("continued as" and "contributed to"). They were merged into one "contributed to" link, which keeps all the sources: Levin shows that the Idumeans were a mixed population.
+- New link: the Iron Age Arabs (incl. Qedar) contributed to the Idumeans. It quotes Levin's finding that a large part of Idumea's population was of Arabian descent.
+- `jps-2023-tanakh` and `sefaria-jps-tanakh` were the same translation. All references now use `sefaria-jps-tanakh`.
+- Two references that had an empty quote, and were only seen through works already cited directly, were removed.
+- Strabo's description of Judaea's mixed population was removed from the link about the Hellenistic coastal cities. It is about the region in general; Josephus supports the link.
+- The symbolic map point for Iturean soldiers stays in Gaul, as its source says the inscriptions reach "as far away as Gaul".
+- 20 notes that still used internal research labels ("group P2", "in this pass", "the id expected") were rewritten for readers.
+
+Summaries and notes changed in English have lost their old Arabic and Hebrew drafts. They are re-translated in the same round.
