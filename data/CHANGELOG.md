@@ -424,3 +424,36 @@ Gaps:
 - The start of the junds (c. 638) is unresolved: al-Baladhuri, Le Strange and TDV differ.
 - Egypt's 1922 independence rests on Britannica alone.
 - No Arabic or Egyptian source was read for the All-Palestine Government.
+
+### Relations between states before 640 CE (round H1)
+
+All 35 relations before 640 CE that rested only on reference works now cite primary or scholarly sources: 231 quotes, 14 new works. Examples: Judah as a vassal of Assyria, Egypt and Babylon; Tyre and Sidon as tributaries; the Herodian client kingdoms; the Roman provinces.
+- **Assyrian royal inscriptions on Oracc:** Ashurnasirpal II, Shalmaneser III, Tiglath-pileser III, Sargon II, Sennacherib, Esarhaddon and Ashurbanipal.
+- **Babylonian chronicles:** ABC 1b, 3 and 5; the Cyrus Cylinder.
+- **Neo-Babylonian inscriptions:** the open-access *RINBE 1/1* (2024), whose court list names the kings of Tyre, Gaza, Sidon, Arwad and Ashdod as Nebuchadnezzar's subjects.
+- **Jordanian scholarship:** Kafafi's study of the Ammonites (*SHAJ* XV, 2025).
+- **Classical authors:** Josephus, Strabo, Pliny, Cassius Dio, Tacitus, Herodotus and Arrian.
+- **Older scholarship:** Schürer.
+
+For the Iron Age, each quote says whether it rests on the biblical text, a cuneiform inscription or chronicle, or archaeology. David's rule over Ammon, for example, is marked as resting on the biblical account alone.
+
+Corrections:
+- **Sidon under Assyria:**
+  - Tribute until Esarhaddon levelled the city in 677/676.
+  - A new relation records the Assyrian province that replaced it, centred on Kar-Esarhaddon, until about 630.
+  - The earliest recorded tribute from Tyre and Sidon (Ashurnasirpal II, c. 870 BCE) is given in the notes. The data format has no field for an "earliest" bound on a date.
+- **Now rated documented:** Ammon's and Moab's tribute to Assyria (their kings are named in the inscriptions from 734 to 667) and the Ituraean principality's client status under Rome.
+- **Agrippa II:** his relation to Rome now carries the same latest end date (100 CE) as the kingdom.
+- **Notes added:**
+  - The debate over whether Judaea was a full province or attached to Syria.
+  - The Decapolis lasting beyond 106.
+  - Nabataean dependence on Rome after 63 BCE.
+  - Schipper's view that Judah was already an Egyptian vassal under Josiah.
+  - Seti I's renewed claim on Tyre.
+  - Fleming's view of the Phoenician cities as Persian "allies rather than vassals".
+
+Gaps:
+- No source states 395 CE as the end of the Roman provinces of Arabia and Syria Palaestina; that date is the project's convention for the Roman–Byzantine change.
+- The exact date when Judaea was renamed Syria Palaestina was not found (the earliest evidence is a military diploma of 139 CE).
+- Sidon's status from about 594 to 539 BCE is undocumented in the sources read.
+- The Epigraphic Database Heidelberg, papyri.info and Encyclopaedia Iranica blocked automated access.

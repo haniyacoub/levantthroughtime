@@ -1210,7 +1210,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (2nd century CE) in a dated (1884) translation with commentary; read the Project Gutenberg text of books 1.1, 2.24-27, 3.22 and 7.28 with the translator's notes."
+        "note": "Primary source (2nd century CE) in a dated (1884) translation with commentary; read the Project Gutenberg text of books 1.1, 2.24-27, 3.22 and 7.28 with the translator's notes. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text (eBook #46976), book 2, ch. 24 (end of the siege of Tyre, 332 BCE)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -2190,7 +2190,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full database record (translation and commentary); the quoted phrase “Jewish national consciousness” is Barron quoting Smallwood. The commentary cites Smallwood 1997, Speller 2003 and Eck 1999 (JRS 89) for the punitive interpretation of the renaming."
+        "note": "Read the full database record (translation and commentary); the quoted phrase “Jewish national consciousness” is Barron quoting Smallwood. The commentary cites Smallwood 1997, Speller 2003 and Eck 1999 (JRS 89) for the punitive interpretation of the renaming. | Re-read in Milestone 8: Re-read in round H: the full database record (Latin edition, diplomatic text, translation and commentary of CIL XVI 87, dated 22 November 139 CE)."
       },
       "kind": "academic",
       "institution_country": "FR",
@@ -2696,7 +2696,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review (in French). Jacobson's book itself was not consulted."
+        "note": "Read the full review (in French). Jacobson's book itself was not consulted. | Re-read in Milestone 8: Re-read in round H: the full review (in French), incl. the passages on Judaea's provincial status (Jacobson p. 32) and the dating of Agrippa II's death to 94/95 CE. Jacobson's book itself was not consulted."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -2876,7 +2876,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary."
+        "note": "Read the full review. Myers's own book was not consulted; statements about it are the reviewer's summary. | Re-read in Milestone 8: Re-read in round H: the full review. Myers's book itself was not consulted."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9143,6 +9143,26 @@
       "isbn": "9781841270128"
     },
     {
+      "id": "cassius-dio-37-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book XXXVII",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. III (1914)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/37*.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (early 3rd century CE). Downloaded LacusCurtius Book 37 and read chs. 15-17 (Pompey against Aretas and the capture of Jerusalem, 63 BCE)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "cassius-dio-48-cary",
       "type": "document",
       "authors": [
@@ -9156,7 +9176,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (early 3rd century CE). Downloaded and read 48.26 (Pacorus invades Syria and Palestine, 40 BCE) and 48.41 (Ventidius recovers Syria and Palestine, 39 BCE). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 48 and read chs. 26 and 41 (Parthian invasion of Palestine, 40-39 BCE)."
+        "note": "Primary source (early 3rd century CE). Downloaded and read 48.26 (Pacorus invades Syria and Palestine, 40 BCE) and 48.41 (Ventidius recovers Syria and Palestine, 39 BCE). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 48 and read chs. 26 and 41 (Parthian invasion of Palestine, 40-39 BCE). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Book 48, chs. 26 and 41 (Pacorus deposes Hyrcanus, 40 BCE; Ventidius recovers Syria and Palestine, 39 BCE) with the editor's note 13."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9176,7 +9196,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read 49.22 (Sosius takes Jerusalem; Antony gives the Jews to Herod and executes Antigonus; consulship of Claudius and Norbanus, 38 BCE in Dio's arrangement)."
+        "note": "Primary source. Downloaded and read 49.22 (Sosius takes Jerusalem; Antony gives the Jews to Herod and executes Antigonus; consulship of Claudius and Norbanus, 38 BCE in Dio's arrangement). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Book 49, the book's contents list, chs. 19-22 (Ventidius defeats Pacorus, 38 BCE; Sosius takes Jerusalem and Antony gives it to Herod, 37 BCE) and ch. 32 (Lysanias executed)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9204,6 +9224,26 @@
       "institution_country": "US"
     },
     {
+      "id": "cassius-dio-54-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book LIV",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VI (1917)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/54*.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source. Downloaded LacusCurtius Book 54 and read ch. 9 (Augustus' eastern settlement, 20 BCE: the tetrarchy of Zenodorus given to Herod)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "cassius-dio-55-cary",
       "type": "document",
       "authors": [
@@ -9217,7 +9257,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read 55.25-27 (the year of the consuls Aemilius Lepidus and L. Arruntius, 6 CE, ending with the banishment of 'Herod of Palestine', i.e. Archelaus, per the translator's note). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 55 and read ch. 27 (banishment of \"Herod of Palestine\", i.e. Archelaus, with the translator's note 34)."
+        "note": "Primary source. Downloaded and read 55.25-27 (the year of the consuls Aemilius Lepidus and L. Arruntius, 6 CE, ending with the banishment of 'Herod of Palestine', i.e. Archelaus, per the translator's note). | Re-read in Milestone 8: Re-downloaded LacusCurtius Book 55 and read ch. 27 (banishment of \"Herod of Palestine\", i.e. Archelaus, with the translator's note 34). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Book 55, ch. 27 (6 CE: banishment of \"Herod of Palestine\", i.e. Archelaus)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -9237,11 +9277,31 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read 59.8 and 59.12 (Gaius gives Agrippa his grandfather's domain and grants Sohaemus 'the land of the Ituraean Arabians', 37-38 CE)."
+        "note": "Primary source. Downloaded and read 59.8 and 59.12 (Gaius gives Agrippa his grandfather's domain and grants Sohaemus 'the land of the Ituraean Arabians', 37-38 CE). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Book 59, ch. 8 (Agrippa freed and given his grandfather's domain, 37 CE) and ch. 12 (Sohaemus given the land of the Ituraean Arabians, 38 CE)."
       },
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-19"
+    },
+    {
+      "id": "cassius-dio-60-cary",
+      "type": "document",
+      "authors": [
+        "Cassius Dio",
+        "Cary, Earnest (translator)"
+      ],
+      "title": "Roman History, Book LX",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VII (1924)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/60*.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source. Downloaded LacusCurtius Book 60 and read ch. 8 (Claudius' grants of 41 CE, incl. the enlargement of Agrippa I's domain)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
     },
     {
       "id": "cassius-dio-69-cary",
@@ -9278,7 +9338,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (early 3rd century CE); read 68.32 (Jewish revolts under Trajan) and 69.12-14 (revolt under Hadrian)."
+        "note": "Primary source (early 3rd century CE); read 68.32 (Jewish revolts under Trajan) and 69.12-14 (revolt under Hadrian). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Book 68, ch. 14 (Palma subdues Arabia around Petra, 106 CE; page https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68*.html) and Book 69, chs. 12-14 (Aelia Capitolina and the revolt under Hadrian)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -11554,7 +11614,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132."
+        "note": "Open-access PDF (CC BY-NC-SA) read; pp. 37-38 (Iron I hill-country estimate) and pp. 109-110 (8th-century Israel). | Re-read in Milestone 8: Re-downloaded the open-access PDF from the UCA repository (https://repositorio.uca.edu.ar/bitstream/123456789/8018/1/forgotten-kingdom-archaeology.pdf) and read pp. 4, 8-9, 78, 84, 107, 129-132. | Re-read in Milestone 8: Re-read in round H: the open-access PDF from the UCA repository, Introduction p. 9 (the \"great united monarchy\" as a literary construct) and p. 56 (casemate sites in Ammon and Moab)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -11640,7 +11700,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded the Internet Archive OCR text (public domain) and read chs. I-II (origins, Amarna period, Hiram) and V (Babylonian siege). Dated scholarship (1915): its absolute dates for the Bronze Age follow the chronology of its time."
+        "note": "Downloaded the Internet Archive OCR text (public domain) and read chs. I-II (origins, Amarna period, Hiram) and V (Babylonian siege). Dated scholarship (1915): its absolute dates for the Bronze Age follow the chronology of its time. | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text: ch. I (pp. 9-13, Abi-Milki and the Amarna letters, the post-Amarna period and Seti I), ch. IV (pp. 26-28, Ashurnasirpal and Assyrian tribute) and ch. VI (pp. 47-49, Tyre under the Persians). Dated scholarship (1915) with the chronology of its time."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -13128,7 +13188,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text."
+        "note": "Primary source (5th century BCE) in Macaulay's 1890 translation; read book 2, ch. 159 (Necho at Magdolos) and book 3, chs. 10-14 (Cambyses' conquest of Egypt) in the Project Gutenberg text. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text of vol. 1 (eBook #2707), book 2 ch. 157 (Psammetichus at Azotos/Ashdod) and book 3 chs. 19 and 91 (Phoenicians and Persia; the fifth tribute district)."
       },
       "kind": "academic",
       "institution_country": "GB"
@@ -14830,7 +14890,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13."
+        "note": "Primary source (1st century CE) in William Whiston's 1737 translation; read books 12.7, 12.10-11, 13.9-10, 13.13-14, 14.4, 14.13, 14.16 online. Dates in Josephus are given in Macedonian/Jewish months, Olympiads and consulships. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2848; Perseus was unavailable): books 10.9.7, 14.1-4 and 17.13. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2848): Antiquities 13.6.7; 14.2.3, 14.3.2, 14.4.4-5, 14.5.1, 14.13.3, 14.14.3-5, 14.16.4; 15.6.6-7, 15.7.3, 15.10.1-3; 17.10.9, 17.11.4, 17.13.2, 17.13.5; 18.1.1, 18.4.6, 18.6.10, 18.7.2; 19.5.1, 19.8.2, 19.9.1-2; 20.5.2, 20.7.1. The Gutenberg text prints footnote numbers inside sentences; quotes avoid them."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -14850,7 +14910,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Primary source (1st century CE) in Whiston's translation; read books 2.5, 2.19, 3.7, 4.1, 6.8, 6.10, 7.8-9 online. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2850; Perseus was unavailable): Wars 2.14.4, 2.19.9 and 7.9.1."
+        "note": "Primary source (1st century CE) in Whiston's translation; read books 2.5, 2.19, 3.7, 4.1, 6.8, 6.10, 7.8-9 online. | Re-read in Milestone 8: Read the same Whiston translation in the Project Gutenberg text (https://www.gutenberg.org/ebooks/2850; Perseus was unavailable): Wars 2.14.4, 2.19.9 and 7.9.1. | Re-read in Milestone 8: Re-read in round H in the Project Gutenberg plain text of the same Whiston translation (eBook #2850): Jewish War 2.8.1, 2.11.6 and 7.6.1."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -15390,6 +15450,27 @@
       },
       "kind": "reference",
       "institution_country": "US"
+    },
+    {
+      "id": "kafafi-2025-origins-ammonites",
+      "type": "article",
+      "authors": [
+        "Kafafi, Zeidan A."
+      ],
+      "title": "The Origins of the Ammonites",
+      "container": "Studies in the History and Archaeology of Jordan XV",
+      "pages": "421-443",
+      "year": 2025,
+      "publisher": "Department of Antiquities of Jordan",
+      "url": "https://publication.doa.gov.jo/uploads/publications/224/Binder1-en-421-443.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the PDF from the Department of Antiquities of Jordan's publication archive (which lists it in SHAJ XV, 2025) and read pp. 421-426 (introduction, literary sources, biblical narratives), 436 (conclusions) and Table 3 (p. 438). Text extracted from the PDF; superscript ordinals rejoined in quotes. The author is a Jordanian archaeologist (Yarmouk University)."
+      },
+      "kind": "academic",
+      "institution_country": "JO"
     },
     {
       "id": "kagan-2015-dead-sea-bronze-iron",
@@ -15967,7 +16048,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Downloaded and searched the full plain text (https://www.gutenberg.org/cache/epub/124/pg124.txt). Years in 1 Maccabees are counted in the Seleucid era; conversions to BCE in the notes follow the conversions used by the Britannica articles cited alongside."
+        "note": "Downloaded and searched the full plain text (https://www.gutenberg.org/cache/epub/124/pg124.txt). Years in 1 Maccabees are counted in the Seleucid era; conversions to BCE in the notes follow the conversions used by the Britannica articles cited alongside. | Re-read in Milestone 8: Re-read in round H: Project Gutenberg text (eBook #124), 1 Maccabees 10:1-22 and 13:36-42."
       },
       "kind": "reference",
       "institution_country": "US"
@@ -16317,6 +16398,46 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "livius-abc1b",
+      "type": "document",
+      "authors": [
+        "Babylonian Chronicle (ABC 1)",
+        "Lendering, Jona (web editor)"
+      ],
+      "title": "ABC 1b (From Nabû-Nasir to Esarhaddon)",
+      "container": "Livius.org",
+      "publisher": "Livius.org",
+      "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-1b-from-nabu-nasir-to-esarhaddon/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source. Read the whole page: the translation is adapted from A. K. Grayson, Assyrian and Babylonian Chronicles (1975) and J.-J. Glassner, Mesopotamian Chronicles (2004), with the site editor's BCE conversions (col. iv 1'-6': Esarhaddon's third to fifth years, including the capture of Sidon)."
+      },
+      "kind": "reference",
+      "institution_country": "NL"
+    },
+    {
+      "id": "livius-abc3",
+      "type": "document",
+      "authors": [
+        "Babylonian Chronicle (ABC 3, Fall of Nineveh Chronicle)",
+        "Lendering, Jona (web editor)"
+      ],
+      "title": "ABC 3 (Fall of Nineveh Chronicle)",
+      "container": "Livius.org",
+      "publisher": "Livius.org",
+      "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source. Read the introduction and the translation (adapted from Grayson 1975 with readings from Glassner 1993, per the page), years 10-18 of Nabopolassar, incl. year 17 (609/608 BCE: Aššur-uballiṭ II and the Egyptian army at Harran)."
+      },
+      "kind": "reference",
+      "institution_country": "NL"
+    },
+    {
       "id": "livius-abc5",
       "type": "web",
       "authors": [
@@ -16330,7 +16451,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes."
+        "note": "Read the translation (adapted from Grayson 1975 and Glassner 2004) with editorial date notes. | Re-read in Milestone 8: Re-read in round H: the Livius translation of ABC 5, obverse 1-20 (605-604 BCE: Carchemish, tribute of Ḫatti, Ashkelon) and reverse 1'-25' (601-594 BCE, incl. the capture of Jerusalem in 597)."
       },
       "kind": "reference",
       "institution_country": "NL"
@@ -16389,7 +16510,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full translation (based on M. Cogan in The Context of Scripture II, adapted to Schaudig's edition), lines 1-36."
+        "note": "Read the full translation (based on M. Cogan in The Context of Scripture II, adapted to Schaudig's edition), lines 1-36. | Re-read in Milestone 8: Re-read in round H: the Livius translation, lines 18-36 (incl. lines 28-30 on the kings of the West bringing tribute to Cyrus in Babylon)."
       },
       "kind": "reference",
       "institution_country": "NL"
@@ -17837,7 +17958,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the online introduction pages on Ashurbanipal's military campaigns (parts 1-3), incl. the Egyptian campaigns and the installation of Psammetichus I."
+        "note": "Read the online introduction pages on Ashurbanipal's military campaigns (parts 1-3), incl. the Egyptian campaigns and the installation of Psammetichus I. | Re-read in Milestone 8: Re-read in round H: online RINAP 5/1 introduction, Military Campaigns part 2 (the Levant, Tyre and Arwad, with notes 99-111)."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -17857,7 +17978,29 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the online introduction pages: overview, \"Wars with Nabopolassar\" and \"Aššur-uballiṭ II and the End of the Assyrian Empire\"."
+        "note": "Read the online introduction pages: overview, \"Wars with Nabopolassar\" and \"Aššur-uballiṭ II and the End of the Assyrian Empire\". | Re-read in Milestone 8: Re-read in round H: online RINAP 5/3 introduction, overview page (loss of Egypt c. 653; fall of Nineveh 612) and the section 'Ashurbanipal's Death' (https://oracc.museum.upenn.edu/rinap/rinap5/RINAP53Introduction/DeathofAshurbanipal/index.html)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "novotny-weiershauser-2024-rinbe-1-1",
+      "type": "book",
+      "authors": [
+        "Novotny, Jamie",
+        "Weiershäuser, Frauke"
+      ],
+      "title": "The Royal Inscriptions of Nabopolassar (625–605 BC) and Nebuchadnezzar II (604–562 BC), Kings of Babylon, Part 1",
+      "container": "The Royal Inscriptions of the Neo-Babylonian Empire (RINBE) 1/1",
+      "publisher": "Eisenbrauns (Penn State University Press)",
+      "year": 2024,
+      "isbn": "978-1-64602-296-0",
+      "url": "https://epub.ub.uni-muenchen.de/118421/1/RINBE1-1_OA.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the open-access PDF from the LMU Munich institutional repository (Open Access LMU) and read the Introduction, pp. 10-13 (Nebuchadnezzar's campaigns in Ḫatti; Judah 609-587; Tyre and Sidon), and the translation of Nbk. 11 (the 'Hofkalender' prism) col. vii 13'-29', p. 116. Text extracted from the PDF; superscript ordinals rejoined in quotes."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -18443,6 +18586,26 @@
       "institution_country": "GB"
     },
     {
+      "id": "oracc-riao-ashurnasirpal-ii-1",
+      "type": "document",
+      "authors": [
+        "Ashurnasirpal II (Assyrian royal inscription)",
+        "Grayson, A. Kirk (ed.)"
+      ],
+      "title": "Ashurnasirpal II 001 (annals), English translation",
+      "container": "RIAo (Royal Inscriptions of Assyria online), Oracc",
+      "publisher": "Oracc / LMU Munich (MOCCI)",
+      "url": "https://oracc.museum.upenn.edu/riao/Q004455/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (9th century BCE), translation after Grayson (RIMA 2). Downloaded the Oracc page and read col. iii 84b-89 (march to Mount Lebanon and the Mediterranean; payment of Tyre, Sidon, Byblos, Arwad and other coastal cities). The passage itself carries no date; c. 870 BCE is the conventional date of the campaign (Fleming 1915 gives 876)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "oracc-riao-shalmaneser-iii-2",
       "type": "document",
       "authors": [
@@ -18497,7 +18660,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of lines 1''-27'' (Hazael of Damascus; payment of Jehu)."
+        "note": "Read the translation of lines 1''-27'' (Hazael of Damascus; payment of Jehu). | Re-read in Milestone 8: Re-read in round H: Oracc English translation (Q004613), lines 1''-27'' (eighteenth regnal year, 841 BCE: payment of Tyre, Sidon and Jehu)."
       },
       "kind": "academic",
       "institution_country": "DE"
@@ -18559,7 +18722,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of the tribute list (rev. 7'-12'). | Re-read in Milestone 8: Re-read the Oracc English translation (Q003460), rev. 7-12 (list of tributary kings of the West)."
+        "note": "Read the translation of the tribute list (rev. 7'-12'). | Re-read in Milestone 8: Re-read the Oracc English translation (Q003460), rev. 7-12 (list of tributary kings of the West). | Re-read in Milestone 8: Re-read in round H: Oracc English translation of Tiglath-pileser III 47 (Q003460), rev. 7'-12' (payment of the western kings, incl. Bīt-Ammon, Moab, Ashkelon, Judah, Edom and Gaza)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18580,7 +18743,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of col. ii 73-iii 49 (Ekron, Hezekiah of Judah). | Re-read in Milestone 8: Re-read the Oracc English translation of the prism (Q003496), cols. ii 37 - iii 49 (third campaign, 701 BCE)."
+        "note": "Read the translation of col. ii 73-iii 49 (Ekron, Hezekiah of Judah). | Re-read in Milestone 8: Re-read the Oracc English translation of the prism (Q003496), cols. ii 37 - iii 49 (third campaign, 701 BCE). | Re-read in Milestone 8: Re-read in round H: Oracc English translation of the prism (Q003496), cols. ii 37 - iii 49 (third campaign, 701 BCE: Sidon, the kings of Amurru, Ashkelon, Ekron, Hezekiah)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -18600,10 +18763,54 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the translation of col. v 54-63 (list of western kings incl. Manasseh of Judah); written ca. 673/672 BCE. | Re-read in Milestone 8: Re-read the Oracc English translation of the Nineveh prism (Q003230), cols. ii 65 - iii 19 (Sidon) and v 54-63 (kings of Hatti and Across the River)."
+        "note": "Read the translation of col. v 54-63 (list of western kings incl. Manasseh of Judah); written ca. 673/672 BCE. | Re-read in Milestone 8: Re-read the Oracc English translation of the Nineveh prism (Q003230), cols. ii 65 - iii 19 (Sidon) and v 54-63 (kings of Hatti and Across the River). | Re-read in Milestone 8: Re-read in round H: Oracc English translation of the Nineveh prism (Q003230), cols. ii 65 - iii 19 (Sidon, Kār-Esarhaddon, Tyre) and v 54-73 (twenty-two kings of Ḫatti and Cyprus)."
       },
       "kind": "academic",
       "institution_country": "US"
+    },
+    {
+      "id": "oracc-rinap5-ashurbanipal-11",
+      "type": "document",
+      "authors": [
+        "Ashurbanipal (Assyrian royal inscription)",
+        "Novotny, Jamie (ed.)",
+        "Jeffers, Joshua (ed.)"
+      ],
+      "title": "Ashurbanipal 011 (Prism A), English translation",
+      "container": "RINAP 5/1 online (Oracc)",
+      "publisher": "Oracc / RINAP 5 Project (LMU Munich)",
+      "year": 2018,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap5/Q003710/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source. Downloaded the Oracc page and read the English translation of col. ii 49-67 (third campaign, against Baʾalu of Tyre) and col. vii 107-116 (Arab campaign in Edom, Ammon and Moab)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
+      "id": "oracc-rinap5-ashurbanipal-6",
+      "type": "document",
+      "authors": [
+        "Ashurbanipal (Assyrian royal inscription)",
+        "Novotny, Jamie (ed.)",
+        "Jeffers, Joshua (ed.)"
+      ],
+      "title": "Ashurbanipal 006 (Prism C), English translation",
+      "container": "RINAP 5/1 online (Oracc)",
+      "publisher": "Oracc / RINAP 5 Project (LMU Munich)",
+      "year": 2018,
+      "url": "https://oracc.museum.upenn.edu/rinap/rinap5/Q003705/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (Assyrian royal inscription, 7th century BCE) in the RINAP 5/1 edition. Downloaded the Oracc page and read the English translation of col. ii 18'-56' (first Egyptian campaign, 667 BCE: the twenty-two kings of the seacoast, Cyprus and dry land who brought gifts and sent troops)."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
     },
     {
       "id": "oren-2002-six-days-of-war",
@@ -20042,6 +20249,25 @@
       "isbn": "0060152656"
     },
     {
+      "id": "petrie-1898-syria-egypt-amarna",
+      "type": "book",
+      "authors": [
+        "Petrie, W. M. Flinders"
+      ],
+      "title": "Syria and Egypt from the Tell el Amarna Letters",
+      "publisher": "Methuen & Co.",
+      "year": 1898,
+      "url": "https://archive.org/details/syriaandegyptfr00petrgoog",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Public-domain book. Read the Internet Archive OCR text of a Google scan: ch. 'The North Syrian War', section 27 'Abimilki of Tyre in trouble', pp. 92-95 (Petrie's summaries of the letters of Abi-Milki of Tyre, not full translations). Dated scholarship (1898); its letter numbers follow Petrie's own sequence."
+      },
+      "kind": "academic",
+      "institution_country": "GB"
+    },
+    {
       "id": "pfeiffer-1949-new-testament-times",
       "type": "book",
       "authors": [
@@ -20204,6 +20430,28 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Fetched the JSON record (https://pleiades.stoa.org/places/<id>/json) of every place cited; locators give the place id, the name record id and the time periods used. Name records incorporate the Barrington Atlas of the Greek and Roman World and the TAVO (Tuebinger Atlas des Vorderen Orients) Index. Licence CC BY 3.0. Period ranges taken from the Pleiades time-period vocabulary page."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
+      "id": "pliny-natural-history-5-bostock-riley",
+      "type": "document",
+      "authors": [
+        "Pliny the Elder",
+        "Bostock, John (translator)",
+        "Riley, H. T. (translator)"
+      ],
+      "title": "The Natural History, Book V, ch. 16 (18): Decapolis",
+      "container": "Perseus Digital Library",
+      "publisher": "Tufts University (Perseus Digital Library); translation first published London: Taylor and Francis, 1855",
+      "year": 1855,
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=16",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (1st century CE) in a public-domain 19th-century translation. Downloaded the Perseus page and read Book 5, ch. 16 (18) on the Decapolis with the translators' notes. Quotes omit the footnote numbers printed after some place names."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -21167,7 +21415,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the English translations of Tiglath-pileser III 21 (Q003434), 42 (Q003455), 44 (Q003457) and 49 (Q003462) online."
+        "note": "Read the English translations of Tiglath-pileser III 21 (Q003434), 42 (Q003455), 44 (Q003457) and 49 (Q003462) online. | Re-read in Milestone 8: Re-read in round H: downloaded the Oracc English translations of Tiglath-pileser III 14 (Q003427, payment list of 738 BCE), 35 (Q003448, Iran stele, col. iii 1-23), 42 (Q003455, lines 1'-37') and 49 (Q003462, obv. and rev.)."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -21187,7 +21435,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online. | Re-read in Milestone 8: Re-read the Oracc English translation of Sargon II 007 (Great Display Inscription, Q006488), lines 90-109 (Ashdod)."
+        "note": "Read the English translations of Sargon II 001 (Q006482, Annals), 007 (Q006488, Great Display Inscription) and 074 (Q006555) online. | Re-read in Milestone 8: Re-read the Oracc English translation of Sargon II 007 (Great Display Inscription, Q006488), lines 90-109 (Ashdod). | Re-read in Milestone 8: Re-read in round H: Oracc English translations of Sargon II 7 (Great Display Inscription, Q006488), lines 23b-27 (Samaria, Gaza) and 90-109 (Ashdod), and Sargon II 1 (Annals, Q006482), lines 10-18 and 248-262."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -21571,6 +21819,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "schipper-2010-egypt-judah-josiah-jehoiakim",
+      "type": "article",
+      "authors": [
+        "Schipper, Bernd Ulrich"
+      ],
+      "title": "Egypt and the Kingdom of Judah under Josiah and Jehoiakim",
+      "container": "Tel Aviv 37 (2)",
+      "pages": "200-226",
+      "year": 2010,
+      "doi": "10.1179/033443510x12760074470865",
+      "url": "https://odb.bibelwissenschaft.de/literatur/werk.php?w=54",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Only the author's abstract was read, as reproduced in the literature database of 'Ortsangaben der Bibel' (Universities of Heidelberg and Trier; the url above). The article itself was not opened; bibliographic data and DOI checked via Crossref. Never the sole support of a fact here."
+      },
+      "kind": "academic",
+      "institution_country": "DE"
+    },
+    {
       "id": "scholch-1993",
       "type": "book",
       "authors": [
@@ -21604,7 +21873,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Searched and read the Internet Archive OCR text (Scribner issue, undated on the title page; translation of the 2nd German edition). Read § 2 (Seleucid era), the sketch of Seleucid history (pp. 169-185), §§ 4-7 and § 12. A 19th-century work: its chronology is dated (e.g. it puts the rededication of the Temple in December 165 BCE). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis01schuoft) and read § 3 on the Jerusalem Talmud (pp. 133-135), the sketch of Antiochus IV (p. 172) and § 4 (p. 199)."
+        "note": "Searched and read the Internet Archive OCR text (Scribner issue, undated on the title page; translation of the 2nd German edition). Read § 2 (Seleucid era), the sketch of Seleucid history (pp. 169-185), §§ 4-7 and § 12. A 19th-century work: its chronology is dated (e.g. it puts the rededication of the Temple in December 165 BCE). | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis01schuoft) and read § 3 on the Jerusalem Talmud (pp. 133-135), the sketch of Antiochus IV (p. 172) and § 4 (p. 199). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text: § 2 (pp. 39-40, Seleucid era and 1 Macc. 10:21), § 4 (p. 206), § 6 (p. 241, Jonathan high priest, autumn 153 BCE), § 12 (p. 323, Pompey's settlement) and the heading of § 15 (p. 400). Quotes keep the OCR text as downloaded."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -21624,7 +21893,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Searched and read the Internet Archive OCR text: § 17 (sons of Herod, procurators 6-41), Excursus I (census of Quirinius, pp. 105 ff.), §§ 18-19 (Agrippa I, procurators 44-66, Agrippa II), Appendix I (Chalcis, Iturea, Abilene) and Appendix II (Nabataean kings). Quotes keep the OCR text as downloaded (some OCR errors such as 'A-D.' for 'A.D.'). 19th-century scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis02schuoft) and read § 17 (c) on Archelaus, pp. 38-43, and § 20 (the war of 66-73), pp. 207-257."
+        "note": "Searched and read the Internet Archive OCR text: § 17 (sons of Herod, procurators 6-41), Excursus I (census of Quirinius, pp. 105 ff.), §§ 18-19 (Agrippa I, procurators 44-66, Agrippa II), Appendix I (Chalcis, Iturea, Abilene) and Appendix II (Nabataean kings). Quotes keep the OCR text as downloaded (some OCR errors such as 'A-D.' for 'A.D.'). 19th-century scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (s1historyofjewis02schuoft) and read § 17 (c) on Archelaus, pp. 38-43, and § 20 (the war of 66-73), pp. 207-257. | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text: § 17 (pp. 10, 36-38: Philip, the deposition of Antipas in 39 CE, Archelaus), § 18 heading (p. 150), § 19 Supplement on Agrippa II (pp. 191, 205), Appendix I (pp. 326-335 and 338: Ptolemy son of Mennaeus, Lysanias, Zenodorus, Soemus) and Appendix II (pp. 347, 353-354 and 361: Aretas III and Scaurus, Damascus and the Decapolis, the province of Arabia). Quotes keep OCR errors as downloaded (e.g. \"iu\" for \"in\")."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -21645,7 +21914,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174)."
+        "note": "Read the Internet Archive OCR text of § 23.I (the Hellenistic towns), pp. 94-96 on the Decapolis. 1910 printing of an 1885 translation; dated scholarship. | Re-read in Milestone 8: Re-downloaded the Internet Archive OCR text (p2historyofjewishp01schuoft) and read § 23.III on the Sanhedrin after 70 CE (pp. 173-174). | Re-read in Milestone 8: Re-read in round H in the Internet Archive OCR text (p2historyofjewishp01schuoft): § 22 (p. 18, Pompey and the Decapolis) and § 23.I (pp. 62, 94-95: the Pompeian era and the duration of the Decapolis). Note that p. 95 dates the province of Arabia to 105 CE, Div. I vol. 2 p. 361 to 106."
       },
       "kind": "academic",
       "institution_country": "GB",
@@ -21703,7 +21972,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10."
+        "note": "Read the cited verses through the Sefaria texts API (Ezra 1:1-4, 6:14-15; Haggai 1:1; Nehemiah 2:1, 2:10, 5:14; 1 Kings 2:11, 11:42, 14:21; 2 Kings 20:20, 22:8, 23:21-23, 25:8-9). | Re-read in Milestone 8: Read the cited verses through the Sefaria texts API (JPS 2023 translation): 1 Kgs 5:1-5, 5:15-16, 9:26, 11:14-25, 16:23-24; 2 Kgs 14:23-28, 15:1-7, 22:1-2, 23:29-35, 24:10-17, 25:1-10; 2 Chr 26:6; Jer 40:14, 52:4-12; Ezek 29:17-18; Neh 2:10. | Re-read in Milestone 8: Read in round H through the Sefaria texts API (JPS 2023 gender-sensitive translation): 2 Samuel 8:1-14, 10:1-19, 12:26-31; 2 Kings 15:19-20, 15:29-30, 16:5-9, 17:1-6, 18:7-16, 23:29-35, 24:1-7, 24:17-20; Jeremiah 27:1-8, 46:2, 47:1-5."
       },
       "kind": "religious-institution",
       "institution_country": "US"
@@ -22261,6 +22530,26 @@
       "institution_country": "DE"
     },
     {
+      "id": "strabo-geography-16-jones",
+      "type": "document",
+      "authors": [
+        "Strabo",
+        "Jones, Horace Leonard (translator)"
+      ],
+      "title": "Geography, Book XVI, chapters 2 and 4",
+      "container": "LacusCurtius (Bill Thayer), from the Loeb Classical Library edition, vol. VII (1932)",
+      "publisher": "University of Chicago (LacusCurtius site)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16B*.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Primary source (early 1st century CE); the site states the translation is in the public domain. Downloaded and read 16.2.10, 16.2.18-20 and 16.2.46 (page 16B: Chalcis and Ptolemy son of Mennaeus, Zenodorus, Herod and his sons) and 16.4.21-24 (page 16D, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16D*.html: the Nabataeans as subjects of Rome)."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "strickert-2023-zahir",
       "type": "web",
       "authors": [
@@ -22336,7 +22625,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source (early 2nd century CE). Downloaded and read 12.23 (page 12A: Ituraea and Judaea attached to Syria on the deaths of Sohaemus and Agrippa, year 49 CE) and 12.54 (page 12B, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/12B*.html: Felix and Ventidius Cumanus as simultaneous governors)."
+        "note": "Primary source (early 2nd century CE). Downloaded and read 12.23 (page 12A: Ituraea and Judaea attached to Syria on the deaths of Sohaemus and Agrippa, year 49 CE) and 12.54 (page 12B, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/12B*.html: Felix and Ventidius Cumanus as simultaneous governors). | Re-read in Milestone 8: Re-read in round H: LacusCurtius Annals 12A, ch. 23 (Ituraea and Judaea attached to Syria, 49 CE) with the translator's notes 39-41."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -22376,7 +22665,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Primary source. Downloaded and read chs. 1 (Titus sent to finish the Judaean war, 70 CE) and 9 (outline of Judaean history from Pompey to Felix). | Re-read in Milestone 8: Re-downloaded LacusCurtius Histories 5A and read ch. 1."
+        "note": "Primary source. Downloaded and read chs. 1 (Titus sent to finish the Judaean war, 70 CE) and 9 (outline of Judaean history from Pompey to Felix). | Re-read in Milestone 8: Re-downloaded LacusCurtius Histories 5A and read ch. 1. | Re-read in Milestone 8: Re-read in round H: LacusCurtius Histories 5A, ch. 9 (Judaean history from Pompey to Felix)."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -22398,7 +22687,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the online introduction pages (general introduction; Historical Overview: Tiglath-pileser III, with the chronological table of campaigns). Online version of the introduction to RINAP 1 (Eisenbrauns 2011)."
+        "note": "Read the online introduction pages (general introduction; Historical Overview: Tiglath-pileser III, with the chronological table of campaigns). Online version of the introduction to RINAP 1 (Eisenbrauns 2011). | Re-read in Milestone 8: Re-read in round H: the online RINAP 1 introduction pages 'Historical Overview: Tiglath-pileser III' (chronological table 745-727) and 'Historical Overview: Shalmaneser V' (https://oracc.museum.upenn.edu/rinap/rinap1/rinap1introduction/historicaloverviewshalmaneserv/index.html)."
       },
       "kind": "academic",
       "institution_country": "IL"

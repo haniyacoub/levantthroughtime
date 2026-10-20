@@ -730,12 +730,75 @@
               "ref": "britannica-philistine",
               "locator": "article",
               "quote": "By the early part of the 7th century, Gaza, Ashkelon, Ekron, Ashdod, and probably Gath were vassals of the Assyrian rulers"
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 42 (Q003455), lines 8'b-10' (Oracc translation)",
+              "quote": "(As for) Ḫanūnu of the city Gaza, [who] fle[d before] my weapons [and] escaped [to] Egypt",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 42 (Q003455), line 12'b (Oracc translation)",
+              "quote": "I returned him to his position.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Tiglath-pileser III, chronological table, year 734",
+              "quote": "Against the land Philistia. — Text no. 42 lines 8'–15'; Text no. 48 lines 14'–19' Campaign to Philistia and the Egyptian border."
+            },
+            {
+              "ref": "rinap2-sargon-ii",
+              "locator": "Sargon II 7 (Great Display Inscription, Q006488), lines 90-91 (Oracc translation)",
+              "quote": "Azūri, king of the city Ashdod, plotted (so as) to no longer (have to) deliver tribute (to me)",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. ii 65-67 (Oracc translation)",
+              "quote": "I set Šarru-lū-dāri, son of Rūkibtu, their former king, over the people of the city Ashkelon and imposed upon him the payment of tribute (and) gifts (in recognition) of my overlordship",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. iii 30-33 (Oracc translation)",
+              "quote": "I gave (them) to Mitinti, the king of the city Ashdod, Padî, the king of the city Ekron, and Ṣilli-Bēl, the king of the city Gaza",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. v 56-62 (Oracc translation)",
+              "quote": "Ṣil-Bēl, king of Gaza, Mitinti, king of Ashkelon, Ikausu, king of Ekron",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 30'-31' (Oracc translation)",
+              "quote": "Ṣil-Bēl, king of the land Gaza, Mitinti, king of the land Ashkelon, Ikausu, king of the land Ekron",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 48'-52' (Oracc translation)",
+              "quote": "[serva]nts who belonged to me, carried their substantial [audience] gift(s) [before me] and kissed my feet.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "novotny-rinap5-3-introduction",
+              "locator": "Introduction (overview page)",
+              "quote": "The loss of Egypt as a client a few years earlier (ca. 653) did not help."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "in the final decades of the 7th century BCE (ca. 630) the Egyptian pharaoh Psammetichus I filled the power vacuum created in the southern Levant by the departure of the Assyrians"
             }
           ],
           "notes": {
-            "en": "Ashkelon was subjected c. 735 and recaptured by Sennacherib in 701 (Britannica Ashkelon). Gaza was 'in Assyrian hands' by 732 (Britannica Mesopotamia). The end is approximate: Britannica says the cities became Egyptian vassals in the second half of the 7th century.",
-            "ar": "أُخضعت عسقلان نحو 735 واستعادها سنحاريب عام 701 (بريتانيكا، عسقلان). وكانت غزة \"in Assyrian hands\" [في أيدٍ آشورية] بحلول 732 (بريتانيكا، بلاد الرافدين). النهاية تقريبية: تقول بريتانيكا إن المدن صارت تابعة لمصر في النصف الثاني من القرن السابع.",
-            "he": "אשקלון הושפלה בערך ב-735 וסנחריב כבש אותה מחדש ב-701 (בריטניקה, אשקלון). עזה הייתה \"in Assyrian hands\" [בידיים אשוריות] עד 732 (בריטניקה, מסופוטמיה). הסיום משוער: בריטניקה אומרת שהערים הפכו לווסאליות של מצרים במחצית השנייה של המאה ה-7.",
+            "en": "Ashkelon was subjected c. 735 and recaptured by Sennacherib in 701 (Britannica Ashkelon). Gaza was 'in Assyrian hands' by 732 (Britannica Mesopotamia). The end is approximate: Britannica says the cities became Egyptian vassals in the second half of the 7th century. Contemporary Assyrian inscriptions (RINAP) name the kings of Gaza, Ashkelon, Ekron and Ashdod as tributaries from Tiglath-pileser III's campaign of 734 BCE to Ashurbanipal's first Egyptian campaign (667 BCE), when they are called his 'servants'. No source read dates the end of Assyrian control in Philistia: RINAP 5/3 dates the loss of Egypt as an Assyrian client to c. 653, and Schipper (2010, abstract) dates the Assyrian withdrawal from the southern Levant to c. 630. The c. 650 end remains an estimate.",
+            "ar": "أُخضعت عسقلان نحو 735 واستعادها سنحاريب عام 701 (بريتانيكا، عسقلان). وكانت غزة \"in Assyrian hands\" [في أيدٍ آشورية] بحلول 732 (بريتانيكا، بلاد الرافدين). النهاية تقريبية: تقول بريتانيكا إن المدن صارت تابعة لمصر في النصف الثاني من القرن السابع. تذكر النقوش الآشورية المعاصرة (RINAP) ملوك غزة وعسقلان وعقرون وأشدود دافعين للجزية منذ حملة تغلات فلاسر الثالث عام 734 ق.م. حتى أولى حملات آشوربانيبال على مصر (667 ق.م.)، حين يسمّيهم «خدمه». لا يؤرّخ أيٌّ من المصادر المقروءة نهاية السيطرة الآشورية على فلستيا: يؤرّخ مجلد RINAP 5/3 خسارة مصر بوصفها تابعة لآشور بنحو 653، ويؤرّخ شيبر (2010، الملخّص) انسحاب الآشوريين من جنوب المشرق بنحو 630. تبقى النهاية في نحو 650 تقديرًا.",
+            "he": "אשקלון הושפלה בערך ב-735 וסנחריב כבש אותה מחדש ב-701 (בריטניקה, אשקלון). עזה הייתה \"in Assyrian hands\" [בידיים אשוריות] עד 732 (בריטניקה, מסופוטמיה). הסיום משוער: בריטניקה אומרת שהערים הפכו לווסאליות של מצרים במחצית השנייה של המאה ה-7. כתובות אשוריות בנות הזמן (RINAP) מזכירות את מלכי עזה, אשקלון, עקרון ואשדוד כמעלי מס ממסע תגלת-פלאסר השלישי ב-734 לפנה\"ס ועד מסעו הראשון של אשורבניפל למצרים (667 לפנה\"ס), שבו הם מכונים \"עבדיו\". אף מקור שנקרא אינו מתארך את סוף השליטה האשורית בפלשת: RINAP 5/3 מתארך את אובדן מצרים כווסאלית לכ-653, ושיפר (2010, תקציר) מתארך את נסיגת אשור מדרום הלבנט לכ-630. הסיום בכ-650 נותר הערכה.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -766,12 +829,49 @@
               "ref": "britannica-ashdod",
               "locator": "article",
               "quote": "Psamtik I, pharaoh of Egypt 664–610 bce, besieged Ashdod for 29 years."
+            },
+            {
+              "ref": "herodotus-macaulay-1890",
+              "locator": "book 2, ch. 157",
+              "quote": "for thirty years save one he was sitting before Azotos, a great city of Syria, besieging it, until at last he took it"
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "Jeremiah 47:1",
+              "quote": "The word of GOD that came to the prophet Jeremiah concerning the Philistines, before Pharaoh conquered Gaza.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "Presumably, after the march to the Tigris in 616, he established with the help of his Greek mercenaries an Egyptian-controlled system of vassal-states"
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 10 n. 57 (reporting A. Fantalkin)",
+              "quote": "the conquest and destruction of Ashkelon so early in Nebuchadnezzar’s reign can be explained with his desire to eliminate the Egyptian garrison stationed in the city"
+            },
+            {
+              "ref": "livius-abc5",
+              "locator": "obv. 18 (604 BCE)",
+              "quote": "He marched to the city of Aškelon and captured it in the month of Kislîmu.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11 n. 66",
+              "quote": "did submit to Nebuchadnezzar, certainly by the year 598/597"
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Nbk. 11 (Hofkalender) col. vii 23'-25', p. 116",
+              "quote": "The king of Ty[re]; the king of Gaz[a];"
             }
           ],
           "notes": {
-            "en": "The precise start is not given; Herodotus' 29-year siege of Ashdod (via Britannica) is a classical tradition.",
-            "ar": "لا يُعطى تاريخ البداية بدقة؛ وحصار هيرودوت لأشدود 29 عامًا (عبر بريتانيكا) تقليد كلاسيكي.",
-            "he": "תחילתו המדויקת אינה ניתנת; המצור של הרודוטוס על אשדוד במשך 29 שנה (באמצעות בריטניקה) הוא מסורת קלאסית.",
+            "en": "The precise start is not given; Herodotus' 29-year siege of Ashdod (via Britannica) is a classical tradition. Evidence for the Egyptian phase is indirect: Herodotus' tradition that Psammetichus I besieged Ashdod for 29 years; Schipper's (2010, abstract) Egyptian-controlled system of vassal states after 616; and an Egyptian garrison at Ashkelon in 604 (Fantalkin, as reported in RINBE 1/1). The Babylonian Chronicle dates Nebuchadnezzar's capture of Ashkelon to Kislīmu 604, and his court list (Hofkalender) names kings of Gaza and Ashdod among his subjects.",
+            "ar": "لا يُعطى تاريخ البداية بدقة؛ وحصار هيرودوت لأشدود 29 عامًا (عبر بريتانيكا) تقليد كلاسيكي. الأدلة على المرحلة المصرية غير مباشرة: رواية هيرودوت أن بسماتيك الأول حاصر أشدود 29 عامًا؛ ونظام الدول التابعة الخاضع لمصر بعد 616 عند شيبر (2010، الملخّص)؛ وحامية مصرية في عسقلان عام 604 (فانتالكين، كما ينقل عنه مجلد RINBE 1/1). تؤرّخ الأخبار البابلية استيلاء نبوخذنصر على عسقلان في شهر كيسليمو 604، وتذكر قائمة بلاطه (Hofkalender) ملكَي غزة وأشدود بين رعاياه.",
+            "he": "תחילתו המדויקת אינה ניתנת; המצור של הרודוטוס על אשדוד במשך 29 שנה (באמצעות בריטניקה) הוא מסורת קלאסית. העדויות לשלב המצרי עקיפות: מסורת הרודוטוס שפסמטיך הראשון צר על אשדוד 29 שנה; מערכת מדינות וסאליות בשליטה מצרית אחרי 616 לפי שיפר (2010, תקציר); וחיל מצב מצרי באשקלון ב-604 (פנטלקין, כפי שמובא ב-RINBE 1/1). הכרוניקה הבבלית מתארכת את כיבוש אשקלון בידי נבוכדנאצר לכסלו 604, ורשימת החצר שלו (Hofkalender) מונה את מלכי עזה ואשדוד בין נתיניו.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -990,6 +1090,64 @@
               "ref": "britannica-israel-kingdom",
               "locator": "biblical account",
               "quote": "Hoshea reigns independently at Samaria before becoming subservient to Shalmaneser, the king of Assyria."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 14 (Q003427), line 10b (Oracc translation)",
+              "quote": "The payment of Kuštašpi of the city Kummuḫu, Raḫiānu (Rezin) of the land Damascus, Menahem of the city Samaria, [Hiram of the city] Tyre",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 35 (Iran stele, Q003448), col. iii 1-7 (Oracc translation)",
+              "quote": "Raqiānu (Rezin) of the land Damascus, (iii 5) Menahem of the land Samaria, Tu-Baʾil (Tu-Baʾlu) of the city Tyre",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 35 (Iran stele, Q003448), col. iii 20 (Oracc translation)",
+              "quote": "I imposed upon them tribute (and) payment of silver, gold, tin, iron",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Tiglath-pileser III, chronological table, year 738",
+              "quote": "tribute received from all vassal kings of the West, including Raḫiānu (Rezin) of Damascus and Menahem of Samaria."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 15:19",
+              "quote": "King Pul of Assyria invaded the land, and Menahem gave Pul a thousand talents of silver that he might support him and strengthen his hold on the kingdom.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 42 (Q003455), line 17'b (Oracc translation)",
+              "quote": "[I/they] killed Peqah, their king, and I placed Hoshea [as king o]ver them.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 17:3",
+              "quote": "King Shalmaneser marched against him, and Hoshea became his vassal and paid him tribute.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 17:4",
+              "quote": "he had not paid the tribute to the king of Assyria, as in previous years.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Shalmaneser V",
+              "quote": "records that he conquered or devastated Samaria"
+            },
+            {
+              "ref": "rinap2-sargon-ii",
+              "locator": "Sargon II 7 (Great Display Inscription, Q006488), lines 23b-25 (Oracc translation)",
+              "quote": "I surrounded (and) conquered the city Samaria.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
             }
           ],
           "notes": {
@@ -1111,12 +1269,64 @@
               "ref": "britannica-israel-kingdom",
               "locator": "ancient Middle East overview",
               "quote": "In the following centuries, until just before 630, the empire was greatly expanded."
+            },
+            {
+              "ref": "oracc-rinap1-tiglath-pileser-iii-47",
+              "locator": "rev. 10'-11' (Oracc translation; list of western kings whose payment was received)",
+              "quote": "Jehoahaz of the land Judah, Qauš-malaka of the land Edom",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 16:7",
+              "quote": "Ahaz sent messengers to King Tiglath-pileser of Assyria to say, “I am your servant and your son;",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. iii 35-36 (Oracc translation)",
+              "quote": "To the former tribute, their annual giving, I added the payment (of) gifts (in recognition) of my overlordship and imposed (it) upon them (text: “him”).",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 18:14",
+              "quote": "So the king of Assyria imposed upon King Hezekiah of Judah a payment of three hundred talents of silver and thirty talents of gold.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. v 54-63 (Oracc translation)",
+              "quote": "(v 54) I summoned the kings of Ḫatti and Across the River (Syria-Palestine): (v 55) Baʾalu, king of Tyre, Manasseh, king of Judah, Qaʾuš-gabri, king of Edom, Muṣurī, king of Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 25'-30' (Oracc translation)",
+              "quote": "In the course of my campaign, Baʾalu, king of the land Tyre, Manasseh, king of the land Judah, Qaʾuš-gabri, king of the land Edom, Muṣurī, king of the land Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 48'-52' (Oracc translation)",
+              "quote": "[serva]nts who belonged to me, carried their substantial [audience] gift(s) [before me] and kissed my feet.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11",
+              "quote": "In 609, Judah, which had been a decades-long Assyrian client, became a vassal of the Egyptian pharaoh Necho II"
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "in the final decades of the 7th century BCE (ca. 630) the Egyptian pharaoh Psammetichus I filled the power vacuum created in the southern Levant by the departure of the Assyrians"
             }
           ],
           "notes": {
-            "en": "Britannica's Palestine article puts Judah's first tribute in 738. The end is an estimate for the waning of Assyrian control in the west (Assyria expanded 'until just before 630'; Nineveh fell 612); no source consulted gives a date for Judah's release.",
-            "ar": "تضع مقالة بريتانيكا عن فلسطين أول جزية ليهودا عام 738. والنهاية تقدير لتراجع السيطرة الآشورية في الغرب (توسعت آشور \"until just before 630\" [حتى قبل 630 بقليل]؛ وسقطت نينوى 612)؛ ولا يعطي أي مصدر رُجع إليه تاريخًا لتحرر يهودا.",
-            "he": "המאמר של בריטניקה על פלשתינה ממקם את המס הראשון של יהודה ב-738. הסיום הוא הערכה לדעיכת השליטה האשורית במערב (אשור התרחבה \"until just before 630\" [עד זמן קצר לפני 630]; נינוה נפלה ב-612); אף מקור שנבדק אינו נותן תאריך לשחרור יהודה.",
+            "en": "Britannica's Palestine article puts Judah's first tribute in 738. The end is an estimate for the waning of Assyrian control in the west (Assyria expanded 'until just before 630'; Nineveh fell 612); no source consulted gives a date for Judah's release. Assyrian inscriptions list Judah's kings among the western tributaries or 'servants': Jehoahaz (Ahaz) under Tiglath-pileser III, Hezekiah after Sennacherib's campaign of 701, and Manasseh under Esarhaddon (673/672) and Ashurbanipal (667). Schipper (2010, abstract) dates the Assyrian withdrawal from the southern Levant to c. 630 BCE, which supports the estimated end, and RINBE 1/1 calls Judah 'a decades-long Assyrian client' before 609.",
+            "ar": "تضع مقالة بريتانيكا عن فلسطين أول جزية ليهودا عام 738. والنهاية تقدير لتراجع السيطرة الآشورية في الغرب (توسعت آشور \"until just before 630\" [حتى قبل 630 بقليل]؛ وسقطت نينوى 612)؛ ولا يعطي أي مصدر رُجع إليه تاريخًا لتحرر يهودا. تدرج النقوش الآشورية ملوك يهوذا بين دافعي الجزية أو «الخدم» في الغرب: يهوآحاز (آحاز) في عهد تغلات فلاسر الثالث، وحزقيا بعد حملة سنحاريب عام 701، ومنسّى في عهدي أسرحدون (673/672) وآشوربانيبال (667). يؤرّخ شيبر (2010، الملخّص) انسحاب الآشوريين من جنوب المشرق بنحو 630 ق.م.، وهو ما يدعم النهاية المقدّرة، ويصف مجلد RINBE 1/1 يهوذا بأنها كانت «تابعة لآشور لعقود» قبل 609.",
+            "he": "המאמר של בריטניקה על פלשתינה ממקם את המס הראשון של יהודה ב-738. הסיום הוא הערכה לדעיכת השליטה האשורית במערב (אשור התרחבה \"until just before 630\" [עד זמן קצר לפני 630]; נינוה נפלה ב-612); אף מקור שנבדק אינו נותן תאריך לשחרור יהודה. כתובות אשוריות מונות את מלכי יהודה בין מעלי המס או ה\"עבדים\" במערב: יהואחז (אחז) בימי תגלת-פלאסר השלישי, חזקיהו אחרי מסע סנחריב ב-701, ומנשה בימי אסרחדון (673/672) ואשורבניפל (667). שיפר (2010, תקציר) מתארך את נסיגת אשור מדרום הלבנט לכ-630 לפנה\"ס, מה שתומך בסיום המשוער, ו-RINBE 1/1 מכנה את יהודה \"וסאלית אשורית במשך עשרות שנים\" לפני 609.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1145,12 +1355,63 @@
               "ref": "britannica-megiddo",
               "locator": "history",
               "quote": "King Josiah of Judah also died there (609 bce) while opposing the advance of the Egyptian king Necho II toward Assyria."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 23:33",
+              "quote": "Pharaoh Neco imprisoned him in Riblah in the region of Hamath, to keep him from reigning in Jerusalem.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 23:34",
+              "quote": "Then Pharaoh Neco appointed Eliakim son of Josiah king in place of his father Josiah, changing his name to Jehoiakim.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "livius-abc3",
+              "locator": "year 17 of Nabopolassar (609/608 BCE)",
+              "quote": "In the month Du'ûzu Aššur-uballit, king of Assyria, with a large army from Egypt crossed the river Euphrates and marched against Harran to conquer it.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11",
+              "quote": "In 609, Judah, which had been a decades-long Assyrian client, became a vassal of the Egyptian pharaoh Necho II"
+            },
+            {
+              "ref": "livius-abc5",
+              "locator": "obv. 4 (605 BCE, Carchemish)",
+              "quote": "They fought with each other and the Egyptian army withdrew before him.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "Jeremiah 46:2",
+              "quote": "which was defeated by King Nebuchadrezzar of Babylon, in the fourth year of King Jehoiakim son of Josiah of Judah.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 24:7",
+              "quote": "The king of Egypt did not venture out of his country again, for the king of Babylon had seized all the land that had belonged to the king of Egypt",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "In the last years of the reign of Psammetichus I, the Kingdom of Judah under Josiah became part of this Egyptian ‘successor state’."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "The Egyptian interlude ends with the defeat of Necho II in the Battle of Carchemish in 605 BCE"
             }
           ],
           "notes": {
-            "en": "Britannica's Necho article dates the Syrian campaign to 608 and its Megiddo article dates Josiah's death to 609.",
-            "ar": "تؤرخ مقالة بريتانيكا عن نخاو الحملة السورية بعام 608، وتؤرخ مقالتها عن مجدو موت يوشيا بعام 609.",
-            "he": "המאמר של בריטניקה על נכו מתארך את המערכה הסורית ל-608, והמאמר שלה על מגידו מתארך את מות יאשיהו ל-609.",
+            "en": "Britannica's Necho article dates the Syrian campaign to 608 and its Megiddo article dates Josiah's death to 609. Schipper (2010; only the abstract was read) argues that Judah under Josiah had already become part of an Egyptian-controlled system of vassal states in the last years of Psammetichus I (before 610). The 609 start follows 2 Kings 23:33-35 and RINBE 1/1. Jeremiah 46:2 and the Babylonian Chronicle date Necho II's defeat at Carchemish to 605.",
+            "ar": "تؤرخ مقالة بريتانيكا عن نخاو الحملة السورية بعام 608، وتؤرخ مقالتها عن مجدو موت يوشيا بعام 609. يرى شيبر (2010؛ قُرئ الملخّص فقط) أن يهوذا في عهد يوشيا كانت قد صارت جزءًا من نظام دول تابعة تسيطر عليه مصر في السنوات الأخيرة من حكم بسماتيك الأول (قبل 610). يتبع تاريخ البدء 609 سفر الملوك الثاني 23: 33-35 ومجلد RINBE 1/1. ويؤرّخ سفر إرميا 46: 2 والأخبار البابلية هزيمة نخاو الثاني في كركميش بعام 605.",
+            "he": "המאמר של בריטניקה על נכו מתארך את המערכה הסורית ל-608, והמאמר שלה על מגידו מתארך את מות יאשיהו ל-609. שיפר (2010; נקרא התקציר בלבד) טוען שיהודה בימי יאשיהו כבר הייתה חלק ממערכת מדינות וסאליות בשליטה מצרית בשנותיו האחרונות של פסמטיך הראשון (לפני 610). ההתחלה ב-609 מבוססת על מלכים ב' כג 33-35 ועל RINBE 1/1. ירמיהו מו 2 והכרוניקה הבבלית מתארכים את תבוסת נכו השני בכרכמיש ל-605.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1181,6 +1442,45 @@
               "ref": "britannica-nebuchadnezzar-ii",
               "locator": "campaigns",
               "quote": "this reverse was followed by the defection of certain vassal states, Judah among them."
+            },
+            {
+              "ref": "livius-abc5",
+              "locator": "obv. 15-17 (604 BCE)",
+              "quote": "All the kings of the Hatti-land came before him and he received their heavy tribute.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 24:1",
+              "quote": "In his days, King Nebuchadnezzar of Babylon came up, and Jehoiakim became his vassal for three years. Then he turned and rebelled against him.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11",
+              "quote": "Some Levantine rulers, including Jehoiakim of Judah (despite the fact that he had been installed as king by Necho), affirmed allegiance to Nebuchadnezzar soon after he had ascended the throne (604)."
+            },
+            {
+              "ref": "livius-abc5",
+              "locator": "rev. 12'-13' (597 BCE)",
+              "quote": "He appointed there a king of his own choice",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 24:17",
+              "quote": "And the king of Babylon appointed Mattaniah, Jehoiachin’s uncle, king in his place, changing his name to Zedekiah.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11",
+              "quote": "Zedekiah and Judah were loyal to Babylon for about ten years, but, in 588, that changed"
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 12",
+              "quote": "it started in early 588 and lasted one and a half years, until the middle of 587"
             }
           ],
           "notes": {
@@ -1288,12 +1588,37 @@
             {
               "ref": "britannica-tyre",
               "locator": "history"
+            },
+            {
+              "ref": "petrie-1898-syria-egypt-amarna",
+              "locator": "p. 94, letter (184) (Abimilki of Tyre)",
+              "quote": "(184) ABIMILKI to the king. King set A. in Tsurri."
+            },
+            {
+              "ref": "petrie-1898-syria-egypt-amarna",
+              "locator": "p. 92, letter (178)",
+              "quote": "(178) ABIMILKI to the king. A. cannot leave his city to see the king because of Zimrida,"
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. I, p. 9",
+              "quote": "It is clear that all had been under Egyptian dominance."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. I, p. 13",
+              "quote": "refused submission and became independent. But in the reign of Seti I (1313-1292) Egypt showed again her power to conquer."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. I, p. 13",
+              "quote": "In the list of the conquests of the king, preserved upon a sphinx in his temple at Kurna, Tyre (D'ru) is among the cities named."
             }
           ],
           "notes": {
-            "en": "Attested in 14th-century Egyptian records; the full span of Egyptian control is not given.",
-            "ar": "موثق في سجلات مصرية من القرن الرابع عشر؛ ولا يُعطى المدى الكامل للسيطرة المصرية.",
-            "he": "מתועד ברישומים מצריים מהמאה ה-14; מלוא טווח השליטה המצרית אינו ניתן.",
+            "en": "Attested in 14th-century Egyptian records; the full span of Egyptian control is not given. The Amarna letters of Abi-Milki of Tyre, whom (in Petrie's summary) the pharaoh had installed, document Egyptian overlordship in the mid-14th century BCE. Fleming (1915; dated chronology) describes a period of independence after the Amarna age and a renewed Egyptian claim under Seti I, who lists Tyre among his conquests; Egyptian control may therefore have continued, with interruptions, into the 13th century. The end date is approximate.",
+            "ar": "موثق في سجلات مصرية من القرن الرابع عشر؛ ولا يُعطى المدى الكامل للسيطرة المصرية. توثّق رسائل العمارنة الصادرة عن أبي ملكي ملك صور، الذي نصّبه الفرعون (بحسب تلخيص بتري)، السيادة المصرية في منتصف القرن الرابع عشر ق.م. ويصف فليمنغ (1915؛ بتسلسل زمني قديم) فترة استقلال بعد عصر العمارنة ثم تجدّد المطالبة المصرية في عهد سيتي الأول الذي يذكر صور بين فتوحاته؛ لذا ربما استمرت السيطرة المصرية، مع انقطاعات، حتى القرن الثالث عشر. تاريخ النهاية تقريبي.",
+            "he": "מתועד ברישומים מצריים מהמאה ה-14; מלוא טווח השליטה המצרית אינו ניתן. מכתבי אל-עמארנה של אבימלכי מלך צור, שלפי סיכומו של פטרי הומלך בידי פרעה, מתעדים ריבונות מצרית באמצע המאה ה-14 לפנה\"ס. פלמינג (1915; כרונולוגיה מיושנת) מתאר תקופת עצמאות אחרי תקופת אל-עמארנה וחידוש התביעה המצרית בימי סתי הראשון, שמונה את צור בין כיבושיו; ייתכן אפוא שהשליטה המצרית נמשכה, בהפסקות, אל תוך המאה ה-13. תאריך הסיום משוער.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1324,12 +1649,68 @@
               "ref": "britannica-mesopotamia-neo-assyrian",
               "locator": "Esarhaddon",
               "quote": "He put down with great severity a rebellion of the combined forces of Sidon, Tyre, and other Syrian cities."
+            },
+            {
+              "ref": "oracc-riao-ashurnasirpal-ii-1",
+              "locator": "Ashurnasirpal II 001 (Q004455), col. iii 84b-88a (Oracc translation)",
+              "quote": "I received the payment of the kings of the sea coast, from the people of the lands Tyre, Sidon, Byblos",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. IV, p. 26",
+              "quote": "the Assyrian King, Asshurnazirpal, appeared on the heights of Lebanon overlooking the sea, and demanded the submission and tribute of the Phoenician cities."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. IV, p. 28",
+              "quote": "but for a century and a half the peaceful relationship continued."
+            },
+            {
+              "ref": "oracc-riao-shalmaneser-iii-8",
+              "locator": "lines 24''-26'' (Shalmaneser III's eighteenth regnal year, 841 BCE): 'At that time, I received ...'",
+              "quote": "the payment of the people of Tyre (and) Sidon, (as well as of) Jehu",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 35 (Iran stele, Q003448), col. iii 1-7 (Oracc translation)",
+              "quote": "Raqiānu (Rezin) of the land Damascus, (iii 5) Menahem of the land Samaria, Tu-Baʾil (Tu-Baʾlu) of the city Tyre",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 49 (Q003462), rev. 5-6 (Oracc translation)",
+              "quote": "[(As for) Hi]ram of the land Tyre, who conspired with Raḫiānu (Rezin) (against me)",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. iii 15b-19 (Oracc translation)",
+              "quote": "From among those cities of his I handed over the cities Maʾrubbu (and) Ṣarepta to Baʾalu, king of Tyre. I increased my lordly tribute beyond his earlier, annual giving and imposed (it) on him.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-11",
+              "locator": "Ashurbanipal 011 (Prism A, Q003710), col. ii 49-56 (Oracc translation)",
+              "quote": "On my third campaign, I marched against Baʾalu, the king of the land Tyre who resides in the middle of the sea.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "novotny-jeffers-rinap5-1-introduction",
+              "locator": "Introduction, Military Campaigns part 2 (Tyre)",
+              "quote": "Baʾalu, Tyre's ruler, eventually submitted."
+            },
+            {
+              "ref": "novotny-rinap5-3-introduction",
+              "locator": "Introduction, section \"Ashurbanipal's Death\"",
+              "quote": "Based on the available evidence, it appears that Ashurbanipal reigned until early 631, as evidenced from the latest Babylonian economic documents dated to his reign."
             }
           ],
           "notes": {
-            "en": "Bracketing dates are approximate ('much of the 8th and 7th centuries').",
-            "ar": "تواريخ التحديد تقريبية (\"much of the 8th and 7th centuries\" [معظم القرنين الثامن والسابع]).",
-            "he": "תאריכי התיחום משוערים (\"much of the 8th and 7th centuries\" [רוב המאות ה-8 וה-7]).",
+            "en": "Bracketing dates are approximate ('much of the 8th and 7th centuries'). Payments by Tyre are recorded under Ashurnasirpal II (c. 870 BCE; Fleming gives 876), Shalmaneser III (841) and regularly from Tiglath-pileser III (738). Esarhaddon increased Tyre's tribute after giving its king part of Sidon's territory (c. 677), and Ashurbanipal blockaded Baʾalu of Tyre until he submitted (c. 662). Ashurbanipal reigned until early 631 (RINAP 5/3); the c. 630 end remains an estimate.",
+            "ar": "تواريخ التحديد تقريبية (\"much of the 8th and 7th centuries\" [معظم القرنين الثامن والسابع]). سُجّلت مدفوعات من صور في عهد آشورناصربال الثاني (نحو 870 ق.م.؛ يذكر فليمنغ 876)، وشلمنصر الثالث (841)، وبانتظام منذ تغلات فلاسر الثالث (738). زاد أسرحدون جزية صور بعد أن منح ملكها جزءًا من أراضي صيدا (نحو 677)، وحاصر آشوربانيبال بعلَ ملك صور حتى خضع (نحو 662). حكم آشوربانيبال حتى مطلع 631 (RINAP 5/3)؛ وتبقى النهاية في نحو 630 تقديرًا.",
+            "he": "תאריכי התיחום משוערים (\"much of the 8th and 7th centuries\" [רוב המאות ה-8 וה-7]). תשלומים מצור מתועדים בימי אשורנצירפל השני (כ-870 לפנה\"ס; פלמינג נותן 876), שלמנאסר השלישי (841) ובאופן סדיר מימי תגלת-פלאסר השלישי (738). אסרחדון הגדיל את מס צור לאחר שנתן למלכה חלק משטח צידון (כ-677), ואשורבניפל הטיל מצור על בעל מלך צור עד שנכנע (כ-662). אשורבניפל מלך עד תחילת 631 (RINAP 5/3); הסיום בכ-630 נותר הערכה.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1359,8 +1740,42 @@
               "ref": "iranica-eber-nari",
               "locator": "entry",
               "quote": "The Phoenician cities of Tyre, Sidon, Byblos, and Aradus were vassal states ruled by hereditary local kings who struck their own silver coins"
+            },
+            {
+              "ref": "herodotus-macaulay-1890",
+              "locator": "book 3, ch. 19",
+              "quote": "because they had delivered themselves over to the Persians of their own accord"
+            },
+            {
+              "ref": "herodotus-macaulay-1890",
+              "locator": "book 3, ch. 91",
+              "quote": "in this division are the whole of Phenicia and Syria which is called Palestine and Cyprus: this is the fifth division."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. VI, p. 48",
+              "quote": "laid claim to all the domain that had formerly belonged to the Babylonians."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. VI, pp. 48-49",
+              "quote": "claimed the rank of allies rather than vassals, is clear from events in the reign of Cambyses."
+            },
+            {
+              "ref": "arrian-anabasis-chinnock-1884",
+              "locator": "book 2, ch. 24",
+              "quote": "Thus then was Tyre captured in the month Hecatombaion, when Anicetus was archon at Athens."
             }
-          ]
+          ],
+          "notes": {
+            "en": "Herodotus places Phoenicia, with 'Syria which is called Palestine' and Cyprus, in the fifth Persian tribute district and says the Phoenicians had submitted to Persia of their own accord. Fleming (1915) argues that the Phoenician cities claimed the rank of allies rather than vassals. Arrian dates Alexander's capture of Tyre to the month Hecatombaion in the archonship of Anicetus (332 BCE).",
+            "ar": "يضع هيرودوت فينيقيا، مع «سوريا التي تُسمّى فلسطين» وقبرص، في الإقليم الضريبي الفارسي الخامس، ويقول إن الفينيقيين خضعوا لفارس طوعًا. ويرى فليمنغ (1915) أن المدن الفينيقية ادّعت مرتبة الحلفاء لا التابعين. ويؤرّخ أريان استيلاء الإسكندر على صور بشهر هكاتومبايون في أرخونية أنيكيتوس (332 ق.م.).",
+            "he": "הרודוטוס מציב את פניקיה, יחד עם \"סוריה הנקראת פלשתינה\" וקפריסין, במחוז המס הפרסי החמישי ואומר שהפניקים נכנעו לפרס מרצונם. פלמינג (1915) טוען שהערים הפניקיות תבעו מעמד של בעלות ברית ולא של וסאליות. אריאנוס מתארך את כיבוש צור בידי אלכסנדר לחודש הקטומבאיון בארכונטות של אניקטוס (332 לפנה\"ס).",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -1409,6 +1824,24 @@
           "ref": "stern-yehud-vision-reality",
           "locator": "p. 12",
           "quote": "they were indeed subject to the king of Sidon, who was himself under the direct rule of the Persian governor residing at the palace located in his city."
+        },
+        {
+          "ref": "oracc-rinap4-esarhaddon-1",
+          "locator": "col. ii 80-82 (Oracc translation)",
+          "quote": "had (them) build a city in another place, and I named it Kār-Esarhaddon.",
+          "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+        },
+        {
+          "ref": "oracc-rinap4-esarhaddon-1",
+          "locator": "col. iii 10-14 (Oracc translation)",
+          "quote": "I restored (the city) to Assyrian territory. I reorganized that province, placed my official as a governor over them",
+          "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+        },
+        {
+          "ref": "livius-abc1b",
+          "locator": "col. iv 4' (Esarhaddon's fourth year, 677/676 BCE per the editor's note)",
+          "quote": "Sidon was captured and sacked.",
+          "note": "Basis: Babylonian chronicle (cuneiform)."
         }
       ],
       "notes": {
@@ -1430,9 +1863,9 @@
             "precision": "century"
           },
           "end": {
-            "year": -630,
-            "circa": true,
-            "precision": "decade"
+            "year": -677,
+            "precision": "year",
+            "latest": -676
           },
           "confidence": "estimated",
           "sources": [
@@ -1444,12 +1877,109 @@
             {
               "ref": "britannica-sidon",
               "locator": "article"
+            },
+            {
+              "ref": "oracc-riao-ashurnasirpal-ii-1",
+              "locator": "Ashurnasirpal II 001 (Q004455), col. iii 84b-88a (Oracc translation)",
+              "quote": "I received the payment of the kings of the sea coast, from the people of the lands Tyre, Sidon, Byblos",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-riao-shalmaneser-iii-8",
+              "locator": "lines 24''-26'' (Shalmaneser III's eighteenth regnal year, 841 BCE): 'At that time, I received ...'",
+              "quote": "the payment of the people of Tyre (and) Sidon, (as well as of) Jehu",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. ii 37-40 (Oracc translation)",
+              "quote": "Fear of my lordly brilliance overwhelmed Lulî, the king of the city Sidon",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. ii 47-49 (Oracc translation)",
+              "quote": "I placed Tu-Baʾlu on the royal throne over them and imposed upon him tribute (and) payment (in recognition) of my overlordship (to be delivered) yearly (and) without interruption.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. ii 65-68 (Oracc translation)",
+              "quote": "(As for) Abdi-Milkūti, king of Sidon, (who) did not fear my lordship (and) did not listen to the words of my lips, who trusted in the rolling sea and threw off the yoke of the god Aššur",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. ii 80-82 (Oracc translation)",
+              "quote": "had (them) build a city in another place, and I named it Kār-Esarhaddon.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. iii 10-14 (Oracc translation)",
+              "quote": "I restored (the city) to Assyrian territory. I reorganized that province, placed my official as a governor over them",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "livius-abc1b",
+              "locator": "col. iv 4' (Esarhaddon's fourth year, 677/676 BCE per the editor's note)",
+              "quote": "Sidon was captured and sacked.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
             }
           ],
           "notes": {
-            "en": "Bracketing dates approximate.",
-            "ar": "تواريخ التحديد تقريبية.",
-            "he": "תאריכי התיחום משוערים.",
+            "en": "Bracketing dates approximate. Sidon paid Ashurnasirpal II (c. 870 BCE) and Shalmaneser III (841). In 701 Sennacherib replaced its fugitive king Lulî with Tu-Baʾlu and imposed yearly tribute. After Abdi-Milkūti's revolt Esarhaddon levelled Sidon (677/676, Babylonian Chronicle), founded Kār-Esarhaddon and organised its territory as an Assyrian province under a governor, giving two of its towns to the king of Tyre.",
+            "ar": "تواريخ التحديد تقريبية. دفعت صيدا لآشورناصربال الثاني (نحو 870 ق.م.) ولشلمنصر الثالث (841). وفي 701 استبدل سنحاريب بملكها الهارب لولي توبعلَ وفرض جزية سنوية. وبعد ثورة عبدي ملكوتي دمّر أسرحدون صيدا (677/676، الأخبار البابلية)، وأسس كار أسرحدون ونظّم أراضيها ولايةً آشورية يحكمها حاكم، ومنح مدينتين منها لملك صور.",
+            "he": "תאריכי התיחום משוערים. צידון שילמה לאשורנצירפל השני (כ-870 לפנה\"ס) ולשלמנאסר השלישי (841). ב-701 החליף סנחריב את מלכה הנמלט לולי בתובעל והטיל מס שנתי. אחרי מרד עבדי-מלכותי החריב אסרחדון את צידון (677/676, הכרוניקה הבבלית), ייסד את כאר-אסרחדון וארגן את שטחה כפרובינציה אשורית בידי מושל, ונתן שתיים מעריה למלך צור.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
+        },
+        {
+          "type": "province",
+          "overlord": "neo-assyrian-empire",
+          "start": {
+            "year": -677,
+            "precision": "year",
+            "latest": -676
+          },
+          "end": {
+            "year": -630,
+            "circa": true,
+            "precision": "decade"
+          },
+          "confidence": "estimated",
+          "sources": [
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. ii 80-82 (Oracc translation)",
+              "quote": "had (them) build a city in another place, and I named it Kār-Esarhaddon.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. iii 10-14 (Oracc translation)",
+              "quote": "I restored (the city) to Assyrian territory. I reorganized that province, placed my official as a governor over them",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "livius-abc1b",
+              "locator": "col. iv 4' (Esarhaddon's fourth year, 677/676 BCE per the editor's note)",
+              "quote": "Sidon was captured and sacked.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "novotny-rinap5-3-introduction",
+              "locator": "Introduction, section \"Ashurbanipal's Death\"",
+              "quote": "Based on the available evidence, it appears that Ashurbanipal reigned until early 631, as evidenced from the latest Babylonian economic documents dated to his reign."
+            }
+          ],
+          "notes": {
+            "en": "Esarhaddon annexed Sidon's territory as a province with a new centre, Kār-Esarhaddon. The end is an estimate tied to the end of Ashurbanipal's reign (early 631) and the Assyrian withdrawal from the Levant; no source read dates it.",
+            "ar": "ضمّ أسرحدون أراضي صيدا ولايةً ذات مركز جديد هو كار أسرحدون. النهاية تقدير مرتبط بنهاية حكم آشوربانيبال (مطلع 631) وانسحاب الآشوريين من المشرق؛ ولا يؤرّخها أيٌّ من المصادر المقروءة.",
+            "he": "אסרחדון סיפח את שטח צידון כפרובינציה עם מרכז חדש, כאר-אסרחדון. הסיום הוא הערכה הקשורה לסוף שלטון אשורבניפל (תחילת 631) ולנסיגת אשור מהלבנט; אף מקור שנקרא אינו מתארך אותו.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1474,12 +2004,50 @@
               "ref": "britannica-sidon",
               "locator": "article",
               "quote": "it was ruled in turn by Assyria, Babylonia, Persia, Alexander the Great"
+            },
+            {
+              "ref": "livius-abc5",
+              "locator": "obv. 15-17 (604 BCE)",
+              "quote": "All the kings of the Hatti-land came before him and he received their heavy tribute.",
+              "note": "Basis: Babylonian chronicle (cuneiform)."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 11 n. 66",
+              "quote": "did submit to Nebuchadnezzar, certainly by the year 598/597"
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Nbk. 11 (Hofkalender) col. vii 24'-26', p. 116",
+              "quote": "the king of Sido[n]; the king of Arwa[d];"
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "Jeremiah 27:3",
+              "quote": "the king of Tyre, and the king of Sidon, by envoys who have come to King Zedekiah of Judah in Jerusalem;",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "novotny-weiershauser-2024-rinbe-1-1",
+              "locator": "Introduction, p. 12",
+              "quote": "Zedekiah formed an anti-Babylonian alliance that comprised the kingdoms of Ammon, Edom, and Moab, as well as the Phoenician city-states of Tyre and Sidon."
+            },
+            {
+              "ref": "fleming-1915-history-of-tyre",
+              "locator": "ch. VI, p. 48",
+              "quote": "laid claim to all the domain that had formerly belonged to the Babylonians."
+            },
+            {
+              "ref": "livius-cyrus-cylinder",
+              "locator": "lines 28-30",
+              "quote": "brought their heavy tribute before me and in Babylon they kissed my feet.",
+              "note": "Basis: contemporary cuneiform inscription."
             }
           ],
           "notes": {
-            "en": "Start of Babylonian control not dated in the source; 604 marks Nebuchadnezzar's first campaigns in the region.",
-            "ar": "لا يؤرخ المصدر بداية السيطرة البابلية؛ و604 يمثل أولى حملات نبوخذ نصر في المنطقة.",
-            "he": "המקור אינו מתארך את תחילת השליטה הבבלית; 604 מציין את מערכותיו הראשונות של נבוכדנאצר באזור.",
+            "en": "The start, 604, marks Nebuchadnezzar's first campaigns in the region; RINBE 1/1 (2024) states that the king of Sidon, who is listed in Nebuchadnezzar's court list (Hofkalender), submitted to Babylon 'certainly by the year 598/597, if not already in 604'. Sidon joined Zedekiah's anti-Babylonian coalition c. 594 (Jeremiah 27:3; RINBE 1/1); its status after that is not documented in the sources read.",
+            "ar": "البداية، 604، تشير إلى أولى حملات نبوخذنصر في المنطقة؛ ويذكر RINBE 1/1 (2024) أن ملك صيدا، المدرج في قائمة بلاط نبوخذنصر (Hofkalender)، خضع لبابل «بالتأكيد بحلول سنة 598/597، إن لم يكن منذ 604». وانضمت صيدا إلى تحالف صدقيا المناهض لبابل نحو 594 (إرميا 27:3؛ RINBE 1/1)؛ ووضعها بعد ذلك غير موثق في المصادر المقروءة.",
+            "he": "ההתחלה, 604, מציינת את מסעותיו הראשונים של נבוכדנאצר באזור; RINBE 1/1 (2024) קובע שמלך צידון, הרשום ברשימת החצר של נבוכדנאצר (Hofkalender), נכנע לבבל \"בוודאות עד שנת 598/597, אם לא כבר ב-604\". צידון הצטרפה לקואליציה האנטי-בבלית של צדקיהו בסביבות 594 (ירמיהו כז 3; RINBE 1/1); מעמדה לאחר מכן אינו מתועד במקורות שנקראו.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1594,6 +2162,57 @@
               "ref": "britannica-mesopotamia-neo-assyrian",
               "locator": "Tiglath-pileser III",
               "quote": "It was defeated, and all the princes from Damascus to eastern Anatolia were forced to pay tribute."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 14 (Q003427), line 10b (Oracc translation)",
+              "quote": "The payment of Kuštašpi of the city Kummuḫu, Raḫiānu (Rezin) of the land Damascus, Menahem of the city Samaria, [Hiram of the city] Tyre",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 35 (Iran stele, Q003448), col. iii 1-7 (Oracc translation)",
+              "quote": "Raqiānu (Rezin) of the land Damascus, (iii 5) Menahem of the land Samaria, Tu-Baʾil (Tu-Baʾlu) of the city Tyre",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 35 (Iran stele, Q003448), col. iii 20 (Oracc translation)",
+              "quote": "I imposed upon them tribute (and) payment of silver, gold, tin, iron",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Tiglath-pileser III, chronological table, year 738",
+              "quote": "tribute received from all vassal kings of the West, including Raḫiānu (Rezin) of Damascus and Menahem of Samaria."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 16:5",
+              "quote": "Then King Rezin of Aram and King Pekah son of Remaliah of Israel advanced on Jerusalem for battle.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Tiglath-pileser III, chronological table, year 733",
+              "quote": "Siege of Damascus."
+            },
+            {
+              "ref": "tadmor-yamada-rinap1-introduction",
+              "locator": "Historical Overview: Tiglath-pileser III, chronological table, year 732",
+              "quote": "Conquest and annexation of Damascus, Galilee, and Transjordan."
+            },
+            {
+              "ref": "rinap1-tiglath-pileser-iii",
+              "locator": "Tiglath-pileser III 49 (Q003462), rev. 3 (Oracc translation)",
+              "quote": "[I annexed] to Assyria the extensive [land of Bīt]-Ḫazā-il (Damascus) in its entirety",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Kings 16:9",
+              "quote": "the king of Assyria marched against Damascus and captured it.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
             }
           ]
         },
@@ -1710,12 +2329,54 @@
             {
               "ref": "britannica-jordan-history",
               "locator": "ancient history"
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Samuel 10:1",
+              "quote": "Sometime afterward, the king of Ammon died, and his son Hanun succeeded him as king.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Samuel 12:26",
+              "quote": "Joab attacked Rabbah of Ammon and captured the royal city.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Samuel 12:31",
+              "quote": "David did this to all the towns of Ammon.",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "sefaria-jps-tanakh",
+              "locator": "2 Samuel 8:12",
+              "quote": "from Edom, Moab, and Ammon; from the Philistines and the Amalekites",
+              "note": "Basis: biblical text (textual tradition), not independent evidence."
+            },
+            {
+              "ref": "finkelstein-2013-forgotten-kingdom",
+              "locator": "p. 9",
+              "quote": "the biblical idea of a great united monarchy is a literary construct",
+              "note": "Basis: archaeology and biblical criticism (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 425",
+              "quote": "No Ammonite inscribed materials nor written documents dated to earlier than the 9th century BC are available up to present.",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 423",
+              "quote": "our interpretations of the emergence of the Ammonites should rely more heavily on the archaeological record than on the few extra biblical references.",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
             }
           ],
           "notes": {
-            "en": "Textual tradition (biblical account of David).",
-            "ar": "تقليد نصي (السرد التوراتي عن داود).",
-            "he": "מסורת טקסטואלית (התיאור המקראי על דוד).",
+            "en": "Textual tradition (biblical account of David). The relation rests only on the biblical account (2 Samuel 8, 10 and 12). No extra-biblical or archaeological evidence for David's rule over Ammon was found: Kafafi (2025) notes that no Ammonite inscriptions or written documents earlier than the 9th century BCE are known, and Finkelstein (2013) regards the 'great united monarchy' as a literary construct of late-monarchic Judahite authors.",
+            "ar": "تقليد نصي (السرد التوراتي عن داود). تستند هذه العلاقة إلى الرواية التوراتية وحدها (صموئيل الثاني 8 و10 و12). لم يُعثر على أي دليل من خارج التوراة أو من علم الآثار على حكم داود لعمّون: يذكر كفافي (2025) أنه لا تُعرف نقوش أو وثائق عمونية مكتوبة أقدم من القرن التاسع ق.م.، ويرى فنكلشتاين (2013) أن «المملكة الموحّدة الكبرى» بناءٌ أدبي من صنع كتّاب يهوذيين من أواخر عهد الملكية.",
+            "he": "מסורת טקסטואלית (התיאור המקראי על דוד). הקשר נשען על התיאור המקראי בלבד (שמואל ב' ח, י, יב). לא נמצאה עדות חוץ-מקראית או ארכאולוגית לשלטון דוד בעמון: כפאפי (2025) מציין שלא ידועות כתובות או תעודות עמוניות כתובות מלפני המאה ה-9 לפנה\"ס, ופינקלשטיין (2013) רואה ב\"ממלכה המאוחדת הגדולה\" מבנה ספרותי של כותבים יהודאים בני סוף תקופת המלוכה.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1735,18 +2396,71 @@
             "circa": true,
             "precision": "decade"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "britannica-jordan-history",
               "locator": "ancient history",
               "quote": "the country was retaken in 734–733 by Tiglath-pileser III (reigned 745–727 bce), who then devastated Israel, sent its people into exile, and divided the country into provinces under Assyrian governors."
+            },
+            {
+              "ref": "oracc-rinap1-tiglath-pileser-iii-47",
+              "locator": "rev. 10' (Oracc translation)",
+              "quote": "Sanīpu of the land Bīt-Ammon, Salāmānu of the land Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. ii 50-58 (Oracc translation)",
+              "quote": "Būdi-il of the land Bīt-Ammon, Kammūsu-nadbi of the land Moab, Aya-rāmu of the land Edom, all of the kings of the land Amurru, they brought extensive gifts",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. v 61-62 (Oracc translation)",
+              "quote": "Būdi-il, king of Bīt-Ammon",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 36' (Oracc translation)",
+              "quote": "Ammi-nadbi, king of the land Bīt-Ammon",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 48'-52' (Oracc translation)",
+              "quote": "[serva]nts who belonged to me, carried their substantial [audience] gift(s) [before me] and kissed my feet.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 424",
+              "quote": "It seems that the Neo-Assyrian kings left the Ammonites, Moabites, and Edomites in peace till the year 728BC, during the reign of Tiglath-pileser III,",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 425",
+              "quote": "when they were obliged to pay tribute to this king.",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 438, Table 3 (Iron Age II A-B and C)",
+              "quote": "Independent political kingdoms (vassal states of Assyria)",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "in the final decades of the 7th century BCE (ca. 630) the Egyptian pharaoh Psammetichus I filled the power vacuum created in the southern Levant by the departure of the Assyrians"
             }
           ],
           "notes": {
-            "en": "Britannica's wording does not distinguish the annexed Israelite areas from the Transjordanian kingdoms. Ammon is recorded as tributary, not a province, and this needs verification against a specialised source.",
-            "ar": "لا تميز صياغة بريتانيكا بين المناطق الإسرائيلية المضمومة وممالك شرق الأردن. وتُسجَّل عمون رافدةً للجزية لا ولاية، ويحتاج ذلك إلى تحقق من مصدر متخصص.",
-            "he": "ניסוח בריטניקה אינו מבחין בין האזורים הישראליים שסופחו לממלכות עבר הירדן. עמון נרשמת כנותנת מס ולא כפרובינקיה, והדבר דורש אימות מול מקור מתמחה.",
+            "en": "Britannica's wording does not distinguish the annexed Israelite areas from the Transjordanian kingdoms. Ammon is recorded as tributary, not a province, and this needs verification against a specialised source. Ammon remained a kingdom paying tribute, not an Assyrian province: its kings Sanīpu (Tiglath-pileser III), Būdi-il (Sennacherib, 701; Esarhaddon, 673/672) and Ammi-nadbi (Ashurbanipal, 667) are listed among the western tributaries. Kafafi (2025) dates the first Ammonite tribute to the reign of Tiglath-pileser III and describes Ammon in Iron Age II as an independent kingdom and vassal of Assyria. Schipper (2010, abstract) dates the Assyrian withdrawal from the southern Levant to c. 630.",
+            "ar": "لا تميز صياغة بريتانيكا بين المناطق الإسرائيلية المضمومة وممالك شرق الأردن. وتُسجَّل عمون رافدةً للجزية لا ولاية، ويحتاج ذلك إلى تحقق من مصدر متخصص. بقيت عمّون مملكة تدفع الجزية لا ولاية آشورية: يُدرج ملوكها سانيبو (تغلات فلاسر الثالث) وبودي إيل (سنحاريب، 701؛ أسرحدون، 673/672) وعمي ندب (آشوربانيبال، 667) بين دافعي الجزية في الغرب. يؤرّخ كفافي (2025) أول جزية عمونية بعهد تغلات فلاسر الثالث ويصف عمّون في العصر الحديدي الثاني بأنها مملكة مستقلة تابعة لآشور. ويؤرّخ شيبر (2010، الملخّص) انسحاب الآشوريين من جنوب المشرق بنحو 630.",
+            "he": "ניסוח בריטניקה אינו מבחין בין האזורים הישראליים שסופחו לממלכות עבר הירדן. עמון נרשמת כנותנת מס ולא כפרובינקיה, והדבר דורש אימות מול מקור מתמחה. עמון נותרה ממלכה מעלת מס ולא פרובינציה אשורית: מלכיה שניפ (תגלת-פלאסר השלישי), בודאל (סנחריב, 701; אסרחדון, 673/672) ועמינדב (אשורבניפל, 667) נמנים בין מעלי המס במערב. כפאפי (2025) מתארך את המס העמוני הראשון לימי תגלת-פלאסר השלישי ומתאר את עמון בתקופת הברזל II כממלכה עצמאית וסאלית של אשור. שיפר (2010, תקציר) מתארך את נסיגת אשור מדרום הלבנט לכ-630.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -1887,17 +2601,70 @@
             "circa": true,
             "precision": "decade"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "britannica-jordan-history",
               "locator": "ancient history"
+            },
+            {
+              "ref": "oracc-rinap1-tiglath-pileser-iii-47",
+              "locator": "rev. 10' (Oracc translation)",
+              "quote": "Salāmānu of the land Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap3-sennacherib-22",
+              "locator": "col. ii 50-58 (Oracc translation)",
+              "quote": "Būdi-il of the land Bīt-Ammon, Kammūsu-nadbi of the land Moab, Aya-rāmu of the land Edom, all of the kings of the land Amurru, they brought extensive gifts",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap4-esarhaddon-1",
+              "locator": "col. v 54-63 (Oracc translation)",
+              "quote": "(v 54) I summoned the kings of Ḫatti and Across the River (Syria-Palestine): (v 55) Baʾalu, king of Tyre, Manasseh, king of Judah, Qaʾuš-gabri, king of Edom, Muṣurī, king of Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 25'-30' (Oracc translation)",
+              "quote": "In the course of my campaign, Baʾalu, king of the land Tyre, Manasseh, king of the land Judah, Qaʾuš-gabri, king of the land Edom, Muṣurī, king of the land Moab",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "oracc-rinap5-ashurbanipal-6",
+              "locator": "col. ii 48'-52' (Oracc translation)",
+              "quote": "[serva]nts who belonged to me, carried their substantial [audience] gift(s) [before me] and kissed my feet.",
+              "note": "Basis: contemporary Assyrian royal inscription (epigraphic)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 424",
+              "quote": "It seems that the Neo-Assyrian kings left the Ammonites, Moabites, and Edomites in peace till the year 728BC, during the reign of Tiglath-pileser III,",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 425",
+              "quote": "when they were obliged to pay tribute to this king.",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "kafafi-2025-origins-ammonites",
+              "locator": "p. 438, Table 3 (Iron Age II A-B and C)",
+              "quote": "Independent political kingdoms (vassal states of Assyria)",
+              "note": "Basis: archaeology and epigraphy (modern scholarship)."
+            },
+            {
+              "ref": "schipper-2010-egypt-judah-josiah-jehoiakim",
+              "locator": "abstract",
+              "quote": "in the final decades of the 7th century BCE (ca. 630) the Egyptian pharaoh Psammetichus I filled the power vacuum created in the southern Levant by the departure of the Assyrians"
             }
           ],
           "notes": {
-            "en": "See the note on the Ammon relation: Britannica's wording is not specific to Moab.",
-            "ar": "انظر الملاحظة على علاقة عمون: صياغة بريتانيكا ليست خاصة بموآب.",
-            "he": "ראו ההערה ליחס עם עמון: ניסוח בריטניקה אינו ייחודי למואב.",
+            "en": "See the note on the Ammon relation: Britannica's wording is not specific to Moab. Moab remained a tributary kingdom: its kings Salāmānu (Tiglath-pileser III), Kammūsu-nadbi (Sennacherib, 701) and Muṣurī (Esarhaddon, 673/672; Ashurbanipal, 667) are listed among the western tributaries. Kafafi (2025) dates the first tribute of Ammon, Moab and Edom to Tiglath-pileser III; Schipper (2010, abstract) dates the Assyrian withdrawal from the southern Levant to c. 630.",
+            "ar": "انظر الملاحظة على علاقة عمون: صياغة بريتانيكا ليست خاصة بموآب. بقيت موآب مملكة تابعة تدفع الجزية: يُدرج ملوكها سلامانو (تغلات فلاسر الثالث) وكموشنَدَب (سنحاريب، 701) ومصوري (أسرحدون، 673/672؛ آشوربانيبال، 667) بين دافعي الجزية في الغرب. يؤرّخ كفافي (2025) أول جزية لعمّون وموآب وأدوم بعهد تغلات فلاسر الثالث، ويؤرّخ شيبر (2010، الملخّص) انسحاب الآشوريين من جنوب المشرق بنحو 630.",
+            "he": "ראו ההערה ליחס עם עמון: ניסוח בריטניקה אינו ייחודי למואב. מואב נותרה ממלכה מעלת מס: מלכיה שלמן (תגלת-פלאסר השלישי), כמושנדב (סנחריב, 701) ומצורי (אסרחדון, 673/672; אשורבניפל, 667) נמנים בין מעלי המס במערב. כפאפי (2025) מתארך את המס הראשון של עמון, מואב ואדום לימי תגלת-פלאסר השלישי; שיפר (2010, תקציר) מתארך את נסיגת אשור מדרום הלבנט לכ-630.",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -3361,6 +4128,39 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Hasmonean priest-princes",
               "quote": "granted Jonathan the office of high priest and gave him the Seleucid rank of a courtier, thereby legitimizing his position"
+            },
+            {
+              "ref": "kjv-1-maccabees",
+              "locator": "1 Maccabees 10:20",
+              "quote": "Wherefore now this day we ordain thee to be the high priest of thy nation, and to be called the king’s friend;",
+              "note": "Basis: Jewish historical text (1 Maccabees)."
+            },
+            {
+              "ref": "kjv-1-maccabees",
+              "locator": "1 Maccabees 10:21",
+              "quote": "So in the seventh month of the hundred and sixtieth year, at the feast of the tabernacles, Jonathan put on the holy robe",
+              "note": "Basis: Jewish historical text (1 Maccabees)."
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 6, p. 241",
+              "quote": "At the Feast of Tabernacles of the Seleucid year 160, in the autumn of B.c. 153, he put on the sacred vestments."
+            },
+            {
+              "ref": "kjv-1-maccabees",
+              "locator": "1 Maccabees 13:41",
+              "quote": "Thus the yoke of the heathen was taken away from Israel in the hundred and seventieth year.",
+              "note": "Basis: Jewish historical text (1 Maccabees)."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 13.6.7",
+              "quote": "which liberty and freedom from tribute they obtained after a hundred and seventy years"
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 4, p. 206",
+              "quote": "Simon was the first, twenty-six years after this, in B.C. 142-141, to gain possession of the citadel, and so to vindicate the independence of the Jews."
             }
           ],
           "notes": {
@@ -3545,8 +4345,42 @@
               "ref": "britannica-nabataean",
               "locator": "Roman period",
               "quote": "Upon the Roman general Pompey’s entry into Palestine (63 bc), Aretas became a Roman vassal, retaining Damascus and his other conquests"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.5.1",
+              "quote": "he persuaded Aretas to give Scaurus a sum of money, to prevent the burning of his country, and undertook to be his surety for three hundred talents."
+            },
+            {
+              "ref": "cassius-dio-37-cary",
+              "locator": "Roman History 37.15.1",
+              "quote": "Pompey turned against Aretas. The latter was king of the Arabians, now subjects of the Romans, as far as the Red Sea."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix II, p. 353",
+              "quote": "this general was the first to lead an expedition against Petra, but obtained from Aretas no more than the payment of a sum of money"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix II, p. 353",
+              "quote": "Only to this extent was the subjugation of Aretas carried, of which Pompey had boasted"
+            },
+            {
+              "ref": "cassius-dio-48-cary",
+              "locator": "Roman History 48.41.5 (39 BCE)",
+              "quote": "large sums also from Antigonus and Antiochus and Malchus the Nabataean, because they had given help to Pacorus."
             }
-          ]
+          ],
+          "notes": {
+            "en": "The extent of Nabataean dependence after Pompey is debated: Cassius Dio calls the Arabians under Aretas 'now subjects of the Romans', whereas Schürer notes that Scaurus' expedition against Petra obtained only a payment of money (Josephus, Antiquities 14.5.1). In 39 BCE Ventidius exacted money from Malchus the Nabataean for having helped the Parthians.",
+            "ar": "مدى تبعية الأنباط بعد بومبي موضع نقاش: يصف كاسيوس ديو العرب في عهد الحارث بأنهم «صاروا رعايا للرومان»، في حين يلاحظ شورر أن حملة سكاوروس على البتراء لم تحقق سوى دفع مبلغ من المال (يوسيفوس، العاديات 14.5.1). وفي 39 ق.م. فرض فنتيديوس على مالك النبطي دفع أموال لأنه ساعد البارثيين.",
+            "he": "היקף התלות הנבטית אחרי פומפיוס שנוי במחלוקת: קסיוס דיו מכנה את הערבים בימי חרתת \"כעת נתינים של הרומאים\", ואילו שירר מציין שמסע סקאורוס נגד פטרה השיג רק תשלום כסף (יוספוס, קדמוניות 14.5.1). ב-39 לפנה\"ס גבה ונטידיוס כסף ממלכו הנבטי על שסייע לפרתים.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "vassal",
@@ -3565,6 +4399,26 @@
               "ref": "britannica-nabataean",
               "locator": "Roman period",
               "quote": "The final period of Nabataean history was one of peaceful prosperity as allies of Rome."
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.4.21",
+              "quote": "They overran Syria before they became subject to the Romans; but at present both they and the Syrians are subject to the Romans."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.10.9 (4 BCE)",
+              "quote": "Aretas also, the king of Arabia Petrea, out of his hatred to Herod, and in order to purchase the favor of the Romans, sent him no small assistance"
+            },
+            {
+              "ref": "cassius-dio-roman-history",
+              "locator": "Roman History 68.14.5",
+              "quote": "About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix II, p. 361",
+              "quote": "both of which reckoned according to the provincial era of a.d. 106"
             }
           ]
         }
@@ -3662,18 +4516,48 @@
             "year": -27,
             "precision": "year"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "jewish-encyclopedia-iturea",
               "locator": "entry",
               "quote": "About 23 B.C. Iturea with the adjacent provinces fell into the hands of a chief named Zenodorus"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.3.2",
+              "quote": "yet did he buy off the punishment of his crimes for a thousand talents, with which money Pompey paid the soldiers their wages."
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.10",
+              "quote": "Chalcis, which latter was subject to Ptolemaeus the son of Mennaeus, who possessed Massyas and the mountainous country of the Ituraeans."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix I, p. 331",
+              "quote": "Ptolemy purchased immunity from him by the payment of a thousand talents (Antiq. xiv. 3. 2). Pompey, however, destroyed the fortified places in the Lebanon"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix I, p. 332",
+              "quote": "reign falls in the time of Antony, who also laid the Itureans under a heavy tribute"
+            },
+            {
+              "ref": "cassius-dio-49-cary",
+              "locator": "Roman History 49.32.5",
+              "quote": "for he executed Lysanias, whom he himself had made king over them, on the charge that he had favoured Pacorus"
+            },
+            {
+              "ref": "bmcr-winger-2011-myers-ituraeans",
+              "locator": "review, paragraph on Myers's findings",
+              "quote": "the Ituraeans had established a principality within the southern Biqa’ valley by the middle of the first century BCE"
             }
           ],
           "notes": {
-            "en": "Roman disposal of Ituraean territory implies client status; start of dependence assumed at Pompey's settlement, not stated in the source.",
-            "ar": "يوحي تصرف الرومان بأرض الإيطوريين بوضع التبعية؛ ويُفترض أن بداية التبعية عند تسوية بومبيوس، ولم يذكر المصدر ذلك.",
-            "he": "התנהלות הרומאים בשטח האיטורים מרמזת על מעמד לקוח; תחילת התלות מונחת בהסדר של פומפיוס, ואינה נאמרת במקור.",
+            "en": "Roman disposal of Ituraean territory implies client status; start of dependence assumed at Pompey's settlement, not stated in the source. Josephus (Antiquities 14.3.2) says that Ptolemy son of Mennaeus bought off Pompey's punishment for a thousand talents; Schürer adds that Pompey destroyed the Ituraean strongholds in the Lebanon and that Antony later laid the Ituraeans under tribute. Cassius Dio says that Antony had made Lysanias king of the Ituraeans before executing him (c. 36 BCE).",
+            "ar": "يوحي تصرف الرومان بأرض الإيطوريين بوضع التبعية؛ ويُفترض أن بداية التبعية عند تسوية بومبيوس، ولم يذكر المصدر ذلك. يقول يوسيفوس (العاديات 14.3.2) إن بطليموس بن منّايوس افتدى نفسه من عقاب بومبي بألف تالنت؛ ويضيف شورر أن بومبي دمّر معاقل الإيطوريين في لبنان وأن أنطونيوس فرض الجزية على الإيطوريين لاحقًا. ويذكر كاسيوس ديو أن أنطونيوس كان قد نصّب ليسانياس ملكًا على الإيطوريين قبل أن يعدمه (نحو 36 ق.م.).",
+            "he": "התנהלות הרומאים בשטח האיטורים מרמזת על מעמד לקוח; תחילת התלות מונחת בהסדר של פומפיוס, ואינה נאמרת במקור. יוספוס (קדמוניות 14.3.2) מספר שתלמי בן מנאיוס פדה את עונשו מפומפיוס באלף כיכרות; שירר מוסיף שפומפיוס הרס את מבצרי היטורים בלבנון ושאנטוניוס הטיל מאוחר יותר מס על היטורים. קסיוס דיו אומר שאנטוניוס המליך את ליסאניאס על היטורים לפני שהוציאו להורג (כ-36 לפנה\"ס).",
             "translation_status": {
               "ar": "machine-draft",
               "he": "machine-draft"
@@ -3691,14 +4575,58 @@
             "year": 49,
             "precision": "year"
           },
-          "confidence": "estimated",
+          "confidence": "documented",
           "sources": [
             {
               "ref": "jewish-encyclopedia-iturea",
               "locator": "entry",
               "quote": "In 38 Caligula gave Iturea to a certain Soemus"
+            },
+            {
+              "ref": "cassius-dio-54-cary",
+              "locator": "Roman History 54.9.3 (20 BCE)",
+              "quote": "To Herod he entrusted the tetrarchy of a certain Zenodorus"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 15.10.1",
+              "quote": "he wrote back to Varro to destroy those nests of robbers, and to give the land to Herod"
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.20",
+              "quote": "the band of robbers under Zenodorus has been broken up through the good government established by the Romans"
+            },
+            {
+              "ref": "cassius-dio-59-cary",
+              "locator": "Roman History 59.12.2 (38 CE)",
+              "quote": "Meanwhile he granted to Sohaemus the land of the Ituraean Arabians"
+            },
+            {
+              "ref": "tacitus-annals-12-jackson",
+              "locator": "Annals 12.23 (49 CE)",
+              "quote": "on the death of their sovereigns, Sohaemus and Agrippa,"
+            },
+            {
+              "ref": "tacitus-annals-12-jackson",
+              "locator": "Annals 12.23 (49 CE)",
+              "quote": "were attached to the province of Syria."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix I, p. 338",
+              "quote": "This Soemus died in A.D. 49, and then his territories were incorporated with the province of Syria."
             }
-          ]
+          ],
+          "notes": {
+            "en": "By this period the former principality was divided: Augustus gave the tetrarchy of Zenodorus to Herod (20 BCE; Dio 54.9.3), Gaius granted 'the land of the Ituraean Arabians' to Sohaemus (38 CE; Dio 59.12.2), and on Sohaemus' death in 49 CE Ituraea was attached to the province of Syria (Tacitus, Annals 12.23). Chalcis itself was ruled by Herod of Chalcis and then Agrippa II.",
+            "ar": "في هذه المرحلة كانت الإمارة السابقة مقسّمة: منح أغسطس رباعية زينودوروس لهيرودس (20 ق.م.؛ ديو 54.9.3)، ومنح غايوس «أرض العرب الإيطوريين» لسُهيم (38 م؛ ديو 59.12.2)، وعند وفاة سُهيم عام 49 م أُلحقت إيطوريا بولاية سوريا (تاكيتوس، الحوليات 12.23). أما خلقيس نفسها فحكمها هيرودس الخلقيسي ثم أغريبا الثاني.",
+            "he": "בתקופה זו הנסיכות לשעבר הייתה מחולקת: אוגוסטוס נתן להורדוס את הטטרארכיה של זנודורוס (20 לפנה\"ס; דיו 54.9.3), גאיוס העניק את \"ארץ הערבים היטורים\" לסוהימוס (38 לספירה; דיו 59.12.2), ובמות סוהימוס ב-49 לספירה סופחה איטוריה לפרובינקיה סוריה (טקיטוס, חיבורי השנים 12.23). כלקיס עצמה נשלטה בידי הורדוס מכלקיס ואחריו אגריפס השני.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -3790,6 +4718,36 @@
               "ref": "britannica-decapolis",
               "locator": "introduction",
               "quote": "The league was subject to the Roman governor of Syria, though his authority was somewhat tenuous in eastern Palestine."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.4.4",
+              "quote": "All these Pompey left in a state of freedom, and joined them to the province of Syria."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.4.4",
+              "quote": "restored the rest of the cities, Hippos, and Scythopolis, and Pella, and Dios"
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 12, p. 323",
+              "quote": "All these towns were immediately put under the rule of the governor of the newly-formed Roman province of Syria."
+            },
+            {
+              "ref": "schurer-1910-div2-vol1",
+              "locator": "§ 22, p. 18",
+              "quote": "For Pompey already made an independent development again possible to them by separating them from the Jewish realm and combining them probably under the name of Decapolis into a certain sort of unity."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix II, p. 354 n.",
+              "quote": "it belonged to Decapolis, i.e. to the cities which had their freedom given them, and were placed only under the general supervision of the Roman governor of Syria."
+            },
+            {
+              "ref": "pliny-natural-history-5-bostock-riley",
+              "locator": "Natural History 5.16 (18)",
+              "quote": "On the side of Syria, joining up to Judæa, is the region of Decapolis"
             }
           ]
         },
@@ -3811,8 +4769,42 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Hasmonean priest-princes",
               "quote": "placing them under the jurisdiction of the newly appointed governor of Syria"
+            },
+            {
+              "ref": "pliny-natural-history-5-bostock-riley",
+              "locator": "Natural History 5.16 (18)",
+              "quote": "so called from the number of its cities; as to which all writers are not agreed."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 15.7.3 (30 BCE)",
+              "quote": "He also added to his kingdom Gadara, Hippos, and Samaria"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.11.4 (4 BCE)",
+              "quote": "for as to Gaza, and Gadara, and Hippos, they were Grecian cities, which Cæsar separated from his government, and added them to the province of Syria."
+            },
+            {
+              "ref": "schurer-1910-div2-vol1",
+              "locator": "§ 23.I, p. 95",
+              "quote": "In any case Decapolis, as such, continued in existence in the second century after Christ"
+            },
+            {
+              "ref": "schurer-1910-div2-vol1",
+              "locator": "§ 23.I, p. 95",
+              "quote": "Its dissolution took place in the course of the third century, in consequence of the transference of some of its most important towns to the province of Arabia"
             }
-          ]
+          ],
+          "notes": {
+            "en": "Herod held Gadara and Hippos from 30 BCE (Josephus, Antiquities 15.7.3); at his death Augustus returned them to the province of Syria (Antiquities 17.11.4). Schürer says that the Decapolis continued to exist in the 2nd century CE and dissolved only in the 3rd, after some of its towns were transferred to the province of Arabia; the c. 106 end therefore marks the creation of the province of Arabia rather than the end of the league.",
+            "ar": "حاز هيرودس جدارا وهيبوس منذ 30 ق.م. (يوسيفوس، العاديات 15.7.3)، وعند وفاته أعادهما أغسطس إلى ولاية سوريا (العاديات 17.11.4). ويقول شورر إن الديكابوليس ظلت قائمة في القرن الثاني الميلادي ولم تنحلّ إلا في القرن الثالث بعد نقل بعض مدنها إلى ولاية العربية؛ لذا فإن النهاية في نحو 106 تعني إنشاء ولاية العربية لا نهاية الحلف.",
+            "he": "הורדוס החזיק בגדרה ובהיפוס מ-30 לפנה\"ס (יוספוס, קדמוניות 15.7.3); במותו החזיר אותן אוגוסטוס לפרובינקיה סוריה (קדמוניות 17.11.4). שירר אומר שהדקאפוליס המשיכה להתקיים במאה ה-2 לספירה והתפרקה רק במאה ה-3, לאחר שחלק מעריה הועברו לפרובינקיה ערביה; לכן הסיום בכ-106 מסמן את הקמת פרובינקיה ערביה ולא את סוף הברית.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -3958,6 +4950,31 @@
               "ref": "britannica-pompey",
               "locator": "eastern settlement",
               "quote": "left Judaea as a dependent, diminished temple state"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.4.4",
+              "quote": "restored the high priesthood to Hyrcanus"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.4.4",
+              "quote": "he made Jerusalem tributary to the Romans"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.4.5",
+              "quote": "for now we lost our liberty, and became subject to the Romans"
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 12, p. 323",
+              "quote": "The contracted Jewish territory was given over to Hyrcanus II., who was recognised as high priest, without the title of king."
+            },
+            {
+              "ref": "cassius-dio-48-cary",
+              "locator": "Roman History 48.26.2 (40 BCE)",
+              "quote": "He then invaded Palestine and deposed Hyrcanus, who was at the moment in charge of affairs there, having been appointed by the Romans"
             }
           ]
         }
@@ -4120,6 +5137,31 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Hasmonean priest-princes",
               "quote": "Antigonus, the son of Aristobulus and therefore a legitimate Hasmonean, won the favor of the Parthians"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.13.3",
+              "quote": "Now Antigonus had promised to give the Parthians a thousand talents, and five hundred women, upon condition they would take the government away from Hyrcanus, and bestow it upon him"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.14.3",
+              "quote": "how they had made Antigonus king"
+            },
+            {
+              "ref": "cassius-dio-48-cary",
+              "locator": "Roman History 48.41.4 (39 BCE)",
+              "quote": "after he had frightened the king, Antigonus, out of the country."
+            },
+            {
+              "ref": "cassius-dio-49-cary",
+              "locator": "Book XLIX, contents (chs. 19-21, 38 BCE)",
+              "quote": "How Ventidius conquered and slew Pacorus and drove the Parthians across the Euphrates"
+            },
+            {
+              "ref": "tacitus-histories-5-moore",
+              "locator": "Histories 5.9",
+              "quote": "the Parthian prince, Pacorus, seized Judea, but he was slain by Publius Ventidius, and the Parthians were thrown back across the Euphrates"
             }
           ]
         }
@@ -4263,8 +5305,47 @@
               "ref": "britannica-herod",
               "locator": "Octavian",
               "quote": "Octavian, who had met Herod in Rome, knew that he was the one man to rule Palestine as Rome wanted it ruled and confirmed him king."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.14.5 (40 BCE)",
+              "quote": "And thus did this man receive the kingdom, having obtained it on the hundred and eighty-fourth olympiad"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 14.16.4 (37 BCE)",
+              "quote": "This destruction befell the city of Jerusalem when Marcus Agrippa and Caninius Gallus were consuls of Rome"
+            },
+            {
+              "ref": "cassius-dio-49-cary",
+              "locator": "Roman History 49.22.6 (37 BCE)",
+              "quote": "These people Antony entrusted to a certain Herod to govern"
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.46",
+              "quote": "that he received the title of king, being given that authority first by Antony and later by Augustus Caesar."
+            },
+            {
+              "ref": "tacitus-histories-5-moore",
+              "locator": "Histories 5.9",
+              "quote": "Antony gave the throne to Herod, and Augustus, after his victory, increased his power."
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 15, p. 400",
+              "quote": "§ 15. HEROD THE GREAT, B.C. 37-4."
             }
-          ]
+          ],
+          "notes": {
+            "en": "The Roman Senate made Herod king in 40 BCE (Josephus, Antiquities 14.14.5), but he took Jerusalem from Antigonus only in 37 BCE (Antiquities 14.16.4); the relation starts with his effective rule.",
+            "ar": "نصّب مجلس الشيوخ الروماني هيرودس ملكًا عام 40 ق.م. (يوسيفوس، العاديات 14.14.5)، لكنه لم يستولِ على القدس من أنتيغونوس إلا عام 37 ق.م. (العاديات 14.16.4)؛ وتبدأ العلاقة بحكمه الفعلي.",
+            "he": "הסנאט הרומי המליך את הורדוס ב-40 לפנה\"ס (יוספוס, קדמוניות 14.14.5), אך הוא כבש את ירושלים מידי אנטיגונוס רק ב-37 לפנה\"ס (קדמוניות 14.16.4); הקשר מתחיל בשלטונו בפועל.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "client",
@@ -4284,6 +5365,41 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Herodian house",
               "quote": "The accession of Herod, a Roman protégé and an Edomite"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 15.6.7 (30 BCE)",
+              "quote": "Accordingly, he restored him his diadem again"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 15.6.7",
+              "quote": "procured his crown to be more entirely and firmly settled upon him than ever by Cæsar's donation"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 15.7.3 (30 BCE)",
+              "quote": "He also added to his kingdom Gadara, Hippos, and Samaria"
+            },
+            {
+              "ref": "cassius-dio-54-cary",
+              "locator": "Roman History 54.9.3 (20 BCE)",
+              "quote": "To Herod he entrusted the tetrarchy of a certain Zenodorus"
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.46",
+              "quote": "that he received the title of king, being given that authority first by Antony and later by Augustus Caesar."
+            },
+            {
+              "ref": "tacitus-histories-5-moore",
+              "locator": "Histories 5.9",
+              "quote": "Antony gave the throne to Herod, and Augustus, after his victory, increased his power."
+            },
+            {
+              "ref": "schurer-1890-div1-vol1",
+              "locator": "§ 15, p. 400",
+              "quote": "§ 15. HEROD THE GREAT, B.C. 37-4."
             }
           ]
         }
@@ -4363,6 +5479,36 @@
               "ref": "britannica-herod-archelaus",
               "locator": "article",
               "quote": "to emphasize his dependence on Rome"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.11.4",
+              "quote": "he appointed Archelaus, not indeed to be king of the whole country, but ethnarch of the one half of that which had been subject to Herod"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.13.2",
+              "quote": "But in the tenth year of Archelaus's government"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.13.2",
+              "quote": "both banished him, and appointed Vienna, a city of Gaul, to be the place of his habitation"
+            },
+            {
+              "ref": "cassius-dio-55-cary",
+              "locator": "Roman History 55.27.6 (6 CE)",
+              "quote": "who was accused by his brothers of some wrongdoing or other, was banished beyond the"
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.46",
+              "quote": "spent the rest of his life in exile, having taken up his abode among the Allobrogian Gauls"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 17, p. 38",
+              "quote": "c. Archelaus, B.C. 4-A.D. 6."
             }
           ]
         }
@@ -4432,6 +5578,26 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Herodian house",
               "quote": "of whom Philip and Antipas were called tetrarchs, Archelaus ethnarch"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.11.4",
+              "quote": "Now to him it was that Peres and Galilee paid their tribute"
+            },
+            {
+              "ref": "strabo-geography-16-jones",
+              "locator": "Geography 16.2.46",
+              "quote": "by much obsequiousness, but with difficulty, found leave to return home, with a tetrarchy assigned to each."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.7.2",
+              "quote": "So he took away from him his tetrarchy, and gave it by way of addition to Agrippa's kingdom"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 17, p. 37 n.",
+              "quote": "In fact, it can be proved that it actually occurred not earlier and not later than the summer of a.d. 39."
             }
           ]
         }
@@ -4515,6 +5681,26 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Herodian house",
               "quote": "of whom Philip and Antipas were called tetrarchs"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.11.4",
+              "quote": "paid the tribute of one hundred talents to Philip"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.4.6",
+              "quote": "About this time it was that Philip, Herod's brother, departed this life, in the twentieth year of the reign of Tiberius"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.4.6",
+              "quote": "His principality Tiberius took, [for he left no sons behind him,] and added it to the province of Syria"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 17, p. 10",
+              "quote": "§ 17. THE SONS OF HEROD. a. Philip, b.c. 4-a.d. 34."
             }
           ]
         }
@@ -4603,8 +5789,47 @@
               "ref": "britannica-palestine-hasmonean-herodian",
               "locator": "The Herodian house",
               "quote": "became the province of Judaea and passed to a series of undistinguished Roman prefects"
+            },
+            {
+              "ref": "josephus-jewish-war-whiston",
+              "locator": "Jewish War 2.8.1",
+              "quote": "And now Archelaus's part of Judea was reduced into a province, and Coponius, one of the equestrian order among the Romans, was sent as a procurator"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 17.13.5",
+              "quote": "So Archelaus's country was laid to the province of Syria"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.1.1",
+              "quote": "Moreover, Cyrenius came himself into Judea, which was now added to the province of Syria"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 19.5.1 (41 CE)",
+              "quote": "that is, Judea and Samaria; and this he restored to him as due to his family."
+            },
+            {
+              "ref": "cassius-dio-60-cary",
+              "locator": "Roman History 60.8.2 (41 CE)",
+              "quote": "He enlarged the domain of Agrippa of Palestine, who, happening to be in Rome, had helped him to become emperor"
+            },
+            {
+              "ref": "bmcr-girardin-2020-jacobson-agrippa-ii",
+              "locator": "review (on Jacobson p. 32)",
+              "quote": "en affirmant que la Judée n’était pas une province de plein exercice avant la Grande Révolte (p. 32)"
             }
-          ]
+          ],
+          "notes": {
+            "en": "Judaea's legal status in 6-41 CE is debated. Josephus says that Archelaus' territory was 'reduced into a province' under an equestrian procurator (Jewish War 2.8.1), but also that it was 'laid to' or 'added to the province of Syria' (Antiquities 17.13.5, 18.1.1). Jacobson (2019, as summarised by Girardin) holds that Judaea was not a full province before the revolt of 66.",
+            "ar": "الوضع القانوني ليهودا في 6-41 م موضع نقاش. يقول يوسيفوس إن أراضي أرخيلاوس «حُوّلت إلى ولاية» تحت وكيل من طبقة الفرسان (الحرب اليهودية 2.8.1)، لكنه يقول أيضًا إنها «أُلحقت بولاية سوريا» (العاديات 17.13.5، 18.1.1). ويرى جاكوبسون (2019، بحسب تلخيص جيراردان) أن يهودا لم تكن ولاية كاملة قبل ثورة 66.",
+            "he": "מעמדה המשפטי של יהודה ב-6-41 לספירה שנוי במחלוקת. יוספוס אומר ששטחו של ארכלאוס \"הפך לפרובינקיה\" בידי פרוקורטור מבני מעמד הפרשים (מלחמת היהודים 2.8.1), אך גם שהוא \"צורף לפרובינקיה סוריה\" (קדמוניות 17.13.5, 18.1.1). ג'ייקובסון (2019, לפי סיכומו של ז'יראראדן) סבור שיהודה לא הייתה פרובינקיה מלאה לפני מרד 66.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         },
         {
           "type": "province",
@@ -4624,8 +5849,57 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "the rank of the provincial governor was raised from procurator to legatus Augusti"
+            },
+            {
+              "ref": "josephus-jewish-war-whiston",
+              "locator": "Jewish War 2.11.6 (44 CE)",
+              "quote": "Claudius made the country a Roman province, and sent Cuspius Fadus to be its procurator"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 19.9.2",
+              "quote": "to be procurator of Judea, and of the entire kingdom"
+            },
+            {
+              "ref": "tacitus-annals-12-jackson",
+              "locator": "Annals 12.23 (49 CE)",
+              "quote": "on the death of their sovereigns, Sohaemus and Agrippa,"
+            },
+            {
+              "ref": "tacitus-annals-12-jackson",
+              "locator": "Annals 12.23 (49 CE)",
+              "quote": "were attached to the province of Syria."
+            },
+            {
+              "ref": "tacitus-annals-12-jackson",
+              "locator": "Annals 12.23, translator's note 41",
+              "quote": "They were henceforward under imperial procurators subordinate to the legatus of Syria."
+            },
+            {
+              "ref": "tacitus-histories-5-moore",
+              "locator": "Histories 5.9",
+              "quote": "Claudius made Judea a province and entrusted it to Roman knights or to freedmen"
+            },
+            {
+              "ref": "josephus-jewish-war-whiston",
+              "locator": "Jewish War 7.6.1 (after 70 CE)",
+              "quote": "Now Lucilius Bassus was sent as legate into Judea"
+            },
+            {
+              "ref": "barron-judaism-rome-cil-xvi-87",
+              "locator": "commentary",
+              "quote": "the earliest material evidence for the province’s change of name following the Bar Kokhba revolt, from Judea to Syria-Palaestina"
             }
-          ]
+          ],
+          "notes": {
+            "en": "Tacitus says that Judaea was 'attached to the province of Syria' on Agrippa I's death; his Loeb translator notes that it was then under imperial procurators subordinate to the legate of Syria. From 70 CE a senatorial legate governed Judaea (Josephus, Jewish War 7.6.1). The renaming to Syria Palaestina is first attested in a military diploma of 139 CE.",
+            "ar": "يقول تاكيتوس إن يهودا «أُلحقت بولاية سوريا» عند وفاة أغريبا الأول، ويلاحظ مترجمه في سلسلة لوب أنها صارت آنذاك تحت وكلاء إمبراطوريين تابعين لمندوب سوريا. ومنذ 70 م حكم يهودا مندوبٌ من طبقة الشيوخ (يوسيفوس، الحرب اليهودية 7.6.1). وأقدم شاهد على تغيير الاسم إلى سوريا فلسطين شهادة تسريح عسكرية من عام 139 م.",
+            "he": "טקיטוס אומר שיהודה \"צורפה לפרובינקיה סוריה\" במות אגריפס הראשון; מתרגמו בסדרת לוב מעיר שהיא הייתה אז בידי פרוקורטורים קיסריים הכפופים ללגטוס של סוריה. מ-70 לספירה משל ביהודה לגטוס סנטורי (יוספוס, מלחמת היהודים 7.6.1). השינוי לשם סוריה פלשתינה מתועד לראשונה בדיפלומה צבאית משנת 139 לספירה.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -4696,6 +5970,41 @@
               "ref": "britannica-herod-agrippa-i",
               "locator": "article",
               "quote": "mindful of maintaining Roman friendship"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.6.10 (37 CE)",
+              "quote": "he put a diadem upon his head, and appointed him to be king of the tetrarchy of Philip"
+            },
+            {
+              "ref": "cassius-dio-59-cary",
+              "locator": "Roman History 59.8.2",
+              "quote": "had freed Agrippa, the grandson of Herod, who had been imprisoned by Tiberius, and had put him in charge of his grandfather's domain"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 18.7.2 (39 CE)",
+              "quote": "So he took away from him his tetrarchy, and gave it by way of addition to Agrippa's kingdom"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 19.5.1 (41 CE)",
+              "quote": "that is, Judea and Samaria; and this he restored to him as due to his family."
+            },
+            {
+              "ref": "cassius-dio-60-cary",
+              "locator": "Roman History 60.8.2 (41 CE)",
+              "quote": "He enlarged the domain of Agrippa of Palestine, who, happening to be in Rome, had helped him to become emperor"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 19.8.2 (44 CE)",
+              "quote": "he departed this life, being in the fifty-fourth year of his age, and in the seventh year of his reign"
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 18, p. 150",
+              "quote": "HEROD AGRIPPA I., A.D. 37, 40, 41-44."
             }
           ]
         }
@@ -4762,7 +6071,8 @@
           "end": {
             "year": 93,
             "circa": true,
-            "precision": "year"
+            "precision": "year",
+            "latest": 100
           },
           "confidence": "documented",
           "sources": [
@@ -4770,8 +6080,47 @@
               "ref": "britannica-herod-agrippa-ii",
               "locator": "article",
               "quote": "Agrippa II was an ardent collaborator with Rome"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 20.5.2",
+              "quote": "But Claudius Cæsar bestowed his dominions on Agrippa, junior."
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 20.7.1 (53 CE)",
+              "quote": "he bestowed upon Agrippa the tetrarchy of Philip and Batanea, and added thereto Trachonites, with Abila"
+            },
+            {
+              "ref": "josephus-antiquities-whiston",
+              "locator": "Antiquities 20.7.1",
+              "quote": "but he took from him Chalcis, when he had been governor thereof four years."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 19 Supplement, p. 191",
+              "quote": "Supplement. Agrippa II., a.d. 50-100."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "§ 19 Supplement, p. 205",
+              "quote": "Agrippa died iu the third year of Trajan, in a.d. 100"
+            },
+            {
+              "ref": "bmcr-girardin-2020-jacobson-agrippa-ii",
+              "locator": "review (on Jacobson, ch. 8)",
+              "quote": "pousse l’auteur à dater la mort du roi de l’année 94/5 de notre ère"
             }
-          ]
+          ],
+          "notes": {
+            "en": "The date of Agrippa II's death is disputed: Justus of Tiberias (via Photius) puts it in Trajan's third year, 100 CE, which Schürer accepted; Jacobson (2019, as summarised in Girardin's review) dates it to 94/95 CE on numismatic, epigraphic and literary grounds.",
+            "ar": "تاريخ وفاة أغريبا الثاني موضع خلاف: يضعه يوستوس الطبري (عبر فوتيوس) في السنة الثالثة لتراجان، أي 100 م، وقد قبله شورر؛ ويؤرّخه جاكوبسون (2019، بحسب مراجعة جيراردان) بعام 94/95 م استنادًا إلى أدلة نقدية ونقشية وأدبية.",
+            "he": "תאריך מותו של אגריפס השני שנוי במחלוקת: יוסטוס איש טבריה (דרך פוטיוס) מציבו בשנתו השלישית של טרייאנוס, 100 לספירה, ושירר קיבל זאת; ג'ייקובסון (2019, לפי סקירתו של ז'יראראדן) מתארך אותו ל-94/95 לספירה על סמך עדויות נומיסמטיות, אפיגרפיות וספרותיות.",
+            "translation_status": {
+              "ar": "machine-draft",
+              "he": "machine-draft"
+            }
+          }
         }
       ]
     },
@@ -4838,6 +6187,16 @@
               "ref": "britannica-nabataean",
               "locator": "annexation",
               "quote": "set up the new province of Arabia"
+            },
+            {
+              "ref": "cassius-dio-roman-history",
+              "locator": "Roman History 68.14.5",
+              "quote": "About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans."
+            },
+            {
+              "ref": "schurer-1890-div1-vol2",
+              "locator": "Appendix II, p. 361",
+              "quote": "both of which reckoned according to the provincial era of a.d. 106"
             }
           ]
         },
@@ -4978,6 +6337,26 @@
               "ref": "britannica-palestine-roman-to-fatimid",
               "locator": "Roman Palestine",
               "quote": "The province of Judaea was renamed Syria Palaestina"
+            },
+            {
+              "ref": "cassius-dio-roman-history",
+              "locator": "Roman History 69.12.1",
+              "quote": "At Jerusalem he founded a city in place of the one which had been razed to the ground, naming it Aelia Capitolina"
+            },
+            {
+              "ref": "barron-judaism-rome-cil-xvi-87",
+              "locator": "commentary",
+              "quote": "it is the earliest material evidence for the renaming of the province of Judea as Syria-Palaestina."
+            },
+            {
+              "ref": "barron-judaism-rome-cil-xvi-87",
+              "locator": "translation of tablet I (CIL XVI 87)",
+              "quote": "and (who were) in Syria Palaestina beneath Calpurnius Atilianus"
+            },
+            {
+              "ref": "barron-judaism-rome-cil-xvi-87",
+              "locator": "translation of tablet I (date of the constitution, 22 November 139 CE)",
+              "quote": "On the tenth day before the Kalends of December, in the consulships of Marcus Ceccius Iustinus (and) Caius Iulius Bassus."
             }
           ]
         }
