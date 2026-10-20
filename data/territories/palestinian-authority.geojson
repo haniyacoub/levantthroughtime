@@ -14,8 +14,9 @@
         },
         "end": {
           "year": 1995,
-          "month": 9,
-          "precision": "month"
+          "month": 11,
+          "day": 13,
+          "precision": "day"
         },
         "partial_units": [
           "gaza-strip",
@@ -36,10 +37,54 @@
           {
             "ref": "britannica-oslo-accords",
             "quote": "Within weeks the withdrawal from the cities of Gaza and Jericho was completed, and the PA soon began carrying out civilian functions in those areas."
+          },
+          {
+            "ref": "un-peacemaker-gaza-jericho-1994",
+            "locator": "Article II(1), p. 2",
+            "quote": "Israel shall implement an accelerated and scheduled withdrawal of Israeli military forces from the Gaza Strip and from the Jericho Area to begin immediately with the signing of this Agreement."
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1994, May 13",
+            "quote": "May 13: PLA's Al-Aqsa Brigade takes up duties as Palestinian police in Jericho."
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1994, July 1",
+            "quote": "July 1: Arafat returns to homeland crossing Rafah border."
+          },
+          {
+            "ref": "palquest-gaza-redeployment-2005",
+            "locator": "background paragraph",
+            "quote": "in 1994, it was the first region, including its densely populated areas, to be evacuated by Israeli forces as part of the Oslo Process"
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1995, Sept. 28",
+            "quote": "Sept. 28: In Washington, the PLO and Israel sign the \"Oslo 2\" Agreement on the second stage of Palestinian autonomy."
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1995, Nov. 13",
+            "quote": "Nov. 13: The PA take over Jenin, deploy forces in surrounding villages/towns"
+          },
+          {
+            "ref": "un-peacemaker-oslo-ii-1995",
+            "locator": "Article X(1), PDF p. 16",
+            "quote": "The first phase of the Israeli military forces redeployment will cover populated areas in the West Bank"
           }
         ],
         "id": "palestinian-authority-1",
-        "geometry_method": "units"
+        "geometry_method": "units",
+        "notes": {
+          "en": "Ends on 13 November 1995, when the PA took over Jenin, the first West Bank city handed over under the Interim Agreement of 28 September 1995 (PASSIA).",
+          "ar": "تنتهي في 13 تشرين الثاني/نوفمبر 1995، حين تسلّمت السلطة الفلسطينية جنين، وهي أول مدينة في الضفة الغربية سُلّمت بموجب الاتفاق المرحلي المؤرخ في 28 أيلول/سبتمبر 1995 (PASSIA).",
+          "he": "מסתיימת ב-13 בנובמבר 1995, כאשר הרשות הפלסטינית קיבלה לידיה את ג׳נין, עיר הגדה המערבית הראשונה שהועברה לפי ההסכם הביניים מ-28 בספטמבר 1995 (PASSIA).",
+          "translation_status": {
+            "ar": "machine-draft",
+            "he": "machine-draft"
+          }
+        }
       }
     },
     {
@@ -49,8 +94,9 @@
         "polity": "palestinian-authority",
         "start": {
           "year": 1995,
-          "month": 9,
-          "precision": "month"
+          "month": 11,
+          "day": 13,
+          "precision": "day"
         },
         "end": {
           "year": 2007,
@@ -80,12 +126,52 @@
           {
             "ref": "britannica-gaza-strip",
             "quote": "In September 2005 Israel completed the pullout from the territory, and control of the Gaza Strip was transferred to the PA"
+          },
+          {
+            "ref": "un-peacemaker-oslo-ii-1995",
+            "locator": "Article XI(3), PDF p. 17",
+            "quote": "\"Area C\" means areas of the West Bank outside Areas A and B"
+          },
+          {
+            "ref": "icj-2024-opt-ao",
+            "locator": "para. 65 (PDF p. 28)",
+            "quote": "divided the Israeli-occupied West Bank into three administrative areas (A, B and C) with Area C, which covers more than 60 per cent of the West Bank, being exclusively administered by Israel"
+          },
+          {
+            "ref": "palquest-oslo-process-towards-failure",
+            "locator": "section on 1998-2000",
+            "quote": "the Palestinians ended up controlling only 17 percent of the West Bank as Area A and 25 percent as Area B, leaving under direct Israeli control 58 percent of the land"
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1995, Dec. 27",
+            "quote": "Dec. 27: IDF leaves Ramallah."
+          },
+          {
+            "ref": "palquest-gaza-redeployment-2005",
+            "locator": "section on implementation",
+            "quote": "Inside Gaza, the PA assumed immediate control over the evacuated land, amid popular celebrations."
+          },
+          {
+            "ref": "palquest-gaza-2006-2017",
+            "locator": "section on 2007",
+            "quote": "all-out fighting between the two sides resumed in June 2007, with Hamas eliminating security forces loyal to Abbas in Gaza. The latter declared a state of emergency on 14 June"
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1995, Nov. 13",
+            "quote": "Nov. 13: The PA take over Jenin, deploy forces in surrounding villages/towns"
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1995, Sept. 28",
+            "quote": "Sept. 28: In Washington, the PLO and Israel sign the \"Oslo 2\" Agreement on the second stage of Palestinian autonomy."
           }
         ],
         "notes": {
-          "en": "Area A/B shares and Israeli reoccupation of PA areas in 2002 not modelled.",
-          "ar": "لم تُمثَّل نسب المنطقتين أ/ب وإعادة احتلال إسرائيل لمناطق السلطة الفلسطينية عام 2002.",
-          "he": "שיעורי שטחי A/B והכיבוש מחדש של שטחי הרשות הפלסטינית בידי ישראל ב-2002 לא מודלו.",
+          "en": "Starts on 13 November 1995 with the PA's takeover of Jenin; the other West Bank towns followed in December 1995 (PASSIA). Area A/B shares and Israeli reoccupation of PA areas in 2002 not modelled.",
+          "ar": "تبدأ في 13 تشرين الثاني/نوفمبر 1995 بتسلّم السلطة الفلسطينية جنين؛ وتبعتها بقية مدن الضفة الغربية في كانون الأول/ديسمبر 1995 (PASSIA). لا تظهر على الخريطة حصص المنطقتين أ/ب ولا إعادة الاحتلال الإسرائيلي لمناطق السلطة عام 2002.",
+          "he": "מתחילה ב-13 בנובמבר 1995 עם קבלת ג׳נין בידי הרשות הפלסטינית; שאר ערי הגדה המערבית הועברו בדצמבר 1995 (PASSIA). חלקי שטחי A/B והשתלטות ישראל מחדש על אזורי הרשות ב-2002 אינם מוצגים במפה.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

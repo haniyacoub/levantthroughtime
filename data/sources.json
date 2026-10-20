@@ -986,6 +986,27 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "ap-2021-07-07-herzog-sworn-in",
+      "type": "web",
+      "authors": [
+        "Ben Zion, Ilan",
+        "Kellman, Laurie"
+      ],
+      "title": "Isaac Herzog sworn in as Israel's ceremonial president",
+      "container": "Associated Press (as published by BreakingNews.ie)",
+      "publisher": "Associated Press",
+      "year": 2021,
+      "url": "https://www.breakingnews.ie/world/isaac-herzog-sworn-in-as-israels-ceremonial-president-1153499.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full AP report dated 7 July 2021."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "ap-2023-10-26-gaza-moh-explainer",
       "type": "web",
       "title": "What is Gaza's Ministry of Health and how does it calculate the war's death toll?",
@@ -1291,6 +1312,23 @@
       },
       "kind": "government",
       "institution_country": "IL"
+    },
+    {
+      "id": "avalon-israel-syria-separation-1974",
+      "type": "document",
+      "title": "Separation of Forces Agreement Between Israel and Syria; May 31, 1974 (with Protocol concerning UNDOF)",
+      "container": "The Avalon Project",
+      "publisher": "Lillian Goldman Law Library, Yale Law School",
+      "year": 1974,
+      "url": "https://avalon.law.yale.edu/20th_century/pal04.asp",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full text of the agreement and the UNDOF protocol."
+      },
+      "kind": "government",
+      "institution_country": "US"
     },
     {
       "id": "avalon-khartoum",
@@ -2364,6 +2402,38 @@
       "kind": "academic",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "bibalex-nasser-historical-sketch",
+      "type": "web",
+      "title": "A historical sketch of President Gamal Abdel-Nasser",
+      "container": "Gamal Abdel Nasser digital archive (nasser.bibalex.org)",
+      "publisher": "Bibliotheca Alexandrina",
+      "url": "http://nasser.bibalex.org/Common/NasserLife_en.aspx?lang=en",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the English biography (1952-1970); the parallel Arabic page (NasserLife_ar.aspx) was also checked for the 14 November 1954 decision. The archive is run by the Bibliotheca Alexandrina, an Egyptian public institution; the text is an Egyptian institutional narrative, not a peer-reviewed study."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "bibalex-sadat-presidency-1970",
+      "type": "web",
+      "title": "رئاسة الجمهورية ١٩٧٠ - ١٩٨١: محمد أنور السادات ١٩٧٠ (The presidency 1970-1981: events of 1970)",
+      "container": "Anwar Sadat digital archive (sadat.bibalex.org)",
+      "publisher": "Bibliotheca Alexandrina",
+      "url": "http://sadat.bibalex.org/More_Pages/PresidentialPeriod.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the 1970 text (Arabic). Bibliotheca Alexandrina (Egyptian public institution) archive; institutional narrative, not a peer-reviewed study."
+      },
+      "kind": "government",
+      "institution_country": "EG"
     },
     {
       "id": "bloomsbury-masalha-bible-and-zionism-page",
@@ -9841,6 +9911,106 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "crs-ib92075-2002",
+      "type": "document",
+      "authors": [
+        "Prados, Alfred B."
+      ],
+      "title": "Syria: U.S. Relations and Bilateral Issues (CRS Issue Brief IB92075, updated January 8, 2002)",
+      "container": "CRS Issue Brief for Congress",
+      "publisher": "Congressional Research Service",
+      "year": 2002,
+      "url": "https://www.everycrsreport.com/files/20020108_IB92075_bf79efdcd497c9519d227535c7fa403f02960d0e.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the section \"Syrian Politics and External Relations\" and the economic section (EveryCRSReport copy)."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "crs-rl33003-2014",
+      "type": "document",
+      "authors": [
+        "Sharp, Jeremy M."
+      ],
+      "title": "Egypt: Background and U.S. Relations (CRS Report RL33003, version of June 5, 2014)",
+      "container": "CRS Report for Congress",
+      "publisher": "Congressional Research Service",
+      "year": 2014,
+      "url": "https://www.everycrsreport.com/files/20140605_RL33003_856450f5493c3c5d089f810a20a9b0ab98fb1a29.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the summary and the section on the 2014 presidential election."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "crs-rl34074-2010",
+      "type": "document",
+      "authors": [
+        "Zanotti, Jim"
+      ],
+      "title": "The Palestinians: Background and U.S. Relations (CRS Report RL34074, version of January 8, 2010)",
+      "container": "CRS Report for Congress",
+      "publisher": "Congressional Research Service",
+      "year": 2010,
+      "url": "https://www.everycrsreport.com/files/20100108_RL34074_f2a817a7747d3aae4e8a8a0c102fa09fc065de3f.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the sections on the PA leadership, the 2003 creation of the office of prime minister and the December 2009 extension of Abbas's term (EveryCRSReport copy of the CRS report)."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "crs-rl34074-2014",
+      "type": "document",
+      "authors": [
+        "Zanotti, Jim"
+      ],
+      "title": "The Palestinians: Background and U.S. Relations (CRS Report RL34074, version of January 31, 2014)",
+      "container": "CRS Report for Congress",
+      "publisher": "Congressional Research Service",
+      "year": 2014,
+      "url": "https://www.everycrsreport.com/files/20140131_RL34074_7a26e76015e51934a05f88a749de1d7bc5dab7c4.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the sections on PA governance and leadership (Fayyad, Hamdallah, Abbas)."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
+      "id": "crs-rl34074-2022",
+      "type": "document",
+      "authors": [
+        "Zanotti, Jim"
+      ],
+      "title": "The Palestinians: Background and U.S. Relations (CRS Report RL34074, version of October 27, 2022)",
+      "container": "CRS Report for Congress",
+      "publisher": "Congressional Research Service",
+      "year": 2022,
+      "url": "https://www.everycrsreport.com/files/2022-10-27_RL34074_d1c70617000bb89768c0a3a8f8eaf713c331bf0d.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the appendix on Mahmoud Abbas and the section on succession."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
       "id": "crs-rs22000-2005",
       "type": "document",
       "title": "Israel's Disengagement from Gaza (CRS Report RS22000, updated September 16, 2005)",
@@ -9851,7 +10021,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full report (author name redacted in this copy)."
+        "note": "Read the full report (author name redacted in this copy). | Re-read in Milestone 8: EXISTING ID. Re-read the full report (updated September 16, 2005)."
       },
       "kind": "government",
       "institution_country": "US",
@@ -10664,7 +10834,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Article VIII(2) (El Auja demilitarized zone with four Palestine-grid map references) read in full."
+        "note": "Article VIII(2) (El Auja demilitarized zone with four Palestine-grid map references) read in full. | Re-read in Milestone 8: EXISTING ID. Re-read the Avalon text, Articles V-VI (armistice demarcation line in the Gaza-Rafah area) and XII (entry into force; signed at Rhodes 24 February 1949)."
       },
       "kind": "government",
       "institution_country": "US"
@@ -10681,7 +10851,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the treaty text, Article I and Annex I Article I."
+        "note": "Read the treaty text, Article I and Annex I Article I. | Re-read in Milestone 8: EXISTING ID. Re-read the Avalon text, Article I and Annex I Article I and Appendix Article II (phased withdrawal)."
       },
       "kind": "government",
       "institution_country": "US"
@@ -11396,6 +11566,23 @@
       "institution_country": "US"
     },
     {
+      "id": "frus-1948-v05p2-d830",
+      "type": "document",
+      "title": "Mr. Wells Stabler to the Acting Secretary of State, Amman, December 13, 1948 (telegram 155)",
+      "container": "Foreign Relations of the United States, 1948, The Near East, South Asia, and Africa, Volume V, Part 2, Document 830",
+      "publisher": "US Department of State, Office of the Historian",
+      "year": 1948,
+      "url": "https://history.state.gov/historicaldocuments/frus1948v05p2/d830",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full document and its editorial footnote."
+      },
+      "kind": "government",
+      "institution_country": "US"
+    },
+    {
       "id": "frus-1950-v05-d457",
       "type": "document",
       "title": "Memorandum ... of the Press and Radio News Conference of the Secretary of State on April 26, 1950 [extract: Annexation of Arab Palestine by Jordan]",
@@ -11411,6 +11598,23 @@
       "kind": "government",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "frus-1952-54-v09p2-d1370",
+      "type": "document",
+      "title": "The Ambassador in Egypt (Caffery) to the Department of State, Cairo, November 15, 1954 (telegram 663)",
+      "container": "Foreign Relations of the United States, 1952-1954, The Near and Middle East, Volume IX, Part 2, Document 1370",
+      "publisher": "US Department of State, Office of the Historian",
+      "year": 1954,
+      "url": "https://history.state.gov/historicaldocuments/frus1952-54v09p2/d1370",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full document and footnote."
+      },
+      "kind": "government",
+      "institution_country": "US"
     },
     {
       "id": "galili-2019-tel-hreiz",
@@ -12328,6 +12532,26 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "hajjar-1988-merip-primer",
+      "type": "article",
+      "authors": [
+        "Hajjar, Lisa"
+      ],
+      "title": "Primer: Israel's Military Regime",
+      "container": "Middle East Report (MERIP)",
+      "publisher": "Middle East Research and Information Project",
+      "year": 1988,
+      "url": "https://merip.org/1988/01/primer-israels-military-regime/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full short primer (dated 15 January 1988) on the MERIP website. Independent US journal, critical of the occupation."
+      },
+      "kind": "academic",
+      "institution_country": "US"
+    },
+    {
       "id": "haklay-gopher-2015-eynan-shelter-131",
       "type": "article",
       "authors": [
@@ -13140,7 +13364,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read paras. 78, 88-94, 173 and the operative para. 285 in the UN transmittal PDF (icj-cij.org returned HTTP 403)."
+        "note": "Read paras. 78, 88-94, 173 and the operative para. 285 in the UN transmittal PDF (icj-cij.org returned HTTP 403). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UN transmittal PDF (A/78/968) and read paras. 57-66 and 87-94."
       },
       "kind": "un",
       "institution_country": "UN",
@@ -13673,7 +13897,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full page via Internet Archive snapshot 20140106201413 (downloaded by an earlier research step and read here): sections on the War of Independence, Sinai Campaign, Six-Day War, War of Attrition, Yom Kippur War, Operation Litani, Operation Peace for Galilee and the Gulf War."
+        "note": "Read the full page via Internet Archive snapshot 20140106201413 (downloaded by an earlier research step and read here): sections on the War of Independence, Sinai Campaign, Six-Day War, War of Attrition, Yom Kippur War, Operation Litani, Operation Peace for Galilee and the Gulf War. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the page via Internet Archive snapshot 20140106201413 and read the sections on 1956, 1967 and 1973 and on the disengagement agreements."
       },
       "kind": "government",
       "institution_country": "IL"
@@ -13722,7 +13946,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full page via Internet Archive snapshot 20150922."
+        "note": "Read the full page via Internet Archive snapshot 20150922. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the page via Internet Archive snapshot 20150922 and read the text of the law."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -13759,6 +13983,22 @@
       "kind": "government",
       "institution_country": "IL",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "israel-mfa-presidents-of-israel",
+      "type": "web",
+      "title": "The Presidents of the State of Israel",
+      "container": "Israel Ministry of Foreign Affairs website (About Israel > State > Democracy)",
+      "publisher": "Israel Ministry of Foreign Affairs",
+      "url": "http://www.mfa.gov.il/mfa/aboutisrael/state/democracy/pages/the%20presidents%20of%20the%20state%20of%20israel.aspx",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page via Internet Archive Wayback Machine snapshot 20160511144802 (the Knesset and President's Office sites returned bot-protection pages to automated requests, and gov.il returned HTTP 403). The page lists the presidents with years of office up to Reuven Rivlin (2014- )."
+      },
+      "kind": "government",
+      "institution_country": "IL"
     },
     {
       "id": "israel-mfa-settlements-2015",
@@ -13858,7 +14098,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the Hebrew introduction (7 June 1967 proclamation; Military Order 947 of 1981). Quotes in Hebrew; English glosses are mine."
+        "note": "Read the Hebrew introduction (7 June 1967 proclamation; Military Order 947 of 1981). Quotes in Hebrew; English glosses are mine. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the State Comptroller .docx and read the Hebrew introduction (proclamation of 7.6.67; Order No. 947 of 1981)."
       },
       "kind": "government",
       "institution_country": "IL",
@@ -14994,6 +15234,22 @@
         "level": "full-text",
         "checked_on": "2026-10-18",
         "note": "Read the full page, fetched directly."
+      },
+      "kind": "government",
+      "institution_country": "JO"
+    },
+    {
+      "id": "kinghussein-his-palestine",
+      "type": "web",
+      "title": "History: The Palestine question, the 1948 war and the unification of the two banks",
+      "container": "King Hussein Bin Talal (official website, kinghussein.gov.jo)",
+      "publisher": "Office of H.M. King Hussein / Hashemite Kingdom of Jordan",
+      "url": "http://www.kinghussein.gov.jo/his_palestine.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the section \"Unification of the Two Banks\" (live page fetched directly). Official Jordanian narrative."
       },
       "kind": "government",
       "institution_country": "JO"
@@ -16687,7 +16943,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the biography page."
+        "note": "Read the biography page. | Re-read in Milestone 8: EXISTING ID. Re-read the biography page (live, 20 Oct 2026)."
       },
       "kind": "government",
       "institution_country": "PS"
@@ -16932,6 +17188,23 @@
       "accessed": "2026-10-19"
     },
     {
+      "id": "npr-2000-07-17-bashar-presidency",
+      "type": "web",
+      "title": "Bashar al-Assad Assumes Presidency",
+      "container": "NPR (as published on member station WDIY)",
+      "publisher": "National Public Radio",
+      "year": 2000,
+      "url": "https://www.wdiy.org/2000-07-17/bashar-al-assad-assumes-presidency",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the short programme summary dated July 17, 2000 (report by Barbara Plett of the BBC)."
+      },
+      "kind": "press",
+      "institution_country": "US"
+    },
+    {
       "id": "npr-2023-tantura",
       "type": "article",
       "authors": [
@@ -17093,6 +17366,108 @@
       "institution_country": "PS"
     },
     {
+      "id": "ocha-fu-162-2024",
+      "type": "web",
+      "title": "Hostilities in the Gaza Strip and Israel | Flash Update #162 (6 May 2024)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2024,
+      "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-162",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "ocha-fu-163-2024",
+      "type": "web",
+      "title": "Hostilities in the Gaza Strip and Israel | Flash Update #163 (8 May 2024)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2024,
+      "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-163",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "ocha-fu-21-2023",
+      "type": "web",
+      "title": "Hostilities in the Gaza Strip and Israel | Flash Update #21 (27 October 2023)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2023,
+      "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-21",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "ocha-fu-22-2023",
+      "type": "web",
+      "title": "Hostilities in the Gaza Strip and Israel | Flash Update #22 (28 October 2023)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2023,
+      "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-22",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "ocha-hsu-257-2025",
+      "type": "web",
+      "title": "Humanitarian Situation Update #257 | Gaza Strip (January 2025)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2025,
+      "url": "https://www.ochaopt.org/content/humanitarian-situation-update-257-gaza-strip",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update (ceasefire of 19 January 2025)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "ocha-hsu-263-2025",
+      "type": "web",
+      "title": "Humanitarian Situation Update #263 | Gaza Strip (February 2025)",
+      "container": "OCHA occupied Palestinian territory",
+      "publisher": "UN Office for the Coordination of Humanitarian Affairs",
+      "year": 2025,
+      "url": "https://www.ochaopt.org/content/humanitarian-situation-update-263-gaza-strip",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full update (withdrawal from the Netzarim corridor, 9 February 2025)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "ocha-hsu-300-2025",
       "type": "document",
       "title": "Humanitarian Situation Update #300 | Gaza Strip",
@@ -17120,7 +17495,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Page dated 23 Oct 2025 downloaded and read."
+        "note": "Page dated 23 Oct 2025 downloaded and read. | Re-read in Milestone 8: EXISTING ID. Re-read the update (ceasefire of 10 October 2025 and the Yellow Line)."
       },
       "kind": "un"
     },
@@ -17281,7 +17656,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full page."
+        "note": "Read the full page. | Re-read in Milestone 8: EXISTING ID. Re-read the full Milestones page."
       },
       "kind": "government",
       "institution_country": "US",
@@ -17684,7 +18059,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full highlight (live page, 18 Oct 2026)."
+        "note": "Read the full highlight (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the full highlight (by Alex Winder) incl. its date box \"29 October 1956 - 12 March 1957\"."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18157,7 +18532,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full period overview (live page, 18 Oct 2026)."
+        "note": "Read the full period overview (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"XII. Gaza Strip Separated and Assaulted, 2006-2017\"."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18172,7 +18547,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the entry \"Israel's Gaza Redeployment, 2005\"."
       },
       "kind": "academic",
       "institution_country": "PS",
@@ -18285,7 +18660,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full highlight (live page, 18 Oct 2026)."
+        "note": "Read the full highlight (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the full highlight (by Maher Charif) incl. its date box \"5 June 1967 - 10 June 1967\"."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18402,7 +18777,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full entry."
+        "note": "Read the full entry. | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"X. Oslo Process: Towards Failure (1993-2000)\"."
       },
       "kind": "academic",
       "institution_country": "PS",
@@ -18419,7 +18794,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full period overview (live page, 18 Oct 2026)."
+        "note": "Read the full period overview (live page, 18 Oct 2026). | Re-read in Milestone 8: EXISTING ID. Re-read the period overview \"IV. The Palestine War and the Nakba, 1947-1950\" (live page)."
       },
       "kind": "academic",
       "institution_country": "LB"
@@ -18760,11 +19135,28 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Read the chronology via the Wayback Machine (2008 snapshot; the live page returns 403). This is the chronology cited in the UN study Part V (footnote 122)."
+        "note": "Read the chronology via the Wayback Machine (2008 snapshot; the live page returns 403). This is the chronology cited in the UN study Part V (footnote 122). | Re-read in Milestone 8: EXISTING ID. Re-read the 1994-1995 chronology via the Wayback Machine (2008 capture): May 1994 and September-December 1995 entries."
       },
       "kind": "academic",
       "institution_country": "PS",
       "publisher": "PASSIA"
+    },
+    {
+      "id": "passia-chronology-1996",
+      "type": "web",
+      "title": "Chronology 1996",
+      "container": "PASSIA - Palestinian Academic Society for the Study of International Affairs (Jerusalem)",
+      "publisher": "PASSIA",
+      "year": 1997,
+      "url": "http://www.passia.org/palestine_facts/chronology/1996.htm",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the chronology via Internet Archive Wayback Machine (2008 capture; the live passia.org page returns 403)."
+      },
+      "kind": "academic",
+      "institution_country": "PS"
     },
     {
       "id": "pcbs-2018-census-summary",
@@ -18988,7 +19380,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the sections 'The Genesis and Trajectory of the Militia Economy' and 'From Clientelism to Predation'. Elizabeth Picard is a French political scientist (CNRS)."
+        "note": "Downloaded and read the open-access UC Press E-Books Collection HTML edition (no printed page numbers in this edition, so locators give chapter and section). Read the sections 'The Genesis and Trajectory of the Militia Economy' and 'From Clientelism to Predation'. Elizabeth Picard is a French political scientist (CNRS). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UC Press E-Books Collection HTML edition and re-read the opening and the sections on the phases of the war and the early postwar period."
       },
       "kind": "academic",
       "institution_country": "US"
@@ -19506,6 +19898,134 @@
       "institution_country": "US"
     },
     {
+      "id": "presidency-eg-mansour",
+      "type": "web",
+      "title": "Adly Mansour (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D8%B9%D8%AF%D9%84%D9%8A-%D9%85%D9%86%D8%B5%D9%88%D8%B1/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251206054220 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-morsi",
+      "type": "web",
+      "title": "Mohamed Morsi (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B1%D8%B3%D9%8A/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251231194804 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-mubarak",
+      "type": "web",
+      "title": "Mohamed Hosni Mubarak (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D8%AD%D8%B3%D9%86%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D9%83/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251208002952 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-naguib",
+      "type": "web",
+      "title": "Mohamed Naguib (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%AC%D9%8A%D8%A8/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251206180537 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-nasser",
+      "type": "web",
+      "title": "Gamal Abdel Nasser (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D8%AC%D9%85%D8%A7%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20260110205657 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-rcc",
+      "type": "web",
+      "title": "Revolutionary Command Council (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D9%85%D8%AC%D9%84%D8%B3-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251228125623 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-sadat",
+      "type": "web",
+      "title": "Mohamed Anwar Al-Sadat (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251206074818 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
+      "id": "presidency-eg-scaf",
+      "type": "web",
+      "title": "The Supreme Council of the Armed Forces (former presidents)",
+      "container": "Presidency of the Arab Republic of Egypt (presidency.eg), English site",
+      "publisher": "Presidency of the Arab Republic of Egypt",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D9%88%D9%86/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full English page via Internet Archive Wayback Machine snapshot 20251206115425 (presidency.eg returned a Cloudflare challenge to direct requests). The page gives a term box (dd / mm / yyyy) and a short biography. Official Egyptian source."
+      },
+      "kind": "government",
+      "institution_country": "EG"
+    },
+    {
       "id": "pressman-2003-visions-in-collision",
       "type": "article",
       "authors": [
@@ -19758,7 +20278,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full message."
+        "note": "Read the full message. | Re-read in Milestone 8: EXISTING ID. Re-read the message of May 26, 1982 (Reagan Library)."
       },
       "kind": "government",
       "institution_country": "US",
@@ -20201,6 +20721,57 @@
       "institution_country": "IL"
     },
     {
+      "id": "sana-2025-01-30-victory-statement",
+      "type": "web",
+      "title": "Statement by Military Operations Command announcing Syrian Revolution Victory",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2025,
+      "url": "https://sana.sy/en/uncategorized/345609/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full statement as published on 30 January 2025 (official Syrian news agency of the transitional government)."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
+      "id": "sana-2026-01-29-year-review",
+      "type": "web",
+      "title": "From transition to development: Syria reviews a year of change and outreach",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2026,
+      "url": "https://sana.sy/en/syria/2293188/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (published 29 January 2026)."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
+      "id": "sana-2026-09-26-transition",
+      "type": "web",
+      "title": "New Syria charts transition toward institutions, rule of law",
+      "container": "Syrian Arab News Agency (SANA), English service",
+      "publisher": "SANA",
+      "year": 2026,
+      "url": "https://sana.sy/en/politics/2346092/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full article (published 26 September 2026)."
+      },
+      "kind": "government",
+      "institution_country": "SY"
+    },
+    {
       "id": "sand-2008-invention-jewish-people",
       "type": "book",
       "authors": [
@@ -20552,7 +21123,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full article (pp. 37-53) in a PDF copy retrieved via an Internet Archive snapshot (20240902) of the PalQuest URL."
+        "note": "Read the full article (pp. 37-53) in a PDF copy retrieved via an Internet Archive snapshot (20240902) of the PalQuest URL. | Re-read in Milestone 8: EXISTING ID. Re-read pp. 49-50 in the PDF retrieved via an Internet Archive capture of the PalQuest URL (the live URL returned 403). The file is a JSTOR download hosted on the website of the Institute for Palestine Studies, the journal's co-publisher."
       },
       "kind": "academic",
       "institution_country": "US",
@@ -20616,6 +21187,22 @@
       "kind": "academic",
       "institution_country": "US",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "sis-egypt-modern-history",
+      "type": "web",
+      "title": "العصر الحديث (The modern era) - تاريخ مصر (History of Egypt)",
+      "container": "State Information Service (SIS), Arab Republic of Egypt",
+      "publisher": "State Information Service, Egypt",
+      "url": "https://sis.gov.eg/ar/مصر/التاريخ/تاريخ-مصر/العصر-الحديث/",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the sections from the 1952 revolution to 2014 (Arabic; live page). Official Egyptian narrative (e.g. it calls 30 June 2013 a \"revolution\")."
+      },
+      "kind": "government",
+      "institution_country": "EG"
     },
     {
       "id": "sivan-2001-holocene-sea-level-israel",
@@ -21007,7 +21594,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-19",
-        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence. | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: paras. 64-66 (Sinai in the First World War)."
+        "note": "Downloaded and read the PDF from the UN Office of Legal Affairs: paras. 20-32 (Ottoman and Egyptian administration of Sinai, the Taba crisis of 1906), 45-46 (the 1 October 1906 agreement) and 59-68 (the boundary 1907-1923, including the First World War). International arbitral tribunal (three neutral members, one Egyptian- and one Israeli-appointed member); the factual background is the tribunal's own summary of the evidence. | Re-read in Milestone 8: Re-checked in this pass against the PDF text downloaded earlier: paras. 64-66 (Sinai in the First World War). | Re-read in Milestone 8: EXISTING ID. Re-downloaded the UN RIAA PDF and read paras. 1-3 (pp. 7-8 of the volume) on the 25 April 1982 withdrawal and agreement."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -22514,6 +23101,40 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "un-peacemaker-gaza-jericho-1994",
+      "type": "document",
+      "title": "Agreement on the Gaza Strip and the Jericho Area (Cairo, 4 May 1994)",
+      "container": "UN Peacemaker (peace agreements database)",
+      "publisher": "United Nations, Department of Political and Peacebuilding Affairs",
+      "year": 1994,
+      "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20ps940504agreement20on20the20gaza20strip20and20the20jericho20area2028cairo20agreement29.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the 12-page PDF from UN Peacemaker (catalogue page https://peacemaker.un.org/node/9418) and read Articles I-V and XXIII; the PDF gives the Knesset website as the source of the text. Signed by the Government of Israel and the PLO; witnessed by the US, Russia and Egypt."
+      },
+      "kind": "government",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-peacemaker-oslo-ii-1995",
+      "type": "document",
+      "title": "Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip (Washington, D.C., 28 September 1995), as transmitted in UN doc. A/51/889-S/1997/357",
+      "container": "UN Peacemaker (peace agreements database)",
+      "publisher": "United Nations",
+      "year": 1995,
+      "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/il20ps950928interimagreementwestbankgazastrip28osloii29.pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Downloaded the 31-page PDF (scan of UN doc. A/51/889 with the main text of the agreement; the annexes and maps are not in this file) from UN Peacemaker (catalogue page https://peacemaker.un.org/en/node/9434) and read Articles I, X, XI and XVII. The OCR has some errors; quotes were taken only from clean passages."
+      },
+      "kind": "government",
+      "institution_country": "UN"
+    },
+    {
       "id": "un-press-sc15951",
       "type": "web",
       "title": "Security Council Extends Mandate of United Nations Observer Force in Golan for Six Months through Resolution 2766 (2024), Amid Reports of Israel Incursion (SC/15951, 20 December 2024)",
@@ -22558,6 +23179,57 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Read the full report."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-2024-817",
+      "type": "document",
+      "title": "Implementation of Security Council resolution 1701 (2006) during the period from 21 June to 20 October 2024: Report of the Secretary-General (S/2024/817)",
+      "container": "UN Security Council document S/2024/817",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=S/2024/817&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read paras. 1-17 (escalation of September 2024, Operation Northern Arrows, ground operations from 1 October) incl. quoted Israeli and Lebanese letters."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-2025-153",
+      "type": "document",
+      "title": "Implementation of Security Council resolution 1701 (2006) during the period from 21 October 2024 to 20 February 2025: Report of the Secretary-General (S/2025/153)",
+      "container": "UN Security Council document S/2025/153",
+      "publisher": "United Nations",
+      "year": 2025,
+      "url": "https://documents.un.org/api/symbol/access?s=S/2025/153&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the introduction and paras. 2-10 (cessation of hostilities of 27 November 2024 and its aftermath)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-2025-154",
+      "type": "document",
+      "title": "United Nations Disengagement Observer Force: Report of the Secretary-General (S/2025/154, 12 March 2025; period 19 November 2024 - 18 February 2025)",
+      "container": "UN Security Council document S/2025/154",
+      "publisher": "United Nations",
+      "year": 2025,
+      "url": "https://documents.un.org/api/symbol/access?s=S/2025/154&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read paras. 1-21 of the PDF, incl. the UN account of 7-8 December 2024 and the quoted letters of Syria (S/2024/888, A/79/795-S/2025/96) and Israel (S/2024/887, S/2025/19). The PDF text layer splits some words; quotes were taken from clean passages."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -22689,6 +23361,57 @@
         "level": "full-text",
         "checked_on": "2026-10-19",
         "note": "Searched the full verbatim record (briefings by the Secretary-General and Special Coordinator Mladenov; statement of President Abbas)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-pv-9602",
+      "type": "document",
+      "title": "Security Council, 9602nd meeting, 14 April 2024 (S/PV.9602)",
+      "container": "UN Security Council provisional verbatim record",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=S/PV.9602&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the Secretary-General's briefing (quoting the letters of Israel, S/2024/304, and Iran, S/2024/305) and the statements of Israel and Iran."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-pv-9738",
+      "type": "document",
+      "title": "Security Council, 9738th meeting, 2 October 2024 (S/PV.9738)",
+      "container": "UN Security Council provisional verbatim record",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=S/PV.9738&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the statements of Israel and Iran and the passage quoting Iran's letter of 1 October 2024 (S/2024/713)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
+      "id": "un-s-pv-9762",
+      "type": "document",
+      "title": "Security Council, 9762nd meeting, 28 October 2024 (S/PV.9762)",
+      "container": "UN Security Council provisional verbatim record",
+      "publisher": "United Nations",
+      "year": 2024,
+      "url": "https://documents.un.org/api/symbol/access?s=S/PV.9762&l=en&t=pdf",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the briefing by Assistant Secretary-General Khaled Khiari on the Israeli strikes of 26 October 2024."
       },
       "kind": "un",
       "institution_country": "UN"
@@ -22874,6 +23597,22 @@
       "accessed": "2026-10-18"
     },
     {
+      "id": "un-undof-mission-page",
+      "type": "web",
+      "title": "UNDOF: United Nations Disengagement Observer Force (mission page)",
+      "container": "United Nations Peacekeeping",
+      "publisher": "United Nations",
+      "url": "https://peacekeeping.un.org/en/mission/undof",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the mission background paragraphs (establishment on 31 May 1974)."
+      },
+      "kind": "un",
+      "institution_country": "UN"
+    },
+    {
       "id": "unccp-1949-holy-places",
       "type": "document",
       "authors": [
@@ -22924,6 +23663,22 @@
       "kind": "un",
       "institution_country": "UN",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "unef2-background",
+      "type": "web",
+      "title": "Second United Nations Emergency Force (UNEF II) - Background (full text)",
+      "container": "United Nations Peacekeeping, past operations",
+      "publisher": "United Nations, Department of Public Information",
+      "url": "https://peacekeeping.un.org/sites/default/files/past/unef2backgr2.html",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full background text (October 1973 war, the 18 January 1974 and September 1975 disengagement agreements, the 1979 treaty). Undated UN web text."
+      },
+      "kind": "un",
+      "institution_country": "UN"
     },
     {
       "id": "unesco-2016-occupied-palestine-draft-decision",
@@ -23656,7 +24411,7 @@
       "verification": {
         "level": "full-text",
         "checked_on": "2026-10-18",
-        "note": "Read the full resolution text."
+        "note": "Read the full resolution text. | Re-read in Milestone 8: EXISTING ID. Re-downloaded the PDF and read the resolution text (OCR)."
       },
       "kind": "un",
       "institution_country": "UN",
@@ -23937,6 +24692,309 @@
       "kind": "ngo",
       "institution_country": "PS",
       "accessed": "2026-10-18"
+    },
+    {
+      "id": "wafa-info-13th-government-oath-2009",
+      "type": "web",
+      "title": "الحكومة الفلسطينية تؤدي اليمين الدستورية أمام الرئيس محمود عباس (The Palestinian government [of Salam Fayyad] takes the oath, 19 May 2009)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2009,
+      "url": "https://info.wafa.ps/Pages/Details/33394",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-15th-government-oath-2013",
+      "type": "web",
+      "title": "الحكومة الخامسة عشر تؤدي اليمين القانونية أمام الرئيس (The fifteenth government [of Rami Hamdallah] takes the oath, 6 June 2013)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2013,
+      "url": "https://info.wafa.ps/Pages/Details/33403",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-16th-government-2013",
+      "type": "web",
+      "title": "مرسوم إعتماد تشكيلة الحكومة السادسة عشرة (Decree approving the sixteenth government [of Rami Hamdallah], sworn in 19 September 2013)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2013,
+      "url": "https://info.wafa.ps/Pages/Details/33411",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic), incl. the reference to the re-tasking letter of 13/8/2013."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-17th-government-2014",
+      "type": "document",
+      "title": "مرسوم اعتماد الحكومة الفلسطينية السابعة عشر (حكومة الوفاق الوطني) (Decree approving the seventeenth government - the National Consensus Government, June 2014)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2014,
+      "url": "https://info.wafa.ps/Pages/Details/33417",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic). The decree text on the page leaves the day of the confidence decision blank (\"/06/2014\"); the swearing-in is described as \"today, Monday\"."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-18th-government-oath-2019",
+      "type": "web",
+      "title": "كلمة الرئيس محمود عباس خلال اجتماعه مع الحكومة الثامنة عشرة عقب أدائها اليمين القانونية 13 نيسان 2019 (Address of President Abbas to the eighteenth government after its oath, 13 April 2019)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2019,
+      "url": "https://info.wafa.ps/Pages/Details/33422",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the page title and opening of the address (Arabic). The neighbouring decree page (https://info.wafa.ps/Pages/Details/33425) dates the confidence decision to 11/04/2019."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-19th-government-oath-2024",
+      "type": "web",
+      "title": "الحكومة الفلسطينية الجديدة التاسعة عشرة تؤدي اليمين الدستورية أمام رئيس دولة فلسطين محمود عباس 31 آذار 2024 (The nineteenth government takes the oath, 31 March 2024)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2024,
+      "url": "https://info.wafa.ps/Pages/Details/34142",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the page title and text (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-9th-government-oath-2005",
+      "type": "web",
+      "title": "الحكومة الفلسطينية التاسعة تؤدي اليمين الدستورية (The ninth Palestinian government takes the constitutional oath, February 2005)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2005,
+      "url": "https://info.wafa.ps/Pages/Details/33356",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic); the page itself does not print the date, which comes from Decree No. 3 of 2005 on the same WAFA section (confidence vote of 24/2/2005)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-abbas-biography",
+      "type": "web",
+      "title": "محمود عباس \"أبو مازن\" ... مسيرة عطاء (Mahmoud Abbas: biography)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"The Presidency\"",
+      "publisher": "WAFA",
+      "url": "https://info.wafa.ps/Pages/Details/33835",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full biography (Arabic), incl. the paragraphs on 2003, 2004-2005 and 2008."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-abbas-plo-profile",
+      "type": "web",
+      "title": "محمود عباس \"أبو مازن\" (Mahmoud Abbas: profile in the series \"Leaders of the PLO\")",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"Leaders of the PLO\"",
+      "publisher": "WAFA",
+      "url": "https://info.wafa.ps/Pages/Details/33892",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full profile (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-arafat-milestones",
+      "type": "web",
+      "title": "محطات في حياة الرئيس عرفات (Milestones in the life of President Arafat)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"The late President Yasser Arafat\"",
+      "publisher": "WAFA",
+      "url": "https://info.wafa.ps/Pages/Details/33789",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full page (Arabic). It dates the presidential election to 20 January of the year of the Taba agreement, i.e. 1996 (the text says \"of the same year\" after naming 1995, an apparent slip)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-constitutional-declaration-1-2025",
+      "type": "document",
+      "title": "الاعلان الدستوري رقم 1 لسنة 2025 (Constitutional Declaration No. 1 of 2025 on the Vice-Chairman of the PLO Executive Committee and Vice-President of the State of Palestine temporarily assuming the PA presidency if it falls vacant)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"The Presidency\"",
+      "publisher": "WAFA",
+      "year": 2025,
+      "url": "https://info.wafa.ps/Pages/Details/35917",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Only the title of the entry is shown as text on the page (the declaration itself appears to be an image that was not read)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-decree-17-2003",
+      "type": "document",
+      "title": "مرسوم رئاسي رقم (17) لسنة 2003 بقبول استقالة رئيس الوزراء (Presidential Decree No. 17 of 2003 accepting the resignation of the Prime Minister, 6 September 2003)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2003,
+      "url": "https://info.wafa.ps/Pages/Details/33259",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full decree text (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-decree-20-2003",
+      "type": "document",
+      "title": "مرسوم رقم (20) لسنة 2003م باختيار وتكليف رئيس الوزراء (Decree No. 20 of 2003 on Ahmed Qurei as Prime Minister, 30 October 2003)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2003,
+      "url": "https://info.wafa.ps/Pages/Details/33269",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full decree text (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-decree-6-2003",
+      "type": "document",
+      "title": "مرسوم رئاسي رقم (6) لسنة 2003م باختيار وتكليف رئيس الوزراء (Presidential Decree No. 6 of 2003 choosing and tasking the Prime Minister, 9 March 2003)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"Palestinian governments: the sixth government\"",
+      "publisher": "WAFA",
+      "year": 2003,
+      "url": "https://info.wafa.ps/Pages/Details/33261",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full decree text (Arabic). Official Palestinian source."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-decree-9-2006",
+      "type": "document",
+      "title": "مرسوم رئاسي رقم (9) لسنة 2006م باختيار وتكليف رئيس الوزراء (Presidential Decree No. 9 of 2006 choosing Ismail Haniyeh as Prime Minister, 22 February 2006)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2006,
+      "url": "https://info.wafa.ps/Pages/Details/33360",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full decree text (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-fayyad-resignation-2013",
+      "type": "web",
+      "title": "الرئيس محمود عباس يقبل استقالة فياض ويكلفه بتسيير الأعمال (President Abbas accepts Fayyad's resignation and asks him to stay as caretaker, 13 April 2013)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2013,
+      "url": "https://info.wafa.ps/Pages/Details/33400",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full news item (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-hamdallah-resignation-2013",
+      "type": "web",
+      "title": "الرئيس يقبل استقالة حكومة الحمد الله (The President accepts the resignation of the Hamdallah government, 23 June 2013)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA)",
+      "publisher": "WAFA",
+      "year": 2013,
+      "url": "https://info.wafa.ps/Pages/Details/33408",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "full-text",
+        "checked_on": "2026-10-20",
+        "note": "Read the full news item (Arabic)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
+    },
+    {
+      "id": "wafa-info-plo-ec-decision-al-sheikh-2025",
+      "type": "document",
+      "title": "قرار اللجنة التنفيذية لمنظمة التحرير بتعيين السيد حسين الشيخ نائباً لرئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية رئيس دولة فلسطين (Decision of the PLO Executive Committee appointing Hussein al-Sheikh deputy to the Chairman of the PLO Executive Committee, President of the State of Palestine, 2025)",
+      "container": "Palestinian National Information Center (WAFA Info), Palestine News & Info Agency (WAFA), section \"The Presidency\"",
+      "publisher": "WAFA",
+      "year": 2025,
+      "url": "https://info.wafa.ps/Pages/Details/35801",
+      "accessed": "2026-10-20",
+      "verification": {
+        "level": "excerpt",
+        "checked_on": "2026-10-20",
+        "note": "Only the title of the entry is shown as text on the page (the decision itself appears to be an image that was not read)."
+      },
+      "kind": "government",
+      "institution_country": "PS"
     },
     {
       "id": "wailing-wall-commission-1930",

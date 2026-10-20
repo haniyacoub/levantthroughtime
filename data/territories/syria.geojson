@@ -97,6 +97,41 @@
           {
             "ref": "britannica-golan-heights",
             "quote": "except for a narrow strip in the east that follows the Israeli-Syrian armistice line of June 10, 1967, which was later modified by the separation of forces agreement of May 31, 1974."
+          },
+          {
+            "ref": "palquest-june-1967-war",
+            "locator": "date box",
+            "quote": "5 June 1967 - 10 June 1967"
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section \"The Six-Day War\"",
+            "quote": "and in the last days, without the benefit of surprise, captured a great part of the Golan Heights, including the dominant Mount Hermon"
+          },
+          {
+            "ref": "avalon-israel-syria-separation-1974",
+            "locator": "para. B(2)",
+            "quote": "All territory east of Line A will be under Syrian administration, and the Syrian civilians will return to this territory."
+          },
+          {
+            "ref": "avalon-israel-syria-separation-1974",
+            "locator": "para. B(3)",
+            "quote": "The area between Line A and the Line designated as Line B on the attached map will be an area of separation."
+          },
+          {
+            "ref": "un-undof-mission-page",
+            "locator": "mission background",
+            "quote": "The United Nations Disengagement Observer Force (UNDOF) was established on 31 May 1974 by Security Council resolution 350 (1974), following the agreed disengagement of the Israeli and Syrian forces in the Golan."
+          },
+          {
+            "ref": "unsc-res-497-1981",
+            "locator": "operative para. 1",
+            "quote": "Decides that the Israeli decision to impose its laws, jurisdiction and administration in the occupied Syrian Golan Heights is null and void and without international legal effect"
+          },
+          {
+            "ref": "israel-mfa-golan-heights-law",
+            "locator": "text of the law (14 December 1981)",
+            "quote": "The Law, jurisdiction and administration of the state shall apply to the Golan Heights, as described in the Appendix."
           }
         ],
         "notes": {
@@ -138,12 +173,57 @@
           {
             "ref": "britannica-golan-heights",
             "quote": "On December 7, 2024 ... the Israel Defense Forces (IDF) entered the demilitarized UNDOF buffer zone."
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 2 (p. 1)",
+            "quote": "in the Syrian Arab Republic on 8 December and the entry of the Israel Defense Forces into the area of separation the same day"
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 6 (p. 2), on 7 December",
+            "quote": "United Nations personnel observed Israel Defense Forces main battle tanks and soldiers in the town of Qunaytirah in the central part of the area of separation"
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 7 (p. 2)",
+            "quote": "As at 18 February, the Israel Defense Forces had constructed 10 positions in the area of separation and occupied two houses in the area of limitation."
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 7 (p. 2)",
+            "quote": "UNDOF informed the Israel Defense Forces that those actions in the area of separation constituted a violation of the Disengagement of Forces Agreement."
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 19 (p. 4), quoting Syria's letter S/2024/888",
+            "quote": "The Syrian Arab Republic condemns this Israeli aggression in the strongest terms."
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 20 (p. 4), quoting Israel's letter S/2024/887",
+            "quote": "Israel has taken limited and temporary measures to counter any further threat to its citizens."
+          },
+          {
+            "ref": "sana-2026-01-29-year-review",
+            "locator": "opening paragraph",
+            "quote": "the Dec. 8, 2024 political change represented by the defeat of the ousted Assad"
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 6 (p. 2)",
+            "quote": "United Nations personnel observed Israel Defense Forces main battle tanks and soldiers in the town of Qunaytirah in the central part of the area of separation"
+          },
+          {
+            "ref": "un-s-2025-154",
+            "locator": "para. 20 (p. 4)",
+            "quote": "Israel has taken limited and temporary measures to counter any further threat to its citizens."
           }
         ],
         "notes": {
-          "en": "Britannica says the IDF entered the buffer zone on 7 Dec 2024 as the Assad government was 'on the brink of collapse'; Damascus called the seizure a violation of the 1974 Disengagement Agreement (A News, Aug 2026). Large parts of Syria were outside central government control during the civil war (2011-2024); not modelled. Modelling note: drawn as the whole of Syria; the Israeli-held positions since December 2024 are a separate record (israeli-positions-syria-2024).",
-          "ar": "تقول بريتانيكا إن جيش الدفاع الإسرائيلي دخل المنطقة العازلة في 7 كانون الأول/ديسمبر 2024 فيما كانت حكومة الأسد 'on the brink of collapse'؛ ووصفت دمشق الاستيلاء بأنه انتهاك لاتفاقية فض الاشتباك لعام 1974 (A News، آب/أغسطس 2026). وكانت أجزاء كبيرة من سوريا خارج سيطرة الحكومة المركزية خلال الحرب الأهلية (2011-2024)؛ ولم تُمثَّل. ملاحظة النمذجة: مرسومة كل سوريا؛ والمواقع التي تحتفظ بها إسرائيل منذ كانون الأول/ديسمبر 2024 سجل منفصل (israeli-positions-syria-2024).",
-          "he": "בריטניקה אומרת שצה\"ל נכנס לאזור החיץ ב-7 בדצמבר 2024 בעוד ממשלת אסד 'on the brink of collapse'; דמשק כינתה את ההשתלטות הפרה של הסכם הפרדת הכוחות מ-1974 (A News, אוגוסט 2026). חלקים גדולים מסוריה היו מחוץ לשליטת השלטון המרכזי במהלך מלחמת האזרחים (2011-2024); לא מודלו. הערת מידול: מצוירת כל סוריה; העמדות המוחזקות בידי ישראל מאז דצמבר 2024 הן רשומה נפרדת (israeli-positions-syria-2024).",
+          "en": "Britannica says the IDF entered the buffer zone on 7 Dec 2024 as the Assad government was 'on the brink of collapse'; Damascus called the seizure a violation of the 1974 Disengagement Agreement (A News, Aug 2026). Large parts of Syria were outside central government control during the civil war (2011-2024); not modelled. Modelling note: drawn as the whole of Syria; the Israeli-held positions since December 2024 are a separate record (israeli-positions-syria-2024). UN account (S/2025/154): UN personnel saw IDF tanks in Qunaytirah inside the area of separation on 7 December 2024; the IDF entered the area of separation on 8 December, the day the Assad government fell, and by 18 February 2025 had built 10 positions there, which UNDOF called a violation of the 1974 agreement. Syria condemned the move as aggression; Israel described its measures as \"limited and temporary\".",
+          "ar": "تقول Britannica إن الجيش الإسرائيلي دخل المنطقة العازلة في 7 كانون الأول/ديسمبر 2024 فيما كانت حكومة الأسد «على شفا الانهيار»؛ ووصفت دمشق الاستيلاء بأنه انتهاك لاتفاقية فك الاشتباك لعام 1974 (A News، آب/أغسطس 2026). كانت أجزاء واسعة من سوريا خارج سيطرة الحكومة المركزية أثناء الحرب الأهلية (2011-2024)؛ وهذا غير مبيّن على الخريطة. ملاحظة حول الرسم: تُرسم كامل سوريا؛ والمواقع التي تحتلها إسرائيل منذ كانون الأول/ديسمبر 2024 سجل منفصل (israeli-positions-syria-2024). رواية الأمم المتحدة (S/2025/154): رأى أفراد الأمم المتحدة دبابات للجيش الإسرائيلي في القنيطرة داخل منطقة الفصل في 7 كانون الأول/ديسمبر 2024؛ ودخل الجيش الإسرائيلي منطقة الفصل في 8 كانون الأول/ديسمبر، يوم سقوط حكومة الأسد، وبحلول 18 شباط/فبراير 2025 كان قد أقام 10 مواقع فيها، وصفتها قوة الأمم المتحدة لفض الاشتباك (UNDOF) بأنها انتهاك لاتفاقية 1974. أدانت سوريا هذه الخطوة بوصفها عدوانًا؛ ووصفت إسرائيل إجراءاتها بأنها «محدودة ومؤقتة».",
+          "he": "Britannica אומרת שצה״ל נכנס לאזור החיץ ב-7 בדצמבר 2024 כשממשלת אסד הייתה “על סף קריסה”; דמשק כינתה את ההשתלטות הפרה של הסכם הפרדת הכוחות מ-1974 (A News, אוגוסט 2026). חלקים נרחבים מסוריה היו מחוץ לשליטת השלטון המרכזי במהלך מלחמת האזרחים (2011-2024); הדבר אינו מוצג במפה. הערה על השרטוט: מצוירת כל סוריה; העמדות שבידי ישראל מאז דצמבר 2024 הן רשומה נפרדת (israeli-positions-syria-2024). תיאור האו״ם (S/2025/154): אנשי האו״ם ראו טנקים של צה״ל בקוניטרה בתוך אזור ההפרדה ב-7 בדצמבר 2024; צה״ל נכנס לאזור ההפרדה ב-8 בדצמבר, היום שבו נפלה ממשלת אסד, ועד 18 בפברואר 2025 הקים בו 10 עמדות, שכוח אונדו (UNDOF) כינה הפרה של הסכם 1974. סוריה גינתה את הצעד כתוקפנות; ישראל תיארה את צעדיה כ“מוגבלים וזמניים”.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

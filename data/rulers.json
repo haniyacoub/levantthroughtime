@@ -7954,6 +7954,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Chaim Weizmann (1949 - 1952)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Chaim Weizmann (1949-1952), Zionist leader, prominent scientist"
         }
       ],
       "notes": {
@@ -8069,6 +8074,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Yitzhak Ben-Zvi (1952 - 1963)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Yitzhak Ben-Zvi (1952-1963), head of the Jewish Agency, historian"
         }
       ],
       "notes": {
@@ -8191,6 +8201,46 @@
           "ref": "britannica-gaza-strip",
           "locator": "history",
           "quote": "The Gaza Strip was under Egyptian military rule from 1949 to 1956 and again from 1957 to 1967."
+        },
+        {
+          "ref": "presidency-eg-naguib",
+          "locator": "term box",
+          "quote": "18 / 06 / 1953 - 14 / 11 / 1954"
+        },
+        {
+          "ref": "presidency-eg-naguib",
+          "locator": "biography",
+          "quote": "On June 18, 1953 Egypt has become a republic and Naguib was appointed as the first president of the Arab Republic of Egypt."
+        },
+        {
+          "ref": "presidency-eg-naguib",
+          "locator": "biography",
+          "quote": "On November 14, 1954, the council discharged Naguib of all of his posts, with Gamal Abdel Nasser the Council's President."
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "section on 1953",
+          "quote": "On 18 June, 1953 an issue was decreed by the Revolutionary Council whereby the constitutional monarchy was cancelled and Egypt was announced a Republic with Mohammed Naguib as President"
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "list of rulers (Arabic)",
+          "quote": "الملك أحمد فؤاد الثانى من 26 يوليو 1952 إلى إعلان الجمهورية فى 18 يونيو 1953."
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "section on 1954",
+          "quote": "Revolutionary Council accepted reappointing Mohammed Naguib as President according to a decree issued on 27 February, 1954."
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "section on 1954",
+          "quote": "precisely on 14 November, 1954, the Revolutionary Council decided to acquit Naguib of all his responsibilities while the presidential post remained vacant"
+        },
+        {
+          "ref": "frus-1952-54-v09p2-d1370",
+          "locator": "telegram of 15 November 1954",
+          "quote": "Embassy has received Foreign Office note stating that RCC decide remove Naguib from all his functions, post of President to remain vacant for present."
         }
       ],
       "notes": {
@@ -8317,12 +8367,37 @@
           "ref": "britannica-naguib",
           "locator": "lead",
           "quote": "February 27–November 14, 1954"
+        },
+        {
+          "ref": "presidency-eg-rcc",
+          "locator": "page text and term box",
+          "quote": "The Revolutionary Command Council ruled Egypt from November 14, 1954 to June 24, 1956."
+        },
+        {
+          "ref": "presidency-eg-rcc",
+          "locator": "page text",
+          "quote": "Then, Lieutenant Colonel / Gamal Abdel Nasser assumed the presidency of the Council from 1954 to 1956."
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "section on 1954",
+          "quote": "the presidential post remained vacant and the Revolutionary Council headed by Nasser took charge."
+        },
+        {
+          "ref": "frus-1952-54-v09p2-d1370",
+          "locator": "telegram of 15 November 1954",
+          "quote": "post of President to remain vacant for present."
+        },
+        {
+          "ref": "presidency-eg-rcc",
+          "locator": "page text",
+          "quote": "The Revolutionary Command Council ruled Egypt from November 14, 1954 to June 24, 1956."
         }
       ],
       "notes": {
-        "en": "Dating of Nasser's headship of state differs: Britannica's list of presidents counts him as president from Naguib's removal on 14 Nov 1954, while Britannica's biography of Nasser calls him prime minister in 1954-56 and president only from the June 1956 plebiscite. He had already named himself prime minister in spring 1954. This record covers the disputed interval; the next record covers his elected presidency.",
-        "ar": "تأريخ رئاسة ناصر للدولة يختلف: فقائمة الرؤساء في بريتانيكا تحتسبه رئيسًا منذ عزل نجيب في 14 تشرين الثاني/نوفمبر 1954، بينما تسميه سيرة ناصر في بريتانيكا رئيسًا للوزراء في 1954-56 ورئيسًا فقط منذ استفتاء حزيران/يونيو 1956. وكان قد سمّى نفسه رئيسًا للوزراء في ربيع 1954. يغطي هذا السجل الفترة المتنازَع عليها؛ ويغطي السجل التالي رئاسته المنتخبة.",
-        "he": "תיארוך עמידתו של נאצר בראש המדינה שונה: רשימת הנשיאים של בריטניקה מונה אותו כנשיא מהדחת נגיב ב-14 בנובמבר 1954, ואילו הביוגרפיה של נאצר בבריטניקה מכנה אותו ראש ממשלה ב-1954-56 ונשיא רק מהמשאל העם של יוני 1956. הוא כבר מינה את עצמו לראש ממשלה באביב 1954. רשומה זו מכסה את המרווח השנוי במחלוקת; הרשומה הבאה מכסה את נשיאותו הנבחרת.",
+        "en": "Dating of Nasser's headship of state differs: Britannica's list of presidents counts him as president from Naguib's removal on 14 Nov 1954, while Britannica's biography of Nasser calls him prime minister in 1954-56 and president only from the June 1956 plebiscite. He had already named himself prime minister in spring 1954. This record covers the disputed interval; the next record covers his elected presidency. Egyptian official sources (the Presidency's list of former heads of state; the Bibliotheca Alexandrina Nasser archive) and the US embassy at the time agree that the office of president was left vacant from 14 November 1954 and that the Revolutionary Command Council, chaired by Nasser, ruled until 24 June 1956.",
+        "ar": "يختلف تحديد تاريخ رئاسة عبد الناصر للدولة: تعدّه قائمة الرؤساء في Britannica رئيسًا منذ عزل نجيب في 14 تشرين الثاني/نوفمبر 1954، بينما تصفه سيرة عبد الناصر في Britannica بأنه رئيس وزراء في 1954-1956 وأنه رئيس فقط منذ استفتاء حزيران/يونيو 1956. وكان قد عيّن نفسه رئيسًا للوزراء في ربيع 1954. يغطي هذا السجل الفترة المتنازع عليها؛ ويغطي السجل التالي رئاسته المنتخبة. وتتفق المصادر الرسمية المصرية (قائمة رئاسة الجمهورية لرؤساء الدولة السابقين؛ أرشيف عبد الناصر في مكتبة الإسكندرية) والسفارة الأمريكية في ذلك الوقت على أن منصب الرئيس ظل شاغرًا منذ 14 تشرين الثاني/نوفمبر 1954 وأن مجلس قيادة الثورة برئاسة عبد الناصر حكم حتى 24 حزيران/يونيو 1956.",
+        "he": "התארוך של כהונת נאצר כראש המדינה שנוי במחלוקת: רשימת הנשיאים של Britannica מונה אותו כנשיא מאז הדחת נגיב ב-14 בנובמבר 1954, ואילו הביוגרפיה של נאצר ב-Britannica קוראת לו ראש ממשלה ב-1954-1956 ונשיא רק מאז משאל העם של יוני 1956. הוא כבר מינה את עצמו לראש ממשלה באביב 1954. רשומה זו מכסה את התקופה השנויה במחלוקת; הרשומה הבאה מכסה את נשיאותו הנבחרת. מקורות רשמיים מצריים (רשימת נשיאות הרפובליקה של ראשי המדינה לשעבר; ארכיון נאצר של ספריית אלכסנדריה) והשגרירות האמריקנית באותה עת מסכימים שתפקיד הנשיא נותר ריק מ-14 בנובמבר 1954 ושמועצת הפיקוד של המהפכה בראשות נאצר שלטה עד 24 ביוני 1956.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8438,6 +8513,26 @@
           "ref": "britannica-gaza-strip",
           "locator": "history",
           "quote": "The Gaza Strip was under Egyptian military rule from 1949 to 1956 and again from 1957 to 1967."
+        },
+        {
+          "ref": "presidency-eg-nasser",
+          "locator": "biography",
+          "quote": "He became the President of the Arab Republic of Egypt on June 23, 1956."
+        },
+        {
+          "ref": "presidency-eg-nasser",
+          "locator": "term box",
+          "quote": "24 / 06 / 1956 - 28 / 09 / 1970"
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "section on 1956",
+          "quote": "Nasser was elected as President following the poll held on 24 June, 1956 and according to the constitution of 16 January, 1956"
+        },
+        {
+          "ref": "bibalex-nasser-historical-sketch",
+          "locator": "closing section",
+          "quote": "Nasser, however, remained President of the United Arab Republic until his departure on 28 September, 1970."
         }
       ],
       "notes": {
@@ -8490,6 +8585,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Zalman Shazar (1963 - 1973)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Zalman Shazar (1963-1973), politician, scholar, historian, author, poet"
         }
       ],
       "notes": {
@@ -8703,7 +8803,9 @@
       },
       "start": {
         "year": 1970,
-        "precision": "year"
+        "month": 9,
+        "day": 29,
+        "precision": "day"
       },
       "end": {
         "year": 1981,
@@ -8722,12 +8824,42 @@
           "ref": "britannica-nasser",
           "locator": "lead",
           "quote": "died September 28, 1970, Cairo"
+        },
+        {
+          "ref": "bibalex-sadat-presidency-1970",
+          "locator": "events of 1970 (Arabic)",
+          "quote": "تولى السادات حكم مصر يوم التاسع والعشرين من سبتمبر 1970، وجرى انتخابه من قبل الشعب باستفتاء في الخامس عشر من أكتوبر عام 1970"
+        },
+        {
+          "ref": "presidency-eg-sadat",
+          "locator": "biography",
+          "quote": "Following Nasser's Death, Al-Sadat became the acting president."
+        },
+        {
+          "ref": "presidency-eg-sadat",
+          "locator": "biography",
+          "quote": "He was elected President of the Republic after the referendum result was announced on October 17, 1970."
+        },
+        {
+          "ref": "presidency-eg-sadat",
+          "locator": "term box",
+          "quote": "29 / 09 / 1970 - 06 / 10 / 1981"
+        },
+        {
+          "ref": "presidency-eg-sadat",
+          "locator": "biography",
+          "quote": "He was assassinated on October 6, 1981."
+        },
+        {
+          "ref": "bibalex-sadat-presidency-1970",
+          "locator": "events of 1970 (Arabic)",
+          "quote": "تولى السادات حكم مصر يوم التاسع والعشرين من سبتمبر 1970"
         }
       ],
       "notes": {
-        "en": "Succeeded Nasser after his death on 28 Sep 1970 (the exact day of Sadat's assumption of office is not given in the article text consulted). Signed the 1978 Camp David Accords and the 1979 peace treaty with Israel; assassinated on 6 Oct 1981. Britannica's list records Sufi Abu Taleb as acting president in 1981 before Mubarak.",
-        "ar": "خلف ناصر بعد وفاته في 28 أيلول/سبتمبر 1970 (ولا يُعطى اليوم الدقيق لتولي السادات المنصب في نص المقالة التي رُوجعت). وقّع اتفاقيات كامب ديفيد عام 1978 ومعاهدة السلام مع إسرائيل عام 1979؛ واغتيل في 6 تشرين الأول/أكتوبر 1981. وتسجل قائمة بريتانيكا صوفي أبو طالب رئيسًا بالإنابة عام 1981 قبل مبارك.",
-        "he": "ירש את נאצר לאחר מותו ב-28 בספטמבר 1970 (היום המדויק של כניסת סאדאת לתפקיד אינו ניתן בטקסט המאמר שנבדק). חתם על הסכמי קמפ דיוויד ב-1978 ועל הסכם השלום עם ישראל ב-1979; הותקף ונרצח ב-6 באוקטובר 1981. רשימת בריטניקה מציינת את סופי אבו טאלב כנשיא בפועל ב-1981 לפני מובארק.",
+        "en": "Succeeded Nasser after his death on 28 Sep 1970: acting president from 29 Sep 1970 (Egyptian Presidency; Bibliotheca Alexandrina), confirmed by referendum on 15 Oct and declared elected on 17 Oct 1970. Signed the 1978 Camp David Accords and the 1979 peace treaty with Israel; assassinated on 6 Oct 1981. Britannica's list records Sufi Abu Taleb as acting president in 1981 before Mubarak.",
+        "ar": "خلف عبد الناصر بعد وفاته في 28 أيلول/سبتمبر 1970: رئيس بالنيابة منذ 29 أيلول/سبتمبر 1970 (رئاسة الجمهورية المصرية؛ مكتبة الإسكندرية)، وتأكد بالاستفتاء في 15 تشرين الأول/أكتوبر وأُعلن فوزه في 17 تشرين الأول/أكتوبر 1970. وقّع اتفاقيات كامب ديفيد عام 1978 ومعاهدة السلام مع إسرائيل عام 1979؛ واغتيل في 6 تشرين الأول/أكتوبر 1981. تسجّل قائمة Britannica صوفي أبو طالب رئيسًا بالنيابة في 1981 قبل مبارك.",
+        "he": "ירש את נאצר לאחר מותו ב-28 בספטמבר 1970: נשיא בפועל מ-29 בספטמבר 1970 (נשיאות מצרים; ספריית אלכסנדריה), אושר במשאל עם ב-15 באוקטובר והוכרז כנבחר ב-17 באוקטובר 1970. חתם על הסכמי קמפ דייוויד ב-1978 ועל הסכם השלום עם ישראל ב-1979; נרצח ב-6 באוקטובר 1981. רשימת Britannica מציינת את סופי אבו טאלב כנשיא בפועל ב-1981 לפני מובארק.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -8776,6 +8908,21 @@
           "ref": "britannica-hafez-assad",
           "locator": "lead",
           "quote": "died June 10, 2000, Damascus) was the president of Syria (1971–2000)"
+        },
+        {
+          "ref": "crs-ib92075-2002",
+          "locator": "section \"Syrian Politics and External Relations\"",
+          "quote": "The death of Syrian President Hafiz al-Asad on June 10, 2000 removed one of the longest serving heads of state in the Middle East"
+        },
+        {
+          "ref": "crs-ib92075-2002",
+          "locator": "section \"Syrian Politics and External Relations\"",
+          "quote": "came to power in a bloodless coup in November 1970, was elected to his fifth 7-year presidential term on February 10, 1999."
+        },
+        {
+          "ref": "npr-2000-07-17-bashar-presidency",
+          "locator": "programme summary, 17 July 2000",
+          "quote": "to take over the post held by his late father Hafez for 30 years"
         }
       ],
       "notes": {
@@ -8828,6 +8975,11 @@
           "ref": "britannica-katzir",
           "locator": "body",
           "quote": "in 1973 he was elected president of Israel in a secret ballot of the Knesset"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Ephraim Katzir (1973-1978), renowned biochemist"
         }
       ],
       "notes": {
@@ -9002,6 +9154,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Yitzhak Navon (1978 - 1983)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Yitzhak Navon (1978-1983), politician, educator, author"
         }
       ],
       "notes": {
@@ -9038,7 +9195,8 @@
       "start": {
         "year": 1981,
         "month": 10,
-        "precision": "month"
+        "day": 14,
+        "precision": "day"
       },
       "end": {
         "year": 2011,
@@ -9057,6 +9215,21 @@
           "ref": "britannica-mubarak",
           "locator": "Post-presidency",
           "quote": "On February 11 Mubarak left Cairo for Sharm el-Sheikh"
+        },
+        {
+          "ref": "presidency-eg-mubarak",
+          "locator": "term box",
+          "quote": "14 / 10 / 1981 - 11 / 02 / 2011"
+        },
+        {
+          "ref": "presidency-eg-mubarak",
+          "locator": "biography",
+          "quote": "On February 11, 2011, he stepped down 18 days after the 25th of January Revolution. He transferred power to the Supreme Council of the Armed Forces."
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "section on 1981-2011 (Arabic)",
+          "quote": "وفى أكتوبر 1981 تولى الرئيس مبارك حكم مصر"
         }
       ],
       "notes": {
@@ -9109,6 +9282,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Chaim Herzog (1983 - 1993)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Chaim Herzog (1983-1993), attorney, general, diplomat, author"
         }
       ],
       "notes": {
@@ -9470,6 +9648,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Ezer Weizman (1993 - 2000)"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Ezer Weizman (1993-2000), air force general, politician, businessman"
         }
       ],
       "notes": {
@@ -9636,12 +9819,37 @@
           "ref": "britannica-arafat",
           "locator": "lead",
           "quote": "was the president (1996–2004) of the Palestinian Authority (PA)"
+        },
+        {
+          "ref": "passia-chronology-1996",
+          "locator": "1996, Jan. 20",
+          "quote": "Jan. 20: First Palestinian elections take place."
+        },
+        {
+          "ref": "passia-chronology-1996",
+          "locator": "1996, Feb. 12",
+          "quote": "Feb. 12: Yasser Arafat sworn in as first elected President of Palestine."
+        },
+        {
+          "ref": "wafa-info-arafat-milestones",
+          "locator": "milestones list (Arabic)",
+          "quote": "وفي 20 كانون الثاني/ يناير من نفس العام، انتخب رئيساً للسلطة الوطنية الفلسطينية من خلال انتخابات حرة مستقلة"
+        },
+        {
+          "ref": "wafa-info-abbas-biography",
+          "locator": "section on 2004-2005 (Arabic)",
+          "quote": "في 11/11/2004، استشهد الرئيس ياسر عرفات رئيس منظمة التحرير الفلسطينية، ورئيس السلطة الوطنية الفلسطينية"
+        },
+        {
+          "ref": "wafa-info-abbas-biography",
+          "locator": "section on 2004-2005 (Arabic)",
+          "quote": "وتولى السيد روحي فتوح رئاسة السلطة الوطنية الفلسطينية؛ خلال الفترة الممتدة من يوم 11/11/2004 وحتى يوم 15/1/2005"
         }
       ],
       "notes": {
-        "en": "From late 2001 confined by the Israeli army to his Ramallah compound (Britannica PA). Died in Paris on 11 Nov 2004. The interim arrangement between his death and the January 2005 election is not recorded here (no source opened).",
-        "ar": "منذ أواخر 2001 حاصره الجيش الإسرائيلي في مقره في رام الله (بريتانيكا PA). توفي في باريس في 11 تشرين الثاني/نوفمبر 2004. والترتيب المؤقت بين وفاته وانتخابات كانون الثاني/يناير 2005 غير مسجَّل هنا (لم يُفتح مصدر).",
-        "he": "מסוף 2001 הוגבל על ידי הצבא הישראלי במתחמו ברמאללה (בריטניקה PA). מת בפריז ב-11 בנובמבר 2004. ההסדר הזמני בין מותו לבחירות ינואר 2005 אינו נרשם כאן (לא נפתח מקור).",
+        "en": "Elected on 20 January 1996 and sworn in as elected president on 12 February 1996 (PASSIA). After his death on 11 Nov 2004 the Speaker of the Legislative Council, Rawhi Fattouh, held the office ad interim until 15 Jan 2005 (WAFA; see fattouh-pa-interim-president).",
+        "ar": "انتُخب في 20 كانون الثاني/يناير 1996 وأدى اليمين رئيسًا منتخبًا في 12 شباط/فبراير 1996 (PASSIA). بعد وفاته في 11 تشرين الثاني/نوفمبر 2004 تولى رئيس المجلس التشريعي، روحي فتوح، المنصب مؤقتًا حتى 15 كانون الثاني/يناير 2005 (وفا؛ انظر fattouh-pa-interim-president).",
+        "he": "נבחר ב-20 בינואר 1996 והושבע כנשיא נבחר ב-12 בפברואר 1996 (PASSIA). לאחר מותו ב-11 בנובמבר 2004 כיהן יושב ראש מועצת החקיקה, רוחי פתוח, בתפקיד באופן זמני עד 15 בינואר 2005 (WAFA; ראו fattouh-pa-interim-president).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -9855,6 +10063,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "note",
           "quote": "On January 25, 2007, Katsav was suspended after it was reported that Israel’s Attorney General planned to indict him on rape charges. During that time, MK Dalia Itzik served as the acting president."
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Moshe Katsav (2000-2007), social leader, politician"
         }
       ],
       "notes": {
@@ -9891,7 +10104,8 @@
       "start": {
         "year": 2000,
         "month": 7,
-        "precision": "month"
+        "day": 17,
+        "precision": "day"
       },
       "end": {
         "year": 2024,
@@ -9915,12 +10129,37 @@
           "ref": "britannica-sharaa",
           "locator": "image caption",
           "quote": "after ousting Syrian Pres. Bashar al-Assad from power on December 8, 2024."
+        },
+        {
+          "ref": "npr-2000-07-17-bashar-presidency",
+          "locator": "programme summary, 17 July 2000",
+          "quote": "Bashar al-Assad officially becomes president of Syria today"
+        },
+        {
+          "ref": "npr-2000-07-17-bashar-presidency",
+          "locator": "programme summary, 17 July 2000",
+          "quote": "Al-Assad takes the oath before parliament as president of Syria after winning an overwhelming vote in a nationwide referendum"
+        },
+        {
+          "ref": "crs-ib92075-2002",
+          "locator": "economic section",
+          "quote": "In his inaugural address on July 17, President Bashar al-Asad called for"
+        },
+        {
+          "ref": "un-s-2025-154",
+          "locator": "para. 2 (p. 1)",
+          "quote": "in the Syrian Arab Republic on 8 December and the entry of the Israel Defense Forces into the area of separation the same day"
+        },
+        {
+          "ref": "sana-2026-01-29-year-review",
+          "locator": "opening paragraph",
+          "quote": "the Dec. 8, 2024 political change represented by the defeat of the ousted Assad"
         }
       ],
       "notes": {
-        "en": "Elected unopposed on 10 Jul 2000 after his father's death (the inauguration day is not given in the source). Toppled by the rebel offensive on 8 Dec 2024.",
-        "ar": "انتُخب دون منافس في 10 تموز/يوليو 2000 بعد وفاة أبيه (لا يُذكر يوم التنصيب في المصدر). أطاحت به هجمة المعارضة المسلحة في 8 كانون الأول/ديسمبر 2024.",
-        "he": "נבחר ללא מתמודד ב-10 ביולי 2000 לאחר מות אביו (יום ההשבעה אינו מצוין במקור). הודח במתקפת המורדים ב-8 בדצמבר 2024.",
+        "en": "Elected unopposed on 10 Jul 2000 after his father's death and sworn in before parliament on 17 Jul 2000 (NPR; CRS). Toppled by the rebel offensive on 8 Dec 2024.",
+        "ar": "انتُخب دون منافس في 10 تموز/يوليو 2000 بعد وفاة والده وأدى اليمين أمام البرلمان في 17 تموز/يوليو 2000 (NPR؛ CRS). أطاحه هجوم المعارضة المسلحة في 8 كانون الأول/ديسمبر 2024.",
+        "he": "נבחר ללא מתמודד ב-10 ביולי 2000 לאחר מות אביו והושבע בפני הפרלמנט ב-17 ביולי 2000 (NPR; CRS). הופל בהתקפת המורדים ב-8 בדצמבר 2024.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10027,6 +10266,31 @@
           "ref": "britannica-hussein-al-sheikh",
           "locator": "body",
           "quote": "Arafat replaced him with Ahmed Qurei, another architect of the Oslo Accords."
+        },
+        {
+          "ref": "wafa-info-decree-20-2003",
+          "locator": "Article 1 (Arabic)",
+          "quote": "يعين السيد /أحمد قريع (أبو العلاء) بمواصلة تبوأ منصب رئيس الوزراء ويكلف بتشكيل مجلس وزراء جديد."
+        },
+        {
+          "ref": "wafa-info-decree-20-2003",
+          "locator": "date line (Arabic)",
+          "quote": "صدر في مدينة رام الله بتاريخ 30/10/2003م"
+        },
+        {
+          "ref": "wafa-info-9th-government-oath-2005",
+          "locator": "Decree No. 3 of 2005, preamble (Arabic)",
+          "quote": "وعلى جلسة المجلس التشريعي المنعقدة بتاريخ 24/2/2005 بمنح الثقة لمجلس الوزراء"
+        },
+        {
+          "ref": "wafa-info-decree-9-2006",
+          "locator": "Article 1 (Arabic)",
+          "quote": "يختار السيد/ إسماعيل هنية رئيساً للوزراء، ويكلف بتشكيل الحكومة."
+        },
+        {
+          "ref": "wafa-info-decree-9-2006",
+          "locator": "date line (Arabic)",
+          "quote": "صدر في مدينة غزة بتاريخ: 22/2/2006 ميلادية"
         }
       ],
       "notes": {
@@ -10081,12 +10345,42 @@
           "ref": "britannica-hussein-al-sheikh",
           "locator": "body",
           "quote": "Abbas resigned in September"
+        },
+        {
+          "ref": "wafa-info-decree-6-2003",
+          "locator": "Article 1 (Arabic)",
+          "quote": "يختار السيد/ محمود عباس (أبو مازن) رئيساً للوزراء، ويكلف بتشكيل الحكومة."
+        },
+        {
+          "ref": "wafa-info-decree-6-2003",
+          "locator": "date line (Arabic)",
+          "quote": "صدر في مدينة رام الله بتاريخ 9/3/2003م"
+        },
+        {
+          "ref": "wafa-info-decree-17-2003",
+          "locator": "Article 1 (Arabic)",
+          "quote": "تقبل استقالة السيد/ محمود عباس رئيس الوزراء اعتبارا من 6/9/2003"
+        },
+        {
+          "ref": "crs-rl34074-2022",
+          "locator": "appendix on Mahmoud Abbas",
+          "quote": "In March 2003, Abbas was named as the first PA prime minister"
+        },
+        {
+          "ref": "crs-rl34074-2010",
+          "locator": "section on PA governance",
+          "quote": "had the Basic Law amended in March 2003 to create the office of prime minister"
+        },
+        {
+          "ref": "wafa-info-abbas-biography",
+          "locator": "section on 1993-2003 (Arabic)",
+          "quote": "وفي نيسان إبريل من العام 2003 تم تعيين محمود عباس أول رئيس للوزراء"
         }
       ],
       "notes": {
-        "en": "First holder of the office created in 2003.",
-        "ar": "أول من شغل المنصب المستحدث عام 2003.",
-        "he": "הראשון שכיהן בתפקיד שנוצר ב-2003.",
+        "en": "First holder of the office created in 2003. Designated by Presidential Decree No. 6 of 9 March 2003; the WAFA biography dates his appointment to April 2003 (when his government won the Legislative Council's confidence). His resignation was accepted with effect from 6 September 2003 (Decree No. 17 of 2003), the government staying on as caretaker.",
+        "ar": "أول من شغل المنصب الذي أُنشئ عام 2003. عُيّن بموجب المرسوم الرئاسي رقم 6 الصادر في 9 آذار/مارس 2003؛ وتؤرخ سيرته في وفا تعيينه بنيسان/أبريل 2003 (حين نالت حكومته ثقة المجلس التشريعي). قُبلت استقالته اعتبارًا من 6 أيلول/سبتمبر 2003 (المرسوم رقم 17 لعام 2003)، وبقيت الحكومة لتسيير الأعمال.",
+        "he": "הראשון שכיהן בתפקיד שנוצר ב-2003. מונה בצו נשיאותי מס׳ 6 מיום 9 במרץ 2003; הביוגרפיה של WAFA מתארכת את מינויו לאפריל 2003 (כאשר ממשלתו קיבלה את אמון מועצת החקיקה). התפטרותו התקבלה בתוקף מ-6 בספטמבר 2003 (צו מס׳ 17 לשנת 2003), והממשלה המשיכה לכהן כממשלת מעבר.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10117,7 +10411,8 @@
       "start": {
         "year": 2004,
         "month": 11,
-        "precision": "month"
+        "day": 11,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10130,12 +10425,27 @@
           "ref": "britannica-palestine-first-intifada",
           "locator": "section text",
           "quote": "Following Arafat ’s death in 2004, Abbas was elected chairman of the PLO and president of the PA."
+        },
+        {
+          "ref": "wafa-info-abbas-plo-profile",
+          "locator": "profile (Arabic)",
+          "quote": "وبذلك أصبح منذ 11/11/2004، رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية"
+        },
+        {
+          "ref": "wafa-info-abbas-biography",
+          "locator": "section on offices held (Arabic)",
+          "quote": "كما انتخب \"أبو مازن\" رئيساً لدولة فلسطين في جلسة خاصة عقدها المجلس المركزي الفلسطيني في 24/10/2008."
+        },
+        {
+          "ref": "crs-rl34074-2022",
+          "locator": "appendix on Mahmoud Abbas",
+          "quote": "having succeeded Yasser Arafat shortly after his death in 2004"
         }
       ],
       "notes": {
-        "en": "Head of the PLO (and so of the State of Palestine proclaimed by the PLO) since November 2004; still in office on 18 Oct 2026 according to the Britannica articles updated in September 2026. The date on which the PLO Central Council gave him the title President of the State of Palestine was not verified in the sources consulted.",
-        "ar": "رئيس منظمة التحرير (وبالتالي دولة فلسطين التي أعلنتها المنظمة) منذ تشرين الثاني/نوفمبر 2004؛ وما زال في منصبه في 18 تشرين الأول/أكتوبر 2026 بحسب مقالات بريتانيكا المحدَّثة في أيلول/سبتمبر 2026. ولم يُتحقق في المصادر التي رُوجعت من التاريخ الذي منحه فيه المجلس المركزي لمنظمة التحرير لقب رئيس دولة فلسطين.",
-        "he": "יושב ראש אש\"ף (ולכן של מדינת פלסטין שהכריז אש\"ף) מאז נובמבר 2004; עדיין בתפקיד ב-18 באוקטובר 2026 לפי מאמרי בריטניקה שעודכנו בספטמבר 2026. התאריך שבו העניקה לו המועצה המרכזית של אש\"ף את התואר נשיא מדינת פלסטין לא אומת במקורות שנבדקו.",
+        "en": "Head of the PLO (and so of the State of Palestine proclaimed by the PLO) since 11 November 2004, when the PLO Executive Committee elected him chairman (WAFA); still in office on 18 Oct 2026 according to the Britannica articles updated in September 2026. The PLO Central Council elected him President of the State of Palestine at a special session on 24 October 2008 (WAFA).",
+        "ar": "رئيس منظمة التحرير الفلسطينية (وبذلك رئيس دولة فلسطين التي أعلنتها المنظمة) منذ 11 تشرين الثاني/نوفمبر 2004، حين انتخبته اللجنة التنفيذية للمنظمة رئيسًا لها (وفا)؛ وما زال في منصبه في 18 تشرين الأول/أكتوبر 2026 بحسب مقالات Britannica المحدّثة في أيلول/سبتمبر 2026. انتخبه المجلس المركزي لمنظمة التحرير رئيسًا لدولة فلسطين في دورة خاصة في 24 تشرين الأول/أكتوبر 2008 (وفا).",
+        "he": "ראש אש״ף (ובכך גם של מדינת פלסטין שאש״ף הכריז עליה) מאז 11 בנובמבר 2004, כאשר הוועד הפועל של אש״ף בחר בו ליושב ראש (WAFA); עדיין מכהן ב-18 באוקטובר 2026 לפי מאמרי Britannica שעודכנו בספטמבר 2026. מועצת המרכז של אש״ף בחרה בו לנשיא מדינת פלסטין בישיבה מיוחדת ב-24 באוקטובר 2008 (WAFA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10221,7 +10531,8 @@
       "start": {
         "year": 2005,
         "month": 1,
-        "precision": "month"
+        "day": 15,
+        "precision": "day"
       },
       "confidence": "contested",
       "sources": [
@@ -10239,6 +10550,26 @@
           "ref": "britannica-pa-presidency-of-abbas",
           "locator": "section text",
           "quote": "he remained president long after his term expired, at first claiming that he should stay an extra year in order to hold presidential and legislative elections simultaneously."
+        },
+        {
+          "ref": "wafa-info-abbas-plo-profile",
+          "locator": "profile (Arabic)",
+          "quote": "انتخب رئيساً للسلطة الوطنية الفلسطينية في 9/1/2005."
+        },
+        {
+          "ref": "wafa-info-abbas-biography",
+          "locator": "section on 2005 (Arabic)",
+          "quote": "وفي يوم 15/1/2005 أدى السيد محمود عباس \"أبو مازن\" اليمين القانونية أمام أعضاء المجلس التشريعي الفلسطيني؛ ليصبح رئيساً للسلطة الوطنية الفلسطينية."
+        },
+        {
+          "ref": "crs-rl34074-2022",
+          "locator": "appendix on Mahmoud Abbas",
+          "quote": "when his four-year term expired in 2009, the PLO Central Council voted to extend his term indefinitely until new elections could take place."
+        },
+        {
+          "ref": "crs-rl34074-2010",
+          "locator": "section on PA leadership",
+          "quote": "In December 2009, the PLO Central Council met to extend Abbas's presidential term and the PLC's term indefinitely until elections can be held"
         }
       ],
       "notes": {
@@ -10416,6 +10747,11 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Shimon Peres 2007 - 2014"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents",
+          "quote": "Shimon Peres (2007-2014), statesman, public servant and parliamentarian"
         }
       ],
       "notes": {
@@ -10628,7 +10964,8 @@
       "start": {
         "year": 2009,
         "month": 5,
-        "precision": "month"
+        "day": 19,
+        "precision": "day"
       },
       "end": {
         "year": 2013,
@@ -10652,12 +10989,32 @@
           "ref": "britannica-hamdallah",
           "locator": "body",
           "quote": "Hamdallah took office on June 6, 2013"
+        },
+        {
+          "ref": "wafa-info-13th-government-oath-2009",
+          "locator": "news text (Arabic)",
+          "quote": "أدت الحكومة الفلسطينية الجديدة برئاسة سلام فياض مساء يوم الثلاثاء 19 أيار 2009 اليمين الدستورية أمام الرئيس الفلسطيني محمود عباس"
+        },
+        {
+          "ref": "wafa-info-fayyad-resignation-2013",
+          "locator": "news text, Ramallah 13-4-2013 (Arabic)",
+          "quote": "وخلال الاجتماع قدم رئيس الوزراء إلى السيد الرئيس استقالته من منصبه."
+        },
+        {
+          "ref": "wafa-info-15th-government-oath-2013",
+          "locator": "news text (Arabic)",
+          "quote": "أدت الحكومة الفلسطينية الجديدة، برئاسة رامي حمد الله، مساء يوم الخميس 6-6-2013، اليمين القانونية أمام الرئيس محمود عباس"
+        },
+        {
+          "ref": "crs-rl34074-2014",
+          "locator": "section on PA leadership",
+          "quote": "Many analysts interpret the April 2013 resignation of Salam Fayyad"
         }
       ],
       "notes": {
-        "en": "Reappointed in May 2009 after unity talks failed; resigned in 2013 and was succeeded by Rami Hamdallah on 6 Jun 2013.",
-        "ar": "أُعيد تعيينه في أيار/مايو 2009 بعد فشل محادثات الوحدة؛ واستقال عام 2013 وخلفه رامي الحمد الله في 6 حزيران/يونيو 2013.",
-        "he": "מונה מחדש במאי 2009 לאחר כישלון שיחות האחדות; התפטר ב-2013 ויורשו רמי חמדאללה נכנס לתפקיד ב-6 ביוני 2013.",
+        "en": "Reappointed in May 2009 after unity talks failed; sworn in on 19 May 2009 (WAFA). He submitted his resignation on 13 April 2013 and stayed on as caretaker at the President's request until Hamdallah's government took office on 6 June 2013 (WAFA).",
+        "ar": "أُعيد تكليفه في أيار/مايو 2009 بعد فشل محادثات الوحدة؛ وأدى اليمين في 19 أيار/مايو 2009 (وفا). قدّم استقالته في 13 نيسان/أبريل 2013 وبقي لتسيير الأعمال بطلب من الرئيس حتى تولت حكومة الحمد الله مهامها في 6 حزيران/يونيو 2013 (وفا).",
+        "he": "מונה מחדש במאי 2009 לאחר כישלון שיחות האחדות; הושבע ב-19 במאי 2009 (WAFA). הגיש את התפטרותו ב-13 באפריל 2013 והמשיך לכהן כממשלת מעבר לבקשת הנשיא עד שממשלת חמדאללה נכנסה לתפקידה ב-6 ביוני 2013 (WAFA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10713,12 +11070,32 @@
           "ref": "britannica-morsi",
           "locator": "body",
           "quote": "On June 30 Morsi was sworn in as president."
+        },
+        {
+          "ref": "presidency-eg-scaf",
+          "locator": "page text and term box",
+          "quote": "The Supreme Council of the Armed Forces ruled Egypt from February 12, 2011 to June 29, 2012."
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "section on 2011-2013 (Arabic)",
+          "quote": "الفترة الانتقالية من فبراير 2011 الي نهاية يونية 2012 أدارها المجلس الأعلي للقوات المسلحة"
+        },
+        {
+          "ref": "presidency-eg-mubarak",
+          "locator": "biography",
+          "quote": "He transferred power to the Supreme Council of the Armed Forces."
+        },
+        {
+          "ref": "presidency-eg-scaf",
+          "locator": "page text",
+          "quote": "The Supreme Council of the Armed Forces ruled Egypt from February 12, 2011 to June 29, 2012."
         }
       ],
       "notes": {
-        "en": "Military council rule between Mubarak's resignation and the inauguration of President Morsi.",
-        "ar": "حكم المجلس العسكري بين استقالة مبارك وتنصيب الرئيس مرسي.",
-        "he": "שלטון המועצה הצבאית בין התפטרות מובארק להשבעת הנשיא מורסי.",
+        "en": "Military council rule between Mubarak's resignation and the inauguration of President Morsi. The Egyptian Presidency dates SCAF rule 12 February 2011 - 29 June 2012, one day inside the record's dates (Mubarak stepped down on the evening of 11 February; Morsi was sworn in on 30 June).",
+        "ar": "حكم المجلس العسكري بين استقالة مبارك وتنصيب الرئيس مرسي. تؤرخ رئاسة الجمهورية المصرية حكم المجلس الأعلى للقوات المسلحة من 12 شباط/فبراير 2011 إلى 29 حزيران/يونيو 2012، أي يومًا واحدًا داخل تواريخ السجل (تنحّى مبارك مساء 11 شباط/فبراير؛ وأدى مرسي اليمين في 30 حزيران/يونيو).",
+        "he": "שלטון המועצה הצבאית בין התפטרות מובארק לבין השבעת הנשיא מורסי. נשיאות מצרים מתארכת את שלטון המועצה העליונה של הכוחות המזוינים (SCAF) מ-12 בפברואר 2011 עד 29 ביוני 2012, יום אחד בתוך תאריכי הרשומה (מובארק התפטר בערב 11 בפברואר; מורסי הושבע ב-30 ביוני).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10769,6 +11146,21 @@
           "ref": "britannica-morsi",
           "locator": "body",
           "quote": "On July 3 the military made good on its ultimatum, suspending the constitution, removing Morsi from the presidency."
+        },
+        {
+          "ref": "presidency-eg-morsi",
+          "locator": "term box",
+          "quote": "30 / 06 / 2012 - 03 / 07 / 2013"
+        },
+        {
+          "ref": "presidency-eg-morsi",
+          "locator": "biography",
+          "quote": "On June 24, 2012, the Egyptian Presidential Election Commission officially declared Mohamed Morsi the new president-elect."
+        },
+        {
+          "ref": "presidency-eg-morsi",
+          "locator": "biography",
+          "quote": "His term of office lasted until July 3, 2013 when he was ousted from power after June 30 Revolution took place."
         }
       ],
       "notes": {
@@ -10794,9 +11186,9 @@
       },
       "polity": "palestinian-authority",
       "office": {
-        "en": "Prime Minister of the Palestinian Authority (caretaker after June 2013)",
-        "ar": "رئيس وزراء السلطة الوطنية الفلسطينية (تسيير أعمال بعد حزيران/يونيو 2013)",
-        "he": "ראש ממשלת הרשות הפלסטינית (ממשלת מעבר אחרי יוני 2013)",
+        "en": "Prime Minister of the Palestinian Authority (15th and 16th governments; caretaker June-September 2013)",
+        "ar": "رئيس وزراء السلطة الفلسطينية (الحكومتان الخامسة عشرة والسادسة عشرة؛ لتسيير الأعمال حزيران/يونيو-أيلول/سبتمبر 2013)",
+        "he": "ראש ממשלת הרשות הפלסטינית (הממשלות ה-15 וה-16; ממשלת מעבר יוני-ספטמבר 2013)",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10825,12 +11217,37 @@
           "ref": "britannica-pa-presidency-of-abbas",
           "locator": "section text",
           "quote": "was appointed in Fayyad’s place as caretaker."
+        },
+        {
+          "ref": "wafa-info-15th-government-oath-2013",
+          "locator": "news text (Arabic)",
+          "quote": "أدت الحكومة الفلسطينية الجديدة، برئاسة رامي حمد الله، مساء يوم الخميس 6-6-2013، اليمين القانونية أمام الرئيس محمود عباس"
+        },
+        {
+          "ref": "wafa-info-hamdallah-resignation-2013",
+          "locator": "news text, Ramallah 23-6-2013 (Arabic)",
+          "quote": "إن رئيس دولة فلسطين محمود عباس قبل، اليوم الأحد، استقالة رئيس الوزراء رامي الحمد الله، وكلفه بتسيير أعمال الحكومة إلى حين تشكيل حكومة جديدة."
+        },
+        {
+          "ref": "wafa-info-16th-government-2013",
+          "locator": "news text (Arabic)",
+          "quote": "أدت الحكومة الفلسطينية السادسة عشرة، برئاسة رامي حمد الله، مساء يوم الخميس 19-9-2013 اليمين القانونية أمام رئيس دولة فلسطين محمود عباس"
+        },
+        {
+          "ref": "crs-rl34074-2014",
+          "locator": "section on PA leadership",
+          "quote": "and Abbas's June 2013 appointment of political neophyte Rami Hamdallah to replace Fayyad"
+        },
+        {
+          "ref": "wafa-info-hamdallah-resignation-2013",
+          "locator": "news text, Ramallah 23-6-2013 (Arabic)",
+          "quote": "وكلفه بتسيير أعمال الحكومة إلى حين تشكيل حكومة جديدة."
         }
       ],
       "notes": {
-        "en": "Took office 6 Jun 2013 and offered his resignation within weeks (accepted 23 June); Britannica's PA article describes him as caretaker in Fayyad's place until he was reappointed to head the unity government on 2 Jun 2014.",
-        "ar": "تولى المنصب في 6 حزيران/يونيو 2013 وقدّم استقالته في غضون أسابيع (قُبلت في 23 حزيران/يونيو)؛ وتصفه مقالة بريتانيكا عن السلطة الفلسطينية بأنه تسيير أعمال بدلًا من فياض حتى أُعيد تعيينه لرئاسة حكومة الوحدة في 2 حزيران/يونيو 2014.",
-        "he": "נכנס לתפקיד ב-6 ביוני 2013 והציע את התפטרותו תוך שבועות (התקבלה ב-23 ביוני); המאמר של בריטניקה על הרשות הפלסטינית מתאר אותו כממלא מקום במקום פיאד עד שמונה מחדש לעמוד בראש ממשלת האחדות ב-2 ביוני 2014.",
+        "en": "Headed the 15th government from 6 June 2013; his resignation was accepted on 23 June and he stayed as caretaker; re-designated on 13 August 2013, he formed the 16th government, sworn in on 19 September 2013, which served until the consensus government of 2 June 2014 (WAFA).",
+        "ar": "ترأس الحكومة الخامسة عشرة منذ 6 حزيران/يونيو 2013؛ وقُبلت استقالته في 23 حزيران/يونيو وبقي لتسيير الأعمال؛ وأُعيد تكليفه في 13 آب/أغسطس 2013 فشكّل الحكومة السادسة عشرة التي أدت اليمين في 19 أيلول/سبتمبر 2013، وبقيت حتى حكومة التوافق في 2 حزيران/يونيو 2014 (وفا).",
+        "he": "עמד בראש הממשלה ה-15 מ-6 ביוני 2013; התפטרותו התקבלה ב-23 ביוני והוא המשיך לכהן כממשלת מעבר; מונה מחדש ב-13 באוגוסט 2013 והקים את הממשלה ה-16, שהושבעה ב-19 בספטמבר 2013 והמשיכה לכהן עד ממשלת ההסכמה ב-2 ביוני 2014 (WAFA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10861,12 +11278,14 @@
       "start": {
         "year": 2013,
         "month": 7,
-        "precision": "month"
+        "day": 4,
+        "precision": "day"
       },
       "end": {
         "year": 2014,
         "month": 6,
-        "precision": "month"
+        "day": 8,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10884,6 +11303,26 @@
           "ref": "britannica-sisi",
           "locator": "lead",
           "quote": "became Egypt ’s de facto leader in July 2013, after the country’s military removed Pres. Mohammed Morsi from power"
+        },
+        {
+          "ref": "presidency-eg-mansour",
+          "locator": "biography",
+          "quote": "On July 4, 2013, he was sworn in as the interim President before the members of the Constitutional Court."
+        },
+        {
+          "ref": "presidency-eg-mansour",
+          "locator": "biography",
+          "quote": "He ran the country during the transitional phase from the 4th of July, 2013, to the 8th of June, 2014."
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "section \"ثورة 30 يونيو 2013\" (Arabic)",
+          "quote": "وتولى المستشار القاضى عدلى منصور رئاسة الجمهورية في 4 يوليو 2013 بصفه مؤقته"
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "section \"ثورة 30 يونيو 2013\" (Arabic)",
+          "quote": "ثم انتهت فترة حكم عدلى منصور المؤقته في 8 يونيو 2014 بتنصيب السيد عبد الفتاح السيسي رئيسًا للجمهورية"
         }
       ],
       "notes": {
@@ -10923,7 +11362,9 @@
       },
       "end": {
         "year": 2021,
-        "precision": "year"
+        "month": 7,
+        "day": 7,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10931,12 +11372,27 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Reuven Rivlin 2014 - 2021"
+        },
+        {
+          "ref": "israel-mfa-presidents-of-israel",
+          "locator": "list of presidents (2016 capture)",
+          "quote": "Reuven Rivlin (2014- ), attorney, politician, parliamentarian"
+        },
+        {
+          "ref": "ap-2021-07-07-herzog-sworn-in",
+          "locator": "report dated 07/07/2021",
+          "quote": "Isaac Herzog, member of a prominent Zionist family, took the oath of office on Wednesday and became Israel's new president."
+        },
+        {
+          "ref": "ap-2021-07-07-herzog-sworn-in",
+          "locator": "report dated 07/07/2021",
+          "quote": "succeeded Reuven Rivlin as Israel's 11th president and is to hold office for a single seven-year term"
         }
       ],
       "notes": {
-        "en": "Tenth president. Only one, non-official, source could be opened for this record; day-exact dates not verified.",
-        "ar": "الرئيس العاشر. لم يمكن فتح سوى مصدر واحد غير رسمي لهذا السجل؛ ولم تُتحقق التواريخ بالأيام.",
-        "he": "הנשיא העשירי. רק מקור אחד, לא רשמי, ניתן היה לפתוח לרשומה זו; תאריכים ברמת היום לא אומתו.",
+        "en": "Tenth president. Years from the Israeli foreign ministry's list of presidents; the end is the swearing-in of his successor, Isaac Herzog, on 7 July 2021 (AP). The day he took office in 2014 was not verified.",
+        "ar": "الرئيس العاشر. السنوات من قائمة وزارة الخارجية الإسرائيلية للرؤساء؛ والنهاية هي أداء خلفه، إسحاق هرتسوغ، اليمين في 7 تموز/يوليو 2021 (AP). لم يُتحقق من اليوم الذي تسلّم فيه منصبه عام 2014.",
+        "he": "הנשיא העשירי. השנים לקוחות מרשימת הנשיאים של משרד החוץ הישראלי; הסיום הוא השבעת יורשו, יצחק הרצוג, ב-7 ביולי 2021 (AP). היום שבו נכנס לתפקידו ב-2014 לא אומת.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -10967,7 +11423,8 @@
       "start": {
         "year": 2014,
         "month": 6,
-        "precision": "month"
+        "day": 8,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10980,6 +11437,21 @@
           "ref": "britannica-list-presidents-egypt",
           "locator": "list",
           "quote": "Abdel Fattah al-Sisi (2014–)"
+        },
+        {
+          "ref": "sis-egypt-modern-history",
+          "locator": "section \"ثورة 30 يونيو 2013\" (Arabic)",
+          "quote": "ثم انتهت فترة حكم عدلى منصور المؤقته في 8 يونيو 2014 بتنصيب السيد عبد الفتاح السيسي رئيسًا للجمهورية"
+        },
+        {
+          "ref": "crs-rl33003-2014",
+          "locator": "section on the 2014 presidential election",
+          "quote": "Abdel Fatah al Sisi easily won the 2014 presidential election with 96.9% of the vote"
+        },
+        {
+          "ref": "presidency-eg-mansour",
+          "locator": "biography",
+          "quote": "He ran the country during the transitional phase from the 4th of July, 2013, to the 8th of June, 2014."
         }
       ],
       "notes": {
@@ -11021,8 +11493,9 @@
       },
       "end": {
         "year": 2019,
-        "month": 3,
-        "precision": "month"
+        "month": 4,
+        "day": 13,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -11035,12 +11508,27 @@
           "ref": "britannica-hamdallah",
           "locator": "lead",
           "quote": "He resigned in January 2019 but remained in a caretaker position until March, when a replacement was appointed."
+        },
+        {
+          "ref": "wafa-info-17th-government-2014",
+          "locator": "news text and decree (Arabic)",
+          "quote": "أدت حكومة الوفاق الوطني برئاسة رامي الحمد الله، ظهر اليوم الإثنين، اليمين الدستورية أمام رئيس دولة فلسطين محمود عباس"
+        },
+        {
+          "ref": "wafa-info-17th-government-2014",
+          "locator": "decree preamble (Arabic)",
+          "quote": "وعلى خطاب التكليف الصادر عنا بتاريخ 27/05/2014م"
+        },
+        {
+          "ref": "wafa-info-18th-government-oath-2019",
+          "locator": "page title (Arabic)",
+          "quote": "كلمة الرئيس محمود عباس خلال اجتماعه مع الحكومة الثامنة عشرة عقب أدائها اليمين القانونية 13 نيسان 2019"
         }
       ],
       "notes": {
-        "en": "Headed the government formed under the 2014 Fatah-Hamas agreement; resigned January 2019 and stayed as caretaker until Mohammad Shtayyeh was appointed in March 2019.",
-        "ar": "ترأس الحكومة المشكَّلة بموجب اتفاق فتح وحماس 2014؛ واستقال في كانون الثاني/يناير 2019 وبقي في تسيير الأعمال حتى عُيّن محمد اشتية في آذار/مارس 2019.",
-        "he": "עמד בראש הממשלה שהוקמה לפי הסכם פתח-חמאס של 2014; התפטר בינואר 2019 ונשאר כממלא מקום עד שמונה מוחמד שתייה במרץ 2019.",
+        "en": "Headed the government formed under the 2014 Fatah-Hamas agreement; resigned January 2019 and stayed as caretaker until the government of Mohammad Shtayyeh, designated in March 2019, was sworn in on 13 April 2019 (WAFA).",
+        "ar": "ترأس الحكومة المشكّلة بموجب اتفاق فتح وحماس لعام 2014؛ واستقال في كانون الثاني/يناير 2019 وبقي لتسيير الأعمال حتى أدت حكومة محمد اشتية، المكلَّف في آذار/مارس 2019، اليمين في 13 نيسان/أبريل 2019 (وفا).",
+        "he": "עמד בראש הממשלה שהוקמה לפי הסכם פתח-חמאס של 2014; התפטר בינואר 2019 והמשיך לכהן כממשלת מעבר עד שממשלת מוחמד אשתייה, שהוטל עליו להרכיבה במרץ 2019, הושבעה ב-13 באפריל 2019 (WAFA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11198,13 +11686,15 @@
       },
       "start": {
         "year": 2019,
-        "month": 3,
-        "precision": "month"
+        "month": 4,
+        "day": 13,
+        "precision": "day"
       },
       "end": {
         "year": 2024,
-        "month": 2,
-        "precision": "month"
+        "month": 3,
+        "day": 31,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -11217,12 +11707,32 @@
           "ref": "britannica-pa-presidency-of-abbas",
           "locator": "section text",
           "quote": "Shtayyeh stepped down in February 2024, five months into the Israel-Hamas War, under international pressure for broad reform in the PA."
+        },
+        {
+          "ref": "wafa-info-18th-government-oath-2019",
+          "locator": "page title (Arabic)",
+          "quote": "كلمة الرئيس محمود عباس خلال اجتماعه مع الحكومة الثامنة عشرة عقب أدائها اليمين القانونية 13 نيسان 2019"
+        },
+        {
+          "ref": "wafa-info-18th-government-oath-2019",
+          "locator": "decree approving the 18th government, preamble (Arabic; page 33425)",
+          "quote": "وبعد الاطلاع على القرار بقانون بشأن المصادقة على منح الثقة للحكومة الثامنة عشرَة الصادر بتاريخ 11/04/2019م"
+        },
+        {
+          "ref": "wafa-info-19th-government-oath-2024",
+          "locator": "page title (Arabic)",
+          "quote": "الحكومة الفلسطينية الجديدة التاسعة عشرة تؤدي اليمين الدستورية أمام رئيس دولة فلسطين محمود عباس31 آذار 2024"
+        },
+        {
+          "ref": "crs-rl34074-2022",
+          "locator": "section on possible successors",
+          "quote": "Mohammed Shtayyeh (PA prime minister since 2019)"
         }
       ],
       "notes": {
-        "en": "Start = appointment in March 2019; end = his stepping down in February 2024 (exact days not given in the source).",
-        "ar": "البداية = التعيين في آذار/مارس 2019؛ النهاية = تنحّيه في شباط/فبراير 2024 (الأيام الدقيقة غير مذكورة في المصدر).",
-        "he": "ההתחלה = המינוי במרץ 2019; הסיום = התפטרותו בפברואר 2024 (הימים המדויקים אינם מצוינים במקור).",
+        "en": "Designated in March 2019; his government was sworn in on 13 April 2019. He resigned in February 2024 and his government stayed on until the next government was sworn in on 31 March 2024 (WAFA).",
+        "ar": "كُلّف في آذار/مارس 2019؛ وأدت حكومته اليمين في 13 نيسان/أبريل 2019. استقال في شباط/فبراير 2024 وبقيت حكومته حتى أدت الحكومة التالية اليمين في 31 آذار/مارس 2024 (وفا).",
+        "he": "הוטל עליו להרכיב ממשלה במרץ 2019; ממשלתו הושבעה ב-13 באפריל 2019. התפטר בפברואר 2024 וממשלתו המשיכה לכהן עד שהממשלה הבאה הושבעה ב-31 במרץ 2024 (WAFA).",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11252,7 +11762,9 @@
       },
       "start": {
         "year": 2021,
-        "precision": "year"
+        "month": 7,
+        "day": 7,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -11280,6 +11792,16 @@
           "ref": "jvl-presidents-of-israel",
           "locator": "list",
           "quote": "Isaac Herzog 2021 -"
+        },
+        {
+          "ref": "ap-2021-07-07-herzog-sworn-in",
+          "locator": "report dated 07/07/2021",
+          "quote": "Isaac Herzog, member of a prominent Zionist family, took the oath of office on Wednesday and became Israel's new president."
+        },
+        {
+          "ref": "ap-2021-07-07-herzog-sworn-in",
+          "locator": "report dated 07/07/2021",
+          "quote": "succeeded Reuven Rivlin as Israel's 11th president and is to hold office for a single seven-year term"
         }
       ],
       "notes": {
@@ -11549,7 +12071,8 @@
       "end": {
         "year": 2025,
         "month": 1,
-        "precision": "month"
+        "day": 29,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -11562,6 +12085,21 @@
           "ref": "britannica-sharaa",
           "locator": "body",
           "quote": "Before replacing Assad as the de facto leader of Syria, Sharaa went by the nom de guerre Abu Mohammad al-Jolani."
+        },
+        {
+          "ref": "sana-2026-01-29-year-review",
+          "locator": "opening paragraph",
+          "quote": "Syria has marked one year since the Victory Conference that followed the Dec. 8, 2024 political change represented by the defeat of the ousted Assad"
+        },
+        {
+          "ref": "sana-2026-09-26-transition",
+          "locator": "main text",
+          "quote": "A key step came on Jan. 29, 2025, when the Conference for the Declaration of the Victory of the Revolution announced Ahmad al-Sharaa as the country's president for the transitional period."
+        },
+        {
+          "ref": "un-s-2025-154",
+          "locator": "para. 21 (p. 5)",
+          "quote": "On 16 January, Syrian caretaker authorities stated, in remarks made by Ahmad Al-Sharaa"
         }
       ],
       "notes": {
@@ -11598,7 +12136,8 @@
       "start": {
         "year": 2025,
         "month": 1,
-        "precision": "month"
+        "day": 29,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -11611,6 +12150,21 @@
           "ref": "britannica-sharaa",
           "locator": "lead",
           "quote": "is the president (2025–) of Syria ’s interim government"
+        },
+        {
+          "ref": "sana-2025-01-30-victory-statement",
+          "locator": "point 8 of the statement",
+          "quote": "Leader Ahmad al-Sharaa shall assume the presidency of the country during the transitional period, carrying out the duties of the President of the Syrian Arab Republic"
+        },
+        {
+          "ref": "sana-2026-09-26-transition",
+          "locator": "main text",
+          "quote": "A key step came on Jan. 29, 2025, when the Conference for the Declaration of the Victory of the Revolution announced Ahmad al-Sharaa as the country's president for the transitional period."
+        },
+        {
+          "ref": "sana-2026-09-26-transition",
+          "locator": "main text",
+          "quote": "On March 13, President al-Sharaa signed the Constitutional Declaration, which set out the framework for the transitional period."
         }
       ],
       "notes": {
@@ -11634,11 +12188,11 @@
           "he": "machine-draft"
         }
       },
-      "polity": "palestinian-authority",
+      "polity": "state-of-palestine",
       "office": {
-        "en": "Vice President (post created by the PLO in April 2025)",
-        "ar": "نائب الرئيس (منصب استحدثته منظمة التحرير الفلسطينية في نيسان/أبريل 2025)",
-        "he": "סגן נשיא (תפקיד שיצר אש״ף באפריל 2025)",
+        "en": "Vice President of the State of Palestine and Vice-Chairman of the PLO Executive Committee (posts created April 2025)",
+        "ar": "نائب رئيس دولة فلسطين، نائب رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية (منصبان أُنشئا في نيسان/أبريل 2025)",
+        "he": "סגן נשיא מדינת פלסטין וסגן יושב ראש הוועד הפועל של אש״ף (תפקידים שנוצרו באפריל 2025)",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -11660,12 +12214,32 @@
           "ref": "britannica-hussein-al-sheikh",
           "locator": "body",
           "quote": "In April 2025 the PLO created the position of vice president of the PA and appointed Sheikh to it."
+        },
+        {
+          "ref": "nad-vp-hussein-al-sheikh",
+          "locator": "biography",
+          "quote": "the position of Vice President of the State of Palestine was unanimously created, and Hussein Al Sheikh was appointed Vice Chairman of the Executive Committee of the Palestine Liberation Organization"
+        },
+        {
+          "ref": "nad-vp-hussein-al-sheikh",
+          "locator": "biography",
+          "quote": "Following the convention of the Central Council on 24 April 2025"
+        },
+        {
+          "ref": "wafa-info-plo-ec-decision-al-sheikh-2025",
+          "locator": "entry title (Arabic)",
+          "quote": "قرار اللجنة التنفيذية لمنظمة التحرير بتعيين السيد حسين الشيخ نائباً لرئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية"
+        },
+        {
+          "ref": "wafa-info-constitutional-declaration-1-2025",
+          "locator": "entry title (Arabic)",
+          "quote": "الاعلان الدستوري رقم 1 لسنة 2025 حول تولي نائب رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية، نائب رئيس دولة فلسطين، مهام رئاسة السلطة الوطنية مؤقتاً في حال شغور المركز."
         }
       ],
       "notes": {
-        "en": "Britannica describes the post as vice president of the PA, created by the PLO, and calls him Abbas's designated successor; he had been secretary-general of the PLO Executive Committee since 2022. Recorded with polity palestinian-authority following Britannica; the PLO decision also concerned the PLO's own leadership bodies (not verified in detail here).",
-        "ar": "تصف بريتانيكا المنصب بأنه نائب رئيس السلطة الفلسطينية استحدثته منظمة التحرير، وتسميه خليفة عباس المعيَّن؛ وكان أمينًا عامًا للجنة التنفيذية لمنظمة التحرير منذ 2022. سُجِّل مع الكيان السياسي palestinian-authority تبعًا لبريتانيكا؛ وكان قرار منظمة التحرير يتعلق أيضًا بهيئات قيادة المنظمة نفسها (لم يُتحقق منه بالتفصيل هنا).",
-        "he": "בריטניקה מתארת את התפקיד כסגן נשיא הרשות הפלסטינית שנוצר על ידי אש\"ף, וקוראת לו היורש המיועד של עבאס; הוא היה מזכ\"ל הוועד הפועל של אש\"ף מאז 2022. נרשם עם הישות המדינית palestinian-authority בעקבות בריטניקה; החלטת אש\"ף נגעה גם לגופי ההנהגה של אש\"ף עצמו (לא אומתה כאן בפירוט).",
+        "en": "Palestinian official sources (the PLO Negotiations Affairs Department; WAFA) name the posts Vice President of the State of Palestine and Vice-Chairman of the PLO Executive Committee, created after the PLO Central Council met on 24 April 2025; Britannica describes the post as vice president of the PA and calls him Abbas's designated successor. Under Constitutional Declaration No. 1 of 2025 he would take on the duties of PA president temporarily if that office fell vacant. He had been secretary-general of the PLO Executive Committee since 2022.",
+        "ar": "تسمّي المصادر الفلسطينية الرسمية (دائرة شؤون المفاوضات في منظمة التحرير الفلسطينية؛ وفا) المنصبين نائب رئيس دولة فلسطين ونائب رئيس اللجنة التنفيذية لمنظمة التحرير الفلسطينية، وقد أُنشئا بعد اجتماع المجلس المركزي لمنظمة التحرير في 24 نيسان/أبريل 2025؛ بينما تصف Britannica المنصب بأنه نائب رئيس السلطة الفلسطينية وتصفه بأنه الخليفة المعيَّن لعباس. وبموجب الإعلان الدستوري رقم 1 لعام 2025 يتولى مهام رئيس السلطة الفلسطينية مؤقتًا إذا شغر هذا المنصب. وكان أمينًا لسر اللجنة التنفيذية لمنظمة التحرير منذ عام 2022.",
+        "he": "מקורות פלסטיניים רשמיים (מחלקת ענייני המשא ומתן של אש״ף; WAFA) מכנים את התפקידים סגן נשיא מדינת פלסטין וסגן יושב ראש הוועד הפועל של אש״ף, שנוצרו לאחר התכנסות מועצת המרכז של אש״ף ב-24 באפריל 2025; Britannica מתארת את התפקיד כסגן נשיא הרשות הפלסטינית וקוראת לו יורשו המיועד של עבאס. לפי ההצהרה החוקתית מס׳ 1 לשנת 2025 הוא ימלא באופן זמני את תפקידי נשיא הרשות הפלסטינית אם תפקיד זה יתפנה. הוא כיהן כמזכ״ל הוועד הפועל של אש״ף מאז 2022.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

@@ -35,6 +35,31 @@
           {
             "ref": "britannica-gaza-strip",
             "quote": "the Gaza Strip was again taken by Israel, which occupied the region for the next quarter century."
+          },
+          {
+            "ref": "icj-2024-opt-ao",
+            "locator": "para. 88 (PDF p. 34)",
+            "quote": "Following the 1967 armed conflict, Israel, as the occupying Power, placed the Gaza Strip under its effective control."
+          },
+          {
+            "ref": "palquest-june-1967-war",
+            "locator": "opening paragraph",
+            "quote": "In June 1967, the third Arab-Israeli war broke out, at the end of which Israel occupied the Sinai, the Syrian Golan Heights, the Gaza Strip, and the West Bank"
+          },
+          {
+            "ref": "un-peacemaker-gaza-jericho-1994",
+            "locator": "Article III(4), p. 3",
+            "quote": "the Civil Administration in the Gaza Strip and the Jericho Area will be dissolved and the Israeli military government will be withdrawn."
+          },
+          {
+            "ref": "passia-chronology-1994-1995",
+            "locator": "1994, May 10",
+            "quote": "May 10: 157 Palestinian police cross into Gaza Strip from Egypt at Rafah crossing."
+          },
+          {
+            "ref": "hajjar-1988-merip-primer",
+            "locator": "opening paragraph",
+            "quote": "Since 1967 Israel has operated a military regime in the occupied territories of Gaza and the West Bank."
           }
         ],
         "id": "israeli-military-government-gaza-1",
@@ -75,12 +100,52 @@
           {
             "ref": "britannica-gaza-strip",
             "quote": "In 1994 Israel began a phased transfer of governmental authority in the Gaza Strip to the Palestinian Authority (PA)"
+          },
+          {
+            "ref": "un-peacemaker-gaza-jericho-1994",
+            "locator": "Article II(3), p. 2",
+            "quote": "Israel shall, concurrently with the withdrawal, redeploy its remaining military forces to the Settlements and the Military Installation Area"
+          },
+          {
+            "ref": "un-peacemaker-gaza-jericho-1994",
+            "locator": "Article V(3)(b), p. 4",
+            "quote": "Israel shall exercise its authority through its military government, which, for that end, shall continue to have the necessary legislative, judicial and executive powers and responsibilities, in accordance with international law."
+          },
+          {
+            "ref": "crs-rs22000-2005",
+            "locator": "section on implementation",
+            "quote": "the Israeli Defense Forces (IDF) completed evacuating bases and personnel from the Strip on September 12, and the Israeli cabinet formally cancelled the military government in Gaza."
+          },
+          {
+            "ref": "palquest-gaza-redeployment-2005",
+            "locator": "section on implementation",
+            "quote": "The military withdrawal was completed by 21 September, with the Israeli troops maintaining tight external control of the Strip from land, sea, and air"
+          },
+          {
+            "ref": "icj-2024-opt-ao",
+            "locator": "para. 88 (PDF p. 34)",
+            "quote": "By 2005, Israel had completed the withdrawal of its army and the removal of the settlements in the Gaza Strip."
+          },
+          {
+            "ref": "crs-rs22000-2005",
+            "locator": "section on implementation",
+            "quote": "completed evacuating bases and personnel from the Strip on September 12"
+          },
+          {
+            "ref": "palquest-gaza-redeployment-2005",
+            "locator": "section on implementation",
+            "quote": "The military withdrawal was completed by 21 September"
+          },
+          {
+            "ref": "un-peacemaker-gaza-jericho-1994",
+            "locator": "Article V(3)(a), p. 4",
+            "quote": "Israel has authority over the Settlements, the Military Installation Area, Israelis, external security, internal security and public order of Settlements, the Military Installation Area and Israelis"
           }
         ],
         "notes": {
-          "en": "Share of territory retained by Israel 1994-2005 not quantified in an opened source.",
-          "ar": "لم تُحدَّد كميًا في مصدر مفتوح نسبة الأرض التي احتفظت بها إسرائيل في 1994-2005.",
-          "he": "חלקו של השטח שישראל שמרה בו ב-1994-2005 לא הוערך כמותית במקור שנפתח.",
+          "en": "Share of territory retained by Israel 1994-2005 not quantified in an opened source. End date: CRS (2005) dates the last IDF departure and the cabinet's cancellation of the military government to 12 September 2005; PalQuest says the military withdrawal \"was completed by 21 September\". Under the 1994 agreement Israel kept authority over the settlements and the Military Installation Area \"through its military government\".",
+          "ar": "لم تُحدَّد كمّيًا في مصدر جرى فتحه حصة الأراضي التي احتفظت بها إسرائيل في 1994-2005. تاريخ النهاية: تؤرخ CRS (2005) آخر انسحاب للجيش الإسرائيلي وإلغاء مجلس الوزراء للحكم العسكري في 12 أيلول/سبتمبر 2005؛ وتقول PalQuest إن الانسحاب العسكري «اكتمل بحلول 21 أيلول/سبتمبر». وبموجب اتفاق 1994 احتفظت إسرائيل بالسلطة على المستوطنات وعلى منطقة المنشآت العسكرية «من خلال حكمها العسكري».",
+          "he": "חלק השטח ששמרה ישראל בידיה ב-1994-2005 לא כומת במקור שנפתח. תאריך הסיום: CRS (2005) מתארכת את יציאת צה״ל האחרונה ואת ביטול הממשל הצבאי בידי הממשלה ל-12 בספטמבר 2005; PalQuest אומרת שהנסיגה הצבאית “הושלמה עד 21 בספטמבר”. לפי הסכם 1994 שמרה ישראל על הסמכות בהתנחלויות ובאזור המתקן הצבאי “באמצעות ממשלה צבאית שלה”.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

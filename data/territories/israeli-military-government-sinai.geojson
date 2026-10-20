@@ -35,6 +35,31 @@
           {
             "ref": "britannica-six-day-war",
             "quote": "Israel's decisive victory included the capture of the Sinai Peninsula, Gaza Strip, West Bank, Old City of Jerusalem, and Golan Heights"
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section \"The Six-Day War\"",
+            "quote": "Within the brief span of six days, the IDF overran the whole Sinai peninsula, up to the Suez Canal"
+          },
+          {
+            "ref": "sis-egypt-modern-history",
+            "locator": "section \"ثورة 23 يوليو\" (Arabic)",
+            "quote": "قامت فى 5 يونيو 1967 م بهجوم غادر على مصر وسوريا والأردن واحتلت سيناء والجولان والضفة الغربية للأردن."
+          },
+          {
+            "ref": "palquest-june-1967-war",
+            "locator": "opening paragraph",
+            "quote": "at the end of which Israel occupied the Sinai"
+          },
+          {
+            "ref": "unef2-background",
+            "locator": "Background, first paragraph",
+            "quote": "Fighting in the Middle East broke out again on 6 October 1973, when Egyptian forces in the Suez Canal sector and, in a coordinated move, Syrian troops on the Golan Hights attacked Israeli positions."
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section \"The Yom Kippur War\"",
+            "quote": "the former crossed the Suez Canal and established themselves along its entire length on the east bank"
           }
         ],
         "id": "israeli-military-government-sinai-1",
@@ -75,12 +100,62 @@
           {
             "ref": "britannica-camp-david",
             "quote": "Israel agreed to withdraw from Sinai ... These provisions were duly carried out."
+          },
+          {
+            "ref": "unef2-background",
+            "locator": "section on the first disengagement",
+            "quote": "This agreement was signed on 18 January 1974 by the military representatives of Egypt and Israel"
+          },
+          {
+            "ref": "unef2-background",
+            "locator": "section on the first disengagement",
+            "quote": "The agreement provided for the deployment of Egyptian forces on the eastern side of the Canal"
+          },
+          {
+            "ref": "unef2-background",
+            "locator": "section \"Third phase: November 1975-May 1979\"",
+            "quote": "In September 1975, the United States Secretary of State, through further indirect negotiations, succeeded in obtaining the agreement of Egypt and Israel for a second disengagement of their forces in the Sinai."
+          },
+          {
+            "ref": "egypt-israel-treaty-1979",
+            "locator": "Annex I, Article I",
+            "quote": "Israel will complete withdrawal of all its armed forces and civilians from the Sinai not later than three years from the date of exchange of instruments of ratification of this Treaty."
+          },
+          {
+            "ref": "reagan-1982-sinai",
+            "locator": "message text",
+            "quote": "ended on April 25, 1982, when Israel completed its withdrawal from the Sinai and Egyptian sovereignty was reestablished in accordance with the 1979 Peace Treaty"
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 2 (vol. pp. 7-8; PDF pp. 8-9)",
+            "quote": "On 25 April 1982, the Parties agreed to submit the remaining technical questions concerning the international boundary"
+          },
+          {
+            "ref": "sis-egypt-modern-history",
+            "locator": "section on the October war (Arabic)",
+            "quote": "وانسحبت إسرائيل من شبه جزيرة سيناء فى 25 أبريل 1982"
+          },
+          {
+            "ref": "taba-arbitration-award-1988",
+            "locator": "para. 2 (vol. p. 8; PDF p. 9)",
+            "quote": "In the interim, each Party agreed \"to move behind the lines indicated by the other\"."
+          },
+          {
+            "ref": "sis-egypt-modern-history",
+            "locator": "section on the October war (Arabic)",
+            "quote": "وانسحبت من شريط طابا الحدودي بناء على التحكيم الذى تم فى محكمة العدل الدولية عام 1989"
+          },
+          {
+            "ref": "presidency-eg-mubarak",
+            "locator": "biography",
+            "quote": "He played a major role in the peace negotiations initiated by President Al-Sadat and was able to restore Taba in 1989."
           }
         ],
         "notes": {
-          "en": "Stage lines not reconstructed.",
-          "ar": "لم تُعاد بناء خطوط المراحل.",
-          "he": "קווי השלבים לא שוחזרו.",
+          "en": "Stage lines not reconstructed. After 25 April 1982 a small disputed strip at Taba remained in Israeli hands pending arbitration (award of 29 September 1988); Egypt dates its recovery of Taba to 1989 (State Information Service; Egyptian Presidency). Not modelled.",
+          "ar": "لم تُعاد صياغة خطوط المراحل. بعد 25 نيسان/أبريل 1982 بقي شريط صغير متنازع عليه في طابا في يد إسرائيل بانتظار التحكيم (قرار 29 أيلول/سبتمبر 1988)؛ وتؤرخ مصر استعادتها لطابا بعام 1989 (الهيئة العامة للاستعلامات؛ رئاسة الجمهورية المصرية). وهذا غير مبيّن على الخريطة.",
+          "he": "קווי השלבים לא שוחזרו. לאחר 25 באפריל 1982 נותרה רצועה קטנה שנויה במחלוקת בטאבה בידי ישראל עד לבוררות (פסק הבוררות מ-29 בספטמבר 1988); מצרים מתארכת את השבת טאבה ל-1989 (שירות המידע הממלכתי; נשיאות מצרים). הדבר אינו מוצג במפה.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

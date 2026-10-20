@@ -20425,12 +20425,27 @@
           "ref": "britannica-palestine-intl-recognition",
           "locator": "same section",
           "quote": "The presence of Palestinians was a factor contributing to the civil war, and the war proved disastrous for them."
+        },
+        {
+          "ref": "picard-2000-civil-war-lebanon",
+          "locator": "opening paragraph",
+          "quote": "Lebanon's experience between 1975 and 1990 shifts our attention to the political economy of civil war"
+        },
+        {
+          "ref": "picard-2000-civil-war-lebanon",
+          "locator": "section on the early postwar period",
+          "quote": "The legitimacy of the regime resulting from the Ta'if accords of October 1989, as well as that of the legislature elected in August of 1992, was contested."
+        },
+        {
+          "ref": "picard-2000-civil-war-lebanon",
+          "locator": "section on the early postwar period",
+          "quote": "One-tenth of the country remained under Israeli occupation in the south. The remaining 90 percent was under tight Syrian control following the signing of the Treaty of Brotherhood, Cooperation, and Coordination in May 1991."
         }
       ],
       "notes": {
-        "en": "Context record: it shaped the Israel-PLO and Israel-Hezbollah conflicts in southern Lebanon. Start: Wikidata gives 13 April 1975 (the Ain el-Remmaneh bus attack); end 13 Oct 1990. The Taif Agreement and Syrian dominance in the outcome are general history not quoted from an opened source.",
-        "ar": "سجل سياقي: شكّلت النزاعات بين إسرائيل ومنظمة التحرير وبين إسرائيل وحزب الله في جنوب لبنان. البداية: يعطي ويكي بيانات 13 نيسان/أبريل 1975 (هجوم الحافلة في عين الرمانة)؛ والنهاية 13 تشرين الأول/أكتوبر 1990. واتفاق الطائف والهيمنة السورية في النتيجة تاريخ عام لم يُقتبس من مصدر مفتوح.",
-        "he": "רשומת הקשר: היא עיצבה את הסכסוכים בין ישראל לאש״ף ובין ישראל לחזבאללה בדרום לבנון. ההתחלה: ויקינתונים נותן 13 באפריל 1975 (התקפת האוטובוס בעין א-רמאנה); הסיום 13 באוקטובר 1990. הסכם טאא'ף והדומיננטיות הסורית בתוצאה הן היסטוריה כללית שלא צוטטה ממקור שנפתח.",
+        "en": "Context record: it shaped the Israel-PLO and Israel-Hezbollah conflicts in southern Lebanon. Start: Wikidata gives 13 April 1975 (the Ain el-Remmaneh bus attack); end 13 Oct 1990. The Ta'if accords of October 1989 and the postwar Syrian hegemony (Treaty of Brotherhood, May 1991) are described by Picard (2000), with one-tenth of the country still under Israeli occupation in the south.",
+        "ar": "سجل سياقي: شكّلت الحرب الأهلية اللبنانية الصراعين بين إسرائيل ومنظمة التحرير الفلسطينية وبين إسرائيل وحزب الله في جنوب لبنان. البداية: تعطي Wikidata تاريخ 13 نيسان/أبريل 1975 (هجوم الحافلة في عين الرمانة)؛ النهاية 13 تشرين الأول/أكتوبر 1990. يصف بيكار (Picard، 2000) اتفاق الطائف في تشرين الأول/أكتوبر 1989 والهيمنة السورية بعد الحرب (معاهدة الأخوّة، أيار/مايو 1991)، مع بقاء عُشر البلاد في الجنوب تحت الاحتلال الإسرائيلي.",
+        "he": "רשומת הקשר: היא עיצבה את הסכסוכים בין ישראל לאש״ף ובין ישראל לחזבאללה בדרום לבנון. התחלה: Wikidata מציין 13 באפריל 1975 (התקיפה על האוטובוס בעין א-רומאנה); סיום 13 באוקטובר 1990. הסכם טאיף מאוקטובר 1989 וההגמוניה הסורית שלאחר המלחמה (אמנת האחווה, מאי 1991) מתוארים אצל פיקאר (Picard, 2000), כאשר עשירית מהמדינה בדרום עדיין נתונה לכיבוש ישראלי.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -23949,6 +23964,21 @@
           "ref": "britannica-israel-hamas-war",
           "locator": "same section",
           "quote": "Soon after the authorization Israeli forces began moving to take control of the Rafah border crossing and the Philadelphi Corridor . On May 14 they entered the city."
+        },
+        {
+          "ref": "ocha-fu-162-2024",
+          "locator": "main text",
+          "quote": "On 6 May, the Israeli military ordered the residents of nine blocs in eastern Rafah to \"temporarily move\" to a so-called \"expanded humanitarian area\" in Al Mawassi."
+        },
+        {
+          "ref": "ocha-fu-163-2024",
+          "locator": "main text",
+          "quote": "On 7 May, a ground operation by the Israeli military began in eastern Rafah, including the areas of Rafah and Kerem Shalom crossings"
+        },
+        {
+          "ref": "ocha-fu-163-2024",
+          "locator": "main text",
+          "quote": "closed Rafah Crossing for the movement of goods and people on 7 May"
         }
       ],
       "notes": {
@@ -24475,7 +24505,6 @@
         "year": 2024,
         "month": 11,
         "day": 27,
-        "circa": true,
         "precision": "day"
       },
       "location": {
@@ -24556,12 +24585,37 @@
           "ref": "britannica-hezbollah",
           "locator": "same section",
           "quote": "The ceasefire remained tenuous as both Hezbollah and Israel failed to meet its provisions."
+        },
+        {
+          "ref": "un-s-2024-817",
+          "locator": "para. 4 (p. 2)",
+          "quote": "the highest daily number since 8 October 2023"
+        },
+        {
+          "ref": "un-s-2024-817",
+          "locator": "para. 1 (p. 1)",
+          "quote": "The launch by the Israel Defense Forces of Operation Northern Arrows on 23 September, with ground operations north of the Blue Line starting on 1 October, represented a new phase of the conflict."
+        },
+        {
+          "ref": "un-s-2025-153",
+          "locator": "para. 1 (p. 1)",
+          "quote": "causing casualties, displacement and destruction on both sides of the Blue Line, until a cessation of hostilities came into effect on 27 November 2024."
+        },
+        {
+          "ref": "un-s-2025-153",
+          "locator": "para. 1 (p. 1)",
+          "quote": "As announced by the United States of America and France on 26 November"
+        },
+        {
+          "ref": "un-s-2025-153",
+          "locator": "para. 1 (p. 1)",
+          "quote": "until a cessation of hostilities came into effect on 27 November 2024."
         }
       ],
       "notes": {
-        "en": "Start 8 Oct 2023 (first Hezbollah fire after 7 Oct; Britannica gives no day). End: the ceasefire was announced on 26 Nov 2024 and took effect early on 27 Nov (effect date not quoted from an opened source). After the ceasefire Israel kept positions inside southern Lebanon and continued strikes (see israel-hezbollah-war-2026; The National cites 'more than a year of Israeli ceasefire violations'). Hezbollah described its fire as a 'support front' for Gaza - not verified in an opened source.",
-        "ar": "البداية 8 تشرين الأول/أكتوبر 2023 (أول إطلاق نار لحزب الله بعد 7 تشرين الأول/أكتوبر؛ ولا تعطي بريتانيكا اليوم). النهاية: أُعلن وقف إطلاق النار في 26 تشرين الثاني/نوفمبر 2024 وبدأ سريانه فجر 27 تشرين الثاني/نوفمبر (تاريخ السريان لم يُقتبس من مصدر مفتوح). بعد وقف إطلاق النار أبقت إسرائيل مواقع داخل جنوب لبنان وواصلت الضربات (انظر israel-hezbollah-war-2026؛ وتورد The National ‘more than a year of Israeli ceasefire violations’). وصف حزب الله إطلاقه النار بأنه ‘جبهة إسناد’ لغزة - لم يُتحقق منه في مصدر مفتوح.",
-        "he": "ההתחלה 8 באוקטובר 2023 (הירי הראשון של חזבאללה אחרי 7 באוקטובר; בריטניקה אינה נותנת יום). הסיום: הפסקת האש הוכרזה ב-26 בנובמבר 2024 ונכנסה לתוקף בבוקר 27 בנובמבר (תאריך התוקף לא צוטט ממקור שנפתח). לאחר הפסקת האש שמרה ישראל על עמדות בדרום לבנון והמשיכה בתקיפות (ראו israel-hezbollah-war-2026; The National מצטטת ‘more than a year of Israeli ceasefire violations’). חזבאללה תיאר את הירי שלו כ׳חזית סיוע׳ לעזה - לא אומת במקור שנפתח.",
+        "en": "Start 8 Oct 2023 (first Hezbollah fire after 7 Oct; Britannica gives no day). End: the ceasefire was announced on 26 Nov 2024 and took effect early on 27 Nov (UN Secretary-General's report). After the ceasefire Israel kept positions inside southern Lebanon and continued strikes (see israel-hezbollah-war-2026; The National cites 'more than a year of Israeli ceasefire violations'). Hezbollah described its fire as a 'support front' for Gaza - not verified in an opened source.",
+        "ar": "البداية 8 تشرين الأول/أكتوبر 2023 (أول إطلاق نار من حزب الله بعد 7 تشرين الأول/أكتوبر؛ لا تذكر Britannica اليوم). النهاية: أُعلن وقف إطلاق النار في 26 تشرين الثاني/نوفمبر 2024 ودخل حيز التنفيذ في ساعات الصباح الأولى من 27 تشرين الثاني/نوفمبر (تقرير الأمين العام للأمم المتحدة). بعد وقف إطلاق النار أبقت إسرائيل على مواقع داخل جنوب لبنان واستمرت في الضربات (انظر israel-hezbollah-war-2026؛ تستشهد The National بـ«أكثر من عام من خروقات إسرائيل لوقف إطلاق النار»). وصف حزب الله إطلاقه للنار بأنه «جبهة إسناد» لغزة - لم يُتحقق من ذلك في مصدر جرى فتحه.",
+        "he": "התחלה 8 באוקטובר 2023 (האש הראשונה של חזבאללה אחרי 7 באוקטובר; Britannica אינה מציינת את היום). סיום: הפסקת האש הוכרזה ב-26 בנובמבר 2024 ונכנסה לתוקף בשעות המוקדמות של 27 בנובמבר (דוח מזכ״ל האו״ם). לאחר הפסקת האש שמרה ישראל על עמדות בתוך דרום לבנון והמשיכה לתקוף (ראו israel-hezbollah-war-2026; The National מצטטת “יותר משנה של הפרות הפסקת אש ישראליות”). חזבאללה תיאר את אשו כ“חזית תמיכה” בעזה - לא אומת במקור שנפתח.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -24594,7 +24648,6 @@
         "year": 2024,
         "month": 11,
         "day": 27,
-        "circa": true,
         "precision": "day"
       },
       "location": {
@@ -24672,12 +24725,32 @@
           "ref": "britannica-hezbollah",
           "locator": "same section",
           "quote": "The devastation in Lebanon over the following two months exceeded that of the 2006 war and included wide destruction in southern Lebanon."
+        },
+        {
+          "ref": "un-s-2024-817",
+          "locator": "para. 9 (p. 3)",
+          "quote": "On 17 and 18 September, simultaneous explosions of thousands of pagers and handheld radios primarily used by Hizbullah"
+        },
+        {
+          "ref": "un-s-2024-817",
+          "locator": "para. 1 (p. 1)",
+          "quote": "The launch by the Israel Defense Forces of Operation Northern Arrows on 23 September, with ground operations north of the Blue Line starting on 1 October, represented a new phase of the conflict."
+        },
+        {
+          "ref": "un-s-2025-153",
+          "locator": "para. 1 (p. 1)",
+          "quote": "until a cessation of hostilities came into effect on 27 November 2024."
+        },
+        {
+          "ref": "un-s-2024-817",
+          "locator": "para. 11 (p. 3)",
+          "quote": "On 23 September, the Israel Defense Forces launched Operation Northern Arrows"
         }
       ],
       "notes": {
-        "en": "Ground invasion date (1 October 2024) from the same Britannica section ('On October 1 Israeli ground forces entered southern Lebanon'; quote not reproduced because it continues with casualty numbers). The '80 bombs' figure quoted is a munitions count, not a casualty figure. Israel's operation name(s) (e.g. 'Northern Arrows') not verified in an opened source.",
-        "ar": "تاريخ الغزو البري (1 تشرين الأول/أكتوبر 2024) من القسم نفسه في بريتانيكا (‘On October 1 Israeli ground forces entered southern Lebanon’؛ لم يُعَد إنتاج الاقتباس لأنه يستمر بأرقام الضحايا). والرقم ‘80 bombs’ المقتبس عدد ذخائر لا عدد ضحايا. أسماء عمليات إسرائيل (مثل ‘Northern Arrows’) لم تُتحقق في مصدر مفتوح.",
-        "he": "תאריך הפלישה הקרקעית (1 באוקטובר 2024) מאותו פרק בבריטניקה (‘On October 1 Israeli ground forces entered southern Lebanon’; הציטוט לא שוחזר כי הוא נמשך במספרי נפגעים). המספר ‘80 bombs’ המצוטט הוא ספירת תחמושת, לא נתון נפגעים. שמות מבצעי ישראל (למשל ‘Northern Arrows’) לא אומתו במקור שנפתח.",
+        "en": "Ground invasion date (1 October 2024) from the same Britannica section ('On October 1 Israeli ground forces entered southern Lebanon'; quote not reproduced because it continues with casualty numbers). The '80 bombs' figure quoted is a munitions count, not a casualty figure. The UN Secretary-General's report dates Operation Northern Arrows from 23 September and ground operations north of the Blue Line from 1 October.",
+        "ar": "تاريخ الغزو البري (1 تشرين الأول/أكتوبر 2024) من القسم نفسه في Britannica («في 1 تشرين الأول/أكتوبر دخلت القوات البرية الإسرائيلية جنوب لبنان»؛ لم يُنقل الاقتباس لأنه يتابع بأرقام الضحايا). رقم «80 قنبلة» المقتبس هو عدد ذخائر وليس رقمًا للضحايا. يؤرخ تقرير الأمين العام للأمم المتحدة عملية «سهام الشمال» من 23 أيلول/سبتمبر والعمليات البرية شمال الخط الأزرق من 1 تشرين الأول/أكتوبر.",
+        "he": "מועד הפלישה הקרקעית (1 באוקטובר 2024) לקוח מאותו קטע ב-Britannica (“ב-1 באוקטובר נכנסו כוחות קרקע ישראליים לדרום לבנון”; הציטוט לא הובא כי הוא ממשיך במספרי נפגעים). נתון “80 הפצצות” המצוטט הוא ספירת תחמושת ולא נתון נפגעים. דוח מזכ״ל האו״ם מתארך את מבצע “חיצי הצפון” מ-23 בספטמבר ואת הפעולות הקרקעיות מצפון לקו הכחול מ-1 באוקטובר.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"
@@ -24827,12 +24900,14 @@
       "start": {
         "year": 2024,
         "month": 4,
-        "precision": "month"
+        "day": 13,
+        "precision": "day"
       },
       "end": {
         "year": 2024,
         "month": 10,
-        "precision": "month"
+        "day": 26,
+        "precision": "day"
       },
       "location": {
         "coords": [
@@ -24899,12 +24974,42 @@
           "ref": "britannica-12-day-war",
           "locator": "same section",
           "quote": "Iran’s barrage of missiles toward Israel largely failed to cause significant damage or casualties."
+        },
+        {
+          "ref": "un-s-pv-9602",
+          "locator": "Secretary-General's briefing, quoting Iran's letter S/2024/305",
+          "quote": "in the late hours of 13 April 2024, the Islamic Republic of Iran carried out a series of military strikes on Israeli military objectives."
+        },
+        {
+          "ref": "un-s-pv-9602",
+          "locator": "Secretary-General's briefing, quoting Israel's letter S/2024/304",
+          "quote": "a direct attack from within its territory of more than 200 unmanned aerial vehicles, cruise missiles and ballistic missiles towards Israel"
+        },
+        {
+          "ref": "un-s-pv-9738",
+          "locator": "statement of Sierra Leone, quoting Iran's letter of 1 October 2024 (S/2024/713)",
+          "quote": "the armed forces of the Islamic Republic of Iran carried out a series of missile attacks against the military and security targets of the Israeli regime"
+        },
+        {
+          "ref": "un-s-pv-9738",
+          "locator": "statement of Israel (Mr. Danon)",
+          "quote": "Iran fired almost 200 ballistic missiles, forcing millions of people into bomb shelters."
+        },
+        {
+          "ref": "un-s-pv-9762",
+          "locator": "briefing by Assistant Secretary-General Khaled Khiari",
+          "quote": "In the early hours of 26 October, the Israel Defense Forces (IDF) announced that they had conducted \"precise strikes on military targets in Iran\""
+        },
+        {
+          "ref": "un-s-pv-9762",
+          "locator": "briefing by Assistant Secretary-General Khaled Khiari",
+          "quote": "Israel said that the strikes were in response to Iran's attack against Israel on 1 October."
         }
       ],
       "notes": {
-        "en": "Context record only. Exact dates (13-14 and 19 April; 1 and 26 October 2024) and operation names (Iran's 'True Promise' I and II; Israel's 'Days of Repentance') were not verified in an opened source.",
-        "ar": "سجل سياقي فقط. التواريخ الدقيقة (13-14 و19 نيسان/أبريل؛ 1 و26 تشرين الأول/أكتوبر 2024) وأسماء العمليات (‘الوعد الصادق’ الأول والثاني لإيران؛ ‘أيام التوبة’ لإسرائيل) لم تُتحقق في مصدر مفتوح.",
-        "he": "רשומת הקשר בלבד. התאריכים המדויקים (13-14 ו-19 באפריל; 1 ו-26 באוקטובר 2024) ושמות המבצעים (׳ההבטחה האמיתית׳ I ו-II של איראן; ׳ימי תשובה׳ של ישראל) לא אומתו במקור שנפתח.",
+        "en": "Context record only. Dates from UN Security Council records: Iran's strikes in the late hours of 13 April 2024 (Iran's own letter), its missile attack of 1 October, and the Israeli strikes in the early hours of 26 October, the last exchange in the series. The 19 April strike and the operation names (Iran's 'True Promise' I and II; Israel's 'Days of Repentance') were not verified in an opened source.",
+        "ar": "سجل سياقي فقط. التواريخ من سجلات مجلس الأمن التابع للأمم المتحدة: ضربات إيران في ساعات متأخرة من 13 نيسان/أبريل 2024 (رسالة إيران نفسها)، وهجومها الصاروخي في 1 تشرين الأول/أكتوبر، والضربات الإسرائيلية في ساعات الفجر الأولى من 26 تشرين الأول/أكتوبر، وهي آخر تبادل في السلسلة. لم يُتحقق في مصدر جرى فتحه من ضربة 19 نيسان/أبريل ولا من أسماء العمليات («الوعد الصادق» 1 و2 لدى إيران؛ «أيام التوبة» لدى إسرائيل).",
+        "he": "רשומת הקשר בלבד. התאריכים מתוך רישומי מועצת הביטחון של האו״ם: תקיפות איראן בשעות המאוחרות של 13 באפריל 2024 (מכתבה של איראן עצמה), התקפת הטילים שלה ב-1 באוקטובר, והתקיפות הישראליות בשעות המוקדמות של 26 באוקטובר, המחזור האחרון בסדרה. התקיפה של 19 באפריל ושמות המבצעים (“הבטחה אמיתית” I ו-II של איראן; “ימי תשובה” של ישראל) לא אומתו במקור שנפתח.",
         "translation_status": {
           "ar": "machine-draft",
           "he": "machine-draft"

@@ -10548,7 +10548,8 @@
       "start": {
         "year": 1994,
         "month": 5,
-        "precision": "month"
+        "day": 4,
+        "precision": "day"
       },
       "confidence": "documented",
       "sources": [
@@ -10559,6 +10560,36 @@
         {
           "ref": "britannica-palestinian-authority",
           "quote": "the PA also has de jure governing authority over the entirety of the Gaza Strip, but it has not exercised de facto control there since 2007, when Hamas took control of the region by force."
+        },
+        {
+          "ref": "un-peacemaker-gaza-jericho-1994",
+          "locator": "Article III(1), p. 2",
+          "quote": "Israel shall transfer authority as specified in this Agreement from the Israeli military government and its Civil Administration to the Palestinian Authority, hereby established"
+        },
+        {
+          "ref": "un-peacemaker-gaza-jericho-1994",
+          "locator": "Article XXIII(1), p. 12",
+          "quote": "This Agreement shall enter into force on the date of its signing."
+        },
+        {
+          "ref": "un-peacemaker-gaza-jericho-1994",
+          "locator": "final clause, p. 12",
+          "quote": "Done in Cairo this fourth day of May, 1994."
+        },
+        {
+          "ref": "un-peacemaker-oslo-ii-1995",
+          "locator": "Article I(2), PDF p. 10",
+          "quote": "transferred to the Council shall be exercised by the Palestinian Authority established in accordance with the Gaza-Jericho Agreement"
+        },
+        {
+          "ref": "passia-chronology-1994-1995",
+          "locator": "1994, May 4",
+          "quote": "May 4: Chairman Arafat and PM Rabin sign 186-page Gaza-Jericho self-rule accord (Cairo Agreement)."
+        },
+        {
+          "ref": "icj-2024-opt-ao",
+          "locator": "para. 66 (PDF p. 28)",
+          "quote": "Where such transfers, which have remained limited and partial, have taken place, Israel has retained significant control in relation to security matters."
         }
       ],
       "notes": {

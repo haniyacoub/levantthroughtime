@@ -40,12 +40,57 @@
             "ref": "britannica-arab-israeli-wars",
             "locator": "1956",
             "quote": "occupied most of the peninsula east of the Suez Canal"
+          },
+          {
+            "ref": "unef1-background",
+            "locator": "section \"Establishment\"",
+            "quote": "The Israeli forces crossed the border on the morning of 29 October."
+          },
+          {
+            "ref": "ohist-suez",
+            "locator": "main text",
+            "quote": "Israeli forces attacked across Egypt's Sinai Peninsula on October 29, 1956, advancing to within 10 miles of the Suez Canal."
+          },
+          {
+            "ref": "israel-mfa-arab-israeli-wars",
+            "locator": "section \"The Sinai Campaign of 1956\"",
+            "quote": "In a swift, sweeping operation of 100 hours, under the leadership of then Chief of the General Staff, Moshe Dayan, the entire Sinai peninsula fell into Israeli hands"
+          },
+          {
+            "ref": "palquest-1956-war",
+            "locator": "main text",
+            "quote": "Israeli forces occupied the Sinai Peninsula up to the Suez Canal"
+          },
+          {
+            "ref": "palquest-1956-war",
+            "locator": "main text",
+            "quote": "international pressure eventually led to Israel's withdrawal from the Sinai and the Gaza Strip in March 1957."
+          },
+          {
+            "ref": "unef1-background",
+            "locator": "section \"Third phase: Gaza Strip and Sharm el Sheikh (March 1957)\"",
+            "quote": "The withdrawal from the Gaza Strip took place on 6 and 7 March 1957 and that from the Sharm el Sheikh area from 8 to 12 March."
+          },
+          {
+            "ref": "unef1-background",
+            "locator": "section \"Third phase\"",
+            "quote": "The withdrawal from the Gaza Strip took place on 6 and 7 March 1957 and that from the Sharm el Sheikh area from 8 to 12 March."
+          },
+          {
+            "ref": "unef1-background",
+            "locator": "section on the March 1957 withdrawal",
+            "quote": "By agreement, that last Israeli element was to be withdrawn at 1600 hours GMT on 8 March and full withdrawal from the Sharm el Sheikh area would be effected at the same time."
+          },
+          {
+            "ref": "palquest-1956-war",
+            "locator": "date box",
+            "quote": "29 October 1956 - 12 March 1957"
           }
         ],
         "notes": {
-          "en": "UNEF background dates the first phase of Israeli withdrawal 'November 1956-mid-January 1957' and reports that by 22 January 1957 the Sinai was to be evacuated except the Sharm el-Sheikh area; staged lines not modelled.",
-          "ar": "تؤرخ خلفية UNEF المرحلة الأولى من الانسحاب الإسرائيلي بـ'November 1956-mid-January 1957' وتفيد بأنه بحلول 22 كانون الثاني/يناير 1957 كان يُفترض إخلاء سيناء باستثناء منطقة شرم الشيخ؛ ولم تُمثَّل خطوط المراحل.",
-          "he": "הרקע של UNEF מתארך את השלב הראשון של הנסיגה הישראלית 'November 1956-mid-January 1957' ומדווח שעד 22 בינואר 1957 היה אמור סיני להתפנות מלבד אזור שארם א-שייח'; קווי שלבים לא מודלו.",
+          "en": "UNEF background dates the first phase of Israeli withdrawal 'November 1956-mid-January 1957' and reports that by 22 January 1957 the Sinai was to be evacuated except the Sharm el-Sheikh area; staged lines not modelled. Israeli forces crossed into Sinai on 29 October 1956 (UNEF background; US Office of the Historian); the Gaza Strip was taken in the first days of November. The UNEF background gives the withdrawal from Gaza as 6-7 March 1957 and from the Sharm el-Sheikh area as 8-12 March 1957 (elsewhere 8 March); PalQuest dates the war 29 Oct 1956 - 12 Mar 1957.",
+          "ar": "تؤرخ خلفية UNEF المرحلة الأولى من الانسحاب الإسرائيلي بـ«تشرين الثاني/نوفمبر 1956 - منتصف كانون الثاني/يناير 1957» وتذكر أنه بحلول 22 كانون الثاني/يناير 1957 كان من المقرر إخلاء سيناء باستثناء منطقة شرم الشيخ؛ ولا تظهر الخطوط المرحلية على الخريطة. عبرت القوات الإسرائيلية إلى سيناء في 29 تشرين الأول/أكتوبر 1956 (خلفية UNEF؛ مكتب المؤرخ في الولايات المتحدة)؛ وسُيطر على قطاع غزة في الأيام الأولى من تشرين الثاني/نوفمبر. تعطي خلفية UNEF الانسحاب من غزة في 6-7 آذار/مارس 1957 ومن منطقة شرم الشيخ في 8-12 آذار/مارس 1957 (وفي موضع آخر 8 آذار/مارس)؛ وتؤرخ PalQuest الحرب بـ29 تشرين الأول/أكتوبر 1956 - 12 آذار/مارس 1957.",
+          "he": "הרקע של UNEF מתארך את השלב הראשון של הנסיגה הישראלית ל“נובמבר 1956 - אמצע ינואר 1957” ומדווח שעד 22 בינואר 1957 היה אמור סיני להתפנות פרט לאזור שארם א-שייח׳; הקווים השלביים אינם מוצגים במפה. הכוחות הישראליים חצו לסיני ב-29 באוקטובר 1956 (הרקע של UNEF; משרד ההיסטוריון של ארה״ב); רצועת עזה נכבשה בימים הראשונים של נובמבר. הרקע של UNEF מציין את הנסיגה מעזה ב-6-7 במרץ 1957 ומאזור שארם א-שייח׳ ב-8-12 במרץ 1957 (במקום אחר 8 במרץ); PalQuest מתארכת את המלחמה ל-29 באוקטובר 1956 - 12 במרץ 1957.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"

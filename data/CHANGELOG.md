@@ -271,3 +271,53 @@ Gaps:
 - The 1936 evacuation of Hebron's Jewish community still rests on the Encyclopaedia Judaica.
 - Seven West Bank towns rest on the 19th-century Survey as their only non-reference source: Tulkarm, Qalqilya, Ramallah, al-Bireh, Halhul, as-Samu' and Bayt Nuba. Khan Yunis rests on a 1920 British handbook.
 - These sites refused automated download: Sefaria, *Jerusalem Quarterly*, *'Atiqot*, OpenEdition, MDPI, Project MUSE and the SOAS repository.
+
+### Official and UN sources for 1948–2026 (group E)
+
+All 52 modern records that rested only on reference works now cite further sources: 205 quotes, 63 new works.
+- **Agreement texts:** the 1994 Gaza–Jericho Agreement and Oslo II (UN Peacemaker); the 1949 armistice, the 1974 Israel–Syria separation agreement and the 1979 treaty (Avalon).
+- **UN documents:** UNEF and UNDOF reports; resolution 1701 reports; Security Council records that carry both the Iranian and the Israeli positions; OCHA updates.
+- **Official sources:**
+  - Palestinian: WAFA decrees and the PLO Negotiations Affairs Department.
+  - Egyptian: the Presidency, the State Information Service, and the Bibliotheca Alexandrina's Nasser and Sadat archives.
+  - Syrian: SANA.
+  - Jordanian: the King Hussein site.
+  - Israeli: the foreign ministry and the State Comptroller.
+- **US and press:** FRUS and CRS; AP and NPR.
+- **Scholarship:** Shlaim (1990), Picard (2000), Hajjar (1988), PalQuest and PASSIA.
+
+Corrections applied:
+- **Day dates:**
+  - Palestinian Authority: from 4 May 1994.
+  - Israeli ground operations in Gaza: from 27 October 2023.
+  - Egypt: Sadat from 29 September 1970; Mubarak from 14 October 1981; Mansour 4 July 2013 – 8 June 2014; Sisi from 8 June 2014.
+  - Syria: Bashar al-Assad from 17 July 2000; al-Sharaa president from 29 January 2025.
+  - Israel: Rivlin to 7 July 2021, and Herzog from that day.
+  - PLO and Palestinian Authority:
+    - Abbas: PLO chairman from 11 November 2004; PA president from 15 January 2005.
+    - Fayyad: second government from 19 May 2009.
+    - Hamdallah: second government to 13 April 2019.
+    - Shtayyeh: 13 April 2019 – 31 March 2024, which closes a gap before the next government.
+  - Iran–Israel strikes: 13 April – 26 October 2024.
+  - The 27 November 2024 ceasefire in Lebanon is no longer marked approximate.
+- **Palestinian Authority in the West Bank:** the map now shows it from 13 November 1995, when the PA took over Jenin, not from the signing of Oslo II in September (PASSIA).
+- **Hussein al-Sheikh:** recorded under his official titles, Vice President of the State of Palestine and Vice-Chairman of the PLO Executive Committee, with the State of Palestine. Britannica's "vice president of the PA" is noted.
+- **Hamdallah:** he formed a 16th government on 19 September 2013; he was not caretaker until 2014.
+- **Notes added:**
+  - The end of the Gaza military government (12 or 21 September 2005).
+  - The dates of the 1956–57 occupation of Sinai and Gaza.
+  - The UN account of the December 2024 entry into the Golan area of separation, with both governments' statements.
+  - Taba remained under Israel until 1989.
+  - Egyptian official sources treat 1954–56 as rule by the Revolutionary Command Council with the presidency vacant.
+  - Arafat's swearing-in and Fattouh's interim presidency.
+  - The Ta'if accords.
+- Earlier caveats such as "not verified in an opened source" were removed where the new sources settle the point.
+
+Gaps:
+- Exact inauguration days for nine earlier Israeli presidents are still missing: the Knesset and President's Office sites blocked automated access.
+- Hafez al-Assad's 1971 start rests on Britannica and an indirect CRS inference.
+- Egypt's non-annexation of Gaza (1948–67) rests on Britannica alone.
+- French law articles on the Oslo agreements and the ICJ order of 24 May 2024 could not be downloaded.
+- There is no peer-reviewed study of the 2023–25 zones of control.
+- The exact start and end days of the Lebanese Civil War are still unsourced.
+- Most new sources for this period are official and UN documents rather than scholarship.

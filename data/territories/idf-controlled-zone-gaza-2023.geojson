@@ -10,7 +10,8 @@
         "start": {
           "year": 2023,
           "month": 10,
-          "precision": "month"
+          "day": 27,
+          "precision": "day"
         },
         "end": {
           "year": 2025,
@@ -36,12 +37,57 @@
           {
             "ref": "britannica-israel-hamas-war",
             "quote": "Soon after the authorization Israeli forces began moving to take control of the Rafah border crossing and the Philadelphi Corridor."
+          },
+          {
+            "ref": "ocha-fu-21-2023",
+            "locator": "main text",
+            "quote": "On 27 October, landlines, cellular and internet services were cut across Gaza, shortly after the Israeli military announced extended ground operations and airstrikes."
+          },
+          {
+            "ref": "ocha-fu-22-2023",
+            "locator": "main text",
+            "quote": "Additionally, Israeli infantry and armored vehicles entered various areas within Gaza and clashed with Palestinian armed groups."
+          },
+          {
+            "ref": "ocha-fu-163-2024",
+            "locator": "main text",
+            "quote": "On 7 May, a ground operation by the Israeli military began in eastern Rafah, including the areas of Rafah and Kerem Shalom crossings"
+          },
+          {
+            "ref": "ocha-hsu-257-2025",
+            "locator": "main text",
+            "quote": "On 19 January 2025, at 11:15, a ceasefire between Israel and Palestinian armed groups came into effect, through mediation by Egypt, Qatar and the United States."
+          },
+          {
+            "ref": "ocha-hsu-257-2025",
+            "locator": "main text",
+            "quote": "withdrawal of Israeli forces from population centres except for identified buffer zones"
+          },
+          {
+            "ref": "ocha-hsu-263-2025",
+            "locator": "main text",
+            "quote": "On 9 February, as part of the first 42-day phase of the ceasefire agreement, Israeli forces completed their withdrawal from the Netzarim corridor."
+          },
+          {
+            "ref": "ocha-hsu-334-2025",
+            "locator": "main text",
+            "quote": "The renewed enforcement of the ceasefire, which initially came into effect at noon on 10 October, was announced on 19 October"
+          },
+          {
+            "ref": "ocha-hsu-334-2025",
+            "locator": "main text",
+            "quote": "the Israeli military, which maintains presence in more than 50 per cent of the Gaza Strip, announced that works began to demarcate the Yellow Line"
+          },
+          {
+            "ref": "ocha-fu-21-2023",
+            "locator": "main text",
+            "quote": "shortly after the Israeli military announced extended ground operations and airstrikes"
           }
         ],
         "notes": {
-          "en": "Day of the main ground incursion (27 Oct 2023) is commonly cited but Britannica says only 'at the end of October'; precision set to month. Not to be drawn as a polygon.",
-          "ar": "يُذكر عادةً يوم التوغل البري الرئيسي (27 تشرين الأول/أكتوبر 2023) لكن بريتانيكا تقول فقط 'at the end of October'؛ فضُبطت الدقة على الشهر. لا يُرسم مضلعًا.",
-          "he": "היום של הפלישה הקרקעית העיקרית (27 באוקטובר 2023) מצוטט בדרך כלל אך בריטניקה אומרת רק 'at the end of October'; הדיוק נקבע לחודש. אין לצייר כמצולע.",
+          "en": "Start: the Israeli military announced extended ground operations on 27 October 2023 (OCHA Flash Update #21), and infantry and armoured vehicles entered Gaza within the following 24 hours (#22); Britannica says only 'at the end of October'. Not to be drawn as a polygon.",
+          "ar": "البداية: أعلن الجيش الإسرائيلي توسيع العمليات البرية في 27 تشرين الأول/أكتوبر 2023 (OCHA، التحديث العاجل رقم 21)، ودخلت المشاة والمركبات المدرعة غزة خلال الأربع والعشرين ساعة التالية (رقم 22)؛ وتقول Britannica فقط «في نهاية تشرين الأول/أكتوبر». لا يُرسم كمضلّع.",
+          "he": "התחלה: הצבא הישראלי הודיע על הרחבת הפעולות הקרקעיות ב-27 באוקטובר 2023 (OCHA, עדכון מיידי מס׳ 21), וחיל רגלים וכלי רכב משוריינים נכנסו לעזה בתוך 24 השעות שלאחר מכן (מס׳ 22); Britannica אומרת רק “בסוף אוקטובר”. אין לשרטט כשטח במפה.",
           "translation_status": {
             "ar": "machine-draft",
             "he": "machine-draft"
